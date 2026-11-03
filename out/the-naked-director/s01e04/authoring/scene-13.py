@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 4
 SCENE = 13
-TITLE = 'Scene 13  (Scene 13)'
+TITLE = "うちの女優だったんだよ  (Ikezawa's Chilling Dinner Parable)"
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e04.ja.srt'
+LABELS = {'ikezawa': '池沢', 'kaede': '楓', 'client_f': '女性客'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E04'
 SOURCE_FILE = 'sources/the-naked-director/s01/e04.ja.srt'
 
-INTRO = 'Welcome to episode 4.'
-STORY = [
-    ('muranishi', '''じゃあお疲れさまお疲れさまでした''', '''-Good work. -Thank you.''', [(196, '''‎（楓）じゃあ お疲れさま ‎（女優たち）お疲れさまでした''')], ''),
-    ('muranishi', '''おう仕事頑張れよ''', '''-Hey, work hard. -Yes, sir.''', [(197, '''‎（池沢）おう 仕事頑張れよ''')], ''),
-    ('muranishi', '''はいお疲れさまですお疲れさまでした''', '''-Thank you. -Good night.''', [(198, '''‎（女優たち） ‎はい お疲れさまです ‎お疲れさまでした''')], ''),
-    ('muranishi', '''ハァ疲れたお疲れお疲れ''', '''-Good work. -Good work.''', [(199, '''‎（女優）ハァ 疲れた ‎（女優たち）お疲れ お疲れ''')], ''),
-    ('muranishi', '''お疲れ～''', '''-Good work. -Good work.''', [(200, '''‎（みく）お疲れ～''')], ''),
-    ('muranishi', '''これから仕事？うん''', '''-Off to work? -Yes.''', [(201, '''‎（女優）これから仕事？ ‎（女優）うん''')], ''),
-    ('muranishi', '''えっ仕事？''', '''You have work?''', [(202, '''‎（女優）えっ 仕事？''')], ''),
-    ('muranishi', '''私こっちバイビー''', '''-We're going this way. -Bye girls.''', [(203, '''‎（女優）私 こっち ‎（女優）バイビー''')], ''),
-    ('muranishi', '''あっそう？バイビー''', '''Oh, really? Good night.''', [(204, '''‎（みく）あっ そう？　バイビー''')], ''),
-    ('muranishi', '''バーイお疲れさま''', '''-Bye. -See you.''', [(205, '''‎（女優）バーイ お疲れさま''')], ''),
-    ('muranishi', '''仕事？うん仕事いってきます''', '''-Off to work? -Yes, I'm heading over now.''', [(206, '''‎（みく）仕事？ ‎（女優）うん 仕事 いってきます''')], ''),
-    ('muranishi', '''いってらっしゃいうんバイビー''', '''Take care.''', [(207, '''‎（みく）いってらっしゃい ‎（女優）うん バイビー''')], ''),
-    ('muranishi', '''うんバイビー''', '''-Night. -Bye.''', [(208, '''‎（みく）うん バイビー''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'At an upscale French restaurant, Poseidon president Ikezawa treats his roster of actresses—including a nervous newcomer—to a refined meal before casually mentioning an intriguing video he watched recently. Listen to Ikezawa, Kaede, and the newcomer in Japanese first.'
+STORY = [('ikezawa', 'うまいな、上品な味だ。', 'Delicious — what a refined flavor.', [(496, 'うまいな'), (497, '上品な味だ')], ''), ('kaede', '有名レストランからのれん分けされたお店のようです。', 'It appears to be an authorized branch spun off from a famous restaurant.', [(498, '有名レストランから'), (498, 'のれん分けされた お店のようです')], ''), ('ikezawa', 'のれん分けってのは信用に足る店かどうかの目安になるからな。', 'A proper branch pedigree serves as a reliable measure of whether an establishment can be trusted.', [(500, 'のれん分けってのは'), (501, '信用に足る店かどうかの'), (501, '目安になるからな')], ''), ('ikezawa', 'どうした、食べないのか？', "What's the matter — aren't you eating?", [(505, 'どうした\u3000食べないのか')], ''), ('client_f', 'すいません、緊張してまして。', "I'm so sorry, I'm just awfully nervous.", [(506, 'すいません'), (506, '緊張してまして')], ''), ('ikezawa', '硬くなる必要ないだろう、みんな身内なんだから。', 'No need to stiffen up like that; everyone at this table is family.', [(509, '硬くなる必要ないだろう'), (509, 'みんな 身内なんだから')], ''), ('ikezawa', 'じゃあ、こないだ観た面白い作品の話をしてやろう。', 'Now then, let me tell you about an amusing video I watched the other day.', [(513, 'こないだ観た'), (513, '面白い作品の話をしてやろう')], ''), ('client_f', 'どんな作品ですか？', 'What sort of video was it?', [(515, 'どんな作品ですか')], ''), ('ikezawa', '見たことない体位で男女が絡んでてな、その女優が伸び伸び演技してんだよ。', "A couple was tangled in a position I'd never seen before, and the actress performed so freely.", [(516, '見たことない体位で'), (516, '男女が絡んでてな'), (518, '伸び伸び演技してんだよ')], ''), ('ikezawa', 'よーく見たらな、うちの女優だったんだよ。', 'When I looked closely, though, she turned out to be one of our own actresses.', [(520, 'よーく見たらな'), (523, 'うちの女優だったんだよ')], ''), ('ikezawa', 'かわいそうだけど、あの子は一生終わることになるな。', "Pity as it is, that girl's entire life is going to be over now.", [(525, 'かわいそうだけど'), (526, 'あの子は'), (527, '一生終わることになるな')], ''), ('ikezawa', '泣くんじゃない、食事がまずくなる。', "Stop crying — you'll spoil the meal.", [(531, '泣くんじゃない'), (532, '食事がまずくなる')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Delicious — what a refined flavor.'"), (1, None, "'It appears to be an authorized branch spun off from a famous restaurant.'"), (2, None, "'A proper branch pedigree serves as a reliable measure of whether an establishment can be trusted.'"), (3, None, '"What\'s the matter — aren\'t you eating?"'), (4, None, '"I\'m so sorry, I\'m just awfully nervous."'), (5, None, "'No need to stiffen up like that; everyone at this table is family.'"), (6, None, "'Now then, let me tell you about an amusing video I watched the other day.'"), (7, None, "'What sort of video was it?'"), (8, None, '"A couple was tangled in a position I\'d never seen before, and the actress performed so freely."'), (9, None, "'When I looked closely, though, she turned out to be one of our own actresses.'"), (10, None, '"Pity as it is, that girl\'s entire life is going to be over now."'), (11, None, '"Stop crying — you\'ll spoil the meal."')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Smiling coldly as he reveals that the uninhibited actress on the rival tape was one of Poseidon's own—and that her life is now finished—Ikezawa terrifies the entire table into silence. See you next time!"
+CLOSING = ('kaede', 'さようなら。')

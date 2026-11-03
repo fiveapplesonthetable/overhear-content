@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 15
-TITLE = 'Scene 15  (Scene 15)'
+TITLE = '今度はあなたがあの子を自由にしてあげてください  (Now It Is Your Turn to Set Her Free)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'kawada': '川田', 'kayo': '加代', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''どうした？''', '''What's wrong?''', [(200, '''‎（村西）どうした？''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "Hauled into the commission office alongside Kayo, Kawada protests that the board has no authority over non-members—until Muranishi bows deeply and makes a stunning sacrifice for Kuroki's sake. Listen to Kawada, Kayo, and Muranishi in Japanese first."
+STORY = [('kawada', 'こちらとしては適切だったと認識しています。', 'From our standpoint, we conducted the shoot completely appropriately.', [(486, 'こちらとしては 適切だったと認識しています')], ''), ('kayo', '許せない！想像しただけでも胸が張り裂けそうです。', 'Unforgivable! Just imagining my daughter on that tape feels like it will tear my heart apart!', [(491, '許せない'), (495, '想像しただけでも 胸が張り裂けそうです')], ''), ('kayo', 'あなたにはこの気持ち分からないんですか？', "Can you not understand a mother's heartbreak at all?!", [(496, 'あなたには この気持ち分からないんですか')], ''), ('kawada', 'そんなバカな…そもそも我々は規制委員会に加盟していない！', "That's absurd — we aren't even members of your regulation commission in the first place!", [(501, 'そんなバカな'), (502, 'そもそも 我々は 規制委員会に加盟していない')], ''), ('muranishi', '分かりました。作品は販売しません。お母様、大変申し訳ありませんでした。', "Understood — we will not release the film. Ma'am, I am deeply sorry for the distress.", [(503, '分かりました'), (505, '作品は販売しません'), (506, 'お母様 大変 申し訳ありませんでした')], ''), ('kawada', '勝手に決めないでください！', "Please don't decide something that huge on your own!", [(507, '勝手に決めないでください')], ''), ('muranishi', '今度は、あなたがあの子を自由にしてあげてください。', "Now it is your turn, ma'am — please set that girl free.", [(508, '今度は あなたが あの子を自由にしてあげてください')], ''), ('muranishi', 'お前らに従ったわけじゃないからな、勘違いすんなよ。', "And don't flatter yourselves — I didn't do this to obey your committee.", [(510, 'お前らに従ったわけじゃ ないからな 勘違いすんなよ')], ''), ('kawada', '規制委員会が本腰を入れたってことですよ。目の敵にされてるみたいだな。', "The commission has come after us in earnest; they've made us public enemy number one.", [(521, '規制委員会が 本腰を入れたってことですよ'), (522, '目の敵にされてるみたいだな')], ''), ('kawada', 'これから先は、一円の売り上げも入らなくなる。', 'From this point forward, not a single yen of sales revenue will come in.', [(523, 'これから先は'), (524, 'の売り上げも入らなくなる')], ''), ('kawada', 'いよいよってとこまで来たな。どうするんですか？', 'We have truly hit the end of the line. What are we going to do?', [(528, 'いよいよってとこまで来たな'), (529, 'どうするんですか')], ''), ('muranishi', '少し考えます。', 'Give me a little time to think.', [(530, '少し考えます')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'From our standpoint, we conducted the shoot completely appropriately.'"), (1, None, "'Unforgivable! Just imagining my daughter on that tape feels like it will tear my heart apart!'"), (2, None, '"Can you not understand a mother\'s heartbreak at all?!"'), (3, None, '"That\'s absurd — we aren\'t even members of your regulation commission in the first place!"'), (4, None, '"Understood — we will not release the film. Ma\'am, I am deeply sorry for the distress."'), (5, None, '"Please don\'t decide something that huge on your own!"'), (6, None, '"Now it is your turn, ma\'am — please set that girl free."'), (7, None, '"And don\'t flatter yourselves — I didn\'t do this to obey your committee."'), (8, None, '"The commission has come after us in earnest; they\'ve made us public enemy number one."'), (9, None, "'From this point forward, not a single yen of sales revenue will come in.'"), (10, None, "'We have truly hit the end of the line. What are we going to do?'"), (11, None, "'Give me a little time to think.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Shelving their masterpiece to spare mother and daughter further pain, Muranishi returns to a warehouse piled high with returned tapes and zero yen in incoming sales. See you next time!'
+CLOSING = ('kawada', 'また明日。')

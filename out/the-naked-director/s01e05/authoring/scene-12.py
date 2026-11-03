@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 12
-TITLE = 'Scene 12  (Scene 12)'
+TITLE = 'とんでもない女優だ  (An Unprecedented Debut Performance)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'muranishi': '村西', 'kuroki': '黒木', 'kawada': '川田'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''今してほしいの触って''', '''I want it now.''', [(184, '''（恵美）今してほしいの 触って''')], ''),
-    ('muranishi', '''こうか？もっと''', '''More.''', [(185, '''‎（村西）こうか？ （恵美）もっと''')], ''),
-    ('muranishi', '''ああすごく気持ちいい''', '''That feels so good!''', [(186, '''‎ああ すごく気持ちいい''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Once cameras roll, Kaoru Kuroki sheds every trace of hesitation and takes complete command of the scene, pushing Muranishi to his absolute physical limit while the conch whistle echoes across the studio. Listen to Muranishi, Kuroki, and Kawada in Japanese first.'
+STORY = [('muranishi', 'どんどん出してください、自分を出してください。', 'Let everything out — bring your true self right to the surface!', [(341, 'どんどん出してください 自分を出してください')], ''), ('kuroki', '笛がないわ！', 'Wait — I lost the whistle!', [(359, '笛がないわ')], ''), ('kuroki', 'もう、私の好きにさせて！', 'Enough — let me do this my own way!', [(361, '私の好きにさせて')], ''), ('muranishi', 'まるでエスエムみたいだ。もうもたない…', "This feels practically like dominance play — I can't hold out much longer...", [(375, 'みたいだ'), (377, 'もう もたない')], ''), ('kuroki', 'まだダメ…', "Not yet — don't stop yet...", [(378, 'まだダメ')], ''), ('kawada', 'お疲れさま。', 'Incredible work today, everyone.', [(388, 'お疲れさま')], ''), ('kawada', 'いや、あえて編集しない。もう全部使う。', "No — we purposely won't edit this down; we're using the entire take.", [(389, 'あえて編集しない もう全部使う')], ''), ('muranishi', 'とんでもない女優だ。', 'She is an unbelievable force of an actress.', [(390, 'とんでもない女優だ')], ''), ('muranishi', 'どうにか撮れてよかった。', "I'm just grateful we managed to capture it on tape.", [(393, 'どうにか撮れて よかった')], ''), ('muranishi', 'ウソだろ？まだ？', "You've got to be kidding — she's still going?!", [(396, 'ウソだろ'), (397, 'まだ')], ''), ('muranishi', '体に毒だ、せめて三本にしなさい。', "You'll hurt yourself at that rate — keep it to three at most!", [(401, '体に毒だ'), (401, 'にしなさい')], ''), ('muranishi', 'バケモンだ。', 'She is a force of nature.', [(403, 'バケモンだ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Let everything out — bring your true self right to the surface!'"), (1, None, "'Wait — I lost the whistle!'"), (2, None, "'Enough — let me do this my own way!'"), (3, None, '"This feels practically like dominance play — I can\'t hold out much longer..."'), (4, None, '"Not yet — don\'t stop yet..."'), (5, None, "'Incredible work today, everyone.'"), (6, None, '"No — we purposely won\'t edit this down; we\'re using the entire take."'), (7, None, "'She is an unbelievable force of an actress.'"), (8, None, '"I\'m just grateful we managed to capture it on tape."'), (9, None, '"You\'ve got to be kidding — she\'s still going?!"'), (10, None, '"You\'ll hurt yourself at that rate — keep it to three at most!"'), (11, None, "'She is a force of nature.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Left breathless and awestruck when the marathon take finally wraps, Kawada declares they will not cut a single frame of Kuroki's astonishing debut. See you next time!"
+CLOSING = ('kawada', 'さようなら。')

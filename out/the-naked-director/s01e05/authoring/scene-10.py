@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 10
-TITLE = 'Scene 10  (Scene 10)'
+TITLE = '君のその目が物語のすべてだ  (Hands, Open Eyes, and Hunting for a Whistle)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'muranishi': '村西', 'kuroki': '黒木', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''おいで''', '''Come.''', [(176, '''‎（村西）おいで''')], ''),
-    ('muranishi', '''すごいねすごく熱い''', '''I can feel your strong heartbeat.''', [(177, '''‎すごいね すごく熱い''')], ''),
-    ('muranishi', '''もっと強く''', '''Tighter.''', [(178, '''‎（恵美）もっと強く''')], ''),
-    ('muranishi', '''こう？''', '''Like this?''', [(179, '''‎（村西）こう？''')], ''),
-    ('muranishi', '''そう''', '''Yes.''', [(180, '''‎（恵美）そう''')], ''),
-    ('muranishi', '''このほうが落ち着くの''', '''I feel so comfortable now.''', [(181, '''‎このほうが落ち着くの''')], ''),
-    ('muranishi', '''こうしてほしかった''', '''This is what I've always wanted.''', [(182, '''‎こうしてほしかった''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Under the warm studio lights, Muranishi gives Kaoru Kuroki just two pieces of acting advice before rolling cameras—while out on the streets, Toshi hunts desperately from shop to shop for a whistle. Listen to Muranishi, Kuroki, and Toshi in Japanese first.'
+STORY = [('muranishi', '撮影する前に、君に一つアドバイスしておくことがある。手と目の使い方だ。', 'Before we start filming, I have one piece of advice for you: how to use your hands and eyes.', [(245, '撮影する前に'), (245, 'アドバイスしておくことがある'), (247, '手と目の使い方だ')], ''), ('kuroki', '手と目？', 'My hands and my eyes?', [(248, '手と目')], ''), ('muranishi', '手は女性を美しく表現するのに一番大切なパーツだ。人間の情感は手に出る。', "Hands are the most vital part for expressing a woman's beauty; human emotion shows in the hands.", [(249, '手は 女性を美しく表現するのに 一番大切なパーツだ'), (250, '人間の情感は手に出る')], ''), ('muranishi', '絶対に手の動きが死なないように意識しろ。', 'Stay conscious of your hands so their movement never goes lifeless.', [(251, '絶対に手の動きが死なないように 意識しろ')], ''), ('muranishi', '何があっても目だけは閉じるな。今回は台本がないから、君のその目が物語のすべてだ。', 'And whatever happens, never close your eyes — with no script today, your eyes tell the entire story.', [(254, '何があっても目だけは閉じるな'), (255, '今回は台本がないから 君のその目が物語のすべてだ')], ''), ('kuroki', '私の目が？', 'My eyes tell the story?', [(256, '私の目が')], ''), ('muranishi', 'この二つだけ守れば、あとは自由に感じたまま自分でやればいい。', 'Keep just those two rules, and for everything else act freely just as you feel.', [(257, 'あとは自由に 感じたまま 自分でやればいい')], ''), ('kuroki', 'はい。', 'Understood.', [(258, 'はい')], ''), ('toshi', 'おじさん、ここに笛あるかい？笛！', 'Hey mister, got any whistles in this shop? A whistle!', [(261, 'おじさん'), (262, 'ここに笛あるかい\u3000笛')], ''), ('toshi', 'ねえのかよ！どこだよ、笛！', "You don't carry any?! Where on earth can a guy find a whistle?!", [(271, 'ねえのかよ'), (271, 'どこだよ 笛')], ''), ('toshi', 'じいさん、ここに笛ねえか？早くしてくれよ！', 'Hey pops, got a whistle in here? Hurry it up, please!', [(277, 'じいさん ここに笛ねえか'), (281, '早くしてくれよ')], ''), ('toshi', 'はあ？', 'Wait — what on earth is THIS thing?!', [(283, 'はあ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Before we start filming, I have one piece of advice for you: how to use your hands and eyes.'"), (1, None, "'My hands and my eyes?'"), (2, None, '"Hands are the most vital part for expressing a woman\'s beauty; human emotion shows in the hands."'), (3, None, "'Stay conscious of your hands so their movement never goes lifeless.'"), (4, None, "'And whatever happens, never close your eyes — with no script today, your eyes tell the entire story.'"), (5, None, "'My eyes tell the story?'"), (6, None, "'Keep just those two rules, and for everything else act freely just as you feel.'"), (7, None, "'Understood.'"), (8, None, "'Hey mister, got any whistles in this shop? A whistle!'"), (9, None, '"You don\'t carry any?! Where on earth can a guy find a whistle?!"'), (10, None, "'Hey pops, got a whistle in here? Hurry it up, please!'"), (11, None, "'Wait — what on earth is THIS thing?!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Armed with Muranishi's direction to keep her hands expressive and her eyes wide open, Kuroki awaits Toshi's bizarre last-minute find from an antique shop! See you next time!"
+CLOSING = ('kuroki', 'じゃあね。')

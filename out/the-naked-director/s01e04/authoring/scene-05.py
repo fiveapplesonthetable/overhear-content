@@ -3,49 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 4
 SCENE = 5
-TITLE = 'Scene 5  (Scene 5)'
+TITLE = 'お母さんに旅行プレゼントしたいなって  (Saving Up to Gift Mom a Trip)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e04.ja.srt'
+LABELS = {'client_f': '女性客', 'resident': '主婦'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E04'
 SOURCE_FILE = 'sources/the-naked-director/s01/e04.ja.srt'
 
-INTRO = 'Welcome to episode 4.'
-STORY = [
-    ('muranishi', '''盛り上がっていこうぜ！''', '''Let's turn it up!''', [(34, '''‎（一同の歓声） ‎（ＤＪ）‎盛り上がっていこうぜ！''')], ''),
-    ('muranishi', '''みく今日もキマってるねそうかな''', '''Miku, you look killer as always.''', [(35, '''‎（友人）みく 今日もキマってるね ‎（みく）そうかな''')], ''),
-    ('muranishi', '''ねえかわいい！かわいい！''', '''-You're so cute. -So cute.''', [(36, '''‎（友人）ねえ かわいい！ ‎（友人）かわいい！''')], ''),
-    ('muranishi', '''ねえねえこのティファニーって―''', '''Your Tiffany, it's the one in the magazines, right?''', [(37, '''‎（友人）ねえねえ ‎このティファニーって‎―''')], ''),
-    ('muranishi', '''最近よく雑誌で紹介されてるやつだよね？''', '''Your Tiffany, it's the one in the magazines, right?''', [(38, '''‎最近 よく雑誌で ‎紹介されてるやつだよね？''')], ''),
-    ('muranishi', '''たぶんたぶんそうかな''', '''-I guess. Maybe. -I want one! It's so cute!''', [(39, '''‎（みく）たぶん たぶん そうかな''')], ''),
-    ('muranishi', '''欲しい！えーかわいい！''', '''-I guess. Maybe. -I want one! It's so cute!''', [(40, '''‎（友人）欲しい！ ‎（友人たち）えー かわいい！''')], ''),
-    ('muranishi', '''めっちゃ似合ってるよね''', '''-It's so cute! -So cute!''', [(41, '''‎（友人）めっちゃ似合ってるよね''')], ''),
-    ('muranishi', '''失礼します''', '''Excuse me.''', [(42, '''‎（黒服）失礼します''')], ''),
-    ('muranishi', '''はいこれ君におごるよ''', '''Here. This one's on me.''', [(43, '''‎（黒服）はい これ 君におごるよ''')], ''),
-    ('muranishi', '''いらない''', '''No thanks.''', [(44, '''‎（みく）いらない''')], ''),
-    ('muranishi', '''すごくかわいいね''', '''You're really cute.''', [(45, '''‎すごく かわいいね''')], ''),
-    ('muranishi', '''みくは黒服とか相手にしないから''', '''Miku doesn't have time for servers.''', [(46, '''‎みくは 黒服とか相手にしないから''')], ''),
-    ('muranishi', '''ねえ！''', '''-Right? -Right?''', [(47, '''‎（友人たち）ねえ！''')], ''),
-    ('muranishi', '''似合ってるよこれすんごい似合ってる''', '''That looks so good on you.''', [(48, '''‎（友人）似合ってるよ これ ‎すんごい似合ってる''')], ''),
-    ('muranishi', '''えっこの時計も？''', '''Look at your watch!''', [(49, '''‎（友人）えっ この時計も？''')], ''),
-    ('muranishi', '''順子さんお願いしますはいありがと''', '''Okay, thanks.''', [(50, '''‎（‎三田村(みたむら)‎）‎順子(じゅんこ)‎さん お願いします ‎（順子）はい ありがと''')], ''),
-    ('muranishi', '''何か手伝います？''', '''Anything else?''', [(51, '''‎（三田村）何か手伝います？''')], ''),
-    ('muranishi', '''あ～中のさゴミ…あっはい''', '''Can you throw out the garbage?''', [(52, '''‎（‎後藤(ごとう)‎）あ～ 中のさ ゴミ… ‎（三田村）あっ はい''')], ''),
-    ('muranishi', '''これいつになったらカラミ始まんだよこれ''', '''When do they start getting it on?''', [(53, '''‎（トシ）これ いつになったら ‎カラミ始まんだよ これ''')], ''),
-    ('muranishi', '''女優を美しい世界観で際立たせて見せるのが―''', '''Accentuating the model's beauty in an alluring setting''', [(54, '''‎（川田）女優を美しい世界観で ‎際立たせて見せるのが‎―''')], ''),
-    ('muranishi', '''ポセイドン企画のやり方なんです''', '''is Poseidon Productions' style.''', [(55, '''‎ポセイドン企画のやり方なんです''')], ''),
-    ('muranishi', '''女優の質は圧倒的だなあ''', '''The actress is top notch.''', [(56, '''‎女優の質は圧倒的だなあ''')], ''),
-    ('muranishi', '''作品の質は低いですけどね''', '''The quality of the content is not.''', [(57, '''‎（村西）作品の質は低いですけどね''')], ''),
-    ('muranishi', '''お姉ちゃんはかわいいなあ''', '''She's cute though.''', [(59, '''‎お姉ちゃんは かわいいなあ''')], ''),
-    ('muranishi', '''かわいかろうが何だろうが表情が死んでる''', '''Cute or not, her face is dead.''', [(60, '''‎かわいかろうが何だろうが ‎表情が死んでる''')], ''),
-    ('muranishi', '''これじゃダッチワイフと変わらない''', '''She might as well be a sex doll.''', [(61, '''‎これじゃダッチワイフと変わらない''')], ''),
-    ('muranishi', '''ねえ私かわいい？''', '''Hey, am I cute?''', [(64, '''‎ねえ 私 かわいい？''')], ''),
-    ('muranishi', '''かわいいよ''', '''You're very cute.''', [(65, '''‎かわいいよ''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Waking up alone in her Tokyo apartment beside a stack of unpaid bills, the young starlet answers an early morning call from her worried mother back on the family farm. Listen to the daughter and her mother in Japanese first.'
+STORY = [('client_f', 'おはよう、私。もしもし？', 'Good morning, me. Hello?', [(115, 'おはよう 私'), (116, 'もしもし')], ''), ('resident', 'ああ、みく？昨日電話くれる約束だったでしょ。', "Oh, Miku? You promised you would phone me yesterday, didn't you?", [(117, 'ああ みく'), (117, '昨日 電話くれる約束だったでしょ')], ''), ('client_f', 'ごめんごめん、起きてた？', 'Sorry, sorry — were you already awake?', [(118, 'ごめん ごめん 起きてた')], ''), ('resident', 'とっくよ。うち農家なの、お忘れ？', 'Long ago! Have you forgotten our family runs a farm?', [(119, 'とっくよ'), (119, 'うち農家なの お忘れ')], ''), ('resident', 'まったく、全然電話しないんだから。会社ちゃんと行ってるの？', 'Honestly, you never call at all. Are you going to your company job properly?', [(120, '全然電話しないんだから'), (120, '会社ちゃんと行ってるの')], ''), ('client_f', '行ってるってば。今ね、給料貯金して、', "I told you I'm going! Right now I'm saving up my paycheck", [(121, '行ってるってば'), (122, '給料貯金して')], ''), ('client_f', 'お母さんに旅行プレゼントしたいなって思ってんだ。', "because I'd love to gift you a vacation trip, Mom.", [(123, 'お母さんに旅行プレゼントしたいな'), (123, 'って思ってんだ')], ''), ('resident', 'ありがとね、気持ちだけで十分よ。お金、大丈夫？', 'Thank you, sweetheart — the thought alone is plenty. Are you doing okay for money?', [(124, 'ありがとね'), (124, '気持ちだけで十分よ'), (125, 'お金 大丈夫')], ''), ('client_f', '大丈夫だよ、うちの会社、結構給料いいんだから。', "I'm totally fine — my company actually pays a pretty good salary.", [(126, '大丈夫だよ'), (126, '結構給料いいんだから')], ''), ('resident', '勝手に東京行って、お父さんも心配してんだから、東京は危ない街だって。', "You ran off to Tokyo on your own, and your father worries it's a dangerous city.", [(127, '勝手に東京行って'), (128, 'お父さんも心配してんだから'), (128, '東京は危ない街だって')], ''), ('client_f', '危ないことなんかないから、大丈夫だよ。', "There's nothing dangerous at all here, so I'm fine.", [(129, '危ないことなんかないから'), (129, '大丈夫だよ')], ''), ('client_f', 'じゃあね、またかけるね。', "Bye for now — I'll call you again soon.", [(130, 'じゃあね またかけるね')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Good morning, me. Hello?'"), (1, None, '"Oh, Miku? You promised you would phone me yesterday, didn\'t you?"'), (2, None, "'Sorry, sorry — were you already awake?'"), (3, None, "'Long ago! Have you forgotten our family runs a farm?'"), (4, None, "'Honestly, you never call at all. Are you going to your company job properly?'"), (5, None, '"I told you I\'m going! Right now I\'m saving up my paycheck."'), (6, None, '"because I\'d love to gift you a vacation trip, Mom."'), (7, None, "'Thank you, sweetheart — the thought alone is plenty. Are you doing okay for money?'"), (8, None, '"I\'m totally fine — my company actually pays a pretty good salary."'), (9, None, '"You ran off to Tokyo on your own, and your father worries it\'s a dangerous city."'), (10, None, '"There\'s nothing dangerous at all here, so I\'m fine."'), (11, None, '"Bye for now — I\'ll call you again soon."')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Putting on a cheerful front so her parents never suspect what she does in Tokyo, she promises she is completely safe and hangs up quietly. See you next time!'
+CLOSING = ('client_f', 'じゃあね。')

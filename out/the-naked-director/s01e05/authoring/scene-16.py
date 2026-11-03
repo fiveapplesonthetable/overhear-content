@@ -3,43 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 16
-TITLE = 'Scene 16  (Scene 16)'
+TITLE = '君と出会えてよかった  (You Opened the Door for Me)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'kuroki': '黒木', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''ちゃんと見てくださいね''', '''I want to show you something.''', [(201, '''‎（恵美）ちゃんと見てくださいね''')], ''),
-    ('muranishi', '''これが私です''', '''This is the real me.''', [(202, '''‎これが私です''')], ''),
-    ('muranishi', '''うん…''', '''No translation.''', [(203, '''‎（トシ）うん…''')], ''),
-    ('muranishi', '''ま…まあいいんじゃないか''', '''That's alright.''', [(204, '''‎ま… まあ いいんじゃないか''')], ''),
-    ('muranishi', '''いや剃れば問題ねえよ''', '''Just shave them.''', [(205, '''‎いや 剃れば問題ねえよ''')], ''),
-    ('muranishi', '''剃りたくありませんいや''', '''I don't want to.''', [(206, '''‎（恵美）剃りたくありません （村西）いや''')], ''),
-    ('muranishi', '''剃る必要はない''', '''There's no need to shave them.''', [(207, '''‎剃る必要はない''')], ''),
-    ('muranishi', '''えっ？''', '''What?''', [(208, '''‎（トシ）えっ？''')], ''),
-    ('muranishi', '''すごくすてきだ''', '''It's beautiful.''', [(209, '''‎すごく すてきだ''')], ''),
-    ('muranishi', '''フッうれしい''', '''Thank you.''', [(210, '''‎フッ うれしい''')], ''),
-    ('muranishi', '''私…今日から黒木香になります''', '''From now on, I'm Kaoru Kuroki.''', [(211, '''‎私… 今日から黒木 香になります''')], ''),
-    ('muranishi', '''１回止めてくれえっ''', '''-Stop the camera. -What?''', [(212, '''‎（村西）１回 止めてくれ （後藤･トシ）えっ''')], ''),
-    ('muranishi', '''このまま撮らないんすか？''', '''You don't want to film?''', [(213, '''‎（後藤） このまま撮らないんすか？''')], ''),
-    ('muranishi', '''気が変わった''', '''I changed my mind.''', [(214, '''‎（村西）気が変わった''')], ''),
-    ('muranishi', '''黒木香のデビュー作だ''', '''It's Kaoru Kuroki's debut film.''', [(215, '''‎黒木 香のデビュー作だ''')], ''),
-    ('muranishi', '''俺たちができる最高の準備をしてから撮影する''', '''Let's first prepare to do the best work we've ever done.''', [(216, '''‎俺たちができる最高の準備を してから撮影する''')], ''),
-    ('muranishi', '''はいはい''', '''-Got it. -Got it.''', [(217, '''‎（後藤）はい （順子）はい''')], ''),
-    ('muranishi', '''スタジオ大丈夫か？''', '''-Can we use the studio from now? -Sure, we'll get it ready.''', [(218, '''‎（川田）スタジオ 大丈夫か？''')], ''),
-    ('muranishi', '''はい用意します''', '''-Can we use the studio from now? -Sure, we'll get it ready.''', [(219, '''‎（三田村）はい 用意します''')], ''),
-    ('muranishi', '''はい座って''', '''Take a seat.''', [(220, '''‎（村西）はい 座って''')], ''),
-    ('muranishi', '''よーし''', '''No translation.''', [(221, '''‎よーし''')], ''),
-    ('muranishi', '''川田これはい''', '''Take this, Kawada.''', [(222, '''‎（トシ）川田 これ （川田）はい''')], ''),
-    ('muranishi', '''よし''', '''No translation.''', [(223, '''‎（村西）よし''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "At a quiet coffee shop, Kaoru Kuroki meets Muranishi to apologize for the turmoil caused by her mother's complaint—only for Muranishi to thank her from the bottom of his heart. Listen to Kuroki and Muranishi in Japanese first."
+STORY = [('kuroki', '私の母のせいで、本当にごめんなさい。', 'Because of what my mother did, I am truly, deeply sorry.', [(534, '私の母のせいで 本当に ごめんなさい')], ''), ('muranishi', '君のせいじゃないだろ。', 'None of this is your fault.', [(535, '君のせいじゃないだろ')], ''), ('kuroki', '皆さんに申し訳なくって。', 'I just feel terrible toward everyone on your crew.', [(536, '皆さんに申し訳なくって')], ''), ('muranishi', '何というのか…君はすごかった。俺は完全にのみ込まれてしまったよ。', 'How do I put it... you were extraordinary. I was completely swept away by you.', [(537, '何というのか'), (538, '君は すごかった'), (539, '俺は完全に のみ込まれてしまったよ')], ''), ('muranishi', '俺が今まで思ってた女性像とまるで違う、初めての感覚だった。', "It shattered every image of women I held until now — a sensation I'd never felt in my life.", [(542, '俺が今まで思ってた女性像と まるで違う'), (543, '初めての感覚だった')], ''), ('kuroki', '監督が扉を開けてくれたから、あの時自分を肯定できたんです。', 'Because you opened that door for me, Director, I was able to embrace who I truly am.', [(544, '監督が 扉を開けてくれたから'), (545, 'あの時 自分を肯定できたんです')], ''), ('muranishi', 'この仕事してきて、一番のご褒美だったかもしれないな。', 'In all my time doing this work, that may have been my greatest reward.', [(546, 'この仕事してきて 一番のご褒美だったかもしれないな')], ''), ('muranishi', '君と出会えてよかった。', 'I am truly glad I met you.', [(547, '君と出会えて よかった')], ''), ('kuroki', 'これからどうするんですか？', 'What are you going to do from here?', [(548, 'これから どうするんですか')], ''), ('muranishi', 'さあ、まだ何も決めてない。', "Who knows — I haven't decided a thing yet.", [(549, 'さあ まだ何も決めてない')], ''), ('kuroki', '私、監督にずっといい作品を作ってほしいんです。', 'I want you to keep making wonderful films forever, Director.', [(551, '私 監督に ずっと いい作品を作ってほしいんです')], ''), ('muranishi', '今ので十分だ。', 'Those words right there are more than enough.', [(552, '今ので十分だ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Because of what my mother did, I am truly, deeply sorry.'"), (1, None, "'None of this is your fault.'"), (2, None, "'I just feel terrible toward everyone on your crew.'"), (3, None, "'How do I put it... you were extraordinary. I was completely swept away by you.'"), (4, None, '"It shattered every image of women I held until now — a sensation I\'d never felt in my life."'), (5, None, "'Because you opened that door for me, Director, I was able to embrace who I truly am.'"), (6, None, "'In all my time doing this work, that may have been my greatest reward.'"), (7, None, "'I am truly glad I met you.'"), (8, None, "'What are you going to do from here?'"), (9, None, '"Who knows — I haven\'t decided a thing yet."'), (10, None, "'I want you to keep making wonderful films forever, Director.'"), (11, None, "'Those words right there are more than enough.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Told by Kuroki that she could finally affirm her true self because he opened the door—and that she wants him to keep creating great films—Muranishi finds the spark he needs to rise again. See you next time!'
+CLOSING = ('kuroki', 'さようなら。')

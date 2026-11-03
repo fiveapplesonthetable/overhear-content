@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 4
 SCENE = 11
-TITLE = 'Scene 11  (Scene 11)'
+TITLE = '覚悟のない欲望ってつまらないと思うわ  (Half-Hearted Desires Are Boring)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e04.ja.srt'
+LABELS = {'reika': '麗華', 'megumi': '恵美', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E04'
 SOURCE_FILE = 'sources/the-naked-director/s01/e04.ja.srt'
 
-INTRO = 'Welcome to episode 4.'
-STORY = [
-    ('muranishi', '''ごちそうさん''', '''Thanks for the food.''', [(186, '''‎ごちそうさん''')], ''),
-    ('muranishi', '''はい！はい！''', '''No translation.''', [(188, '''‎（一同）はい！　はい！''')], ''),
-    ('muranishi', '''ちょっと恵美！''', '''Megumi!''', [(189, '''‎（‎聡子(さとこ)‎）ちょっと ‎恵美(めぐみ)‎！''')], ''),
-    ('muranishi', '''一緒に踊ろうよ１人じゃ辛気くさいじゃん…''', '''Dance with us! Don't be a party-pooper.''', [(190, '''‎一緒に踊ろうよ ‎１人じゃ辛気くさいじゃん…''')], ''),
-    ('muranishi', '''恵美ちゃんも早く踊ろうよ''', '''Come on, let's dance now.''', [(191, '''‎（‎涼太(りょうた)‎）恵美ちゃんも早く踊ろうよ''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Across town on a sunlit university lawn, sheltered college student Megumi Sahara listens as her classmates tease her for not having a boyfriend—before turning the tables with an unexpected question. Listen to Megumi and her friends in Japanese first.'
+STORY = [('reika', 'ねえ恵美、こないだのディスコの彼はどう？', 'Hey Megumi, how did things go with that guy from the disco the other night?', [(365, 'こないだのディスコの彼はどう')], ''), ('megumi', 'ううん、別に何もないよ。', 'Nothing — nothing happened at all.', [(366, '別に何もないよ')], ''), ('reika', '恵美もそろそろ恋人ぐらい作ればいいのに。ちょっと奥手すぎるんじゃない？', "It's high time you got yourself a boyfriend too — aren't you being way too shy?", [(368, 'そろそろ'), (368, '恋人ぐらい作ればいいのに'), (370, '奥手すぎるんじゃない')], ''), ('student', 'そうだよ、男の子紹介しようか？', "She's right — want me to introduce you to a guy?", [(372, 'そうだよ'), (372, '男の子 紹介しようか')], ''), ('megumi', 'ねえ、二人はどうなの？', 'Hey, what about the two of you?', [(374, 'ねえ'), (375, 'どうなの')], ''), ('student', 'まあね、相性とかはすげえいいよね。', 'Well, our chemistry together is honestly amazing.', [(379, '相性とかは すげえいいよね')], ''), ('reika', 'ちょっと何言ってんの？もうやめてよ、恥ずかしい！', "Wait, what are you blurting out?! Stop it already, that's embarrassing!", [(381, 'ちょっと何言ってんの'), (381, 'もう やめてよ'), (382, '恥ずかしい')], ''), ('megumi', 'でも、演技かもしれないよね。', "Still, she might just be acting, mightn't she?", [(384, '演技かもしれないよね')], ''), ('student', 'そんなわけないだろ！何だよ、そうなの？', "No way that's true! Wait a second — is it?!", [(386, 'そんなわけないだろ'), (393, '何だよ'), (393, 'そうなの')], ''), ('megumi', '私はつまらないな、演技だとしたら。', "Personally, I'd find it awfully dull if it were just an act.", [(397, '私は つまらないな 演技だとしたら')], ''), ('megumi', 'じゃあ、先に教室に戻るね。', "Well then, I'll head back to the classroom ahead of you.", [(399, 'じゃあ 先に教室に戻るね')], ''), ('megumi', '覚悟のない欲望って、つまらないと思うわ。', 'Desire without true resolve is boring, I think.', [(403, '覚悟のない欲望って'), (403, 'つまらないと思うわ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Hey Megumi, how did things go with that guy from the disco the other night?'"), (1, None, "'Nothing — nothing happened at all.'"), (2, None, '"It\'s high time you got yourself a boyfriend too — aren\'t you being way too shy?"'), (3, None, '"She\'s right — want me to introduce you to a guy?"'), (4, None, "'Hey, what about the two of you?'"), (5, None, "'Well, our chemistry together is honestly amazing.'"), (6, None, '"Wait, what are you blurting out?! Stop it already, that\'s embarrassing!"'), (7, None, '"Still, she might just be acting, mightn\'t she?"'), (8, None, '"No way that\'s true! Wait a second — is it?!"'), (9, None, '"Personally, I\'d find it awfully dull if it were just an act."'), (10, None, '"Well then, I\'ll head back to the classroom ahead of you."'), (11, None, "'Desire without true resolve is boring, I think.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Leaving her classmates flustered by suggesting her friend might only be pretending, Megumi muses to herself that desire without real resolve is boring. See you next time!'
+CLOSING = ('megumi', 'じゃあね。')

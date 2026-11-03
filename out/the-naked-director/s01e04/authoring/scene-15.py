@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 4
 SCENE = 15
-TITLE = 'Scene 15  (Scene 15)'
+TITLE = '俺たちは止まれねえんだよ  (We Cannot Stop Filming Now)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e04.ja.srt'
+LABELS = {'muranishi': '村西', 'toshi': 'トシ', 'kawada': '川田'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E04'
 SOURCE_FILE = 'sources/the-naked-director/s01/e04.ja.srt'
 
-INTRO = 'Welcome to episode 4.'
-STORY = [
-    ('muranishi', '''その気になったらうちの事務所に来なさい''', '''Visit my office when you're ready.''', [(240, '''‎その気になったら ‎うちの事務所に来なさい''')], ''),
-    ('muranishi', '''えっ…このお金どうしたらいいのよ？''', '''What about this money?''', [(241, '''‎えっ… ‎このお金 どうしたらいいのよ？''')], ''),
-    ('muranishi', '''別に持ち逃げするならしてもらってもかまわない''', '''Run off with it, if you want.''', [(242, '''‎別に持ち逃げするなら ‎してもらってもかまわない''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Word reaches the office that the devastated young actress has left Tokyo to live quietly in the countryside. As Muranishi sits weighed down by guilt, Toshi urges him not to stall out—right before Kawada bursts through the door. Listen to Muranishi, Toshi, and Kawada in Japanese first.'
+STORY = [('muranishi', '田舎に帰ったらしい。しばらくひっそりと暮らすって。', 'Apparently she went back to the countryside and plans to live quietly out of sight for a while.', [(578, '田舎に帰ったらしい'), (578, 'しばらく ひっそりと暮らすって')], ''), ('toshi', 'やっと売れるもん作れたのによ。', 'Damn it, right when we finally made something that actually sells!', [(580, 'やっと'), (580, '売れるもん作れたのによ')], ''), ('toshi', 'おいおっさん、明日の集合時間だけどよ…', "Hey boss, about tomorrow morning's call time...", [(587, '明日の集合時間だけどよ')], ''), ('toshi', 'そんなに落ち込んでてもしかたねえだろ。', "Sitting around beating yourself up like this won't change a thing.", [(589, 'そんなに落ち込んでても'), (589, 'しかたねえだろ')], ''), ('toshi', '俺たちは止まれねえんだよ。', "Guys like us can't afford to stop moving.", [(590, '俺たちは止まれねえんだよ')], ''), ('toshi', 'まあ、とりあえず撮ってかねえとな？', 'For now we just have to keep shooting, right?', [(591, 'とりあえず'), (591, '撮ってかねえと')], ''), ('muranishi', '分かってる。', 'I know that.', [(593, '分かってる')], ''), ('kawada', '村西さん、大変だ！', 'Mr Muranishi, we have an emergency!', [(595, '村西さん 大変だ')], ''), ('muranishi', 'どうしました？', 'What happened?', [(595, 'どうしました')], ''), ('kawada', '次の撮影に来るはずだった女優が、いきなりキャンセルになりました。', 'The actress scheduled for our next shoot suddenly canceled out of nowhere.', [(596, '次の撮影に来るはずだった女優が'), (596, 'いきなりキャンセルになりました')], ''), ('toshi', 'えっ、バックレか？', 'What — did she flake out on us?', [(597, 'バックレか')], ''), ('kawada', 'いや、それが違うみたいなんです。', 'No, it looks like something else entirely is going on.', [(597, 'いや'), (598, 'それが違うみたいなんです')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Apparently she went back to the countryside and plans to live quietly out of sight for a while.'"), (1, None, "'Damn it, right when we finally made something that actually sells!'"), (2, None, '"Hey boss, about tomorrow morning\'s call time..."'), (3, None, '"Sitting around beating yourself up like this won\'t change a thing."'), (4, None, '"Guys like us can\'t afford to stop moving."'), (5, None, "'For now we just have to keep shooting, right?'"), (6, None, "'I know that.'"), (7, None, "'Mr Muranishi, we have an emergency!'"), (8, None, "'What happened?'"), (9, None, "'The actress scheduled for our next shoot suddenly canceled out of nowhere.'"), (10, None, "'What — did she flake out on us?'"), (11, None, "'No, it looks like something else entirely is going on.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Learning that tomorrow's scheduled actress abruptly canceled—and not by mere coincidence—the crew senses a coordinated counterattack closing in. See you next time!"
+CLOSING = ('toshi', 'じゃあね。')

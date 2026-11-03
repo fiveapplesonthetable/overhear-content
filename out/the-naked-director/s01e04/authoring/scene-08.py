@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 4
 SCENE = 8
-TITLE = 'Scene 8  (Scene 8)'
+TITLE = 'これは俺の君への評価だ  (An Advance Payment on Your True Worth)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e04.ja.srt'
+LABELS = {'client_f': '女性客', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E04'
 SOURCE_FILE = 'sources/the-naked-director/s01/e04.ja.srt'
 
-INTRO = 'Welcome to episode 4.'
-STORY = [
-    ('muranishi', '''みくも観たほうがいいよ''', '''You should watch it.''', [(104, '''‎（友人）みくも観たほうがいいよ''')], ''),
-    ('muranishi', '''涙がぼろぼろ出るホント泣けるから''', '''-I was bawling. -It made me cry.''', [(105, '''‎（友人）涙が ぼろぼろ出る ‎（友人）ホント泣けるから''')], ''),
-    ('muranishi', '''ホントに泣けるよね''', '''-I was bawling. -It made me cry.''', [(106, '''‎（友人）ホントに泣けるよね''')], ''),
-    ('muranishi', '''この前がすごい泣けた…''', '''The last episode...''', [(107, '''‎（友人）この前がすごい泣けた…''')], ''),
-    ('muranishi', '''ねえねえねえねえ「ベストテン」出てたでしょ？''', '''Hey, weren't you on The Best Ten?''', [(108, '''‎（男性）ねえねえ ねえねえ ‎「ベストテン」出てたでしょ？''')], ''),
-    ('muranishi', '''アイドルでしょ？邪魔！邪魔''', '''-You're a pop star! -Get away.''', [(109, '''‎（男性）アイドルでしょ？ ‎（友人）邪魔！　邪魔''')], ''),
-    ('muranishi', '''帰るようちらあっちだろ''', '''-Get lost! -The last episode was...''', [(110, '''‎（友人） ‎帰るよ　うちら あっちだろ''')], ''),
-    ('muranishi', '''あっち''', '''Oh, yes.''', [(111, '''‎（みく）あっち''')], ''),
-    ('muranishi', '''みくバイビー！じゃあねバイビー！''', '''-Bye Miku! -Bye girls.''', [(112, '''‎（友人）みく バイビー！ ‎（友人）じゃあね バイビー！''')], ''),
-    ('muranishi', '''バイビー！''', '''-Bye Miku! -Bye girls.''', [(113, '''‎（みく）バイビー！''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "After the gala lets out, Muranishi hops uninvited into the Poseidon starlet's taxi and follows her down a quiet street, urging her to break free from Ikezawa and star in a genuine film. Listen to the actress and Muranishi in Japanese first."
+STORY = [('client_f', '何なのよ、早く降りてって言ってるでしょ？', "What is your problem? Didn't I tell you to get out of this cab right now?!", [(212, '何なのよ'), (212, '早く降りてって言ってるでしょ')], ''), ('muranishi', '村西です。アダルトビデオの監督をしてます。', "I'm Muranishi — I direct adult videos.", [(213, '村西です'), (213, 'アダルトビデオの監督をしてます')], ''), ('muranishi', '怒った今の表情のが、よっぽど人間らしくてすてきですね。', 'Your angry expression right now is far more human and wonderful.', [(214, '怒った今の表情のが よっぽど'), (214, '人間らしくて すてきですね')], ''), ('client_f', 'どういうつもり？人のこと公衆の面前で否定して！', 'What were you thinking, tearing me apart in front of a whole crowd like that?!', [(216, 'どういうつもり'), (216, '人のこと公衆の面前で否定して')], ''), ('muranishi', 'これほどの素材を使って、どうしてあんなにまずい料理が出来上がるのか不思議でしかたがない。', 'With raw talent this fine, it baffles me how anyone could cook up such a terrible dish.', [(220, 'これほどの素材を使って'), (221, 'まずい料理が出来上がるのか'), (221, '不思議でしかたがない')], ''), ('muranishi', '君自身が俺のアダルトビデオに出るかどうかを聞きたいんだ。', "I want to hear from you yourself whether you'll appear in my film.", [(224, '君自身が 俺のアダルトビデオに'), (224, '出るかどうかを聞きたいんだ')], ''), ('client_f', '勝手にスカウトなんかして、タダで済むと思ってんの？', "Do you really think you'll get away scot-free with poaching me behind my agency's back?", [(227, '勝手にスカウトなんかして'), (227, 'タダで済むと思ってんの')], ''), ('muranishi', '自分の人生くらい自分で生きたらどうだ？偽物の毎日、そんなんじゃ退屈でしかたないだろ。', 'Why not live your own life for yourself? Faking every single day has to bore you to death.', [(228, '自分の人生くらい'), (228, '自分で生きたらどうだ'), (229, '偽物の毎日'), (229, 'そんなんじゃ退屈でしかたないだろ')], ''), ('client_f', 'そんな監督聞いたことないの。偉そうに言わないで！', "I've never even heard of a director by your name — stop lecturing me from on high!", [(231, 'そんな監督 聞いたことないの'), (232, '偉そうに言わないで')], ''), ('muranishi', 'ポセイドンのギャラは一本いくらだ？', 'How much does Poseidon pay you per video?', [(233, 'ポセイドンのギャラは'), (233, 'いくらだ')], ''), ('client_f', '五十万よ。このお金、どうしたらいいのよ？', 'Five hundred thousand yen. Wait — what am I supposed to do with this cash?', [(236, '万よ'), (241, 'このお金 どうしたらいいのよ')], ''), ('muranishi', 'これは俺の君への評価だ、前払いしておく。持ち逃げするならしてもらってもかまわない。', 'This is how highly I value you, paid upfront; if you want to run off with it, go right ahead.', [(237, 'これは 俺の君への評価だ'), (237, '前払いしておく'), (242, '持ち逃げするなら'), (242, 'してもらってもかまわない')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"What is your problem? Didn\'t I tell you to get out of this cab right now?!"'), (1, None, '"I\'m Muranishi — I direct adult videos."'), (2, None, "'Your angry expression right now is far more human and wonderful.'"), (3, None, "'What were you thinking, tearing me apart in front of a whole crowd like that?!'"), (4, None, "'With raw talent this fine, it baffles me how anyone could cook up such a terrible dish.'"), (5, None, '"I want to hear from you yourself whether you\'ll appear in my film."'), (6, None, '"Do you really think you\'ll get away scot-free with poaching me behind my agency\'s back?"'), (7, None, "'Why not live your own life for yourself? Faking every single day has to bore you to death.'"), (8, None, '"I\'ve never even heard of a director by your name — stop lecturing me from on high!"'), (9, None, "'How much does Poseidon pay you per video?'"), (10, None, "'Five hundred thousand yen. Wait — what am I supposed to do with this cash?'"), (11, None, "'This is how highly I value you, paid upfront; if you want to run off with it, go right ahead.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Pressing half a million yen into her hands as an advance and telling her she can even run off with the cash if she wants, Muranishi leaves his business card behind. See you next time!'
+CLOSING = ('muranishi', 'またね。')

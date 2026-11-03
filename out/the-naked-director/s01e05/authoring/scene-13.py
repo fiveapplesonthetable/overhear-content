@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 13
-TITLE = 'Scene 13  (Scene 13)'
+TITLE = '自分の手で生きたいの  (Earning Tuition With My Own Hands)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'kawada': '川田', 'kayo': '加代', 'kuroki': '黒木'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''このまま君を撮るよいいね？''', '''We're going to start filming you, okay?''', [(187, '''‎（村西） このまま 君を撮るよ いいね？''')], ''),
-    ('muranishi', '''よし回してくれ回ってます''', '''-Roll camera. -Rolling.''', [(188, '''‎（村西）よし 回してくれ （川田）回ってます''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "Reviewing the finished master tape, Kawada celebrates that the whistle ignites the viewer's imagination even through heavy mosaic censorship. That night, Kuroki returns home late with an envelope of cash from her very first job. Listen to Kawada, Kuroki, and Kayo in Japanese first."
+STORY = [('kawada', '初めてですよ、こんなに女性主導の作品は。', "This is the first time I've ever seen a film driven so completely by the woman.", [(412, '初めてですよ こんなに女性主導の作品は')], ''), ('kawada', '笛の音で想像する分、効果的だよ。規制委員会の規定にもクリアしてる。', 'Because the whistle sparks the imagination, the thick mosaic actually works—and clears every rule!', [(417, '笛の音で 想像する分 効果的だよ'), (418, '規制委員会の規定にもクリアしてる')], ''), ('kawada', 'あの子だから撮れた作品ですね。こいつで勝負かけましょう！', "Only because of her could we film something like this — let's bet everything on this release!", [(419, 'あの子だから撮れた作品ですね'), (422, 'こいつで勝負 かけましょう')], ''), ('kayo', '遅かったのね。', "You're coming home awfully late.", [(425, '遅かったのね')], ''), ('kuroki', 'お母さん、私やっぱりイタリアに行こうと思ってます。', "Mother, I've decided to go study in Italy after all.", [(426, 'お母さん 私 やっぱり イタリアに行こうと思ってます')], ''), ('kayo', 'そんなお金、用意できませんよ。', 'I cannot possibly put together that kind of money for you.', [(428, 'そんなお金 用意できませんよ')], ''), ('kuroki', '平気です、自分で働いてきたから。私、初めて働いてきたの。', "That's fine, because I earned it myself today — my very first job.", [(429, '平気です 自分で働いてきたから'), (430, '私 初めて働いてきたの')], ''), ('kayo', 'こんなお金どうしたの？', 'How on earth did you get this much cash?!', [(431, 'こんなお金 どうしたの')], ''), ('kuroki', 'アダルトビデオに出演しました。', 'I performed in an adult video.', [(432, 'アダルトビデオに 出演しました')], ''), ('kuroki', '見たことない人に頼るんじゃなくって、自分の手で生きたいの。ごめんなさい。', "Instead of relying on a man I've never met, I want to live by my own hands. I'm sorry.", [(434, '見たことない人に 頼るんじゃなくって'), (435, '自分の手で生きたいの'), (436, 'ごめんなさい')], ''), ('kayo', '娘はだまされたんです、洗脳されたんですよ！', 'My daughter was tricked — they brainwashed her!', [(438, '娘はだまされたんです 洗脳されたんですよ')], ''), ('kayo', '私訴えますから！とにかく販売をやめさせてください！', 'I will sue them! Above all, stop them from selling that video at once!', [(441, '私 訴えますから'), (451, 'とりあえず販売をやめさせて')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"This is the first time I\'ve ever seen a film driven so completely by the woman."'), (1, None, "'Because the whistle sparks the imagination, the thick mosaic actually works—and clears every rule!'"), (2, None, '"Only because of her could we film something like this — let\'s bet everything on this release!"'), (3, None, '"You\'re coming home awfully late."'), (4, None, '"Mother, I\'ve decided to go study in Italy after all."'), (5, None, "'I cannot possibly put together that kind of money for you.'"), (6, None, '"That\'s fine, because I earned it myself today — my very first job."'), (7, None, "'How on earth did you get this much cash?!'"), (8, None, "'I performed in an adult video.'"), (9, None, '"Instead of relying on a man I\'ve never met, I want to live by my own hands. I\'m sorry."'), (10, None, "'My daughter was tricked — they brainwashed her!'"), (11, None, "'I will sue them! Above all, stop them from selling that video at once!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Slapping her daughter for appearing in an adult video to fund her own life without relying on a hidden father, a furious Kayo marches straight into the regulation commission to demand a ban! See you next time!'
+CLOSING = ('kuroki', 'じゃあね。')

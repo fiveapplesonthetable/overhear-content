@@ -3,42 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 8
-TITLE = 'Scene 8  (Scene 8)'
+TITLE = '今日から黒木香になります  (From Today On, Your Name Is Kaoru Kuroki)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'muranishi': '村西', 'megumi': '恵美', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''お名前は？''', '''What's your name?''', [(153, '''‎（村西）お名前は？''')], ''),
-    ('muranishi', '''佐原恵美です''', '''Megumi Sahara.''', [(154, '''‎佐原(さはら)恵美です''')], ''),
-    ('muranishi', '''恵美ちゃん生まれはどこ？''', '''Where were you born, Megumi?''', [(155, '''‎（村西）恵美ちゃん 生まれは どこ？''')], ''),
-    ('muranishi', '''横浜''', '''Yokohama.''', [(156, '''‎横浜(よこはま)''')], ''),
-    ('muranishi', '''家族の構成は？何人兄弟？''', '''What about your family? Any siblings?''', [(157, '''‎（村西） 家族の構成は？　何人兄弟？''')], ''),
-    ('muranishi', '''１人だと思いますあと…''', '''I'm an only child, I think...''', [(158, '''‎１人だと思います あと…''')], ''),
-    ('muranishi', '''それから母と…''', '''I have a mother...''', [(159, '''‎それから 母と…''')], ''),
-    ('muranishi', '''父親がいるみたいですこの間知りました''', '''and a father that I recently found out about.''', [(160, '''‎父親がいるみたいです この間 知りました''')], ''),
-    ('muranishi', '''恵美ちゃんは―''', '''Why do you want to be in a video?''', [(161, '''‎（村西）恵美ちゃんは―''')], ''),
-    ('muranishi', '''なぜビデオに出演したいの？''', '''Why do you want to be in a video?''', [(162, '''‎なぜビデオに出演したいの？''')], ''),
-    ('muranishi', '''イタリアに留学したくってその資金集めのために''', '''To earn money, so I can study in Italy.''', [(163, '''‎イタリアに留学したくって その資金集めのために''')], ''),
-    ('muranishi', '''それと…''', '''And also...''', [(164, '''‎それと…''')], ''),
-    ('muranishi', '''本当の自分でいたくなったから''', '''Because I want to be my true self.''', [(165, '''‎本当の自分でいたくなったから''')], ''),
-    ('muranishi', '''本当の自分でいたいとは？''', '''Your true self?''', [(166, '''‎（村西）本当の自分でいたいとは？''')], ''),
-    ('muranishi', '''自由で―''', '''Free.''', [(167, '''‎（恵美）自由で―''')], ''),
-    ('muranishi', '''奔放で―''', '''Uninhibited.''', [(168, '''‎奔放で―''')], ''),
-    ('muranishi', '''もしかすると汚らしい自分です''', '''And perhaps even dirty.''', [(169, '''‎もしかすると 汚らしい自分です''')], ''),
-    ('muranishi', '''汚らしい？はい''', '''Dirty?''', [(170, '''‎（村西）汚らしい？ （恵美）はい''')], ''),
-    ('muranishi', '''ありのままを生きたいんです''', '''I'd like to be myself.''', [(171, '''‎ありのままを生きたいんです''')], ''),
-    ('muranishi', '''どうしたらいいですか？''', '''What should I do?''', [(172, '''‎どうしたらいいですか？''')], ''),
-    ('muranishi', '''君は…男性に何をしてほしいの？''', '''would you like a man to do to you?''', [(173, '''‎（村西）君は… 男性に何をしてほしいの？''')], ''),
-    ('muranishi', '''まず安心させて''', '''First make me feel safe.''', [(174, '''‎まず安心させて''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = 'Rolling a handheld test camera in the office, Muranishi asks Megumi her favorite color—and in a flash of inspiration gives her the stage name that will shake all of Japan. Listen to Muranishi, Megumi, and Toshi in Japanese first.'
+STORY = [('muranishi', 'このまま君を撮るよ、いいね？', "I'm going to film you right here as we are, alright?", [(187, 'このまま 君を撮るよ いいね')], ''), ('muranishi', '一ついいか？好きな色は何だ？', 'May I ask one thing? What is your favorite color?', [(189, 'いいか'), (190, '好きな色は何だ')], ''), ('megumi', '黒。', 'Black.', [(192, '黒')], ''), ('muranishi', 'よし、じゃあ今日から君は黒木、黒木香だ。', 'Alright — then starting today, you are Kuroki. Kaoru Kuroki.', [(193, 'よし じゃあ今日から君は'), (195, 'だ')], ''), ('muranishi', 'すべてをさらけ出すんだぞ。俺のビデオは本番だからな。', 'Bare everything you have; my videos are filmed for real.', [(197, 'すべてをさらけ出すんだぞ'), (198, '俺のビデオは本番だからな')], ''), ('megumi', 'それ以外、何があるんですか？ちゃんと見てくださいね、これが私です。', 'What else could there possibly be? Please look closely — this is who I am.', [(199, 'それ以外 何があるんですか'), (201, 'ちゃんと見てくださいね'), (202, 'これが私です')], ''), ('toshi', 'いや、剃れば問題ねえよ。', "Hey, if she shaves her underarms it won't be an issue.", [(205, '剃れば問題ねえよ')], ''), ('megumi', '剃りたくありません。', 'I have no wish to shave them.', [(206, '剃りたくありません')], ''), ('muranishi', '剃る必要はない。すごくすてきだ。', 'There is zero need to shave — they are truly wonderful.', [(207, '剃る必要はない'), (209, 'すごく すてきだ')], ''), ('megumi', 'うれしい。私、今日から黒木香になります。', 'That makes me happy. Starting today, I become Kaoru Kuroki.', [(210, 'うれしい'), (211, '今日から')], ''), ('muranishi', '一回止めてくれ。気が変わった。', 'Stop the camera for now — I changed my mind.', [(212, '止めてくれ'), (214, '気が変わった')], ''), ('muranishi', '黒木香のデビュー作だ。俺たちができる最高の準備をしてから撮影する。', "This is Kaoru Kuroki's debut film; we shoot only after making the finest preparations we can.", [(215, 'のデビュー作だ'), (216, '俺たちができる最高の準備を してから撮影する')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"I\'m going to film you right here as we are, alright?"'), (1, None, "'May I ask one thing? What is your favorite color?'"), (2, None, "'Black.'"), (3, None, "'Alright — then starting today, you are Kuroki. Kaoru Kuroki.'"), (4, None, "'Bare everything you have; my videos are filmed for real.'"), (5, None, "'What else could there possibly be? Please look closely — this is who I am.'"), (6, None, '"Hey, if she shaves her underarms it won\'t be an issue."'), (7, None, "'I have no wish to shave them.'"), (8, None, "'There is zero need to shave — they are truly wonderful.'"), (9, None, "'That makes me happy. Starting today, I become Kaoru Kuroki.'"), (10, None, "'Stop the camera for now — I changed my mind.'"), (11, None, '"This is Kaoru Kuroki\'s debut film; we shoot only after making the finest preparations we can."')]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Refusing to let her shave her natural underarm hair and realizing they are witnessing a once-in-a-lifetime star, Muranishi stops the camera so the crew can prepare their finest studio set! See you next time!'
+CLOSING = ('muranishi', 'また明日。')

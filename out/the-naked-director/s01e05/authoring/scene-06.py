@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 6
-TITLE = 'Scene 6  (Scene 6)'
+TITLE = '出演させてほしいんです  (A Savior Walks Into the Office)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'toshi': 'トシ', 'muranishi': '村西', 'megumi': '恵美'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''あっお兄さんどうですか？''', '''No translation.''', [(95, '''‎（男性） あっ お兄さん どうですか？''')], ''),
-    ('muranishi', '''あのこちらに行きたいんですけれど''', '''Do you know this place?''', [(96, '''‎あの こちらに 行きたいんですけれど''')], ''),
-    ('muranishi', '''ああここ''', '''-This place? -Yes.''', [(97, '''‎（男性）ああ ここ''')], ''),
-    ('muranishi', '''ああすぐそこだよ行きゃ分かる''', '''It's just over there. You'll see it.''', [(98, '''‎ああ すぐそこだよ 行きゃ分かる''')], ''),
-    ('muranishi', '''大丈夫ありがとうございます''', '''-Don't worry. -Thank you.''', [(99, '''‎（男性）大丈夫 （恵美）ありがとうございます''')], ''),
-    ('muranishi', '''バイバイまたね''', '''See you later.''', [(100, '''‎バイバイ またね''')], ''),
-    ('muranishi', '''いつもありがとねああいいえ''', '''-Thanks. -Anytime.''', [(101, '''‎（店員）いつも ありがとね （順子(じゅんこ)）ああ いいえ''')], ''),
-    ('muranishi', '''あのうちに何かご用ですか？''', '''Can I help you with something?''', [(102, '''‎（順子） あの うちに何かご用ですか？''')], ''),
-    ('muranishi', '''あっあの村西とおるさんいらっしゃいますか？''', '''I'm looking for Toru Muranishi.''', [(103, '''‎あっ あの 村西とおるさん いらっしゃいますか？''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
+INTRO = 'Inside the stifling office, Muranishi and his crew despair over being boxed in on all sides—until they notice the prim, well-mannered young lady standing in the doorway. Listen to Toshi, Megumi, and Muranishi in Japanese first.'
+STORY = [('toshi', '仮に女優が見つかったとしても、その委員会が許可しねえと販売できねえってことか。', "So even if we somehow found an actress, we can't sell a tape unless that commission approves it?", [(106, '仮に女優が 見つかったとしてもよ'), (107, '委員会っていうのが 許可しねえと'), (108, '販売できねえってことか')], ''), ('muranishi', '八方塞がりだな。', 'We are boxed in from every direction.', [(112, '八方塞がりだな')], ''), ('toshi', 'ちょっと誰だ、あのお嬢さん？', 'Hold on — who is that proper young lady over there?', [(116, 'ちょっと 誰だ\u3000あのお嬢さん')], ''), ('megumi', 'はい、あのお話を聞きたくって。', 'Yes — I came hoping to hear more about your work.', [(121, 'はい あの お話を聞きたくって')], ''), ('toshi', 'もうやめときなって。君みたいな真面目なお嬢さんがいられるとこじゃないのよ。', 'Forget it while you can — this is no place for an earnest young lady like you.', [(122, 'もうやめときなって'), (123, '真面目なお嬢さんがね'), (124, 'いられるとこじゃないのよ')], ''), ('megumi', 'あの、出演させてほしいんです、アダルトビデオに。', 'Um... I would like you to let me perform in an adult video.', [(132, '出演させてほしいんです アダルトビデオに')], ''), ('toshi', 'えっ？いいんじゃねえの？俺らにとっては救いの女神みてえなもんだろ！', "What?! Hey, why not — to us she's practically a goddess of salvation!", [(133, 'えっ'), (134, 'いいんじゃねえの'), (135, '俺らにとっては 救いの女神みてえなもんだろ')], ''), ('muranishi', 'とりあえず座って、一緒にごはん食べよう。', 'For now, sit down and share some lunch with us.', [(137, 'とりあえず座って 一緒にごはん食べよう')], ''), ('muranishi', '君が出演するかどうかは、その後面接して決めればいいから。', 'Whether you appear in a film or not is something we can decide after a proper interview.', [(139, '君が出演するかどうかは その後 面接して決めればいいから')], ''), ('megumi', 'あの、じゃあ手を洗ってきます。', 'Um, let me go wash my hands first, then.', [(141, 'あの じゃあ 手を洗ってきます')], ''), ('muranishi', 'いいんだよそんなの、冷める前にどんどん食べないと。', "Don't worry about that — dig right in before the food gets cold.", [(142, 'いいんだよ そんなの 冷める前に どんどん食べないと')], ''), ('muranishi', '焼き鳥は？', 'How about a yakitori skewer?', [(146, '焼き鳥は')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"So even if we somehow found an actress, we can\'t sell a tape unless that commission approves it?"'), (1, None, "'We are boxed in from every direction.'"), (2, None, "'Hold on — who is that proper young lady over there?'"), (3, None, "'Yes — I came hoping to hear more about your work.'"), (4, None, "'Forget it while you can — this is no place for an earnest young lady like you.'"), (5, None, "'Um... I would like you to let me perform in an adult video.'"), (6, None, '"What?! Hey, why not — to us she\'s practically a goddess of salvation!"'), (7, None, "'For now, sit down and share some lunch with us.'"), (8, None, "'Whether you appear in a film or not is something we can decide after a proper interview.'"), (9, None, "'Um, let me go wash my hands first, then.'"), (10, None, '"Don\'t worry about that — dig right in before the food gets cold."'), (11, None, "'How about a yakitori skewer?'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Stunned when Megumi announces she wants to perform on camera rather than work crew, Toshi hails her as a goddess of salvation while Muranishi warmly invites her to share lunch first. See you next time!'
 CLOSING = ('muranishi', 'じゃあね。')

@@ -3,41 +3,17 @@ SHOW = 'the-naked-director'
 SEASON = 1
 EPISODE = 5
 SCENE = 14
-TITLE = 'Scene 14  (Scene 14)'
+TITLE = '俺はサファイアのファンだからな  (Clear the Commission and I Will Stock Every Copy)'
 LEVEL = 'A1 — beginner'
 PAIR = 'ja-en'
-LABELS = {'muranishi': '村西'}
-SOURCE_NAME = 'e05.ja.srt'
+LABELS = {'toshi': 'トシ', 'tencho': '店長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S01E05'
 SOURCE_FILE = 'sources/the-naked-director/s01/e05.ja.srt'
 
-INTRO = 'Welcome to episode 5.'
-STORY = [
-    ('muranishi', '''１ついいか？''', '''Tell me something.''', [(189, '''‎（村西）１ついいか？''')], ''),
-    ('muranishi', '''好きな色は何だ？''', '''What's your favorite color?''', [(190, '''‎好きな色は何だ？''')], ''),
-    ('muranishi', '''色…''', '''Color?''', [(191, '''‎色…''')], ''),
-    ('muranishi', '''黒黒…''', '''-Black. -Black, as in, kuro?''', [(192, '''‎（恵美）黒 （村西）黒…''')], ''),
-    ('muranishi', '''よしじゃあ今日から君は―''', '''Okay, from today, your name is...''', [(193, '''‎よし じゃあ今日から君は―''')], ''),
-    ('muranishi', '''黒木''', '''Kuroki.''', [(194, '''‎黒木(くろき)''')], ''),
-    ('muranishi', '''黒木香だ''', '''Kaoru Kuroki.''', [(195, '''‎黒木 香(かおる)だ''')], ''),
-    ('muranishi', '''フフッはいフッ…''', '''Okay.''', [(196, '''‎フフッ はい フッ…''')], ''),
-    ('muranishi', '''すべてをさらけ出すんだぞ''', '''I want you to show everything.''', [(197, '''‎（村西） すべてをさらけ出すんだぞ''')], ''),
-    ('muranishi', '''俺のビデオは本番だからな''', '''My videos involve real sex.''', [(198, '''‎俺のビデオは本番だからな''')], ''),
-    ('muranishi', '''それ以外何があるんですか？''', '''What else is there?''', [(199, '''‎（恵美） それ以外 何があるんですか？''')], ''),
-]
-OPENER = "Let's listen."
-WALK = [
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-    (0, None, 'Notice the expression here.'),
-]
-TRANSITION = "Now let's hear the whole scene again."
-OUTRO = 'What a scene.'
-CLOSING = ('muranishi', 'じゃあね。')
+INTRO = "Unaware of Kayo's complaint at the commission, Toshi drops by the booming video rental shop to pitch their upcoming release over imported cigarettes and cold beer with the Manager. Listen to Toshi and the Manager in Japanese first."
+STORY = [('toshi', 'どうも旦那、随分もうかってるみたいじゃないっすか。', "Hey boss, business sure looks like it's booming for you!", [(452, 'どうも 旦那'), (454, '随分 もうかってるみたいじゃないっすか')], ''), ('toshi', '似合わないジャケットなんか着ちゃって。', "Sporting a fancy jacket that doesn't even suit you!", [(456, '似合わないジャケットなんか 着ちゃって')], ''), ('tencho', '時代だよ。何にもしてねえのに店が勝手に増えてくんだからな。', "It's the era we're in — new video shops keep multiplying without my lifting a finger.", [(458, '時代だよ'), (459, '何にもしてねえのに 店が勝手に増えてくんだからな')], ''), ('toshi', '何か上品なもの吸ってるじゃないっすか。一本下さいよ。', 'Look at you smoking classy cigarettes now — let me bum one.', [(464, '何か上品なもの 吸ってるじゃないっすか'), (466, '下さいよ')], ''), ('tencho', 'うるせえな、いちいちお前は。', 'Quit ribbing me over every little detail.', [(465, 'うるせえな いちいち お前は')], ''), ('tencho', 'そんなことより、次の作品どうなってんだ？まだ規制委員会とモメてんのか？', "More importantly, how's your next release coming? Still feuding with the regulation commission?", [(467, 'そんなことより 次の作品 どうなってんだ'), (468, 'まだ 規制委員会と モメてんのか')], ''), ('toshi', 'そうなんすよ。', "Yeah, we're still locked horns with them.", [(469, 'そうなんすよ')], ''), ('tencho', '俺はサファイアのファンだからな。', "Remember, I'm a genuine fan of Sapphire's work.", [(470, '俺は サファイアのファンだからな')], ''), ('tencho', '委員会さえクリアすりゃ、今ならいくらでも店に置いてやるぞ。', "As long as you clear the commission, I'll stock as many copies in my stores as you want.", [(475, '委員会さえクリアすりゃ 今なら いくらでも店に置いてやるぞ')], ''), ('toshi', '今の、約束ですよ！', "I'm holding you to that promise right now!", [(476, '今の 約束ですよ')], ''), ('tencho', 'えっ、新作できたのか？', 'Wait — did you finish a brand-new video already?!', [(477, 'えっ'), (478, '新作 できたのか')], ''), ('tencho', 'ビール一本な、グラス二つ。', 'Barkeeper — one bottle of beer and two glasses!', [(480, 'ビール'), (480, 'グラス')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, '"Hey boss, business sure looks like it\'s booming for you!"'), (1, None, '"Sporting a fancy jacket that doesn\'t even suit you!"'), (2, None, '"It\'s the era we\'re in — new video shops keep multiplying without my lifting a finger."'), (3, None, "'Look at you smoking classy cigarettes now — let me bum one.'"), (4, None, "'Quit ribbing me over every little detail.'"), (5, None, '"More importantly, how\'s your next release coming? Still feuding with the regulation commission?"'), (6, None, '"Yeah, we\'re still locked horns with them."'), (7, None, '"Remember, I\'m a genuine fan of Sapphire\'s work."'), (8, None, '"As long as you clear the commission, I\'ll stock as many copies in my stores as you want."'), (9, None, '"I\'m holding you to that promise right now!"'), (10, None, "'Wait — did you finish a brand-new video already?!'"), (11, None, "'Barkeeper — one bottle of beer and two glasses!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Declaring himself a loyal fan of their studio and promising to stock unlimited copies as soon as the tape clears the commission, the shop manager gives Toshi new hope—just before disaster strikes. See you next time!'
+CLOSING = ('toshi', 'またね。')
