@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Lyova is down in the storeroom at Claude Monet, hunting for the arugula Elena sent him to fetch. He hates being used as a messenger. Nastya, a waitress, comes down to hurry him along. Here it is in Russian first."
 OPENER = "Let's go through the search. Lyova grumbles, and Nastya keeps him moving."
 TRANSITION = "Now the whole search in one take."
-OUTRO = "\"Terpet ne mogu\", I can't stand it, is something you'll say about many things. And Nastya's answer, the main thing is that the guests get their food, is a good one to have ready. See you next time."
+OUTRO = "Lyova's 'I can't stand it' is an everyday Russian expression you'll find useful for all sorts of annoyances, and Nastya's practical reminder that the guests come first brings him back to earth. See you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('lyova', 'Где же лежит эта чёртова рукола?', 'Where is this damn arugula lying?', [(259, 'Где это чертова рукола')], ''),

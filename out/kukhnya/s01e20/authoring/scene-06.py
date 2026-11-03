@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'A little later Nastya tries again, and this time Kostya changes the subject. Here it is in Russian.'
 OPENER = 'Now the pieces, one by one.'
 TRANSITION = 'And again, the whole thing.'
-OUTRO = "Another escape: change the subject, just as Max told him. A compliment like ty takaya krasivaya, 'you're so beautiful', is a classic way to do it. See you next time!"
+OUTRO = "Kostya pulls off another narrow escape by changing the subject with a classic compliment: 'you're so beautiful'. See you next time!"
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, нам надо поговорить.', 'Kostya, we need to talk.', [(138, 'Нам надо поговорить.')], ''),

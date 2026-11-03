@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'The inspector is still working his way around the dining room. He stops at the table where Fedya sits dressed as a guest, and when Fedya insists he is just a customer, the inspector lists three small habits that give him away.'
 OPENER = "Now the inspector's case against Fedya, line by line."
 TRANSITION = 'And the whole conversation again, without stopping.'
-OUTRO = "Fedya has to admit he is a cook. Keep 'nelzya' from this scene: it's the word on every sign that tells you what you're not allowed to do. See you next time!"
+OUTRO = "Three small kitchen habits give Fedya away, and he has to admit he is a cook. Listen for that crisp one-word Russian ban meaning 'not allowed', seen on warning signs everywhere. See you next time!"
 CLOSING = ('inspector', 'До свидания!')
 STORY = [
     ('inspector', 'А вот вы-то мне и нужны.', "And you're just the one I need.", [(260, 'А вот вас-то мне кажется и нужно, уважаемый.')], ''),

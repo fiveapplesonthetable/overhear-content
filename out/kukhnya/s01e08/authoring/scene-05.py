@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "After the broadcast, back at Claude Monet, Barinov storms in to complain to the owner, Dmitry Nagiyev. Nagiyev is delighted with how the show went and sees no problem at all with the bet. It's in Russian first."
 OPENER = 'Slowly now. Barinov is furious, and Nagiyev is as calm as a man who has got exactly what he wanted.'
 TRANSITION = "Here's the argument once more in one piece."
-OUTRO = "A kind, easy word to end on is udachi, 'good luck', and you can say it to anyone at any time. You've also heard na vysshem urovne, 'at the highest level', a phrase you'll meet in adverts and speeches. See you next time."
+OUTRO = "A kind, easy wish to end on is 'good luck', which you can say to anyone at any time. You've also heard 'at the highest level', a set phrase that turns up constantly in Russian adverts and speeches. See you next time."
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('barinov', 'Дмитрий, это была твоя глупая идея!', 'Dmitry, this was your stupid idea!', [(54, 'Так это твоя была идея')], ''),

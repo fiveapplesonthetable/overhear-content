@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'The inspector comes back to the kitchen for Fedya. Barinov makes one last try, but the inspector has made up his mind, and he even apologises for it.'
 OPENER = "Now we'll take it apart."
 TRANSITION = 'Now all of it together again, from the top.'
-OUTRO = "Fedya is led away, and the kitchen is a cook short. Remember that 'dolg' means both 'duty' and 'debt': a duty is something you owe. See you next time!"
+OUTRO = "Fedya is led away, leaving the kitchen a cook short. Notice that the inspector's word for 'duty' is the exact same Russian noun used for a financial 'debt' — something you owe. See you next time!"
 CLOSING = ('fedya', 'До свидания!')
 STORY = [
     ('inspector', 'Собирайтесь.', 'Pack your things.', [(285, 'Собирайтесь.')], ''),

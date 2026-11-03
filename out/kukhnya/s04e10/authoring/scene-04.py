@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e10.ru.srt'
 INTRO = "Inside Senya's action-movie fantasy, Dmitry Nagiyev bursts into the dining room as a slick gang boss taking the restaurant hostage, only to discover one heroic cook is missing."
 OPENER = "Let's step through the hostage scene in Senya's imagination."
 TRANSITION = "Now let's hear the whole scene again from start to finish."
-OUTRO = "Watch out for the false friend 'simpatiya' — in Russian it means feeling attracted to or fond of someone, not feeling sorry for them. See you next time!"
+OUTRO = "Watch out for that classic Russian false friend that sounds like 'sympathy' — in Russian it means feeling fond of or attracted to someone, not feeling sorry for them. See you next time!"
 CLOSING = ('nagiyev', 'До встречи!')
 STORY = [
     ('nagiyev', 'Добрый день, господа и дамы.', 'Good afternoon, gentlemen and ladies.', [(35, 'Добрый день, господа, милые дамы')], 'adapted for A1 clarity'),

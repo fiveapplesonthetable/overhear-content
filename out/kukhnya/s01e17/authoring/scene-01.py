@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant. Chef Viktor Barinov rules the kitchen, and Senya is one of the cooks he loves to boss around. This morning Barinov drags Senya to the market to teach him how to tell whether a fish is fresh. Listen to the lesson in Russian first, and watch how much Barinov reads from one face."
 OPENER = "Now let's take it slowly, and see how Barinov reads a fish seller."
 TRANSITION = 'Now the market lesson again, start to finish.'
-OUTRO = 'Barinov has read the seller like a book, and the seller is not pleased about it. Remember that Russians give an age with \'to\': "etoy rybe pyat dney", to this fish, five days. See you next time!'
+OUTRO = "Barinov has read the fish seller like a book, and the seller is none too pleased. Notice how Russian states age using 'to': literally 'to this fish, five days'. See you next time!"
 CLOSING = ('senya', 'До свидания!')
 STORY = [
     ('senya', 'Я наступил в гнилую сливу, шеф.', 'I stepped in a rotten plum, chef.', [(1, 'Я только чувствую, что я в гнилую сливу наступил.')], ''),

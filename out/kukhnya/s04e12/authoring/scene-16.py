@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = "When Sasha calls Max's phone to thank him for a 'crazy night', Vika overhears everything, and even though the whole kitchen backs up Max's story, Vika is furious that he lied."
 OPENER = "Let's examine each line as the entire kitchen backs up Max's alibi."
 TRANSITION = "Now let's hear the whole kitchen showdown again from start to finish."
-OUTRO = "Notice how the word 'byvshy' ('former') works as a word in Russian: 'byvshy' is an ex-boyfriend or ex-husband, and 'byvshaya' is an ex-girlfriend or ex-wife. See you next time!"
+OUTRO = "Notice how the Russian word for 'former' stands on its own as a noun: its masculine form means 'ex-boyfriend' or 'ex-husband', and its feminine form means 'ex-girlfriend' or 'ex-wife'. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Значит, у вас сумасшедшая ночка была?', 'So, you two had a crazy little night?', [(256, 'Сумасшедшая ночка была, да')], 'adapted for A1 clarity'),

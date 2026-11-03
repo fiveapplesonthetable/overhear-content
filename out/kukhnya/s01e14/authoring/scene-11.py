@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'Near the entrance, an upset young woman stops Max. He has been a bad boyfriend, and she tells him so. Hear it in Russian first.'
 OPENER = 'Slowly, and watch him try to calm her down.'
 TRANSITION = 'Now the scene in one go.'
-OUTRO = 'She storms off, and Max is left standing there. She gave him two goodbyes to remember: "forget" and "go away". Catch you later.'
+OUTRO = "She storms off, and Max is left standing there. She gave him two sharp commands to remember: 'forget it' and 'go away'. Catch you later."
 CLOSING = ('girl', 'Пока!')
 STORY = [
     ('girl', 'Макс, ты разбил моё бедное сердце!', 'Max, you broke my poor heart!', [(172, 'разбил мое сердце, подлый бабник.')], ''),

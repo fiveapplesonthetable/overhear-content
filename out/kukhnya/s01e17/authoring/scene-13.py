@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'Barinov and Nagiyev pay their return visit to Arcobaleno, the rival restaurant. A hostess greets them, and Nagiyev cannot resist making fun of the place. Listen to their arrival in Russian first.'
 OPENER = "Let's walk in with them again, line by line."
 TRANSITION = "Now the arrival once more, start to finish."
-OUTRO = 'Nagiyev mocks the decor, Barinov cuts him short, and the hostess leads them to the smoking room. Keep "nado zhe" for any moment of surprise, real or fake. See you next time!'
+OUTRO = "Nagiyev mocks the rival restaurant's decor, Barinov cuts him short, and the hostess leads them to their table. Listen for that short exclamation meaning 'well, fancy that!' for real or mock surprise. See you next time!"
 CLOSING = ('hostess', 'Хорошего дня!')
 STORY = [
     ('hostess', 'Добрый день. Рада видеть вас в нашем ресторане.', 'Good afternoon. Glad to see you at our restaurant.', [(221, 'Добрый день. Рада видеть вас в нашем ресторане.')], ''),

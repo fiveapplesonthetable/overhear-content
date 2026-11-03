@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'It is contest day in the kitchen of Claude Monet. Barinov has asked the cooks for a new seasonal dish, and Senya steps up first. Here is the tasting in Russian.'
 OPENER = "Let's go back to the tasting, slowly."
 TRANSITION = 'Now the tasting again, without the pauses.'
-OUTRO = 'Senya wins, the chef keeps his promise after one slip, and Fedya serves his chops to an empty room. Next time you\'re handed something odd, try "eto chto?", what is this? See you next time!'
+OUTRO = "Senya wins the contest, Barinov barely keeps his no-insults promise, and Fedya serves his fish chops to an empty kitchen. Listen for the blunt two-word question 'what is this?'. See you next time!"
 CLOSING = ('barinov', 'Всё, всем пока!')
 STORY = [
     ('senya', 'Шеф, попробуйте сезонное блюдо.', 'Chef, try the seasonal dish.', [(121, 'Попробуйте сезонное блюдо')], ''),

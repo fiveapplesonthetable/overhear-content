@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'The owner, Nagiyev, is waiting at his table, and Barinov sits down expecting the sack. Listen to the Russian first.'
 OPENER = "Let's take it slowly."
 TRANSITION = "Here's the whole conversation again."
-OUTRO = 'Barinov keeps his job, but no bonus yet. The word zvezda means a star in the sky and a star on screen, one word for both. See you next time!'
+OUTRO = "Barinov keeps his job, even if there's no bonus yet. Just as in English, the exact same Russian noun means both a star in the night sky and a television star. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Ах ты красавица! Здравствуй.', 'Oh, you beauty! Hello.', [(154, 'Ах ты красавица.'), (155, 'Здравствуй.')], ''),

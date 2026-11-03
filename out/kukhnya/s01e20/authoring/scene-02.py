@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Later that day, Nastya talks to Kostya about the two of them, and she reaches for a picture: a staircase that goes up to the sun. Have a listen.'
 OPENER = "Let's go through it."
 TRANSITION = 'And the whole scene again.'
-OUTRO = "Kostya agrees, though as we'll see, he didn't follow a word of it. The phrase shag za shagom, 'step by step', is one you can use anywhere. See you next time!"
+OUTRO = "Kostya nods along, though as we'll soon see, he didn't follow a word of Nastya's metaphor. Her phrase 'step by step' is one you'll hear everywhere. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, нам же хорошо вместе?', 'Kostya, we are good together, right?', [(54, 'нам же хорошо вместе')], ''),

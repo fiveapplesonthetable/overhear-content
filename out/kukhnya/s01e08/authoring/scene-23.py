@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "The dinner rush is on at Claude Monet. Vika, who runs the dining room, comes into the kitchen to find out why the fish is so late, and Fedya, the cook on fish, is in no mood to be hurried. Here it is in Russian first."
 OPENER = "Let's go through the rush. It starts with questions and ends with smoke."
 TRANSITION = "Now the scene at full speed."
-OUTRO = "\"Kakoy koshmar\", what a nightmare, is as useful as it is dramatic. In under a minute you've had a late fish, a long wait and a burnt quail. See you next time."
+OUTRO = "Vika's 'what a nightmare!' is as useful in Russian as it is dramatic. In under a minute you've heard a late fish order, an impatient dining room, and a burnt quail. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Федя, когда дорада наконец будет готова?', 'Fedya, when will the sea bream finally be ready?', [(266, 'Федор, когда дорада будет готова')], ''),

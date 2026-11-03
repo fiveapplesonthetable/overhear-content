@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e11.ru.srt'
 INTRO = 'Out in the dining room, Dmitry Nagiyev is trying to charm a glamorous guest when the electricity suddenly cuts out across the restaurant, prompting him to summon Denis to the piano.'
 OPENER = "Let's examine each line as Nagiyev turns a blackout into a romantic mood."
 TRANSITION = "Now let's hear the whole blackout scene again at natural speed."
-OUTRO = "Listen for that stern Russian command structure: starting a sentence with 'chtoby' ('so that') plus the past form means 'make sure that this gets done!'. See you next time!"
+OUTRO = "Listen for Nagiyev's stern Russian command structure: starting with 'so that' followed by a past-tense verb means 'make sure this gets done!'. See you next time!"
 CLOSING = ('nagiyev', 'До встречи!')
 STORY = [
     ('kostya', 'Ой, что сейчас случилось?', 'Oh, what just happened?', [(52, 'Че случилось')], 'adapted for A1 clarity'),

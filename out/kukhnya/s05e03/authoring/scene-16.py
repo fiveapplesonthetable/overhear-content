@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 INTRO = 'Back in the kitchen, Chef Barinov admits to Senya that he only cooked an eel as a prank on Nagiyev and hid the live snake inside a stockpot—until they lift the lid and find the snake gone! Listen to the scene.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that sends Senya crawling across the kitchen floor in search of the missing snake. Notice the command pair 'ishchi, polzay'—'search, crawl'. See you next time!"
+OUTRO = "And that sends Senya crawling across the kitchen floor under Barinov's frantic double command: 'search, crawl!'. See you next time!"
 CLOSING = ('senya', 'До завтра!')
 STORY = [
     ('barinov', 'Подожди, а где наша змея?', 'Wait, where is our snake?', [(284, 'где змея?')], 'adapted'),

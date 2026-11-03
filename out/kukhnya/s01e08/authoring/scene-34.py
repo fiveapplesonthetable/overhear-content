@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "This is the last scene of the episode, and it plays like the closing montage of a show. At Claude Monet, Kostya, one of the cooks, works up the courage to ask Nastya out, while Barinov shouts about football. Here it is in Russian first."
 OPENER = "Let's go through the finale. A date gets made, and Barinov gets loud."
 TRANSITION = "Now the final scene from the top."
-OUTRO = "That's the end of the episode. You've heard how to ask someone to the cinema, \"poydyosh so mnoy v kino\", and how a fan roots for a team, \"bolet za\", literally 'to be ill for'. Thanks for listening, and see you next time."
+OUTRO = "That's the end of the episode. You've heard how to invite someone to the cinema — 'will you go to the movies with me?' — and how a Russian football fan roots for a team, literally 'to be sick for' them. Thanks for listening, and see you next time."
 CLOSING = ('nastya', 'Пока')
 STORY = [
     ('kostya', 'Настя, прекрати так громко смеяться на кухне!', 'Nastya, stop laughing so loudly in the kitchen!', [], ''),

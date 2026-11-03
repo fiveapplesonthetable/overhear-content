@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "The staff party is under way. Max and Kostya have both bought rings, Senya can't resist teasing, and then Max is pulled into a drinking contest. Here's the Russian."
 OPENER = 'Now each line in turn.'
 TRANSITION = "Here's the party scene again."
-OUTRO = "Kostya goes off with his ring, and Max starts drinking. Russian says drug drugu, literally 'friend to friend', for 'to each other'. See you next time!"
+OUTRO = "Kostya heads off nervously with his ring while Max gets pulled into a drinking contest. Notice how Russian expresses 'to each other' literally as 'friend to friend'. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('max', 'Ну что, купил кольцо?', 'So, did you buy the ring?', [(207, 'Ну что, купил кольцо?')], ''),

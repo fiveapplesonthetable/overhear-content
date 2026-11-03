@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Ainura, the cleaner, is still in the storeroom with Barinov. She has come to bring him back to the kitchen, which is falling apart without him, and she gets to the point quickly. Here it is in Russian first."
 OPENER = "Let's go through her persuasion. Barinov resists, then gives in a little."
 TRANSITION = "Now the conversation from the start."
-OUTRO = "The scene ends with a joke on repetition: she is still \"na rabote\", at work, and he still offers her a drink. You now know that line by heart. See you next time."
+OUTRO = "The scene ends on a joke built from repetition: Ainura reminds him she is still 'at work', and Barinov still offers her a drink anyway. You now know that exchange by heart. See you next time."
 CLOSING = ('ainura', 'Пока!')
 STORY = [
     ('barinov', 'Ты как меня нашла, Айнура?', 'How did you find me, Ainura?', [(315, 'Ты как меня нашла?')], ''),

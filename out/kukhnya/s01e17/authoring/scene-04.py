@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "In the dining room, Vika is in a bad mood. She scolds Nastya and Kostya for chatting at work, and then Max comes over to ask what's wrong, and to invite her out. Here is the telling-off in Russian first."
 OPENER = "Now slowly, from Vika's first order."
 TRANSITION = "Here's the whole telling-off again."
-OUTRO = 'Vika doesn\'t say yes or no, which is just how she wants it. "Posmotrim" is a good word to borrow when you don\'t want to commit, since it means "we\'ll see". See you next time!'
+OUTRO = "Vika neither accepts nor refuses, which is just how she wants it. Her one-word reply meaning 'we'll see' is the classic answer whenever you don't want to commit yet. See you next time!"
 CLOSING = ('max', 'До встречи, Вика!')
 STORY = [
     ('vika', 'Настя, быстро убери пятый столик!', 'Nastya, quickly clear the fifth table!', [(48, 'Настя, убери пятый столик.')], ''),

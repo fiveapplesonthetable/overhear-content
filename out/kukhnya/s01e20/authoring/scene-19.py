@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Dima arrives with Eleonora Andreyevna, and Barinov is about to learn that the restaurant has been sold. The lines are longer here; here it is in Russian."
 OPENER = "Let's look at the pieces."
 TRANSITION = 'Now the table talk once more.'
-OUTRO = "Barinov has just found out the restaurant was sold behind his back. Russian borrows biznes from English, and prosto biznes means 'just business'. See you next time!"
+OUTRO = "Barinov learns to his shock that Claude Monet was sold behind his back, dismissed with the borrowed English phrase 'nothing personal, just business'. See you next time!"
 CLOSING = ('nagiyev', 'Удачи!')
 STORY = [
     ('nagiyev', 'Элеонора Андреевна, прошу.', 'Eleonora Andreyevna, please, have a seat.', [(305, 'Андреевна'), (306, 'Прошу')], ''),

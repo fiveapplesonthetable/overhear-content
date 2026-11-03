@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = "Late at night, Max's phone rings with a desperate call from Sasha outside Claude Monet, while in Arcobaleno Chef Barinov and Lyova finish gutting their fish with zero luck."
 OPENER = "Let's walk through Sasha's late-night plea and Barinov's next plan."
 TRANSITION = 'Now listen to the whole late-night scene again at natural speed.'
-OUTRO = "Remember the everyday driving phrase 'sest za rul' ('to sit behind the wheel') and the word 'spravitsya s' ('to handle or manage someone'). Until next time!"
+OUTRO = "Remember the two everyday expressions from Sasha's late-night call: 'to get behind the wheel' and 'to handle someone on your own'. Until next time!"
 CLOSING = ('sasha', 'Пока!')
 STORY = [
     ('max', 'Алло, Саша, у тебя всё нормально?', 'Hello, Sasha, is everything okay with you?', [(125, 'Алло, Саша, у тебя всё нормально')], ''),

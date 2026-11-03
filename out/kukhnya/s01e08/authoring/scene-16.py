@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Back in the kitchen at Claude Monet, Senya and Fedya, two of Barinov's cooks, are comparing their new, polite chef, Elena, with the old one. Then Barinov comes back in a terrible temper. It's in Russian first."
 OPENER = 'Slowly now. The first half is a quiet chat, and the second half is Barinov.'
 TRANSITION = 'Now the whole thing again, calm and then loud.'
-OUTRO = "The small word zato, 'but on the other hand', wins arguments. And bystro za rabotu, 'quick, to work', is what every boss says sooner or later. See you next time."
+OUTRO = "That small Russian connector meaning 'but on the other hand' wins plenty of arguments, while Barinov's 'quick, back to work' is what every boss barks sooner or later. See you next time."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Ну, как тебе новый шеф-повар?', 'Well, how do you like the new head chef?', [(203, 'Ну и как тебе новый шеф')], ''),

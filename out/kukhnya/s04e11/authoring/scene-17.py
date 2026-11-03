@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e11.ru.srt'
 INTRO = "Seconds after Max's boast, a giant elevator mechanic pries the metal doors open with his bare hands to see who threatened to break his nose, sending Max hiding behind Vika."
 OPENER = "Let's examine each line of the hilarious rescue at the elevator doors."
 TRANSITION = 'Now listen to the whole elevator rescue scene again at natural speed.'
-OUTRO = "Remember that Russian has different words for 'married' depending on gender: for a man or polite 'you', it is 'zhenat / zhenaty', built from the root for 'wife'. Until next time!"
+OUTRO = "Remember that Russian uses different words for 'married' depending on gender: for a man, the word is built directly from the noun for 'wife'. Until next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
     ('guest', 'Это ты, что ли, там кричал?', 'Was that you yelling in there, or what?', [(261, 'Это ты, что ли, там')], 'adapted for A1 clarity'),

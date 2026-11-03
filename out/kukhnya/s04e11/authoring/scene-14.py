@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e11.ru.srt'
 INTRO = 'While Lyova pleads with Chef Barinov to stop his childish cockroach pranks, Nastya pours a glass of wine at the bar to train Kostya for his upcoming blind tasting.'
 OPENER = "Let's examine each line of Lyova's plea and Kostya's first wine test."
 TRANSITION = "Now let's hear the whole scene again from start to finish."
-OUTRO = "Listen for the single-syllable word 'zrya', which Russians use constantly to mean 'in vain', 'pointlessly', or 'you shouldn't have'. See you next time!"
+OUTRO = "Listen for that punchy one-syllable Russian word that speakers use constantly to mean 'in vain', 'for nothing', or 'you shouldn't have'. See you next time!"
 CLOSING = ('kostya', 'Хорошего дня!')
 STORY = [
     ('lyova', 'Шеф, может, хватит уже, а?', 'Chef, maybe that is enough already, huh?', [(211, 'Шеф, может хватит уже')], 'adapted for A1 clarity'),

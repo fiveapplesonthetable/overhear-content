@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Kristina's plans for the budget have landed on Nagiyev's desk, and he has decided to dismiss the highest-paid cooks. Barinov hears about it, and the two have a furious argument in the office. Listen for the moment Barinov plays his last card."
 OPENER = 'Now the row, one blow at a time.'
 TRANSITION = 'Now the whole row, as it happened.'
-OUTRO = 'Barinov threatens to quit, and Nagiyev has to talk him round. Keep the pair: "uvolit", to fire, and "uvolitsya", to quit. See you next time!'
+OUTRO = "Barinov threatens to walk out if his cooks are sacked, forcing Nagiyev on the defensive. Notice how closely related the Russian verbs for 'to fire someone' and 'to quit' sound. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Я должен уволить твоих поваров.', 'I must fire your cooks.', [(308, 'уволить')], ''),

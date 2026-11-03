@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "It's Max's birthday, and Kostya and Nastya have come to the kitchen to wish him well. They've got a present: tickets for an evening out for the three of them. Here are the birthday wishes in Russian first."
 OPENER = 'Now the birthday wishes again, one at a time.'
 TRANSITION = "Here's the birthday scene again, all together."
-OUTRO = 'The friends have made up over a birthday nobody knew about. "S dnyom rozhdeniya" works for anyone\'s birthday, from your boss to your gran. See you next time!'
+OUTRO = "Kostya and Nastya happily celebrate Max's invented birthday with concert tickets. That classic 'happy birthday!' greeting — literally 'with the day of birth!' — works for anyone. See you next time!"
 CLOSING = ('nastya', 'Увидимся вечером, Макс!')
 STORY = [
     ('kostya', 'Макс, поздравляю тебя с днём рождения!', 'Max, happy birthday to you!', [(231, 'Макс. С днем рождения')], ''),

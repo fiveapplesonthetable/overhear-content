@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = "With the chef in no state to work, the sous-chef Lyova is told he's in charge. He is terrified, and his friend Senya tries to build up his courage. Hear it in Russian first."
 OPENER = 'Slowly, and watch Lyova find his voice.'
 TRANSITION = 'Now the pep talk from the top.'
-OUTRO = "Lyova is ready, or at least he is ready to try. Notice how I cannot turns into I can by the end. Speak soon."
+OUTRO = "Lyova is ready, or at least he is ready to try. Notice how 'I can't' turns into 'I can' by the end of the pep talk. Speak soon."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('lyova', 'Я не смогу управлять всей кухней!', 'I cannot manage the whole kitchen!', [(65, 'Я не смогу.')], ''),

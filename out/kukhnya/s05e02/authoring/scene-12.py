@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 INTRO = "While the pampered guest in room 313 demands steaks, desserts, light salads, and darker curtains, Denis borrows Katya's phone to record a heartfelt video confessing his one-night mistake. Listen to the Russian dialogue."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that captures Denis's emotional video message on Katya's phone. Notice the future completed pair 'prostish' and 'zabudesh' in his apology. See you next time!"
+OUTRO = "And that captures Denis's emotional video confession on Katya's phone as he begs her to forgive and forget his mistake. See you next time!"
 CLOSING = ('denis', 'Всего хорошего!')
 STORY = [
     ('barinov', 'Несите ему лучше хороший стейк.', 'Better bring him a good steak.', [(133, 'лучше стейк')], 'adapted'),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Nagiyev has been reading the restaurant's monthly report, and the takings are tiny. He wants Vika and Barinov to tell him where the customers went. Hear the Russian once first; just follow who is upset."
 OPENER = 'Now slowly, one line after another.'
 TRANSITION = "That's every piece. Here it is at full speed."
-OUTRO = 'No one has a fix yet, and Nagiyev is staying put to keep an eye on things. Hold on to "malo", little or few: "malo deneg", little money, "malo gostey", few guests. See you next time!'
+OUTRO = "Nobody has an easy fix for the drop in takings, so Nagiyev stays put to watch every ruble. Notice how a single short Russian word covers both 'too little money' and 'too few guests'. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Что это за маленькие цифры в отчёте?', 'What are these small numbers in the report?', [(18, 'а что это за такие')], ''),

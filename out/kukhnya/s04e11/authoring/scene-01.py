@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e11.ru.srt'
 INTRO = 'Opening in playful Shakespearean verse about rival chefs and domestic quarrels, Vika loses patience when Max plays video games instead of fixing the broken shower head in their bathroom.'
 OPENER = "Let's go through each line of the opening verse and the bathroom argument."
 TRANSITION = 'Now listen to the whole opening scene again at natural speed.'
-OUTRO = "Notice that pair of opposite word prefixes in the bathroom: 'ot-' means to unscrew and detach, while 'pri-' means to screw back on. Until next time!"
+OUTRO = "Notice that pair of opposite bathroom verbs built from the same root: one prefix means 'to unscrew and detach', while the other means 'to screw back on'. Until next time!"
 CLOSING = ('vika', 'Всего хорошего!')
 STORY = [
     ('max', 'Если бы Шекспир жил в наше время.', 'If Shakespeare lived in our time.', [(1, 'Если бы Шекспир жил в наше время')], ''),

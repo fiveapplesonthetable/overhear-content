@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Max has spent the day cooking his own version of Barinov's pâté. Now he needs an honest opinion, so he calls over his best friend Kostya, the bartender. Listen to how carefully Kostya picks his words."
 OPENER = "Now Kostya's verdict, line by line."
 TRANSITION = 'And the tasting once more, all the way through.'
-OUTRO = "Max's pâté isn't the chef's, and he knows it, but two days off are worth another try. Next time someone offers you food in Russian, you can ask 'eto voobshche sedobno?' See you next time!"
+OUTRO = "Max's pâté isn't the chef's, and he knows it, though two days off are worth another try. Kostya's blunt question — 'is this even edible?' — is a funny line to recognize in Russian. See you next time!"
 CLOSING = ('kostya', 'Удачи!')
 STORY = [
     ('max', 'Костя, попробуй мой паштет.', 'Kostya, taste my pâté.', [], ''),

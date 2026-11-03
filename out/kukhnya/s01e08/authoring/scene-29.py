@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "The service is over. Barinov sits down with Elena Pavlovna, the chef from the rival restaurant, to enjoy winning their bet: she couldn't run his kitchen. Elena does not take it lying down. Here it is in Russian first."
 OPENER = "Let's go through the gloating. Barinov is triumphant, and Elena has her own view."
 TRANSITION = "Now the whole showdown in one go."
-OUTRO = "Elena ends politely and still makes a demand: \"vy mne dolzhny otlichnyy uzhin\", you owe me a great dinner. The word \"dolzhny\" does the work of 'owe' and 'must'. See you next time."
+OUTRO = "Elena concedes politely while still claiming her prize: 'you owe me an excellent dinner'. Notice how one Russian word does the work of both 'owe' and 'must'. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Что и требовалось доказать, Елена Павловна!', 'That proves my point, Elena Pavlovna!', [(343, 'Что и требовалось доказать.')], ''),

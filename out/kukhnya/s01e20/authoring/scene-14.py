@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "At the party it turns out to be Vika's birthday, and a well-off guest gives her a print by her favourite photographer. Then Max turns up, fresh from winning the drinking contest. Listen to the Russian first."
 OPENER = "Let's go back over it."
 TRANSITION = 'Now hear it all once more.'
-OUTRO = "Max is about to hand over his own present in front of everyone. The words podarok, darit and podarit all share dar, 'gift'. See you next time!"
+OUTRO = "Fresh from the drinking contest, Max steps up to hand Vika his present in front of everyone. Notice how the Russian noun for 'present' and the verbs for 'giving' all grow from the same root meaning 'gift'. See you next time!"
 CLOSING = ('guest', 'До встречи!')
 STORY = [
     ('guest', 'Вика, мне сказали, у вас день рождения сегодня.', 'Vika, I was told it is your birthday today.', [(247, 'Вика, мне сказали, у вас день рождения сегодня.')], ''),

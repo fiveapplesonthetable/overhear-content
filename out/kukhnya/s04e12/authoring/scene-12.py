@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = "Still standing over piles of gutted fish at three in the morning, Chef Barinov calls Timur and discovers why the second batch had no diamonds, while Max picks up Denis in Vika's car."
 OPENER = "Let's examine each line of Barinov's phone call to Timur."
 TRANSITION = "Now let's hear the whole late-night phone call scene again."
-OUTRO = "Keep the phrase 'v kakom smysle?' ('in what sense? / what do you mean?') handy — Russians use it constantly in conversation to ask for clarification. See you next time!"
+OUTRO = "Keep that sharp conversational question 'in what sense?' handy — Russians use it constantly to ask 'what exactly do you mean?'. See you next time!"
 CLOSING = ('barinov', 'До завтра!')
 STORY = [
     ('barinov', 'Алло, Тимур, я тебя не разбудил?', 'Hello, Timur, did I wake you up?', [(182, 'Алло, Тимур, я же тебя не разбудил')], 'adapted for A1 clarity'),

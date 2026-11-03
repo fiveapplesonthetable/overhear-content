@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'Barinov and Nagiyev have finished their meal at the rival restaurant. The hostess comes over to ask how they liked it, and Nagiyev gushes while Barinov gives a grudging verdict. Here is the verdict in Russian first.'
 OPENER = 'Now back to the verdict, line by line.'
 TRANSITION = "Here's the farewell at the rival restaurant once more."
-OUTRO = 'The two men leave on a polite note, though only one of them means it. "Vsyo ravno", still, is a handy pair of words for any argument you refuse to lose. See you next time!'
+OUTRO = "The two men leave Arcobaleno on a polite note, even if only Nagiyev means the praise. Notice Barinov's stubborn 'all the same', a handy phrase whenever you refuse to concede a point. See you next time!"
 CLOSING = ('nagiyev', 'До свидания!')
 STORY = [
     ('hostess', 'Добрый день, уважаемые гости нашего ресторана.', 'Good afternoon, respected guests of our restaurant.', [(265, 'Добрый день')], ''),

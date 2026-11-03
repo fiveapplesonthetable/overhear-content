@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = "Hearing shouts in the courtyard at three in the morning, Chef Barinov, Senya, Fedya, and Lyova rush outside and help Max wrestle Sasha's giant fiancé into the backseat."
 OPENER = "Let's examine each line of the courtyard rescue and the morning diamond bust."
 TRANSITION = "Now let's hear the whole rescue and morning scene again from start to finish."
-OUTRO = "Remember two super useful money words from this scene: 'skinutsya' ('to chip in together') and 'porovnu' ('equally / fifty-fifty'). See you next time!"
+OUTRO = "Remember the two everyday money expressions from this scene: 'to chip in together' and splitting something 'equally, fifty-fifty'. See you next time!"
 CLOSING = ('barinov', 'Хорошего дня!')
 STORY = [
     ('barinov', 'В восемь часов Тимур рыбу привезёт.', "At eight o'clock Timur will bring the fish.", [(219, 'Восемь часов тему рыбу привезет')], 'adapted for A1 clarity'),

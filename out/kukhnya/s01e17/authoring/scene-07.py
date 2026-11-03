@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Max has gone to fetch drinks, and Kostya and Nastya look around the bar. Kostya likes the place a bit too much. Then Max comes back with glasses, and it's time for a toast. Listen to the table talk in Russian first."
 OPENER = "Let's go round the table again, line by line."
 TRANSITION = 'Now the table talk once more, from the start.'
-OUTRO = 'Kostya has a daydream about another job, and the glasses go up. "Za vstrechu", to meeting up, is the easiest Russian toast you can learn. See you next time!'
+OUTRO = "Kostya daydreams about running a bar like this one, and the glasses go up. 'To our get-together!' is one of the easiest and warmest Russian toasts to remember. See you next time!"
 CLOSING = ('kostya', 'Ну, удачи нам!')
 STORY = [
     ('kostya', 'Слушай, а хороший бар.', "Listen, it's a nice bar.", [], ''),

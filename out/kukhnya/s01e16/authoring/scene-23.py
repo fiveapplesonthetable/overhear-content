@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Max has been trying to copy Barinov's famous pâté, and he thinks he has done it. He goes to the chef to announce it, and Barinov listens with growing disbelief."
 OPENER = 'Here it is again, piece by piece.'
 TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "Barinov won't take Max's word for it and goes to taste. 'Odin v odin', literally 'one into one', is the phrase to borrow when two things are exactly alike. See you next time!"
+OUTRO = "Barinov refuses to take Max's word for it and goes to taste the pâté himself. Listen for Max's idiom meaning 'identical' — literally 'one into one'. See you next time!"
 CLOSING = ('max', 'Удачи, шеф!')
 STORY = [
     ('max', 'Шеф, я сделал это.', 'Chef, I did it.', [(287, 'Шеф, я сделал это.')], ''),

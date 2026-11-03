@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Max's closing thought ends on one question. This is the last scene of the season; here's the Russian."
 OPENER = 'Now line by line, with the meaning.'
 TRANSITION = 'And the last words again.'
-OUTRO = "The season ends on an open question. The verb prosnutsya, 'to wake up', is one you'll need every morning in Russian. See you next time!"
+OUTRO = "Season one closes on Max's open question about waking up from illusions — using the everyday Russian verb for 'to wake up'. See you next time!"
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Может быть, стоило проснуться раньше?', 'Maybe we should have woken up sooner?', [(339, 'Может быть, стоило проснуться раньше')], ''),

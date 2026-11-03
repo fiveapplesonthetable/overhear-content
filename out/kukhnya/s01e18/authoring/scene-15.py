@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Senya is ill, and Max suspects the bar's fake cognac is to blame. At the same moment Barinov asks Kostya for a bottle of cognac, and Kostya hands him exactly the wrong one. Keep an eye on which bottle ends up on the table."
 OPENER = 'Now the bottle mix-up, slowly.'
 TRANSITION = 'Here it is again, mix-up and all.'
-OUTRO = 'Kostya has to get a bottle back from the chef\'s table, which is easier said than done. Remember that in Russian a bottle stands: "butylka stoit". See you next time!'
+OUTRO = "Now Kostya has to snatch the fake cognac back from the chef's table before anyone drinks it. Notice how in Russian a bottle on a table doesn't just sit there — it 'stands'. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Костя, это просто ужас!', 'Kostya, this is just a nightmare!', [(285, 'просто')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "In the dining room, Nagiyev's savings have reached the lights and the meat order. Barinov, his old friend, thinks it's gone too far, and says so. Listen to the Russian once before we break it down."
 OPENER = "First line again; let's see what's in it."
 TRANSITION = "Here's the whole quarrel, back to back."
-OUTRO = 'Barinov loses, and the candles stay lit. Notice that Nagiyev calls the candles a "khod", a move, the way you\'d talk about a chess game. See you next time!'
+OUTRO = "Barinov loses the argument, and the dining room candles stay lit. Notice how Nagiyev calls his cost-cutting idea a clever 'move', just like a move on a chessboard. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Дима, почему здесь выключили яркий свет?', 'Dima, why did they turn off the bright lights here?', [(140, 'Слушай, что так темно, а?')], ''),

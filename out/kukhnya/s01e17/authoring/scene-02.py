@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Still at the market, Barinov and Senya run into Elena Pavlovna, the head chef of Arcobaleno, the rival restaurant next door. She agrees about the old fish, then reminds Barinov that he owes her a return visit. Here is the meeting in Russian."
 OPENER = 'Now the meeting again, one line at a time.'
 TRANSITION = "Here's the whole meeting once more, all the way through."
-OUTRO = 'Senya protests a little too much about a place he has never been. Keep "do vstrechi", until the meeting: it is the goodbye for when you know you will see someone again. See you next time!'
+OUTRO = "Senya protests a little too much about a rival kitchen he claims he has never visited. Keep that warm farewell — literally 'until our meeting' — for when you know you'll see someone soon. See you next time!"
 CLOSING = ('elena', 'До встречи!')
 STORY = [
     ('elena', 'А вот тут я с вами согласна.', 'Well, there I agree with you.', [(15, 'А вот тут я с вами согласна.')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Elena Sokolova, chef of the Italian restaurant Arcobaleno, has bet Barinov that she can last a shift in his kitchen. The next morning she turns up at Claude Monet, and Barinov presents her to his cooks. It's in Russian first."
 OPENER = 'Slowly now. Barinov makes the introductions, and within a minute Elena is giving the orders.'
 TRANSITION = 'Now the whole first service again, at normal speed.'
-OUTRO = "Two of Elena's lines are worth keeping: vsem vsyo ponyatno?, 'is everything clear to everyone?', which works in any meeting, and sledit za kachestvom, 'to watch over quality', her motto for the whole shift. See you next time."
+OUTRO = "Two of Elena's lines are worth keeping: 'is everything clear to everyone?', which works in any meeting, and 'to watch over quality', her motto for the entire shift. See you next time."
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('barinov', 'Внимание всем, на кухне важный гость!', 'Attention everyone, in the kitchen is an important guest!', [(84, 'У кухни, внимание, это Елена Павловна')], ''),

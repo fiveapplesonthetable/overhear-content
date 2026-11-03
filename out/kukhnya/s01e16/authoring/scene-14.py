@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'The walk-in fridge is locked, and suddenly nobody in the kitchen has ever seen the spare key. Barinov blames his staff and spreads his hands. The inspector is sorry to hear it, but he has come prepared. Listen for the moment he reaches into his pocket.'
 OPENER = 'Now the hunt for the key, line by line.'
 TRANSITION = 'And the missing key once more, from the top.'
-OUTRO = "The key turns up at exactly the wrong moment for Fedya. Notice 'vot on', which means 'here it is', and how Russian says 'he' for a key. See you next time!"
+OUTRO = "The spare key turns up at the worst possible moment for Fedya. Notice how Russian says 'here he is' for 'here it is' because the word for a key is grammatically masculine. See you next time!"
 CLOSING = ('senya', 'Ну, удачи!')
 STORY = [
     ('barinov', 'Никто не видел запасного ключа?', 'Has anyone seen the spare key?', [(169, 'Никто не видел запасного ключа?')], ''),

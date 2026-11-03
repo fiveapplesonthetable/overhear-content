@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Elena is in the middle of her shift at Barinov's restaurant, Claude Monet. The orders are piling up, she thinks his cooks are too slow, and Barinov decides it is a good moment to leave her in charge. It's in Russian first."
 OPENER = 'Slowly now. Elena pushes, Barinov defends his cooks, and then he walks out.'
 TRANSITION = "Here's the argument once more, without stopping."
-OUTRO = "Barinov's posmotrim, 'we'll see', is a whole reply on its own, and his longer posmotrim, kto ostanetsya pobeditelem, is a good line to end a bet on. You've also heard vy otlichno spravites, 'you'll manage excellently', a polite thing to say to anyone. See you next time."
+OUTRO = "Barinov's 'we'll see' works as a whole reply on its own, and 'we'll see who comes out the winner' is a sharp line to end a bet on. You've also heard 'you'll manage excellently', a polite vote of confidence for anyone. See you next time."
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('elena', 'Повторяю для всех, заказ уже ждёт!', 'I repeat for everyone, the order is already waiting!', [(93, 'я повторю. Всем понятно')], ''),

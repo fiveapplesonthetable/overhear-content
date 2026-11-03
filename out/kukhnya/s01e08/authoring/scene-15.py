@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "At Claude Monet, Nagiyev phones while he is away to ask after his dog, Tyson. Vika, the manager, takes the call and has to pretend all is well, though Tyson is lying lifeless in the storeroom. Max is listening. It's in Russian first."
 OPENER = "Slowly now. Vika sounds cheerful on the phone, and Max can't believe his ears."
 TRANSITION = "Here's the call again, without stopping."
-OUTRO = "Vika's call is a model of phone manners: zdravstvuyte, podskazhite pozhaluysta, spasibo vam bolshoye, do svidaniya. And kak nazyvayetsya, 'what is it called', is a question you'll use every day. See you next time."
+OUTRO = "Vika's call is a model of polite Russian phone manners from 'hello' and 'could you please tell me' to 'thank you very much' and 'goodbye'. And 'what is it called?' is a question you'll use every day. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Да, здравствуйте, Дмитрий Владимирович!', 'Yes, hello, Dmitry Vladimirovich!', [(185, 'Да, Дмитрий Владимирович')], ''),

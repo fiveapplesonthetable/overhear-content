@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Barinov has come back to Claude Monet furious. He has found Senya's veal rolls on the menu of the rival restaurant, and he is sure there has been a leak. He goes straight for Senya. Here are Barinov's questions in Russian first."
 OPENER = "Now the questions Barinov fires at Senya, slowly."
 TRANSITION = "Here's Barinov and Senya again, from the top."
-OUTRO = 'Senya blames Fedya, and Barinov isn\'t buying it. Hold on to "ne ponimayu", I don\'t understand, which might be the most useful phrase there is. See you next time!'
+OUTRO = "Senya tries blaming Fedya for the leaked recipe, and Barinov doesn't buy a word of it. Hold on to 'I don't understand' — still one of the most useful phrases in any language. See you next time!"
 CLOSING = ('senya', 'До свидания!')
 STORY = [
     ('barinov', 'Ты был там?', 'Were you there?', [(290, 'Ты что, был там в Аркабалена?')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "To keep Ainura out of the inspector's sight, the staff have dressed her as a guest at a table in the dining room. The inspector sits down right opposite her, orders dessert, and talks about his work, and what he says over it is far from friendly."
 OPENER = "Now the inspector's dinner talk, one line at a time."
 TRANSITION = 'And the whole dinner once more, from the first word to the strudel.'
-OUTRO = "The strudel saves Ainura, and the inspector walks off with a full stomach. Remember 'te, kto poumnee', 'the cleverer ones', a handy way to talk about a group of people by what they are like. See you next time!"
+OUTRO = "The hot strudel saves Ainura, and the inspector walks off with a full stomach. Listen for how he says 'those who are smarter' — a natural Russian way to single out a group of people. See you next time!"
 CLOSING = ('inspector', 'До свидания!')
 STORY = [
     ('inspector', 'Вы не будете против, если я составлю вам компанию?', 'Would you mind if I joined you?', [(222, 'Вы не будете против, если я составлю вам компанию?')], ''),

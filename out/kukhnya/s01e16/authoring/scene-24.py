@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Barinov has taken a spoonful of Max's pâté. Max is waiting for the compliment, and what he gets is not quite what he hoped for."
 OPENER = "Let's replay it, with a word or two on each line."
 TRANSITION = "Let's finish by hearing it all again."
-OUTRO = "Max thought he had won, and now he is not sure what he has missed. 'Neplokho', 'not bad', is about as high as Barinov's praise goes, so enjoy it. See you next time!"
+OUTRO = "Max thought he had won the bet, and now he cannot tell what secret ingredient he missed. 'Not bad' is about as high as Barinov's praise ever goes. See you next time!"
 CLOSING = ('max', 'Ну, пока!')
 STORY = [
     ('barinov', 'Неплохо.', 'Not bad.', [(291, 'Неплохо.')], ''),

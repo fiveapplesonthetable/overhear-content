@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e11.ru.srt'
 INTRO = 'Still trapped in the apartment elevator hours later, Max loses his patience when a voice finally crackles over the intercom and decides to show Vika how a tough guy talks.'
 OPENER = "Let's go through each line of the intercom argument in the elevator."
 TRANSITION = "Now let's hear the whole elevator intercom scene again."
-OUTRO = "Notice how Russian says 'we want you to pull us out': because the subject changes, you must use 'chtoby' followed by the past-tense word. See you next time!"
+OUTRO = "Notice how Russian expresses 'we want you to pull us out': whenever the person changes, Russian links the two halves with 'so that' plus a past-tense form. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('guest', 'Я слушаю, есть там кто?', 'I am listening, is anyone in there?', [(245, 'Я слушаю, есть там кто')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "At Claude Monet, Max and Vika are trying to hide Nagiyev's dog, Tyson, in the vegetable storeroom, behind the potatoes. Lyova, the sous-chef, is about to walk in on them. It's in Russian first."
 OPENER = 'Slowly now. Max and Vika speak in quick commands, and then Lyova walks in.'
 TRANSITION = "Here's the hiding again, all in one go."
-OUTRO = "Lyova's put-down, eto vam ne motel, 'this is no motel for you', is a joke and a telling-off at once. And pust ona polezhit, 'let her lie for a while', shows how pust makes a 'let' for someone else. See you next time."
+OUTRO = "Lyova's put-down, 'this is no motel for you', is a joke and a telling-off all at once, while Vika's 'let her lie for a while' tries to talk their way out of the mess. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вот, положи её сюда.', 'Here, put her here.', [(139, 'сюда давай')], ''),

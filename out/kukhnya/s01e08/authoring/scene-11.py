@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Elena is running Barinov's kitchen at Claude Monet for the day. She stops beside Fedya, one of the cooks, and praises the way he fries fish. Fedya is not used to compliments. It's in Russian first."
 OPENER = 'Slowly now. Each compliment from Elena gets a suspicious answer from Fedya, until he gives in.'
 TRANSITION = 'Now the whole conversation again, in one go.'
-OUTRO = "Fedya's line mne nikogda ne govorili takikh slov, 'nobody ever told me such words', is a good way to accept a compliment. And s pervogo vzglyada, 'at first sight', works for talent and for love. See you next time."
+OUTRO = "Fedya's line, 'nobody ever told me such words', is a warm way to accept a rare compliment. And 'at first sight' works just as well for culinary talent as it does for love. See you next time."
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('elena', 'Федя, скажите, вы случайно учились во Франции?', 'Fedya, tell me, did you by chance study in France?', [(125, 'Федя, вы учились во Франции')], ''),

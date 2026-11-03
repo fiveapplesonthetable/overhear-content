@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 INTRO = 'Savoring his victory in the cockroach race, Mikhail returns his office key to Barinov but immediately orders the French chef to bake a pizza for the visiting district prefect. Listen to their exchange.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that wraps up Mikhail's pizza ultimatum. Notice how Russian expresses 'I want you to prepare' using the connecting word 'chtoby' followed by the past-tense word. Until next time!"
+OUTRO = "And that wraps up Mikhail's pizza ultimatum. Notice how Russian says 'I want you to prepare' by linking the two clauses with 'so that' plus a past-tense form. Until next time!"
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('mikhail', 'Ну что, Витя, теперь ты мой раб.', 'Well then, Vitya, now you are my servant.', [(237, 'Ну что, Витя, теперь ты мой раб')], 'verbatim'),

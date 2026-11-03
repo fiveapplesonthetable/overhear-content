@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 INTRO = 'To prove to Denis that any woman would forgive a breakup fling if told honestly, Kostya asks Nastya a supposedly hypothetical question—which backfires immediately. Listen to the conversation.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that shows how fast Kostya's hypothetical experiment blew up in his face. Notice the command 'predstav' meaning 'imagine'. See you next time!"
+OUTRO = "And that shows how fast Kostya's hypothetical question blew up in his face, starting from a single innocent word: 'imagine!'. See you next time!"
 CLOSING = ('kostya', 'До встречи!')
 STORY = [
     ('kostya', 'Лучше сразу всё ей расскажи.', 'Better tell her everything right away.', [(79, 'лучше расскажи')], 'adapted'),

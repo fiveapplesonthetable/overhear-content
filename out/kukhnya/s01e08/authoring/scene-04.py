@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Still in the studio and still live on camera, Elena Sokolova has heard enough from Barinov. She turns his insults into a bet: she will work a full shift in his kitchen at Claude Monet, and if she lasts, he pays for dinner. It's in Russian first."
 OPENER = "Let's go back through the challenge. Elena sounds calm, and Barinov sounds very sure of himself."
 TRANSITION = 'Now the whole bet again, start to finish.'
-OUTRO = "A bet in Russian needs only a few words: davayte posporim, 'let's bet', dogovorilis, 'agreed', and a few svideteli, 'witnesses'. You've now heard all of them. See you next time."
+OUTRO = "A bet in Russian needs only three key expressions: 'let's bet', 'agreed', and 'witnesses'. You've now heard all three on live television. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Виктор, вы ведёте себя очень грубо!', 'Viktor, you are behaving very rudely!', [(32, 'Вы какой-то женоненавистник')], ''),

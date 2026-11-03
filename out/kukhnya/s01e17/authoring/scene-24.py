@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = 'The episode ends with Max thinking aloud about lies and starting again. Here are his thoughts in Russian first.'
 OPENER = "Now let's go back through it, one thought at a time."
 TRANSITION = "Here's Max one last time."
-OUTRO = 'That\'s the end of the episode, and a small lesson with it. "S chistogo lista", from a clean sheet, is how Russians say a fresh start, so keep it for later. See you next time!'
+OUTRO = "That wraps up the episode with a quiet reflection from Max. Notice how Russian calls a fresh start 'from a clean sheet of paper'. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Но самое сложное — это исправлять последствия лжи.', 'But the hardest part is fixing what a lie leads to.', [(332, 'Но самое сложное – это исправлять последствия вранья.')], ''),

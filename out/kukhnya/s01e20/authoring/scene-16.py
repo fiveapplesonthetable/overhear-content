@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Left alone outside after his fight with Vika, Max turns to a stranger, and then hands something over. Here it is in Russian."
 OPENER = 'Now the words up close.'
 TRANSITION = "Here's the street scene again."
-OUTRO = "Max gives it away and walks on. Russians say \"starik\", 'old man', to an old man, but also to a close friend of any age. See you next time!"
+OUTRO = "Alone outside after the row, Max hands the ring away to a stranger and walks on. Notice that Russians use 'old man' both literally and as an affectionate word for an old pal. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Извините. Это нормально, да?', 'Excuse me. Is this normal?', [(283, 'Извините. Это нормально, да?')], ''),

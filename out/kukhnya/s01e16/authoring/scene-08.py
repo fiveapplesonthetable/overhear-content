@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Over in the bar, Kostya has gossip: the inspectors have turned up next door. Max doesn't care. All he can think about is his bet with the chef, so he makes his friend say, honestly, whose pâté is better. Listen for how long Kostya stalls before he answers."
 OPENER = 'Now the honest verdict, line by line.'
 TRANSITION = 'And the bar conversation once more, at full speed.'
-OUTRO = "Kostya gives the honest answer and Max takes it on the chin. Notice that Kostya sends him off with 'udachi', a wish for luck: it's a good word to keep for yourself. See you next time!"
+OUTRO = "Kostya gives the honest answer and Max takes it on the chin. Notice how Kostya sends him off with a single-word wish for 'good luck' — a handy farewell for any occasion. See you next time!"
 CLOSING = ('kostya', 'Ну, удачи!')
 STORY = [
     ('kostya', 'Макс, ты слышал про проверку?', 'Max, did you hear about the inspection?', [(58, 'А ты слышал про проверку ФМС в другом ресторане?')], ''),

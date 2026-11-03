@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Barinov has been shut out of his own restaurant, Claude Monet, while Elena runs his kitchen for the day. He sits on a bench outside, and a rude stranger sits down next to him. It's in Russian first."
 OPENER = 'Slowly now. The stranger starts with an insult, and by the end Barinov is thanking him.'
 TRANSITION = 'Now the whole conversation on the bench again.'
-OUTRO = "Barinov's vow, ya vernus i vernu svoyu kukhnyu, 'I'll come back and get my kitchen back', puts two close words together: vernutsya, 'to return', and vernut, 'to get something back'. And spasibo za sovet, 'thanks for the advice', is useful any day. See you next time."
+OUTRO = "Barinov's vow, 'I'll come back and get my kitchen back', pairs two closely related Russian verbs: 'to return' oneself and 'to take something back'. And 'thanks for the advice' is useful any day. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('passerby', 'Эй, дурак, почему ты сидишь здесь?', 'Hey, idiot, why are you sitting here?', [(124, 'Эй, дурак')], ''),

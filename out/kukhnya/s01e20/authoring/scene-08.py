@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "Next morning, Kostya wakes up in a playful mood. Here's the Russian."
 OPENER = "Let's break that down."
 TRANSITION = "Here's the moment again."
-OUTRO = "We'll see what Nastya has in mind next. In poigrat, 'to play for a bit', the po- at the front makes it short. See you next time!"
+OUTRO = "We'll see what Nastya really has in mind next, right after Kostya's playful morning mood. Notice how Russian adds a short prefix to 'play' to mean 'play for a little while'. See you next time!"
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Доброе утро, Настя.', 'Good morning, Nastya.', [], ''),

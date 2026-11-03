@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Vika drags Max outside. She is ashamed of him, and he is jealous of the guest. Here it is in Russian.'
 OPENER = 'Now the row, line by line.'
 TRANSITION = "And here's the row again."
-OUTRO = "Vika takes Max at his word. Russian builds \"blagodarnyy\", 'grateful', from the same root as \"blagodaryu\", 'I thank'. See you next time!"
+OUTRO = "Outside the restaurant, Vika takes Max's angry words literally. Notice how Russian builds 'grateful' and 'I thank you' from the roots for 'good' and 'give'. See you next time!"
 CLOSING = ('vika', 'До встречи!')
 STORY = [
     ('vika', 'Пойдём. Пойдём.', 'Come on. Come on.', [(271, 'Пойдем. Пойдем.')], ''),

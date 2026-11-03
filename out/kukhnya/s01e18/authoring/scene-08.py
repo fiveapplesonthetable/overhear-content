@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Barinov and Vika rarely agree on anything, but Nagiyev's penny-pinching has put them on the same side. Quietly, they decide the owner has to be stopped. Hear the Russian first; listen for how surprised Vika is."
 OPENER = "Let's go back to the start and look closer."
 TRANSITION = 'Now the two plotters, uninterrupted.'
-OUTRO = 'An unlikely alliance, with one common enemy. Note how "zhadnyy", greedy, becomes "zhadnost", greed: the "-ost" ending turns a quality into a thing. See you next time!'
+OUTRO = "Nagiyev's penny-pinching pushes Barinov and Vika into an unlikely alliance. Notice how the dialogue turns the adjective 'greedy' directly into the abstract noun 'greed'. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Вика, наш хозяин ведёт себя как сумасшедший.', 'Vika, our owner is acting like a lunatic.', [(168, 'Димон какой-то неадекватный.')], ''),

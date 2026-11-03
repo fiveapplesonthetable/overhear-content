@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "Chef Barinov has shut himself in his office at Claude Monet, and his sous-chef Lyova is still trying to talk him round. Barinov has decided that nobody in the restaurant is loyal to him, and he says so at length. Here it is in Russian first."
 OPENER = "Let's replay the sulk. Every complaint from Barinov gets a gentle answer from Lyova."
 TRANSITION = "Now the whole conversation once more."
-OUTRO = "Lyova's last line is a quiet, loyal one, and \"vsyo ravno\", anyway, is worth keeping: you'll hear it every day. See you next time."
+OUTRO = "Lyova's last line is a quiet, loyal one, and the Russian phrase for 'all the same' or 'anyway' is worth keeping: you'll hear it every single day. See you next time."
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('barinov', 'Все эти люди вокруг — неблагодарные предатели.', 'All these people around are ungrateful traitors.', [(217, 'они все')], ''),

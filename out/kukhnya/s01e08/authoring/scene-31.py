@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "The shift at Claude Monet is finally over. Nastya, a waitress, and Kostya, one of the cooks, sit together after work and talk about the day and, a little shyly, about each other. Here it is in Russian first."
 OPENER = "Let's go through their talk. They keep saying 'friends', and neither of them quite means it."
 TRANSITION = "Now the whole conversation, without stops."
-OUTRO = "\"S bolshim udovolstviem\", with great pleasure, is a lovely way to say yes to almost anything. Keep it ready. See you next time."
+OUTRO = "Saying 'with great pleasure' is a warm, polite way to accept almost any invitation in Russian. Keep that phrase ready. See you next time."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, этот сумасшедший рабочий день наконец закончился.', 'Kostya, this crazy workday has finally ended.', [], ''),

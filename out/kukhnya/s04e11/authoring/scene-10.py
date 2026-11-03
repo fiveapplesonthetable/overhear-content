@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e11.ru.srt'
 INTRO = 'The next morning, Lyova catches Chef Barinov fanning the pungent smell of aged cheese through a wall vent into Claude Monet, and tries using irony from his psychology audiobook.'
 OPENER = "Let's examine each line as Lyova's ironic advice backfires."
 TRANSITION = "Now let's hear the whole scene again from start to finish."
-OUTRO = "Notice that in Russian grammar, insects like cockroaches count as animate beings, so their plural direct object takes the '-ov' ending. See you next time!"
+OUTRO = 'Notice that in Russian, insects like cockroaches count as living beings, so their plural form changes just like words for people when someone lets them loose. See you next time!'
 CLOSING = ('barinov', 'До свидания!')
 STORY = [
     ('lyova', 'Шеф, а что вы тут делаете?', 'Chef, what are you doing here?', [(139, 'Шеф, а вы что делаете')], 'adapted for A1 clarity'),

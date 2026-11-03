@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = 'Nagiyev has called in the kitchen staff to tell them they are being let go. Senya and Fedya talk it over, and then the payout arrives, and it is not what they hoped. Listen for the amount in the envelope.'
 OPENER = 'Now the bad news, piece by piece.'
 TRANSITION = 'And the whole farewell once more.'
-OUTRO = 'The payout is smaller than anyone expected, and the rest is promised for later. Keep "raschyot", final pay, from "schitat", to count. See you next time!'
+OUTRO = "The severance envelope is much lighter than Senya and Fedya expected, with the rest promised for later. Notice that the Russian noun for 'final settlement pay' comes straight from 'to count'. See you next time!"
 CLOSING = ('nagiyev', 'Удачи!')
 STORY = [
     ('nagiyev', 'Ребята, нам придётся расстаться с вами.', 'Guys, we will have to part ways with you.', [(358, 'нам придётся расстаться с вами')], ''),

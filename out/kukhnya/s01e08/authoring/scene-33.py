@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "After a hard evening at Claude Monet, Kostya, one of the cooks, is still upset about the chef shouting at him. Max, his friend, cheers him up with a little speech about why mistakes are useful. Here it is in Russian first."
 OPENER = "Let's go through the pep talk. Kostya worries, and Max has an answer for everything."
 TRANSITION = "Now the full conversation once more."
-OUTRO = "Max's idea is that mistakes help you find the right path, \"pravilnyy put\". It's a good thought for anyone learning a language. See you next time."
+OUTRO = "Max's idea is that mistakes help you find 'the right path' — a reassuring thought for a young cook and for anyone learning a new language. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Макс, я сегодня натворил глупостей.', 'Max, I did stupid things today.', [], ''),

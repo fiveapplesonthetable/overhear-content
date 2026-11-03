@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = "At the host podium in Claude Monet, Max's ex-girlfriend Sasha cheerfully greets Vika and asks to book a Thursday wedding banquet for thirty guests, triggering an immediate lie from Vika."
 OPENER = "Let's go through each line of Sasha's request and Vika's polite refusal."
 TRANSITION = 'Now listen to the whole opening conversation again at natural speed.'
-OUTRO = "Notice how Russian says 'in a close circle' with the special locative ending '-u' on 'v uzkom krugu'. Until next time!"
+OUTRO = "Notice Sasha's warm Russian phrase for celebrating 'in a close circle' of family and friends. Until next time!"
 CLOSING = ('sasha', 'Всего хорошего!')
 STORY = [
     ('sasha', 'Вика, привет, как твои дела?', 'Vika, hi, how are you doing?', [(1, 'Вика, привет')], 'adapted for A1 clarity'),

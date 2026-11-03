@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 INTRO = 'At the bar, a guilt-ridden Denis confesses to Kostya that he got drunk and slept with someone after Katya rejected his proposal, and Kostya analyzes the situation like a courtroom lawyer. Listen to their exchange.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that wraps up Kostya's courtroom defense of Denis. Notice how Russian distinguishes 'vyyti zamuzh' for a woman marrying from 'zhenitsya' for a man. Until next time!"
+OUTRO = "And that wraps up Kostya's courtroom-style defense at the bar. Remember how Russian uses two completely different expressions for getting married depending on whether a woman or a man is marrying. Until next time!"
 CLOSING = ('denis', 'До свидания!')
 STORY = [
     ('kostya', 'Успокойся ты, всё нормально.', 'Calm down, everything is fine.', [(68, 'Успокойся ты')], 'adapted'),

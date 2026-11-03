@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = 'Kristina is now in charge, and her first move is to ask Barinov for a private word, politely sending Vika away. Barinov stalls by calling to Kostya at the bar for a bottle of cognac. Listen to it in Russian first.'
 OPENER = 'Now the private word, one line at a time.'
 TRANSITION = 'Now the whole scene from the top, without stopping.'
-OUTRO = 'Barinov has his bottle, and the private talk can begin. Keep "esli vy ne protiv", if you don\'t mind, for any polite request. See you next time!'
+OUTRO = "Barinov gets his bottle of cognac, and Kristina's private talk can begin. Keep her smooth 'if you don't mind' in mind for polite requests. See you next time!"
 CLOSING = ('kristina', 'Всего доброго!')
 STORY = [
     ('kristina', 'Мы с Димочкой обсудили дела в ресторане,', 'Dimochka and I have talked over things at the restaurant,', [(265, 'Мы с Димочкой обсудили дела в ресторане,')], ''),

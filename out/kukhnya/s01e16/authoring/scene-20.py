@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "The inspector brings Fedya into Barinov's office. He tells the chef he should have owned up from the start, and he turns down any deal. First comes the fine, and then something worse for the kitchen."
 OPENER = 'Now the deal Barinov tries to strike, piece by piece.'
 TRANSITION = "Let's hear the whole thing again, start to finish."
-OUTRO = "Barinov will pay, but he is about to lose his fish cook. 'Daleko ne vsyo', 'far from all', is worth keeping: it warns that the bad news isn't over yet. See you next time!"
+OUTRO = "Barinov will pay the fine, and he is still about to lose his fish cook. Keep the phrase 'far from everything' in mind — it warns that the bad news isn't over yet. See you next time!"
 CLOSING = ('inspector', 'Всего хорошего!')
 STORY = [
     ('inspector', 'Вот я и нашёл вашего повара.', "Well, I've found your cook.", [(271, 'Вот.')], ''),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Nagiyev starts cutting costs in person, down to the light switches. At home, Max and Kostya owe rent they can't pay, and Max knows a bartender's trick. Listen through once in Russian; the details come next."
 OPENER = "Let's slow it down and go line by line."
 TRANSITION = "You've met every line. Now hear the scene run on its own."
-OUTRO = 'Max\'s ice trick saves money and cheats customers, and honest Kostya won\'t like it. One word to keep: "chasy", a watch, which only exists in the plural. See you next time!'
+OUTRO = "Max's extra-ice trick cheats the bar's customers, and honest Kostya wants none of it. Notice too that the Russian word for a wristwatch or clock is always plural, just like 'scissors' in English. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('nagiyev', 'В моём ресторане я буду всё контролировать!', 'In my restaurant I will control everything!', [(42, 'в моем ресторане я буду все контролировать')], ''),

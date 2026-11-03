@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 INTRO = 'Summoning Denis to her office, Eleonora Andreevna offers him twenty thousand euros to disappear from the hotel and city while Katya is in St. Petersburg—and fires him when he turns the money down. Listen to their confrontation.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that shows Denis standing up to Eleonora's bribe even at the cost of his job. Notice the short form 'uvolen' meaning 'you are fired'. Until next time!"
+OUTRO = "And that shows Denis turning down Eleonora's twenty-thousand-euro bribe, only to hear her crisp one-word verdict: 'fired!'. Until next time!"
 CLOSING = ('denis', 'Всего хорошего!')
 STORY = [
     ('eleonora', 'Нам нужно решить нашу деликатную проблему.', 'We need to solve our delicate problem.', [(77, 'нам нужно решить нашу деликатную проблему')], 'verbatim'),

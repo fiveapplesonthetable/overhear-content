@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 INTRO = 'After Nastya storms off, Kostya angrily tells Denis to go confess to Katya, while in the kitchen Chef Barinov tends to a French demi-glace sauce that has been simmering for thirty-eight hours. Listen to the scene.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that highlights Chef Barinov's devotion to classic French sauces. Notice the everyday expression 'schitayetsya' meaning 'is considered'. Until next time!"
+OUTRO = "And that highlights Chef Barinov's devotion to classic French sauces, along with the everyday Russian verb meaning 'is considered'. Until next time!"
 CLOSING = ('barinov', 'До завтра!')
 STORY = [
     ('kostya', 'Ну, чего ты так уставился?', 'Well, what are you staring at like that?', [(92, 'Ну, что уставился?')], 'adapted'),

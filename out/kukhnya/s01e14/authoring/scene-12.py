@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'In the kitchen, pastry chef Louis is sobbing again, and Barinov has no patience for it. Orders are waiting. Listen to it in Russian.'
 OPENER = 'Once more, slowly.'
 TRANSITION = 'Here is the kitchen scene again.'
-OUTRO = 'Louis gets back to work, and Barinov yells at the rest of the kitchen to do the same. Yelling "we work" is the kitchen\'s way of saying get on with it. Later.'
+OUTRO = "Louis gets back to work, and Barinov yells at the rest of the kitchen to do the same. Barking 'we work!' is the chef's way of saying 'get on with it'. Later."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Луи, почему ты опять горько плачешь?', 'Louis, why are you crying bitterly again?', [(175, 'Луи.')], ''),

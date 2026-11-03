@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = 'Senya is lying in the staff room looking terrible after eating fish that was past its best, and Fedya is trying to help. His remedy is not a very medical one. Listen for the moment it all goes wrong.'
 OPENER = 'Back to the staff room, slowly.'
 TRANSITION = 'And now the scene at full speed once more.'
-OUTRO = 'Senya collapses just as Fedya reaches for the pepper, and the scene ends on a note of alarm. Keep "ne nado bylo", you shouldn\'t have: it fits any mistake. See you next time!'
+OUTRO = "Senya keels over right as Fedya reaches for the pepper cure. Listen for that handy past-tense regret phrase meaning 'you shouldn't have done that'. See you next time!"
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('fedya', 'Ты выглядишь совсем плохо.', 'You look completely bad.', [(262, 'что-то совсем плохой.')], ''),

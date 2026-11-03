@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 INTRO = 'The kitchen crew rejoices when Chef Barinov announces he is staying to protect the restaurant he built, and Katya stops by the bar to say goodbye to Denis before her flight. Listen to the Russian scene.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that sends Katya off toward the airport while Senya plans his next loan. Notice the affectionate farewell 'Lyublyu tebya. Ne skuchay'. Until next time!"
+OUTRO = "And that sends Katya off toward the airport with a warm 'love you, don't miss me too much', while Senya plots his next loan. Until next time!"
 CLOSING = ('denis', 'До свидания!')
 STORY = [
     ('denis', 'Шеф, так вы остаётесь с нами?', 'Chef, so you are staying with us?', [(123, 'Шеф, так вы остаетесь?')], 'adapted'),

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "At Claude Monet, Barinov has shut himself in his dark office, sure that his cooks have betrayed him for Elena. He talks to the only one he trusts, his goldfish Arkasha, until Lyova, one of his cooks, comes to find him. It's in Russian first."
 OPENER = 'Slowly now. Barinov is dramatic, and Lyova tries to bring him back.'
 TRANSITION = 'And the whole sad scene again, without the pauses.'
-OUTRO = "Barinov's ya nikuda ne poydu, 'I'm not going anywhere', is easy to say and very firm. And skuchat bez, literally 'to be bored without', is how Russians say they miss someone. See you next time."
+OUTRO = "Barinov's 'I'm not going anywhere' is short and firm, and notice how Russian expresses missing someone with a phrase that literally means 'to feel bored without them'. See you next time."
 CLOSING = ('barinov', 'Пока')
 STORY = [
     ('barinov', 'Один ты остался у меня, милый Аркашка.', 'You are all I have left, dear Arkasha.', [(213, 'Один ты у меня остался, Аркашка')], ''),
