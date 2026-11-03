@@ -363,6 +363,21 @@ class Renderer:
                 i0, i1 = max(0, int(round(s_sec * sr))), min(len(c_clip), int(round(e_sec * sr)))
                 if i1 <= i0:
                     i1 = min(len(c_clip), i0 + int(0.045 * sr))
+                # De-shush guard on resumed segments: if the resumed English word does not begin with a fricative/sibilant,
+                # advance i0 past any residual high-ZCR unvoiced hiss frames (< 60 ms) at the cut boundary.
+                lead_word = orig_t.lstrip(" '\",;:—–-(").lower()
+                if k_seg > ch_obj.a and lead_word and lead_word[0] not in "scfhzwvtp" and (i1 - i0) > int(0.10 * sr):
+                    step_n = max(1, int(0.008 * sr))
+                    seg_pk = float(np.abs(c_clip[i0:i1]).max()) + 1e-8
+                    max_trim = i0 + int(0.056 * sr)
+                    while i0 + step_n < min(max_trim, i1 - int(0.05 * sr)):
+                        fr = c_clip[i0:i0 + step_n]
+                        zcr = float(np.mean(fr[:-1] * fr[1:] < 0)) if len(fr) > 1 else 0.0
+                        if zcr > 0.20 and float(np.sqrt(np.mean(fr * fr))) < seg_pk * 0.25:
+                            i0 += step_n
+                        else:
+                            break
+                    s_sec = i0 / sr
                 part_clip = audio.fade(c_clip[i0:i1], sr, 12)
                 part_dur = len(part_clip) / sr
                 j0, j1 = max(0, int(round(s_sec * 16000))), min(len(c_x16), int(round(e_sec * 16000)))

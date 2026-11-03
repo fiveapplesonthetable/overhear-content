@@ -258,15 +258,35 @@ class AudioGates:
         for idx, (len_ok, len_reason, tran_ok, tran_reason, w_trim, w_16k, f0_std, pros_pen) in enumerate(prepped):
             emb = self.get_embedding(w_16k, 16000)
             sim_val = float(torch.nn.functional.cosine_similarity(emb, self.ref_embeddings[ref_path], dim=0).item())
-            if lang == "en" and len(w_16k) >= 40000:
-                # Split-window speaker check: catch any 2s opening/closing roleplay flip out of British 'sky'
-                emb_h = self.get_embedding(w_16k[:35200], 16000)
-                emb_t = self.get_embedding(w_16k[-35200:], 16000)
-                sim_h = float(torch.nn.functional.cosine_similarity(emb_h, self.ref_embeddings[ref_path], dim=0).item())
-                sim_t = float(torch.nn.functional.cosine_similarity(emb_t, self.ref_embeddings[ref_path], dim=0).item())
-                sim_val = min(sim_val, sim_h, sim_t)
-            sim_thresh = 0.82 if lang == "en" else 0.67
-            sim_ok = sim_val >= sim_thresh
+            pitch_ok = True
+            if lang == "en":
+                # Full 0.9s-stride sliding-window WavLM check (1.8s window): zero blind spots anywhere in clip
+                win_len = 28800
+                win_hop = 14400
+                if len(w_16k) >= win_len:
+                    win_sims = []
+                    starts = list(range(0, len(w_16k) - win_len + 1, win_hop))
+                    if starts[-1] != len(w_16k) - win_len:
+                        starts.append(len(w_16k) - win_len)
+                    for ws in starts:
+                        seg_w = w_16k[ws:ws + win_len]
+                        if float(np.sqrt(np.mean(seg_w * seg_w))) < 0.008:
+                            continue
+                        w_emb = self.get_embedding(seg_w, 16000)
+                        win_sims.append(float(torch.nn.functional.cosine_similarity(w_emb, self.ref_embeddings[ref_path], dim=0).item()))
+                    if win_sims:
+                        sim_val = min([sim_val] + win_sims)
+                # Lock median F0 inside sky's calm British female range (165..226 Hz)
+                f0_y = librosa.yin(w_16k, fmin=75, fmax=380, sr=16000, frame_length=1024, hop_length=512)
+                rms_y = librosa.feature.rms(y=w_16k, frame_length=1024, hop_length=512)[0]
+                ny = min(len(f0_y), len(rms_y))
+                v_f0 = f0_y[:ny][(rms_y[:ny] >= rms_y.max() * 0.10) & (f0_y[:ny] > 80.0) & (f0_y[:ny] < 360.0)]
+                if len(v_f0) >= 6:
+                    med_f0 = float(np.median(v_f0))
+                    if med_f0 < 165.0 or med_f0 > 226.0:
+                        pitch_ok = False
+            sim_thresh = 0.85 if lang == "en" else 0.67
+            sim_ok = (sim_val >= sim_thresh) and pitch_ok
 
             segs, _ = self.whisper.transcribe(
                 w_16k, language=lang, beam_size=1,

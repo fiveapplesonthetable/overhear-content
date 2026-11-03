@@ -566,8 +566,9 @@ def run_gate_worker(worker_id: int):
                     counts[ck] = counts.get(ck, 0) + prev_counts.get(ck, 0)
                 counts["retakes"] = max(0, counts["takes"] - 1)
 
-            if not ok and attempt < 3:
-                # Re-synthesize up to 3 retries with fresh seed & 4 candidates so failed takes never slip through
+            max_retries = 5 if meta.get("lang") == "en" else 3
+            if not ok and attempt < max_retries:
+                # Re-synthesize with fresh seed & 4 candidates so failed takes never slip through
                 _reenqueue_synth(meta, attempt=attempt + 1, prev_counts=counts, n_cands=4)
                 continue
 
@@ -693,7 +694,7 @@ def run_orchestrator():
                     lang = it["lang"]
                     has_custom = bool(voices.refs.get(it["voice"], {}).get("customVoice"))
                     eng_kind = "en" if (has_custom or lang == "en") else ("ru" if (lang == "ru" and ru_cfg) else ("ar" if (lang == "ar" and ar_cfg) else "qwen"))
-                    n_cands = 3 if lang == "en" else 3
+                    n_cands = 4 if lang == "en" else 3
                     job = {
                         "prio": prio,
                         "episode": ep,
