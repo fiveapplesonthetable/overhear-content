@@ -12,11 +12,11 @@ SOURCE_FILE = 'sources/paquita-salas/s01/e03.es.srt'
 SOURCE_NOTE = 'Native Spanish captions.'
 
 INTRO = "Paquita asks one final question. Listen to the Spanish first, then we'll go through it together."
-OPENER = "Let's start with..."
-TRANSITION = "Now let's listen to the whole scene again."
-OUTRO = 'A short but important moment. See you next time.'
+OPENER = "Now let's go through it line by line with the English translation."
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'A short, heartfelt question before accepting the answer. See you next time.'
 CLOSING = ('paquita', 'Hasta luego!')
 
 STORY = [('paquita', '¿Estás segura?', 'Are you sure?', [(405, '¿Estás segura?')], ''), ('paquita', '¿Estás segura?', 'Are you sure?', [(405, '¿Estás segura?')], ''), ('paquita', '¿Estás segura?', 'Are you sure?', [(405, '¿Estás segura?')], ''), ('paquita', '¿Estás segura?', 'Are you sure?', [(405, '¿Estás segura?')], ''), ('paquita', '¿Estás segura?', 'Are you sure?', [(405, '¿Estás segura?')], ''), ('paquita', '¿Estás segura?', 'Are you sure?', [(405, '¿Estás segura?')], ''), ('paquita', '¿Estás segura?', 'Are you sure?', [(405, '¿Estás segura?')], ''), ('paquita', '¿Estás segura?', 'Are you sure?', [(405, '¿Estás segura?')], '')]
 
-WALK = [(0, '', "'¿Estás segura?' This word means exactly that."), (1, '', "'¿Estás segura?' The word 'Estás segura' is great. This key phrase works."), (2, '', "'¿Estás segura?' The word 'Estás segura' is great. This little word is nice."), (3, '', "'¿Estás segura?' The word 'Estás segura' is great. This word means exactly that."), (4, '', "'¿Estás segura?' The word 'Estás segura' is great. The word for it is neat.")]
+WALK = [(0, None, "'Are you sure?'"), (1, None, "'Are you sure?'"), (2, None, "'Are you sure?'"), (3, None, "'Are you sure?'"), (4, None, "'Are you sure?'")]

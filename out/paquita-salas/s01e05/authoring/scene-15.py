@@ -15,5 +15,5 @@ STORY = [('silvia', '¿Cómo ha dicho que se llama? ¿Paquita qué?', 'What did 
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'What did she say her name was? Paquita who?'"), (1, None, "'Paquita Salas.'"), (2, None, "'That Paquita, girl.'"), (3, None, "'I'm leaving.'"), (4, None, "'Leaving where?'"), (5, None, "'Honestly, what am I doing here?'"), (6, None, "'Oh, wait—you mean you're leaving for good?'"), (7, None, "'Goodbye.'"), (8, None, "'The address—you're leaving it behind! Wait, wait up.'"), (9, None, "'I love you.'"), (10, None, "'And I love you.'"), (11, None, "'Come on, back to work.'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice how Spanish puts 'que' in front of a declaration like 'que me voy'—'hey, I'm leaving'—to make an announcement land with extra punch. See you next time."
+OUTRO = 'You heard the waitresses marvel at Paquita Salas after she walked out, followed by the newly signed actress untying her apron, quitting on the spot, and hugging her friend goodbye. See you next time.'
 CLOSING = ('sofi', '¡Hasta pronto!')

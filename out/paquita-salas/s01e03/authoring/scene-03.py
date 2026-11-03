@@ -11,12 +11,12 @@ SOURCE_NAME = 'Paquita Salas S01E03'
 SOURCE_FILE = 'sources/paquita-salas/s01/e03.es.srt'
 SOURCE_NOTE = 'Native Spanish captions.'
 
-INTRO = "Narrator intro explaining context. Listen to the Spanish first, then we'll go through it together."
-OPENER = "Let's start with..."
-TRANSITION = "Now let's listen to the whole scene again."
-OUTRO = 'Narrator outro. See you next time.'
+INTRO = "Arriving at her family home in the countryside, Paquita calls out a greeting at the door. Listen to the Spanish first, then we'll go through it together."
+OPENER = "Now let's go through it line by line with the English translation."
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'You heard Paquita step inside her family home and call out a warm greeting. See you next time.'
 CLOSING = ('paquita', 'Hasta luego!')
 
 STORY = [('paquita', 'Hola.', 'Hello.', [(250, 'Hola.')], ''), ('paquita', 'Hola.', 'Hello.', [(250, 'Hola.')], ''), ('paquita', 'Hola.', 'Hello.', [(250, 'Hola.')], ''), ('paquita', 'Hola.', 'Hello.', [(250, 'Hola.')], ''), ('paquita', 'Hola.', 'Hello.', [(250, 'Hola.')], ''), ('paquita', 'Hola.', 'Hello.', [(250, 'Hola.')], ''), ('paquita', 'Hola.', 'Hello.', [(250, 'Hola.')], ''), ('paquita', 'Hola.', 'Hello.', [(250, 'Hola.')], '')]
 
-WALK = [(0, '', "'Hola.' The phrase is quite neat."), (1, '', "'Hola.' The word here is great."), (2, '', "'Hola.' The phrase is very common."), (3, '', "'Hola.' This little word helps."), (4, '', "'Hola.' Notice the informal version.")]
+WALK = [(0, None, "'Hello.'"), (1, None, "'Hello.'"), (2, None, "'Hello.'"), (3, None, "'Hello.'"), (4, None, "'Hello.'")]

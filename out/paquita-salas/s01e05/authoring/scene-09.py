@@ -15,5 +15,5 @@ STORY = [('mariona', 'Era una desconocida y ahora estoy nominada a Actriz Revela
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'I was an unknown and now I'm nominated for Best New Actress.'"), (1, None, "'They're actresses I've respected my whole life.'"), (2, None, "'Francisca Salas?'"), (3, None, "'Oh, how handsome, aren't you?'"), (4, None, "'Here is your half-and-half pizza, wings, and cheesy garlic bread.'"), (5, None, "'What's your name?'"), (6, None, "'My name is David.'"), (7, None, "'I'm going to give you a piece of advice. Never trust anyone.'"), (8, None, "'There's no need, honestly. Alright.'"), (9, None, "'Hey, hadn't you left?'"), (10, None, "'Of course not, ma'am. How could I leave you all alone?'"), (11, None, "'Keep playing, please, don't stop. You do it really well.'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice 'no hace falta' for 'there's no need', and 'sigue tocando'—literally 'keep playing'—built with 'seguir' plus the '-ndo' form. Until next time."
+OUTRO = 'You heard Paquita order comfort food while watching Mariona on television, warn young delivery man David never to trust anyone, and ask him to keep playing piano in her living room. Until next time.'
 CLOSING = ('david', '¡Buenas noches!')
