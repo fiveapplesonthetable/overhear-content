@@ -15,5 +15,5 @@ STORY = [('muranishi', '乾杯！いい作品が撮れたね。', "Cheers! We sh
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'Cheers! We shot a great film, didn't we?'"), (1, None, "'This might really turn into that comeback home run.'"), (2, None, "'Having you here really saved us. Thank you.'"), (3, None, "'I was only doing my job.'"), (4, None, "'Hello? What's the matter, Kuroki?'"), (5, None, "'I'm sorry for calling so suddenly. I got your contact number from Mr. Kawada.'"), (6, None, "'Did the filming go well?'"), (7, None, "'Yeah, it went great. It's a work I'm proud of and really want you to see.'"), (8, None, "'I'm looking forward to it. Actually, there's something I wanted to tell you.'"), (9, None, "'Boss, she says she's heading home now.'"), (10, None, "'I see. I'll call you right back.'"), (11, None, "'Bye for now.'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice 'jishinsaku', a work one is truly proud of, and 'mata sugu kakenaosu', 'I'll call you right back'. Until next time."
+OUTRO = "Celebrating a proud new masterwork right before promising to call back sets up the episode's sudden cliffhanger. Until next time."
 CLOSING = ('muranishi', 'じゃあね。')

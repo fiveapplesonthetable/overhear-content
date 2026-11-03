@@ -15,5 +15,5 @@ STORY = [('muranishi', 'よし、本番いこう！彼女は？', "Alright, let'
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'Alright, let's roll a take! Where is she?'"), (1, None, "'She's still talking with her manager.'"), (2, None, "'Never mind that, just bring her over here.'"), (3, None, "'Director, please listen properly to your actress's opinions too.'"), (4, None, "'Unlike in Japan, women overseas state their own opinions clearly.'"), (5, None, "'Just like when you filmed with Kuroki, please face her sincerely too.'"), (6, None, "'You know, I truly respect you.'"), (7, None, "'Together with you, I want to make the whole world gasp in amazement.'"), (8, None, "'She says as a professional actress, she'll meet your requests as director.'"), (9, None, "'And she says don't disappoint her.'"), (10, None, "'Of course not. Alright, let's go for a take! Action!'"), (11, None, "'Cut! Perfect!'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Keep an ear out for 'mukiatte agete kudasai', 'please face her sincerely', and 'gakkari sasenaide', 'don't disappoint me'. See you next time."
+OUTRO = 'Asking someone to face another person sincerely and never let her down brings quiet emotion to the island set. See you next time.'
 CLOSING = ('muranishi', 'じゃあね。')

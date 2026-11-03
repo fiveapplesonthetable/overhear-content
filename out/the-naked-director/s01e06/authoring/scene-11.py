@@ -15,5 +15,5 @@ STORY = [('furuya', '客にあれを見せたい。', 'I want to show our guest 
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'I want to show our guest that room.'"), (1, None, "'Wait, is this Ikezawa's stuff?'"), (2, None, "'The more legitimate tapes sell above ground, the more underground copies sell too.'"), (3, None, "'What's more, revenue on this side is overwhelmingly higher.'"), (4, None, "'I'm still sleepy here. Alright, this is a bust.'"), (5, None, "'Hey, Fujiwara. Save the rough stuff for when we don't have a guest. Sit down.'"), (6, None, "'Everyone working in this place is a foreign laborer.'"), (7, None, "'Why is that?'"), (8, None, "'Deporting them just costs money and doesn't serve as an example to anyone, right?'"), (9, None, "'Say, Toshi.'"), (10, None, "'Do you want to climb higher than Ikezawa?'"), (11, None, "'Yes.'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice the contrast between 'omote', above ground in legitimate shops, and 'ura', the underground market. Until next time."
+OUTRO = 'Weighing legitimate storefront releases against underground distribution highlights the dilemma facing the Tokyo office. Until next time.'
 CLOSING = ('furuya', 'じゃあね。')

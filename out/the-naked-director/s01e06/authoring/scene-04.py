@@ -15,5 +15,5 @@ STORY = [('driver', 'はい、到着です。', 'Alright, we have arrived.', [(8
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'Alright, we have arrived.'"), (1, None, "'We get to stay here? Amazing!'"), (2, None, "'You speak Japanese so fluently—where are you from?'"), (3, None, "'Tokyo. I'm in Hawaii almost all the time, so don't worry!'"), (4, None, "'I knew you were Japanese! Can you really show us around Hawaii?'"), (5, None, "'Of course! You worry way too much.'"), (6, None, "'You've got the whole cast properly lined up, right?'"), (7, None, "'Of course! Mr. Muranishi, go ahead.'"), (8, None, "'I'm Director Muranishi. This film is a blockbuster about fighting an evil organization.'"), (9, None, "'Isn't the quality of the actors a bit low? Are you sure about them?'"), (10, None, "'It's fine, totally fine. Their acting is flawless.'"), (11, None, "'That's the front door. It might be her!'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice 'pera-pera', the vivid Japanese sound-word for speaking a language fluently, and 'shinpai shisugi', 'worrying too much'. See you next time."
+OUTRO = "Marveling at fluent local teamwork while brushing off cautious worries captures Muranishi's fearless mood abroad. See you next time."
 CLOSING = ('driver', 'じゃあね。')

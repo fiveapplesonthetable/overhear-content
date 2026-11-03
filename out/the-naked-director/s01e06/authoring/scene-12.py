@@ -15,5 +15,5 @@ STORY = [('fujiwara', 'うちよりももっとでけえとこ潰せよ！', 'Go
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'Go shut down outfits way bigger than ours!'"), (1, None, "'Hey, do you know what specimen collecting is?'"), (2, None, "'Specimen collecting?'"), (3, None, "'I mount butterflies as specimens, you see.'"), (4, None, "'What on earth are you talking about?'"), (5, None, "'Even in the pupa stage, you learn to tell which ones are going to grow big.'"), (6, None, "'So I wait until a butterfly grows to its biggest size, and then I mount it.'"), (7, None, "'Why have you been spouting nonsense this whole time?'"), (8, None, "'Unless the target is big, my own credit shrinks, doesn't it?'"), (9, None, "'You guys aren't getting any bigger than this, so it's curtains for you. Good work.'"), (10, None, "'Pipe down and behave!'"), (11, None, "'If you've still got wings, go on, try escaping. Fly off into the sky!'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice 'hyouhon', a mounted specimen, and 'otsukaresan', Takei's ironic 'good work, you're done' as the raid wraps up. See you next time."
+OUTRO = 'Mocking a cornered target as a pinned specimen during a sudden raid shows Detective Takei at his most ruthless. See you next time.'
 CLOSING = ('takei', 'じゃあね。')

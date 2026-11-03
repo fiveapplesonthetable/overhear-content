@@ -15,5 +15,5 @@ STORY = [('mama', 'ここに娘来なかったかい？', "Didn't my daughter co
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'Didn't my daughter come by here?'"), (1, None, "'Her mother is going to get killed by the yakuza!'"), (2, None, "'I just want to see that girl one more time.'"), (3, None, "'I can't even remember where things went wrong, but no matter what, she's still my daughter.'"), (4, None, "'I want the two of us, mother and daughter, to start over from scratch.'"), (5, None, "'Are you thinking about your old lady again?'"), (6, None, "'Hey—you need to think about your own happiness.'"), (7, None, "'Isn't happiness different for every person?'"), (8, None, "'Run away together with me.'"), (9, None, "'Toshi... you really weren't cut out to be a yakuza after all.'"), (10, None, "'I'm heading out. She's gone now anyway.'"), (11, None, "'See you around, Kawada.'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = 'With the young hostess gone, Toshi thanks Kawada and walks out alone—straight into a yakuza ambush.'
+OUTRO = 'With the young hostess gone, Toshi thanks Kawada and walks out alone—straight into a gangland ambush.'
 CLOSING = ('toshi', 'さようなら。')

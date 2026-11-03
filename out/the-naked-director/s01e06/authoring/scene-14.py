@@ -15,5 +15,5 @@ STORY = [('kuroki', 'きっと情熱的な撮影をしてるんでしょうね�
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'Director Muranishi must be in the middle of a passionate shoot right now.'"), (1, None, "'Yeah, and it's thanks to you. Are you really sure about turning down your fee?'"), (2, None, "'Of course. Since the tape hasn't gone on sale, I couldn't possibly accept the fee.'"), (3, None, "'Besides, I've also started doing modelling work.'"), (4, None, "'So I don't think I'll have trouble saving money to study abroad.'"), (5, None, "'Don't tell me you'll appear in other videos too?'"), (6, None, "'Well, that's for you to decide. It isn't our place to say anything.'"), (7, None, "'I truly hope his shoot succeeds.'"), (8, None, "'Oh, you are shining brighter than ever! Wonderful, too wonderful!'"), (9, None, "'That's right, now fire! Cut!'"), (10, None, "'Sounds like it's done.'"), (11, None, "'I did it!'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice 'itadakemasen', the humble negative 'I cannot accept it', and 'seikou suru to ii desu ne', 'I hope it succeeds'. See you next time."
+OUTRO = "Politely declining an offer while wishing a colleague's venture well marks a poised turning point. See you next time."
 CLOSING = ('kuroki', 'さようなら。')

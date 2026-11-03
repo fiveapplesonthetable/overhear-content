@@ -15,5 +15,5 @@ STORY = [('toshi', 'ハワイのコーディネーター安く雇えたからよ
 OPENER = "Now let's go through it line by line with the English translation."
 WALK = [(0, None, "'I managed to hire a coordinator in Hawaii for cheap.'"), (1, None, "'Apparently he'll negotiate the actress's appearance for us too.'"), (2, None, "'Really? Then we have to make it a major production.'"), (3, None, "'Please don't ask where the money came from.'"), (4, None, "'Thank you very much, Mr. Kawada.'"), (5, None, "'This is the last time I indulge your selfishness.'"), (6, None, "'Hey, you guys aren't going over there to play around.'"), (7, None, "'If you shoot something boring, I won't forgive you.'"), (8, None, "'Yeah, leave it to me.'"), (9, None, "'Mr. Muranishi, please take every care with this.'"), (10, None, "'Yes, off I go. Let's move!'"), (11, None, "'I'm counting on you guys for a comeback home run!'")]
 TRANSITION = "Now let's listen to the whole conversation one last time."
-OUTRO = "Notice 'makasetoke', a confident casual way to say 'leave it to me', and 'ittekimasu', the everyday phrase when heading out with the promise to return. Until next time, take care."
+OUTRO = "Confidently promising to handle everything and heading off for an overseas shoot launch Muranishi's high-stakes island gamble. Until next time, take care."
 CLOSING = ('muranishi', 'じゃあね。')
