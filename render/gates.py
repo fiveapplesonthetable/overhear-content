@@ -181,12 +181,13 @@ class AudioGates:
                 # Very short 1-2 word callout followed by >0.5s dead silence and extra hallucinated babble (e.g. F5 bleed)
                 return False, "transient", wav
 
-        # Also strip any isolated <= 220 ms pre-speech breath/shush/click separated by >= 35 ms before main speech
+        # Strip only tiny (<= 70 ms), very quiet (< 0.18x pk) isolated pre-speech clicks separated by >= 240 ms silence
+        # (never touch 40..110 ms voiceless stop closures inside initial clusters like Ст-, Чт-, Кт-, St-, Sp-, Sk-!)
         if len(islands) >= 2:
             first_s, first_e = islands[0]
             next_s, _ = islands[1]
             first_pk = float(rms[first_s:first_e].max()) if first_e > first_s else 0.0
-            if (first_e - first_s) * 10 <= 220 and (next_s - first_e) * 10 >= 35 and first_pk < pk_rms * 0.35:
+            if (first_e - first_s) * 10 <= 70 and (next_s - first_e) * 10 >= 240 and first_pk < pk_rms * 0.18:
                 cut_start = max(0, (next_s - 2) * hop)
                 wav = wav[cut_start:]
                 rms = librosa.feature.rms(y=wav, frame_length=hop * 2, hop_length=hop)[0]
