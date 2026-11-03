@@ -351,11 +351,12 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
         if ahead_of_round_robin(jobs_dir, lead=1):
+            eng.torch.cuda.empty_cache()
             time.sleep(2.0)
             continue
 
         eff_seqs = max(batch_seqs, 28)
-        claimed = claim_jobs(jobs_dir, max_jobs=eff_seqs, max_expanded=eff_seqs, max_chars=4800, bucket=True, worker_id=worker_id)
+        claimed = claim_jobs(jobs_dir, max_jobs=eff_seqs, max_expanded=eff_seqs, max_chars=3600, bucket=True, worker_id=worker_id)
         if not claimed:
             time.sleep(0.2)
             continue
