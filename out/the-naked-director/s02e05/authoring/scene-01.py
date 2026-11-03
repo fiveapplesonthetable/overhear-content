@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-01'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 1
+TITLE = '素顔のほうがステキだ  (Your Natural Face Is Lovely)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = 'Welcome back to The Naked Director, Season Two, Episode Five. Alone on a closed set with the newcomer who volunteered to replace Kuroki, Muranishi tells her to cast off every rule holding her back and gives her a brand-new stage name.'
+STORY = [('muranishi', 'リラックスして。ここには誰も入ってこない、二人だけの空間。', 'Relax. Nobody will come in here—this space belongs just to the two of us.', [(6, 'リラックスして'), (7, 'ここには誰も入ってこない 二人だけの空間')], ''), ('client_f', 'はい。', 'Okay.', [(8, 'はい')], ''), ('muranishi', 'まずは君を飾ってるすべてを剥ぎ取る。', 'First, we strip away everything dressing you up.', [(9, 'まずは 君を飾ってるすべてを剥ぎ取る')], ''), ('muranishi', '常識もルールも、君を縛るすべてを捨て去るんだ。', 'Common sense and rules—cast away everything that ties you down.', [(10, '常識も ルールも'), (11, '君を縛るすべてを捨て去るんだ')], ''), ('muranishi', '素顔のほうがステキだ。', 'Your unadorned face is much lovelier.', [(13, '素顔のほうがステキだ')], ''), ('client_f', '私、最初から一作目は村西さんに撮ってもらうって決めてました。', 'From the very beginning, I had decided to have you film my first work, Mr. Muranishi.', [(14, '私'), (15, '最初から １作目は'), (16, '村西さんに撮ってもらうって 決めてました')], 'spelled numeral in kanji'), ('muranishi', 'そうならなかったらどうしてたんだ？', "What would you have done if it hadn't turned out that way?", [(17, 'そうならなかったら どうしてたんだ')], ''), ('client_f', 'どんな手を使っても、撮ってもらうつもりでした。', 'I intended to have you film me no matter what means it took.', [(18, 'どんな手を使っても'), (19, '撮ってもらうつもりでした')], ''), ('muranishi', 'いい表情だ。', "That's a great look on your face.", [(20, 'いい表情だ')], ''), ('muranishi', '少し表情が硬いかな。', 'Your expression still looks a bit stiff.', [(23, '少し表情が硬いかな')], ''), ('muranishi', '肩の力を抜いて。', 'Let the tension out of your shoulders.', [(24, '肩の力を抜いて')], ''), ('muranishi', 'さあ、一歩を踏み出す瞬間ですよ。', 'Now then, this is the moment to take that first step forward.', [(25, 'さあ 一歩を踏み出す瞬間ですよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Relax. Nobody will come in here—this space belongs just to the two of us.'"), (1, None, "'Okay.'"), (2, None, "'First, we strip away everything dressing you up.'"), (3, None, "'Common sense and rules—cast away everything that ties you down.'"), (4, None, "'Your unadorned face is much lovelier.'"), (5, None, "'From the very beginning, I had decided to have you film my first work, Mr. Muranishi.'"), (6, None, "'What would you have done if it hadn't turned out that way?'"), (7, None, "'I intended to have you film me no matter what means it took.'"), (8, None, "'That's a great look on your face.'"), (9, None, "'Your expression still looks a bit stiff.'"), (10, None, "'Let the tension out of your shoulders.'"), (11, None, "'Now then, this is the moment to take that first step forward.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "With her shoulders relaxed and her resolve set, Muranishi's newest star takes her first leap in front of the camera."
+CLOSING = ('muranishi', 'じゃあね。')

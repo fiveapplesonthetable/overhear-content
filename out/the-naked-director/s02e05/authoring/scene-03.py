@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-03'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 3
+TITLE = "狭い業界なんだから  (It's a Small Industry)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'muranishi': '村西', 'reika': '麗華', 'shacho': '社長'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = "At a glittering reception celebrating the satellite channel's launch, the satellite company President warns Muranishi he will cancel the channel at the slightest misstep, while a longtime female staff director packs her boxes at the studio."
+STORY = [('muranishi', '日本のポルノ業界をけん引する作品を中心に放送してまいります。', "We will broadcast programming centered on works that lead Japan's adult video industry.", [(36, '日本のポルノ業界をけん引する'), (37, '放送してまいります')], 'trimmed studio name'), ('shacho', 'どんな番組流すか知らないけどな、これからは会長も関係ない。', "I don't know what shows you'll air, but from here on the chairman won't shield you.", [(39, 'どんな番組流すか知らないけどな'), (40, 'これからは会長も関係ない')], ''), ('shacho', '何かあったらすぐに打ち切りだぞ。', 'If anything goes wrong, we cancel your broadcast immediately.', [(41, '何かあったら すぐに打ち切りだぞ')], ''), ('muranishi', 'もちろん望むところです。', "Of course—I wouldn't have it any other way.", [(42, 'もちろん 望むところです')], ''), ('muranishi', 'さあ、それではいきますよ！テイクオフでございます！', 'All right, here we go! We have liftoff!', [(43, 'さあ それではいきますよ'), (45, 'テイクオフでございます')], ''), ('reika', '大げさなんだよ。狭い業界なんだから、またすぐ会えるって。', "You're making too big a deal of it. It's a small industry—we'll run into each other again soon.", [(64, '大げさなんだよ'), (65, '狭い業界なんだから またすぐ会えるって')], ''), ('reika', '困ったら連絡して。ギャラ安くても手伝いに行くから。', "Call me if you ever get into trouble. Even if the pay is low, I'll come help on your set.", [(67, '困ったら'), (69, 'ギャラ安くても手伝いに行くから')], 'adapted reply'), ('reika', '出世してよ。', 'Make sure you move up in the world.', [(70, '出世してよ')], ''), ('reika', 'ほら、でかい体してウジウジしない。', "Come on, don't mope around with a big frame like yours.", [(74, 'ほら でかい体してウジウジしない')], ''), ('reika', 'ありがとうございました。みんな頑張ってね。', 'Thank you for everything. Keep giving it your best, everyone.', [(79, 'ありがとうございました'), (80, 'みんな 頑張ってね')], ''), ('reika', '村西さん、これまでお世話になりました。', 'Mr. Muranishi, thank you for everything up until now.', [(88, '村西さん'), (89, 'これまで お世話になりました')], ''), ('muranishi', 'ああ、元気でな。', 'Yeah—take care of yourself.', [(91, 'ああ 元気でな')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'We will broadcast programming centered on works that lead Japan's adult video industry.'"), (1, None, "'I don't know what shows you'll air, but from here on the chairman won't shield you.'"), (2, None, "'If anything goes wrong, we cancel your broadcast immediately.'"), (3, None, "'Of course—I wouldn't have it any other way.'"), (4, None, "'All right, here we go! We have liftoff!'"), (5, None, "'You're making too big a deal of it. It's a small industry—we'll run into each other again soon.'"), (6, None, "'Call me if you ever get into trouble. Even if the pay is low, I'll come help on your set.'"), (7, None, "'Make sure you move up in the world.'"), (8, None, "'Come on, don't mope around with a big frame like yours.'"), (9, None, "'Thank you for everything. Keep giving it your best, everyone.'"), (10, None, "'Mr. Muranishi, thank you for everything up until now.'"), (11, None, "'Yeah—take care of yourself.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Cheering on the junior directors she trained, the veteran staff director leaves the studio behind with her head held high.'
+CLOSING = ('reika', 'またね。')

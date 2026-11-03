@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-09'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 9
+TITLE = 'お前の幸せ考えろよ  (Think About Your Own Happiness)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'mama': 'ママ', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = "Taking shelter at Kawada's apartment, the young hostess hears her terrified mother begging outside the door to start over together. That night, Toshi tells her to think of her own happiness—and wakes up to find her gone."
+STORY = [('mama', 'ここに娘来なかったかい？', "Didn't my daughter come by here?", [(373, 'ここに娘 来なかったかい')], ''), ('mama', '母さん、組のヤツらに殺されちまうってんだよ！', 'Her mother is going to get killed by the yakuza!', [(378, '母さん 組のヤツらに 殺されちまうってんだよ')], ''), ('mama', 'もう一度あの子に会いたいんだよ。', 'I just want to see that girl one more time.', [(382, 'もう一度 あの子に会いたいんだよ')], ''), ('mama', 'どこから間違ったかなんか思い出せないけど、腐っても娘なんだよ。', "I can't even remember where things went wrong, but no matter what, she's still my daughter.", [(383, 'どこから間違ったかなんか もう思い出せないけど'), (384, '腐っても娘なんだよ')], ''), ('mama', 'もう一度親子二人で、一からやり直したいんだよ。', 'I want the two of us, mother and daughter, to start over from scratch.', [(385, 'もう一度 親子２人で'), (386, '一から やり直したいんだよ')], 'spelled numeral in kanji'), ('toshi', 'またババアのこと考えてんのか？', 'Are you thinking about your old lady again?', [(400, 'またババアのこと 考えてんのか')], ''), ('toshi', 'おい、お前はお前の幸せ考えろよ。', 'Hey—you need to think about your own happiness.', [(402, 'おい'), (403, 'お前は お前の幸せ考えろよ')], ''), ('client_f', '幸せって、人それぞれじゃない？', "Isn't happiness different for every person?", [(405, '幸せって'), (406, '人それぞれじゃない')], ''), ('client_f', '一緒に逃げて。', 'Run away together with me.', [(408, '一緒に逃げて')], ''), ('client_f', 'トシ、やっぱ向いてなかったね、ヤクザには。', "Toshi... you really weren't cut out to be a yakuza after all.", [(409, 'トシ'), (410, 'やっぱ向いてなかったね'), (411, 'ヤクザには')], ''), ('toshi', '俺行くわ。あいつもいなくなったしよ。', "I'm heading out. She's gone now anyway.", [(416, '俺 行くわ'), (418, 'あいつも いなくなったしよ')], ''), ('toshi', 'じゃあな、川田。', 'See you around, Kawada.', [(419, 'じゃあな 川田')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Didn't my daughter come by here?'"), (1, None, "'Her mother is going to get killed by the yakuza!'"), (2, None, "'I just want to see that girl one more time.'"), (3, None, "'I can't even remember where things went wrong, but no matter what, she's still my daughter.'"), (4, None, "'I want the two of us, mother and daughter, to start over from scratch.'"), (5, None, "'Are you thinking about your old lady again?'"), (6, None, "'Hey—you need to think about your own happiness.'"), (7, None, "'Isn't happiness different for every person?'"), (8, None, "'Run away together with me.'"), (9, None, "'Toshi... you really weren't cut out to be a yakuza after all.'"), (10, None, "'I'm heading out. She's gone now anyway.'"), (11, None, "'See you around, Kawada.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'With the young hostess gone, Toshi thanks Kawada and walks out alone—straight into a yakuza ambush.'
+CLOSING = ('toshi', 'さようなら。')

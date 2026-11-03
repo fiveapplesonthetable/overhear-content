@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-14'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 14
+TITLE = "まだまだこれからだよ  (We're Just Getting Started)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'muranishi': '村西', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = 'In the finale of Episode Five, Muranishi welcomes a packed house of cheering fans as his actresses dazzle onstage, raising the full seven million yen—only for a devastating betrayal to await him back at the studio.'
+STORY = [('muranishi', 'お待たせいたしました！お待たせしすぎたかもしれません。', 'Thank you for waiting! Perhaps I have kept you waiting far too long!', [(679, 'お待たせいたしました お待たせしすぎたかもしれません')], ''), ('muranishi', '昭和のエロ事師、村西とおるでございます。', 'I am Toru Muranishi, master purveyor of Showa-era erotica!', [(680, '昭和のエロ事師 村西とおるでございます')], ''), ('muranishi', '本日ですね、ステージと客席が大変近くなっております。', 'Tonight, the stage and audience seats are remarkably close together.', [(685, '本日ですね ステージと客席が 大変近くなっております')], ''), ('muranishi', 'どうか押し合わずにご堪能いただければと思います。さあ、早速参りましょう！', "Please enjoy the show to your heart's content without pushing. Now let's begin!", [(689, '押し合わずに ご堪能いただければと思います'), (690, 'さあ それでは早速 参りましょう')], ''), ('student', '一列でお並びください！一万円ですよ、一万円をご用意くださいませ！', 'Please line up in a single file! Admission is ten thousand yen—have your ten thousand ready!', [(697, '１列でお並びください'), (698, '１万円ですよ １万円をご用意くださいませ')], 'spelled numerals in kanji'), ('muranishi', 'ぜひ見ていって！どんどん配れ、もっと声出せ！', 'Come see the show! Keep handing out flyers—shout louder!', [(700, 'ぜひ見ていって'), (701, 'どんどん配れ'), (702, 'もっと声出せ')], ''), ('student', 'まもなく始まりますよ！', 'The next show is about to begin!', [(708, 'まもなく始まりますよ')], ''), ('student', '社長！七百万いきました！', 'Boss! Ticket sales just hit seven million yen!', [(710, '社長'), (711, '700万いきました')], 'spelled numeral in kanji'), ('muranishi', 'これで二億五千万です。あとは頼んだぞ、行くぞ！', "That gives us our full 250 million! Take care of the rest here—let's go!", [(712, 'これで２億5000万です'), (713, 'あとは頼んだぞ'), (714, '行くぞ')], 'spelled numeral in kanji'), ('student', 'じゃあ車止めておきますね。', "I'll go park the car, sir.", [(718, 'じゃあ 車止めておきますね')], ''), ('student', '村西さん、お疲れさまでした。', 'Mr. Muranishi, thank you for all your hard work tonight.', [(721, '村西さん'), (722, 'お疲れさまでした')], ''), ('muranishi', 'ああ。まだまだこれからだよ。', "Yeah. We're only just getting started.", [(723, 'ああ'), (724, 'まだまだ これからだよ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Thank you for waiting! Perhaps I have kept you waiting far too long!'"), (1, None, "'I am Toru Muranishi, master purveyor of Showa-era erotica!'"), (2, None, "'Tonight, the stage and audience seats are remarkably close together.'"), (3, None, "'Please enjoy the show to your heart's content without pushing. Now let's begin!'"), (4, None, "'Please line up in a single file! Admission is ten thousand yen—have your ten thousand ready!'"), (5, None, "'Come see the show! Keep handing out flyers—shout louder!'"), (6, None, "'The next show is about to begin!'"), (7, None, "'Boss! Ticket sales just hit seven million yen!'"), (8, None, "'That gives us our full 250 million! Take care of the rest here—let's go!'"), (9, None, "'I'll go park the car, sir.'"), (10, None, "'Mr. Muranishi, thank you for all your hard work tonight.'"), (11, None, "'Yeah. We're only just getting started.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Returning to an empty office with the safe wide open and every yen gone, Muranishi realizes his accountant and eager assistant have stolen the entire 250 million.'
+CLOSING = ('muranishi', 'さようなら。')

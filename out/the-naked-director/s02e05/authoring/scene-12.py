@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-12'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 12
+TITLE = "やりましょうストリップを  (Let's Put On a Strip Show)"
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'muranishi': '村西', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = 'Back at the studio, Muranishi pitches a one-night live strip show to raise the final seven million yen, promising his hesitant actresses that performing onstage will double their fans and their pay.'
+STORY = [('muranishi', '皆さんはプロでございますでしょう？', "All of you ladies are professionals, aren't you?", [(571, '皆さんは プロでございますでしょう')], ''), ('client_f', 'でもそんな急にできるんですか？', 'Still, can we really pull off a strip show that suddenly?', [(575, 'でも そんな急にできるんですか')], ''), ('muranishi', 'できる！君たちなら何だってできる。もちろん初めはうまくいかないかもしれない。', 'You can! You ladies can do anything. Naturally, it may not go smoothly at first.', [(576, 'できる 君たちなら 何だってできる'), (577, 'もちろん 初めは うまくいかないかもしれない')], ''), ('muranishi', 'つまりこれはね、皆さんにとってプロモーションなんですよ。', 'In short, this serves as live promotion for every one of you.', [(585, 'つまり これはね 皆さんにとって プロモーションなんですよ')], ''), ('reika', 'これってギャラ出るんですか？', 'Are we actually getting paid for this?', [(592, 'これってギャラ出るんですか')], ''), ('muranishi', 'もちろん出る、多く出る。確実にファンが増える。', "Of course you'll get paid—plenty! Your fan base will definitely grow.", [(593, 'もちろん出る 多く出る'), (595, '確実にファンが増える')], ''), ('muranishi', 'そしたら売り上げが倍増する、ギャラも倍増するわけですよ。', 'Then video sales will double, and your pay will double right along with them.', [(596, 'そしたら 売り上げが倍増する ギャラも倍増するわけですよ')], ''), ('muranishi', 'やりましょう、ストリップを！', "Let's do it—let's put on a strip show!", [(601, 'やりましょう ストリップを')], ''), ('client_f', '行かなくていいって、村西さんが。', "Mr. Muranishi told me I didn't have to go.", [(609, '行かなくていいって'), (611, '村西さんが')], ''), ('reika', '孤立したらこの先つらいんじゃない？黒木さんはうまくやって慕われてたんだから。', "Won't it be rough ahead if you isolate yourself? Ms. Kuroki worked alongside everyone and was loved for it.", [(615, '孤立したら この先 つらいんじゃない'), (616, '黒木さんは うまくやって 慕われてたんだから')], ''), ('client_f', '黒木さんと私は違いますから。', 'Ms. Kuroki and I are different.', [(617, '黒木さんと私は違いますから')], ''), ('reika', 'だったらなおのこと行ったほうがいいんじゃない？いってらっしゃい。', "Then all the more reason you ought to go join them, don't you think? Have a good show.", [(618, 'だったら なおのこと 行ったほうがいいんじゃない'), (620, 'いってらっしゃい')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'All of you ladies are professionals, aren't you?'"), (1, None, "'Still, can we really pull off a strip show that suddenly?'"), (2, None, "'You can! You ladies can do anything. Naturally, it may not go smoothly at first.'"), (3, None, "'In short, this serves as live promotion for every one of you.'"), (4, None, "'Are we actually getting paid for this?'"), (5, None, "'Of course you'll get paid—plenty! Your fan base will definitely grow.'"), (6, None, "'Then video sales will double, and your pay will double right along with them.'"), (7, None, "'Let's do it—let's put on a strip show!'"), (8, None, "'Mr. Muranishi told me I didn't have to go.'"), (9, None, "'Won't it be rough ahead if you isolate yourself? Ms. Kuroki worked alongside everyone and was loved for it.'"), (10, None, "'Ms. Kuroki and I are different.'"), (11, None, "'Then all the more reason you ought to go join them, don't you think? Have a good show.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Warned by the accountant that staying behind as Muranishi's favorite will isolate her from the rest of the cast, the new star hurries off to join the show."
+CLOSING = ('reika', 'じゃあね。')

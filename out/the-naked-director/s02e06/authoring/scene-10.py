@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-10'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 10
+TITLE = '人がいると違うな  (Extra Hands Make All the Difference)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kawada': '川田', 'student': '生徒', 'toshi': 'トシ'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = "While Toshi recruits friendly neighborhood helpers who share homemade side dishes as they package Kawada's reissue tapes, angry unpaid vendors storm Muranishi's studio demanding millions."
+STORY = [('toshi', '連れてきたぞ。やっぱ人がいると違えな。', 'I brought helpers along! Having extra people really makes a difference.', [(390, '連れてきたぞ'), (396, 'やっぱ 人がいると違')], ''), ('kawada', '器用だね、やっぱり。', 'You really are nimble with your hands.', [(394, '器用だね やっぱり')], ''), ('toshi', 'おっさんどうよ？いい感じだよ。', "How's it going, pops? Looking real good!", [(397, 'おっさん どうよ'), (401, 'いい感じだよ')], ''), ('kawada', 'ああ、うまそう。表にかかってください。', 'Oh, that homemade food looks delicious. Please start wrapping the covers carefully.', [(405, 'ああ うまそう'), (409, '表にかかってください')], ''), ('kawada', 'ちょっと待って。これはいいや。', 'Hold on a second—leave this tape out.', [(413, 'ちょっと待って'), (414, 'これは いいや')], ''), ('toshi', 'ああ。', 'Got it.', [(415, 'ああ')], ''), ('student', 'すいません！僕らもホントに連絡が取れなくて困ってるんですよ。', "I'm so sorry! We truly can't reach him either and don't know what to do!", [(420, 'すいません あの 僕らも'), (421, 'ホントに連絡が取れなくて 困ってるんですよ')], ''), ('toshi', 'こっちは四百万以上も未納のままにされてんだぞ！', "He's left over four million yen unpaid on our invoices!", [(418, 'こっちは お前 400万以上も 未納のままにされてんだぞ')], 'spelled numeral in kanji'), ('toshi', '従業員の生活かかってるんだよ、こっちも！', "Our own employees' livelihoods are on the line too!", [(424, '従業員の生活 かかってるんだよ こっちも')], ''), ('student', '落ち着いて！', 'Please calm down!', [(428, '落ち着いて')], ''), ('toshi', 'みんな仲間じゃねえかよ、これでいいのか？みんな困ってるんだよ！', "Aren't we all comrades in this business? Is this okay with you?! Everyone is hurting!", [(430, 'みんな 仲間じゃねえかよ これでいいのか'), (431, 'みんな 困ってるんだよ')], ''), ('student', 'ホントに連絡つかなくて、自分らも困ってるんです！', "We honestly cannot get hold of him—we're in trouble ourselves!", [(433, 'ホントに連絡つかなくて 自分らも困ってるんです')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'I brought helpers along! Having extra people really makes a difference.'"), (1, None, "'You really are nimble with your hands.'"), (2, None, "'How's it going, pops? Looking real good!'"), (3, None, "'Oh, that homemade food looks delicious. Please start wrapping the covers carefully.'"), (4, None, "'Hold on a second—leave this tape out.'"), (5, None, "'Got it.'"), (6, None, "'I'm so sorry! We truly can't reach him either and don't know what to do!'"), (7, None, "'He's left over four million yen unpaid on our invoices!'"), (8, None, "'Our own employees' livelihoods are on the line too!'"), (9, None, "'Please calm down!'"), (10, None, "'Aren't we all comrades in this business? Is this okay with you?! Everyone is hurting!'"), (11, None, "'We honestly cannot get hold of him—we're in trouble ourselves!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Quietly setting Kuroki's debut tape aside rather than discounting it, Kawada protects their proudest memory even as Muranishi's studio descends into chaos."
+CLOSING = ('toshi', 'またね。')

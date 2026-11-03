@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-03'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 3
+TITLE = '少しでも金作らないと  (Raising Whatever Cash We Can)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'muranishi': '村西', 'reika': '麗華', 'student': '生徒'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = "Desperate to keep his satellite channel alive, Muranishi begs the conglomerate Proprietor for an emergency loan and gets thrown out. Back at the studio, unpaid wages spark open anger against Muranishi's loyal junior director."
+STORY = [('muranishi', 'お願いいたします。このままでは衛星チャンネルが終わってしまう。', 'I implore you—at this rate my satellite channel will be finished.', [(73, 'お願いいたします'), (74, 'このままでは 衛星チャンネルが終わってしまう')], ''), ('muranishi', 'どうか、わたくしにお金を貸してくださいませ。', 'Please, I beg you to lend me the money.', [(79, 'どうか わたくしに お金を貸してくださいませ')], ''), ('student', '村西さんの指示。もう一回モザイクを薄くして売るんだって。', "Mr. Muranishi's orders—he says to thin out the mosaic blur and sell them again.", [(100, '村西さんの指示'), (101, 'もう一回 モザイクを薄くして 売るんだって')], ''), ('student', 'とにかく今は少しでも金作らないと。', 'Right now we just have to scrape together whatever cash we can.', [(104, 'とにかく今は 少しでも金 作らないと')], ''), ('student', '別荘とクルーザー、売る手続きしてきた。', 'I went and started the paperwork to sell off the villa and the cruiser.', [(111, '別荘とクルーザー 売る手続きしてきた')], ''), ('student', '監督、今日一日金策で帰れないって。きっと何とかしてくれるよ。', "The director won't be back all day raising funds. I'm sure he'll work something out.", [(113, '監督 今日一日 金策で帰れないって'), (115, 'きっと なんとかしてくれるよ')], ''), ('reika', '税金対策とか言って、お預けのギャラ三千万。', 'Calling it tax planning, he kept thirty million yen of my pay on deposit.', [(122, '税金対策とか言って お預けのギャラ 3000万')], 'spelled numeral in kanji'), ('reika', 'あの人、いくら何でもいいかげんすぎない？いろいろ順番おかしいよ。', "Isn't that guy way too irresponsible? His priorities are completely backward.", [(126, 'あの人 いくら何でも いいかげんすぎない'), (127, 'いろいろ順番おかしいよ')], ''), ('reika', 'これ詐欺だよ。実際ないしょでギャラ使い込まれてるんだよ。', 'This is fraud! He secretly embezzled the wages we earned with our own bodies.', [(131, 'これ 詐欺だよ'), (135, '実際 ないしょで ギャラ使い込まれてるんだよ')], ''), ('student', '言いすぎですって。今悪口言ってもしょうがないでしょ。', "That's going too far. Complaining behind his back right now won't help anything.", [(132, '言いすぎですって'), (138, 'でも 今 悪口言っても しょうがないでしょ')], ''), ('reika', 'あんた監督に盲目すぎてキモいから！', "You're so blindly devoted to the director it creeps me out!", [(141, 'あんた 監督に盲目すぎて キモいから')], ''), ('student', '監督ですよ！当たり前のことですよ、それは！', "He's our director! Believing in him is only natural!", [(143, '監督ですよ 当たり前のことですよ それは')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'I implore you—at this rate my satellite channel will be finished.'"), (1, None, "'Please, I beg you to lend me the money.'"), (2, None, "'Mr. Muranishi's orders—he says to thin out the mosaic blur and sell them again.'"), (3, None, "'Right now we just have to scrape together whatever cash we can.'"), (4, None, "'I went and started the paperwork to sell off the villa and the cruiser.'"), (5, None, "'The director won't be back all day raising funds. I'm sure he'll work something out.'"), (6, None, "'Calling it tax planning, he kept thirty million yen of my pay on deposit.'"), (7, None, "'Isn't that guy way too irresponsible? His priorities are completely backward.'"), (8, None, "'This is fraud! He secretly embezzled the wages we earned with our own bodies.'"), (9, None, "'That's going too far. Complaining behind his back right now won't help anything.'"), (10, None, "'You're so blindly devoted to the director it creeps me out!'"), (11, None, "'He's our director! Believing in him is only natural!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Stung by accusations that he follows Muranishi too blindly, the junior director clings to the hope that Muranishi will return with the money.'
+CLOSING = ('student', 'またね。')

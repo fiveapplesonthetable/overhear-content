@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-13'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 13
+TITLE = '半人前が立てるステージじゃない  (No Stage for Amateurs)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'mama': 'ママ', 'muranishi': '村西', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = 'At a classic strip theater with only four hours until showtime, Muranishi leaves his actresses in the hands of a fierce veteran dance instructor who refuses to let amateurs disrespect her stage.'
+STORY = [('muranishi', 'おお、すばらしい劇場だ！伝説の踊り子、先生に習えば必ず光り輝ける。', 'What a magnificent theater! Learning under a legendary dancer, you will all surely shine.', [(621, 'おお すばらしい劇場だ'), (627, '伝説の踊り子'), (628, '先生に習えば 皆さん 必ず光り輝ける')], ''), ('muranishi', 'よし、お前ら行くぞ、ビラ配り行くぞ！', "All right, let's move—time to hand out flyers on the street!", [(634, 'よし お前ら 行くぞ ビラ配り行くぞ')], ''), ('mama', '開演まであと四時間。休んでる暇なんかないからね。', "Four hours left until curtain. There's no time to stand around resting.", [(636, '開演まで あと４時間'), (637, '休んでる暇なんか ないからね')], 'spelled numeral in kanji'), ('reika', 'えっ、そんな本格的に踊るんですか？', "Wait—we're doing full-scale dancing like that?", [(638, 'えっ そんな本格的に 踊るんですか')], ''), ('mama', 'やる気ないならやめる？', "If you're not serious about it, want to quit right now?", [(640, 'やる気ないなら やめる')], ''), ('reika', 'だっていきなりそんなの無理でしょ。', 'Come on, doing choreography like that right off the bat is impossible.', [(641, 'だって いきなり そんなの無理でしょ')], ''), ('mama', '半人前が立てるステージじゃないんだよ！', 'This stage is no place for half-baked amateurs to stand!', [(645, '半人前が立てる ステージじゃないんだよ')], ''), ('mama', 'こっちは踊りに恋して、客の視線をこの体で受け止めてきたんだ。', "I fell in love with dance and have met the audience's gaze head-on with this body.", [(646, 'こっちは踊りに恋して'), (647, '客の視線をこの体で 受け止めてきたんだ')], ''), ('reika', 'こっちは体ひとつで世界中の男興奮させてやってんだよ！', 'With nothing but our bodies, we get men excited all across the world!', [(651, 'こっちは体ひとつで'), (652, '世界中の男 興奮させてやってんだよ')], ''), ('mama', 'じゃあ見せてごらんよ、自慢の体。', "Then go ahead and show me those bodies you're so proud of.", [(653, 'じゃあ 見せてごらんよ'), (654, '自慢の体')], ''), ('reika', 'ああいいよ、やってやるよ！', 'Fine by me—watch me do it!', [(655, 'ああ いいよ やってやるよ')], ''), ('mama', '客は金を払って見に来るんだよ。そんなんじゃ舞台の上で踊れないよ、もう一回！', "Customers pay good money to watch! You can't dance onstage like that—one more time!", [(667, '客は金を払って 見に来るんだよ'), (668, 'そんなんじゃ 舞台の上で踊れないよ'), (669, 'もう１回')], 'spelled numeral in kanji')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'What a magnificent theater! Learning under a legendary dancer, you will all surely shine.'"), (1, None, "'All right, let's move—time to hand out flyers on the street!'"), (2, None, "'Four hours left until curtain. There's no time to stand around resting.'"), (3, None, "'Wait—we're doing full-scale dancing like that?'"), (4, None, "'If you're not serious about it, want to quit right now?'"), (5, None, "'Come on, doing choreography like that right off the bat is impossible.'"), (6, None, "'This stage is no place for half-baked amateurs to stand!'"), (7, None, "'I fell in love with dance and have met the audience's gaze head-on with this body.'"), (8, None, "'With nothing but our bodies, we get men excited all across the world!'"), (9, None, "'Then go ahead and show me those bodies you're so proud of.'"), (10, None, "'Fine by me—watch me do it!'"), (11, None, "'Customers pay good money to watch! You can't dance onstage like that—one more time!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Stung into pride by the veteran dancer's challenge, the actresses throw themselves into learning real stage choreography before the doors open."
+CLOSING = ('mama', 'またね。')

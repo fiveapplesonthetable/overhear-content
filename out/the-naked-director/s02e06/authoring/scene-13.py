@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-13'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 13
+TITLE = '俺はプロとしか仕事はしない  (I Only Work with Professionals)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'muranishi': '村西', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = 'Unraveling completely in front of his stunned staff, Muranishi proclaims that uncensored video was his true calling all along and orders the crew to film an uncensored scene with him right there.'
+STORY = [('muranishi', '今まで撮影してる時、どうせモザイクが入るからいいやとか思ってたのか？', 'All this time while filming, were you thinking anything goes because a mosaic blur covers it?', [(540, '今まで撮影してる時'), (541, 'どうせモザイクが入るからいいや とか思ってたのか')], ''), ('muranishi', '人間っちゅうのはな、ホントはみんな裏が見たいんだよ。', "Human beings, deep down, all want to see what's hidden underneath.", [(543, 'いいか 人間っちゅうのはな'), (544, 'ホントは みんな 裏が見たいんだよ')], ''), ('muranishi', 'ありのままのエロスを世の中に流通させるのは俺の使命だったよ。', 'Putting unadorned erotica into circulation for the world was my mission all along.', [(547, 'ありのままのエロスを 世の中に流通させるのは'), (548, '俺の使命だったよ')], ''), ('muranishi', '忙しさにかまけて忘れてた。そうだ、俺の本質は裏ビデオだよ！', "I got so busy I forgot! That's right—my true essence is uncensored video!", [(549, 'ああ 忙しさにかまけて忘れてた'), (552, 'そうだ 俺の本質は裏ビデオだよ')], ''), ('muranishi', 'これからは裏ビデオを撮ろう、モザイクはなしだ。本物の女優になれるんだ！', "From now on let's shoot uncensored—no mosaic! That's how you become real actresses!", [(558, 'これからは 裏ビデオを撮ろう'), (559, 'モザイクは なしだ'), (561, '本物の女優になれるんだ')], ''), ('muranishi', '本番だ！お前ら機材持ってこい、用意しろ！俺が相手になってやるよ！', "We're rolling live! Bring the gear and set up—I'll be the partner myself!", [(565, '本番だ お前ら 機材持ってこい 用意しろ'), (569, '俺が相手になってやるよ')], ''), ('reika', 'この人、もうダメだ…', 'This man is completely finished...', [(574, 'この人 もうダメだ')], ''), ('muranishi', '何を言ってるんだあいつは。これからだよ、俺は！', 'What is she talking about? I am only getting started!', [(575, '何を言ってるんだ あいつは'), (576, 'これからだよ 俺は')], ''), ('reika', 'ふざけんなよ！', 'Go to hell!', [(577, 'ふざけんなよ')], ''), ('muranishi', '結局本質を突きつけられたらな、プロじゃないヤツはみんな逃げていくんだよ。', "In the end, once confronted with the real thing, everyone who isn't a pro runs away!", [(579, '結局 本質を突きつけられたらな'), (580, 'プロじゃないヤツは みんな 逃げていくんだよ')], ''), ('muranishi', '俺はプロとしか仕事はしない！プロ以外は出てけ！', "I only work with professionals! Everyone who isn't a pro, get out!", [(581, '俺はプロとしか仕事はしない'), (582, 'プロ以外は出てけ')], ''), ('muranishi', '何を突っ立ってるんだ。目障りだから早く出てけ！', "What are you standing around for? You're an eyesore—get out now!", [(587, '何を突っ立ってるんだ'), (588, '目障りだから早く出てけ')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'All this time while filming, were you thinking anything goes because a mosaic blur covers it?'"), (1, None, "'Human beings, deep down, all want to see what's hidden underneath.'"), (2, None, "'Putting unadorned erotica into circulation for the world was my mission all along.'"), (3, None, "'I got so busy I forgot! That's right—my true essence is uncensored video!'"), (4, None, "'From now on let's shoot uncensored—no mosaic! That's how you become real actresses!'"), (5, None, "'We're rolling live! Bring the gear and set up—I'll be the partner myself!'"), (6, None, "'This man is completely finished...'"), (7, None, "'What is she talking about? I am only getting started!'"), (8, None, "'Go to hell!'"), (9, None, "'In the end, once confronted with the real thing, everyone who isn't a pro runs away!'"), (10, None, "'I only work with professionals! Everyone who isn't a pro, get out!'"), (11, None, "'What are you standing around for? You're an eyesore—get out now!'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Screaming at amateurs to get out as one actress and crew member after another walks out the door, Muranishi is left completely alone in the silent studio.'
+CLOSING = ('muranishi', 'じゃあね。')

@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e06-scene-06'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 6
+SCENE = 6
+TITLE = '覚悟を決めて村西さんといる  (Standing by You with Resolve)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'client_f': '女性客', 'muranishi': '村西'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E06'
+SOURCE_FILE = 'sources/the-naked-director/s02/e06.ja.srt'
+
+INTRO = 'Returning empty-handed late at night, an exhausted Muranishi tries to force himself roughly on his new star—who shoves him off, reminding him she is a human being who chose to stand by him.'
+STORY = [('client_f', 'お疲れさまです。どうでした？成果のほうは。', 'Welcome back. How did your fundraising go today?', [(232, 'お疲れさまです どうでした 成果のほうは')], ''), ('client_f', 'ねえ、やめて！何なんですかいきなり！バカにしないでください！', "Hey, stop! What is wrong with you all of a sudden? Don't treat me like a fool!", [(237, 'ねえ やめて'), (238, '何なんですか いきなり バカにしないでください')], ''), ('muranishi', '君もか…', 'Even you too...', [(239, '君もか')], ''), ('client_f', 'こんなとこで雑にされるの、誰だってイヤです！', 'Anyone would hate being treated so crudely in a place like this!', [(240, 'こんなとこで雑にされるの 誰だってイヤです')], ''), ('client_f', '物じゃないんですよ。', 'I am not an object.', [(241, '物じゃないんですよ')], ''), ('client_f', '抱くなら真面目に抱いてください。', "If you're going to hold me, then hold me properly.", [(242, '抱くなら 真面目に抱いてください')], ''), ('client_f', '私、覚悟を決めて村西さんといるんです。信じていいんですよね？', 'I made up my mind to stay with you, Mr. Muranishi. I can trust you, right?', [(243, '私 覚悟を決めて 村西さんといるんです'), (244, '信じていいんですよね')], ''), ('muranishi', 'どいつもこいつも自分勝手だ。気が滅入るよ。', 'Every single person is so selfish. It wears my spirit down.', [(245, 'どいつもこいつも自分勝手だ'), (246, '気が滅入')], 'cleaned furigana'), ('muranishi', '俺がどれだけ会社のために粉骨砕身やってるか、誰も分かってない。', "Nobody understands how hard I'm working myself to the bone for this company.", [(247, '俺が どれだけ会社のために 粉骨砕身やってるか'), (248, '誰も分かってない')], ''), ('client_f', '誰かに分かってもらうためにやってるの？', 'Are you doing all this just so someone will understand you?', [(249, '誰かに分かってもらうために やってるの')], ''), ('client_f', '疲れてるからって、自分を卑下しすぎないで。', "Just because you're exhausted, don't put yourself down like that.", [(250, '疲れてるからって 自分を卑下しすぎないで')], ''), ('muranishi', 'ありがとう。', 'Thank you.', [(251, 'ありがとう')], '')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Welcome back. How did your fundraising go today?'"), (1, None, "'Hey, stop! What is wrong with you all of a sudden? Don't treat me like a fool!'"), (2, None, "'Even you too...'"), (3, None, "'Anyone would hate being treated so crudely in a place like this!'"), (4, None, "'I am not an object.'"), (5, None, "'If you're going to hold me, then hold me properly.'"), (6, None, "'I made up my mind to stay with you, Mr. Muranishi. I can trust you, right?'"), (7, None, "'Every single person is so selfish. It wears my spirit down.'"), (8, None, "'Nobody understands how hard I'm working myself to the bone for this company.'"), (9, None, "'Are you doing all this just so someone will understand you?'"), (10, None, "'Just because you're exhausted, don't put yourself down like that.'"), (11, None, "'Thank you.'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = 'Chastened by her quiet strength when she tells him not to belittle himself out of exhaustion, Muranishi softly thanks her.'
+CLOSING = ('muranishi', 'また明日。')

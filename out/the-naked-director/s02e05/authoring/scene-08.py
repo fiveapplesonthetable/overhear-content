@@ -1,0 +1,19 @@
+ID = 'the-naked-director-s02e05-scene-08'
+SHOW = 'the-naked-director'
+SEASON = 2
+EPISODE = 5
+SCENE = 8
+TITLE = '融資を止めるぞ  (Stopping All Loans)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ja-en'
+LABELS = {'kacho': '課長', 'muranishi': '村西', 'reika': '麗華'}
+SOURCE_NAME = '全裸監督 (The Naked Director) S02E05'
+SOURCE_FILE = 'sources/the-naked-director/s02/e05.ja.srt'
+
+INTRO = 'At the bank, stock prices plunge and regulators issue an emergency cap on real-estate lending—forcing the Section Chief to slam the brakes on every loan right when Muranishi calls asking for fifty million yen.'
+STORY = [('kacho', 'はい、そうですか。分かりました。', 'Yes, is that so? Understood.', [(331, 'はい'), (332, 'そうですか'), (333, '分かりました')], ''), ('kacho', '総量規制の通達が正式に入った。', 'An official directive capping total loan volume has just come down.', [(335, '総量規制の通達が 正式に入った')], ''), ('kacho', 'これに背けば、この銀行は三日で潰れる。', 'If we defy this order, this bank will go under in three days.', [(336, 'これに背けば この銀行は三日で潰れる')], ''), ('kacho', '今すぐ手持ちの不動産の融資を止めるぞ！', 'Halt financing on every real-estate deal on our books immediately!', [(337, '今すぐ 手持ちの不動産の 融資を止めるぞ')], ''), ('kacho', '終わったな、日本。', "It's all over for Japan.", [(340, '終わったな'), (341, '日本')], ''), ('muranishi', '衛星放送の契約を募るための、スペシャルなアイデアを思いついたんです。', 'I just came up with a special idea to bring in a flood of satellite subscriptions.', [(346, '衛星放送の契約を募るためのね'), (347, 'スペシャルなアイデアを 思いついたんです')], ''), ('muranishi', '今月だけ追加で融資をお願いしようと思ってるんです。ほら、いい話でしょ。', "So just for this month, I'd like to ask for an extra loan. Sounds great, right?", [(349, '今月だけ 追加で融資を お願いしようと思ってるんです'), (350, 'ほら いい話でしょ')], ''), ('kacho', 'すいません村西さん、とにかくまた来月に。', "I'm sorry, Mr. Muranishi—let's talk again next month.", [(351, 'すいません 村西さん とにかく また来月に')], ''), ('muranishi', 'おい、ちょっと待て！', 'Hey, wait a second!', [(352, 'おい ちょっと待っ')], 'completed imperative'), ('muranishi', '支払期限はいつだ？', 'When is the payment deadline?', [(356, '支払期限は いつだ')], ''), ('reika', 'あと六日です。', 'Six days from now.', [(357, 'あと ６日です')], 'spelled numeral in kanji'), ('muranishi', '六日か…', 'Six days...', [(357, '６日です')], 'adapted echo')]
+OPENER = "Now let's go through it line by line with the English translation."
+WALK = [(0, None, "'Yes, is that so? Understood.'"), (1, None, "'An official directive capping total loan volume has just come down.'"), (2, None, "'If we defy this order, this bank will go under in three days.'"), (3, None, "'Halt financing on every real-estate deal on our books immediately!'"), (4, None, "'It's all over for Japan.'"), (5, None, "'I just came up with a special idea to bring in a flood of satellite subscriptions.'"), (6, None, "'So just for this month, I'd like to ask for an extra loan. Sounds great, right?'"), (7, None, "'I'm sorry, Mr. Muranishi—let's talk again next month.'"), (8, None, "'Hey, wait a second!'"), (9, None, "'When is the payment deadline?'"), (10, None, "'Six days from now.'"), (11, None, "'Six days...'")]
+TRANSITION = "Now let's listen to the whole conversation one last time."
+OUTRO = "Cut off by his bank as Japan's economic bubble collapses, Muranishi learns he has only six days left to pay."
+CLOSING = ('kacho', 'じゃあね。')
