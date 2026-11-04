@@ -213,6 +213,8 @@ def write_cand_bundle(cands_dir: Path, job: dict, wavs: list):
 def run_qwen_worker(worker_id: int, batch_seqs: int):
     role = f"qwen-{worker_id}"
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+    import torch
+    torch.cuda.set_per_process_memory_fraction(0.21)
     from store import Store
     from tts import QwenEngine
     from voices import Voices
@@ -232,9 +234,11 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
 
     while not stop_file.exists():
         tick += 1
-        # Backpressure if gate-workers have > 800 bundles queued in /dev/shm (~1.2 GB)
-        if sum(1 for _ in cands_dir.glob("*.json")) > 800:
-            time.sleep(0.25)
+        # Backpressure & free PyTorch cache if gate-workers have > 100 bundles queued in /dev/shm
+        if sum(1 for _ in cands_dir.glob("*.json")) > 100:
+            if eng is not None:
+                eng.torch.cuda.empty_cache()
+            time.sleep(0.5)
             continue
 
         if tick % 20 == 0:
@@ -248,7 +252,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
             time.sleep(2.0)
             continue
 
-        claimed = claim_jobs(jobs_dir, max_jobs=18, max_expanded=max(batch_seqs, 28), max_chars=4800, bucket=True, worker_id=worker_id)
+        claimed = claim_jobs(jobs_dir, max_jobs=batch_seqs, max_expanded=batch_seqs, max_chars=2600, bucket=True, worker_id=worker_id)
         if not claimed:
             time.sleep(0.2)
             continue
@@ -296,6 +300,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
                 for cp, job, s0, s1 in slices:
                     write_cand_bundle(cands_dir, job, wavs[s0:s1])
                     cp.unlink(missing_ok=True)
+                del wavs
                 eng.torch.cuda.empty_cache()
                 log(role, f"synthesized {len(grp)} lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
             except Exception as ex:
@@ -308,6 +313,8 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
                         w_item = eng.generate([(job["voice"], lang_name, job["text_tts"])] * n_c, seed, temperature=temp, repetition_penalty=rep)
                         write_cand_bundle(cands_dir, job, w_item)
                         cp.unlink(missing_ok=True)
+                        del w_item
+                        eng.torch.cuda.empty_cache()
                     except Exception as ex2:
                         log(role, f"ERROR item {job['key']} failed: {ex2}")
                         orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
@@ -324,6 +331,8 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
 def run_en_custom_worker(worker_id: int, batch_seqs: int):
     role = f"en-sky-{worker_id}"
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+    import torch
+    torch.cuda.set_per_process_memory_fraction(0.21)
     from store import Store
     from tts import QwenEngine
     from voices import Voices
@@ -345,8 +354,9 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
 
     while not stop_file.exists():
         tick += 1
-        if sum(1 for _ in cands_dir.glob("*.json")) > 800:
-            time.sleep(0.25)
+        if sum(1 for _ in cands_dir.glob("*.json")) > 100:
+            eng.torch.cuda.empty_cache()
+            time.sleep(0.5)
             continue
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
@@ -401,6 +411,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
                 for cp, job, s0, s1 in slices:
                     write_cand_bundle(cands_dir, job, wavs[s0:s1])
                     cp.unlink(missing_ok=True)
+                del wavs
                 eng.torch.cuda.empty_cache()
                 log(role, f"synthesized {len(grp)} en sky lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
             except Exception as ex:
@@ -413,6 +424,8 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
                         w_item = eng.generate([(job["voice"], lang_name, job["text_tts"])] * n_c, seed, temperature=temp, repetition_penalty=rep, top_k=top_k, top_p=top_p)
                         write_cand_bundle(cands_dir, job, w_item)
                         cp.unlink(missing_ok=True)
+                        del w_item
+                        eng.torch.cuda.empty_cache()
                     except Exception as ex2:
                         log(role, f"ERROR en item {job['key']} failed: {ex2}")
                         orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
