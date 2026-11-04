@@ -78,7 +78,7 @@ class EspeechEngine:
         plain = textprep.strip_acute(tts_marked)
         if plain.strip() in ("Пока!", "Пока", "Пока."):
             return "Пак+а!" if "!" in plain else "Пак+а."
-        auto = self._accent(plain)
+        auto = self._accent(plain).replace("Отп+устите", "Отпуст+ите").replace("отп+устите", "отпуст+ите")
         a, b = auto.split(), tts_marked.split()
         if len(a) != len(b):
             return auto
