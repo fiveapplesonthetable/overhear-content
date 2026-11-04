@@ -240,7 +240,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
 
-        if ahead_of_round_robin(jobs_dir):
+        if ahead_of_round_robin(jobs_dir, lead=(1 if eng is not None else 0)):
             if eng is not None:
                 log(role, "ahead of round-robin horizon; yielding VRAM & SM compute to active episode")
                 eng.free()
@@ -350,7 +350,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             continue
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
-        if ahead_of_round_robin(jobs_dir, lead=1):
+        if ahead_of_round_robin(jobs_dir, lead=(1 if eng is not None else 0)):
             eng.torch.cuda.empty_cache()
             time.sleep(2.0)
             continue
@@ -446,7 +446,7 @@ def run_ru_worker(worker_id: int, batch_seqs: int):
         if sum(1 for _ in cands_dir.glob("*.json")) > 800:
             time.sleep(0.25)
             continue
-        if ahead_of_round_robin(jobs_dir):
+        if ahead_of_round_robin(jobs_dir, lead=(1 if eng is not None else 0)):
             if eng is not None:
                 log(role, "ahead of round-robin horizon; yielding ESpeech VRAM & SM compute to active episode")
                 eng.free()
