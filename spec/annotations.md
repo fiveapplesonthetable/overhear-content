@@ -33,6 +33,11 @@ Required for a finished scene (`--require-notes`). You write it yourself, carefu
   no mark; one-vowel words no mark. This is the *only* place U+0301 may appear anywhere in the output.
 - **fr**: the word's IPA, no slashes/brackets/spaces/stress marks (`laʒɑ̃s` for *l'agence*). IPA symbols only,
   never accented spelling letters.
+- **Lexicon `stress`** is the pronunciation of the **lemma** (the dictionary form), never of an inflected token: for
+  *Erdbeeren* the entry `erdbeere` carries the IPA of *Erdbeere*, even when only the plural occurs in the text. Look the
+  lemma up; do not copy a token's `stress`. Only `words[].stress` is the pronunciation of the token as spoken. IPA
+  languages (not fr, which has no stress marks): `ˈ` (never an ASCII `'`) before the stressed syllable of every word of
+  2+ syllables, /x/ written `x` (not `ks`), and a full transcription (never a prefix such as `ˈma` for *mache*).
 
 ## `lexicon{}` (one entry per lemma used, key = lemma)
 | field | meaning |
