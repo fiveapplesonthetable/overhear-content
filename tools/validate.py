@@ -229,6 +229,7 @@ def check_script(path, lang, rep, expect_id=None, cast=None):
     try: d = json.loads(Path(path).read_text(encoding="utf-8"))
     except Exception as e: return rep.err(w, f"not valid JSON: {e}")
     check_schema(d, "script", w, rep)
+    no_stray_backslash(d, w, rep)
     for k in ("id", "pair", "title", "level", "labels", "segments", "source"):
         if k not in d: rep.err(w, f"missing field {k!r}")
     if "segments" not in d: return None
@@ -648,7 +649,7 @@ def no_acute_outside_stress(o, where, rep, key=""):
 
 
 def no_stray_backslash(o, where, rep, path="$"):
-    """A backslash in an annotation string is a cut-off escape (\\' left by a truncated sentence), never content."""
+    """A backslash in a script or annotation string is a cut-off escape (\\' left by a truncated sentence), never content."""
     if isinstance(o, str):
         if "\\" in o: rep.err(where, f"stray backslash at {path}: {o[-40:]!r}")
     elif isinstance(o, dict):
