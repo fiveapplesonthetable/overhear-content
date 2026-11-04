@@ -251,6 +251,12 @@ def sanitize_english_narrator_tts(text: str) -> str:
     return re.sub(r"\s+", " ", t).strip()
 
 
+# A sentence that is only this word: espeech.EspeechEngine.text sends the model the pronounced form (Пак+а!), because the model often reads
+# the first о of a short "Пока!" unreduced. The respelling happens after the sentence cache key is made, so these sentences also carry the
+# stress mark of пока́ in their tts text: that puts the respelling into the key, and takes rendered before it miss the cache and are redone.
+STANDALONE_PRONOUNCED = ("Пока!", "Пока", "Пока.")
+
+
 def prepare_segment(seg_i: int, role: str, text: str, lang: str, words, policy: str, gap: float, isent: float,
                     hom=None, ruaccent=None, max_turn_chars: int = 0):
     """Sentences (or merged whole-turn chunks <= `max_turn_chars`) of one segment.
@@ -269,6 +275,9 @@ def prepare_segment(seg_i: int, role: str, text: str, lang: str, words, policy: 
         marks = [(o, s[:o][-1:] ) for o in sorted(offs)]
         exp = [(e0 - a, text[e0:e1], e2) for e0, e1, e2 in expected if a <= e0 and e1 <= b]
         miss = [text[m0:m1] for m0, m1 in missing if a <= m0 and m1 <= b]
+        if s.strip() in STANDALONE_PRONOUNCED and ACUTE not in tts:
+            o = s.rindex("а") + 1
+            tts, marks = apply_inserts(s, [o]), [(o, "а")]
         sent = Sentence(seg_i, k, role, lang, s, tts, a, marks, miss, exp, gap=(gap if k == len(sents) - 1 else isent))
         if miss and ruaccent is not None:
             marked = ruaccent([s])[0]

@@ -77,3 +77,12 @@ def test_missing_marks_reported_and_ruaccent_fallback_only_for_missing():
     (s,) = tp.prepare_segment(0, "x", text, "ru", words, "all", 0.5, 0.5, ruaccent=fake)
     assert calls and s.missing == []
     assert s.tts == "Лёва лю" + ACUTE + "бит Андре" + ACUTE + "я."   # Лёва (ё) never marked, notes mark kept once
+
+
+def test_standalone_poka_carries_its_stress_mark_so_the_cache_key_follows_the_respelling():
+    for text, marked in (("Пока!", "Пока" + ACUTE + "!"), ("Пока.", "Пока" + ACUTE + "."), ("Пока", "Пока" + ACUTE)):
+        (s,) = tp.prepare_segment(0, "max", text, "ru", [], "homographs", 0.3, 0.5)
+        assert (s.plain, s.tts) == (text, marked)
+    for text in ("Ну пока, Даня!", "Привет!"):                      # only a sentence that is the word alone
+        (s,) = tp.prepare_segment(0, "max", text, "ru", [], "homographs", 0.3, 0.5)
+        assert s.tts == text
