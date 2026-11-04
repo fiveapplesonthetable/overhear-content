@@ -138,6 +138,13 @@ class T(unittest.TestCase):
         rep = v.Report(); v.check_notes(p, self.script, "ru", False, rep)
         self.assertTrue(any("U+0301" in e for e in rep.errors))
 
+    def test_notes_stray_backslash(self):
+        n = json.loads((EX / "scene.notes.json").read_text(encoding="utf-8"))
+        n["lines"][0]["trans"] = "Samuel Kerr\\"
+        p = self.tmp / "n.json"; p.write_text(json.dumps(n, ensure_ascii=False))
+        rep = v.Report(); v.check_notes(p, self.script, "ru", False, rep)
+        self.assertTrue(any("stray backslash at $.lines[0].trans" in e for e in rep.errors))
+
     # ---- schema (spec/schema/*.json) and the rules that come with it
     def test_schema_version_required(self):
         del self.scenes["schemaVersion"]
