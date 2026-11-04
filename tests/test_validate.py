@@ -145,6 +145,11 @@ class T(unittest.TestCase):
         rep = v.Report(); v.check_notes(p, self.script, "ru", False, rep)
         self.assertTrue(any("stray backslash at $.lines[0].trans" in e for e in rep.errors))
 
+    def test_script_stray_backslash(self):
+        self.script["segments"][0]["t"] = "Kerr\\'s wife"
+        self.write()
+        self.assertTrue(any("stray backslash at $.segments[0].t" in e for e in self.errs()))
+
     # ---- schema (spec/schema/*.json) and the rules that come with it
     def test_schema_version_required(self):
         del self.scenes["schemaVersion"]
