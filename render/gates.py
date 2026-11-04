@@ -460,7 +460,7 @@ class AudioGates:
                 },
             })
             # Early-exit if we already found an unmistakable golden studio take
-            if all_ok and cer_bucket == 0.0 and pros_pen == 0.0 and sim_val >= (0.94 if lang == "en" else 0.92):
+            if all_ok and cer_bucket == 0.0 and pros_pen == 0.0 and sim_val >= (0.89 if lang == "en" else 0.86):
                 break
 
         passing = [c for c in cands if c["all_ok"]]
