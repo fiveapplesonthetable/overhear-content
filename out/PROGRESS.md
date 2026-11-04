@@ -41,6 +41,21 @@ Kukhnya S2e04 to S6e20 were written from Whisper (`ru-only`) transcripts. Names 
 
 ## Next
 
+* **Re-render for #46, #47, #48 (owner feedback 2026-11-04), before new episodes:**
+  * Standalone "Пока!" was voiced "poka" in about two thirds of its takes (ESpeech leaves the first о unreduced). #48 respells
+    it `Пак+а!` and puts the stress mark into the sentence text, so only those sentences miss the cache. Re-render every
+    rendered scene that has a standalone "Пока", "Пока!" or "Пока." sentence (`render/textprep.py STANDALONE_PRONOUNCED`):
+    324 scenes at 97c19ba36, Kukhnya and Domashniy Arest. Their renderKey does not change, so pass the scenes explicitly
+    (`pipeline.py --scene ... --force`), reusing the existing sentence cache: a dry run must show only the Пока sentences missing.
+  * #46 fixed English translations cut off at an apostrophe in the notes, and #47 removed a literal backslash before
+    apostrophes in narrator text. Their contentHash changed, so re-render: dix-pour-cent s02e01 scene-06 and scene-07,
+    s02e02 scene-07; behind-the-scenes s01e02 scene-12 and scene-13; the-producers s01e01 scene-07; the-naked-director
+    s02e08 scene-04 and scene-10 if rendered.
+  * Check: in each re-rendered Пока span a phoneme recogniser (`facebook/wav2vec2-xlsr-53-espeak-cv-ft`) hears `p a k a`,
+    not `p o k a`. Every other sentence is the cached take, unchanged. `check_render.py` is clean.
+  * Ship as usual: `tools/package_render.py --episode <id> --release` for every touched episode. The receiving machine
+    installs and publishes it.
+
 * **Clean takes (owner feedback 2026-11-02):** stammered words and bangs inside TTS takes. Add the take gates in
   spec/quality.md §6 (length, verbatim repeats, transients, best of N, same voice: clone every take from one
   approved reference clip) to the renderer before rendering anything else.
