@@ -76,6 +76,8 @@ class EspeechEngine:
     def text(self, tts_marked):
         """Pipeline-marked sentence (U+0301 on notes homographs) -> ESpeech text ('+' marks)."""
         plain = textprep.strip_acute(tts_marked)
+        if plain.strip() in ("Пока!", "Пока", "Пока."):
+            return "Пак+а!" if "!" in plain else "Пак+а."
         auto = self._accent(plain)
         a, b = auto.split(), tts_marked.split()
         if len(a) != len(b):
