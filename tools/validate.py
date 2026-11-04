@@ -657,6 +657,12 @@ def check_stress(lang, word, st, where, rep):
         if re.search(r"[\s/\[\]]", st) or re.search(r"[A-Z]", st) or ACUTE in st: rep.err(where, f"{lang} stress must be bare IPA: {st!r}")
         spelling = r"[éèêàùçôîï]" if lang == "fr" else r"[áéíóúñü]" if lang == "es" else r"[àèéìòù]" if lang == "it" else r"[áàâéêíóôúç]" if lang == "pt" else r"[äöüß]"
         if re.search(spelling, st): rep.err(where, f"{lang} stress holds spelling letters, not IPA: {st!r}")
+        plain = re.sub(r"[ˈˌ.\-ː]", "", st)
+        if "'" in st: rep.err(where, f"{lang} stress marks stress with an ASCII apostrophe: {st!r} (use ˈ)")
+        if len(plain) <= 2 and len(word) >= 4 and word.lower().startswith(plain.lower()): rep.err(where, f"{lang} stress {st!r} is a truncated filler for {word!r}")
+        if lang != "fr" and "ˈ" not in st and "'" not in st and len(re.findall("[aeiouyøəɐɛɔɪʊʏœɑãõ]+", unicodedata.normalize("NFD", st))) >= 2:
+            rep.err(where, f"{lang} stress {st!r} has two or more syllables but no ˈ stress mark")
+        if lang == "es" and "ks" in st and re.search("j|g[eéií]", word.lower()) and "x" not in word.lower(): rep.err(where, f"es stress {st!r} writes /x/ as ks")
 
 
 def check_notes(path, script, lang, require, rep):
