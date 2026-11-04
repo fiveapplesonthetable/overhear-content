@@ -647,6 +647,16 @@ def no_acute_outside_stress(o, where, rep, key=""):
         for v in o: no_acute_outside_stress(v, where, rep, key)
 
 
+def no_stray_backslash(o, where, rep, path="$"):
+    """A backslash in an annotation string is a cut-off escape (\\' left by a truncated sentence), never content."""
+    if isinstance(o, str):
+        if "\\" in o: rep.err(where, f"stray backslash at {path}: {o[-40:]!r}")
+    elif isinstance(o, dict):
+        for k, v in o.items(): no_stray_backslash(v, where, rep, f"{path}.{k}")
+    elif isinstance(o, list):
+        for i, v in enumerate(o): no_stray_backslash(v, where, rep, f"{path}[{i}]")
+
+
 def check_stress(lang, word, st, where, rep):
     if st is None: return
     if lang == "ru":
@@ -666,6 +676,7 @@ def check_notes(path, script, lang, require, rep):
     check_schema(n, "notes", w, rep)
     if n.get("id") not in (None, script.get("id")): rep.err(w, f"id {n.get('id')!r} must equal the script id {script.get('id')!r}")
     no_acute_outside_stress(n, w, rep)
+    no_stray_backslash(n, w, rep)
     segs, lex = script["segments"], n.get("lexicon", {})
     if not isinstance(n.get("lines"), list): return rep.err(w, "needs 'lines' list")
     done = set()
