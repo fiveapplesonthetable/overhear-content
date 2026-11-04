@@ -215,7 +215,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
     import gc
     import torch
-    torch.cuda.set_per_process_memory_fraction(0.25)
+    torch.cuda.set_per_process_memory_fraction(0.28)
     from store import Store
     from tts import QwenEngine
     from voices import Voices
@@ -343,7 +343,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
     import gc
     import torch
-    torch.cuda.set_per_process_memory_fraction(0.25)
+    torch.cuda.set_per_process_memory_fraction(0.28)
     from store import Store
     from tts import QwenEngine
     from voices import Voices
@@ -377,7 +377,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             continue
 
         eff_seqs = batch_seqs
-        claimed = claim_jobs(jobs_dir, max_jobs=eff_seqs, max_expanded=eff_seqs, max_chars=2600, bucket=True, worker_id=worker_id)
+        claimed = claim_jobs(jobs_dir, max_jobs=eff_seqs, max_expanded=eff_seqs, max_chars=2000, bucket=True, worker_id=worker_id)
         if not claimed:
             time.sleep(0.2)
             continue
