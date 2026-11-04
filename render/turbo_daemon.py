@@ -213,8 +213,9 @@ def write_cand_bundle(cands_dir: Path, job: dict, wavs: list):
 def run_qwen_worker(worker_id: int, batch_seqs: int):
     role = f"qwen-{worker_id}"
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+    import gc
     import torch
-    torch.cuda.set_per_process_memory_fraction(0.21)
+    torch.cuda.set_per_process_memory_fraction(0.25)
     from store import Store
     from tts import QwenEngine
     from voices import Voices
@@ -244,7 +245,7 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
 
-        if ahead_of_round_robin(jobs_dir, lead=(1 if eng is not None else 0)):
+        if ahead_of_round_robin(jobs_dir, lead=1):
             if eng is not None:
                 log(role, "ahead of round-robin horizon; yielding VRAM & SM compute to active episode")
                 eng.free()
@@ -301,10 +302,14 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
                     write_cand_bundle(cands_dir, job, wavs[s0:s1])
                     cp.unlink(missing_ok=True)
                 del wavs
+                gc.collect()
                 eng.torch.cuda.empty_cache()
                 log(role, f"synthesized {len(grp)} lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
             except Exception as ex:
                 log(role, f"WARN batch failed ({ex}), falling back per-item")
+                ex.__traceback__ = None
+                del ex
+                gc.collect()
                 eng.torch.cuda.empty_cache()
                 for cp, job, _s0, _s1 in slices:
                     try:
@@ -314,9 +319,14 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
                         write_cand_bundle(cands_dir, job, w_item)
                         cp.unlink(missing_ok=True)
                         del w_item
+                        gc.collect()
                         eng.torch.cuda.empty_cache()
                     except Exception as ex2:
                         log(role, f"ERROR item {job['key']} failed: {ex2}")
+                        ex2.__traceback__ = None
+                        del ex2
+                        gc.collect()
+                        eng.torch.cuda.empty_cache()
                         orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
                         try:
                             cp.rename(orig)
@@ -331,8 +341,9 @@ def run_qwen_worker(worker_id: int, batch_seqs: int):
 def run_en_custom_worker(worker_id: int, batch_seqs: int):
     role = f"en-sky-{worker_id}"
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+    import gc
     import torch
-    torch.cuda.set_per_process_memory_fraction(0.21)
+    torch.cuda.set_per_process_memory_fraction(0.25)
     from store import Store
     from tts import QwenEngine
     from voices import Voices
@@ -412,10 +423,14 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
                     write_cand_bundle(cands_dir, job, wavs[s0:s1])
                     cp.unlink(missing_ok=True)
                 del wavs
+                gc.collect()
                 eng.torch.cuda.empty_cache()
                 log(role, f"synthesized {len(grp)} en sky lines ({len(expanded_batch)} takes) in {time.time() - t0:.2f}s")
             except Exception as ex:
                 log(role, f"WARN en batch failed ({ex}), falling back per-item")
+                ex.__traceback__ = None
+                del ex
+                gc.collect()
                 eng.torch.cuda.empty_cache()
                 for cp, job, _s0, _s1 in slices:
                     try:
@@ -425,9 +440,14 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
                         write_cand_bundle(cands_dir, job, w_item)
                         cp.unlink(missing_ok=True)
                         del w_item
+                        gc.collect()
                         eng.torch.cuda.empty_cache()
                     except Exception as ex2:
                         log(role, f"ERROR en item {job['key']} failed: {ex2}")
+                        ex2.__traceback__ = None
+                        del ex2
+                        gc.collect()
+                        eng.torch.cuda.empty_cache()
                         orig = jobs_dir / cp.name.rsplit(".claim.", 1)[0]
                         try:
                             cp.rename(orig)
