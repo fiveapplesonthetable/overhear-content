@@ -351,7 +351,7 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
     settings = config.load_settings(str(REPO / "render" / "settings.fr-qwen-en.json"))
     voices = Voices()
     store = Store(config.STORE)
-    eng = QwenEngine(settings, voices, log=lambda *a: log(role, *a))
+    eng = QwenEngine(settings, voices, log=lambda *a: log(role, *a)) if worker_id <= 2 else None
     # Low-entropy sampling locks zero-shot Qwen3-Base onto sky.flac's relaxed British female voice & RP accent
     temp = 0.54
     top_k = 25
@@ -359,6 +359,8 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
     rep = 1.08
 
     jobs_dir = SHM_ROOT / "jobs_en"
+    ru_dir = SHM_ROOT / "jobs_ru"
+    qwen_dir = SHM_ROOT / "jobs_qwen"
     cands_dir = SHM_ROOT / "cands"
     stop_file = SHM_ROOT / "STOP"
     tick = 0
@@ -366,13 +368,26 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
     while not stop_file.exists():
         tick += 1
         if sum(1 for _ in cands_dir.glob("*.json")) > 100:
-            eng.torch.cuda.empty_cache()
+            if eng is not None:
+                eng.torch.cuda.empty_cache()
             time.sleep(0.5)
             continue
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
+        # Overflow English workers (id >= 3) yield VRAM when 3x ru-espeech (id >= 3) or qwen-1 (id >= 4) are active
+        if worker_id >= 3:
+            ru_busy = (min_prio_in(ru_dir) is not None) and (not ahead_of_round_robin(ru_dir, lead=1))
+            qwen_busy = (worker_id >= 4) and (min_prio_in(qwen_dir) is not None) and (not ahead_of_round_robin(qwen_dir, lead=1))
+            if ru_busy or qwen_busy:
+                if eng is not None:
+                    log(role, "yielding VRAM to active foreign dialogue workers")
+                    eng.free()
+                    eng = None
+                time.sleep(2.0)
+                continue
         if ahead_of_round_robin(jobs_dir, lead=(1 if eng is not None else 0)):
-            eng.torch.cuda.empty_cache()
+            if eng is not None:
+                eng.torch.cuda.empty_cache()
             time.sleep(2.0)
             continue
 
@@ -381,6 +396,8 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
         if not claimed:
             time.sleep(0.2)
             continue
+        if eng is None:
+            eng = QwenEngine(settings, voices, log=lambda *a: log(role, *a))
 
         todo = []
         for cp, job in claimed:
