@@ -374,10 +374,10 @@ def run_en_custom_worker(worker_id: int, batch_seqs: int):
             continue
         if tick % 20 == 0:
             reclaim_stale_claims(jobs_dir)
-        # Overflow English workers (id >= 3) yield VRAM when 3x ru-espeech (id >= 3) or qwen-1 (id >= 4) are active
+        # Overflow English workers (id >= 3) yield VRAM when 3x ru-espeech or qwen-1 are active
         if worker_id >= 3:
             ru_busy = (min_prio_in(ru_dir) is not None) and (not ahead_of_round_robin(ru_dir, lead=1))
-            qwen_busy = (worker_id >= 4) and (min_prio_in(qwen_dir) is not None) and (not ahead_of_round_robin(qwen_dir, lead=1))
+            qwen_busy = (min_prio_in(qwen_dir) is not None) and (not ahead_of_round_robin(qwen_dir, lead=1))
             if ru_busy or qwen_busy:
                 if eng is not None:
                     log(role, "yielding VRAM to active foreign dialogue workers")
