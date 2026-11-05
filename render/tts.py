@@ -120,8 +120,10 @@ class QwenEngine:
         longest = max(len(b[2]) for b in sub)
         cps_floor = 4.5 if any(b[1] in ("Chinese", "Japanese", "Korean") for b in sub) else (9.5 if all(b[1] == "English" for b in sub) else 8.0)
         max_tokens = min(t["max_new_tokens"], int((longest / cps_floor + 2.2) * 12.5) + 20)
+        import re
+        texts_in = [re.sub(r"\b([A-Z][a-z]+(?:yev|ev|ov))na\b", r"\1-nah", b[2]) if b[1] == "English" else b[2] for b in sub]
         wavs, sr = self.q.generate_voice_clone(
-            text=[b[2] for b in sub], language=[b[1] for b in sub],
+            text=texts_in, language=[b[1] for b in sub],
             voice_clone_prompt=[self._prompt(b[0]) for b in sub],
             temperature=temperature or t["temperature"],
             top_k=top_k if top_k is not None else t["top_k"],

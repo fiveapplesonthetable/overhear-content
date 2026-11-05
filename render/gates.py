@@ -369,7 +369,7 @@ class AudioGates:
                         for is_last, (rw, hw) in enumerate(((ref_w[0], hyp_w[0]), (ref_w[-1], hyp_w[-1]))):
                             if any(ch.isdigit() for ch in rw):
                                 continue
-                            if lang == "en" and rw in en_proper_set and sim_val >= 0.88 and len(hw) >= 2:
+                            if lang == "en" and rw in en_proper_set and sim_val >= 0.88 and len(hw) >= max(3, int(len(rw) * 0.65)):
                                 continue
                             max_ed = 0.0 if len(rw) <= 6 else 0.15
                             if float(jiwer.cer(rw, hw)) > max_ed:
