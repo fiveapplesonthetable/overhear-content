@@ -793,6 +793,8 @@ def run_orchestrator():
 
         voices = Voices()
         for spec in ep_specs:
+            if len(prepared_eps) >= 4:
+                break
             ep = spec["episode"]
             done_marker = SHM_ROOT / f"done_{ep}.json"
             if ep in prepared_eps or done_marker.exists():
