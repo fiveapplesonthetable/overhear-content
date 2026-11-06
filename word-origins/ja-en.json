@@ -3,8 +3,20 @@
   "pair": "ja-en",
   "entries": {
     "本当": {
-      "etymology": "The historical dictionary records 本当 in the sense of truth in a 1770 work, and a genuine or proper state in a 1785 work. These are cited attestations, not a claim that the word was coined in either year. The shorter spoken form ほんと is a sound change from ほんとう.",
+      "etymology": "Sino-Japanese compound of 本 ('root, origin, true') and 当 ('hit the mark, right, proper'). Historical dictionaries record 本当 in the sense of 'truth' in a 1770 work and 'a genuine or proper state' in a 1785 work; the shorter colloquial form ほんと arose by vowel shortening from ほんとう.",
       "certainty": "established",
+      "morphemes": [
+        {
+          "part": "本",
+          "kind": "root",
+          "meaning": "origin; true; real"
+        },
+        {
+          "part": "当",
+          "kind": "root",
+          "meaning": "right; proper; fitting"
+        }
+      ],
       "history": [
         {
           "stage": "Japanese, cited 1770 attestation",
@@ -21,22 +33,26 @@
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — 本当",
           "url": "https://kotobank.jp/word/本当-632406"
+        },
+        {
+          "title": "Wiktionary — 本当 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%9C%AC%E5%BD%93#Japanese"
         }
       ]
     },
     "の": {
-      "etymology": "The noun-linking particle is already attested in the Kojiki of 712. It later also serves to turn a statement into something noun-like. The spoken ん before です in this taster is a contracted form of explanatory の, not the unrelated negative ending also written ん.",
+      "etymology": "Native Japanese genitive and noun-linking particle already attested in the Kojiki (712). Over time it also developed a nominalizing function turning clauses into noun-like statements; in modern spoken Japanese, explanatory の before です or だ frequently contracts to ん.",
       "certainty": "established",
       "history": [
         {
           "stage": "Old Japanese, Kojiki (712)",
           "form": "の",
-          "meaning": "links a following noun"
+          "meaning": "links a modifying noun to a following noun"
         },
         {
           "stage": "Modern spoken Japanese",
           "form": "ん",
-          "meaning": "contracted explanatory の"
+          "meaning": "contracted explanatory nominalizer"
         }
       ],
       "sources": [
@@ -45,41 +61,57 @@
           "url": "https://kotobank.jp/word/の-596099"
         },
         {
-          "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — ん",
-          "url": "https://kotobank.jp/word/ん-666120"
+          "title": "Wiktionary — の (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%AE#Japanese"
         }
       ]
     },
     "自分": {
-      "etymology": "The historical dictionary documents a self-referring use in a diary entry dated 1425 and also records its use for the person concerned. Its reference depends on the speaker and context. Here it refers to Megumi herself; the word does not have a fixed feminine meaning.",
+      "etymology": "Sino-Japanese compound of 自 ('oneself') and 分 ('portion, lot, status'). Historical dictionaries document self-referring uses in a diary entry dated 1425 as well as uses pointing to the person concerned; its reference shifts naturally with speaker and context.",
       "certainty": "established",
+      "morphemes": [
+        {
+          "part": "自",
+          "kind": "root",
+          "meaning": "oneself; self"
+        },
+        {
+          "part": "分",
+          "kind": "root",
+          "meaning": "portion; personal share"
+        }
+      ],
       "history": [
         {
           "stage": "Japanese, cited diary attestation of 1425",
           "form": "自分",
-          "meaning": "self-reference"
+          "meaning": "oneself; one's own"
         }
       ],
       "sources": [
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — 自分",
           "url": "https://kotobank.jp/word/自分-523303"
+        },
+        {
+          "title": "Wiktionary — 自分 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%87%AA%E5%88%86#Japanese"
         }
       ]
     },
     "だ": {
-      "etymology": "The copula developed through contraction of である to であ and then だ. The dictionaries locate its development in the Muromachi period, especially eastern Japanese usage, and cite a 1473 example. Its connecting form is で, the form heard before いる in this taster.",
+      "etymology": "Plain copula formed by phonological contraction of である to であ and then だ during the Muromachi period, especially in eastern Japanese speech (with cited examples from 1473 onward).",
       "certainty": "established",
       "history": [
         {
           "stage": "Earlier Japanese",
           "form": "である",
-          "meaning": "be"
+          "meaning": "to be (copular phrase)"
         },
         {
-          "stage": "Contracted form",
+          "stage": "Intermediate contraction",
           "form": "であ",
-          "meaning": "be"
+          "meaning": "to be"
         },
         {
           "stage": "Muromachi-period Japanese",
@@ -91,94 +123,93 @@
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — だ",
           "url": "https://kotobank.jp/word/だ-556047"
+        },
+        {
+          "title": "Wiktionary — だ (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%A0#Japanese"
         }
       ]
     },
     "いる": {
-      "etymology": "The older spelling is ゐる. Digital Daijisen identifies its original meaning as staying still in a low posture or sitting, in contrast with standing. It has developed the familiar meanings of being present or remaining in a state. This word is distinct from 要る, meaning to need.",
+      "etymology": "Spelled ゐる (wiru) prior to modern kana reform. Originally meaning 'to sit down' or 'stay still in one spot' in contrast with standing, it broadened into the standard verb of animate existence ('be present, stay') and progressive aspect.",
       "certainty": "established",
       "history": [
         {
-          "stage": "Earlier Japanese spelling",
+          "stage": "Classical Japanese",
           "form": "ゐる",
-          "meaning": "sit; remain"
+          "meaning": "sit; remain in place"
         },
         {
-          "stage": "Modern Japanese spelling",
+          "stage": "Modern Japanese",
           "form": "いる",
-          "meaning": "be present; remain"
+          "meaning": "be present (animate); remain"
         }
       ],
       "sources": [
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — 居る",
           "url": "https://kotobank.jp/word/居る-436525"
+        },
+        {
+          "title": "Wiktionary — いる (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%84%E3%82%8B#Japanese"
         }
       ]
     },
     "なる": {
-      "etymology": "An old Japanese word: the historical dictionary cites forms in eighth-century texts for coming into being and changing into another state. Its modern meaning of becoming continues that change-of-state use. The lesson’s なった is the past form; it is not the different word 鳴る, to sound.",
+      "etymology": "Inherited from Old Japanese *naru*, attested in eighth-century texts for coming into being, bearing fruit, and changing into another state. Its modern everyday sense 'become' continues that core change-of-state meaning.",
       "certainty": "established",
       "history": [
         {
-          "stage": "Old Japanese, eighth-century attestations",
+          "stage": "Old Japanese (8th century)",
           "form": "なる",
           "meaning": "come into being; change state"
         },
         {
           "stage": "Modern Japanese",
-          "form": "なった",
-          "meaning": "became"
+          "form": "なる",
+          "meaning": "become; turn into"
         }
       ],
       "sources": [
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — 成る",
           "url": "https://kotobank.jp/word/成る-590172"
+        },
+        {
+          "title": "Wiktionary — なる (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%AA%E3%82%8B#Japanese"
         }
       ]
     },
     "から": {
-      "etymology": "The particle has older route and starting-point uses. The historical dictionary treats its modern because-clause use as an Early Modern development and cites an example from around 1710. It lists competing accounts of the particle’s deeper origin; no single proposed prehistoric derivation is asserted here.",
+      "etymology": "Case and conjunctive particle with older spatial and temporal uses marking a starting point or route ('from'). Its causal clause use ('because, since') developed in Early Modern Japanese, with dictionary citations from around 1710.",
       "certainty": "uncertain",
       "history": [
         {
           "stage": "Older Japanese",
           "form": "から",
-          "meaning": "route; starting point"
+          "meaning": "starting point; route ('from')"
         },
         {
-          "stage": "Early Modern Japanese, cited around 1710",
+          "stage": "Early Modern Japanese (c. 1710)",
           "form": "から",
-          "meaning": "connects a reason to its result"
+          "meaning": "causal conjunction ('because')"
         }
       ],
       "sources": [
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — から",
           "url": "https://kotobank.jp/word/から-467143"
-        }
-      ]
-    },
-    "出演する": {
-      "etymology": "This combines the verbal noun 出演 with する, to do. The historical dictionary cites 出演 in a 1904 novel for a public appearance or speech; the word also covers acting in film, theatre and broadcasting. This is an attested earlier use, not a verified date of coinage.",
-      "certainty": "established",
-      "history": [
+        },
         {
-          "stage": "Japanese, cited 1904 attestation",
-          "form": "出演",
-          "meaning": "public performance or appearance"
-        }
-      ],
-      "sources": [
-        {
-          "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — 出演",
-          "url": "https://kotobank.jp/word/出演-528845"
+          "title": "Wiktionary — から (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%8B%E3%82%89#Japanese"
         }
       ]
     },
     "ほしい": {
-      "etymology": "The older adjective is ほし, with early attestations in the Kojiki and Manyoshu. The modern form is ほしい, also written 欲しい. The historical dictionary separately cites the pattern てほしい, wanting someone to do something, in a 1686 work.",
+      "etymology": "Descends from Old Japanese adjective *fosi* (classical ほし), attested in the Kojiki and Man'yōshū in the sense of 'desirable, wanted'. Modern ほしい (欲しい) generalized the attributive *-ki > -i* ending, and the auxiliary request pattern 〜てほしい is attested by 1686.",
       "certainty": "established",
       "history": [
         {
@@ -187,75 +218,76 @@
           "meaning": "wanted; desirable"
         },
         {
-          "stage": "Japanese, cited 1686 attestation",
+          "stage": "Early Modern Japanese (1686)",
           "form": "てほしい",
           "meaning": "want someone to do something"
         },
         {
           "stage": "Modern Japanese",
           "form": "ほしい",
-          "meaning": "wanted"
+          "meaning": "wanted; desired"
         }
       ],
       "sources": [
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — 欲しい",
           "url": "https://kotobank.jp/word/欲しい-629847"
+        },
+        {
+          "title": "Wiktionary — ほしい (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%BB%E3%81%97%E3%81%84#Japanese"
         }
       ]
     },
     "です": {
-      "etymology": "The exact origin is disputed. Digital Daijisen lists proposals involving forms such as で候, でおはす, でございます and であります. It records the word from the Muromachi period onward, with general polite usage spreading in the late Edo and Meiji periods. Treating one proposed contraction as certain would overstate the evidence.",
+      "etymology": "Polite copula documented from the Muromachi period onward that spread across general polite speech in the late Edo and Meiji periods. Reference dictionaries list several proposed contractions—including で候 (de sōrō), でおはす, でございます, and であります—without consensus on a single source.",
       "certainty": "uncertain",
       "history": [
         {
           "stage": "Muromachi-period Japanese",
           "form": "です",
-          "meaning": "a form used in restricted dramatic and social settings"
+          "meaning": "stylized copular ending in dramatic and social registers"
         },
         {
-          "stage": "Late Edo and Meiji Japanese",
+          "stage": "Late Edo to Meiji Japanese",
           "form": "です",
-          "meaning": "spreads as a general polite ending"
+          "meaning": "standard polite copula"
         }
       ],
       "sources": [
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — です",
           "url": "https://kotobank.jp/word/です-575878"
-        }
-      ]
-    },
-    "アダルトビデオ": {
-      "etymology": "A Japanese compound made from the English-derived words adult and video. Shueisha’s katakana dictionary marks it as a Japanese formation.",
-      "certainty": "established",
-      "history": [],
-      "sources": [
+        },
         {
-          "title": "Shueisha imidas: Contemporary Katakana Dictionary — アダルトビデオ",
-          "url": "https://imidas.jp/katakana/detail/Z-01-4-0921.html"
+          "title": "Wiktionary — です (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%A7%E3%81%99#Japanese"
         }
       ]
     },
     "に": {
-      "etymology": "This is an old Japanese particle with many functions. The historical dictionary cites eighth-century Manyoshu examples marking time, place and the setting of an action. The taster uses it to connect appearing to the kind of film. That modern use should not be reduced to a single universal English translation.",
+      "etymology": "Core Japanese case particle attested throughout eighth-century Man'yōshū poetry, marking points in time, static locations of existence, destinations, and indirect recipients.",
       "certainty": "established",
       "history": [
         {
-          "stage": "Old Japanese, Manyoshu attestations",
+          "stage": "Old Japanese (Man'yōshū)",
           "form": "に",
-          "meaning": "marks time, place and other relations"
+          "meaning": "marks location, time, goal, and recipient"
         }
       ],
       "sources": [
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — に",
           "url": "https://kotobank.jp/word/に-590835"
+        },
+        {
+          "title": "Wiktionary — に (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%AB#Japanese"
         }
       ]
     },
     "また": {
-      "etymology": "The adverb meaning again is attested in the Nihon Shoki of 720. It also developed uses meaning another occasion and also. The newly authored farewell またね draws on the sense of another meeting; it is not a quotation from the trailer.",
+      "etymology": "Native adverb attested in the Nihon Shoki (720) meaning 'again, once more', later extending to 'also' and 'on another occasion'—the sense underlying everyday farewells like またね ('see you again') and また明日 ('see you tomorrow').",
       "certainty": "established",
       "history": [
         {
@@ -268,23 +300,1226 @@
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — 又",
           "url": "https://kotobank.jp/word/又-634425"
+        },
+        {
+          "title": "Wiktionary — また (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%BE%E3%81%9F#Japanese"
         }
       ]
     },
     "ね": {
-      "etymology": "The modern conversational particle is documented from late Edo speech; the historical dictionary cites a 1788 example. It softens an utterance or invites shared understanding. Dictionaries separately record an ancient request particle also pronounced ね; this entry does not claim that the modern farewell ending and that older use have an established single origin.",
+      "etymology": "Sentence-final conversational particle documented from late Edo speech (with dictionary citations from 1788), used to invite agreement, confirm shared information, or soften a statement.",
       "certainty": "established",
       "history": [
         {
-          "stage": "Late Edo Japanese, cited 1788 attestation",
+          "stage": "Late Edo Japanese (cited 1788)",
           "form": "ね",
-          "meaning": "conversational emphasis or shared feeling"
+          "meaning": "conversational confirmation or shared feeling"
         }
       ],
       "sources": [
         {
           "title": "Shogakukan: Digital Daijisen / Selected Nihon Kokugo Daijiten — ね",
           "url": "https://kotobank.jp/word/ね-594445"
+        },
+        {
+          "title": "Wiktionary — ね (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%AD#Japanese"
+        }
+      ]
+    },
+    "パン": {
+      "etymology": "Borrowed in the sixteenth century from Portuguese pão ('bread'), introduced by Portuguese traders and missionaries in Nagasaki and remaining one of Japanese's oldest everyday European loanwords.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Latin",
+          "form": "pānis",
+          "meaning": "bread"
+        },
+        {
+          "stage": "Portuguese",
+          "form": "pão",
+          "meaning": "bread"
+        },
+        {
+          "stage": "Early Modern to Modern Japanese",
+          "form": "パン",
+          "meaning": "bread; pastry roll"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Portuguese",
+          "word": "pão",
+          "meaning": "bread"
+        },
+        {
+          "lang": "Spanish",
+          "word": "pan",
+          "meaning": "bread"
+        },
+        {
+          "lang": "French",
+          "word": "pain",
+          "meaning": "bread"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — パン (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%91%E3%83%B3#Japanese"
+        }
+      ]
+    },
+    "コーヒー": {
+      "etymology": "Borrowed in the late Edo period from Dutch koffie ('coffee') through the Dutch trading post at Dejima in Nagasaki; scholars also coined the phonetic kanji spelling 珈琲.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Arabic",
+          "form": "qahwa",
+          "meaning": "coffee"
+        },
+        {
+          "stage": "Dutch",
+          "form": "koffie",
+          "meaning": "coffee"
+        },
+        {
+          "stage": "Late Edo to Modern Japanese",
+          "form": "コーヒー",
+          "meaning": "coffee"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Dutch",
+          "word": "koffie",
+          "meaning": "coffee"
+        },
+        {
+          "lang": "English",
+          "word": "coffee",
+          "meaning": "coffee"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — コーヒー (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC#Japanese"
+        }
+      ]
+    },
+    "ガラス": {
+      "etymology": "Borrowed in the Edo period from Dutch glas ('glass'), referring to sheet and window glass as a material (whereas the later English borrowing グラス denotes a drinking glass).",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Dutch",
+          "form": "glas",
+          "meaning": "glass"
+        },
+        {
+          "stage": "Edo to Modern Japanese",
+          "form": "ガラス",
+          "meaning": "glass (material, pane)"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — ガラス (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%82%AC%E3%83%A9%E3%82%B9#Japanese"
+        }
+      ]
+    },
+    "コップ": {
+      "etymology": "Borrowed from Dutch kop (or Portuguese copo) during the early modern trade era to name a tumbler or drinking cup without a handle.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Dutch",
+          "form": "kop",
+          "meaning": "cup; mug"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "コップ",
+          "meaning": "drinking glass; tumbler"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — コップ (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%82%B3%E3%83%83%E3%83%97#Japanese"
+        }
+      ]
+    },
+    "スーツケース": {
+      "etymology": "Borrowed from English suitcase ('flat-sided Rectangular travel bag'), combining スーツ ('suit') and ケース ('case').",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "suitcase",
+          "meaning": "hinged travel case"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "スーツケース",
+          "meaning": "suitcase"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — スーツケース (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9#Japanese"
+        }
+      ]
+    },
+    "ホテル": {
+      "etymology": "Borrowed in the Meiji era from English hotel (ultimately from French hôtel) to distinguish Western-style hotels from traditional Japanese inns (旅館).",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "French",
+          "form": "hôtel",
+          "meaning": "townhouse; hotel"
+        },
+        {
+          "stage": "English",
+          "form": "hotel",
+          "meaning": "hotel"
+        },
+        {
+          "stage": "Meiji to Modern Japanese",
+          "form": "ホテル",
+          "meaning": "Western-style hotel"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — ホテル (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%9B%E3%83%86%E3%83%AB#Japanese"
+        }
+      ]
+    },
+    "タクシー": {
+      "etymology": "Borrowed in the Taishō era from English taxi, itself clipped from taximeter cab.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "taxi",
+          "meaning": "taxicab"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "タクシー",
+          "meaning": "taxi"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — タクシー (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC#Japanese"
+        }
+      ]
+    },
+    "テーブル": {
+      "etymology": "Borrowed from English table to name a raised dining or café table used with chairs, in contrast with low floor tables.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "table",
+          "meaning": "piece of furniture"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "テーブル",
+          "meaning": "table"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — テーブル (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB#Japanese"
+        }
+      ]
+    },
+    "バター": {
+      "etymology": "Borrowed in the Meiji period from English butter as Western dairy and baking spread across Japan.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "butter",
+          "meaning": "churned dairy fat"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "バター",
+          "meaning": "butter"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — バター (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%90%E3%82%BF%E3%83%BC#Japanese"
+        }
+      ]
+    },
+    "チーズ": {
+      "etymology": "Borrowed from English cheese.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "cheese",
+          "meaning": "cheese"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "チーズ",
+          "meaning": "cheese"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — チーズ (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%81%E3%83%BC%E3%82%BA#Japanese"
+        }
+      ]
+    },
+    "ミルク": {
+      "etymology": "Borrowed from English milk; in everyday Japanese ミルク often refers to milk added to coffee or tea, alongside Sino-Japanese 牛乳 for fresh drinking milk.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "milk",
+          "meaning": "milk"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "ミルク",
+          "meaning": "milk; coffee creamer"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — ミルク (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%9F%E3%83%AB%E3%82%AF#Japanese"
+        }
+      ]
+    },
+    "レモン": {
+      "etymology": "Borrowed from English lemon.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "lemon",
+          "meaning": "citrus fruit"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "レモン",
+          "meaning": "lemon"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — レモン (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%AC%E3%83%A2%E3%83%B3#Japanese"
+        }
+      ]
+    },
+    "ケーキ": {
+      "etymology": "Borrowed from English cake.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "cake",
+          "meaning": "baked sweet cake"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "ケーキ",
+          "meaning": "Western-style cake"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — ケーキ (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%82%B1%E3%83%BC%E3%82%AD#Japanese"
+        }
+      ]
+    },
+    "ドア": {
+      "etymology": "Borrowed from English door, referring specifically to a hinged or automatic Western-style door rather than a sliding Japanese 戸 (to) or 襖 (fusuma).",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "door",
+          "meaning": "hinged door"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "ドア",
+          "meaning": "hinged door"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — ドア (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%89%E3%82%A2#Japanese"
+        }
+      ]
+    },
+    "カフェ": {
+      "etymology": "Borrowed from French café ('coffeehouse'), first popularized in late Meiji and Taishō cities and revived in contemporary Japanese for neighborhood coffeehouses.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "French",
+          "form": "café",
+          "meaning": "coffeehouse; coffee"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "カフェ",
+          "meaning": "café; coffeehouse"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — カフェ (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%82%AB%E3%83%95%E3%82%A7#Japanese"
+        }
+      ]
+    },
+    "ランプ": {
+      "etymology": "Borrowed from Dutch lamp and English lamp in the nineteenth century, initially for oil and kerosene lamps and later for electric desk and reading lamps.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Dutch / English",
+          "form": "lamp",
+          "meaning": "lamp"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "ランプ",
+          "meaning": "lamp"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — ランプ (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%A9%E3%83%B3%E3%83%97#Japanese"
+        }
+      ]
+    },
+    "リボン": {
+      "etymology": "Borrowed from English ribbon.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "ribbon",
+          "meaning": "decorative strip of cloth"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "リボン",
+          "meaning": "ribbon"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — リボン (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%AA%E3%83%9C%E3%83%B3#Japanese"
+        }
+      ]
+    },
+    "ポケット": {
+      "etymology": "Borrowed from English pocket with Western tailored clothing in the Meiji era.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "pocket",
+          "meaning": "garment pouch"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "ポケット",
+          "meaning": "pocket"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — ポケット (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88#Japanese"
+        }
+      ]
+    },
+    "シャワー": {
+      "etymology": "Borrowed from English shower (short for shower bath).",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "shower",
+          "meaning": "shower bath"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "シャワー",
+          "meaning": "shower"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — シャワー (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC#Japanese"
+        }
+      ]
+    },
+    "パイプ": {
+      "etymology": "Borrowed from English pipe for both plumbing/heating tubes and smoking pipes.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "pipe",
+          "meaning": "hollow tube; pipe"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "パイプ",
+          "meaning": "pipe; tube"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — パイプ (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%91%E3%82%A4%E3%83%97#Japanese"
+        }
+      ]
+    },
+    "ネクタイ": {
+      "etymology": "Borrowed from English necktie.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "English",
+          "form": "necktie",
+          "meaning": "necktie"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "ネクタイ",
+          "meaning": "necktie"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — ネクタイ (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%A4#Japanese"
+        }
+      ]
+    },
+    "ピアノ": {
+      "etymology": "Borrowed via English and Italian piano (short for Italian pianoforte, 'soft-loud').",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Italian",
+          "form": "pianoforte / piano",
+          "meaning": "keyboard instrument"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "ピアノ",
+          "meaning": "piano"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — ピアノ (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%83%94%E3%82%A2%E3%83%8E#Japanese"
+        }
+      ]
+    },
+    "旅館": {
+      "etymology": "Sino-Japanese compound of 旅 ('travel, journey') and 館 ('hall, mansion, lodging house'), naming a traditional Japanese inn.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "旅",
+          "kind": "root",
+          "meaning": "travel; journey"
+        },
+        {
+          "part": "館",
+          "kind": "root",
+          "meaning": "building; lodge; hall"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Literary Chinese / Sino-Japanese",
+          "form": "旅館",
+          "meaning": "travelers' lodge; traditional inn"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "旅",
+          "gloss": "journey; trip"
+        },
+        {
+          "word": "旅行ガイド",
+          "gloss": "travel guide"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 旅館 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%97%85%E9%A4%A8#Japanese"
+        }
+      ]
+    },
+    "電話": {
+      "etymology": "Meiji-era Sino-Japanese coinage (wasei-kango) combining 電 ('lightning, electricity') and 話 ('speech, conversation') to translate English telephone.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "電",
+          "kind": "root",
+          "meaning": "electricity"
+        },
+        {
+          "part": "話",
+          "kind": "root",
+          "meaning": "speech; talk"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Meiji Japanese coinage",
+          "form": "電話",
+          "meaning": "telephone"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "電気",
+          "gloss": "electricity; light"
+        },
+        {
+          "word": "電車",
+          "gloss": "electric train"
+        },
+        {
+          "word": "電話番号",
+          "gloss": "phone number"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 電話 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%9B%BB%E8%A9%B1#Japanese"
+        }
+      ]
+    },
+    "電車": {
+      "etymology": "Modern Sino-Japanese compound of 電 ('electricity') and 車 ('wheeled vehicle, carriage'), coined for electric streetcars and commuter trains.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "電",
+          "kind": "root",
+          "meaning": "electricity"
+        },
+        {
+          "part": "車",
+          "kind": "root",
+          "meaning": "vehicle; car"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Meiji Japanese",
+          "form": "電車",
+          "meaning": "electric tram; electric train"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 電車 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%9B%BB%E8%BB%8A#Japanese"
+        }
+      ]
+    },
+    "時間": {
+      "etymology": "Sino-Japanese compound of 時 ('time, hour, season') and 間 ('interval, space between'), denoting either a span of hours or time in general.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "時",
+          "kind": "root",
+          "meaning": "time; hour"
+        },
+        {
+          "part": "間",
+          "kind": "root",
+          "meaning": "interval; span"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Sino-Japanese",
+          "form": "時間",
+          "meaning": "time; hour"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 時間 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%99%82%E9%96%93#Japanese"
+        }
+      ]
+    },
+    "時計": {
+      "etymology": "Compound of 時 ('time, hour') and 計 ('measure, gauge'). Historically read どけい from 土圭 ('sundial') and reanalyzed with 計 ('timepiece, meter') as tokei.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "時",
+          "kind": "root",
+          "meaning": "time; hour"
+        },
+        {
+          "part": "計",
+          "kind": "root",
+          "meaning": "measure; gauge"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Early Modern to Modern Japanese",
+          "form": "時計",
+          "meaning": "clock; watch"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "腕時計",
+          "gloss": "wristwatch"
+        },
+        {
+          "word": "時計台",
+          "gloss": "clock tower"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 時計 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%99%82%E8%A8%88#Japanese"
+        }
+      ]
+    },
+    "天気": {
+      "etymology": "Sino-Japanese compound of 天 ('sky, heavens') and 気 ('air, breath, atmospheric vapor'), meaning atmospheric weather.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "天",
+          "kind": "root",
+          "meaning": "sky; heaven"
+        },
+        {
+          "part": "気",
+          "kind": "root",
+          "meaning": "air; atmosphere; spirit"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Middle Chinese / Sino-Japanese",
+          "form": "天気",
+          "meaning": "sky air; weather"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 天気 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%A4%A9%E6%B0%97#Japanese"
+        }
+      ]
+    },
+    "元気": {
+      "etymology": "Sino-Japanese compound of 元 ('origin, foundation') and 気 ('vital energy, breath'), originally referring to the fundamental life force of nature and people, and in everyday speech meaning 'lively, healthy, in good spirits'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "元",
+          "kind": "root",
+          "meaning": "origin; source"
+        },
+        {
+          "part": "気",
+          "kind": "root",
+          "meaning": "vital energy; spirit"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese / Sino-Japanese",
+          "form": "元気",
+          "meaning": "primordial vitality; good health and spirits"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 元気 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%85%83%E6%B0%97#Japanese"
+        }
+      ]
+    },
+    "安心": {
+      "etymology": "Sino-Japanese compound of 安 ('peaceful, settled, safe') and 心 ('heart, mind'), literally 'a settled heart'—feeling relieved and free from worry.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "安",
+          "kind": "root",
+          "meaning": "calm; safe; peaceful"
+        },
+        {
+          "part": "心",
+          "kind": "root",
+          "meaning": "heart; mind"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Buddhist Chinese / Sino-Japanese",
+          "form": "安心",
+          "meaning": "peace of mind; relief"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 安心 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%AE%89%E5%BF%83#Japanese"
+        }
+      ]
+    },
+    "予約": {
+      "etymology": "Sino-Japanese compound of 予 ('beforehand, in advance') and 約 ('promise, agreement'), meaning an advance booking or reservation.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "予",
+          "kind": "prefix",
+          "meaning": "beforehand; in advance"
+        },
+        {
+          "part": "約",
+          "kind": "root",
+          "meaning": "promise; arrangement"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Sino-Japanese",
+          "form": "予約",
+          "meaning": "advance promise; reservation"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 予約 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BA%88%E7%B4%84#Japanese"
+        }
+      ]
+    },
+    "紅茶": {
+      "etymology": "Sino-Japanese compound of 紅 ('crimson, deep red') and 茶 ('tea'), named after the coppery-red color of oxidized black tea liquor (just as Chinese hóngchá literally means 'red tea').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "紅",
+          "kind": "root",
+          "meaning": "crimson; reddish"
+        },
+        {
+          "part": "茶",
+          "kind": "root",
+          "meaning": "tea"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Chinese / Sino-Japanese",
+          "form": "紅茶",
+          "meaning": "black tea ('red tea')"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 紅茶 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%B4%85%E8%8C%B6#Japanese"
+        }
+      ]
+    },
+    "牛乳": {
+      "etymology": "Sino-Japanese compound of 牛 ('cow, cattle') and 乳 ('milk'), literally 'cow's milk'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "牛",
+          "kind": "root",
+          "meaning": "cow; cattle"
+        },
+        {
+          "part": "乳",
+          "kind": "root",
+          "meaning": "milk"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Sino-Japanese",
+          "form": "牛乳",
+          "meaning": "cow's milk"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 牛乳 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%89%9B%E4%B9%B3#Japanese"
+        }
+      ]
+    },
+    "玄関": {
+      "etymology": "Sino-Japanese compound of 玄 ('deep, profound') and 関 ('gate, barrier'). Originally a Zen Buddhist term for the gateway to profound teachings and the formal entry hall of a temple, it generalized to the entranceway of Japanese homes and inns where shoes are removed.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "玄",
+          "kind": "root",
+          "meaning": "profound; deep"
+        },
+        {
+          "part": "関",
+          "kind": "root",
+          "meaning": "gate; barrier; entry"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Zen Buddhist Sino-Japanese",
+          "form": "玄関",
+          "meaning": "temple entrance hall"
+        },
+        {
+          "stage": "Early Modern to Modern Japanese",
+          "form": "玄関",
+          "meaning": "front foyer / entranceway"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 玄関 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%8E%84%E9%96%A2#Japanese"
+        }
+      ]
+    },
+    "駅": {
+      "etymology": "From Sino-Japanese 駅 (traditional 驛, eki), which in the ancient Ritsuryō highway system named post-horse relay stations spaced along imperial roads; in the Meiji railway era it was adopted for train stations.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Old & Classical Sino-Japanese",
+          "form": "驛 / 駅",
+          "meaning": "post-horse relay station"
+        },
+        {
+          "stage": "Meiji to Modern Japanese",
+          "form": "駅",
+          "meaning": "railway station"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 駅 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%A7%85#Japanese"
+        }
+      ]
+    },
+    "鍵": {
+      "etymology": "Native Japanese word *kagi*, related to 鉤 ('hook') from the hooked metal bar used to draw or lift wooden latches in early Japanese doors, later applied to keys and locks.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Old & Classical Japanese",
+          "form": "かぎ",
+          "meaning": "hook; latch-hook; key"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "鍵",
+          "meaning": "key; lock"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "鍵穴",
+          "gloss": "keyhole"
+        },
+        {
+          "word": "鍵掛け",
+          "gloss": "key rack"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 鍵 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%8D%B5#Japanese"
+        }
+      ]
+    },
+    "部屋": {
+      "etymology": "Native Japanese compound of 部 (*he*, 'partition, divided section') with rendaku voicing + 屋 (*ya*, 'roof, chamber, house'), literally 'a partitioned-off chamber'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "部",
+          "kind": "root",
+          "meaning": "partition; section"
+        },
+        {
+          "part": "屋",
+          "kind": "root",
+          "meaning": "room; roofed structure"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Japanese",
+          "form": "へや",
+          "meaning": "partitioned chamber; wing"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "部屋",
+          "meaning": "room"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 部屋 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%83%A8%E5%B1%8B#Japanese"
+        }
+      ]
+    },
+    "名前": {
+      "etymology": "Native Japanese compound of 名 (*na*, 'name') and 前 (*mae*, 'front, presence, assigned portion'), originally polite or formal and now the standard everyday noun for 'name'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "名",
+          "kind": "root",
+          "meaning": "name"
+        },
+        {
+          "part": "前",
+          "kind": "suffix",
+          "meaning": "front; portion"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Early Modern to Modern Japanese",
+          "form": "名前",
+          "meaning": "name"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 名前 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%90%8D%E5%89%8D#Japanese"
+        }
+      ]
+    },
+    "手紙": {
+      "etymology": "Native Japanese compound of 手 (*te*, 'hand, handwriting') and 紙 (*kami* -> *-gami* via rendaku, 'paper'), shifting from a handy slip of note paper to any written letter.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "手",
+          "kind": "root",
+          "meaning": "hand; handwriting"
+        },
+        {
+          "part": "紙",
+          "kind": "root",
+          "meaning": "paper"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Early Modern Japanese",
+          "form": "手紙",
+          "meaning": "handwritten note; letter"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 手紙 (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%89%8B%E7%B4%99#Japanese"
+        }
+      ]
+    },
+    "新しい": {
+      "etymology": "Inherited from Old Japanese *aratasi* ('fresh, new'), which underwent consonant metathesis (*r...t* > *t...r*) in the Heian period to become *atarasi* > modern 新しい (*atarashii*).",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Old Japanese",
+          "form": "あらたし",
+          "meaning": "new; fresh"
+        },
+        {
+          "stage": "Heian Japanese (metathesis)",
+          "form": "あたらし",
+          "meaning": "new"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "新しい",
+          "meaning": "new; fresh"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 新しい (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%96%B0%E3%81%97%E3%81%84#Japanese"
+        }
+      ]
+    },
+    "静か": {
+      "etymology": "Native Japanese na-adjective built from the ancient root *sidu-* ('calm, settled, sunken', also seen in 沈む *shizumu*, 'sink, settle') plus the descriptive suffix *-ka*.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "静",
+          "kind": "root",
+          "meaning": "calm; settled (*shizu-*)"
+        },
+        {
+          "part": "か",
+          "kind": "suffix",
+          "meaning": "descriptive adjectival suffix"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old Japanese",
+          "form": "しづか",
+          "meaning": "calm; quiet; tranquil"
+        },
+        {
+          "stage": "Modern Japanese",
+          "form": "静か",
+          "meaning": "quiet; peaceful"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 静か (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%9D%99%E3%81%8B#Japanese"
+        }
+      ]
+    },
+    "おはようございます": {
+      "etymology": "Polite morning greeting formed from honorific prefix お + the western/polite *-u* adverbial sound change (ウ音便) of 早い (*hayaku* > *hayō*, 'early') + polite verb ございます: literally 'It is early!'",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "お",
+          "kind": "prefix",
+          "meaning": "honorific prefix"
+        },
+        {
+          "part": "はよう",
+          "kind": "root",
+          "meaning": "early (from 早く hayaku)"
+        },
+        {
+          "part": "ございます",
+          "kind": "suffix",
+          "meaning": "polite 'is'"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Early Modern Japanese",
+          "form": "お早うございます",
+          "meaning": "You are early! -> Good morning"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — おはようございます (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99#Japanese"
+        }
+      ]
+    },
+    "ありがとうございます": {
+      "etymology": "Formed from the adjective 有り難い (*arigatai*, from 有り 'exist' + 難い 'hard, difficult': 'rare, precious, hard to come by') via the *-ku > -u* adverbial sound change (*arigataku* > *arigatō*) plus polite ございます.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "あり",
+          "kind": "root",
+          "meaning": "exist; be"
+        },
+        {
+          "part": "がとう",
+          "kind": "root",
+          "meaning": "hard; rare (from 難く kataku)"
+        },
+        {
+          "part": "ございます",
+          "kind": "suffix",
+          "meaning": "polite 'is'"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Japanese",
+          "form": "有り難し",
+          "meaning": "rare; hard to exist; precious"
+        },
+        {
+          "stage": "Early Modern to Modern Japanese",
+          "form": "ありがとうございます",
+          "meaning": "thank you very much"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — ありがとうございます (Japanese)",
+          "url": "https://en.wiktionary.org/wiki/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99#Japanese"
         }
       ]
     }

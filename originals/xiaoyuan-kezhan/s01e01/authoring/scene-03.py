@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e01-scene-03.
+ID = 'xiaoyuan-kezhan-s01e01-scene-03'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 1
+SCENE = 3
+TITLE = '我的眼镜在哪里  (Where Are My Glasses?)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'qing': '小晴', 'zhou': '周经理'}
+INTRO = 'Before the first guest arrives, anxious manager Zhou hurries in from the courtyard patting his coat pockets. Qing and Chen watch as Zhou hunts everywhere in a mild panic. Listen to the whole scene first.'
+OPENER = "Now let's break the scene down, one line at a time."
+TRANSITION = "Now let's listen to the whole scene again from beginning to end."
+OUTRO = 'Manager Zhou found his glasses perched on his own forehead right as the taxi pulled up outside. Relax and let the rhythm of the sentences sink in; see you next time.'
+CLOSING = ('zhou', '回头见！')
+STORY = [('zhou', '大家早上好！欢迎你，小晴。都准备好了吗？', 'Good morning, everyone! Welcome, Qing. Is everything ready?'), ('qing', '周经理早！桌子很干净，钥匙也准备好了。', 'Morning, Manager Zhou! The desk is clean, and the keys are ready too.'), ('zhou', '今天四号房的客人住一整个星期，一定要完美！', "Today's guest in room four is staying a whole week; everything must be perfect!"), ('chen', '放心吧，周经理。房间干净，毛巾也是新的。', 'Relax, Manager Zhou. The room is clean, and the towels are fresh.'), ('zhou', '我要看预订本子，可是找不到我的眼镜了！', 'I need to read the booking ledger, yet I cannot find my glasses!'), ('qing', '在您的外套口袋里吗？', 'Are they in your coat pocket?'), ('zhou', '不在，只有我的笔和三张旧收据！', 'Not there—only my pen and three old receipts!'), ('chen', '老板，看一下桌子后面的镜子。', 'Boss, take a look in the mirror behind the desk.'), ('zhou', '我的眼镜怎么会在……哎呀！在我头上！', 'Why would my glasses be in... oh dear! They are on my head!'), ('qing', '就在您额头上，安全得很。', 'Right there on your forehead, completely safe.'), ('zhou', '谁也别说出去！门铃响的时候要微笑。', 'Do not tell anyone! Smile warmly when the bell rings.'), ('chen', '大门口正好来了一辆出租车。', 'A taxi has just pulled up right at the front gate.')]
+WALK = [(0, None, ["'Good morning, everyone! Welcome, Qing. Is everything ready?' Zhou greets the whole room with", (None, '大家'), "literally 'big family', Mandarin's warm word for 'everyone'."]), (1, None, "'Morning, Manager Zhou! The desk is clean, and the keys are ready too.' In Mandarin, titles follow surnames rather than leading them, so Qing says 'Zhou Manager' and drops 'good' to make a brisk 'Morning!'."), (3, None, ["'Relax, Manager Zhou. The room is clean, and the towels are fresh.' Chen calms his boss down with", (None, '放心'), "literally 'set your heart down', the standard reassuring way to say 'don't worry'."]), (4, None, ["'I need to read the booking ledger, yet I cannot find my glasses!' Adding 'not-arrive' onto 'look for' builds", (None, '找不到'), "meaning 'look for yet fail to find'—'cannot find' in one tight unit."]), (5, None, ["'Are they in your coat pocket?' Speaking to the owner, Qing switches to polite", (None, '您'), "which puts a respectful 'heart' underneath the ordinary word for 'you'."]), (6, None, ["'Not there—only my pen and three old receipts!' Flat paper items like receipts, tickets, and tables use the counting word", (None, '张'), 'originally a word for stretching something flat.']), (8, None, ["'Why would my glasses be in... oh dear! They are on my head!' Zhou blurts out", (None, '哎呀'), 'the classic Mandarin exclamation of surprise when you spot a silly mistake.']), (11, None, ["'A taxi has just pulled up right at the front gate.' Rolling wheeled vehicles—cars, taxis, and bicycles—are counted with", (None, '辆'), "so Chen announces 'one vehicle-taxi' at the gate."])]

@@ -5,39 +5,40 @@
   "section": "articles",
   "order": 31,
   "title": {
-    "en": "Mon, ma, mes: look at the noun"
+    "en": "Mon, ma, mes: match the thing owned"
   },
   "summary": {
-    "en": "The form follows what is possessed, not the owner’s gender."
+    "en": "Possessive words agree with the noun that follows, not with the speaker."
   },
   "body": {
-    "en": "From season 1, episode 3.\n\nIn episode 3, *notre seul allié* and *nos comptes* describe things connected with a group of people. *notre* goes with a singular noun; *nos* goes with a plural one.\n\nFor a single owner, French also distinguishes forms such as *mon*, *ma* and *mes*. The noun being described determines the grammatical choice. A woman's possession does not automatically require *ma*, and a man's possession does not automatically require *mon*.\n\nBefore a feminine singular noun beginning with a vowel sound or mute h, French uses forms such as *mon* rather than *ma*. The possessive is therefore a clue to the whole noun phrase, not a reliable shortcut to the owner's gender.\n\nOn replay, find the noun after the possessive and decide whether it is singular or plural. Then identify who owns or is connected with it from the conversation."
+    "en": "From season 1, episodes 1 and 6.\n\nSearching his pockets, Étienne finds *mon stylo* (masculine) while hunting for *mes lunettes* (plural), and Odette worries about *ma valise* (feminine). In French, choosing *mon*, *ma*, or *mes* depends strictly on the gender and number of the noun right after it.\n\nPlural owners follow a simpler singular-versus-plural split: *notre hôtel* for one hotel, *nos soucis* for several worries. And before a feminine singular noun starting with a vowel sound or mute h, *mon* replaces *ma* for smooth linking (*mon histoire*, *mon erreur*).\n\nDo not guess the owner's gender from *sa* or *son*: *sa valise* can mean 'his suitcase' just as easily as 'her suitcase'!\n\nOn replay, pair each possessive directly with the noun it introduces."
   },
   "related": [
-    "a-au-aux"
+    "a-au-aux",
+    "tu-and-vous"
   ],
   "examples": [
     {
-      "sceneId": "dix-pour-cent-s01e03-scene-01",
-      "seg": 11
+      "sceneId": "hotel-du-tilleul-s01e01-scene-03",
+      "seg": 5
     },
     {
-      "sceneId": "dix-pour-cent-s01e03-scene-01",
-      "seg": 12
+      "sceneId": "hotel-du-tilleul-s01e01-scene-03",
+      "seg": 7
     },
     {
-      "sceneId": "dix-pour-cent-s01e03-scene-03",
-      "seg": 3
+      "sceneId": "hotel-du-tilleul-s01e06-scene-03",
+      "seg": 10
     }
   ],
   "tags": [
-    "notre seul allié",
-    "nos comptes",
-    "notre",
-    "nos",
     "mon",
     "ma",
     "mes",
-    "ma"
+    "notre",
+    "nos",
+    "mon stylo",
+    "ma valise",
+    "mes lunettes"
   ]
 }

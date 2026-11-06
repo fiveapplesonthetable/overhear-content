@@ -212,6 +212,8 @@ def run_clip_group(args, settings, sids, log=log):
     for attempt in range(cfg["retakes"] + 1):
         cmd = [config.GPURUN, str(cfg["gpu"]["ttsMiB"]), f"{clip_venv}/bin/python", "-I", str(HERE / "stage.py"), "clips",
                "--scenes", scenes, "--attempt", str(attempt), "--content", str(args.content), "--store", str(args.store)]
+        if getattr(args, "root", None):
+            cmd += ["--root", args.root]
         if args.settings:
             cmd += ["--settings", args.settings]
         tag, r = run_stage(cmd, env)

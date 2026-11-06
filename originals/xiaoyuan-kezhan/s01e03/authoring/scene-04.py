@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e03-scene-04.
+ID = 'xiaoyuan-kezhan-s01e03-scene-04'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 3
+SCENE = 4
+TITLE = '冒雨来的客人  (In from the Rain)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'hao': '志豪', 'mei': '小美', 'qing': '小晴'}
+INTRO = 'Down in the lobby, soft-spoken traveller Hao steps inside shaking water off his umbrella. Qing greets him at the front desk while Mei brings over a dry towel. Listen first.'
+OPENER = "Now let's walk through the conversation, line by line."
+TRANSITION = "Now let's hear the whole scene again without stopping."
+OUTRO = 'Honesty, a dry towel, and a bowl of hot soup kept everything calm and warm. Next time, Hao climbs the stairs to judge the attic study for himself. See you next time.'
+CLOSING = ('hao', '回头见！')
+STORY = [('qing', '晚上好！先生，快进来避避雨吧。', 'Good evening! Sir, come inside quickly out of the rain.'), ('hao', '晚上好。不好意思，把干净地板弄湿了。', 'Good evening. Sorry for getting your clean floor wet.'), ('qing', '没关系！您就是志豪先生吧？', 'No problem at all! You must be Mr Zhihao, right?'), ('hao', '是的，我叫志豪。昨天打电话订了七号房。', 'Yes, my name is Zhihao. Yesterday I booked room seven by phone.'), ('mei', '先生，给您干毛巾擦外套，还有一碗热汤。', 'Sir, here is a dry towel to wipe your coat, plus a bowl of hot soup.'), ('hao', '热汤？在冷站台吹了风，喝碗热汤太好了。', 'Hot soup? After the cold wind on the station platform, hot soup sounds wonderful.'), ('qing', '先生，上楼之前，我要诚恳跟您道个歉。', 'Sir, before going upstairs, I owe you an honest apology.'), ('hao', '哦？我的预订有问题吗？', 'Oh? Is there a problem with my booking?'), ('qing', '我们不小心在七号房记了两个预订。', 'We accidentally wrote down two bookings on room seven.'), ('hao', '啊……下这么大的雨，车站附近酒店全满了。', 'Ah... in rain this heavy, every hotel near the station was full.'), ('qing', '请别担心！我们特意为您准备好了安静的三楼阁楼书房。', 'Please do not worry! We specially prepared our quiet third-floor attic study for you.'), ('hao', '阁楼书房？我可以先上去看看吗？', 'An attic study? May I go up and see it first?')]
+WALK = [(1, None, ["'Good evening. Sorry for getting your clean floor wet.' For small everyday inconvenience—dripping rain or squeezing past someone—use", (None, '不好意思'), 'lighter and softer than a heavy apology.']), (2, None, ["'No problem at all! You must be Mr Zhihao, right?' Instant reassuring reply:", (None, '没关系'), "literally 'no connection', means 'it doesn't matter' or 'no problem at all'."]), (4, None, ["'Sir, here is a dry towel to wipe your coat, plus a bowl of hot soup.' Soup, rice, and Chengdu noodles come in bowls counted with", (None, '碗'), "so Mei offers 'one bowl of hot soup'."]), (5, None, "'Hot soup? After the cold wind on the station platform, hot soup sounds wonderful.' Mandarin describes standing in a chilly breeze as 'blowing wind', pairing the blowing motion with wind itself."), (6, None, ["'Sir, before going upstairs, I owe you an honest apology.' Notice how 'apologize' splits open in", (None, '道个歉'), "tucking 'one' inside 'say-apology' to mean 'offer a quick apology'."]), (8, None, ["'We accidentally wrote down two bookings on room seven.' Flipping 'be careful' with 'not' creates", (None, '不小心'), "the natural everyday word for 'by accident' or 'carelessly'."]), (10, None, ["'Please do not worry! We specially prepared our quiet third-floor attic study for you.' Warm hospitality word:", (None, '特意'), "means 'specially' or 'on purpose just for you'."]), (11, None, ["'An attic study? May I go up and see it first?' Asking permission politely starts with", (None, '可以'), "paired with the question particle at the end: 'May I go up and look first?'."])]

@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e01-scene-04.
+ID = 'xiaoyuan-kezhan-s01e01-scene-04'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 1
+SCENE = 4
+TITLE = '二楼四号房  (Room Four on the Second Floor)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'qing': '小晴', 'song': '宋老师'}
+INTRO = "At the front desk, retired piano teacher Song steps inside from her taxi pulling a heavy dark-blue suitcase. Qing greets her first guest while Chen waits nearby to carry the luggage. Let's hear how it goes."
+OPENER = "Now let's take it slowly, one line at a time."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = 'Qing handled her first check-in smoothly, though Chen noticed that dark-blue suitcase felt unusually heavy. See you next time to find out why.'
+CLOSING = ('song', '回头见！')
+STORY = [('qing', '欢迎光临！早上好，您好！', 'Welcome! Good morning, hello!'), ('song', '早上好，小姑娘。我订了房间，我姓宋。', 'Good morning, young lady. I booked a room; my surname is Song.'), ('qing', '是的，宋老师，二楼四号房！坐火车累吗？', 'Yes, Teacher Song, room four on the second floor! Was the train ride tiring?'), ('song', '很安静，谢谢，不过这个行李箱今天特别重。', 'Very quiet, thank you, though this suitcase feels especially heavy today.'), ('chen', '我来帮您。哎呀，里面装了石头吗？', 'Let me help you. Goodness, did you pack stones inside?'), ('song', '只有裙子、乐谱，还有我最喜欢的茶杯！', 'Only dresses, sheet music, and my favourite teacup!'), ('qing', '给您四号钥匙。早餐从七点半到十点。', 'Here is key number four for you. Breakfast is from seven thirty to ten.'), ('song', '太好了。窗户朝街上还是朝院子？', 'Wonderful. Does the window face the street or the courtyard?'), ('qing', '朝院子，就在老树上面，非常安静。', 'Toward the courtyard, right above the old tree; it is very quiet.'), ('song', '正合我心意。楼梯在哪儿？', 'Just what I wanted. Where are the stairs?'), ('chen', '从这儿往里走。我帮您把蓝色行李箱提上去。', 'Walk inward from here. I will carry the blue suitcase up for you.'), ('song', '太谢谢你们两位了。', 'Thank you both so very much.')]
+WALK = [(0, None, ["'Welcome! Good morning, hello!' Local shopkeepers and receptionists greet arriving guests with", (None, '欢迎光临'), "meaning 'welcome to your gracious presence'."]), (1, None, ["'Good morning, young lady. I booked a room; my surname is Song.' In Chinese introductions you often give your family name first using", (None, '姓'), "which works directly as 'be surnamed'."]), (2, None, "'Yes, Teacher Song, room four on the second floor! Was the train ride tiring?' Mandarin says 'sit a train' for riding by rail, treating trains, buses, and planes as seats you sit in."), (3, None, ["'Very quiet, thank you, though this suitcase feels especially heavy today.' Look at the three-part bag word", (None, '行李箱'), "built from 'travel-gear' plus 'box', covering any wheeled or hard suitcase."]), (6, None, ["'Here is key number four for you. Breakfast is from seven thirty to ten.' Time spans snap together with", (None, '从'), "for 'from' paired with 'arrive' for 'to': 'from seven-thirty to ten'."]), (7, None, ["'Wonderful. Does the window face the street or the courtyard?' When offering a choice between two options, Mandarin uses", (None, '还是'), "for 'or', reserving a different word for 'or' in plain statements."]), (10, None, ["'Walk inward from here. I will carry the blue suitcase up for you.' Adding", (None, '上去'), "after 'carry' shows both the upward climb of the stairs and movement away from the lobby."]), (11, None, ["'Thank you both so very much.' Polite counting matters: Teacher Song thanks them as", (None, '两位'), 'using the respectful person-counter instead of the casual everyday one.'])]

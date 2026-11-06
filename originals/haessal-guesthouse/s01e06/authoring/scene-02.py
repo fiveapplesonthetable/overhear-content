@@ -1,0 +1,38 @@
+# Authoring module for haessal-guesthouse-s01e06-scene-02.
+ID = 'haessal-guesthouse-s01e06-scene-02'
+SHOW = 'haessal-guesthouse'
+SEASON = 1
+EPISODE = 6
+SCENE = 2
+TITLE = '나무 기차  (The Wooden Train)'
+LEVEL = 'A1 — beginner'
+PAIR = 'ko-en'
+LABELS = {'jihoon': '지훈', 'minsu': '민수', 'youngmi': '영미'}
+INTRO = 'Seated at the round courtyard table, Jihoon opens the dark-blue suitcase and lifts out the parcel wrapped in white paper for Minsu, while Youngmi walks gently across the stones toward them. Listen first.'
+OPENER = "Now let's unwrap that white parcel line by line."
+TRANSITION = "Now let's hear the whole courtyard reunion scene again."
+OUTRO = "Grandfather's wooden train is home, and Minsu's amazement at seeing Miss Youngmi filled the whole courtyard with laughter. Inside at the desk, however, Sungmin is still staring at that letter. See you next time."
+CLOSING = ('youngmi', '또 봐요!')
+STORY = [
+    ('jihoon', '이삿짐센터가 은행길 집을 비우기 전에 다락방 선반에서 이 상자를 챙겼어요.', 'Before the movers cleared the Eunhaeng Lane house, I saved this box from the attic shelf.'),
+    ('minsu', '하얀 종이를 열어 볼게... 세상에! 할아버지가 직접 깎으신 나무 기관차잖아!', 'Let me open the white paper... my goodness! It is the wooden locomotive Grandfather carved himself!'),
+    ('jihoon', '바퀴 아래쪽을 봐요. 형 이름하고 제 이름이 아직 연필로 적혀 있어요.', 'Look underneath the wheels. Your name and my name are still written there in pencil.'),
+    ('minsu', '집을 팔았을 때 잃어버린 줄 알았어! 왜 날 위해 보관했어?', 'I thought it was lost when we sold the house! Why did you save it for me?'),
+    ('jihoon', '집은 벽돌하고 나무일 뿐이지만 가족은 우리가 지키는 거니까요, 형.', 'Because a house is only brick and wood, brother, while family is what we keep.'),
+    ('youngmi', '그리고 두 형제가 십이 번지의 가장 소중한 것을 바로 여기에 지켰네요.', 'And you two brothers kept the most precious part of Number 12 right here.'),
+    ('minsu', '실례합니다, 선생님... 잠깐만요. 이 목소리는! 제 피아노 선생님이신 영미 선생님?!', "Excuse me, ma'am... wait a second. That voice! Miss Youngmi, my piano teacher?!"),
+    ('youngmi', '민수가 바장조 음계를 천천히 치기를 아직도 기다리고 있단다!', 'I am still waiting for Minsu to play that scale slowly!'),
+    ('minsu', '내가 지금 꿈을 꾸고 있나?! 지훈아, 이 만남을 네가 다 계획했어?', 'Am I dreaming right now?! Jihoon, did you plan this whole reunion?'),
+    ('jihoon', '순전히 운이에요. 그리고 월요일 아침 기차에서 바뀐 파란 가방 하나 덕분이죠!', "Pure luck. And thanks to one blue suitcase swapped on Monday morning's train!"),
+    ('youngmi', '인생은 우리보다 훨씬 더 멋진 이중주를 만들어 준단다, 얘들아.', 'Life arranges far lovelier duets than we do, boys.'),
+    ('minsu', '선생님, 저희하고 같이 앉으세요! 피아노 수업에 스물다섯 해나 지각한 건 아니라고 해 주세요!', "Ma'am, please sit with us! Please tell me I am not twenty-five years late for my piano lesson!"),
+]
+WALK = [
+    (1, None, ["'Let me open the white paper... my goodness! It is the wooden locomotive Grandfather carved himself!' Using a knife to carve wood or peel an apple uses ", (None, '깎으신'), ", from 'kkakda'."]),
+    (2, None, ["'Look underneath the wheels. Your name and my name are still written there in pencil.' Rolling wheels on trains, bikes, and suitcases are ", (None, '바퀴'), '.']),
+    (3, None, ["'I thought it was lost when we sold the house! Why did you save it for me?' Losing an umbrella, key, or keepsake uses ", (None, '잃어버린'), '.']),
+    (8, None, ["'Am I dreaming right now?! Jihoon, did you plan this whole reunion?' Korean 'dreams a dream' with the paired expression ", (None, '꿈을 꾸고'), '.']),
+    (9, None, ["'Pure luck. And thanks to one blue suitcase swapped on Monday morning's train!' Good fortune in one short syllable is ", (None, '운이에요'), ", 'it is luck'."]),
+    (10, None, ["'Life arranges far lovelier duets than we do, boys.' Looking at life as a whole uses ", (None, '인생은'), ", 'human life'."]),
+    (11, None, ["'Ma'am, please sit with us! Please tell me I am not twenty-five years late for my piano lesson!' Arriving late to school, class, or work has the crisp word ", (None, '지각한'), '.']),
+]

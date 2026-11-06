@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e01-scene-02.
+ID = 'xiaoyuan-kezhan-s01e01-scene-02'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 1
+SCENE = 2
+TITLE = '热面包卷和两声铃响  (Warm Rolls and Two Rings)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'mei': '小美', 'qing': '小晴'}
+INTRO = "Five minutes later, the warm scent of fresh bread drifts out from the breakfast corner at Courtyard Inn. Morning baker Mei carries over a basket of hot rolls to meet Qing and Chen. Let's listen in first."
+OPENER = "Now let's go back through the scene, line by line."
+TRANSITION = "Now let's hear the whole scene again without stopping."
+OUTRO = 'Qing has a warm roll in her hand and an instant friend in the café corner. You will hear casual and polite greetings side by side in every episode. See you next time.'
+CLOSING = ('mei', '回头见！')
+STORY = [('mei', '你好！你就是小晴吧？我是厨房的小美。', 'Hello! You must be Qing, right? I am Mei from the kitchen.'), ('qing', '你好，小美，很高兴认识你！好香啊！', 'Hello, Mei, nice to meet you! Something smells wonderful!'), ('mei', '刚烤好的面包卷！趁热拿一个吧。', 'Freshly baked bread rolls! Take one while it is hot.'), ('qing', '谢谢！我们平时都直接叫名字吗？', 'Thank you! Do we usually just call each other by name here?'), ('mei', '跟我当然啦！客气话留给客人吧。', 'With me, of course! Save the polite talk for the guests.'), ('chen', '小美跟这条街上所有人说话都像老朋友。', 'Mei talks to everyone on this street like old friends.'), ('mei', '因为好咖啡和热面包让人开心呀！', 'Because good coffee and warm bread make people happy!'), ('qing', '那是什么铃声？有人按了两下！', 'What was that bell sound? Somebody rang twice!'), ('chen', '那里没人。那是四号房的门铃。', 'Nobody is there. That is the buzzer from room four.'), ('mei', '就算四号房空着，旧电线也会响两下。', 'Even when room four is empty, the old wire still rings twice.'), ('qing', '所以老房子自己会打招呼？', 'So the old house says hello by itself?'), ('mei', '没错！你已经很习惯这儿了。', 'Exactly! You already fit right in here.')]
+WALK = [(0, None, ["'Hello! You must be Qing, right? I am Mei from the kitchen.' Mei softens her guess by ending with", (None, '吧'), "a friendly sentence-ender that turns a statement into 'right?'."]), (1, None, ["'Hello, Mei, nice to meet you! Something smells wonderful!' One vivid word,", (None, '香'), 'covers fragrant food, aromatic tea, or fresh bread—anything that smells delicious.']), (2, None, ["'Freshly baked bread rolls! Take one while it is hot.' Handy bakery talk:", (None, '趁热'), "packs 'while it is still hot' into two brisk syllables."]), (4, None, ["'With me, of course! Save the polite talk for the guests.' Mei calls stiff polite formulas", (None, '客气话'), "built from 'guest-air' plus 'words'—speech meant for guests, not coworkers."]), (5, None, "'Mei talks to everyone on this street like old friends.' Notice Mandarin word order with 'with someone': Chen says 'Mei with everyone talks', putting the partner phrase before the action."), (7, None, ["'What was that bell sound? Somebody rang twice!' To count quick taps or rings, Chinese uses", (None, '两下'), 'where the second word counts brief actions like presses or knocks.']), (8, None, ["'Nobody is there. That is the buzzer from room four.' Two tiny words,", (None, '没人'), "say 'nobody' by literally stating 'have-not person'."]), (10, None, ["'So the old house says hello by itself?' Everyday phrase:", (None, '打招呼'), "literally means 'strike a greeting call', the natural way to say 'say hello'."]), (11, None, ["'Exactly! You already fit right in here.' Mei agrees warmly with", (None, '没错'), "literally 'no mistake', a crisp everyday equivalent of 'spot on' or 'exactly'."])]

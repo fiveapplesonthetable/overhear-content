@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e03-scene-02.
+ID = 'xiaoyuan-kezhan-s01e03-scene-02'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 3
+SCENE = 2
+TITLE = '安静的三楼阁楼  (The Sunny Attic)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'mei': '小美', 'qing': '小晴'}
+INTRO = 'Up under the wooden eaves on the third floor, Chen unlocks the attic study for Qing while Mei climbs up carrying fresh towels. Listen to the whole scene first.'
+OPENER = "Now let's walk through each key line together."
+TRANSITION = "Now let's hear the whole scene again without stopping."
+OUTRO = 'With timber beams and rain pattering on the roof, the attic only needs a lamp, two pillows, and a rug. See you next time as they race the clock.'
+CLOSING = ('mei', '下次见！')
+STORY = [('qing', '哇，看这间房！大木头房梁，窗户正对着院子！', 'Wow, look at this room! Big wooden beams, and a window facing the courtyard!'), ('mei', '听屋顶上的雨声，这儿真温馨！', 'Listen to the rain on the roof—it feels so cosy up here!'), ('chen', '干燥、暖和、安静。快说还缺什么。', 'Dry, warm, and quiet. Tell me quickly what is still missing.'), ('qing', '好：有床、桌子和椅子，可是没有床头台灯。', 'Okay: there is a bed, a table, and a chair, yet no bedside lamp.'), ('mei', '墙上也没镜子，地上没铺地毯有点空。', 'No mirror on the wall either, and the floor feels bare without a rug.'), ('chen', '楼下我的工具房里有一盏铜台灯。', 'Downstairs in my workshop there is a brass desk lamp.'), ('mei', '储藏室里有两个软枕头和一块蓝地毯！', 'In the storeroom there are two soft pillows and a blue rug!'), ('qing', '隔壁的小洗手间呢？灯亮吗？', 'What about the small bathroom next door? Does the light work?'), ('chen', '上周刚换了新灯泡，有干净肥皂和热水。', 'Put in a new bulb last week, with clean soap and plenty of hot water.'), ('mei', '给我们十五分钟，阁楼比七号房还好！', 'Give us fifteen minutes and the attic will be even better than room seven!'), ('qing', '老陈，抱起那些纸箱，我们下楼吧！', 'Chen, pick up those cardboard boxes—down the stairs we go!'), ('chen', '拐弯小心点，别碰到墙！', 'Careful on the turn—do not bump the wall!')]
+WALK = [(1, None, ["'Listen to the rain on the roof—it feels so cosy up here!' Warm homey atmosphere in two syllables:", (None, '温馨'), 'blends physical warmth with a welcoming, cosy feeling.']), (2, None, ["'Dry, warm, and quiet. Tell me quickly what is still missing.' Handy inspection word:", (None, '缺'), "means 'lack' or 'be short of', ideal when checking what a room still needs."]), (3, None, ["'Okay: there is a bed, a table, and a chair, yet no bedside lamp.' Location compound", (None, '床头'), "literally 'bed-head', names the bedside spot where a reading lamp belongs."]), (4, None, ["'No mirror on the wall either, and the floor feels bare without a rug.' Notice", (None, '地毯'), "built from 'ground' plus 'blanket'—a rug is simply a blanket spread across the floor."]), (5, None, ["'Downstairs in my workshop there is a brass desk lamp.' Lamps take a special literary-sounding counter,", (None, '盏'), 'originally a tiny shallow cup that held lamp oil.']), (7, None, ["'What about the small bathroom next door? Does the light work?' Polite everyday word for bathroom:", (None, '洗手间'), "literally 'wash-hands room', used everywhere in hotels and restaurants."]), (8, None, ["'Put in a new bulb last week, with clean soap and plenty of hot water.' Compact calendar word:", (None, '上周'), "puts 'previous' before 'week' for 'last week'."]), (9, None, "'Give us fifteen minutes and the attic will be even better than room seven!' Adding 'still' before 'good' in a 'than' comparison boosts it to 'even better than room seven'.")]

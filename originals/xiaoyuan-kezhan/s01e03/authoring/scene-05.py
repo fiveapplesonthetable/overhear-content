@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e03-scene-05.
+ID = 'xiaoyuan-kezhan-s01e03-scene-05'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 3
+SCENE = 5
+TITLE = '半价与安静木梁  (Half Price and Quiet Beams)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'hao': '志豪', 'qing': '小晴'}
+INTRO = "Chen carries Hao's small travel bag up to the third floor while Qing opens the door to the newly prepared attic room. Everyone waits for Hao's reaction. Listen first."
+OPENER = "Now let's take it slowly, one line at a time."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Far from writing an angry review, Hao fell in love with the quiet eighty-year-old timber beams. Let's head back downstairs next time. See you next time."
+CLOSING = ('qing', '晚安，明天见！')
+STORY = [('qing', '先生，到了。小心碰头，这根木房梁比较低。', 'Here we are, sir. Mind your head—this wooden beam is fairly low.'), ('hao', '哇……你们看这木头屋顶的比例！', 'Wow... look at the proportions of this timber roof!'), ('chen', '老橡木，八十年了，一滴水都不漏。', 'Old oak, eighty years old—not a single drop leaks.'), ('qing', '因为我们的失误，今晚半价，还送早餐。', 'Because of our mistake, tonight is half price, with complimentary breakfast.'), ('hao', '你们听一秒……街上一辆汽车的声音都听不到。', 'Listen for a second... you cannot hear a single car from the street.'), ('qing', '只有院子里的老树和雨声。', 'Only the old tree in the courtyard and the sound of rain.'), ('hao', '说真的，我怕一楼吵。我太喜欢这间房了！', 'Truthfully, I dislike noisy ground-floor rooms. I love this room!'), ('chen', '真的？您不介意多爬几步楼梯？', 'Really? You do not mind climbing a few extra stairs?'), ('hao', '一点也不介意！窗下这张宽书桌正适合我工作。', 'Not at all! And this wide desk beneath the window suits my work ideally.'), ('qing', '太松一口气了！志豪先生，给您银钥匙。', 'What a relief! Mr Zhihao, here is your silver key.'), ('hao', '谢谢你们实话实说，没让我冒雨再找地方。', 'Thank you both for speaking honestly instead of sending me back into the rain.'), ('chen', '祝您睡个好觉。早餐七点半在楼下。', 'Sleep well, sir. Breakfast is at seven thirty downstairs.')]
+WALK = [(0, None, ["'Here we are, sir. Mind your head—this wooden beam is fairly low.' Long straight slender things—beams, pillars, wires, bananas—take", (None, '根'), "literally 'root', as their counting word."]), (3, None, ["'Because of our mistake, tonight is half price, with complimentary breakfast.' On menus and at hotels,", (None, '送'), "means 'give on the house'—here, breakfast included free."]), (4, None, ["'Listen for a second... you cannot hear a single car from the street.' Flip 'hear' from positive to negative with", (None, '听不到'), "meaning 'listen yet cannot hear a sound'."]), (6, None, ["'Truthfully, I dislike noisy ground-floor rooms. I love this room!' Notice that Chinese calls the ground floor", (None, '一楼'), "literally 'floor one', counting upward just like American English."]), (7, None, ["'Really? You do not mind climbing a few extra stairs?' Polite question word:", (None, '介意'), "means 'mind' or 'object to', handy whenever checking if something bothers a guest."]), (8, None, ["'Not at all! And this wide desk beneath the window suits my work ideally.' Matching purpose to user uses", (None, '适合'), "meaning 'suit' or 'be ideal for'."]), (9, None, ["'What a relief! Mr Zhihao, here is your silver key.' Vivid relief idiom:", (None, '松一口气'), "literally says 'let out one breath of air'—breathe a sigh of relief."]), (10, None, ["'Thank you both for speaking honestly instead of sending me back into the rain.' Compact four-character honesty gem:", (None, '实话实说'), "repeats 'true' twice—'speak true words truly', meaning 'be completely upfront'."])]

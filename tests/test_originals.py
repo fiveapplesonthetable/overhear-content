@@ -257,6 +257,13 @@ class OriginalsTests(unittest.TestCase):
         def fake_run(cmd, *a, **kw):
             calls.append(cmd)
             if cmd[:2] == ["git", "-C"]:
+                sub = cmd[3] if len(cmd) > 3 else ""
+                if sub == "status":
+                    return mock.Mock(returncode=0, stdout="")
+                if sub == "ls-tree":
+                    return mock.Mock(returncode=0, stdout="040000 tree deadbeef\tep\n")
+                if sub == "branch":
+                    return mock.Mock(returncode=0, stdout="  origin/main\n")
                 return mock.Mock(returncode=0, stdout="deadbeef1234\n")
             if cmd[:3] == ["gh", "release", "view"]:
                 return mock.Mock(returncode=1, stdout="")
@@ -271,6 +278,20 @@ class OriginalsTests(unittest.TestCase):
         create_calls = [c for c in calls if c[:3] == ["gh", "release", "create"]]
         self.assertEqual(len(create_calls), 1)
         self.assertEqual(create_calls[0][3], f"original-{self.show}-s01e01")
+
+        # Unpushed or dirty content must be blocked before any GitHub Release upload.
+        blocked_calls = []
+
+        def fake_unpushed(cmd, *a, **kw):
+            blocked_calls.append(cmd)
+            if cmd[:2] == ["git", "-C"] and len(cmd) > 3 and cmd[3] == "branch":
+                return mock.Mock(returncode=0, stdout="")
+            return fake_run(cmd, *a, **kw)
+
+        with mock.patch.object(pr.subprocess, "run", side_effect=fake_unpushed):
+            rc_blocked = pr.main([str(store), "--root", "originals", "--episode", f"{self.show}-s01e01", "--content", str(self.tmp), "--release"])
+        self.assertEqual(rc_blocked, 1)
+        self.assertEqual([c for c in blocked_calls if c[:2] == ["gh", "release"]], [])
 
         dest = self.tmp / "installed"
         self.assertEqual(fr.main([str(dest), "--tar", str(tar_path), "--content", str(self.tmp)]), 0)

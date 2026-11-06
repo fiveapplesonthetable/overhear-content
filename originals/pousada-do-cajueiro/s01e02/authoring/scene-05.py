@@ -1,0 +1,93 @@
+ID = 'pousada-do-cajueiro-s01e02-scene-05'
+SHOW, SEASON, EPISODE, SCENE = 'pousada-do-cajueiro', 1, 2, 5
+TITLE = 'Suco na gravata  (Juice on the Tie)'
+LEVEL, PAIR = 'A1 — beginner', 'pt-en'
+LABELS = {'camila': 'Camila', 'helena': 'Helena', 'otavio': 'Otávio'}
+
+INTRO = ('Breakfast is in full swing in the sunlit café corner. Helena sits by the window while Otavio insists on '
+ 'helping Camila pour drinks like a luxury hotel host. Listen first.')
+OPENER = "Let's replay the breakfast mishap one line at a time."
+TRANSITION = "Now let's listen to the whole breakfast scene again."
+OUTRO = ("Helena loved her breakfast, even if Otavio's silk tie drank half the orange juice! Soon the front-desk "
+ 'telephone rings with news about the mystery suitcase. See you next time.')
+CLOSING = ('helena', 'Até mais!')
+
+STORY = [('camila',
+  'Bom dia de novo, Dona Helena! A senhora quer café ou chá preto?',
+  'Good morning again, Madam Helena! Would you like coffee or black tea?'),
+ ('helena',
+  'Chá preto sem açúcar, por favor, e uma fatia de pão quente.',
+  'Black tea without sugar, please, and a slice of warm bread.'),
+ ('otavio',
+  'Deixe que eu sirvo o suco de laranja fresco, senhora!',
+  'Let me pour the fresh orange juice, madam!'),
+ ('helena', 'Ah, muita gentileza do senhor. Só meio copo.', 'Oh, how kind of you, sir. Just half a glass.'),
+ ('otavio',
+  'Na nossa pousada, o serviço cinco estrelas é natural... opa!',
+  'At our guesthouse, five-star service comes naturally... whoops!'),
+ ('camila',
+  'Cuidado, Seu Otávio, o bico da jarra é largo!',
+  'Careful, Mr Otavio, the pitcher spout is wide!'),
+ ('otavio',
+  'Minha nossa! Nem uma gota na mesa, ainda bem... caiu tudo na minha gravata!',
+  'Goodness me! Not a drop on the table, thank goodness... it all fell on my tie!'),
+ ('helena',
+  'Não se preocupe! Água gelada com gás tira mancha de laranja na hora.',
+  'Do not worry! Ice-cold sparkling water takes orange stain right out.'),
+ ('camila',
+  'Aqui estão um pano limpo e água com gás, Seu Otávio.',
+  'Here are a clean cloth and sparkling water, Mr Otavio.'),
+ ('otavio',
+  'Com licença, senhora, vou voltar ao meu escritório com dignidade!',
+  'Excuse me, madam, I will return to my office with dignity!'),
+ ('helena',
+  'Os ovos mexidos estão deliciosos, Camila. Mande meus parabéns para a Bianca!',
+  'The scrambled eggs are delicious, Camila. Send my compliments to Bianca!'),
+ ('camila', 'Pode deixar! Bom apetite, Dona Helena.', 'Consider it done! Enjoy your meal, Madam Helena.')]
+
+WALK = [(1,
+  None,
+  ["'Black tea without sugar, please, and a slice of warm bread.' Ordering ",
+   (None, 'sem açúcar,'),
+   ' gets you unsweetened tea or coffee anywhere, and ',
+   (None, 'uma fatia'),
+   " is 'a slice' of bread or cake."]),
+ (3,
+  None,
+  ["'Oh, how kind of you, sir. Just half a glass.' Notice ",
+   (None, 'meio copo.'),
+   " for 'half a glass'—no 'a' needed between 'half' and 'glass' in Portuguese."]),
+ (4,
+  None,
+  ["'At our guesthouse, five-star service comes naturally... whoops!' Quick little ",
+   (None, 'opa!'),
+   " is the unmistakable Brazilian 'whoops!' whenever someone bumps a chair or spills a drink."]),
+ (5,
+  None,
+  ["'Careful, Mr Otavio, the pitcher spout is wide!' A single warning ",
+   (None, 'Cuidado,'),
+   " means 'careful!' or 'watch out!'."]),
+ (6,
+  None,
+  ["'Goodness me! Not a drop on the table, thank goodness... it all fell on my tie!' Relieved ",
+   (None, 'ainda bem...'),
+   " literally says 'still well' and works just like 'thank goodness!'."]),
+ (7,
+  None,
+  ["'Do not worry! Ice-cold sparkling water takes orange stain right out.' At cafés, ",
+   (None, 'com gás'),
+   " means 'sparkling'—literally 'with gas'—while ",
+   (None, 'na hora.'),
+   " means 'on the spot' or 'immediately'."]),
+ (10,
+  None,
+  ["'The scrambled eggs are delicious, Camila. Send my compliments to Bianca!' Besides birthdays, ",
+   (None, 'parabéns'),
+   " is used to praise a cook's delicious dish."]),
+ (11,
+  None,
+  ["'Consider it done! Enjoy your meal, Madam Helena.' Reassuring ",
+   (None, 'Pode deixar!'),
+   " literally says 'you can leave it'—meaning 'leave it to me!'—followed by ",
+   (None, 'Bom apetite,'),
+   ' to wish someone a pleasant meal.'])]

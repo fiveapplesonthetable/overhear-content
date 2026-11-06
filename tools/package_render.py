@@ -115,6 +115,21 @@ def main(argv):
             tar.addfile(info, io.BytesIO(data))
     print(f"{out}: {len(scenes)} scenes, {len(files)} files, {out.stat().st_size / 1e6:.1f} MB")
     if do_release:
+        m_ep = re.match(r"^([a-z0-9-]+)-(s\d\de\d\d)$", episode)
+        if m_ep:
+            ep_dir = content / root / m_ep.group(1) / m_ep.group(2)
+            dirty = subprocess.run(["git", "-C", str(content), "status", "--porcelain", "--", str(ep_dir)],
+                                   capture_output=True, text=True).stdout.strip()
+            if dirty:
+                print(f"ERROR {episode}: uncommitted/untracked content in {ep_dir}; commit and push before --release"); return 1
+            tracked = subprocess.run(["git", "-C", str(content), "ls-tree", "HEAD", "--", str(ep_dir)],
+                                     capture_output=True, text=True).stdout.strip()
+            if not tracked:
+                print(f"ERROR {episode}: {ep_dir} is not tracked in HEAD ({commit[:12]}); commit and push before --release"); return 1
+        pushed = subprocess.run(["git", "-C", str(content), "branch", "-r", "--contains", commit],
+                                capture_output=True, text=True).stdout.strip()
+        if not pushed:
+            print(f"ERROR {episode}: HEAD {commit[:12]} is not pushed to remote; git push before --release"); return 1
         tag = f"{prefix}-{episode}"
         notes = f"Rendered audio of {episode} (content {commit[:12]}). Verify and install with tools/fetch_renders.py."
         if subprocess.run(["gh", "release", "view", tag], capture_output=True).returncode == 0:
