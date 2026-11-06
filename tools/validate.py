@@ -690,8 +690,9 @@ def check_stress(lang, word, st, where, rep):
         if re.search(spelling, st): rep.err(where, f"{lang} stress holds spelling letters, not IPA: {st!r}")
 
 
-def check_notes(path, script, lang, require, rep):
+def check_notes(path, script, lang, require, rep, is_original=None):
     w = str(path)
+    orig = is_original_path(path) if is_original is None else bool(is_original)
     try: n = json.loads(Path(path).read_text(encoding="utf-8"))
     except Exception as e: return rep.err(w, f"not valid JSON: {e}")
     check_schema(n, "notes", w, rep)
@@ -701,6 +702,8 @@ def check_notes(path, script, lang, require, rep):
     segs, lex = script["segments"], n.get("lexicon", {})
     if not isinstance(n.get("lines"), list): return rep.err(w, "needs 'lines' list")
     done = set()
+    need_spans = (lang in ("ja", "zh", "ko", "ar")) if orig else (lang in ("ja", "zh"))
+    ipa_langs = ("fr", "es", "pt", "it", "de") if orig else ("fr", "es", "pt")
     for e in n["lines"]:
         i = e.get("seg")
         if not isinstance(i, int) or not 0 <= i < len(segs): rep.err(w, f"bad seg index {i!r}"); continue
@@ -709,7 +712,7 @@ def check_notes(path, script, lang, require, rep):
         if not str(e.get("trans", "")).strip() and segs[i]["v"] != "narrator": rep.err(lw, "missing trans (English translation)")
         pos = 0
         try:
-            authored_spans = annotation_spans(text, e.get("words", []), required=lang in ("ja", "zh") and segs[i]["v"] != "narrator")
+            authored_spans = annotation_spans(text, e.get("words", []), required=need_spans and segs[i]["v"] != "narrator")
         except ValueError as exc:
             rep.err(lw, str(exc))
             authored_spans = None
@@ -721,27 +724,29 @@ def check_notes(path, script, lang, require, rep):
             at = authored_spans[wi][0] if authored_spans is not None else text.find(t, pos)
             if not t or at < 0: rep.err(lw, f"word {t!r} not found in order in the line"); continue
             pos = at + len(t)
-            if lang in ("ja", "zh") and segs[i]["v"] != "narrator" and not str(wd.get("reading", "")).strip():
-                rep.err(lw, f"word {t!r} needs a reviewed spoken reading (kana for Japanese, contextual pinyin for Mandarin)")
+            if need_spans and segs[i]["v"] != "narrator" and not str(wd.get("reading", "")).strip():
+                rep.err(lw, f"word {t!r} needs a reviewed spoken reading ({lang})")
             for f in ("lemma", "pos", "gloss"):
                 if wd.get(f) in (None, ""): rep.err(lw, f"word {t!r} missing {f}")
             if wd.get("pos") and wd["pos"] not in POS: rep.err(lw, f"word {t!r}: pos {wd['pos']!r} not in {sorted(POS)}")
             if wd.get("lemma") and wd["lemma"].lower() not in lex and wd.get("pos") != "name":
                 rep.err(lw, f"lemma {wd['lemma']!r} has no entry in lexicon")
             if wd.get("pos") != "name" and not wd.get("stress") and (
-                    lang in ("fr", "es", "pt") or (lang == "ru" and len(re.findall("[аеёиоуыэюя]", t.lower())) > 1 and "ё" not in t.lower())):
-                rep.err(lw, f"word {t!r} needs a stress value ({'IPA' if lang in ('fr', 'es', 'pt') else 'U+0301 mark; null only for one-vowel words or ё'})")
-            if lang in ("es", "pt"): check_stress(lang, t, wd.get("stress"), lw, rep)
+                    lang in ipa_langs or (lang == "ru" and len(re.findall("[аеёиоуыэюя]", t.lower())) > 1 and "ё" not in t.lower())):
+                rep.err(lw, f"word {t!r} needs a stress value ({'IPA' if lang in ipa_langs else 'U+0301 mark; null only for one-vowel words or ё'})")
+            if lang in ("es", "pt", "it", "de", "fr") and orig: check_stress(lang, t, wd.get("stress"), lw, rep)
+            elif lang in ("es", "pt"): check_stress(lang, t, wd.get("stress"), lw, rep)
             if lang in ("ja", "zh", "ko", "ar"): check_stress(lang, t, wd.get("stress"), lw, rep)
             if lang == "ru" and wd.get("stress") and len(re.findall("[аеёиоуыэюя]", wd["stress"].lower())) > 1 and ACUTE not in wd["stress"] and "ё" not in wd["stress"]:
                 rep.err(lw, f"stress {wd['stress']!r} lacks the U+0301 mark")
+    table_langs = ("ru", "fr", "es", "it", "pt", "de", "ar", "ja", "ko") if orig else ("ru", "es", "pt")
     for lemma, L in lex.items():
         lw = f"{w} lexicon[{lemma}]"
         for f in ("lemma", "pos", "gloss", "meanings"):
             if not L.get(f): rep.err(lw, f"missing {f}")
         if L.get("lemma") != lemma: rep.err(lw, "key must equal lemma")
         check_stress(lang, lemma, L.get("stress"), lw, rep)
-        if lang in ("fr", "es", "pt") and L.get("pos") != "name" and not L.get("stress"):
+        if lang in ipa_langs and L.get("pos") != "name" and not L.get("stress"):
             rep.err(lw, f"{lang} ordinary lexicon entries require reviewed IPA; only pos:name may omit it")
         if lemma != lemma.lower() and L.get("pos") != "name": rep.err(lw, "lexicon key/lemma must be lowercase")
         if lang == "ru" and L.get("stress") and len(re.findall("[аеёиоуыэюя]", lemma)) > 1 and "ё" not in lemma and ACUTE not in L["stress"]:
@@ -749,8 +754,10 @@ def check_notes(path, script, lang, require, rep):
         for f in LEX_FIELDS:
             LEX_SEEN.setdefault(lang, {}).setdefault(f, {}).setdefault(lemma, {}).setdefault(json.dumps(L.get(f), ensure_ascii=False), w)
         for t in [L.get("forms")] * bool(L.get("forms")) + list(L.get("moreForms") or []): table_ok(t, lw, rep)
-        if L.get("pos") in ("noun", "adj", "verb") and not L.get("forms") and lang in ("ru", "es", "pt"):
+        if L.get("pos") in ("noun", "adj", "verb") and not L.get("forms") and lang in table_langs:
             rep.err(lw, f"{lang} noun/adj/verb needs a forms table")
+        if orig and lang == "zh" and L.get("forms") is not None:
+            rep.err(lw, "zh lexicon entries carry forms: null (Mandarin has no inflection)")
         for m in L.get("meanings", []):
             if not m.get("en"): rep.err(lw, "meaning needs 'en'")
     if require:
@@ -886,7 +893,7 @@ def check_scenes(epdir, show, rep, is_original=None):
                         out = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") in cue and not any(start - 2 <= cue[ln["cue"]][0] <= end + 2 for start, end in source_ranges)]
                         if out: rep.err(sw, f"{len(out)} source cues lie outside this lesson's scene and merged source ranges (first: cue {out[0]}); tie lines only to cues of the scene or its merged transitions")
                     notes = epdir / f"scene-{n}.notes.json"
-                    if notes.is_file(): check_notes(notes, d, lang, REQ[0], rep)
+                    if notes.is_file(): check_notes(notes, d, lang, REQ[0], rep, is_original=orig)
                     elif REQ[0]: rep.err(sw, f"missing scene-{n}.notes.json")
             if not any((epdir / f"scene-{n}.{x}").is_file() for x in ("webp", "png")):
                 rep.err(sw, f"missing art scene-{n}.webp (or .png)")

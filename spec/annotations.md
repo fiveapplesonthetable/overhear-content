@@ -31,8 +31,10 @@ Required for a finished scene (`--require-notes`). You write it yourself, carefu
 ### `stress` per language
 - **ru**: the word with a combining acute U+0301 after the stressed vowel (`ре́жь`). Same letters as the word; ё gets
   no mark; one-vowel words no mark. This is the *only* place U+0301 may appear anywhere in the output.
-- **fr**: the word's IPA, no slashes/brackets/spaces/stress marks (`laʒɑ̃s` for *l'agence*). IPA symbols only,
-  never accented spelling letters.
+- **fr, es, it, pt, de**: the word's bare IPA, no slashes/brackets/spaces/uppercase letters (`laʒɑ̃s` for *l'agence*,
+  `maˈnjana` -> no `ˈ`? Note: IPA primary stress `ˈ` is fine, never U+0301 combining acute and never accented spelling
+  letters like `é, ñ, ä, ç, ã`). Only `pos: "name"` may use `stress: null`.
+- **ja, zh, ko, ar**: always `stress: null`. Spoken pronunciation and romanisation live in `words[].reading` (see below).
 
 ## `lexicon{}` (one entry per lemma used, key = lemma)
 | field | meaning |
@@ -55,9 +57,31 @@ Every row has as many cells as `columns`; the first cell is the row label; a non
 | ru | noun | `Declension`; `["","sg","pl"]`; nominative, genitive, dative, accusative, instrumental, prepositional | |
 | ru | adj | `Declension`; `["","m","f","n","pl"]`; the same six cases | |
 | ru | verb | `Present` (impf) or `Future` (pf); `["","sg","pl"]`; 1st, 2nd, 3rd | `Past`: `["","m","f","n","pl"]`, row `past`; optional `Imperative`: `["","sg","pl"]`, row `imperative` |
-| fr | noun | optional `Forms`; `["","sg","pl"]`; row `form` ("l'agence", "les agences") | |
+| fr | noun | `Forms`; `["","sg","pl"]`; row `form` ("l'agence", "les agences") | |
 | fr | adj | `Forms`; `["","m","f"]`; sg, pl | |
-| fr | verb | `Present`; `["","sg","pl"]`; 1st, 2nd, 3rd (cells include the pronoun: "je parle") | `Passé composé`, `Imparfait`, `Futur` (same shape); optional `Imperative` |
+| fr | verb | `Present`; `["","sg","pl"]`; 1st, 2nd, 3rd (cells include the pronoun: "je parle") | `Passé composé` (and optional `Imparfait`, `Futur`, `Imperative`) |
+| es | noun | `Forms`; `["","sg","pl"]`; row `form` ("la llave", "las llaves") | |
+| es | adj | `Forms`; `["","m","f"]`; rows `sg`, `pl` | |
+| es | verb | `Present`; `["","sg","pl"]`; rows `1st`, `2nd`, `3rd` | `Preterite` (`["","sg","pl"]`, rows `1st`, `2nd`, `3rd`) |
+| it | noun | `Forms`; `["","sg","pl"]`; row `form` ("la chiave", "le chiavi") | |
+| it | adj | `Forms`; `["","m","f"]`; rows `sg`, `pl` | |
+| it | verb | `Present`; `["","sg","pl"]`; rows `1st`, `2nd`, `3rd` | `Passato prossimo` (`["","sg","pl"]`, rows `1st`, `2nd`, `3rd`) |
+| pt | noun | `Forms`; `["","sg","pl"]`; row `form` ("a chave", "as chaves") | |
+| pt | adj | `Forms`; `["","m","f"]`; rows `sg`, `pl` | |
+| pt | verb | `Present`; `["","sg","pl"]`; rows `1st`, `2nd`, `3rd` (`eu`, `você/ele`, `nós`, `vocês/eles`) | `Preterite` (`["","sg","pl"]`, rows `1st`, `2nd`, `3rd`) |
+| de | noun | `Declension`; `["","sg","pl"]`; rows `nominative`, `accusative`, `dative`, `genitive` (with article) | |
+| de | adj | `Forms`; `["","form"]`; rows `positive`, `comparative`, `superlative` | |
+| de | verb | `Present`; `["","sg","pl"]`; rows `1st`, `2nd`, `3rd` (with pronoun: "ich mache") | `Past` (`["","sg","pl"]`, `Perfekt` or `Präteritum`) |
+| ar | noun | `Forms`; `["","sg","pl"]`; row `form` (plus `gender` in lexicon) | |
+| ar | adj | `Forms`; `["","m","f","pl"]`; row `form` | |
+| ar | verb | `Present`; `["","sg","pl"]`; rows `1st`, `2nd m`, `2nd f`, `3rd m`, `3rd f` | `Past` (same rows) |
+| ja | verb | `Forms`; `["","form"]`; rows `dictionary`, `polite`, `negative`, `past`, `te-form` | |
+| ja | adj | `Forms`; `["","form"]`; rows `dictionary`, `polite`, `negative`, `past`, `adverbial` | |
+| ja | noun | `Forms`; `["","form"]`; rows `plain`, `polite`, `negative`, `past` (copula frame with `だ`/`です`) | |
+| ko | verb | `Forms`; `["","form"]`; rows `dictionary`, `polite`, `formal`, `past`, `negative` | |
+| ko | adj | `Forms`; `["","form"]`; rows `dictionary`, `polite`, `formal`, `past`, `negative` | |
+| ko | noun | `Forms`; `["","form"]`; rows `with topic`, `with subject`, `with object`, `polite copula` | |
+| zh | all | `forms: null`, `moreForms: []` (Mandarin has no inflection; give measure words `量词` in `meanings[].note` and `related[]`) | |
 
 Other words (adverbs, prepositions, particles, pronouns) have `forms: null`, `moreForms: []`.
 The validator checks table shape, that every used `lemma` has an entry, that ru nouns/adjs/verbs have `forms`, that
@@ -94,14 +118,25 @@ annotation easier. Python indices already use these units; Android converts them
 to UTF-16 indices at the content boundary.
 
 Japanese and Mandarin native lines require explicit spans and a reviewed
-`words[].reading`. Japanese readings use contextually correct kana, including
-spoken particles; a compound's reading belongs to its entire authored lexical
-span, not invented per-kanji intervals. Mandarin readings use reviewed contextual
-pinyin, including resolved spoken numbers. Korean and Arabic may also provide
-reviewed readings; their native written spacing and logical order remain intact.
+`words[].reading`. For **Overhear Originals** (`originals/`), **all four**
+non-Latin scripts (`ja`, `zh`, `ko`, `ar`) require 100% `words[].span` and
+`words[].reading` coverage on every spoken word, following one fixed standard
+per language:
+- **Japanese (`ja`)**: Katakana kana giving contextual spoken pronunciation,
+  including spoken particle readings (`は` -> `ワ`, `へ` -> `エ`, `を` -> `オ`)
+  and resolved counters/numbers; romanised downstream via Modified Hepburn.
+- **Mandarin (`zh`)**: Contextual Hanyu Pinyin with tone marks (`zǎo shang`),
+  including `一`/`不` tone sandhi and resolved spoken numbers.
+- **Korean (`ko`)**: Revised Romanization of Korean (RR, Ministry of Culture
+  standard, lowercase ASCII letters) reflecting spoken liaison and consonant
+  assimilation (`annyeonghaseyo`, `sinipsawonisijyo`).
+- **Arabic (`ar`)**: Standardized spoken Levantine/Jordanian ASCII romanisation
+  (`a-z`, `'`, `-`; long vowels `aa, ii, uu`, `'` for hamza/ʿayn, sun-letter
+  assimilation `il-kheir`, `ish-shams`), matching `mms-uroman` alignment.
+
 Japanese, Mandarin, Korean and Arabic `stress` values remain null: do not invent
-stress or pitch-accent descriptions. `reading` is alignment guidance and does
-not replace the written text or establish pronunciation/audio quality by itself.
+stress or pitch-accent descriptions. `reading` is alignment and learner reading
+guidance and does not replace the written text or establish audio quality by itself.
 
 The renderer must reject unresolved native alignment, partial coverage or
 ownership that crosses independently selectable words. Missing words cannot be
