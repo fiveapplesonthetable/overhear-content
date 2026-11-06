@@ -818,9 +818,10 @@ def run_orchestrator():
                 continue
 
             prio = int(spec["prio"])
+            root_name = spec.get("root") or os.environ.get("OVERHEAR_CONTENT_ROOT") or "all"
             settings_path = str(Path(spec["settings"]).resolve())
             settings = config.load_settings(settings_path)
-            scenes, skips = content.discover(str(REPO), only=lambda sh, s, e, t=ep: f"{sh}-s{s:02d}e{e:02d}" == t)
+            scenes, skips = content.discover(str(REPO), only=lambda sh, s, e, t=ep: f"{sh}-s{s:02d}e{e:02d}" == t, root=root_name)
             skips = [s for s in skips if "merged" not in s.reason]
             if skips or not scenes:
                 log(role, f"ERROR discovering {ep}: scenes={len(scenes)} skips={skips}")
@@ -886,6 +887,7 @@ def run_orchestrator():
             log(role, f"[{ep}] enqueued {new_jobs} unique uncached sentences into /dev/shm")
             prepared_eps[ep] = {
                 "prio": prio,
+                "root": root_name,
                 "settings_path": settings_path,
                 "settings": settings,
                 "scenes_todo": scenes_todo,
@@ -921,8 +923,11 @@ def run_orchestrator():
             if not scenes_todo:
                 ep_wall = round(time.time() - st["started_at"], 1)
                 log(role, f"[{ep}] all {len(st['all_scenes'])} scenes rendered in {ep_wall}s! Running check_render.py...")
+                chk_cmd = ["python3", "-I", str(REPO / "tools" / "check_render.py"), str(config.STORE), "--episode", ep]
+                if st.get("root") in ("out", "originals"):
+                    chk_cmd += ["--root", st["root"]]
                 chk = subprocess.run(
-                    ["python3", "-I", str(REPO / "tools" / "check_render.py"), str(config.STORE), "--episode", ep],
+                    chk_cmd,
                     cwd=str(REPO), stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True,
                 )
                 log(role, f"[{ep}] check_render rc={chk.returncode}: {chk.stdout.strip().splitlines()[-1] if chk.stdout.strip() else ''}")

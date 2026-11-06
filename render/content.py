@@ -11,7 +11,7 @@ from pathlib import Path
 import config
 
 _SCENE_RE = re.compile(r"^scene-(\d\d)\.json$")
-_ID_RE = re.compile(r"^([a-z-]+)-s(\d\d)e(\d\d)-scene-(\d\d)$")
+_ID_RE = re.compile(r"^([a-z0-9-]+)-s(\d\d)e(\d\d)-scene-(\d\d)$")
 LANG_OF_PAIR = {"ru-en": "ru", "fr-en": "fr", "es-en": "es", "de-en": "de", "it-en": "it",
                 "ja-en": "ja", "zh-en": "zh", "ko-en": "ko", "ar-en": "ar", "pt-en": "pt"}
 
@@ -97,7 +97,8 @@ def load_scene(script_path: Path, require_notes=True, merged=frozenset(), cast=N
         return Skip(sid, str(script_path), f"no cast.json for show {show}")
     for g in segs:
         if g["v"] != "narrator" and g["v"] not in cast:
-            return Skip(sid, str(script_path), f"role {g['v']!r} is not in out/{show}/cast.json")
+            rel_cast = f"{script_path.parent.parent.parent.name}/{show}/cast.json"
+            return Skip(sid, str(script_path), f"role {g['v']!r} is not in {rel_cast}")
     if "voices" in script:
         return Skip(sid, str(script_path), "script still carries a `voices` map (contract P-1: removed)")
     notes_path = script_path.with_name(script_path.stem + ".notes.json")
@@ -134,21 +135,35 @@ def merged_scenes(ep_dir: Path):
     return out
 
 
-def discover(content_dir=None, require_notes=True, only=None):
+def _resolve_roots(content_dir=None, root=None):
+    import os
+    base = Path(content_dir or config.CONTENT_DIR)
+    if base.name in ("out", "originals") and not (base / "out").is_dir() and not (base / "originals").is_dir():
+        return [base]
+    r = root or os.environ.get("OVERHEAR_CONTENT_ROOT") or "out"
+    if r == "all":
+        return [base / x for x in ("originals", "out") if (base / x).is_dir()]
+    return [base / r]
+
+
+def discover(content_dir=None, require_notes=True, only=None, root=None):
     """(scenes, skips). `only`: optional predicate on (show, season, episode)."""
-    root = Path(content_dir or config.CONTENT_DIR) / "out"
+    roots = _resolve_roots(content_dir, root)
     scenes, skips, casts = [], [], {}
-    for show_dir in sorted(p for p in root.iterdir() if p.is_dir()):
-        for ep_dir in sorted(p for p in show_dir.iterdir() if p.is_dir() and re.match(r"^s\d\de\d\d$", p.name)):
-            if only and not only(show_dir.name, int(ep_dir.name[1:3]), int(ep_dir.name[4:6])):
-                continue
-            merged = merged_scenes(ep_dir)
-            cast = casts.setdefault(show_dir.name, load_cast(show_dir))
-            for f in sorted(ep_dir.glob("scene-*.json")):
-                if not _SCENE_RE.match(f.name):
+    for rdir in roots:
+        if not rdir.is_dir():
+            continue
+        for show_dir in sorted(p for p in rdir.iterdir() if p.is_dir() and not p.name.startswith("_")):
+            for ep_dir in sorted(p for p in show_dir.iterdir() if p.is_dir() and re.match(r"^s\d\de\d\d$", p.name)):
+                if only and not only(show_dir.name, int(ep_dir.name[1:3]), int(ep_dir.name[4:6])):
                     continue
-                r = load_scene(f, require_notes, merged, cast or {})
-                (scenes if isinstance(r, Scene) else skips).append(r)
+                merged = merged_scenes(ep_dir)
+                cast = casts.setdefault(show_dir.name, load_cast(show_dir))
+                for f in sorted(ep_dir.glob("scene-*.json")):
+                    if not _SCENE_RE.match(f.name):
+                        continue
+                    r = load_scene(f, require_notes, merged, cast or {})
+                    (scenes if isinstance(r, Scene) else skips).append(r)
     discover.casts = casts
     return scenes, skips
 
@@ -168,8 +183,23 @@ def git_commit(content_dir=None):
     return r.stdout.strip() or None
 
 
-def scene_path(content_dir, sid):
-    m = re.match(r"^([a-z-]+)-s(\d\d)e(\d\d)-scene-(\d\d)$", sid)
+def show_dir(content_dir, show, root=None):
+    import os
+    base = Path(content_dir or config.CONTENT_DIR)
+    if base.name in ("out", "originals") and not (base / "out").is_dir() and not (base / "originals").is_dir():
+        return base / show
+    r = root or os.environ.get("OVERHEAR_CONTENT_ROOT")
+    if r and r != "all":
+        return base / r / show
+    for cand in ("originals", "out"):
+        p = base / cand / show
+        if p.is_dir():
+            return p
+    return base / "out" / show
+
+
+def scene_path(content_dir, sid, root=None):
+    m = re.match(r"^([a-z0-9-]+)-s(\d\d)e(\d\d)-scene-(\d\d)$", sid)
     if not m:
         raise ValueError(f"bad scene id {sid!r}")
-    return Path(content_dir) / "out" / m.group(1) / f"s{m.group(2)}e{m.group(3)}" / f"scene-{m.group(4)}.json"
+    return show_dir(content_dir, m.group(1), root=root) / f"s{m.group(2)}e{m.group(3)}" / f"scene-{m.group(4)}.json"

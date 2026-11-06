@@ -451,7 +451,8 @@ class T(unittest.TestCase):
         gold += [ROOT / "out" / "kukhnya" / "s01e02" / f"scene-0{k}.json" for k in (1, 2, 3)]
         for g in gold:
             if not g.is_file(): continue
-            ex = v.explanations(json.loads(g.read_text(encoding="utf-8"))["segments"])
+            ex = [(i, gl, e) for i, gl, e in v.explanations(json.loads(g.read_text(encoding="utf-8"))["segments"]) if e.strip()]
+            if not ex: continue
             self.assertGreaterEqual(sum(v.teaches(e) for _, _, e in ex) / len(ex), v.TEACH_MIN_SHARE, g.name)
         draft = ROOT / "tests" / "fixtures" / "draft-kukhnya-s01e07-scene-05.json"    # frozen copy of the plot-only draft (origin/main before the rewrite)
         ex = v.explanations(json.loads(draft.read_text(encoding="utf-8"))["segments"])

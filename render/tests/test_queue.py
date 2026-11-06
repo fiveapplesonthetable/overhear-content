@@ -159,3 +159,25 @@ def test_voice_errors_are_skips(tmp_path, monkeypatch):
     assert any("not in out/kukhnya/cast.json" in s.reason for s in skips)
     _write(tmp_path, "dix-pour-cent", 1, 1, 1, cast=False, pair="fr-en")
     assert any("no cast.json" in s.reason for s in content.discover(tmp_path)[1])
+
+
+def test_discover_and_scene_path_support_originals_root(tmp_path):
+    orig = tmp_path / "originals" / "hotel-neva" / "s01e01"
+    orig.mkdir(parents=True)
+    sid = "hotel-neva-s01e01-scene-01"
+    (orig.parent / "cast.json").write_text(json.dumps({
+        "schemaVersion": 1, "show": "hotel-neva",
+        "cast": [{"key": "dasha", "ru": "Даша", "en": ["Dasha"], "gender": "f"}],
+    }, ensure_ascii=False))
+    (orig / "scene-01.json").write_text(json.dumps({
+        "schemaVersion": 1, "id": sid, "pair": "ru-en", "show": "hotel-neva",
+        "season": 1, "episode": 1, "scene": 1,
+        "segments": [{"v": "narrator", "t": "Hello.", "gap": 0.5}, {"v": "dasha", "t": "Привет!", "gap": 0.3}],
+    }, ensure_ascii=False))
+    (orig / "scene-01.notes.json").write_text(json.dumps({
+        "lines": [{"seg": 1, "trans": "Hi!", "words": [{"t": "Привет!", "stress": "Приве\u0301т!"}]}],
+    }, ensure_ascii=False))
+    assert content.discover(tmp_path, root="out")[0] == []
+    scenes, skips = content.discover(tmp_path, root="originals")
+    assert [s.id for s in scenes] == [sid] and skips == []
+    assert content.scene_path(tmp_path, sid) == orig / "scene-01.json"

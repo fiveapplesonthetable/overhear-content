@@ -91,13 +91,17 @@ class Vocabs:
             N.RuVocab.add(sc, t)
         return sc
 
+    def _show_dir(self, show):
+        from content import show_dir
+        return show_dir(self.cd, show)
+
     def en_show(self, show):
         """English words of the whole show's line translations (notes `trans`): a quoted run of only these is an English gloss, however much it
         looks like a transliteration ("cheeky", "oh, come on"). Glosses and the narrator's prose are NOT used here: they quote Russian words
         in Latin script ("shef", "ty", "vy") and would veto them."""
         if show not in self._en:
             ws = set()
-            for p in sorted((self.cd / "out" / show).glob("s*e*/scene-*.notes.json")):
+            for p in sorted(self._show_dir(show).glob("s*e*/scene-*.notes.json")):
                 for l in (_read(p) or {}).get("lines", []):
                     if isinstance(l, dict):
                         ws.update(w.lower() for w in re.findall(r"[A-Za-z]+", l.get("trans", "") or ""))
@@ -107,7 +111,7 @@ class Vocabs:
     def episode(self, show, season, ep):
         k = (show, season, ep)
         if k not in self._ep:
-            d = self.cd / "out" / show / f"s{season:02d}e{ep:02d}"
+            d = self._show_dir(show) / f"s{season:02d}e{ep:02d}"
             paths = sorted(d.glob("scene-*.notes.json"))
             texts = []
             for sp in sorted(self.store.glob(f"{show}-s{season:02d}e{ep:02d}-scene-*/spans.json")):
@@ -120,7 +124,7 @@ class Vocabs:
     def show(self, show):
         if show not in self._show:
             sc = N.Scope()
-            for p in sorted((self.cd / "out" / show).glob("s*e*/scene-*.notes.json")):
+            for p in sorted(self._show_dir(show).glob("s*e*/scene-*.notes.json")):
                 N.vocab_from_notes(sc, _read(p), ())
             self._show[show] = sc
         return self._show[show]
@@ -200,7 +204,8 @@ def plan_scene(sid, store, content_dir, vocabs):
     if meta.get("contentHash") and content_hash_of(content_dir, sid) != meta["contentHash"]:
         return {"scene": sid, "error": "content checkout differs from what the scene was rendered from (contentHash)", "mismatch": True,
                 "jobs": [], "skipped": [], "unresolved": []}
-    notes = _read(Path(content_dir) / "out" / show / f"s{season:02d}e{ep:02d}" / f"scene-{sc_n:02d}.notes.json")
+    from content import show_dir
+    notes = _read(show_dir(content_dir, show) / f"s{season:02d}e{ep:02d}" / f"scene-{sc_n:02d}.notes.json")
     scope = N.Scope()
     texts = []
     for g in spans["segs"]:
