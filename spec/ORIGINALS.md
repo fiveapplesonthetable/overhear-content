@@ -115,7 +115,44 @@ when no Originals episode is waiting.
    episodes reuse them and add a few new ones per scene. This is the main teaching advantage we have over adapted content,
    so use it.
 
-## 5. Done means
+## 5. The full learning data, for every language
 
-A show's season is done when all 6 episodes pass the README "Done means" list, and the bible and every episode have a
-clean originality review. Report progress per show in `originals/PROGRESS.md`.
+An Originals episode ships with the whole learning layer the app shows: translations, word notes, pronunciation, word tables,
+dictionary entries, word histories and learning notes. This holds for all ten languages, not just Russian and French. Today
+several languages have gaps; Originals close them.
+
+1. **Scene notes** (`spec/annotations.md`) for every scene, as today: a translation for every line, and for every word its
+   lemma, part of speech, gloss and grammar, plus a lexicon entry with meanings, examples and related words.
+2. **Pronunciation and transliteration on every word.** Russian stress marks, French IPA, and for the non-Latin scripts a reviewed
+   reading on every word with no gaps: Japanese kana, Mandarin pinyin, and Korean and Arabic readings too (they are optional in
+   `annotations.md` today; for Originals they are required). Romanisation for Japanese, Korean and Arabic follows one standard
+   per language; write which one into `annotations.md` and keep to it. The publisher reports reading coverage per pair: it must be
+   100% for every Originals scene.
+3. **Word tables for every language.** `annotations.md` defines conjugation and declension tables only for Russian and French.
+   Add the tables for the other eight to `annotations.md`, in the same shape (title, columns, rows), and teach the validator to
+   check them: at least present-tense conjugation for verbs in es, it, pt and de, plus their past and noun or adjective forms where
+   the language has them; Arabic verb conjugation by person, gender and number, and noun forms with gender and plural; Japanese
+   verb and adjective forms (dictionary, polite, negative, past, te-form); Korean verb and adjective endings (plain, polite,
+   past, negative). Mandarin has no inflection, so its words carry `forms: null`; give its measure words in the lexicon instead.
+   Every verb, noun and adjective that an Originals scene uses gets its table.
+4. **Dictionary** (`dictionary/<pair>.json`): an entry for every lemma that Originals use, for all ten pairs. Japanese, Korean
+   and Russian have no file today and the others are thin.
+5. **Word histories** (`word-origins/<pair>.json`): a sourced history for the words Originals use, by the existing rules: check
+   each against an authoritative entry, link it, and never publish an unsourced one. Run `tools/origin_coverage.py` per season
+   and fill the gaps.
+6. **Learning notes** (`learn/<pair>/`): today only Russian and French have them. Write notes for all ten pairs, about 10 per
+   pair to start, covering what the season teaches (greetings, polite address, numbers and money, the main verb patterns, the
+   particles or cases a learner meets first), with examples that point at Originals scenes.
+
+**These folders are shared by both tiers.** `dictionary/`, `word-origins/` and `learn/` are published to the public app as well as
+the private one, so nothing in them may quote a line from a TV adaptation (`out/`) or point an example at an `out/` scene.
+Write your own example sentences or cite Originals scenes. Where an existing file quotes an adapted scene, replace that example.
+
+**Voices before the cycle reaches a language.** Portuguese renders have mostly failed so far (8 of 9 in the last batch): find
+out why and fix it before the first Portuguese Originals episode is due, and check that every other language renders end to end
+before its first episode.
+
+## 6. Done means
+
+A show's season is done when all 6 episodes pass the README "Done means" list, the learning data in section 5 is complete for
+them, and the bible and every episode have a clean originality review. Report progress per show in `originals/PROGRESS.md`.
