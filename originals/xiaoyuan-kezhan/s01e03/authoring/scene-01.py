@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e03-scene-01.
+ID = 'xiaoyuan-kezhan-s01e03-scene-01'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 3
+SCENE = 1
+TITLE = '还有三十五分钟  (Thirty-Five Minutes)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'qing': '小晴', 'zhou': '周经理'}
+INTRO = 'Rain taps against the lobby windows of Courtyard Inn in Chengdu. With a second Room 7 guest arriving in thirty-five minutes, Manager Zhou, Qing, and Chen hurry toward the stairs. Listen first.'
+OPENER = "Now let's walk through the scene, one line at a time."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Thirty-five minutes on the clock and four lamp boxes in the way—let's climb up to the third-floor attic next time. See you next time."
+CLOSING = ('qing', '回头见！')
+STORY = [('zhou', '只剩三十五分钟了！他肯定会写一星差评！', 'Only thirty-five minutes left! He will surely write a one-star bad review!'), ('qing', '深呼吸，周经理。还没人写任何东西呢。', 'Take a deep breath, Manager Zhou. Nobody has written anything yet.'), ('chen', '这是三楼阁楼门的小银钥匙。', 'Here is the small silver key to the third-floor attic door.'), ('zhou', '阁楼里真的有像样的床吗？', 'Does the attic really have a proper bed?'), ('chen', '有，结实的木床、干净书桌，风景全院最好。', 'Yes, a solid wooden bed, a clean desk, and the best view in the courtyard.'), ('qing', '那我们平时为什么不租给客人呢？', 'Then why do we never rent it out to guests?'), ('chen', '因为楼梯窄，而且周经理在那儿放了旧灯箱子。', 'Because the stairs are narrow, and Manager Zhou put old lamp boxes up there.'), ('zhou', '只有三个小纸箱！最多四个！', 'Only three small cardboard boxes! Four at most!'), ('qing', '四个纸箱五分钟就能搬走。现在就上去看！', "We can move four boxes in five minutes. Let's go up and look right now!"), ('chen', '上楼梯，平台往左拐，最上面最后一扇门。', 'Up the stairs, turn left at the landing, last door at the very top.'), ('zhou', '我去柜子拿干净的白床单！', 'I will fetch clean white bedsheets from the cupboard!'), ('qing', '快走——看看谁先到三楼！', "Come on—let's see who reaches the third floor first!")]
+WALK = [(0, None, ["'Only thirty-five minutes left! He will surely write a one-star bad review!' Online review word to know:", (None, '差评'), "pairs 'poor' with 'rating' for a bad review, opposite of 'good-rating'."]), (1, None, ["'Take a deep breath, Manager Zhou. Nobody has written anything yet.' Calming three-character phrase:", (None, '深呼吸'), "literally says 'deeply breathe out-and-in', working as 'take a deep breath'."]), (3, None, ["'Does the attic really have a proper bed?' Everyday praise word:", (None, '像样'), "literally means 'resembling a proper model'—decent, presentable, up to scratch."]), (5, None, ["'Then why do we never rent it out to guests?' Combining 'rent' with 'give' forms", (None, '租给'), 'marking the guest who receives the rented room.']), (6, None, ["'Because the stairs are narrow, and Manager Zhou put old lamp boxes up there.' Linking two reasons smoothly uses", (None, '而且'), "meaning 'and what is more' or 'besides'."]), (7, None, ["'Only three small cardboard boxes! Four at most!' Putting 'most' before 'many' builds", (None, '最多'), "meaning 'at most' when Zhou sheepishly admits to a fourth box."]), (8, None, ["'We can move four boxes in five minutes. Let's go up and look right now!' Putting 'walk-away' onto 'move' gives", (None, '搬走'), 'showing heavy boxes getting carried clear out of the room.']), (9, None, ["'Up the stairs, turn left at the landing, last door at the very top.' Direction pattern:", (None, '往左拐'), "says 'toward left turn', the exact formula you use for street and hallway directions."])]

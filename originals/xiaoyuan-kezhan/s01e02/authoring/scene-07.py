@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e02-scene-07.
+ID = 'xiaoyuan-kezhan-s01e02-scene-07'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 2
+SCENE = 7
+TITLE = '下午的一杯咖啡  (How Regulars Order)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'mei': '小美', 'qing': '小晴'}
+INTRO = 'In the quiet afternoon sunshine, Qing takes a ten-minute break in the café corner while Mei wipes the counter and Chen tightens a loose wooden chair leg. Listen first.'
+OPENER = "Now let's walk through the scene, one line at a time."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = 'A calm cup of coffee, a sturdy chair, and three coworkers who already feel like a team. One scene remains in Episode 2, and Manager Zhou is about to make an alarming discovery. See you next time.'
+CLOSING = ('mei', '明天见！')
+STORY = [('mei', '坐下吧，小晴！早上你跑了半条街，喝杯咖啡。', 'Sit down, Qing! You ran half the street this morning—drink a cup of coffee.'), ('qing', '太好了！请加牛奶和一点糖。', 'Wonderful! With milk and a little sugar, please.'), ('chen', '当心那把角落椅子，等十秒我拧紧螺丝。', 'Mind that corner chair—wait ten seconds while I tighten the screw.'), ('qing', '这么快就修好了？老陈你随身带着螺丝刀啊！', 'Fixed that fast? Chen, you carry a screwdriver everywhere on you!'), ('chen', '老房子每到星期二就松一颗螺丝。坐吧。', 'Every Tuesday an old house loosens one screw. Sit down.'), ('mei', '你看，早餐忙乱和神秘电话你都挺过来了！', 'Look, you made it through both the breakfast rush and the mystery phone call!'), ('qing', '说实话，我比以前灰色办公室喜欢这儿多了。', 'Honestly, I like this place far better than my old grey office.'), ('mei', '等星期五中午箱子主人进来，我一定坐第一排看！', 'When the suitcase owner walks in Friday at noon, I am sitting in the front row!'), ('chen', '不许盯着客人看。把箱子交还，干自己的活。', 'No staring at guests. Hand back the bag and do our own work.'), ('mei', '听听他说的！老陈比我们好奇两倍！', 'Listen to him! Chen is twice as curious as we are!'), ('chen', '我只是检查安全。这是我的工作。', 'I am simply checking security. That is my job.'), ('qing', '放心吧，老陈，我们替你保密！', 'Rest assured, Chen—we will keep your secret!')]
+WALK = [(0, None, ["'Sit down, Qing! You ran half the street this morning—drink a cup of coffee.' Long winding things—streets, rivers, ribbons, towels—take", (None, '条'), "so Mei jokes that Qing ran 'half a strip of street'."]), (2, None, ["'Mind that corner chair—wait ten seconds while I tighten the screw.' Another crisp 'careful!' word,", (None, '当心'), "puts 'hold in mind' together to warn someone about a wobbly chair."]), (3, None, ["'Fixed that fast? Chen, you carry a screwdriver everywhere on you!' Tool names in Mandarin explain their job:", (None, '螺丝刀'), "tacks 'knife/blade' onto 'screw' to name a screwdriver."]), (4, None, ["'Every Tuesday an old house loosens one screw. Sit down.' Small round objects—screws, pearls, stars, beans—use", (None, '颗'), 'as their counting word.']), (6, None, ["'Honestly, I like this place far better than my old grey office.' Friendly conversation opener:", (None, '说实话'), "literally 'speak honest words', works just like 'to tell the truth'."]), (8, None, ["'No staring at guests. Hand back the bag and do our own work.' Gruff rule-making word:", (None, '不许'), "means 'not permitted' or 'no doing that!'."]), (9, None, ["'Listen to him! Chen is twice as curious as we are!' Mandarin compares with 'A than B' before the adjective, and", (None, '两倍'), "at the end adds 'twofold' or 'twice as much'."]), (11, None, ["'Rest assured, Chen—we will keep your secret!' Built from 'protect' and 'secret',", (None, '保密'), "means 'keep a secret' without needing a separate object."])]

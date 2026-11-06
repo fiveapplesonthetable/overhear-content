@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e02-scene-01.
+ID = 'xiaoyuan-kezhan-s01e02-scene-01'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 2
+SCENE = 1
+TITLE = '红丝带回来了  (The Red Ribbon)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'qing': '小晴', 'song': '宋老师'}
+INTRO = 'Tuesday morning dawns bright and clear at Courtyard Inn in Chengdu. Teacher Song hurries down to the front desk, where Qing and Chen have her returned suitcase waiting. Listen to the whole scene first.'
+OPENER = "Now let's walk through the scene, one line at a time."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = 'Teacher Song has her teacup and clothes back, and a twenty-five-year-old memory is starting to stir. Next, trouble brews in the breakfast kitchen. See you next time.'
+CLOSING = ('song', '回头见！')
+STORY = [('qing', '宋老师早上好！看昨晚大门口送来了什么。', 'Good morning, Teacher Song! Look what arrived at our front gate last night.'), ('song', '我的行李箱！快打开上面口袋……对，红丝带！', 'My suitcase! Let me open the top pocket... yes, the red ribbon!'), ('chen', '里面的茶杯呢？还完好吗？', 'And the teacup inside? Is it still intact?'), ('song', '一点没破！是谁送回来的？', 'Not cracked at all! Who brought it back?'), ('qing', '我们不知道。有人放在台阶上，按了门铃。', 'We do not know. Someone set it on the step and rang the bell.'), ('song', '他没要回那个装木头小火车的箱子吗？', 'Did he not ask back for that case with the wooden train?'), ('chen', '他留了纸条，请我们保管到星期五。', 'He left a note asking us to keep it until Friday.'), ('song', '真好奇！那张行李牌上的字看着很眼熟。', 'How curious! The handwriting on that tag looked very familiar.'), ('qing', '真的吗？您在成都认识什么人吗？', 'Really? Do you know someone here in Chengdu?'), ('song', '二十五年前我在附近教钢琴，不过记忆淡了。', 'Twenty-five years ago I taught piano nearby, though memories fade.'), ('chen', '现在他的箱子还安全锁着呢。', 'For now, his suitcase stays safely locked up.'), ('song', '太好了！现在我想吃一顿丰盛的早餐。', 'Wonderful! Now I would like to eat a big breakfast.')]
+WALK = [(0, None, ["'Good morning, Teacher Song! Look what arrived at our front gate last night.' Compact time compound:", (None, '昨晚'), "squeezes 'yesterday evening' into two crisp syllables."]), (2, None, ["'And the teacup inside? Is it still intact?' Slipping", (None, '呢'), "after a noun phrase turns 'the teacup inside' into a quick follow-up question: 'And what about the teacup?'."]), (3, None, "'Not cracked at all! Who brought it back?' Framing 'who brought it back' inside the 'is... one' wrapper spotlights the unknown person rather than the delivery itself."), (7, None, ["'How curious! The handwriting on that tag looked very familiar.' Literally 'eye-familiar',", (None, '眼熟'), 'describes a face or handwriting you recognize by sight even before placing the name.']), (8, None, "'Really? Do you know someone here in Chengdu?' Location phrases sit before the action in Mandarin, so 'in Chengdu know someone' puts the city ahead of 'know'."), (9, None, ["'Twenty-five years ago I taught piano nearby, though memories fade.' Putting", (None, '前'), "after a span of time means 'ago': 'twenty-five years before' for 'twenty-five years ago'."]), (10, None, ["'For now, his suitcase stays safely locked up.' Adding", (None, '着'), "right after 'lock' keeps the state ongoing—the suitcase stays locked rather than just getting locked once."]), (11, None, ["'Wonderful! Now I would like to eat a big breakfast.' Meals have their own counting word,", (None, '顿'), 'used whenever you talk about one proper breakfast, lunch, or dinner.'])]

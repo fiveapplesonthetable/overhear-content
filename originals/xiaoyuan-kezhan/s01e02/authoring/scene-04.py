@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e02-scene-04.
+ID = 'xiaoyuan-kezhan-s01e02-scene-04'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 2
+SCENE = 4
+TITLE = '院子里的香草  (Herbs from the Courtyard)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'mei': '小美', 'qing': '小晴'}
+INTRO = 'In the kitchen, Mei whisks the eggs while Chen walks in holding fresh green herbs clipped from a courtyard pot as Qing sets the four breakfast tables. Listen first.'
+OPENER = "Now let's go back through the lines together."
+TRANSITION = "Now let's hear the whole conversation again without stopping."
+OUTRO = 'With one minute to spare, the four café tables are set and fragrant with warm bread and courtyard herbs. Next time, the guests come down to eat. See you next time.'
+CLOSING = ('chen', '回头见！')
+STORY = [('chen', '我在院子里老远就听到你们喊黄油了。', 'All the way out in the courtyard I heard you shouting about butter.'), ('mei', '小晴买了海盐黄油，今天我们做嫩炒蛋！', 'Qing bought sea-salt butter, so today we are making soft scrambled eggs!'), ('chen', '好。端上去之前，在上面撒这些新鲜绿香草。', 'Good. Before serving them, sprinkle these fresh green herbs on top.'), ('qing', '老陈，这些香草是你自己种的吗？', 'Chen, did you grow these herbs yourself?'), ('chen', '总得有人照顾院子里的花草嘛。', 'Somebody has to look after the courtyard plants, after all.'), ('mei', '闻闻看！热面包、热炒蛋，还有新鲜香草。', 'Smell that! Warm bread, hot scrambled eggs, and fresh herbs.'), ('qing', '小勺子和餐巾放在哪里？', 'Where do the small spoons and napkins go?'), ('mei', '每个蓝杯子旁边放一张餐巾和一把小勺子。', 'Beside every blue cup, put one napkin and one small spoon.'), ('chen', '我手表七点二十九分。客人下楼了。', 'Seven twenty-nine on my watch. Guests are coming down the stairs.'), ('qing', '四张桌子，八把椅子，全摆好了！', 'Four tables, eight chairs—everything is set in place!'), ('mei', '小晴，把热水倒进茶壶里，他们来了！', 'Qing, pour the hot water into the teapot—here they come!'), ('chen', '第二天上班，干得不错，新手。', 'For day two on the job, nicely done, rookie.')]
+WALK = [(2, None, ["'Good. Before serving them, sprinkle these fresh green herbs on top.' Mandarin puts 'before' after the event clause, so", (None, '之前'), "follows 'serving them' rather than opening the phrase."]), (3, None, ["'Chen, did you grow these herbs yourself?' Adding", (None, '自己'), "right after 'you' emphasizes 'by yourself'—grown with Chen's own hands."]), (4, None, ["'Somebody has to look after the courtyard plants, after all.' Joining 'flowers' and 'grass' forms", (None, '花草'), 'the everyday collective word for garden plants and potted greenery.']), (5, None, ["'Smell that! Warm bread, hot scrambled eggs, and fresh herbs.' Doubling 'smell' plus 'look' in", (None, '闻闻看'), "invites someone to 'take a whiff and see', using 'look' to mean 'try'."]), (7, None, ["'Beside every blue cup, put one napkin and one small spoon.' Notice", (None, '每'), "for 'every': unlike English, it still keeps the counting word right between 'every' and 'blue cup'."]), (9, None, "'Four tables, eight chairs—everything is set in place!' Tables are flat surfaces counted with the flat-sheet word, whereas chairs have backs you grip and take the handle-word."), (10, None, ["'Qing, pour the hot water into the teapot—here they come!' Combining 'pour' with 'enter' gives", (None, '倒进'), 'showing liquid moving straight into the teapot.']), (11, None, ["'For day two on the job, nicely done, rookie.' Chen's gruff compliment calls Qing", (None, '新手'), "literally 'new hand', the natural Chinese term for a newcomer or rookie."])]

@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e02-scene-05.
+ID = 'xiaoyuan-kezhan-s01e02-scene-05'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 2
+SCENE = 5
+TITLE = '领带上的橙汁  (Juice on the Tie)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'qing': '小晴', 'song': '宋老师', 'zhou': '周经理'}
+INTRO = 'Breakfast is underway in the sunlit café corner. Teacher Song sits by the window while Manager Zhou insists on helping Qing pour drinks like a grand hotel host. Listen first.'
+OPENER = "Now let's walk through the scene, one line at a time."
+TRANSITION = "Now let's listen to the whole scene again from start to finish."
+OUTRO = "Teacher Song loved her breakfast, even if Manager Zhou's silk tie drank most of the orange juice. Soon the front-desk phone rings with news about the mystery suitcase. See you next time."
+CLOSING = ('song', '再见！')
+STORY = [('qing', '宋老师早！您想喝咖啡还是红茶？', 'Morning, Teacher Song! Would you like coffee or black tea?'), ('song', '请给我不加糖的红茶，再来一片热面包。', 'Black tea without added sugar, please, and one slice of warm bread.'), ('zhou', '宋老师，让我来给您倒新鲜橙汁！', 'Teacher Song, allow me to pour fresh orange juice for you!'), ('song', '太客气了，周经理。半杯就好。', 'How polite of you, Manager Zhou. Half a glass is fine.'), ('zhou', '我们客栈都是五星级服务……哎呀！', 'At our inn, everything is five-star service... whoops!'), ('qing', '小心，周经理，壶嘴很宽！', 'Careful, Manager Zhou, the pitcher spout is wide!'), ('zhou', '天哪！桌子上一滴没洒……全洒在我领带上了！', 'Good heavens! Not a drop spilled on the table... it all spilled on my tie!'), ('song', '别担心！用冰气泡水一擦，橙汁就掉。', 'Do not worry! Wipe it once with cold sparkling water and orange juice comes right out.'), ('qing', '周经理，给您干净布和冷水。', 'Manager Zhou, here is a clean cloth and cold water for you.'), ('zhou', '失陪一下，宋老师，我先回办公室整理一下！', 'Excuse me a moment, Teacher Song; I shall step back to my office to tidy up!'), ('song', '小晴，炒蛋真好吃，替我夸夸小美！', 'Qing, the scrambled eggs are delicious—praise Mei for me!'), ('qing', '一定转达！请慢用。', 'I certainly will! Please enjoy your meal.')]
+WALK = [(0, None, ["'Morning, Teacher Song! Would you like coffee or black tea?' Notice that Chinese calls black tea", (None, '红茶'), "literally 'red tea', named after the coppery red colour of the brewed liquid."]), (1, None, ["'Black tea without added sugar, please, and one slice of warm bread.' Thin flat slices—bread, lemon, tree leaves—use the counting word", (None, '片'), "giving 'one slice of warm bread'."]), (3, None, "'How polite of you, Manager Zhou. Half a glass is fine.' Short and polite, 'half cup then good' is how guests ask for a modest portion without fuss."), (5, None, ["'Careful, Manager Zhou, the pitcher spout is wide!' Everyday warning word:", (None, '小心'), "literally means 'small heart'—make your attention careful and alert."]), (6, None, ["'Good heavens! Not a drop spilled on the table... it all spilled on my tie!' Look at", (None, '领带'), "built from 'collar' plus 'belt' or 'ribbon', describing a necktie by where it sits."]), (7, None, "'Do not worry! Wipe it once with cold sparkling water and orange juice comes right out.' Joining 'one wipe' with 'then comes off' builds an instant 'as soon as you wipe it, out it comes' pattern."), (9, None, ["'Excuse me a moment, Teacher Song; I shall step back to my office to tidy up!' Graceful formal exit:", (None, '失陪'), "literally says 'lose company', what a polite host says when excusing himself from a table."]), (11, None, ["'I certainly will! Please enjoy your meal.' Servers everywhere say", (None, '慢用'), "literally 'use slowly', Mandarin's warm equivalent of 'enjoy your meal'."])]

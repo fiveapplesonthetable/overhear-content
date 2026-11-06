@@ -1,0 +1,93 @@
+ID = 'pousada-do-cajueiro-s01e03-scene-02'
+SHOW, SEASON, EPISODE, SCENE = 'pousada-do-cajueiro', 1, 3, 2
+TITLE = 'O sótão silencioso  (The Sunny Attic)'
+LEVEL, PAIR = 'A1 — beginner', 'pt-en'
+LABELS = {'camila': 'Camila', 'bianca': 'Bianca', 'jorge': 'Jorge'}
+
+INTRO = ('Up under the timber roof on the third floor, Jorge unlocks the attic door for Camila while Bianca climbs '
+ "up carrying clean towels. Let's listen to the whole scene first.")
+OPENER = "Let's inspect the attic room one line at a time."
+TRANSITION = "Now let's hear the whole attic scene again from beginning to end."
+OUTRO = ('With wooden roof beams and rain drumming overhead, the attic only needs a reading lamp, two pillows, and a '
+ 'rug. See you next time as they race the clock.')
+CLOSING = ('bianca', 'Até mais!')
+
+STORY = [('camila',
+  'Ah, olhem este quarto! Vigas grandes de madeira e janela para o pátio!',
+  'Oh, look at this room! Big wooden beams and a window onto the courtyard!'),
+ ('bianca',
+  'Escute o barulho da chuva no telhado, que lugar aconchegante!',
+  'Listen to the sound of the rain on the roof, what a cosy place!'),
+ ('jorge',
+  'Seco, fresco e silencioso. Agora me digam o que está faltando.',
+  'Dry, breezy, and quiet. Now tell me what is missing.'),
+ ('camila',
+  'Certo: tem cama, mesa e cadeira, mas não tem abajur ao lado da cama.',
+  'Okay: there is a bed, table, and chair, yet there is no bedside lamp.'),
+ ('bianca',
+  'Também não tem espelho na parede, e o chão pede um tapete.',
+  'There is also no mirror on the wall, and the floor calls for a rug.'),
+ ('jorge',
+  'Tem uma luminária de latão lá embaixo na minha oficina.',
+  'There is a brass lamp downstairs in my workshop.'),
+ ('bianca',
+  'E eu tenho dois travesseiros macios e um tapete azul na despensa!',
+  'And I have two soft pillows and a blue rug in the storeroom!'),
+ ('camila',
+  'E o banheiro pequeno aqui ao lado? A luz funciona?',
+  'And the small bathroom next door? Does the light work?'),
+ ('jorge',
+  'Lâmpada nova da semana passada, sabonete limpo e bastante água quente.',
+  'New bulb from last week, clean soap, and plenty of hot water.'),
+ ('bianca',
+  'Em quinze minutos este sótão vai ficar melhor que o quarto sete!',
+  'In fifteen minutes this attic will turn out better than room seven!'),
+ ('camila',
+  'Pegue essas caixas de papelão, Jorge, vamos descer!',
+  "Grab those cardboard boxes, Jorge, let's go downstairs!"),
+ ('jorge',
+  'Cuidado na curva da escada para não bater na parede!',
+  "Careful on the stair turn so you don't bump the wall!")]
+
+WALK = [(1,
+  None,
+  ["'Listen to the sound of the rain on the roof, what a cosy place!' Warm ",
+   (None, 'aconchegante!'),
+   ' captures a snug, welcoming room while rain falls on ',
+   (None, 'no telhado,'),
+   ' the tiled roof.']),
+ (2,
+  None,
+  ["'Dry, breezy, and quiet. Now tell me what is missing.' Useful ",
+   (None, 'o que está faltando.'),
+   " literally asks 'what is lacking'."]),
+ (3,
+  None,
+  ["'Okay: there is a bed, table, and chair, yet there is no bedside lamp.' Borrowed long ago from French, ",
+   (None, 'abajur'),
+   ' is the everyday Brazilian word for a shaded bedside lamp.']),
+ (4,
+  None,
+  ["'There is also no mirror on the wall, and the floor calls for a rug.' Lively phrasing ",
+   (None, 'o chão pede'),
+   " literally says 'the floor asks for' a rug."]),
+ (5,
+  None,
+  ["'There is a brass lamp downstairs in my workshop.' A single ",
+   (None, 'embaixo'),
+   " after 'there' points 'downstairs', opposite 'upstairs'."]),
+ (7,
+  None,
+  ["'And the small bathroom next door? Does the light work?' For machines, lights, and locks, ",
+   (None, 'funciona?'),
+   " asks 'does it work?'."]),
+ (8,
+  None,
+  ["'New bulb from last week, clean soap, and plenty of hot water.' Handy quantity word ",
+   (None, 'bastante'),
+   " means 'plenty of' or 'quite a lot of' without changing for masculine or feminine."]),
+ (10,
+  None,
+  ["'Grab those cardboard boxes, Jorge, let's go downstairs!' From 'paper', adding a big-size ending builds ",
+   (None, 'papelão,'),
+   " literally 'big thick paper'—cardboard!"])]

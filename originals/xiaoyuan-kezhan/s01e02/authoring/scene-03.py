@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e02-scene-03.
+ID = 'xiaoyuan-kezhan-s01e02-scene-03'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 2
+SCENE = 3
+TITLE = '数清楚零钱  (Counting the Change)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'mei': '小美', 'qing': '小晴', 'zhou': '周经理'}
+INTRO = 'Nine minutes later, Qing bursts back through the courtyard gate carrying two full cloth bags of groceries for Mei and Manager Zhou. Listen to the scene in Mandarin first.'
+OPENER = "Now let's take it slowly, one line at a time."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = 'An accidental packet of salted butter nearly caused a jam disaster, until Mei turned it into the secret ingredient for scrambled eggs. See you next time.'
+CLOSING = ('mei', '下次见！')
+STORY = [('qing', '九分钟！牛奶、鸡蛋和苹果都买来了！', 'Nine minutes! The milk, eggs, and apples are all here!'), ('mei', '小晴你真是救星！先给我牛奶冲咖啡。', 'Qing, you are a lifesaver! Hand me the milk first to make coffee.'), ('zhou', '速度真快！店主给你收据了吗？', 'Impressive speed! Did the shopkeeper give you a receipt?'), ('qing', '在这儿！一共三十八块，找回十二块零钱。', 'Right here! Thirty-eight yuan in total, with twelve yuan back in change.'), ('zhou', '十、十一、十二。一分不差，谢谢！', 'Ten, eleven, twelve. Exact to the last cent—thank you!'), ('mei', '等一下，小晴……你拿了哪一包黄油？', 'Wait a second, Qing... which packet of butter did you grab?'), ('qing', '最上面架子上金色包装那包。怎么了？', 'The gold-wrapped packet on the top shelf. Why?'), ('mei', '那是海盐咸黄油！甜果酱面包卷要无盐黄油！', 'That is sea-salt butter! Sweet jam rolls need unsalted butter!'), ('qing', '哎呀！我跑得太急，包装看着都一样！', 'Oh no! I was running in such a rush that the wrappers all looked alike!'), ('zhou', '咸黄油能配甜草莓果酱吗？', 'Can salted butter go with sweet strawberry jam?'), ('mei', '等等，咸黄油配果酱不行，做炒蛋却棒极了！', 'Wait—salted butter fails with jam, yet for scrambled eggs it is amazing!'), ('qing', '呼，好在反应快，早餐又有救了！', 'Phew, quick thinking saves breakfast once again!')]
+WALK = [(1, None, ["'Qing, you are a lifesaver! Hand me the milk first to make coffee.' Mei praises Qing as a", (None, '救星'), "literally 'rescue star', a warm colloquial way to call someone a lifesaver."]), (3, None, ["'Right here! Thirty-eight yuan in total, with twelve yuan back in change.' At any shop counter,", (None, '一共'), "sums up the bill as 'altogether', while 'fragment-money' at the end means small change."]), (4, None, ["'Ten, eleven, twelve. Exact to the last cent—thank you!' Set phrase", (None, '一分不差'), "literally says 'not off by a single cent', praising exact counting."]), (5, None, ["'Wait a second, Qing... which packet of butter did you grab?' Swapping the tone and character turns 'that' into", (None, '哪'), "the question word 'which' before a counting word."]), (7, None, ["'That is sea-salt butter! Sweet jam rolls need unsalted butter!' Look at the flavour pair:", (None, '咸'), "is salty or savoury, contrasted directly with 'sweet' before the jam rolls."]), (8, None, "'Oh no! I was running in such a rush that the wrappers all looked alike!' Connecting an action to its degree uses a small linking particle after 'run': 'ran to-the-point-of too hurried'."), (10, None, ["'Wait—salted butter fails with jam, yet for scrambled eggs it is amazing!' Adding", (None, '极了'), "after an adjective boosts it to the extreme—turning 'great' into 'absolutely amazing!'."]), (11, None, ["'Phew, quick thinking saves breakfast once again!' Built from 'have' plus 'rescue',", (None, '有救'), "means 'there is hope' or 'it can be saved'."])]

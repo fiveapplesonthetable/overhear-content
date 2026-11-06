@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e01-scene-07.
+ID = 'xiaoyuan-kezhan-s01e01-scene-07'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 1
+SCENE = 7
+TITLE = '薄荷茶和暖毛衣  (Tea and a Warm Cardigan)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'mei': '小美', 'song': '宋老师'}
+INTRO = 'In the warm café corner, Mei brings over a pot of herbal tea and a neatly folded cream cardigan for Teacher Song, while Chen locks the mystery suitcase safely away. Listen first.'
+OPENER = "Now let's walk through each line slowly."
+TRANSITION = "Now let's hear the whole conversation again from start to finish."
+OUTRO = 'Hot mint tea and a borrowed cardigan turned an upsetting afternoon into a gentle evening. One final scene remains in Episode 1, and a surprise is waiting outside the gate. See you next time.'
+CLOSING = ('mei', '明天见！')
+STORY = [('mei', '宋老师，给您热薄荷茶和蜂蜜。', 'Teacher Song, here is hot mint tea and honey for you.'), ('song', '谢谢你，小美。刚才吓了一跳，手都凉了！', 'Thank you, Mei. That gave me such a start just now that my hands went cold!'), ('mei', '您看，这件软羊毛开衫是全新的，试试吧。', 'Look, this soft wool cardigan is brand-new; try it on.'), ('song', '真的可以吗？看着又好看又暖和！', 'Is that really alright? It looks both lovely and warm!'), ('chen', '宋老师，您穿着很合适。', 'Teacher Song, it fits you very well.'), ('song', '你们这些好人真是救了我这趟旅行。', 'You kind people have truly saved this whole trip of mine.'), ('mei', '来成都的第一个晚上，怎么能难过呢！', 'On your very first evening in Chengdu, how could you sit around sad!'), ('chen', '我把那个蓝色行李箱锁在储藏室里了。', 'I locked that blue suitcase safely inside the storeroom.'), ('song', '谢谢老陈。里面的木头小火车看着很珍贵。', 'Thank you, Chen. The little wooden train inside looked very precious.'), ('mei', '箱子的主人肯定很快会来找的。', "The suitcase's owner will surely come looking for it soon."), ('song', '今晚我应该能睡个好觉了。', 'Tonight I should be able to sleep well after all.'), ('chen', '您好好休息，有事随时按铃。', "Rest well, ma'am; ring the bell anytime if you need anything.")]
+WALK = [(0, None, ["'Teacher Song, here is hot mint tea and honey for you.' Look at", (None, '蜂蜜'), "built from 'bee' plus 'nectar-sweet', painting the picture of honey straight from the hive."]), (1, None, ["'Thank you, Mei. That gave me such a start just now that my hands went cold!' Notice the lively expression", (None, '吓了一跳'), "literally 'startled one jump', how Mandarin describes getting a sudden fright."]), (2, None, ["'Look, this soft wool cardigan is brand-new; try it on.' Repeating the action word in", (None, '试试'), "makes 'try it on' sound gentle and low-pressure, never pushy."]), (3, None, "'Is that really alright? It looks both lovely and warm!' Pairing 'both... and...' is effortless in Chinese: repeat the same small linking word before 'pretty' and before 'warm'."), (4, None, ["'Teacher Song, it fits you very well.' Whether clothes fit your size or a time suits your schedule, Mandarin uses", (None, '合适'), "built from 'match' and 'suit'."]), (7, None, "'I locked that blue suitcase safely inside the storeroom.' Chen uses the 'take-hold' sentence pattern to move the blue suitcase before the action 'lock', spotlighting where the bag ended up."), (9, None, ["'The suitcase's owner will surely come looking for it soon.' Mei sounds confident thanks to", (None, '肯定'), "a crisp everyday word for 'definitely' or 'for sure'."]), (11, None, ["'Rest well, ma'am; ring the bell anytime if you need anything.' Keep", (None, '随时'), "in your pocket: literally 'follow-time', it means 'at any time' whenever you offer help."])]

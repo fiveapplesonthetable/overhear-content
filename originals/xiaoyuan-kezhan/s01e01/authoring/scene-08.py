@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s01e01-scene-08.
+ID = 'xiaoyuan-kezhan-s01e01-scene-08'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 1
+EPISODE = 1
+SCENE = 8
+TITLE = '台阶上的箱子  (Left on the Step)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'qing': '小晴'}
+INTRO = 'It is almost nine in the evening, and the courtyard lanterns glow softly as Qing wraps up her first shift with Chen. Suddenly, the front gate bell rings once in the quiet night. Listen first.'
+OPENER = "Now let's go back through the scene, one line at a time."
+TRANSITION = "Now let's listen to the whole scene again from start to finish."
+OUTRO = "Teacher Song's suitcase is back, yet the mystery stranger vanished into the night and asked them to guard his bag until Friday. Episode 1 is complete; see you next time for Episode 2."
+CLOSING = ('chen', '明天见！')
+STORY = [('qing', '老陈，你听到了吗？有人按了大门门铃！', 'Chen, did you hear that? Someone rang the front gate bell!'), ('chen', '晚上九点？你站这儿，我们一起去开门。', 'Nine in the evening? Stay right here; let us go open the gate together.'), ('qing', '您好？晚上好！院子外头没人啊！', 'Hello? Good evening! Nobody is outside the courtyard!'), ('chen', '等等，低头看石头台阶上。', 'Wait—look down on the stone step.'), ('qing', '又是深蓝色行李箱！这是宋老师的吗？', "Another dark-blue suitcase! Is this Teacher Song's?"), ('chen', '看拉链旁边……对，有她的名字缩写！', 'Check beside the zipper... yes, her name initials are here!'), ('qing', '那个人为什么不拿回自己的箱子就跑了？', 'Why did that person run off without taking his own suitcase back?'), ('chen', '看，把手上贴着一个白信封。', 'Look, there is a white envelope taped onto the handle.'), ('qing', '我念念：对不起拿错了，请帮我保管到星期五。', 'Let me read it: Sorry for taking the wrong one; please keep mine until Friday.'), ('chen', '到星期五？没写名字，也没签名！', 'Until Friday? No name written, and no signature either!'), ('qing', '为什么把鞋和木头小火车留到星期五呢？', 'Why leave the shoes and little wooden train here until Friday?'), ('chen', '欢迎来到小院客栈，小晴。明天不会无聊了。', 'Welcome to Courtyard Inn, Qing. Tomorrow will not be boring.')]
+WALK = [(0, None, ["'Chen, did you hear that? Someone rang the front gate bell!' Putting 'arrive' onto 'listen' forms", (None, '听到'), "turning 'listen' into actually 'hear'—the sound reached your ears."]), (1, None, ["'Nine in the evening? Stay right here; let us go open the gate together.' Mandarin always puts the part of day before the clock hour, so", (None, '晚上九点'), "runs from big unit 'evening' down to 'nine o'clock'."]), (3, None, ["'Wait—look down on the stone step.' Literal and visual,", (None, '低头'), "joins 'lower' with 'head' to say 'look down'."]), (4, None, ["'Another dark-blue suitcase! Is this Teacher Song's?' Notice how", (None, '宋老师的'), "drops the word 'suitcase' completely—tacking the possession marker onto a name works just like 'Teacher Song's'."]), (6, None, ["'Why did that person run off without taking his own suitcase back?' Question word", (None, '为什么'), "literally asks 'for what', sitting smoothly after the subject 'that person'."]), (8, None, ["'Let me read it: Sorry for taking the wrong one; please keep mine until Friday.' Look at the calendar pattern in", (None, '星期五'), "where 'week' plus 'five' gives Friday—no separate day names to memorize from Monday to Saturday."]), (9, None, ["'Until Friday? No name written, and no signature either!' Built from 'sign' and 'name',", (None, '签名'), 'works both for signing your name and for the signature itself.']), (11, None, ["'Welcome to Courtyard Inn, Qing. Tomorrow will not be boring.' Chen closes with", (None, '无聊'), "everyday Mandarin for 'boring' when a day has nothing interesting to talk about."])]

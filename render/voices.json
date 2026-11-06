@@ -489,14 +489,20 @@
       "file": "refs/ar-f1.flac",
       "lang": "ar",
       "gender": "f",
-      "text": "Hello, this is a warm, natural, and grounded studio recording to establish the tone, pitch, and resonance of my voice.",
-      "desc": "VoiceDesign: A deep, warm, natural Arabic woman, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 8.23,
+      "designedFor": "nour",
+      "text": "صباح الخير، أهلا وسهلا فيكم في بيت الياسمين، الشاي السخن والفطور جاهزين على الطاولة.",
+      "desc": "VoiceDesign+Chatterbox: A calm, warm Jordanian Arabic woman in her late twenties, natural mid-low studio voice, clear everyday articulation (neutral reader).",
+      "seconds": 6.62,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 0,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 505,
+          "note": "synthetic, no show audio"
+        },
+        {
+          "model": "ResembleAI/chatterbox",
+          "seed": 505,
+          "note": "synthetic Arabic reference"
         }
       ]
     },
@@ -504,14 +510,20 @@
       "file": "refs/ar-f2.flac",
       "lang": "ar",
       "gender": "f",
-      "text": "Good morning. I am speaking clearly and calmly into the microphone to provide a steady, resonant audio reference.",
-      "desc": "VoiceDesign: A deep, warm, natural Arabic woman, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 7.59,
+      "designedFor": "salma",
+      "text": "مرحبا، تفضلي ادخلي، هي مفتاح الغرفة بالعلية والشباك بطل على الحديقة الهادية.",
+      "desc": "VoiceDesign+Chatterbox: A friendly, grounded young Jordanian Arabic woman in her mid-twenties, warm clear alto timbre.",
+      "seconds": 6.55,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 8,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 503,
+          "note": "synthetic, no show audio"
+        },
+        {
+          "model": "ResembleAI/chatterbox",
+          "seed": 503,
+          "note": "synthetic Arabic reference"
         }
       ]
     },
@@ -519,14 +531,20 @@
       "file": "refs/ar-f3.flac",
       "lang": "ar",
       "gender": "f",
-      "text": "Welcome to the studio. Today we are testing a deep, relaxed voice to ensure the audio sounds completely natural.",
-      "desc": "VoiceDesign: A deep, warm, natural Arabic woman, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 8.54,
+      "designedFor": "suad",
+      "text": "مساء الخير يا حبيبتي، تفضلي اقعدي معنا شوي بالحوش واشربي كاسة شاي بالنعنع.",
+      "desc": "VoiceDesign+Chatterbox: A composed, gentle Jordanian Arabic woman in her early sixties, rich contralto timbre, calm pace.",
+      "seconds": 6.94,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 3,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 501,
+          "note": "synthetic, no show audio"
+        },
+        {
+          "model": "ResembleAI/chatterbox",
+          "seed": 501,
+          "note": "synthetic Arabic reference"
         }
       ]
     },
@@ -534,14 +552,20 @@
       "file": "refs/ar-m1.flac",
       "lang": "ar",
       "gender": "m",
-      "text": "Hello, this is a warm, natural, and grounded studio recording to establish the tone, pitch, and resonance of my voice.",
-      "desc": "VoiceDesign: A deep, warm, natural Arabic man, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 8.3,
+      "designedFor": "tariq",
+      "text": "صباح النور، أنا صلحت باب الحوش اليوم الصبح، وكل إشي بالبيت صار تمام ومرتب.",
+      "desc": "VoiceDesign+Chatterbox: A grounded, warm Jordanian Arabic man in his mid-fifties, natural baritone voice, calm steady delivery.",
+      "seconds": 6.25,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 0,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 502,
+          "note": "synthetic, no show audio"
+        },
+        {
+          "model": "ResembleAI/chatterbox",
+          "seed": 502,
+          "note": "synthetic Arabic reference"
         }
       ]
     },
@@ -549,14 +573,20 @@
       "file": "refs/ar-m2.flac",
       "lang": "ar",
       "gender": "m",
-      "text": "Good morning. I am speaking clearly and calmly into the microphone to provide a steady, resonant audio reference.",
-      "desc": "VoiceDesign: A deep, warm, natural Arabic man, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 7.85,
+      "designedFor": "mazen",
+      "text": "لو سمحت، الباص اللي رايح على وسط البلد بمر من قدام شارع الياسمين الساعة ثمانية؟",
+      "desc": "VoiceDesign+Chatterbox: A clear, polite Jordanian Arabic man in his early thirties, smooth mid-baritone voice, natural pace.",
+      "seconds": 6.49,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 9,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 504,
+          "note": "synthetic, no show audio"
+        },
+        {
+          "model": "ResembleAI/chatterbox",
+          "seed": 504,
+          "note": "synthetic Arabic reference"
         }
       ]
     },
@@ -564,14 +594,20 @@
       "file": "refs/ar-m3.flac",
       "lang": "ar",
       "gender": "m",
-      "text": "Welcome to the studio. Today we are testing a deep, relaxed voice to ensure the audio sounds completely natural.",
-      "desc": "VoiceDesign: A deep, warm, natural Arabic man, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 8.3,
+      "designedFor": "rami",
+      "text": "شكرا كثير إلك، أنا كتبت كل الملاحظات بالدفتر عشان نراجعها بهدوء يوم الجمعة.",
+      "desc": "VoiceDesign+Chatterbox: A calm, friendly Jordanian Arabic man in his late twenties, warm light-baritone voice, crisp diction.",
+      "seconds": 6.14,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 2,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 502,
+          "note": "synthetic, no show audio"
+        },
+        {
+          "model": "ResembleAI/chatterbox",
+          "seed": 502,
+          "note": "synthetic Arabic reference"
         }
       ]
     },
@@ -1031,14 +1067,15 @@
       "file": "refs/pt-f1.flac",
       "lang": "pt",
       "gender": "f",
-      "text": "Bom dia! Hoje o tempo está muito agradável aqui no Rio, então vou caminhar um pouco antes de começar a trabalhar no escritório.",
-      "desc": "VoiceDesign: A deep, warm, natural Brazilian Portuguese woman, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 7.68,
+      "designedFor": "camila",
+      "text": "Bom dia, gente. Hoje a tarde está bem tranquila aqui na pousada, então vou preparar um café fresco com leite.",
+      "desc": "VoiceDesign: A calm, warm Brazilian Portuguese woman in her late twenties, natural mid-low pitch, relaxed studio articulation (neutral reader).",
+      "seconds": 6.83,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 0,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 41,
+          "note": "synthetic, no show audio"
         }
       ]
     },
@@ -1046,14 +1083,15 @@
       "file": "refs/pt-f2.flac",
       "lang": "pt",
       "gender": "f",
-      "text": "Oi, amiga, tudo bem com você? Faz tanto tempo que a gente não conversa com calma, vamos marcar um almoço amanhã!",
-      "desc": "VoiceDesign: A deep, warm, natural Brazilian Portuguese woman, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 7.28,
+      "designedFor": "bianca",
+      "text": "Bom dia, pode entrar com calma. A chave do quarto já está pronta aqui em cima da mesa da recepção.",
+      "desc": "VoiceDesign: A friendly, grounded young Brazilian Portuguese woman in her mid-twenties, warm alto timbre, natural everyday delivery.",
+      "seconds": 6.68,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 11,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 17,
+          "note": "synthetic, no show audio"
         }
       ]
     },
@@ -1061,14 +1099,15 @@
       "file": "refs/pt-f3.flac",
       "lang": "pt",
       "gender": "f",
-      "text": "Olha, eu já expliquei três vezes como esse documento funciona, agora precisamos resolver essa questão ainda hoje sem falta.",
-      "desc": "VoiceDesign: A deep, warm, natural Brazilian Portuguese woman, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 8.21,
+      "designedFor": "helena",
+      "text": "Boa tarde, querido. Sente aqui na sombra com a gente um pouquinho antes de voltar para casa hoje.",
+      "desc": "VoiceDesign: A warm, composed Brazilian Portuguese woman in her early sixties, rich contralto timbre, gentle steady pace.",
+      "seconds": 6.42,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 0,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 71,
+          "note": "synthetic, no show audio"
         }
       ]
     },
@@ -1076,14 +1115,15 @@
       "file": "refs/pt-m1.flac",
       "lang": "pt",
       "gender": "m",
-      "text": "Com licença, você sabe me dizer se esse ônibus passa perto da estação central ou se é melhor pegar o metrô agora?",
-      "desc": "VoiceDesign: A deep, warm, natural Brazilian Portuguese man, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 7.99,
+      "designedFor": "jorge",
+      "text": "Bom dia. Eu já consertei a fechadura da porta hoje cedo, e agora está tudo funcionando muito bem.",
+      "desc": "VoiceDesign: A grounded, warm Brazilian Portuguese man in his mid-fifties, natural baritone voice, steady everyday delivery.",
+      "seconds": 6.51,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 7,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 61,
+          "note": "synthetic, no show audio"
         }
       ]
     },
@@ -1091,14 +1131,15 @@
       "file": "refs/pt-m2.flac",
       "lang": "pt",
       "gender": "m",
-      "text": "Cara, não acredito que você esqueceu a chave de novo! Espera cinco minutinhos aí na porta que eu já estou descendo.",
-      "desc": "VoiceDesign: A deep, warm, natural Brazilian Portuguese man, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 7.19,
+      "designedFor": "otavio",
+      "text": "Com licença, você sabe me dizer a que horas sai o próximo ônibus para o centro da cidade hoje à tarde?",
+      "desc": "VoiceDesign: A clear, friendly Brazilian Portuguese man in his early thirties, smooth mid-baritone voice, natural conversational pace.",
+      "seconds": 6.33,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 9,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 109,
+          "note": "synthetic, no show audio"
         }
       ]
     },
@@ -1106,14 +1147,15 @@
       "file": "refs/pt-m3.flac",
       "lang": "pt",
       "gender": "m",
-      "text": "A reunião de hoje foi excelente, conseguimos organizar todos os projetos da equipe para o próximo mês com muita tranquilidade.",
-      "desc": "VoiceDesign: A deep, warm, natural Brazilian Portuguese man, relaxed studio microphone presence, rich chest resonance, zero shrillness, grounded mid-to-low pitch.",
-      "seconds": 7.99,
+      "designedFor": "rafael",
+      "text": "Muito obrigado pela ajuda. Eu trouxe o meu caderno para anotar tudo com calma antes de sexta-feira.",
+      "desc": "VoiceDesign: A calm, polite Brazilian Portuguese man in his late twenties, warm light-baritone voice, clear articulation.",
+      "seconds": 7.28,
       "source": [
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 0,
-          "note": "synthetic, VoiceDesign regen"
+          "seed": 109,
+          "note": "synthetic, no show audio"
         }
       ]
     },
@@ -1203,6 +1245,38 @@
         {
           "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
           "seed": 23,
+          "note": "synthetic, no show audio"
+        }
+      ]
+    },
+    "fr-f3": {
+      "file": "refs/fr-f3.flac",
+      "lang": "fr",
+      "gender": "f",
+      "designedFor": "odette",
+      "text": "Bonjour madame, installez-vous tranquillement dans la cour pendant que je prépare une bonne infusion chaude à la menthe.",
+      "desc": "VoiceDesign: A warm, composed French woman in her early sixties, rich contralto timbre, calm and gentle delivery, clear standard French diction.",
+      "seconds": 6.13,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 210,
+          "note": "synthetic, no show audio"
+        }
+      ]
+    },
+    "fr-m3": {
+      "file": "refs/fr-m3.flac",
+      "lang": "fr",
+      "gender": "m",
+      "designedFor": "etienne",
+      "text": "Bonjour monsieur, vérifions ensemble les horaires du train et la réservation de la chambre avant de partir tranquillement.",
+      "desc": "VoiceDesign: A polite, grounded French man in his late fifties, warm resonant baritone voice, measured pace and crisp articulation.",
+      "seconds": 6.69,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 206,
           "note": "synthetic, no show audio"
         }
       ]

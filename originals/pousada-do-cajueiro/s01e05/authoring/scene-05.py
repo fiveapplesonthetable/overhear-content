@@ -1,0 +1,93 @@
+ID = 'pousada-do-cajueiro-s01e05-scene-05'
+SHOW, SEASON, EPISODE, SCENE = 'pousada-do-cajueiro', 1, 5, 5
+TITLE = 'Palavras simples primeiro  (Simple Words First)'
+LEVEL, PAIR = 'A1 — beginner', 'pt-en'
+LABELS = {'camila': 'Camila', 'rafael': 'Rafael'}
+
+INTRO = ('Twenty minutes before noon, Rafael paces across the courtyard stones holding a crumpled sheet of paper '
+ 'while Camila walks over with a glass of cool water. Listen first.')
+OPENER = "Let's replay Camila's three simple sentences one line at a time."
+TRANSITION = "Now let's listen to the whole coaching scene again from start to finish."
+OUTRO = ("No nineteen-point speech—only 'thank you for coming', 'I missed you', and 'sit down for hot tea and lemon "
+ "cake'. Ten minutes left until noon! See you next time.")
+CLOSING = ('rafael', 'Até mais!')
+
+STORY = [('camila',
+  'Tome um gole de água fresca, Rafael. O que está escrito nesse papel?',
+  'Drink a sip of cool water, Rafael. What is written on that paper?'),
+ ('rafael',
+  'Um discurso de cinco minutos explicando dezenove motivos do nosso erro em abril.',
+  'A five-minute speech explaining nineteen reasons for our mistake in April.'),
+ ('camila',
+  'Dezenove motivos?! Você vai receber seu irmão ou ler uma tabela da rodoviária?',
+  'Nineteen reasons?! Are you going to welcome your brother or read a bus-station timetable?'),
+ ('rafael',
+  'Quando eu fico nervoso, minhas frases ficam enormes e formais!',
+  'When I get nervous, my sentences become huge and formal!'),
+ ('camila',
+  'Dobre esse papel e guarde no bolso agora mesmo.',
+  'Fold that paper and put it away in your pocket right now.'),
+ ('rafael',
+  'Sem as minhas anotações, o que eu digo quando ele passar pelo portão?',
+  'Without my notes, what do I say when he walks through the gate?'),
+ ('camila',
+  "Comece com três frases curtas. Primeira: 'Oi, Tiago, obrigado por vir.'",
+  "Start with three short sentences. First: 'Hi, Tiago, thank you for coming.'"),
+ ('rafael',
+  "'Oi, Tiago, obrigado por vir.' Certo, isso eu consigo lembrar.",
+  'Hi, Tiago, thank you for coming. Right, that I can remember.'),
+ ('camila',
+  "Segunda frase: 'Senti sua falta nesses três anos.'",
+  "Second sentence: 'I missed you these three years.'"),
+ ('rafael',
+  "'Senti sua falta nesses três anos.' Sincero e claro. E a terceira?",
+  'I missed you these three years. Honest and clear. And the third?'),
+ ('camila',
+  "'Sente aqui, tem chá quente e bolo de limão de sexta-feira.'",
+  "'Sit here, there is hot tea and Friday lemon cake.'"),
+ ('rafael',
+  'Chá e bolo de limão! Camila, você devia abrir uma escola para irmãos nervosos.',
+  'Tea and lemon cake! Camila, you ought to open a school for nervous brothers.')]
+
+WALK = [(0,
+  None,
+  ["'Drink a sip of cool water, Rafael. What is written on that paper?' Small mouthful ",
+   (None, 'um gole'),
+   " means 'a sip' or 'a gulp' of any drink."]),
+ (3,
+  None,
+  ["'When I get nervous, my sentences become huge and formal!' Notice ",
+   (None, 'fico'),
+   ' and ',
+   (None, 'ficam'),
+   " in the same breath, both meaning 'get' or 'become'."]),
+ (4,
+  None,
+  ["'Fold that paper and put it away in your pocket right now.' Versatile ",
+   (None, 'guarde no bolso'),
+   " uses 'keep' or 'store' for tucking something away into a pocket."]),
+ (6,
+  None,
+  ["'Start with three short sentences. First: Hi, Tiago, thank you for coming.' Welcoming someone uses ",
+   (None, "obrigado por vir.'"),
+   " literally 'thank you for to-come'."]),
+ (8,
+  None,
+  ["'Second sentence: I missed you these three years.' Heartfelt ",
+   (None, 'Senti sua falta'),
+   " literally says 'I felt your lack'—the classic Brazilian way to say 'I missed you'."]),
+ (10,
+  None,
+  ["'Sit here, there is hot tea and Friday lemon cake.' Once more ",
+   (None, 'tem chá quente'),
+   " effortlessly means 'there is hot tea' waiting on the table."]),
+ (11,
+  None,
+  ["'Tea and lemon cake! Camila, you ought to open a school for nervous brothers.' Friendly advice ",
+   (None, 'você devia'),
+   " means 'you should' or 'you ought to'."]),
+ (2,
+  None,
+  ["'Nineteen reasons?! Are you going to welcome your brother or read a bus-station timetable?' Here ",
+   (None, 'receber'),
+   " means 'welcome' or 'host' a guest or family member."])]
