@@ -40,7 +40,7 @@ an unclear cue is never used as it stands: take a line you are sure of or leave 
 |---|---|---|---|---|
 | `paquita-salas` | es | s01/e01-e05 .es.srt + .en.srt | e01 505 / 452 | **full season 1** (5 episodes), Spanish and English subtitles. `(GRITANDO)`-style cues are stage notes, not dialogue |
 | `die-discounter` | de | s01/e01.de.srt (+ .de-orig.auto.vtt) | 785 | full episode, machine transcript |
-| `porta-dos-fundos` | pt | s01/e01.pt.srt (+ .pt-orig.auto.vtt) | 263 | one sketch, machine transcript |
+| `porta-dos-fundos` | pt | s01/e01-e09 .pt.srt (+ .pt-orig.auto.vtt) | e01 263, e02 45, e03 44, e04 37, e05 56, e06 27, e07 34, e08 42, e09 36 | 9 official *Porta dos Fundos* sketches (*Vem pra reunião*, *Ajudinha*, *Sobrou*, *Por um fio*, *Date 6x1*, *Debate de aura*, *Morte linda*, *Apuração*, *Mais votada*), Portuguese captions |
 | `the-producers` | ko | s01/e01.ko.srt | 1107 | full episode (71 min), Whisper large-v3; KBS uploaded it in three parts, joined here with their offsets. A few cues span a music gap, so their end time runs long |
 | `the-producers` | ko | s01/e02.ko.srt | 1165 | full episode, Whisper large-v3, KBS's three parts joined (same caveats as E1) |
 | `the-producers` | ko | s01/e03.ko.srt | 1196 | full episode, Whisper large-v3, KBS's three parts joined (same caveats as E1) |
