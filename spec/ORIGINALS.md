@@ -1,0 +1,107 @@
+# Original series: what the public app plays
+
+From now on, **the public Overhear app plays only original stories** that we write ourselves. They have their own settings,
+characters, names and plots. Everything in `out/` is adapted from real TV shows (Kukhnya, Dix pour cent, Paquita
+Salas and the rest). That content stays and keeps shipping as it does now, but it goes to a private tier that only the owner's
+account can open, for testing. The public no longer sees it.
+
+This file says what to write. The scene recipe, the formats, the checkers and the render pipeline are unchanged:
+`spec/recipe.md`, `spec/quality.md`, `spec/OUTPUT-CONTRACT.md` and the README loop all still apply, except where this file
+says otherwise.
+
+## 1. Where original content lives, and how it ships
+
+Original shows live in their own folder and ship through their own release tags. The publishing machine runs a separate
+upload pipeline for them, and that pipeline feeds the public app. Nothing about a show decides its tier except where it
+lives:
+
+| | adapted shows (private tier) | original shows (public app) |
+|---|---|---|
+| content | `out/<show>/` | `originals/<show>/` (the same per-show layout as `out/`) |
+| sources | `sources/<show>/` | none |
+| GitHub release tag | `render-<show>-sNNeNN` | `original-<show>-sNNeNN` |
+
+What you need to change in this repo:
+
+* **The tools take the content root.** `tools/validate.py`, `tools/compose.py`, `render/pipeline.py`,
+  `tools/check_render.py` and `tools/package_render.py` must work on `originals/` exactly as they do on `out/`. Add a
+  `--root originals` option, or let them infer it from the path, whichever is simpler.
+* **Packaging** an episode from `originals/` releases it as `original-<episode>`, never `render-<episode>`. Episode ids
+  never collide between the two folders: an original show's slug must not equal any slug in `out/`.
+* **Validation for an original show** skips the cue checks, because there are no sources: `source.lines`, cue ranges,
+  `tools/gaps.py`. Its scripts carry no `source` block, and the validator rejects one if present. For `out/` the checks
+  stay exactly as they are. Add tests for both cases.
+* **Progress** for originals goes in `originals/PROGRESS.md`.
+
+You create everything for these shows yourself: the story, the scripts, the notes, the art, the voices (`spec/voices.md`)
+and the full rendered audio. The owner only describes what is wanted. Nobody writes the stories for you.
+
+## 2. Originality: the one rule that matters most
+
+We are writing these because adapted content is a copyright risk. An original show that echoes a real one brings the risk
+straight back.
+
+* **Premise, setting, characters and plots are new.** Don't retell, rename or "inspire" from any existing film, series, book,
+  game or sketch, including the shows in `out/`. No famous premise with the names changed.
+* **Names are new.** Use ordinary names that are common in the country, invented business and place names (real cities
+  and districts are fine), and no names of real people, brands or existing fictional characters.
+* **Lines are new.** Write every line yourself. No catchphrases, song lyrics, film quotes or lines lifted from `sources/`.
+  Common everyday phrases ("Thank you very much", "See you tomorrow") are of course fine.
+* **Art is new.** Draw the characters as `characters.md` describes them, per `art/style/STYLE.md`. They must not look like any
+  real actor or person, and no logo or brand may appear.
+* **Originality review.** Gemini reviews every show bible (section 4) and every episode with these questions. Does this
+  premise, cast or episode resemble an existing work? Name it if so. Is any line a known quote? Fix whatever it finds before
+  you commit. Record the check in `originals/PROGRESS.md`.
+
+## 3. The shows
+
+There is one original series per language pair, at A1, with the same scene recipe as today: intro, story, walk-through,
+replay and outro, with the English narrator. Each show is a warm, low-stakes comedy-drama about everyday life. Everyday
+settings give A1 learners the words they need: greetings, shopping, food, work, directions, family, time and money. Every
+episode should leave a small question that makes the listener want the next one.
+
+The premises below are suggestions only. You write the stories: keep a premise, rework it, or replace it with a better
+idea of your own, as long as it stays original and everyday. Choose your own title, slug and character names, in the
+target language.
+
+| pair | premise |
+|---|---|
+| ru-en | A small moving company in St Petersburg. A new hire on her first week, a grumpy veteran mover, and the owner who answers the phone. Each episode is a new flat and a new client. |
+| fr-en | Two adult siblings inherit their aunt's bakery in a Lyon neighbourhood, and neither of them can bake. Regulars, a rival café across the street and a patient old baker. |
+| es-en | A family-run hostel in Valencia. The daughter is back from abroad, her father resists every change, and guests arrive from everywhere. |
+| pt-en | A tiny community radio station in Recife (Brazilian Portuguese). The morning host, the technician who fixes everything and listeners who call in. |
+| it-en | A driving school in Bologna. The instructor, the office manager and a new student each episode. |
+| de-en | A flat-share in Leipzig: a student, a night-shift nurse and a retired neighbour who keeps dropping by. |
+| ar-en | A family pharmacy in Amman (Jordanian Arabic, which the existing Arabic voice profile already fits). The pharmacist, her younger cousin and the neighbourhood. |
+| ja-en | A neighbourhood convenience store in Osaka on the night shift. The student clerk, the manager and the regulars. Standard, polite Japanese. |
+| ko-en | A small bakery-café in Seoul run by a former office worker who just quit her job. Her part-timer and the regulars. |
+| zh-en | A dumpling shop in Chengdu run by three generations of one family. Standard Mandarin. |
+
+**Size:** season 1 per show has 6 episodes of 8-12 scenes each, with each scene the usual length (`spec/recipe.md`).
+
+**Order:** these shows now take priority over all work on the adapted shows. Do every show's E1 first, so each language
+has something public quickly, in this order: ru, fr, es, it, pt, de, ar, ja, ko, zh. Then do E2-E6 in the same order.
+After that, go back to fixing the adapted shows (that content is private now, so it is lower priority).
+
+## 4. Writing a show
+
+1. **Bible**: `originals/<show>/bible.md`, written before any scene. It holds the premise, setting, tone, the season's arc in 6
+   lines (one per episode), and the recurring places and running jokes. The originality review (section 2) runs on it
+   first.
+2. **Cast**: `cast.json` and `characters.md`, as today (`spec/quality.md` §1). Keep the cast small: 3-4 regulars plus
+   a few one-episode guests. Give each regular a way of speaking a listener can recognise (formal or casual address,
+   favourite words). It carries the teaching.
+3. **Episode outline**: `originals/<show>/sNNeNN/scenes.json`. Write the scene list from the outline, not from a cue file. Leave
+   out the cue and time fields an original show doesn't have, and give each scene a one-line summary.
+4. **Scenes**: follow the README loop from step 4, with no cues. Replace "faithful to the source" with "faithful to the
+   bible and the outline". Everything else in `spec/quality.md` still holds: A1, short lines, clean register, natural target
+   language, explanations that teach one concrete thing.
+5. **Art, notes, validate, review, commit, render, check and package** all work as today. The cover goes in `art/cover.webp`.
+6. Plan vocabulary across the season. E1 introduces the core words (greetings, the place, the jobs), and later
+   episodes reuse them and add a few new ones per scene. This is the main teaching advantage we have over adapted content,
+   so use it.
+
+## 5. Done means
+
+A show's season is done when all 6 episodes pass the README "Done means" list, and the bible and every episode have a
+clean originality review. Report progress per show in `originals/PROGRESS.md`.
