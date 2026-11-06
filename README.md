@@ -5,11 +5,12 @@ who replays the target-language lines and explains them. You make **everything**
 word notes, art, and the rendered audio with word timing. You review your own work. A separate machine then fetches
 your output, verifies it and copies it to Firebase **unchanged**. Nobody fixes anything after you.
 
-## Priority now: original series (read [spec/ORIGINALS.md](spec/ORIGINALS.md) first)
+## Priority now: derived series (read [spec/DERIVED.md](spec/DERIVED.md) first)
 
-The public app now plays only **original** stories that you create from scratch in `originals/`, released as
-`original-<episode>`. Everything in `out/` is adapted from real TV shows and now ships only to a private tier for the owner's
-testing. The original series come before all other work below.
+The public app now plays only **derived** content: new stories you create from scratch in `derived/`, released as
+`derived-<episode>`. Everything in `out/` (the "original" content) is adapted from real TV shows and now ships only to a
+private tier for the owner's testing. Derived series come before all other work below, in the episode cycle that
+DERIVED.md sets out (3 ru, 2 fr, then 1 each of the other eight languages, repeating).
 
 ## The one rule that matters most: file formats and groupings
 
