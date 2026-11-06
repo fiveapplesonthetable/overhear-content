@@ -12,7 +12,7 @@ never carries a scene the publisher would drop. The tarball holds, with paths re
   forms-plan/<episode>.json                                                the episode's rows of forms/.plan.json
   MANIFEST.json                                                            episode, content commit, per-scene contentHash, sha256 of every file
 """
-import hashlib, io, json, subprocess, sys, tarfile, time
+import hashlib, io, json, re, subprocess, sys, tarfile, time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -21,9 +21,29 @@ import check_render as cr
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def episode_files(store, content, episode):
+def resolve_episode_root(content: Path, episode: str, explicit_root=None) -> str:
+    m = re.match(r"^([a-z0-9-]+)-s\d\de\d\d$", episode)
+    show = m.group(1) if m else episode
+    in_out = (content / "out" / show).is_dir()
+    in_orig = (content / "originals" / show).is_dir()
+    if in_out and in_orig:
+        raise ValueError(f"show slug {show!r} exists in both out/ and originals/ (slug collision)")
+    if explicit_root is not None:
+        if explicit_root not in ("out", "originals"):
+            raise ValueError(f"--root must be 'out' or 'originals', got {explicit_root!r}")
+        if explicit_root == "originals" and in_out:
+            raise ValueError(f"episode {episode!r} lives in out/, not originals/")
+        if explicit_root == "out" and in_orig:
+            raise ValueError(f"episode {episode!r} lives in originals/, not out/")
+        return explicit_root
+    if in_orig:
+        return "originals"
+    return "out"
+
+
+def episode_files(store, content, episode, root=None):
     """-> (scene ids, [relative paths], [plan rows]) of one episode."""
-    scenes = [s for s in cr.scenes_of(content, episode=episode) if not s[3]]
+    scenes = [s for s in cr.scenes_of(content, episode=episode, root=root) if not s[3]]
     files, ids = [], set()
     for sid, sp, npth, _ in scenes:
         files += [f"{sid}/{f}" for f in cr.SCENE_FILES]
@@ -48,24 +68,43 @@ def episode_files(store, content, episode):
 
 
 def main(argv):
-    args = [a for a in argv if not a.startswith("--")]
-    if "--episode" not in argv or len(args) < 2:
+    store_arg, episode, content, explicit_root, do_release = None, None, ROOT, None, False
+    i = 0
+    while i < len(argv):
+        a = argv[i]
+        if a == "--episode":
+            episode = argv[i + 1]; i += 2; continue
+        if a == "--content":
+            content = Path(argv[i + 1]).resolve(); i += 2; continue
+        if a == "--root":
+            explicit_root = argv[i + 1]; i += 2; continue
+        if a.startswith("--root="):
+            explicit_root = a.split("=", 1)[1]; i += 1; continue
+        if a == "--release":
+            do_release = True; i += 1; continue
+        if not a.startswith("--") and store_arg is None:
+            store_arg = a
+        i += 1
+    if not episode or store_arg is None:
         print(__doc__); return 2
-    store = Path(args[0]).resolve()
-    episode = argv[argv.index("--episode") + 1]
-    content = Path(argv[argv.index("--content") + 1]).resolve() if "--content" in argv else ROOT
-    if cr.main([str(store), "--episode", episode, "--content", str(content)]) != 0:
+    store = Path(store_arg).resolve()
+    try:
+        root = resolve_episode_root(content, episode, explicit_root)
+    except ValueError as e:
+        print(f"ERROR {e}"); return 1
+    if cr.main([str(store), "--root", root, "--episode", episode, "--content", str(content)]) != 0:
         print(f"{episode}: tools/check_render.py fails; not packaged"); return 1
-    scenes, files, plan = episode_files(store, content, episode)
+    scenes, files, plan = episode_files(store, content, episode, root=root)
     commit = subprocess.run(["git", "-C", str(content), "rev-parse", "HEAD"], capture_output=True, text=True).stdout.strip()
-    manifest = {"schemaVersion": 1, "episode": episode, "contentCommit": commit,
+    manifest = {"schemaVersion": 1, "episode": episode, "root": root, "contentCommit": commit,
                 "packagedAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
                 "scenes": [{"sceneId": s, **{k: json.loads((store / s / "meta.json").read_text(encoding="utf-8"))[k]
                                              for k in ("contentHash", "audioSha256", "durationSec")}} for s in scenes],
                 "files": {f: cr.sha256_file(store / f) for f in files}}
     plan_b = json.dumps(plan, ensure_ascii=False).encode("utf-8")
     manifest["files"][f"forms-plan/{episode}.json"] = hashlib.sha256(plan_b).hexdigest()
-    out = ROOT / "dist" / f"render-{episode}.tar"
+    prefix = "original" if root == "originals" else "render"
+    out = content / "dist" / f"{prefix}-{episode}.tar"
     out.parent.mkdir(exist_ok=True)
     with tarfile.open(out, "w") as tar:
         for f in files:
@@ -75,8 +114,8 @@ def main(argv):
             info = tarfile.TarInfo(name); info.size = len(data); info.mtime = int(time.time())
             tar.addfile(info, io.BytesIO(data))
     print(f"{out}: {len(scenes)} scenes, {len(files)} files, {out.stat().st_size / 1e6:.1f} MB")
-    if "--release" in argv:
-        tag = f"render-{episode}"
+    if do_release:
+        tag = f"{prefix}-{episode}"
         notes = f"Rendered audio of {episode} (content {commit[:12]}). Verify and install with tools/fetch_renders.py."
         if subprocess.run(["gh", "release", "view", tag], capture_output=True).returncode == 0:
             subprocess.run(["gh", "release", "upload", tag, str(out), "--clobber"], check=True)

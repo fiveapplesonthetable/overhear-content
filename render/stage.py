@@ -41,9 +41,12 @@ def main():
     ap.add_argument("--no-retake", action="store_true")
     ap.add_argument("--times", default="{}")
     ap.add_argument("--content", default=str(config.CONTENT_DIR))
+    ap.add_argument("--root", choices=["out", "originals", "all"], default=None)
     ap.add_argument("--store", default=str(config.STORE))
     ap.add_argument("--settings", default=None)
     a = ap.parse_args()
+    if a.root:
+        os.environ["OVERHEAR_CONTENT_ROOT"] = a.root
     try:
         settings = config.load_settings(a.settings)
         if os.environ.get("OVERHEAR_TTS_BATCH"):

@@ -58,7 +58,7 @@ def select(args, scene):
 
 def plan_queue(args, settings, voices, store):
     """-> (todo, up_to_date, stale_ids, skips). `todo` is priority-ordered [(scene, key)]."""
-    scenes, skips = content.discover(args.content, require_notes=not args.allow_no_notes)
+    scenes, skips = content.discover(args.content, require_notes=not args.allow_no_notes, root=getattr(args, "root", None))
     skips = [s for s in skips if "merged" not in s.reason]
     if args.status or args.clips_only or args.forms_only:     # read-only: never write casting files from --status or a backfill
         pass
@@ -169,6 +169,8 @@ def cmd_status(args, settings, voices, store):
 def stage_cmd(args, settings, stage, sid, mib, extra=(), venv=None):
     cmd = ([config.GPURUN, str(mib)] if mib else []) + [f"{venv or config.VENV_QWEN}/bin/python", "-I", str(HERE / "stage.py"), stage, "--scene", sid,
            "--content", str(args.content), "--store", str(args.store)]
+    if getattr(args, "root", None):
+        cmd += ["--root", args.root]
     if args.settings:
         cmd += ["--settings", args.settings]
     return cmd + list(extra)
@@ -615,9 +617,12 @@ def main():
     ap.add_argument("--allow-no-notes", action="store_true")
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--content", default=str(config.CONTENT_DIR))
+    ap.add_argument("--root", choices=["out", "originals", "all"], default=None, help="content root folder under --content (default: out)")
     ap.add_argument("--store", default=str(config.STORE))
     ap.add_argument("--settings", default=None)
     args = ap.parse_args()
+    if args.root:
+        os.environ["OVERHEAR_CONTENT_ROOT"] = args.root
     # Use the same selection syntax for renders and backfills as narrator-only.
     args.scene = [x for value in args.scene for x in value.split(",") if x]
     args.episode = [x for value in args.episode for x in value.split(",") if x]

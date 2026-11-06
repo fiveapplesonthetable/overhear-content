@@ -153,12 +153,18 @@ def check_learn(root, rep):
                 if r == name or r not in notes: rep.err(str(f), f"related {r!r} is not another note of {pdir.name}")
             for ex in d["examples"]:
                 m = re.fullmatch(r"([a-z-]+)-(s\d\d)(e\d\d)-scene-(\d\d)", ex["sceneId"])
-                sp = root / "out" / m[1] / (m[2] + m[3]) / f"scene-{m[4]}.json" if m else None
+                sp, show_dir = None, None
+                if m:
+                    for cand_root in ("originals", "out"):
+                        cand = root / cand_root / m[1] / (m[2] + m[3]) / f"scene-{m[4]}.json"
+                        if cand.exists():
+                            sp, show_dir = cand, root / cand_root / m[1]
+                            break
                 if not sp or not sp.exists(): rep.err(str(f), f"example scene {ex['sceneId']} does not exist"); continue
                 segs = json.loads(sp.read_text(encoding="utf-8"))["segments"]
                 if ex["seg"] >= len(segs): rep.err(str(f), f"example {ex['sceneId']}#{ex['seg']}: scene has {len(segs)} segments")
                 elif segs[ex["seg"]]["v"] == "narrator": rep.err(str(f), f"example {ex['sceneId']}#{ex['seg']} is a narrator line")
-                elif show_lang(root / "out" / m[1], Report()) != lang.get(pdir.name): rep.err(str(f), f"example {ex['sceneId']} is not a {pdir.name} show")
+                elif show_lang(show_dir, Report()) != lang.get(pdir.name): rep.err(str(f), f"example {ex['sceneId']} is not a {pdir.name} show")
 
 
 def check_metadata(root, rep):
@@ -223,15 +229,26 @@ def target_ok(lang, text, where, rep):
             rep.err(where, f"{name} line has no native-script letters: {text[:50]!r}")
 
 
-def check_script(path, lang, rep, expect_id=None, cast=None):
+def is_original_path(path, explicit_root=None):
+    if explicit_root is not None:
+        return explicit_root == "originals"
+    parts = Path(path).resolve().parts
+    return "originals" in parts
+
+
+def check_script(path, lang, rep, expect_id=None, cast=None, is_original=None):
     """cast = {role key: cast.json entry} of the show, or None (--script mode: no cast checks)."""
     w = str(path)
+    orig = is_original_path(path) if is_original is None else bool(is_original)
     try: d = json.loads(Path(path).read_text(encoding="utf-8"))
     except Exception as e: return rep.err(w, f"not valid JSON: {e}")
     check_schema(d, "script", w, rep)
     no_stray_backslash(d, w, rep)
-    for k in ("id", "pair", "title", "level", "labels", "segments", "source"):
+    req_fields = ("id", "pair", "title", "level", "labels", "segments") if orig else ("id", "pair", "title", "level", "labels", "segments", "source")
+    for k in req_fields:
         if k not in d: rep.err(w, f"missing field {k!r}")
+    if orig and "source" in d:
+        rep.err(w, "original scripts must not carry a 'source' block")
     if "segments" not in d: return None
     if expect_id and d.get("id") != expect_id: rep.err(w, f"id should be {expect_id!r}, is {d.get('id')!r}")
     if d.get("pair") != PAIR[lang]: rep.err(w, f"pair should be {PAIR[lang]!r}")
@@ -282,17 +299,18 @@ def check_script(path, lang, rep, expect_id=None, cast=None):
         if sum(1 for s in segs[j:k] if s["v"] == "narrator") < 3: rep.warn(w, "walk-through (part 3) looks missing")
     check_narration(w, d, cast, rep, getattr(cast, "other", frozenset()))
     check_explanations(w, d, d.get("show") or str(d.get("id", "")).split("-s")[0], cast, rep)
-    src = d.get("source", {})
-    sf = ROOT / src.get("file", "")
-    if not src.get("file") or not sf.is_file(): rep.err(w, f"source.file missing or not found: {src.get('file')}")
-    elif not src.get("lines"): rep.warn(w, "source.lines empty: no story line is tied to a subtitle cue")
-    else:
-        cue = parse_srt(sf)
-        for ln in src["lines"]:
-            c = cue.get(ln.get("cue"))
-            if c is None: rep.err(w, f"source cue {ln.get('cue')} not in {src['file']}")
-            elif squash(ln.get("fragment", "")) not in squash(c[2]):
-                rep.err(w, f"fragment {ln.get('fragment')!r} not in cue {ln['cue']}: {c[2][:60]!r}")
+    if not orig:
+        src = d.get("source", {})
+        sf = ROOT / src.get("file", "")
+        if not src.get("file") or not sf.is_file(): rep.err(w, f"source.file missing or not found: {src.get('file')}")
+        elif not src.get("lines"): rep.warn(w, "source.lines empty: no story line is tied to a subtitle cue")
+        else:
+            cue = parse_srt(sf)
+            for ln in src["lines"]:
+                c = cue.get(ln.get("cue"))
+                if c is None: rep.err(w, f"source cue {ln.get('cue')} not in {src['file']}")
+                elif squash(ln.get("fragment", "")) not in squash(c[2]):
+                    rep.err(w, f"fragment {ln.get('fragment')!r} not in cue {ln['cue']}: {c[2][:60]!r}")
     return d
 
 
@@ -366,8 +384,10 @@ def common_words():
 GLOSS = re.compile(r"^'(.+?)'(?=\s|$)\s*(.*)$", re.S)
 TRANSITION_TAIL = re.compile(r"\s*Now let's listen to the whole.*$|\s*Now let's hear.*$", re.S)
 WORD = re.compile(r"[^\W\d_][\w'’-]*", re.U)
-NOT_NAMES = {"Japanese", "Italian", "Georgian", "Chinese", "American", "British", "Korean", "Alright", "Season", "Episode", "I", "I'm", "I'll", "I've", "I'd", "Russian", "Russians", "French", "English", "Moscow", "Russia", "France", "Paris", "Claude", "Monet",
-             "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "Cyrillic", "Mr", "Mrs", "Dr", "OK", "Okay", "Kukhnya"}
+NOT_NAMES = {"Japanese", "Italian", "Georgian", "Chinese", "Mandarin", "American", "British", "Korean", "Spanish", "German", "Portuguese", "Brazilian", "Arabic", "Jordanian",
+             "Alright", "Season", "Episode", "I", "I'm", "I'll", "I've", "I'd", "Russian", "Russians", "French", "English", "Moscow", "Russia", "France", "Paris", "Claude", "Monet",
+             "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "Cyrillic", "Latin", "Hangul", "Kanji", "Kana", "Katakana", "Hiragana", "Pinyin",
+             "Mr", "Mrs", "Dr", "OK", "Okay", "Kukhnya"}
 
 
 def split_gloss(seg_text):
@@ -537,14 +557,14 @@ def check_templates(rep):
 # quoted foreign words), tuned on the hand-written gold scenes (out/kukhnya/s01e02 scene-01..03, examples/) which must
 # score high, against plot-only drafts (out/kukhnya/s01e07 scene-05) which must score low.
 TEACH = re.compile(
-    r"\b(?:the|this|that|its|a|another|one|little|tiny|small|short|same|single|polite|formal|informal|common|everyday|key|plain|simple)\s+(?:(?:russian|french|chinese|mandarin|english)\s+)?(?:words?|chunks?|phrases?|expressions?|idioms?|sentences?|endings?|forms?|verbs?|nouns?|particles?|prefix|suffix|roots?|stems?|diminutives?|slang|nicknames?|surnames?|first names?|contractions?|abbreviations?)\b\s*(?:for|means?|is|are|comes|sounds|works|here|there|in|can|stands|carries|adds|does|changes|literally|from|of)\b"
+    r"\b(?:the|this|that|its|a|another|one|little|tiny|small|short|same|single|polite|formal|informal|common|everyday|key|plain|simple)\s+(?:(?:russian|french|spanish|german|italian|portuguese|korean|japanese|arabic|chinese|mandarin|english)\s+)?(?:words?|chunks?|phrases?|expressions?|idioms?|sentences?|endings?|forms?|verbs?|nouns?|particles?|prefix|suffix|roots?|stems?|diminutives?|slang|nicknames?|surnames?|first names?|contractions?|abbreviations?)\b\s*(?:for|means?|is|are|comes|sounds|works|here|there|in|can|stands|carries|adds|does|changes|literally|from|of)\b"
     r"|\bliterally\b|\bbuilt (?:from|on|out of)\b|\bcomes from\b|\bshort for\b|\bstands for\b|\bderived\b|\bcloser to\b|\bword[- ]for[- ]word\b"
-    r"|\b(?:russian|french|chinese|mandarin|russians)\s+(?:happily|simply|often|always|never|usually|typically|also|just|really|does|doesn't|says?|uses?|has|have|keeps?|drops?|adds?|puts?|marks?|likes?|loves?|speakers?|word|words|phrase|phrases|sentences?|grammar|verbs?|nouns?|endings?|can|would|reaches|prefers|treats|splits|doubles|needs?|requires?|lets?|makes?|gives?|turns?|builds?|stresses|rolls)\b"
-    r"|\b(?:in|to) (?:russian|french|chinese|mandarin)\b|\bwhere english\b|\bunlike english\b|\bthan english\b|\bin english\b|\benglish (?:says?|uses?|speakers?|has|would|needs?|adds?|drops?|doesn't|lacks?|calls?|prefers?|puts?)\b"
+    r"|\b(?:russian|french|spanish|german|italian|portuguese|korean|japanese|arabic|chinese|mandarin|russians)\s+(?:happily|simply|often|always|never|usually|typically|also|just|really|does|doesn't|says?|uses?|has|have|keeps?|drops?|adds?|puts?|marks?|likes?|loves?|speakers?|word|words|phrase|phrases|sentences?|grammar|verbs?|nouns?|endings?|can|would|reaches|prefers|treats|splits|doubles|needs?|requires?|lets?|makes?|gives?|turns?|builds?|stresses|rolls)\b"
+    r"|\b(?:in|to) (?:russian|french|spanish|german|italian|portuguese|korean|japanese|arabic|chinese|mandarin)\b|\bwhere english\b|\bunlike english\b|\bthan english\b|\bin english\b|\benglish (?:says?|uses?|speakers?|has|would|needs?|adds?|drops?|doesn't|lacks?|calls?|prefers?|puts?)\b"
     r"|\b(?:past|present|future) tense\b|\b(?:perfective|imperfective|plural|singular|feminine|masculine|neuter|genitive|dative|accusative|instrumental|nominative|diminutive)\b|\bpronounc|\btransliterat|\bsounds like\b|\bspelled\b|\bstress(?:ed)?\b|\bcognate\b"
     r"|\bswap in\b|\bhandy (?:sentence|phrase|word|way|chunk)\b|\breusable\b|\bre-?use\b|\byou(?:'d| would| can| could)\s+(?:say|shout|use|hear|reach)\b|\bwhat you(?:'d| would) (?:say|shout|use)\b"
     r"|\bmeans? [\"“']|\bcan mean\b|\bboth mean\b|\bdoubles? the\b|\bsurname\b|\bnickname\b|\b(?:tiny|little|small) word\b|\bthe (?:polite|formal|informal) version\b"
-    r"|\brather than\b|\bin the (?:russian|french|chinese|mandarin|negative)\b|\b(?:casual|formal|polite|informal) [\"“']?you\b|[\"“']you[\"”']"
+    r"|\brather than\b|\bin the (?:russian|french|spanish|german|italian|portuguese|korean|japanese|arabic|chinese|mandarin|negative)\b|\b(?:casual|formal|polite|informal) [\"“']?you\b|[\"“']you[\"”']"
     r"|\b(?:one|two|three|first|last|next|same|opposite|extra|special) (?:words?|endings?|forms?)\b|\b(?:command|negative|question|polite|short|plural|casual) forms?\b|\b(?:endings?|nouns?|verbs?|adjectives?|adverbs?)\b"
     r"|\byou(?:'ll| will) (?:hear|see|say|use|notice)\b|\buseful (?:sentences?|phrases?|words?|chunks?)\b|\bin the language\b|\bjoined by\b|\brepeats? the words\b|\b(?:expression|idiom)s?\b|\b(?:polite|formal|informal|casual)(?:,| and) (?:formal |polite |informal |casual )?version\b|\b(?:a|an) (?:\w+ ){0,2}words?\b"
     r"|[\"”]\s+(?:is|are|twice|says it all|lands|sounds|stands)\b|\bthe (?:prize|key|big|small|tiny|little) word\b", re.I)
@@ -791,10 +811,16 @@ def show_lang(showdir, rep):
 
 
 # ---------------------------------------------------------------- episode
-def check_scenes(epdir, show, rep):
+def check_scenes(epdir, show, rep, is_original=None):
+    epdir = Path(epdir)
+    orig = is_original_path(epdir) if is_original is None else bool(is_original)
     w = str(epdir / "scenes.json")
     lang = show_lang(epdir.parent, rep)
     if lang is None: return
+    if orig:
+        repo_root = epdir.parent.parent.parent if epdir.parent.parent.name == "originals" else ROOT
+        if (repo_root / "out" / show).exists():
+            rep.err(str(epdir.parent), f"original show slug {show!r} collides with out/{show}")
     m = re.fullmatch(r"s(\d\d)e(\d\d)", epdir.name)
     if not m: return rep.err(str(epdir), "episode dir must be named sNNeNN")
     sn, en = m[1], m[2]
@@ -805,50 +831,60 @@ def check_scenes(epdir, show, rep):
     check_schema(sc, "scenes", w, rep)
     scenes = sc.get("scenes")
     if not scenes: return rep.err(w, "no scenes")
-    srt = ROOT / "sources" / show / f"s{sn}" / f"e{en}.{lang}.dual.srt"
-    if not srt.is_file(): srt = srt.with_name(f"e{en}.{lang}.srt")      # Russian-only Whisper transcript (no English)
-    cue = parse_srt(srt) if srt.is_file() else {}
-    if not cue: rep.err(w, f"source subtitles missing: {srt.relative_to(ROOT)}")
+    cue = {}
+    if not orig:
+        srt = ROOT / "sources" / show / f"s{sn}" / f"e{en}.{lang}.dual.srt"
+        if not srt.is_file(): srt = srt.with_name(f"e{en}.{lang}.srt")      # Russian-only Whisper transcript (no English)
+        cue = parse_srt(srt) if srt.is_file() else {}
+        if not cue: rep.err(w, f"source subtitles missing: {srt.relative_to(ROOT)}")
     if "coverage" in sc: rep.err(w, "'coverage' (excerpt scenes) is retired: scenes.json must cover the whole episode")
     cast = load_cast(epdir.parent, rep)
     prev_end = None
     for k, s in enumerate(scenes, 1):
         sw = f"{w} scene {k}"
-        for f in ("scene", "start", "end", "title", "summary", "characters", "location", "merge"):
+        req_scene_fields = ("scene", "title", "summary", "characters", "location") if orig else ("scene", "start", "end", "title", "summary", "characters", "location", "merge")
+        for f in req_scene_fields:
             if f not in s: rep.err(sw, f"missing {f}")
         if s.get("scene") != k: rep.err(sw, f"scene numbers must run 1..N without gaps (found {s.get('scene')})")
-        if s.get("merge") not in MERGE: rep.err(sw, "merge must be null, 'prev' or 'next'")
-        if s.get("merge") == "prev" and k == 1 or s.get("merge") == "next" and k == len(scenes):
-            rep.err(sw, "merge target does not exist")
-        try: a, b = ts(s["start"]), ts(s["end"])
-        except Exception: rep.err(sw, "start/end must be HH:MM:SS,mmm"); continue
-        if b <= a: rep.err(sw, "end must be after start")
-        if prev_end is not None and a < prev_end - 0.001: rep.err(sw, "overlaps the previous scene")
-        prev_end = b
-        s["_t"] = (a, b)
+        if orig:
+            for forbidden in ("start", "end"):
+                if forbidden in s: rep.err(sw, f"original scenes.json must not carry time/cue field {forbidden!r}")
+            if "merge" in s and s.get("merge") not in MERGE:
+                rep.err(sw, "merge must be null, 'prev' or 'next'")
+        else:
+            if s.get("merge") not in MERGE: rep.err(sw, "merge must be null, 'prev' or 'next'")
+            if s.get("merge") == "prev" and k == 1 or s.get("merge") == "next" and k == len(scenes):
+                rep.err(sw, "merge target does not exist")
+            try: a, b = ts(s["start"]), ts(s["end"])
+            except Exception: rep.err(sw, "start/end must be HH:MM:SS,mmm"); continue
+            if b <= a: rep.err(sw, "end must be after start")
+            if prev_end is not None and a < prev_end - 0.001: rep.err(sw, "overlaps the previous scene")
+            prev_end = b
+            s["_t"] = (a, b)
         if str(s.get("summary", "")).startswith(PLACEHOLDER_SUMMARY): rep.err(sw, f"placeholder summary, write what happens: {s['summary'][:50]!r}")
         if s.get("merge") is None:
             n = f"{k:02d}"
             sp = epdir / f"scene-{n}.json"
             if not sp.is_file(): rep.err(sw, f"missing scene-{n}.json")
             else:
-                d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}", cast=cast)
+                d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}", cast=cast, is_original=orig)
                 if d is not None:
-                    # A transition explicitly folded into this lesson contributes its
-                    # own source range (spec/scenes-format.md), without changing the
-                    # underlying, non-overlapping scene boundaries.
-                    source_scenes = [s]
-                    left, right = k - 2, k
-                    while left >= 0 and scenes[left].get("merge") == "next":
-                        source_scenes.append(scenes[left]); left -= 1
-                    while right < len(scenes) and scenes[right].get("merge") == "prev":
-                        source_scenes.append(scenes[right]); right += 1
-                    source_ranges = []
-                    for source_scene in source_scenes:
-                        try: source_ranges.append((ts(source_scene["start"]), ts(source_scene["end"])))
-                        except (KeyError, TypeError, ValueError): pass  # reported by the scene checks
-                    out = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") in cue and not any(start - 2 <= cue[ln["cue"]][0] <= end + 2 for start, end in source_ranges)]
-                    if out: rep.err(sw, f"{len(out)} source cues lie outside this lesson's scene and merged source ranges (first: cue {out[0]}); tie lines only to cues of the scene or its merged transitions")
+                    if not orig:
+                        # A transition explicitly folded into this lesson contributes its
+                        # own source range (spec/scenes-format.md), without changing the
+                        # underlying, non-overlapping scene boundaries.
+                        source_scenes = [s]
+                        left, right = k - 2, k
+                        while left >= 0 and scenes[left].get("merge") == "next":
+                            source_scenes.append(scenes[left]); left -= 1
+                        while right < len(scenes) and scenes[right].get("merge") == "prev":
+                            source_scenes.append(scenes[right]); right += 1
+                        source_ranges = []
+                        for source_scene in source_scenes:
+                            try: source_ranges.append((ts(source_scene["start"]), ts(source_scene["end"])))
+                            except (KeyError, TypeError, ValueError): pass  # reported by the scene checks
+                        out = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") in cue and not any(start - 2 <= cue[ln["cue"]][0] <= end + 2 for start, end in source_ranges)]
+                        if out: rep.err(sw, f"{len(out)} source cues lie outside this lesson's scene and merged source ranges (first: cue {out[0]}); tie lines only to cues of the scene or its merged transitions")
                     notes = epdir / f"scene-{n}.notes.json"
                     if notes.is_file(): check_notes(notes, d, lang, REQ[0], rep)
                     elif REQ[0]: rep.err(sw, f"missing scene-{n}.notes.json")
@@ -858,8 +894,8 @@ def check_scenes(epdir, show, rep):
                 size = webp_size(epdir / f"scene-{n}.webp")
                 if size != (1024, 1024): rep.err(sw, f"scene-{n}.webp must be a 1024x1024 webp, is {size}")
                 ART_SEEN.setdefault(hashlib.md5((epdir / f"scene-{n}.webp").read_bytes()).hexdigest(), []).append(f"{show}/{epdir.name}/scene-{n}")
-    # Every cue of the episode must be covered.
-    if cue:
+    # Every cue of the episode must be covered (TV adaptations only).
+    if not orig and cue:
         spans = [s["_t"] for s in scenes if "_t" in s]
         miss = [(n, c) for n, c in sorted(cue.items()) if not any(a - 0.5 <= c[0] <= b + 0.5 for a, b in spans)]
         if miss:
@@ -874,10 +910,31 @@ def check_scenes(epdir, show, rep):
                 for c1, c2 in zip(inside, inside[1:]):
                     if c2[0] - c1[1] > GAP_WARN: rep.warn(w, f"scene {s['scene']}: {c2[0] - c1[1]:.0f}s without subtitles at {fmt(c1[1])} (one scene?)")
     if not (epdir.parent / "characters.md").is_file(): rep.warn(str(epdir), "no characters.md next to the season folders")
+    if orig and not (epdir.parent / "bible.md").is_file(): rep.warn(str(epdir), "no bible.md next to the season folders")
 
 
 REQ = [False]
 LIST_CAP = 150          # errors listed in full; beyond that a tally by kind
+
+
+def _parse_argv(argv):
+    explicit_root = None
+    pos = []
+    i = 0
+    while i < len(argv):
+        a = argv[i]
+        if a == "--root":
+            explicit_root = argv[i + 1]
+            i += 2
+            continue
+        if a.startswith("--root="):
+            explicit_root = a.split("=", 1)[1]
+            i += 1
+            continue
+        if not a.startswith("--"):
+            pos.append(a)
+        i += 1
+    return explicit_root, pos
 
 
 def main(argv):
@@ -886,11 +943,14 @@ def main(argv):
     strict = "--strict" in argv
     show_all = "--all" in argv
     LENIENT_VERSION[0] = "--script" in argv
-    args = [a for a in argv if not a.startswith("--")]
+    explicit_root, args = _parse_argv(argv)
+    if explicit_root is not None and explicit_root not in ("out", "originals"):
+        print(f"ERROR --root must be 'out' or 'originals', got {explicit_root!r}")
+        return 2
     rep = Report()
     if "--metadata-only" in argv:
         root = Path(args[0] if args else ".").resolve()
-        check_metadata(root.parent if root.name == "out" else root, rep)
+        check_metadata(root.parent if root.name in ("out", "originals") else root, rep)
         for error in rep.errors: print("ERROR", error)
         print(f"{'FAIL' if rep.errors else 'OK'}: {len(rep.errors)} errors")
         return 1 if rep.errors else 0
@@ -902,19 +962,20 @@ def main(argv):
             script_pair = None  # check_script reports the actual file/JSON error
         lang = next((lang for lang, pair in PAIR.items() if pair == script_pair),
                     "fr" if re.search(r"dix|fr-", str(p)) else "ru")
-        check_script(p, lang, rep)
+        check_script(p, lang, rep, is_original=is_original_path(p, explicit_root))
     else:
-        base = Path(args[0] if args else "out").resolve()
+        default_dir = explicit_root or "out"
+        base = Path(args[0] if args else default_dir).resolve()
         eps = [base] if re.fullmatch(r"s\d\de\d\d", base.name) else sorted(p.parent for p in base.rglob("scenes.json"))
         if not eps: rep.err(str(base), "no episode folders (with scenes.json) found")
         for ep in eps:
             show = ep.parent.name
-            check_scenes(ep, show, rep)
+            check_scenes(ep, show, rep, is_original=is_original_path(ep, explicit_root))
     check_templates(rep)
     check_phrases(rep)
     check_lexicon(rep)
     check_art(rep)
-    if "--script" not in argv and base.name == "out": check_metadata(base.parent, rep)
+    if "--script" not in argv and base.name in ("out", "originals"): check_metadata(base.parent, rep)
     for x in rep.warnings[:LIST_CAP]: print("WARN ", x)
     if len(rep.warnings) > LIST_CAP: print(f"... {len(rep.warnings) - LIST_CAP} more warnings")
     for x in rep.errors[:None if show_all else LIST_CAP]: print("ERROR", x)

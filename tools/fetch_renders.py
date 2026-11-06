@@ -21,7 +21,7 @@ SAFE = re.compile(r"^(?:[a-z][a-z0-9-]*-s\d\de\d\d-scene-\d\d/(?:audio\.mp3|span
                   r"|(?:clips|forms)/[0-9a-f]{16}\.(?:json|mp3)|forms-plan/[a-z][a-z0-9-]*-s\d\de\d\d\.json|MANIFEST\.json)$")
 
 
-def install(tar_path, render, content):
+def install(tar_path, render, content, root=None):
     with tarfile.open(tar_path) as tar:
         members = tar.getmembers()
         for m in members:
@@ -30,12 +30,13 @@ def install(tar_path, render, content):
         data = {m.name: tar.extractfile(m).read() for m in members}
     man = json.loads(data.pop("MANIFEST.json"))
     ep = man["episode"]
+    eff_root = root or man.get("root")
     if set(data) != set(man["files"]):
         raise SystemExit(f"{tar_path}: files differ from MANIFEST.json")
     for name, b in data.items():
         if hashlib.sha256(b).hexdigest() != man["files"][name]:
             raise SystemExit(f"{tar_path}: {name} sha256 mismatch")
-    scripts = {s[0]: s for s in cr.scenes_of(content, episode=ep)}
+    scripts = {s[0]: s for s in cr.scenes_of(content, episode=ep, root=eff_root)}
     for s in man["scenes"]:
         sid = s["sceneId"]
         if sid not in scripts:
@@ -63,28 +64,44 @@ def install(tar_path, render, content):
 
 
 def main(argv):
-    args = [a for a in argv if not a.startswith("--")]
-    if not args:
+    render_arg, content, root, tar_arg, episode, do_all = None, ROOT, None, None, None, False
+    i = 0
+    while i < len(argv):
+        a = argv[i]
+        if a == "--content": content = Path(argv[i + 1]).resolve(); i += 2; continue
+        if a == "--root": root = argv[i + 1]; i += 2; continue
+        if a.startswith("--root="): root = a.split("=", 1)[1]; i += 1; continue
+        if a == "--tar": tar_arg = Path(argv[i + 1]); i += 2; continue
+        if a == "--episode": episode = argv[i + 1]; i += 2; continue
+        if a == "--all": do_all = True; i += 1; continue
+        if not a.startswith("--") and render_arg is None: render_arg = a
+        i += 1
+    if render_arg is None:
         print(__doc__); return 2
-    render = Path(args[0]).resolve()
-    content = Path(argv[argv.index("--content") + 1]).resolve() if "--content" in argv else ROOT
+    render = Path(render_arg).resolve()
+    prefix = "original-" if root == "originals" else "render-"
     tars = []
     with tempfile.TemporaryDirectory() as tmp:
-        if "--tar" in argv:
-            tars = [Path(argv[argv.index("--tar") + 1])]
+        if tar_arg:
+            tars = [tar_arg]
         else:
-            if "--all" in argv:
+            if do_all:
                 listing = subprocess.run(["gh", "release", "list", "--limit", "1000", "--json", "tagName"], capture_output=True, text=True, check=True)
-                tags = [r["tagName"] for r in json.loads(listing.stdout) if r["tagName"].startswith("render-")]
+                tags = [r["tagName"] for r in json.loads(listing.stdout) if r["tagName"].startswith(prefix)]
             else:
-                tags = [f"render-{argv[argv.index('--episode') + 1]}"]
+                m = re.match(r"^([a-z0-9-]+)-s\d\de\d\d$", episode or "")
+                ep_prefix = "original-" if (root == "originals" or (root is None and m and (content / "originals" / m.group(1)).is_dir())) else "render-"
+                tags = [f"{ep_prefix}{episode}"]
             for tag in tags:
                 subprocess.run(["gh", "release", "download", tag, "--dir", tmp, "--pattern", f"{tag}.tar", "--clobber"], check=True)
                 tars.append(Path(tmp) / f"{tag}.tar")
         bad = 0
         for t in tars:
-            ep = install(t, render, content)
-            bad |= cr.main([str(render), "--episode", ep, "--content", str(content)])
+            ep = install(t, render, content, root=root)
+            chk_args = [str(render), "--episode", ep, "--content", str(content)]
+            if root:
+                chk_args += ["--root", root]
+            bad |= cr.main(chk_args)
     return 1 if bad else 0
 
 

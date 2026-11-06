@@ -102,19 +102,35 @@ def load_json(p, rep, where):
 
 
 # ---------------------------------------------------------------- content side
-def scenes_of(content, episode=None, scene=None):
-    """[(sceneId, script path, notes path, merged)] in out/, in order."""
+def _content_roots(content, root=None, episode=None, scene=None):
+    content = Path(content)
+    if content.name in ("out", "originals") and not (content / "out").is_dir() and not (content / "originals").is_dir():
+        return [content]
+    if root in ("out", "originals"):
+        return [content / root]
+    if episode or scene:
+        return [content / r for r in ("originals", "out") if (content / r).is_dir()]
+    return [content / "out"]
+
+
+def scenes_of(content, episode=None, scene=None, root=None):
+    """[(sceneId, script path, notes path, merged)] in the content root, in order."""
     out = []
-    for sj in sorted((content / "out").glob("*/s??e??/scenes.json")):
-        d = json.loads(sj.read_text(encoding="utf-8"))
-        ep = f"{d['show']}-s{d['season']:02d}e{d['episode']:02d}"
-        if episode and ep != episode:
+    for rdir in _content_roots(content, root=root, episode=episode, scene=scene):
+        if not rdir.is_dir():
             continue
-        for s in d["scenes"]:
-            sid = f"{ep}-scene-{s['scene']:02d}"
-            if scene and sid != scene:
+        for sj in sorted(rdir.glob("*/s??e??/scenes.json")):
+            if sj.parent.parent.name.startswith("_"):
                 continue
-            out.append((sid, sj.parent / f"scene-{s['scene']:02d}.json", sj.parent / f"scene-{s['scene']:02d}.notes.json", s.get("merge") is not None))
+            d = json.loads(sj.read_text(encoding="utf-8"))
+            ep = f"{d['show']}-s{d['season']:02d}e{d['episode']:02d}"
+            if episode and ep != episode:
+                continue
+            for s in d["scenes"]:
+                sid = f"{ep}-scene-{s['scene']:02d}"
+                if scene and sid != scene:
+                    continue
+                out.append((sid, sj.parent / f"scene-{s['scene']:02d}.json", sj.parent / f"scene-{s['scene']:02d}.notes.json", s.get("merge") is not None))
     return out
 
 
@@ -301,24 +317,30 @@ def check_clips_forms(render, scene_list, rep):
 def main(argv):
     opts = {a.split("=")[0]: a for a in argv}
     args, i = [], 0
-    content, episode, scene = ROOT, None, None
+    content, episode, scene, root = ROOT, None, None, None
     while i < len(argv):
         a = argv[i]
-        if a in ("--content", "--episode", "--scene"):
+        if a in ("--content", "--episode", "--scene", "--root"):
             val = argv[i + 1]; i += 2
             if a == "--content": content = Path(val).resolve()
             elif a == "--episode": episode = val
+            elif a == "--root": root = val
             else: scene = val
             continue
+        if a.startswith("--root="):
+            root = a.split("=", 1)[1]; i += 1; continue
         if not a.startswith("--"): args.append(a)
         i += 1
     if not args:
         print(__doc__); return 2
+    if root is not None and root not in ("out", "originals"):
+        print(f"ERROR --root must be 'out' or 'originals', got {root!r}")
+        return 2
     render = Path(args[0]).resolve()
     rep = Report()
-    scene_list = scenes_of(content, episode, scene)
+    scene_list = scenes_of(content, episode, scene, root=root)
     if not scene_list:
-        rep.err(str(content / "out"), "no matching scenes")
+        rep.err(str(content / (root or "out")), "no matching scenes")
     checked = 0
     for sid, sp, npth, merged in scene_list:
         if merged:
@@ -327,7 +349,7 @@ def main(argv):
         if not episode and not scene and not (render / sid).is_dir():
             continue           # whole-tree mode checks what exists; --episode/--scene require every scene
         if not sp.is_file() or not npth.is_file():
-            rep.err(sid, "script or notes missing in out/"); continue
+            rep.err(sid, f"script or notes missing in {sp.parent.parent.parent.name}/"); continue
         check_scene(render, sid, sp, npth, rep)
         checked += 1
     tally = check_clips_forms(render, [s for s in scene_list if (render / s[0]).is_dir()], rep)
