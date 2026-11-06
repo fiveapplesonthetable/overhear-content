@@ -196,7 +196,14 @@ class OriginalsTests(unittest.TestCase):
                 {"seg": 1, "trans": "Hi!", "words": [{"t": "Привет!", "lemma": "привет", "pos": "interj", "stress": "приве\u0301т!", "gloss": "hi", "gram": "interj"}]},
                 {"seg": 20, "trans": "Bye!", "words": [{"t": "Пока!", "lemma": "пока", "pos": "interj", "stress": "пока\u0301!", "gloss": "bye", "gram": "interj"}]},
             ],
-            "lexicon": {},
+            "lexicon": {
+                "привет": {"lemma": "привет", "stress": "приве\u0301т", "pos": "interj", "gloss": "hi",
+                           "meanings": [{"en": "hi", "note": ""}], "forms": None, "moreForms": [],
+                           "examples": [{"text": "Привет!", "trans": "Hi!"}, {"text": "Привет, Павел!", "trans": "Hi, Pavel!"}], "related": []},
+                "пока": {"lemma": "пока", "stress": "пока\u0301", "pos": "interj", "gloss": "bye",
+                         "meanings": [{"en": "bye", "note": ""}], "forms": None, "moreForms": [],
+                         "examples": [{"text": "Пока!", "trans": "Bye!"}, {"text": "Пока, Даша!", "trans": "Bye, Dasha!"}], "related": []},
+            },
         }
         (self.ep_dir / "scene-01.notes.json").write_text(json.dumps(notes, ensure_ascii=False), encoding="utf-8")
         self.write()
@@ -268,6 +275,39 @@ class OriginalsTests(unittest.TestCase):
         dest = self.tmp / "installed"
         self.assertEqual(fr.main([str(dest), "--tar", str(tar_path), "--content", str(self.tmp)]), 0)
         self.assertTrue((dest / sid / "audio.mp3").is_file())
+
+    def test_originals_require_ko_ar_readings_and_all_language_word_tables(self):
+        # Korean Originals must include explicit span + reading + verb/adj/noun tables.
+        ko_script = {"id": "haessal-s01e01-scene-01", "segments": [{"v": "mina", "t": "안녕하세요!"}]}
+        ko_notes = {
+            "schemaVersion": 1,
+            "id": "haessal-s01e01-scene-01",
+            "lines": [{"seg": 0, "trans": "Hello!", "words": [
+                {"t": "안녕하세요!", "lemma": "안녕하다", "pos": "adj", "stress": None, "gloss": "hello", "gram": "polite"}
+            ]}],
+            "lexicon": {
+                "안녕하다": {"lemma": "안녕하다", "stress": None, "pos": "adj", "gloss": "peaceful; hello",
+                             "meanings": [{"en": "well; hello", "note": ""}], "forms": None, "moreForms": [],
+                             "examples": [{"text": "안녕하세요!", "trans": "Hello!"}, {"text": "안녕히 가세요.", "trans": "Goodbye."}], "related": []}
+            },
+        }
+        np = self.ep_dir / "ko-notes.json"
+        np.write_text(json.dumps(ko_notes, ensure_ascii=False), encoding="utf-8")
+        rep = v.Report()
+        v.check_notes(np, ko_script, "ko", True, rep, is_original=True)
+        self.assertTrue(any("explicit code-point span" in e for e in rep.errors), rep.errors)
+        self.assertTrue(any("needs a reviewed spoken reading" in e for e in rep.errors), rep.errors)
+        self.assertTrue(any("ko noun/adj/verb needs a forms table" in e for e in rep.errors), rep.errors)
+
+        ko_notes["lines"][0]["words"][0].update({"span": [0, 6], "reading": "annyeonghaseyo"})
+        ko_notes["lexicon"]["안녕하다"]["forms"] = {
+            "title": "Forms", "columns": ["", "form"],
+            "rows": [{"cells": ["dictionary", "안녕하다"]}, {"cells": ["polite", "안녕하세요"]}],
+        }
+        np.write_text(json.dumps(ko_notes, ensure_ascii=False), encoding="utf-8")
+        rep_ok = v.Report()
+        v.check_notes(np, ko_script, "ko", True, rep_ok, is_original=True)
+        self.assertEqual(rep_ok.errors, [])
 
 
 if __name__ == "__main__":
