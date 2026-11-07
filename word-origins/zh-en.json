@@ -2,149 +2,414 @@
   "schemaVersion": 1,
   "pair": "zh-en",
   "entries": {
-    "你": {
-      "etymology": "Everyday singular second-person pronoun ('you'), combining the person classifier 亻 with 尔 (ěr), which itself served as a second-person pronoun in Classical Chinese. Attested in Northern Dynasties and Tang vernacular texts such as the Book of Zhou (Zhou Shu), 你 gradually replaced 尔 and 汝 as the standard spoken Mandarin pronoun among peers and colleagues.",
+    "一": {
+      "etymology": "Cardinal number 'one', written since oracle-bone antiquity with a single horizontal stroke. In spoken Mandarin, 一 undergoes regular tone sandhi: yī in counting and ordinals (第一), rising yí before a fourth tone (一个 yí gè), and falling yì before tones 1, 2, and 3 (一杯 yì bēi).",
       "morphemes": [
         {
-          "part": "亻",
-          "kind": "semantic component",
-          "meaning": "person"
+          "part": "一",
+          "kind": "indicative numeral",
+          "meaning": "one single stroke = one"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old Chinese (Oracle bones & Classics)",
+          "form": "一",
+          "meaning": "numeral one; single; whole",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "一起",
+          "gloss": "together"
         },
         {
-          "part": "尔",
-          "kind": "phonetic and root pronoun",
-          "meaning": "Classical second-person 'you'"
+          "word": "一样",
+          "gloss": "the same"
+        },
+        {
+          "word": "一点",
+          "gloss": "a little"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 一 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%B8%80#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 一 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%B8%80"
+        }
+      ]
+    },
+    "不": {
+      "etymology": "General negation adverb ('not, no') for present, future, habitual, and stative predicates, attested from Shang oracle bones through every stage of Chinese. Spoken bù shifts automatically to rising second tone bú immediately before another fourth-tone syllable (不是 bú shì).",
+      "morphemes": [
+        {
+          "part": "不",
+          "kind": "root",
+          "meaning": "negative adverb 'not'"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old Chinese (Oracle bones & Shijing)",
+          "form": "不",
+          "meaning": "negative particle 'not'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "不错",
+          "gloss": "pretty good"
+        },
+        {
+          "word": "不过",
+          "gloss": "however; though"
+        },
+        {
+          "word": "不好意思",
+          "gloss": "excuse me"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 不 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%B8%8D#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 不 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%B8%8D"
+        }
+      ]
+    },
+    "两": {
+      "etymology": "Word for 'two' used before measure words and paired nouns (两个房间 'two rooms', 两把钥匙 'two keys'). In Classical Chinese, 兩 denoted a matched pair (such as two chariot wheels) and a unit of weight, explaining why Mandarin prefers 两 when counting concrete items with classifiers while keeping 二 for abstract counting and ordinals.",
+      "morphemes": [
+        {
+          "part": "两 / 兩",
+          "kind": "root",
+          "meaning": "pair; couple; two (with classifiers)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Shijing, Zuozhuan)",
+          "form": "兩",
+          "meaning": "pair; both; two",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "俩",
+          "gloss": "two people; both"
+        },
+        {
+          "word": "二",
+          "gloss": "two (digits/ordinals)"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 兩 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%85%A9#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 兩 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%85%A9"
+        }
+      ]
+    },
+    "个": {
+      "etymology": "Mandarin's default general measure word (classifier) placed between a number or demonstrative and a noun (一个人, 这个房间). Originally counting stalks of bamboo (written 箇 with the bamboo radical 竹, or 個 with 亻 in Classical texts like Xunzi and Shiji), it broadened by the Six Dynasties and Tang period into a universal classifier.",
+      "morphemes": [
+        {
+          "part": "个 / 個",
+          "kind": "root",
+          "meaning": "bamboo stalk / single unit -> general classifier"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Xunzi, Shiji)",
+          "form": "箇 / 個",
+          "meaning": "counter for bamboo shafts, arrows, individual items",
+          "certainty": "established"
+        },
+        {
+          "stage": "Medieval to Modern Mandarin",
+          "form": "个",
+          "meaning": "general measure word",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "个人",
+          "gloss": "personal; individual"
+        },
+        {
+          "word": "个子",
+          "gloss": "height; build"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 個 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%80%8B#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 個 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%80%8B"
+        }
+      ]
+    },
+    "乐谱": {
+      "etymology": "Compound of 乐 (yuè, 'music', originally depicting strings mounted on a wooden stand 木) + 谱 (pǔ, 'register, chart, notation book', 言 speech/record + 普 'universal/ordered').",
+      "morphemes": [
+        {
+          "part": "乐",
+          "kind": "modifier noun",
+          "meaning": "music (yuè)"
+        },
+        {
+          "part": "谱",
+          "kind": "head noun",
+          "meaning": "score; chart; register"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Tang–Song musical treatises",
+          "form": "乐谱 / 琴谱",
+          "meaning": "tablature and musical notation books",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "乐谱",
+          "meaning": "sheet music; musical score",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "音乐",
+          "gloss": "music"
+        },
+        {
+          "word": "谱架",
+          "gloss": "music stand"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 乐谱 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%B9%90%E8%B0%B1#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 乐谱 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%B9%90%E8%B0%B1"
+        }
+      ]
+    },
+    "了": {
+      "etymology": "Neutral-tone aspect and sentence particle le marking a completed action (after a verb) or a newly changed situation (at the end of a sentence). Grammaticalized during the Tang and Song dynasties from the full verb 了 (liǎo, 'finish, complete'), which is already illustrated in its particle sense in Su Shi's Song lyrics.",
+      "morphemes": [
+        {
+          "part": "了",
+          "kind": "root",
+          "meaning": "finish (liǎo) -> completion / new-state particle (le)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Early medieval Chinese",
+          "form": "了 (liǎo)",
+          "meaning": "finish; bring to completion",
+          "certainty": "established"
+        },
+        {
+          "stage": "Tang–Song vernacular (Su Shi)",
+          "form": "了 (le)",
+          "meaning": "completed-action particle",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "极了",
+          "gloss": "extremely"
+        },
+        {
+          "word": "完了",
+          "gloss": "finished; oh no!"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 了 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BA%86#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 了 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%BA%86"
+        }
+      ]
+    },
+    "二": {
+      "etymology": "Cardinal numeral 'two', written since oracle-bone inscriptions with two parallel horizontal strokes. Used in counting ('one, two, three'), ordinals (第二 'second'), floor/room numbers (二楼 'second floor'), and multi-digit numbers (十二 'twelve', 二十 'twenty').",
+      "morphemes": [
+        {
+          "part": "二",
+          "kind": "indicative numeral",
+          "meaning": "two parallel strokes = two"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old Chinese (Oracle bones & Classics)",
+          "form": "二",
+          "meaning": "numeral two; second",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "二重奏",
+          "gloss": "duet"
+        },
+        {
+          "word": "星期二",
+          "gloss": "Tuesday"
+        },
+        {
+          "word": "两",
+          "gloss": "two (before measure words)"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 二 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BA%8C#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 二 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%BA%8C"
+        }
+      ]
+    },
+    "什么": {
+      "etymology": "Everyday question word 'what?' (shén me), descended from Tang–Song vernacular 拾沒 / 什麼 ('what thing?'). Used standalone (什么？ 'What?') or directly before a noun (什么茶？ 'What kind of tea?').",
+      "morphemes": [
+        {
+          "part": "什",
+          "kind": "component",
+          "meaning": "what / assorted"
+        },
+        {
+          "part": "么",
+          "kind": "suffix",
+          "meaning": "interrogative suffix"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Tang–Song vernacular Chinese",
+          "form": "什麼 / 甚摩",
+          "meaning": "interrogative 'what?'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "为什么",
+          "gloss": "why"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 什麼 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BB%80%E9%BA%BC#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 什麼 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%BB%80%E9%BA%BC"
+        }
+      ]
+    },
+    "今天": {
+      "etymology": "Noun meaning 'today', combining 今 ('now, present', attested on Shang oracle bones and in the Shijing) with 天 ('day'). Parallels 昨天 ('yesterday') and 明天 ('tomorrow'), and sits before or right after the subject without any preposition.",
+      "morphemes": [
+        {
+          "part": "今",
+          "kind": "root",
+          "meaning": "present; current"
+        },
+        {
+          "part": "天",
+          "kind": "root",
+          "meaning": "day"
         }
       ],
       "history": [
         {
           "stage": "Classical Chinese",
-          "form": "尔 / 爾",
-          "meaning": "second-person pronoun 'thou, you'",
+          "form": "今日",
+          "meaning": "today",
           "certainty": "established"
         },
         {
-          "stage": "Early vernacular Chinese (Zhou Shu, 7th c.)",
-          "form": "你",
-          "meaning": "singular 'you'",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "你们",
-          "gloss": "you (plural)"
-        },
-        {
-          "word": "你好",
-          "gloss": "hello"
-        },
-        {
-          "word": "您",
-          "gloss": "you (polite)"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 你 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%BD%A0#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 你 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%BD%A0"
-        }
-      ]
-    },
-    "您": {
-      "etymology": "Polite singular second-person pronoun ('you'), formed by placing 你 ('you') above 心 ('heart') to signal respectful deference. Emerging in Jin and Yuan dynasty northern vernacular (originally fused from plural 你们 in polite address), 您 became Standard Mandarin's courteous pronoun for elders, teachers, and guests.",
-      "morphemes": [
-        {
-          "part": "你",
-          "kind": "root",
-          "meaning": "you"
-        },
-        {
-          "part": "心",
-          "kind": "semantic component",
-          "meaning": "heart; respectful intent"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Yuan–Ming northern vernacular",
-          "form": "您",
-          "meaning": "polite second-person pronoun",
-          "certainty": "established"
-        },
-        {
-          "stage": "Modern Standard Mandarin",
-          "form": "您",
-          "meaning": "respectful singular 'you'",
+          "stage": "Vernacular Mandarin",
+          "form": "今天",
+          "meaning": "today",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "您好",
-          "gloss": "hello (polite)"
+          "word": "今晚",
+          "gloss": "tonight"
         },
         {
-          "word": "你",
-          "gloss": "you (everyday)"
+          "word": "明天",
+          "gloss": "tomorrow"
+        },
+        {
+          "word": "昨天",
+          "gloss": "yesterday"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 您 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%82%A8#Chinese"
+          "title": "Wiktionary — 今天 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BB%8A%E5%A4%A9#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 您 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%82%A8"
-        }
-      ]
-    },
-    "我": {
-      "etymology": "First-person singular pronoun ('I, me'), attested since Late Shang oracle-bone inscriptions, where the graph depicted a notched polearm before being borrowed phonetically for the first-person pronoun. In Classical Chinese texts such as the Classic of Poetry (Shijing) and Analects, 我 already serves unchanged as both subject 'I' and object 'me'.",
-      "morphemes": [
-        {
-          "part": "我",
-          "kind": "root",
-          "meaning": "first-person singular pronoun ('I, me')"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Old Chinese (Oracle bone inscriptions & Shijing)",
-          "form": "我",
-          "meaning": "first-person pronoun 'I, we, me'",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "我们",
-          "gloss": "we; us"
-        },
-        {
-          "word": "自己",
-          "gloss": "oneself"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 我 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%88%91#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 我 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%88%91"
+          "title": "MOE Revised Mandarin Dictionary — 今天 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%BB%8A%E5%A4%A9"
         }
       ]
     },
@@ -203,58 +468,13 @@
         }
       ]
     },
-    "她": {
-      "etymology": "Third-person singular feminine pronoun ('she, her'), written with the woman component 女 beside 也 and pronounced tā identically to 他. Introduced into modern written Mandarin in the late 1910s (popularized by poet and linguist Liu Bannong) to distinguish 'she' visually on the page while preserving spoken tā.",
+    "他们": {
+      "etymology": "Third-person plural pronoun ('they, them'), formed from 他 ('he / person') plus the plural marker 们 (men). Used for male or mixed groups of people without any subject-versus-object case change.",
       "morphemes": [
         {
-          "part": "女",
-          "kind": "semantic component",
-          "meaning": "woman; female"
-        },
-        {
-          "part": "也",
-          "kind": "component",
-          "meaning": "graphic parallel to 他"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Early 20th-century written Mandarin",
-          "form": "她",
-          "meaning": "third-person feminine pronoun 'she, her'",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "他",
-          "gloss": "he; him"
-        },
-        {
-          "word": "它",
-          "gloss": "it"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 她 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%A5%B9#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 她 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E5%A5%B9"
-        }
-      ]
-    },
-    "我们": {
-      "etymology": "First-person plural pronoun ('we, us'), combining 我 ('I') with the human plural suffix 们 (men). Plural markers written 弭, 伟, 懣, and finally 們 appear in Song and Yuan vernacular literature to form collective personal pronouns.",
-      "morphemes": [
-        {
-          "part": "我",
+          "part": "他",
           "kind": "root",
-          "meaning": "I; me"
+          "meaning": "he; third person"
         },
         {
           "part": "们",
@@ -265,35 +485,178 @@
       "history": [
         {
           "stage": "Song–Yuan vernacular Chinese",
-          "form": "我們",
-          "meaning": "first-person plural 'we, us'",
+          "form": "他們",
+          "meaning": "third-person plural 'they, them'",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "我",
-          "gloss": "I; me"
+          "word": "他",
+          "gloss": "he; him"
+        },
+        {
+          "word": "我们",
+          "gloss": "we; us"
         },
         {
           "word": "你们",
           "gloss": "you (plural)"
-        },
-        {
-          "word": "他们",
-          "gloss": "they; them"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 我們 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%88%91%E5%80%91#Chinese"
+          "title": "Wiktionary — 他們 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BB%96%E5%80%91#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 我們 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%88%91%E5%80%91"
+          "title": "MOE Revised Mandarin Dictionary — 他們 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%BB%96%E5%80%91"
+        }
+      ]
+    },
+    "件": {
+      "etymology": "Versatile measure word counting upper-body clothing (一件外套 'a coat'), pieces of luggage (一件行李), and matters or affairs (一件事). Combining 亻 ('person') and 牛 ('ox'), Shuo Wen Jie Zi defines 件 as 'divide, distinguish into distinct items'.",
+      "morphemes": [
+        {
+          "part": "亻",
+          "kind": "component",
+          "meaning": "person"
+        },
+        {
+          "part": "牛",
+          "kind": "component",
+          "meaning": "ox; distinct item"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Han dynasty (Shuo Wen Jie Zi)",
+          "form": "件",
+          "meaning": "distinguish; individual item",
+          "certainty": "established"
+        },
+        {
+          "stage": "Tang–Song onward",
+          "form": "件",
+          "meaning": "classifier for garments, luggage, matters",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "文件",
+          "gloss": "document; file"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 件 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BB%B6#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 件 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%BB%B6"
+        }
+      ]
+    },
+    "位": {
+      "etymology": "Polite measure word for people—especially guests, teachers, and elders (一位客人 'a guest', 一位老师 'a teacher'). Combining 亻 ('person') and 立 ('stand'), 位 in Classical court texts named a person's proper standing place or seat of honor, naturally becoming a respectful counter.",
+      "morphemes": [
+        {
+          "part": "亻",
+          "kind": "semantic component",
+          "meaning": "person"
+        },
+        {
+          "part": "立",
+          "kind": "semantic component",
+          "meaning": "stand at one's place"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Analects, Zhouli)",
+          "form": "位",
+          "meaning": "standing place; seat; rank",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "位置",
+          "gloss": "seat; location"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 位 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BD%8D#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 位 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%BD%8D"
+        }
+      ]
+    },
+    "你": {
+      "etymology": "Everyday singular second-person pronoun ('you'), combining the person classifier 亻 with 尔 (ěr), which itself served as a second-person pronoun in Classical Chinese. Attested in Northern Dynasties and Tang vernacular texts such as the Book of Zhou (Zhou Shu), 你 gradually replaced 尔 and 汝 as the standard spoken Mandarin pronoun among peers and colleagues.",
+      "morphemes": [
+        {
+          "part": "亻",
+          "kind": "semantic component",
+          "meaning": "person"
+        },
+        {
+          "part": "尔",
+          "kind": "phonetic and root pronoun",
+          "meaning": "Classical second-person 'you'"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese",
+          "form": "尔 / 爾",
+          "meaning": "second-person pronoun 'thou, you'",
+          "certainty": "established"
+        },
+        {
+          "stage": "Early vernacular Chinese (Zhou Shu, 7th c.)",
+          "form": "你",
+          "meaning": "singular 'you'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "你们",
+          "gloss": "you (plural)"
+        },
+        {
+          "word": "你好",
+          "gloss": "hello"
+        },
+        {
+          "word": "您",
+          "gloss": "you (polite)"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 你 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BD%A0#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 你 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%BD%A0"
         }
       ]
     },
@@ -346,624 +709,198 @@
         }
       ]
     },
-    "他们": {
-      "etymology": "Third-person plural pronoun ('they, them'), formed from 他 ('he / person') plus the plural marker 们 (men). Used for male or mixed groups of people without any subject-versus-object case change.",
+    "你好": {
+      "etymology": "Universal Mandarin greeting ('hello'), built from 你 ('you') + 好 ('good, well'—originally a short wish '[may] you [be] well'). Because two third-tone syllables meet (nǐ + hǎo), the first naturally lifts to second tone in speech: ní hǎo.",
       "morphemes": [
         {
-          "part": "他",
+          "part": "你",
+          "kind": "pronoun",
+          "meaning": "you"
+        },
+        {
+          "part": "好",
+          "kind": "adjective",
+          "meaning": "good; well"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "你好",
+          "meaning": "everyday greeting 'hello'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "您好",
+          "gloss": "hello (polite)"
+        },
+        {
+          "word": "你",
+          "gloss": "you"
+        },
+        {
+          "word": "好",
+          "gloss": "good"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 你好 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BD%A0%E5%A5%BD#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 你好 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E4%BD%A0%E5%A5%BD"
+        }
+      ]
+    },
+    "保险丝": {
+      "etymology": "Modern technical word for an electrical 'fuse': 保险 ('safe, secure', literally 'guard against danger', also 'insurance') + 丝 ('thread, fine wire'). The name describes the device by its job and its form: a thin wire that melts to keep the rest of the circuit safe. A more technical synonym is 熔丝 ('melting wire').",
+      "morphemes": [
+        {
+          "part": "保",
           "kind": "root",
-          "meaning": "he; third person"
+          "meaning": "protect; guard"
         },
         {
-          "part": "们",
-          "kind": "plural suffix",
-          "meaning": "human plural marker"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Song–Yuan vernacular Chinese",
-          "form": "他們",
-          "meaning": "third-person plural 'they, them'",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "他",
-          "gloss": "he; him"
-        },
-        {
-          "word": "我们",
-          "gloss": "we; us"
-        },
-        {
-          "word": "你们",
-          "gloss": "you (plural)"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 他們 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%BB%96%E5%80%91#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 他們 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%BB%96%E5%80%91"
-        }
-      ]
-    },
-    "是": {
-      "etymology": "Equative copula ('be: am, is, are') linking two nouns or noun phrases. In Classical Chinese (Analects, Mencius), 是 originally functioned as the proximal demonstrative 'this' and adjective 'right, correct'; in Han-dynasty prose its résumé position between topic and predicate ('X, this [is] Y') reanalyzed into the modern copula 'be'.",
-      "morphemes": [
-        {
-          "part": "是",
+          "part": "险",
           "kind": "root",
-          "meaning": "this; right; to be"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese (Analects)",
-          "form": "是",
-          "meaning": "demonstrative 'this'; 'right, correct'",
-          "certainty": "established"
+          "meaning": "danger; risk"
         },
         {
-          "stage": "Han-dynasty Chinese onward",
-          "form": "是",
-          "meaning": "copula 'to be'",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "不是",
-          "gloss": "is not"
-        },
-        {
-          "word": "就是",
-          "gloss": "is precisely"
-        },
-        {
-          "word": "可是",
-          "gloss": "but; however"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 是 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%98%AF#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 是 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%98%AF"
-        }
-      ]
-    },
-    "很": {
-      "etymology": "Degree adverb ('very') that also serves as the natural, unstressed link before simple predicate adjectives (今天很冷 'It is cold today'). In Classical Chinese (Shuo Wen Jie Zi, Zhanguo Ce), 很 meant 'unyielding, intractable, severe'; in Ming–Qing colloquial Mandarin that intensity bleached into the everyday degree word 'very'.",
-      "morphemes": [
-        {
-          "part": "彳",
-          "kind": "semantic component",
-          "meaning": "step; conduct"
-        },
-        {
-          "part": "艮",
-          "kind": "phonetic component",
-          "meaning": "firm; resistant"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese",
-          "form": "很",
-          "meaning": "unyielding; severe",
-          "certainty": "established"
-        },
-        {
-          "stage": "Qing vernacular Mandarin (Honglou Meng)",
-          "form": "很",
-          "meaning": "degree adverb 'very'",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "很好",
-          "gloss": "very good"
-        },
-        {
-          "word": "很快",
-          "gloss": "very fast"
-        },
-        {
-          "word": "很久",
-          "gloss": "a very long time"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 很 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%BE%88#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 很 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E5%BE%88"
-        }
-      ]
-    },
-    "好": {
-      "etymology": "Core adjective 'good, fine, well' (hǎo), combining 女 ('woman') and 子 ('child'). Already among the earliest graphs on Shang oracle bones and ubiquitous in the Classic of Poetry, 好 expresses quality, readiness (修好了 'fixed and ready'), and greetings (你好 'hello').",
-      "morphemes": [
-        {
-          "part": "女",
-          "kind": "component",
-          "meaning": "woman"
-        },
-        {
-          "part": "子",
-          "kind": "component",
-          "meaning": "child"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Old Chinese (Shijing)",
-          "form": "好",
-          "meaning": "good; fine; lovely (hǎo); to be fond of (hào)",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "你好",
-          "gloss": "hello"
-        },
-        {
-          "word": "好吃",
-          "gloss": "delicious"
-        },
-        {
-          "word": "好看",
-          "gloss": "good-looking"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 好 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%A5%BD#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 好 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E5%A5%BD"
-        }
-      ]
-    },
-    "不": {
-      "etymology": "General negation adverb ('not, no') for present, future, habitual, and stative predicates, attested from Shang oracle bones through every stage of Chinese. Spoken bù shifts automatically to rising second tone bú immediately before another fourth-tone syllable (不是 bú shì).",
-      "morphemes": [
-        {
-          "part": "不",
+          "part": "丝",
           "kind": "root",
-          "meaning": "negative adverb 'not'"
+          "meaning": "silk thread; fine wire"
         }
       ],
       "history": [
         {
-          "stage": "Old Chinese (Oracle bones & Shijing)",
-          "form": "不",
-          "meaning": "negative particle 'not'",
+          "stage": "Classical/early vernacular Chinese",
+          "form": "保险",
+          "meaning": "secure against danger",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "保险丝",
+          "meaning": "electrical fuse",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "不错",
-          "gloss": "pretty good"
+          "word": "保护",
+          "gloss": "protect"
         },
         {
-          "word": "不过",
-          "gloss": "however; though"
-        },
-        {
-          "word": "不好意思",
-          "gloss": "excuse me"
+          "word": "危险",
+          "gloss": "dangerous"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 不 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%B8%8D#Chinese"
+          "title": "Wiktionary — 保险丝 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E4%BF%9D%E9%99%A9%E4%B8%9D#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 不 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%B8%8D"
+          "title": "MOE Revised Mandarin Dictionary — 保险丝 (via 萌典)",
+          "url": "https://www.moedict.tw/%E4%BF%9D%E9%99%A9%E4%B8%9D"
         }
       ]
     },
-    "没": {
-      "etymology": "Existential and past-completion negator read méi ('not have; did not'), written with the water component 氵. Under its literary reading mò ('sink, submerge'), the graph appears in Classical Chinese; by late Tang and Song lyric poetry (such as Wei Zhuang's ci), 沒 had grammaticalized in spoken Chinese to negate 有 and completed events.",
+    "再见": {
+      "etymology": "Standard Mandarin farewell ('goodbye', literally 'again see / meet again'), pairing 再 ('once more, again') with 见 ('see, meet'). Mirrors friendly 'see you again' expressions worldwide without restricting the time of day.",
       "morphemes": [
         {
-          "part": "氵",
-          "kind": "semantic component",
-          "meaning": "water"
+          "part": "再",
+          "kind": "adverb",
+          "meaning": "again; once more"
         },
         {
-          "part": "殳",
-          "kind": "component",
-          "meaning": "submerge / phonetic element"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese",
-          "form": "沒 (mò)",
-          "meaning": "sink beneath water; disappear",
-          "certainty": "established"
-        },
-        {
-          "stage": "Tang–Song vernacular Chinese",
-          "form": "沒 (méi)",
-          "meaning": "not have; did not",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "没有",
-          "gloss": "not have; did not"
-        },
-        {
-          "word": "没关系",
-          "gloss": "it doesn't matter"
-        },
-        {
-          "word": "没错",
-          "gloss": "that's right"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 沒 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%B2%92#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 沒 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%B2%92"
-        }
-      ]
-    },
-    "有": {
-      "etymology": "Verb of possession ('have') and existence ('there is, there are'), attested from Shang oracle bones and bronze inscriptions through Classical and modern Mandarin. Unlike every other Mandarin verb, 有 is always negated with 没 (没有), never 不.",
-      "morphemes": [
-        {
-          "part": "有",
-          "kind": "root",
-          "meaning": "have; exist"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Old Chinese (Shijing & Analects)",
-          "form": "有",
-          "meaning": "have; possess; there is",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "没有",
-          "gloss": "not have; there is not"
-        },
-        {
-          "word": "有点",
-          "gloss": "a little"
-        },
-        {
-          "word": "有时候",
-          "gloss": "sometimes"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 有 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%9C%89#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 有 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%9C%89"
-        }
-      ]
-    },
-    "没有": {
-      "etymology": "Negative counterpart of 有 ('do not have; there is no; did not'), combining the negative 没 with 有. Established in Song–Yuan vernacular texts, 没有 both negates possession/existence before nouns and negates completed actions before verbs.",
-      "morphemes": [
-        {
-          "part": "没",
-          "kind": "negator",
-          "meaning": "not (existential/completed)"
-        },
-        {
-          "part": "有",
+          "part": "见",
           "kind": "verb",
-          "meaning": "have; exist"
+          "meaning": "see; meet"
         }
       ],
       "history": [
         {
-          "stage": "Song–Yuan vernacular Chinese",
-          "form": "沒有",
-          "meaning": "not have; there is not",
+          "stage": "Classical morphemes 再 ('again') + 見 ('see')",
+          "form": "再見",
+          "meaning": "modern greeting 'see you again; goodbye'",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "没",
-          "gloss": "not"
+          "word": "再",
+          "gloss": "again; then"
         },
         {
-          "word": "有",
-          "gloss": "have; there is"
+          "word": "见",
+          "gloss": "see; meet"
+        },
+        {
+          "word": "见面",
+          "gloss": "meet in person"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 沒有 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%B2%92%E6%9C%89#Chinese"
+          "title": "Wiktionary — 再見 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%86%8D%E8%A6%8B#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 沒有 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%B2%92%E6%9C%89"
+          "title": "MOE Revised Mandarin Dictionary — 再見 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%86%8D%E8%A6%8B"
         }
       ]
     },
-    "在": {
-      "etymology": "Locative verb ('be at, in, on'), locative coverb ('at, in'), and progressive marker ('right in the middle of doing'). In Classical Chinese (Analects, Shijing), 在 already means 'reside in, be located at, exist'; modern Mandarin extends that 'being at a point' sense to ongoing actions before verbs.",
+    "双": {
+      "etymology": "Measure word for things that come in natural matched pairs (一双皮鞋 'a pair of leather shoes', 一双手 'a pair of hands'). The traditional graph 雙 shows two birds (隹 + 隹) held in one hand (又)—literally 'a matched pair held together'.",
       "morphemes": [
         {
-          "part": "在",
-          "kind": "root",
-          "meaning": "be present at; reside in"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Old Chinese (Shijing & Analects)",
-          "form": "在",
-          "meaning": "be located at; exist; remain",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "现在",
-          "gloss": "now"
+          "part": "隹 + 隹",
+          "kind": "semantic component (in 雙)",
+          "meaning": "two birds"
         },
         {
-          "word": "正在",
-          "gloss": "in the middle of"
-        },
-        {
-          "word": "好在",
-          "gloss": "fortunately"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 在 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%9C%A8#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 在 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E5%9C%A8"
-        }
-      ]
-    },
-    "要": {
-      "etymology": "High-frequency verb and modal ('want, need, will / be going to'). Originally depicting two hands at the waist (later clarified as 腰 'waist'), 要 in Classical Chinese meant 'seek, invite, essential' (yāo / yào), from which vernacular Mandarin developed 'need, want' and imminent future 'be about to'.",
-      "morphemes": [
-        {
-          "part": "要",
-          "kind": "root",
-          "meaning": "want; need; essential; will"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese (Mencius)",
-          "form": "要",
-          "meaning": "seek; essential; important",
-          "certainty": "established"
-        },
-        {
-          "stage": "Vernacular Mandarin",
-          "form": "要",
-          "meaning": "want; need; be going to",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "需要",
-          "gloss": "need; require"
-        },
-        {
-          "word": "重要",
-          "gloss": "important"
-        },
-        {
-          "word": "只要",
-          "gloss": "as long as"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 要 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E8%A6%81#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 要 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E8%A6%81"
-        }
-      ]
-    },
-    "想": {
-      "etymology": "Mental and modal verb meaning 'think of, miss, would like to', combining 相 ('observe, mutual appearance', phonetic xiāng) above 心 ('heart-mind'). Attested in Han-dynasty texts for calling an image to mind, 想 before another verb expresses a polite wish ('would like to') softer than direct 要.",
-      "morphemes": [
-        {
-          "part": "相",
-          "kind": "phonetic component",
-          "meaning": "appearance; observe"
-        },
-        {
-          "part": "心",
+          "part": "又",
           "kind": "semantic component",
-          "meaning": "heart; mind"
+          "meaning": "hand holding a pair"
         }
       ],
       "history": [
         {
-          "stage": "Classical Chinese (Han dynasty)",
-          "form": "想",
-          "meaning": "call to mind; long for; think",
+          "stage": "Classical Chinese (Shijing)",
+          "form": "雙",
+          "meaning": "pair of birds; matched pair",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "梦想",
-          "gloss": "dream"
-        },
-        {
-          "word": "相信",
-          "gloss": "believe"
+          "word": "双胞胎",
+          "gloss": "twins"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 想 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%83%B3#Chinese"
+          "title": "Wiktionary — 雙 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%9B%99#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 想 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%83%B3"
-        }
-      ]
-    },
-    "需要": {
-      "etymology": "Compound verb and noun meaning 'need, require', pairing 需 ('await, require', attested in the Yijing) with 要 ('essential, need'). Used in polite requests and everyday explanations of what a task calls for.",
-      "morphemes": [
-        {
-          "part": "需",
-          "kind": "root",
-          "meaning": "require; need"
-        },
-        {
-          "part": "要",
-          "kind": "root",
-          "meaning": "need; essential"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical roots in Yijing (需) & Mencius (要)",
-          "form": "需 + 要",
-          "meaning": "require + essential -> modern compound 需要 'need'",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "要",
-          "gloss": "want; need"
-        },
-        {
-          "word": "重要",
-          "gloss": "important"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 需要 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E9%9C%80%E8%A6%81#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 需要 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E9%9C%80%E8%A6%81"
-        }
-      ]
-    },
-    "了": {
-      "etymology": "Neutral-tone aspect and sentence particle le marking a completed action (after a verb) or a newly changed situation (at the end of a sentence). Grammaticalized during the Tang and Song dynasties from the full verb 了 (liǎo, 'finish, complete'), which is already illustrated in its particle sense in Su Shi's Song lyrics.",
-      "morphemes": [
-        {
-          "part": "了",
-          "kind": "root",
-          "meaning": "finish (liǎo) -> completion / new-state particle (le)"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Early medieval Chinese",
-          "form": "了 (liǎo)",
-          "meaning": "finish; bring to completion",
-          "certainty": "established"
-        },
-        {
-          "stage": "Tang–Song vernacular (Su Shi)",
-          "form": "了 (le)",
-          "meaning": "completed-action particle",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "极了",
-          "gloss": "extremely"
-        },
-        {
-          "word": "完了",
-          "gloss": "finished; oh no!"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 了 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%BA%86#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 了 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%BA%86"
+          "title": "MOE Revised Mandarin Dictionary — 雙 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%9B%99"
         }
       ]
     },
@@ -1012,51 +949,6 @@
         }
       ]
     },
-    "呢": {
-      "etymology": "Sentence-final particle used for bounce-back follow-up questions ('And what about X?' 你呢？) and for highlighting an ongoing state ('right now'). Written with 口 ('mouth') plus 尼 (ní phonetic), its conversational particle uses are richly attested in Qing vernacular novels such as Honglou Meng.",
-      "morphemes": [
-        {
-          "part": "口",
-          "kind": "semantic component",
-          "meaning": "mouth; spoken particle"
-        },
-        {
-          "part": "尼",
-          "kind": "phonetic component",
-          "meaning": "ní phonetic"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Qing vernacular Mandarin (Honglou Meng)",
-          "form": "呢 (ne)",
-          "meaning": "follow-up question and ongoing-state particle",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "吗",
-          "gloss": "yes/no question particle"
-        },
-        {
-          "word": "吧",
-          "gloss": "suggestion particle"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 呢 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%91%A2#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 呢 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E5%91%A2"
-        }
-      ]
-    },
     "吧": {
       "etymology": "Sentence-final particle softening commands into warm invitations ('let's…', 'go ahead and…') or asking for gentle confirmation. Formed with 口 ('mouth') + 巴 (bā phonetic) and evolved from earlier imperative/concessive finals like 罢 (bà, 'finish, let it be') in Ming–Qing colloquial speech.",
       "morphemes": [
@@ -1102,624 +994,48 @@
         }
       ]
     },
-    "的": {
-      "etymology": "Structural particle de linking an owner, noun, adjective, or clause to a following noun (我的书 'my book', 安静的院子 'quiet courtyard'), or forming a headless possessive ('mine, Teacher Song's'). In Tang–Song vernacular texts this linker was often written 底 (dǐ) before standardizing on 的 in Yuan–Ming prose.",
+    "呢": {
+      "etymology": "Sentence-final particle used for bounce-back follow-up questions ('And what about X?' 你呢？) and for highlighting an ongoing state ('right now'). Written with 口 ('mouth') plus 尼 (ní phonetic), its conversational particle uses are richly attested in Qing vernacular novels such as Honglou Meng.",
       "morphemes": [
         {
-          "part": "白",
-          "kind": "component",
-          "meaning": "bright / clear"
+          "part": "口",
+          "kind": "semantic component",
+          "meaning": "mouth; spoken particle"
         },
         {
-          "part": "勺",
+          "part": "尼",
           "kind": "phonetic component",
-          "meaning": "ancient phonetic base"
+          "meaning": "ní phonetic"
         }
       ],
       "history": [
         {
-          "stage": "Tang–Song vernacular Chinese",
-          "form": "底",
-          "meaning": "attributive and possessive linker",
-          "certainty": "established"
-        },
-        {
-          "stage": "Yuan–Ming Mandarin onward",
-          "form": "的 (de)",
-          "meaning": "possessive and descriptive particle",
+          "stage": "Qing vernacular Mandarin (Honglou Meng)",
+          "form": "呢 (ne)",
+          "meaning": "follow-up question and ongoing-state particle",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "真的",
-          "gloss": "really; genuine"
+          "word": "吗",
+          "gloss": "yes/no question particle"
         },
         {
-          "word": "有的",
-          "gloss": "some"
+          "word": "吧",
+          "gloss": "suggestion particle"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 的 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E7%9A%84#Chinese"
+          "title": "Wiktionary — 呢 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%91%A2#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 的 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E7%9A%84"
-        }
-      ]
-    },
-    "个": {
-      "etymology": "Mandarin's default general measure word (classifier) placed between a number or demonstrative and a noun (一个人, 这个房间). Originally counting stalks of bamboo (written 箇 with the bamboo radical 竹, or 個 with 亻 in Classical texts like Xunzi and Shiji), it broadened by the Six Dynasties and Tang period into a universal classifier.",
-      "morphemes": [
-        {
-          "part": "个 / 個",
-          "kind": "root",
-          "meaning": "bamboo stalk / single unit -> general classifier"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese (Xunzi, Shiji)",
-          "form": "箇 / 個",
-          "meaning": "counter for bamboo shafts, arrows, individual items",
-          "certainty": "established"
-        },
-        {
-          "stage": "Medieval to Modern Mandarin",
-          "form": "个",
-          "meaning": "general measure word",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "个人",
-          "gloss": "personal; individual"
-        },
-        {
-          "word": "个子",
-          "gloss": "height; build"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 個 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%80%8B#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 個 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E5%80%8B"
-        }
-      ]
-    },
-    "把": {
-      "etymology": "Measure word for objects you grip by a handle or back (一把钥匙 'a key', 一把椅子 'a chair') AND disposal coverb fronting a definite object before an action verb (把门打开). Both functions grew directly out of the Classical Chinese verb 把 ('grasp, hold in the hand', combining 扌 'hand' + 巴 phonetic).",
-      "morphemes": [
-        {
-          "part": "扌",
-          "kind": "semantic component",
-          "meaning": "hand"
-        },
-        {
-          "part": "巴",
-          "kind": "phonetic component",
-          "meaning": "bā phonetic"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese (Zhanguo Ce)",
-          "form": "把",
-          "meaning": "hold or grasp in the hand",
-          "certainty": "established"
-        },
-        {
-          "stage": "Tang–Song vernacular onward",
-          "form": "把",
-          "meaning": "classifier for handled items; object-fronting marker",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "把手",
-          "gloss": "handle; doorknob"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 把 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%8A%8A#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 把 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%8A%8A"
-        }
-      ]
-    },
-    "间": {
-      "etymology": "Measure word for rooms of every kind (一间客房 'a guest room', 一间书房 'a study'), combining 门 ('doorway, gate') with 日 ('sunlight'). Depicting light peeking through a doorway gap, 間 in Classical Chinese meant 'interval, space between' and the bay between building pillars—hence one room.",
-      "morphemes": [
-        {
-          "part": "门",
-          "kind": "semantic component",
-          "meaning": "door; gate"
-        },
-        {
-          "part": "日",
-          "kind": "semantic component",
-          "meaning": "sunlight shining through"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese",
-          "form": "間",
-          "meaning": "space between; structural room bay",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "房间",
-          "gloss": "room"
-        },
-        {
-          "word": "中间",
-          "gloss": "middle; between"
-        },
-        {
-          "word": "时间",
-          "gloss": "time"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 間 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E9%96%93#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 間 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E9%96%93"
-        }
-      ]
-    },
-    "张": {
-      "etymology": "Measure word for flat, spread-out surfaces and paper items (一张桌子 'a table', 一张纸 'a sheet of paper', 一张床 'a bed'). Formed from 弓 ('bow') + 长 (cháng phonetic), 張 originally meant 'string and draw a bow open' in the Shijing, extending naturally to things spread flat.",
-      "morphemes": [
-        {
-          "part": "弓",
-          "kind": "semantic component",
-          "meaning": "bow"
-        },
-        {
-          "part": "长",
-          "kind": "phonetic component",
-          "meaning": "stretch; long"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Old Chinese (Shijing)",
-          "form": "張",
-          "meaning": "draw or stretch a bow",
-          "certainty": "established"
-        },
-        {
-          "stage": "Medieval to Modern Chinese",
-          "form": "张",
-          "meaning": "classifier for flat sheets, tables, beds",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "紧张",
-          "gloss": "nervous; tense"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 張 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%BC%B5#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 張 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E5%BC%B5"
-        }
-      ]
-    },
-    "件": {
-      "etymology": "Versatile measure word counting upper-body clothing (一件外套 'a coat'), pieces of luggage (一件行李), and matters or affairs (一件事). Combining 亻 ('person') and 牛 ('ox'), Shuo Wen Jie Zi defines 件 as 'divide, distinguish into distinct items'.",
-      "morphemes": [
-        {
-          "part": "亻",
-          "kind": "component",
-          "meaning": "person"
-        },
-        {
-          "part": "牛",
-          "kind": "component",
-          "meaning": "ox; distinct item"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Han dynasty (Shuo Wen Jie Zi)",
-          "form": "件",
-          "meaning": "distinguish; individual item",
-          "certainty": "established"
-        },
-        {
-          "stage": "Tang–Song onward",
-          "form": "件",
-          "meaning": "classifier for garments, luggage, matters",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "文件",
-          "gloss": "document; file"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 件 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%BB%B6#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 件 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%BB%B6"
-        }
-      ]
-    },
-    "杯": {
-      "etymology": "Noun 'cup' and measure word for cupfuls or glassfuls of drinks (一杯热茶 'a cup of hot tea', 一杯咖啡 'a cup of coffee'). Written with 木 ('wood', reflecting early lacquered wooden drinking vessels) and 不 phonetic, 杯 is attested in Classical banqueting scenes in the Shiji and Mencius.",
-      "morphemes": [
-        {
-          "part": "木",
-          "kind": "semantic component",
-          "meaning": "wood (early wooden drinking cup)"
-        },
-        {
-          "part": "不",
-          "kind": "phonetic component",
-          "meaning": "phonetic base"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese (Mencius, Shiji)",
-          "form": "杯 / 盃",
-          "meaning": "drinking cup",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "杯子",
-          "gloss": "cup; glass"
-        },
-        {
-          "word": "茶杯",
-          "gloss": "teacup"
-        },
-        {
-          "word": "干杯",
-          "gloss": "cheers!"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 杯 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%9D%AF#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 杯 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%9D%AF"
-        }
-      ]
-    },
-    "双": {
-      "etymology": "Measure word for things that come in natural matched pairs (一双皮鞋 'a pair of leather shoes', 一双手 'a pair of hands'). The traditional graph 雙 shows two birds (隹 + 隹) held in one hand (又)—literally 'a matched pair held together'.",
-      "morphemes": [
-        {
-          "part": "隹 + 隹",
-          "kind": "semantic component (in 雙)",
-          "meaning": "two birds"
-        },
-        {
-          "part": "又",
-          "kind": "semantic component",
-          "meaning": "hand holding a pair"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese (Shijing)",
-          "form": "雙",
-          "meaning": "pair of birds; matched pair",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "双胞胎",
-          "gloss": "twins"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 雙 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E9%9B%99#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 雙 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E9%9B%99"
-        }
-      ]
-    },
-    "条": {
-      "etymology": "Measure word for long, narrow, or winding things: streets, lanes, rivers, towels, trousers, and legal clauses (一条老街 'an old street', 一条毛巾 'a towel'). In the Classic of Poetry, 條 originally named a long, slender tree branch, from which the long-strip classifier grew.",
-      "morphemes": [
-        {
-          "part": "木",
-          "kind": "semantic component",
-          "meaning": "tree; branch"
-        },
-        {
-          "part": "攸",
-          "kind": "phonetic component (in 條)",
-          "meaning": "slender length"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Old Chinese (Shijing)",
-          "form": "條",
-          "meaning": "long slender branch",
-          "certainty": "established"
-        },
-        {
-          "stage": "Six Dynasties onward",
-          "form": "条",
-          "meaning": "classifier for streets, rivers, ropes, clauses",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "纸条",
-          "gloss": "slip of paper"
-        },
-        {
-          "word": "条例",
-          "gloss": "regulation"
-        },
-        {
-          "word": "条文",
-          "gloss": "legal clause"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 條 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%A2%9D#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 條 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%A2%9D"
-        }
-      ]
-    },
-    "本": {
-      "etymology": "Measure word for bound books, notebooks, and ledgers (一本书 'a book', 一本账本 'a ledger'). Formed by marking the lower root of 木 ('tree') with a stroke, 本 meant 'tree root, foundation, origin' in Classical Chinese, then 'bound volume' once bamboo slips were superseded by stitched codices.",
-      "morphemes": [
-        {
-          "part": "木",
-          "kind": "base graph",
-          "meaning": "tree"
-        },
-        {
-          "part": "一",
-          "kind": "indicative mark",
-          "meaning": "the root at the base"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese (Analects)",
-          "form": "本",
-          "meaning": "root of a tree; foundation",
-          "certainty": "established"
-        },
-        {
-          "stage": "Song dynasty print culture onward",
-          "form": "本",
-          "meaning": "bound volume; classifier for books",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "本子",
-          "gloss": "notebook"
-        },
-        {
-          "word": "笔记本",
-          "gloss": "notebook; laptop"
-        },
-        {
-          "word": "本来",
-          "gloss": "originally"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 本 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%9C%AC#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 本 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%9C%AC"
-        }
-      ]
-    },
-    "位": {
-      "etymology": "Polite measure word for people—especially guests, teachers, and elders (一位客人 'a guest', 一位老师 'a teacher'). Combining 亻 ('person') and 立 ('stand'), 位 in Classical court texts named a person's proper standing place or seat of honor, naturally becoming a respectful counter.",
-      "morphemes": [
-        {
-          "part": "亻",
-          "kind": "semantic component",
-          "meaning": "person"
-        },
-        {
-          "part": "立",
-          "kind": "semantic component",
-          "meaning": "stand at one's place"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese (Analects, Zhouli)",
-          "form": "位",
-          "meaning": "standing place; seat; rank",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "位置",
-          "gloss": "seat; location"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 位 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%BD%8D#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 位 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%BD%8D"
-        }
-      ]
-    },
-    "这": {
-      "etymology": "Proximal demonstrative ('this'), pairing with a measure word before nouns (这个 'this one', 这间房 'this room'). Written with the movement component 辶 plus 言, 這 emerged in Tang–Song vernacular Chinese (alongside earlier 者) to replace Classical 此 ('this').",
-      "morphemes": [
-        {
-          "part": "辶",
-          "kind": "component",
-          "meaning": "movement / deictic base"
-        },
-        {
-          "part": "言",
-          "kind": "component (in 這)",
-          "meaning": "phonetic-graphic element"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Tang–Song vernacular Chinese",
-          "form": "這",
-          "meaning": "demonstrative 'this'",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "这里",
-          "gloss": "here"
-        },
-        {
-          "word": "这儿",
-          "gloss": "here (spoken)"
-        },
-        {
-          "word": "这些",
-          "gloss": "these"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 這 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E9%80%99#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 這 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E9%80%99"
-        }
-      ]
-    },
-    "那": {
-      "etymology": "Distal demonstrative ('that'), pairing with a measure word before nouns (那个 'that one', 那条街 'that street') or opening a clause with 'well then'. Attested as a demonstrative in Han–Six Dynasties colloquial texts, contrasting directly with proximal 这.",
-      "morphemes": [
-        {
-          "part": "那",
-          "kind": "root",
-          "meaning": "distal demonstrative 'that'"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Six Dynasties & Tang vernacular",
-          "form": "那",
-          "meaning": "that; over there",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "那里",
-          "gloss": "there"
-        },
-        {
-          "word": "那儿",
-          "gloss": "there (spoken)"
-        },
-        {
-          "word": "那些",
-          "gloss": "those"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 那 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E9%82%A3#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 那 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E9%82%A3"
+          "title": "MOE Revised Mandarin Dictionary — 呢 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%91%A2"
         }
       ]
     },
@@ -1817,497 +1133,492 @@
         }
       ]
     },
-    "这里": {
-      "etymology": "Location pronoun meaning 'here' ('this place'), formed strictly parallel to 那里 ('there') and 哪里 ('where'). Placed right after 在 to anchor where someone or something is.",
+    "圆舞曲": {
+      "etymology": "Semantic calque coined for the European waltz: 圆 ('round/revolving') + 舞 ('dance') + 曲 ('musical piece'), literally 'revolving-dance music', capturing the whirling turns behind German Walzer (from walzen 'revolve').",
       "morphemes": [
         {
-          "part": "这",
-          "kind": "demonstrative",
-          "meaning": "this"
+          "part": "圆",
+          "kind": "modifier",
+          "meaning": "round; circling"
         },
         {
-          "part": "里",
-          "kind": "noun",
-          "meaning": "place; inside"
+          "part": "舞",
+          "kind": "noun/verb",
+          "meaning": "dance"
+        },
+        {
+          "part": "曲",
+          "kind": "head noun",
+          "meaning": "musical composition"
         }
       ],
       "history": [
         {
-          "stage": "Song–Ming vernacular Chinese",
-          "form": "這裡",
-          "meaning": "here; this place",
+          "stage": "20th-century Mandarin",
+          "form": "圆舞曲",
+          "meaning": "waltz (alongside phonetic loan 华尔兹)",
           "certainty": "established"
         }
       ],
-      "cognates": [],
+      "cognates": [
+        {
+          "lang": "German",
+          "word": "Walzer",
+          "meaning": "revolving ballroom dance in 3/4 time (semantic model)"
+        }
+      ],
       "rootFamily": [
         {
-          "word": "这",
-          "gloss": "this"
-        },
-        {
-          "word": "那里",
-          "gloss": "there"
-        },
-        {
-          "word": "哪里",
-          "gloss": "where"
+          "word": "曲子",
+          "gloss": "piece of music"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 這裡 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E9%80%99%E8%A3%A1#Chinese"
+          "title": "Wiktionary — 圆舞曲 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%9C%86%E8%88%9E%E6%9B%B2#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 這裡 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E9%80%99%E8%A3%A1"
+          "title": "MOE Revised Mandarin Dictionary — 圆舞曲 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%9C%86%E8%88%9E%E6%9B%B2"
         }
       ]
     },
-    "谁": {
-      "etymology": "Interrogative pronoun 'who, whom' (shuí or shéi), combining 言/讠 ('speech, ask') with 隹 (zhuī phonetic). Already standard across Classical Chinese (Shijing, Analects), 谁 stays in place in Mandarin questions and takes 的 to form 谁的 ('whose?').",
+    "在": {
+      "etymology": "Locative verb ('be at, in, on'), locative coverb ('at, in'), and progressive marker ('right in the middle of doing'). In Classical Chinese (Analects, Shijing), 在 already means 'reside in, be located at, exist'; modern Mandarin extends that 'being at a point' sense to ongoing actions before verbs.",
       "morphemes": [
         {
-          "part": "讠",
-          "kind": "semantic component",
-          "meaning": "speech; inquiry"
-        },
-        {
-          "part": "隹",
-          "kind": "phonetic component",
-          "meaning": "Old Chinese phonetic base"
+          "part": "在",
+          "kind": "root",
+          "meaning": "be present at; reside in"
         }
       ],
       "history": [
         {
           "stage": "Old Chinese (Shijing & Analects)",
-          "form": "誰",
-          "meaning": "interrogative pronoun 'who?'",
+          "form": "在",
+          "meaning": "be located at; exist; remain",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "的",
-          "gloss": "possessive particle (谁的 'whose')"
+          "word": "现在",
+          "gloss": "now"
+        },
+        {
+          "word": "正在",
+          "gloss": "in the middle of"
+        },
+        {
+          "word": "好在",
+          "gloss": "fortunately"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 誰 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E8%AA%B0#Chinese"
+          "title": "Wiktionary — 在 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%9C%A8#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 誰 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E8%AA%B0"
+          "title": "MOE Revised Mandarin Dictionary — 在 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%9C%A8"
         }
       ]
     },
-    "什么": {
-      "etymology": "Everyday question word 'what?' (shén me), descended from Tang–Song vernacular 拾沒 / 什麼 ('what thing?'). Used standalone (什么？ 'What?') or directly before a noun (什么茶？ 'What kind of tea?').",
+    "墨水": {
+      "etymology": "Compound of 墨 ('black soot ink', combining 黑 'black' + 土 'earth', from pine-soot inksticks) + 水 ('water/liquid'), naming liquid pen ink in contrast to solid inksticks ground on an inkstone.",
       "morphemes": [
         {
-          "part": "什",
-          "kind": "component",
-          "meaning": "what / assorted"
+          "part": "墨",
+          "kind": "modifier noun",
+          "meaning": "black ink"
         },
         {
-          "part": "么",
-          "kind": "suffix",
-          "meaning": "interrogative suffix"
+          "part": "水",
+          "kind": "head noun",
+          "meaning": "liquid; water"
         }
       ],
       "history": [
         {
-          "stage": "Tang–Song vernacular Chinese",
-          "form": "什麼 / 甚摩",
-          "meaning": "interrogative 'what?'",
+          "stage": "Pre-Qin to Imperial China",
+          "form": "墨",
+          "meaning": "pine-soot inkstick",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "墨水",
+          "meaning": "liquid fountain-pen ink",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "为什么",
-          "gloss": "why"
+          "word": "水",
+          "gloss": "water"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 什麼 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%BB%80%E9%BA%BC#Chinese"
+          "title": "Wiktionary — 墨水 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%A2%A8%E6%B0%B4#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 什麼 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%BB%80%E9%BA%BC"
+          "title": "MOE Revised Mandarin Dictionary — 墨水 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%A2%A8%E6%B0%B4"
         }
       ]
     },
-    "怎么": {
-      "etymology": "Interrogative adverb asking 'how?' or 'how come?' directly before a verb (怎么走？ 'how do I get there?', 怎么拿错了？ 'how did it get mixed up?'). Formed with the same colloquial -么 suffix as 什么 and attested throughout Ming–Qing vernacular fiction.",
+    "天花板": {
+      "etymology": "Everyday word for 'ceiling', built from 天花 ('heavenly flowers') + 板 ('board'). 天花 first meant flowers falling from heaven in translated Buddhist texts; it was later applied to the decorated, painted panel ceilings of halls, and Ming–Qing builders called the grid of wooden panels 天花板. Modern Mandarin also uses it figuratively for an upper limit.",
       "morphemes": [
         {
-          "part": "怎",
-          "kind": "interrogative root",
-          "meaning": "how; why"
-        },
-        {
-          "part": "么",
-          "kind": "suffix",
-          "meaning": "interrogative suffix"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Song–Qing vernacular Mandarin (Honglou Meng)",
-          "form": "怎麼",
-          "meaning": "how; why; in what way",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "怎么办",
-          "gloss": "what should we do?"
-        },
-        {
-          "word": "怎么样",
-          "gloss": "how is it?"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 怎麼 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%80%8E%E9%BA%BC#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 怎麼 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%80%8E%E9%BA%BC"
-        }
-      ]
-    },
-    "一": {
-      "etymology": "Cardinal number 'one', written since oracle-bone antiquity with a single horizontal stroke. In spoken Mandarin, 一 undergoes regular tone sandhi: yī in counting and ordinals (第一), rising yí before a fourth tone (一个 yí gè), and falling yì before tones 1, 2, and 3 (一杯 yì bēi).",
-      "morphemes": [
-        {
-          "part": "一",
-          "kind": "indicative numeral",
-          "meaning": "one single stroke = one"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Old Chinese (Oracle bones & Classics)",
-          "form": "一",
-          "meaning": "numeral one; single; whole",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "一起",
-          "gloss": "together"
-        },
-        {
-          "word": "一样",
-          "gloss": "the same"
-        },
-        {
-          "word": "一点",
-          "gloss": "a little"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 一 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%B8%80#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 一 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%B8%80"
-        }
-      ]
-    },
-    "两": {
-      "etymology": "Word for 'two' used before measure words and paired nouns (两个房间 'two rooms', 两把钥匙 'two keys'). In Classical Chinese, 兩 denoted a matched pair (such as two chariot wheels) and a unit of weight, explaining why Mandarin prefers 两 when counting concrete items with classifiers while keeping 二 for abstract counting and ordinals.",
-      "morphemes": [
-        {
-          "part": "两 / 兩",
+          "part": "天",
           "kind": "root",
-          "meaning": "pair; couple; two (with classifiers)"
+          "meaning": "sky; heaven"
+        },
+        {
+          "part": "花",
+          "kind": "root",
+          "meaning": "flower; decorative pattern"
+        },
+        {
+          "part": "板",
+          "kind": "root",
+          "meaning": "board; panel"
         }
       ],
       "history": [
         {
-          "stage": "Classical Chinese (Shijing, Zuozhuan)",
-          "form": "兩",
-          "meaning": "pair; both; two",
+          "stage": "Buddhist translation Chinese",
+          "form": "天花",
+          "meaning": "flowers raining from heaven",
+          "certainty": "established"
+        },
+        {
+          "stage": "Ming–Qing architecture",
+          "form": "天花板",
+          "meaning": "panelled decorative ceiling",
+          "certainty": "likely"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "天花板",
+          "meaning": "ceiling; (figurative) upper limit",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "俩",
-          "gloss": "two people; both"
+          "word": "天",
+          "gloss": "sky; day"
         },
         {
-          "word": "二",
-          "gloss": "two (digits/ordinals)"
+          "word": "花",
+          "gloss": "flower"
         }
       ],
-      "certainty": "established",
+      "certainty": "likely",
       "sources": [
         {
-          "title": "Wiktionary — 兩 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%85%A9#Chinese"
+          "title": "Wiktionary — 天花板 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%A4%A9%E8%8A%B1%E6%9D%BF#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 兩 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E5%85%A9"
+          "title": "MOE Revised Mandarin Dictionary — 天花板 (via 萌典)",
+          "url": "https://www.moedict.tw/%E5%A4%A9%E8%8A%B1%E6%9D%BF"
         }
       ]
     },
-    "二": {
-      "etymology": "Cardinal numeral 'two', written since oracle-bone inscriptions with two parallel horizontal strokes. Used in counting ('one, two, three'), ordinals (第二 'second'), floor/room numbers (二楼 'second floor'), and multi-digit numbers (十二 'twelve', 二十 'twenty').",
+    "太阳": {
+      "etymology": "Everyday spoken word for 'the sun': 太 ('great, utmost') + 阳 ('yang', the bright, warm principle opposed to 阴 yin). It is probably so named because the sun was seen as the utmost expression of yang. Classical Chinese usually said simply 日, which survives in words such as 日出 ('sunrise').",
       "morphemes": [
         {
-          "part": "二",
-          "kind": "indicative numeral",
-          "meaning": "two parallel strokes = two"
+          "part": "太",
+          "kind": "root",
+          "meaning": "great; utmost"
+        },
+        {
+          "part": "阳",
+          "kind": "root",
+          "meaning": "yang; sunlight"
         }
       ],
       "history": [
         {
-          "stage": "Old Chinese (Oracle bones & Classics)",
-          "form": "二",
-          "meaning": "numeral two; second",
+          "stage": "Classical Chinese",
+          "form": "日",
+          "meaning": "sun; day",
+          "certainty": "established"
+        },
+        {
+          "stage": "Literary and spoken Chinese",
+          "form": "太陽",
+          "meaning": "the sun (the 'great yang')",
+          "certainty": "likely"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "太阳",
+          "meaning": "sun; sunshine",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "二重奏",
-          "gloss": "duet"
+          "word": "阳光",
+          "gloss": "sunshine"
         },
         {
-          "word": "星期二",
-          "gloss": "Tuesday"
-        },
-        {
-          "word": "两",
-          "gloss": "two (before measure words)"
+          "word": "阳光房",
+          "gloss": "sunroom"
         }
       ],
-      "certainty": "established",
+      "certainty": "likely",
       "sources": [
         {
-          "title": "Wiktionary — 二 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%BA%8C#Chinese"
+          "title": "Wiktionary — 太阳 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%A4%AA%E9%98%B3#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 二 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%BA%8C"
+          "title": "MOE Revised Mandarin Dictionary — 太阳 (via 萌典)",
+          "url": "https://www.moedict.tw/%E5%A4%AA%E9%98%B3"
         }
       ]
     },
-    "请": {
-      "etymology": "Polite request marker ('please') and hospitality verb ('invite; treat someone to a meal'), combining 讠 ('words') with 青 (qīng phonetic). In Classical Chinese etiquette (Analects, Liji), 請 meant 'respectfully request permission or invite', which remains the heart of modern 请进 ('please come in') and 请坐 ('please sit').",
+    "她": {
+      "etymology": "Third-person singular feminine pronoun ('she, her'), written with the woman component 女 beside 也 and pronounced tā identically to 他. Introduced into modern written Mandarin in the late 1910s (popularized by poet and linguist Liu Bannong) to distinguish 'she' visually on the page while preserving spoken tā.",
       "morphemes": [
         {
-          "part": "讠",
+          "part": "女",
           "kind": "semantic component",
-          "meaning": "polite speech"
+          "meaning": "woman; female"
         },
         {
-          "part": "青",
-          "kind": "phonetic component",
-          "meaning": "qīng phonetic"
+          "part": "也",
+          "kind": "component",
+          "meaning": "graphic parallel to 他"
         }
       ],
       "history": [
         {
-          "stage": "Classical Chinese (Analects, Liji)",
-          "form": "請",
-          "meaning": "request respectfully; invite",
+          "stage": "Early 20th-century written Mandarin",
+          "form": "她",
+          "meaning": "third-person feminine pronoun 'she, her'",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "请问",
-          "gloss": "excuse me, may I ask"
+          "word": "他",
+          "gloss": "he; him"
         },
         {
-          "word": "请客",
-          "gloss": "treat someone"
+          "word": "它",
+          "gloss": "it"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 請 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E8%AB%8B#Chinese"
+          "title": "Wiktionary — 她 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%A5%B9#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 請 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E8%AB%8B"
+          "title": "MOE Revised Mandarin Dictionary — 她 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%A5%B9"
         }
       ]
     },
-    "请问": {
-      "etymology": "Polite question opener ('excuse me, may I ask…'), pairing 请 ('respectfully request') with 问 ('ask'). Already attested as a courteous formula in Classical dialogues in Mencius ('Dare I respectfully ask…'), it remains Standard Mandarin's everyday way to approach a front desk or stranger.",
+    "好": {
+      "etymology": "Core adjective 'good, fine, well' (hǎo), combining 女 ('woman') and 子 ('child'). Already among the earliest graphs on Shang oracle bones and ubiquitous in the Classic of Poetry, 好 expresses quality, readiness (修好了 'fixed and ready'), and greetings (你好 'hello').",
       "morphemes": [
         {
-          "part": "请",
-          "kind": "verb",
-          "meaning": "please; respectfully request"
+          "part": "女",
+          "kind": "component",
+          "meaning": "woman"
         },
         {
-          "part": "问",
-          "kind": "verb",
-          "meaning": "ask; inquire"
+          "part": "子",
+          "kind": "component",
+          "meaning": "child"
         }
       ],
       "history": [
         {
-          "stage": "Classical Chinese (Mencius)",
-          "form": "請問",
-          "meaning": "respectfully ask a question",
+          "stage": "Old Chinese (Shijing)",
+          "form": "好",
+          "meaning": "good; fine; lovely (hǎo); to be fond of (hào)",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "请",
-          "gloss": "please; invite"
+          "word": "你好",
+          "gloss": "hello"
         },
         {
-          "word": "问",
-          "gloss": "ask"
+          "word": "好吃",
+          "gloss": "delicious"
         },
         {
-          "word": "问题",
-          "gloss": "question; problem"
+          "word": "好看",
+          "gloss": "good-looking"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 請問 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E8%AB%8B%E5%95%8F#Chinese"
+          "title": "Wiktionary — 好 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%A5%BD#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 請問 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E8%AB%8B%E5%95%8F"
+          "title": "MOE Revised Mandarin Dictionary — 好 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%A5%BD"
         }
       ]
     },
-    "谢谢": {
-      "etymology": "Everyday expression of gratitude ('thank you'), formed by reduplicating 谢 ('thank, express gratitude; decline politely', written with 讠 'speech' + 射 phonetic). Single 謝 for thanking someone appears in Han-dynasty historical records (Shiji), while reduplicated 謝謝 became standard in Ming–Qing spoken Mandarin.",
+    "妈妈": {
+      "etymology": "Intimate reduplication of 妈 (woman classifier 女 + phonetic 马 mǎ), part of the near-universal bilabial nasal nursery pattern for 'mother' while anchored in Chinese script since the Guangyun dictionary (Middle Chinese).",
       "morphemes": [
         {
-          "part": "谢",
+          "part": "妈",
+          "kind": "kinship root",
+          "meaning": "mother"
+        },
+        {
+          "part": "妈",
+          "kind": "reduplicated syllable",
+          "meaning": "affectionate reduplication (neutral tone)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Middle Chinese (Guangyun)",
+          "form": "媽",
+          "meaning": "mother",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "妈妈",
+          "meaning": "mother; mum",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 妈妈 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%A6%88%E5%A6%88#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 妈妈 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%A6%88%E5%A6%88"
+        }
+      ]
+    },
+    "姑姑": {
+      "etymology": "Affectionate kinship reduplication of 姑 (woman classifier 女 + phonetic 古 gǔ), attested since the Erya and Book of Odes specifically for one's father's sister—reflecting Chinese kinship's precise distinction between paternal (姑姑) and maternal (姨妈/阿姨) aunts.",
+      "morphemes": [
+        {
+          "part": "姑",
+          "kind": "kinship root",
+          "meaning": "father's sister"
+        },
+        {
+          "part": "姑",
+          "kind": "reduplicated syllable",
+          "meaning": "intimate kinship reduplication (neutral tone)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old Chinese (Shijing / Erya)",
+          "form": "姑",
+          "meaning": "father's sister; husband's mother",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "姑姑",
+          "meaning": "paternal aunt",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 姑姑 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%A7%91%E5%A7%91#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 姑姑 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%A7%91%E5%A7%91"
+        }
+      ]
+    },
+    "客栈": {
+      "etymology": "Traditional courtyard inn or boutique guesthouse (counted with 家: 一家客栈), combining 客 ('traveler, guest') with 栈 ('wooden gallery, storehouse, wayside lodge'). Historic 客棧 served merchants and travelers along imperial post roads and remain iconic in preserved old quarters of Chengdu and Southwest China.",
+      "morphemes": [
+        {
+          "part": "客",
           "kind": "root",
-          "meaning": "thank; express gratitude"
+          "meaning": "guest; traveler"
         },
         {
-          "part": "谢",
-          "kind": "reduplication",
-          "meaning": "warm spoken doubling"
+          "part": "栈",
+          "kind": "root",
+          "meaning": "timber lodge; storehouse"
         }
       ],
       "history": [
         {
-          "stage": "Classical Chinese (Shiji)",
-          "form": "謝",
-          "meaning": "express thanks or apology",
-          "certainty": "established"
-        },
-        {
-          "stage": "Ming–Qing vernacular Mandarin",
-          "form": "謝謝",
-          "meaning": "thank you",
+          "stage": "Ming–Qing travel and commercial usage",
+          "form": "客棧",
+          "meaning": "travelers' courtyard inn",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "谢天谢地",
-          "gloss": "thank goodness!"
+          "word": "客人",
+          "gloss": "guest"
+        },
+        {
+          "word": "客房",
+          "gloss": "guest room"
+        },
+        {
+          "word": "客气",
+          "gloss": "polite"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 謝謝 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E8%AC%9D%E8%AC%9D#Chinese"
+          "title": "Wiktionary — 客棧 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%AE%A2%E6%A3%A7#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 謝謝 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E8%AC%9D%E8%AC%9D"
-        }
-      ]
-    },
-    "再见": {
-      "etymology": "Standard Mandarin farewell ('goodbye', literally 'again see / meet again'), pairing 再 ('once more, again') with 见 ('see, meet'). Mirrors friendly 'see you again' expressions worldwide without restricting the time of day.",
-      "morphemes": [
-        {
-          "part": "再",
-          "kind": "adverb",
-          "meaning": "again; once more"
-        },
-        {
-          "part": "见",
-          "kind": "verb",
-          "meaning": "see; meet"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical morphemes 再 ('again') + 見 ('see')",
-          "form": "再見",
-          "meaning": "modern greeting 'see you again; goodbye'",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "再",
-          "gloss": "again; then"
-        },
-        {
-          "word": "见",
-          "gloss": "see; meet"
-        },
-        {
-          "word": "见面",
-          "gloss": "meet in person"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 再見 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%86%8D%E8%A6%8B#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 再見 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E5%86%8D%E8%A6%8B"
+          "title": "MOE Revised Mandarin Dictionary — 客棧 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%AE%A2%E6%A3%A7"
         }
       ]
     },
@@ -2361,70 +1672,229 @@
         }
       ]
     },
-    "没关系": {
-      "etymology": "Warm reassuring reply to an apology ('it doesn't matter; no problem'), combining 没 ('not have') with 关系 ('connection, bearing, consequence'—literally 'no bearing / nothing to worry over').",
+    "开关": {
+      "etymology": "Antonymic verb-pair compound turned noun: 开 ('open / switch on', originally two hands lifting a bar from门 gate leaves) + 关 ('shut / switch off', a crossbar latching门 shut). By pairing opposite actions, 开关 names an electrical switch or valve.",
       "morphemes": [
         {
-          "part": "没",
-          "kind": "negator",
-          "meaning": "not have"
+          "part": "开",
+          "kind": "verb root",
+          "meaning": "open; turn on"
         },
         {
-          "part": "关系",
-          "kind": "noun",
-          "meaning": "connection; consequence"
+          "part": "关",
+          "kind": "verb root",
+          "meaning": "close; turn off"
         }
       ],
       "history": [
         {
+          "stage": "Classical & Vernacular Chinese",
+          "form": "开关",
+          "meaning": "opening and closing a gate or pass",
+          "certainty": "established"
+        },
+        {
           "stage": "Modern Standard Mandarin",
-          "form": "沒關係",
-          "meaning": "it doesn't matter; never mind",
+          "form": "开关",
+          "meaning": "electrical switch; on-off control",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "对不起",
-          "gloss": "I'm sorry"
+          "word": "打开",
+          "gloss": "open"
         },
         {
-          "word": "没",
-          "gloss": "not have"
+          "word": "关",
+          "gloss": "close"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 沒關係 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%B2%92%E9%97%9C%E4%BF%82#Chinese"
+          "title": "Wiktionary — 开关 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%BC%80%E5%85%B3#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 沒關係 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%B2%92%E9%97%9C%E4%BF%82"
+          "title": "MOE Revised Mandarin Dictionary — 开关 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%BC%80%E5%85%B3"
         }
       ]
     },
-    "你好": {
-      "etymology": "Universal Mandarin greeting ('hello'), built from 你 ('you') + 好 ('good, well'—originally a short wish '[may] you [be] well'). Because two third-tone syllables meet (nǐ + hǎo), the first naturally lifts to second tone in speech: ní hǎo.",
+    "张": {
+      "etymology": "Measure word for flat, spread-out surfaces and paper items (一张桌子 'a table', 一张纸 'a sheet of paper', 一张床 'a bed'). Formed from 弓 ('bow') + 长 (cháng phonetic), 張 originally meant 'string and draw a bow open' in the Shijing, extending naturally to things spread flat.",
       "morphemes": [
         {
-          "part": "你",
-          "kind": "pronoun",
-          "meaning": "you"
+          "part": "弓",
+          "kind": "semantic component",
+          "meaning": "bow"
         },
         {
-          "part": "好",
-          "kind": "adjective",
-          "meaning": "good; well"
+          "part": "长",
+          "kind": "phonetic component",
+          "meaning": "stretch; long"
         }
       ],
       "history": [
         {
+          "stage": "Old Chinese (Shijing)",
+          "form": "張",
+          "meaning": "draw or stretch a bow",
+          "certainty": "established"
+        },
+        {
+          "stage": "Medieval to Modern Chinese",
+          "form": "张",
+          "meaning": "classifier for flat sheets, tables, beds",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "紧张",
+          "gloss": "nervous; tense"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 張 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%BC%B5#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 張 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%BC%B5"
+        }
+      ]
+    },
+    "很": {
+      "etymology": "Degree adverb ('very') that also serves as the natural, unstressed link before simple predicate adjectives (今天很冷 'It is cold today'). In Classical Chinese (Shuo Wen Jie Zi, Zhanguo Ce), 很 meant 'unyielding, intractable, severe'; in Ming–Qing colloquial Mandarin that intensity bleached into the everyday degree word 'very'.",
+      "morphemes": [
+        {
+          "part": "彳",
+          "kind": "semantic component",
+          "meaning": "step; conduct"
+        },
+        {
+          "part": "艮",
+          "kind": "phonetic component",
+          "meaning": "firm; resistant"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese",
+          "form": "很",
+          "meaning": "unyielding; severe",
+          "certainty": "established"
+        },
+        {
+          "stage": "Qing vernacular Mandarin (Honglou Meng)",
+          "form": "很",
+          "meaning": "degree adverb 'very'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "很好",
+          "gloss": "very good"
+        },
+        {
+          "word": "很快",
+          "gloss": "very fast"
+        },
+        {
+          "word": "很久",
+          "gloss": "a very long time"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 很 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E5%BE%88#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 很 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E5%BE%88"
+        }
+      ]
+    },
+    "怎么": {
+      "etymology": "Interrogative adverb asking 'how?' or 'how come?' directly before a verb (怎么走？ 'how do I get there?', 怎么拿错了？ 'how did it get mixed up?'). Formed with the same colloquial -么 suffix as 什么 and attested throughout Ming–Qing vernacular fiction.",
+      "morphemes": [
+        {
+          "part": "怎",
+          "kind": "interrogative root",
+          "meaning": "how; why"
+        },
+        {
+          "part": "么",
+          "kind": "suffix",
+          "meaning": "interrogative suffix"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Song–Qing vernacular Mandarin (Honglou Meng)",
+          "form": "怎麼",
+          "meaning": "how; why; in what way",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "怎么办",
+          "gloss": "what should we do?"
+        },
+        {
+          "word": "怎么样",
+          "gloss": "how is it?"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 怎麼 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%80%8E%E9%BA%BC#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 怎麼 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%80%8E%E9%BA%BC"
+        }
+      ]
+    },
+    "您": {
+      "etymology": "Polite singular second-person pronoun ('you'), formed by placing 你 ('you') above 心 ('heart') to signal respectful deference. Emerging in Jin and Yuan dynasty northern vernacular (originally fused from plural 你们 in polite address), 您 became Standard Mandarin's courteous pronoun for elders, teachers, and guests.",
+      "morphemes": [
+        {
+          "part": "你",
+          "kind": "root",
+          "meaning": "you"
+        },
+        {
+          "part": "心",
+          "kind": "semantic component",
+          "meaning": "heart; respectful intent"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Yuan–Ming northern vernacular",
+          "form": "您",
+          "meaning": "polite second-person pronoun",
+          "certainty": "established"
+        },
+        {
           "stage": "Modern Standard Mandarin",
-          "form": "你好",
-          "meaning": "everyday greeting 'hello'",
+          "form": "您",
+          "meaning": "respectful singular 'you'",
           "certainty": "established"
         }
       ],
@@ -2436,22 +1906,18 @@
         },
         {
           "word": "你",
-          "gloss": "you"
-        },
-        {
-          "word": "好",
-          "gloss": "good"
+          "gloss": "you (everyday)"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 你好 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%BD%A0%E5%A5%BD#Chinese"
+          "title": "Wiktionary — 您 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%82%A8#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 你好 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%BD%A0%E5%A5%BD"
+          "title": "MOE Revised Mandarin Dictionary — 您 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%82%A8"
         }
       ]
     },
@@ -2497,6 +1963,421 @@
         {
           "title": "MOE Revised Mandarin Dictionary — 您好 (via 萌典)",
           "url": "https://www.moedict.tw/uni/%E6%82%A8%E5%A5%BD"
+        }
+      ]
+    },
+    "想": {
+      "etymology": "Mental and modal verb meaning 'think of, miss, would like to', combining 相 ('observe, mutual appearance', phonetic xiāng) above 心 ('heart-mind'). Attested in Han-dynasty texts for calling an image to mind, 想 before another verb expresses a polite wish ('would like to') softer than direct 要.",
+      "morphemes": [
+        {
+          "part": "相",
+          "kind": "phonetic component",
+          "meaning": "appearance; observe"
+        },
+        {
+          "part": "心",
+          "kind": "semantic component",
+          "meaning": "heart; mind"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Han dynasty)",
+          "form": "想",
+          "meaning": "call to mind; long for; think",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "梦想",
+          "gloss": "dream"
+        },
+        {
+          "word": "相信",
+          "gloss": "believe"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 想 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%83%B3#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 想 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%83%B3"
+        }
+      ]
+    },
+    "我": {
+      "etymology": "First-person singular pronoun ('I, me'), attested since Late Shang oracle-bone inscriptions, where the graph depicted a notched polearm before being borrowed phonetically for the first-person pronoun. In Classical Chinese texts such as the Classic of Poetry (Shijing) and Analects, 我 already serves unchanged as both subject 'I' and object 'me'.",
+      "morphemes": [
+        {
+          "part": "我",
+          "kind": "root",
+          "meaning": "first-person singular pronoun ('I, me')"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old Chinese (Oracle bone inscriptions & Shijing)",
+          "form": "我",
+          "meaning": "first-person pronoun 'I, we, me'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "我们",
+          "gloss": "we; us"
+        },
+        {
+          "word": "自己",
+          "gloss": "oneself"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 我 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%88%91#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 我 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%88%91"
+        }
+      ]
+    },
+    "我们": {
+      "etymology": "First-person plural pronoun ('we, us'), combining 我 ('I') with the human plural suffix 们 (men). Plural markers written 弭, 伟, 懣, and finally 們 appear in Song and Yuan vernacular literature to form collective personal pronouns.",
+      "morphemes": [
+        {
+          "part": "我",
+          "kind": "root",
+          "meaning": "I; me"
+        },
+        {
+          "part": "们",
+          "kind": "plural suffix",
+          "meaning": "human plural marker"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Song–Yuan vernacular Chinese",
+          "form": "我們",
+          "meaning": "first-person plural 'we, us'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "我",
+          "gloss": "I; me"
+        },
+        {
+          "word": "你们",
+          "gloss": "you (plural)"
+        },
+        {
+          "word": "他们",
+          "gloss": "they; them"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 我們 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%88%91%E5%80%91#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 我們 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%88%91%E5%80%91"
+        }
+      ]
+    },
+    "房间": {
+      "etymology": "Everyday two-syllable noun for 'room' (counted with 间: 一间房间), pairing 房 ('side house, chamber', attested in the Shijing) with 间 ('architectural bay, room space').",
+      "morphemes": [
+        {
+          "part": "房",
+          "kind": "root",
+          "meaning": "house; chamber"
+        },
+        {
+          "part": "间",
+          "kind": "root",
+          "meaning": "room bay; interior space"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical roots 房 ('chamber') + 間 ('bay')",
+          "form": "房間",
+          "meaning": "disyllabic noun 'room'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "客房",
+          "gloss": "guest room"
+        },
+        {
+          "word": "书房",
+          "gloss": "study"
+        },
+        {
+          "word": "房子",
+          "gloss": "house"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 房間 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%88%BF%E9%96%93#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 房間 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%88%BF%E9%96%93"
+        }
+      ]
+    },
+    "把": {
+      "etymology": "Measure word for objects you grip by a handle or back (一把钥匙 'a key', 一把椅子 'a chair') AND disposal coverb fronting a definite object before an action verb (把门打开). Both functions grew directly out of the Classical Chinese verb 把 ('grasp, hold in the hand', combining 扌 'hand' + 巴 phonetic).",
+      "morphemes": [
+        {
+          "part": "扌",
+          "kind": "semantic component",
+          "meaning": "hand"
+        },
+        {
+          "part": "巴",
+          "kind": "phonetic component",
+          "meaning": "bā phonetic"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Zhanguo Ce)",
+          "form": "把",
+          "meaning": "hold or grasp in the hand",
+          "certainty": "established"
+        },
+        {
+          "stage": "Tang–Song vernacular onward",
+          "form": "把",
+          "meaning": "classifier for handled items; object-fronting marker",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "把手",
+          "gloss": "handle; doorknob"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 把 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%8A%8A#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 把 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%8A%8A"
+        }
+      ]
+    },
+    "折扣": {
+      "etymology": "Merchant accounting compound of 折 ('break off, reduce proportionally') + 扣 ('hold back, deduct from a sum'). In Chinese shopkeeper usage, 打九折 states the fraction retained (9/10 = 90%), whereas 折扣 names the price reduction itself.",
+      "morphemes": [
+        {
+          "part": "折",
+          "kind": "verb root",
+          "meaning": "reduce proportionally; fold"
+        },
+        {
+          "part": "扣",
+          "kind": "verb root",
+          "meaning": "deduct"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Ming–Qing merchant bookkeeping",
+          "form": "折扣",
+          "meaning": "percentage deduction on list price",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "折扣",
+          "meaning": "retail discount",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "五折",
+          "gloss": "fifty percent off"
+        },
+        {
+          "word": "打九折",
+          "gloss": "ten percent off"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 折扣 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%8A%98%E6%89%A3#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 折扣 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%8A%98%E6%89%A3"
+        }
+      ]
+    },
+    "报纸": {
+      "etymology": "Compound of 报 ('report, gazette, bulletin', as in imperial 邸报 court gazettes) + 纸 ('paper', silk/fibre radical 纟 + 氏, perfected during the Eastern Han).",
+      "morphemes": [
+        {
+          "part": "报",
+          "kind": "modifier noun",
+          "meaning": "news report; gazette"
+        },
+        {
+          "part": "纸",
+          "kind": "head noun",
+          "meaning": "paper"
+        }
+      ],
+      "history": [
+        {
+          "stage": "19th-century modern press",
+          "form": "新闻纸 / 报纸",
+          "meaning": "printed newspaper",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "报纸",
+          "meaning": "newspaper; newsprint",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "纸",
+          "gloss": "paper"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 报纸 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%8A%A5%E7%BA%B8#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 报纸 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%8A%A5%E7%BA%B8"
+        }
+      ]
+    },
+    "拱门": {
+      "etymology": "Compound of 拱 ('join hands in a curved bow; arch', hand classifier 扌 + phonetic 共 gǒng) + 门 ('gate, doorway', pictograph of double swinging gate leaves), naming a curved stone or brick archway.",
+      "morphemes": [
+        {
+          "part": "拱",
+          "kind": "modifier verb/noun",
+          "meaning": "arch; curve together"
+        },
+        {
+          "part": "门",
+          "kind": "head noun",
+          "meaning": "gate; doorway"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Traditional Chinese architecture",
+          "form": "拱门",
+          "meaning": "arched stone or brick doorway",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "门",
+          "gloss": "door"
+        },
+        {
+          "word": "大门口",
+          "gloss": "front gate"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 拱门 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%8B%B1%E9%97%A8#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 拱门 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%8B%B1%E9%97%A8"
+        }
+      ]
+    },
+    "旋律": {
+      "etymology": "Sino-Japanese / literary Chinese musical compound combining 旋 ('revolve, return in phrases') + 律 ('pitch-pipe standard, musical law/temperament'). Standardized across modern East Asian musical terminology to render 'melody'.",
+      "morphemes": [
+        {
+          "part": "旋",
+          "kind": "root",
+          "meaning": "turn; flow in phrases"
+        },
+        {
+          "part": "律",
+          "kind": "root",
+          "meaning": "pitch standard; rhythmic law"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese music theory",
+          "form": "律吕",
+          "meaning": "twelve-tone pitch pipes and temperament",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "旋律",
+          "meaning": "melody",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 旋律 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%97%8B%E5%BE%8B#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 旋律 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%97%8B%E5%BE%8B"
         }
       ]
     },
@@ -2604,147 +2485,1168 @@
         }
       ]
     },
-    "今天": {
-      "etymology": "Noun meaning 'today', combining 今 ('now, present', attested on Shang oracle bones and in the Shijing) with 天 ('day'). Parallels 昨天 ('yesterday') and 明天 ('tomorrow'), and sits before or right after the subject without any preposition.",
+    "是": {
+      "etymology": "Equative copula ('be: am, is, are') linking two nouns or noun phrases. In Classical Chinese (Analects, Mencius), 是 originally functioned as the proximal demonstrative 'this' and adjective 'right, correct'; in Han-dynasty prose its résumé position between topic and predicate ('X, this [is] Y') reanalyzed into the modern copula 'be'.",
       "morphemes": [
         {
-          "part": "今",
+          "part": "是",
           "kind": "root",
-          "meaning": "present; current"
-        },
-        {
-          "part": "天",
-          "kind": "root",
-          "meaning": "day"
+          "meaning": "this; right; to be"
         }
       ],
       "history": [
         {
-          "stage": "Classical Chinese",
-          "form": "今日",
-          "meaning": "today",
+          "stage": "Classical Chinese (Analects)",
+          "form": "是",
+          "meaning": "demonstrative 'this'; 'right, correct'",
           "certainty": "established"
         },
         {
-          "stage": "Vernacular Mandarin",
-          "form": "今天",
-          "meaning": "today",
+          "stage": "Han-dynasty Chinese onward",
+          "form": "是",
+          "meaning": "copula 'to be'",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "今晚",
-          "gloss": "tonight"
+          "word": "不是",
+          "gloss": "is not"
         },
         {
-          "word": "明天",
-          "gloss": "tomorrow"
+          "word": "就是",
+          "gloss": "is precisely"
         },
         {
-          "word": "昨天",
-          "gloss": "yesterday"
+          "word": "可是",
+          "gloss": "but; however"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 今天 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%BB%8A%E5%A4%A9#Chinese"
+          "title": "Wiktionary — 是 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%98%AF#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 今天 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E4%BB%8A%E5%A4%A9"
+          "title": "MOE Revised Mandarin Dictionary — 是 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%98%AF"
         }
       ]
     },
-    "门": {
-      "etymology": "Core noun 'door, gate', descended directly from a Shang oracle-bone pictograph of two swinging wooden gate leaves under a lintel. Counted with the measure word 扇 (一扇门 'a door') and productive in compounds like 开门 ('open the door'), 门口 ('doorway'), and 大门 ('front gate').",
+    "有": {
+      "etymology": "Verb of possession ('have') and existence ('there is, there are'), attested from Shang oracle bones and bronze inscriptions through Classical and modern Mandarin. Unlike every other Mandarin verb, 有 is always negated with 没 (没有), never 不.",
       "morphemes": [
         {
-          "part": "门 / 門",
+          "part": "有",
+          "kind": "root",
+          "meaning": "have; exist"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old Chinese (Shijing & Analects)",
+          "form": "有",
+          "meaning": "have; possess; there is",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "没有",
+          "gloss": "not have; there is not"
+        },
+        {
+          "word": "有点",
+          "gloss": "a little"
+        },
+        {
+          "word": "有时候",
+          "gloss": "sometimes"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 有 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%9C%89#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 有 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%9C%89"
+        }
+      ]
+    },
+    "本": {
+      "etymology": "Measure word for bound books, notebooks, and ledgers (一本书 'a book', 一本账本 'a ledger'). Formed by marking the lower root of 木 ('tree') with a stroke, 本 meant 'tree root, foundation, origin' in Classical Chinese, then 'bound volume' once bamboo slips were superseded by stitched codices.",
+      "morphemes": [
+        {
+          "part": "木",
+          "kind": "base graph",
+          "meaning": "tree"
+        },
+        {
+          "part": "一",
+          "kind": "indicative mark",
+          "meaning": "the root at the base"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Analects)",
+          "form": "本",
+          "meaning": "root of a tree; foundation",
+          "certainty": "established"
+        },
+        {
+          "stage": "Song dynasty print culture onward",
+          "form": "本",
+          "meaning": "bound volume; classifier for books",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "本子",
+          "gloss": "notebook"
+        },
+        {
+          "word": "笔记本",
+          "gloss": "notebook; laptop"
+        },
+        {
+          "word": "本来",
+          "gloss": "originally"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 本 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%9C%AC#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 本 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%9C%AC"
+        }
+      ]
+    },
+    "条": {
+      "etymology": "Measure word for long, narrow, or winding things: streets, lanes, rivers, towels, trousers, and legal clauses (一条老街 'an old street', 一条毛巾 'a towel'). In the Classic of Poetry, 條 originally named a long, slender tree branch, from which the long-strip classifier grew.",
+      "morphemes": [
+        {
+          "part": "木",
+          "kind": "semantic component",
+          "meaning": "tree; branch"
+        },
+        {
+          "part": "攸",
+          "kind": "phonetic component (in 條)",
+          "meaning": "slender length"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old Chinese (Shijing)",
+          "form": "條",
+          "meaning": "long slender branch",
+          "certainty": "established"
+        },
+        {
+          "stage": "Six Dynasties onward",
+          "form": "条",
+          "meaning": "classifier for streets, rivers, ropes, clauses",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "纸条",
+          "gloss": "slip of paper"
+        },
+        {
+          "word": "条例",
+          "gloss": "regulation"
+        },
+        {
+          "word": "条文",
+          "gloss": "legal clause"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 條 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%A2%9D#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 條 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%A2%9D"
+        }
+      ]
+    },
+    "杯": {
+      "etymology": "Noun 'cup' and measure word for cupfuls or glassfuls of drinks (一杯热茶 'a cup of hot tea', 一杯咖啡 'a cup of coffee'). Written with 木 ('wood', reflecting early lacquered wooden drinking vessels) and 不 phonetic, 杯 is attested in Classical banqueting scenes in the Shiji and Mencius.",
+      "morphemes": [
+        {
+          "part": "木",
+          "kind": "semantic component",
+          "meaning": "wood (early wooden drinking cup)"
+        },
+        {
+          "part": "不",
+          "kind": "phonetic component",
+          "meaning": "phonetic base"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Mencius, Shiji)",
+          "form": "杯 / 盃",
+          "meaning": "drinking cup",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "杯子",
+          "gloss": "cup; glass"
+        },
+        {
+          "word": "茶杯",
+          "gloss": "teacup"
+        },
+        {
+          "word": "干杯",
+          "gloss": "cheers!"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 杯 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%9D%AF#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 杯 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%9D%AF"
+        }
+      ]
+    },
+    "杯子": {
+      "etymology": "Formed from 杯 ('cup', phono-semantic character with 木 'wood'—reflecting early lacquered wooden drinking vessels—and phonetic 不) plus the nominalizing diminutive suffix 子 (neutral tone zi), which turns monosyllabic nouns into natural two-syllable spoken Mandarin words.",
+      "morphemes": [
+        {
+          "part": "杯",
+          "kind": "root noun",
+          "meaning": "cup; drinking vessel"
+        },
+        {
+          "part": "子",
+          "kind": "nominal suffix",
+          "meaning": "noun-forming suffix (neutral tone)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Warring States–Han Chinese",
+          "form": "杯 / 盃",
+          "meaning": "lacquered wooden or ceramic wine/soup cup",
+          "certainty": "established"
+        },
+        {
+          "stage": "Vernacular & Modern Mandarin",
+          "form": "杯子",
+          "meaning": "cup; mug; glass",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "杯",
+          "gloss": "cup (measure word)"
+        },
+        {
+          "word": "茶杯",
+          "gloss": "teacup"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 杯子 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%9D%AF%E5%AD%90#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 杯子 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%9D%AF%E5%AD%90"
+        }
+      ]
+    },
+    "柠檬": {
+      "etymology": "Disyllabic phonetic loan for 'lemon' written with two tree-radical characters (木 + 宁 níng and 木 + 蒙 méng). Attested in Song–Yuan maritime and botanical records (such as Fan Chengda's Guihai Yuheng Zhi and southern trade glossaries) transcribing Indo-Iranian / Malay-Arabic citrus terms ultimately akin to Sanskrit nimbū and Persian līmūn.",
+      "morphemes": [
+        {
+          "part": "柠",
+          "kind": "phonetic loan syllable (with 木 tree radical)",
+          "meaning": "first syllable of 'lemon'"
+        },
+        {
+          "part": "檬",
+          "kind": "phonetic loan syllable (with 木 tree radical)",
+          "meaning": "second syllable of 'lemon'"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Song–Yuan southern botanical records",
+          "form": "黎檬 / 柠檬",
+          "meaning": "tart citrus fruit cultivated in Lingnan",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "柠檬",
+          "meaning": "lemon",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "lemon",
+          "meaning": "citrus fruit borrowed along the same Indo-Persian trade network"
+        },
+        {
+          "lang": "Persian",
+          "word": "līmūn (لیمون)",
+          "meaning": "lemon"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "柠檬塔",
+          "gloss": "lemon tart"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 柠檬 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%9F%A0%E6%AA%AC#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 柠檬 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%9F%A0%E6%AA%AC"
+        }
+      ]
+    },
+    "椅子": {
+      "etymology": "Formed from 椅 (wood radical 木 + phonetic 奇 qí; originally a type of catalpa tree in Classical texts, reassigned during the Tang–Song transition from floor mats to high-seated backed chairs) + nominal suffix 子.",
+      "morphemes": [
+        {
+          "part": "椅",
+          "kind": "root noun",
+          "meaning": "backed chair"
+        },
+        {
+          "part": "子",
+          "kind": "nominal suffix",
+          "meaning": "noun-forming suffix (neutral tone)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Tang–Song furniture shift",
+          "form": "交椅 / 椅子",
+          "meaning": "folding chair and backed wooden chair",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "椅子",
+          "meaning": "chair",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "椅",
+          "gloss": "chair (bound form)"
+        },
+        {
+          "word": "折叠椅",
+          "gloss": "folding chair"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 椅子 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%A4%85%E5%AD%90#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 椅子 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%A4%85%E5%AD%90"
+        }
+      ]
+    },
+    "水": {
+      "etymology": "Fundamental noun 'water' (shuǐ), descended from an oracle-bone pictograph of a flowing stream flanked by ripples and droplets. Serves both as an independent word (热水 'hot water', 喝水 'drink water') and as the left-hand component 氵 in hundreds of liquid-related characters.",
+      "morphemes": [
+        {
+          "part": "水",
           "kind": "pictographic root",
-          "meaning": "double-leaf gate or door"
+          "meaning": "flowing water"
         }
       ],
       "history": [
         {
           "stage": "Old Chinese (Oracle bones & Classics)",
-          "form": "門",
-          "meaning": "gate; door; entrance",
+          "form": "水",
+          "meaning": "water; river",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "开门",
-          "gloss": "open the door"
+          "word": "热水",
+          "gloss": "hot water"
         },
         {
-          "word": "大门",
-          "gloss": "main gate"
+          "word": "冷水",
+          "gloss": "cold water"
         },
         {
-          "word": "门口",
-          "gloss": "doorway"
+          "word": "水管",
+          "gloss": "water pipe"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 門 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E9%96%80#Chinese"
+          "title": "Wiktionary — 水 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%B0%B4#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 門 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E9%96%80"
+          "title": "MOE Revised Mandarin Dictionary — 水 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%B0%B4"
         }
       ]
     },
-    "钥匙": {
-      "etymology": "Compound noun 'key' (yào shi, counted with 把: 一把钥匙), combining two metal-radical (钅/金) words: 钥 ('lock bolt / key') and 匙 ('key / spoon'). In Classical texts 鑰 named the metal bolt of a gate lock while 匙 named the key inserted to open it; vernacular Mandarin joined the pair into one disyllabic noun.",
+    "没": {
+      "etymology": "Existential and past-completion negator read méi ('not have; did not'), written with the water component 氵. Under its literary reading mò ('sink, submerge'), the graph appears in Classical Chinese; by late Tang and Song lyric poetry (such as Wei Zhuang's ci), 沒 had grammaticalized in spoken Chinese to negate 有 and completed events.",
       "morphemes": [
         {
-          "part": "钥",
-          "kind": "root",
-          "meaning": "lock mechanism; key"
+          "part": "氵",
+          "kind": "semantic component",
+          "meaning": "water"
         },
         {
-          "part": "匙",
-          "kind": "root",
-          "meaning": "unlocking tool; key"
+          "part": "殳",
+          "kind": "component",
+          "meaning": "submerge / phonetic element"
         }
       ],
       "history": [
         {
-          "stage": "Classical & Tang Chinese",
-          "form": "鑰 + 匙",
-          "meaning": "lock bolt + key -> compound 鑰匙 'key'",
+          "stage": "Classical Chinese",
+          "form": "沒 (mò)",
+          "meaning": "sink beneath water; disappear",
+          "certainty": "established"
+        },
+        {
+          "stage": "Tang–Song vernacular Chinese",
+          "form": "沒 (méi)",
+          "meaning": "not have; did not",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "钥匙板",
-          "gloss": "key board"
+          "word": "没有",
+          "gloss": "not have; did not"
         },
         {
-          "word": "锁",
-          "gloss": "lock"
+          "word": "没关系",
+          "gloss": "it doesn't matter"
+        },
+        {
+          "word": "没错",
+          "gloss": "that's right"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 鑰匙 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E9%91%B0%E5%8C%99#Chinese"
+          "title": "Wiktionary — 沒 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%B2%92#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 鑰匙 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E9%91%B0%E5%8C%99"
+          "title": "MOE Revised Mandarin Dictionary — 沒 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%B2%92"
+        }
+      ]
+    },
+    "没关系": {
+      "etymology": "Warm reassuring reply to an apology ('it doesn't matter; no problem'), combining 没 ('not have') with 关系 ('connection, bearing, consequence'—literally 'no bearing / nothing to worry over').",
+      "morphemes": [
+        {
+          "part": "没",
+          "kind": "negator",
+          "meaning": "not have"
+        },
+        {
+          "part": "关系",
+          "kind": "noun",
+          "meaning": "connection; consequence"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "沒關係",
+          "meaning": "it doesn't matter; never mind",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "对不起",
+          "gloss": "I'm sorry"
+        },
+        {
+          "word": "没",
+          "gloss": "not have"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 沒關係 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%B2%92%E9%97%9C%E4%BF%82#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 沒關係 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%B2%92%E9%97%9C%E4%BF%82"
+        }
+      ]
+    },
+    "没有": {
+      "etymology": "Negative counterpart of 有 ('do not have; there is no; did not'), combining the negative 没 with 有. Established in Song–Yuan vernacular texts, 没有 both negates possession/existence before nouns and negates completed actions before verbs.",
+      "morphemes": [
+        {
+          "part": "没",
+          "kind": "negator",
+          "meaning": "not (existential/completed)"
+        },
+        {
+          "part": "有",
+          "kind": "verb",
+          "meaning": "have; exist"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Song–Yuan vernacular Chinese",
+          "form": "沒有",
+          "meaning": "not have; there is not",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "没",
+          "gloss": "not"
+        },
+        {
+          "word": "有",
+          "gloss": "have; there is"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 沒有 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E6%B2%92%E6%9C%89#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 沒有 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E6%B2%92%E6%9C%89"
+        }
+      ]
+    },
+    "照片": {
+      "etymology": "Word for 'photo', built from 照 ('shine on, reflect; take a picture', as in 照相 'take a photo') + 片 ('thin flat piece, card'). The second character names the flat print, just as in 名片 ('business card') and 明信片 ('postcard'). A near synonym is 相片.",
+      "morphemes": [
+        {
+          "part": "照",
+          "kind": "root",
+          "meaning": "shine on; photograph"
+        },
+        {
+          "part": "片",
+          "kind": "root",
+          "meaning": "thin flat piece; card"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "照片",
+          "meaning": "photograph",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "明信片",
+          "gloss": "postcard"
+        },
+        {
+          "word": "拍照",
+          "gloss": "take a photo"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 照片 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%85%A7%E7%89%87#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 照片 (via 萌典)",
+          "url": "https://www.moedict.tw/%E7%85%A7%E7%89%87"
+        }
+      ]
+    },
+    "现金": {
+      "etymology": "Compound of 现 ('present, on hand, ready', jade radical 王 + 见 'visible right now') + 金 ('metal, gold, money'), literally 'ready money in hand' as opposed to credit or account transfers.",
+      "morphemes": [
+        {
+          "part": "现",
+          "kind": "modifier",
+          "meaning": "on the spot; ready"
+        },
+        {
+          "part": "金",
+          "kind": "head noun",
+          "meaning": "money; bullion"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Ming–Qing commercial vernacular",
+          "form": "现银 / 现金",
+          "meaning": "ready silver or cash on the spot",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "现金",
+          "meaning": "cash",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "现在",
+          "gloss": "now"
+        },
+        {
+          "word": "五金",
+          "gloss": "hardware"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 现金 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%8E%B0%E9%87%91#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 现金 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E7%8E%B0%E9%87%91"
+        }
+      ]
+    },
+    "玻璃": {
+      "etymology": "Ancient Buddhist / Silk Road loanword attested since Medieval Chinese (originally 颇黎 / 玻璃, transcribing Sanskrit sphaṭika 'rock crystal, quartz'), written with two jade-radical characters (王/玉) because clear blown glass and rock crystal were prized alongside translucent gems.",
+      "morphemes": [
+        {
+          "part": "玻",
+          "kind": "loan syllable (with 王 jade radical)",
+          "meaning": "first syllable of rock-crystal/glass"
+        },
+        {
+          "part": "璃",
+          "kind": "loan syllable (with 王 jade radical)",
+          "meaning": "second syllable of rock-crystal/glass"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Six Dynasties–Tang Chinese",
+          "form": "颇黎 / 玻璃",
+          "meaning": "rock crystal or imported clear glass (from Sanskrit sphaṭika)",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "玻璃",
+          "meaning": "glass",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Sanskrit",
+          "word": "sphaṭika (स्फटिक)",
+          "meaning": "rock crystal, quartz"
+        }
+      ],
+      "rootFamily": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 玻璃 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%8E%BB%E7%92%83#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 玻璃 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E7%8E%BB%E7%92%83"
+        }
+      ]
+    },
+    "电线": {
+      "etymology": "Modern compound combining 电 ('electricity', originally 'lightning' flashing under rain 雨 in oracle-bone and bronze script) + 线 ('thread, wire', silk radical 纟 + phonetic 戋).",
+      "morphemes": [
+        {
+          "part": "电",
+          "kind": "modifier noun",
+          "meaning": "electricity (originally lightning)"
+        },
+        {
+          "part": "线",
+          "kind": "head noun",
+          "meaning": "wire; thread; line"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese",
+          "form": "電 + 線",
+          "meaning": "'lightning' and 'silk/hemp thread'",
+          "certainty": "established"
+        },
+        {
+          "stage": "Late 19th–20th c. Mandarin",
+          "form": "电线",
+          "meaning": "electrical wire",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "电话",
+          "gloss": "telephone"
+        },
+        {
+          "word": "电工",
+          "gloss": "electrician"
+        },
+        {
+          "word": "线",
+          "gloss": "wire; thread"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 电线 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%94%B5%E7%BA%BF#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 电线 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E7%94%B5%E7%BA%BF"
+        }
+      ]
+    },
+    "的": {
+      "etymology": "Structural particle de linking an owner, noun, adjective, or clause to a following noun (我的书 'my book', 安静的院子 'quiet courtyard'), or forming a headless possessive ('mine, Teacher Song's'). In Tang–Song vernacular texts this linker was often written 底 (dǐ) before standardizing on 的 in Yuan–Ming prose.",
+      "morphemes": [
+        {
+          "part": "白",
+          "kind": "component",
+          "meaning": "bright / clear"
+        },
+        {
+          "part": "勺",
+          "kind": "phonetic component",
+          "meaning": "ancient phonetic base"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Tang–Song vernacular Chinese",
+          "form": "底",
+          "meaning": "attributive and possessive linker",
+          "certainty": "established"
+        },
+        {
+          "stage": "Yuan–Ming Mandarin onward",
+          "form": "的 (de)",
+          "meaning": "possessive and descriptive particle",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "真的",
+          "gloss": "really; genuine"
+        },
+        {
+          "word": "有的",
+          "gloss": "some"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 的 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%9A%84#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 的 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E7%9A%84"
+        }
+      ]
+    },
+    "硬币": {
+      "etymology": "Compound of 硬 ('hard, rigid', stone radical 石 + 更) + 币 ('currency', originally ritual silk offerings in Classical Chinese, later generalized to money), contrasting metal coins with paper 纸币.",
+      "morphemes": [
+        {
+          "part": "硬",
+          "kind": "modifier adjective",
+          "meaning": "hard; rigid"
+        },
+        {
+          "part": "币",
+          "kind": "head noun",
+          "meaning": "currency; coin"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese",
+          "form": "幣",
+          "meaning": "ritual silk gift; medium of exchange",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "硬币",
+          "meaning": "metal coin",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 硬币 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%A1%AC%E5%B8%81#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 硬币 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E7%A1%AC%E5%B8%81"
+        }
+      ]
+    },
+    "秋天": {
+      "etymology": "Compound of 秋 ('autumn, harvest', combining 禾 'ripening grain stalk' + 火 'fire', originally depicting harvest grain and hearth/field fire in oracle-bone script) + 天 ('season, sky').",
+      "morphemes": [
+        {
+          "part": "秋",
+          "kind": "modifier noun",
+          "meaning": "autumn; grain harvest"
+        },
+        {
+          "part": "天",
+          "kind": "head noun",
+          "meaning": "season; sky"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Oracle-bone & Classical Chinese",
+          "form": "秋",
+          "meaning": "grain-harvest season; autumn",
+          "certainty": "established"
+        },
+        {
+          "stage": "Vernacular & Modern Mandarin",
+          "form": "秋天",
+          "meaning": "autumn; fall",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "春天",
+          "gloss": "spring"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 秋天 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%A7%8B%E5%A4%A9#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 秋天 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E7%A7%8B%E5%A4%A9"
+        }
+      ]
+    },
+    "秘密": {
+      "etymology": "Word for 'secret', a compound of two near synonyms: 秘 ('hidden, secret'; variant 祕 with the spirit/altar component) and 密 ('dense, close, concealed'). 秘 was historically read bì and still has a b- initial in most other Chinese varieties; Mandarin mì comes from its conflation with 密 in this very compound.",
+      "morphemes": [
+        {
+          "part": "秘",
+          "kind": "root",
+          "meaning": "hidden; secret"
+        },
+        {
+          "part": "密",
+          "kind": "root",
+          "meaning": "dense; close; concealed"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old Chinese",
+          "form": "祕 / 密",
+          "meaning": "secret / dense, close",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "秘密",
+          "meaning": "secret",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "ja",
+          "word": "秘密 (himitsu)",
+          "meaning": "secret"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "密码",
+          "gloss": "password"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 秘密 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%A7%98%E5%AF%86#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 秘密 (via 萌典)",
+          "url": "https://www.moedict.tw/%E7%A7%98%E5%AF%86"
+        }
+      ]
+    },
+    "篮子": {
+      "etymology": "Formed from 篮 ('handled basket', bamboo radical 竹 atop phonetic 监 jiān, reflecting woven split-bamboo craft) + everyday noun suffix 子.",
+      "morphemes": [
+        {
+          "part": "篮",
+          "kind": "root noun",
+          "meaning": "woven bamboo basket"
+        },
+        {
+          "part": "子",
+          "kind": "nominal suffix",
+          "meaning": "noun-forming suffix (neutral tone)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Han–Tang Chinese",
+          "form": "籃",
+          "meaning": "large bamboo basket",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "篮子",
+          "meaning": "market or hand basket",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 篮子 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E7%AF%AE%E5%AD%90#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 篮子 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E7%AF%AE%E5%AD%90"
+        }
+      ]
+    },
+    "老板": {
+      "etymology": "Originally written 老版 in southern river-port and theatrical guilds (老 respectful prefix + 板/版 'wooden printing block, shop counter, or rhythmic clapper'), addressing the proprietor or master of an inn, workshop, or troupe; now standard relaxed Mandarin for 'boss' or 'shopkeeper'.",
+      "morphemes": [
+        {
+          "part": "老",
+          "kind": "respectful prefix",
+          "meaning": "seasoned; respected"
+        },
+        {
+          "part": "板",
+          "kind": "head noun",
+          "meaning": "shop proprietor (historically guild master)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Qing commercial & opera vernacular",
+          "form": "老板 / 老版",
+          "meaning": "shop owner; troupe master",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "老板",
+          "meaning": "boss; shopkeeper; innkeeper",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 老板 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%80%81%E6%9D%BF#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 老板 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%80%81%E6%9D%BF"
+        }
+      ]
+    },
+    "胶带": {
+      "etymology": "Descriptive compound of 胶 ('glue, gum, rubber', flesh/organic radical 月 + phonetic 交) + 带 ('belt, ribbon, strip', pictograph of a waist sash with hanging cloth).",
+      "morphemes": [
+        {
+          "part": "胶",
+          "kind": "modifier noun",
+          "meaning": "adhesive; rubber"
+        },
+        {
+          "part": "带",
+          "kind": "head noun",
+          "meaning": "strip; ribbon; tape"
+        }
+      ],
+      "history": [
+        {
+          "stage": "20th-century Mandarin",
+          "form": "胶带",
+          "meaning": "adhesive tape; electrical/packing tape",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 胶带 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%83%B6%E5%B8%A6#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 胶带 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%83%B6%E5%B8%A6"
+        }
+      ]
+    },
+    "花盆": {
+      "etymology": "Compound of 花 ('blossom, flower', grass/plant radical 艹 + phonetic 化) + 盆 ('basin, pot', phonetic 分 atop 皿 'vessel/dish').",
+      "morphemes": [
+        {
+          "part": "花",
+          "kind": "modifier noun",
+          "meaning": "flower; plant"
+        },
+        {
+          "part": "盆",
+          "kind": "head noun",
+          "meaning": "earthenware basin or pot"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Tang–Song garden vocabulary",
+          "form": "花盆",
+          "meaning": "ceramic or terracotta flowerpot",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "花盆",
+          "meaning": "flowerpot",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "花园",
+          "gloss": "garden"
+        },
+        {
+          "word": "百花",
+          "gloss": "wildflowers"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 花盆 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%8A%B1%E7%9B%86#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 花盆 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%8A%B1%E7%9B%86"
         }
       ]
     },
@@ -2803,263 +3705,917 @@
         }
       ]
     },
-    "水": {
-      "etymology": "Fundamental noun 'water' (shuǐ), descended from an oracle-bone pictograph of a flowing stream flanked by ripples and droplets. Serves both as an independent word (热水 'hot water', 喝水 'drink water') and as the left-hand component 氵 in hundreds of liquid-related characters.",
+    "茶杯": {
+      "etymology": "Modifier-head compound of 茶 ('tea', graphically split from 荼 tú during the Tang dynasty around Lu Yu's Classic of Tea) + 杯 ('cup'), naming a vessel dedicated to hot tea.",
       "morphemes": [
         {
-          "part": "水",
+          "part": "茶",
+          "kind": "modifier noun",
+          "meaning": "tea"
+        },
+        {
+          "part": "杯",
+          "kind": "head noun",
+          "meaning": "cup"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Tang–Song tea culture",
+          "form": "茶瓯 / 茶盏 / 茶杯",
+          "meaning": "tea bowl or teacup",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "茶杯",
+          "meaning": "teacup",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "茶",
+          "gloss": "tea"
+        },
+        {
+          "word": "茶碟",
+          "gloss": "saucer"
+        },
+        {
+          "word": "晚茶",
+          "gloss": "evening tea"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 茶杯 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%8C%B6%E6%9D%AF#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 茶杯 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%8C%B6%E6%9D%AF"
+        }
+      ]
+    },
+    "蜂蜜": {
+      "etymology": "Transparent compound of 蜂 ('bee', combining the insect classifier 虫 with phonetic 夆 fēng) + 蜜 ('honey', combining 虫 at the base with phonetic 宓 mì). Notably, Old Chinese *mit (蜜) is widely recognized as an ancient Silk Road / Central Asian loanword cognate with Tocharian B mit ('honey, mead') and Proto-Indo-European *médʰu.",
+      "morphemes": [
+        {
+          "part": "蜂",
+          "kind": "modifier noun",
+          "meaning": "bee"
+        },
+        {
+          "part": "蜜",
+          "kind": "head noun",
+          "meaning": "honey; sweet nectar"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old & Early Middle Chinese",
+          "form": "蜜 (*mit)",
+          "meaning": "honey",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "蜂蜜",
+          "meaning": "bee honey",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Tocharian B",
+          "word": "mit",
+          "meaning": "honey"
+        },
+        {
+          "lang": "English",
+          "word": "mead",
+          "meaning": "fermented honey drink from PIE *médʰu"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "百花",
+          "gloss": "hundred flowers (as in 百花蜂蜜)"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 蜂蜜 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%9C%82%E8%9C%9C#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 蜂蜜 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%9C%82%E8%9C%9C"
+        }
+      ]
+    },
+    "螺丝": {
+      "etymology": "Compound of 螺 ('spiral snail/conch shell', insect/mollusc classifier 虫 + 累) + 丝 ('fine thread'), vividly likening the helical threading on a metal screw to the spiral whorls of a snail shell.",
+      "morphemes": [
+        {
+          "part": "螺",
+          "kind": "modifier noun",
+          "meaning": "spiral shell; helix"
+        },
+        {
+          "part": "丝",
+          "kind": "head noun",
+          "meaning": "thread; fine wire"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Ming–Qing craft & mechanical vocabulary",
+          "form": "螺丝",
+          "meaning": "threaded screw",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "螺丝",
+          "meaning": "screw",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 螺丝 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%9E%BA%E4%B8%9D#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 螺丝 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%9E%BA%E4%B8%9D"
+        }
+      ]
+    },
+    "要": {
+      "etymology": "High-frequency verb and modal ('want, need, will / be going to'). Originally depicting two hands at the waist (later clarified as 腰 'waist'), 要 in Classical Chinese meant 'seek, invite, essential' (yāo / yào), from which vernacular Mandarin developed 'need, want' and imminent future 'be about to'.",
+      "morphemes": [
+        {
+          "part": "要",
+          "kind": "root",
+          "meaning": "want; need; essential; will"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Mencius)",
+          "form": "要",
+          "meaning": "seek; essential; important",
+          "certainty": "established"
+        },
+        {
+          "stage": "Vernacular Mandarin",
+          "form": "要",
+          "meaning": "want; need; be going to",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "需要",
+          "gloss": "need; require"
+        },
+        {
+          "word": "重要",
+          "gloss": "important"
+        },
+        {
+          "word": "只要",
+          "gloss": "as long as"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 要 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%A6%81#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 要 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%A6%81"
+        }
+      ]
+    },
+    "请": {
+      "etymology": "Polite request marker ('please') and hospitality verb ('invite; treat someone to a meal'), combining 讠 ('words') with 青 (qīng phonetic). In Classical Chinese etiquette (Analects, Liji), 請 meant 'respectfully request permission or invite', which remains the heart of modern 请进 ('please come in') and 请坐 ('please sit').",
+      "morphemes": [
+        {
+          "part": "讠",
+          "kind": "semantic component",
+          "meaning": "polite speech"
+        },
+        {
+          "part": "青",
+          "kind": "phonetic component",
+          "meaning": "qīng phonetic"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Analects, Liji)",
+          "form": "請",
+          "meaning": "request respectfully; invite",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "请问",
+          "gloss": "excuse me, may I ask"
+        },
+        {
+          "word": "请客",
+          "gloss": "treat someone"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 請 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%AB%8B#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 請 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%AB%8B"
+        }
+      ]
+    },
+    "请问": {
+      "etymology": "Polite question opener ('excuse me, may I ask…'), pairing 请 ('respectfully request') with 问 ('ask'). Already attested as a courteous formula in Classical dialogues in Mencius ('Dare I respectfully ask…'), it remains Standard Mandarin's everyday way to approach a front desk or stranger.",
+      "morphemes": [
+        {
+          "part": "请",
+          "kind": "verb",
+          "meaning": "please; respectfully request"
+        },
+        {
+          "part": "问",
+          "kind": "verb",
+          "meaning": "ask; inquire"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Mencius)",
+          "form": "請問",
+          "meaning": "respectfully ask a question",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "请",
+          "gloss": "please; invite"
+        },
+        {
+          "word": "问",
+          "gloss": "ask"
+        },
+        {
+          "word": "问题",
+          "gloss": "question; problem"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 請問 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%AB%8B%E5%95%8F#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 請問 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%AB%8B%E5%95%8F"
+        }
+      ]
+    },
+    "谁": {
+      "etymology": "Interrogative pronoun 'who, whom' (shuí or shéi), combining 言/讠 ('speech, ask') with 隹 (zhuī phonetic). Already standard across Classical Chinese (Shijing, Analects), 谁 stays in place in Mandarin questions and takes 的 to form 谁的 ('whose?').",
+      "morphemes": [
+        {
+          "part": "讠",
+          "kind": "semantic component",
+          "meaning": "speech; inquiry"
+        },
+        {
+          "part": "隹",
+          "kind": "phonetic component",
+          "meaning": "Old Chinese phonetic base"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Old Chinese (Shijing & Analects)",
+          "form": "誰",
+          "meaning": "interrogative pronoun 'who?'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "的",
+          "gloss": "possessive particle (谁的 'whose')"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 誰 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%AA%B0#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 誰 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%AA%B0"
+        }
+      ]
+    },
+    "谢谢": {
+      "etymology": "Everyday expression of gratitude ('thank you'), formed by reduplicating 谢 ('thank, express gratitude; decline politely', written with 讠 'speech' + 射 phonetic). Single 謝 for thanking someone appears in Han-dynasty historical records (Shiji), while reduplicated 謝謝 became standard in Ming–Qing spoken Mandarin.",
+      "morphemes": [
+        {
+          "part": "谢",
+          "kind": "root",
+          "meaning": "thank; express gratitude"
+        },
+        {
+          "part": "谢",
+          "kind": "reduplication",
+          "meaning": "warm spoken doubling"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese (Shiji)",
+          "form": "謝",
+          "meaning": "express thanks or apology",
+          "certainty": "established"
+        },
+        {
+          "stage": "Ming–Qing vernacular Mandarin",
+          "form": "謝謝",
+          "meaning": "thank you",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "谢天谢地",
+          "gloss": "thank goodness!"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 謝謝 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E8%AC%9D%E8%AC%9D#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 謝謝 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E8%AC%9D%E8%AC%9D"
+        }
+      ]
+    },
+    "这": {
+      "etymology": "Proximal demonstrative ('this'), pairing with a measure word before nouns (这个 'this one', 这间房 'this room'). Written with the movement component 辶 plus 言, 這 emerged in Tang–Song vernacular Chinese (alongside earlier 者) to replace Classical 此 ('this').",
+      "morphemes": [
+        {
+          "part": "辶",
+          "kind": "component",
+          "meaning": "movement / deictic base"
+        },
+        {
+          "part": "言",
+          "kind": "component (in 這)",
+          "meaning": "phonetic-graphic element"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Tang–Song vernacular Chinese",
+          "form": "這",
+          "meaning": "demonstrative 'this'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "这里",
+          "gloss": "here"
+        },
+        {
+          "word": "这儿",
+          "gloss": "here (spoken)"
+        },
+        {
+          "word": "这些",
+          "gloss": "these"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 這 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%80%99#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 這 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%80%99"
+        }
+      ]
+    },
+    "这里": {
+      "etymology": "Location pronoun meaning 'here' ('this place'), formed strictly parallel to 那里 ('there') and 哪里 ('where'). Placed right after 在 to anchor where someone or something is.",
+      "morphemes": [
+        {
+          "part": "这",
+          "kind": "demonstrative",
+          "meaning": "this"
+        },
+        {
+          "part": "里",
+          "kind": "noun",
+          "meaning": "place; inside"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Song–Ming vernacular Chinese",
+          "form": "這裡",
+          "meaning": "here; this place",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "这",
+          "gloss": "this"
+        },
+        {
+          "word": "那里",
+          "gloss": "there"
+        },
+        {
+          "word": "哪里",
+          "gloss": "where"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 這裡 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%80%99%E8%A3%A1#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 這裡 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%80%99%E8%A3%A1"
+        }
+      ]
+    },
+    "那": {
+      "etymology": "Distal demonstrative ('that'), pairing with a measure word before nouns (那个 'that one', 那条街 'that street') or opening a clause with 'well then'. Attested as a demonstrative in Han–Six Dynasties colloquial texts, contrasting directly with proximal 这.",
+      "morphemes": [
+        {
+          "part": "那",
+          "kind": "root",
+          "meaning": "distal demonstrative 'that'"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Six Dynasties & Tang vernacular",
+          "form": "那",
+          "meaning": "that; over there",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "那里",
+          "gloss": "there"
+        },
+        {
+          "word": "那儿",
+          "gloss": "there (spoken)"
+        },
+        {
+          "word": "那些",
+          "gloss": "those"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 那 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%82%A3#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 那 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%82%A3"
+        }
+      ]
+    },
+    "钢琴": {
+      "etymology": "Modern descriptive compound coined in late Qing / early Republican China from 钢 ('steel', 金 metal + 冈 phonetic) + 琴 ('zither / stringed instrument', depicting jade-bridged strings), highlighting the steel wire strings inside a Western piano in contrast to silk-stringed classical 琴.",
+      "morphemes": [
+        {
+          "part": "钢",
+          "kind": "modifier noun",
+          "meaning": "steel (referring to steel strings and frame)"
+        },
+        {
+          "part": "琴",
+          "kind": "head noun",
+          "meaning": "stringed/keyboard musical instrument"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Late 19th–early 20th c. Chinese",
+          "form": "洋琴 / 钢琴",
+          "meaning": "Western piano",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "钢琴",
+          "meaning": "piano",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "琴键",
+          "gloss": "piano key"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 钢琴 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%92%A2%E7%90%B4#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 钢琴 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%92%A2%E7%90%B4"
+        }
+      ]
+    },
+    "钥匙": {
+      "etymology": "Compound noun 'key' (yào shi, counted with 把: 一把钥匙), combining two metal-radical (钅/金) words: 钥 ('lock bolt / key') and 匙 ('key / spoon'). In Classical texts 鑰 named the metal bolt of a gate lock while 匙 named the key inserted to open it; vernacular Mandarin joined the pair into one disyllabic noun.",
+      "morphemes": [
+        {
+          "part": "钥",
+          "kind": "root",
+          "meaning": "lock mechanism; key"
+        },
+        {
+          "part": "匙",
+          "kind": "root",
+          "meaning": "unlocking tool; key"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical & Tang Chinese",
+          "form": "鑰 + 匙",
+          "meaning": "lock bolt + key -> compound 鑰匙 'key'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "钥匙板",
+          "gloss": "key board"
+        },
+        {
+          "word": "锁",
+          "gloss": "lock"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 鑰匙 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%91%B0%E5%8C%99#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 鑰匙 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%91%B0%E5%8C%99"
+        }
+      ]
+    },
+    "铅笔": {
+      "etymology": "Compound of 铅 ('lead', metal radical 钅 + 铅) + 笔 ('writing brush/pen', bamboo radical 竹 + 毛 'hair', from traditional bamboo-shafted ink brushes). Like English 'lead pencil', 铅笔 preserves the historical misnomer equating dark graphite cores with metallic lead.",
+      "morphemes": [
+        {
+          "part": "铅",
+          "kind": "modifier noun",
+          "meaning": "lead (historically applied to graphite)"
+        },
+        {
+          "part": "笔",
+          "kind": "head noun",
+          "meaning": "brush; pen; writing implement"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese",
+          "form": "铅笔",
+          "meaning": "white-lead cosmetic or correction stylus for manuscripts",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "铅笔",
+          "meaning": "graphite pencil",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "粉笔",
+          "gloss": "chalk"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 铅笔 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%93%85%E7%AC%94#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 铅笔 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%93%85%E7%AC%94"
+        }
+      ]
+    },
+    "门": {
+      "etymology": "Core noun 'door, gate', descended directly from a Shang oracle-bone pictograph of two swinging wooden gate leaves under a lintel. Counted with the measure word 扇 (一扇门 'a door') and productive in compounds like 开门 ('open the door'), 门口 ('doorway'), and 大门 ('front gate').",
+      "morphemes": [
+        {
+          "part": "门 / 門",
           "kind": "pictographic root",
-          "meaning": "flowing water"
+          "meaning": "double-leaf gate or door"
         }
       ],
       "history": [
         {
           "stage": "Old Chinese (Oracle bones & Classics)",
-          "form": "水",
-          "meaning": "water; river",
+          "form": "門",
+          "meaning": "gate; door; entrance",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "热水",
-          "gloss": "hot water"
+          "word": "开门",
+          "gloss": "open the door"
         },
         {
-          "word": "冷水",
-          "gloss": "cold water"
+          "word": "大门",
+          "gloss": "main gate"
         },
         {
-          "word": "水管",
-          "gloss": "water pipe"
+          "word": "门口",
+          "gloss": "doorway"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 水 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%B0%B4#Chinese"
+          "title": "Wiktionary — 門 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%96%80#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 水 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%B0%B4"
+          "title": "MOE Revised Mandarin Dictionary — 門 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%96%80"
         }
       ]
     },
-    "房间": {
-      "etymology": "Everyday two-syllable noun for 'room' (counted with 间: 一间房间), pairing 房 ('side house, chamber', attested in the Shijing) with 间 ('architectural bay, room space').",
+    "间": {
+      "etymology": "Measure word for rooms of every kind (一间客房 'a guest room', 一间书房 'a study'), combining 门 ('doorway, gate') with 日 ('sunlight'). Depicting light peeking through a doorway gap, 間 in Classical Chinese meant 'interval, space between' and the bay between building pillars—hence one room.",
       "morphemes": [
         {
-          "part": "房",
-          "kind": "root",
-          "meaning": "house; chamber"
+          "part": "门",
+          "kind": "semantic component",
+          "meaning": "door; gate"
         },
         {
-          "part": "间",
-          "kind": "root",
-          "meaning": "room bay; interior space"
+          "part": "日",
+          "kind": "semantic component",
+          "meaning": "sunlight shining through"
         }
       ],
       "history": [
         {
-          "stage": "Classical roots 房 ('chamber') + 間 ('bay')",
-          "form": "房間",
-          "meaning": "disyllabic noun 'room'",
+          "stage": "Classical Chinese",
+          "form": "間",
+          "meaning": "space between; structural room bay",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "客房",
-          "gloss": "guest room"
+          "word": "房间",
+          "gloss": "room"
         },
         {
-          "word": "书房",
-          "gloss": "study"
+          "word": "中间",
+          "gloss": "middle; between"
         },
         {
-          "word": "房子",
-          "gloss": "house"
+          "word": "时间",
+          "gloss": "time"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 房間 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E6%88%BF%E9%96%93#Chinese"
+          "title": "Wiktionary — 間 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%96%93#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 房間 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E6%88%BF%E9%96%93"
+          "title": "MOE Revised Mandarin Dictionary — 間 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%96%93"
         }
       ]
     },
-    "客栈": {
-      "etymology": "Traditional courtyard inn or boutique guesthouse (counted with 家: 一家客栈), combining 客 ('traveler, guest') with 栈 ('wooden gallery, storehouse, wayside lodge'). Historic 客棧 served merchants and travelers along imperial post roads and remain iconic in preserved old quarters of Chengdu and Southwest China.",
+    "陶瓷": {
+      "etymology": "Coordinative compound uniting China's two great fired-clay traditions: 陶 ('earthenware/stoneware', combining 阝 mound with 匋 depicting a kiln wrapping fired vessels) and 瓷 ('high-fired glazed porcelain', combining phonetic 次 cì with 瓦 'tile/ceramic ware').",
       "morphemes": [
         {
-          "part": "客",
-          "kind": "root",
-          "meaning": "guest; traveler"
+          "part": "陶",
+          "kind": "root noun",
+          "meaning": "pottery; earthenware and stoneware"
         },
         {
-          "part": "栈",
-          "kind": "root",
-          "meaning": "timber lodge; storehouse"
+          "part": "瓷",
+          "kind": "root noun",
+          "meaning": "high-fired porcelain"
         }
       ],
       "history": [
         {
-          "stage": "Ming–Qing travel and commercial usage",
-          "form": "客棧",
-          "meaning": "travelers' courtyard inn",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "客人",
-          "gloss": "guest"
-        },
-        {
-          "word": "客房",
-          "gloss": "guest room"
-        },
-        {
-          "word": "客气",
-          "gloss": "polite"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 客棧 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%AE%A2%E6%A3%A7#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 客棧 (via 萌典)",
-          "url": "https://www.moedict.tw/uni/%E5%AE%A2%E6%A3%A7"
-        }
-      ]
-    },
-    "天花板": {
-      "etymology": "Everyday word for 'ceiling', built from 天花 ('heavenly flowers') + 板 ('board'). 天花 first meant flowers falling from heaven in translated Buddhist texts; it was later applied to the decorated, painted panel ceilings of halls, and Ming–Qing builders called the grid of wooden panels 天花板. Modern Mandarin also uses it figuratively for an upper limit.",
-      "morphemes": [
-        {
-          "part": "天",
-          "kind": "root",
-          "meaning": "sky; heaven"
-        },
-        {
-          "part": "花",
-          "kind": "root",
-          "meaning": "flower; decorative pattern"
-        },
-        {
-          "part": "板",
-          "kind": "root",
-          "meaning": "board; panel"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Buddhist translation Chinese",
-          "form": "天花",
-          "meaning": "flowers raining from heaven",
+          "stage": "Pre-Qin to Han Chinese",
+          "form": "陶",
+          "meaning": "kiln-fired pottery",
           "certainty": "established"
         },
         {
-          "stage": "Ming–Qing architecture",
-          "form": "天花板",
-          "meaning": "panelled decorative ceiling",
-          "certainty": "likely"
-        },
-        {
-          "stage": "Modern Standard Mandarin",
-          "form": "天花板",
-          "meaning": "ceiling; (figurative) upper limit",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "天",
-          "gloss": "sky; day"
-        },
-        {
-          "word": "花",
-          "gloss": "flower"
-        }
-      ],
-      "certainty": "likely",
-      "sources": [
-        {
-          "title": "Wiktionary — 天花板 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%A4%A9%E8%8A%B1%E6%9D%BF#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 天花板 (via 萌典)",
-          "url": "https://www.moedict.tw/%E5%A4%A9%E8%8A%B1%E6%9D%BF"
-        }
-      ]
-    },
-    "保险丝": {
-      "etymology": "Modern technical word for an electrical 'fuse': 保险 ('safe, secure', literally 'guard against danger', also 'insurance') + 丝 ('thread, fine wire'). The name describes the device by its job and its form: a thin wire that melts to keep the rest of the circuit safe. A more technical synonym is 熔丝 ('melting wire').",
-      "morphemes": [
-        {
-          "part": "保",
-          "kind": "root",
-          "meaning": "protect; guard"
-        },
-        {
-          "part": "险",
-          "kind": "root",
-          "meaning": "danger; risk"
-        },
-        {
-          "part": "丝",
-          "kind": "root",
-          "meaning": "silk thread; fine wire"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical/early vernacular Chinese",
-          "form": "保险",
-          "meaning": "secure against danger",
+          "stage": "Six Dynasties–Tang Chinese",
+          "form": "瓷",
+          "meaning": "vitrified glazed porcelain",
           "certainty": "established"
         },
         {
           "stage": "Modern Standard Mandarin",
-          "form": "保险丝",
-          "meaning": "electrical fuse",
+          "form": "陶瓷",
+          "meaning": "ceramics; pottery and porcelain",
           "certainty": "established"
         }
       ],
       "cognates": [],
       "rootFamily": [
         {
-          "word": "保护",
-          "gloss": "protect"
+          "word": "陶土",
+          "gloss": "potter's clay"
         },
         {
-          "word": "危险",
-          "gloss": "dangerous"
+          "word": "粗陶",
+          "gloss": "stoneware"
+        },
+        {
+          "word": "瓷",
+          "gloss": "porcelain"
         }
       ],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 保险丝 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E4%BF%9D%E9%99%A9%E4%B8%9D#Chinese"
+          "title": "Wiktionary — 陶瓷 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%99%B6%E7%93%B7#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 保险丝 (via 萌典)",
-          "url": "https://www.moedict.tw/%E4%BF%9D%E9%99%A9%E4%B8%9D"
+          "title": "MOE Revised Mandarin Dictionary — 陶瓷 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%99%B6%E7%93%B7"
+        }
+      ]
+    },
+    "集市": {
+      "etymology": "Compound of 集 ('gather together', originally depicting birds 隹 perched together on a tree 木) + 市 ('market', attested from bronze inscriptions for a walled trading precinct). Together 集市 names a periodic or open-air neighbourhood market where farmers and craftspeople gather.",
+      "morphemes": [
+        {
+          "part": "集",
+          "kind": "verb/noun root",
+          "meaning": "gather; periodic market day"
+        },
+        {
+          "part": "市",
+          "kind": "head noun",
+          "meaning": "market; town trade square"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese",
+          "form": "市 / 集",
+          "meaning": "'walled marketplace' and 'gathering'",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Mandarin",
+          "form": "集市",
+          "meaning": "open-air street market; country fair",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "市",
+          "gloss": "city; market"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 集市 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%9B%86%E5%B8%82#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 集市 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%9B%86%E5%B8%82"
+        }
+      ]
+    },
+    "需要": {
+      "etymology": "Compound verb and noun meaning 'need, require', pairing 需 ('await, require', attested in the Yijing) with 要 ('essential, need'). Used in polite requests and everyday explanations of what a task calls for.",
+      "morphemes": [
+        {
+          "part": "需",
+          "kind": "root",
+          "meaning": "require; need"
+        },
+        {
+          "part": "要",
+          "kind": "root",
+          "meaning": "need; essential"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical roots in Yijing (需) & Mencius (要)",
+          "form": "需 + 要",
+          "meaning": "require + essential -> modern compound 需要 'need'",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "rootFamily": [
+        {
+          "word": "要",
+          "gloss": "want; need"
+        },
+        {
+          "word": "重要",
+          "gloss": "important"
+        }
+      ],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary — 需要 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%9C%80%E8%A6%81#Chinese"
+        },
+        {
+          "title": "MOE Revised Mandarin Dictionary — 需要 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%9C%80%E8%A6%81"
         }
       ]
     },
@@ -3125,158 +4681,39 @@
         }
       ]
     },
-    "照片": {
-      "etymology": "Word for 'photo', built from 照 ('shine on, reflect; take a picture', as in 照相 'take a photo') + 片 ('thin flat piece, card'). The second character names the flat print, just as in 名片 ('business card') and 明信片 ('postcard'). A near synonym is 相片.",
+    "预算": {
+      "etymology": "Compound of 预 ('beforehand, in advance') + 算 ('calculate with counting rods', bamboo 竹 + 具 + 廾 two hands).",
       "morphemes": [
         {
-          "part": "照",
-          "kind": "root",
-          "meaning": "shine on; photograph"
+          "part": "预",
+          "kind": "adverbial root",
+          "meaning": "in advance"
         },
         {
-          "part": "片",
-          "kind": "root",
-          "meaning": "thin flat piece; card"
+          "part": "算",
+          "kind": "verb/noun root",
+          "meaning": "calculate; reckon"
         }
       ],
       "history": [
         {
-          "stage": "Modern Standard Mandarin",
-          "form": "照片",
-          "meaning": "photograph",
+          "stage": "Late 19th–early 20th c. fiscal vocabulary",
+          "form": "预算",
+          "meaning": "financial budget calculated in advance",
           "certainty": "established"
         }
       ],
       "cognates": [],
-      "rootFamily": [
-        {
-          "word": "明信片",
-          "gloss": "postcard"
-        },
-        {
-          "word": "拍照",
-          "gloss": "take a photo"
-        }
-      ],
+      "rootFamily": [],
       "certainty": "established",
       "sources": [
         {
-          "title": "Wiktionary — 照片 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E7%85%A7%E7%89%87#Chinese"
+          "title": "Wiktionary — 预算 (Chinese)",
+          "url": "https://en.wiktionary.org/wiki/%E9%A2%84%E7%AE%97#Chinese"
         },
         {
-          "title": "MOE Revised Mandarin Dictionary — 照片 (via 萌典)",
-          "url": "https://www.moedict.tw/%E7%85%A7%E7%89%87"
-        }
-      ]
-    },
-    "太阳": {
-      "etymology": "Everyday spoken word for 'the sun': 太 ('great, utmost') + 阳 ('yang', the bright, warm principle opposed to 阴 yin). It is probably so named because the sun was seen as the utmost expression of yang. Classical Chinese usually said simply 日, which survives in words such as 日出 ('sunrise').",
-      "morphemes": [
-        {
-          "part": "太",
-          "kind": "root",
-          "meaning": "great; utmost"
-        },
-        {
-          "part": "阳",
-          "kind": "root",
-          "meaning": "yang; sunlight"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Classical Chinese",
-          "form": "日",
-          "meaning": "sun; day",
-          "certainty": "established"
-        },
-        {
-          "stage": "Literary and spoken Chinese",
-          "form": "太陽",
-          "meaning": "the sun (the 'great yang')",
-          "certainty": "likely"
-        },
-        {
-          "stage": "Modern Standard Mandarin",
-          "form": "太阳",
-          "meaning": "sun; sunshine",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "rootFamily": [
-        {
-          "word": "阳光",
-          "gloss": "sunshine"
-        },
-        {
-          "word": "阳光房",
-          "gloss": "sunroom"
-        }
-      ],
-      "certainty": "likely",
-      "sources": [
-        {
-          "title": "Wiktionary — 太阳 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E5%A4%AA%E9%98%B3#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 太阳 (via 萌典)",
-          "url": "https://www.moedict.tw/%E5%A4%AA%E9%98%B3"
-        }
-      ]
-    },
-    "秘密": {
-      "etymology": "Word for 'secret', a compound of two near synonyms: 秘 ('hidden, secret'; variant 祕 with the spirit/altar component) and 密 ('dense, close, concealed'). 秘 was historically read bì and still has a b- initial in most other Chinese varieties; Mandarin mì comes from its conflation with 密 in this very compound.",
-      "morphemes": [
-        {
-          "part": "秘",
-          "kind": "root",
-          "meaning": "hidden; secret"
-        },
-        {
-          "part": "密",
-          "kind": "root",
-          "meaning": "dense; close; concealed"
-        }
-      ],
-      "history": [
-        {
-          "stage": "Old Chinese",
-          "form": "祕 / 密",
-          "meaning": "secret / dense, close",
-          "certainty": "established"
-        },
-        {
-          "stage": "Modern Standard Mandarin",
-          "form": "秘密",
-          "meaning": "secret",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [
-        {
-          "lang": "ja",
-          "word": "秘密 (himitsu)",
-          "meaning": "secret"
-        }
-      ],
-      "rootFamily": [
-        {
-          "word": "密码",
-          "gloss": "password"
-        }
-      ],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary — 秘密 (Chinese)",
-          "url": "https://en.wiktionary.org/wiki/%E7%A7%98%E5%AF%86#Chinese"
-        },
-        {
-          "title": "MOE Revised Mandarin Dictionary — 秘密 (via 萌典)",
-          "url": "https://www.moedict.tw/%E7%A7%98%E5%AF%86"
+          "title": "MOE Revised Mandarin Dictionary — 预算 (via 萌典)",
+          "url": "https://www.moedict.tw/uni/%E9%A2%84%E7%AE%97"
         }
       ]
     }
