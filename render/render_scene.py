@@ -225,6 +225,7 @@ class Renderer:
             eff_gap = ch_obj.gaps_override[i] if ch_obj is not None else float(g.get("gap", 0.35) or 0)
             native_words = native_text.words_for_segment(g["t"], notes_by_seg.get(i), lang) if lang in native_text.LANGUAGES else ()
             ru_cfg = config.ru_engine(self.s)
+            ar_cfg = config.ar_engine(self.s)
             seg_policy = self.policy
             turn_max = int(self.s["audio"].get("turnMaxChars", 240))
             if lang == "ru" and ru_cfg:
@@ -233,6 +234,8 @@ class Renderer:
                     turn_max = int(ru_cfg.get("turnMaxChars", 0))
                 else:
                     turn_max = min(turn_max, 90)
+            elif lang == "ar" and ar_cfg:
+                turn_max = int(ar_cfg.get("turnMaxChars", 0))
             elif lang == "en" and turn_max > 145:
                 # Preserve existing 240-char cached English takes on already-rendered scenes;
                 # use <=145-char chunks for any uncached English turns so 8s sky.flac + gen stays inside Qwen's 20s window.

@@ -321,8 +321,9 @@ class QwenCustomEngine:
                         len_ok, len_reason = g.check_length_pause(w, NATIVE_SR, c["text_plain"], c["lang"])
                         tran_ok, tran_reason, w = g.check_transient(w, NATIVE_SR)
                         rep_ok, cer_val, hyp = g.check_repeat_and_cer(w, NATIVE_SR, c["text_plain"], c["lang"])
+                        cer_ok = (not isinstance(cer_val, float)) or cer_val <= (0.42 if c["lang"] == "ar" else 0.70)
                         
-                        all_ok = sim_ok and len_ok and tran_ok and rep_ok
+                        all_ok = sim_ok and len_ok and tran_ok and rep_ok and cer_ok
                         candidates_info.append({
                             "wav": w, "all_ok": all_ok, "cer": cer_val if isinstance(cer_val, float) else 1.0, 
                             "sim": sim_val,
