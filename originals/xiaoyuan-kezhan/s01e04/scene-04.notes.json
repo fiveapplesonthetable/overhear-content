@@ -1876,40 +1876,131 @@
     },
     {
       "seg": 16,
-      "trans": "have no free time",
+      "trans": "Hold the flashlight steady and shine it on the pipe joint here.",
       "words": [
         {
-          "t": "没空",
-          "lemma": "没空",
-          "pos": "verb",
+          "t": "手电筒",
+          "lemma": "手电筒",
+          "pos": "noun",
           "stress": null,
-          "gloss": "have no free time",
-          "gram": "verb (uninflected)",
+          "gloss": "flashlight",
+          "gram": "noun (uninflected)",
           "span": [
             0,
-            2
+            3
           ],
-          "reading": "méi kòng"
+          "reading": "shǒu diàn tǒng"
+        },
+        {
+          "t": "拿",
+          "lemma": "拿",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "take",
+          "gram": "verb (uninflected)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ná"
+        },
+        {
+          "t": "稳",
+          "lemma": "稳",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "steady",
+          "gram": "stative adjective",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "wěn"
+        },
+        {
+          "t": "照",
+          "lemma": "照",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "shine",
+          "gram": "verb (uninflected)",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "zhào"
+        },
+        {
+          "t": "着",
+          "lemma": "着",
+          "pos": "part",
+          "stress": null,
+          "gloss": "continuous-state aspect particle",
+          "gram": "particle / measure word",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "zhe"
+        },
+        {
+          "t": "这儿",
+          "lemma": "这儿",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "here",
+          "gram": "pronoun",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "zhèr"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "水管",
+          "lemma": "水管",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "water pipe",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "shuí guǎn"
+        },
+        {
+          "t": "接口",
+          "lemma": "接口",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "joint",
+          "gram": "noun (uninflected)",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "jiē kǒu"
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "Hold the flashlight steady and shine it on the pipe joint here.",
+      "trans": "Steady! Did you turn off the main water valve already?",
       "words": [
-        {
-          "t": "手电筒",
-          "lemma": "手电筒",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "flashlight",
-          "gram": "noun (uninflected)",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "shǒu diàn tǒng"
-        },
         {
           "t": "拿",
           "lemma": "拿",
@@ -1918,8 +2009,8 @@
           "gloss": "take",
           "gram": "verb (uninflected)",
           "span": [
-            3,
-            4
+            0,
+            1
           ],
           "reading": "ná"
         },
@@ -1931,1827 +2022,359 @@
           "gloss": "steady",
           "gram": "stative adjective",
           "span": [
-            4,
-            5
+            1,
+            2
           ],
           "reading": "wěn"
         },
         {
-          "t": "照",
-          "lemma": "照",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "shine",
-          "gram": "verb (uninflected)",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "zhào"
-        },
-        {
-          "t": "着",
-          "lemma": "着",
+          "t": "了",
+          "lemma": "了",
           "pos": "part",
           "stress": null,
-          "gloss": "continuous-state aspect particle",
+          "gloss": "completed-action / new-state particle",
           "gram": "particle / measure word",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "ní"
+        },
+        {
+          "t": "已经",
+          "lemma": "已经",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "already",
+          "gram": "adverb",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "yǐ jīng"
+        },
+        {
+          "t": "关",
+          "lemma": "关",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "close",
+          "gram": "verb (uninflected)",
           "span": [
             7,
             8
           ],
-          "reading": "zhe"
+          "reading": "guān"
         },
         {
-          "t": "这儿",
-          "lemma": "这儿",
-          "pos": "pron",
+          "t": "掉",
+          "lemma": "掉",
+          "pos": "verb",
           "stress": null,
-          "gloss": "here",
-          "gram": "pronoun",
+          "gloss": "fall",
+          "gram": "verb (uninflected)",
           "span": [
             8,
+            9
+          ],
+          "reading": "diào"
+        },
+        {
+          "t": "总",
+          "lemma": "总",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "always",
+          "gram": "adverb",
+          "span": [
+            9,
             10
           ],
-          "reading": "zhèr"
+          "reading": "zóng"
         },
         {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
+          "t": "水阀",
+          "lemma": "水阀",
+          "pos": "noun",
           "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
+          "gloss": "water valve",
+          "gram": "noun (uninflected)",
           "span": [
             10,
-            11
+            12
           ],
-          "reading": "de"
+          "reading": "shuǐ fá"
         },
         {
-          "t": "水管",
-          "lemma": "水管",
-          "pos": "noun",
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
           "stress": null,
-          "gloss": "water pipe",
-          "gram": "noun (uninflected)",
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
           "span": [
-            11,
+            12,
             13
           ],
-          "reading": "shuí guǎn"
+          "reading": "le"
         },
         {
-          "t": "接口",
-          "lemma": "接口",
-          "pos": "noun",
+          "t": "吗",
+          "lemma": "吗",
+          "pos": "part",
           "stress": null,
-          "gloss": "joint",
-          "gram": "noun (uninflected)",
+          "gloss": "yes/no question particle",
+          "gram": "particle / measure word",
           "span": [
             13,
-            15
+            14
           ],
-          "reading": "jiē kǒu"
+          "reading": "ma"
         }
       ]
     },
     {
       "seg": 20,
-      "trans": "flashlight",
+      "trans": "Turned off and drained. Pass me that heavy wrench on your left.",
       "words": [
         {
-          "t": "手电筒",
-          "lemma": "手电筒",
-          "pos": "noun",
+          "t": "关",
+          "lemma": "关",
+          "pos": "verb",
           "stress": null,
-          "gloss": "flashlight",
-          "gram": "noun (uninflected)",
+          "gloss": "close",
+          "gram": "verb (uninflected)",
           "span": [
             0,
+            1
+          ],
+          "reading": "guān"
+        },
+        {
+          "t": "掉",
+          "lemma": "掉",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "fall",
+          "gram": "verb (uninflected)",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "diào"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            2,
             3
           ],
-          "reading": "shǒu diàn tǒng"
+          "reading": "le"
+        },
+        {
+          "t": "水",
+          "lemma": "水",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "water",
+          "gram": "noun (uninflected)",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "shuí"
+        },
+        {
+          "t": "也",
+          "lemma": "也",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "also",
+          "gram": "adverb",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "yě"
+        },
+        {
+          "t": "放",
+          "lemma": "放",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "put",
+          "gram": "verb (uninflected)",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "fàng"
+        },
+        {
+          "t": "空",
+          "lemma": "空",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "empty",
+          "gram": "stative adjective",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "kōng"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "把",
+          "lemma": "把",
+          "pos": "part",
+          "stress": null,
+          "gloss": "measure word for handled objects",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "bá"
+        },
+        {
+          "t": "左边",
+          "lemma": "左边",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "left side",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "zuǒ bian"
+        },
+        {
+          "t": "那",
+          "lemma": "那",
+          "pos": "det",
+          "stress": null,
+          "gloss": "that",
+          "gram": "determiner",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "nà"
+        },
+        {
+          "t": "把",
+          "lemma": "把",
+          "pos": "part",
+          "stress": null,
+          "gloss": "measure word for handled objects",
+          "gram": "particle / measure word",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "bǎ"
+        },
+        {
+          "t": "重",
+          "lemma": "重",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "heavy",
+          "gram": "stative adjective",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "zhòng"
+        },
+        {
+          "t": "扳手",
+          "lemma": "扳手",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "wrench",
+          "gram": "noun (uninflected)",
+          "span": [
+            16,
+            18
+          ],
+          "reading": "bān shou"
+        },
+        {
+          "t": "递",
+          "lemma": "递",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "hand",
+          "gram": "verb (uninflected)",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "dì"
+        },
+        {
+          "t": "给",
+          "lemma": "给",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give",
+          "gram": "verb (uninflected)",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "géi"
+        },
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            20,
+            21
+          ],
+          "reading": "wǒ"
         }
       ]
     },
     {
       "seg": 22,
-      "trans": "Steady! Did you turn off the main water valve already?",
-      "words": [
-        {
-          "t": "拿",
-          "lemma": "拿",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "take",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "ná"
-        },
-        {
-          "t": "稳",
-          "lemma": "稳",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "steady",
-          "gram": "stative adjective",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "wěn"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ní"
-        },
-        {
-          "t": "已经",
-          "lemma": "已经",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "already",
-          "gram": "adverb",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "yǐ jīng"
-        },
-        {
-          "t": "关",
-          "lemma": "关",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "close",
-          "gram": "verb (uninflected)",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "guān"
-        },
-        {
-          "t": "掉",
-          "lemma": "掉",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "fall",
-          "gram": "verb (uninflected)",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "diào"
-        },
-        {
-          "t": "总",
-          "lemma": "总",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "always",
-          "gram": "adverb",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "zóng"
-        },
-        {
-          "t": "水阀",
-          "lemma": "水阀",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "water valve",
-          "gram": "noun (uninflected)",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "shuǐ fá"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "吗",
-          "lemma": "吗",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes/no question particle",
-          "gram": "particle / measure word",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "ma"
-        }
-      ]
-    },
-    {
-      "seg": 24,
-      "trans": "close + fall",
-      "words": [
-        {
-          "t": "关",
-          "lemma": "关",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "close",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "guān"
-        },
-        {
-          "t": "掉",
-          "lemma": "掉",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "fall",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "diào"
-        }
-      ]
-    },
-    {
-      "seg": 26,
-      "trans": "Turned off and drained. Pass me that heavy wrench on your left.",
-      "words": [
-        {
-          "t": "关",
-          "lemma": "关",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "close",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "guān"
-        },
-        {
-          "t": "掉",
-          "lemma": "掉",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "fall",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "diào"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "水",
-          "lemma": "水",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "water",
-          "gram": "noun (uninflected)",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "shuí"
-        },
-        {
-          "t": "也",
-          "lemma": "也",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "also",
-          "gram": "adverb",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "yě"
-        },
-        {
-          "t": "放",
-          "lemma": "放",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "put",
-          "gram": "verb (uninflected)",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "fàng"
-        },
-        {
-          "t": "空",
-          "lemma": "空",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "empty",
-          "gram": "stative adjective",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "kōng"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "把",
-          "lemma": "把",
-          "pos": "part",
-          "stress": null,
-          "gloss": "measure word for handled objects",
-          "gram": "particle / measure word",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "bá"
-        },
-        {
-          "t": "左边",
-          "lemma": "左边",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "left side",
-          "gram": "noun (uninflected)",
-          "span": [
-            11,
-            13
-          ],
-          "reading": "zuǒ bian"
-        },
-        {
-          "t": "那",
-          "lemma": "那",
-          "pos": "det",
-          "stress": null,
-          "gloss": "that",
-          "gram": "determiner",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "nà"
-        },
-        {
-          "t": "把",
-          "lemma": "把",
-          "pos": "part",
-          "stress": null,
-          "gloss": "measure word for handled objects",
-          "gram": "particle / measure word",
-          "span": [
-            14,
-            15
-          ],
-          "reading": "bǎ"
-        },
-        {
-          "t": "重",
-          "lemma": "重",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "heavy",
-          "gram": "stative adjective",
-          "span": [
-            15,
-            16
-          ],
-          "reading": "zhòng"
-        },
-        {
-          "t": "扳手",
-          "lemma": "扳手",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "wrench",
-          "gram": "noun (uninflected)",
-          "span": [
-            16,
-            18
-          ],
-          "reading": "bān shou"
-        },
-        {
-          "t": "递",
-          "lemma": "递",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "hand",
-          "gram": "verb (uninflected)",
-          "span": [
-            18,
-            19
-          ],
-          "reading": "dì"
-        },
-        {
-          "t": "给",
-          "lemma": "给",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "give",
-          "gram": "verb (uninflected)",
-          "span": [
-            19,
-            20
-          ],
-          "reading": "géi"
-        },
-        {
-          "t": "我",
-          "lemma": "我",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "pronoun",
-          "span": [
-            20,
-            21
-          ],
-          "reading": "wǒ"
-        }
-      ]
-    },
-    {
-      "seg": 28,
-      "trans": "hand + give",
-      "words": [
-        {
-          "t": "递",
-          "lemma": "递",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "hand",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "dì"
-        },
-        {
-          "t": "给",
-          "lemma": "给",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "give",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "gěi"
-        }
-      ]
-    },
-    {
-      "seg": 30,
-      "trans": "One turn, two turns... look how cleanly the new brass thread fits.",
-      "words": [
-        {
-          "t": "一",
-          "lemma": "一",
-          "pos": "num",
-          "stress": null,
-          "gloss": "one",
-          "gram": "numeral",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "yì"
-        },
-        {
-          "t": "圈",
-          "lemma": "圈",
-          "pos": "part",
-          "stress": null,
-          "gloss": "circle",
-          "gram": "particle / measure word",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "quān"
-        },
-        {
-          "t": "两",
-          "lemma": "两",
-          "pos": "num",
-          "stress": null,
-          "gloss": "two (with measure words)",
-          "gram": "numeral",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "liǎng"
-        },
-        {
-          "t": "圈",
-          "lemma": "圈",
-          "pos": "part",
-          "stress": null,
-          "gloss": "circle",
-          "gram": "particle / measure word",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "quān"
-        },
-        {
-          "t": "看",
-          "lemma": "看",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "look",
-          "gram": "verb (uninflected)",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "kàn"
-        },
-        {
-          "t": "新",
-          "lemma": "新",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "new",
-          "gram": "stative adjective",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "xīn"
-        },
-        {
-          "t": "铜",
-          "lemma": "铜",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "brass",
-          "gram": "noun (uninflected)",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "tóng"
-        },
-        {
-          "t": "螺纹",
-          "lemma": "螺纹",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "screw thread",
-          "gram": "noun (uninflected)",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "luó wén"
-        },
-        {
-          "t": "咬合",
-          "lemma": "咬合",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "mesh",
-          "gram": "verb (uninflected)",
-          "span": [
-            12,
-            14
-          ],
-          "reading": "yǎo hé"
-        },
-        {
-          "t": "得",
-          "lemma": "得",
-          "pos": "part",
-          "stress": null,
-          "gloss": "(degree particle)",
-          "gram": "structural particle",
-          "span": [
-            14,
-            15
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "多",
-          "lemma": "多",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "many",
-          "gram": "stative adjective",
-          "span": [
-            15,
-            16
-          ],
-          "reading": "duō"
-        },
-        {
-          "t": "干净",
-          "lemma": "干净",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "clean",
-          "gram": "stative adjective",
-          "span": [
-            16,
-            18
-          ],
-          "reading": "gān jìng"
-        }
-      ]
-    },
-    {
-      "seg": 32,
-      "trans": "circle",
-      "words": [
-        {
-          "t": "圈",
-          "lemma": "圈",
-          "pos": "part",
-          "stress": null,
-          "gloss": "circle",
-          "gram": "particle / measure word",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "quān"
-        }
-      ]
-    },
-    {
-      "seg": 34,
-      "trans": "Turn the blue wheel open slowly to the left—not too fast.",
-      "words": [
-        {
-          "t": "把",
-          "lemma": "把",
-          "pos": "part",
-          "stress": null,
-          "gloss": "measure word for handled objects",
-          "gram": "particle / measure word",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "bǎ"
-        },
-        {
-          "t": "蓝色",
-          "lemma": "蓝色",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "blue (color)",
-          "gram": "noun (uninflected)",
-          "span": [
-            1,
-            3
-          ],
-          "reading": "lán sè"
-        },
-        {
-          "t": "转轮",
-          "lemma": "转轮",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "caster wheel",
-          "gram": "noun (uninflected)",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "zhuàn lún"
-        },
-        {
-          "t": "慢慢",
-          "lemma": "慢慢",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "slowly",
-          "gram": "adverb",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "màn màn"
-        },
-        {
-          "t": "往",
-          "lemma": "往",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "toward",
-          "gram": "preposition (coverb)",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "wáng"
-        },
-        {
-          "t": "左",
-          "lemma": "左",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "left",
-          "gram": "noun (uninflected)",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "zuǒ"
-        },
-        {
-          "t": "拧",
-          "lemma": "拧",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "twist",
-          "gram": "verb (uninflected)",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "níng"
-        },
-        {
-          "t": "开",
-          "lemma": "开",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "open",
-          "gram": "verb (uninflected)",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "kāi"
-        },
-        {
-          "t": "别",
-          "lemma": "别",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "don't",
-          "gram": "adverb",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "bié"
-        },
-        {
-          "t": "太",
-          "lemma": "太",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "too",
-          "gram": "adverb",
-          "span": [
-            14,
-            15
-          ],
-          "reading": "tài"
-        },
-        {
-          "t": "快",
-          "lemma": "快",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "fast",
-          "gram": "stative adjective",
-          "span": [
-            15,
-            16
-          ],
-          "reading": "kuài"
-        }
-      ]
-    },
-    {
-      "seg": 36,
-      "trans": "Touch the copper pipe! It is warming up already!",
-      "words": [
-        {
-          "t": "摸摸",
-          "lemma": "摸摸",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "feel",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "mō mo"
-        },
-        {
-          "t": "铜管",
-          "lemma": "铜管",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "copper/brass pipe",
-          "gram": "noun (uninflected)",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "tóng guǎn"
-        },
-        {
-          "t": "已经",
-          "lemma": "已经",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "already",
-          "gram": "adverb",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "yǐ jīng"
-        },
-        {
-          "t": "热",
-          "lemma": "热",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "hot",
-          "gram": "stative adjective",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "rè"
-        },
-        {
-          "t": "起来",
-          "lemma": "起来",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "get up",
-          "gram": "verb (uninflected)",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "qǐ lái"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "le"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "get up",
-      "words": [
-        {
-          "t": "起来",
-          "lemma": "起来",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "get up",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "qǐ lái"
-        }
-      ]
-    },
-    {
-      "seg": 40,
-      "trans": "Three minutes to reach the third floor. Fine run today, partner.",
-      "words": [
-        {
-          "t": "三",
-          "lemma": "三",
-          "pos": "num",
-          "stress": null,
-          "gloss": "three",
-          "gram": "numeral",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "sān"
-        },
-        {
-          "t": "分钟",
-          "lemma": "分钟",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "minute (duration)",
-          "gram": "noun (uninflected)",
-          "span": [
-            1,
-            3
-          ],
-          "reading": "fēn zhōng"
-        },
-        {
-          "t": "就",
-          "lemma": "就",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "right away",
-          "gram": "adverb",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "jiù"
-        },
-        {
-          "t": "能",
-          "lemma": "能",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "can",
-          "gram": "verb (uninflected)",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "néng"
-        },
-        {
-          "t": "送",
-          "lemma": "送",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "deliver",
-          "gram": "verb (uninflected)",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "sòng"
-        },
-        {
-          "t": "上",
-          "lemma": "上",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "up",
-          "gram": "verb (uninflected)",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "shàng"
-        },
-        {
-          "t": "三",
-          "lemma": "三",
-          "pos": "num",
-          "stress": null,
-          "gloss": "three",
-          "gram": "numeral",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "sān"
-        },
-        {
-          "t": "楼",
-          "lemma": "楼",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "building",
-          "gram": "noun (uninflected)",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "lóu"
-        },
-        {
-          "t": "今天",
-          "lemma": "今天",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "today",
-          "gram": "noun (uninflected)",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "jīn tiān"
-        },
-        {
-          "t": "跑",
-          "lemma": "跑",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "run",
-          "gram": "verb (uninflected)",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "pǎo"
-        },
-        {
-          "t": "得",
-          "lemma": "得",
-          "pos": "part",
-          "stress": null,
-          "gloss": "(degree particle)",
-          "gram": "structural particle",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "漂亮",
-          "lemma": "漂亮",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "pretty",
-          "gram": "stative adjective",
-          "span": [
-            14,
-            16
-          ],
-          "reading": "piào liang"
-        },
-        {
-          "t": "搭档",
-          "lemma": "搭档",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "partner",
-          "gram": "noun (uninflected)",
-          "span": [
-            17,
-            19
-          ],
-          "reading": "dā dàng"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "partner",
-      "words": [
-        {
-          "t": "搭档",
-          "lemma": "搭档",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "partner",
-          "gram": "noun (uninflected)",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "dā dàng"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "Chen, here are both brass valves! Catch my breath? No time!",
-      "words": [
-        {
-          "t": "老陈",
-          "lemma": "老陈",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chen (Lao Chen, veteran handyman)",
-          "gram": "proper name",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "lǎo chén"
-        },
-        {
-          "t": "两",
-          "lemma": "两",
-          "pos": "num",
-          "stress": null,
-          "gloss": "two (with measure words)",
-          "gram": "numeral",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "liǎng"
-        },
-        {
-          "t": "个",
-          "lemma": "个",
-          "pos": "part",
-          "stress": null,
-          "gloss": "general measure word",
-          "gram": "measure word (classifier)",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "gè"
-        },
-        {
-          "t": "铜",
-          "lemma": "铜",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "brass",
-          "gram": "noun (uninflected)",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "tóng"
-        },
-        {
-          "t": "阀门",
-          "lemma": "阀门",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "valve",
-          "gram": "noun (uninflected)",
-          "span": [
-            6,
-            8
-          ],
-          "reading": "fá mén"
-        },
-        {
-          "t": "给",
-          "lemma": "给",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "give",
-          "gram": "verb (uninflected)",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "géi"
-        },
-        {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "nǐ"
-        },
-        {
-          "t": "喘",
-          "lemma": "喘",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "pant",
-          "gram": "verb (uninflected)",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "chuán"
-        },
-        {
-          "t": "口",
-          "lemma": "口",
-          "pos": "part",
-          "stress": null,
-          "gloss": "mouth",
-          "gram": "particle / measure word",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "kǒu"
-        },
-        {
-          "t": "气",
-          "lemma": "气",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "air",
-          "gram": "noun (uninflected)",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "qì"
-        },
-        {
-          "t": "没空",
-          "lemma": "没空",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "have no free time",
-          "gram": "verb (uninflected)",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "méi kòng"
-        }
-      ]
-    },
-    {
-      "seg": 45,
-      "trans": "Hold the flashlight steady and shine it on the pipe joint here.",
-      "words": [
-        {
-          "t": "手电筒",
-          "lemma": "手电筒",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "flashlight",
-          "gram": "noun (uninflected)",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "shǒu diàn tǒng"
-        },
-        {
-          "t": "拿",
-          "lemma": "拿",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "take",
-          "gram": "verb (uninflected)",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "ná"
-        },
-        {
-          "t": "稳",
-          "lemma": "稳",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "steady",
-          "gram": "stative adjective",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "wěn"
-        },
-        {
-          "t": "照",
-          "lemma": "照",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "shine",
-          "gram": "verb (uninflected)",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "zhào"
-        },
-        {
-          "t": "着",
-          "lemma": "着",
-          "pos": "part",
-          "stress": null,
-          "gloss": "continuous-state aspect particle",
-          "gram": "particle / measure word",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "zhe"
-        },
-        {
-          "t": "这儿",
-          "lemma": "这儿",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "here",
-          "gram": "pronoun",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "zhèr"
-        },
-        {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
-          "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "水管",
-          "lemma": "水管",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "water pipe",
-          "gram": "noun (uninflected)",
-          "span": [
-            11,
-            13
-          ],
-          "reading": "shuí guǎn"
-        },
-        {
-          "t": "接口",
-          "lemma": "接口",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "joint",
-          "gram": "noun (uninflected)",
-          "span": [
-            13,
-            15
-          ],
-          "reading": "jiē kǒu"
-        }
-      ]
-    },
-    {
-      "seg": 46,
-      "trans": "Steady! Did you turn off the main water valve already?",
-      "words": [
-        {
-          "t": "拿",
-          "lemma": "拿",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "take",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "ná"
-        },
-        {
-          "t": "稳",
-          "lemma": "稳",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "steady",
-          "gram": "stative adjective",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "wěn"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ní"
-        },
-        {
-          "t": "已经",
-          "lemma": "已经",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "already",
-          "gram": "adverb",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "yǐ jīng"
-        },
-        {
-          "t": "关",
-          "lemma": "关",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "close",
-          "gram": "verb (uninflected)",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "guān"
-        },
-        {
-          "t": "掉",
-          "lemma": "掉",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "fall",
-          "gram": "verb (uninflected)",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "diào"
-        },
-        {
-          "t": "总",
-          "lemma": "总",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "always",
-          "gram": "adverb",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "zóng"
-        },
-        {
-          "t": "水阀",
-          "lemma": "水阀",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "water valve",
-          "gram": "noun (uninflected)",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "shuǐ fá"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "吗",
-          "lemma": "吗",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes/no question particle",
-          "gram": "particle / measure word",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "ma"
-        }
-      ]
-    },
-    {
-      "seg": 47,
-      "trans": "Turned off and drained. Pass me that heavy wrench on your left.",
-      "words": [
-        {
-          "t": "关",
-          "lemma": "关",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "close",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "guān"
-        },
-        {
-          "t": "掉",
-          "lemma": "掉",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "fall",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "diào"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "水",
-          "lemma": "水",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "water",
-          "gram": "noun (uninflected)",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "shuí"
-        },
-        {
-          "t": "也",
-          "lemma": "也",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "also",
-          "gram": "adverb",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "yě"
-        },
-        {
-          "t": "放",
-          "lemma": "放",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "put",
-          "gram": "verb (uninflected)",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "fàng"
-        },
-        {
-          "t": "空",
-          "lemma": "空",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "empty",
-          "gram": "stative adjective",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "kōng"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "把",
-          "lemma": "把",
-          "pos": "part",
-          "stress": null,
-          "gloss": "measure word for handled objects",
-          "gram": "particle / measure word",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "bá"
-        },
-        {
-          "t": "左边",
-          "lemma": "左边",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "left side",
-          "gram": "noun (uninflected)",
-          "span": [
-            11,
-            13
-          ],
-          "reading": "zuǒ bian"
-        },
-        {
-          "t": "那",
-          "lemma": "那",
-          "pos": "det",
-          "stress": null,
-          "gloss": "that",
-          "gram": "determiner",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "nà"
-        },
-        {
-          "t": "把",
-          "lemma": "把",
-          "pos": "part",
-          "stress": null,
-          "gloss": "measure word for handled objects",
-          "gram": "particle / measure word",
-          "span": [
-            14,
-            15
-          ],
-          "reading": "bǎ"
-        },
-        {
-          "t": "重",
-          "lemma": "重",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "heavy",
-          "gram": "stative adjective",
-          "span": [
-            15,
-            16
-          ],
-          "reading": "zhòng"
-        },
-        {
-          "t": "扳手",
-          "lemma": "扳手",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "wrench",
-          "gram": "noun (uninflected)",
-          "span": [
-            16,
-            18
-          ],
-          "reading": "bān shou"
-        },
-        {
-          "t": "递",
-          "lemma": "递",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "hand",
-          "gram": "verb (uninflected)",
-          "span": [
-            18,
-            19
-          ],
-          "reading": "dì"
-        },
-        {
-          "t": "给",
-          "lemma": "给",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "give",
-          "gram": "verb (uninflected)",
-          "span": [
-            19,
-            20
-          ],
-          "reading": "géi"
-        },
-        {
-          "t": "我",
-          "lemma": "我",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "pronoun",
-          "span": [
-            20,
-            21
-          ],
-          "reading": "wǒ"
-        }
-      ]
-    },
-    {
-      "seg": 48,
       "trans": "This big iron wrench? Here you go.",
       "words": [
         {
@@ -3861,7 +2484,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 24,
       "trans": "One turn, two turns... look how cleanly the new brass thread fits.",
       "words": [
         {
@@ -4023,7 +2646,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 26,
       "trans": "Not a single drop leaking! Can we light the water heater now?",
       "words": [
         {
@@ -4198,7 +2821,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 28,
       "trans": "Turn the blue wheel open slowly to the left—not too fast.",
       "words": [
         {
@@ -4347,7 +2970,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 30,
       "trans": "Turning slowly... listen! Water is rushing in!",
       "words": [
         {
@@ -4444,7 +3067,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 32,
       "trans": "The flame is lit—steady blue fire, right as it should be.",
       "words": [
         {
@@ -4567,7 +3190,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 34,
       "trans": "Touch the copper pipe! It is warming up already!",
       "words": [
         {
@@ -4651,7 +3274,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 36,
       "trans": "Three minutes to reach the third floor. Fine run today, partner.",
       "words": [
         {
@@ -4826,7 +3449,1730 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 39,
+      "trans": "Chen, here are both brass valves! Catch my breath? No time!",
+      "words": [
+        {
+          "t": "老陈",
+          "lemma": "老陈",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Chen (Lao Chen, veteran handyman)",
+          "gram": "proper name",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "lǎo chén"
+        },
+        {
+          "t": "两",
+          "lemma": "两",
+          "pos": "num",
+          "stress": null,
+          "gloss": "two (with measure words)",
+          "gram": "numeral",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "liǎng"
+        },
+        {
+          "t": "个",
+          "lemma": "个",
+          "pos": "part",
+          "stress": null,
+          "gloss": "general measure word",
+          "gram": "measure word (classifier)",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "gè"
+        },
+        {
+          "t": "铜",
+          "lemma": "铜",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "brass",
+          "gram": "noun (uninflected)",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "tóng"
+        },
+        {
+          "t": "阀门",
+          "lemma": "阀门",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "valve",
+          "gram": "noun (uninflected)",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "fá mén"
+        },
+        {
+          "t": "给",
+          "lemma": "给",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give",
+          "gram": "verb (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "géi"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "nǐ"
+        },
+        {
+          "t": "喘",
+          "lemma": "喘",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "pant",
+          "gram": "verb (uninflected)",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "chuán"
+        },
+        {
+          "t": "口",
+          "lemma": "口",
+          "pos": "part",
+          "stress": null,
+          "gloss": "mouth",
+          "gram": "particle / measure word",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "kǒu"
+        },
+        {
+          "t": "气",
+          "lemma": "气",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "air",
+          "gram": "noun (uninflected)",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "qì"
+        },
+        {
+          "t": "没空",
+          "lemma": "没空",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "have no free time",
+          "gram": "verb (uninflected)",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "méi kòng"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "Hold the flashlight steady and shine it on the pipe joint here.",
+      "words": [
+        {
+          "t": "手电筒",
+          "lemma": "手电筒",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "flashlight",
+          "gram": "noun (uninflected)",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "shǒu diàn tǒng"
+        },
+        {
+          "t": "拿",
+          "lemma": "拿",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "take",
+          "gram": "verb (uninflected)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ná"
+        },
+        {
+          "t": "稳",
+          "lemma": "稳",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "steady",
+          "gram": "stative adjective",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "wěn"
+        },
+        {
+          "t": "照",
+          "lemma": "照",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "shine",
+          "gram": "verb (uninflected)",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "zhào"
+        },
+        {
+          "t": "着",
+          "lemma": "着",
+          "pos": "part",
+          "stress": null,
+          "gloss": "continuous-state aspect particle",
+          "gram": "particle / measure word",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "zhe"
+        },
+        {
+          "t": "这儿",
+          "lemma": "这儿",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "here",
+          "gram": "pronoun",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "zhèr"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "水管",
+          "lemma": "水管",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "water pipe",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "shuí guǎn"
+        },
+        {
+          "t": "接口",
+          "lemma": "接口",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "joint",
+          "gram": "noun (uninflected)",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "jiē kǒu"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "Steady! Did you turn off the main water valve already?",
+      "words": [
+        {
+          "t": "拿",
+          "lemma": "拿",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "take",
+          "gram": "verb (uninflected)",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ná"
+        },
+        {
+          "t": "稳",
+          "lemma": "稳",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "steady",
+          "gram": "stative adjective",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "wěn"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "ní"
+        },
+        {
+          "t": "已经",
+          "lemma": "已经",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "already",
+          "gram": "adverb",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "yǐ jīng"
+        },
+        {
+          "t": "关",
+          "lemma": "关",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "close",
+          "gram": "verb (uninflected)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "guān"
+        },
+        {
+          "t": "掉",
+          "lemma": "掉",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "fall",
+          "gram": "verb (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "diào"
+        },
+        {
+          "t": "总",
+          "lemma": "总",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "always",
+          "gram": "adverb",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "zóng"
+        },
+        {
+          "t": "水阀",
+          "lemma": "水阀",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "water valve",
+          "gram": "noun (uninflected)",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "shuǐ fá"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "吗",
+          "lemma": "吗",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes/no question particle",
+          "gram": "particle / measure word",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ma"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "Turned off and drained. Pass me that heavy wrench on your left.",
+      "words": [
+        {
+          "t": "关",
+          "lemma": "关",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "close",
+          "gram": "verb (uninflected)",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "guān"
+        },
+        {
+          "t": "掉",
+          "lemma": "掉",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "fall",
+          "gram": "verb (uninflected)",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "diào"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "水",
+          "lemma": "水",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "water",
+          "gram": "noun (uninflected)",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "shuí"
+        },
+        {
+          "t": "也",
+          "lemma": "也",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "also",
+          "gram": "adverb",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "yě"
+        },
+        {
+          "t": "放",
+          "lemma": "放",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "put",
+          "gram": "verb (uninflected)",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "fàng"
+        },
+        {
+          "t": "空",
+          "lemma": "空",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "empty",
+          "gram": "stative adjective",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "kōng"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "把",
+          "lemma": "把",
+          "pos": "part",
+          "stress": null,
+          "gloss": "measure word for handled objects",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "bá"
+        },
+        {
+          "t": "左边",
+          "lemma": "左边",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "left side",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "zuǒ bian"
+        },
+        {
+          "t": "那",
+          "lemma": "那",
+          "pos": "det",
+          "stress": null,
+          "gloss": "that",
+          "gram": "determiner",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "nà"
+        },
+        {
+          "t": "把",
+          "lemma": "把",
+          "pos": "part",
+          "stress": null,
+          "gloss": "measure word for handled objects",
+          "gram": "particle / measure word",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "bǎ"
+        },
+        {
+          "t": "重",
+          "lemma": "重",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "heavy",
+          "gram": "stative adjective",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "zhòng"
+        },
+        {
+          "t": "扳手",
+          "lemma": "扳手",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "wrench",
+          "gram": "noun (uninflected)",
+          "span": [
+            16,
+            18
+          ],
+          "reading": "bān shou"
+        },
+        {
+          "t": "递",
+          "lemma": "递",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "hand",
+          "gram": "verb (uninflected)",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "dì"
+        },
+        {
+          "t": "给",
+          "lemma": "给",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give",
+          "gram": "verb (uninflected)",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "géi"
+        },
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            20,
+            21
+          ],
+          "reading": "wǒ"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "This big iron wrench? Here you go.",
+      "words": [
+        {
+          "t": "这",
+          "lemma": "这",
+          "pos": "det",
+          "stress": null,
+          "gloss": "this",
+          "gram": "determiner",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "zhè"
+        },
+        {
+          "t": "把",
+          "lemma": "把",
+          "pos": "part",
+          "stress": null,
+          "gloss": "measure word for handled objects",
+          "gram": "particle / measure word",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "bǎ"
+        },
+        {
+          "t": "大",
+          "lemma": "大",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "big",
+          "gram": "stative adjective",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "dà"
+        },
+        {
+          "t": "铁",
+          "lemma": "铁",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "iron",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "tiě"
+        },
+        {
+          "t": "扳手",
+          "lemma": "扳手",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "wrench",
+          "gram": "noun (uninflected)",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "bān shou"
+        },
+        {
+          "t": "吗",
+          "lemma": "吗",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes/no question particle",
+          "gram": "particle / measure word",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ma"
+        },
+        {
+          "t": "给",
+          "lemma": "给",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give",
+          "gram": "verb (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "géi"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "nǐ"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "One turn, two turns... look how cleanly the new brass thread fits.",
+      "words": [
+        {
+          "t": "一",
+          "lemma": "一",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one",
+          "gram": "numeral",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "yì"
+        },
+        {
+          "t": "圈",
+          "lemma": "圈",
+          "pos": "part",
+          "stress": null,
+          "gloss": "circle",
+          "gram": "particle / measure word",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "quān"
+        },
+        {
+          "t": "两",
+          "lemma": "两",
+          "pos": "num",
+          "stress": null,
+          "gloss": "two (with measure words)",
+          "gram": "numeral",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "liǎng"
+        },
+        {
+          "t": "圈",
+          "lemma": "圈",
+          "pos": "part",
+          "stress": null,
+          "gloss": "circle",
+          "gram": "particle / measure word",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "quān"
+        },
+        {
+          "t": "看",
+          "lemma": "看",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "look",
+          "gram": "verb (uninflected)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "kàn"
+        },
+        {
+          "t": "新",
+          "lemma": "新",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "new",
+          "gram": "stative adjective",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "xīn"
+        },
+        {
+          "t": "铜",
+          "lemma": "铜",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "brass",
+          "gram": "noun (uninflected)",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "tóng"
+        },
+        {
+          "t": "螺纹",
+          "lemma": "螺纹",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "screw thread",
+          "gram": "noun (uninflected)",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "luó wén"
+        },
+        {
+          "t": "咬合",
+          "lemma": "咬合",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "mesh",
+          "gram": "verb (uninflected)",
+          "span": [
+            12,
+            14
+          ],
+          "reading": "yǎo hé"
+        },
+        {
+          "t": "得",
+          "lemma": "得",
+          "pos": "part",
+          "stress": null,
+          "gloss": "(degree particle)",
+          "gram": "structural particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "多",
+          "lemma": "多",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "many",
+          "gram": "stative adjective",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "duō"
+        },
+        {
+          "t": "干净",
+          "lemma": "干净",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "clean",
+          "gram": "stative adjective",
+          "span": [
+            16,
+            18
+          ],
+          "reading": "gān jìng"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "Not a single drop leaking! Can we light the water heater now?",
+      "words": [
+        {
+          "t": "一",
+          "lemma": "一",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one",
+          "gram": "numeral",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "yì"
+        },
+        {
+          "t": "滴",
+          "lemma": "滴",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "drip",
+          "gram": "verb (uninflected)",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "dī"
+        },
+        {
+          "t": "水",
+          "lemma": "水",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "water",
+          "gram": "noun (uninflected)",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "shuǐ"
+        },
+        {
+          "t": "都",
+          "lemma": "都",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "all",
+          "gram": "adverb",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "dōu"
+        },
+        {
+          "t": "不",
+          "lemma": "不",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "not",
+          "gram": "adverb",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "bú"
+        },
+        {
+          "t": "漏",
+          "lemma": "漏",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "leak",
+          "gram": "verb (uninflected)",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "lòu"
+        },
+        {
+          "t": "现在",
+          "lemma": "现在",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "now",
+          "gram": "noun (uninflected)",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "xiàn zài"
+        },
+        {
+          "t": "可以",
+          "lemma": "可以",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "may",
+          "gram": "verb (uninflected)",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "ké yí"
+        },
+        {
+          "t": "点",
+          "lemma": "点",
+          "pos": "part",
+          "stress": null,
+          "gloss": "o'clock",
+          "gram": "particle / measure word",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "diǎn"
+        },
+        {
+          "t": "着",
+          "lemma": "着",
+          "pos": "part",
+          "stress": null,
+          "gloss": "continuous-state aspect particle",
+          "gram": "particle / measure word",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "zhe"
+        },
+        {
+          "t": "热水器",
+          "lemma": "热水器",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "water heater",
+          "gram": "noun (uninflected)",
+          "span": [
+            13,
+            16
+          ],
+          "reading": "rè shuǐ qì"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            16,
+            17
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "吗",
+          "lemma": "吗",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes/no question particle",
+          "gram": "particle / measure word",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "ma"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "Turn the blue wheel open slowly to the left—not too fast.",
+      "words": [
+        {
+          "t": "把",
+          "lemma": "把",
+          "pos": "part",
+          "stress": null,
+          "gloss": "measure word for handled objects",
+          "gram": "particle / measure word",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "bǎ"
+        },
+        {
+          "t": "蓝色",
+          "lemma": "蓝色",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "blue (color)",
+          "gram": "noun (uninflected)",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "lán sè"
+        },
+        {
+          "t": "转轮",
+          "lemma": "转轮",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "caster wheel",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "zhuàn lún"
+        },
+        {
+          "t": "慢慢",
+          "lemma": "慢慢",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "slowly",
+          "gram": "adverb",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "màn màn"
+        },
+        {
+          "t": "往",
+          "lemma": "往",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "toward",
+          "gram": "preposition (coverb)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "wáng"
+        },
+        {
+          "t": "左",
+          "lemma": "左",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "left",
+          "gram": "noun (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "zuǒ"
+        },
+        {
+          "t": "拧",
+          "lemma": "拧",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "twist",
+          "gram": "verb (uninflected)",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "níng"
+        },
+        {
+          "t": "开",
+          "lemma": "开",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "open",
+          "gram": "verb (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "kāi"
+        },
+        {
+          "t": "别",
+          "lemma": "别",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "don't",
+          "gram": "adverb",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "bié"
+        },
+        {
+          "t": "太",
+          "lemma": "太",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "too",
+          "gram": "adverb",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "tài"
+        },
+        {
+          "t": "快",
+          "lemma": "快",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "fast",
+          "gram": "stative adjective",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "kuài"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "Turning slowly... listen! Water is rushing in!",
+      "words": [
+        {
+          "t": "慢慢",
+          "lemma": "慢慢",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "slowly",
+          "gram": "adverb",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "màn màn"
+        },
+        {
+          "t": "拧",
+          "lemma": "拧",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "twist",
+          "gram": "verb (uninflected)",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "níng"
+        },
+        {
+          "t": "听",
+          "lemma": "听",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "listen",
+          "gram": "verb (uninflected)",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "tīng"
+        },
+        {
+          "t": "水",
+          "lemma": "水",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "water",
+          "gram": "noun (uninflected)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "shuǐ"
+        },
+        {
+          "t": "冲",
+          "lemma": "冲",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "brew",
+          "gram": "verb (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "chōng"
+        },
+        {
+          "t": "进来",
+          "lemma": "进来",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "come in",
+          "gram": "verb (uninflected)",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "jìn lái"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "le"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "The flame is lit—steady blue fire, right as it should be.",
+      "words": [
+        {
+          "t": "火苗",
+          "lemma": "火苗",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "flame",
+          "gram": "noun (uninflected)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "huǒ miáo"
+        },
+        {
+          "t": "亮",
+          "lemma": "亮",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "bright",
+          "gram": "stative adjective",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "liàng"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "稳稳",
+          "lemma": "稳稳",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "steadily",
+          "gram": "adverb",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "wén wěn"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "蓝",
+          "lemma": "蓝",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "blue",
+          "gram": "stative adjective",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "lán"
+        },
+        {
+          "t": "火",
+          "lemma": "火",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "fire",
+          "gram": "noun (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "huǒ"
+        },
+        {
+          "t": "正",
+          "lemma": "正",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "right in the middle of",
+          "gram": "adverb",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "zhèng"
+        },
+        {
+          "t": "合适",
+          "lemma": "合适",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "suitable",
+          "gram": "stative adjective",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "hé shì"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "Touch the copper pipe! It is warming up already!",
+      "words": [
+        {
+          "t": "摸摸",
+          "lemma": "摸摸",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "feel",
+          "gram": "verb (uninflected)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "mō mo"
+        },
+        {
+          "t": "铜管",
+          "lemma": "铜管",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "copper/brass pipe",
+          "gram": "noun (uninflected)",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "tóng guǎn"
+        },
+        {
+          "t": "已经",
+          "lemma": "已经",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "already",
+          "gram": "adverb",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "yǐ jīng"
+        },
+        {
+          "t": "热",
+          "lemma": "热",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "hot",
+          "gram": "stative adjective",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "rè"
+        },
+        {
+          "t": "起来",
+          "lemma": "起来",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "get up",
+          "gram": "verb (uninflected)",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "qǐ lái"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "le"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "Three minutes to reach the third floor. Fine run today, partner.",
+      "words": [
+        {
+          "t": "三",
+          "lemma": "三",
+          "pos": "num",
+          "stress": null,
+          "gloss": "three",
+          "gram": "numeral",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "sān"
+        },
+        {
+          "t": "分钟",
+          "lemma": "分钟",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "minute (duration)",
+          "gram": "noun (uninflected)",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "fēn zhōng"
+        },
+        {
+          "t": "就",
+          "lemma": "就",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "right away",
+          "gram": "adverb",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "jiù"
+        },
+        {
+          "t": "能",
+          "lemma": "能",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "can",
+          "gram": "verb (uninflected)",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "néng"
+        },
+        {
+          "t": "送",
+          "lemma": "送",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "deliver",
+          "gram": "verb (uninflected)",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "sòng"
+        },
+        {
+          "t": "上",
+          "lemma": "上",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "up",
+          "gram": "verb (uninflected)",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "shàng"
+        },
+        {
+          "t": "三",
+          "lemma": "三",
+          "pos": "num",
+          "stress": null,
+          "gloss": "three",
+          "gram": "numeral",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "sān"
+        },
+        {
+          "t": "楼",
+          "lemma": "楼",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "building",
+          "gram": "noun (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "lóu"
+        },
+        {
+          "t": "今天",
+          "lemma": "今天",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "today",
+          "gram": "noun (uninflected)",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "jīn tiān"
+        },
+        {
+          "t": "跑",
+          "lemma": "跑",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "run",
+          "gram": "verb (uninflected)",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "pǎo"
+        },
+        {
+          "t": "得",
+          "lemma": "得",
+          "pos": "part",
+          "stress": null,
+          "gloss": "(degree particle)",
+          "gram": "structural particle",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "漂亮",
+          "lemma": "漂亮",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "pretty",
+          "gram": "stative adjective",
+          "span": [
+            14,
+            16
+          ],
+          "reading": "piào liang"
+        },
+        {
+          "t": "搭档",
+          "lemma": "搭档",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "partner",
+          "gram": "noun (uninflected)",
+          "span": [
+            17,
+            19
+          ],
+          "reading": "dā dàng"
+        }
+      ]
+    },
+    {
+      "seg": 52,
       "trans": "See you soon!",
       "words": [
         {

@@ -1584,6 +1584,90 @@
     },
     {
       "seg": 14,
+      "trans": "Courtyard Inn, good morning! This is Qing speaking.",
+      "words": [
+        {
+          "t": "小院客栈",
+          "lemma": "小院客栈",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Courtyard Inn (Xiaoyuan Kezhan)",
+          "gram": "proper name",
+          "span": [
+            0,
+            4
+          ],
+          "reading": "xiǎo yuàn kè zhàn"
+        },
+        {
+          "t": "早上",
+          "lemma": "早上",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "morning",
+          "gram": "noun (uninflected)",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "zǎo shang"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "wǒ"
+        },
+        {
+          "t": "是",
+          "lemma": "是",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be (am, is, are, was, were)",
+          "gram": "verb (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "shì"
+        },
+        {
+          "t": "小晴",
+          "lemma": "小晴",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Qing (Xiaoqing, new front-desk clerk)",
+          "gram": "proper name",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "xiǎo qíng"
+        }
+      ]
+    },
+    {
+      "seg": 16,
       "trans": "Who is it? Someone else booking a room for the weekend?",
       "words": [
         {
@@ -1732,26 +1816,169 @@
       ]
     },
     {
-      "seg": 16,
-      "trans": "weekend",
+      "seg": 18,
+      "trans": "Wait—hello, sir! Are you asking about that dark-blue suitcase?",
       "words": [
         {
-          "t": "周末",
-          "lemma": "周末",
-          "pos": "noun",
+          "t": "等等",
+          "lemma": "等等",
+          "pos": "verb",
           "stress": null,
-          "gloss": "weekend",
-          "gram": "noun (uninflected)",
+          "gloss": "wait a second!",
+          "gram": "verb (uninflected)",
           "span": [
             0,
             2
           ],
-          "reading": "zhōu mò"
+          "reading": "děng deng"
+        },
+        {
+          "t": "先生",
+          "lemma": "先生",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Mr.",
+          "gram": "noun (uninflected)",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "xiān sheng"
+        },
+        {
+          "t": "您",
+          "lemma": "您",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (polite singular)",
+          "gram": "pronoun",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "nín"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "您",
+          "lemma": "您",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (polite singular)",
+          "gram": "pronoun",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "nín"
+        },
+        {
+          "t": "问",
+          "lemma": "问",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "ask",
+          "gram": "verb (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "wèn"
+        },
+        {
+          "t": "那",
+          "lemma": "那",
+          "pos": "det",
+          "stress": null,
+          "gloss": "that",
+          "gram": "determiner",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "nà"
+        },
+        {
+          "t": "个",
+          "lemma": "个",
+          "pos": "part",
+          "stress": null,
+          "gloss": "general measure word",
+          "gram": "measure word (classifier)",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "gè"
+        },
+        {
+          "t": "深",
+          "lemma": "深",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "deep",
+          "gram": "stative adjective",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "shēn"
+        },
+        {
+          "t": "蓝色",
+          "lemma": "蓝色",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "blue (color)",
+          "gram": "noun (uninflected)",
+          "span": [
+            14,
+            16
+          ],
+          "reading": "lán sè"
+        },
+        {
+          "t": "行李箱",
+          "lemma": "行李箱",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "suitcase",
+          "gram": "noun (uninflected)",
+          "span": [
+            16,
+            19
+          ],
+          "reading": "xíng li xiāng"
+        },
+        {
+          "t": "吗",
+          "lemma": "吗",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes/no question particle",
+          "gram": "particle / measure word",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "ma"
         }
       ]
     },
     {
-      "seg": 18,
+      "seg": 20,
       "trans": "Quick, ask him what his name is! Write it down!",
       "words": [
         {
@@ -1855,38 +2082,6 @@
           "span": [
             10,
             12
-          ],
-          "reading": "xià lái"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "write down + come down (toward speaker)",
-      "words": [
-        {
-          "t": "记",
-          "lemma": "记",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "write down",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "jì"
-        },
-        {
-          "t": "下来",
-          "lemma": "下来",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "come down (toward speaker)",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            3
           ],
           "reading": "xià lái"
         }
@@ -2030,20 +2225,111 @@
     },
     {
       "seg": 24,
-      "trans": "(your) honorable surname",
+      "trans": "What is he saying? Why are you frowning?",
       "words": [
         {
-          "t": "贵姓",
-          "lemma": "贵姓",
-          "pos": "noun",
+          "t": "他",
+          "lemma": "他",
+          "pos": "pron",
           "stress": null,
-          "gloss": "(your) honorable surname",
-          "gram": "noun (uninflected)",
+          "gloss": "he",
+          "gram": "pronoun",
           "span": [
             0,
+            1
+          ],
+          "reading": "tā"
+        },
+        {
+          "t": "说",
+          "lemma": "说",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "say",
+          "gram": "verb (uninflected)",
+          "span": [
+            1,
             2
           ],
-          "reading": "guì xìng"
+          "reading": "shuō"
+        },
+        {
+          "t": "什么",
+          "lemma": "什么",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "pronoun",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "shén me"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ní"
+        },
+        {
+          "t": "怎么",
+          "lemma": "怎么",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "how",
+          "gram": "adverb",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "zěn me"
+        },
+        {
+          "t": "皱",
+          "lemma": "皱",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "wrinkle",
+          "gram": "verb (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "zhòu"
+        },
+        {
+          "t": "眉头",
+          "lemma": "眉头",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "brows",
+          "gram": "noun (uninflected)",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "méi tóu"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "le"
         }
       ]
     },
@@ -2211,20 +2497,124 @@
     },
     {
       "seg": 28,
-      "trans": "noon",
+      "trans": "Hand me the phone; let me ask him properly!",
       "words": [
         {
-          "t": "中午",
-          "lemma": "中午",
-          "pos": "noun",
+          "t": "把",
+          "lemma": "把",
+          "pos": "part",
           "stress": null,
-          "gloss": "noon",
-          "gram": "noun (uninflected)",
+          "gloss": "measure word for handled objects",
+          "gram": "particle / measure word",
           "span": [
             0,
-            2
+            1
           ],
-          "reading": "zhōng wǔ"
+          "reading": "bǎ"
+        },
+        {
+          "t": "电话",
+          "lemma": "电话",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "telephone",
+          "gram": "noun (uninflected)",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "diàn huà"
+        },
+        {
+          "t": "给",
+          "lemma": "给",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give",
+          "gram": "verb (uninflected)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "géi"
+        },
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "wǒ"
+        },
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "wǒ"
+        },
+        {
+          "t": "来",
+          "lemma": "来",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "come",
+          "gram": "verb (uninflected)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "lái"
+        },
+        {
+          "t": "好好",
+          "lemma": "好好",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "properly",
+          "gram": "adverb",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "háo hǎo"
+        },
+        {
+          "t": "问",
+          "lemma": "问",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "ask",
+          "gram": "verb (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "wèn"
+        },
+        {
+          "t": "他",
+          "lemma": "他",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "pronoun",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "tā"
         }
       ]
     },
@@ -2366,25 +2756,6 @@
     },
     {
       "seg": 32,
-      "trans": "not have enough time",
-      "words": [
-        {
-          "t": "来不及",
-          "lemma": "来不及",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "not have enough time",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "lái bu jí"
-        }
-      ]
-    },
-    {
-      "seg": 34,
       "trans": "Was the voice polite? A young person or an older person?",
       "words": [
         {
@@ -2468,26 +2839,7 @@
       ]
     },
     {
-      "seg": 36,
-      "trans": "young person",
-      "words": [
-        {
-          "t": "年轻人",
-          "lemma": "年轻人",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "young person",
-          "gram": "noun (uninflected)",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "nián qīng rén"
-        }
-      ]
-    },
-    {
-      "seg": 38,
+      "seg": 34,
       "trans": "Soft-spoken, very polite, around thirty-something, and a bit nervous.",
       "words": [
         {
@@ -2649,52 +3001,7 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "three + ten + many",
-      "words": [
-        {
-          "t": "三",
-          "lemma": "三",
-          "pos": "num",
-          "stress": null,
-          "gloss": "three",
-          "gram": "numeral",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "sān"
-        },
-        {
-          "t": "十",
-          "lemma": "十",
-          "pos": "num",
-          "stress": null,
-          "gloss": "ten",
-          "gram": "numeral",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "shí"
-        },
-        {
-          "t": "多",
-          "lemma": "多",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "many",
-          "gram": "stative adjective",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "duō"
-        }
-      ]
-    },
-    {
-      "seg": 42,
+      "seg": 36,
       "trans": "Nervous over a wooden toy train? This story gets stranger by the hour.",
       "words": [
         {
@@ -2856,26 +3163,7 @@
       ]
     },
     {
-      "seg": 44,
-      "trans": "more and more",
-      "words": [
-        {
-          "t": "越来越",
-          "lemma": "越来越",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "more and more",
-          "gram": "adverb",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "yuè lái yuè"
-        }
-      ]
-    },
-    {
-      "seg": 46,
+      "seg": 39,
       "trans": "Courtyard Inn, good morning! This is Qing speaking.",
       "words": [
         {
@@ -2959,7 +3247,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 40,
       "trans": "Who is it? Someone else booking a room for the weekend?",
       "words": [
         {
@@ -3108,7 +3396,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 41,
       "trans": "Wait—hello, sir! Are you asking about that dark-blue suitcase?",
       "words": [
         {
@@ -3270,7 +3558,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 42,
       "trans": "Quick, ask him what his name is! Write it down!",
       "words": [
         {
@@ -3380,7 +3668,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 43,
       "trans": "Sir, the bag is locked safely in our closet. May I ask your surname?",
       "words": [
         {
@@ -3516,7 +3804,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 44,
       "trans": "What is he saying? Why are you frowning?",
       "words": [
         {
@@ -3626,7 +3914,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 45,
       "trans": "Sir? He says: Please do not open the white paper parcel; I will come Friday at noon.",
       "words": [
         {
@@ -3788,7 +4076,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 46,
       "trans": "Hand me the phone; let me ask him properly!",
       "words": [
         {
@@ -3911,7 +4199,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 47,
       "trans": "Too late! He said thank you and hung up!",
       "words": [
         {
@@ -4047,7 +4335,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 48,
       "trans": "Was the voice polite? A young person or an older person?",
       "words": [
         {
@@ -4131,7 +4419,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 49,
       "trans": "Soft-spoken, very polite, around thirty-something, and a bit nervous.",
       "words": [
         {
@@ -4293,7 +4581,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 50,
       "trans": "Nervous over a wooden toy train? This story gets stranger by the hour.",
       "words": [
         {
@@ -4455,7 +4743,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 52,
       "trans": "Goodbye!",
       "words": [
         {

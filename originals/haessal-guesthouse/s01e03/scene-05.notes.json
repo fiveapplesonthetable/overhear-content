@@ -1473,38 +1473,239 @@
     },
     {
       "seg": 16,
-      "trans": "watch your head",
+      "trans": "Wow... look at the proportions of this timber roof!",
       "words": [
         {
-          "t": "머리",
-          "lemma": "머리",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "head",
-          "gram": "base form",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "meori"
-        },
-        {
-          "t": "조심하세요",
-          "lemma": "조심하다",
+          "t": "와",
+          "lemma": "오다",
           "pos": "verb",
           "stress": null,
-          "gloss": "to be careful, to watch out",
+          "gloss": "to come",
+          "gram": "infinitive / casual present",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "wa"
+        },
+        {
+          "t": "이",
+          "lemma": "이",
+          "pos": "det",
+          "stress": null,
+          "gloss": "this",
+          "gram": "base form",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "i"
+        },
+        {
+          "t": "목조",
+          "lemma": "목조",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "wooden-framed, timber",
+          "gram": "base form",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "mokjo"
+        },
+        {
+          "t": "지붕의",
+          "lemma": "지붕",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "roof",
+          "gram": "possessive/modifying particle",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "jibungui"
+        },
+        {
+          "t": "비율",
+          "lemma": "비율",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "ratio, proportion",
+          "gram": "base form",
+          "span": [
+            14,
+            16
+          ],
+          "reading": "biyul"
+        },
+        {
+          "t": "좀",
+          "lemma": "좀",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "a bit, please (softener)",
+          "gram": "base form",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "jom"
+        },
+        {
+          "t": "보세요",
+          "lemma": "보다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to see, to look at",
           "gram": "polite honorific / request ('please ...')",
           "span": [
-            3,
-            8
+            19,
+            22
           ],
-          "reading": "josimhaseyo"
+          "reading": "boseyo"
         }
       ]
     },
     {
       "seg": 18,
+      "trans": "Eighty-year-old solid oak. Not a single drop leaks.",
+      "words": [
+        {
+          "t": "팔십",
+          "lemma": "팔십",
+          "pos": "num",
+          "stress": null,
+          "gloss": "eighty (Sino-Korean)",
+          "gram": "base form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "palsip"
+        },
+        {
+          "t": "년",
+          "lemma": "년",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "year (counter)",
+          "gram": "base form",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "nyeon"
+        },
+        {
+          "t": "된",
+          "lemma": "되다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to become",
+          "gram": "past/descriptive adnominal modifier",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "doen"
+        },
+        {
+          "t": "단단한",
+          "lemma": "단단하다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be hard, firm, solid",
+          "gram": "past/descriptive adnominal modifier",
+          "span": [
+            7,
+            10
+          ],
+          "reading": "dandanhan"
+        },
+        {
+          "t": "참나무예요",
+          "lemma": "참나무",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "oak tree, oak wood",
+          "gram": "polite copula ('is/am/are')",
+          "span": [
+            11,
+            16
+          ],
+          "reading": "chamnamuyeyo"
+        },
+        {
+          "t": "물",
+          "lemma": "물",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "water",
+          "gram": "base form",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "mul"
+        },
+        {
+          "t": "한",
+          "lemma": "한",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one, a single",
+          "gram": "base form",
+          "span": [
+            20,
+            21
+          ],
+          "reading": "han"
+        },
+        {
+          "t": "방울",
+          "lemma": "방울",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "drop (counter)",
+          "gram": "base form",
+          "span": [
+            22,
+            24
+          ],
+          "reading": "bangul"
+        },
+        {
+          "t": "안",
+          "lemma": "안",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "not",
+          "gram": "short negator ('not')",
+          "span": [
+            25,
+            26
+          ],
+          "reading": "an"
+        },
+        {
+          "t": "새요",
+          "lemma": "새다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to leak",
+          "gram": "polite present ('is leaking')",
+          "span": [
+            27,
+            29
+          ],
+          "reading": "saeyo"
+        }
+      ]
+    },
+    {
+      "seg": 20,
       "trans": "Because of our mistake, tonight is half price and breakfast is included too.",
       "words": [
         {
@@ -1621,25 +1822,6 @@
           "span": [
             28,
             33
-          ],
-          "reading": "pohamieyo"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "it is included",
-      "words": [
-        {
-          "t": "포함이에요",
-          "lemma": "포함",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "inclusion, included",
-          "gram": "polite copula ('is/am/are')",
-          "span": [
-            0,
-            5
           ],
           "reading": "pohamieyo"
         }
@@ -1770,20 +1952,59 @@
     },
     {
       "seg": 24,
-      "trans": "not even one",
+      "trans": "You hear only the courtyard tree and the sound of rain.",
       "words": [
         {
-          "t": "하나도",
-          "lemma": "하나",
-          "pos": "num",
+          "t": "안마당",
+          "lemma": "안마당",
+          "pos": "noun",
           "stress": null,
-          "gloss": "one",
-          "gram": "additive particle ('also / even')",
+          "gloss": "inner courtyard",
+          "gram": "base form",
           "span": [
             0,
             3
           ],
-          "reading": "hanado"
+          "reading": "anmadang"
+        },
+        {
+          "t": "나무하고",
+          "lemma": "나무",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "tree",
+          "gram": "and / with (conversational)",
+          "span": [
+            4,
+            8
+          ],
+          "reading": "namuhago"
+        },
+        {
+          "t": "빗소리만",
+          "lemma": "빗소리",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "sound of rain",
+          "gram": "limiting particle ('only')",
+          "span": [
+            9,
+            13
+          ],
+          "reading": "bissoriman"
+        },
+        {
+          "t": "들려요",
+          "lemma": "들리다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to be heard, to be audible",
+          "gram": "polite present",
+          "span": [
+            14,
+            17
+          ],
+          "reading": "deullyeoyo"
         }
       ]
     },
@@ -1938,206 +2159,77 @@
     },
     {
       "seg": 28,
-      "trans": "noisy",
+      "trans": "Really? You do not mind climbing the extra stairs?",
       "words": [
         {
-          "t": "시끄러운",
-          "lemma": "시끄럽다",
-          "pos": "adj",
+          "t": "정말요",
+          "lemma": "정말",
+          "pos": "adv",
           "stress": null,
-          "gloss": "to be noisy, loud",
-          "gram": "past/descriptive adnominal modifier",
+          "gloss": "really, truly",
+          "gram": "polite fragment (-요)",
           "span": [
             0,
-            4
+            3
           ],
-          "reading": "sikkeureoun"
+          "reading": "jeongmallyo"
+        },
+        {
+          "t": "계단을",
+          "lemma": "계단",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "stairs, steps",
+          "gram": "object particle",
+          "span": [
+            5,
+            8
+          ],
+          "reading": "gyedaneul"
+        },
+        {
+          "t": "더",
+          "lemma": "더",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "more",
+          "gram": "base form",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "deo"
+        },
+        {
+          "t": "올라오셔도",
+          "lemma": "올라오다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to come up, to come upstairs",
+          "gram": "honorific concessive ('even if you ...')",
+          "span": [
+            11,
+            16
+          ],
+          "reading": "ollaosyeodo"
+        },
+        {
+          "t": "괜찮으세요",
+          "lemma": "괜찮다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be okay, to be fine, to be all right",
+          "gram": "polite honorific / request ('please ...')",
+          "span": [
+            17,
+            22
+          ],
+          "reading": "gwaenchaneuseyo"
         }
       ]
     },
     {
       "seg": 30,
-      "trans": "Actually, I dislike noisy ground-floor rooms. I really love this space!",
-      "words": [
-        {
-          "t": "사실",
-          "lemma": "사실",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "fact, truth",
-          "gram": "base form",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "sasil"
-        },
-        {
-          "t": "저는",
-          "lemma": "저",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I, me (humble)",
-          "gram": "topic particle",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "jeoneun"
-        },
-        {
-          "t": "시끄러운",
-          "lemma": "시끄럽다",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "to be noisy, loud",
-          "gram": "past/descriptive adnominal modifier",
-          "span": [
-            6,
-            10
-          ],
-          "reading": "sikkeureoun"
-        },
-        {
-          "t": "일층",
-          "lemma": "일층",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "first floor, ground floor",
-          "gram": "base form",
-          "span": [
-            11,
-            13
-          ],
-          "reading": "ilcheung"
-        },
-        {
-          "t": "방을",
-          "lemma": "방",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "room",
-          "gram": "object particle",
-          "span": [
-            14,
-            16
-          ],
-          "reading": "bangeul"
-        },
-        {
-          "t": "싫어해요",
-          "lemma": "싫어하다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to dislike",
-          "gram": "polite present",
-          "span": [
-            17,
-            21
-          ],
-          "reading": "sireohaeyo"
-        },
-        {
-          "t": "이",
-          "lemma": "이",
-          "pos": "det",
-          "stress": null,
-          "gloss": "this",
-          "gram": "base form",
-          "span": [
-            23,
-            24
-          ],
-          "reading": "i"
-        },
-        {
-          "t": "공간이",
-          "lemma": "공간",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "space, room",
-          "gram": "subject particle",
-          "span": [
-            25,
-            28
-          ],
-          "reading": "gonggani"
-        },
-        {
-          "t": "정말",
-          "lemma": "정말",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "really, truly",
-          "gram": "base form",
-          "span": [
-            29,
-            31
-          ],
-          "reading": "jeongmal"
-        },
-        {
-          "t": "마음에",
-          "lemma": "마음",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "heart, mind, feelings",
-          "gram": "location/time particle",
-          "span": [
-            32,
-            35
-          ],
-          "reading": "maeume"
-        },
-        {
-          "t": "들어요",
-          "lemma": "들다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to lift, to hold",
-          "gram": "polite present",
-          "span": [
-            36,
-            39
-          ],
-          "reading": "deureoyo"
-        }
-      ]
-    },
-    {
-      "seg": 32,
-      "trans": "I really like it",
-      "words": [
-        {
-          "t": "마음에",
-          "lemma": "마음",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "heart, mind, feelings",
-          "gram": "location/time particle",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "maeume"
-        },
-        {
-          "t": "들어요",
-          "lemma": "들다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to lift, to hold",
-          "gram": "polite present",
-          "span": [
-            4,
-            7
-          ],
-          "reading": "deureoyo"
-        }
-      ]
-    },
-    {
-      "seg": 34,
       "trans": "Not at all! And this wide desk beneath the window is ideal for my work.",
       "words": [
         {
@@ -2286,26 +2378,91 @@
       ]
     },
     {
-      "seg": 36,
-      "trans": "not at all",
+      "seg": 32,
+      "trans": "What a relief! Mr Jihoon, here is your silver key.",
       "words": [
         {
-          "t": "전혀요",
-          "lemma": "전혀",
-          "pos": "adv",
+          "t": "다행이에요",
+          "lemma": "다행",
+          "pos": "noun",
           "stress": null,
-          "gloss": "not at all",
-          "gram": "polite sentence fragment (-요)",
+          "gloss": "good fortune, relief",
+          "gram": "polite copula ('is/am/are')",
           "span": [
             0,
-            3
+            5
           ],
-          "reading": "jeonhyeoyo"
+          "reading": "dahaengieyo"
+        },
+        {
+          "t": "지훈",
+          "lemma": "지훈",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Jihoon",
+          "gram": "proper name",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "jihun"
+        },
+        {
+          "t": "님",
+          "lemma": "님",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Mr (polite honorific)",
+          "gram": "base form",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "nim"
+        },
+        {
+          "t": "여기",
+          "lemma": "여기",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "here, this place",
+          "gram": "base form",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "yeogi"
+        },
+        {
+          "t": "은색",
+          "lemma": "은색",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "silver colour",
+          "gram": "base form",
+          "span": [
+            16,
+            18
+          ],
+          "reading": "eunsaek"
+        },
+        {
+          "t": "열쇠예요",
+          "lemma": "열쇠",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "key",
+          "gram": "polite copula ('is/am/are')",
+          "span": [
+            19,
+            23
+          ],
+          "reading": "yeolsoeyeyo"
         }
       ]
     },
     {
-      "seg": 38,
+      "seg": 34,
       "trans": "Thank you both for speaking honestly instead of sending me back into the rain.",
       "words": [
         {
@@ -2428,39 +2585,7 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "speak give",
-      "words": [
-        {
-          "t": "말씀해",
-          "lemma": "말씀하다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to speak, to say (honorific)",
-          "gram": "infinitive / casual present",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "malsseumhae"
-        },
-        {
-          "t": "주셔서",
-          "lemma": "주다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to give",
-          "gram": "honorific causal ('thank you for ...-ing')",
-          "span": [
-            4,
-            7
-          ],
-          "reading": "jusyeoseo"
-        }
-      ]
-    },
-    {
-      "seg": 42,
+      "seg": 36,
       "trans": "Sleep well, sir. Breakfast starts downstairs at seven thirty.",
       "words": [
         {
@@ -2596,39 +2721,7 @@
       ]
     },
     {
-      "seg": 44,
-      "trans": "comfortably sleep (honorific)",
-      "words": [
-        {
-          "t": "편히",
-          "lemma": "편히",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "comfortably, at ease",
-          "gram": "base form",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "pyeonhi"
-        },
-        {
-          "t": "주무세요",
-          "lemma": "주무시다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to sleep (honorific)",
-          "gram": "polite honorific ('sleep well')",
-          "span": [
-            3,
-            7
-          ],
-          "reading": "jumuseyo"
-        }
-      ]
-    },
-    {
-      "seg": 46,
+      "seg": 39,
       "trans": "Here we are, sir. Mind your head on the low wooden beam.",
       "words": [
         {
@@ -2738,7 +2831,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 40,
       "trans": "Wow... look at the proportions of this timber roof!",
       "words": [
         {
@@ -2835,7 +2928,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 41,
       "trans": "Eighty-year-old solid oak. Not a single drop leaks.",
       "words": [
         {
@@ -2971,7 +3064,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 42,
       "trans": "Because of our mistake, tonight is half price and breakfast is included too.",
       "words": [
         {
@@ -3094,7 +3187,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 43,
       "trans": "Listen for a moment... not a single car sound can be heard from the street.",
       "words": [
         {
@@ -3217,7 +3310,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 44,
       "trans": "You hear only the courtyard tree and the sound of rain.",
       "words": [
         {
@@ -3275,7 +3368,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 45,
       "trans": "Actually, I dislike noisy ground-floor rooms. I really love this space!",
       "words": [
         {
@@ -3424,7 +3517,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 46,
       "trans": "Really? You do not mind climbing the extra stairs?",
       "words": [
         {
@@ -3495,7 +3588,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 47,
       "trans": "Not at all! And this wide desk beneath the window is ideal for my work.",
       "words": [
         {
@@ -3644,7 +3737,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 48,
       "trans": "What a relief! Mr Jihoon, here is your silver key.",
       "words": [
         {
@@ -3728,7 +3821,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 49,
       "trans": "Thank you both for speaking honestly instead of sending me back into the rain.",
       "words": [
         {
@@ -3851,7 +3944,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 50,
       "trans": "Sleep well, sir. Breakfast starts downstairs at seven thirty.",
       "words": [
         {
@@ -3987,7 +4080,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 52,
       "trans": "Goodbye! (Stay well!)",
       "words": [
         {

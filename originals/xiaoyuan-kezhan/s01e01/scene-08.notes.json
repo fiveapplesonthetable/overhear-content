@@ -1785,38 +1785,6 @@
     },
     {
       "seg": 16,
-      "trans": "listen + arrive",
-      "words": [
-        {
-          "t": "听",
-          "lemma": "听",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "listen",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "tīng"
-        },
-        {
-          "t": "到",
-          "lemma": "到",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "arrive",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "dào"
-        }
-      ]
-    },
-    {
-      "seg": 18,
       "trans": "Nine in the evening? Stay right here; let us go open the gate together.",
       "words": [
         {
@@ -1952,9 +1920,35 @@
       ]
     },
     {
-      "seg": 20,
-      "trans": "evening + nine + o'clock",
+      "seg": 18,
+      "trans": "Hello? Good evening! Nobody is outside the courtyard!",
       "words": [
+        {
+          "t": "您",
+          "lemma": "您",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (polite singular)",
+          "gram": "pronoun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "nín"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "hǎo"
+        },
         {
           "t": "晚上",
           "lemma": "晚上",
@@ -1963,41 +1957,93 @@
           "gloss": "evening",
           "gram": "noun (uninflected)",
           "span": [
-            0,
-            2
+            3,
+            5
           ],
           "reading": "wǎn shang"
         },
         {
-          "t": "九",
-          "lemma": "九",
-          "pos": "num",
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
           "stress": null,
-          "gloss": "nine",
-          "gram": "numeral",
+          "gloss": "good",
+          "gram": "stative adjective",
           "span": [
-            2,
-            3
+            5,
+            6
           ],
-          "reading": "jiú"
+          "reading": "hǎo"
         },
         {
-          "t": "点",
-          "lemma": "点",
-          "pos": "part",
+          "t": "院子",
+          "lemma": "院子",
+          "pos": "noun",
           "stress": null,
-          "gloss": "o'clock",
-          "gram": "particle / measure word",
+          "gloss": "courtyard",
+          "gram": "noun (uninflected)",
           "span": [
-            3,
-            4
+            7,
+            9
           ],
-          "reading": "diǎn"
+          "reading": "yuàn zi"
+        },
+        {
+          "t": "外头",
+          "lemma": "外头",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "outside (colloquial)",
+          "gram": "noun (uninflected)",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "wài tou"
+        },
+        {
+          "t": "没",
+          "lemma": "没",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "not (have / did not)",
+          "gram": "adverb",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "méi"
+        },
+        {
+          "t": "人",
+          "lemma": "人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "person",
+          "gram": "noun (uninflected)",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "rén"
+        },
+        {
+          "t": "啊",
+          "lemma": "啊",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "ah!",
+          "gram": "interjection",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "a"
         }
       ]
     },
     {
-      "seg": 22,
+      "seg": 20,
       "trans": "Wait—look down on the stone step.",
       "words": [
         {
@@ -2081,26 +2127,7 @@
       ]
     },
     {
-      "seg": 24,
-      "trans": "lower one's head",
-      "words": [
-        {
-          "t": "低头",
-          "lemma": "低头",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "lower one's head",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "dī tóu"
-        }
-      ]
-    },
-    {
-      "seg": 26,
+      "seg": 22,
       "trans": "Another dark-blue suitcase! Is this Teacher Song's?",
       "words": [
         {
@@ -2249,34 +2276,86 @@
       ]
     },
     {
-      "seg": 28,
-      "trans": "Song (surname) + teacher + possessive / descriptive particle",
+      "seg": 24,
+      "trans": "Check beside the zipper... yes, her name initials are here!",
       "words": [
         {
-          "t": "宋",
-          "lemma": "宋",
-          "pos": "name",
+          "t": "看",
+          "lemma": "看",
+          "pos": "verb",
           "stress": null,
-          "gloss": "Song (surname)",
-          "gram": "proper name",
+          "gloss": "look",
+          "gram": "verb (uninflected)",
           "span": [
             0,
             1
           ],
-          "reading": "sòng"
+          "reading": "kàn"
         },
         {
-          "t": "老师",
-          "lemma": "老师",
+          "t": "拉链",
+          "lemma": "拉链",
           "pos": "noun",
           "stress": null,
-          "gloss": "teacher",
+          "gloss": "zipper",
           "gram": "noun (uninflected)",
           "span": [
             1,
             3
           ],
-          "reading": "lǎo shī"
+          "reading": "lā liàn"
+        },
+        {
+          "t": "旁边",
+          "lemma": "旁边",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "side",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "páng biān"
+        },
+        {
+          "t": "对",
+          "lemma": "对",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "right",
+          "gram": "stative adjective",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "duì"
+        },
+        {
+          "t": "有",
+          "lemma": "有",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "have",
+          "gram": "verb (uninflected)",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "yǒu"
+        },
+        {
+          "t": "她",
+          "lemma": "她",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "she",
+          "gram": "pronoun",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "tā"
         },
         {
           "t": "的",
@@ -2286,15 +2365,41 @@
           "gloss": "possessive / descriptive particle",
           "gram": "particle / measure word",
           "span": [
-            3,
-            4
+            11,
+            12
           ],
           "reading": "de"
+        },
+        {
+          "t": "名字",
+          "lemma": "名字",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "name (given or full name)",
+          "gram": "noun (uninflected)",
+          "span": [
+            12,
+            14
+          ],
+          "reading": "míng zi"
+        },
+        {
+          "t": "缩写",
+          "lemma": "缩写",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "initials",
+          "gram": "noun (uninflected)",
+          "span": [
+            14,
+            16
+          ],
+          "reading": "suō xiě"
         }
       ]
     },
     {
-      "seg": 30,
+      "seg": 26,
       "trans": "Why did that person run off without taking his own suitcase back?",
       "words": [
         {
@@ -2456,26 +2561,130 @@
       ]
     },
     {
-      "seg": 32,
-      "trans": "why",
+      "seg": 28,
+      "trans": "Look, there is a white envelope taped onto the handle.",
       "words": [
         {
-          "t": "为什么",
-          "lemma": "为什么",
-          "pos": "adv",
+          "t": "看",
+          "lemma": "看",
+          "pos": "verb",
           "stress": null,
-          "gloss": "why",
-          "gram": "adverb",
+          "gloss": "look",
+          "gram": "verb (uninflected)",
           "span": [
             0,
-            3
+            1
           ],
-          "reading": "wèi shén me"
+          "reading": "kàn"
+        },
+        {
+          "t": "把手",
+          "lemma": "把手",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "handle",
+          "gram": "noun (uninflected)",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "bǎ shou"
+        },
+        {
+          "t": "上",
+          "lemma": "上",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "up",
+          "gram": "verb (uninflected)",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "shàng"
+        },
+        {
+          "t": "贴",
+          "lemma": "贴",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "stick",
+          "gram": "verb (uninflected)",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "tiē"
+        },
+        {
+          "t": "着",
+          "lemma": "着",
+          "pos": "part",
+          "stress": null,
+          "gloss": "continuous-state aspect particle",
+          "gram": "particle / measure word",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "zhe"
+        },
+        {
+          "t": "一",
+          "lemma": "一",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one",
+          "gram": "numeral",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "yí"
+        },
+        {
+          "t": "个",
+          "lemma": "个",
+          "pos": "part",
+          "stress": null,
+          "gloss": "general measure word",
+          "gram": "measure word (classifier)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "gè"
+        },
+        {
+          "t": "白",
+          "lemma": "白",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "white",
+          "gram": "stative adjective",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "bái"
+        },
+        {
+          "t": "信封",
+          "lemma": "信封",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "envelope",
+          "gram": "noun (uninflected)",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "xìn fēng"
         }
       ]
     },
     {
-      "seg": 34,
+      "seg": 30,
       "trans": "Let me read it: Sorry for taking the wrong one; please keep mine until Friday.",
       "words": [
         {
@@ -2637,26 +2846,7 @@
       ]
     },
     {
-      "seg": 36,
-      "trans": "Friday",
-      "words": [
-        {
-          "t": "星期五",
-          "lemma": "星期五",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "Friday",
-          "gram": "noun (uninflected)",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "xīng qī wǔ"
-        }
-      ]
-    },
-    {
-      "seg": 38,
+      "seg": 32,
       "trans": "Until Friday? No name written, and no signature either!",
       "words": [
         {
@@ -2766,26 +2956,156 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "sign one's name",
+      "seg": 34,
+      "trans": "Why leave the shoes and little wooden train here until Friday?",
       "words": [
         {
-          "t": "签名",
-          "lemma": "签名",
-          "pos": "verb",
+          "t": "为什么",
+          "lemma": "为什么",
+          "pos": "adv",
           "stress": null,
-          "gloss": "sign one's name",
-          "gram": "verb (uninflected)",
+          "gloss": "why",
+          "gram": "adverb",
           "span": [
             0,
-            2
+            3
           ],
-          "reading": "qiān míng"
+          "reading": "wèi shén me"
+        },
+        {
+          "t": "把",
+          "lemma": "把",
+          "pos": "part",
+          "stress": null,
+          "gloss": "measure word for handled objects",
+          "gram": "particle / measure word",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "bǎ"
+        },
+        {
+          "t": "鞋",
+          "lemma": "鞋",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "shoe",
+          "gram": "noun (uninflected)",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "xié"
+        },
+        {
+          "t": "和",
+          "lemma": "和",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "hé"
+        },
+        {
+          "t": "木头",
+          "lemma": "木头",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "wood",
+          "gram": "noun (uninflected)",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "mù tou"
+        },
+        {
+          "t": "小",
+          "lemma": "小",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "small",
+          "gram": "stative adjective",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "xiáo"
+        },
+        {
+          "t": "火车",
+          "lemma": "火车",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "train",
+          "gram": "noun (uninflected)",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "huǒ chē"
+        },
+        {
+          "t": "留",
+          "lemma": "留",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "leave behind",
+          "gram": "verb (uninflected)",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "liú"
+        },
+        {
+          "t": "到",
+          "lemma": "到",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "arrive",
+          "gram": "verb (uninflected)",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "dào"
+        },
+        {
+          "t": "星期五",
+          "lemma": "星期五",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Friday",
+          "gram": "noun (uninflected)",
+          "span": [
+            13,
+            16
+          ],
+          "reading": "xīng qī wǔ"
+        },
+        {
+          "t": "呢",
+          "lemma": "呢",
+          "pos": "part",
+          "stress": null,
+          "gloss": "follow-up question / ongoing-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            16,
+            17
+          ],
+          "reading": "ne"
         }
       ]
     },
     {
-      "seg": 42,
+      "seg": 36,
       "trans": "Welcome to Courtyard Inn, Qing. Tomorrow will not be boring.",
       "words": [
         {
@@ -2921,26 +3241,7 @@
       ]
     },
     {
-      "seg": 44,
-      "trans": "boring",
-      "words": [
-        {
-          "t": "无聊",
-          "lemma": "无聊",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "boring",
-          "gram": "stative adjective",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "wú liáo"
-        }
-      ]
-    },
-    {
-      "seg": 46,
+      "seg": 39,
       "trans": "Chen, did you hear that? Someone rang the front gate bell!",
       "words": [
         {
@@ -3102,7 +3403,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 40,
       "trans": "Nine in the evening? Stay right here; let us go open the gate together.",
       "words": [
         {
@@ -3238,7 +3539,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 41,
       "trans": "Hello? Good evening! Nobody is outside the courtyard!",
       "words": [
         {
@@ -3361,7 +3662,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 42,
       "trans": "Wait—look down on the stone step.",
       "words": [
         {
@@ -3445,7 +3746,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 43,
       "trans": "Another dark-blue suitcase! Is this Teacher Song's?",
       "words": [
         {
@@ -3594,7 +3895,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 44,
       "trans": "Check beside the zipper... yes, her name initials are here!",
       "words": [
         {
@@ -3717,7 +4018,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 45,
       "trans": "Why did that person run off without taking his own suitcase back?",
       "words": [
         {
@@ -3879,7 +4180,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 46,
       "trans": "Look, there is a white envelope taped onto the handle.",
       "words": [
         {
@@ -4002,7 +4303,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 47,
       "trans": "Let me read it: Sorry for taking the wrong one; please keep mine until Friday.",
       "words": [
         {
@@ -4164,7 +4465,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 48,
       "trans": "Until Friday? No name written, and no signature either!",
       "words": [
         {
@@ -4274,7 +4575,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 49,
       "trans": "Why leave the shoes and little wooden train here until Friday?",
       "words": [
         {
@@ -4423,7 +4724,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 50,
       "trans": "Welcome to Courtyard Inn, Qing. Tomorrow will not be boring.",
       "words": [
         {
@@ -4559,7 +4860,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 52,
       "trans": "See you tomorrow!",
       "words": [
         {

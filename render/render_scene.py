@@ -224,19 +224,25 @@ class Renderer:
 
             eff_gap = ch_obj.gaps_override[i] if ch_obj is not None else float(g.get("gap", 0.35) or 0)
             native_words = native_text.words_for_segment(g["t"], notes_by_seg.get(i), lang) if lang in native_text.LANGUAGES else ()
+            ru_cfg = config.ru_engine(self.s)
+            seg_policy = self.policy
             turn_max = int(self.s["audio"].get("turnMaxChars", 240))
-            if lang == "ru" and config.ru_engine(self.s):
-                turn_max = min(turn_max, 90)
+            if lang == "ru" and ru_cfg:
+                if ru_cfg.get("engine") in ("qwen", "qwen-lora"):
+                    seg_policy = ru_cfg.get("stress", "all" if ru_cfg.get("lora") else "homographs")
+                    turn_max = int(ru_cfg.get("turnMaxChars", 0))
+                else:
+                    turn_max = min(turn_max, 90)
             elif lang == "en" and turn_max > 145:
                 # Preserve existing 240-char cached English takes on already-rendered scenes;
                 # use <=145-char chunks for any uncached English turns so 8s sky.flac + gen stays inside Qwen's 20s window.
                 cand_240 = textprep.prepare_segment(
-                    i, g["v"], g["t"], lang, notes_by_seg.get(i), self.policy, eff_gap, isent_cfg.get(lang, isent_cfg["en"]),
+                    i, g["v"], g["t"], lang, notes_by_seg.get(i), seg_policy, eff_gap, isent_cfg.get(lang, isent_cfg["en"]),
                     max_turn_chars=turn_max)
                 if not all(self.store.tts_path(tts.cache_key(self.s, voice, self.voices.ref_version(voice), lang, st.tts)).exists() for st in cand_240):
                     turn_max = 145
             for st in textprep.prepare_segment(
-                    i, g["v"], g["t"], lang, notes_by_seg.get(i), self.policy, eff_gap, isent_cfg.get(lang, isent_cfg["en"]),
+                    i, g["v"], g["t"], lang, notes_by_seg.get(i), seg_policy, eff_gap, isent_cfg.get(lang, isent_cfg["en"]),
                     ruaccent=self.ruaccent if (lang == "ru" and self.s["stress"]["ruaccentFallback"]) else None,
                     max_turn_chars=turn_max):
                 st.voice = voice

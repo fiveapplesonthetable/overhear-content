@@ -1883,6 +1883,142 @@
     },
     {
       "seg": 14,
+      "trans": "Nine minutes! I bought the milk, the eggs, and the apples!",
+      "words": [
+        {
+          "t": "九分",
+          "lemma": "九分",
+          "pos": "num",
+          "stress": null,
+          "gloss": "nine minutes",
+          "gram": "number + counter",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "キュウフン"
+        },
+        {
+          "t": "でした",
+          "lemma": "です",
+          "pos": "part",
+          "stress": null,
+          "gloss": "be; is/am/are (polite copula)",
+          "gram": "polite past copula",
+          "span": [
+            2,
+            5
+          ],
+          "reading": "デシタ"
+        },
+        {
+          "t": "牛乳",
+          "lemma": "牛乳",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "milk; cow's milk",
+          "gram": "noun",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "ギュウニュウ"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and; with; quote; when",
+          "gram": "accompaniment / quotation particle",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "卵",
+          "lemma": "卵",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "egg",
+          "gram": "noun",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "タマゴ"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and; with; quote; when",
+          "gram": "accompaniment / quotation particle",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "りんご",
+          "lemma": "りんご",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "apple",
+          "gram": "noun",
+          "span": [
+            11,
+            14
+          ],
+          "reading": "リンゴ"
+        },
+        {
+          "t": "買って",
+          "lemma": "買う",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "buy",
+          "gram": "te-form verb",
+          "span": [
+            15,
+            18
+          ],
+          "reading": "カッテ"
+        },
+        {
+          "t": "来ました",
+          "lemma": "来る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "come",
+          "gram": "polite past verb",
+          "span": [
+            18,
+            22
+          ],
+          "reading": "キマシタ"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis particle ('you know')",
+          "gram": "sentence-final emphasis particle",
+          "span": [
+            22,
+            23
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 16,
       "trans": "Mio, you are a lifesaver! Hand me the milk first for the coffee machine.",
       "words": [
         {
@@ -2057,26 +2193,182 @@
       ]
     },
     {
-      "seg": 16,
-      "trans": "please give me",
+      "seg": 18,
+      "trans": "Impressive speed! Did you get a receipt from the shopkeeper?",
       "words": [
         {
-          "t": "ちょうだい",
-          "lemma": "ちょうだい",
-          "pos": "interj",
+          "t": "見事",
+          "lemma": "見事",
+          "pos": "adj",
           "stress": null,
-          "gloss": "please give me; please do",
-          "gram": "set expression",
+          "gloss": "splendid; admirable; spot-on",
+          "gram": "na-adjective",
           "span": [
             0,
+            2
+          ],
+          "reading": "ミゴト"
+        },
+        {
+          "t": "な",
+          "lemma": "だ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "be (plain copula)",
+          "gram": "attributive copula (na-adjective linker)",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ナ"
+        },
+        {
+          "t": "速",
+          "lemma": "速い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "fast; speedy",
+          "gram": "i-adjective",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ハヤ"
+        },
+        {
+          "t": "さ",
+          "lemma": "さ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "sentence particle; -ness",
+          "gram": "particle",
+          "span": [
+            4,
             5
           ],
-          "reading": "チョウダイ"
+          "reading": "サ"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "pos": "part",
+          "stress": null,
+          "gloss": "be; is/am/are (polite copula)",
+          "gram": "polite copula",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "デス"
+        },
+        {
+          "t": "お店",
+          "lemma": "お店",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "shop; store",
+          "gram": "noun",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "オミセ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "'s; of; one; question/explanation particle",
+          "gram": "possessive / nominalizing particle",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "人",
+          "lemma": "人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "person",
+          "gram": "noun",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ヒト"
+        },
+        {
+          "t": "から",
+          "lemma": "から",
+          "pos": "part",
+          "stress": null,
+          "gloss": "from; because; after",
+          "gram": "starting point / reason particle",
+          "span": [
+            12,
+            14
+          ],
+          "reading": "カラ"
+        },
+        {
+          "t": "領収書",
+          "lemma": "領収書",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "receipt",
+          "gram": "noun",
+          "span": [
+            14,
+            17
+          ],
+          "reading": "リョウシュウショ"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "direct object / path marker",
+          "gram": "direct object particle",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "もらいました",
+          "lemma": "もらう",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "receive; get",
+          "gram": "polite past verb",
+          "span": [
+            18,
+            24
+          ],
+          "reading": "モライマシタ"
+        },
+        {
+          "t": "か",
+          "lemma": "か",
+          "pos": "part",
+          "stress": null,
+          "gloss": "question particle; or",
+          "gram": "question particle",
+          "span": [
+            24,
+            25
+          ],
+          "reading": "カ"
         }
       ]
     },
     {
-      "seg": 18,
+      "seg": 20,
       "trans": "Right here! Everything cost three thousand eight hundred yen, so the change is twelve hundred yen.",
       "words": [
         {
@@ -2238,58 +2530,7 @@
       ]
     },
     {
-      "seg": 20,
-      "trans": "in total",
-      "words": [
-        {
-          "t": "全部",
-          "lemma": "全部",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "all; everything",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ゼンブ"
-        },
-        {
-          "t": "で",
-          "lemma": "で",
-          "pos": "part",
-          "stress": null,
-          "gloss": "at; in; by; with; and",
-          "gram": "location of action / means particle",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "デ"
-        }
-      ]
-    },
-    {
       "seg": 22,
-      "trans": "change (money back)",
-      "words": [
-        {
-          "t": "おつり",
-          "lemma": "おつり",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "change (from payment)",
-          "gram": "noun",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "オツリ"
-        }
-      ]
-    },
-    {
-      "seg": 24,
       "trans": "One thousand, one hundred, two hundred yen. Exact to the very last yen—thank you!",
       "words": [
         {
@@ -2425,21 +2666,300 @@
       ]
     },
     {
-      "seg": 26,
-      "trans": "exact fit; right on",
+      "seg": 24,
+      "trans": "Wait a second, Mio... which butter did you grab?",
       "words": [
         {
-          "t": "ぴったり",
-          "lemma": "ぴったり",
-          "pos": "adj",
+          "t": "ちょっと",
+          "lemma": "ちょっと",
+          "pos": "adv",
           "stress": null,
-          "gloss": "exact; fitting perfectly",
-          "gram": "na-adjective",
+          "gloss": "a moment; a little; hey",
+          "gram": "adverb",
           "span": [
             0,
             4
           ],
-          "reading": "ピッタリ"
+          "reading": "チョット"
+        },
+        {
+          "t": "待って",
+          "lemma": "待つ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "wait",
+          "gram": "te-form verb",
+          "span": [
+            4,
+            7
+          ],
+          "reading": "マッテ"
+        },
+        {
+          "t": "美央",
+          "lemma": "美央",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mio",
+          "gram": "proper name",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "ミオ"
+        },
+        {
+          "t": "ちゃん",
+          "lemma": "ちゃん",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "affectionate name suffix",
+          "gram": "noun",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "チャン"
+        },
+        {
+          "t": "どの",
+          "lemma": "どの",
+          "pos": "det",
+          "stress": null,
+          "gloss": "which (of three or more)",
+          "gram": "prenominal determiner",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "ドノ"
+        },
+        {
+          "t": "バター",
+          "lemma": "バター",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "butter",
+          "gram": "noun",
+          "span": [
+            17,
+            20
+          ],
+          "reading": "バター"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "direct object / path marker",
+          "gram": "direct object particle",
+          "span": [
+            20,
+            21
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "取って",
+          "lemma": "取る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "take; pass; keep",
+          "gram": "te-form verb",
+          "span": [
+            21,
+            24
+          ],
+          "reading": "トッテ"
+        },
+        {
+          "t": "来た",
+          "lemma": "来る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "come",
+          "gram": "plain past verb",
+          "span": [
+            24,
+            26
+          ],
+          "reading": "キタ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "'s; of; one; question/explanation particle",
+          "gram": "possessive / nominalizing particle",
+          "span": [
+            26,
+            27
+          ],
+          "reading": "ノ"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "The gold wrapper on the top shelf. Why?",
+      "words": [
+        {
+          "t": "一番",
+          "lemma": "一番",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "most; number one; best",
+          "gram": "adverb",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "イチバン"
+        },
+        {
+          "t": "上",
+          "lemma": "上",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "top; above; upstairs",
+          "gram": "noun",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ウエ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "'s; of; one; question/explanation particle",
+          "gram": "possessive / nominalizing particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "棚",
+          "lemma": "棚",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "shelf; rack",
+          "gram": "noun",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "タナ"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; at; to; on; at (time)",
+          "gram": "location / time / target particle",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "あった",
+          "lemma": "ある",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be; exist; have (inanimate)",
+          "gram": "plain past verb",
+          "span": [
+            6,
+            9
+          ],
+          "reading": "アッタ"
+        },
+        {
+          "t": "金色",
+          "lemma": "金色",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "gold color; golden",
+          "gram": "noun",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "キンイロ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "'s; of; one; question/explanation particle",
+          "gram": "possessive / nominalizing particle",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "包み",
+          "lemma": "包み",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "parcel; wrapper; package",
+          "gram": "noun",
+          "span": [
+            12,
+            14
+          ],
+          "reading": "ツツミ"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "pos": "part",
+          "stress": null,
+          "gloss": "be; is/am/are (polite copula)",
+          "gram": "polite copula",
+          "span": [
+            14,
+            16
+          ],
+          "reading": "デス"
+        },
+        {
+          "t": "けど",
+          "lemma": "けど",
+          "pos": "part",
+          "stress": null,
+          "gloss": "but; though",
+          "gram": "particle",
+          "span": [
+            16,
+            18
+          ],
+          "reading": "ケド"
+        },
+        {
+          "t": "どうして",
+          "lemma": "どうして",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "why; how come",
+          "gram": "adverb",
+          "span": [
+            19,
+            23
+          ],
+          "reading": "ドウシテ"
         }
       ]
     },
@@ -2646,44 +3166,142 @@
     },
     {
       "seg": 30,
-      "trans": "salt",
+      "trans": "Oh no! Because I was running, all the wrappers looked identical!",
       "words": [
         {
-          "t": "塩",
-          "lemma": "塩",
-          "pos": "noun",
+          "t": "ええっ",
+          "lemma": "ええっ",
+          "pos": "interj",
           "stress": null,
-          "gloss": "salt",
-          "gram": "noun",
+          "gloss": "what?!; oh no!",
+          "gram": "interjection",
           "span": [
             0,
-            1
+            3
           ],
-          "reading": "シオ"
+          "reading": "エエ"
+        },
+        {
+          "t": "走って",
+          "lemma": "走る",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "run",
+          "gram": "te-form verb",
+          "span": [
+            4,
+            7
+          ],
+          "reading": "ハシッテ"
+        },
+        {
+          "t": "いた",
+          "lemma": "いる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be; stay (animate); progressive",
+          "gram": "plain past verb",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "イタ"
+        },
+        {
+          "t": "から",
+          "lemma": "から",
+          "pos": "part",
+          "stress": null,
+          "gloss": "from; because; after",
+          "gram": "starting point / reason particle",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "カラ"
+        },
+        {
+          "t": "包み",
+          "lemma": "包み",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "parcel; wrapper; package",
+          "gram": "noun",
+          "span": [
+            12,
+            14
+          ],
+          "reading": "ツツミ"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject marker; but",
+          "gram": "subject / contrast particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "ガ"
+        },
+        {
+          "t": "全部",
+          "lemma": "全部",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "all; everything",
+          "gram": "noun",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "ゼンブ"
+        },
+        {
+          "t": "同じ",
+          "lemma": "同じ",
+          "pos": "det",
+          "stress": null,
+          "gloss": "same; identical",
+          "gram": "prenominal determiner",
+          "span": [
+            17,
+            19
+          ],
+          "reading": "オナジ"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; at; to; on; at (time)",
+          "gram": "location / time / target particle",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "見えました",
+          "lemma": "見える",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be visible; can see; look",
+          "gram": "polite past verb",
+          "span": [
+            20,
+            25
+          ],
+          "reading": "ミエマシタ"
         }
       ]
     },
     {
       "seg": 32,
-      "trans": "sweet",
-      "words": [
-        {
-          "t": "甘い",
-          "lemma": "甘い",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "sweet",
-          "gram": "i-adjective",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "アマイ"
-        }
-      ]
-    },
-    {
-      "seg": 34,
       "trans": "Can we really serve salty butter alongside sweet strawberry jam?",
       "words": [
         {
@@ -2832,45 +3450,195 @@
       ]
     },
     {
-      "seg": 36,
-      "trans": "salty",
+      "seg": 34,
+      "trans": "Hold on—salted butter is bad for jam, yet amazing for scrambled eggs!",
       "words": [
         {
-          "t": "しょっぱい",
-          "lemma": "しょっぱい",
-          "pos": "adj",
+          "t": "待って",
+          "lemma": "待つ",
+          "pos": "verb",
           "stress": null,
-          "gloss": "salty",
-          "gram": "i-adjective",
+          "gloss": "wait",
+          "gram": "te-form verb",
           "span": [
             0,
-            5
+            3
           ],
-          "reading": "ショッパイ"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "strawberry jam",
-      "words": [
+          "reading": "マッテ"
+        },
         {
-          "t": "苺ジャム",
-          "lemma": "苺ジャム",
+          "t": "塩バター",
+          "lemma": "塩バター",
           "pos": "noun",
           "stress": null,
-          "gloss": "strawberry jam",
+          "gloss": "salted butter",
           "gram": "noun",
           "span": [
-            0,
-            4
+            5,
+            9
           ],
-          "reading": "イチゴジャム"
+          "reading": "シオバター"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "ジャム",
+          "lemma": "ジャム",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "jam",
+          "gram": "noun",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "ジャム"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; at; to; on; at (time)",
+          "gram": "location / time / target particle",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "向かない",
+          "lemma": "向く",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "face; be suited to",
+          "gram": "plain negative verb",
+          "span": [
+            15,
+            19
+          ],
+          "reading": "ムカナイ"
+        },
+        {
+          "t": "けど",
+          "lemma": "けど",
+          "pos": "part",
+          "stress": null,
+          "gloss": "but; though",
+          "gram": "particle",
+          "span": [
+            19,
+            21
+          ],
+          "reading": "ケド"
+        },
+        {
+          "t": "スクランブルエッグ",
+          "lemma": "スクランブルエッグ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "scrambled eggs",
+          "gram": "noun",
+          "span": [
+            22,
+            31
+          ],
+          "reading": "スクランブルエッグ"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; at; to; on; at (time)",
+          "gram": "location / time / target particle",
+          "span": [
+            31,
+            32
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            32,
+            33
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "最高",
+          "lemma": "最高",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "the best; wonderful",
+          "gram": "na-adjective",
+          "span": [
+            33,
+            35
+          ],
+          "reading": "サイコウ"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "be (plain copula)",
+          "gram": "plain copula",
+          "span": [
+            35,
+            36
+          ],
+          "reading": "ダ"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis particle ('you know')",
+          "gram": "sentence-final emphasis particle",
+          "span": [
+            36,
+            37
+          ],
+          "reading": "ヨ"
         }
       ]
     },
     {
-      "seg": 40,
+      "seg": 36,
       "trans": "What a relief! Quick thinking saved breakfast again.",
       "words": [
         {
@@ -2993,26 +3761,7 @@
       ]
     },
     {
-      "seg": 42,
-      "trans": "thank goodness; I'm glad",
-      "words": [
-        {
-          "t": "よかった",
-          "lemma": "いい",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "good; fine; nice",
-          "gram": "past i-adjective",
-          "span": [
-            0,
-            4
-          ],
-          "reading": "ヨカッタ"
-        }
-      ]
-    },
-    {
-      "seg": 44,
+      "seg": 39,
       "trans": "Nine minutes! I bought the milk, the eggs, and the apples!",
       "words": [
         {
@@ -3148,7 +3897,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 40,
       "trans": "Mio, you are a lifesaver! Hand me the milk first for the coffee machine.",
       "words": [
         {
@@ -3323,7 +4072,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 41,
       "trans": "Impressive speed! Did you get a receipt from the shopkeeper?",
       "words": [
         {
@@ -3498,7 +4247,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 42,
       "trans": "Right here! Everything cost three thousand eight hundred yen, so the change is twelve hundred yen.",
       "words": [
         {
@@ -3660,7 +4409,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 43,
       "trans": "One thousand, one hundred, two hundred yen. Exact to the very last yen—thank you!",
       "words": [
         {
@@ -3796,7 +4545,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 44,
       "trans": "Wait a second, Mio... which butter did you grab?",
       "words": [
         {
@@ -3932,7 +4681,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 45,
       "trans": "The gold wrapper on the top shelf. Why?",
       "words": [
         {
@@ -4094,7 +4843,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 46,
       "trans": "This is salty salted butter! My sweet jam rolls need unsalted butter!",
       "words": [
         {
@@ -4295,7 +5044,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 47,
       "trans": "Oh no! Because I was running, all the wrappers looked identical!",
       "words": [
         {
@@ -4431,7 +5180,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 48,
       "trans": "Can we really serve salty butter alongside sweet strawberry jam?",
       "words": [
         {
@@ -4580,7 +5329,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 49,
       "trans": "Hold on—salted butter is bad for jam, yet amazing for scrambled eggs!",
       "words": [
         {
@@ -4768,7 +5517,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 50,
       "trans": "What a relief! Quick thinking saved breakfast again.",
       "words": [
         {
@@ -4891,7 +5640,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 52,
       "trans": "See you soon!",
       "words": [
         {
