@@ -7,6 +7,12 @@ For every episode:
   render/pipeline.py (scenes + lexicon example clips + paradigm form clips)
   -> tools/check_render.py
   -> tools/package_render.py --release
+
+Parallel workers: render/pipeline.py allows ONE run per --store (pipeline.lock), so each worker needs its own
+store (e.g. a hardlinked copy of the main store) plus --langs/--exclude-langs; workers share --state-dir and claim
+episodes atomically, e.g.
+  render_originals_queue.py --langs ar --store ~/overhear/render-store
+  render_originals_queue.py --exclude-langs ar --store ~/overhear/render-store-b
 """
 import argparse
 import fcntl
@@ -179,6 +185,15 @@ def main():
                 ["python3", "-I", "render/pipeline.py", "--root", "originals", "--episode", ep, "--settings", st, "--store", str(args.store), *extra],
                 root, out_dir, log,
             )
+            busy_waits = 0
+            while rc == 0 and log.read_text(errors="replace")[-400:].rstrip().endswith("another pipeline run is active; exiting") and busy_waits < 240:
+                # Store is locked by another pipeline run: wait instead of burning a retry / marking the episode failed.
+                busy_waits += 1
+                time.sleep(60)
+                rc = run_step(
+                    ["python3", "-I", "render/pipeline.py", "--root", "originals", "--episode", ep, "--settings", st, "--store", str(args.store), *extra],
+                    root, out_dir, log,
+                )
             if rc == 0:
                 stage = f"check(pass={attempt})"
                 rc = run_step(
