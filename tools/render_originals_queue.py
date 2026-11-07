@@ -116,28 +116,57 @@ def main():
     ap.add_argument("--store", type=Path, default=Path.home() / "overhear" / "render-store")
     ap.add_argument("--state-dir", type=Path, default=Path.home() / "overhear" / "render-queue")
     ap.add_argument("--print", dest="print_only", action="store_true", help="Print planned episode order and exit")
+    ap.add_argument("--langs", default="", help="Comma-separated languages this worker handles (default: all)")
+    ap.add_argument("--exclude-langs", default="", help="Comma-separated languages this worker skips")
     args = ap.parse_args()
+    only = {x for x in args.langs.split(",") if x}
+    skip = {x for x in args.exclude_langs.split(",") if x}
+
+    def wanted(lang):
+        return (not only or lang in only) and lang not in skip
 
     root = args.content.resolve()
     if args.print_only:
-        for _lang, ep, _st in build_order(root):
-            print(ep)
+        for lang, ep, _st in build_order(root):
+            if wanted(lang):
+                print(ep)
         return
 
     out_dir = args.state_dir.resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
     sp = out_dir / "state.json"
+    claims = out_dir / "claims"
+    claims.mkdir(exist_ok=True)
 
+    def load_state():
+        return json.loads(sp.read_text()) if sp.exists() else {"done": [], "failed": {}}
+
+    def update_state(fn):
+        # Several workers share state.json: read-modify-write under an exclusive lock.
+        with open(out_dir / "state.lock", "w") as lk:
+            fcntl.flock(lk, fcntl.LOCK_EX)
+            st_ = load_state()
+            fn(st_)
+            tmp = sp.with_suffix(".tmp")
+            tmp.write_text(json.dumps(st_, indent=1))
+            tmp.replace(sp)
+            return st_
+
+    state = load_state()
     while True:
-        state = json.loads(sp.read_text()) if sp.exists() else {"done": [], "failed": {}}
-        pending = [
-            (lang, ep, st)
-            for lang, ep, st in build_order(root)
-            if ep not in state["done"] and ep not in state["failed"]
-        ]
-        if not pending:
+        state = load_state()
+        lang = ep = st = None
+        for l_, e_, s_ in build_order(root):
+            if not wanted(l_) or e_ in state["done"] or e_ in state["failed"]:
+                continue
+            try:  # Atomic claim so parallel workers never render the same episode.
+                os.close(os.open(claims / f"{e_}.claim", os.O_CREAT | os.O_EXCL | os.O_WRONLY))
+            except FileExistsError:
+                continue
+            lang, ep, st = l_, e_, s_
             break
-        lang, ep, st = pending[0]
+        if ep is None:
+            break
         log = out_dir / f"{ep}.log"
         t0 = time.time()
         print(f"[{time.strftime('%H:%M:%S')}] START {ep} ({lang})", flush=True)
@@ -167,13 +196,18 @@ def main():
             )
         mins = round((time.time() - t0) / 60, 1)
         if rc == 0:
-            state["done"].append(ep)
-            state["failed"].pop(ep, None)
+            def ok(s_):
+                if ep not in s_["done"]:
+                    s_["done"].append(ep)
+                s_["failed"].pop(ep, None)
+            state = update_state(ok)
             print(f"[{time.strftime('%H:%M:%S')}] RELEASED original-{ep} in {mins} min ({len(state['done'])} total)", flush=True)
         else:
-            state["failed"][ep] = f"{stage} rc={rc}"
+            def bad(s_):
+                s_["failed"][ep] = f"{stage} rc={rc}"
+            state = update_state(bad)
             print(f"[{time.strftime('%H:%M:%S')}] FAILED {ep} at {stage} (rc={rc}) after {mins} min; see {log}", flush=True)
-        sp.write_text(json.dumps(state, indent=1))
+        (claims / f"{ep}.claim").unlink(missing_ok=True)
     print("QUEUE COMPLETE", json.dumps(state), flush=True)
 
 
