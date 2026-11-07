@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s02e01-scene-02.
+ID = 'xiaoyuan-kezhan-s02e01-scene-02'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 2
+EPISODE = 1
+SCENE = 2
+TITLE = '搬开书架  (Move the Books)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'mei': '小美', 'qing': '小晴'}
+INTRO = "In the quiet back hallway behind the kitchen, Qing and Chen stand before a tall wooden bookcase packed with old travel guides. Mei hurries out of the café corner, wiping flour from her hands. Let's listen in first."
+OPENER = "Now let's go through the scene slowly, line by line."
+TRANSITION = "Now let's hear the whole scene again without stopping."
+OUTRO = 'The heavy bookcase is aside and the hidden lock turns on the first try. Lift, pull, turn, open: those action words will keep coming back. See you next time.'
+CLOSING = ('mei', '下次见！')
+STORY = [('mei', '真的吗？我厨房的墙后面真的有一个秘密房间？', 'Is it true? Is there really a secret room behind my kitchen wall?'), ('qing', '小美，帮我把这些绿色的大书放到椅子上。', 'Mei, help me put these big green books on the chair.'), ('chen', '先拿最上面一层，这样书架就轻了。', 'Take the top shelf first, so the bookcase gets lighter.'), ('mei', '小晴，这些旅游书比我们俩还老！', 'Qing, these travel books are older than both of us!'), ('qing', '这是最后一层了。老陈，准备好一起拉了吗？', "That's the last shelf. Chen, ready to pull together?"), ('chen', '一，二，三——左边往我这边拉！', 'One, two, three—pull the left side toward me!'), ('mei', '快看木头后面！白漆，还有一个铜钥匙孔！', 'Look behind the wood! White paint, and a brass keyhole!'), ('qing', '一扇真的门，就藏在走廊里！', 'A real door, hidden right here in the hallway!'), ('chen', '我们试试香柏木盒子里的那把大钥匙。', "Let's try the big key from the cedar box."), ('mei', '老陈，能转吗？', 'Chen, does it turn?'), ('chen', '往右用力转一下……开了！', "One firm turn to the right... and it's open!"), ('qing', '先把把手往上提——跟大门一样！', 'Lift the handle first—just like the front door!')]
+WALK = [(0, None, ["'Is it true? Is there really a secret room behind my kitchen wall?' Mei's word for secret,", (None, '秘密'), 'pairs two characters that both carry the idea of something closed off and private.']), (1, None, ["'Mei, help me put these big green books on the chair.' Qing grabs the books first with", (None, '把这些'), 'and only then says where they go; Mandarin likes to name the thing you move before the action.']), (3, None, ["'Qing, these travel books are older than both of us!' To compare, Mandarin says 'these books, compared with us two, even older'. The key little word is", (None, '比'), 'and it sits right before the people being compared.']), (4, None, ["'That's the last shelf. Chen, ready to pull together?' The word for last,", (None, '最后'), "is built from 'most' and 'behind': the shelf at the very end."]), (5, None, ["'One, two, three—pull the left side toward me!' Direction comes before the action here:", (None, '往我这边'), "means 'toward my side', and only then does Chen say pull."]), (6, None, ["'Look behind the wood! White paint, and a brass keyhole!' A keyhole is", (None, '钥匙孔'), "literally 'key hole', put together just like the English."]), (7, None, ["'A real door, hidden right here in the hallway!' The word for hidden,", (None, '藏'), 'also means to store something away, so this door was tucked into the hallway on purpose.']), (9, None, ["'Chen, does it turn?' Any statement becomes a yes-or-no question by adding", (None, '吗'), "at the end, so 'it can turn' becomes 'can it turn?'"]), (10, None, ["'One firm turn to the right... and it's open!' Chen says", (None, '往右'), "'toward the right'; swap in the word for left and you turn the other way."])]

@@ -659,13 +659,13 @@ def table_ok(t, where, rep):
             rep.err(where, f"row {r!r:.60} does not have {len(t['columns'])} cells")
 
 
-def no_acute_outside_stress(o, where, rep, key=""):
+def no_acute_outside_stress(o, where, rep, key="", lang=""):
     if isinstance(o, str):
-        if ACUTE in o and key not in ("stress", "reading"): rep.err(where, f"U+0301 outside a stress field (key {key!r})")
+        if ACUTE in o and key != "stress" and not (key == "reading" and lang == "zh"): rep.err(where, f"U+0301 outside a stress field (key {key!r})")
     elif isinstance(o, dict):
-        for k, v in o.items(): no_acute_outside_stress(v, where, rep, k)
+        for k, v in o.items(): no_acute_outside_stress(v, where, rep, k, lang)
     elif isinstance(o, list):
-        for v in o: no_acute_outside_stress(v, where, rep, key)
+        for v in o: no_acute_outside_stress(v, where, rep, key, lang)
 
 
 def no_stray_backslash(o, where, rep, path="$"):
@@ -697,7 +697,7 @@ def check_notes(path, script, lang, require, rep, is_original=None):
     except Exception as e: return rep.err(w, f"not valid JSON: {e}")
     check_schema(n, "notes", w, rep)
     if n.get("id") not in (None, script.get("id")): rep.err(w, f"id {n.get('id')!r} must equal the script id {script.get('id')!r}")
-    no_acute_outside_stress(n, w, rep)
+    no_acute_outside_stress(n, w, rep, lang=lang)
     no_stray_backslash(n, w, rep)
     segs, lex = script["segments"], n.get("lexicon", {})
     if not isinstance(n.get("lines"), list): return rep.err(w, "needs 'lines' list")
