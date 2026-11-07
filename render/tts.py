@@ -82,6 +82,11 @@ class QwenEngine:
                 fn = int(0.015 * sr)
                 x[-fn:] *= 0.5 * (1.0 + np.cos(np.linspace(0.0, np.pi, fn, dtype=np.float32)))
                 x = np.concatenate([x, np.zeros(int(0.16 * sr), dtype=np.float32)])
+            elif voice == "alisa":
+                fn = int(0.015 * sr)
+                x = x.copy()
+                x[-fn:] *= 0.5 * (1.0 + np.cos(np.linspace(0.0, np.pi, fn, dtype=np.float32)))
+                x = np.concatenate([x, np.zeros(int(0.16 * sr), dtype=np.float32)])
             elif voice in ("zh-m1", "zh-m2", "zh-m3", "zh-f2"):
                 # Strip leading/trailing sighs in Mandarin reference clips in-memory so ICL prompts stay sigh-free
                 cuts = {
@@ -118,8 +123,9 @@ class QwenEngine:
         np.random.seed(seed % (2 ** 32))
         t = self.s["tts"]
         longest = max(len(b[2]) for b in sub)
-        cps_floor = 4.5 if any(b[1] in ("Chinese", "Japanese", "Korean") for b in sub) else (9.5 if all(b[1] == "English" for b in sub) else 8.0)
-        max_tokens = min(t["max_new_tokens"], int((longest / cps_floor + 2.2) * 12.5) + 20)
+        pause_pad = 0.35 * max(b[2].count(",") + b[2].count("—") + b[2].count(":") + b[2].count(";") for b in sub)
+        cps_floor = 4.5 if any(b[1] in ("Chinese", "Japanese", "Korean") for b in sub) else (9.5 if all(b[1] == "English" for b in sub) else 6.0)
+        max_tokens = min(t["max_new_tokens"], int((longest / cps_floor + 2.2 + pause_pad) * 12.5) + 20)
         import re
         texts_in = [re.sub(r"\b([A-Z][a-z]+(?:yev|ev|ov))na\b", r"\1-nah", b[2]) if b[1] == "English" else b[2] for b in sub]
         wavs, sr = self.q.generate_voice_clone(

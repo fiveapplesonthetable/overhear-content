@@ -1915,8 +1915,47 @@
     },
     {
       "seg": 16,
-      "trans": "black tea",
+      "trans": "Black tea without sugar, please, and one slice of warm bread.",
       "words": [
+        {
+          "t": "砂糖",
+          "lemma": "砂糖",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "sugar",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "サトウ"
+        },
+        {
+          "t": "なし",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not; nonexistent",
+          "gram": "i-adjective",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ナシ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "'s; of; one; question/explanation particle",
+          "gram": "possessive / nominalizing particle",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "ノ"
+        },
         {
           "t": "紅茶",
           "lemma": "紅茶",
@@ -1925,1340 +1964,132 @@
           "gloss": "black tea",
           "gram": "noun",
           "span": [
-            0,
-            2
+            5,
+            7
           ],
           "reading": "コウチャ"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "direct object / path marker",
+          "gram": "direct object particle",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "お願い",
+          "lemma": "お願い",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "request; please",
+          "gram": "noun",
+          "span": [
+            8,
+            11
+          ],
+          "reading": "オネガイ"
+        },
+        {
+          "t": "します",
+          "lemma": "する",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do; make; smell/sound of",
+          "gram": "polite non-past verb",
+          "span": [
+            11,
+            14
+          ],
+          "reading": "シマス"
+        },
+        {
+          "t": "それ",
+          "lemma": "それ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "that; that one",
+          "gram": "pronoun",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "ソレ"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and; with; quote; when",
+          "gram": "accompaniment / quotation particle",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "温かい",
+          "lemma": "温かい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "warm (food, drink, touch, heart)",
+          "gram": "i-adjective",
+          "span": [
+            18,
+            21
+          ],
+          "reading": "アタタカイ"
+        },
+        {
+          "t": "パン",
+          "lemma": "パン",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "bread; roll",
+          "gram": "noun",
+          "span": [
+            21,
+            23
+          ],
+          "reading": "パン"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "direct object / path marker",
+          "gram": "direct object particle",
+          "span": [
+            23,
+            24
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "一切れ",
+          "lemma": "一切れ",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one slice",
+          "gram": "number + counter",
+          "span": [
+            24,
+            27
+          ],
+          "reading": "ヒトキレ"
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "which way; which one (polite)",
-      "words": [
-        {
-          "t": "どちら",
-          "lemma": "どちら",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "which one (of two); where (polite)",
-          "gram": "interrogative pronoun",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "ドチラ"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "Black tea without sugar, please, and one slice of warm bread.",
-      "words": [
-        {
-          "t": "砂糖",
-          "lemma": "砂糖",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "sugar",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "サトウ"
-        },
-        {
-          "t": "なし",
-          "lemma": "ない",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "not; nonexistent",
-          "gram": "i-adjective",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "ナシ"
-        },
-        {
-          "t": "の",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "'s; of; one; question/explanation particle",
-          "gram": "possessive / nominalizing particle",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ノ"
-        },
-        {
-          "t": "紅茶",
-          "lemma": "紅茶",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "black tea",
-          "gram": "noun",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "コウチャ"
-        },
-        {
-          "t": "を",
-          "lemma": "を",
-          "pos": "part",
-          "stress": null,
-          "gloss": "direct object / path marker",
-          "gram": "direct object particle",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "オ"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "request; please",
-          "gram": "noun",
-          "span": [
-            8,
-            11
-          ],
-          "reading": "オネガイ"
-        },
-        {
-          "t": "します",
-          "lemma": "する",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "do; make; smell/sound of",
-          "gram": "polite non-past verb",
-          "span": [
-            11,
-            14
-          ],
-          "reading": "シマス"
-        },
-        {
-          "t": "それ",
-          "lemma": "それ",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "that; that one",
-          "gram": "pronoun",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "ソレ"
-        },
-        {
-          "t": "と",
-          "lemma": "と",
-          "pos": "part",
-          "stress": null,
-          "gloss": "and; with; quote; when",
-          "gram": "accompaniment / quotation particle",
-          "span": [
-            17,
-            18
-          ],
-          "reading": "ト"
-        },
-        {
-          "t": "温かい",
-          "lemma": "温かい",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "warm (food, drink, touch, heart)",
-          "gram": "i-adjective",
-          "span": [
-            18,
-            21
-          ],
-          "reading": "アタタカイ"
-        },
-        {
-          "t": "パン",
-          "lemma": "パン",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "bread; roll",
-          "gram": "noun",
-          "span": [
-            21,
-            23
-          ],
-          "reading": "パン"
-        },
-        {
-          "t": "を",
-          "lemma": "を",
-          "pos": "part",
-          "stress": null,
-          "gloss": "direct object / path marker",
-          "gram": "direct object particle",
-          "span": [
-            23,
-            24
-          ],
-          "reading": "オ"
-        },
-        {
-          "t": "一切れ",
-          "lemma": "一切れ",
-          "pos": "num",
-          "stress": null,
-          "gloss": "one slice",
-          "gram": "number + counter",
-          "span": [
-            24,
-            27
-          ],
-          "reading": "ヒトキレ"
-        }
-      ]
-    },
-    {
-      "seg": 22,
-      "trans": "without",
-      "words": [
-        {
-          "t": "なし",
-          "lemma": "ない",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "not; nonexistent",
-          "gram": "i-adjective",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ナシ"
-        }
-      ]
-    },
-    {
-      "seg": 24,
-      "trans": "sugar",
-      "words": [
-        {
-          "t": "砂糖",
-          "lemma": "砂糖",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "sugar",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "サトウ"
-        }
-      ]
-    },
-    {
-      "seg": 26,
-      "trans": "Oh, how kind of you. Just half a glass, please.",
-      "words": [
-        {
-          "t": "まあ",
-          "lemma": "まあ",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "oh my; well",
-          "gram": "adverb",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "マア"
-        },
-        {
-          "t": "ご親切",
-          "lemma": "ご親切",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "kind; thoughtful (polite)",
-          "gram": "na-adjective",
-          "span": [
-            3,
-            6
-          ],
-          "reading": "ゴシンセツ"
-        },
-        {
-          "t": "に",
-          "lemma": "に",
-          "pos": "part",
-          "stress": null,
-          "gloss": "in; at; to; on; at (time)",
-          "gram": "location / time / target particle",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "ニ"
-        },
-        {
-          "t": "ありがとう",
-          "lemma": "ありがとう",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "thank you (casual)",
-          "gram": "set expression",
-          "span": [
-            7,
-            12
-          ],
-          "reading": "アリガトウ"
-        },
-        {
-          "t": "コップ",
-          "lemma": "コップ",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "drinking glass; tumbler",
-          "gram": "noun",
-          "span": [
-            13,
-            16
-          ],
-          "reading": "コップ"
-        },
-        {
-          "t": "半分",
-          "lemma": "半分",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "half",
-          "gram": "noun",
-          "span": [
-            16,
-            18
-          ],
-          "reading": "ハンブン"
-        },
-        {
-          "t": "だけ",
-          "lemma": "だけ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "only; just",
-          "gram": "particle",
-          "span": [
-            18,
-            20
-          ],
-          "reading": "ダケ"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "request; please",
-          "gram": "noun",
-          "span": [
-            20,
-            23
-          ],
-          "reading": "オネガイ"
-        },
-        {
-          "t": "します",
-          "lemma": "する",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "do; make; smell/sound of",
-          "gram": "polite non-past verb",
-          "span": [
-            23,
-            26
-          ],
-          "reading": "シマス"
-        }
-      ]
-    },
-    {
-      "seg": 28,
-      "trans": "half a glass",
-      "words": [
-        {
-          "t": "コップ",
-          "lemma": "コップ",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "drinking glass; tumbler",
-          "gram": "noun",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "コップ"
-        },
-        {
-          "t": "半分",
-          "lemma": "半分",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "half",
-          "gram": "noun",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "ハンブン"
-        }
-      ]
-    },
-    {
-      "seg": 30,
-      "trans": "half",
-      "words": [
-        {
-          "t": "半分",
-          "lemma": "半分",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "half",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "ハンブン"
-        }
-      ]
-    },
-    {
-      "seg": 32,
-      "trans": "Be careful, Takashi, the pitcher spout is wide!",
-      "words": [
-        {
-          "t": "気",
-          "lemma": "気",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "spirit; mind; attention; air",
-          "gram": "noun",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "キ"
-        },
-        {
-          "t": "を",
-          "lemma": "を",
-          "pos": "part",
-          "stress": null,
-          "gloss": "direct object / path marker",
-          "gram": "direct object particle",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "オ"
-        },
-        {
-          "t": "つけて",
-          "lemma": "つける",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "turn on; attach; pay (attention)",
-          "gram": "te-form verb",
-          "span": [
-            2,
-            5
-          ],
-          "reading": "ツケテ"
-        },
-        {
-          "t": "ください",
-          "lemma": "くださる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "give; kindly do (honorific)",
-          "gram": "polite request verb",
-          "span": [
-            5,
-            9
-          ],
-          "reading": "クダサイ"
-        },
-        {
-          "t": "隆",
-          "lemma": "隆",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Takashi",
-          "gram": "proper name",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "タカシ"
-        },
-        {
-          "t": "さん",
-          "lemma": "さん",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "polite name suffix",
-          "gram": "noun",
-          "span": [
-            11,
-            13
-          ],
-          "reading": "サン"
-        },
-        {
-          "t": "ピッチャー",
-          "lemma": "ピッチャー",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "pitcher; jug",
-          "gram": "noun",
-          "span": [
-            14,
-            19
-          ],
-          "reading": "ピッチャー"
-        },
-        {
-          "t": "の",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "'s; of; one; question/explanation particle",
-          "gram": "possessive / nominalizing particle",
-          "span": [
-            19,
-            20
-          ],
-          "reading": "ノ"
-        },
-        {
-          "t": "注ぎ口",
-          "lemma": "注ぎ口",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "spout",
-          "gram": "noun",
-          "span": [
-            20,
-            23
-          ],
-          "reading": "ソソギグチ"
-        },
-        {
-          "t": "が",
-          "lemma": "が",
-          "pos": "part",
-          "stress": null,
-          "gloss": "subject marker; but",
-          "gram": "subject / contrast particle",
-          "span": [
-            23,
-            24
-          ],
-          "reading": "ガ"
-        },
-        {
-          "t": "広い",
-          "lemma": "広い",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "wide; spacious",
-          "gram": "i-adjective",
-          "span": [
-            24,
-            26
-          ],
-          "reading": "ヒロイ"
-        },
-        {
-          "t": "です",
-          "lemma": "です",
-          "pos": "part",
-          "stress": null,
-          "gloss": "be; is/am/are (polite copula)",
-          "gram": "polite copula",
-          "span": [
-            26,
-            28
-          ],
-          "reading": "デス"
-        }
-      ]
-    },
-    {
-      "seg": 34,
-      "trans": "please take care",
-      "words": [
-        {
-          "t": "気",
-          "lemma": "気",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "spirit; mind; attention; air",
-          "gram": "noun",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "キ"
-        },
-        {
-          "t": "を",
-          "lemma": "を",
-          "pos": "part",
-          "stress": null,
-          "gloss": "direct object / path marker",
-          "gram": "direct object particle",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "オ"
-        },
-        {
-          "t": "つけて",
-          "lemma": "つける",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "turn on; attach; pay (attention)",
-          "gram": "te-form verb",
-          "span": [
-            2,
-            5
-          ],
-          "reading": "ツケテ"
-        },
-        {
-          "t": "ください",
-          "lemma": "くださる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "give; kindly do (honorific)",
-          "gram": "polite request verb",
-          "span": [
-            5,
-            9
-          ],
-          "reading": "クダサイ"
-        }
-      ]
-    },
-    {
-      "seg": 36,
-      "trans": "Oh dear! Not a single drop spilled on the table, yet all of it is on my tie!",
-      "words": [
-        {
-          "t": "大変",
-          "lemma": "大変",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "serious; awful; hectic",
-          "gram": "na-adjective",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "タイヘン"
-        },
-        {
-          "t": "だ",
-          "lemma": "だ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "be (plain copula)",
-          "gram": "plain copula",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "ダ"
-        },
-        {
-          "t": "テーブル",
-          "lemma": "テーブル",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "table",
-          "gram": "noun",
-          "span": [
-            4,
-            8
-          ],
-          "reading": "テーブル"
-        },
-        {
-          "t": "に",
-          "lemma": "に",
-          "pos": "part",
-          "stress": null,
-          "gloss": "in; at; to; on; at (time)",
-          "gram": "location / time / target particle",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "ニ"
-        },
-        {
-          "t": "は",
-          "lemma": "は",
-          "pos": "part",
-          "stress": null,
-          "gloss": "topic marker",
-          "gram": "topic particle",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "ワ"
-        },
-        {
-          "t": "一滴",
-          "lemma": "一滴",
-          "pos": "num",
-          "stress": null,
-          "gloss": "one drop",
-          "gram": "number + counter",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "イッテキ"
-        },
-        {
-          "t": "も",
-          "lemma": "も",
-          "pos": "part",
-          "stress": null,
-          "gloss": "also; too; even; whole",
-          "gram": "inclusive particle ('also / even')",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "モ"
-        },
-        {
-          "t": "こぼれて",
-          "lemma": "こぼれる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "spill; overflow",
-          "gram": "te-form verb",
-          "span": [
-            13,
-            17
-          ],
-          "reading": "コボレテ"
-        },
-        {
-          "t": "いません",
-          "lemma": "いる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be; stay (animate); progressive",
-          "gram": "polite negative verb",
-          "span": [
-            17,
-            21
-          ],
-          "reading": "イマセン"
-        },
-        {
-          "t": "が",
-          "lemma": "が",
-          "pos": "part",
-          "stress": null,
-          "gloss": "subject marker; but",
-          "gram": "subject / contrast particle",
-          "span": [
-            21,
-            22
-          ],
-          "reading": "ガ"
-        },
-        {
-          "t": "全部",
-          "lemma": "全部",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "all; everything",
-          "gram": "noun",
-          "span": [
-            24,
-            26
-          ],
-          "reading": "ゼンブ"
-        },
-        {
-          "t": "私",
-          "lemma": "私",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I; me",
-          "gram": "pronoun",
-          "span": [
-            26,
-            27
-          ],
-          "reading": "ワタシ"
-        },
-        {
-          "t": "の",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "'s; of; one; question/explanation particle",
-          "gram": "possessive / nominalizing particle",
-          "span": [
-            27,
-            28
-          ],
-          "reading": "ノ"
-        },
-        {
-          "t": "ネクタイ",
-          "lemma": "ネクタイ",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "necktie",
-          "gram": "noun",
-          "span": [
-            28,
-            32
-          ],
-          "reading": "ネクタイ"
-        },
-        {
-          "t": "に",
-          "lemma": "に",
-          "pos": "part",
-          "stress": null,
-          "gloss": "in; at; to; on; at (time)",
-          "gram": "location / time / target particle",
-          "span": [
-            32,
-            33
-          ],
-          "reading": "ニ"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "necktie",
-      "words": [
-        {
-          "t": "ネクタイ",
-          "lemma": "ネクタイ",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "necktie",
-          "gram": "noun",
-          "span": [
-            0,
-            4
-          ],
-          "reading": "ネクタイ"
-        }
-      ]
-    },
-    {
-      "seg": 40,
-      "trans": "Excuse me, Kazuko. I shall retreat to my office with dignity!",
-      "words": [
-        {
-          "t": "失礼",
-          "lemma": "失礼",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "excuse me; impoliteness",
-          "gram": "na-adjective",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "シツレイ"
-        },
-        {
-          "t": "いたします",
-          "lemma": "いたす",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "do (humble)",
-          "gram": "polite non-past verb",
-          "span": [
-            2,
-            7
-          ],
-          "reading": "イタシマス"
-        },
-        {
-          "t": "和子",
-          "lemma": "和子",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Kazuko",
-          "gram": "proper name",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "カズコ"
-        },
-        {
-          "t": "さん",
-          "lemma": "さん",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "polite name suffix",
-          "gram": "noun",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "サン"
-        },
-        {
-          "t": "堂々",
-          "lemma": "堂々",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "with dignity; proudly",
-          "gram": "adverb",
-          "span": [
-            13,
-            15
-          ],
-          "reading": "ドウドウ"
-        },
-        {
-          "t": "と",
-          "lemma": "と",
-          "pos": "part",
-          "stress": null,
-          "gloss": "and; with; quote; when",
-          "gram": "accompaniment / quotation particle",
-          "span": [
-            15,
-            16
-          ],
-          "reading": "ト"
-        },
-        {
-          "t": "事務室",
-          "lemma": "事務室",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "office room",
-          "gram": "noun",
-          "span": [
-            16,
-            19
-          ],
-          "reading": "ジムシツ"
-        },
-        {
-          "t": "へ",
-          "lemma": "へ",
-          "pos": "part",
-          "stress": null,
-          "gloss": "toward; to",
-          "gram": "direction particle",
-          "span": [
-            19,
-            20
-          ],
-          "reading": "エ"
-        },
-        {
-          "t": "引き上げます",
-          "lemma": "引き上げる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "withdraw; retreat",
-          "gram": "polite non-past verb",
-          "span": [
-            20,
-            26
-          ],
-          "reading": "ヒキアゲマス"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "excuse me (formal)",
-      "words": [
-        {
-          "t": "失礼",
-          "lemma": "失礼",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "excuse me; impoliteness",
-          "gram": "na-adjective",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "シツレイ"
-        },
-        {
-          "t": "いたします",
-          "lemma": "いたす",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "do (humble)",
-          "gram": "polite non-past verb",
-          "span": [
-            2,
-            7
-          ],
-          "reading": "イタシマス"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "Good morning again, Kazuko! Would you prefer coffee or black tea?",
-      "words": [
-        {
-          "t": "改めて",
-          "lemma": "改めて",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "afresh; once again properly",
-          "gram": "adverb",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "アラタメテ"
-        },
-        {
-          "t": "おはようございます",
-          "lemma": "おはようございます",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "good morning (polite)",
-          "gram": "set expression",
-          "span": [
-            3,
-            12
-          ],
-          "reading": "オハヨウゴザイマス"
-        },
-        {
-          "t": "和子",
-          "lemma": "和子",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Kazuko",
-          "gram": "proper name",
-          "span": [
-            13,
-            15
-          ],
-          "reading": "カズコ"
-        },
-        {
-          "t": "さん",
-          "lemma": "さん",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "polite name suffix",
-          "gram": "noun suffix",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "サン"
-        },
-        {
-          "t": "コーヒー",
-          "lemma": "コーヒー",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "coffee",
-          "gram": "noun",
-          "span": [
-            18,
-            22
-          ],
-          "reading": "コーヒー"
-        },
-        {
-          "t": "と",
-          "lemma": "と",
-          "pos": "part",
-          "stress": null,
-          "gloss": "and; with; quote; when",
-          "gram": "accompaniment / quotation particle",
-          "span": [
-            22,
-            23
-          ],
-          "reading": "ト"
-        },
-        {
-          "t": "紅茶",
-          "lemma": "紅茶",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "black tea",
-          "gram": "noun",
-          "span": [
-            23,
-            25
-          ],
-          "reading": "コウチャ"
-        },
-        {
-          "t": "どちら",
-          "lemma": "どちら",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "which one (of two); where (polite)",
-          "gram": "interrogative pronoun",
-          "span": [
-            26,
-            29
-          ],
-          "reading": "ドチラ"
-        },
-        {
-          "t": "に",
-          "lemma": "に",
-          "pos": "part",
-          "stress": null,
-          "gloss": "in; at; to; on; at (time)",
-          "gram": "location / time / target particle",
-          "span": [
-            29,
-            30
-          ],
-          "reading": "ニ"
-        },
-        {
-          "t": "なさいます",
-          "lemma": "なさる",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "do; choose (honorific)",
-          "gram": "polite non-past verb",
-          "span": [
-            30,
-            35
-          ],
-          "reading": "ナサイマス"
-        },
-        {
-          "t": "か",
-          "lemma": "か",
-          "pos": "part",
-          "stress": null,
-          "gloss": "question particle; or",
-          "gram": "question particle",
-          "span": [
-            35,
-            36
-          ],
-          "reading": "カ"
-        }
-      ]
-    },
-    {
-      "seg": 45,
-      "trans": "Black tea without sugar, please, and one slice of warm bread.",
-      "words": [
-        {
-          "t": "砂糖",
-          "lemma": "砂糖",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "sugar",
-          "gram": "noun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "サトウ"
-        },
-        {
-          "t": "なし",
-          "lemma": "ない",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "not; nonexistent",
-          "gram": "i-adjective",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "ナシ"
-        },
-        {
-          "t": "の",
-          "lemma": "の",
-          "pos": "part",
-          "stress": null,
-          "gloss": "'s; of; one; question/explanation particle",
-          "gram": "possessive / nominalizing particle",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "ノ"
-        },
-        {
-          "t": "紅茶",
-          "lemma": "紅茶",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "black tea",
-          "gram": "noun",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "コウチャ"
-        },
-        {
-          "t": "を",
-          "lemma": "を",
-          "pos": "part",
-          "stress": null,
-          "gloss": "direct object / path marker",
-          "gram": "direct object particle",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "オ"
-        },
-        {
-          "t": "お願い",
-          "lemma": "お願い",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "request; please",
-          "gram": "noun",
-          "span": [
-            8,
-            11
-          ],
-          "reading": "オネガイ"
-        },
-        {
-          "t": "します",
-          "lemma": "する",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "do; make; smell/sound of",
-          "gram": "polite non-past verb",
-          "span": [
-            11,
-            14
-          ],
-          "reading": "シマス"
-        },
-        {
-          "t": "それ",
-          "lemma": "それ",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "that; that one",
-          "gram": "pronoun",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "ソレ"
-        },
-        {
-          "t": "と",
-          "lemma": "と",
-          "pos": "part",
-          "stress": null,
-          "gloss": "and; with; quote; when",
-          "gram": "accompaniment / quotation particle",
-          "span": [
-            17,
-            18
-          ],
-          "reading": "ト"
-        },
-        {
-          "t": "温かい",
-          "lemma": "温かい",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "warm (food, drink, touch, heart)",
-          "gram": "i-adjective",
-          "span": [
-            18,
-            21
-          ],
-          "reading": "アタタカイ"
-        },
-        {
-          "t": "パン",
-          "lemma": "パン",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "bread; roll",
-          "gram": "noun",
-          "span": [
-            21,
-            23
-          ],
-          "reading": "パン"
-        },
-        {
-          "t": "を",
-          "lemma": "を",
-          "pos": "part",
-          "stress": null,
-          "gloss": "direct object / path marker",
-          "gram": "direct object particle",
-          "span": [
-            23,
-            24
-          ],
-          "reading": "オ"
-        },
-        {
-          "t": "一切れ",
-          "lemma": "一切れ",
-          "pos": "num",
-          "stress": null,
-          "gloss": "one slice",
-          "gram": "number + counter",
-          "span": [
-            24,
-            27
-          ],
-          "reading": "ヒトキレ"
-        }
-      ]
-    },
-    {
-      "seg": 46,
       "trans": "Allow me to pour the fresh orange juice for you!",
       "words": [
         {
@@ -3394,7 +2225,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 20,
       "trans": "Oh, how kind of you. Just half a glass, please.",
       "words": [
         {
@@ -3517,7 +2348,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 22,
       "trans": "At our inn, five-star service comes naturally... whoops!",
       "words": [
         {
@@ -3640,7 +2471,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 24,
       "trans": "Be careful, Takashi, the pitcher spout is wide!",
       "words": [
         {
@@ -3802,7 +2633,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 26,
       "trans": "Oh dear! Not a single drop spilled on the table, yet all of it is on my tie!",
       "words": [
         {
@@ -4003,7 +2834,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 28,
       "trans": "Do not worry! Cold sparkling water takes orange juice right out.",
       "words": [
         {
@@ -4139,7 +2970,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 30,
       "trans": "Takashi, I brought a clean cloth and cold water.",
       "words": [
         {
@@ -4301,7 +3132,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 32,
       "trans": "Excuse me, Kazuko. I shall retreat to my office with dignity!",
       "words": [
         {
@@ -4424,7 +3255,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 34,
       "trans": "The scrambled eggs are delicious, Mio. Please give Yuka my compliments.",
       "words": [
         {
@@ -4599,7 +3430,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 36,
       "trans": "I certainly will! Please enjoy a relaxing morning.",
       "words": [
         {
@@ -4696,7 +3527,1769 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 39,
+      "trans": "Good morning again, Kazuko! Would you prefer coffee or black tea?",
+      "words": [
+        {
+          "t": "改めて",
+          "lemma": "改めて",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "afresh; once again properly",
+          "gram": "adverb",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "アラタメテ"
+        },
+        {
+          "t": "おはようございます",
+          "lemma": "おはようございます",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "good morning (polite)",
+          "gram": "set expression",
+          "span": [
+            3,
+            12
+          ],
+          "reading": "オハヨウゴザイマス"
+        },
+        {
+          "t": "和子",
+          "lemma": "和子",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Kazuko",
+          "gram": "proper name",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "カズコ"
+        },
+        {
+          "t": "さん",
+          "lemma": "さん",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "polite name suffix",
+          "gram": "noun suffix",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "サン"
+        },
+        {
+          "t": "コーヒー",
+          "lemma": "コーヒー",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "coffee",
+          "gram": "noun",
+          "span": [
+            18,
+            22
+          ],
+          "reading": "コーヒー"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and; with; quote; when",
+          "gram": "accompaniment / quotation particle",
+          "span": [
+            22,
+            23
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "紅茶",
+          "lemma": "紅茶",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "black tea",
+          "gram": "noun",
+          "span": [
+            23,
+            25
+          ],
+          "reading": "コウチャ"
+        },
+        {
+          "t": "どちら",
+          "lemma": "どちら",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "which one (of two); where (polite)",
+          "gram": "interrogative pronoun",
+          "span": [
+            26,
+            29
+          ],
+          "reading": "ドチラ"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; at; to; on; at (time)",
+          "gram": "location / time / target particle",
+          "span": [
+            29,
+            30
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "なさいます",
+          "lemma": "なさる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do; choose (honorific)",
+          "gram": "polite non-past verb",
+          "span": [
+            30,
+            35
+          ],
+          "reading": "ナサイマス"
+        },
+        {
+          "t": "か",
+          "lemma": "か",
+          "pos": "part",
+          "stress": null,
+          "gloss": "question particle; or",
+          "gram": "question particle",
+          "span": [
+            35,
+            36
+          ],
+          "reading": "カ"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "Black tea without sugar, please, and one slice of warm bread.",
+      "words": [
+        {
+          "t": "砂糖",
+          "lemma": "砂糖",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "sugar",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "サトウ"
+        },
+        {
+          "t": "なし",
+          "lemma": "ない",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "not; nonexistent",
+          "gram": "i-adjective",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "ナシ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "'s; of; one; question/explanation particle",
+          "gram": "possessive / nominalizing particle",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "紅茶",
+          "lemma": "紅茶",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "black tea",
+          "gram": "noun",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "コウチャ"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "direct object / path marker",
+          "gram": "direct object particle",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "お願い",
+          "lemma": "お願い",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "request; please",
+          "gram": "noun",
+          "span": [
+            8,
+            11
+          ],
+          "reading": "オネガイ"
+        },
+        {
+          "t": "します",
+          "lemma": "する",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do; make; smell/sound of",
+          "gram": "polite non-past verb",
+          "span": [
+            11,
+            14
+          ],
+          "reading": "シマス"
+        },
+        {
+          "t": "それ",
+          "lemma": "それ",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "that; that one",
+          "gram": "pronoun",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "ソレ"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and; with; quote; when",
+          "gram": "accompaniment / quotation particle",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "温かい",
+          "lemma": "温かい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "warm (food, drink, touch, heart)",
+          "gram": "i-adjective",
+          "span": [
+            18,
+            21
+          ],
+          "reading": "アタタカイ"
+        },
+        {
+          "t": "パン",
+          "lemma": "パン",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "bread; roll",
+          "gram": "noun",
+          "span": [
+            21,
+            23
+          ],
+          "reading": "パン"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "direct object / path marker",
+          "gram": "direct object particle",
+          "span": [
+            23,
+            24
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "一切れ",
+          "lemma": "一切れ",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one slice",
+          "gram": "number + counter",
+          "span": [
+            24,
+            27
+          ],
+          "reading": "ヒトキレ"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "Allow me to pour the fresh orange juice for you!",
+      "words": [
+        {
+          "t": "新鮮",
+          "lemma": "新鮮",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "fresh (produce/juice/herbs)",
+          "gram": "na-adjective",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "シンセン"
+        },
+        {
+          "t": "な",
+          "lemma": "だ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "be (plain copula)",
+          "gram": "attributive copula (na-adjective linker)",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ナ"
+        },
+        {
+          "t": "オレンジジュース",
+          "lemma": "オレンジジュース",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "orange juice",
+          "gram": "noun",
+          "span": [
+            3,
+            11
+          ],
+          "reading": "オレンジジュース"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "私",
+          "lemma": "私",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I; me",
+          "gram": "pronoun",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ワタシ"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject marker; but",
+          "gram": "subject / contrast particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "ガ"
+        },
+        {
+          "t": "お",
+          "lemma": "お",
+          "pos": "part",
+          "stress": null,
+          "gloss": "polite prefix",
+          "gram": "particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "注ぎ",
+          "lemma": "注ぐ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "pour",
+          "gram": "dictionary-form verb",
+          "span": [
+            16,
+            18
+          ],
+          "reading": "ソソギ"
+        },
+        {
+          "t": "します",
+          "lemma": "する",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do; make; smell/sound of",
+          "gram": "polite non-past verb",
+          "span": [
+            18,
+            21
+          ],
+          "reading": "シマス"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis particle ('you know')",
+          "gram": "sentence-final emphasis particle",
+          "span": [
+            21,
+            22
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "Oh, how kind of you. Just half a glass, please.",
+      "words": [
+        {
+          "t": "まあ",
+          "lemma": "まあ",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "oh my; well",
+          "gram": "adverb",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "マア"
+        },
+        {
+          "t": "ご親切",
+          "lemma": "ご親切",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "kind; thoughtful (polite)",
+          "gram": "na-adjective",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "ゴシンセツ"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; at; to; on; at (time)",
+          "gram": "location / time / target particle",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "ありがとう",
+          "lemma": "ありがとう",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "thank you (casual)",
+          "gram": "set expression",
+          "span": [
+            7,
+            12
+          ],
+          "reading": "アリガトウ"
+        },
+        {
+          "t": "コップ",
+          "lemma": "コップ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "drinking glass; tumbler",
+          "gram": "noun",
+          "span": [
+            13,
+            16
+          ],
+          "reading": "コップ"
+        },
+        {
+          "t": "半分",
+          "lemma": "半分",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "half",
+          "gram": "noun",
+          "span": [
+            16,
+            18
+          ],
+          "reading": "ハンブン"
+        },
+        {
+          "t": "だけ",
+          "lemma": "だけ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "only; just",
+          "gram": "particle",
+          "span": [
+            18,
+            20
+          ],
+          "reading": "ダケ"
+        },
+        {
+          "t": "お願い",
+          "lemma": "お願い",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "request; please",
+          "gram": "noun",
+          "span": [
+            20,
+            23
+          ],
+          "reading": "オネガイ"
+        },
+        {
+          "t": "します",
+          "lemma": "する",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do; make; smell/sound of",
+          "gram": "polite non-past verb",
+          "span": [
+            23,
+            26
+          ],
+          "reading": "シマス"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "At our inn, five-star service comes naturally... whoops!",
+      "words": [
+        {
+          "t": "当館",
+          "lemma": "当館",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "our inn (formal)",
+          "gram": "noun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "トウカン"
+        },
+        {
+          "t": "で",
+          "lemma": "で",
+          "pos": "part",
+          "stress": null,
+          "gloss": "at; in; by; with; and",
+          "gram": "location of action / means particle",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "デ"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "五つ星",
+          "lemma": "五つ星",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "five-star",
+          "gram": "noun",
+          "span": [
+            4,
+            7
+          ],
+          "reading": "イツツボシ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "'s; of; one; question/explanation particle",
+          "gram": "possessive / nominalizing particle",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "サービス",
+          "lemma": "サービス",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "service; complimentary extra",
+          "gram": "noun",
+          "span": [
+            8,
+            12
+          ],
+          "reading": "サービス"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject marker; but",
+          "gram": "subject / contrast particle",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ガ"
+        },
+        {
+          "t": "当たり前",
+          "lemma": "当たり前",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "natural; of course",
+          "gram": "na-adjective",
+          "span": [
+            13,
+            17
+          ],
+          "reading": "アタリマエ"
+        },
+        {
+          "t": "おっと",
+          "lemma": "おっと",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "whoops!; hold on!",
+          "gram": "interjection",
+          "span": [
+            19,
+            22
+          ],
+          "reading": "オット"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "Be careful, Takashi, the pitcher spout is wide!",
+      "words": [
+        {
+          "t": "気",
+          "lemma": "気",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "spirit; mind; attention; air",
+          "gram": "noun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "キ"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "direct object / path marker",
+          "gram": "direct object particle",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "つけて",
+          "lemma": "つける",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "turn on; attach; pay (attention)",
+          "gram": "te-form verb",
+          "span": [
+            2,
+            5
+          ],
+          "reading": "ツケテ"
+        },
+        {
+          "t": "ください",
+          "lemma": "くださる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give; kindly do (honorific)",
+          "gram": "polite request verb",
+          "span": [
+            5,
+            9
+          ],
+          "reading": "クダサイ"
+        },
+        {
+          "t": "隆",
+          "lemma": "隆",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Takashi",
+          "gram": "proper name",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "タカシ"
+        },
+        {
+          "t": "さん",
+          "lemma": "さん",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "polite name suffix",
+          "gram": "noun",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "サン"
+        },
+        {
+          "t": "ピッチャー",
+          "lemma": "ピッチャー",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "pitcher; jug",
+          "gram": "noun",
+          "span": [
+            14,
+            19
+          ],
+          "reading": "ピッチャー"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "'s; of; one; question/explanation particle",
+          "gram": "possessive / nominalizing particle",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "注ぎ口",
+          "lemma": "注ぎ口",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "spout",
+          "gram": "noun",
+          "span": [
+            20,
+            23
+          ],
+          "reading": "ソソギグチ"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject marker; but",
+          "gram": "subject / contrast particle",
+          "span": [
+            23,
+            24
+          ],
+          "reading": "ガ"
+        },
+        {
+          "t": "広い",
+          "lemma": "広い",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "wide; spacious",
+          "gram": "i-adjective",
+          "span": [
+            24,
+            26
+          ],
+          "reading": "ヒロイ"
+        },
+        {
+          "t": "です",
+          "lemma": "です",
+          "pos": "part",
+          "stress": null,
+          "gloss": "be; is/am/are (polite copula)",
+          "gram": "polite copula",
+          "span": [
+            26,
+            28
+          ],
+          "reading": "デス"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "Oh dear! Not a single drop spilled on the table, yet all of it is on my tie!",
+      "words": [
+        {
+          "t": "大変",
+          "lemma": "大変",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "serious; awful; hectic",
+          "gram": "na-adjective",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "タイヘン"
+        },
+        {
+          "t": "だ",
+          "lemma": "だ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "be (plain copula)",
+          "gram": "plain copula",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ダ"
+        },
+        {
+          "t": "テーブル",
+          "lemma": "テーブル",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "table",
+          "gram": "noun",
+          "span": [
+            4,
+            8
+          ],
+          "reading": "テーブル"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; at; to; on; at (time)",
+          "gram": "location / time / target particle",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "は",
+          "lemma": "は",
+          "pos": "part",
+          "stress": null,
+          "gloss": "topic marker",
+          "gram": "topic particle",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "一滴",
+          "lemma": "一滴",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one drop",
+          "gram": "number + counter",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "イッテキ"
+        },
+        {
+          "t": "も",
+          "lemma": "も",
+          "pos": "part",
+          "stress": null,
+          "gloss": "also; too; even; whole",
+          "gram": "inclusive particle ('also / even')",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "モ"
+        },
+        {
+          "t": "こぼれて",
+          "lemma": "こぼれる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "spill; overflow",
+          "gram": "te-form verb",
+          "span": [
+            13,
+            17
+          ],
+          "reading": "コボレテ"
+        },
+        {
+          "t": "いません",
+          "lemma": "いる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be; stay (animate); progressive",
+          "gram": "polite negative verb",
+          "span": [
+            17,
+            21
+          ],
+          "reading": "イマセン"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject marker; but",
+          "gram": "subject / contrast particle",
+          "span": [
+            21,
+            22
+          ],
+          "reading": "ガ"
+        },
+        {
+          "t": "全部",
+          "lemma": "全部",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "all; everything",
+          "gram": "noun",
+          "span": [
+            24,
+            26
+          ],
+          "reading": "ゼンブ"
+        },
+        {
+          "t": "私",
+          "lemma": "私",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I; me",
+          "gram": "pronoun",
+          "span": [
+            26,
+            27
+          ],
+          "reading": "ワタシ"
+        },
+        {
+          "t": "の",
+          "lemma": "の",
+          "pos": "part",
+          "stress": null,
+          "gloss": "'s; of; one; question/explanation particle",
+          "gram": "possessive / nominalizing particle",
+          "span": [
+            27,
+            28
+          ],
+          "reading": "ノ"
+        },
+        {
+          "t": "ネクタイ",
+          "lemma": "ネクタイ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "necktie",
+          "gram": "noun",
+          "span": [
+            28,
+            32
+          ],
+          "reading": "ネクタイ"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; at; to; on; at (time)",
+          "gram": "location / time / target particle",
+          "span": [
+            32,
+            33
+          ],
+          "reading": "ニ"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "Do not worry! Cold sparkling water takes orange juice right out.",
+      "words": [
+        {
+          "t": "心配",
+          "lemma": "心配",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "worry; concern",
+          "gram": "na-adjective",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "シンパイ"
+        },
+        {
+          "t": "しないで",
+          "lemma": "する",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do; make; smell/sound of",
+          "gram": "te-form verb",
+          "span": [
+            2,
+            6
+          ],
+          "reading": "シナイデ"
+        },
+        {
+          "t": "冷たい",
+          "lemma": "冷たい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "cold (to the touch)",
+          "gram": "i-adjective",
+          "span": [
+            7,
+            10
+          ],
+          "reading": "ツメタイ"
+        },
+        {
+          "t": "炭酸水",
+          "lemma": "炭酸水",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "sparkling water; club soda",
+          "gram": "noun",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "タンサンスイ"
+        },
+        {
+          "t": "なら",
+          "lemma": "なら",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "if it is; as for",
+          "gram": "conjunction",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "ナラ"
+        },
+        {
+          "t": "オレンジジュース",
+          "lemma": "オレンジジュース",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "orange juice",
+          "gram": "noun",
+          "span": [
+            16,
+            24
+          ],
+          "reading": "オレンジジュース"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject marker; but",
+          "gram": "subject / contrast particle",
+          "span": [
+            24,
+            25
+          ],
+          "reading": "ガ"
+        },
+        {
+          "t": "すぐ",
+          "lemma": "すぐ",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "right away; right beside",
+          "gram": "adverb",
+          "span": [
+            25,
+            27
+          ],
+          "reading": "スグ"
+        },
+        {
+          "t": "落ちます",
+          "lemma": "落ちる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "fall; drop; come off",
+          "gram": "polite non-past verb",
+          "span": [
+            27,
+            31
+          ],
+          "reading": "オチマス"
+        },
+        {
+          "t": "よ",
+          "lemma": "よ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "emphasis particle ('you know')",
+          "gram": "sentence-final emphasis particle",
+          "span": [
+            31,
+            32
+          ],
+          "reading": "ヨ"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "Takashi, I brought a clean cloth and cold water.",
+      "words": [
+        {
+          "t": "隆",
+          "lemma": "隆",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Takashi",
+          "gram": "proper name",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "タカシ"
+        },
+        {
+          "t": "さん",
+          "lemma": "さん",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "polite name suffix",
+          "gram": "noun",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "サン"
+        },
+        {
+          "t": "きれい",
+          "lemma": "きれい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "clean; neat; pretty",
+          "gram": "na-adjective",
+          "span": [
+            4,
+            7
+          ],
+          "reading": "キレイ"
+        },
+        {
+          "t": "な",
+          "lemma": "だ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "be (plain copula)",
+          "gram": "attributive copula (na-adjective linker)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "ナ"
+        },
+        {
+          "t": "布",
+          "lemma": "布",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "cloth; wiping rag",
+          "gram": "noun",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "ヌノ"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and; with; quote; when",
+          "gram": "accompaniment / quotation particle",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "冷たい",
+          "lemma": "冷たい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "cold (to the touch)",
+          "gram": "i-adjective",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "ツメタイ"
+        },
+        {
+          "t": "水",
+          "lemma": "水",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "water (cold / fresh)",
+          "gram": "noun",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ミズ"
+        },
+        {
+          "t": "を",
+          "lemma": "を",
+          "pos": "part",
+          "stress": null,
+          "gloss": "direct object / path marker",
+          "gram": "direct object particle",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "お",
+          "lemma": "お",
+          "pos": "part",
+          "stress": null,
+          "gloss": "polite prefix",
+          "gram": "particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "オ"
+        },
+        {
+          "t": "持ち",
+          "lemma": "持つ",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "hold; carry; have; bring",
+          "gram": "dictionary-form verb",
+          "span": [
+            16,
+            18
+          ],
+          "reading": "モチ"
+        },
+        {
+          "t": "しました",
+          "lemma": "する",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do; make; smell/sound of",
+          "gram": "polite past verb",
+          "span": [
+            18,
+            22
+          ],
+          "reading": "シマシタ"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "Excuse me, Kazuko. I shall retreat to my office with dignity!",
+      "words": [
+        {
+          "t": "失礼",
+          "lemma": "失礼",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "excuse me; impoliteness",
+          "gram": "na-adjective",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "シツレイ"
+        },
+        {
+          "t": "いたします",
+          "lemma": "いたす",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "do (humble)",
+          "gram": "polite non-past verb",
+          "span": [
+            2,
+            7
+          ],
+          "reading": "イタシマス"
+        },
+        {
+          "t": "和子",
+          "lemma": "和子",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Kazuko",
+          "gram": "proper name",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "カズコ"
+        },
+        {
+          "t": "さん",
+          "lemma": "さん",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "polite name suffix",
+          "gram": "noun",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "サン"
+        },
+        {
+          "t": "堂々",
+          "lemma": "堂々",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "with dignity; proudly",
+          "gram": "adverb",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "ドウドウ"
+        },
+        {
+          "t": "と",
+          "lemma": "と",
+          "pos": "part",
+          "stress": null,
+          "gloss": "and; with; quote; when",
+          "gram": "accompaniment / quotation particle",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "ト"
+        },
+        {
+          "t": "事務室",
+          "lemma": "事務室",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "office room",
+          "gram": "noun",
+          "span": [
+            16,
+            19
+          ],
+          "reading": "ジムシツ"
+        },
+        {
+          "t": "へ",
+          "lemma": "へ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "toward; to",
+          "gram": "direction particle",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "エ"
+        },
+        {
+          "t": "引き上げます",
+          "lemma": "引き上げる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "withdraw; retreat",
+          "gram": "polite non-past verb",
+          "span": [
+            20,
+            26
+          ],
+          "reading": "ヒキアゲマス"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "The scrambled eggs are delicious, Mio. Please give Yuka my compliments.",
+      "words": [
+        {
+          "t": "スクランブルエッグ",
+          "lemma": "スクランブルエッグ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "scrambled eggs",
+          "gram": "noun",
+          "span": [
+            0,
+            9
+          ],
+          "reading": "スクランブルエッグ"
+        },
+        {
+          "t": "が",
+          "lemma": "が",
+          "pos": "part",
+          "stress": null,
+          "gloss": "subject marker; but",
+          "gram": "subject / contrast particle",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "ガ"
+        },
+        {
+          "t": "とても",
+          "lemma": "とても",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "very",
+          "gram": "adverb",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "トテモ"
+        },
+        {
+          "t": "おいしい",
+          "lemma": "おいしい",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "delicious; tasty",
+          "gram": "i-adjective",
+          "span": [
+            13,
+            17
+          ],
+          "reading": "オイシイ"
+        },
+        {
+          "t": "わ",
+          "lemma": "わ",
+          "pos": "part",
+          "stress": null,
+          "gloss": "softening sentence particle",
+          "gram": "particle",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "ワ"
+        },
+        {
+          "t": "美央",
+          "lemma": "美央",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mio",
+          "gram": "proper name",
+          "span": [
+            19,
+            21
+          ],
+          "reading": "ミオ"
+        },
+        {
+          "t": "さん",
+          "lemma": "さん",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "polite name suffix",
+          "gram": "noun",
+          "span": [
+            21,
+            23
+          ],
+          "reading": "サン"
+        },
+        {
+          "t": "由香",
+          "lemma": "由香",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Yuka",
+          "gram": "proper name",
+          "span": [
+            24,
+            26
+          ],
+          "reading": "ユカ"
+        },
+        {
+          "t": "さん",
+          "lemma": "さん",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "polite name suffix",
+          "gram": "noun suffix",
+          "span": [
+            26,
+            28
+          ],
+          "reading": "サン"
+        },
+        {
+          "t": "に",
+          "lemma": "に",
+          "pos": "part",
+          "stress": null,
+          "gloss": "in; at; to; on; at (time)",
+          "gram": "location / time / target particle",
+          "span": [
+            28,
+            29
+          ],
+          "reading": "ニ"
+        },
+        {
+          "t": "よろしく",
+          "lemma": "よろしく",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "best regards; please",
+          "gram": "adverb",
+          "span": [
+            29,
+            33
+          ],
+          "reading": "ヨロシク"
+        },
+        {
+          "t": "伝えて",
+          "lemma": "伝える",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "convey; pass on a message",
+          "gram": "te-form verb",
+          "span": [
+            33,
+            36
+          ],
+          "reading": "ツタエテ"
+        },
+        {
+          "t": "ね",
+          "lemma": "ね",
+          "pos": "part",
+          "stress": null,
+          "gloss": "isn't it?; right?",
+          "gram": "sentence-final confirmation particle",
+          "span": [
+            36,
+            37
+          ],
+          "reading": "ネ"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "I certainly will! Please enjoy a relaxing morning.",
+      "words": [
+        {
+          "t": "はい",
+          "lemma": "はい",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "yes; here you go; hello (on phone)",
+          "gram": "interjection",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "ハイ"
+        },
+        {
+          "t": "伝えます",
+          "lemma": "伝える",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "convey; pass on a message",
+          "gram": "polite non-past verb",
+          "span": [
+            3,
+            7
+          ],
+          "reading": "ツタエマス"
+        },
+        {
+          "t": "どうぞ",
+          "lemma": "どうぞ",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "please; go ahead; here you are",
+          "gram": "adverb",
+          "span": [
+            8,
+            11
+          ],
+          "reading": "ドウゾ"
+        },
+        {
+          "t": "ご",
+          "lemma": "ご",
+          "pos": "part",
+          "stress": null,
+          "gloss": "polite prefix",
+          "gram": "particle",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "ゴ"
+        },
+        {
+          "t": "ゆっくり",
+          "lemma": "ゆっくり",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "slowly; unhurriedly; restfully",
+          "gram": "adverb",
+          "span": [
+            12,
+            16
+          ],
+          "reading": "ユックリ"
+        },
+        {
+          "t": "お過ごし",
+          "lemma": "お過ごし",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "spending time (polite)",
+          "gram": "noun",
+          "span": [
+            16,
+            20
+          ],
+          "reading": "オスゴシ"
+        },
+        {
+          "t": "ください",
+          "lemma": "くださる",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give; kindly do (honorific)",
+          "gram": "polite request verb",
+          "span": [
+            20,
+            24
+          ],
+          "reading": "クダサイ"
+        }
+      ]
+    },
+    {
+      "seg": 52,
       "trans": "Goodbye!",
       "words": [
         {

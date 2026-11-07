@@ -134,6 +134,7 @@ def main(argv):
         notes = f"Rendered audio of {episode} (content {commit[:12]}). Verify and install with tools/fetch_renders.py."
         if subprocess.run(["gh", "release", "view", tag], capture_output=True).returncode == 0:
             subprocess.run(["gh", "release", "upload", tag, str(out), "--clobber"], check=True)
+            subprocess.run(["gh", "release", "edit", tag, "--notes", notes], check=False)
         else:
             subprocess.run(["gh", "release", "create", tag, str(out), "--title", tag, "--notes", notes], check=True)
         print(f"released {tag}")

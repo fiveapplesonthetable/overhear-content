@@ -1811,1428 +1811,155 @@
     },
     {
       "seg": 16,
-      "trans": "everyone",
+      "trans": "Morning, Manager Zhou! The desk is clean, and the keys are ready too.",
       "words": [
         {
-          "t": "大家",
-          "lemma": "大家",
-          "pos": "pron",
+          "t": "周",
+          "lemma": "周",
+          "pos": "name",
           "stress": null,
-          "gloss": "everyone",
-          "gram": "pronoun",
+          "gloss": "Zhou (surname)",
+          "gram": "proper name",
           "span": [
             0,
-            2
+            1
           ],
-          "reading": "dà jiā"
+          "reading": "zhōu"
+        },
+        {
+          "t": "经理",
+          "lemma": "经理",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "manager",
+          "gram": "noun (uninflected)",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "jīng lí"
+        },
+        {
+          "t": "早",
+          "lemma": "早",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "early",
+          "gram": "stative adjective",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "zǎo"
+        },
+        {
+          "t": "桌子",
+          "lemma": "桌子",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "table",
+          "gram": "noun (uninflected)",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "zhuō zi"
+        },
+        {
+          "t": "很",
+          "lemma": "很",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "very",
+          "gram": "adverb",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "hěn"
+        },
+        {
+          "t": "干净",
+          "lemma": "干净",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "clean",
+          "gram": "stative adjective",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "gān jìng"
+        },
+        {
+          "t": "钥匙",
+          "lemma": "钥匙",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "key",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "yào shi"
+        },
+        {
+          "t": "也",
+          "lemma": "也",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "also",
+          "gram": "adverb",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "yé"
+        },
+        {
+          "t": "准备",
+          "lemma": "准备",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "prepare",
+          "gram": "verb (uninflected)",
+          "span": [
+            14,
+            16
+          ],
+          "reading": "zhǔn bèi"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            16,
+            17
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "le"
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "Morning, Manager Zhou! The desk is clean, and the keys are ready too.",
-      "words": [
-        {
-          "t": "周",
-          "lemma": "周",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Zhou (surname)",
-          "gram": "proper name",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "zhōu"
-        },
-        {
-          "t": "经理",
-          "lemma": "经理",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "manager",
-          "gram": "noun (uninflected)",
-          "span": [
-            1,
-            3
-          ],
-          "reading": "jīng lí"
-        },
-        {
-          "t": "早",
-          "lemma": "早",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "early",
-          "gram": "stative adjective",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "zǎo"
-        },
-        {
-          "t": "桌子",
-          "lemma": "桌子",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "table",
-          "gram": "noun (uninflected)",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "zhuō zi"
-        },
-        {
-          "t": "很",
-          "lemma": "很",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "very",
-          "gram": "adverb",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "hěn"
-        },
-        {
-          "t": "干净",
-          "lemma": "干净",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "clean",
-          "gram": "stative adjective",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "gān jìng"
-        },
-        {
-          "t": "钥匙",
-          "lemma": "钥匙",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "key",
-          "gram": "noun (uninflected)",
-          "span": [
-            11,
-            13
-          ],
-          "reading": "yào shi"
-        },
-        {
-          "t": "也",
-          "lemma": "也",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "also",
-          "gram": "adverb",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "yé"
-        },
-        {
-          "t": "准备",
-          "lemma": "准备",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "prepare",
-          "gram": "verb (uninflected)",
-          "span": [
-            14,
-            16
-          ],
-          "reading": "zhǔn bèi"
-        },
-        {
-          "t": "好",
-          "lemma": "好",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "good",
-          "gram": "stative adjective",
-          "span": [
-            16,
-            17
-          ],
-          "reading": "hǎo"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            17,
-            18
-          ],
-          "reading": "le"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "Relax, Manager Zhou. The room is clean, and the towels are fresh.",
-      "words": [
-        {
-          "t": "放心",
-          "lemma": "放心",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "rest assured",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "fàng xīn"
-        },
-        {
-          "t": "吧",
-          "lemma": "吧",
-          "pos": "part",
-          "stress": null,
-          "gloss": "suggestion / soft-assumption particle",
-          "gram": "particle / measure word",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "ba"
-        },
-        {
-          "t": "周",
-          "lemma": "周",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Zhou (surname)",
-          "gram": "proper name",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "zhōu"
-        },
-        {
-          "t": "经理",
-          "lemma": "经理",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "manager",
-          "gram": "noun (uninflected)",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "jīng lǐ"
-        },
-        {
-          "t": "房间",
-          "lemma": "房间",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "room",
-          "gram": "noun (uninflected)",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "fáng jiān"
-        },
-        {
-          "t": "干净",
-          "lemma": "干净",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "clean",
-          "gram": "stative adjective",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "gān jìng"
-        },
-        {
-          "t": "毛巾",
-          "lemma": "毛巾",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "towel",
-          "gram": "noun (uninflected)",
-          "span": [
-            13,
-            15
-          ],
-          "reading": "máo jīn"
-        },
-        {
-          "t": "也",
-          "lemma": "也",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "also",
-          "gram": "adverb",
-          "span": [
-            15,
-            16
-          ],
-          "reading": "yě"
-        },
-        {
-          "t": "是",
-          "lemma": "是",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be (am, is, are, was, were)",
-          "gram": "verb (uninflected)",
-          "span": [
-            16,
-            17
-          ],
-          "reading": "shì"
-        },
-        {
-          "t": "新",
-          "lemma": "新",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "new",
-          "gram": "stative adjective",
-          "span": [
-            17,
-            18
-          ],
-          "reading": "xīn"
-        },
-        {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
-          "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
-          "span": [
-            18,
-            19
-          ],
-          "reading": "de"
-        }
-      ]
-    },
-    {
-      "seg": 22,
-      "trans": "rest assured",
-      "words": [
-        {
-          "t": "放心",
-          "lemma": "放心",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "rest assured",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "fàng xīn"
-        }
-      ]
-    },
-    {
-      "seg": 24,
-      "trans": "I need to read the booking ledger, yet I cannot find my glasses!",
-      "words": [
-        {
-          "t": "我",
-          "lemma": "我",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "pronoun",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "wǒ"
-        },
-        {
-          "t": "要",
-          "lemma": "要",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "want",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "yào"
-        },
-        {
-          "t": "看",
-          "lemma": "看",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "look",
-          "gram": "verb (uninflected)",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "kàn"
-        },
-        {
-          "t": "预订",
-          "lemma": "预订",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "book in advance",
-          "gram": "verb (uninflected)",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "yù dìng"
-        },
-        {
-          "t": "本子",
-          "lemma": "本子",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "notebook",
-          "gram": "noun (uninflected)",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "běn zi"
-        },
-        {
-          "t": "可是",
-          "lemma": "可是",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "kě shì"
-        },
-        {
-          "t": "找",
-          "lemma": "找",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "look for",
-          "gram": "verb (uninflected)",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "zhǎo"
-        },
-        {
-          "t": "不",
-          "lemma": "不",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "not",
-          "gram": "adverb",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "bú"
-        },
-        {
-          "t": "到",
-          "lemma": "到",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "arrive",
-          "gram": "verb (uninflected)",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "dào"
-        },
-        {
-          "t": "我",
-          "lemma": "我",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "pronoun",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "wǒ"
-        },
-        {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
-          "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
-          "span": [
-            14,
-            15
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "眼镜",
-          "lemma": "眼镜",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "eyeglasses",
-          "gram": "noun (uninflected)",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "yǎn jìng"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            17,
-            18
-          ],
-          "reading": "le"
-        }
-      ]
-    },
-    {
-      "seg": 26,
-      "trans": "look for + not + arrive",
-      "words": [
-        {
-          "t": "找",
-          "lemma": "找",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "look for",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "zhǎo"
-        },
-        {
-          "t": "不",
-          "lemma": "不",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "not",
-          "gram": "adverb",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "bú"
-        },
-        {
-          "t": "到",
-          "lemma": "到",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "arrive",
-          "gram": "verb (uninflected)",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "dào"
-        }
-      ]
-    },
-    {
-      "seg": 28,
-      "trans": "Are they in your coat pocket?",
-      "words": [
-        {
-          "t": "在",
-          "lemma": "在",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be at/in/on",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "zài"
-        },
-        {
-          "t": "您",
-          "lemma": "您",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (polite singular)",
-          "gram": "pronoun",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "nín"
-        },
-        {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
-          "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "外套",
-          "lemma": "外套",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "coat",
-          "gram": "noun (uninflected)",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "wài tào"
-        },
-        {
-          "t": "口袋",
-          "lemma": "口袋",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "pocket",
-          "gram": "noun (uninflected)",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "kǒu dài"
-        },
-        {
-          "t": "里",
-          "lemma": "里",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "inside",
-          "gram": "noun (uninflected)",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "lǐ"
-        },
-        {
-          "t": "吗",
-          "lemma": "吗",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes/no question particle",
-          "gram": "particle / measure word",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "ma"
-        }
-      ]
-    },
-    {
-      "seg": 30,
-      "trans": "you (polite singular)",
-      "words": [
-        {
-          "t": "您",
-          "lemma": "您",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (polite singular)",
-          "gram": "pronoun",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "nín"
-        }
-      ]
-    },
-    {
-      "seg": 32,
-      "trans": "Not there—only my pen and three old receipts!",
-      "words": [
-        {
-          "t": "不",
-          "lemma": "不",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "not",
-          "gram": "adverb",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "bú"
-        },
-        {
-          "t": "在",
-          "lemma": "在",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be at/in/on",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "zài"
-        },
-        {
-          "t": "只有",
-          "lemma": "只有",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "only have",
-          "gram": "verb (uninflected)",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "zhí yóu"
-        },
-        {
-          "t": "我",
-          "lemma": "我",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "pronoun",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "wǒ"
-        },
-        {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
-          "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "笔",
-          "lemma": "笔",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "pen",
-          "gram": "noun (uninflected)",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "bǐ"
-        },
-        {
-          "t": "和",
-          "lemma": "和",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "hé"
-        },
-        {
-          "t": "三",
-          "lemma": "三",
-          "pos": "num",
-          "stress": null,
-          "gloss": "three",
-          "gram": "numeral",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "sān"
-        },
-        {
-          "t": "张",
-          "lemma": "张",
-          "pos": "part",
-          "stress": null,
-          "gloss": "measure word for flat surfaces and paper",
-          "gram": "particle / measure word",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "zhāng"
-        },
-        {
-          "t": "旧",
-          "lemma": "旧",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "old (used/former, of things)",
-          "gram": "stative adjective",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "jiù"
-        },
-        {
-          "t": "收据",
-          "lemma": "收据",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "receipt",
-          "gram": "noun (uninflected)",
-          "span": [
-            12,
-            14
-          ],
-          "reading": "shōu jù"
-        }
-      ]
-    },
-    {
-      "seg": 34,
-      "trans": "measure word for flat surfaces and paper",
-      "words": [
-        {
-          "t": "张",
-          "lemma": "张",
-          "pos": "part",
-          "stress": null,
-          "gloss": "measure word for flat surfaces and paper",
-          "gram": "particle / measure word",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "zhāng"
-        }
-      ]
-    },
-    {
-      "seg": 36,
-      "trans": "Why would my glasses be in... oh dear! They are on my head!",
-      "words": [
-        {
-          "t": "我",
-          "lemma": "我",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "pronoun",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "wǒ"
-        },
-        {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
-          "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "眼镜",
-          "lemma": "眼镜",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "eyeglasses",
-          "gram": "noun (uninflected)",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "yǎn jìng"
-        },
-        {
-          "t": "怎么",
-          "lemma": "怎么",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "adverb",
-          "span": [
-            4,
-            6
-          ],
-          "reading": "zěn me"
-        },
-        {
-          "t": "会",
-          "lemma": "会",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "can (learned skill)",
-          "gram": "verb (uninflected)",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "huì"
-        },
-        {
-          "t": "在",
-          "lemma": "在",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be at/in/on",
-          "gram": "verb (uninflected)",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "zài"
-        },
-        {
-          "t": "哎呀",
-          "lemma": "哎呀",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh dear!",
-          "gram": "interjection",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "āi yā"
-        },
-        {
-          "t": "在",
-          "lemma": "在",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be at/in/on",
-          "gram": "verb (uninflected)",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "zài"
-        },
-        {
-          "t": "我",
-          "lemma": "我",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "pronoun",
-          "span": [
-            14,
-            15
-          ],
-          "reading": "wǒ"
-        },
-        {
-          "t": "头上",
-          "lemma": "头上",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "on one's head",
-          "gram": "noun (uninflected)",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "tóu shang"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "oh dear!",
-      "words": [
-        {
-          "t": "哎呀",
-          "lemma": "哎呀",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh dear!",
-          "gram": "interjection",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "āi yā"
-        }
-      ]
-    },
-    {
-      "seg": 40,
-      "trans": "A taxi has just pulled up right at the front gate.",
-      "words": [
-        {
-          "t": "大门",
-          "lemma": "大门",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "main gate",
-          "gram": "noun (uninflected)",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "dà mén"
-        },
-        {
-          "t": "口",
-          "lemma": "口",
-          "pos": "part",
-          "stress": null,
-          "gloss": "mouth",
-          "gram": "particle / measure word",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "kǒu"
-        },
-        {
-          "t": "正好",
-          "lemma": "正好",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "just right",
-          "gram": "adverb",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "zhèng hǎo"
-        },
-        {
-          "t": "来",
-          "lemma": "来",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "come",
-          "gram": "verb (uninflected)",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "lái"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "一",
-          "lemma": "一",
-          "pos": "num",
-          "stress": null,
-          "gloss": "one",
-          "gram": "numeral",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "yí"
-        },
-        {
-          "t": "辆",
-          "lemma": "辆",
-          "pos": "part",
-          "stress": null,
-          "gloss": "measure word for wheeled vehicles",
-          "gram": "particle / measure word",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "liàng"
-        },
-        {
-          "t": "出租车",
-          "lemma": "出租车",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "taxi",
-          "gram": "noun (uninflected)",
-          "span": [
-            9,
-            12
-          ],
-          "reading": "chū zū chē"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "measure word for wheeled vehicles",
-      "words": [
-        {
-          "t": "辆",
-          "lemma": "辆",
-          "pos": "part",
-          "stress": null,
-          "gloss": "measure word for wheeled vehicles",
-          "gram": "particle / measure word",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "liàng"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "Good morning, everyone! Welcome, Qing. Is everything ready?",
-      "words": [
-        {
-          "t": "大家",
-          "lemma": "大家",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "everyone",
-          "gram": "pronoun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "dà jiā"
-        },
-        {
-          "t": "早上",
-          "lemma": "早上",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "morning",
-          "gram": "noun (uninflected)",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "zǎo shang"
-        },
-        {
-          "t": "好",
-          "lemma": "好",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "good",
-          "gram": "stative adjective",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "hǎo"
-        },
-        {
-          "t": "欢迎",
-          "lemma": "欢迎",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "welcome",
-          "gram": "verb (uninflected)",
-          "span": [
-            6,
-            8
-          ],
-          "reading": "huān yíng"
-        },
-        {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "nǐ"
-        },
-        {
-          "t": "小晴",
-          "lemma": "小晴",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Qing (Xiaoqing, new front-desk clerk)",
-          "gram": "proper name",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "xiǎo qíng"
-        },
-        {
-          "t": "都",
-          "lemma": "都",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "all",
-          "gram": "adverb",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "dōu"
-        },
-        {
-          "t": "准备",
-          "lemma": "准备",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "prepare",
-          "gram": "verb (uninflected)",
-          "span": [
-            14,
-            16
-          ],
-          "reading": "zhǔn bèi"
-        },
-        {
-          "t": "好",
-          "lemma": "好",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "good",
-          "gram": "stative adjective",
-          "span": [
-            16,
-            17
-          ],
-          "reading": "hǎo"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            17,
-            18
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "吗",
-          "lemma": "吗",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes/no question particle",
-          "gram": "particle / measure word",
-          "span": [
-            18,
-            19
-          ],
-          "reading": "ma"
-        }
-      ]
-    },
-    {
-      "seg": 45,
-      "trans": "Morning, Manager Zhou! The desk is clean, and the keys are ready too.",
-      "words": [
-        {
-          "t": "周",
-          "lemma": "周",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Zhou (surname)",
-          "gram": "proper name",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "zhōu"
-        },
-        {
-          "t": "经理",
-          "lemma": "经理",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "manager",
-          "gram": "noun (uninflected)",
-          "span": [
-            1,
-            3
-          ],
-          "reading": "jīng lí"
-        },
-        {
-          "t": "早",
-          "lemma": "早",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "early",
-          "gram": "stative adjective",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "zǎo"
-        },
-        {
-          "t": "桌子",
-          "lemma": "桌子",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "table",
-          "gram": "noun (uninflected)",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "zhuō zi"
-        },
-        {
-          "t": "很",
-          "lemma": "很",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "very",
-          "gram": "adverb",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "hěn"
-        },
-        {
-          "t": "干净",
-          "lemma": "干净",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "clean",
-          "gram": "stative adjective",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "gān jìng"
-        },
-        {
-          "t": "钥匙",
-          "lemma": "钥匙",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "key",
-          "gram": "noun (uninflected)",
-          "span": [
-            11,
-            13
-          ],
-          "reading": "yào shi"
-        },
-        {
-          "t": "也",
-          "lemma": "也",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "also",
-          "gram": "adverb",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "yé"
-        },
-        {
-          "t": "准备",
-          "lemma": "准备",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "prepare",
-          "gram": "verb (uninflected)",
-          "span": [
-            14,
-            16
-          ],
-          "reading": "zhǔn bèi"
-        },
-        {
-          "t": "好",
-          "lemma": "好",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "good",
-          "gram": "stative adjective",
-          "span": [
-            16,
-            17
-          ],
-          "reading": "hǎo"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            17,
-            18
-          ],
-          "reading": "le"
-        }
-      ]
-    },
-    {
-      "seg": 46,
       "trans": "Today's guest in room four is staying a whole week; everything must be perfect!",
       "words": [
         {
@@ -3420,7 +2147,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 20,
       "trans": "Relax, Manager Zhou. The room is clean, and the towels are fresh.",
       "words": [
         {
@@ -3569,7 +2296,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 22,
       "trans": "I need to read the booking ledger, yet I cannot find my glasses!",
       "words": [
         {
@@ -3744,7 +2471,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 24,
       "trans": "Are they in your coat pocket?",
       "words": [
         {
@@ -3841,7 +2568,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 26,
       "trans": "Not there—only my pen and three old receipts!",
       "words": [
         {
@@ -3990,7 +2717,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 28,
       "trans": "Boss, take a look in the mirror behind the desk.",
       "words": [
         {
@@ -4087,7 +2814,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 30,
       "trans": "Why would my glasses be in... oh dear! They are on my head!",
       "words": [
         {
@@ -4223,7 +2950,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 32,
       "trans": "Right there on your forehead, completely safe.",
       "words": [
         {
@@ -4333,7 +3060,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 34,
       "trans": "Do not tell anyone! Smile warmly when the bell rings.",
       "words": [
         {
@@ -4482,7 +3209,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 36,
       "trans": "A taxi has just pulled up right at the front gate.",
       "words": [
         {
@@ -4592,7 +3319,1665 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 39,
+      "trans": "Good morning, everyone! Welcome, Qing. Is everything ready?",
+      "words": [
+        {
+          "t": "大家",
+          "lemma": "大家",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "everyone",
+          "gram": "pronoun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "dà jiā"
+        },
+        {
+          "t": "早上",
+          "lemma": "早上",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "morning",
+          "gram": "noun (uninflected)",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "zǎo shang"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "欢迎",
+          "lemma": "欢迎",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "welcome",
+          "gram": "verb (uninflected)",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "huān yíng"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "nǐ"
+        },
+        {
+          "t": "小晴",
+          "lemma": "小晴",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Qing (Xiaoqing, new front-desk clerk)",
+          "gram": "proper name",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "xiǎo qíng"
+        },
+        {
+          "t": "都",
+          "lemma": "都",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "all",
+          "gram": "adverb",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "dōu"
+        },
+        {
+          "t": "准备",
+          "lemma": "准备",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "prepare",
+          "gram": "verb (uninflected)",
+          "span": [
+            14,
+            16
+          ],
+          "reading": "zhǔn bèi"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            16,
+            17
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "吗",
+          "lemma": "吗",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes/no question particle",
+          "gram": "particle / measure word",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "ma"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "Morning, Manager Zhou! The desk is clean, and the keys are ready too.",
+      "words": [
+        {
+          "t": "周",
+          "lemma": "周",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Zhou (surname)",
+          "gram": "proper name",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "zhōu"
+        },
+        {
+          "t": "经理",
+          "lemma": "经理",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "manager",
+          "gram": "noun (uninflected)",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "jīng lí"
+        },
+        {
+          "t": "早",
+          "lemma": "早",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "early",
+          "gram": "stative adjective",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "zǎo"
+        },
+        {
+          "t": "桌子",
+          "lemma": "桌子",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "table",
+          "gram": "noun (uninflected)",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "zhuō zi"
+        },
+        {
+          "t": "很",
+          "lemma": "很",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "very",
+          "gram": "adverb",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "hěn"
+        },
+        {
+          "t": "干净",
+          "lemma": "干净",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "clean",
+          "gram": "stative adjective",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "gān jìng"
+        },
+        {
+          "t": "钥匙",
+          "lemma": "钥匙",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "key",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "yào shi"
+        },
+        {
+          "t": "也",
+          "lemma": "也",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "also",
+          "gram": "adverb",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "yé"
+        },
+        {
+          "t": "准备",
+          "lemma": "准备",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "prepare",
+          "gram": "verb (uninflected)",
+          "span": [
+            14,
+            16
+          ],
+          "reading": "zhǔn bèi"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            16,
+            17
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "le"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "Today's guest in room four is staying a whole week; everything must be perfect!",
+      "words": [
+        {
+          "t": "今天",
+          "lemma": "今天",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "today",
+          "gram": "noun (uninflected)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "jīn tiān"
+        },
+        {
+          "t": "四",
+          "lemma": "四",
+          "pos": "num",
+          "stress": null,
+          "gloss": "four",
+          "gram": "numeral",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "sì"
+        },
+        {
+          "t": "号",
+          "lemma": "号",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "number",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "hào"
+        },
+        {
+          "t": "房",
+          "lemma": "房",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "room",
+          "gram": "noun (uninflected)",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "fáng"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "客人",
+          "lemma": "客人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "guest",
+          "gram": "noun (uninflected)",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "kè rén"
+        },
+        {
+          "t": "住",
+          "lemma": "住",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "live",
+          "gram": "verb (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "zhù"
+        },
+        {
+          "t": "一",
+          "lemma": "一",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one",
+          "gram": "numeral",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "yì"
+        },
+        {
+          "t": "整",
+          "lemma": "整",
+          "pos": "det",
+          "stress": null,
+          "gloss": "whole",
+          "gram": "determiner",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "zhěng"
+        },
+        {
+          "t": "个",
+          "lemma": "个",
+          "pos": "part",
+          "stress": null,
+          "gloss": "general measure word",
+          "gram": "measure word (classifier)",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "gè"
+        },
+        {
+          "t": "星期",
+          "lemma": "星期",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "week",
+          "gram": "noun (uninflected)",
+          "span": [
+            12,
+            14
+          ],
+          "reading": "xīng qī"
+        },
+        {
+          "t": "一定",
+          "lemma": "一定",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "certainly",
+          "gram": "adverb",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "yí dìng"
+        },
+        {
+          "t": "要",
+          "lemma": "要",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "want",
+          "gram": "verb (uninflected)",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "yào"
+        },
+        {
+          "t": "完美",
+          "lemma": "完美",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "perfect",
+          "gram": "stative adjective",
+          "span": [
+            18,
+            20
+          ],
+          "reading": "wán měi"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "Relax, Manager Zhou. The room is clean, and the towels are fresh.",
+      "words": [
+        {
+          "t": "放心",
+          "lemma": "放心",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "rest assured",
+          "gram": "verb (uninflected)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "fàng xīn"
+        },
+        {
+          "t": "吧",
+          "lemma": "吧",
+          "pos": "part",
+          "stress": null,
+          "gloss": "suggestion / soft-assumption particle",
+          "gram": "particle / measure word",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "ba"
+        },
+        {
+          "t": "周",
+          "lemma": "周",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Zhou (surname)",
+          "gram": "proper name",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "zhōu"
+        },
+        {
+          "t": "经理",
+          "lemma": "经理",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "manager",
+          "gram": "noun (uninflected)",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "jīng lǐ"
+        },
+        {
+          "t": "房间",
+          "lemma": "房间",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "room",
+          "gram": "noun (uninflected)",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "fáng jiān"
+        },
+        {
+          "t": "干净",
+          "lemma": "干净",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "clean",
+          "gram": "stative adjective",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "gān jìng"
+        },
+        {
+          "t": "毛巾",
+          "lemma": "毛巾",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "towel",
+          "gram": "noun (uninflected)",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "máo jīn"
+        },
+        {
+          "t": "也",
+          "lemma": "也",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "also",
+          "gram": "adverb",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "yě"
+        },
+        {
+          "t": "是",
+          "lemma": "是",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be (am, is, are, was, were)",
+          "gram": "verb (uninflected)",
+          "span": [
+            16,
+            17
+          ],
+          "reading": "shì"
+        },
+        {
+          "t": "新",
+          "lemma": "新",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "new",
+          "gram": "stative adjective",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "xīn"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "de"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "I need to read the booking ledger, yet I cannot find my glasses!",
+      "words": [
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "wǒ"
+        },
+        {
+          "t": "要",
+          "lemma": "要",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "want",
+          "gram": "verb (uninflected)",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "yào"
+        },
+        {
+          "t": "看",
+          "lemma": "看",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "look",
+          "gram": "verb (uninflected)",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "kàn"
+        },
+        {
+          "t": "预订",
+          "lemma": "预订",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "book in advance",
+          "gram": "verb (uninflected)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "yù dìng"
+        },
+        {
+          "t": "本子",
+          "lemma": "本子",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "notebook",
+          "gram": "noun (uninflected)",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "běn zi"
+        },
+        {
+          "t": "可是",
+          "lemma": "可是",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "but",
+          "gram": "conjunction",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "kě shì"
+        },
+        {
+          "t": "找",
+          "lemma": "找",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "look for",
+          "gram": "verb (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "zhǎo"
+        },
+        {
+          "t": "不",
+          "lemma": "不",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "not",
+          "gram": "adverb",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "bú"
+        },
+        {
+          "t": "到",
+          "lemma": "到",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "arrive",
+          "gram": "verb (uninflected)",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "dào"
+        },
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "wǒ"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "眼镜",
+          "lemma": "眼镜",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "eyeglasses",
+          "gram": "noun (uninflected)",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "yǎn jìng"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "le"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "Are they in your coat pocket?",
+      "words": [
+        {
+          "t": "在",
+          "lemma": "在",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be at/in/on",
+          "gram": "verb (uninflected)",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "zài"
+        },
+        {
+          "t": "您",
+          "lemma": "您",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (polite singular)",
+          "gram": "pronoun",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "nín"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "外套",
+          "lemma": "外套",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "coat",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "wài tào"
+        },
+        {
+          "t": "口袋",
+          "lemma": "口袋",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "pocket",
+          "gram": "noun (uninflected)",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "kǒu dài"
+        },
+        {
+          "t": "里",
+          "lemma": "里",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "inside",
+          "gram": "noun (uninflected)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "lǐ"
+        },
+        {
+          "t": "吗",
+          "lemma": "吗",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes/no question particle",
+          "gram": "particle / measure word",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "ma"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "Not there—only my pen and three old receipts!",
+      "words": [
+        {
+          "t": "不",
+          "lemma": "不",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "not",
+          "gram": "adverb",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "bú"
+        },
+        {
+          "t": "在",
+          "lemma": "在",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be at/in/on",
+          "gram": "verb (uninflected)",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "zài"
+        },
+        {
+          "t": "只有",
+          "lemma": "只有",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "only have",
+          "gram": "verb (uninflected)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "zhí yóu"
+        },
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "wǒ"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "笔",
+          "lemma": "笔",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "pen",
+          "gram": "noun (uninflected)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "bǐ"
+        },
+        {
+          "t": "和",
+          "lemma": "和",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "hé"
+        },
+        {
+          "t": "三",
+          "lemma": "三",
+          "pos": "num",
+          "stress": null,
+          "gloss": "three",
+          "gram": "numeral",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "sān"
+        },
+        {
+          "t": "张",
+          "lemma": "张",
+          "pos": "part",
+          "stress": null,
+          "gloss": "measure word for flat surfaces and paper",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "zhāng"
+        },
+        {
+          "t": "旧",
+          "lemma": "旧",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "old (used/former, of things)",
+          "gram": "stative adjective",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "jiù"
+        },
+        {
+          "t": "收据",
+          "lemma": "收据",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "receipt",
+          "gram": "noun (uninflected)",
+          "span": [
+            12,
+            14
+          ],
+          "reading": "shōu jù"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "Boss, take a look in the mirror behind the desk.",
+      "words": [
+        {
+          "t": "老板",
+          "lemma": "老板",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "boss",
+          "gram": "noun (uninflected)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "láo bǎn"
+        },
+        {
+          "t": "看",
+          "lemma": "看",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "look",
+          "gram": "verb (uninflected)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "kàn"
+        },
+        {
+          "t": "一下",
+          "lemma": "一下",
+          "pos": "part",
+          "stress": null,
+          "gloss": "a bit",
+          "gram": "particle / measure word",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "yí xià"
+        },
+        {
+          "t": "桌子",
+          "lemma": "桌子",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "table",
+          "gram": "noun (uninflected)",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "zhuō zi"
+        },
+        {
+          "t": "后面",
+          "lemma": "后面",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "back",
+          "gram": "noun (uninflected)",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "hòu mian"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "镜子",
+          "lemma": "镜子",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "mirror",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "jìng zi"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "Why would my glasses be in... oh dear! They are on my head!",
+      "words": [
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "wǒ"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "眼镜",
+          "lemma": "眼镜",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "eyeglasses",
+          "gram": "noun (uninflected)",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "yǎn jìng"
+        },
+        {
+          "t": "怎么",
+          "lemma": "怎么",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "how",
+          "gram": "adverb",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "zěn me"
+        },
+        {
+          "t": "会",
+          "lemma": "会",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "can (learned skill)",
+          "gram": "verb (uninflected)",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "huì"
+        },
+        {
+          "t": "在",
+          "lemma": "在",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be at/in/on",
+          "gram": "verb (uninflected)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "zài"
+        },
+        {
+          "t": "哎呀",
+          "lemma": "哎呀",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "oh dear!",
+          "gram": "interjection",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "āi yā"
+        },
+        {
+          "t": "在",
+          "lemma": "在",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be at/in/on",
+          "gram": "verb (uninflected)",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "zài"
+        },
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "wǒ"
+        },
+        {
+          "t": "头上",
+          "lemma": "头上",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "on one's head",
+          "gram": "noun (uninflected)",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "tóu shang"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "Right there on your forehead, completely safe.",
+      "words": [
+        {
+          "t": "就",
+          "lemma": "就",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "right away",
+          "gram": "adverb",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "jiù"
+        },
+        {
+          "t": "在",
+          "lemma": "在",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be at/in/on",
+          "gram": "verb (uninflected)",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "zài"
+        },
+        {
+          "t": "您",
+          "lemma": "您",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (polite singular)",
+          "gram": "pronoun",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "nín"
+        },
+        {
+          "t": "额头",
+          "lemma": "额头",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "forehead",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "é tóu"
+        },
+        {
+          "t": "上",
+          "lemma": "上",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "up",
+          "gram": "verb (uninflected)",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "shàng"
+        },
+        {
+          "t": "安全",
+          "lemma": "安全",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "safe",
+          "gram": "stative adjective",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "ān quán"
+        },
+        {
+          "t": "得",
+          "lemma": "得",
+          "pos": "part",
+          "stress": null,
+          "gloss": "(degree particle)",
+          "gram": "structural particle",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "很",
+          "lemma": "很",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "very",
+          "gram": "adverb",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "hěn"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "Do not tell anyone! Smile warmly when the bell rings.",
+      "words": [
+        {
+          "t": "谁",
+          "lemma": "谁",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "who",
+          "gram": "pronoun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "shuí"
+        },
+        {
+          "t": "也",
+          "lemma": "也",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "also",
+          "gram": "adverb",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "yě"
+        },
+        {
+          "t": "别",
+          "lemma": "别",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "don't",
+          "gram": "adverb",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "bié"
+        },
+        {
+          "t": "说",
+          "lemma": "说",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "say",
+          "gram": "verb (uninflected)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "shuō"
+        },
+        {
+          "t": "出去",
+          "lemma": "出去",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "go out (away from speaker)",
+          "gram": "verb (uninflected)",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "chū qù"
+        },
+        {
+          "t": "门铃",
+          "lemma": "门铃",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "doorbell",
+          "gram": "noun (uninflected)",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "mén líng"
+        },
+        {
+          "t": "响",
+          "lemma": "响",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "ring",
+          "gram": "verb (uninflected)",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "xiǎng"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "时候",
+          "lemma": "时候",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "time",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "shí hou"
+        },
+        {
+          "t": "要",
+          "lemma": "要",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "want",
+          "gram": "verb (uninflected)",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "yào"
+        },
+        {
+          "t": "微笑",
+          "lemma": "微笑",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "smile",
+          "gram": "noun (uninflected)",
+          "span": [
+            14,
+            16
+          ],
+          "reading": "wēi xiào"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "A taxi has just pulled up right at the front gate.",
+      "words": [
+        {
+          "t": "大门",
+          "lemma": "大门",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "main gate",
+          "gram": "noun (uninflected)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "dà mén"
+        },
+        {
+          "t": "口",
+          "lemma": "口",
+          "pos": "part",
+          "stress": null,
+          "gloss": "mouth",
+          "gram": "particle / measure word",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "kǒu"
+        },
+        {
+          "t": "正好",
+          "lemma": "正好",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "just right",
+          "gram": "adverb",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "zhèng hǎo"
+        },
+        {
+          "t": "来",
+          "lemma": "来",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "come",
+          "gram": "verb (uninflected)",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "lái"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "一",
+          "lemma": "一",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one",
+          "gram": "numeral",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "yí"
+        },
+        {
+          "t": "辆",
+          "lemma": "辆",
+          "pos": "part",
+          "stress": null,
+          "gloss": "measure word for wheeled vehicles",
+          "gram": "particle / measure word",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "liàng"
+        },
+        {
+          "t": "出租车",
+          "lemma": "出租车",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "taxi",
+          "gram": "noun (uninflected)",
+          "span": [
+            9,
+            12
+          ],
+          "reading": "chū zū chē"
+        }
+      ]
+    },
+    {
+      "seg": 52,
       "trans": "See you soon!",
       "words": [
         {

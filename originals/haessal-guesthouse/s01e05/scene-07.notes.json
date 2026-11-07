@@ -1772,1331 +1772,155 @@
     },
     {
       "seg": 16,
-      "trans": "completely hollow/empty empty",
+      "trans": "Wait just a few minutes more, Mr Jihoon. At noon downtown roads are always congested.",
       "words": [
         {
-          "t": "텅",
-          "lemma": "텅",
+          "t": "조금만",
+          "lemma": "조금",
           "pos": "adv",
           "stress": null,
-          "gloss": "completely hollow/empty",
-          "gram": "base form",
+          "gloss": "a little, slightly",
+          "gram": "limiting particle ('only')",
           "span": [
             0,
-            1
+            3
           ],
-          "reading": "teong"
+          "reading": "jogeumman"
         },
         {
-          "t": "비어",
-          "lemma": "비다",
+          "t": "더",
+          "lemma": "더",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "more",
+          "gram": "base form",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "deo"
+        },
+        {
+          "t": "기다려",
+          "lemma": "기다리다",
           "pos": "verb",
           "stress": null,
-          "gloss": "to be empty, to be vacant",
+          "gloss": "to wait",
           "gram": "infinitive / casual present",
           "span": [
-            2,
-            4
+            6,
+            9
           ],
-          "reading": "bieo"
+          "reading": "gidaryeo"
+        },
+        {
+          "t": "보세요",
+          "lemma": "보다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to see, to look at",
+          "gram": "polite honorific / request ('please ...')",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "boseyo"
+        },
+        {
+          "t": "지훈",
+          "lemma": "지훈",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Jihoon",
+          "gram": "proper name",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "jihun"
+        },
+        {
+          "t": "님",
+          "lemma": "님",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Mr (polite honorific)",
+          "gram": "base form",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "nim"
+        },
+        {
+          "t": "정오에는",
+          "lemma": "정오",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "noon, twelve midday",
+          "gram": "location/time + topic",
+          "span": [
+            21,
+            25
+          ],
+          "reading": "jeongoeneun"
+        },
+        {
+          "t": "시내",
+          "lemma": "시내",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "downtown, city centre",
+          "gram": "base form",
+          "span": [
+            26,
+            28
+          ],
+          "reading": "sinae"
+        },
+        {
+          "t": "길이",
+          "lemma": "길",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "road, street, way",
+          "gram": "subject particle",
+          "span": [
+            29,
+            31
+          ],
+          "reading": "giri"
+        },
+        {
+          "t": "항상",
+          "lemma": "항상",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "always",
+          "gram": "base form",
+          "span": [
+            32,
+            34
+          ],
+          "reading": "hangsang"
+        },
+        {
+          "t": "막혀요",
+          "lemma": "막히다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to be blocked, to be congested (traffic)",
+          "gram": "polite present",
+          "span": [
+            35,
+            38
+          ],
+          "reading": "makyeoyo"
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "Wait just a few minutes more, Mr Jihoon. At noon downtown roads are always congested.",
-      "words": [
-        {
-          "t": "조금만",
-          "lemma": "조금",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "a little, slightly",
-          "gram": "limiting particle ('only')",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "jogeumman"
-        },
-        {
-          "t": "더",
-          "lemma": "더",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "more",
-          "gram": "base form",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "deo"
-        },
-        {
-          "t": "기다려",
-          "lemma": "기다리다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to wait",
-          "gram": "infinitive / casual present",
-          "span": [
-            6,
-            9
-          ],
-          "reading": "gidaryeo"
-        },
-        {
-          "t": "보세요",
-          "lemma": "보다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to see, to look at",
-          "gram": "polite honorific / request ('please ...')",
-          "span": [
-            10,
-            13
-          ],
-          "reading": "boseyo"
-        },
-        {
-          "t": "지훈",
-          "lemma": "지훈",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Jihoon",
-          "gram": "proper name",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "jihun"
-        },
-        {
-          "t": "님",
-          "lemma": "님",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "Mr (polite honorific)",
-          "gram": "base form",
-          "span": [
-            18,
-            19
-          ],
-          "reading": "nim"
-        },
-        {
-          "t": "정오에는",
-          "lemma": "정오",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "noon, twelve midday",
-          "gram": "location/time + topic",
-          "span": [
-            21,
-            25
-          ],
-          "reading": "jeongoeneun"
-        },
-        {
-          "t": "시내",
-          "lemma": "시내",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "downtown, city centre",
-          "gram": "base form",
-          "span": [
-            26,
-            28
-          ],
-          "reading": "sinae"
-        },
-        {
-          "t": "길이",
-          "lemma": "길",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "road, street, way",
-          "gram": "subject particle",
-          "span": [
-            29,
-            31
-          ],
-          "reading": "giri"
-        },
-        {
-          "t": "항상",
-          "lemma": "항상",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "always",
-          "gram": "base form",
-          "span": [
-            32,
-            34
-          ],
-          "reading": "hangsang"
-        },
-        {
-          "t": "막혀요",
-          "lemma": "막히다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to be blocked, to be congested (traffic)",
-          "gram": "polite present",
-          "span": [
-            35,
-            38
-          ],
-          "reading": "makyeoyo"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "the road is blocked",
-      "words": [
-        {
-          "t": "길이",
-          "lemma": "길",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "road, street, way",
-          "gram": "subject particle",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "giri"
-        },
-        {
-          "t": "항상",
-          "lemma": "항상",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "always",
-          "gram": "base form",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "hangsang"
-        },
-        {
-          "t": "막혀요",
-          "lemma": "막히다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to be blocked, to be congested (traffic)",
-          "gram": "polite present",
-          "span": [
-            6,
-            9
-          ],
-          "reading": "makyeoyo"
-        }
-      ]
-    },
-    {
-      "seg": 22,
-      "trans": "Do not give up and sit down already! Keep watching toward the corner.",
-      "words": [
-        {
-          "t": "벌써",
-          "lemma": "벌써",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "already",
-          "gram": "base form",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "beolsseo"
-        },
-        {
-          "t": "포기하고",
-          "lemma": "포기하다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to give up",
-          "gram": "connective ('and / -ing')",
-          "span": [
-            3,
-            7
-          ],
-          "reading": "pogihago"
-        },
-        {
-          "t": "앉지",
-          "lemma": "앉다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to sit down",
-          "gram": "negative/question stem (-지)",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "anji"
-        },
-        {
-          "t": "마세요",
-          "lemma": "말다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to stop, to refrain from (negative imperative)",
-          "gram": "polite negative imperative ('please don't')",
-          "span": [
-            11,
-            14
-          ],
-          "reading": "maseyo"
-        },
-        {
-          "t": "모퉁이",
-          "lemma": "모퉁이",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "street corner",
-          "gram": "base form",
-          "span": [
-            16,
-            19
-          ],
-          "reading": "motungi"
-        },
-        {
-          "t": "쪽을",
-          "lemma": "쪽",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "side, direction, way",
-          "gram": "object particle",
-          "span": [
-            20,
-            22
-          ],
-          "reading": "jjogeul"
-        },
-        {
-          "t": "계속",
-          "lemma": "계속",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "continuously, keep on",
-          "gram": "base form",
-          "span": [
-            23,
-            25
-          ],
-          "reading": "gyesok"
-        },
-        {
-          "t": "보세요",
-          "lemma": "보다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to see, to look at",
-          "gram": "polite honorific / request ('please ...')",
-          "span": [
-            26,
-            29
-          ],
-          "reading": "boseyo"
-        }
-      ]
-    },
-    {
-      "seg": 24,
-      "trans": "pogi",
-      "words": [
-        {
-          "t": "포기하고",
-          "lemma": "포기하다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to give up",
-          "gram": "connective ('and / -ing')",
-          "span": [
-            0,
-            4
-          ],
-          "reading": "pogihago"
-        }
-      ]
-    },
-    {
-      "seg": 26,
-      "trans": "Three years was too long a time, Mina. I should have phoned two winters ago.",
-      "words": [
-        {
-          "t": "삼",
-          "lemma": "삼",
-          "pos": "num",
-          "stress": null,
-          "gloss": "three (Sino-Korean)",
-          "gram": "base form",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "sam"
-        },
-        {
-          "t": "년은",
-          "lemma": "년",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "year (counter)",
-          "gram": "topic particle",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "nyeoneun"
-        },
-        {
-          "t": "너무",
-          "lemma": "너무",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "too, so very",
-          "gram": "base form",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "neomu"
-        },
-        {
-          "t": "긴",
-          "lemma": "길다",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "to be long",
-          "gram": "past/descriptive adnominal modifier",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "gin"
-        },
-        {
-          "t": "시간이었어요",
-          "lemma": "시간",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "time",
-          "gram": "past polite copula ('was/were')",
-          "span": [
-            10,
-            16
-          ],
-          "reading": "siganieosseoyo"
-        },
-        {
-          "t": "미나",
-          "lemma": "미나",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mina",
-          "gram": "proper name",
-          "span": [
-            18,
-            20
-          ],
-          "reading": "mina"
-        },
-        {
-          "t": "씨",
-          "lemma": "씨",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "Mr / Ms (polite name suffix)",
-          "gram": "base form",
-          "span": [
-            21,
-            22
-          ],
-          "reading": "ssi"
-        },
-        {
-          "t": "재작년",
-          "lemma": "재작년",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "the year before last",
-          "gram": "base form",
-          "span": [
-            24,
-            27
-          ],
-          "reading": "jaejangnyeon"
-        },
-        {
-          "t": "겨울에",
-          "lemma": "겨울",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "winter",
-          "gram": "location/time particle",
-          "span": [
-            28,
-            31
-          ],
-          "reading": "gyeoure"
-        },
-        {
-          "t": "전화했어야",
-          "lemma": "전화하다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to phone, to make a phone call",
-          "gram": "past counterfactual obligation ('should have')",
-          "span": [
-            32,
-            37
-          ],
-          "reading": "jeonhwahaesseoya"
-        },
-        {
-          "t": "했는데",
-          "lemma": "하다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to do, to make",
-          "gram": "past background ('did, and/but')",
-          "span": [
-            38,
-            41
-          ],
-          "reading": "haenneunde"
-        }
-      ]
-    },
-    {
-      "seg": 28,
-      "trans": "the year before last",
-      "words": [
-        {
-          "t": "재작년",
-          "lemma": "재작년",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "the year before last",
-          "gram": "base form",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "jaejangnyeon"
-        }
-      ]
-    },
-    {
-      "seg": 30,
-      "trans": "My hands are shaking... did a tall man wearing a dark-grey coat step out?",
-      "words": [
-        {
-          "t": "손이",
-          "lemma": "손",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "hand",
-          "gram": "subject particle",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "soni"
-        },
-        {
-          "t": "떨려요",
-          "lemma": "떨리다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to tremble, to shake (from nerves/cold)",
-          "gram": "polite present",
-          "span": [
-            3,
-            6
-          ],
-          "reading": "tteollyeoyo"
-        },
-        {
-          "t": "진회색",
-          "lemma": "진회색",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "dark grey, charcoal grey",
-          "gram": "base form",
-          "span": [
-            10,
-            13
-          ],
-          "reading": "jinhoesaek"
-        },
-        {
-          "t": "코트를",
-          "lemma": "코트",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "coat",
-          "gram": "object particle",
-          "span": [
-            14,
-            17
-          ],
-          "reading": "koteureul"
-        },
-        {
-          "t": "입은",
-          "lemma": "입다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to wear, to put on (clothes)",
-          "gram": "past adnominal ('wearing')",
-          "span": [
-            18,
-            20
-          ],
-          "reading": "ibeun"
-        },
-        {
-          "t": "키",
-          "lemma": "키",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "stature, height (of a person)",
-          "gram": "base form",
-          "span": [
-            21,
-            22
-          ],
-          "reading": "ki"
-        },
-        {
-          "t": "큰",
-          "lemma": "크다",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "to be big, to be loud, to be tall (with 키)",
-          "gram": "past/descriptive adnominal modifier",
-          "span": [
-            23,
-            24
-          ],
-          "reading": "keun"
-        },
-        {
-          "t": "남자가",
-          "lemma": "남자",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "man",
-          "gram": "subject particle",
-          "span": [
-            25,
-            28
-          ],
-          "reading": "namjaga"
-        },
-        {
-          "t": "내렸어요",
-          "lemma": "내리다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to lower, to get off",
-          "gram": "polite past",
-          "span": [
-            29,
-            33
-          ],
-          "reading": "naeryeosseoyo"
-        }
-      ]
-    },
-    {
-      "seg": 32,
-      "trans": "hand tremble",
-      "words": [
-        {
-          "t": "손이",
-          "lemma": "손",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "hand",
-          "gram": "subject particle",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "soni"
-        },
-        {
-          "t": "떨려요",
-          "lemma": "떨리다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to tremble, to shake (from nerves/cold)",
-          "gram": "polite present",
-          "span": [
-            3,
-            6
-          ],
-          "reading": "tteollyeoyo"
-        }
-      ]
-    },
-    {
-      "seg": 34,
-      "trans": "My hands are shaking... did a tall man wearing a dark-grey coat step out?",
-      "words": [
-        {
-          "t": "손이",
-          "lemma": "손",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "hand",
-          "gram": "subject particle",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "soni"
-        },
-        {
-          "t": "떨려요",
-          "lemma": "떨리다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to tremble, to shake (from nerves/cold)",
-          "gram": "polite present",
-          "span": [
-            3,
-            6
-          ],
-          "reading": "tteollyeoyo"
-        },
-        {
-          "t": "진회색",
-          "lemma": "진회색",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "dark grey, charcoal grey",
-          "gram": "base form",
-          "span": [
-            10,
-            13
-          ],
-          "reading": "jinhoesaek"
-        },
-        {
-          "t": "코트를",
-          "lemma": "코트",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "coat",
-          "gram": "object particle",
-          "span": [
-            14,
-            17
-          ],
-          "reading": "koteureul"
-        },
-        {
-          "t": "입은",
-          "lemma": "입다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to wear, to put on (clothes)",
-          "gram": "past adnominal ('wearing')",
-          "span": [
-            18,
-            20
-          ],
-          "reading": "ibeun"
-        },
-        {
-          "t": "키",
-          "lemma": "키",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "stature, height (of a person)",
-          "gram": "base form",
-          "span": [
-            21,
-            22
-          ],
-          "reading": "ki"
-        },
-        {
-          "t": "큰",
-          "lemma": "크다",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "to be big, to be loud, to be tall (with 키)",
-          "gram": "past/descriptive adnominal modifier",
-          "span": [
-            23,
-            24
-          ],
-          "reading": "keun"
-        },
-        {
-          "t": "남자가",
-          "lemma": "남자",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "man",
-          "gram": "subject particle",
-          "span": [
-            25,
-            28
-          ],
-          "reading": "namjaga"
-        },
-        {
-          "t": "내렸어요",
-          "lemma": "내리다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to lower, to get off",
-          "gram": "polite past",
-          "span": [
-            29,
-            33
-          ],
-          "reading": "naeryeosseoyo"
-        }
-      ]
-    },
-    {
-      "seg": 36,
-      "trans": "stature big",
-      "words": [
-        {
-          "t": "키",
-          "lemma": "키",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "stature, height (of a person)",
-          "gram": "base form",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "ki"
-        },
-        {
-          "t": "큰",
-          "lemma": "크다",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "to be big, to be loud, to be tall (with 키)",
-          "gram": "past/descriptive adnominal modifier",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "keun"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "Straighten your shoulders, Mr Jihoon. Remember your three short sentences. I will open the gate!",
-      "words": [
-        {
-          "t": "어깨",
-          "lemma": "어깨",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "shoulder",
-          "gram": "base form",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "eokkae"
-        },
-        {
-          "t": "펴세요",
-          "lemma": "펴다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to unfold, to straighten, to spread",
-          "gram": "polite honorific / request ('please ...')",
-          "span": [
-            3,
-            6
-          ],
-          "reading": "pyeoseyo"
-        },
-        {
-          "t": "지훈",
-          "lemma": "지훈",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Jihoon",
-          "gram": "proper name",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "jihun"
-        },
-        {
-          "t": "님",
-          "lemma": "님",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "Mr (polite honorific)",
-          "gram": "base form",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "nim"
-        },
-        {
-          "t": "짧은",
-          "lemma": "짧다",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "to be short, to be brief",
-          "gram": "past/descriptive adnominal modifier",
-          "span": [
-            14,
-            16
-          ],
-          "reading": "jjalbeun"
-        },
-        {
-          "t": "문장",
-          "lemma": "문장",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "sentence",
-          "gram": "base form",
-          "span": [
-            17,
-            19
-          ],
-          "reading": "munjang"
-        },
-        {
-          "t": "세",
-          "lemma": "세",
-          "pos": "num",
-          "stress": null,
-          "gloss": "three",
-          "gram": "pre-noun numeral ('three')",
-          "span": [
-            20,
-            21
-          ],
-          "reading": "se"
-        },
-        {
-          "t": "개",
-          "lemma": "개",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "item, piece (general counter)",
-          "gram": "base form",
-          "span": [
-            22,
-            23
-          ],
-          "reading": "gae"
-        },
-        {
-          "t": "꼭",
-          "lemma": "꼭",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "surely, without fail, tightly",
-          "gram": "base form",
-          "span": [
-            24,
-            25
-          ],
-          "reading": "kkok"
-        },
-        {
-          "t": "기억하세요",
-          "lemma": "기억하다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to remember",
-          "gram": "polite honorific / request ('please ...')",
-          "span": [
-            26,
-            31
-          ],
-          "reading": "gieokaseyo"
-        },
-        {
-          "t": "제가",
-          "lemma": "저",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I, me (humble)",
-          "gram": "humble subject ('I')",
-          "span": [
-            33,
-            35
-          ],
-          "reading": "jega"
-        },
-        {
-          "t": "대문을",
-          "lemma": "대문",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "main gate, courtyard gate",
-          "gram": "object particle",
-          "span": [
-            36,
-            39
-          ],
-          "reading": "daemuneul"
-        },
-        {
-          "t": "열게요",
-          "lemma": "열다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to open, to unlock",
-          "gram": "polite promise/volitional ('I will')",
-          "span": [
-            40,
-            43
-          ],
-          "reading": "yeolgeyo"
-        }
-      ]
-    },
-    {
-      "seg": 40,
-      "trans": "spread your shoulders",
-      "words": [
-        {
-          "t": "어깨",
-          "lemma": "어깨",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "shoulder",
-          "gram": "base form",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "eokkae"
-        },
-        {
-          "t": "펴세요",
-          "lemma": "펴다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to unfold, to straighten, to spread",
-          "gram": "polite honorific / request ('please ...')",
-          "span": [
-            3,
-            6
-          ],
-          "reading": "pyeoseyo"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "All twelve chimes rang... and the street outside the gate is completely empty.",
-      "words": [
-        {
-          "t": "열두",
-          "lemma": "열두",
-          "pos": "num",
-          "stress": null,
-          "gloss": "twelve",
-          "gram": "base form",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "yeoldu"
-        },
-        {
-          "t": "번",
-          "lemma": "번",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "time, occurrence",
-          "gram": "base form",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "beon"
-        },
-        {
-          "t": "다",
-          "lemma": "다",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "all, completely",
-          "gram": "base form",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "da"
-        },
-        {
-          "t": "울렸는데",
-          "lemma": "울리다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to ring, to chime, to echo",
-          "gram": "past background ('did, and/but')",
-          "span": [
-            7,
-            11
-          ],
-          "reading": "ullyeonneunde"
-        },
-        {
-          "t": "대문",
-          "lemma": "대문",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "main gate, courtyard gate",
-          "gram": "base form",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "daemun"
-        },
-        {
-          "t": "밖",
-          "lemma": "밖",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "outside, exterior",
-          "gram": "base form",
-          "span": [
-            18,
-            19
-          ],
-          "reading": "bak"
-        },
-        {
-          "t": "거리가",
-          "lemma": "거리",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "street, avenue",
-          "gram": "subject particle",
-          "span": [
-            20,
-            23
-          ],
-          "reading": "georiga"
-        },
-        {
-          "t": "텅",
-          "lemma": "텅",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "completely hollow/empty",
-          "gram": "base form",
-          "span": [
-            24,
-            25
-          ],
-          "reading": "teong"
-        },
-        {
-          "t": "비어",
-          "lemma": "비다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to be empty, to be vacant",
-          "gram": "infinitive / casual present",
-          "span": [
-            26,
-            28
-          ],
-          "reading": "bieo"
-        },
-        {
-          "t": "있어요",
-          "lemma": "있다",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "to exist, to be (at a place)",
-          "gram": "polite present",
-          "span": [
-            29,
-            32
-          ],
-          "reading": "isseoyo"
-        }
-      ]
-    },
-    {
-      "seg": 43,
-      "trans": "Wait just a few minutes more, Mr Jihoon. At noon downtown roads are always congested.",
-      "words": [
-        {
-          "t": "조금만",
-          "lemma": "조금",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "a little, slightly",
-          "gram": "limiting particle ('only')",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "jogeumman"
-        },
-        {
-          "t": "더",
-          "lemma": "더",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "more",
-          "gram": "base form",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "deo"
-        },
-        {
-          "t": "기다려",
-          "lemma": "기다리다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to wait",
-          "gram": "infinitive / casual present",
-          "span": [
-            6,
-            9
-          ],
-          "reading": "gidaryeo"
-        },
-        {
-          "t": "보세요",
-          "lemma": "보다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to see, to look at",
-          "gram": "polite honorific / request ('please ...')",
-          "span": [
-            10,
-            13
-          ],
-          "reading": "boseyo"
-        },
-        {
-          "t": "지훈",
-          "lemma": "지훈",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Jihoon",
-          "gram": "proper name",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "jihun"
-        },
-        {
-          "t": "님",
-          "lemma": "님",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "Mr (polite honorific)",
-          "gram": "base form",
-          "span": [
-            18,
-            19
-          ],
-          "reading": "nim"
-        },
-        {
-          "t": "정오에는",
-          "lemma": "정오",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "noon, twelve midday",
-          "gram": "location/time + topic",
-          "span": [
-            21,
-            25
-          ],
-          "reading": "jeongoeneun"
-        },
-        {
-          "t": "시내",
-          "lemma": "시내",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "downtown, city centre",
-          "gram": "base form",
-          "span": [
-            26,
-            28
-          ],
-          "reading": "sinae"
-        },
-        {
-          "t": "길이",
-          "lemma": "길",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "road, street, way",
-          "gram": "subject particle",
-          "span": [
-            29,
-            31
-          ],
-          "reading": "giri"
-        },
-        {
-          "t": "항상",
-          "lemma": "항상",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "always",
-          "gram": "base form",
-          "span": [
-            32,
-            34
-          ],
-          "reading": "hangsang"
-        },
-        {
-          "t": "막혀요",
-          "lemma": "막히다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to be blocked, to be congested (traffic)",
-          "gram": "polite present",
-          "span": [
-            35,
-            38
-          ],
-          "reading": "makyeoyo"
-        }
-      ]
-    },
-    {
-      "seg": 44,
       "trans": "Besides, older brothers never come early when they want to look calm.",
       "words": [
         {
@@ -3232,7 +2056,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 20,
       "trans": "Look, it is twelve-oh-four already. Maybe my brother threw my postcard in the bin.",
       "words": [
         {
@@ -3394,7 +2218,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 22,
       "trans": "Do not give up and sit down already! Keep watching toward the corner.",
       "words": [
         {
@@ -3504,7 +2328,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 24,
       "trans": "Three years was too long a time, Mina. I should have phoned two winters ago.",
       "words": [
         {
@@ -3653,7 +2477,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 26,
       "trans": "Hold still, both of you. Do you hear a car engine stopping beside the pavement?",
       "words": [
         {
@@ -3828,7 +2652,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 28,
       "trans": "A yellow taxi just stopped right in front of the iron gate!",
       "words": [
         {
@@ -3912,7 +2736,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 30,
       "trans": "My hands are shaking... did a tall man wearing a dark-grey coat step out?",
       "words": [
         {
@@ -4035,7 +2859,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 32,
       "trans": "He is tall and wearing a dark-grey coat! Right now he is looking up at our guesthouse sign!",
       "words": [
         {
@@ -4184,7 +3008,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 34,
       "trans": "The gate bell rang. One firm ring.",
       "words": [
         {
@@ -4268,7 +3092,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 36,
       "trans": "Straighten your shoulders, Mr Jihoon. Remember your three short sentences. I will open the gate!",
       "words": [
         {
@@ -4443,7 +3267,1639 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 39,
+      "trans": "All twelve chimes rang... and the street outside the gate is completely empty.",
+      "words": [
+        {
+          "t": "열두",
+          "lemma": "열두",
+          "pos": "num",
+          "stress": null,
+          "gloss": "twelve",
+          "gram": "base form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "yeoldu"
+        },
+        {
+          "t": "번",
+          "lemma": "번",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "time, occurrence",
+          "gram": "base form",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "beon"
+        },
+        {
+          "t": "다",
+          "lemma": "다",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "all, completely",
+          "gram": "base form",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "da"
+        },
+        {
+          "t": "울렸는데",
+          "lemma": "울리다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to ring, to chime, to echo",
+          "gram": "past background ('did, and/but')",
+          "span": [
+            7,
+            11
+          ],
+          "reading": "ullyeonneunde"
+        },
+        {
+          "t": "대문",
+          "lemma": "대문",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "main gate, courtyard gate",
+          "gram": "base form",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "daemun"
+        },
+        {
+          "t": "밖",
+          "lemma": "밖",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "outside, exterior",
+          "gram": "base form",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "bak"
+        },
+        {
+          "t": "거리가",
+          "lemma": "거리",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "street, avenue",
+          "gram": "subject particle",
+          "span": [
+            20,
+            23
+          ],
+          "reading": "georiga"
+        },
+        {
+          "t": "텅",
+          "lemma": "텅",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "completely hollow/empty",
+          "gram": "base form",
+          "span": [
+            24,
+            25
+          ],
+          "reading": "teong"
+        },
+        {
+          "t": "비어",
+          "lemma": "비다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to be empty, to be vacant",
+          "gram": "infinitive / casual present",
+          "span": [
+            26,
+            28
+          ],
+          "reading": "bieo"
+        },
+        {
+          "t": "있어요",
+          "lemma": "있다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to exist, to be (at a place)",
+          "gram": "polite present",
+          "span": [
+            29,
+            32
+          ],
+          "reading": "isseoyo"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "Wait just a few minutes more, Mr Jihoon. At noon downtown roads are always congested.",
+      "words": [
+        {
+          "t": "조금만",
+          "lemma": "조금",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "a little, slightly",
+          "gram": "limiting particle ('only')",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "jogeumman"
+        },
+        {
+          "t": "더",
+          "lemma": "더",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "more",
+          "gram": "base form",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "deo"
+        },
+        {
+          "t": "기다려",
+          "lemma": "기다리다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to wait",
+          "gram": "infinitive / casual present",
+          "span": [
+            6,
+            9
+          ],
+          "reading": "gidaryeo"
+        },
+        {
+          "t": "보세요",
+          "lemma": "보다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to see, to look at",
+          "gram": "polite honorific / request ('please ...')",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "boseyo"
+        },
+        {
+          "t": "지훈",
+          "lemma": "지훈",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Jihoon",
+          "gram": "proper name",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "jihun"
+        },
+        {
+          "t": "님",
+          "lemma": "님",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Mr (polite honorific)",
+          "gram": "base form",
+          "span": [
+            18,
+            19
+          ],
+          "reading": "nim"
+        },
+        {
+          "t": "정오에는",
+          "lemma": "정오",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "noon, twelve midday",
+          "gram": "location/time + topic",
+          "span": [
+            21,
+            25
+          ],
+          "reading": "jeongoeneun"
+        },
+        {
+          "t": "시내",
+          "lemma": "시내",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "downtown, city centre",
+          "gram": "base form",
+          "span": [
+            26,
+            28
+          ],
+          "reading": "sinae"
+        },
+        {
+          "t": "길이",
+          "lemma": "길",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "road, street, way",
+          "gram": "subject particle",
+          "span": [
+            29,
+            31
+          ],
+          "reading": "giri"
+        },
+        {
+          "t": "항상",
+          "lemma": "항상",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "always",
+          "gram": "base form",
+          "span": [
+            32,
+            34
+          ],
+          "reading": "hangsang"
+        },
+        {
+          "t": "막혀요",
+          "lemma": "막히다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to be blocked, to be congested (traffic)",
+          "gram": "polite present",
+          "span": [
+            35,
+            38
+          ],
+          "reading": "makyeoyo"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "Besides, older brothers never come early when they want to look calm.",
+      "words": [
+        {
+          "t": "게다가",
+          "lemma": "게다가",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "besides, on top of that",
+          "gram": "base form",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "gedaga"
+        },
+        {
+          "t": "형들은",
+          "lemma": "형",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "older brother (of a man)",
+          "gram": "plural + topic",
+          "span": [
+            4,
+            7
+          ],
+          "reading": "hyeongdeureun"
+        },
+        {
+          "t": "태연해",
+          "lemma": "태연하다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to act calm, unbothered",
+          "gram": "infinitive / casual present",
+          "span": [
+            8,
+            11
+          ],
+          "reading": "taeyeonhae"
+        },
+        {
+          "t": "보이고",
+          "lemma": "보이다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to be seen, to be visible, to look",
+          "gram": "connective ('and / -ing')",
+          "span": [
+            12,
+            15
+          ],
+          "reading": "boigo"
+        },
+        {
+          "t": "싶을",
+          "lemma": "싶다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to want to (after -고)",
+          "gram": "prospective adnominal modifier",
+          "span": [
+            16,
+            18
+          ],
+          "reading": "sipeul"
+        },
+        {
+          "t": "때",
+          "lemma": "때",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "time, moment, when",
+          "gram": "base form",
+          "span": [
+            19,
+            20
+          ],
+          "reading": "ttae"
+        },
+        {
+          "t": "절대",
+          "lemma": "절대",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "absolutely, never",
+          "gram": "base form",
+          "span": [
+            21,
+            23
+          ],
+          "reading": "jeoldae"
+        },
+        {
+          "t": "일찍",
+          "lemma": "일찍",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "early",
+          "gram": "base form",
+          "span": [
+            24,
+            26
+          ],
+          "reading": "iljjik"
+        },
+        {
+          "t": "안",
+          "lemma": "안",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "not",
+          "gram": "short negator ('not')",
+          "span": [
+            27,
+            28
+          ],
+          "reading": "an"
+        },
+        {
+          "t": "와요",
+          "lemma": "오다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to come",
+          "gram": "polite present",
+          "span": [
+            29,
+            31
+          ],
+          "reading": "wayo"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "Look, it is twelve-oh-four already. Maybe my brother threw my postcard in the bin.",
+      "words": [
+        {
+          "t": "보세요",
+          "lemma": "보다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to see, to look at",
+          "gram": "polite honorific / request ('please ...')",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "boseyo"
+        },
+        {
+          "t": "벌써",
+          "lemma": "벌써",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "already",
+          "gram": "base form",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "beolsseo"
+        },
+        {
+          "t": "열두",
+          "lemma": "열두",
+          "pos": "num",
+          "stress": null,
+          "gloss": "twelve",
+          "gram": "base form",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "yeoldu"
+        },
+        {
+          "t": "시",
+          "lemma": "시",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "o'clock, hour (counter)",
+          "gram": "base form",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "si"
+        },
+        {
+          "t": "사",
+          "lemma": "사",
+          "pos": "num",
+          "stress": null,
+          "gloss": "four (Sino-Korean)",
+          "gram": "base form",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "sa"
+        },
+        {
+          "t": "분이에요",
+          "lemma": "분",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "minute (counter)",
+          "gram": "polite copula ('is/am/are')",
+          "span": [
+            15,
+            19
+          ],
+          "reading": "bunieyo"
+        },
+        {
+          "t": "형이",
+          "lemma": "형",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "older brother (of a man)",
+          "gram": "subject particle",
+          "span": [
+            21,
+            23
+          ],
+          "reading": "hyeongi"
+        },
+        {
+          "t": "제",
+          "lemma": "제",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "my (humble)",
+          "gram": "base form",
+          "span": [
+            24,
+            25
+          ],
+          "reading": "je"
+        },
+        {
+          "t": "엽서를",
+          "lemma": "엽서",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "postcard",
+          "gram": "object particle",
+          "span": [
+            26,
+            29
+          ],
+          "reading": "yeopseoreul"
+        },
+        {
+          "t": "쓰레기통에",
+          "lemma": "쓰레기통",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "rubbish bin, trash can",
+          "gram": "location/time particle",
+          "span": [
+            30,
+            35
+          ],
+          "reading": "sseuregitonge"
+        },
+        {
+          "t": "버렸나",
+          "lemma": "버리다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to throw away",
+          "gram": "past wondering ('did ... perhaps?')",
+          "span": [
+            36,
+            39
+          ],
+          "reading": "beoryeonna"
+        },
+        {
+          "t": "봐요",
+          "lemma": "보다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to see, to look at",
+          "gram": "polite present",
+          "span": [
+            40,
+            42
+          ],
+          "reading": "bwayo"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "Do not give up and sit down already! Keep watching toward the corner.",
+      "words": [
+        {
+          "t": "벌써",
+          "lemma": "벌써",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "already",
+          "gram": "base form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "beolsseo"
+        },
+        {
+          "t": "포기하고",
+          "lemma": "포기하다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to give up",
+          "gram": "connective ('and / -ing')",
+          "span": [
+            3,
+            7
+          ],
+          "reading": "pogihago"
+        },
+        {
+          "t": "앉지",
+          "lemma": "앉다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to sit down",
+          "gram": "negative/question stem (-지)",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "anji"
+        },
+        {
+          "t": "마세요",
+          "lemma": "말다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to stop, to refrain from (negative imperative)",
+          "gram": "polite negative imperative ('please don't')",
+          "span": [
+            11,
+            14
+          ],
+          "reading": "maseyo"
+        },
+        {
+          "t": "모퉁이",
+          "lemma": "모퉁이",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "street corner",
+          "gram": "base form",
+          "span": [
+            16,
+            19
+          ],
+          "reading": "motungi"
+        },
+        {
+          "t": "쪽을",
+          "lemma": "쪽",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "side, direction, way",
+          "gram": "object particle",
+          "span": [
+            20,
+            22
+          ],
+          "reading": "jjogeul"
+        },
+        {
+          "t": "계속",
+          "lemma": "계속",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "continuously, keep on",
+          "gram": "base form",
+          "span": [
+            23,
+            25
+          ],
+          "reading": "gyesok"
+        },
+        {
+          "t": "보세요",
+          "lemma": "보다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to see, to look at",
+          "gram": "polite honorific / request ('please ...')",
+          "span": [
+            26,
+            29
+          ],
+          "reading": "boseyo"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "Three years was too long a time, Mina. I should have phoned two winters ago.",
+      "words": [
+        {
+          "t": "삼",
+          "lemma": "삼",
+          "pos": "num",
+          "stress": null,
+          "gloss": "three (Sino-Korean)",
+          "gram": "base form",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "sam"
+        },
+        {
+          "t": "년은",
+          "lemma": "년",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "year (counter)",
+          "gram": "topic particle",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "nyeoneun"
+        },
+        {
+          "t": "너무",
+          "lemma": "너무",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "too, so very",
+          "gram": "base form",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "neomu"
+        },
+        {
+          "t": "긴",
+          "lemma": "길다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be long",
+          "gram": "past/descriptive adnominal modifier",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "gin"
+        },
+        {
+          "t": "시간이었어요",
+          "lemma": "시간",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "time",
+          "gram": "past polite copula ('was/were')",
+          "span": [
+            10,
+            16
+          ],
+          "reading": "siganieosseoyo"
+        },
+        {
+          "t": "미나",
+          "lemma": "미나",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mina",
+          "gram": "proper name",
+          "span": [
+            18,
+            20
+          ],
+          "reading": "mina"
+        },
+        {
+          "t": "씨",
+          "lemma": "씨",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Mr / Ms (polite name suffix)",
+          "gram": "base form",
+          "span": [
+            21,
+            22
+          ],
+          "reading": "ssi"
+        },
+        {
+          "t": "재작년",
+          "lemma": "재작년",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "the year before last",
+          "gram": "base form",
+          "span": [
+            24,
+            27
+          ],
+          "reading": "jaejangnyeon"
+        },
+        {
+          "t": "겨울에",
+          "lemma": "겨울",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "winter",
+          "gram": "location/time particle",
+          "span": [
+            28,
+            31
+          ],
+          "reading": "gyeoure"
+        },
+        {
+          "t": "전화했어야",
+          "lemma": "전화하다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to phone, to make a phone call",
+          "gram": "past counterfactual obligation ('should have')",
+          "span": [
+            32,
+            37
+          ],
+          "reading": "jeonhwahaesseoya"
+        },
+        {
+          "t": "했는데",
+          "lemma": "하다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to do, to make",
+          "gram": "past background ('did, and/but')",
+          "span": [
+            38,
+            41
+          ],
+          "reading": "haenneunde"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "Hold still, both of you. Do you hear a car engine stopping beside the pavement?",
+      "words": [
+        {
+          "t": "두",
+          "lemma": "두",
+          "pos": "num",
+          "stress": null,
+          "gloss": "two",
+          "gram": "base form",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "du"
+        },
+        {
+          "t": "분",
+          "lemma": "분",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "minute (counter)",
+          "gram": "base form",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "bun"
+        },
+        {
+          "t": "다",
+          "lemma": "다",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "all, completely",
+          "gram": "base form",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "da"
+        },
+        {
+          "t": "가만히",
+          "lemma": "가만히",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "still, quietly without moving",
+          "gram": "base form",
+          "span": [
+            6,
+            9
+          ],
+          "reading": "gamanhi"
+        },
+        {
+          "t": "계셔",
+          "lemma": "계시다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to be, to stay (honorific)",
+          "gram": "infinitive / casual present",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "gyesyeo"
+        },
+        {
+          "t": "보세요",
+          "lemma": "보다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to see, to look at",
+          "gram": "polite honorific / request ('please ...')",
+          "span": [
+            13,
+            16
+          ],
+          "reading": "boseyo"
+        },
+        {
+          "t": "보도",
+          "lemma": "보도",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "pavement, sidewalk",
+          "gram": "base form",
+          "span": [
+            18,
+            20
+          ],
+          "reading": "bodo"
+        },
+        {
+          "t": "옆에",
+          "lemma": "옆",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "side, beside, next to",
+          "gram": "location/time particle",
+          "span": [
+            21,
+            23
+          ],
+          "reading": "yeope"
+        },
+        {
+          "t": "차",
+          "lemma": "차",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "tea",
+          "gram": "base form",
+          "span": [
+            24,
+            25
+          ],
+          "reading": "cha"
+        },
+        {
+          "t": "엔진",
+          "lemma": "엔진",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "engine",
+          "gram": "base form",
+          "span": [
+            26,
+            28
+          ],
+          "reading": "enjin"
+        },
+        {
+          "t": "멈추는",
+          "lemma": "멈추다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to stop, to halt",
+          "gram": "present adnominal modifier",
+          "span": [
+            29,
+            32
+          ],
+          "reading": "meomchuneun"
+        },
+        {
+          "t": "소리",
+          "lemma": "소리",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "sound, noise",
+          "gram": "base form",
+          "span": [
+            33,
+            35
+          ],
+          "reading": "sori"
+        },
+        {
+          "t": "들려요",
+          "lemma": "들리다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to be heard, to be audible",
+          "gram": "polite present",
+          "span": [
+            36,
+            39
+          ],
+          "reading": "deullyeoyo"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "A yellow taxi just stopped right in front of the iron gate!",
+      "words": [
+        {
+          "t": "철대문",
+          "lemma": "철대문",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "iron gate",
+          "gram": "base form",
+          "span": [
+            0,
+            3
+          ],
+          "reading": "cheoldaemun"
+        },
+        {
+          "t": "바로",
+          "lemma": "바로",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "right, immediately, straight",
+          "gram": "base form",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "baro"
+        },
+        {
+          "t": "앞에",
+          "lemma": "앞",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "front, in front of",
+          "gram": "location/time particle",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "ape"
+        },
+        {
+          "t": "노란",
+          "lemma": "노랗다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be yellow",
+          "gram": "past/descriptive adnominal modifier",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "noran"
+        },
+        {
+          "t": "택시가",
+          "lemma": "택시",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "taxi",
+          "gram": "subject particle",
+          "span": [
+            13,
+            16
+          ],
+          "reading": "taeksiga"
+        },
+        {
+          "t": "섰어요",
+          "lemma": "서다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to stand, to come to a stop",
+          "gram": "polite past",
+          "span": [
+            17,
+            20
+          ],
+          "reading": "seosseoyo"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "My hands are shaking... did a tall man wearing a dark-grey coat step out?",
+      "words": [
+        {
+          "t": "손이",
+          "lemma": "손",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "hand",
+          "gram": "subject particle",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "soni"
+        },
+        {
+          "t": "떨려요",
+          "lemma": "떨리다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to tremble, to shake (from nerves/cold)",
+          "gram": "polite present",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "tteollyeoyo"
+        },
+        {
+          "t": "진회색",
+          "lemma": "진회색",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "dark grey, charcoal grey",
+          "gram": "base form",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "jinhoesaek"
+        },
+        {
+          "t": "코트를",
+          "lemma": "코트",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "coat",
+          "gram": "object particle",
+          "span": [
+            14,
+            17
+          ],
+          "reading": "koteureul"
+        },
+        {
+          "t": "입은",
+          "lemma": "입다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to wear, to put on (clothes)",
+          "gram": "past adnominal ('wearing')",
+          "span": [
+            18,
+            20
+          ],
+          "reading": "ibeun"
+        },
+        {
+          "t": "키",
+          "lemma": "키",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "stature, height (of a person)",
+          "gram": "base form",
+          "span": [
+            21,
+            22
+          ],
+          "reading": "ki"
+        },
+        {
+          "t": "큰",
+          "lemma": "크다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be big, to be loud, to be tall (with 키)",
+          "gram": "past/descriptive adnominal modifier",
+          "span": [
+            23,
+            24
+          ],
+          "reading": "keun"
+        },
+        {
+          "t": "남자가",
+          "lemma": "남자",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "man",
+          "gram": "subject particle",
+          "span": [
+            25,
+            28
+          ],
+          "reading": "namjaga"
+        },
+        {
+          "t": "내렸어요",
+          "lemma": "내리다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to lower, to get off",
+          "gram": "polite past",
+          "span": [
+            29,
+            33
+          ],
+          "reading": "naeryeosseoyo"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "He is tall and wearing a dark-grey coat! Right now he is looking up at our guesthouse sign!",
+      "words": [
+        {
+          "t": "키가",
+          "lemma": "키",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "stature, height (of a person)",
+          "gram": "subject particle",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "kiga"
+        },
+        {
+          "t": "크고",
+          "lemma": "크다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be big, to be loud, to be tall (with 키)",
+          "gram": "connective ('and / -ing')",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "keugo"
+        },
+        {
+          "t": "진회색",
+          "lemma": "진회색",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "dark grey, charcoal grey",
+          "gram": "base form",
+          "span": [
+            6,
+            9
+          ],
+          "reading": "jinhoesaek"
+        },
+        {
+          "t": "코트를",
+          "lemma": "코트",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "coat",
+          "gram": "object particle",
+          "span": [
+            10,
+            13
+          ],
+          "reading": "koteureul"
+        },
+        {
+          "t": "입었어요",
+          "lemma": "입다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to wear, to put on (clothes)",
+          "gram": "polite past",
+          "span": [
+            14,
+            18
+          ],
+          "reading": "ibeosseoyo"
+        },
+        {
+          "t": "지금",
+          "lemma": "지금",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "now, the present moment",
+          "gram": "base form",
+          "span": [
+            20,
+            22
+          ],
+          "reading": "jigeum"
+        },
+        {
+          "t": "우리",
+          "lemma": "우리",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we, us, our",
+          "gram": "base form",
+          "span": [
+            23,
+            25
+          ],
+          "reading": "uri"
+        },
+        {
+          "t": "게스트하우스",
+          "lemma": "게스트하우스",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "guesthouse",
+          "gram": "base form",
+          "span": [
+            26,
+            32
+          ],
+          "reading": "geseuteuhauseu"
+        },
+        {
+          "t": "간판을",
+          "lemma": "간판",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "signboard, shop sign",
+          "gram": "object particle",
+          "span": [
+            33,
+            36
+          ],
+          "reading": "ganpaneul"
+        },
+        {
+          "t": "올려다보고",
+          "lemma": "올려다보다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to look up at",
+          "gram": "connective ('and / -ing')",
+          "span": [
+            37,
+            42
+          ],
+          "reading": "ollyeodabogo"
+        },
+        {
+          "t": "있어요",
+          "lemma": "있다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to exist, to be (at a place)",
+          "gram": "polite present",
+          "span": [
+            43,
+            46
+          ],
+          "reading": "isseoyo"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "The gate bell rang. One firm ring.",
+      "words": [
+        {
+          "t": "대문",
+          "lemma": "대문",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "main gate, courtyard gate",
+          "gram": "base form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "daemun"
+        },
+        {
+          "t": "종이",
+          "lemma": "종이",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "paper, sheet of paper",
+          "gram": "base form",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "jongi"
+        },
+        {
+          "t": "울렸어요",
+          "lemma": "울리다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to ring, to chime, to echo",
+          "gram": "polite past",
+          "span": [
+            6,
+            10
+          ],
+          "reading": "ullyeosseoyo"
+        },
+        {
+          "t": "단호하게",
+          "lemma": "단호하다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be firm, resolute",
+          "gram": "adverbial / resultative (-ly / so that)",
+          "span": [
+            12,
+            16
+          ],
+          "reading": "danhohage"
+        },
+        {
+          "t": "한",
+          "lemma": "한",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one, a single",
+          "gram": "base form",
+          "span": [
+            17,
+            18
+          ],
+          "reading": "han"
+        },
+        {
+          "t": "번이네요",
+          "lemma": "번",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "time, occurrence",
+          "gram": "exclamatory copula",
+          "span": [
+            19,
+            23
+          ],
+          "reading": "beonineyo"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "Straighten your shoulders, Mr Jihoon. Remember your three short sentences. I will open the gate!",
+      "words": [
+        {
+          "t": "어깨",
+          "lemma": "어깨",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "shoulder",
+          "gram": "base form",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "eokkae"
+        },
+        {
+          "t": "펴세요",
+          "lemma": "펴다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to unfold, to straighten, to spread",
+          "gram": "polite honorific / request ('please ...')",
+          "span": [
+            3,
+            6
+          ],
+          "reading": "pyeoseyo"
+        },
+        {
+          "t": "지훈",
+          "lemma": "지훈",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Jihoon",
+          "gram": "proper name",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "jihun"
+        },
+        {
+          "t": "님",
+          "lemma": "님",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Mr (polite honorific)",
+          "gram": "base form",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "nim"
+        },
+        {
+          "t": "짧은",
+          "lemma": "짧다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be short, to be brief",
+          "gram": "past/descriptive adnominal modifier",
+          "span": [
+            14,
+            16
+          ],
+          "reading": "jjalbeun"
+        },
+        {
+          "t": "문장",
+          "lemma": "문장",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "sentence",
+          "gram": "base form",
+          "span": [
+            17,
+            19
+          ],
+          "reading": "munjang"
+        },
+        {
+          "t": "세",
+          "lemma": "세",
+          "pos": "num",
+          "stress": null,
+          "gloss": "three",
+          "gram": "pre-noun numeral ('three')",
+          "span": [
+            20,
+            21
+          ],
+          "reading": "se"
+        },
+        {
+          "t": "개",
+          "lemma": "개",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "item, piece (general counter)",
+          "gram": "base form",
+          "span": [
+            22,
+            23
+          ],
+          "reading": "gae"
+        },
+        {
+          "t": "꼭",
+          "lemma": "꼭",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "surely, without fail, tightly",
+          "gram": "base form",
+          "span": [
+            24,
+            25
+          ],
+          "reading": "kkok"
+        },
+        {
+          "t": "기억하세요",
+          "lemma": "기억하다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to remember",
+          "gram": "polite honorific / request ('please ...')",
+          "span": [
+            26,
+            31
+          ],
+          "reading": "gieokaseyo"
+        },
+        {
+          "t": "제가",
+          "lemma": "저",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I, me (humble)",
+          "gram": "humble subject ('I')",
+          "span": [
+            33,
+            35
+          ],
+          "reading": "jega"
+        },
+        {
+          "t": "대문을",
+          "lemma": "대문",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "main gate, courtyard gate",
+          "gram": "object particle",
+          "span": [
+            36,
+            39
+          ],
+          "reading": "daemuneul"
+        },
+        {
+          "t": "열게요",
+          "lemma": "열다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to open, to unlock",
+          "gram": "polite promise/volitional ('I will')",
+          "span": [
+            40,
+            43
+          ],
+          "reading": "yeolgeyo"
+        }
+      ]
+    },
+    {
+      "seg": 52,
       "trans": "See you next time!",
       "words": [
         {

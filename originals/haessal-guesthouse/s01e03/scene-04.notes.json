@@ -1382,38 +1382,6 @@
     },
     {
       "seg": 16,
-      "trans": "please come inside",
-      "words": [
-        {
-          "t": "안으로",
-          "lemma": "안",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "inside, interior",
-          "gram": "direction / means particle",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "aneuro"
-        },
-        {
-          "t": "들어오세요",
-          "lemma": "들어오다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to come in, to enter",
-          "gram": "polite honorific / request ('please ...')",
-          "span": [
-            4,
-            9
-          ],
-          "reading": "deureooseyo"
-        }
-      ]
-    },
-    {
-      "seg": 18,
       "trans": "Good evening. Sorry for dripping rainwater on your clean floor.",
       "words": [
         {
@@ -1497,21 +1465,144 @@
       ]
     },
     {
-      "seg": 20,
-      "trans": "rainwater",
+      "seg": 18,
+      "trans": "Not a problem at all! You must be Mr Jihoon, right?",
       "words": [
         {
-          "t": "빗물을",
-          "lemma": "빗물",
-          "pos": "noun",
+          "t": "전혀",
+          "lemma": "전혀",
+          "pos": "adv",
           "stress": null,
-          "gloss": "rainwater",
-          "gram": "object particle",
+          "gloss": "not at all",
+          "gram": "base form",
           "span": [
             0,
-            3
+            2
           ],
-          "reading": "binmureul"
+          "reading": "jeonhyeo"
+        },
+        {
+          "t": "괜찮아요",
+          "lemma": "괜찮다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be okay, to be fine, to be all right",
+          "gram": "polite present",
+          "span": [
+            3,
+            7
+          ],
+          "reading": "gwaenchanayo"
+        },
+        {
+          "t": "지훈",
+          "lemma": "지훈",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Jihoon",
+          "gram": "proper name",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "jihun"
+        },
+        {
+          "t": "님이시죠",
+          "lemma": "님",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Mr (polite honorific)",
+          "gram": "honorific confirmative copula",
+          "span": [
+            12,
+            16
+          ],
+          "reading": "nimisijyo"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "Yes, I am Jihoon. Yesterday I booked Room 7 by phone.",
+      "words": [
+        {
+          "t": "네",
+          "lemma": "네",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "yes",
+          "gram": "base form",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ne"
+        },
+        {
+          "t": "지훈입니다",
+          "lemma": "지훈",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Jihoon",
+          "gram": "formal polite copula",
+          "span": [
+            3,
+            8
+          ],
+          "reading": "jihunimnida"
+        },
+        {
+          "t": "어제",
+          "lemma": "어제",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "yesterday",
+          "gram": "base form",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "eoje"
+        },
+        {
+          "t": "전화로",
+          "lemma": "전화",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "telephone, phone call",
+          "gram": "direction / means particle",
+          "span": [
+            13,
+            16
+          ],
+          "reading": "jeonhwaro"
+        },
+        {
+          "t": "칠호실을",
+          "lemma": "칠호실",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Room 7",
+          "gram": "object particle",
+          "span": [
+            17,
+            21
+          ],
+          "reading": "chilhosireul"
+        },
+        {
+          "t": "예약했어요",
+          "lemma": "예약하다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to reserve, to book",
+          "gram": "polite past",
+          "span": [
+            22,
+            27
+          ],
+          "reading": "yeyakaesseoyo"
         }
       ]
     },
@@ -1653,33 +1744,124 @@
     },
     {
       "seg": 24,
-      "trans": "dry",
+      "trans": "Warm soup? Coming from that cold train platform, that is truly welcome.",
       "words": [
         {
-          "t": "마른",
-          "lemma": "마르다",
-          "pos": "verb",
+          "t": "따뜻한",
+          "lemma": "따뜻하다",
+          "pos": "adj",
           "stress": null,
-          "gloss": "to dry, to become dry",
+          "gloss": "to be warm",
           "gram": "past/descriptive adnominal modifier",
           "span": [
             0,
-            2
+            3
           ],
-          "reading": "mareun"
+          "reading": "ttatteutan"
         },
         {
-          "t": "수건하고",
-          "lemma": "수건",
+          "t": "수프요",
+          "lemma": "수프",
           "pos": "noun",
           "stress": null,
-          "gloss": "towel",
-          "gram": "and / with (conversational)",
+          "gloss": "soup",
+          "gram": "polite sentence fragment (-요)",
           "span": [
-            3,
+            4,
             7
           ],
-          "reading": "sugeonhago"
+          "reading": "supeuyo"
+        },
+        {
+          "t": "추운",
+          "lemma": "춥다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be chilly, cold (weather/room)",
+          "gram": "past/descriptive adnominal modifier",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "chuun"
+        },
+        {
+          "t": "기차역",
+          "lemma": "기차역",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "train station",
+          "gram": "base form",
+          "span": [
+            12,
+            15
+          ],
+          "reading": "gichayeok"
+        },
+        {
+          "t": "승강장에",
+          "lemma": "승강장",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "station platform",
+          "gram": "location/time particle",
+          "span": [
+            16,
+            20
+          ],
+          "reading": "seunggangjange"
+        },
+        {
+          "t": "있다가",
+          "lemma": "있다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to exist, to be (at a place)",
+          "gram": "interrupted/shifting action ('while doing')",
+          "span": [
+            21,
+            24
+          ],
+          "reading": "itdaga"
+        },
+        {
+          "t": "오니",
+          "lemma": "오다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to come",
+          "gram": "causal/discovery ('when coming')",
+          "span": [
+            25,
+            27
+          ],
+          "reading": "oni"
+        },
+        {
+          "t": "정말",
+          "lemma": "정말",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "really, truly",
+          "gram": "base form",
+          "span": [
+            28,
+            30
+          ],
+          "reading": "jeongmal"
+        },
+        {
+          "t": "반갑네요",
+          "lemma": "반갑다",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "to be glad to meet, to be welcome",
+          "gram": "polite exclamatory ('oh, it is!')",
+          "span": [
+            31,
+            35
+          ],
+          "reading": "bangamneyo"
         }
       ]
     },
@@ -1795,25 +1977,6 @@
     },
     {
       "seg": 28,
-      "trans": "give an apology",
-      "words": [
-        {
-          "t": "사과드릴",
-          "lemma": "사과드리다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to apologize (humble)",
-          "gram": "prospective adnominal modifier",
-          "span": [
-            0,
-            4
-          ],
-          "reading": "sagwadeuril"
-        }
-      ]
-    },
-    {
-      "seg": 30,
       "trans": "Oh? Is there some problem with my booking?",
       "words": [
         {
@@ -1897,39 +2060,130 @@
       ]
     },
     {
-      "seg": 32,
-      "trans": "is there a problem?",
+      "seg": 30,
+      "trans": "Tonight we accidentally wrote two bookings on Room 7.",
       "words": [
         {
-          "t": "문제가",
-          "lemma": "문제",
+          "t": "오늘",
+          "lemma": "오늘",
           "pos": "noun",
           "stress": null,
-          "gloss": "problem, issue, question",
-          "gram": "subject particle",
+          "gloss": "today",
+          "gram": "base form",
           "span": [
             0,
-            3
+            2
           ],
-          "reading": "munjega"
+          "reading": "oneul"
         },
         {
-          "t": "있나요",
-          "lemma": "있다",
-          "pos": "adj",
+          "t": "밤",
+          "lemma": "밤",
+          "pos": "noun",
           "stress": null,
-          "gloss": "to exist, to be (at a place)",
-          "gram": "polite soft question",
+          "gloss": "night",
+          "gram": "base form",
           "span": [
-            4,
-            7
+            3,
+            4
           ],
-          "reading": "innayo"
+          "reading": "bam"
+        },
+        {
+          "t": "저희가",
+          "lemma": "저희",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we, us, our (humble)",
+          "gram": "subject particle",
+          "span": [
+            5,
+            8
+          ],
+          "reading": "jeohuiga"
+        },
+        {
+          "t": "실수로",
+          "lemma": "실수",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "mistake, slip-up",
+          "gram": "direction / means particle",
+          "span": [
+            9,
+            12
+          ],
+          "reading": "silsuro"
+        },
+        {
+          "t": "칠호실에",
+          "lemma": "칠호실",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "Room 7",
+          "gram": "location/time particle",
+          "span": [
+            13,
+            17
+          ],
+          "reading": "chilhosire"
+        },
+        {
+          "t": "예약을",
+          "lemma": "예약",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "reservation, booking",
+          "gram": "object particle",
+          "span": [
+            18,
+            21
+          ],
+          "reading": "yeyageul"
+        },
+        {
+          "t": "두",
+          "lemma": "두",
+          "pos": "num",
+          "stress": null,
+          "gloss": "two",
+          "gram": "base form",
+          "span": [
+            22,
+            23
+          ],
+          "reading": "du"
+        },
+        {
+          "t": "개나",
+          "lemma": "개",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "item, piece (general counter)",
+          "gram": "or / as many as",
+          "span": [
+            24,
+            26
+          ],
+          "reading": "gaena"
+        },
+        {
+          "t": "적었어요",
+          "lemma": "적다",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "to write down, to jot down",
+          "gram": "polite past",
+          "span": [
+            27,
+            31
+          ],
+          "reading": "jeogeosseoyo"
         }
       ]
     },
     {
-      "seg": 34,
+      "seg": 32,
       "trans": "Ah... in rain like this? Every hotel near the station looked full.",
       "words": [
         {
@@ -2065,26 +2319,7 @@
       ]
     },
     {
-      "seg": 36,
-      "trans": "full rooms",
-      "words": [
-        {
-          "t": "만실",
-          "lemma": "만실",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "no vacancy, fully booked",
-          "gram": "base form",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "mansil"
-        }
-      ]
-    },
-    {
-      "seg": 38,
+      "seg": 34,
       "trans": "Please do not worry! Just for you, we lovingly prepared our quiet third-floor attic study.",
       "words": [
         {
@@ -2220,26 +2455,7 @@
       ]
     },
     {
-      "seg": 40,
-      "trans": "with wholehearted care",
-      "words": [
-        {
-          "t": "정성껏",
-          "lemma": "정성껏",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "with wholehearted care",
-          "gram": "base form",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "jeongseongkkeot"
-        }
-      ]
-    },
-    {
-      "seg": 42,
+      "seg": 36,
       "trans": "An attic study? May I go up and see it first?",
       "words": [
         {
@@ -2323,39 +2539,7 @@
       ]
     },
     {
-      "seg": 44,
-      "trans": "even if I look, will it be okay?",
-      "words": [
-        {
-          "t": "봐도",
-          "lemma": "보다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to see, to look at",
-          "gram": "concessive ('even if / may')",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "bwado"
-        },
-        {
-          "t": "될까요",
-          "lemma": "되다",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "to become",
-          "gram": "polite suggestion/question ('shall we / will it?')",
-          "span": [
-            3,
-            6
-          ],
-          "reading": "doelkkayo"
-        }
-      ]
-    },
-    {
-      "seg": 46,
+      "seg": 39,
       "trans": "Welcome! It is raining hard—please come inside, sir.",
       "words": [
         {
@@ -2465,7 +2649,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 40,
       "trans": "Good evening. Sorry for dripping rainwater on your clean floor.",
       "words": [
         {
@@ -2549,7 +2733,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 41,
       "trans": "Not a problem at all! You must be Mr Jihoon, right?",
       "words": [
         {
@@ -2607,7 +2791,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 42,
       "trans": "Yes, I am Jihoon. Yesterday I booked Room 7 by phone.",
       "words": [
         {
@@ -2691,7 +2875,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 43,
       "trans": "Sir, here are a dry towel for your coat and a cup of warm soup.",
       "words": [
         {
@@ -2827,7 +3011,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 44,
       "trans": "Warm soup? Coming from that cold train platform, that is truly welcome.",
       "words": [
         {
@@ -2950,7 +3134,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 45,
       "trans": "Sir, before we head upstairs, I owe you an honest apology.",
       "words": [
         {
@@ -3060,7 +3244,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 46,
       "trans": "Oh? Is there some problem with my booking?",
       "words": [
         {
@@ -3144,7 +3328,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 47,
       "trans": "Tonight we accidentally wrote two bookings on Room 7.",
       "words": [
         {
@@ -3267,7 +3451,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 48,
       "trans": "Ah... in rain like this? Every hotel near the station looked full.",
       "words": [
         {
@@ -3403,7 +3587,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 49,
       "trans": "Please do not worry! Just for you, we lovingly prepared our quiet third-floor attic study.",
       "words": [
         {
@@ -3539,7 +3723,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 50,
       "trans": "An attic study? May I go up and see it first?",
       "words": [
         {
@@ -3623,7 +3807,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 52,
       "trans": "See you again!",
       "words": [
         {

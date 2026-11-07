@@ -1688,6 +1688,142 @@
     },
     {
       "seg": 14,
+      "trans": "Nine minutes! The milk, eggs, and apples are all here!",
+      "words": [
+        {
+          "t": "九",
+          "lemma": "九",
+          "pos": "num",
+          "stress": null,
+          "gloss": "nine",
+          "gram": "numeral",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "jiǔ"
+        },
+        {
+          "t": "分钟",
+          "lemma": "分钟",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "minute (duration)",
+          "gram": "noun (uninflected)",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "fēn zhōng"
+        },
+        {
+          "t": "牛奶",
+          "lemma": "牛奶",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "milk",
+          "gram": "noun (uninflected)",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "niú nǎi"
+        },
+        {
+          "t": "鸡蛋",
+          "lemma": "鸡蛋",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "hen's egg",
+          "gram": "noun (uninflected)",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "jī dàn"
+        },
+        {
+          "t": "和",
+          "lemma": "和",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "hé"
+        },
+        {
+          "t": "苹果",
+          "lemma": "苹果",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "apple",
+          "gram": "noun (uninflected)",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "píng guǒ"
+        },
+        {
+          "t": "都",
+          "lemma": "都",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "all",
+          "gram": "adverb",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "dōu"
+        },
+        {
+          "t": "买",
+          "lemma": "买",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "buy",
+          "gram": "verb (uninflected)",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "mǎi"
+        },
+        {
+          "t": "来",
+          "lemma": "来",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "come",
+          "gram": "verb (uninflected)",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "lái"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "le"
+        }
+      ]
+    },
+    {
+      "seg": 16,
       "trans": "Qing, you are a lifesaver! Hand me the milk first to make coffee.",
       "words": [
         {
@@ -1836,26 +1972,130 @@
       ]
     },
     {
-      "seg": 16,
-      "trans": "lifesaver",
+      "seg": 18,
+      "trans": "Impressive speed! Did the shopkeeper give you a receipt?",
       "words": [
         {
-          "t": "救星",
-          "lemma": "救星",
+          "t": "速度",
+          "lemma": "速度",
           "pos": "noun",
           "stress": null,
-          "gloss": "lifesaver",
+          "gloss": "speed",
           "gram": "noun (uninflected)",
           "span": [
             0,
             2
           ],
-          "reading": "jiù xīng"
+          "reading": "sù dù"
+        },
+        {
+          "t": "真",
+          "lemma": "真",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "really",
+          "gram": "adverb",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "zhēn"
+        },
+        {
+          "t": "快",
+          "lemma": "快",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "fast",
+          "gram": "stative adjective",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "kuài"
+        },
+        {
+          "t": "店主",
+          "lemma": "店主",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "shopkeeper",
+          "gram": "noun (uninflected)",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "diàn zhú"
+        },
+        {
+          "t": "给",
+          "lemma": "给",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give",
+          "gram": "verb (uninflected)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "géi"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "nǐ"
+        },
+        {
+          "t": "收据",
+          "lemma": "收据",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "receipt",
+          "gram": "noun (uninflected)",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "shōu jù"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "吗",
+          "lemma": "吗",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes/no question particle",
+          "gram": "particle / measure word",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "ma"
         }
       ]
     },
     {
-      "seg": 18,
+      "seg": 20,
       "trans": "Right here! Thirty-eight yuan in total, with twelve yuan back in change.",
       "words": [
         {
@@ -2026,25 +2266,6 @@
             18
           ],
           "reading": "líng qián"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "altogether",
-      "words": [
-        {
-          "t": "一共",
-          "lemma": "一共",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "altogether",
-          "gram": "adverb",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "yí gòng"
         }
       ]
     },
@@ -2186,64 +2407,6 @@
     },
     {
       "seg": 24,
-      "trans": "one + minute + not + lack",
-      "words": [
-        {
-          "t": "一",
-          "lemma": "一",
-          "pos": "num",
-          "stress": null,
-          "gloss": "one",
-          "gram": "numeral",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "yì"
-        },
-        {
-          "t": "分",
-          "lemma": "分",
-          "pos": "part",
-          "stress": null,
-          "gloss": "minute",
-          "gram": "particle / measure word",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "fēn"
-        },
-        {
-          "t": "不",
-          "lemma": "不",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "not",
-          "gram": "adverb",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "bú"
-        },
-        {
-          "t": "差",
-          "lemma": "差",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "lack",
-          "gram": "verb (uninflected)",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "chà"
-        }
-      ]
-    },
-    {
-      "seg": 26,
       "trans": "Wait a second, Qing... which packet of butter did you grab?",
       "words": [
         {
@@ -2379,26 +2542,143 @@
       ]
     },
     {
-      "seg": 28,
-      "trans": "which",
+      "seg": 26,
+      "trans": "The gold-wrapped packet on the top shelf. Why?",
       "words": [
         {
-          "t": "哪",
-          "lemma": "哪",
-          "pos": "det",
+          "t": "最",
+          "lemma": "最",
+          "pos": "adv",
           "stress": null,
-          "gloss": "which",
-          "gram": "determiner",
+          "gloss": "most",
+          "gram": "adverb",
           "span": [
             0,
             1
           ],
-          "reading": "nǎ"
+          "reading": "zuì"
+        },
+        {
+          "t": "上面",
+          "lemma": "上面",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "top",
+          "gram": "noun (uninflected)",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "shàng mian"
+        },
+        {
+          "t": "架子",
+          "lemma": "架子",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "shelf",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "jià zi"
+        },
+        {
+          "t": "上",
+          "lemma": "上",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "up",
+          "gram": "verb (uninflected)",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "shàng"
+        },
+        {
+          "t": "金色",
+          "lemma": "金色",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "gold (color)",
+          "gram": "noun (uninflected)",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "jīn sè"
+        },
+        {
+          "t": "包装",
+          "lemma": "包装",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "packaging",
+          "gram": "noun (uninflected)",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "bāo zhuāng"
+        },
+        {
+          "t": "那",
+          "lemma": "那",
+          "pos": "det",
+          "stress": null,
+          "gloss": "that",
+          "gram": "determiner",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "nà"
+        },
+        {
+          "t": "包",
+          "lemma": "包",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "wrap",
+          "gram": "verb (uninflected)",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "bāo"
+        },
+        {
+          "t": "怎么",
+          "lemma": "怎么",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "how",
+          "gram": "adverb",
+          "span": [
+            13,
+            15
+          ],
+          "reading": "zěn me"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "le"
         }
       ]
     },
     {
-      "seg": 30,
+      "seg": 28,
       "trans": "That is sea-salt butter! Sweet jam rolls need unsalted butter!",
       "words": [
         {
@@ -2547,26 +2827,7 @@
       ]
     },
     {
-      "seg": 32,
-      "trans": "salty",
-      "words": [
-        {
-          "t": "咸",
-          "lemma": "咸",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "salty",
-          "gram": "stative adjective",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "xián"
-        }
-      ]
-    },
-    {
-      "seg": 34,
+      "seg": 30,
       "trans": "Oh no! I was running in such a rush that the wrappers all looked alike!",
       "words": [
         {
@@ -2715,7 +2976,117 @@
       ]
     },
     {
-      "seg": 36,
+      "seg": 32,
+      "trans": "Can salted butter go with sweet strawberry jam?",
+      "words": [
+        {
+          "t": "咸",
+          "lemma": "咸",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "salty",
+          "gram": "stative adjective",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "xián"
+        },
+        {
+          "t": "黄油",
+          "lemma": "黄油",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "butter",
+          "gram": "noun (uninflected)",
+          "span": [
+            1,
+            3
+          ],
+          "reading": "huáng yóu"
+        },
+        {
+          "t": "能",
+          "lemma": "能",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "can",
+          "gram": "verb (uninflected)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "néng"
+        },
+        {
+          "t": "配",
+          "lemma": "配",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "match",
+          "gram": "verb (uninflected)",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "pèi"
+        },
+        {
+          "t": "甜",
+          "lemma": "甜",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "sweet",
+          "gram": "stative adjective",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "tián"
+        },
+        {
+          "t": "草莓",
+          "lemma": "草莓",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "strawberry",
+          "gram": "noun (uninflected)",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "cǎo méi"
+        },
+        {
+          "t": "果酱",
+          "lemma": "果酱",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "jam",
+          "gram": "noun (uninflected)",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "guǒ jiàng"
+        },
+        {
+          "t": "吗",
+          "lemma": "吗",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes/no question particle",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ma"
+        }
+      ]
+    },
+    {
+      "seg": 34,
       "trans": "Wait—salted butter fails with jam, yet for scrambled eggs it is amazing!",
       "words": [
         {
@@ -2877,26 +3248,7 @@
       ]
     },
     {
-      "seg": 38,
-      "trans": "extremely",
-      "words": [
-        {
-          "t": "极了",
-          "lemma": "极了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "extremely",
-          "gram": "particle / measure word",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "jí le"
-        }
-      ]
-    },
-    {
-      "seg": 40,
+      "seg": 36,
       "trans": "Phew, quick thinking saves breakfast once again!",
       "words": [
         {
@@ -3019,39 +3371,7 @@
       ]
     },
     {
-      "seg": 42,
-      "trans": "have + save",
-      "words": [
-        {
-          "t": "有",
-          "lemma": "有",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "have",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "yǒu"
-        },
-        {
-          "t": "救",
-          "lemma": "救",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "save",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "jiù"
-        }
-      ]
-    },
-    {
-      "seg": 44,
+      "seg": 39,
       "trans": "Nine minutes! The milk, eggs, and apples are all here!",
       "words": [
         {
@@ -3187,7 +3507,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 40,
       "trans": "Qing, you are a lifesaver! Hand me the milk first to make coffee.",
       "words": [
         {
@@ -3336,7 +3656,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 41,
       "trans": "Impressive speed! Did the shopkeeper give you a receipt?",
       "words": [
         {
@@ -3459,7 +3779,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 42,
       "trans": "Right here! Thirty-eight yuan in total, with twelve yuan back in change.",
       "words": [
         {
@@ -3634,7 +3954,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 43,
       "trans": "Ten, eleven, twelve. Exact to the last cent—thank you!",
       "words": [
         {
@@ -3770,7 +4090,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 44,
       "trans": "Wait a second, Qing... which packet of butter did you grab?",
       "words": [
         {
@@ -3906,7 +4226,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 45,
       "trans": "The gold-wrapped packet on the top shelf. Why?",
       "words": [
         {
@@ -4042,7 +4362,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 46,
       "trans": "That is sea-salt butter! Sweet jam rolls need unsalted butter!",
       "words": [
         {
@@ -4191,7 +4511,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 47,
       "trans": "Oh no! I was running in such a rush that the wrappers all looked alike!",
       "words": [
         {
@@ -4340,7 +4660,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 48,
       "trans": "Can salted butter go with sweet strawberry jam?",
       "words": [
         {
@@ -4450,7 +4770,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 49,
       "trans": "Wait—salted butter fails with jam, yet for scrambled eggs it is amazing!",
       "words": [
         {
@@ -4612,7 +4932,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 50,
       "trans": "Phew, quick thinking saves breakfast once again!",
       "words": [
         {
@@ -4735,7 +5055,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 52,
       "trans": "See you next time!",
       "words": [
         {

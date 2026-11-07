@@ -30,6 +30,23 @@ def log(*a):
     print(time.strftime("%H:%M:%S"), *a, file=sys.stderr, flush=True)
 
 
+def _make_ru_engine(settings, voices, log):
+    ru = config.ru_engine(settings)
+    if ru and ru.get("engine") in ("qwen", "qwen-lora"):
+        from tts import QwenEngine
+        s_ru = json.loads(json.dumps(settings))
+        s_ru["lora"]["enabled"] = bool(ru.get("lora", ru.get("engine") == "qwen-lora"))
+        if ru.get("loraTag"):
+            s_ru["lora"]["tag"] = ru["loraTag"]
+        if "temperature" in ru:
+            s_ru["tts"]["temperature"] = float(ru["temperature"])
+        if "repetition_penalty" in ru:
+            s_ru["tts"]["repetition_penalty"] = float(ru["repetition_penalty"])
+        return QwenEngine(s_ru, voices, log=log)
+    from espeech import EspeechEngine
+    return EspeechEngine(settings, voices, log=log)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("stage", choices=["missing", "synth", "synth-ru", "synth-en", "synth-ar", "retake", "finish", "clips", "forms"])
@@ -120,8 +137,7 @@ def main():
                     from chatterbox_ar import ChatterboxArEngine
                     return ChatterboxArEngine(settings, voices, log=log)
                 if lang == "ru" and ru:
-                    from espeech import EspeechEngine
-                    return EspeechEngine(settings, voices, log=log)
+                    return _make_ru_engine(settings, voices, log)
                 if lang == "en" and en:
                     from f5en import F5EnEngine
                     return F5EnEngine(settings, voices, log=log)
@@ -181,8 +197,7 @@ def main():
                     from chatterbox_ar import ChatterboxArEngine
                     return ChatterboxArEngine(settings, voices, log=log)
                 if lang == "ru" and ru:
-                    from espeech import EspeechEngine
-                    return EspeechEngine(settings, voices, log=log)
+                    return _make_ru_engine(settings, voices, log)
                 if lang == "en" and en:
                     from f5en import F5EnEngine
                     return F5EnEngine(settings, voices, log=log)

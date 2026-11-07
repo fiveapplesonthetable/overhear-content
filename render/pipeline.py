@@ -403,6 +403,8 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
             f"{venv or config.VENV_QWEN}/bin/python", "-I", str(HERE / "stage.py"), stage,
             "--scenes", sids_csv, "--content", str(args.content), "--store", str(args.store),
         ]
+        if getattr(args, "root", None):
+            cmd += ["--root", args.root]
         if args.settings:
             cmd += ["--settings", args.settings]
         return cmd
@@ -422,7 +424,10 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
                 settle()
                 continue
             t = time.time()
-            ru, en = bool(config.ru_engine(settings)), bool(config.en_engine(settings))
+            ru_cfg = config.ru_engine(settings)
+            ru, en = bool(ru_cfg), bool(config.en_engine(settings))
+            ru_qwen = bool(ru_cfg and ru_cfg.get("engine") in ("qwen", "qwen-lora"))
+            ru_venv = config.VENV_QWEN if ru_qwen else config.VENV_F5
             if phase == 1:
                 batch_sids = [sid]
                 while len(batch_sids) < scenes_per_synth and not stop.is_set():
@@ -435,7 +440,7 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
                         break
                     batch_sids.append(sid2)
                 sids_csv = ",".join(batch_sids)
-                steps = ([("synth-ru", gpu["ruMiB"], config.VENV_F5)] if ru else []) + \
+                steps = ([("synth-ru", gpu["ruMiB"], ru_venv)] if ru else []) + \
                         ([("synth-en", gpu["enMiB"], config.VENV_F5)] if en else []) + \
                         ([("synth-ar", gpu.get("arMiB", gpu["ttsMiB"]), config.VENV_AR)] if config.ar_engine(settings) else []) + \
                         [("synth", gpu["ttsMiB"], None)]
@@ -477,8 +482,10 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
                     qb.put((bsid, False))
                 continue
             else:
-                f5 = ru or en
-                tag, r = run_stage(stage_cmd(args, settings, "retake", sid, max(gpu["ruMiB"], gpu["enMiB"]) if f5 else gpu["ttsMiB"],
+                ru_f5 = bool(ru_cfg and not ru_qwen)
+                f5 = ru_f5 or en
+                retake_mib = max(gpu["ruMiB"] if ru else 0, gpu["enMiB"] if en else 0, gpu["ttsMiB"] if not f5 else 0)
+                tag, r = run_stage(stage_cmd(args, settings, "retake", sid, retake_mib,
                                              ["--keys", ",".join(payload)], venv=config.VENV_F5 if f5 else None))
                 key = "retake"
             if tag != "OK":

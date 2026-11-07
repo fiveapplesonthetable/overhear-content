@@ -1746,117 +1746,169 @@
     },
     {
       "seg": 16,
-      "trans": "suggestion / soft-assumption particle",
+      "trans": "Hello, Mei, nice to meet you! Something smells wonderful!",
       "words": [
         {
-          "t": "吧",
-          "lemma": "吧",
-          "pos": "part",
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
           "stress": null,
-          "gloss": "suggestion / soft-assumption particle",
-          "gram": "particle / measure word",
+          "gloss": "you (singular)",
+          "gram": "pronoun",
           "span": [
             0,
             1
           ],
-          "reading": "ba"
+          "reading": "ní"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "小美",
+          "lemma": "小美",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mei (Xiaomei, courtyard café baker)",
+          "gram": "proper name",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "xiáo měi"
+        },
+        {
+          "t": "很",
+          "lemma": "很",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "very",
+          "gram": "adverb",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "hěn"
+        },
+        {
+          "t": "高兴",
+          "lemma": "高兴",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "glad",
+          "gram": "stative adjective",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "gāo xìng"
+        },
+        {
+          "t": "认识",
+          "lemma": "认识",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "know",
+          "gram": "verb (uninflected)",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "rèn shi"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "nǐ"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "香",
+          "lemma": "香",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "fragrant",
+          "gram": "stative adjective",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "xiāng"
+        },
+        {
+          "t": "啊",
+          "lemma": "啊",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "ah!",
+          "gram": "interjection",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "a"
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "Hello, Mei, nice to meet you! Something smells wonderful!",
+      "trans": "Freshly baked bread rolls! Take one while it is hot.",
       "words": [
         {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
+          "t": "刚",
+          "lemma": "刚",
+          "pos": "adv",
           "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
+          "gloss": "just",
+          "gram": "adverb",
           "span": [
             0,
             1
           ],
-          "reading": "ní"
+          "reading": "gāng"
         },
         {
-          "t": "好",
-          "lemma": "好",
-          "pos": "adj",
+          "t": "烤",
+          "lemma": "烤",
+          "pos": "verb",
           "stress": null,
-          "gloss": "good",
-          "gram": "stative adjective",
+          "gloss": "bake",
+          "gram": "verb (uninflected)",
           "span": [
             1,
             2
           ],
-          "reading": "hǎo"
-        },
-        {
-          "t": "小美",
-          "lemma": "小美",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mei (Xiaomei, courtyard café baker)",
-          "gram": "proper name",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "xiáo měi"
-        },
-        {
-          "t": "很",
-          "lemma": "很",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "very",
-          "gram": "adverb",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "hěn"
-        },
-        {
-          "t": "高兴",
-          "lemma": "高兴",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "glad",
-          "gram": "stative adjective",
-          "span": [
-            7,
-            9
-          ],
-          "reading": "gāo xìng"
-        },
-        {
-          "t": "认识",
-          "lemma": "认识",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "know",
-          "gram": "verb (uninflected)",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "rèn shi"
-        },
-        {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "nǐ"
+          "reading": "káo"
         },
         {
           "t": "好",
@@ -1866,1521 +1918,106 @@
           "gloss": "good",
           "gram": "stative adjective",
           "span": [
-            13,
-            14
+            2,
+            3
           ],
           "reading": "hǎo"
         },
         {
-          "t": "香",
-          "lemma": "香",
-          "pos": "adj",
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
           "stress": null,
-          "gloss": "fragrant",
-          "gram": "stative adjective",
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
           "span": [
-            14,
-            15
+            3,
+            4
           ],
-          "reading": "xiāng"
+          "reading": "de"
         },
         {
-          "t": "啊",
-          "lemma": "啊",
-          "pos": "interj",
+          "t": "面包卷",
+          "lemma": "面包卷",
+          "pos": "noun",
           "stress": null,
-          "gloss": "ah!",
-          "gram": "interjection",
+          "gloss": "bread roll",
+          "gram": "noun (uninflected)",
           "span": [
-            15,
-            16
+            4,
+            7
           ],
-          "reading": "a"
+          "reading": "miàn bāo juǎn"
+        },
+        {
+          "t": "趁热",
+          "lemma": "趁热",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "while it's hot",
+          "gram": "adverb",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "chèn rè"
+        },
+        {
+          "t": "拿",
+          "lemma": "拿",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "take",
+          "gram": "verb (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ná"
+        },
+        {
+          "t": "一",
+          "lemma": "一",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one",
+          "gram": "numeral",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "yí"
+        },
+        {
+          "t": "个",
+          "lemma": "个",
+          "pos": "part",
+          "stress": null,
+          "gloss": "general measure word",
+          "gram": "measure word (classifier)",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "gè"
+        },
+        {
+          "t": "吧",
+          "lemma": "吧",
+          "pos": "part",
+          "stress": null,
+          "gloss": "suggestion / soft-assumption particle",
+          "gram": "particle / measure word",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ba"
         }
       ]
     },
     {
       "seg": 20,
-      "trans": "fragrant",
-      "words": [
-        {
-          "t": "香",
-          "lemma": "香",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "fragrant",
-          "gram": "stative adjective",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "xiāng"
-        }
-      ]
-    },
-    {
-      "seg": 22,
-      "trans": "Freshly baked bread rolls! Take one while it is hot.",
-      "words": [
-        {
-          "t": "刚",
-          "lemma": "刚",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "just",
-          "gram": "adverb",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "gāng"
-        },
-        {
-          "t": "烤",
-          "lemma": "烤",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "bake",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "káo"
-        },
-        {
-          "t": "好",
-          "lemma": "好",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "good",
-          "gram": "stative adjective",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "hǎo"
-        },
-        {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
-          "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "面包卷",
-          "lemma": "面包卷",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "bread roll",
-          "gram": "noun (uninflected)",
-          "span": [
-            4,
-            7
-          ],
-          "reading": "miàn bāo juǎn"
-        },
-        {
-          "t": "趁热",
-          "lemma": "趁热",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "while it's hot",
-          "gram": "adverb",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "chèn rè"
-        },
-        {
-          "t": "拿",
-          "lemma": "拿",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "take",
-          "gram": "verb (uninflected)",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "ná"
-        },
-        {
-          "t": "一",
-          "lemma": "一",
-          "pos": "num",
-          "stress": null,
-          "gloss": "one",
-          "gram": "numeral",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "yí"
-        },
-        {
-          "t": "个",
-          "lemma": "个",
-          "pos": "part",
-          "stress": null,
-          "gloss": "general measure word",
-          "gram": "measure word (classifier)",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "gè"
-        },
-        {
-          "t": "吧",
-          "lemma": "吧",
-          "pos": "part",
-          "stress": null,
-          "gloss": "suggestion / soft-assumption particle",
-          "gram": "particle / measure word",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "ba"
-        }
-      ]
-    },
-    {
-      "seg": 24,
-      "trans": "while it's hot",
-      "words": [
-        {
-          "t": "趁热",
-          "lemma": "趁热",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "while it's hot",
-          "gram": "adverb",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "chèn rè"
-        }
-      ]
-    },
-    {
-      "seg": 26,
-      "trans": "With me, of course! Save the polite talk for the guests.",
-      "words": [
-        {
-          "t": "跟",
-          "lemma": "跟",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "with",
-          "gram": "preposition (coverb)",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "gēn"
-        },
-        {
-          "t": "我",
-          "lemma": "我",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "pronoun",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "wǒ"
-        },
-        {
-          "t": "当然",
-          "lemma": "当然",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "of course",
-          "gram": "adverb",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "dāng rán"
-        },
-        {
-          "t": "啦",
-          "lemma": "啦",
-          "pos": "part",
-          "stress": null,
-          "gloss": "lively final particle (了 + 啊)",
-          "gram": "particle / measure word",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "la"
-        },
-        {
-          "t": "客气",
-          "lemma": "客气",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "polite",
-          "gram": "stative adjective",
-          "span": [
-            6,
-            8
-          ],
-          "reading": "kè qi"
-        },
-        {
-          "t": "话",
-          "lemma": "话",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "words",
-          "gram": "noun (uninflected)",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "huà"
-        },
-        {
-          "t": "留",
-          "lemma": "留",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "leave behind",
-          "gram": "verb (uninflected)",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "liú"
-        },
-        {
-          "t": "给",
-          "lemma": "给",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "give",
-          "gram": "verb (uninflected)",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "gěi"
-        },
-        {
-          "t": "客人",
-          "lemma": "客人",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "guest",
-          "gram": "noun (uninflected)",
-          "span": [
-            11,
-            13
-          ],
-          "reading": "kè rén"
-        },
-        {
-          "t": "吧",
-          "lemma": "吧",
-          "pos": "part",
-          "stress": null,
-          "gloss": "suggestion / soft-assumption particle",
-          "gram": "particle / measure word",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "ba"
-        }
-      ]
-    },
-    {
-      "seg": 28,
-      "trans": "polite + words",
-      "words": [
-        {
-          "t": "客气",
-          "lemma": "客气",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "polite",
-          "gram": "stative adjective",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "kè qi"
-        },
-        {
-          "t": "话",
-          "lemma": "话",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "words",
-          "gram": "noun (uninflected)",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "huà"
-        }
-      ]
-    },
-    {
-      "seg": 30,
-      "trans": "Mei talks to everyone on this street like old friends.",
-      "words": [
-        {
-          "t": "小美",
-          "lemma": "小美",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mei (Xiaomei, courtyard café baker)",
-          "gram": "proper name",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "xiáo měi"
-        },
-        {
-          "t": "跟",
-          "lemma": "跟",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "with",
-          "gram": "preposition (coverb)",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "gēn"
-        },
-        {
-          "t": "这",
-          "lemma": "这",
-          "pos": "det",
-          "stress": null,
-          "gloss": "this",
-          "gram": "determiner",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "zhè"
-        },
-        {
-          "t": "条",
-          "lemma": "条",
-          "pos": "part",
-          "stress": null,
-          "gloss": "measure word for streets, rivers, towels, clauses",
-          "gram": "particle / measure word",
-          "span": [
-            4,
-            5
-          ],
-          "reading": "tiáo"
-        },
-        {
-          "t": "街上",
-          "lemma": "街上",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "on the street",
-          "gram": "noun (uninflected)",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "jiē shang"
-        },
-        {
-          "t": "所有",
-          "lemma": "所有",
-          "pos": "det",
-          "stress": null,
-          "gloss": "all",
-          "gram": "determiner",
-          "span": [
-            7,
-            9
-          ],
-          "reading": "suó yǒu"
-        },
-        {
-          "t": "人",
-          "lemma": "人",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "person",
-          "gram": "noun (uninflected)",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "rén"
-        },
-        {
-          "t": "说话",
-          "lemma": "说话",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "speak",
-          "gram": "verb (uninflected)",
-          "span": [
-            10,
-            12
-          ],
-          "reading": "shuō huà"
-        },
-        {
-          "t": "都",
-          "lemma": "都",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "all",
-          "gram": "adverb",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "dōu"
-        },
-        {
-          "t": "像",
-          "lemma": "像",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "resemble",
-          "gram": "verb (uninflected)",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "xiàng"
-        },
-        {
-          "t": "老",
-          "lemma": "老",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "old",
-          "gram": "stative adjective",
-          "span": [
-            14,
-            15
-          ],
-          "reading": "lǎo"
-        },
-        {
-          "t": "朋友",
-          "lemma": "朋友",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "friend",
-          "gram": "noun (uninflected)",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "péng you"
-        }
-      ]
-    },
-    {
-      "seg": 32,
-      "trans": "What was that bell sound? Somebody rang twice!",
-      "words": [
-        {
-          "t": "那",
-          "lemma": "那",
-          "pos": "det",
-          "stress": null,
-          "gloss": "that",
-          "gram": "determiner",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "nà"
-        },
-        {
-          "t": "是",
-          "lemma": "是",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be (am, is, are, was, were)",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "shì"
-        },
-        {
-          "t": "什么",
-          "lemma": "什么",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "what",
-          "gram": "pronoun",
-          "span": [
-            2,
-            4
-          ],
-          "reading": "shén me"
-        },
-        {
-          "t": "铃声",
-          "lemma": "铃声",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "ringing of a bell",
-          "gram": "noun (uninflected)",
-          "span": [
-            4,
-            6
-          ],
-          "reading": "líng shēng"
-        },
-        {
-          "t": "有",
-          "lemma": "有",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "have",
-          "gram": "verb (uninflected)",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "yǒu"
-        },
-        {
-          "t": "人",
-          "lemma": "人",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "person",
-          "gram": "noun (uninflected)",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "rén"
-        },
-        {
-          "t": "按",
-          "lemma": "按",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "press",
-          "gram": "verb (uninflected)",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "àn"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "le"
-        },
-        {
-          "t": "两",
-          "lemma": "两",
-          "pos": "num",
-          "stress": null,
-          "gloss": "two (with measure words)",
-          "gram": "numeral",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "liǎng"
-        },
-        {
-          "t": "下",
-          "lemma": "下",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "down",
-          "gram": "verb (uninflected)",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "xià"
-        }
-      ]
-    },
-    {
-      "seg": 34,
-      "trans": "two (with measure words) + down",
-      "words": [
-        {
-          "t": "两",
-          "lemma": "两",
-          "pos": "num",
-          "stress": null,
-          "gloss": "two (with measure words)",
-          "gram": "numeral",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "liǎng"
-        },
-        {
-          "t": "下",
-          "lemma": "下",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "down",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "xià"
-        }
-      ]
-    },
-    {
-      "seg": 36,
-      "trans": "Nobody is there. That is the buzzer from room four.",
-      "words": [
-        {
-          "t": "那里",
-          "lemma": "那里",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "there",
-          "gram": "pronoun",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "nà lǐ"
-        },
-        {
-          "t": "没",
-          "lemma": "没",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "not (have / did not)",
-          "gram": "adverb",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "méi"
-        },
-        {
-          "t": "人",
-          "lemma": "人",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "person",
-          "gram": "noun (uninflected)",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "rén"
-        },
-        {
-          "t": "那",
-          "lemma": "那",
-          "pos": "det",
-          "stress": null,
-          "gloss": "that",
-          "gram": "determiner",
-          "span": [
-            5,
-            6
-          ],
-          "reading": "nà"
-        },
-        {
-          "t": "是",
-          "lemma": "是",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be (am, is, are, was, were)",
-          "gram": "verb (uninflected)",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "shì"
-        },
-        {
-          "t": "四",
-          "lemma": "四",
-          "pos": "num",
-          "stress": null,
-          "gloss": "four",
-          "gram": "numeral",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "sì"
-        },
-        {
-          "t": "号",
-          "lemma": "号",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "number",
-          "gram": "noun (uninflected)",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "hào"
-        },
-        {
-          "t": "房",
-          "lemma": "房",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "room",
-          "gram": "noun (uninflected)",
-          "span": [
-            9,
-            10
-          ],
-          "reading": "fáng"
-        },
-        {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
-          "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "门铃",
-          "lemma": "门铃",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "doorbell",
-          "gram": "noun (uninflected)",
-          "span": [
-            11,
-            13
-          ],
-          "reading": "mén líng"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "not (have / did not) + person",
-      "words": [
-        {
-          "t": "没",
-          "lemma": "没",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "not (have / did not)",
-          "gram": "adverb",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "méi"
-        },
-        {
-          "t": "人",
-          "lemma": "人",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "person",
-          "gram": "noun (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "rén"
-        }
-      ]
-    },
-    {
-      "seg": 40,
-      "trans": "So the old house says hello by itself?",
-      "words": [
-        {
-          "t": "所以",
-          "lemma": "所以",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "so",
-          "gram": "conjunction",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "suó yí"
-        },
-        {
-          "t": "老",
-          "lemma": "老",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "old",
-          "gram": "stative adjective",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "lǎo"
-        },
-        {
-          "t": "房子",
-          "lemma": "房子",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "house",
-          "gram": "noun (uninflected)",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "fáng zi"
-        },
-        {
-          "t": "自己",
-          "lemma": "自己",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "oneself",
-          "gram": "pronoun",
-          "span": [
-            5,
-            7
-          ],
-          "reading": "zì jǐ"
-        },
-        {
-          "t": "会",
-          "lemma": "会",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "can (learned skill)",
-          "gram": "verb (uninflected)",
-          "span": [
-            7,
-            8
-          ],
-          "reading": "huì"
-        },
-        {
-          "t": "打招呼",
-          "lemma": "打招呼",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "say hello",
-          "gram": "verb (uninflected)",
-          "span": [
-            8,
-            11
-          ],
-          "reading": "dǎ zhāo hu"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "say hello",
-      "words": [
-        {
-          "t": "打招呼",
-          "lemma": "打招呼",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "say hello",
-          "gram": "verb (uninflected)",
-          "span": [
-            0,
-            3
-          ],
-          "reading": "dǎ zhāo hu"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "Exactly! You already fit right in here.",
-      "words": [
-        {
-          "t": "没错",
-          "lemma": "没错",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "that's right!",
-          "gram": "stative adjective",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "méi cuò"
-        },
-        {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "ní"
-        },
-        {
-          "t": "已经",
-          "lemma": "已经",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "already",
-          "gram": "adverb",
-          "span": [
-            4,
-            6
-          ],
-          "reading": "yǐ jīng"
-        },
-        {
-          "t": "很",
-          "lemma": "很",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "very",
-          "gram": "adverb",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "hěn"
-        },
-        {
-          "t": "习惯",
-          "lemma": "习惯",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "habit",
-          "gram": "noun (uninflected)",
-          "span": [
-            7,
-            9
-          ],
-          "reading": "xí guàn"
-        },
-        {
-          "t": "这儿",
-          "lemma": "这儿",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "here",
-          "gram": "pronoun",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "zhèr"
-        },
-        {
-          "t": "了",
-          "lemma": "了",
-          "pos": "part",
-          "stress": null,
-          "gloss": "completed-action / new-state particle",
-          "gram": "particle / measure word",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "le"
-        }
-      ]
-    },
-    {
-      "seg": 46,
-      "trans": "that's right!",
-      "words": [
-        {
-          "t": "没错",
-          "lemma": "没错",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "that's right!",
-          "gram": "stative adjective",
-          "span": [
-            0,
-            2
-          ],
-          "reading": "méi cuò"
-        }
-      ]
-    },
-    {
-      "seg": 48,
-      "trans": "Hello! You must be Qing, right? I am Mei from the kitchen.",
-      "words": [
-        {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "ní"
-        },
-        {
-          "t": "好",
-          "lemma": "好",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "good",
-          "gram": "stative adjective",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "hǎo"
-        },
-        {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "nǐ"
-        },
-        {
-          "t": "就是",
-          "lemma": "就是",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be precisely",
-          "gram": "verb (uninflected)",
-          "span": [
-            4,
-            6
-          ],
-          "reading": "jiù shì"
-        },
-        {
-          "t": "小晴",
-          "lemma": "小晴",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Qing (Xiaoqing, new front-desk clerk)",
-          "gram": "proper name",
-          "span": [
-            6,
-            8
-          ],
-          "reading": "xiǎo qíng"
-        },
-        {
-          "t": "吧",
-          "lemma": "吧",
-          "pos": "part",
-          "stress": null,
-          "gloss": "suggestion / soft-assumption particle",
-          "gram": "particle / measure word",
-          "span": [
-            8,
-            9
-          ],
-          "reading": "ba"
-        },
-        {
-          "t": "我",
-          "lemma": "我",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "pronoun",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "wǒ"
-        },
-        {
-          "t": "是",
-          "lemma": "是",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "be (am, is, are, was, were)",
-          "gram": "verb (uninflected)",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "shì"
-        },
-        {
-          "t": "厨房",
-          "lemma": "厨房",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "kitchen",
-          "gram": "noun (uninflected)",
-          "span": [
-            12,
-            14
-          ],
-          "reading": "chú fáng"
-        },
-        {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
-          "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
-          "span": [
-            14,
-            15
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "小美",
-          "lemma": "小美",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mei (Xiaomei, courtyard café baker)",
-          "gram": "proper name",
-          "span": [
-            15,
-            17
-          ],
-          "reading": "xiáo měi"
-        }
-      ]
-    },
-    {
-      "seg": 49,
-      "trans": "Hello, Mei, nice to meet you! Something smells wonderful!",
-      "words": [
-        {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "ní"
-        },
-        {
-          "t": "好",
-          "lemma": "好",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "good",
-          "gram": "stative adjective",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "hǎo"
-        },
-        {
-          "t": "小美",
-          "lemma": "小美",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Mei (Xiaomei, courtyard café baker)",
-          "gram": "proper name",
-          "span": [
-            3,
-            5
-          ],
-          "reading": "xiáo měi"
-        },
-        {
-          "t": "很",
-          "lemma": "很",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "very",
-          "gram": "adverb",
-          "span": [
-            6,
-            7
-          ],
-          "reading": "hěn"
-        },
-        {
-          "t": "高兴",
-          "lemma": "高兴",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "glad",
-          "gram": "stative adjective",
-          "span": [
-            7,
-            9
-          ],
-          "reading": "gāo xìng"
-        },
-        {
-          "t": "认识",
-          "lemma": "认识",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "know",
-          "gram": "verb (uninflected)",
-          "span": [
-            9,
-            11
-          ],
-          "reading": "rèn shi"
-        },
-        {
-          "t": "你",
-          "lemma": "你",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (singular)",
-          "gram": "pronoun",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "nǐ"
-        },
-        {
-          "t": "好",
-          "lemma": "好",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "good",
-          "gram": "stative adjective",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "hǎo"
-        },
-        {
-          "t": "香",
-          "lemma": "香",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "fragrant",
-          "gram": "stative adjective",
-          "span": [
-            14,
-            15
-          ],
-          "reading": "xiāng"
-        },
-        {
-          "t": "啊",
-          "lemma": "啊",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "ah!",
-          "gram": "interjection",
-          "span": [
-            15,
-            16
-          ],
-          "reading": "a"
-        }
-      ]
-    },
-    {
-      "seg": 50,
-      "trans": "Freshly baked bread rolls! Take one while it is hot.",
-      "words": [
-        {
-          "t": "刚",
-          "lemma": "刚",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "just",
-          "gram": "adverb",
-          "span": [
-            0,
-            1
-          ],
-          "reading": "gāng"
-        },
-        {
-          "t": "烤",
-          "lemma": "烤",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "bake",
-          "gram": "verb (uninflected)",
-          "span": [
-            1,
-            2
-          ],
-          "reading": "káo"
-        },
-        {
-          "t": "好",
-          "lemma": "好",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "good",
-          "gram": "stative adjective",
-          "span": [
-            2,
-            3
-          ],
-          "reading": "hǎo"
-        },
-        {
-          "t": "的",
-          "lemma": "的",
-          "pos": "part",
-          "stress": null,
-          "gloss": "possessive / descriptive particle",
-          "gram": "particle / measure word",
-          "span": [
-            3,
-            4
-          ],
-          "reading": "de"
-        },
-        {
-          "t": "面包卷",
-          "lemma": "面包卷",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "bread roll",
-          "gram": "noun (uninflected)",
-          "span": [
-            4,
-            7
-          ],
-          "reading": "miàn bāo juǎn"
-        },
-        {
-          "t": "趁热",
-          "lemma": "趁热",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "while it's hot",
-          "gram": "adverb",
-          "span": [
-            8,
-            10
-          ],
-          "reading": "chèn rè"
-        },
-        {
-          "t": "拿",
-          "lemma": "拿",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "take",
-          "gram": "verb (uninflected)",
-          "span": [
-            10,
-            11
-          ],
-          "reading": "ná"
-        },
-        {
-          "t": "一",
-          "lemma": "一",
-          "pos": "num",
-          "stress": null,
-          "gloss": "one",
-          "gram": "numeral",
-          "span": [
-            11,
-            12
-          ],
-          "reading": "yí"
-        },
-        {
-          "t": "个",
-          "lemma": "个",
-          "pos": "part",
-          "stress": null,
-          "gloss": "general measure word",
-          "gram": "measure word (classifier)",
-          "span": [
-            12,
-            13
-          ],
-          "reading": "gè"
-        },
-        {
-          "t": "吧",
-          "lemma": "吧",
-          "pos": "part",
-          "stress": null,
-          "gloss": "suggestion / soft-assumption particle",
-          "gram": "particle / measure word",
-          "span": [
-            13,
-            14
-          ],
-          "reading": "ba"
-        }
-      ]
-    },
-    {
-      "seg": 51,
       "trans": "Thank you! Do we usually just call each other by name here?",
       "words": [
         {
@@ -3490,7 +2127,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 22,
       "trans": "With me, of course! Save the polite talk for the guests.",
       "words": [
         {
@@ -3626,7 +2263,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 24,
       "trans": "Mei talks to everyone on this street like old friends.",
       "words": [
         {
@@ -3788,7 +2425,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 26,
       "trans": "Because good coffee and warm bread make people happy!",
       "words": [
         {
@@ -3924,7 +2561,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 28,
       "trans": "What was that bell sound? Somebody rang twice!",
       "words": [
         {
@@ -4060,7 +2697,7 @@
       ]
     },
     {
-      "seg": 56,
+      "seg": 30,
       "trans": "Nobody is there. That is the buzzer from room four.",
       "words": [
         {
@@ -4196,7 +2833,7 @@
       ]
     },
     {
-      "seg": 57,
+      "seg": 32,
       "trans": "Even when room four is empty, the old wire still rings twice.",
       "words": [
         {
@@ -4371,7 +3008,7 @@
       ]
     },
     {
-      "seg": 58,
+      "seg": 34,
       "trans": "So the old house says hello by itself?",
       "words": [
         {
@@ -4455,7 +3092,7 @@
       ]
     },
     {
-      "seg": 59,
+      "seg": 36,
       "trans": "Exactly! You already fit right in here.",
       "words": [
         {
@@ -4552,7 +3189,1600 @@
       ]
     },
     {
-      "seg": 61,
+      "seg": 39,
+      "trans": "Hello! You must be Qing, right? I am Mei from the kitchen.",
+      "words": [
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ní"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "nǐ"
+        },
+        {
+          "t": "就是",
+          "lemma": "就是",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be precisely",
+          "gram": "verb (uninflected)",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "jiù shì"
+        },
+        {
+          "t": "小晴",
+          "lemma": "小晴",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Qing (Xiaoqing, new front-desk clerk)",
+          "gram": "proper name",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "xiǎo qíng"
+        },
+        {
+          "t": "吧",
+          "lemma": "吧",
+          "pos": "part",
+          "stress": null,
+          "gloss": "suggestion / soft-assumption particle",
+          "gram": "particle / measure word",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "ba"
+        },
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "wǒ"
+        },
+        {
+          "t": "是",
+          "lemma": "是",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be (am, is, are, was, were)",
+          "gram": "verb (uninflected)",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "shì"
+        },
+        {
+          "t": "厨房",
+          "lemma": "厨房",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "kitchen",
+          "gram": "noun (uninflected)",
+          "span": [
+            12,
+            14
+          ],
+          "reading": "chú fáng"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "小美",
+          "lemma": "小美",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mei (Xiaomei, courtyard café baker)",
+          "gram": "proper name",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "xiáo měi"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "Hello, Mei, nice to meet you! Something smells wonderful!",
+      "words": [
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "ní"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "小美",
+          "lemma": "小美",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mei (Xiaomei, courtyard café baker)",
+          "gram": "proper name",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "xiáo měi"
+        },
+        {
+          "t": "很",
+          "lemma": "很",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "very",
+          "gram": "adverb",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "hěn"
+        },
+        {
+          "t": "高兴",
+          "lemma": "高兴",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "glad",
+          "gram": "stative adjective",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "gāo xìng"
+        },
+        {
+          "t": "认识",
+          "lemma": "认识",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "know",
+          "gram": "verb (uninflected)",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "rèn shi"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "nǐ"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "香",
+          "lemma": "香",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "fragrant",
+          "gram": "stative adjective",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "xiāng"
+        },
+        {
+          "t": "啊",
+          "lemma": "啊",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "ah!",
+          "gram": "interjection",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "a"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "Freshly baked bread rolls! Take one while it is hot.",
+      "words": [
+        {
+          "t": "刚",
+          "lemma": "刚",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "just",
+          "gram": "adverb",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "gāng"
+        },
+        {
+          "t": "烤",
+          "lemma": "烤",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "bake",
+          "gram": "verb (uninflected)",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "káo"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "面包卷",
+          "lemma": "面包卷",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "bread roll",
+          "gram": "noun (uninflected)",
+          "span": [
+            4,
+            7
+          ],
+          "reading": "miàn bāo juǎn"
+        },
+        {
+          "t": "趁热",
+          "lemma": "趁热",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "while it's hot",
+          "gram": "adverb",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "chèn rè"
+        },
+        {
+          "t": "拿",
+          "lemma": "拿",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "take",
+          "gram": "verb (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "ná"
+        },
+        {
+          "t": "一",
+          "lemma": "一",
+          "pos": "num",
+          "stress": null,
+          "gloss": "one",
+          "gram": "numeral",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "yí"
+        },
+        {
+          "t": "个",
+          "lemma": "个",
+          "pos": "part",
+          "stress": null,
+          "gloss": "general measure word",
+          "gram": "measure word (classifier)",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "gè"
+        },
+        {
+          "t": "吧",
+          "lemma": "吧",
+          "pos": "part",
+          "stress": null,
+          "gloss": "suggestion / soft-assumption particle",
+          "gram": "particle / measure word",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ba"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "Thank you! Do we usually just call each other by name here?",
+      "words": [
+        {
+          "t": "谢谢",
+          "lemma": "谢谢",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "thank you",
+          "gram": "verb (uninflected)",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "xiè xie"
+        },
+        {
+          "t": "我们",
+          "lemma": "我们",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we",
+          "gram": "pronoun",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "wǒ men"
+        },
+        {
+          "t": "平时",
+          "lemma": "平时",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "ordinarily",
+          "gram": "noun (uninflected)",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "píng shí"
+        },
+        {
+          "t": "都",
+          "lemma": "都",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "all",
+          "gram": "adverb",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "dōu"
+        },
+        {
+          "t": "直接",
+          "lemma": "直接",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "directly",
+          "gram": "adverb",
+          "span": [
+            8,
+            10
+          ],
+          "reading": "zhí jiē"
+        },
+        {
+          "t": "叫",
+          "lemma": "叫",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "call",
+          "gram": "verb (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "jiào"
+        },
+        {
+          "t": "名字",
+          "lemma": "名字",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "name (given or full name)",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "míng zi"
+        },
+        {
+          "t": "吗",
+          "lemma": "吗",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes/no question particle",
+          "gram": "particle / measure word",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ma"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "With me, of course! Save the polite talk for the guests.",
+      "words": [
+        {
+          "t": "跟",
+          "lemma": "跟",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "with",
+          "gram": "preposition (coverb)",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "gēn"
+        },
+        {
+          "t": "我",
+          "lemma": "我",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "pronoun",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "wǒ"
+        },
+        {
+          "t": "当然",
+          "lemma": "当然",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "of course",
+          "gram": "adverb",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "dāng rán"
+        },
+        {
+          "t": "啦",
+          "lemma": "啦",
+          "pos": "part",
+          "stress": null,
+          "gloss": "lively final particle (了 + 啊)",
+          "gram": "particle / measure word",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "la"
+        },
+        {
+          "t": "客气",
+          "lemma": "客气",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "polite",
+          "gram": "stative adjective",
+          "span": [
+            6,
+            8
+          ],
+          "reading": "kè qi"
+        },
+        {
+          "t": "话",
+          "lemma": "话",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "words",
+          "gram": "noun (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "huà"
+        },
+        {
+          "t": "留",
+          "lemma": "留",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "leave behind",
+          "gram": "verb (uninflected)",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "liú"
+        },
+        {
+          "t": "给",
+          "lemma": "给",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "give",
+          "gram": "verb (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "gěi"
+        },
+        {
+          "t": "客人",
+          "lemma": "客人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "guest",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "kè rén"
+        },
+        {
+          "t": "吧",
+          "lemma": "吧",
+          "pos": "part",
+          "stress": null,
+          "gloss": "suggestion / soft-assumption particle",
+          "gram": "particle / measure word",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ba"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "Mei talks to everyone on this street like old friends.",
+      "words": [
+        {
+          "t": "小美",
+          "lemma": "小美",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Mei (Xiaomei, courtyard café baker)",
+          "gram": "proper name",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "xiáo měi"
+        },
+        {
+          "t": "跟",
+          "lemma": "跟",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "with",
+          "gram": "preposition (coverb)",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "gēn"
+        },
+        {
+          "t": "这",
+          "lemma": "这",
+          "pos": "det",
+          "stress": null,
+          "gloss": "this",
+          "gram": "determiner",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "zhè"
+        },
+        {
+          "t": "条",
+          "lemma": "条",
+          "pos": "part",
+          "stress": null,
+          "gloss": "measure word for streets, rivers, towels, clauses",
+          "gram": "particle / measure word",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "tiáo"
+        },
+        {
+          "t": "街上",
+          "lemma": "街上",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "on the street",
+          "gram": "noun (uninflected)",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "jiē shang"
+        },
+        {
+          "t": "所有",
+          "lemma": "所有",
+          "pos": "det",
+          "stress": null,
+          "gloss": "all",
+          "gram": "determiner",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "suó yǒu"
+        },
+        {
+          "t": "人",
+          "lemma": "人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "person",
+          "gram": "noun (uninflected)",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "rén"
+        },
+        {
+          "t": "说话",
+          "lemma": "说话",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "speak",
+          "gram": "verb (uninflected)",
+          "span": [
+            10,
+            12
+          ],
+          "reading": "shuō huà"
+        },
+        {
+          "t": "都",
+          "lemma": "都",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "all",
+          "gram": "adverb",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "dōu"
+        },
+        {
+          "t": "像",
+          "lemma": "像",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "resemble",
+          "gram": "verb (uninflected)",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "xiàng"
+        },
+        {
+          "t": "老",
+          "lemma": "老",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "old",
+          "gram": "stative adjective",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "lǎo"
+        },
+        {
+          "t": "朋友",
+          "lemma": "朋友",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "friend",
+          "gram": "noun (uninflected)",
+          "span": [
+            15,
+            17
+          ],
+          "reading": "péng you"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "Because good coffee and warm bread make people happy!",
+      "words": [
+        {
+          "t": "因为",
+          "lemma": "因为",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "because",
+          "gram": "conjunction",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "yīn wèi"
+        },
+        {
+          "t": "好",
+          "lemma": "好",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "good",
+          "gram": "stative adjective",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "hǎo"
+        },
+        {
+          "t": "咖啡",
+          "lemma": "咖啡",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "coffee",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "kā fēi"
+        },
+        {
+          "t": "和",
+          "lemma": "和",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "hé"
+        },
+        {
+          "t": "热",
+          "lemma": "热",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "hot",
+          "gram": "stative adjective",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "rè"
+        },
+        {
+          "t": "面包",
+          "lemma": "面包",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "bread",
+          "gram": "noun (uninflected)",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "miàn bāo"
+        },
+        {
+          "t": "让",
+          "lemma": "让",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "let",
+          "gram": "verb (uninflected)",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "ràng"
+        },
+        {
+          "t": "人",
+          "lemma": "人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "person",
+          "gram": "noun (uninflected)",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "rén"
+        },
+        {
+          "t": "开心",
+          "lemma": "开心",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "happy",
+          "gram": "stative adjective",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "kāi xīn"
+        },
+        {
+          "t": "呀",
+          "lemma": "呀",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "oh!",
+          "gram": "interjection",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "ya"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "What was that bell sound? Somebody rang twice!",
+      "words": [
+        {
+          "t": "那",
+          "lemma": "那",
+          "pos": "det",
+          "stress": null,
+          "gloss": "that",
+          "gram": "determiner",
+          "span": [
+            0,
+            1
+          ],
+          "reading": "nà"
+        },
+        {
+          "t": "是",
+          "lemma": "是",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be (am, is, are, was, were)",
+          "gram": "verb (uninflected)",
+          "span": [
+            1,
+            2
+          ],
+          "reading": "shì"
+        },
+        {
+          "t": "什么",
+          "lemma": "什么",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "pronoun",
+          "span": [
+            2,
+            4
+          ],
+          "reading": "shén me"
+        },
+        {
+          "t": "铃声",
+          "lemma": "铃声",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "ringing of a bell",
+          "gram": "noun (uninflected)",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "líng shēng"
+        },
+        {
+          "t": "有",
+          "lemma": "有",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "have",
+          "gram": "verb (uninflected)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "yǒu"
+        },
+        {
+          "t": "人",
+          "lemma": "人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "person",
+          "gram": "noun (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "rén"
+        },
+        {
+          "t": "按",
+          "lemma": "按",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "press",
+          "gram": "verb (uninflected)",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "àn"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "le"
+        },
+        {
+          "t": "两",
+          "lemma": "两",
+          "pos": "num",
+          "stress": null,
+          "gloss": "two (with measure words)",
+          "gram": "numeral",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "liǎng"
+        },
+        {
+          "t": "下",
+          "lemma": "下",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "down",
+          "gram": "verb (uninflected)",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "xià"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "Nobody is there. That is the buzzer from room four.",
+      "words": [
+        {
+          "t": "那里",
+          "lemma": "那里",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "there",
+          "gram": "pronoun",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "nà lǐ"
+        },
+        {
+          "t": "没",
+          "lemma": "没",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "not (have / did not)",
+          "gram": "adverb",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "méi"
+        },
+        {
+          "t": "人",
+          "lemma": "人",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "person",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "rén"
+        },
+        {
+          "t": "那",
+          "lemma": "那",
+          "pos": "det",
+          "stress": null,
+          "gloss": "that",
+          "gram": "determiner",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "nà"
+        },
+        {
+          "t": "是",
+          "lemma": "是",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "be (am, is, are, was, were)",
+          "gram": "verb (uninflected)",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "shì"
+        },
+        {
+          "t": "四",
+          "lemma": "四",
+          "pos": "num",
+          "stress": null,
+          "gloss": "four",
+          "gram": "numeral",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "sì"
+        },
+        {
+          "t": "号",
+          "lemma": "号",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "number",
+          "gram": "noun (uninflected)",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "hào"
+        },
+        {
+          "t": "房",
+          "lemma": "房",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "room",
+          "gram": "noun (uninflected)",
+          "span": [
+            9,
+            10
+          ],
+          "reading": "fáng"
+        },
+        {
+          "t": "的",
+          "lemma": "的",
+          "pos": "part",
+          "stress": null,
+          "gloss": "possessive / descriptive particle",
+          "gram": "particle / measure word",
+          "span": [
+            10,
+            11
+          ],
+          "reading": "de"
+        },
+        {
+          "t": "门铃",
+          "lemma": "门铃",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "doorbell",
+          "gram": "noun (uninflected)",
+          "span": [
+            11,
+            13
+          ],
+          "reading": "mén líng"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "Even when room four is empty, the old wire still rings twice.",
+      "words": [
+        {
+          "t": "就算",
+          "lemma": "就算",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "even if",
+          "gram": "conjunction",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "jiù suàn"
+        },
+        {
+          "t": "四",
+          "lemma": "四",
+          "pos": "num",
+          "stress": null,
+          "gloss": "four",
+          "gram": "numeral",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "sì"
+        },
+        {
+          "t": "号",
+          "lemma": "号",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "number",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "hào"
+        },
+        {
+          "t": "房",
+          "lemma": "房",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "room",
+          "gram": "noun (uninflected)",
+          "span": [
+            4,
+            5
+          ],
+          "reading": "fáng"
+        },
+        {
+          "t": "空",
+          "lemma": "空",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "empty",
+          "gram": "stative adjective",
+          "span": [
+            5,
+            6
+          ],
+          "reading": "kōng"
+        },
+        {
+          "t": "着",
+          "lemma": "着",
+          "pos": "part",
+          "stress": null,
+          "gloss": "continuous-state aspect particle",
+          "gram": "particle / measure word",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "zhe"
+        },
+        {
+          "t": "旧",
+          "lemma": "旧",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "old (used/former, of things)",
+          "gram": "stative adjective",
+          "span": [
+            8,
+            9
+          ],
+          "reading": "jiù"
+        },
+        {
+          "t": "电线",
+          "lemma": "电线",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "electric wire",
+          "gram": "noun (uninflected)",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "diàn xiàn"
+        },
+        {
+          "t": "也",
+          "lemma": "也",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "also",
+          "gram": "adverb",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "yě"
+        },
+        {
+          "t": "会",
+          "lemma": "会",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "can (learned skill)",
+          "gram": "verb (uninflected)",
+          "span": [
+            12,
+            13
+          ],
+          "reading": "huì"
+        },
+        {
+          "t": "响",
+          "lemma": "响",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "ring",
+          "gram": "verb (uninflected)",
+          "span": [
+            13,
+            14
+          ],
+          "reading": "xiáng"
+        },
+        {
+          "t": "两",
+          "lemma": "两",
+          "pos": "num",
+          "stress": null,
+          "gloss": "two (with measure words)",
+          "gram": "numeral",
+          "span": [
+            14,
+            15
+          ],
+          "reading": "liǎng"
+        },
+        {
+          "t": "下",
+          "lemma": "下",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "down",
+          "gram": "verb (uninflected)",
+          "span": [
+            15,
+            16
+          ],
+          "reading": "xià"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "So the old house says hello by itself?",
+      "words": [
+        {
+          "t": "所以",
+          "lemma": "所以",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "so",
+          "gram": "conjunction",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "suó yí"
+        },
+        {
+          "t": "老",
+          "lemma": "老",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "old",
+          "gram": "stative adjective",
+          "span": [
+            2,
+            3
+          ],
+          "reading": "lǎo"
+        },
+        {
+          "t": "房子",
+          "lemma": "房子",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "house",
+          "gram": "noun (uninflected)",
+          "span": [
+            3,
+            5
+          ],
+          "reading": "fáng zi"
+        },
+        {
+          "t": "自己",
+          "lemma": "自己",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "oneself",
+          "gram": "pronoun",
+          "span": [
+            5,
+            7
+          ],
+          "reading": "zì jǐ"
+        },
+        {
+          "t": "会",
+          "lemma": "会",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "can (learned skill)",
+          "gram": "verb (uninflected)",
+          "span": [
+            7,
+            8
+          ],
+          "reading": "huì"
+        },
+        {
+          "t": "打招呼",
+          "lemma": "打招呼",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "say hello",
+          "gram": "verb (uninflected)",
+          "span": [
+            8,
+            11
+          ],
+          "reading": "dǎ zhāo hu"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "Exactly! You already fit right in here.",
+      "words": [
+        {
+          "t": "没错",
+          "lemma": "没错",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "that's right!",
+          "gram": "stative adjective",
+          "span": [
+            0,
+            2
+          ],
+          "reading": "méi cuò"
+        },
+        {
+          "t": "你",
+          "lemma": "你",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (singular)",
+          "gram": "pronoun",
+          "span": [
+            3,
+            4
+          ],
+          "reading": "ní"
+        },
+        {
+          "t": "已经",
+          "lemma": "已经",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "already",
+          "gram": "adverb",
+          "span": [
+            4,
+            6
+          ],
+          "reading": "yǐ jīng"
+        },
+        {
+          "t": "很",
+          "lemma": "很",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "very",
+          "gram": "adverb",
+          "span": [
+            6,
+            7
+          ],
+          "reading": "hěn"
+        },
+        {
+          "t": "习惯",
+          "lemma": "习惯",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "habit",
+          "gram": "noun (uninflected)",
+          "span": [
+            7,
+            9
+          ],
+          "reading": "xí guàn"
+        },
+        {
+          "t": "这儿",
+          "lemma": "这儿",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "here",
+          "gram": "pronoun",
+          "span": [
+            9,
+            11
+          ],
+          "reading": "zhèr"
+        },
+        {
+          "t": "了",
+          "lemma": "了",
+          "pos": "part",
+          "stress": null,
+          "gloss": "completed-action / new-state particle",
+          "gram": "particle / measure word",
+          "span": [
+            11,
+            12
+          ],
+          "reading": "le"
+        }
+      ]
+    },
+    {
+      "seg": 52,
       "trans": "See you soon!",
       "words": [
         {
