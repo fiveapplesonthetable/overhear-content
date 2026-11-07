@@ -1,0 +1,96 @@
+ID = 'pousada-do-cajueiro-s02e01-scene-05'
+SHOW, SEASON, EPISODE, SCENE = 'pousada-do-cajueiro', 2, 1, 5
+TITLE = 'Medindo a sala  (Measuring the Sunroom)'
+LEVEL, PAIR = 'A1 — beginner', 'pt-en'
+LABELS = {'rafael': 'Rafael', 'tiago': 'Tiago', 'camila': 'Camila'}
+
+INTRO = ('Ten minutes later, Rafael hurries downstairs with his leather notebook beside his older brother Tiago, who '
+ 'walked over early from his flat in Recife. Camila meets them at the sunroom door. Listen first.')
+OPENER = "Let's measure the room again with the brothers, line by line."
+TRANSITION = "Now let's listen to the whole measuring scene again from the start."
+OUTRO = ('Rafael approves the sound of the room, and Tiago offers a pair of strong hands for the weekend. See you '
+ 'next time.')
+CLOSING = ('rafael', 'Valeu, até logo!')
+
+STORY = [('rafael',
+  'Camila, a Bianca contou que você abriu um nono quarto secreto!',
+  'Camila, Bianca told us you opened a secret ninth room!'),
+ ('tiago',
+  'Meu irmãozinho pegou a fita métrica antes de terminar a torrada.',
+  'My little brother grabbed his tape measure before finishing his toast.'),
+ ('camila',
+  'Entrem, vocês dois! Digam se esta sala é segura.',
+  'Come in, both of you! Tell us if this room is safe.'),
+ ('rafael',
+  'Quatro metros de largura, seis de comprimento, parede de tijolo, teto de madeira.',
+  'Four metres wide, six long, a brick wall, a wooden ceiling.'),
+ ('tiago',
+  'Escute como a rua fica quieta quando a gente bate palmas.',
+  'Listen to how quiet the street gets when we clap our hands.'),
+ ('rafael',
+  'Nenhum eco! Madeira em cima de vidro deixa a música macia.',
+  'No echo! Wood above glass makes the music soft.'),
+ ('camila',
+  'Então o piano da Dona Helena não vai acordar os hóspedes?',
+  "So Mrs. Helena's piano won't wake the guests?"),
+ ('rafael',
+  'De jeito nenhum, a parede grossa de tijolo segura todo o som.',
+  'No way at all, the thick brick wall holds in every sound.'),
+ ('tiago',
+  'Tenho o fim de semana livre, Camila. Ponham a gente para trabalhar!',
+  'I have the weekend free, Camila. Put us to work!'),
+ ('camila',
+  'Vocês podem carregar as mesas do porão depois do almoço?',
+  'Can you two carry the tables up from the cellar after lunch?'),
+ ('tiago',
+  'Com prazer! Trabalhar ao lado do Rafael é melhor que ficar no escritório.',
+  'Gladly! Working beside Rafael beats sitting in the office.'),
+ ('rafael',
+  'Primeiro eu vou desenhar os trincos das janelas, para entrar ar fresco.',
+  "First I'll sketch the window latches, to let fresh air in.")]
+
+WALK = [(1,
+  None,
+  ["'My little brother grabbed his tape measure before finishing his toast.' A tape measure is a ",
+   (None, 'fita métrica'),
+   ', literally a metric ribbon, which is exactly what it looks like.']),
+ (2,
+  None,
+  ["'Come in, both of you! Tell us if this room is safe.' Camila talks to two men at once, so both ",
+   (None, 'Entrem'),
+   ' and ',
+   (None, 'Digam'),
+   ' end in a nasal m, the sign of a command aimed at more than one person.']),
+ (3,
+  None,
+  ["'Four metres wide, six long, a brick wall, a wooden ceiling.' Rafael measures like an architect: ",
+   (None, 'de largura'),
+   " is 'of width', and the length is ",
+   (None, 'de comprimento'),
+   ', so you can describe any room with those two chunks.']),
+ (4,
+  None,
+  ["'Listen to how quiet the street gets when we clap our hands.' Clapping in Portuguese is literally "
+   'beating palms, ',
+   (None, 'bate palmas,'),
+   ' and Brazilian visitors often clap at a gate instead of ringing a bell.']),
+ (5,
+  None,
+  ["'No echo! Wood above glass makes the music soft.' The verb ",
+   (None, 'deixa'),
+   ' usually means to leave, but before a describing word it means to make something become that way.']),
+ (7,
+  None,
+  ["'No way at all, the thick brick wall holds in every sound.' The firm answer ",
+   (None, 'De jeito nenhum,'),
+   " literally means 'in no way', and Brazilian speakers use it for any strong no."]),
+ (8,
+  None,
+  ["'I have the weekend free, Camila. Put us to work!' Tiago says ",
+   (None, 'a gente'),
+   " for 'us' here, the same casual word Brazilian speakers use for 'we'."]),
+ (10,
+  None,
+  ["'Gladly! Working beside Rafael beats sitting in the office.' The warm yes ",
+   (None, 'Com prazer!'),
+   " is literally 'with pleasure', just as English says it."])]

@@ -1,0 +1,17 @@
+# Authoring module for xiaoyuan-kezhan-s02e01-scene-04.
+ID = 'xiaoyuan-kezhan-s02e01-scene-04'
+SHOW = 'xiaoyuan-kezhan'
+SEASON = 2
+EPISODE = 1
+SCENE = 4
+TITLE = '白布下面  (Under the White Sheet)'
+LEVEL = 'A1 — beginner'
+PAIR = 'zh-en'
+LABELS = {'chen': '老陈', 'qing': '小晴', 'song': '宋老师'}
+INTRO = 'Hearing excited voices down the hall, Room 4 guest Teacher Song walks over with her morning teacup just as Qing and Chen reach the tall shape under the white cloth. Listen first.'
+OPENER = "Now let's walk through each key line together."
+TRANSITION = "Now let's hear the whole conversation again without stopping."
+OUTRO = 'Beneath the dust sheet stands a warm old piano with one silent middle key. See you in the next scene.'
+CLOSING = ('song', '再见！')
+STORY = [('song', '早上好！你们怎么都站在走廊的墙里面？', 'Good morning! Why is everyone standing inside the hallway wall?'), ('qing', '宋老师，快来看！我们找到九号房了！', 'Teacher Song, come and look! We found Room Nine!'), ('song', '天哪，这些老窗户真漂亮！我可以进来吗？', 'Goodness, these old windows are lovely! May I come in?'), ('chen', '宋老师，小心脚下。请帮我叠这块白布。', 'Teacher Song, watch your step. Please help me fold this white sheet.'), ('qing', '一，二……哇！看这深色的亮木头！', 'One, two... wow! Look at this dark, shiny wood!'), ('song', '一架钢琴！一架真正的木头钢琴！', 'A piano! A real wooden piano!'), ('chen', '盖子要小心一点——它已经关了几十年了。', 'Careful with the lid—it has been closed for decades.'), ('song', '小晴，你看这些白琴键，又干净又完整。', 'Qing, look at these white keys—clean and whole.'), ('qing', '宋老师，您给大家弹一下吧！', 'Teacher Song, play something for everyone!'), ('song', '听……有点低，很温暖，等等——中间这个琴键没有声音！', 'Listen... a little low, very warm, and wait—this middle key makes no sound!'), ('chen', '每个琴键都响，只有中间一个不响？', "Every key sounds, and only one in the middle doesn't?"), ('song', '老陈，好好修一次老钢琴，它会记得每一首歌。', 'Chen, repair an old piano properly once, and it will remember every song.')]
+WALK = [(0, None, ["'Good morning! Why is everyone standing inside the hallway wall?' Here", (None, '怎么'), "means 'how come' rather than 'how', a gentle way to ask why."]), (2, None, ["'Goodness, these old windows are lovely! May I come in?' Asking permission politely is easy with", (None, '我可以进来吗'), "'I may come in?', a reusable chunk for any doorway."]), (3, None, ["'Teacher Song, watch your step. Please help me fold this white sheet.' The warning", (None, '小心脚下'), "is literally 'careful under foot', the standard way to say watch your step."]), (5, None, ["'A piano! A real wooden piano!' To count a piano, Song uses", (None, '一架'), 'the measure word for things built on a frame, such as pianos and planes.']), (7, None, ["'Qing, look at these white keys—clean and whole.' The pattern", (None, '又干净又完整'), "repeats the word for 'again' to stack two good qualities: both clean and whole."]), (8, None, ["'Teacher Song, play something for everyone!' Qing puts", (None, '给大家'), "'for everyone', before the action of playing, which is where Mandarin wants the person who benefits."]), (9, None, ["'Listen... a little low, very warm, and wait—this middle key makes no sound!' A silent key is literally", (None, '没有声音'), "'has no sound': Mandarin describes what something lacks with 'not have'."]), (10, None, ["'Every key sounds, and only one in the middle doesn't?' The word", (None, '只有'), "means 'only' and picks out the one exception."]), (11, None, ["'Chen, repair an old piano properly once, and it will remember every song.' Songs are counted with", (None, '首'), 'the same measure word Chinese uses for poems.'])]
