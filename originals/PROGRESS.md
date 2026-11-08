@@ -125,9 +125,9 @@ Following strict 3-2-1 cycle priority (`3 RU -> 2 FR -> 1 ES -> 1 IT -> 1 PT -> 
 
 ### 7a. Hindi Originals (`aangan-haveli`, `hi-en` — `spec/NEW-PAIRS.md` §1b)
 - **Setting & Cast:** *आँगन हवेली* (*Aangan Haveli*), **Jaipur, Rajasthan** — natural everyday spoken Hindi (`बोलचाल की हिंदी`) in NFC Devanagari (`0` digits). Invented cast `kavya, pratap, diya, mohan, sudha, kabir, dev` — **0 collisions** across all 21 shows / 502 characters in `out/` and `originals/`.
-- **Authoring & Learning Layer (`s01e01`–`s01e03` complete, `s01e04`–`s01e06` in progress):**
-  - 24 scenes (`s01e01`–`s01e03`) with 100% explicit `[start, end]` Devanagari spans + 100% reviewed ISO-15919/IAST vowel-length `reading` (`mms-uroman` `hin` verified across all 888 segments / 10,266 tokens).
-  - `dictionary/hi-en.json` (**678 lemmas** with 5 Hindi verb tables, noun `Forms` + `gender`, inflecting `-आ` adjective `Forms`, postpositions, and 1,356 non-templated Hindi examples), `word-origins/hi-en.json` (**678/678 = 100%** sourced etymologies), and 10 `learn/hi-en/*.json` notes (`three-levels-of-you`, `postpositions-and-oblique-case`, `gender-and-agreement`, `numbers-prices-and-money`, etc.).
+- **Authoring & Learning Layer (Full Season 1 `s01e01`–`s01e06` COMPLETE — 48 scenes):**
+  - 48 scenes (`s01e01`–`s01e06`) with 100% explicit `[start, end]` Devanagari spans + 100% reviewed ISO-15919/IAST vowel-length `reading` (`mms-uroman` `hin` verified across all 1,776 dialogue segments / 22,302 tokens).
+  - `dictionary/hi-en.json` (**974 lemmas** with 5 Hindi verb tables, noun `Forms` + `gender`, inflecting `-आ` adjective `Forms`, postpositions, and 1,948 non-templated Hindi examples), `word-origins/hi-en.json` (**974/974 = 100%** sourced etymologies), and 10 `learn/hi-en/*.json` notes (`three-levels-of-you`, `postpositions-and-oblique-case`, `gender-and-agreement`, `numbers-prices-and-money`, etc.).
 
 ### 7b. English Target-Language Pairs (`en-es` & `en-pt` — `spec/NEW-PAIRS.md` §2)
 - **Setting & Shared Dialogue:** *Linden Courtyard Inn*, 38 Linden Street, **Portland, Maine** (General American English + US spelling). Spoken dialogue lines across all scenes are 100% byte-identical across `en-es` (`originals/linden-courtyard-es`) and `en-pt` (`originals/linden-courtyard-pt`), while all narrator lines, translations, word glosses/grammar tags, dictionary definitions/notes, word-origins, and `learn/` notes are written fresh in Spanish (`es`) and Brazilian Portuguese (`pt`).
