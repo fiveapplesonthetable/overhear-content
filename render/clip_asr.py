@@ -131,11 +131,30 @@ def main():
     ap.add_argument("ids", nargs="+")
     a = ap.parse_args()
     from faster_whisper import WhisperModel
+    import time
     try:
         m = WhisperModel("large-v3-turbo", device="cuda", compute_type="float16")
     except Exception as e:
         print("cuda unavailable, cpu:", e, file=sys.stderr)
         m = WhisperModel("large-v3-turbo", device="cpu", compute_type="int8")
+    cpu_m = None
+
+    def run_transcribe(audio_arr, lang):
+        nonlocal cpu_m
+        for attempt in range(4):
+            try:
+                segs, _ = m.transcribe(audio_arr, language=lang, beam_size=5, condition_on_previous_text=False, vad_filter=False)
+                return " ".join(t.text for t in segs).strip()
+            except RuntimeError as e:
+                if "out of memory" in str(e).lower():
+                    time.sleep(2.0 * (attempt + 1))
+                    continue
+                raise
+        if cpu_m is None:
+            cpu_m = WhisperModel("large-v3-turbo", device="cpu", compute_type="int8")
+        segs, _ = cpu_m.transcribe(audio_arr, language=lang, beam_size=5, condition_on_previous_text=False, vad_filter=False)
+        return " ".join(t.text for t in segs).strip()
+
     cs = clips.ClipStore(a.store, a.kind)
     out = {"passed": 0, "retry": [], "failed": [], "cer": {}, "forced": {}}
     para = json.load(open(a.paradigm)) if a.paradigm else {}
@@ -147,21 +166,22 @@ def main():
         w = cs.work_record(cid)
         if not w:
             continue
-        segs, _ = m.transcribe(load(cs.work / f"{cid}.mp3", a.pad_sec), language=w["lang"], beam_size=5, condition_on_previous_text=False, vad_filter=False)
-        hyp = " ".join(t.text for t in segs).strip()
+        hyp = run_transcribe(load(cs.work / f"{cid}.mp3", a.pad_sec), w["lang"])
         cer = comparison_cer(w, a.kind, hyp, a.fold_vowels)
         if cer > a.cer_max and a.second_pad and a.second_pad != a.pad_sec:
-            segs2, _ = m.transcribe(load(cs.work / f"{cid}.mp3", a.second_pad), language=w["lang"], beam_size=5, condition_on_previous_text=False, vad_filter=False)
-            hyp2 = " ".join(t.text for t in segs2).strip()
+            hyp2 = run_transcribe(load(cs.work / f"{cid}.mp3", a.second_pad), w["lang"])
             cer2 = comparison_cer(w, a.kind, hyp2, a.fold_vowels)
             if cer2 < cer:
                 cer, hyp = cer2, hyp2
         out["cer"][cid] = round(cer, 4)
         gate = None
         if cer > a.cer_max and w["lang"] == "ru" and scorer is not None and cid in para and para[cid]["single"] and para[cid]["others"] and nz(hyp):
-            scorer.encode(load(cs.work / f"{cid}.mp3", a.pad_sec))
-            gate = scorer.margin(para[cid]["text"], para[cid]["others"], hyp)
-            out["forced"][cid] = round(gate, 2)
+            try:
+                scorer.encode(load(cs.work / f"{cid}.mp3", a.pad_sec))
+                gate = scorer.margin(para[cid]["text"], para[cid]["others"], hyp)
+                out["forced"][cid] = round(gate, 2)
+            except RuntimeError:
+                gate = None
         if cer <= a.cer_max or (gate is not None and gate >= a.margin):
             clips.commit(a.store, cid, cer, hyp, None, a.kind)
             if gate is not None and gate >= a.margin:
