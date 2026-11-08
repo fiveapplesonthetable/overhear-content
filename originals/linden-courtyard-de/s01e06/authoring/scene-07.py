@@ -1,0 +1,116 @@
+# Authoring module for linden-courtyard-de-s01e06-scene-07.
+ID = 'linden-courtyard-de-s01e06-scene-07'
+SHOW = 'linden-courtyard-de'
+SEASON = 1
+EPISODE = 6
+SCENE = 7
+TITLE = 'Under the Golden Lanterns  (Unter den goldenen Laternen)'
+LEVEL = 'A1 — Anfänger'
+PAIR = 'en-de'
+LABELS = {'hannah': 'Hannah', 'evelyn': 'Evelyn', 'owen': 'Owen'}
+INTRO = 'Ein milder Abend senkt sich über Portland, und die Ketten goldener Papierlaternen leuchten warm über dem Hofbaum. Hannah, Evelyn und Owen sitzen bei Tee und musikalischen Erinnerungen zusammen. Hören Sie zuerst entspannt zu.'
+OPENER = 'Nehmen wir diesen stimmungsvollen Ausklang im Hof nun Satz für Satz vor.'
+TRANSITION = 'Hören wir uns das Gespräch unter den Laternen jetzt noch einmal ohne Pause an.'
+OUTRO = 'Goldene Lampions überm Baum, versöhnte Brüder und ein Hofcafé, das morgen um acht seine Tore öffnet! Nur eine allerletzte Szene bleibt in Staffel eins — und Graham hat im Keller etwas Rätselhaftes entdeckt!'
+CLOSING = ('evelyn', 'Good night!')
+STORY = [('evelyn',
+  'Look up at those golden lanterns against the evening sky. How peaceful!',
+  'Sehen Sie nur diese goldenen Laternen vor dem Abendhimmel. Wie friedlich!'),
+ ('owen',
+  'To think on Monday morning Caleb picked up the wrong blue bag on Platform Two.',
+  'Wenn man bedenkt, dass Caleb am Montagmorgen auf Gleis zwei die falsche blaue Tasche gegriffen hat.'),
+ ('hannah',
+  'If he had picked up the right bag, none of us would be standing here tonight!',
+  'Hätte er die richtige Tasche genommen, stünde heute Abend keiner von uns hier!'),
+ ('evelyn',
+  'My teacup survived, two brothers made peace, and Hannah found a new home.',
+  'Meine Teetasse hat überlebt, zwei Brüder haben Frieden geschlossen, und Hannah hat ein neues Zuhause gefunden.'),
+ ('owen',
+  'Miss Evelyn, Caleb and I booked a quiet dinner nearby. Will you join us tomorrow?',
+  'Frau Evelyn, Caleb und ich haben in der Nähe einen ruhigen Tisch zum Abendessen reserviert. Leisten Sie uns morgen Gesellschaft?'),
+ ('evelyn',
+  'Gladly, Owen, as long as nobody talks about selling old pianos!',
+  'Von Herzen gern, Owen, solange niemand vom Verkauf alter Klaviere anfängt!'),
+ ('hannah',
+  'And tomorrow morning at eight, your first courtyard coffees are on the house!',
+  'Und morgen früh um acht gehen Ihre ersten Hofkaffees aufs Haus!'),
+ ('owen',
+  "We will bring half of City Hall to Tessa's tables next week, I promise.",
+  'Nächste Woche bringen wir das halbe Rathaus an Tessas Tische, versprochen.'),
+ ('evelyn',
+  'Listen, even the buzzer from room four has been quiet all evening!',
+  'Hören Sie nur, sogar der Summer aus Zimmer vier hat den ganzen Abend geschwiegen!'),
+ ('hannah',
+  'Do not tempt it, Miss Evelyn! I am almost fond of those two rings now.',
+  'Beschwören Sie es nicht herauf, Frau Evelyn! Inzwischen sind mir diese zwei Klingeltöne fast schon ans Herz gewachsen.'),
+ ('owen',
+  'Here is to the Linden Courtyard Inn, the loudest quiet place in Portland!',
+  'Auf den Gasthof Lindenhof, den lebendigsten ruhigen Ort in ganz Portland!'),
+ ('hannah', 'To good neighbors, warm bread, and open gates!', 'Auf gute Nachbarn, warmes Brot und offene Tore!')]
+WALK = [(0,
+  None,
+  ["'Sehen Sie nur diese goldenen Laternen vor dem Abendhimmel. Wie friedlich!' Einen leuchtenden Kontrast vor dunklem Hintergrund malt",
+   (None, 'against the evening sky'),
+   'besonders bildhaft.']),
+ (1,
+  None,
+  ["'Wenn man bedenkt, dass Caleb am Montagmorgen auf Gleis zwei die falsche blaue Tasche gegriffen hat.' Nachdenkliches Staunen eröffnet",
+   (None, 'To think'),
+   'und',
+   (None, 'picked up'),
+   'beschreibt das Aufheben des Koffers.']),
+ (2,
+  None,
+  ["'Hätte er die richtige Tasche genommen, stünde heute Abend keiner von uns hier!' Für die gedachte Auswirkung auf den heutigen Abend "
+   'nutzt',
+   (None, 'none of us would be standing'),
+   'die Möglichkeitsform im Verlauf.']),
+ (3,
+  None,
+  ["'Meine Teetasse hat überlebt, zwei Brüder haben Frieden geschlossen, und Hannah hat ein neues Zuhause gefunden.' Sich nach langem "
+   'Streit versöhnen heißt schlicht',
+   (None, 'made peace'),
+   'ganz ohne Artikel.']),
+ (4,
+  None,
+  ["'Frau Evelyn, Caleb und ich haben in der Nähe einen ruhigen Tisch zum Abendessen reserviert. Leisten Sie uns morgen Gesellschaft?' "
+   'Jemanden herzlich zum Mitkommen einladen übernimmt im Englischen das vielseitige',
+   (None, 'Will you join us'),
+   'in nur vier Wörtern.']),
+ (5,
+  None,
+  ["'Von Herzen gern, Owen, solange niemand vom Verkauf alter Klaviere anfängt!' Eine humorvolle Bedingung knüpft die dreiteilige Klammer",
+   (None, 'as long as'),
+   'genau wie unser deutsches solange an.']),
+ (6,
+  None,
+  ["'Und morgen früh um acht gehen Ihre ersten Hofkaffees aufs Haus!' Kostenlose Einladungen durch den Gastgeber drückt",
+   (None, 'on the house'),
+   'Wort für Wort wie unser aufs Haus aus.']),
+ (7,
+  None,
+  ["'Nächste Woche bringen wir das halbe Rathaus an Tessas Tische, versprochen.' Ein festes Ehrenwort am Satzende bekräftigt das kurze",
+   (None, 'I promise'),
+   'mit persönlichem Subjekt.']),
+ (8,
+  None,
+  ["'Hören Sie nur, sogar der Summer aus Zimmer vier hat den ganzen Abend geschwiegen!' Weil der Abend noch andauert, blickt",
+   (None, 'has been quiet'),
+   'in der vollendeten Gegenwart auf die bisherigen Stunden zurück.']),
+ (9,
+  None,
+  ["'Beschwören Sie es nicht herauf, Frau Evelyn! Inzwischen sind mir diese zwei Klingeltöne fast schon ans Herz gewachsen.' Etwas "
+   'liebgewonnen haben umschreibt das warme Eigenschaftswort in',
+   (None, 'fond of'),
+   'mit seinem festen Verhältniswort.']),
+ (10,
+  None,
+  ["'Auf den Gasthof Lindenhof, den lebendigsten ruhigen Ort in ganz Portland!' Einen feierlichen Trinkspruch mit den Tassen eröffnet man "
+   'klassisch mit',
+   (None, 'Here is to'),
+   'vor dem Gefeierten.']),
+ (11,
+  None,
+  ["'Auf gute Nachbarn, warmes Brot und offene Tore!' Beim anschließenden Anstoßen genügt am Anfang das bloße Richtungswort in",
+   (None, 'To good neighbors'),
+   'für unser deutsches Auf.'])]

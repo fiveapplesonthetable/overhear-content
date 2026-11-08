@@ -1,0 +1,113 @@
+# Authoring module for linden-courtyard-fr-s01e05-scene-03.
+ID = 'linden-courtyard-fr-s01e05-scene-03'
+SHOW = 'linden-courtyard-fr'
+SEASON = 1
+EPISODE = 5
+SCENE = 3
+TITLE = 'Friday Lemon Cake  (Le gâteau au citron du vendredi)'
+LEVEL = 'A1 — débutant'
+PAIR = 'en-fr'
+LABELS = {'evelyn': 'Evelyn', 'caleb': 'Caleb', 'tessa': 'Tessa'}
+INTRO = "À neuf heures trente, dans le coin café, Tessa sert du café frais à Mademoiselle Evelyn et à Caleb tandis qu'ils évoquent ensemble les après-midi du vendredi d'il y a vingt-cinq ans. Écoutez d'abord toute la scène."
+OPENER = 'Goûtons maintenant chaque détail de ce souvenir gourmand.'
+TRANSITION = 'Réécoutons toute la discussion à son allure chaleureuse.'
+OUTRO = 'Six beaux citrons jaunes dans le panier et à peine plus de deux heures avant midi: Tessa noue déjà son tablier! Sortons dans la cour pour la prochaine scène. À très vite!'
+CLOSING = ('tessa', 'Bye for now!')
+STORY = [('tessa',
+  'So, Caleb, you are really staying in the courtyard to greet Owen at noon?',
+  'Alors, Caleb, vous restez vraiment dans la cour pour accueillir Owen à midi?'),
+ ('caleb',
+  'Yes, Tessa. Even if he turns around and walks straight back out the gate.',
+  "Oui, Tessa. Même s'il fait demi-tour et ressort tout droit par le portail."),
+ ('evelyn',
+  'Owen will not walk out. He always acted tough for five seconds, then softened.',
+  "Owen ne repartira pas. Il jouait toujours les durs pendant cinq secondes, puis il s'adoucissait."),
+ ('caleb', 'You still remember that after all these years?', 'Vous vous souvenez encore de ça après toutes ces années?'),
+ ('evelyn',
+  'Of course! Every Friday when he missed a piano note, he frowned at the wall.',
+  'Bien sûr! Chaque vendredi, quand il ratait une note au piano, il fronçait les sourcils face au mur.'),
+ ('tessa', 'How did you get him smiling again, Miss Evelyn?', 'Comment lui redonniez-vous le sourire, Mademoiselle Evelyn?'),
+ ('evelyn',
+  'His grandfather sliced warm lemon cake with powdered sugar on top!',
+  'Son grand-père coupait des tranches de gâteau tiède au citron saupoudré de sucre glace!'),
+ ('caleb',
+  'Oh! Yellow lemon glaze! We fought over the corner piece every single Friday!',
+  'Oh! Le glaçage jaune au citron! On se disputait le morceau du coin absolument chaque vendredi!'),
+ ('tessa',
+  'Hold everything! What time is it right now? Nine thirty-five!',
+  "Arrêtez tout! Quelle heure est-il à l'instant? Neuf heures trente-cinq!"),
+ ('caleb',
+  'Tessa, please do not do extra work because of us.',
+  "Tessa, s'il vous plaît, ne vous donnez pas de travail supplémentaire à cause de nous."),
+ ('tessa',
+  'Six yellow lemons are sitting in my basket right now. This kitchen was waiting for today!',
+  "Six citrons jaunes m'attendent dans mon panier en ce moment même. Cette cuisine n'attendait que cette journée!"),
+ ('evelyn', 'Bake plenty of corner pieces, my dear!', 'Faites plein de parts du coin, ma chère!')]
+WALK = [(0,
+  None,
+  ["'Alors, Caleb, vous restez vraiment dans la cour pour accueillir Owen à midi?' Le présent continu dans",
+   (None, 'you are really staying'),
+   'exprime une décision ferme déjà arrêtée pour midi.']),
+ (1,
+  None,
+  ["'Oui, Tessa. Même s'il fait demi-tour et ressort tout droit par le portail.' Après l'hypothèse concessive",
+   (None, 'Even if'),
+   'le verbe à particule',
+   (None, 'turns around'),
+   "décrit quelqu'un qui pivote sur ses talons."]),
+ (2,
+  None,
+  ["'Owen ne repartira pas. Il jouait toujours les durs pendant cinq secondes, puis il s'adoucissait.' Savoureuse expression du quotidien,",
+   (None, 'acted tough'),
+   'signifie "jouer les durs à cuire" pour cacher son émotion.']),
+ (3,
+  None,
+  ["'Vous vous souvenez encore de ça après toutes ces années?' La formule temporelle",
+   (None, 'after all these years'),
+   "suit exactement le même ordre de mots qu'en français."]),
+ (4,
+  None,
+  ["'Bien sûr! Chaque vendredi, quand il ratait une note au piano, il fronçait les sourcils face au mur.' Au clavier comme pour une cible "
+   'ou un train, manquer son coup se dit',
+   (None, 'missed a piano note'),
+   'ratait une note.']),
+ (5,
+  None,
+  ["'Comment lui redonniez-vous le sourire, Mademoiselle Evelyn?' Observez la tournure causative souple",
+   (None, 'get him smiling'),
+   "amener quelqu'un à retrouver le sourire."]),
+ (6,
+  None,
+  ["'Son grand-père coupait des tranches de gâteau tiède au citron saupoudré de sucre glace!' Le sucre glace finement moulu s'appelle",
+   (None, 'powdered sugar'),
+   'déposé',
+   (None, 'on top'),
+   'sur le dessus du gâteau.']),
+ (7,
+  None,
+  ["'Oh! Le glaçage jaune au citron! On se disputait le morceau du coin absolument chaque vendredi!' L'ajout du mot d'unicité au milieu de",
+   (None, 'every single Friday'),
+   "martèle qu'aucun vendredi ne faisait exception."]),
+ (8,
+  None,
+  ["'Arrêtez tout! Quelle heure est-il à l'instant? Neuf heures trente-cinq!' Saisie d'une inspiration subite en cuisine, Tessa lance "
+   "l'exclamation familière",
+   (None, 'Hold everything'),
+   'stoppez tout!']),
+ (9,
+  None,
+  ["'Tessa, s'il vous plaît, ne vous donnez pas de travail supplémentaire à cause de nous.' Symétrique de la locution vue plus tôt, la "
+   'préposition composée',
+   (None, 'because of us'),
+   'se place directement devant le pronom personnel.']),
+ (10,
+  None,
+  ["'Six citrons jaunes m'attendent dans mon panier en ce moment même. Cette cuisine n'attendait que cette journée!' L'anglais anime "
+   'volontiers les objets posés dans un récipient grâce à',
+   (None, 'are sitting in my basket'),
+   'trônent sagement dans mon panier.']),
+ (11,
+  None,
+  ["'Faites plein de parts du coin, ma chère!' Affectueux et très courtois dans la bouche d'une dame âgée, le vocatif",
+   (None, 'my dear'),
+   'clôt la scène avec tendresse.'])]

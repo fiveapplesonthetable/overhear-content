@@ -1,0 +1,111 @@
+# Authoring module for linden-courtyard-de-s01e04-scene-06.
+ID = 'linden-courtyard-de-s01e04-scene-06'
+SHOW = 'linden-courtyard-de'
+SEASON = 1
+EPISODE = 4
+SCENE = 6
+TITLE = 'The Acoustic Architect  (Der Akustikarchitekt)'
+LEVEL = 'A1 — Anfänger'
+PAIR = 'en-de'
+LABELS = {'caleb': 'Caleb', 'hannah': 'Hannah', 'tessa': 'Tessa'}
+INTRO = 'Draußen im Schatten des alten Hofbaums schlägt Caleb für Hannah und Tessa sein braunes Ledernotizbuch auf, während über ihnen die Morgenvögel zwitschern. Hören wir zuerst in Ruhe zu.'
+OPENER = 'Schauen wir uns Calebs überraschende Auflösung im Innenhof nun Zeile für Zeile an.'
+TRANSITION = 'Lassen Sie uns dieses Gespräch unterm Baum jetzt noch einmal ohne Pause anhören.'
+OUTRO = 'Caleb ist gar kein Hoteltester, sondern Akustikarchitekt — und als nebenbei das Wort Freitag fällt, schauen sich Hannah und Tessa mit großen Augen an! Bis gleich!'
+CLOSING = ('tessa', 'See you later!')
+STORY = [('caleb',
+  'Look closely at this page. It measures decibels and quietness, not hotel stars!',
+  'Schauen Sie sich diese Seite genau an. Hier werden Dezibel und Ruhe gemessen, keine Hotelsterne!'),
+ ('hannah',
+  "Decibels? So 'nine out of ten' was not a review of my front desk?",
+  'Dezibel? Dann war "neun von zehn" gar keine Bewertung meines Empfangs?'),
+ ('caleb',
+  'Well, your front desk deserves ten! Honestly, though, I am an acoustic architect.',
+  'Nun, Ihr Empfang verdient eine Zehn! Aber ehrlich gesagt bin ich Akustikarchitekt.'),
+ ('tessa', 'An acoustic architect! Do you design concert halls?', 'Akustikarchitekt! Entwerfen Sie Konzertsäle?'),
+ ('caleb',
+  'Small libraries and courtyards, mostly. I measure how old stone walls block street noise.',
+  'Vor allem kleine Bibliotheken und Innenhöfe. Ich messe, wie alte Steinmauern den Straßenlärm abschirmen.'),
+ ('hannah',
+  'That is why you listened for cars up in the attic last night!',
+  'Darum haben Sie gestern Abend oben in der Dachstube auf Autos gehorcht!'),
+ ('caleb',
+  'Exactly. Outside on the avenue it is loud, yet inside this courtyard you hear leaves and birds.',
+  'Genau. Draußen auf der Hauptstraße ist es laut, doch hier im Innenhof hört man Blätter und Vögel.'),
+ ('tessa',
+  'Wait until Arthur hears he panicked all night over decibels!',
+  'Warte nur, bis Arthur erfährt, dass er die ganze Nacht wegen Dezibelwerten Panik geschoben hat!'),
+ ('caleb',
+  'Truthfully, I also chose this neighborhood for an old family reason.',
+  'Offen gestanden habe ich dieses Viertel auch aus einem alten familiären Grund gewählt.'),
+ ('hannah', 'Oh? Did your family live near here once?', 'Ach? Hat Ihre Familie früher einmal hier in der Nähe gewohnt?'),
+ ('caleb',
+  'Two streets away, when I was small. Friday is... an important day for me.',
+  'Zwei Straßen weiter, als ich klein war. Der Freitag ist... ein wichtiger Tag für mich.'),
+ ('tessa', 'Wait, did he just say Friday?!', 'Warte mal, hat er gerade Freitag gesagt?!')]
+WALK = [(0,
+  None,
+  ["'Schauen Sie sich diese Seite genau an. Hier werden Dezibel und Ruhe gemessen, keine Hotelsterne!' Gründliches Hinsehen aus der Nähe "
+   'fordert',
+   (None, 'Look closely'),
+   'mit dem Umstandswort für dicht heran.']),
+ (1,
+  None,
+  ['\'Dezibel? Dann war "neun von zehn" gar keine Bewertung meines Empfangs?\' Erleichtert verneint',
+   (None, 'was not a review'),
+   'den gefürchteten Prüfbericht.']),
+ (2,
+  None,
+  ["'Nun, Ihr Empfang verdient eine Zehn! Aber ehrlich gesagt bin ich Akustikarchitekt.' Eingeschoben zwischen Kommas wirkt das kleine "
+   'Wort',
+   (None, 'though'),
+   'viel geschmeidiger als ein hartes aber am Satzanfang.']),
+ (3,
+  None,
+  ["'Akustikarchitekt! Entwerfen Sie Konzertsäle?' Große Aufführungsräume für Musik nennt das Englische zusammengesetzt",
+   (None, 'concert halls'),
+   'mit dem Wort für Saal.']),
+ (4,
+  None,
+  ["'Vor allem kleine Bibliotheken und Innenhöfe. Ich messe, wie alte Steinmauern den Straßenlärm abschirmen.' Nachgestellt fasst",
+   (None, 'mostly'),
+   'knapp zusammen, worauf der Schwerpunkt seiner Arbeit liegt.']),
+ (5,
+  None,
+  ["'Darum haben Sie gestern Abend oben in der Dachstube auf Autos gehorcht!' Einen Aha-Moment leitet",
+   (None, 'That is why'),
+   'ein, und',
+   (None, 'listened for cars'),
+   'bedeutet gezielt auf ein mögliches Geräusch lauschen.']),
+ (6,
+  None,
+  ["'Genau. Draußen auf der Hauptstraße ist es laut, doch hier im Innenhof hört man Blätter und Vögel.' Mitten im Satz fungiert",
+   (None, 'yet'),
+   'als elegantes Bindewort im Sinne von dennoch oder doch.']),
+ (7,
+  None,
+  ["'Warte nur, bis Arthur erfährt, dass er die ganze Nacht wegen Dezibelwerten Panik geschoben hat!' Vorfreude auf jemandes Gesicht "
+   'drückt die Formel',
+   (None, 'Wait until Arthur hears'),
+   'in der einfachen Gegenwart aus.']),
+ (8,
+  None,
+  ["'Offen gestanden habe ich dieses Viertel auch aus einem alten familiären Grund gewählt.' Mit einfachem Vokal in der Mitte bildet",
+   (None, 'chose'),
+   'die unregelmäßige Vergangenheit von auswählen.']),
+ (9,
+  None,
+  ["'Ach? Hat Ihre Familie früher einmal hier in der Nähe gewohnt?' Am Satzende verweist",
+   (None, 'once'),
+   'nicht auf einmaliges Zählen, sondern auf frühere Zeiten.']),
+ (10,
+  None,
+  ["'Zwei Straßen weiter, als ich klein war. Der Freitag ist... ein wichtiger Tag für mich.' Eigene Kindheitserinnerungen knüpft man im "
+   'Englischen schlicht mit',
+   (None, 'when I was small'),
+   'an.']),
+ (11,
+  None,
+  ["'Warte mal, hat er gerade Freitag gesagt?!' Ungläubiges Nachhaken über das soeben Gehörte bildet die Frage",
+   (None, 'did he just say'),
+   'mit Hilfsverb und Grundform.'])]
