@@ -49,7 +49,7 @@ def _make_ru_engine(settings, voices, log):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("stage", choices=["missing", "synth", "synth-ru", "synth-en", "synth-ar", "retake", "finish", "clips", "forms"])
+    ap.add_argument("stage", choices=["missing", "synth", "synth-ru", "synth-en", "synth-ar", "synth-hi", "retake", "finish", "clips", "forms"])
     ap.add_argument("--scene", default="")
     ap.add_argument("--scenes", default="")
     ap.add_argument("--attempt", type=int, default=0)
@@ -96,6 +96,9 @@ def main():
                     if lang == "ar" and config.ar_engine(fs):
                         from chatterbox_ar import ChatterboxArEngine
                         eng = ChatterboxArEngine(fs, voices, log=log)
+                    elif lang == "hi" and config.hi_engine(fs):
+                        from hindi_tts import HindiEngine
+                        eng = HindiEngine(fs, voices, log=log)
                     else:
                         eng = QwenEngine(fs, voices, log=log)
                     out.extend(clips.render_items([it for it in items if it.lang == lang], eng, store, fs, a.attempt, log=log, kind=forms.KIND))
@@ -123,19 +126,25 @@ def main():
                     if lang == "ar" and config.ar_engine(settings):
                         from chatterbox_ar import ChatterboxArEngine
                         eng = ChatterboxArEngine(settings, voices, log=log)
+                    elif lang == "hi" and config.hi_engine(settings):
+                        from hindi_tts import HindiEngine
+                        eng = HindiEngine(settings, voices, log=log)
                     else:
                         eng = QwenEngine(settings, voices, log=log)
                     ids.extend(clips.render_items([it for it in items if it.lang == lang], eng, store, settings, a.attempt, log=log))
                     eng.free()
             print("OK " + json.dumps({"stage": "clips", "ids": ids, "wall": round(time.time() - t0, 2)}), flush=True)
             return
-        if a.stage in ("synth", "synth-ru", "synth-en", "synth-ar") and a.scenes:
-            ru, en, ar = config.ru_engine(settings), config.en_engine(settings), config.ar_engine(settings)
+        if a.stage in ("synth", "synth-ru", "synth-en", "synth-ar", "synth-hi") and a.scenes:
+            ru, en, ar, hi = config.ru_engine(settings), config.en_engine(settings), config.ar_engine(settings), config.hi_engine(settings)
 
             def engine_for_multi(lang):
                 if lang == "ar" and ar:
                     from chatterbox_ar import ChatterboxArEngine
                     return ChatterboxArEngine(settings, voices, log=log)
+                if lang == "hi" and hi:
+                    from hindi_tts import HindiEngine
+                    return HindiEngine(settings, voices, log=log)
                 if lang == "ru" and ru:
                     return _make_ru_engine(settings, voices, log)
                 if lang == "en" and en:
@@ -145,10 +154,10 @@ def main():
                 return QwenEngine(settings, voices, log=log)
 
             def label_multi(lang):
-                return lang if (lang == "ru" and ru) or (lang == "en" and en) or (lang == "ar" and ar) else None
+                return lang if (lang == "ru" and ru) or (lang == "en" and en) or (lang == "ar" and ar) or (lang == "hi" and hi) else None
 
             r = Renderer(settings, voices, store, ruacc, log=log)
-            target_lang = {"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar"}.get(a.stage)
+            target_lang = {"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar", "synth-hi": "hi"}.get(a.stage)
             merged = {}
             for sid in [x for x in a.scenes.split(",") if x]:
                 s1 = content.load_scene(content.scene_path(a.content, sid))
@@ -177,25 +186,30 @@ def main():
         r = Renderer(settings, voices, store, ruacc, log=log)
         ctx = r.prepare(sc)
         t0 = time.time()
-        ru, en, ar = config.ru_engine(settings), config.en_engine(settings), config.ar_engine(settings)
+        ru, en, ar, hi = config.ru_engine(settings), config.en_engine(settings), config.ar_engine(settings), config.hi_engine(settings)
         if a.stage == "synth-ru" and not ru:
             raise RuntimeError("synth-ru needs settings ttsRu")
         if a.stage == "synth-en" and not en:
             raise RuntimeError("synth-en needs settings ttsEn")
         if a.stage == "synth-ar" and not ar:
             raise RuntimeError("synth-ar needs settings ttsAr and a complete local multilingual V2 snapshot")
+        if a.stage == "synth-hi" and not hi:
+            raise RuntimeError("synth-hi needs settings ttsHi")
         if a.stage == "missing":     # no GPU: how many sentences each engine still has to make (lets the pipeline skip a reservation)
-            miss = {"ru": 0, "en": 0, "ar": 0, "other": 0}
+            miss = {"ru": 0, "en": 0, "ar": 0, "hi": 0, "other": 0}
             for it in ctx.uniq.values():
                 if not store.tts_path(it["key"]).exists():
-                    miss[it["lang"] if (it["lang"] == "ru" and ru) or (it["lang"] == "en" and en) or (it["lang"] == "ar" and ar) else "other"] += 1
+                    miss[it["lang"] if (it["lang"] == "ru" and ru) or (it["lang"] == "en" and en) or (it["lang"] == "ar" and ar) or (it["lang"] == "hi" and hi) else "other"] += 1
             print("OK " + json.dumps({"stage": "missing", **miss}), flush=True)
             return
-        if a.stage in ("synth", "synth-ru", "synth-en", "synth-ar", "retake"):
+        if a.stage in ("synth", "synth-ru", "synth-en", "synth-ar", "synth-hi", "retake"):
             def engine_for(lang):
                 if lang == "ar" and ar:
                     from chatterbox_ar import ChatterboxArEngine
                     return ChatterboxArEngine(settings, voices, log=log)
+                if lang == "hi" and hi:
+                    from hindi_tts import HindiEngine
+                    return HindiEngine(settings, voices, log=log)
                 if lang == "ru" and ru:
                     return _make_ru_engine(settings, voices, log)
                 if lang == "en" and en:
@@ -204,8 +218,8 @@ def main():
                 from tts import QwenEngine
                 return QwenEngine(settings, voices, log=log)
 
-            def label(lang):      # "ru" / "en" when they have their own engine, else the Qwen share
-                return lang if (lang == "ru" and ru) or (lang == "en" and en) or (lang == "ar" and ar) else None
+            def label(lang):      # "ru" / "en" / "ar" / "hi" when they have their own engine, else the Qwen share
+                return lang if (lang == "ru" and ru) or (lang == "en" and en) or (lang == "ar" and ar) or (lang == "hi" and hi) else None
 
             if a.stage == "retake":
                 by = {}
@@ -218,7 +232,7 @@ def main():
                     eng.free()
                     st = {k: st[k] + r1[k] for k in st}
             else:
-                lang = {"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar"}.get(a.stage)
+                lang = {"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar", "synth-hi": "hi"}.get(a.stage)
                 if lang:
                     items = [it for it in ctx.uniq.values() if it["lang"] == lang]
                 else:      # Qwen: everything that has no engine block of its own

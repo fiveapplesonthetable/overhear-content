@@ -12,8 +12,14 @@ import config
 
 _SCENE_RE = re.compile(r"^scene-(\d\d)\.json$")
 _ID_RE = re.compile(r"^([a-z0-9-]+)-s(\d\d)e(\d\d)-scene-(\d\d)$")
-LANG_OF_PAIR = {"ru-en": "ru", "fr-en": "fr", "es-en": "es", "de-en": "de", "it-en": "it",
-                "ja-en": "ja", "zh-en": "zh", "ko-en": "ko", "ar-en": "ar", "pt-en": "pt"}
+VALID_LANGS = frozenset({"ru", "fr", "es", "de", "it", "ja", "zh", "ko", "ar", "pt", "hi", "en"})
+LANG_OF_PAIR = {
+    "ru-en": "ru", "fr-en": "fr", "es-en": "es", "de-en": "de", "it-en": "it",
+    "ja-en": "ja", "zh-en": "zh", "ko-en": "ko", "ar-en": "ar", "pt-en": "pt",
+    "hi-en": "hi",
+    "en-es": "en", "en-pt": "en", "en-fr": "en", "en-de": "en", "en-it": "en",
+    "en-ru": "en", "en-ar": "en", "en-ja": "en", "en-ko": "en", "en-zh": "en", "en-hi": "en",
+}
 
 
 @dataclass
@@ -34,6 +40,10 @@ class Scene:
     @property
     def episode_id(self):
         return f"{self.show}-s{self.season:02d}e{self.episode:02d}"
+
+    @property
+    def native_lang(self):
+        return self.pair.split("-")[1]
 
     def chars(self):
         return sum(len(s.get("t", "")) for s in self.script["segments"])

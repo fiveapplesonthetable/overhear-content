@@ -47,11 +47,22 @@ class Aligner:
         if sr != self.sr:
             x = ta.functional.resample(x, sr, self.sr)
         toks, owner = [], []
-        for i, c in enumerate(text):
-            for l in romanize_char(c, lang):
-                if l in self.dict:
-                    toks.append(self.dict[l])
-                    owner.append(i)
+        if lang in ("ar", "hi", "ja", "zh", "ko"):
+            import native_text
+            romanizer, edge_format = native_text._romanizer()
+            for edge in romanizer.romanize_string(text, lcode=native_text._CODES[lang], rom_format=edge_format):
+                if edge.start >= edge.end:
+                    continue
+                for ch in edge.txt.lower():
+                    if ch in self.dict:
+                        toks.append(self.dict[ch])
+                        owner.append(edge.start)
+        else:
+            for i, c in enumerate(text):
+                for l in romanize_char(c, lang):
+                    if l in self.dict:
+                        toks.append(self.dict[l])
+                        owner.append(i)
         res = [None] * len(text)
         x_orig = x[0].numpy()
         if not toks:

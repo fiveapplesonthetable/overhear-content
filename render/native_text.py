@@ -10,9 +10,9 @@ from pathlib import Path
 import re
 import unicodedata
 
-LANGUAGES = frozenset({"ja", "zh", "ko", "ar"})
+LANGUAGES = frozenset({"ja", "zh", "ko", "ar", "hi"})
 VERSION = "mms-uroman-wordspans/1;uroman=1.3.1.1"
-_CODES = {"ja": "jpn", "zh": "zho", "ko": "kor", "ar": "ara"}
+_CODES = {"ja": "jpn", "zh": "zho", "ko": "kor", "ar": "ara", "hi": "hin"}
 _ALPHABET = frozenset("abcdefghijklmnopqrstuvwxyz'")
 _spec = importlib.util.spec_from_file_location("overhear_authored_spans", Path(__file__).resolve().parents[1] / "tools/word_spans.py")
 _spans = importlib.util.module_from_spec(_spec)
@@ -41,7 +41,7 @@ class Targets:
 def words_for_segment(text, annotations, lang):
     annotations = annotations or []
     try:
-        spans = _spans.annotation_spans(text, annotations, required=lang in ("ja", "zh"))
+        spans = _spans.annotation_spans(text, annotations, required=lang in ("ja", "zh", "hi"))
     except ValueError as exc:
         raise NativeAlignmentError(str(exc)) from exc
     if spans is None:
@@ -52,8 +52,8 @@ def words_for_segment(text, annotations, lang):
     words = []
     for i, (start, end) in enumerate(spans):
         reading = annotations[i].get("reading") if i < len(annotations) else None
-        if lang in ("ja", "zh") and not reading:
-            raise NativeAlignmentError("Japanese/Mandarin words need reviewed kana/contextual pinyin readings")
+        if lang in ("ja", "zh", "hi") and not reading:
+            raise NativeAlignmentError("Japanese/Mandarin/Hindi words need reviewed readings")
         words.append(Word(text[start:end], start, end, reading))
     return tuple(words)
 

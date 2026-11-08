@@ -39,7 +39,19 @@
         "ja-en",
         "zh-en",
         "ar-en",
-        "pt-en"
+        "pt-en",
+        "hi-en",
+        "en-es",
+        "en-pt",
+        "en-fr",
+        "en-de",
+        "en-it",
+        "en-ru",
+        "en-ar",
+        "en-ja",
+        "en-ko",
+        "en-zh",
+        "en-hi"
       ]
     },
     "show": {
@@ -65,11 +77,8 @@
       "description": "<target title>  (<English title>): exactly two spaces before the bracket, no other double spaces, no leading/trailing space."
     },
     "level": {
-      "enum": [
-        "A1 — Duolingo Section 2",
-        "A1 — débutant",
-        "A1 — beginner"
-      ]
+      "type": "string",
+      "pattern": "^A[12] — \\S.*$"
     },
     "labels": {
       "type": "object",

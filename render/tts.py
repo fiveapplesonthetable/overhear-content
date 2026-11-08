@@ -208,7 +208,7 @@ class QwenCustomEngine:
         Returns stats {n, audio_s, wall_s, retries}."""
         torch = self.torch
         t = self.s["tts"]
-        langs = {"ko": "Korean", "ja": "Japanese", "zh": "Chinese", "it": "Italian", "pt": "Portuguese", "ar": "Arabic", "es": "Spanish", "de": "German"}
+        langs = {"ko": "Korean", "ja": "Japanese", "zh": "Chinese", "it": "Italian", "pt": "Portuguese", "ar": "Arabic", "es": "Spanish", "de": "German", "en": "English", "ru": "Russian", "fr": "French"}
         langs.update(t.get("languages", {}))
         todo = [it for it in items if not store.tts_path(it["key"]).exists()]
         todo.sort(key=lambda it: len(it["text_tts"]))
@@ -237,13 +237,15 @@ class QwenCustomEngine:
                 wavs_en = []
                 if chunk_en:
                     try:
-                        torch.cuda.empty_cache()
+                        if hasattr(torch.cuda, "empty_cache"):
+                            torch.cuda.empty_cache()
                         wavs_en = self.generate(
                             [(c["voice"], langs[c["lang"]], c["text_tts"]) for c in chunk_en],
                             seed, temperature=0.54, repetition_penalty=1.08, top_k=25, top_p=0.85,
                         )
                     except torch.cuda.OutOfMemoryError:
-                        torch.cuda.empty_cache()
+                        if hasattr(torch.cuda, "empty_cache"):
+                            torch.cuda.empty_cache()
                         if bs == 1: raise
                         bs = max(1, bs // 2)
                         self.log(f"OOM: batch size -> {bs}")
@@ -264,10 +266,12 @@ class QwenCustomEngine:
                             for c in ct_slice:
                                 for cand_idx in range(n_cands):
                                     expanded_target.append(c)
-                            torch.cuda.empty_cache()
+                            if hasattr(torch.cuda, "empty_cache"):
+                                torch.cuda.empty_cache()
                             wavs_target.extend(self.generate([(c["voice"], langs[c["lang"]], c["text_tts"]) for c in expanded_target], seed, temperature=temp, repetition_penalty=rep))
                     except torch.cuda.OutOfMemoryError:
-                        torch.cuda.empty_cache()
+                        if hasattr(torch.cuda, "empty_cache"):
+                            torch.cuda.empty_cache()
                         if bs == 1: raise
                         bs = max(1, bs // 2)
                         self.log(f"OOM: batch size -> {bs}")
@@ -278,7 +282,8 @@ class QwenCustomEngine:
                 i += len(chunk)
                 if bs < init_bs:
                     bs = min(init_bs, bs * 2)
-                torch.cuda.empty_cache()
+                if hasattr(torch.cuda, "empty_cache"):
+                    torch.cuda.empty_cache()
                 
                 # process en
                 for c, w in zip(chunk_en, wavs_en):

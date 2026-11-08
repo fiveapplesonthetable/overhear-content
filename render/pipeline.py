@@ -208,7 +208,12 @@ def run_clip_group(args, settings, sids, log=log):
     # accent the sentences first, on the CPU, so the GPU reservation below is not held while RuAccent starts
     clips.warm_ruaccent(loaded, settings, RuAccent(settings["stress"]["ruaccentPython"], Path(args.store) / "cache" / "ruaccent.json"))
     totals = {"passed": 0, "failed": 0}
-    clip_venv = config.VENV_AR if (config.ar_engine(settings) and any(sc.lang == "ar" for sc in loaded)) else config.VENV_QWEN
+    if config.ar_engine(settings) and any(sc.lang == "ar" for sc in loaded):
+        clip_venv = config.VENV_AR
+    elif config.hi_engine(settings) and any(sc.lang == "hi" for sc in loaded):
+        clip_venv = config.hi_venv(settings)
+    else:
+        clip_venv = config.VENV_QWEN
     for attempt in range(cfg["retakes"] + 1):
         cmd = [config.GPURUN, str(cfg["gpu"]["ttsMiB"]), f"{clip_venv}/bin/python", "-I", str(HERE / "stage.py"), "clips",
                "--scenes", scenes, "--attempt", str(attempt), "--content", str(args.content), "--store", str(args.store)]
@@ -284,7 +289,12 @@ def run_forms(args, settings, voices, store, scenes, limit=0, log=log):
             return
         ids_file = Path(args.store) / "forms" / (".chunk.json" if n_form_workers == 1 else f".chunk-{ci}.json")
         ids_file.write_text(json.dumps(chunk), "utf-8")
-        form_venv = config.VENV_AR if (config.ar_engine(settings) and "ar" in cfg["voices"]) else config.VENV_QWEN
+        if config.ar_engine(settings) and "ar" in cfg["voices"]:
+            form_venv = config.VENV_AR
+        elif config.hi_engine(settings) and "hi" in cfg["voices"]:
+            form_venv = config.hi_venv(settings)
+        else:
+            form_venv = config.VENV_QWEN
         try:
             for attempt in range(cfg["retakes"] + int(cfg.get("extraRetakes", 0)) + 1):
                 cmd = [config.GPURUN, str(cfg["gpu"]["ttsMiB"]), f"{form_venv}/bin/python", "-I", str(HERE / "stage.py"), "forms",
@@ -443,13 +453,14 @@ def run_pipeline(args, settings, voices, store, todo, backlog=()):
                 steps = ([("synth-ru", gpu["ruMiB"], ru_venv)] if ru else []) + \
                         ([("synth-en", gpu["enMiB"], config.VENV_F5)] if en else []) + \
                         ([("synth-ar", gpu.get("arMiB", gpu["ttsMiB"]), config.VENV_AR)] if config.ar_engine(settings) else []) + \
+                        ([("synth-hi", gpu.get("hiMiB", gpu["ttsMiB"]), config.hi_venv(settings))] if config.hi_engine(settings) else []) + \
                         [("synth", gpu["ttsMiB"], None)]
                 if len(batch_sids) == 1:
                     tag_m, miss = run_stage(stage_cmd(args, settings, "missing", sid, 0))
                     if tag_m != "OK":
-                        miss = {"ru": 1, "en": 1, "ar": 1, "other": 1}
+                        miss = {"ru": 1, "en": 1, "ar": 1, "hi": 1, "other": 1}
                     active = [(stage, mib, venv) for stage, mib, venv in steps
-                              if miss.get({"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar", "synth": "other"}[stage], 1)]
+                              if miss.get({"synth-ru": "ru", "synth-en": "en", "synth-ar": "ar", "synth-hi": "hi", "synth": "other"}[stage], 1)]
                     runner = lambda s: run_stage(stage_cmd(args, settings, s[0], sid, s[1], venv=s[2]))
                 else:
                     active = steps

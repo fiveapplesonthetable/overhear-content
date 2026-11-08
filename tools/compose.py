@@ -52,20 +52,30 @@ def cues(path):
 
 
 def squash(s):
-    return re.sub(r"[\W_]+", " ", s.lower().replace("ё", "е")).strip()
+    import unicodedata
+    s_low = unicodedata.normalize("NFC", s.lower().replace("ё", "е"))
+    if re.search(r"[\u0900-\u097f]", s_low):
+        cleaned = "".join(ch if unicodedata.category(ch)[0] in ("L", "M", "N") else " " for ch in s_low)
+        return re.sub(r"\s+", " ", cleaned).strip()
+    return re.sub(r"[\W_]+", " ", s_low).strip()
 
 
 def check_language(mod, problems):
     cyr = re.compile(r"[\u0400-\u04ff]")
+    dev = re.compile(r"[\u0900-\u097f]")
+    target_lang, native_lang = mod.PAIR.split("-")
     for i, (role, text, *_rest) in enumerate(mod.STORY):
-        if mod.PAIR == "ru-en":
+        if target_lang == "ru":
             if re.search(r"[A-Za-z]", text): problems.append(f"story {i}: Latin letters in Russian text: {text}")
             if "\u0301" in text: problems.append(f"story {i}: stress mark in text")
+        elif target_lang == "hi":
+            if cyr.search(text): problems.append(f"story {i}: Cyrillic in Hindi text")
+            if not dev.search(text): problems.append(f"story {i}: Hindi line has no Devanagari: {text}")
         else:
-            if cyr.search(text): problems.append(f"story {i}: Cyrillic in French text")
-            if re.search(r"\s[?!:;]", text): problems.append(f"story {i}: space before ?!:; (write 'là ?' as 'là?'): {text}")
-            if "\u2019" in text: problems.append(f"story {i}: typographic apostrophe, use '")
-            if "«" in text or "»" in text: problems.append(f"story {i}: guillemets in spoken line")
+            if cyr.search(text): problems.append(f"story {i}: Cyrillic in {target_lang} text")
+            if target_lang in ("fr", "es") and re.search(r"\s[?!:;]", text): problems.append(f"story {i}: space before ?!:; (write 'là ?' as 'là?'): {text}")
+            if target_lang in ("fr", "es", "de", "it", "pt", "en") and "\u2019" in text: problems.append(f"story {i}: typographic apostrophe, use '")
+            if target_lang in ("fr", "es") and ("«" in text or "»" in text): problems.append(f"story {i}: guillemets in spoken line")
     narrator = []
     for m in [mod.INTRO, mod.OPENER, mod.TRANSITION, mod.OUTRO]:
         if isinstance(m, str):
@@ -78,7 +88,12 @@ def check_language(mod, problems):
         else:
             narrator.extend([p for p in g if isinstance(p, str)])
     for t in narrator:
-        if cyr.search(t): problems.append(f"narrator text contains Cyrillic: {t[:60]}")
+        if native_lang != "ru" and cyr.search(t):
+            problems.append(f"narrator text contains Cyrillic: {t[:60]}")
+        if native_lang == "ru" and not cyr.search(t):
+            problems.append(f"Russian narrator text lacks Cyrillic: {t[:60]}")
+        if native_lang == "hi" and not dev.search(t):
+            problems.append(f"Hindi narrator text lacks Devanagari: {t[:60]}")
         if mod.PAIR == "fr-en" and re.search(r"\b(le|la|les|est|vous|bonjour|merci)\b", t.lower()) and "bonjour" in t.lower():
             problems.append(f"narrator seems to quote French: {t[:60]}")
 

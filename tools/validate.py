@@ -41,13 +41,20 @@ FAREWELL.update({
     "ko": re.compile(r"안녕히 (가세요|계세요)|안녕|또 (봐요|만나요)|다음에 (봐요|만나요)"),
     "pt": re.compile(r"\b(?:Tchau|Até (?:logo|amanhã|mais|a próxima)|Adeus|Boa (?:noite|tarde))\b", re.I),
     "ar": re.compile(r"مع السلامة|إلى اللقاء|الى اللقاء|نشوفك|أشوفك|اشوفك"),
+    "hi": re.compile(r"नमस्ते|फिर मिलेंगे|कल मिलेंगे|जल्द मिलेंगे|चलता हूँ|चलती हूँ|चलते हैं|शुभ रात्रि|शुभ दिन|अलविदा|ध्यान रखना|ख्याल रखना"),
+    "en": re.compile(r"\b(?:Bye|Goodbye|See you(?: soon| tomorrow| later)?|Good night|Have a (?:good|nice|great) (?:day|evening|night)|Take care|Until tomorrow|Catch you later)\b", re.I),
 })
 
 SCHEMA_ERR_CAP = 8          # per file; the rest is summarised ("and N more")
 
 ROOT = Path(__file__).resolve().parents[1]
 SHOWS = {}                # show folder -> learned language, from out/<show>/show.json (show_lang)
-PAIR = {lang: f"{lang}-en" for lang in ("ru", "fr", "es", "de", "it", "ko", "ja", "zh", "ar", "pt")}
+SHOW_PAIRS = {}           # show folder -> full pair (e.g. "ru-en", "hi-en", "en-es")
+VALID_PAIRS = {
+    "ru-en", "fr-en", "es-en", "de-en", "it-en", "ko-en", "ja-en", "zh-en", "ar-en", "pt-en", "hi-en",
+    "en-es", "en-pt", "en-fr", "en-de", "en-it", "en-ru", "en-ar", "en-ja", "en-ko", "en-zh", "en-hi",
+}
+PAIR = {lang: f"{lang}-en" for lang in ("ru", "fr", "es", "de", "it", "ko", "ja", "zh", "ar", "pt", "hi")}
 CYR = re.compile(r"[Ѐ-ӿ]")
 LAT = re.compile(r"[A-Za-z]")
 ACUTE = "́"
@@ -136,10 +143,9 @@ class Report:
 
 def check_learn(root, rep):
     """learn/<pair>/<id>.json: schema, id = file name, pair = folder, related notes exist, every example is a target-language line of a
-    scene under out/ (sceneId <show>-sNNeNN-scene-NN, seg = index into that scene's script segments). Section ids are checked by the publisher
+    scene under out/ or originals/ (sceneId <show>-sNNeNN-scene-NN, seg = index into that scene's script segments). Section ids are checked by the publisher
     against the app's config/ui."""
     root = Path(root)
-    lang = {pair: target for target, pair in PAIR.items()}
     for pdir in sorted(p for p in (root / "learn").glob("*") if p.is_dir()):
         notes = {}
         for f in sorted(pdir.glob("*.json")):
@@ -164,7 +170,7 @@ def check_learn(root, rep):
                 segs = json.loads(sp.read_text(encoding="utf-8"))["segments"]
                 if ex["seg"] >= len(segs): rep.err(str(f), f"example {ex['sceneId']}#{ex['seg']}: scene has {len(segs)} segments")
                 elif segs[ex["seg"]]["v"] == "narrator": rep.err(str(f), f"example {ex['sceneId']}#{ex['seg']} is a narrator line")
-                elif show_lang(show_dir, Report()) != lang.get(pdir.name): rep.err(str(f), f"example {ex['sceneId']} is not a {pdir.name} show")
+                elif show_pair(show_dir, Report()) != pdir.name: rep.err(str(f), f"example {ex['sceneId']} is not a {pdir.name} show")
 
 
 def check_metadata(root, rep):
@@ -218,13 +224,13 @@ def target_ok(lang, text, where, rep):
         if not CYR.search(text): rep.err(where, f"Russian line has no Cyrillic: {text[:50]!r}")
         if LAT.search(text): rep.err(where, f"Latin letters in Russian line: {text[:50]!r}")
     else:
-        name = {"fr": "French", "es": "Spanish", "de": "German", "it": "Italian", "ja": "Japanese", "zh": "Chinese", "ko": "Korean", "ar": "Arabic", "pt": "Brazilian Portuguese"}.get(lang, lang)
+        name = {"fr": "French", "es": "Spanish", "de": "German", "it": "Italian", "ja": "Japanese", "zh": "Chinese", "ko": "Korean", "ar": "Arabic", "pt": "Brazilian Portuguese", "hi": "Hindi", "en": "English"}.get(lang, lang)
         if CYR.search(text): rep.err(where, f"Cyrillic in {name} line: {text[:50]!r}")
         if lang in ("fr", "es") and re.search(r"\s[?!:;]", text): rep.err(where, f"space before ?!:; (write 'là?'): {text[:50]!r}")
-        if lang in ("fr", "es", "de", "it", "pt") and "’" in text: rep.err(where, "typographic apostrophe, use '")
-        if lang in ("fr", "es") and ("«" in text or "»" in text): rep.err(where, "guillemets in a spoken line")
+        if lang in ("fr", "es", "de", "it", "pt", "en") and "’" in text: rep.err(where, "typographic apostrophe, use '")
+        if lang in ("fr", "es", "en") and ("«" in text or "»" in text): rep.err(where, "guillemets in a spoken line")
 
-        native = {"ja": r"[\u3040-\u30ff\u3400-\u9fff]", "zh": r"[\u3400-\u9fff]", "ko": r"[\uac00-\ud7a3\u1100-\u11ff]", "ar": r"[\u0620-\u064a\u066e-\u06d3]"}.get(lang)
+        native = {"ja": r"[\u3040-\u30ff\u3400-\u9fff]", "zh": r"[\u3400-\u9fff]", "ko": r"[\uac00-\ud7a3\u1100-\u11ff]", "ar": r"[\u0620-\u064a\u066e-\u06d3]", "hi": r"[\u0900-\u097f]"}.get(lang)
         if native and not any(re.search(native, ch) and unicodedata.category(ch).startswith("L") and ch not in "ـー" for ch in text):
             rep.err(where, f"{name} line has no native-script letters: {text[:50]!r}")
 
@@ -236,7 +242,7 @@ def is_original_path(path, explicit_root=None):
     return "originals" in parts
 
 
-def check_script(path, lang, rep, expect_id=None, cast=None, is_original=None):
+def check_script(path, lang, rep, expect_id=None, cast=None, is_original=None, expect_pair=None):
     """cast = {role key: cast.json entry} of the show, or None (--script mode: no cast checks)."""
     w = str(path)
     orig = is_original_path(path) if is_original is None else bool(is_original)
@@ -251,7 +257,10 @@ def check_script(path, lang, rep, expect_id=None, cast=None, is_original=None):
         rep.err(w, "original scripts must not carry a 'source' block")
     if "segments" not in d: return None
     if expect_id and d.get("id") != expect_id: rep.err(w, f"id should be {expect_id!r}, is {d.get('id')!r}")
-    if d.get("pair") != PAIR[lang]: rep.err(w, f"pair should be {PAIR[lang]!r}")
+    want_pair = expect_pair or (PAIR.get(lang) if lang in PAIR else d.get("pair"))
+    if want_pair and d.get("pair") != want_pair: rep.err(w, f"pair should be {want_pair!r}, is {d.get('pair')!r}")
+    eff_pair = str(d.get("pair") or want_pair or "ru-en")
+    native_lang = eff_pair.split("-")[1] if "-" in eff_pair else "en"
     segs = d["segments"]
     if "format" in d: rep.err(w, "the 'format' field (single-scene excerpts) is retired: every scene is a full five-part lesson")
     if not isinstance(segs, list) or not all(isinstance(s, dict) and isinstance(s.get("v"), str) for s in segs):
@@ -264,6 +273,7 @@ def check_script(path, lang, rep, expect_id=None, cast=None, is_original=None):
         if r not in labels and not (cast is None and r in SLOT_KEYS):       # (--script mode: examples/ predate cast.json and labels)
             rep.err(w, f"labels missing display name for role {r!r}")
     if len(segs) < 20: return rep.err(w, "segments missing or too short (a lesson needs at least 20)")
+    narr_native_re = {"ja": r"[\u3040-\u30ff\u3400-\u9fff]", "zh": r"[\u3400-\u9fff]", "ko": r"[\uac00-\ud7a3\u1100-\u11ff]", "ar": r"[\u0620-\u064a\u066e-\u06d3]", "hi": r"[\u0900-\u097f]"}.get(native_lang)
     for i, s in enumerate(segs):
         sw = f"{w} segment {i}"
         if not isinstance(s, dict) or not {"v", "t", "gap"} <= set(s): rep.err(sw, "needs v, t, gap"); continue
@@ -273,10 +283,11 @@ def check_script(path, lang, rep, expect_id=None, cast=None, is_original=None):
         if "sourceAudio" in s: rep.err(sw, "sourceAudio is retired: lesson audio never contains original show audio")
         if s["v"] == "narrator":
             if any(x in s["t"] for x in PLACEHOLDER_SUMMARY): rep.err(sw, f"placeholder text leaked into the narration: {s['t'][:60]!r}")
-            if CYR.search(s["t"]): rep.err(sw, f"narrator must be English only: {s['t'][:50]!r}")
-            elif False:
-                rep.err(sw, f"narrator line does not look English: {s['t'][:50]!r}")
-            if lang == "fr" and re.search(r"[àâçéèêëîïôûùœ]", s["t"].lower()) and not re.search(r"Léa|Hervé|Élodie", s["t"]):
+            if native_lang == "en" and CYR.search(s["t"]): rep.err(sw, f"narrator must be English only: {s['t'][:50]!r}")
+            elif native_lang != "ru" and CYR.search(s["t"]): rep.err(sw, f"narrator ({native_lang}) must not contain Cyrillic: {s['t'][:50]!r}")
+            if native_lang == "ru" and not CYR.search(s["t"]): rep.err(sw, f"Russian narrator line has no Cyrillic: {s['t'][:50]!r}")
+            if narr_native_re and not re.search(narr_native_re, s["t"]): rep.err(sw, f"{native_lang} narrator line lacks native script: {s['t'][:50]!r}")
+            if eff_pair == "fr-en" and re.search(r"[àâçéèêëîïôûùœ]", s["t"].lower()) and not re.search(r"Léa|Hervé|Élodie", s["t"]):
                 rep.warn(sw, f"narrator line has French letters (quoting French?): {s['t'][:50]!r}")
         else:
             target_ok(lang, s["t"], sw, rep)
@@ -385,6 +396,7 @@ GLOSS = re.compile(r"^'(.+?)'(?=\s|$)\s*(.*)$", re.S)
 TRANSITION_TAIL = re.compile(r"\s*Now let's listen to the whole.*$|\s*Now let's hear.*$", re.S)
 WORD = re.compile(r"[^\W\d_][\w'’-]*", re.U)
 NOT_NAMES = {"Japanese", "Italian", "Georgian", "Chinese", "Mandarin", "American", "British", "Korean", "Spanish", "German", "Portuguese", "Brazilian", "Arabic", "Jordanian",
+             "Hindi", "Devanagari", "Sanskrit", "India", "Indian",
              "Alright", "Season", "Episode", "I", "I'm", "I'll", "I've", "I'd", "Russian", "Russians", "French", "English", "Moscow", "Russia", "France", "Paris", "Claude", "Monet",
              "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "Cyrillic", "Latin", "Hangul", "Kanji", "Kana", "Katakana", "Hiragana", "Pinyin",
              "Mr", "Mrs", "Dr", "OK", "Okay", "Kukhnya"}
@@ -497,28 +509,32 @@ def check_narration(w, d, cast, rep, other=frozenset()):
     """Narrator names must match the people who speak; the speaker's grammar must match the cast gender."""
     segs, roles = d["segments"], {s["v"] for s in d["segments"] if s["v"] != "narrator"}
     if cast is None: return
+    pair = str(d.get("pair", "ru-en"))
+    target_lang, native_lang = (pair.split("-") + ["en"])[:2]
     known = set().union(*(cast_names(e) for e in cast.values())) if cast else set()
     show_words = set(re.findall(r"[A-Za-z]+", str(d.get("show", "")).replace("-", " ").title())) | other
-    for i, s in enumerate(segs):
-        if s["v"] != "narrator" or not isinstance(s.get("t"), str): continue
-        sw = f"{w} segment {i}"
-        for tok, is_cast in narration_names(s["t"], known, show_words):
-            if not is_cast: rep.err(sw, f"narration names {tok!r}, who is not a character in cast.json (nor an ordinary word); fix the name or add the character")
-        prev = segs[i - 1] if i else None
-        if prev and prev["v"] != "narrator" and prev["v"] in cast:
-            g = split_gloss(s["t"])
-            if g:
-                first = WORD.search(g[1])
-                tok = strip_possessive(first[0]) if first else None
-                if tok and tok in known and tok not in cast_names(cast[prev["v"]]):
-                    who = [k for k, e in cast.items() if tok in cast_names(e)]
-                    rep.err(sw, f"narration says {tok!r} did this but the line was spoken by `{prev['v']}` ({cast[prev['v']]['en'][0]}); {tok!r} is `{who[0]}`")
+    if native_lang == "en":
+        for i, s in enumerate(segs):
+            if s["v"] != "narrator" or not isinstance(s.get("t"), str): continue
+            sw = f"{w} segment {i}"
+            for tok, is_cast in narration_names(s["t"], known, show_words):
+                if not is_cast: rep.err(sw, f"narration names {tok!r}, who is not a character in cast.json (nor an ordinary word); fix the name or add the character")
+            prev = segs[i - 1] if i else None
+            if prev and prev["v"] != "narrator" and prev["v"] in cast:
+                g = split_gloss(s["t"])
+                if g:
+                    first = WORD.search(g[1])
+                    tok = strip_possessive(first[0]) if first else None
+                    if tok and tok in known and tok not in cast_names(cast[prev["v"]]):
+                        who = [k for k, e in cast.items() if tok in cast_names(e)]
+                        rep.err(sw, f"narration says {tok!r} did this but the line was spoken by `{prev['v']}` ({cast[prev['v']]['en'][0]}); {tok!r} is `{who[0]}`")
     # grammar follows gender (heuristic, warning only): a masculine speaker's "я ... -ла" past tense
-    for i, s in enumerate(segs):
-        e = cast.get(s["v"])
-        if e and e["gender"] == "m" and isinstance(s.get("t"), str):
-            m = re.search(r"\b[Яя]\s+(?:[^\s.!?…]+\s+){0,2}?(\w+ла)\b(?![-\w])", s["t"])
-            if m and m[1].lower() not in FEM_NOUNS: rep.warn(f"{w} segment {i}", f"`{s['v']}` is male but says {m[1]!r} (feminine past tense?): {s['t'][:50]!r}")
+    if target_lang == "ru":
+        for i, s in enumerate(segs):
+            e = cast.get(s["v"])
+            if e and e["gender"] == "m" and isinstance(s.get("t"), str):
+                m = re.search(r"\b[Яя]\s+(?:[^\s.!?…]+\s+){0,2}?(\w+ла)\b(?![-\w])", s["t"])
+                if m and m[1].lower() not in FEM_NOUNS: rep.warn(f"{w} segment {i}", f"`{s['v']}` is male but says {m[1]!r} (feminine past tense?): {s['t'][:50]!r}")
 
 
 FEM_NOUNS = {"школа", "скала", "игла", "стрела", "мгла", "метла", "пила", "мула", "гора", "дыра"}   # "-ла" words that are not past-tense verbs
@@ -527,18 +543,22 @@ FEM_NOUNS = {"школа", "скала", "игла", "стрела", "мгла",
 def check_explanations(w, d, show, cast, rep):
     """P-1 problem 2: no grammar-label endings, no reused templates, little grammar jargon. Fills TEMPLATE_SEEN."""
     segs = d["segments"]
+    pair = str(d.get("pair", "ru-en"))
+    native_lang = pair.split("-")[1] if "-" in pair else "en"
     names = set().union(*(cast_names(e) for e in cast.values())) if cast else set()
     ex = explanations(segs)
     gram = 0
     for i, gloss, expl in ex:
-        if GRAMMAR_ENDING.search(unquote(expl)):
-            rep.err(f"{w} segment {i}", f"explanation ends with a grammar label ('with/using ... <grammar term>'): ...{expl[-60:]!r}")
-        if GRAMMAR_TERM.search(unquote(expl)): gram += 1
+        if native_lang == "en":
+            if GRAMMAR_ENDING.search(unquote(expl)):
+                rep.err(f"{w} segment {i}", f"explanation ends with a grammar label ('with/using ... <grammar term>'): ...{expl[-60:]!r}")
+            if GRAMMAR_TERM.search(unquote(expl)): gram += 1
         sk, n = skeleton(expl, names)
         if n >= SKEL_MIN_WORDS: TEMPLATE_SEEN.setdefault(show, {}).setdefault(sk, []).append((f"{w} segment {i}", d.get("id")))
-    check_teaching(w, ex, show, rep)
+    if native_lang == "en":
+        check_teaching(w, ex, show, rep)
     count_phrases(d, show, cast)
-    if len(ex) >= GRAMMAR_DENSITY_MIN_N and gram / len(ex) > GRAMMAR_DENSITY_MAX:
+    if native_lang == "en" and len(ex) >= GRAMMAR_DENSITY_MIN_N and gram / len(ex) > GRAMMAR_DENSITY_MAX:
         rep.err(w, f"{gram} of {len(ex)} explanations ({100 * gram // len(ex)}%) use grammar terms; at most {int(GRAMMAR_DENSITY_MAX * 100)}% (aim for one in five)")
 
 
@@ -682,11 +702,13 @@ def check_stress(lang, word, st, where, rep):
     if st is None: return
     if lang == "ru":
         if st.replace(ACUTE, "") != word: rep.err(where, f"stress {st!r} must be the word {word!r} plus U+0301")
-    elif lang in ("ja", "zh", "ko", "ar"):
+    elif lang in ("ja", "zh", "ko", "ar", "hi"):
         rep.err(where, f"{lang} stress must be null; reviewed alignment readings belong in words[].reading, not a guessed stress/pitch field")
     else:
         if re.search(r"[\s/\[\]]", st) or re.search(r"[A-Z]", st) or ACUTE in st: rep.err(where, f"{lang} stress must be bare IPA: {st!r}")
-        spelling = r"[éèêàùçôîï]" if lang == "fr" else r"[áéíóúñü]" if lang == "es" else r"[àèéìòù]" if lang == "it" else r"[áàâéêíóôúç]" if lang == "pt" else r"[äöüß]"
+        spelling = (r"[éèêàùçôîï]" if lang == "fr" else r"[áéíóúñü]" if lang == "es" else r"[àèéìòù]" if lang == "it"
+                    else r"[áàâéêíóôúç]" if lang == "pt" else r"[äöüß]" if lang == "de"
+                    else r"[áéíóúàèìòùâêîôûäëïöüñ]" if lang == "en" else r"[à-ÿ]")
         if re.search(spelling, st): rep.err(where, f"{lang} stress holds spelling letters, not IPA: {st!r}")
 
 
@@ -700,16 +722,17 @@ def check_notes(path, script, lang, require, rep, is_original=None):
     no_acute_outside_stress(n, w, rep, lang=lang)
     no_stray_backslash(n, w, rep)
     segs, lex = script["segments"], n.get("lexicon", {})
+    pair_key = str(script.get("pair") or lang)
     if not isinstance(n.get("lines"), list): return rep.err(w, "needs 'lines' list")
     done = set()
-    need_spans = (lang in ("ja", "zh", "ko", "ar")) if orig else (lang in ("ja", "zh"))
-    ipa_langs = ("fr", "es", "pt", "it", "de") if orig else ("fr", "es", "pt")
+    need_spans = (lang in ("ja", "zh", "ko", "ar", "hi")) if orig else (lang in ("ja", "zh", "hi"))
+    ipa_langs = ("fr", "es", "pt", "it", "de", "en") if orig else ("fr", "es", "pt", "en")
     for e in n["lines"]:
         i = e.get("seg")
         if not isinstance(i, int) or not 0 <= i < len(segs): rep.err(w, f"bad seg index {i!r}"); continue
         done.add(i); lw = f"{w} seg {i}"
         text = segs[i]["t"]
-        if not str(e.get("trans", "")).strip() and segs[i]["v"] != "narrator": rep.err(lw, "missing trans (English translation)")
+        if not str(e.get("trans", "")).strip() and segs[i]["v"] != "narrator": rep.err(lw, "missing trans (translation)")
         pos = 0
         try:
             authored_spans = annotation_spans(text, e.get("words", []), required=need_spans and segs[i]["v"] != "narrator")
@@ -734,9 +757,9 @@ def check_notes(path, script, lang, require, rep, is_original=None):
             if wd.get("pos") != "name" and not wd.get("stress") and (
                     lang in ipa_langs or (lang == "ru" and len(re.findall("[аеёиоуыэюя]", t.lower())) > 1 and "ё" not in t.lower())):
                 rep.err(lw, f"word {t!r} needs a stress value ({'IPA' if lang in ipa_langs else 'U+0301 mark; null only for one-vowel words or ё'})")
-            if lang in ("es", "pt", "it", "de", "fr") and orig: check_stress(lang, t, wd.get("stress"), lw, rep)
-            elif lang in ("es", "pt"): check_stress(lang, t, wd.get("stress"), lw, rep)
-            if lang in ("ja", "zh", "ko", "ar"): check_stress(lang, t, wd.get("stress"), lw, rep)
+            if lang in ("es", "pt", "it", "de", "fr", "en") and orig: check_stress(lang, t, wd.get("stress"), lw, rep)
+            elif lang in ("es", "pt", "en"): check_stress(lang, t, wd.get("stress"), lw, rep)
+            if lang in ("ja", "zh", "ko", "ar", "hi"): check_stress(lang, t, wd.get("stress"), lw, rep)
             if lang == "ru" and wd.get("stress") and len(re.findall("[аеёиоуыэюя]", wd["stress"].lower())) > 1 and ACUTE not in wd["stress"] and "ё" not in wd["stress"]:
                 rep.err(lw, f"stress {wd['stress']!r} lacks the U+0301 mark")
     table_langs = ("ru", "fr", "es", "it", "pt", "de", "ar", "ja", "ko") if orig else ("ru", "es", "pt")
@@ -752,10 +775,17 @@ def check_notes(path, script, lang, require, rep, is_original=None):
         if lang == "ru" and L.get("stress") and len(re.findall("[аеёиоуыэюя]", lemma)) > 1 and "ё" not in lemma and ACUTE not in L["stress"]:
             rep.err(lw, f"stress {L['stress']!r} lacks the U+0301 mark")
         for f in LEX_FIELDS:
-            LEX_SEEN.setdefault(lang, {}).setdefault(f, {}).setdefault(lemma, {}).setdefault(json.dumps(L.get(f), ensure_ascii=False), w)
+            LEX_SEEN.setdefault(pair_key, {}).setdefault(f, {}).setdefault(lemma, {}).setdefault(json.dumps(L.get(f), ensure_ascii=False), w)
         for t in [L.get("forms")] * bool(L.get("forms")) + list(L.get("moreForms") or []): table_ok(t, lw, rep)
         if L.get("pos") in ("noun", "adj", "verb") and not L.get("forms") and lang in table_langs:
             rep.err(lw, f"{lang} noun/adj/verb needs a forms table")
+        if lang == "hi":
+            if L.get("pos") in ("noun", "verb") and not L.get("forms"):
+                rep.err(lw, "hi noun/verb needs a forms table")
+            if L.get("pos") == "noun" and L.get("gender") not in ("m", "f") and L.get("number") != "pl":
+                rep.err(lw, "hi noun needs gender 'm' or 'f'")
+        if lang == "en" and L.get("pos") == "verb" and not L.get("forms"):
+            rep.err(lw, "en verb needs a forms table (base, 3rd sg, past, past participle, -ing)")
         if orig and lang == "zh" and L.get("forms") is not None:
             rep.err(lw, "zh lexicon entries carry forms: null (Mandarin has no inflection)")
         for m in L.get("meanings", []):
@@ -795,11 +825,12 @@ def check_lexicon(rep):
                 rep.errors.insert(0, f"lexicon ({lang}): {len(bad)} lemmas have conflicting {f} across scenes; e.g. {ex}")
 
 
-def show_lang(showdir, rep):
-    """The learned language of a show, from out/<show>/show.json (its `pair`), or None when missing/invalid (reported once)."""
+def show_pair(showdir, rep):
+    """The full pair of a show (e.g. 'ru-en', 'hi-en', 'en-es'), from <show>/show.json, or None when missing/invalid."""
     showdir = Path(showdir)
-    if showdir in SHOWS: return SHOWS[showdir]
-    f, lang = showdir / "show.json", None
+    if not SHOWS: SHOW_PAIRS.clear()
+    if showdir in SHOW_PAIRS: return SHOW_PAIRS[showdir]
+    f, pair = showdir / "show.json", None
     if not f.is_file():
         rep.err(str(f), "missing show.json (pair, title, summary, seasons, cover); see spec/schema/show.schema.json")
     else:
@@ -812,9 +843,16 @@ def show_lang(showdir, rep):
             if not errs:
                 if d["slug"] != showdir.name: rep.err(str(f), f"slug {d['slug']!r} does not match the folder")
                 if d["cover"] is not None and not (showdir / d["cover"]).is_file(): rep.err(str(f), f"cover {d['cover']!r} does not exist")
-                lang = d["pair"].split("-")[0]
-    SHOWS[showdir] = lang
-    return lang
+                pair = d["pair"]
+    SHOW_PAIRS[showdir] = pair
+    SHOWS[showdir] = pair.split("-")[0] if pair else None
+    return pair
+
+
+def show_lang(showdir, rep):
+    """The learned language of a show, from out/<show>/show.json (its `pair`), or None when missing/invalid (reported once)."""
+    pair = show_pair(showdir, rep)
+    return pair.split("-")[0] if pair else None
 
 
 # ---------------------------------------------------------------- episode
@@ -822,8 +860,9 @@ def check_scenes(epdir, show, rep, is_original=None):
     epdir = Path(epdir)
     orig = is_original_path(epdir) if is_original is None else bool(is_original)
     w = str(epdir / "scenes.json")
-    lang = show_lang(epdir.parent, rep)
-    if lang is None: return
+    pair = show_pair(epdir.parent, rep)
+    if pair is None: return
+    lang = pair.split("-")[0]
     if orig:
         repo_root = epdir.parent.parent.parent if epdir.parent.parent.name == "originals" else ROOT
         if (repo_root / "out" / show).exists():
@@ -874,7 +913,7 @@ def check_scenes(epdir, show, rep, is_original=None):
             sp = epdir / f"scene-{n}.json"
             if not sp.is_file(): rep.err(sw, f"missing scene-{n}.json")
             else:
-                d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}", cast=cast, is_original=orig)
+                d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}", cast=cast, is_original=orig, expect_pair=pair)
                 if d is not None:
                     if not orig:
                         # A transition explicitly folded into this lesson contributes its
@@ -946,7 +985,7 @@ def _parse_argv(argv):
 
 def main(argv):
     REQ[0] = "--require-notes" in argv
-    SHOWS.clear(); TEMPLATE_SEEN.clear(); TEACH_SEEN.clear(); PHRASE_SEEN.clear(); STRICT_TEACH[0] = "--strict-teaching" in argv; LEX_SEEN.clear(); ART_SEEN.clear()
+    SHOWS.clear(); SHOW_PAIRS.clear(); TEMPLATE_SEEN.clear(); TEACH_SEEN.clear(); PHRASE_SEEN.clear(); STRICT_TEACH[0] = "--strict-teaching" in argv; LEX_SEEN.clear(); ART_SEEN.clear()
     strict = "--strict" in argv
     show_all = "--all" in argv
     LENIENT_VERSION[0] = "--script" in argv
@@ -967,9 +1006,9 @@ def main(argv):
             script_pair = json.loads(p.read_text(encoding="utf-8")).get("pair")
         except (OSError, ValueError, AttributeError):
             script_pair = None  # check_script reports the actual file/JSON error
-        lang = next((lang for lang, pair in PAIR.items() if pair == script_pair),
-                    "fr" if re.search(r"dix|fr-", str(p)) else "ru")
-        check_script(p, lang, rep, is_original=is_original_path(p, explicit_root))
+        lang = (script_pair.split("-")[0] if isinstance(script_pair, str) and script_pair in VALID_PAIRS else
+                ("fr" if re.search(r"dix|fr-", str(p)) else "ru"))
+        check_script(p, lang, rep, is_original=is_original_path(p, explicit_root), expect_pair=script_pair if script_pair in VALID_PAIRS else None)
     else:
         default_dir = explicit_root or "out"
         base = Path(args[0] if args else default_dir).resolve()

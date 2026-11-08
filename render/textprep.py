@@ -13,7 +13,7 @@ from pathlib import Path
 
 ACUTE = "́"
 _SENT = re.compile(r"(?<=[.!?…])\s+")
-_NATIVE_SENT = re.compile(r"[。！？؟]+[」』”’\"')\]]*")
+_NATIVE_SENT = re.compile(r"[。！？؟।]+[」』”’\"')\]]*")
 _CYR = re.compile("[Ѐ-ӿ]")
 _VOWELS = set("аеёиоуыэюяАЕЁИОУЫЭЮЯ")
 _LETTER = re.compile(r"[^\W\d_]", re.UNICODE)
