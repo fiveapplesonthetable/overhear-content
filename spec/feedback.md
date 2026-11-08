@@ -17,3 +17,15 @@ Audio fixes are cheap: audio is cached by sentence in `render-store/cache/tts/<k
 ```
 
 Segment indices are zero-based authored indices. Increase the existing counter for another take; do not remove it afterward. An absent or zero counter produces exactly the legacy cache key. A positive counter changes that segment's sentence keys and the scene render key; all other sentences keep their cached audio. Inline narrator carriers share an utterance, so a retake re-voices the carrier containing that segment. Run `python3 -m pytest -q render/tests/test_retakes.py`.
+
+## Re-releasing fixed episodes (`tools/fix_episode.py`)
+
+After a text fix is committed and pushed, re-voice and re-publish only what changed:
+
+```
+python3 tools/fix_episode.py --changed-since <rev-before-the-fix>          # every released episode whose scene JSON changed
+python3 tools/fix_episode.py --episode <show>-s01e03 --retake <show>-s01e03-scene-05:17   # new take for a bad word/intonation
+python3 tools/fix_episode.py --changed-since <rev> --dry-run              # print the plan only
+```
+
+It renders in its own store (`~/overhear/render-store-fix`, so it never waits on the queue workers' `pipeline.lock`), first hard-linking the content-addressed caches (`cache/tts`, `clips`, `forms`) of every `~/overhear/render-store*`. Unchanged sentences are cache hits; only edited sentences (or retaken segments) go to the GPU. Scene audio is always re-assembled from per-sentence takes and re-aligned, never spliced into the old mp3, so there are no seams at the edit point. Then it runs `tools/check_render.py` and `tools/package_render.py --release`, which replaces the existing GitHub release asset (`--clobber`). Episodes that were never released are skipped: the normal queue renders the fixed text. `--retake` edits `render/retakes.json`; commit and push that before the release step. Tests: `python3 -m pytest -q render/tests/test_fix_episode.py`.
