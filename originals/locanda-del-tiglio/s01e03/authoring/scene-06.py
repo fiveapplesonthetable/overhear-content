@@ -23,7 +23,7 @@ STORY = [
     ('cesare', 'Non curiosate, certo... aspettate, si è aperto a metà!', 'Do not snoop, of course... wait, it fell open to the middle page!'),
     ('chiara', 'Perché ci sono disegni precisi a matita di tre locande della nostra via?', 'Why are there neat pencil drawings of three guesthouses on our street?'),
     ('giulia', "Guardate le parole vicino alla nostra: 'Larghezza cortile, rumore strada, voto silenzio: nove su dieci!'", "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'"),
-    ('cesare', 'Nove su dieci?! Nessuno misura gli ingressi a meno che...', 'Nine out of ten?! Nobody measures lobbies unless...'),
+    ('cesare', 'Nove su dieci?! Nessuno misura gli ingressi a meno che...', 'Nine out of ten?! Nobody measures courtyards unless...'),
     ('giulia', 'A meno che non scriva per la Guida Annuale di Bologna!', 'Unless he writes for the annual Bologna Travel Guide!'),
     ('chiara', "Presto, chiudetelo! Portiamolo su... fermi, cos'è questo rumore metallico?", 'Quick, close it! Let us take it upstairs—wait, what is that loud clanking sound?'),
 ]
@@ -37,7 +37,7 @@ WALK = [
     (6, None, ["'Do not snoop, of course... wait, it fell open to the middle page!' Cesare scolds them for half a second before peeking himself.", (None, 'Si è aperto a metà!'), 'Literally it opened itself in half—conveniently absolving everyone at the desk!']),
     (7, None, ["'Why are there neat pencil drawings of three guesthouses on our street?' Tools and mediums like in pencil or by hand use the tiny word for at.", (None, 'Disegni precisi a matita'), 'Just like handmade or painted in watercolour.']),
     (8, None, ["'Look at the words beside ours: Courtyard width, street noise, quiet score: nine out of ten!' Notice how scores are given in Italian.", (None, 'Nove su dieci!'), 'Literally nine on ten rather than nine out of ten.']),
-    (9, None, ["'Nine out of ten?! Nobody measures lobbies unless...' Three small words build the cliffhanger bridge for unless.", (None, 'A meno che'), 'Literally at less than—and Giulia immediately finishes his thought.']),
+    (9, None, ["'Nine out of ten?! Nobody measures courtyards unless...' Three small words build the cliffhanger bridge for unless.", (None, 'A meno che'), 'Literally at less than—and Giulia immediately finishes his thought.']),
     (10, None, "'Unless he writes for the annual Bologna Travel Guide!' Notice how Italian adds a soft extra not after unless, which does not make the sentence negative—it simply marks uncertainty."),
     (11, None, ["'Quick, close it! Let us take it upstairs—wait, what is that loud clanking sound?' One plural adjective freezes everyone in place.", (None, 'Fermi'), 'Literally still, everybody—the plural of the word for stationary!']),
 ]

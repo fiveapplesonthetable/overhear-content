@@ -19,12 +19,12 @@ STORY = [
     ('clara', '¿Por qué no podía darle el tren de madera a Tomás directamente en su puerta?', 'Why could you not simply hand Tomas the wooden train at his front door?'),
     ('javier', 'Hace tres años, cuando murió nuestro abuelo, Tomás y yo discutimos fuerte por vender la casa.', 'Three years ago, after our grandfather died, Tomas and I argued bitterly over selling the old house.'),
     ('mateo', 'Casas familiares y viejos recuerdos: esas discusiones duelen hondo.', 'Family houses and old memories—those arguments cut deep.'),
-    ('javier', 'No hablamos desde aquel domingo. La semana pasada le envié una postal corta.', 'We have not spoken since that Sunday. Last week I sent him one short postcard.'),
+    ('javier', 'No hemos hablado desde aquel día. La semana pasada le envié una postal corta.', 'We have not spoken since that day. Last week I sent him one short postcard.'),
     ('clara', '¿Pidiéndole quedar aquí el viernes al mediodía?', 'Asking him to meet you here on Friday at noon?'),
     ('javier', 'En realidad solo escribí: Algo del abuelo te espera en la Posada del Limonero el viernes al mediodía.', 'Actually, I only wrote: Something from Grandfather is waiting at the Lemon Tree Inn Friday at noon.'),
     ('mateo', '¡Ajá! ¡Temías que, si firmabas con tu nombre, el cabezota del hermano mayor se quedara en casa!', 'Aha! You feared that if you signed your name, stubborn big brother would stay home!'),
     ('javier', 'Conoces bien a los hermanos mayores, Mateo.', 'You know older brothers well, Mateo.'),
-    ('clara', 'Un momento: ¡¿pensaba dejar la maleta en recepción y mirar desde la otra acera?!', 'Wait—you were planning to hand the clerk the bag and watch from across the street?!'),
+    ('clara', 'Un momento: ¡¿pensaba dejar que el recepcionista le diera la maleta y mirar desde la otra acera?!', 'Wait—you were planning to let the clerk hand him the bag and watch from across the street?!'),
     ('javier', 'Ese era mi plan cobarde del lunes... antes de conocerlos a todos ustedes.', 'That was my cowardly Monday plan... before I met all of you.'),
 ]
 WALK = [
@@ -33,11 +33,11 @@ WALK = [
     (2, None, ["'Why could you not simply hand Tomas the wooden train at his front door?' Adding 'to him' onto 'give' builds", (None, 'darle'), "one smooth word meaning 'to hand him'."]),
     (3, None, ["'Three years ago, after our grandfather died, Tomas and I argued bitterly over selling the old house.' Put", (None, 'Hace tres años'), "literally 'it makes three years', at the start of a sentence for 'three years ago'."]),
     (4, None, ["'Family houses and old memories—those arguments cut deep.'", (None, 'duelen hondo'), "literally says 'ache deep'."]),
-    (5, None, ["'We have not spoken since that Sunday. Last week I sent him one short postcard.' Notice Spanish uses simple present with 'since' in", (None, 'No hablamos desde'), 'for an action continuing right up to today, and', (None, 'una postal'), 'is a picture postcard.']),
+    (5, None, ["'We have not spoken since that day. Last week I sent him one short postcard.' To pinpoint when silence started, he combines present perfect with", (None, 'desde aquel día'), "meaning 'since that day'."]),
     (6, None, ["'Asking him to meet you here on Friday at noon?' In Spain, arranging to meet someone uses", (None, 'quedar'), "a super useful everyday meaning alongside 'stay' or 'remain'!"]),
     (7, None, "'Actually, I only wrote: Something from Grandfather is waiting at the Lemon Tree Inn Friday at noon.' Leaving off his signature kept the mystery alive."),
     (8, None, ["'Aha! You feared that if you signed your name, stubborn big brother would stay home!' Built from 'big head',", (None, 'cabezota'), "is Spain's affectionate word for someone stubborn!"]),
     (9, None, "'You know older brothers well, Mateo.' Javier has switched comfortably to friendly first-name speech with Mateo."),
-    (10, None, ["'Wait—you were planning to hand the clerk the bag and watch from across the street?!' Spanish says", (None, 'desde la otra acera'), "literally 'from the other pavement', for 'from across the street'."]),
+    (10, None, ["'Wait—you were planning to let the clerk hand him the bag and watch from across the street?!' Notice how Clara exclaims", (None, 'Un momento'), "literally 'a moment', which is standard for 'wait!'"]),
     (11, None, ["'That was my cowardly Monday plan... before I met all of you.'", (None, 'cobarde'), "means 'cowardly', unchanging for masculine or feminine."]),
 ]

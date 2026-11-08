@@ -15,7 +15,7 @@ TRANSITION = "Now let's hear the whole scene again without stopping."
 OUTRO = "A steady blue flame and hot copper pipes, and Werner even called Klara colleague instead of rookie! Let's go upstairs next time as Lukas comes down from the attic."
 CLOSING = ('klara', 'Bis später!')
 STORY = [
-    ('klara', 'Hier sind beide Messingventile, Werner! Verschnaufen kann ich später!', 'Here are both brass valves, Werner! I can catch my breath later!'),
+    ('klara', 'Hier sind beide Messingventile, Werner! Verschnaufen? Niemals!', 'Here are both brass valves, Werner! Catch my breath? Never!'),
     ('werner', 'Halt die Taschenlampe ruhig auf das Rohrstück genau hier.', 'Hold the flashlight steady on the pipe joint right here.'),
     ('klara', 'Mach ich! Hast du den Haupthahn für das Wasser schon zugedreht?', 'Will do! Did you turn off the main water tap already?'),
     ('werner', 'Zu und leer. Gib mir links neben dir den schweren Schraubenschlüssel.', 'Off and drained. Pass me the heavy wrench to your left.'),

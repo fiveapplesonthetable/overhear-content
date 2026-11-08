@@ -18,7 +18,7 @@ STORY = [
     ('klara', 'Stellen wir den kleinen Holztisch genau hier unter den Baum, weg von der Tür.', 'Let us put the small wooden table right here under the tree, away from the door.'),
     ('werner', 'Guter Platz. Zwei feste Stühle mit Blick auf die Kräuter statt aufs Fenster.', 'Good spot. Two solid chairs facing the herbs instead of the window.'),
     ('miriam', 'Hier sind eine saubere weiße Tischdecke und zwei blaue Teetassen.', 'Here are a clean white tablecloth and two blue teacups.'),
-    ('klara', 'Werner, putzt du etwa die Papierlaternen für zwölf Uhr?', 'Werner, are you polishing the paper lanterns for twelve?'),
+    ('klara', 'Werner, hängst du etwa die Papierlaternen für zwölf Uhr auf?', 'Werner, are you hanging the paper lanterns for twelve?'),
     ('werner', 'Der Draht war krumm. Gute Wartung hat nichts mit Romantik zu tun.', 'The wire was crooked. Good maintenance has nothing to do with romance.'),
     ('miriam', 'Hört euch unseren Meister an! Gestern der Kessel, heute zwei Brüder!', 'Listen to our master craftsman! Yesterday the boiler, today two brothers!'),
     ('werner', 'Ich repariere Rohre und Stühle. Ihre Worte müssen die Leute selbst richten.', 'I repair pipes and chairs. People have to fix their own words.'),

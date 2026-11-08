@@ -22,7 +22,7 @@ STORY = [
     ('kenji', 'いいところに気づいたな、美央。陽翔さんなら毎週、市の建築規則を読んでいるはずだ。', 'Sharp catch, Mio. Haruto must read municipal building rules every single week.'),
     ('takashi', 'いやあ、大切なお客さまにうちの大家さんの悩みを相談するなんてできません！', 'Oh, I could never trouble a valued guest with our landlord worries!'),
     ('mio', '一週間も青いスーツケースを守ったんですよ？きっと力になってくれます！', 'After we guarded his blue suitcase all week? He will gladly lend a hand!'),
-    ('kenji', '待て……ちょうど今、由香があのテーブルから戻って来たぞ。', 'Hold on... Yuka is walking back from their table right now.'),
+    ('kenji', '待って、ちょうど今、由香が彼らのテーブルにケーキを運んでいるところだ。', 'Wait—由香 is taking the cake out to their table right now.'),
 ]
 
 OPENER = "Headaches over legal fine print give way to a bright idea from Mio. Let's walk through six lines."

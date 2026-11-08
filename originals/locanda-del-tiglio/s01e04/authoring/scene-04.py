@@ -14,7 +14,7 @@ TRANSITION = "Now let's hear the whole cellar scene again from start to finish."
 OUTRO = "A steady blue flame and hot copper pipes—and Bruno even called Chiara 'partner' instead of 'rookie'! Let's go upstairs next time as Davide comes down from the attic."
 CLOSING = ('chiara', 'A presto!')
 STORY = [
-    ('chiara', 'Ecco tutte e due le valvole di ottone, Bruno! Riprendere fiato? Mai!', 'Here are both brass valves, Bruno! Catch your breath? Never!'),
+    ('chiara', 'Ecco tutte e due le valvole di ottone, Bruno! Riprendere fiato io? Mai!', 'Here are both brass valves, Bruno! Catch my breath? Never!'),
     ('bruno', 'Tieni ferma questa torcia sul giunto del tubo proprio qui.', 'Hold this flashlight steady on the pipe joint right here.'),
     ('chiara', "Fatto! Hai già chiuso il rubinetto principale dell'acqua?", 'Got it! Did you turn off the main water tap already?'),
     ('bruno', 'Chiuso e svuotato. Passami la chiave inglese pesante alla tua sinistra.', 'Off and drained. Pass me the heavy wrench on your left.'),
@@ -28,7 +28,7 @@ STORY = [
     ('bruno', 'Tre minuti per arrivare al terzo piano. Bella corsa oggi, socia.', 'Three minutes to reach the third floor. Good run today, partner.'),
 ]
 WALK = [
-    (0, None, ["'Here are both brass valves, Bruno! Catch your breath? Never!' Look at the vivid two-word phrase for catching your breath.", (None, 'Riprendere fiato?'), 'Literally take back breath!']),
+    (0, None, ["'Here are both brass valves, Bruno! Catch my breath? Never!' Look at the vivid two-word phrase for catching your breath.", (None, 'Riprendere fiato?'), 'Literally take back breath!']),
     (1, None, ["'Hold this flashlight steady on the pipe joint right here.' Notice the feminine ending on steady matching flashlight.", (None, 'Tieni ferma questa torcia'), 'In Italian, that single word covers both an ancient flame torch and a pocket flashlight.']),
     (2, None, ["'Got it! Did you turn off the main water tap already?' Turning off a tap in Italian literally closes it.", (None, 'Hai già chiuso'), 'And turning a tap on opens it.']),
     (3, None, ["'Off and drained. Pass me the heavy wrench on your left.' Hear the curious Italian name for an adjustable wrench!", (None, 'La chiave inglese'), 'Literally the English key—what every Italian plumber and mechanic calls a spanner.']),

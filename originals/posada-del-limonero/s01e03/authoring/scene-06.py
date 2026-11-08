@@ -23,7 +23,7 @@ STORY = [
     ('ernesto', 'No debemos curiosear, claro... ¡un momento, se ha abierto por la mitad!', 'We must not snoop, of course... wait a moment, it fell open to the middle!'),
     ('clara', '¿Por qué hay dibujos limpios a lápiz de tres posadas de nuestra calle?', 'Why are there neat pencil drawings of three inns on our street?'),
     ('rocio', 'Mirad las palabras junto a la nuestra: Anchura del patio, ruido de la calle, nota de calma: ¡nueve sobre diez!', 'Look at the words beside ours: Courtyard width, street noise, quiet score: nine out of ten!'),
-    ('ernesto', '¡¿Nueve sobre diez?! Nadie mide vestíbulos a menos que...', 'Nine out of ten?! Nobody measures lobbies unless...'),
+    ('ernesto', '¡¿Nueve de diez?! Nadie mide patios a menos que...', 'Nine out of ten?! Nobody measures courtyards unless...'),
     ('rocio', '¡A menos que escriba para la guía anual de viajes de Valencia!', 'Unless he writes for the annual Valencia travel guide!'),
     ('clara', '¡Rápido, ciérralo! Vamos a subirlo... esperad, ¿qué es ese golpe metálico tan fuerte?', 'Quick, close it! Let us take it upstairs... wait, what is that loud metallic bang?'),
 ]
@@ -37,7 +37,7 @@ WALK = [
     (6, None, ["'We must not snoop, of course... wait a moment, it fell open to the middle!' Notice", (None, 'se ha abierto'), "literally 'it opened itself', neatly excusing Ernesto from snooping!"]),
     (7, None, ["'Why are there neat pencil drawings of three inns on our street?' To say drawn in pencil or written by hand, Spanish uses", (None, 'a lápiz'), "with tiny 'a'."]),
     (8, None, ["'Look at the words beside ours: Courtyard width, street noise, quiet score: nine out of ten!' Scores in Spain say", (None, 'nueve sobre diez'), "literally 'nine over ten'."]),
-    (9, None, ["'Nine out of ten?! Nobody measures lobbies unless...' Remember the three-word bridge", (None, 'a menos que'), "for 'unless'."]),
+    (9, None, ["'Nine out of ten?! Nobody measures courtyards unless...' The conditional link", (None, 'a menos que'), "neatly matches our 'unless'."]),
     (10, None, "'Unless he writes for the annual Valencia travel guide!' After 'unless', Spanish shifts the ending of 'writes' to mark a guess rather than a proven fact."),
     (11, None, ["'Quick, close it! Let us take it upstairs... wait, what is that loud metallic bang?'", (None, 'ciérralo'), "joins 'close' and 'it' in one urgent whisper."]),
 ]

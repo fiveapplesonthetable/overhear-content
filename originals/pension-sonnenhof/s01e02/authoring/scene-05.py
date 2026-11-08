@@ -25,7 +25,7 @@ STORY = [
     ('helga', 'Keine Sorge! Kaltes Sprudelwasser holt Orangensaft sofort heraus.', 'Do not worry! Cold sparkling water gets orange juice right out.'),
     ('klara', 'Hier sind ein sauberes Tuch und kaltes Wasser, Martin.', 'Here are a clean cloth and cold water, Martin.'),
     ('martin', 'Entschuldigen Sie mich, gnädige Frau, ich ziehe mich mit Würde ins Büro zurück!', 'Excuse me, madam, I shall retreat to my office with dignity!'),
-    ('helga', 'Ihr Rührei ist köstlich, Klara. Sagen Sie Miriam ein großes Lob!', 'Your scrambled eggs are delicious, Klara. Give Miriam high praise!'),
+    ('helga', 'Das Rührei ist köstlich, Klara. Sagen Sie Miriam ein großes Lob!', 'The scrambled eggs are delicious, Klara. Give Miriam high praise!'),
     ('klara', 'Das mache ich gern! Genießen Sie Ihren Vormittag.', 'I will gladly do that! Enjoy your morning.'),
 ]
 WALK = [

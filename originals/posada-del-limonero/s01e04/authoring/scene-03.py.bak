@@ -1,0 +1,43 @@
+# Authoring module for posada-del-limonero-s01e04-scene-03.
+ID = 'posada-del-limonero-s01e04-scene-03'
+SHOW = 'posada-del-limonero'
+SEASON = 1
+EPISODE = 4
+SCENE = 3
+TITLE = 'Rollos de canela calientes  (Hot Cinnamon Rolls)'
+LEVEL = 'A1 — beginner'
+PAIR = 'es-en'
+LABELS = {'rocio': 'Rocío', 'carmen': 'Carmen', 'ernesto': 'Ernesto'}
+INTRO = "Back at the guesthouse, {F3} walks down at seven ten in her dressing gown, hoping for tea before her morning wash. {F2} and {M2} exchange a quick look and launch their distraction plan. Listen first."
+OPENER = "Let's go through those lines together, step by step."
+TRANSITION = "Now let's hear all twelve lines together from the top."
+OUTRO = "Warm cinnamon rolls bought the exact ten minutes they needed as Clara dashed back through the courtyard gate. Let's head down to the boiler room next time."
+CLOSING = ('rocio', '¡Nos vemos!')
+STORY = [
+    ('carmen', '¡Buenos días! ¡Huele a canela caliente hasta arriba en la escalera!', 'Good morning! It smells like warm cinnamon all the way up on the stairs!'),
+    ('rocio', '¡Buenos días, señora Carmen! Mis rollos de canela acaban de salir del horno.', 'Good morning, Madam Carmen! My cinnamon rolls just came out of the oven.'),
+    ('ernesto', '¡Siéntese junto a la ventana soleada, señora! ¡No tenga prisa por subir todavía!', 'Sit down by the sunny window, madam! No rush to go upstairs yet!'),
+    ('carmen', 'En realidad, solo bajaba a preguntar por qué el grifo del baño salía tan frío.', 'Actually, I only came down to ask why the bathroom tap ran so chilly.'),
+    ('ernesto', '¿Frío? ¡Ah, sí! ¡Las tuberías de nuestro barrio se desperezan despacio por la mañana!', 'Chilly? Ah, yes! Our neighbourhood pipes stretch slowly in the morning!'),
+    ('rocio', '¡Tome primero una taza de té caliente y un rollo de canela diez minutos!', 'Have a hot cup of tea and a cinnamon roll for ten minutes first!'),
+    ('carmen', 'Bueno, nadie sensato dice que no al pan caliente con canela a las siete de la mañana.', 'Well, nobody sensible says no to warm cinnamon bread at seven in the morning.'),
+    ('ernesto', '¡Magnífica elección! ¿Quiere miel o mermelada de manzana al lado?', 'Wonderful choice! Would you like honey or apple jam on the side?'),
+    ('carmen', 'Solo un poco de mantequilla, gracias. ¿Por qué mira tanto su reloj, señor?', 'Just a little butter, thank you. Why do you keep looking at your watch, sir?'),
+    ('ernesto', '¿Yo? ¡Oh, simplemente adoro la puntualidad! ¡Las siete y catorce es un minuto precioso!', 'Me? Oh, I simply adore punctuality! Seven fourteen is a lovely minute!'),
+    ('rocio', 'Mira por la ventana del patio, Ernesto: ¡alguien acaba de entrar corriendo!', 'Look through the courtyard window, Ernesto: someone just ran in!'),
+    ('ernesto', '¡Salvados! Disculpe un instante, señora, ¡disfrute de su té caliente!', 'Saved! Excuse me one moment, madam, enjoy your hot tea!'),
+]
+WALK = [
+    (0, None, ["'Good morning! It smells like warm cinnamon all the way up on the stairs!' Whenever something smells of an ingredient, Spanish says", (None, 'Huele a canela'), "literally 'smells to cinnamon'."]),
+    (1, None, ["'Good morning, Madam Carmen! My cinnamon rolls just came out of the oven.' Plural", (None, 'acaban de salir'), 'matches the plural rolls coming fresh out of the oven.']),
+    (2, None, ["'Sit down by the sunny window, madam! No rush to go upstairs yet!' Since Spanish says 'have haste' for being in a hurry,", (None, 'No tenga prisa'), "politely says 'be in no rush'."]),
+    (3, None, ["'Actually, I only came down to ask why the bathroom tap ran so chilly.' Two smooth words,", (None, 'En realidad'), "start a gentle correction meaning 'actually', and", (None, 'el grifo'), 'is a water tap.']),
+    (4, None, ["'Chilly? Ah, yes! Our neighbourhood pipes stretch slowly in the morning!' Built from shaking off laziness,", (None, 'se desperezan'), 'means stretching when you first wake up!']),
+    (5, None, "'Have a hot cup of tea and a cinnamon roll for ten minutes first!' Notice Spanish needs no word for 'for' before 'ten minutes'."),
+    (6, None, ["'Well, nobody sensible says no to warm cinnamon bread at seven in the morning.' Look out for", (None, 'sensato'), "a false friend that means 'sensible' or 'wise', never 'sensitive'!"]),
+    (7, None, ["'Wonderful choice! Would you like honey or apple jam on the side?' Notice how", (None, 'mermelada de manzana'), "literally says 'jam of apple'."]),
+    (8, None, ["'Just a little butter, thank you. Why do you keep looking at your watch, sir?' Adding", (None, 'tanto'), "after 'look' turns 'why do you look?' into 'why do you look so much?'."]),
+    (9, None, "'Me? Oh, I simply adore punctuality! Seven fourteen is a lovely minute!' Notice even plural clock hours take singular 'is' when treated as 'one minute'."),
+    (10, None, ["'Look through the courtyard window, Ernesto: someone just ran in!' Combining two actions,", (None, 'entrar corriendo'), "literally 'enter running', is how Spanish expresses 'run in'!"]),
+    (11, None, ["'Saved! Excuse me one moment, madam, enjoy your hot tea!'", (None, 'disfrute de'), "wishes a guest 'enjoy', paired naturally with 'of'."]),
+]

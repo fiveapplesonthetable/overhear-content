@@ -16,12 +16,12 @@ OUTRO = "Bright daylight on an old luggage tag just unlocked twenty-five years o
 CLOSING = ('helga', 'Bis später!')
 STORY = [
     ('werner', 'Ich stelle den blauen Koffer fünf Minuten hierher, während ich die Kammer fege.', 'Let me set the blue suitcase here for five minutes while I sweep the closet.'),
-    ('klara', 'Pass gut darauf auf, Werner, morgen Mittag um zwölf ist Freitag!', 'Take good care of it, Werner, tomorrow at noon is Friday!'),
+    ('klara', 'Pass gut darauf auf, Werner, Freitagmittag ist schon morgen!', 'Take good care of it, Werner, Friday at noon is tomorrow!'),
     ('helga', 'Oh, ist das der Zwillingskoffer aus dem Zug vom Montag?', 'Oh, is that the twin suitcase from Monday train?'),
     ('klara', 'Ja, Frau Helga, er wartet immer noch auf seinen Besitzer.', 'Yes, Madam Helga, it is still waiting for its owner.'),
     ('helga', 'Darf ich mir das Papierschild hier im hellen Sonnenlicht noch einmal anschauen?', 'May I look at the paper tag once more here in the bright sunlight?'),
     ('werner', 'Aber gern, gnädige Frau. Am Montagnachmittag war es hier dunkel.', 'Gladly, madam. On Monday afternoon it was dark in here.'),
-    ('helga', 'Warten Sie mal... Lindengasse zwölf, und zwei geschnitzte Buchstaben an der Ecke!', 'Wait a moment... Number twelve Lindengasse, and two carved initials on the corner!'),
+    ('helga', 'Warten Sie mal... Lindengasse zwölf, und zwei geschriebene Buchstaben an der Ecke!', 'Wait a moment... Number twelve Lindengasse, and two written initials on the corner!'),
     ('klara', 'Frau Helga, Sie schauen ganz erstaunt! Kennen Sie die Lindengasse zwölf?', 'Madam Helga, you look completely amazed! Do you know Number twelve Lindengasse?'),
     ('helga', 'Ob ich sie kenne? Sechs Jahre lang stieg ich jeden Freitag diese Holztreppe fürs Klavier hinauf!', 'Do I know it? For six years I climbed those wooden stairs every Friday for piano!'),
     ('werner', 'Vor fünfundzwanzig Jahren? Genau in diesem Haus?', 'Twenty-five years ago? Right in that house?'),

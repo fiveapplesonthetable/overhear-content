@@ -14,7 +14,7 @@ TRANSITION = "Now let's listen to the whole courtyard reunion again."
 OUTRO = "Grandfather's wooden train is home, and Paolo's astonishment at seeing Madam Lucia filled the whole courtyard with laughter. Inside at the desk, however, Cesare is still staring at that letter. See you next time."
 CLOSING = ('lucia', 'A presto!')
 STORY = [
-    ('davide', 'Prima del trasloco in Via dei Tigli, ho salvato questa scatola dallo scaffale in soffitta.', 'Before the movers cleared Via dei Tigli, I saved this box from the attic shelf.'),
+    ('davide', 'Prima che i traslocatori sgomberassero la casa, ho salvato questa scatola dallo scaffale in soffitta.', 'Before the movers cleared the house, I saved this box from the attic shelf.'),
     ('paolo', 'Apri la carta bianca... no! La locomotiva di legno scolpita dal nonno!', "Open the white paper... no! Grandfather's carved wooden locomotive!"),
     ('davide', 'Guarda sotto le ruote: ci sono ancora il tuo nome e il mio scritti a matita.', 'Look underneath the wheels—your name and mine are still pencilled there.'),
     ('paolo', "Pensavo che fosse persa dopo la vendita della casa! Perché l'hai tenuta per me?", 'I thought this was lost when we sold the house! Why keep it for me?'),
@@ -28,7 +28,7 @@ STORY = [
     ('paolo', 'Si sieda con noi, signora Lucia! Mi dica che non sono in ritardo di venticinque anni per la lezione!', 'Please sit with us, Madam Lucia! Tell me I am not twenty-five years late for my lesson!'),
 ]
 WALK = [
-    (0, None, ["'Before the movers cleared Via dei Tigli, I saved this box from the attic shelf.' Moving house has one compact noun in Italian.", (None, 'Prima del trasloco'), 'Built from across plus place—shifting everything from one home to another!']),
+    (0, None, ["'Before the movers cleared the house, I saved this box from the attic shelf.' Moving house has one compact noun in Italian.", (None, 'Prima che i traslocatori sgomberassero'), 'Built from across plus place—shifting everything from one home to another!']),
     (1, None, ["'Open the white paper... no! Grandfather's carved wooden locomotive!' Disbelief in Italian often bursts out with a delighted no!", (None, 'Scolpita dal nonno!'), 'Carved by Grandfather.']),
     (2, None, ["'Look underneath the wheels—your name and mine are still pencilled there.' Written in pencil uses that same little tool word we saw for pencil drawings.", (None, 'Scritti a matita.'), "Plural ending in i to match both brothers' names."]),
     (3, None, ["'I thought this was lost when we sold the house! Why keep it for me?' Notice how Italian says why did you keep it for me.", (None, "Perché l'hai tenuta per me?"), 'Kept ends in a because it matches the feminine locomotive!']),

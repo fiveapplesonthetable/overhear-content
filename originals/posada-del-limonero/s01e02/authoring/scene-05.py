@@ -24,7 +24,7 @@ STORY = [
     ('carmen', '¡No se preocupe! El agua fría con gas quita el zumo enseguida.', 'Do not worry! Cold sparkling water takes juice right out.'),
     ('clara', 'Aquí tiene un paño limpio y agua fría, Ernesto.', 'Here is a clean cloth and cold water, Ernesto.'),
     ('ernesto', '¡Disculpe, señora, me retiro a mi despacho con dignidad!', 'Excuse me, madam, I shall retreat to my office with dignity!'),
-    ('carmen', 'Los huevos revueltos están deliciosos, Clara. ¡Felicite a Rocío de mi parte!', 'The scrambled eggs are delicious, Clara. Congratulate Rocio from me!'),
+    ('carmen', 'Los huevos revueltos están deliciosos, Clara. ¡Felicite a Rocío de mi parte!', 'The scrambled eggs are delicious, Clara. Tell Rocio my compliments!'),
     ('clara', '¡De su parte! Que pase una buena mañana.', 'I will! Have a lovely morning.'),
 ]
 WALK = [
@@ -38,6 +38,6 @@ WALK = [
     (7, None, ["'Do not worry! Cold sparkling water takes juice right out.' At restaurants in Spain, sparkling water is ordered as", (None, 'agua fría con gas'), "literally 'water with gas'."]),
     (8, None, "'Here is a clean cloth and cold water, Ernesto.' In Spanish, Clara keeps the polite form with her boss even while rescuing his silk tie."),
     (9, None, ["'Excuse me, madam, I shall retreat to my office with dignity!' In Spanish, a private office room is", (None, 'mi despacho'), 'rather than a large open-plan office.']),
-    (10, None, ["'The scrambled eggs are delicious, Clara. Congratulate Rocio from me!' Carmen chooses", (None, 'están deliciosos'), "using the temporary 'are' to praise how a dish tastes right now."]),
+    (10, None, ["'The scrambled eggs are delicious, Clara. Tell Rocio my compliments!' Carmen chooses", (None, 'están deliciosos'), "using the temporary 'are' to praise how a dish tastes right now."]),
     (11, None, ["'I will! Have a lovely morning.' Starting a wish with 'that' in", (None, 'Que pase una buena mañana'), "is the warm Spanish way to say 'have a nice morning'."]),
 ]

@@ -21,7 +21,7 @@ STORY = [
     ('werner', 'Nimm die zweite Straße neben dem Blumenstand, nicht die enge Gasse.', 'Take the second street beside the flower stall, not the narrow alley.'),
     ('klara', 'Ich gehe schon... oh, ich sehe den goldenen Schlüssel und die blaue Tür!', 'Walking now... oh, I see the golden key and the blue door!'),
     ('werner', 'Gut! Ist der Rollladen schon oben?', 'Good! Is the shutter already up?'),
-    ('klara', 'Er schließt gerade auf! Bleib eine Sekunde am Telefon.', 'He is unlocking it right now! Stay on the phone one second.'),
+    ('klara', 'Der Rezeptionist schließt gerade auf! Bleib eine Sekunde am Telefon.', 'The receptionist is unlocking it right now! Stay on the phone one second.'),
     ('werner', 'Achte darauf, dass der Messingring innen zwanzig Millimeter breit ist.', 'Make sure that the brass ring inside is twenty millimetres wide.'),
     ('klara', 'Er hat es mit dem alten verglichen, er hat noch zwei Stück im Regal!', 'He compared it with the old one, he has two left on the shelf!'),
     ('werner', 'Kauf beide! Ein Ersatzventil rettet auch den nächsten Winter.', 'Buy both! A spare valve saves next winter too.'),

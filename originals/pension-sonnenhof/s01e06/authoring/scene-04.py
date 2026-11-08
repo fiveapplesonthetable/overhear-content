@@ -16,13 +16,13 @@ OUTRO = "Not only is Lukas a historic courtyard architect, Moritz works at City 
 CLOSING = ('miriam', 'Bis später!')
 STORY = [
     ('miriam', 'Frisch aus dem Ofen: Zitronenkuchen am Freitag mit extra Eckstücken!', 'Fresh from the oven: Friday lemon cake with extra corner pieces!'),
-    ('moritz', 'Ein Bissen... Lukas, mach die Augen zu! Das schmeckt genau wie in der Lindengasse!', 'One bite... Lukas, close your eyes! That tastes just like on Lindengasse!'),
+    ('moritz', 'Ein Bissen... Lukas, mach die Augen zu! Das schmeckt genau wie Großvaters Kuchen!', 'One bite... Lukas, close your eyes! That tastes exactly like Grandfather\'s cake!'),
     ('lukas', 'Miriam hat ihn heute Vormittag gebacken, als Frau Helga unsere Geschichte erzählte.', 'Miriam baked it this morning when Madam Helga told our story.'),
     ('moritz', 'In was für eine wunderbare Pension bist du da gestolpert, kleiner Bruder?', 'What kind of wonderful guesthouse did you stumble into, little brother?'),
     ('lukas', 'Eine Pension, die im Regen Lampen baut und fremde Koffer beschützt.', 'A guesthouse that sets up lamps in the rain and protects strange suitcases.'),
     ('moritz', 'Dann sag mir, warum der arme Herr hinterm Empfang drinnen fast weint.', 'Then tell me why the poor gentleman behind the front desk inside is nearly crying.'),
     ('miriam', 'Oh! Haben Sie Martin durchs Fenster gesehen? Ich wollte doch doppelt breit lächeln!', 'Oh! Did you see Martin through the window? I tried to smile twice as wide!'),
-    ('lukas', 'Miriam, stimmt drinnen etwas nicht? Tropft das Rohr im Keller wieder?', 'Miriam, is something wrong inside? Is the pipe in the cellar dripping again?'),
+    ('lukas', 'Miriam, stimmt drinnen etwas nicht? Ist der Kessel wieder kaputt?', 'Miriam, is something wrong inside? Did the boiler break again?'),
     ('miriam', 'Schlimmer als ein Rohr... um zwölf kam ein Einschreiben vom Hausbesitzer.', 'Worse than a pipe... at noon a registered letter arrived from the building owner.'),
     ('moritz', 'Ein Hausbrief? Zeigen Sie ihn uns, ich arbeite im Vertragsamt und Lukas kennt Baurecht!', 'A property letter? Show it to us, I work in the contract office and Lukas knows building law!'),
     ('lukas', 'Moment, Moritz, arbeitest du immer noch im Rathaus bei den Stadtverträgen?!', 'Wait, Moritz, do you still work at City Hall on municipal contracts?!'),

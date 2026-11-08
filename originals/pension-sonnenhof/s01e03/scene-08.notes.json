@@ -458,15 +458,23 @@
     },
     {
       "seg": 6,
-      "trans": "Tomorrow morning at seven, the shower water will be ice-cold.",
+      "trans": "By tomorrow morning, the shower water will be ice-cold.",
       "words": [
         {
-          "t": "Morgen",
+          "t": "Bis",
+          "lemma": "bis",
+          "pos": "prep",
+          "stress": "bɪs",
+          "gloss": "until, up to, by",
+          "gram": "preposition"
+        },
+        {
+          "t": "morgen",
           "lemma": "morgen",
-          "pos": "noun",
+          "pos": "adv",
           "stress": "ˈmɔʁɡən",
-          "gloss": "morning",
-          "gram": "masc. sg. noun"
+          "gloss": "tomorrow",
+          "gram": "temporal adverb"
         },
         {
           "t": "früh",
@@ -475,22 +483,6 @@
           "stress": "fʁyː",
           "gloss": "early",
           "gram": "predicative / adverbial adjective"
-        },
-        {
-          "t": "um",
-          "lemma": "um",
-          "pos": "prep",
-          "stress": "ʊm",
-          "gloss": "at (clock time)",
-          "gram": "preposition"
-        },
-        {
-          "t": "sieben",
-          "lemma": "sieben",
-          "pos": "num",
-          "stress": "ˈziːbən",
-          "gloss": "seven",
-          "gram": "numeral"
         },
         {
           "t": "ist",
@@ -505,7 +497,7 @@
           "lemma": "der",
           "pos": "det",
           "stress": "das",
-          "gloss": "the",
+          "gloss": "that / the",
           "gram": "definite article / demonstrative (neut. sg.)"
         },
         {
@@ -1490,15 +1482,23 @@
     },
     {
       "seg": 24,
-      "trans": "Tomorrow morning at seven, the shower water will be ice-cold.",
+      "trans": "By tomorrow morning, the shower water will be ice-cold.",
       "words": [
         {
-          "t": "Morgen",
+          "t": "Bis",
+          "lemma": "bis",
+          "pos": "prep",
+          "stress": "bɪs",
+          "gloss": "until, up to, by",
+          "gram": "preposition"
+        },
+        {
+          "t": "morgen",
           "lemma": "morgen",
-          "pos": "noun",
+          "pos": "adv",
           "stress": "ˈmɔʁɡən",
-          "gloss": "morning",
-          "gram": "masc. sg. noun"
+          "gloss": "tomorrow",
+          "gram": "temporal adverb"
         },
         {
           "t": "früh",
@@ -1507,22 +1507,6 @@
           "stress": "fʁyː",
           "gloss": "early",
           "gram": "predicative / adverbial adjective"
-        },
-        {
-          "t": "um",
-          "lemma": "um",
-          "pos": "prep",
-          "stress": "ʊm",
-          "gloss": "at (clock time)",
-          "gram": "preposition"
-        },
-        {
-          "t": "sieben",
-          "lemma": "sieben",
-          "pos": "num",
-          "stress": "ˈziːbən",
-          "gloss": "seven",
-          "gram": "numeral"
         },
         {
           "t": "ist",
@@ -1537,7 +1521,7 @@
           "lemma": "der",
           "pos": "det",
           "stress": "das",
-          "gloss": "the",
+          "gloss": "that / the",
           "gram": "definite article / demonstrative (neut. sg.)"
         },
         {
@@ -2522,15 +2506,23 @@
     },
     {
       "seg": 44,
-      "trans": "Tomorrow morning at seven, the shower water will be ice-cold.",
+      "trans": "By tomorrow morning, the shower water will be ice-cold.",
       "words": [
         {
-          "t": "Morgen",
+          "t": "Bis",
+          "lemma": "bis",
+          "pos": "prep",
+          "stress": "bɪs",
+          "gloss": "until, up to, by",
+          "gram": "preposition"
+        },
+        {
+          "t": "morgen",
           "lemma": "morgen",
-          "pos": "noun",
+          "pos": "adv",
           "stress": "ˈmɔʁɡən",
-          "gloss": "morning",
-          "gram": "masc. sg. noun"
+          "gloss": "tomorrow",
+          "gram": "temporal adverb"
         },
         {
           "t": "früh",
@@ -2539,22 +2531,6 @@
           "stress": "fʁyː",
           "gloss": "early",
           "gram": "predicative / adverbial adjective"
-        },
-        {
-          "t": "um",
-          "lemma": "um",
-          "pos": "prep",
-          "stress": "ʊm",
-          "gloss": "at (clock time)",
-          "gram": "preposition"
-        },
-        {
-          "t": "sieben",
-          "lemma": "sieben",
-          "pos": "num",
-          "stress": "ˈziːbən",
-          "gloss": "seven",
-          "gram": "numeral"
         },
         {
           "t": "ist",
@@ -2569,7 +2545,7 @@
           "lemma": "der",
           "pos": "det",
           "stress": "das",
-          "gloss": "the",
+          "gloss": "that / the",
           "gram": "definite article / demonstrative (neut. sg.)"
         },
         {
@@ -3122,22 +3098,109 @@
     }
   ],
   "lexicon": {
-    "als": {
-      "lemma": "als",
-      "stress": "als",
-      "pos": "conj",
-      "gloss": "when (single past event); than; as",
+    "vorsagen": {
+      "lemma": "vorsagen",
+      "stress": "ˈfoːɐ̯zaːɡən",
+      "pos": "verb",
+      "gloss": "to prompt, repeat to oneself",
       "meanings": [
         {
-          "en": "when (single past event)",
-          "note": "Subordinating 'when' for one past event, 'than' after comparatives, or 'as' for roles."
+          "en": "to prompt, repeat to oneself",
+          "note": "Separable verb: sagt ... vor."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "ich sage vor",
+              "wir sagen vor"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "du sagst vor",
+              "ihr sagt vor"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "er/sie/es sagt vor",
+              "sie/Sie sagen vor"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "ich habe vorgesagt",
+                "wir haben vorgesagt"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "du hast vorgesagt",
+                "ihr habt vorgesagt"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "er/sie/es hat vorgesagt",
+                "sie/Sie haben vorgesagt"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ich sage vor heute hier.",
+          "trans": "I prompt here today."
         },
         {
-          "en": "than",
+          "text": "Wir sagen vor zusammen.",
+          "trans": "We prompt together."
+        }
+      ],
+      "related": []
+    },
+    "sie": {
+      "lemma": "sie",
+      "stress": "ziː",
+      "pos": "pron",
+      "gloss": "she; they; (cap. Sie) you (formal)",
+      "meanings": [
+        {
+          "en": "she",
+          "note": "Lowercase sie means 'she/it (fem.)' or 'they'; capitalized Sie (dat. Ihnen) is polite 'you'."
+        },
+        {
+          "en": "they",
           "note": ""
         },
         {
-          "en": "as",
+          "en": "(cap. Sie) you (formal)",
           "note": ""
         }
       ],
@@ -3145,12 +3208,643 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Wir hören das Wort als oft.",
-          "trans": "We hear the word 'when (single past event)' often."
+          "text": "Wir hören das Wort sie oft.",
+          "trans": "We hear the word 'she' often."
         },
         {
-          "text": "Im Alltag nutzt man als täglich.",
-          "trans": "In everyday life people use 'when (single past event)' daily."
+          "text": "Im Alltag nutzt man sie täglich.",
+          "trans": "In everyday life people use 'she' daily."
+        }
+      ],
+      "related": []
+    },
+    "ich": {
+      "lemma": "ich",
+      "stress": "ɪç",
+      "pos": "pron",
+      "gloss": "I, me",
+      "meanings": [
+        {
+          "en": "I, me",
+          "note": "First-person singular pronoun (acc. mich, dat. mir)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort ich oft.",
+          "trans": "We hear the word 'I' often."
+        },
+        {
+          "text": "Im Alltag nutzt man ich täglich.",
+          "trans": "In everyday life people use 'I' daily."
+        }
+      ],
+      "related": []
+    },
+    "bitte": {
+      "lemma": "bitte",
+      "stress": "ˈbɪtə",
+      "pos": "part",
+      "gloss": "please; you're welcome; pardon?",
+      "meanings": [
+        {
+          "en": "please",
+          "note": "All-purpose politeness word (Wie bitte? / Bitte schön!)."
+        },
+        {
+          "en": "you're welcome",
+          "note": ""
+        },
+        {
+          "en": "pardon?",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort bitte oft.",
+          "trans": "We hear the word 'please' often."
+        },
+        {
+          "text": "Im Alltag nutzt man bitte täglich.",
+          "trans": "In everyday life people use 'please' daily."
+        }
+      ],
+      "related": []
+    },
+    "dass": {
+      "lemma": "dass",
+      "stress": "das",
+      "pos": "conj",
+      "gloss": "that",
+      "meanings": [
+        {
+          "en": "that",
+          "note": "Subordinating conjunction sending the finite verb to the end."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort dass oft.",
+          "trans": "We hear the word 'that' often."
+        },
+        {
+          "text": "Im Alltag nutzt man dass täglich.",
+          "trans": "In everyday life people use 'that' daily."
+        }
+      ],
+      "related": []
+    },
+    "es": {
+      "lemma": "es",
+      "stress": "ɛs",
+      "pos": "pron",
+      "gloss": "it",
+      "meanings": [
+        {
+          "en": "it",
+          "note": "Third-person neuter singular pronoun and impersonal subject (es gibt, es regnet)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort es oft.",
+          "trans": "We hear the word 'it' often."
+        },
+        {
+          "text": "Im Alltag nutzt man es täglich.",
+          "trans": "In everyday life people use 'it' daily."
+        }
+      ],
+      "related": []
+    },
+    "nur": {
+      "lemma": "nur",
+      "stress": "nuːɐ̯",
+      "pos": "adv",
+      "gloss": "only, just",
+      "meanings": [
+        {
+          "en": "only, just",
+          "note": "Focus particle."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort nur oft.",
+          "trans": "We hear the word 'only' often."
+        },
+        {
+          "text": "Im Alltag nutzt man nur täglich.",
+          "trans": "In everyday life people use 'only' daily."
+        }
+      ],
+      "related": []
+    },
+    "ein": {
+      "lemma": "ein",
+      "stress": "aɪn",
+      "pos": "det",
+      "gloss": "a, an; one",
+      "meanings": [
+        {
+          "en": "a, an",
+          "note": "Indefinite article (ein, eine, einen, einem, einer, eines) and numeral base 'one'."
+        },
+        {
+          "en": "one",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort ein oft.",
+          "trans": "We hear the word 'a' often."
+        },
+        {
+          "text": "Im Alltag nutzt man ein täglich.",
+          "trans": "In everyday life people use 'a' daily."
+        }
+      ],
+      "related": []
+    },
+    "winzig": {
+      "lemma": "winzig",
+      "stress": "ˈvɪntsɪç",
+      "pos": "adj",
+      "gloss": "tiny, minuscule",
+      "meanings": [
+        {
+          "en": "tiny, minuscule",
+          "note": "Expressive word for 'very small'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "winzig"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "winziger"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "am winzigsten"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Das Zimmer ist winzig.",
+          "trans": "The room is tiny."
+        },
+        {
+          "text": "Das wirkt heute sehr winzig.",
+          "trans": "That seems very tiny today."
+        }
+      ],
+      "related": []
+    },
+    "luftblase": {
+      "lemma": "luftblase",
+      "stress": "ˈlʊftˌblaːzə",
+      "pos": "noun",
+      "gloss": "air bubble",
+      "meanings": [
+        {
+          "en": "air bubble",
+          "note": "Compound of Luft (air) + Blase (bubble)."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "die Luftblase",
+              "die Luftblasen"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "die Luftblase",
+              "die Luftblasen"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "der Luftblase",
+              "den Luftblasen"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "der Luftblase",
+              "der Luftblasen"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Die Luftblase ist hier.",
+          "trans": "The air bubble is here."
+        },
+        {
+          "text": "Ich sehe die Luftblase.",
+          "trans": "I see the air bubble."
+        }
+      ],
+      "related": [],
+      "gender": "f"
+    },
+    "sein": {
+      "lemma": "sein",
+      "stress": "zaɪn",
+      "pos": "verb",
+      "gloss": "to be; (aux.) have/be; (det.) his, its",
+      "meanings": [
+        {
+          "en": "to be",
+          "note": "Core irregular verb ('to be') and perfect auxiliary for motion/change-of-state verbs; homonymous with the possessive determiner sein ('his/its')."
+        },
+        {
+          "en": "(aux.) have/be",
+          "note": ""
+        },
+        {
+          "en": "(det.) his, its",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "ich bin",
+              "wir sind"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "du bist",
+              "ihr seid"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "er/sie/es ist",
+              "sie/Sie sind"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "ich war",
+                "wir waren"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "du warst",
+                "ihr wart"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "er/sie/es war",
+                "sie/Sie waren"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ich bin heute in der Pension.",
+          "trans": "I am at the guesthouse today."
+        },
+        {
+          "text": "Die Zimmer sind ruhig und sauber.",
+          "trans": "The rooms are quiet and clean."
+        }
+      ],
+      "related": []
+    },
+    "werner": {
+      "lemma": "werner",
+      "stress": "ˈvɛʁnɐ",
+      "pos": "name",
+      "gloss": "Werner",
+      "meanings": [
+        {
+          "en": "Werner",
+          "note": "Dry-humoured veteran caretaker and craftsman at the Pension Sonnenhof."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Werner wartet im Hof.",
+          "trans": "Werner is waiting in the courtyard."
+        },
+        {
+          "text": "Guten Morgen, Werner!",
+          "trans": "Good morning, Werner!"
+        }
+      ],
+      "related": []
+    },
+    "schlecht": {
+      "lemma": "schlecht",
+      "stress": "ʃlɛçt",
+      "pos": "adj",
+      "gloss": "bad",
+      "meanings": [
+        {
+          "en": "bad",
+          "note": "Opposite of gut."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "schlecht"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "schlechter"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "am schlechtesten"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Das Zimmer ist schlecht.",
+          "trans": "The room is bad."
+        },
+        {
+          "text": "Das wirkt heute sehr schlecht.",
+          "trans": "That seems very bad today."
+        }
+      ],
+      "related": []
+    },
+    "nachricht": {
+      "lemma": "nachricht",
+      "stress": "ˈnaxʁɪçt",
+      "pos": "noun",
+      "gloss": "message; (pl.) news",
+      "meanings": [
+        {
+          "en": "message",
+          "note": "Plural Nachrichten corresponds to English 'news'."
+        },
+        {
+          "en": "(pl.) news",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "die Nachricht",
+              "die Nachrichten"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "die Nachricht",
+              "die Nachrichten"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "der Nachricht",
+              "den Nachrichten"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "der Nachricht",
+              "der Nachrichten"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Die Nachricht ist hier.",
+          "trans": "The message is here."
+        },
+        {
+          "text": "Ich sehe die Nachricht.",
+          "trans": "I see the message."
+        }
+      ],
+      "related": [],
+      "gender": "f"
+    },
+    "der": {
+      "lemma": "der",
+      "stress": "deːɐ̯",
+      "pos": "det",
+      "gloss": "the; that, who (rel.)",
+      "meanings": [
+        {
+          "en": "the",
+          "note": "Definite article across genders/cases (der, die, das, den, dem, des) and demonstrative/relative pronoun."
+        },
+        {
+          "en": "that, who (rel.)",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort der oft.",
+          "trans": "We hear the word 'the' often."
+        },
+        {
+          "text": "Im Alltag nutzt man der täglich.",
+          "trans": "In everyday life people use 'the' daily."
+        }
+      ],
+      "related": []
+    },
+    "messingventil": {
+      "lemma": "messingventil",
+      "stress": "ˈmɛsɪŋvɛnˌtiːl",
+      "pos": "noun",
+      "gloss": "brass valve",
+      "meanings": [
+        {
+          "en": "brass valve",
+          "note": "Compound of Messing (brass) + Ventil (valve)."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "das Messingventil",
+              "die Messingventile"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "das Messingventil",
+              "die Messingventile"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Messingventil",
+              "den Messingventilen"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Messingventils",
+              "der Messingventile"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Das Messingventil ist hier.",
+          "trans": "The brass valve is here."
+        },
+        {
+          "text": "Ich sehe das Messingventil.",
+          "trans": "I see the brass valve."
+        }
+      ],
+      "related": [],
+      "gender": "n"
+    },
+    "am": {
+      "lemma": "am",
+      "stress": "am",
+      "pos": "prep",
+      "gloss": "at the, on the (an + dem)",
+      "meanings": [
+        {
+          "en": "at the, on the (an + dem)",
+          "note": "Contraction of an + dem; used with days and parts of the day (am Montag)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort am oft.",
+          "trans": "We hear the word 'at the' often."
+        },
+        {
+          "text": "Im Alltag nutzt man am täglich.",
+          "trans": "In everyday life people use 'at the' daily."
         }
       ],
       "related": []
@@ -3206,326 +3900,15 @@
       ],
       "related": []
     },
-    "am": {
-      "lemma": "am",
-      "stress": "am",
-      "pos": "prep",
-      "gloss": "at the, on the (an + dem)",
-      "meanings": [
-        {
-          "en": "at the, on the (an + dem)",
-          "note": "Contraction of an + dem; used with days and parts of the day (am Montag)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort am oft.",
-          "trans": "We hear the word 'at the' often."
-        },
-        {
-          "text": "Im Alltag nutzt man am täglich.",
-          "trans": "In everyday life people use 'at the' daily."
-        }
-      ],
-      "related": []
-    },
-    "auch": {
-      "lemma": "auch",
-      "stress": "aʊx",
-      "pos": "adv",
-      "gloss": "also, too, as well",
-      "meanings": [
-        {
-          "en": "also, too, as well",
-          "note": "Everyday additive adverb."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort auch oft.",
-          "trans": "We hear the word 'also' often."
-        },
-        {
-          "text": "Im Alltag nutzt man auch täglich.",
-          "trans": "In everyday life people use 'also' daily."
-        }
-      ],
-      "related": []
-    },
-    "auf": {
-      "lemma": "auf",
-      "stress": "aʊf",
-      "pos": "prep",
-      "gloss": "on (horizontal), onto, for; open (prefix)",
-      "meanings": [
-        {
-          "en": "on (horizontal), onto, for",
-          "note": "Two-way preposition, toast starter (Auf die Nachbarn!), and separable prefix ('open/up')."
-        },
-        {
-          "en": "open (prefix)",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort auf oft.",
-          "trans": "We hear the word 'on (horizontal)' often."
-        },
-        {
-          "text": "Im Alltag nutzt man auf täglich.",
-          "trans": "In everyday life people use 'on (horizontal)' daily."
-        }
-      ],
-      "related": []
-    },
-    "aufmachen": {
-      "lemma": "aufmachen",
-      "stress": "ˈaʊfmaxən",
-      "pos": "verb",
-      "gloss": "to open, open up",
-      "meanings": [
-        {
-          "en": "to open, open up",
-          "note": "Everyday separable partner to öffnen: macht ... auf."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "ich mache auf",
-              "wir machen auf"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "du machst auf",
-              "ihr macht auf"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "er/sie/es macht auf",
-              "sie/Sie machen auf"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "ich habe aufgemacht",
-                "wir haben aufgemacht"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "du hast aufgemacht",
-                "ihr habt aufgemacht"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "er/sie/es hat aufgemacht",
-                "sie/Sie haben aufgemacht"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ich mache auf heute hier.",
-          "trans": "I open here today."
-        },
-        {
-          "text": "Wir machen auf zusammen.",
-          "trans": "We open together."
-        }
-      ],
-      "related": []
-    },
-    "bis": {
-      "lemma": "bis",
-      "stress": "bɪs",
-      "pos": "prep",
-      "gloss": "until, up to, by",
-      "meanings": [
-        {
-          "en": "until, up to, by",
-          "note": "Time/space limit preposition (bis Freitag, bis bald!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort bis oft.",
-          "trans": "We hear the word 'until' often."
-        },
-        {
-          "text": "Im Alltag nutzt man bis täglich.",
-          "trans": "In everyday life people use 'until' daily."
-        }
-      ],
-      "related": []
-    },
-    "bitte": {
-      "lemma": "bitte",
-      "stress": "ˈbɪtə",
-      "pos": "part",
-      "gloss": "please; you're welcome; pardon?",
-      "meanings": [
-        {
-          "en": "please",
-          "note": "All-purpose politeness word (Wie bitte? / Bitte schön!)."
-        },
-        {
-          "en": "you're welcome",
-          "note": ""
-        },
-        {
-          "en": "pardon?",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort bitte oft.",
-          "trans": "We hear the word 'please' often."
-        },
-        {
-          "text": "Im Alltag nutzt man bitte täglich.",
-          "trans": "In everyday life people use 'please' daily."
-        }
-      ],
-      "related": []
-    },
-    "bleiben": {
-      "lemma": "bleiben",
-      "stress": "ˈblaɪbən",
-      "pos": "verb",
-      "gloss": "to stay, remain",
-      "meanings": [
-        {
-          "en": "to stay, remain",
-          "note": "Takes sein in the perfect despite no motion: ist geblieben!"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "ich bleibe",
-              "wir bleiben"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "du bleibst",
-              "ihr bleibt"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "er/sie/es bleibt",
-              "sie/Sie bleiben"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "ich bin geblieben",
-                "wir sind geblieben"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "du bist geblieben",
-                "ihr seid geblieben"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "er/sie/es ist geblieben",
-                "sie/Sie sind geblieben"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ich bleibe heute hier.",
-          "trans": "I stay here today."
-        },
-        {
-          "text": "Wir bleiben zusammen.",
-          "trans": "We stay together."
-        }
-      ],
-      "related": []
-    },
-    "brücke": {
-      "lemma": "brücke",
-      "stress": "ˈbʁʏkə",
+    "kessel": {
+      "lemma": "kessel",
+      "stress": "ˈkɛsəl",
       "pos": "noun",
-      "gloss": "bridge",
+      "gloss": "boiler, kettle",
       "meanings": [
         {
-          "en": "bridge",
-          "note": "Bridge over a river or road."
+          "en": "boiler, kettle",
+          "note": "Central heating boiler or large kettle."
         }
       ],
       "forms": {
@@ -3539,29 +3922,29 @@
           {
             "cells": [
               "nominative",
-              "die Brücke",
-              "die Brücken"
+              "der Kessel",
+              "die Kessel"
             ]
           },
           {
             "cells": [
               "accusative",
-              "die Brücke",
-              "die Brücken"
+              "den Kessel",
+              "die Kessel"
             ]
           },
           {
             "cells": [
               "dative",
-              "der Brücke",
-              "den Brücken"
+              "dem Kessel",
+              "den Kesseln"
             ]
           },
           {
             "cells": [
               "genitive",
-              "der Brücke",
-              "der Brücken"
+              "des Kessels",
+              "der Kessel"
             ]
           }
         ]
@@ -3569,733 +3952,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Die Brücke ist hier.",
-          "trans": "The bridge is here."
+          "text": "Der Kessel ist hier.",
+          "trans": "The boiler is here."
         },
         {
-          "text": "Ich sehe die Brücke.",
-          "trans": "I see the bridge."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "dank": {
-      "lemma": "dank",
-      "stress": "daŋk",
-      "pos": "noun",
-      "gloss": "thanks, gratitude",
-      "meanings": [
-        {
-          "en": "thanks, gratitude",
-          "note": "Used in vielen Dank (many thanks) and Gott sei Dank (thank goodness)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "der Dank",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "den Dank",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Dank",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Danks",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Der Dank ist hier.",
-          "trans": "The thanks is here."
-        },
-        {
-          "text": "Ich sehe den Dank.",
-          "trans": "I see the thanks."
+          "text": "Ich sehe den Kessel.",
+          "trans": "I see the boiler."
         }
       ],
       "related": [],
       "gender": "m"
-    },
-    "dass": {
-      "lemma": "dass",
-      "stress": "das",
-      "pos": "conj",
-      "gloss": "that",
-      "meanings": [
-        {
-          "en": "that",
-          "note": "Subordinating conjunction sending the finite verb to the end."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort dass oft.",
-          "trans": "We hear the word 'that' often."
-        },
-        {
-          "text": "Im Alltag nutzt man dass täglich.",
-          "trans": "In everyday life people use 'that' daily."
-        }
-      ],
-      "related": []
-    },
-    "dein": {
-      "lemma": "dein",
-      "stress": "daɪn",
-      "pos": "det",
-      "gloss": "your (casual sg.)",
-      "meanings": [
-        {
-          "en": "your (casual sg.)",
-          "note": "Informal singular possessive determiner."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort dein oft.",
-          "trans": "We hear the word 'your (casual sg.)' often."
-        },
-        {
-          "text": "Im Alltag nutzt man dein täglich.",
-          "trans": "In everyday life people use 'your (casual sg.)' daily."
-        }
-      ],
-      "related": []
-    },
-    "denn": {
-      "lemma": "denn",
-      "stress": "dɛn",
-      "pos": "conj",
-      "gloss": "because, for",
-      "meanings": [
-        {
-          "en": "because, for",
-          "note": "Coordinating conjunction ('because') keeping normal verb-second word order."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort denn oft.",
-          "trans": "We hear the word 'because' often."
-        },
-        {
-          "text": "Im Alltag nutzt man denn täglich.",
-          "trans": "In everyday life people use 'because' daily."
-        }
-      ],
-      "related": []
-    },
-    "der": {
-      "lemma": "der",
-      "stress": "deːɐ̯",
-      "pos": "det",
-      "gloss": "the; that, who (rel.)",
-      "meanings": [
-        {
-          "en": "the",
-          "note": "Definite article across genders/cases (der, die, das, den, dem, des) and demonstrative/relative pronoun."
-        },
-        {
-          "en": "that, who (rel.)",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort der oft.",
-          "trans": "We hear the word 'the' often."
-        },
-        {
-          "text": "Im Alltag nutzt man der täglich.",
-          "trans": "In everyday life people use 'the' daily."
-        }
-      ],
-      "related": []
-    },
-    "dieser": {
-      "lemma": "dieser",
-      "stress": "ˈdiːzɐ",
-      "pos": "det",
-      "gloss": "this, these",
-      "meanings": [
-        {
-          "en": "this, these",
-          "note": "Demonstrative determiner pointing to something nearby."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort dieser oft.",
-          "trans": "We hear the word 'this' often."
-        },
-        {
-          "text": "Im Alltag nutzt man dieser täglich.",
-          "trans": "In everyday life people use 'this' daily."
-        }
-      ],
-      "related": []
-    },
-    "dritte": {
-      "lemma": "dritte",
-      "stress": "ˈdʁɪtə",
-      "pos": "num",
-      "gloss": "third",
-      "meanings": [
-        {
-          "en": "third",
-          "note": "Irregular ordinal number from drei."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort dritte oft.",
-          "trans": "We hear the word 'third' often."
-        },
-        {
-          "text": "Im Alltag nutzt man dritte täglich.",
-          "trans": "In everyday life people use 'third' daily."
-        }
-      ],
-      "related": []
-    },
-    "du": {
-      "lemma": "du",
-      "stress": "duː",
-      "pos": "pron",
-      "gloss": "you (casual sg.)",
-      "meanings": [
-        {
-          "en": "you (casual sg.)",
-          "note": "Informal singular 'you' used with family, close friends, and teammates (acc. dich, dat. dir)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort du oft.",
-          "trans": "We hear the word 'you (casual sg.)' often."
-        },
-        {
-          "text": "Im Alltag nutzt man du täglich.",
-          "trans": "In everyday life people use 'you (casual sg.)' daily."
-        }
-      ],
-      "related": []
-    },
-    "dusche": {
-      "lemma": "dusche",
-      "stress": "ˈdʊʃə",
-      "pos": "noun",
-      "gloss": "shower",
-      "meanings": [
-        {
-          "en": "shower",
-          "note": "Bathroom shower."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "die Dusche",
-              "die Duschen"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "die Dusche",
-              "die Duschen"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "der Dusche",
-              "den Duschen"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "der Dusche",
-              "der Duschen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Die Dusche ist hier.",
-          "trans": "The shower is here."
-        },
-        {
-          "text": "Ich sehe die Dusche.",
-          "trans": "I see the shower."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "duschwasser": {
-      "lemma": "duschwasser",
-      "stress": "ˈdʊʃˌvasɐ",
-      "pos": "noun",
-      "gloss": "shower water",
-      "meanings": [
-        {
-          "en": "shower water",
-          "note": "Compound of Dusche (shower) + Wasser (water)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "das Duschwasser",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "das Duschwasser",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Duschwasser",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Duschwassers",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Das Duschwasser ist hier.",
-          "trans": "The shower water is here."
-        },
-        {
-          "text": "Ich sehe das Duschwasser.",
-          "trans": "I see the shower water."
-        }
-      ],
-      "related": [],
-      "gender": "n"
-    },
-    "ein": {
-      "lemma": "ein",
-      "stress": "aɪn",
-      "pos": "det",
-      "gloss": "a, an; one",
-      "meanings": [
-        {
-          "en": "a, an",
-          "note": "Indefinite article (ein, eine, einen, einem, einer, eines) and numeral base 'one'."
-        },
-        {
-          "en": "one",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort ein oft.",
-          "trans": "We hear the word 'a' often."
-        },
-        {
-          "text": "Im Alltag nutzt man ein täglich.",
-          "trans": "In everyday life people use 'a' daily."
-        }
-      ],
-      "related": []
-    },
-    "eisenladen": {
-      "lemma": "eisenladen",
-      "stress": "ˈaɪzənˌlaːdən",
-      "pos": "noun",
-      "gloss": "hardware shop",
-      "meanings": [
-        {
-          "en": "hardware shop",
-          "note": "Traditional compound of Eisen (iron) + Laden (shop)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "der Eisenladen",
-              "die Eisenläden"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "den Eisenladen",
-              "die Eisenläden"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Eisenladen",
-              "den Eisenläden"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Eisenladens",
-              "der Eisenläden"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Der Eisenladen ist hier.",
-          "trans": "The hardware shop is here."
-        },
-        {
-          "text": "Ich sehe den Eisenladen.",
-          "trans": "I see the hardware shop."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "eiskalt": {
-      "lemma": "eiskalt",
-      "stress": "ˈaɪsˌkalt",
-      "pos": "adj",
-      "gloss": "ice-cold, freezing",
-      "meanings": [
-        {
-          "en": "ice-cold, freezing",
-          "note": "Compound of Eis (ice) + kalt (cold)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "eiskalt"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Das Zimmer ist eiskalt.",
-          "trans": "The room is ice-cold."
-        },
-        {
-          "text": "Das wirkt heute sehr eiskalt.",
-          "trans": "That seems very ice-cold today."
-        }
-      ],
-      "related": []
-    },
-    "ersatzventil": {
-      "lemma": "ersatzventil",
-      "stress": "ɛɐ̯ˈzatsvɛnˌtiːl",
-      "pos": "noun",
-      "gloss": "spare valve",
-      "meanings": [
-        {
-          "en": "spare valve",
-          "note": "Compound of Ersatz (replacement/spare) + Ventil (valve)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "das Ersatzventil",
-              "die Ersatzventile"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "das Ersatzventil",
-              "die Ersatzventile"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Ersatzventil",
-              "den Ersatzventilen"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Ersatzventils",
-              "der Ersatzventile"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Das Ersatzventil ist hier.",
-          "trans": "The spare valve is here."
-        },
-        {
-          "text": "Ich sehe das Ersatzventil.",
-          "trans": "I see the spare valve."
-        }
-      ],
-      "related": [],
-      "gender": "n"
-    },
-    "es": {
-      "lemma": "es",
-      "stress": "ɛs",
-      "pos": "pron",
-      "gloss": "it",
-      "meanings": [
-        {
-          "en": "it",
-          "note": "Third-person neuter singular pronoun and impersonal subject (es gibt, es regnet)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort es oft.",
-          "trans": "We hear the word 'it' often."
-        },
-        {
-          "text": "Im Alltag nutzt man es täglich.",
-          "trans": "In everyday life people use 'it' daily."
-        }
-      ],
-      "related": []
-    },
-    "früh": {
-      "lemma": "früh",
-      "stress": "fʁyː",
-      "pos": "adj",
-      "gloss": "early; (comp. früher) formerly",
-      "meanings": [
-        {
-          "en": "early",
-          "note": "Comparative früher also serves as the adverb 'in earlier times / formerly'."
-        },
-        {
-          "en": "(comp. früher) formerly",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "früh"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "früher"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "am frühsten"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Das Zimmer ist früh.",
-          "trans": "The room is early."
-        },
-        {
-          "text": "Das wirkt heute sehr früh.",
-          "trans": "That seems very early today."
-        }
-      ],
-      "related": []
-    },
-    "frühstück": {
-      "lemma": "frühstück",
-      "stress": "ˈfʁyːʃtʏk",
-      "pos": "noun",
-      "gloss": "breakfast",
-      "meanings": [
-        {
-          "en": "breakfast",
-          "note": "Literally 'early-piece', the morning meal."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "das Frühstück",
-              "die Frühstücke"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "das Frühstück",
-              "die Frühstücke"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Frühstück",
-              "den Frühstücken"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Frühstücks",
-              "der Frühstücke"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Das Frühstück ist hier.",
-          "trans": "The breakfast is here."
-        },
-        {
-          "text": "Ich sehe das Frühstück.",
-          "trans": "I see the breakfast."
-        }
-      ],
-      "related": [],
-      "gender": "n"
     },
     "gerade": {
       "lemma": "gerade",
@@ -4326,145 +3992,15 @@
       ],
       "related": []
     },
-    "gott": {
-      "lemma": "gott",
-      "stress": "ɡɔt",
-      "pos": "noun",
-      "gloss": "God",
-      "meanings": [
-        {
-          "en": "God",
-          "note": "Used in the everyday exclamation Gott sei Dank! (thank goodness!)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "der Gott",
-              "die Götter"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "den Gott",
-              "die Götter"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Gott",
-              "den Göttern"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Gottes",
-              "der Götter"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Der Gott ist hier.",
-          "trans": "The God is here."
-        },
-        {
-          "text": "Ich sehe den Gott.",
-          "trans": "I see the God."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "größe": {
-      "lemma": "größe",
-      "stress": "ˈɡʁøːsə",
-      "pos": "noun",
-      "gloss": "size; height",
-      "meanings": [
-        {
-          "en": "size",
-          "note": "From groß (big/tall)."
-        },
-        {
-          "en": "height",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "die Größe",
-              "die Größen"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "die Größe",
-              "die Größen"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "der Größe",
-              "den Größen"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "der Größe",
-              "der Größen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Die Größe ist hier.",
-          "trans": "The size is here."
-        },
-        {
-          "text": "Ich sehe die Größe.",
-          "trans": "I see the size."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "haben": {
-      "lemma": "haben",
-      "stress": "ˈhaːbən",
+    "reißen": {
+      "lemma": "reißen",
+      "stress": "ˈʁaɪsən",
       "pos": "verb",
-      "gloss": "to have",
+      "gloss": "to crack, tear, snap",
       "meanings": [
         {
-          "en": "to have",
-          "note": "Core irregular verb of possession and the standard perfect auxiliary."
+          "en": "to crack, tear, snap",
+          "note": "Intransitive 'crack/snap' takes sein: ist gerissen."
         }
       ],
       "forms": {
@@ -4478,22 +4014,22 @@
           {
             "cells": [
               "1st",
-              "ich habe",
-              "wir haben"
+              "ich reiße",
+              "wir reißen"
             ]
           },
           {
             "cells": [
               "2nd",
-              "du hast",
-              "ihr habt"
+              "du reißt",
+              "ihr reißt"
             ]
           },
           {
             "cells": [
               "3rd",
-              "er/sie/es hat",
-              "sie/Sie haben"
+              "er/sie/es reißt",
+              "sie/Sie reißen"
             ]
           }
         ]
@@ -4510,22 +4046,22 @@
             {
               "cells": [
                 "1st",
-                "ich hatte",
-                "wir hatten"
+                "ich bin gerissen",
+                "wir sind gerissen"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "du hattest",
-                "ihr hattet"
+                "du bist gerissen",
+                "ihr seid gerissen"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "er/sie/es hatte",
-                "sie/Sie hatten"
+                "er/sie/es ist gerissen",
+                "sie/Sie sind gerissen"
               ]
             }
           ]
@@ -4533,133 +4069,15 @@
       ],
       "examples": [
         {
-          "text": "Ich habe den Schlüssel.",
-          "trans": "I have the key."
+          "text": "Ich reiße heute hier.",
+          "trans": "I crack here today."
         },
         {
-          "text": "Wir haben heute frisches Brot.",
-          "trans": "We have fresh bread today."
+          "text": "Wir reißen zusammen.",
+          "trans": "We crack together."
         }
       ],
       "related": []
-    },
-    "halb": {
-      "lemma": "halb",
-      "stress": "halp",
-      "pos": "adj",
-      "gloss": "half; half-before (clock)",
-      "meanings": [
-        {
-          "en": "half",
-          "note": "Before hours (halb acht = 7:30) means halfway to the named hour!"
-        },
-        {
-          "en": "half-before (clock)",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "halb"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Das Zimmer ist halb.",
-          "trans": "The room is half."
-        },
-        {
-          "text": "Das wirkt heute sehr halb.",
-          "trans": "That seems very half today."
-        }
-      ],
-      "related": []
-    },
-    "heizung": {
-      "lemma": "heizung",
-      "stress": "ˈhaɪtsʊŋ",
-      "pos": "noun",
-      "gloss": "heating",
-      "meanings": [
-        {
-          "en": "heating",
-          "note": "Central heating system."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "die Heizung",
-              "die Heizungen"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "die Heizung",
-              "die Heizungen"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "der Heizung",
-              "den Heizungen"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "der Heizung",
-              "der Heizungen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Die Heizung ist hier.",
-          "trans": "The heating is here."
-        },
-        {
-          "text": "Ich sehe die Heizung.",
-          "trans": "I see the heating."
-        }
-      ],
-      "related": [],
-      "gender": "f"
     },
     "heißen": {
       "lemma": "heißen",
@@ -4773,584 +4191,6 @@
       ],
       "related": []
     },
-    "hinter": {
-      "lemma": "hinter",
-      "stress": "ˈhɪntɐ",
-      "pos": "prep",
-      "gloss": "behind",
-      "meanings": [
-        {
-          "en": "behind",
-          "note": "Two-way preposition (dative location, accusative motion)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort hinter oft.",
-          "trans": "We hear the word 'behind' often."
-        },
-        {
-          "text": "Im Alltag nutzt man hinter täglich.",
-          "trans": "In everyday life people use 'behind' daily."
-        }
-      ],
-      "related": []
-    },
-    "ich": {
-      "lemma": "ich",
-      "stress": "ɪç",
-      "pos": "pron",
-      "gloss": "I, me",
-      "meanings": [
-        {
-          "en": "I, me",
-          "note": "First-person singular pronoun (acc. mich, dat. mir)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort ich oft.",
-          "trans": "We hear the word 'I' often."
-        },
-        {
-          "text": "Im Alltag nutzt man ich täglich.",
-          "trans": "In everyday life people use 'I' daily."
-        }
-      ],
-      "related": []
-    },
-    "im": {
-      "lemma": "im",
-      "stress": "ɪm",
-      "pos": "prep",
-      "gloss": "in the (in + dem)",
-      "meanings": [
-        {
-          "en": "in the (in + dem)",
-          "note": "Contraction of in + dem (im Hof, im Sommer)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort im oft.",
-          "trans": "We hear the word 'in the (in + dem)' often."
-        },
-        {
-          "text": "Im Alltag nutzt man im täglich.",
-          "trans": "In everyday life people use 'in the (in + dem)' daily."
-        }
-      ],
-      "related": []
-    },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "in, into",
-      "meanings": [
-        {
-          "en": "in, into",
-          "note": "Two-way preposition: dative for location ('in'), accusative for destination ('into')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort in oft.",
-          "trans": "We hear the word 'in' often."
-        },
-        {
-          "text": "Im Alltag nutzt man in täglich.",
-          "trans": "In everyday life people use 'in' daily."
-        }
-      ],
-      "related": []
-    },
-    "kalt": {
-      "lemma": "kalt",
-      "stress": "kalt",
-      "pos": "adj",
-      "gloss": "cold",
-      "meanings": [
-        {
-          "en": "cold",
-          "note": "Takes umlaut in comparative kälter."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "kalt"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "kälter"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "am kältesten"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Das Zimmer ist kalt.",
-          "trans": "The room is cold."
-        },
-        {
-          "text": "Das wirkt heute sehr kalt.",
-          "trans": "That seems very cold today."
-        }
-      ],
-      "related": []
-    },
-    "kein": {
-      "lemma": "kein",
-      "stress": "kaɪn",
-      "pos": "det",
-      "gloss": "no, not a, none",
-      "meanings": [
-        {
-          "en": "no, not a, none",
-          "note": "Negates nouns directly (kein Wasser, keine Milch, keinen Koffer; pronoun keiner/keins)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort kein oft.",
-          "trans": "We hear the word 'no' often."
-        },
-        {
-          "text": "Im Alltag nutzt man kein täglich.",
-          "trans": "In everyday life people use 'no' daily."
-        }
-      ],
-      "related": []
-    },
-    "kessel": {
-      "lemma": "kessel",
-      "stress": "ˈkɛsəl",
-      "pos": "noun",
-      "gloss": "boiler, kettle",
-      "meanings": [
-        {
-          "en": "boiler, kettle",
-          "note": "Central heating boiler or large kettle."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "der Kessel",
-              "die Kessel"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "den Kessel",
-              "die Kessel"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Kessel",
-              "den Kesseln"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Kessels",
-              "der Kessel"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Der Kessel ist hier.",
-          "trans": "The boiler is here."
-        },
-        {
-          "text": "Ich sehe den Kessel.",
-          "trans": "I see the boiler."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "klara": {
-      "lemma": "klara",
-      "stress": "ˈklaːʁa",
-      "pos": "name",
-      "gloss": "Klara",
-      "meanings": [
-        {
-          "en": "Klara",
-          "note": "Energetic new front-desk receptionist at the Pension Sonnenhof."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Klara wartet im Hof.",
-          "trans": "Klara is waiting in the courtyard."
-        },
-        {
-          "text": "Guten Morgen, Klara!",
-          "trans": "Good morning, Klara!"
-        }
-      ],
-      "related": []
-    },
-    "luftblase": {
-      "lemma": "luftblase",
-      "stress": "ˈlʊftˌblaːzə",
-      "pos": "noun",
-      "gloss": "air bubble",
-      "meanings": [
-        {
-          "en": "air bubble",
-          "note": "Compound of Luft (air) + Blase (bubble)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "die Luftblase",
-              "die Luftblasen"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "die Luftblase",
-              "die Luftblasen"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "der Luftblase",
-              "den Luftblasen"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "der Luftblase",
-              "der Luftblasen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Die Luftblase ist hier.",
-          "trans": "The air bubble is here."
-        },
-        {
-          "text": "Ich sehe die Luftblase.",
-          "trans": "I see the air bubble."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "messingventil": {
-      "lemma": "messingventil",
-      "stress": "ˈmɛsɪŋvɛnˌtiːl",
-      "pos": "noun",
-      "gloss": "brass valve",
-      "meanings": [
-        {
-          "en": "brass valve",
-          "note": "Compound of Messing (brass) + Ventil (valve)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "das Messingventil",
-              "die Messingventile"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "das Messingventil",
-              "die Messingventile"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Messingventil",
-              "den Messingventilen"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Messingventils",
-              "der Messingventile"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Das Messingventil ist hier.",
-          "trans": "The brass valve is here."
-        },
-        {
-          "text": "Ich sehe das Messingventil.",
-          "trans": "I see the brass valve."
-        }
-      ],
-      "related": [],
-      "gender": "n"
-    },
-    "mit": {
-      "lemma": "mit",
-      "stress": "mɪt",
-      "pos": "prep",
-      "gloss": "with, by (transport) (takes dative); along (prefix)",
-      "meanings": [
-        {
-          "en": "with, by (transport) (takes dative)",
-          "note": "Always governs the dative case (mit dem Zug); separable prefix 'along'."
-        },
-        {
-          "en": "along (prefix)",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort mit oft.",
-          "trans": "We hear the word 'with' often."
-        },
-        {
-          "text": "Im Alltag nutzt man mit täglich.",
-          "trans": "In everyday life people use 'with' daily."
-        }
-      ],
-      "related": []
-    },
-    "morgen": {
-      "lemma": "morgen",
-      "stress": "ˈmɔʁɡən",
-      "pos": "noun",
-      "gloss": "morning; (adv., lowercase) tomorrow",
-      "meanings": [
-        {
-          "en": "morning",
-          "note": "Capitalized der Morgen means 'morning' (Guten Morgen!); lowercase morgen is the adverb 'tomorrow' (bis morgen!)."
-        },
-        {
-          "en": "(adv., lowercase) tomorrow",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "der Morgen",
-              "die Morgen"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "den Morgen",
-              "die Morgen"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Morgen",
-              "den Morgen"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Morgens",
-              "der Morgen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Der Morgen ist hier.",
-          "trans": "The morning is here."
-        },
-        {
-          "text": "Ich sehe den Morgen.",
-          "trans": "I see the morning."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "morgens": {
-      "lemma": "morgens",
-      "stress": "ˈmɔʁɡəns",
-      "pos": "adv",
-      "gloss": "in the mornings",
-      "meanings": [
-        {
-          "en": "in the mornings",
-          "note": "Routine morning adverb."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort morgens oft.",
-          "trans": "We hear the word 'in the mornings' often."
-        },
-        {
-          "text": "Im Alltag nutzt man morgens täglich.",
-          "trans": "In everyday life people use 'in the mornings' daily."
-        }
-      ],
-      "related": []
-    },
-    "nachricht": {
-      "lemma": "nachricht",
-      "stress": "ˈnaxʁɪçt",
-      "pos": "noun",
-      "gloss": "message; (pl.) news",
-      "meanings": [
-        {
-          "en": "message",
-          "note": "Plural Nachrichten corresponds to English 'news'."
-        },
-        {
-          "en": "(pl.) news",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "die Nachricht",
-              "die Nachrichten"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "die Nachricht",
-              "die Nachrichten"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "der Nachricht",
-              "den Nachrichten"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "der Nachricht",
-              "der Nachrichten"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Die Nachricht ist hier.",
-          "trans": "The message is here."
-        },
-        {
-          "text": "Ich sehe die Nachricht.",
-          "trans": "I see the message."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
     "nacht": {
       "lemma": "nacht",
       "stress": "naxt",
@@ -5414,59 +4254,119 @@
       "related": [],
       "gender": "f"
     },
-    "noch": {
-      "lemma": "noch",
-      "stress": "nɔx",
-      "pos": "adv",
-      "gloss": "still, yet; another (noch ein)",
+    "kalt": {
+      "lemma": "kalt",
+      "stress": "kalt",
+      "pos": "adj",
+      "gloss": "cold",
       "meanings": [
         {
-          "en": "still, yet",
-          "note": "Versatile time and addition adverb."
-        },
-        {
-          "en": "another (noch ein)",
-          "note": ""
+          "en": "cold",
+          "note": "Takes umlaut in comparative kälter."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "kalt"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "kälter"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "am kältesten"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Wir hören das Wort noch oft.",
-          "trans": "We hear the word 'still' often."
+          "text": "Das Zimmer ist kalt.",
+          "trans": "The room is cold."
         },
         {
-          "text": "Im Alltag nutzt man noch täglich.",
-          "trans": "In everyday life people use 'still' daily."
+          "text": "Das wirkt heute sehr kalt.",
+          "trans": "That seems very cold today."
         }
       ],
       "related": []
     },
-    "nur": {
-      "lemma": "nur",
-      "stress": "nuːɐ̯",
-      "pos": "adv",
-      "gloss": "only, just",
+    "heizung": {
+      "lemma": "heizung",
+      "stress": "ˈhaɪtsʊŋ",
+      "pos": "noun",
+      "gloss": "heating",
       "meanings": [
         {
-          "en": "only, just",
-          "note": "Focus particle."
+          "en": "heating",
+          "note": "Central heating system."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "die Heizung",
+              "die Heizungen"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "die Heizung",
+              "die Heizungen"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "der Heizung",
+              "den Heizungen"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "der Heizung",
+              "der Heizungen"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Wir hören das Wort nur oft.",
-          "trans": "We hear the word 'only' often."
+          "text": "Die Heizung ist hier.",
+          "trans": "The heating is here."
         },
         {
-          "text": "Im Alltag nutzt man nur täglich.",
-          "trans": "In everyday life people use 'only' daily."
+          "text": "Ich sehe die Heizung.",
+          "trans": "I see the heating."
         }
       ],
-      "related": []
+      "related": [],
+      "gender": "f"
     },
     "oder": {
       "lemma": "oder",
@@ -5493,1219 +4393,52 @@
       ],
       "related": []
     },
-    "prüfer": {
-      "lemma": "prüfer",
-      "stress": "ˈpʁyːfɐ",
-      "pos": "noun",
-      "gloss": "inspector, examiner",
-      "meanings": [
-        {
-          "en": "inspector, examiner",
-          "note": "From prüfen (to check, inspect, test)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "der Prüfer",
-              "die Prüfer"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "den Prüfer",
-              "die Prüfer"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Prüfer",
-              "den Prüfern"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Prüfers",
-              "der Prüfer"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Der Prüfer ist hier.",
-          "trans": "The inspector is here."
-        },
-        {
-          "text": "Ich sehe den Prüfer.",
-          "trans": "I see the inspector."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "punkt": {
-      "lemma": "punkt",
-      "stress": "pʊŋkt",
-      "pos": "noun",
-      "gloss": "point, dot; sharp (clock time)",
-      "meanings": [
-        {
-          "en": "point, dot",
-          "note": "Before hours (Punkt acht Uhr) it means 'on the dot'."
-        },
-        {
-          "en": "sharp (clock time)",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "der Punkt",
-              "die Punkte"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "den Punkt",
-              "die Punkte"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Punkt",
-              "den Punkten"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Punkts",
-              "der Punkte"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Der Punkt ist hier.",
-          "trans": "The point is here."
-        },
-        {
-          "text": "Ich sehe den Punkt.",
-          "trans": "I see the point."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "reiseführer": {
-      "lemma": "reiseführer",
-      "stress": "ˈʁaɪzəˌfyːʁɐ",
-      "pos": "noun",
-      "gloss": "travel guide, guidebook",
-      "meanings": [
-        {
-          "en": "travel guide, guidebook",
-          "note": "Compound of Reise (journey) + Führer (guide)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "der Reiseführer",
-              "die Reiseführer"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "den Reiseführer",
-              "die Reiseführer"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Reiseführer",
-              "den Reiseführern"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Reiseführers",
-              "der Reiseführer"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Der Reiseführer ist hier.",
-          "trans": "The travel guide is here."
-        },
-        {
-          "text": "Ich sehe den Reiseführer.",
-          "trans": "I see the travel guide."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "reißen": {
-      "lemma": "reißen",
-      "stress": "ˈʁaɪsən",
-      "pos": "verb",
-      "gloss": "to crack, tear, snap",
-      "meanings": [
-        {
-          "en": "to crack, tear, snap",
-          "note": "Intransitive 'crack/snap' takes sein: ist gerissen."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "ich reiße",
-              "wir reißen"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "du reißt",
-              "ihr reißt"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "er/sie/es reißt",
-              "sie/Sie reißen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "ich bin gerissen",
-                "wir sind gerissen"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "du bist gerissen",
-                "ihr seid gerissen"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "er/sie/es ist gerissen",
-                "sie/Sie sind gerissen"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ich reiße heute hier.",
-          "trans": "I crack here today."
-        },
-        {
-          "text": "Wir reißen zusammen.",
-          "trans": "We crack together."
-        }
-      ],
-      "related": []
-    },
-    "schlecht": {
-      "lemma": "schlecht",
-      "stress": "ʃlɛçt",
-      "pos": "adj",
-      "gloss": "bad",
-      "meanings": [
-        {
-          "en": "bad",
-          "note": "Opposite of gut."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "schlecht"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "schlechter"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "am schlechtesten"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Das Zimmer ist schlecht.",
-          "trans": "The room is bad."
-        },
-        {
-          "text": "Das wirkt heute sehr schlecht.",
-          "trans": "That seems very bad today."
-        }
-      ],
-      "related": []
-    },
-    "schnell": {
-      "lemma": "schnell",
-      "stress": "ʃnɛl",
-      "pos": "adj",
-      "gloss": "fast, quick; quickly",
-      "meanings": [
-        {
-          "en": "fast, quick",
-          "note": "Comparative schneller = 'faster'."
-        },
-        {
-          "en": "quickly",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "schnell"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "schneller"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "am schnellsten"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Das Zimmer ist schnell.",
-          "trans": "The room is fast."
-        },
-        {
-          "text": "Das wirkt heute sehr schnell.",
-          "trans": "That seems very fast today."
-        }
-      ],
-      "related": []
-    },
-    "sein": {
-      "lemma": "sein",
-      "stress": "zaɪn",
-      "pos": "verb",
-      "gloss": "to be; (aux.) have/be; (det.) his, its",
-      "meanings": [
-        {
-          "en": "to be",
-          "note": "Core irregular verb ('to be') and perfect auxiliary for motion/change-of-state verbs; homonymous with the possessive determiner sein ('his/its')."
-        },
-        {
-          "en": "(aux.) have/be",
-          "note": ""
-        },
-        {
-          "en": "(det.) his, its",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "ich bin",
-              "wir sind"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "du bist",
-              "ihr seid"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "er/sie/es ist",
-              "sie/Sie sind"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "ich war",
-                "wir waren"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "du warst",
-                "ihr wart"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "er/sie/es war",
-                "sie/Sie waren"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ich bin heute in der Pension.",
-          "trans": "I am at the guesthouse today."
-        },
-        {
-          "text": "Die Zimmer sind ruhig und sauber.",
-          "trans": "The rooms are quiet and clean."
-        }
-      ],
-      "related": []
-    },
-    "sie": {
-      "lemma": "sie",
-      "stress": "ziː",
-      "pos": "pron",
-      "gloss": "she; they; (cap. Sie) you (formal)",
-      "meanings": [
-        {
-          "en": "she",
-          "note": "Lowercase sie means 'she/it (fem.)' or 'they'; capitalized Sie (dat. Ihnen) is polite 'you'."
-        },
-        {
-          "en": "they",
-          "note": ""
-        },
-        {
-          "en": "(cap. Sie) you (formal)",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort sie oft.",
-          "trans": "We hear the word 'she' often."
-        },
-        {
-          "text": "Im Alltag nutzt man sie täglich.",
-          "trans": "In everyday life people use 'she' daily."
-        }
-      ],
-      "related": []
-    },
-    "sieben": {
-      "lemma": "sieben",
-      "stress": "ˈziːbən",
-      "pos": "num",
-      "gloss": "seven",
-      "meanings": [
-        {
-          "en": "seven",
-          "note": "Cardinal number 7."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort sieben oft.",
-          "trans": "We hear the word 'seven' often."
-        },
-        {
-          "text": "Im Alltag nutzt man sieben täglich.",
-          "trans": "In everyday life people use 'seven' daily."
-        }
-      ],
-      "related": []
-    },
-    "speichern": {
-      "lemma": "speichern",
-      "stress": "ˈʃpaɪçɐn",
-      "pos": "verb",
-      "gloss": "to store, retain (heat/data)",
-      "meanings": [
-        {
-          "en": "to store, retain (heat/data)",
-          "note": "Regular verb in -ern."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "ich speichere",
-              "wir speichern"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "du speicherst",
-              "ihr speichert"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "er/sie/es speichert",
-              "sie/Sie speichern"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "ich habe gespeichert",
-                "wir haben gespeichert"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "du hast gespeichert",
-                "ihr habt gespeichert"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "er/sie/es hat gespeichert",
-                "sie/Sie haben gespeichert"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ich speichere heute hier.",
-          "trans": "I store here today."
-        },
-        {
-          "text": "Wir speichern zusammen.",
-          "trans": "We store together."
-        }
-      ],
-      "related": []
-    },
-    "stellen": {
-      "lemma": "stellen",
-      "stress": "ˈʃtɛlən",
-      "pos": "verb",
-      "gloss": "to put upright, set",
-      "meanings": [
-        {
-          "en": "to put upright, set",
-          "note": "Transitive directional partner to stehen."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "ich stelle",
-              "wir stellen"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "du stellst",
-              "ihr stellt"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "er/sie/es stellt",
-              "sie/Sie stellen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "ich habe gestellt",
-                "wir haben gestellt"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "du hast gestellt",
-                "ihr habt gestellt"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "er/sie/es hat gestellt",
-                "sie/Sie haben gestellt"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ich stelle heute hier.",
-          "trans": "I put upright here today."
-        },
-        {
-          "text": "Wir stellen zusammen.",
-          "trans": "We put upright together."
-        }
-      ],
-      "related": []
-    },
-    "stock": {
-      "lemma": "stock",
-      "stress": "ʃtɔk",
-      "pos": "noun",
-      "gloss": "floor, storey",
-      "meanings": [
-        {
-          "en": "floor, storey",
-          "note": "In German, der erste Stock is the floor above the ground floor."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "der Stock",
-              "die Stockwerke"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "den Stock",
-              "die Stockwerke"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "dem Stock",
-              "den Stockwerken"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "des Stocks",
-              "der Stockwerke"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Der Stock ist hier.",
-          "trans": "The floor is here."
-        },
-        {
-          "text": "Ich sehe den Stock.",
-          "trans": "I see the floor."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "stunde": {
-      "lemma": "stunde",
-      "stress": "ˈʃtʊndə",
-      "pos": "noun",
-      "gloss": "hour; lesson",
-      "meanings": [
-        {
-          "en": "hour",
-          "note": "Sixty-minute hour (distinct from Uhr, clock o'clock)."
-        },
-        {
-          "en": "lesson",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "die Stunde",
-              "die Stunden"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "die Stunde",
-              "die Stunden"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "der Stunde",
-              "den Stunden"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "der Stunde",
-              "der Stunden"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Die Stunde ist hier.",
-          "trans": "The hour is here."
-        },
-        {
-          "text": "Ich sehe die Stunde.",
-          "trans": "I see the hour."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "uhr": {
-      "lemma": "uhr",
-      "stress": "uːʁ",
-      "pos": "noun",
-      "gloss": "clock, watch; o'clock",
-      "meanings": [
-        {
-          "en": "clock, watch",
-          "note": "Means both a timepiece and 'o'clock' (um acht Uhr)."
-        },
-        {
-          "en": "o'clock",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "die Uhr",
-              "die Uhren"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "die Uhr",
-              "die Uhren"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "der Uhr",
-              "den Uhren"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "der Uhr",
-              "der Uhren"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Die Uhr ist hier.",
-          "trans": "The clock is here."
-        },
-        {
-          "text": "Ich sehe die Uhr.",
-          "trans": "I see the clock."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "um": {
-      "lemma": "um",
-      "stress": "ʊm",
-      "pos": "prep",
-      "gloss": "at (clock time); around, over",
-      "meanings": [
-        {
-          "en": "at (clock time)",
-          "note": "Takes accusative; marks exact clock hours (um zwölf Uhr)."
-        },
-        {
-          "en": "around, over",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort um oft.",
-          "trans": "We hear the word 'at (clock time)' often."
-        },
-        {
-          "text": "Im Alltag nutzt man um täglich.",
-          "trans": "In everyday life people use 'at (clock time)' daily."
-        }
-      ],
-      "related": []
-    },
-    "und": {
-      "lemma": "und",
-      "stress": "ʊnt",
-      "pos": "conj",
-      "gloss": "and",
-      "meanings": [
-        {
-          "en": "and",
-          "note": "Coordinating conjunction."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort und oft.",
-          "trans": "We hear the word 'and' often."
-        },
-        {
-          "text": "Im Alltag nutzt man und täglich.",
-          "trans": "In everyday life people use 'and' daily."
-        }
-      ],
-      "related": []
-    },
-    "verbrauchen": {
-      "lemma": "verbrauchen",
-      "stress": "fɛɐ̯ˈbʁaʊxən",
-      "pos": "verb",
-      "gloss": "to use up, consume",
-      "meanings": [
-        {
-          "en": "to use up, consume",
-          "note": "Inseparable verb."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "ich verbrauche",
-              "wir verbrauchen"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "du verbrauchst",
-              "ihr verbraucht"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "er/sie/es verbraucht",
-              "sie/Sie verbrauchen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "ich habe verbraucht",
-                "wir haben verbraucht"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "du hast verbraucht",
-                "ihr habt verbraucht"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "er/sie/es hat verbraucht",
-                "sie/Sie haben verbraucht"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ich verbrauche heute hier.",
-          "trans": "I use up here today."
-        },
-        {
-          "text": "Wir verbrauchen zusammen.",
-          "trans": "We use up together."
-        }
-      ],
-      "related": []
-    },
-    "vom": {
-      "lemma": "vom",
-      "stress": "fɔm",
-      "pos": "prep",
-      "gloss": "from the, of the (von + dem)",
-      "meanings": [
-        {
-          "en": "from the, of the (von + dem)",
-          "note": "Contraction of von + dem."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort vom oft.",
-          "trans": "We hear the word 'from the' often."
-        },
-        {
-          "text": "Im Alltag nutzt man vom täglich.",
-          "trans": "In everyday life people use 'from the' daily."
-        }
-      ],
-      "related": []
-    },
-    "vor": {
-      "lemma": "vor",
-      "stress": "foːɐ̯",
-      "pos": "prep",
-      "gloss": "before, in front of, ago; from (cause)",
-      "meanings": [
-        {
-          "en": "before, in front of, ago",
-          "note": "Two-way preposition: vor dem Tor ('outside the gate'), vor drei Jahren ('three years ago'), fünf vor zwölf ('five to twelve')."
-        },
-        {
-          "en": "from (cause)",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wir hören das Wort vor oft.",
-          "trans": "We hear the word 'before' often."
-        },
-        {
-          "text": "Im Alltag nutzt man vor täglich.",
-          "trans": "In everyday life people use 'before' daily."
-        }
-      ],
-      "related": []
-    },
-    "vorsagen": {
-      "lemma": "vorsagen",
-      "stress": "ˈfoːɐ̯zaːɡən",
-      "pos": "verb",
-      "gloss": "to prompt, repeat to oneself",
-      "meanings": [
-        {
-          "en": "to prompt, repeat to oneself",
-          "note": "Separable verb: sagt ... vor."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "ich sage vor",
-              "wir sagen vor"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "du sagst vor",
-              "ihr sagt vor"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "er/sie/es sagt vor",
-              "sie/Sie sagen vor"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "ich habe vorgesagt",
-                "wir haben vorgesagt"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "du hast vorgesagt",
-                "ihr habt vorgesagt"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "er/sie/es hat vorgesagt",
-                "sie/Sie haben vorgesagt"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ich sage vor heute hier.",
-          "trans": "I prompt here today."
-        },
-        {
-          "text": "Wir sagen vor zusammen.",
-          "trans": "We prompt together."
-        }
-      ],
-      "related": []
-    },
-    "wann": {
-      "lemma": "wann",
-      "stress": "van",
+    "auch": {
+      "lemma": "auch",
+      "stress": "aʊx",
       "pos": "adv",
-      "gloss": "when?",
+      "gloss": "also, too, as well",
       "meanings": [
         {
-          "en": "when?",
-          "note": "Direct/indirect question word for time."
+          "en": "also, too, as well",
+          "note": "Everyday additive adverb."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Wir hören das Wort wann oft.",
-          "trans": "We hear the word 'when?' often."
+          "text": "Wir hören das Wort auch oft.",
+          "trans": "We hear the word 'also' often."
         },
         {
-          "text": "Im Alltag nutzt man wann täglich.",
-          "trans": "In everyday life people use 'when?' daily."
+          "text": "Im Alltag nutzt man auch täglich.",
+          "trans": "In everyday life people use 'also' daily."
+        }
+      ],
+      "related": []
+    },
+    "kein": {
+      "lemma": "kein",
+      "stress": "kaɪn",
+      "pos": "det",
+      "gloss": "no, not a, none",
+      "meanings": [
+        {
+          "en": "no, not a, none",
+          "note": "Negates nouns directly (kein Wasser, keine Milch, keinen Koffer; pronoun keiner/keins)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort kein oft.",
+          "trans": "We hear the word 'no' often."
+        },
+        {
+          "text": "Im Alltag nutzt man kein täglich.",
+          "trans": "In everyday life people use 'no' daily."
         }
       ],
       "related": []
@@ -6824,15 +4557,15 @@
       "related": [],
       "gender": "n"
     },
-    "wecker": {
-      "lemma": "wecker",
-      "stress": "ˈvɛkɐ",
+    "zimmer": {
+      "lemma": "zimmer",
+      "stress": "ˈtsɪmɐ",
       "pos": "noun",
-      "gloss": "alarm clock",
+      "gloss": "room",
       "meanings": [
         {
-          "en": "alarm clock",
-          "note": "From wecken (to wake someone up)."
+          "en": "room",
+          "note": "Hotel or house room; singular and plural share the form Zimmer."
         }
       ],
       "forms": {
@@ -6846,29 +4579,29 @@
           {
             "cells": [
               "nominative",
-              "der Wecker",
-              "die Wecker"
+              "das Zimmer",
+              "die Zimmer"
             ]
           },
           {
             "cells": [
               "accusative",
-              "den Wecker",
-              "die Wecker"
+              "das Zimmer",
+              "die Zimmer"
             ]
           },
           {
             "cells": [
               "dative",
-              "dem Wecker",
-              "den Weckern"
+              "dem Zimmer",
+              "den Zimmern"
             ]
           },
           {
             "cells": [
               "genitive",
-              "des Weckers",
-              "der Wecker"
+              "des Zimmers",
+              "der Zimmer"
             ]
           }
         ]
@@ -6876,26 +4609,142 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Der Wecker ist hier.",
-          "trans": "The alarm clock is here."
+          "text": "Das Zimmer ist hier.",
+          "trans": "The room is here."
         },
         {
-          "text": "Ich sehe den Wecker.",
-          "trans": "I see the alarm clock."
+          "text": "Ich sehe das Zimmer.",
+          "trans": "I see the room."
         }
       ],
       "related": [],
-      "gender": "m"
+      "gender": "n"
     },
-    "werkzeugkasten": {
-      "lemma": "werkzeugkasten",
-      "stress": "ˈvɛʁktsɔʏkˌkastən",
-      "pos": "noun",
-      "gloss": "toolbox",
+    "bleiben": {
+      "lemma": "bleiben",
+      "stress": "ˈblaɪbən",
+      "pos": "verb",
+      "gloss": "to stay, remain",
       "meanings": [
         {
-          "en": "toolbox",
-          "note": "Compound of Werkzeug (tools) + Kasten (box)."
+          "en": "to stay, remain",
+          "note": "Takes sein in the perfect despite no motion: ist geblieben!"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "ich bleibe",
+              "wir bleiben"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "du bleibst",
+              "ihr bleibt"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "er/sie/es bleibt",
+              "sie/Sie bleiben"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "ich bin geblieben",
+                "wir sind geblieben"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "du bist geblieben",
+                "ihr seid geblieben"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "er/sie/es ist geblieben",
+                "sie/Sie sind geblieben"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ich bleibe heute hier.",
+          "trans": "I stay here today."
+        },
+        {
+          "text": "Wir bleiben zusammen.",
+          "trans": "We stay together."
+        }
+      ],
+      "related": []
+    },
+    "bis": {
+      "lemma": "bis",
+      "stress": "bɪs",
+      "pos": "prep",
+      "gloss": "until, up to, by",
+      "meanings": [
+        {
+          "en": "until, up to, by",
+          "note": "Time/space limit preposition (bis Freitag, bis bald!)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort bis oft.",
+          "trans": "We hear the word 'until' often."
+        },
+        {
+          "text": "Im Alltag nutzt man bis täglich.",
+          "trans": "In everyday life people use 'until' daily."
+        }
+      ],
+      "related": []
+    },
+    "morgen": {
+      "lemma": "morgen",
+      "stress": "ˈmɔʁɡən",
+      "pos": "noun",
+      "gloss": "morning; (adv., lowercase) tomorrow",
+      "meanings": [
+        {
+          "en": "morning",
+          "note": "Capitalized der Morgen means 'morning' (Guten Morgen!); lowercase morgen is the adverb 'tomorrow' (bis morgen!)."
+        },
+        {
+          "en": "(adv., lowercase) tomorrow",
+          "note": ""
         }
       ],
       "forms": {
@@ -6909,29 +4758,29 @@
           {
             "cells": [
               "nominative",
-              "der Werkzeugkasten",
-              "die Werkzeugkästen"
+              "der Morgen",
+              "die Morgen"
             ]
           },
           {
             "cells": [
               "accusative",
-              "den Werkzeugkasten",
-              "die Werkzeugkästen"
+              "den Morgen",
+              "die Morgen"
             ]
           },
           {
             "cells": [
               "dative",
-              "dem Werkzeugkasten",
-              "den Werkzeugkästen"
+              "dem Morgen",
+              "den Morgen"
             ]
           },
           {
             "cells": [
               "genitive",
-              "des Werkzeugkastens",
-              "der Werkzeugkästen"
+              "des Morgens",
+              "der Morgen"
             ]
           }
         ]
@@ -6939,51 +4788,76 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Der Werkzeugkasten ist hier.",
-          "trans": "The toolbox is here."
+          "text": "Der Morgen ist hier.",
+          "trans": "The morning is here."
         },
         {
-          "text": "Ich sehe den Werkzeugkasten.",
-          "trans": "I see the toolbox."
+          "text": "Ich sehe den Morgen.",
+          "trans": "I see the morning."
         }
       ],
       "related": [],
       "gender": "m"
     },
-    "werner": {
-      "lemma": "werner",
-      "stress": "ˈvɛʁnɐ",
+    "klara": {
+      "lemma": "klara",
+      "stress": "ˈklaːʁa",
       "pos": "name",
-      "gloss": "Werner",
+      "gloss": "Klara",
       "meanings": [
         {
-          "en": "Werner",
-          "note": "Dry-humoured veteran caretaker and craftsman at the Pension Sonnenhof."
+          "en": "Klara",
+          "note": "Energetic new front-desk receptionist at the Pension Sonnenhof."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Werner wartet im Hof.",
-          "trans": "Werner is waiting in the courtyard."
+          "text": "Klara wartet im Hof.",
+          "trans": "Klara is waiting in the courtyard."
         },
         {
-          "text": "Guten Morgen, Werner!",
-          "trans": "Good morning, Werner!"
+          "text": "Guten Morgen, Klara!",
+          "trans": "Good morning, Klara!"
         }
       ],
       "related": []
     },
-    "winter": {
-      "lemma": "winter",
-      "stress": "ˈvɪntɐ",
-      "pos": "noun",
-      "gloss": "winter",
+    "denn": {
+      "lemma": "denn",
+      "stress": "dɛn",
+      "pos": "conj",
+      "gloss": "because, for",
       "meanings": [
         {
-          "en": "winter",
-          "note": "Masculine season name."
+          "en": "because, for",
+          "note": "Coordinating conjunction ('because') keeping normal verb-second word order."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort denn oft.",
+          "trans": "We hear the word 'because' often."
+        },
+        {
+          "text": "Im Alltag nutzt man denn täglich.",
+          "trans": "In everyday life people use 'because' daily."
+        }
+      ],
+      "related": []
+    },
+    "ziegelwand": {
+      "lemma": "ziegelwand",
+      "stress": "ˈtsiːɡəlˌvant",
+      "pos": "noun",
+      "gloss": "brick wall",
+      "meanings": [
+        {
+          "en": "brick wall",
+          "note": "Compound of Ziegel (brick) + Wand (wall)."
         }
       ],
       "forms": {
@@ -6997,29 +4871,29 @@
           {
             "cells": [
               "nominative",
-              "der Winter",
-              "die Winter"
+              "die Ziegelwand",
+              "die Ziegelwände"
             ]
           },
           {
             "cells": [
               "accusative",
-              "den Winter",
-              "die Winter"
+              "die Ziegelwand",
+              "die Ziegelwände"
             ]
           },
           {
             "cells": [
               "dative",
-              "dem Winter",
-              "den Wintern"
+              "der Ziegelwand",
+              "den Ziegelwänden"
             ]
           },
           {
             "cells": [
               "genitive",
-              "des Winters",
-              "der Winter"
+              "der Ziegelwand",
+              "der Ziegelwände"
             ]
           }
         ]
@@ -7027,89 +4901,100 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Der Winter ist hier.",
-          "trans": "The winter is here."
+          "text": "Die Ziegelwand ist hier.",
+          "trans": "The brick wall is here."
         },
         {
-          "text": "Ich sehe den Winter.",
-          "trans": "I see the winter."
+          "text": "Ich sehe die Ziegelwand.",
+          "trans": "I see the brick wall."
         }
       ],
       "related": [],
-      "gender": "m"
+      "gender": "f"
     },
-    "winzig": {
-      "lemma": "winzig",
-      "stress": "ˈvɪntsɪç",
-      "pos": "adj",
-      "gloss": "tiny, minuscule",
+    "speichern": {
+      "lemma": "speichern",
+      "stress": "ˈʃpaɪçɐn",
+      "pos": "verb",
+      "gloss": "to store, retain (heat/data)",
       "meanings": [
         {
-          "en": "tiny, minuscule",
-          "note": "Expressive word for 'very small'."
+          "en": "to store, retain (heat/data)",
+          "note": "Regular verb in -ern."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "positive",
-              "winzig"
+              "1st",
+              "ich speichere",
+              "wir speichern"
             ]
           },
           {
             "cells": [
-              "comparative",
-              "winziger"
+              "2nd",
+              "du speicherst",
+              "ihr speichert"
             ]
           },
           {
             "cells": [
-              "superlative",
-              "am winzigsten"
+              "3rd",
+              "er/sie/es speichert",
+              "sie/Sie speichern"
             ]
           }
         ]
       },
-      "moreForms": [],
-      "examples": [
+      "moreForms": [
         {
-          "text": "Das Zimmer ist winzig.",
-          "trans": "The room is tiny."
-        },
-        {
-          "text": "Das wirkt heute sehr winzig.",
-          "trans": "That seems very tiny today."
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "ich habe gespeichert",
+                "wir haben gespeichert"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "du hast gespeichert",
+                "ihr habt gespeichert"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "er/sie/es hat gespeichert",
+                "sie/Sie haben gespeichert"
+              ]
+            }
+          ]
         }
       ],
-      "related": []
-    },
-    "wir": {
-      "lemma": "wir",
-      "stress": "viːɐ̯",
-      "pos": "pron",
-      "gloss": "we, us",
-      "meanings": [
-        {
-          "en": "we, us",
-          "note": "First-person plural pronoun (acc./dat. uns)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
       "examples": [
         {
-          "text": "Wir hören das Wort wir oft.",
-          "trans": "We hear the word 'we' often."
+          "text": "Ich speichere heute hier.",
+          "trans": "I store here today."
         },
         {
-          "text": "Im Alltag nutzt man wir täglich.",
-          "trans": "In everyday life people use 'we' daily."
+          "text": "Wir speichern zusammen.",
+          "trans": "We store together."
         }
       ],
       "related": []
@@ -7177,15 +5062,15 @@
       "related": [],
       "gender": "f"
     },
-    "ziegelwand": {
-      "lemma": "ziegelwand",
-      "stress": "ˈtsiːɡəlˌvant",
+    "gott": {
+      "lemma": "gott",
+      "stress": "ɡɔt",
       "pos": "noun",
-      "gloss": "brick wall",
+      "gloss": "God",
       "meanings": [
         {
-          "en": "brick wall",
-          "note": "Compound of Ziegel (brick) + Wand (wall)."
+          "en": "God",
+          "note": "Used in the everyday exclamation Gott sei Dank! (thank goodness!)."
         }
       ],
       "forms": {
@@ -7199,29 +5084,29 @@
           {
             "cells": [
               "nominative",
-              "die Ziegelwand",
-              "die Ziegelwände"
+              "der Gott",
+              "die Götter"
             ]
           },
           {
             "cells": [
               "accusative",
-              "die Ziegelwand",
-              "die Ziegelwände"
+              "den Gott",
+              "die Götter"
             ]
           },
           {
             "cells": [
               "dative",
-              "der Ziegelwand",
-              "den Ziegelwänden"
+              "dem Gott",
+              "den Göttern"
             ]
           },
           {
             "cells": [
               "genitive",
-              "der Ziegelwand",
-              "der Ziegelwände"
+              "des Gottes",
+              "der Götter"
             ]
           }
         ]
@@ -7229,26 +5114,232 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Die Ziegelwand ist hier.",
-          "trans": "The brick wall is here."
+          "text": "Der Gott ist hier.",
+          "trans": "The God is here."
         },
         {
-          "text": "Ich sehe die Ziegelwand.",
-          "trans": "I see the brick wall."
+          "text": "Ich sehe den Gott.",
+          "trans": "I see the God."
+        }
+      ],
+      "related": [],
+      "gender": "m"
+    },
+    "dank": {
+      "lemma": "dank",
+      "stress": "daŋk",
+      "pos": "noun",
+      "gloss": "thanks, gratitude",
+      "meanings": [
+        {
+          "en": "thanks, gratitude",
+          "note": "Used in vielen Dank (many thanks) and Gott sei Dank (thank goodness)."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "der Dank",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "den Dank",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Dank",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Danks",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Der Dank ist hier.",
+          "trans": "The thanks is here."
+        },
+        {
+          "text": "Ich sehe den Dank.",
+          "trans": "I see the thanks."
+        }
+      ],
+      "related": [],
+      "gender": "m"
+    },
+    "und": {
+      "lemma": "und",
+      "stress": "ʊnt",
+      "pos": "conj",
+      "gloss": "and",
+      "meanings": [
+        {
+          "en": "and",
+          "note": "Coordinating conjunction."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort und oft.",
+          "trans": "We hear the word 'and' often."
+        },
+        {
+          "text": "Im Alltag nutzt man und täglich.",
+          "trans": "In everyday life people use 'and' daily."
+        }
+      ],
+      "related": []
+    },
+    "dusche": {
+      "lemma": "dusche",
+      "stress": "ˈdʊʃə",
+      "pos": "noun",
+      "gloss": "shower",
+      "meanings": [
+        {
+          "en": "shower",
+          "note": "Bathroom shower."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "die Dusche",
+              "die Duschen"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "die Dusche",
+              "die Duschen"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "der Dusche",
+              "den Duschen"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "der Dusche",
+              "der Duschen"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Die Dusche ist hier.",
+          "trans": "The shower is here."
+        },
+        {
+          "text": "Ich sehe die Dusche.",
+          "trans": "I see the shower."
         }
       ],
       "related": [],
       "gender": "f"
     },
-    "zimmer": {
-      "lemma": "zimmer",
-      "stress": "ˈtsɪmɐ",
-      "pos": "noun",
-      "gloss": "room",
+    "früh": {
+      "lemma": "früh",
+      "stress": "fʁyː",
+      "pos": "adj",
+      "gloss": "early; (comp. früher) formerly",
       "meanings": [
         {
-          "en": "room",
-          "note": "Hotel or house room; singular and plural share the form Zimmer."
+          "en": "early",
+          "note": "Comparative früher also serves as the adverb 'in earlier times / formerly'."
+        },
+        {
+          "en": "(comp. früher) formerly",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "früh"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "früher"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "am frühsten"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Das Zimmer ist früh.",
+          "trans": "The room is early."
+        },
+        {
+          "text": "Das wirkt heute sehr früh.",
+          "trans": "That seems very early today."
+        }
+      ],
+      "related": []
+    },
+    "duschwasser": {
+      "lemma": "duschwasser",
+      "stress": "ˈdʊʃˌvasɐ",
+      "pos": "noun",
+      "gloss": "shower water",
+      "meanings": [
+        {
+          "en": "shower water",
+          "note": "Compound of Dusche (shower) + Wasser (water)."
         }
       ],
       "forms": {
@@ -7262,29 +5353,29 @@
           {
             "cells": [
               "nominative",
-              "das Zimmer",
-              "die Zimmer"
+              "das Duschwasser",
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
-              "das Zimmer",
-              "die Zimmer"
+              "das Duschwasser",
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
-              "dem Zimmer",
-              "den Zimmern"
+              "dem Duschwasser",
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
-              "des Zimmers",
-              "der Zimmer"
+              "des Duschwassers",
+              "—"
             ]
           }
         ]
@@ -7292,16 +5383,1872 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Das Zimmer ist hier.",
-          "trans": "The room is here."
+          "text": "Das Duschwasser ist hier.",
+          "trans": "The shower water is here."
         },
         {
-          "text": "Ich sehe das Zimmer.",
-          "trans": "I see the room."
+          "text": "Ich sehe das Duschwasser.",
+          "trans": "I see the shower water."
         }
       ],
       "related": [],
       "gender": "n"
+    },
+    "eiskalt": {
+      "lemma": "eiskalt",
+      "stress": "ˈaɪsˌkalt",
+      "pos": "adj",
+      "gloss": "ice-cold, freezing",
+      "meanings": [
+        {
+          "en": "ice-cold, freezing",
+          "note": "Compound of Eis (ice) + kalt (cold)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "eiskalt"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Das Zimmer ist eiskalt.",
+          "trans": "The room is ice-cold."
+        },
+        {
+          "text": "Das wirkt heute sehr eiskalt.",
+          "trans": "That seems very ice-cold today."
+        }
+      ],
+      "related": []
+    },
+    "mit": {
+      "lemma": "mit",
+      "stress": "mɪt",
+      "pos": "prep",
+      "gloss": "with, by (transport) (takes dative); along (prefix)",
+      "meanings": [
+        {
+          "en": "with, by (transport) (takes dative)",
+          "note": "Always governs the dative case (mit dem Zug); separable prefix 'along'."
+        },
+        {
+          "en": "along (prefix)",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort mit oft.",
+          "trans": "We hear the word 'with' often."
+        },
+        {
+          "text": "Im Alltag nutzt man mit täglich.",
+          "trans": "In everyday life people use 'with' daily."
+        }
+      ],
+      "related": []
+    },
+    "prüfer": {
+      "lemma": "prüfer",
+      "stress": "ˈpʁyːfɐ",
+      "pos": "noun",
+      "gloss": "inspector, examiner",
+      "meanings": [
+        {
+          "en": "inspector, examiner",
+          "note": "From prüfen (to check, inspect, test)."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "der Prüfer",
+              "die Prüfer"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "den Prüfer",
+              "die Prüfer"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Prüfer",
+              "den Prüfern"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Prüfers",
+              "der Prüfer"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Der Prüfer ist hier.",
+          "trans": "The inspector is here."
+        },
+        {
+          "text": "Ich sehe den Prüfer.",
+          "trans": "I see the inspector."
+        }
+      ],
+      "related": [],
+      "gender": "m"
+    },
+    "vom": {
+      "lemma": "vom",
+      "stress": "fɔm",
+      "pos": "prep",
+      "gloss": "from the, of the (von + dem)",
+      "meanings": [
+        {
+          "en": "from the, of the (von + dem)",
+          "note": "Contraction of von + dem."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort vom oft.",
+          "trans": "We hear the word 'from the' often."
+        },
+        {
+          "text": "Im Alltag nutzt man vom täglich.",
+          "trans": "In everyday life people use 'from the' daily."
+        }
+      ],
+      "related": []
+    },
+    "reiseführer": {
+      "lemma": "reiseführer",
+      "stress": "ˈʁaɪzəˌfyːʁɐ",
+      "pos": "noun",
+      "gloss": "travel guide, guidebook",
+      "meanings": [
+        {
+          "en": "travel guide, guidebook",
+          "note": "Compound of Reise (journey) + Führer (guide)."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "der Reiseführer",
+              "die Reiseführer"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "den Reiseführer",
+              "die Reiseführer"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Reiseführer",
+              "den Reiseführern"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Reiseführers",
+              "der Reiseführer"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Der Reiseführer ist hier.",
+          "trans": "The travel guide is here."
+        },
+        {
+          "text": "Ich sehe den Reiseführer.",
+          "trans": "I see the travel guide."
+        }
+      ],
+      "related": [],
+      "gender": "m"
+    },
+    "im": {
+      "lemma": "im",
+      "stress": "ɪm",
+      "pos": "prep",
+      "gloss": "in the (in + dem)",
+      "meanings": [
+        {
+          "en": "in the (in + dem)",
+          "note": "Contraction of in + dem (im Hof, im Sommer)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort im oft.",
+          "trans": "We hear the word 'in the (in + dem)' often."
+        },
+        {
+          "text": "Im Alltag nutzt man im täglich.",
+          "trans": "In everyday life people use 'in the (in + dem)' daily."
+        }
+      ],
+      "related": []
+    },
+    "dritte": {
+      "lemma": "dritte",
+      "stress": "ˈdʁɪtə",
+      "pos": "num",
+      "gloss": "third",
+      "meanings": [
+        {
+          "en": "third",
+          "note": "Irregular ordinal number from drei."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort dritte oft.",
+          "trans": "We hear the word 'third' often."
+        },
+        {
+          "text": "Im Alltag nutzt man dritte täglich.",
+          "trans": "In everyday life people use 'third' daily."
+        }
+      ],
+      "related": []
+    },
+    "stock": {
+      "lemma": "stock",
+      "stress": "ʃtɔk",
+      "pos": "noun",
+      "gloss": "floor, storey",
+      "meanings": [
+        {
+          "en": "floor, storey",
+          "note": "In German, der erste Stock is the floor above the ground floor."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "der Stock",
+              "die Stockwerke"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "den Stock",
+              "die Stockwerke"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Stock",
+              "den Stockwerken"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Stocks",
+              "der Stockwerke"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Der Stock ist hier.",
+          "trans": "The floor is here."
+        },
+        {
+          "text": "Ich sehe den Stock.",
+          "trans": "I see the floor."
+        }
+      ],
+      "related": [],
+      "gender": "m"
+    },
+    "haben": {
+      "lemma": "haben",
+      "stress": "ˈhaːbən",
+      "pos": "verb",
+      "gloss": "to have",
+      "meanings": [
+        {
+          "en": "to have",
+          "note": "Core irregular verb of possession and the standard perfect auxiliary."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "ich habe",
+              "wir haben"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "du hast",
+              "ihr habt"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "er/sie/es hat",
+              "sie/Sie haben"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "ich hatte",
+                "wir hatten"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "du hattest",
+                "ihr hattet"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "er/sie/es hatte",
+                "sie/Sie hatten"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ich habe den Schlüssel.",
+          "trans": "I have the key."
+        },
+        {
+          "text": "Wir haben heute frisches Brot.",
+          "trans": "We have fresh bread today."
+        }
+      ],
+      "related": []
+    },
+    "du": {
+      "lemma": "du",
+      "stress": "duː",
+      "pos": "pron",
+      "gloss": "you (casual sg.)",
+      "meanings": [
+        {
+          "en": "you (casual sg.)",
+          "note": "Informal singular 'you' used with family, close friends, and teammates (acc. dich, dat. dir)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort du oft.",
+          "trans": "We hear the word 'you (casual sg.)' often."
+        },
+        {
+          "text": "Im Alltag nutzt man du täglich.",
+          "trans": "In everyday life people use 'you (casual sg.)' daily."
+        }
+      ],
+      "related": []
+    },
+    "noch": {
+      "lemma": "noch",
+      "stress": "nɔx",
+      "pos": "adv",
+      "gloss": "still, yet; another (noch ein)",
+      "meanings": [
+        {
+          "en": "still, yet",
+          "note": "Versatile time and addition adverb."
+        },
+        {
+          "en": "another (noch ein)",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort noch oft.",
+          "trans": "We hear the word 'still' often."
+        },
+        {
+          "text": "Im Alltag nutzt man noch täglich.",
+          "trans": "In everyday life people use 'still' daily."
+        }
+      ],
+      "related": []
+    },
+    "ersatzventil": {
+      "lemma": "ersatzventil",
+      "stress": "ɛɐ̯ˈzatsvɛnˌtiːl",
+      "pos": "noun",
+      "gloss": "spare valve",
+      "meanings": [
+        {
+          "en": "spare valve",
+          "note": "Compound of Ersatz (replacement/spare) + Ventil (valve)."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "das Ersatzventil",
+              "die Ersatzventile"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "das Ersatzventil",
+              "die Ersatzventile"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Ersatzventil",
+              "den Ersatzventilen"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Ersatzventils",
+              "der Ersatzventile"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Das Ersatzventil ist hier.",
+          "trans": "The spare valve is here."
+        },
+        {
+          "text": "Ich sehe das Ersatzventil.",
+          "trans": "I see the spare valve."
+        }
+      ],
+      "related": [],
+      "gender": "n"
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "in, into",
+      "meanings": [
+        {
+          "en": "in, into",
+          "note": "Two-way preposition: dative for location ('in'), accusative for destination ('into')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort in oft.",
+          "trans": "We hear the word 'in' often."
+        },
+        {
+          "text": "Im Alltag nutzt man in täglich.",
+          "trans": "In everyday life people use 'in' daily."
+        }
+      ],
+      "related": []
+    },
+    "dein": {
+      "lemma": "dein",
+      "stress": "daɪn",
+      "pos": "det",
+      "gloss": "your (casual sg.)",
+      "meanings": [
+        {
+          "en": "your (casual sg.)",
+          "note": "Informal singular possessive determiner."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort dein oft.",
+          "trans": "We hear the word 'your (casual sg.)' often."
+        },
+        {
+          "text": "Im Alltag nutzt man dein täglich.",
+          "trans": "In everyday life people use 'your (casual sg.)' daily."
+        }
+      ],
+      "related": []
+    },
+    "werkzeugkasten": {
+      "lemma": "werkzeugkasten",
+      "stress": "ˈvɛʁktsɔʏkˌkastən",
+      "pos": "noun",
+      "gloss": "toolbox",
+      "meanings": [
+        {
+          "en": "toolbox",
+          "note": "Compound of Werkzeug (tools) + Kasten (box)."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "der Werkzeugkasten",
+              "die Werkzeugkästen"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "den Werkzeugkasten",
+              "die Werkzeugkästen"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Werkzeugkasten",
+              "den Werkzeugkästen"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Werkzeugkastens",
+              "der Werkzeugkästen"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Der Werkzeugkasten ist hier.",
+          "trans": "The toolbox is here."
+        },
+        {
+          "text": "Ich sehe den Werkzeugkasten.",
+          "trans": "I see the toolbox."
+        }
+      ],
+      "related": [],
+      "gender": "m"
+    },
+    "winter": {
+      "lemma": "winter",
+      "stress": "ˈvɪntɐ",
+      "pos": "noun",
+      "gloss": "winter",
+      "meanings": [
+        {
+          "en": "winter",
+          "note": "Masculine season name."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "der Winter",
+              "die Winter"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "den Winter",
+              "die Winter"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Winter",
+              "den Wintern"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Winters",
+              "der Winter"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Der Winter ist hier.",
+          "trans": "The winter is here."
+        },
+        {
+          "text": "Ich sehe den Winter.",
+          "trans": "I see the winter."
+        }
+      ],
+      "related": [],
+      "gender": "m"
+    },
+    "verbrauchen": {
+      "lemma": "verbrauchen",
+      "stress": "fɛɐ̯ˈbʁaʊxən",
+      "pos": "verb",
+      "gloss": "to use up, consume",
+      "meanings": [
+        {
+          "en": "to use up, consume",
+          "note": "Inseparable verb."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "ich verbrauche",
+              "wir verbrauchen"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "du verbrauchst",
+              "ihr verbraucht"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "er/sie/es verbraucht",
+              "sie/Sie verbrauchen"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "ich habe verbraucht",
+                "wir haben verbraucht"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "du hast verbraucht",
+                "ihr habt verbraucht"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "er/sie/es hat verbraucht",
+                "sie/Sie haben verbraucht"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ich verbrauche heute hier.",
+          "trans": "I use up here today."
+        },
+        {
+          "text": "Wir verbrauchen zusammen.",
+          "trans": "We use up together."
+        }
+      ],
+      "related": []
+    },
+    "eisenladen": {
+      "lemma": "eisenladen",
+      "stress": "ˈaɪzənˌlaːdən",
+      "pos": "noun",
+      "gloss": "hardware shop",
+      "meanings": [
+        {
+          "en": "hardware shop",
+          "note": "Traditional compound of Eisen (iron) + Laden (shop)."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "der Eisenladen",
+              "die Eisenläden"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "den Eisenladen",
+              "die Eisenläden"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Eisenladen",
+              "den Eisenläden"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Eisenladens",
+              "der Eisenläden"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Der Eisenladen ist hier.",
+          "trans": "The hardware shop is here."
+        },
+        {
+          "text": "Ich sehe den Eisenladen.",
+          "trans": "I see the hardware shop."
+        }
+      ],
+      "related": [],
+      "gender": "m"
+    },
+    "hinter": {
+      "lemma": "hinter",
+      "stress": "ˈhɪntɐ",
+      "pos": "prep",
+      "gloss": "behind",
+      "meanings": [
+        {
+          "en": "behind",
+          "note": "Two-way preposition (dative location, accusative motion)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort hinter oft.",
+          "trans": "We hear the word 'behind' often."
+        },
+        {
+          "text": "Im Alltag nutzt man hinter täglich.",
+          "trans": "In everyday life people use 'behind' daily."
+        }
+      ],
+      "related": []
+    },
+    "brücke": {
+      "lemma": "brücke",
+      "stress": "ˈbʁʏkə",
+      "pos": "noun",
+      "gloss": "bridge",
+      "meanings": [
+        {
+          "en": "bridge",
+          "note": "Bridge over a river or road."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "die Brücke",
+              "die Brücken"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "die Brücke",
+              "die Brücken"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "der Brücke",
+              "den Brücken"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "der Brücke",
+              "der Brücken"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Die Brücke ist hier.",
+          "trans": "The bridge is here."
+        },
+        {
+          "text": "Ich sehe die Brücke.",
+          "trans": "I see the bridge."
+        }
+      ],
+      "related": [],
+      "gender": "f"
+    },
+    "dieser": {
+      "lemma": "dieser",
+      "stress": "ˈdiːzɐ",
+      "pos": "det",
+      "gloss": "this, these",
+      "meanings": [
+        {
+          "en": "this, these",
+          "note": "Demonstrative determiner pointing to something nearby."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort dieser oft.",
+          "trans": "We hear the word 'this' often."
+        },
+        {
+          "text": "Im Alltag nutzt man dieser täglich.",
+          "trans": "In everyday life people use 'this' daily."
+        }
+      ],
+      "related": []
+    },
+    "größe": {
+      "lemma": "größe",
+      "stress": "ˈɡʁøːsə",
+      "pos": "noun",
+      "gloss": "size; height",
+      "meanings": [
+        {
+          "en": "size",
+          "note": "From groß (big/tall)."
+        },
+        {
+          "en": "height",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "die Größe",
+              "die Größen"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "die Größe",
+              "die Größen"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "der Größe",
+              "den Größen"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "der Größe",
+              "der Größen"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Die Größe ist hier.",
+          "trans": "The size is here."
+        },
+        {
+          "text": "Ich sehe die Größe.",
+          "trans": "I see the size."
+        }
+      ],
+      "related": [],
+      "gender": "f"
+    },
+    "wann": {
+      "lemma": "wann",
+      "stress": "van",
+      "pos": "adv",
+      "gloss": "when?",
+      "meanings": [
+        {
+          "en": "when?",
+          "note": "Direct/indirect question word for time."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort wann oft.",
+          "trans": "We hear the word 'when?' often."
+        },
+        {
+          "text": "Im Alltag nutzt man wann täglich.",
+          "trans": "In everyday life people use 'when?' daily."
+        }
+      ],
+      "related": []
+    },
+    "aufmachen": {
+      "lemma": "aufmachen",
+      "stress": "ˈaʊfmaxən",
+      "pos": "verb",
+      "gloss": "to open, open up",
+      "meanings": [
+        {
+          "en": "to open, open up",
+          "note": "Everyday separable partner to öffnen: macht ... auf."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "ich mache auf",
+              "wir machen auf"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "du machst auf",
+              "ihr macht auf"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "er/sie/es macht auf",
+              "sie/Sie machen auf"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "ich habe aufgemacht",
+                "wir haben aufgemacht"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "du hast aufgemacht",
+                "ihr habt aufgemacht"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "er/sie/es hat aufgemacht",
+                "sie/Sie haben aufgemacht"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ich mache auf heute hier.",
+          "trans": "I open here today."
+        },
+        {
+          "text": "Wir machen auf zusammen.",
+          "trans": "We open together."
+        }
+      ],
+      "related": []
+    },
+    "morgens": {
+      "lemma": "morgens",
+      "stress": "ˈmɔʁɡəns",
+      "pos": "adv",
+      "gloss": "in the mornings",
+      "meanings": [
+        {
+          "en": "in the mornings",
+          "note": "Routine morning adverb."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort morgens oft.",
+          "trans": "We hear the word 'in the mornings' often."
+        },
+        {
+          "text": "Im Alltag nutzt man morgens täglich.",
+          "trans": "In everyday life people use 'in the mornings' daily."
+        }
+      ],
+      "related": []
+    },
+    "auf": {
+      "lemma": "auf",
+      "stress": "aʊf",
+      "pos": "prep",
+      "gloss": "on (horizontal), onto, for; open (prefix)",
+      "meanings": [
+        {
+          "en": "on (horizontal), onto, for",
+          "note": "Two-way preposition, toast starter (Auf die Nachbarn!), and separable prefix ('open/up')."
+        },
+        {
+          "en": "open (prefix)",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort auf oft.",
+          "trans": "We hear the word 'on (horizontal)' often."
+        },
+        {
+          "text": "Im Alltag nutzt man auf täglich.",
+          "trans": "In everyday life people use 'on (horizontal)' daily."
+        }
+      ],
+      "related": []
+    },
+    "punkt": {
+      "lemma": "punkt",
+      "stress": "pʊŋkt",
+      "pos": "noun",
+      "gloss": "point, dot; sharp (clock time)",
+      "meanings": [
+        {
+          "en": "point, dot",
+          "note": "Before hours (Punkt acht Uhr) it means 'on the dot'."
+        },
+        {
+          "en": "sharp (clock time)",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "der Punkt",
+              "die Punkte"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "den Punkt",
+              "die Punkte"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Punkt",
+              "den Punkten"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Punkts",
+              "der Punkte"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Der Punkt ist hier.",
+          "trans": "The point is here."
+        },
+        {
+          "text": "Ich sehe den Punkt.",
+          "trans": "I see the point."
+        }
+      ],
+      "related": [],
+      "gender": "m"
+    },
+    "sieben": {
+      "lemma": "sieben",
+      "stress": "ˈziːbən",
+      "pos": "num",
+      "gloss": "seven",
+      "meanings": [
+        {
+          "en": "seven",
+          "note": "Cardinal number 7."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort sieben oft.",
+          "trans": "We hear the word 'seven' often."
+        },
+        {
+          "text": "Im Alltag nutzt man sieben täglich.",
+          "trans": "In everyday life people use 'seven' daily."
+        }
+      ],
+      "related": []
+    },
+    "uhr": {
+      "lemma": "uhr",
+      "stress": "uːʁ",
+      "pos": "noun",
+      "gloss": "clock, watch; o'clock",
+      "meanings": [
+        {
+          "en": "clock, watch",
+          "note": "Means both a timepiece and 'o'clock' (um acht Uhr)."
+        },
+        {
+          "en": "o'clock",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "die Uhr",
+              "die Uhren"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "die Uhr",
+              "die Uhren"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "der Uhr",
+              "den Uhren"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "der Uhr",
+              "der Uhren"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Die Uhr ist hier.",
+          "trans": "The clock is here."
+        },
+        {
+          "text": "Ich sehe die Uhr.",
+          "trans": "I see the clock."
+        }
+      ],
+      "related": [],
+      "gender": "f"
+    },
+    "halb": {
+      "lemma": "halb",
+      "stress": "halp",
+      "pos": "adj",
+      "gloss": "half; half-before (clock)",
+      "meanings": [
+        {
+          "en": "half",
+          "note": "Before hours (halb acht = 7:30) means halfway to the named hour!"
+        },
+        {
+          "en": "half-before (clock)",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "halb"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Das Zimmer ist halb.",
+          "trans": "The room is half."
+        },
+        {
+          "text": "Das wirkt heute sehr halb.",
+          "trans": "That seems very half today."
+        }
+      ],
+      "related": []
+    },
+    "stunde": {
+      "lemma": "stunde",
+      "stress": "ˈʃtʊndə",
+      "pos": "noun",
+      "gloss": "hour; lesson",
+      "meanings": [
+        {
+          "en": "hour",
+          "note": "Sixty-minute hour (distinct from Uhr, clock o'clock)."
+        },
+        {
+          "en": "lesson",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "die Stunde",
+              "die Stunden"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "die Stunde",
+              "die Stunden"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "der Stunde",
+              "den Stunden"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "der Stunde",
+              "der Stunden"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Die Stunde ist hier.",
+          "trans": "The hour is here."
+        },
+        {
+          "text": "Ich sehe die Stunde.",
+          "trans": "I see the hour."
+        }
+      ],
+      "related": [],
+      "gender": "f"
+    },
+    "vor": {
+      "lemma": "vor",
+      "stress": "foːɐ̯",
+      "pos": "prep",
+      "gloss": "before, in front of, ago; from (cause)",
+      "meanings": [
+        {
+          "en": "before, in front of, ago",
+          "note": "Two-way preposition: vor dem Tor ('outside the gate'), vor drei Jahren ('three years ago'), fünf vor zwölf ('five to twelve')."
+        },
+        {
+          "en": "from (cause)",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort vor oft.",
+          "trans": "We hear the word 'before' often."
+        },
+        {
+          "text": "Im Alltag nutzt man vor täglich.",
+          "trans": "In everyday life people use 'before' daily."
+        }
+      ],
+      "related": []
+    },
+    "frühstück": {
+      "lemma": "frühstück",
+      "stress": "ˈfʁyːʃtʏk",
+      "pos": "noun",
+      "gloss": "breakfast",
+      "meanings": [
+        {
+          "en": "breakfast",
+          "note": "Literally 'early-piece', the morning meal."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "das Frühstück",
+              "die Frühstücke"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "das Frühstück",
+              "die Frühstücke"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Frühstück",
+              "den Frühstücken"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Frühstücks",
+              "der Frühstücke"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Das Frühstück ist hier.",
+          "trans": "The breakfast is here."
+        },
+        {
+          "text": "Ich sehe das Frühstück.",
+          "trans": "I see the breakfast."
+        }
+      ],
+      "related": [],
+      "gender": "n"
+    },
+    "stellen": {
+      "lemma": "stellen",
+      "stress": "ˈʃtɛlən",
+      "pos": "verb",
+      "gloss": "to put upright, set",
+      "meanings": [
+        {
+          "en": "to put upright, set",
+          "note": "Transitive directional partner to stehen."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "ich stelle",
+              "wir stellen"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "du stellst",
+              "ihr stellt"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "er/sie/es stellt",
+              "sie/Sie stellen"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "ich habe gestellt",
+                "wir haben gestellt"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "du hast gestellt",
+                "ihr habt gestellt"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "er/sie/es hat gestellt",
+                "sie/Sie haben gestellt"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ich stelle heute hier.",
+          "trans": "I put upright here today."
+        },
+        {
+          "text": "Wir stellen zusammen.",
+          "trans": "We put upright together."
+        }
+      ],
+      "related": []
+    },
+    "wecker": {
+      "lemma": "wecker",
+      "stress": "ˈvɛkɐ",
+      "pos": "noun",
+      "gloss": "alarm clock",
+      "meanings": [
+        {
+          "en": "alarm clock",
+          "note": "From wecken (to wake someone up)."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "der Wecker",
+              "die Wecker"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "den Wecker",
+              "die Wecker"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "dem Wecker",
+              "den Weckern"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "des Weckers",
+              "der Wecker"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Der Wecker ist hier.",
+          "trans": "The alarm clock is here."
+        },
+        {
+          "text": "Ich sehe den Wecker.",
+          "trans": "I see the alarm clock."
+        }
+      ],
+      "related": [],
+      "gender": "m"
+    },
+    "wir": {
+      "lemma": "wir",
+      "stress": "viːɐ̯",
+      "pos": "pron",
+      "gloss": "we, us",
+      "meanings": [
+        {
+          "en": "we, us",
+          "note": "First-person plural pronoun (acc./dat. uns)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort wir oft.",
+          "trans": "We hear the word 'we' often."
+        },
+        {
+          "text": "Im Alltag nutzt man wir täglich.",
+          "trans": "In everyday life people use 'we' daily."
+        }
+      ],
+      "related": []
+    },
+    "schnell": {
+      "lemma": "schnell",
+      "stress": "ʃnɛl",
+      "pos": "adj",
+      "gloss": "fast, quick; quickly",
+      "meanings": [
+        {
+          "en": "fast, quick",
+          "note": "Comparative schneller = 'faster'."
+        },
+        {
+          "en": "quickly",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "schnell"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "schneller"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "am schnellsten"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Das Zimmer ist schnell.",
+          "trans": "The room is fast."
+        },
+        {
+          "text": "Das wirkt heute sehr schnell.",
+          "trans": "That seems very fast today."
+        }
+      ],
+      "related": []
+    },
+    "als": {
+      "lemma": "als",
+      "stress": "als",
+      "pos": "conj",
+      "gloss": "when (single past event); than; as",
+      "meanings": [
+        {
+          "en": "when (single past event)",
+          "note": "Subordinating 'when' for one past event, 'than' after comparatives, or 'as' for roles."
+        },
+        {
+          "en": "than",
+          "note": ""
+        },
+        {
+          "en": "as",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wir hören das Wort als oft.",
+          "trans": "We hear the word 'when (single past event)' often."
+        },
+        {
+          "text": "Im Alltag nutzt man als täglich.",
+          "trans": "In everyday life people use 'when (single past event)' daily."
+        }
+      ],
+      "related": []
     }
   }
 }

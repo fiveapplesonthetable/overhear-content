@@ -14,7 +14,7 @@ TRANSITION = "Now let's listen to the whole scene again without stopping."
 OUTRO = "Grandfather's wooden train is home, and Tomas's astonishment at seeing Madam Carmen filled the whole courtyard with laughter. Inside at the desk, however, Ernesto is still staring at that letter. See you next time."
 CLOSING = ('carmen', '¡Hasta pronto!')
 STORY = [
-    ('javier', 'Antes de que la mudanza vaciara Calle de los Tilos, salvé esta caja del estante del desván.', 'Before the movers cleared Calle de los Tilos, I saved this box from the attic shelf.'),
+    ('javier', 'Antes de que los de la mudanza vaciaran la casa, salvé esta caja de la estantería del ático.', 'Before the movers cleared the house, I saved this box from the attic shelf.'),
     ('tomas', 'Abre el papel blanco... ¡no! ¡La locomotora de madera tallada del abuelo!', "Open the white paper... no! Grandfather's carved wooden locomotive!"),
     ('javier', 'Mira debajo de las ruedas: tu nombre y el mío siguen escritos a lápiz ahí.', 'Look underneath the wheels—your name and mine are still pencilled there.'),
     ('tomas', '¡Creía que se había perdido al vender la casa! ¿Por qué la guardaste para mí?', 'I thought this was lost when we sold the house! Why keep it for me?'),
@@ -28,7 +28,7 @@ STORY = [
     ('tomas', '¡Siéntese con nosotros, señora Carmen! ¡Dígame que no llego veinticinco años tarde a clase!', 'Please sit with us, Madam Carmen! Tell me I am not twenty-five years late for my lesson!'),
 ]
 WALK = [
-    (0, None, ["'Before the movers cleared Calle de los Tilos, I saved this box from the attic shelf.' Moving house in Spanish is", (None, 'la mudanza'), 'built from changing place.']),
+    (0, None, ["'Before the movers cleared the house, I saved this box from the attic shelf.' Instead of a single verb for moving, Spanish says", (None, 'los de la mudanza'), "literally 'those of the moving'."]),
     (1, None, ["'Open the white paper... no! Grandfather's carved wooden locomotive!' Carved wood is described with", (None, 'tallada'), "meaning 'carved' or 'sculpted'."]),
     (2, None, ["'Look underneath the wheels—your name and mine are still pencilled there.' Say something is written in pencil or ink with", (None, 'escritos a lápiz'), "literally 'written to pencil'."]),
     (3, None, ["'I thought this was lost when we sold the house! Why keep it for me?' Notice", (None, 'al vender la casa'), "literally 'upon selling the house', a crisp Spanish shortcut for 'when we sold the house'."]),

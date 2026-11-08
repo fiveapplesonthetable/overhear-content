@@ -15,7 +15,7 @@ STORY = [
     ('haruto', 'ちょっと待ってください、隆さん。下に留めてある二枚目を読みましたか？', 'Wait a moment, Takashi. Did you read the second page clipped underneath?'),
     ('takashi', '小さな灰色の数字ばかりですよ！一枚目で心臓が止まってしまいました！', 'It is nothing except tiny grey numbers! My heart stopped at page one!'),
     ('mio', '隆さん、陽翔さんが鉛筆で指している場所を見てください！', 'Takashi, look at the spot Haruto is pointing to with his pencil!'),
-    ('haruto', '『大阪旧市街保存条例』の第十四条です……窓の外で兄も今うなずきました！', 'Clause fourteen of the Osaka Old Quarter Preservation Bylaw... and my brother outside the window just nodded!'),
+    ('haruto', '大阪旧市街条例第十四条……そしてここにいる兄は、今うなずいた！', 'Clause fourteen of the 京都 Old Quarter Act—and my brother here just nodded!'),
     ('takashi', 'わかりやすい言葉でお願いします！第十四条には何と書いてありますか？', 'In plain words, please! What is written in Clause fourteen?'),
     ('haruto', '築八十年以上の中庭建築は、一階が毎日近所の人々に開かれていれば、専用オフィスに変えられません。', 'No courtyard building over eighty years old can be turned into private offices if its first floor serves neighbours daily.'),
     ('mio', '「毎日近所の人々に開かれている」……地域の朝カフェみたいにですか！？', "'Open to neighbours every day'... like a neighbourhood morning café?!"),

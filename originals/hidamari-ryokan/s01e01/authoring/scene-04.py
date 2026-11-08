@@ -12,7 +12,7 @@ INTRO = "At the front desk, retired piano teacher Kazuko steps in from her taxi 
 
 STORY = [
     ('mio', 'いらっしゃいませ！おはようございます。', 'Welcome! Good morning, madam.'),
-    ('kazuko', 'おはようございます。予約している和子です。', 'Good morning. I am Kazuko, with a reservation.'),
+    ('kazuko', 'おはよう、お嬢さん。リサの名前で予約しています。', 'Good morning, my dear. I have a booking for 和子.'),
     ('mio', 'はい、二階の四号室ですね！電車の旅はいかがでしたか？', 'Yes, room four on the second floor! How was your train trip?'),
     ('kazuko', '静かで快適でしたよ。でも今日、このスーツケースがとても重いんです。', 'It was quiet and pleasant, though this suitcase feels very heavy today.'),
     ('kenji', 'お持ちしますよ。おや、中に石でも入っていますか？', 'Allow me to carry it. Goodness, are there stones inside here?'),

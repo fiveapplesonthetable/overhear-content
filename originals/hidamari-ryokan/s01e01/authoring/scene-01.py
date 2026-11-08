@@ -18,9 +18,9 @@ STORY = [
     ('mio', '初日はいつも早く歩きます。パソコンはどこですか？', 'I always walk fast on my first day. Where is the computer?'),
     ('kenji', '引き出しの中だよ。ここではこの大きな紙の帳面と鉛筆を使う。', 'Inside the drawer. Here we use this big paper ledger and a pencil.'),
     ('mio', '紙の帳面ですか？本当に？', 'A paper ledger? Really?'),
-    ('kenji', '紙なら、雨の日でも部屋の予定が消えないからね。', 'With paper, the room list never disappears even on a rainy day.'),
+    ('kenji', '紙なら、停電になっても使えるからね。', 'Paper still works when the power goes out.'),
     ('mio', 'なるほど！それで、これが鍵ですか？', 'Fair enough! And are these the keys?'),
-    ('kenji', 'ああ、部屋は八室、真鍮の鍵も八つだ。今日は四号室にお客さんが来る。', 'Yeah, eight rooms and eight brass keys. A guest is arriving for room four today.'),
+    ('kenji', 'ああ、部屋は八室、真鍮の鍵も八つだ。今日は四号室にお客さんが来る。', 'Yes, eight rooms, eight brass keys. Room four\'s guest arrives today.'),
     ('mio', 'わかりました。大事なことを全部教えてください。', 'Got it. Please tell me everything I need to know.'),
     ('kenji', 'ルールその一。まず温かいお茶を飲んで、それからベルに出ること。', 'Rule number one: drink hot tea first, then answer the bell.'),
 ]

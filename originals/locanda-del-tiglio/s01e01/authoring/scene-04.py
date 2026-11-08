@@ -15,7 +15,7 @@ OUTRO = 'Chiara handled her first check-in smoothly, though Bruno noticed that b
 CLOSING = ('lucia', 'A presto!')
 STORY = [
     ('chiara', 'Benvenuta! Buongiorno, signora.', 'Welcome! Good morning, madam.'),
-    ('lucia', 'Buongiorno, cara. Ho una camera a nome Lucia.', 'Good morning, my dear. I have a room for Lucia.'),
+    ('lucia', 'Buongiorno, cara. Ho una prenotazione per Lucia.', 'Good morning, my dear. I have a booking for Lucia.'),
     ('chiara', "Sì, la camera quattro al secondo piano! Com'è andato il viaggio in treno?", 'Yes, room four on the second floor! How was your train trip?'),
     ('lucia', 'Tranquillo e piacevole, grazie, ma oggi questa valigia pesa molto.', 'Quiet and pleasant, thank you, though this suitcase feels very heavy today.'),
     ('bruno', 'Permette? Perbacco, ci sono pietre qui dentro?', 'Allow me. Goodness, did you pack stones in here?'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Welcome! Good morning, madam.' Chiara greets her guest with the respectful title for a woman.", (None, 'Signora.'), 'In Italian hotels and shops, adding madam or sir after good morning sounds natural and warm, never stiff.']),
-    (1, None, ["'Good morning, my dear. I have a room for Lucia.' Look at the handy hotel phrase Lucia uses to give her booking name.", (None, 'A nome Lucia.'), 'Literally in the name Lucia, you can use it at any front desk or restaurant table.']),
+    (1, None, ["'Good morning, my dear. I have a booking for Lucia.' Look at the handy hotel phrase Lucia uses to give her booking name.", (None, 'prenotazione per Lucia.'), 'Literally in the name Lucia, you can use it at any front desk or restaurant table.']),
     (2, None, ["'Yes, room four on the second floor! How was your train trip?' To ask how a trip went, Italian literally asks how it went.", (None, "Com'è andato"), 'Notice too that travel by train uses in rather than by: literally the trip in train.']),
     (3, None, ["'Quiet and pleasant, thank you, though this suitcase feels very heavy today.' Instead of saying is heavy, Italian uses a dedicated action word.", (None, 'Pesa molto.'), 'Literally weighs a lot, it sounds much more idiomatic when you are pulling a heavy bag.']),
     (4, None, ["'Allow me. Goodness, did you pack stones in here?' Bruno asks permission with one polite word before lifting a guest's luggage.", (None, 'Permette?'), 'Then he lets out a classic, mild old-fashioned exclamation of surprise as the handle nearly pulls his arm down.']),

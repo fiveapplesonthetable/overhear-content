@@ -20,7 +20,7 @@ STORY = [
     ('klara', 'Heißt das heute Nacht kalte Heizung, oder auch kein warmes Wasser?', 'Does that mean cold heating tonight, or no hot water too?'),
     ('werner', 'Die Zimmer bleiben bis morgen warm, Klara, denn die Ziegelwände speichern Wärme.', 'The rooms will stay warm until morning, Klara, because the brick walls hold heat.'),
     ('martin', 'Gott sei Dank! Und die Duschen morgen früh?', 'Thank goodness! And the showers tomorrow morning?'),
-    ('werner', 'Morgen früh um sieben ist das Duschwasser eiskalt.', 'Tomorrow morning at seven, the shower water will be ice-cold.'),
+    ('werner', 'Bis morgen früh ist das Duschwasser eiskalt.', 'By tomorrow morning, the shower water will be ice-cold.'),
     ('martin', 'Eiskalte Duschen?! Mit dem Prüfer vom Reiseführer im dritten Stock?!', 'Ice-cold showers?! With the travel-guide inspector on the third floor?!'),
     ('klara', 'Hast du noch ein Ersatzventil in deinem Werkzeugkasten?', 'Do you still have a spare valve in your toolbox?'),
     ('werner', 'Im Winter verbraucht. Nur der alte Eisenladen hinter der Brücke hat diese Größe.', 'Used up in winter. Only the old hardware shop past the bridge has this size.'),

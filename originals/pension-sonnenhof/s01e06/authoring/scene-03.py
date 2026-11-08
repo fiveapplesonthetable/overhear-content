@@ -26,7 +26,7 @@ STORY = [
     ('werner', 'Kluger Kopf, Klara. Lukas liest jede Woche städtische Baugesetze.', 'Smart thinking, Klara. Lukas reads city building laws every week.'),
     ('martin', 'Ach, ich kann doch keinen zahlenden Gast mit unseren Mietsorgen belästigen!', 'Oh, I cannot bother a paying guest with our rent worries!'),
     ('klara', 'Nachdem wir die ganze Woche seinen Koffer gehütet haben? Er hilft bestimmt gern!', 'After we guarded his suitcase all week? He will surely be glad to help!'),
-    ('werner', 'Moment, da kommt Miriam gerade von ihrem Tisch zurück.', 'Wait, here comes Miriam back from their table right now.'),
+    ('werner', 'Moment, Miriam bringt gerade den Kuchen an ihren Tisch.', 'Wait, Miriam is taking the cake out to their table right now.'),
 ]
 WALK = [
     (0, None, "'Fifteen years of polishing brass keys and straightening ties... over in thirty days!' Earlier 'past' meant walking past a pharmacy; here alone it means 'all over, finished'."),

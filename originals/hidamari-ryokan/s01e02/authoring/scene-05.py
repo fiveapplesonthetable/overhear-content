@@ -21,7 +21,7 @@ STORY = [
     ('kazuko', '心配しないで！冷たい炭酸水なら、オレンジジュースがすぐ落ちますよ。', 'Do not worry! Cold sparkling water takes orange juice right out.'),
     ('mio', '隆さん、きれいな布と冷たい水をお持ちしました。', 'Takashi, I brought a clean cloth and cold water.'),
     ('takashi', '失礼いたします、和子さん。堂々と事務室へ引き上げます！', 'Excuse me, Kazuko. I shall retreat to my office with dignity!'),
-    ('kazuko', 'スクランブルエッグがとてもおいしいわ、美央さん。由香さんによろしく伝えてね。', 'The scrambled eggs are delicious, Mio. Please give Yuka my compliments.'),
+    ('kazuko', 'スクランブルエッグがとてもおいしいわ、美央さん。由香さんによろしく伝えてね。', 'The scrambled eggs are delicious, Mio. Tell Yuka my compliments!'),
     ('mio', 'はい、伝えます！どうぞごゆっくりお過ごしください。', 'I certainly will! Please enjoy a relaxing morning.'),
 ]
 

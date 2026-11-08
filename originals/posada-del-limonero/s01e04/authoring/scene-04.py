@@ -14,7 +14,7 @@ TRANSITION = "Now let's listen to the whole conversation again from start to fin
 OUTRO = "A steady blue flame and hot copper pipes—and Mateo even called Clara 'partner' instead of 'rookie'! Let's go upstairs next time as Javier comes down from the attic."
 CLOSING = ('clara', '¡Hasta luego!')
 STORY = [
-    ('clara', '¡Aquí tienes las dos válvulas de latón, Mateo! ¿Respirar? ¡Luego!', 'Here are both brass valves, Mateo! Catch my breath? Later!'),
+    ('clara', '¡Aquí están las dos válvulas de latón, Mateo! ¿Recuperar el aliento? ¡Nunca!', 'Here are both brass valves, Mateo! Catch my breath? Never!'),
     ('mateo', 'Sujeta firme esta linterna sobre la junta de la tubería, justo aquí.', 'Hold this flashlight steady on the pipe joint, right here.'),
     ('clara', '¡Listo! ¿Ya has cerrado la llave general del agua?', 'Got it! Did you turn off the main water tap already?'),
     ('mateo', 'Cerrada y vaciada. Pásame la llave inglesa pesada de tu izquierda.', 'Off and drained. Pass me the heavy wrench on your left.'),
@@ -28,7 +28,7 @@ STORY = [
     ('mateo', 'Tres minutos para llegar a la tercera planta. Buena carrera hoy, compañera.', 'Three minutes to reach the third floor. Good run today, partner.'),
 ]
 WALK = [
-    (0, None, ["'Here are both brass valves, Mateo! Catch my breath? Later!' Casual", (None, 'Aquí tienes'), 'is the colleague twin of the polite guest version we learned in Episode 1.']),
+    (0, None, ["'Here are both brass valves, Mateo! Catch my breath? Never!' Instead of 'catch my breath', Spanish uses", (None, 'Recuperar el aliento'), "which is 'recover the breath'."]),
     (1, None, ["'Hold this flashlight steady on the pipe joint, right here.' In Spain, a hand torch or flashlight is", (None, 'esta linterna'), 'originally named after old oil lanterns.']),
     (2, None, ["'Got it! Did you turn off the main water tap already?' Interestingly,", (None, 'la llave general'), "uses the word for 'key' to name a main shut-off valve!"]),
     (3, None, ["'Off and drained. Pass me the heavy wrench on your left.' Even better, an adjustable spanner in Spain is called", (None, 'la llave inglesa'), "literally 'the English key'!"]),

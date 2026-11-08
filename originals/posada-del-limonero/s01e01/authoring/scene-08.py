@@ -15,8 +15,8 @@ OUTRO = "Madam Carmen's suitcase is back, yet the mystery stranger vanished into
 CLOSING = ('mateo', '¡Hasta mañana!')
 STORY = [
     ('clara', '¿Has oído eso, Mateo? ¡Alguien acaba de tocar el timbre!', 'Did you hear that, Mateo? Someone just rang the bell!'),
-    ('mateo', '¿A las nueve? Quédate aquí, vamos a abrir la puerta juntos.', "At nine o'clock? Stay here, let us open the door together."),
-    ('clara', '¿Hola? ¡Buenas noches! ¡No hay nadie en el patio!', 'Hello? Good evening! Nobody is in the courtyard!'),
+    ('mateo', '¿A las nueve? Espera, vamos a abrir la verja juntos.', "At nine o'clock? Wait, let us open the gate together."),
+    ('clara', '¿Hola? ¡Buenas noches! ¡No hay nadie de pie en la verja!', 'Hello? Good evening! Nobody is standing at the gate!'),
     ('mateo', 'Espera. Mira abajo, en el escalón de piedra.', 'Wait. Look down on the stone step.'),
     ('clara', '¡Otra maleta azul oscuro! ¿Es la maleta de la señora Carmen?', "Another dark-blue suitcase! Is it Madam Carmen's suitcase?"),
     ('mateo', 'Mira la cremallera... ¡sí, aquí están sus iniciales!', 'Check the zipper... yes, her initials are right here!'),
@@ -29,8 +29,8 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Did you hear that, Mateo? Someone just rang the bell!' To say someone 'just' did something, Spanish uses", (None, 'acaba de tocar'), "literally 'finishes of ringing'."]),
-    (1, None, ["'At nine o'clock? Stay here, let us open the door together.' Clock hours above one always take the plural feminine word for 'the', giving", (None, 'A las nueve'), "for 'at nine o'clock'."]),
-    (2, None, ["'Hello? Good evening! Nobody is in the courtyard!' After dark, Spanish uses", (None, 'Buenas noches'), "both as an evening greeting when you open a door and as 'good night' at bedtime."]),
+    (1, None, ["'At nine o'clock? Wait, let us open the gate together.' Clock hours above one always take the plural feminine word for 'the', giving", (None, 'A las nueve'), "for 'at nine o'clock'."]),
+    (2, None, ["'Hello? Good evening! Nobody is standing at the gate!' Unlike English, Spanish requires double negatives, so", (None, 'No hay nadie'), "literally means 'not there-is nobody'."]),
     (3, None, ["'Wait. Look down on the stone step.' Notice how Spanish names the material with 'of':", (None, 'escalón de piedra'), 'is a step made of stone.']),
     (4, None, ["'Another dark-blue suitcase! Is it Madam Carmen's suitcase?' When talking about someone rather than directly to her, Spanish puts 'the' before a title:", (None, 'la señora Carmen'), 'is standard and respectful.']),
     (5, None, ["'Check the zipper... yes, her initials are right here!' In Spain, a suitcase zipper is", (None, 'la cremallera'), 'a handy travel word if a bag ever jams.']),

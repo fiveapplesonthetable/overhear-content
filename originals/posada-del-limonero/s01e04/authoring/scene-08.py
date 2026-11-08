@@ -14,7 +14,7 @@ TRANSITION = "Now let's listen to the whole conversation again from start to fin
 OUTRO = 'What a moment in the courtyard: little Javier from the third stair is standing right in front of his childhood piano teacher—and he is the mystery suitcase owner! Episode 4 is complete; see you in Episode 5.'
 CLOSING = ('javier', '¡Nos vemos!')
 STORY = [
-    ('clara', '¡Cuénteme más sobre los dos niños de Calle de los Tilos, señora Carmen!', 'Tell me more about the two boys from Calle de los Tilos, Madam Carmen!'),
+    ('clara', '¡Cuénteme más sobre los dos niños de Calle del Limonero, señora Carmen!', 'Tell me more about the two boys from Calle del Limonero, Madam Carmen!'),
     ('carmen', 'El hermano mayor era decidido y ruidoso, siempre corría en las escalas de música.', 'The older brother was bold and loud, always rushing through his music scales.'),
     ('clara', '¿Y el hermano pequeño del tren de madera?', 'And the younger brother with the wooden train?'),
     ('carmen', '¡Callado como un ratón! Se sentaba en el tercer escalón a escuchar cada nota.', 'Quiet as a mouse! He sat on the third step listening to every note.'),
@@ -28,7 +28,7 @@ STORY = [
     ('javier', 'Sí, Clara. Esa maleta azul es mía, y les debo a las dos toda la verdad.', 'Yes, Clara. That blue suitcase is mine, and I owe both of you the whole truth.'),
 ]
 WALK = [
-    (0, None, ["'Tell me more about the two boys from Calle de los Tilos, Madam Carmen!' Polite", (None, 'Cuénteme más'), "literally 'recount to me more', comes from the same root as counting and stories."]),
+    (0, None, ["'Tell me more about the two boys from Calle del Limonero, Madam Carmen!' Polite", (None, 'Cuénteme más'), "literally 'recount to me more', comes from the same root as counting and stories."]),
     (1, None, ["'The older brother was bold and loud, always rushing through his music scales.' Pair", (None, 'El hermano mayor'), "for 'older brother' with 'little brother' right in the next line."]),
     (2, None, ["'And the younger brother with the wooden train?' In families, Spanish affectionately says", (None, 'el hermano pequeño'), "literally 'the small brother', for the younger one."]),
     (3, None, ["'Quiet as a mouse! He sat on the third step listening to every note.' Before masculine singular 'step', 'third' drops its final o to become", (None, 'tercer escalón'), "just like 'first' did in Episode 1."]),

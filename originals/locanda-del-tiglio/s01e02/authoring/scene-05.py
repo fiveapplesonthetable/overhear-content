@@ -24,7 +24,7 @@ STORY = [
     ('lucia', "Non si preoccupi! L'acqua frizzante fredda toglie subito l'arancia.", 'Do not worry! Cold sparkling water takes orange juice right out.'),
     ('chiara', 'Ecco un panno pulito e acqua fredda, signor Cesare.', 'Here is a clean cloth and cold water, Cesare.'),
     ('cesare', 'Mi scusi, signora, torno nel mio ufficio con dignità!', 'Excuse me, madam, I shall retreat to my office with dignity!'),
-    ('lucia', 'Le uova strapazzate sono squisite, Chiara. Faccia i complimenti a Giulia!', 'Your scrambled eggs are delicious, Chiara. Tell Giulia my compliments!'),
+    ('lucia', 'Le uova strapazzate sono squisite, Chiara. Faccia i complimenti a Giulia!', 'The scrambled eggs are delicious, Chiara. Tell Giulia my compliments!'),
     ('chiara', 'Subito! Buona mattinata, signora.', 'I will! Enjoy your morning.'),
 ]
 WALK = [
@@ -38,6 +38,6 @@ WALK = [
     (7, None, ["'Do not worry! Cold sparkling water takes orange juice right out.' Here is the restaurant word you will hear at every meal in Italian life.", (None, "L'acqua frizzante"), 'Sparkling or fizzy water—its partner at the table is natural or still water.']),
     (8, None, "'Here is a clean cloth and cold water, Cesare.' Notice how Chiara addresses her boss with sir plus his first name, a warm Italian middle ground between formality and friendliness."),
     (9, None, ["'Excuse me, madam, I shall retreat to my office with dignity!' Cesare excuses himself politely before slipping away.", (None, 'Mi scusi'), 'Putting to me in front makes excuse me sound extra courteous when apologizing for a spill.']),
-    (10, None, ["'Your scrambled eggs are delicious, Chiara. Tell Giulia my compliments!' Look at the classic Italian way to praise the cook.", (None, 'Faccia i complimenti a Giulia!'), 'Literally make the compliments to Giulia, alongside a mouth-watering word for exquisite or delicious.']),
+    (10, None, ["'The scrambled eggs are delicious, Chiara. Tell Giulia my compliments!' Look at the classic Italian way to praise the cook.", (None, 'Faccia i complimenti a Giulia!'), 'Literally make the compliments to Giulia, alongside a mouth-watering word for exquisite or delicious.']),
     (11, None, ["'I will! Enjoy your morning.' Adding a longer ending to morning turns the clock time into the whole pleasant stretch of the morning.", (None, 'Buona mattinata'), 'Just like good day or good evening, it wishes someone a lovely morning ahead.']),
 ]

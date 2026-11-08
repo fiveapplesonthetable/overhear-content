@@ -3674,15 +3674,211 @@
     }
   ],
   "lexicon": {
-    "acabar": {
-      "lemma": "acabar",
-      "stress": "akaˈbaʁ",
-      "pos": "verb",
-      "gloss": "to finish; to have just (acabou de)",
+    "que": {
+      "lemma": "que",
+      "stress": "ki",
+      "pos": "conj",
+      "gloss": "that; than; what",
       "meanings": [
         {
-          "en": "to finish; to have just (acabou de)",
-          "note": "Acabar de + infinitive means 'to have just done something'."
+          "en": "that; than; what",
+          "note": "Connects clauses, introduces comparisons, or asks/exclaims before nouns (Que maravilha!)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "quê",
+          "gloss": "what (stressed)"
+        },
+        {
+          "word": "quem",
+          "gloss": "who"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ótimo. Pode me contar tudo o que eu preciso saber.",
+          "trans": "Great. You can tell me everything I need to know."
+        },
+        {
+          "text": "Muito prazer, Bianca! Que cheiro maravilhoso!",
+          "trans": "Nice to meet you, Bianca! What a wonderful smell!"
+        },
+        {
+          "text": "Que barulho foi esse? Alguém tocou duas vezes!",
+          "trans": "What noise was that? Somebody rang twice!"
+        }
+      ]
+    },
+    "confusão": {
+      "lemma": "confusão",
+      "stress": "kõfuˈzɐ̃w̃",
+      "pos": "noun",
+      "gloss": "mix-up; confusion; mess",
+      "meanings": [
+        {
+          "en": "mix-up; confusion; mess",
+          "note": "Que confusão! = 'What a mix-up!'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "a confusão",
+              "as confusões"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "engano",
+          "gloss": "mistake"
+        }
+      ],
+      "gender": "f",
+      "plural": "confusões",
+      "examples": [
+        {
+          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
+          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
+        },
+        {
+          "text": "Desculpe a confusão com os horários de chegada.",
+          "trans": "Sorry for the mix-up with the arrival times."
+        }
+      ]
+    },
+    "meu": {
+      "lemma": "meu",
+      "stress": "mew",
+      "pos": "det",
+      "gloss": "my; mine",
+      "meanings": [
+        {
+          "en": "my; mine",
+          "note": "First-person singular possessive: meu, minha, meus, minhas."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "eu",
+          "gloss": "I"
+        },
+        {
+          "word": "nosso",
+          "gloss": "our"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Eu preciso ler o caderno de reservas, mas cadê os meus óculos?",
+          "trans": "I need to read the reservation book, but where are my glasses?"
+        },
+        {
+          "text": "Por que os meus óculos estariam no... ah! Estão na minha cabeça!",
+          "trans": "Why would my glasses be in the... oh! They are on my head!"
+        },
+        {
+          "text": "Só vestidos, partituras e a minha xícara favorita!",
+          "trans": "Only dresses, sheet music, and my favourite teacup!"
+        }
+      ]
+    },
+    "nosso": {
+      "lemma": "nosso",
+      "stress": "ˈnɔsu",
+      "pos": "det",
+      "gloss": "our; ours",
+      "meanings": [
+        {
+          "en": "our; ours",
+          "note": "First-person plural possessive: nosso, nossa, nossos, nossas."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "nós",
+          "gloss": "we"
+        },
+        {
+          "word": "meu",
+          "gloss": "my"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Com licença, senhora. Nossa, a senhora trouxe pedras aqui dentro?",
+          "trans": "Allow me, madam. Goodness, did you bring stones in here?"
+        },
+        {
+          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
+          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
+        },
+        {
+          "text": "Espere, essa rua fica aqui no nosso bairro, a cinco minutos daqui!",
+          "trans": "Wait, that street is right here in our neighbourhood, five minutes from here!"
+        }
+      ]
+    },
+    "deixe-me": {
+      "lemma": "deixe-me",
+      "stress": "ˈdejʃimi",
+      "pos": "phrase",
+      "gloss": "let me (formal)",
+      "meanings": [
+        {
+          "en": "let me (formal)",
+          "note": "Enclitic imperative expression of deixar + me used in polite or formal speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "deixar",
+          "gloss": "to let"
+        },
+        {
+          "word": "me",
+          "gloss": "me"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
+          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
+        },
+        {
+          "text": "Deixe-me abrir o portão grande para a senhora passar.",
+          "trans": "Let me open the big gate for you to walk through, madam."
+        }
+      ]
+    },
+    "ver": {
+      "lemma": "ver",
+      "stress": "veʁ",
+      "pos": "verb",
+      "gloss": "to see; to check",
+      "meanings": [
+        {
+          "en": "to see; to check",
+          "note": "Irregular: vejo, vê, vemos, veem; preterite vi, viu, vimos; imperative veja/vejam."
         }
       ],
       "forms": {
@@ -3696,22 +3892,22 @@
           {
             "cells": [
               "1st",
-              "eu acabo",
-              "nós acabamos"
+              "eu vejo",
+              "nós vemos"
             ]
           },
           {
             "cells": [
               "2nd",
-              "você acaba",
-              "vocês acabam"
+              "você vê",
+              "vocês veem"
             ]
           },
           {
             "cells": [
               "3rd",
-              "ele/ela acaba",
-              "eles/elas acabam"
+              "ele/ela vê",
+              "eles/elas veem"
             ]
           }
         ]
@@ -3728,22 +3924,22 @@
             {
               "cells": [
                 "1st",
-                "eu acabei",
-                "nós acabamos"
+                "eu vi",
+                "nós vimos"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "você acabou",
-                "vocês acabaram"
+                "você viu",
+                "vocês viram"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "ele/ela acabou",
-                "eles/elas acabaram"
+                "ele/ela viu",
+                "eles/elas viram"
               ]
             }
           ]
@@ -3751,60 +3947,87 @@
       ],
       "related": [
         {
-          "word": "começar",
-          "gloss": "to start"
+          "word": "olhar",
+          "gloss": "to look"
         },
         {
-          "word": "terminar",
-          "gloss": "to finish"
+          "word": "vista",
+          "gloss": "view"
         }
       ],
       "examples": [
         {
-          "text": "Olha só, um táxi acabou de parar no portão.",
-          "trans": "Look there, a taxi just stopped at the gate."
+          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
+          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
         },
         {
-          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
-          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+          "text": "Veja o zíper... sim, as iniciais dela estão bem aqui!",
+          "trans": "Check the zipper... yes, her initials are right here!"
         },
         {
-          "text": "Notícia ruim. A válvula de latão do aquecedor central acaba de rachar.",
-          "trans": "Bad news. The brass valve on the central water heater just cracked."
+          "text": "Vamos lá, quero ver quem chega primeiro ao terceiro andar!",
+          "trans": "Come on, let's see who reaches the third floor first!"
         }
       ]
     },
-    "achado": {
-      "lemma": "achado",
-      "stress": "aˈʃadu",
-      "pos": "adj",
-      "gloss": "found; lost-and-found (achados e perdidos)",
+    "o": {
+      "lemma": "o",
+      "stress": "u",
+      "pos": "det",
+      "gloss": "the",
       "meanings": [
         {
-          "en": "found; lost-and-found (achados e perdidos)",
-          "note": "Achados e perdidos = 'lost and found'."
+          "en": "the",
+          "note": "Definite article agreeing in gender and number: o, a, os, as. Often used before first names in Brazil."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "um",
+          "gloss": "a; an"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Bom dia! Com licença, a porta está trancada?",
+          "trans": "Good morning! Excuse me, is the door locked?"
+        },
+        {
+          "text": "Bom dia. Não, levante a maçaneta primeiro e depois empurre.",
+          "trans": "Good morning. No, lift the handle first and then push."
+        },
+        {
+          "text": "Ah, abriu! Obrigada. Eu sou a Camila, a nova recepcionista.",
+          "trans": "Oh, it opened! Thank you. I am Camila, the new receptionist."
+        }
+      ]
+    },
+    "etiqueta": {
+      "lemma": "etiqueta",
+      "stress": "etʃiˈketɐ",
+      "pos": "noun",
+      "gloss": "tag; label",
+      "meanings": [
+        {
+          "en": "tag; label",
+          "note": "Luggage tag or price label."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "sg",
-              "achado",
-              "achada"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "achados",
-              "achadas"
+              "form",
+              "a etiqueta",
+              "as etiquetas"
             ]
           }
         ]
@@ -3812,94 +4035,218 @@
       "moreForms": [],
       "related": [
         {
-          "word": "perdido",
-          "gloss": "lost"
+          "word": "mala",
+          "gloss": "suitcase"
         },
         {
-          "word": "achar",
-          "gloss": "to find"
+          "word": "nome",
+          "gloss": "name"
         }
       ],
+      "gender": "f",
+      "plural": "etiquetas",
       "examples": [
-        {
-          "text": "Camila, ligue agora mesmo para os achados e perdidos da rodoviária.",
-          "trans": "Camila, call the bus station lost-and-found right away."
-        },
-        {
-          "text": "Esta padaria pequena foi um verdadeiro achado no bairro.",
-          "trans": "This little bakery was a real find in the neighborhood."
-        }
-      ]
-    },
-    "agora": {
-      "lemma": "agora",
-      "stress": "aˈɡɔɾɐ",
-      "pos": "adv",
-      "gloss": "now",
-      "meanings": [
-        {
-          "en": "now",
-          "note": "Agora mesmo means 'right this second'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "hoje",
-          "gloss": "today"
-        },
-        {
-          "word": "já",
-          "gloss": "already"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Não contem para ninguém! Agora, um sorriso bonito quando a campainha tocar.",
-          "trans": "Do not tell anyone! Now, a nice smile when the bell rings."
-        },
         {
           "text": "Pode sentar, senhora. Fique tranquila, a gente vai olhar a etiqueta agora.",
           "trans": "Please sit down, madam. Do not worry, we will check the tag now."
         },
         {
-          "text": "Camila, ligue agora mesmo para os achados e perdidos da rodoviária.",
-          "trans": "Camila, call the bus station lost-and-found right away."
+          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
+          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
+        },
+        {
+          "text": "Que curioso! A letra daquela etiqueta pareceu tão familiar para mim.",
+          "trans": "How curious! The handwriting on that tag looked so familiar to me."
         }
       ]
     },
-    "ainda": {
-      "lemma": "ainda",
-      "stress": "aˈĩdɐ",
-      "pos": "adv",
-      "gloss": "still; yet",
+    "com": {
+      "lemma": "com",
+      "stress": "kõ",
+      "pos": "prep",
+      "gloss": "with",
       "meanings": [
         {
-          "en": "still; yet",
-          "note": "Ainda não means 'not yet'; ainda bem means 'thank goodness'."
+          "en": "with",
+          "note": "Expresses accompaniment, instrument, or state (com fome = hungry, com licença = excuse me)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "related": [
         {
-          "word": "já",
-          "gloss": "already"
+          "word": "sem",
+          "gloss": "without"
+        },
+        {
+          "word": "comigo",
+          "gloss": "with me"
         }
       ],
       "examples": [
         {
-          "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
-          "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
+          "text": "Bom dia! Com licença, a porta está trancada?",
+          "trans": "Good morning! Excuse me, is the door locked?"
         },
         {
-          "text": "Eles ainda não têm nada, senhora. Sinto muito mesmo.",
-          "trans": "They have nothing yet, madam. I am truly sorry."
+          "text": "Obrigada! Aqui a gente fala você com todo mundo?",
+          "trans": "Thank you! Do we say casual 'you' with everyone here?"
         },
         {
-          "text": "Minha nossa! Nem uma gota na mesa, ainda bem... caiu tudo na minha gravata!",
-          "trans": "Goodness me! Not a drop on the table, thank goodness... it all fell on my tie!"
+          "text": "A Bianca conversa com toda a rua como velha amiga.",
+          "trans": "Bianca chats with the whole street like an old friend."
+        }
+      ]
+    },
+    "óculos": {
+      "lemma": "óculos",
+      "stress": "ˈɔkulus",
+      "pos": "noun",
+      "gloss": "glasses; spectacles",
+      "meanings": [
+        {
+          "en": "glasses; spectacles",
+          "note": "Plural-only masculine noun: os meus óculos ('my glasses')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "—",
+              "os óculos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "ler",
+          "gloss": "to read"
+        },
+        {
+          "word": "olho",
+          "gloss": "eye"
+        }
+      ],
+      "gender": "m",
+      "number": "pl",
+      "examples": [
+        {
+          "text": "Eu preciso ler o caderno de reservas, mas cadê os meus óculos?",
+          "trans": "I need to read the reservation book, but where are my glasses?"
+        },
+        {
+          "text": "Por que os meus óculos estariam no... ah! Estão na minha cabeça!",
+          "trans": "Why would my glasses be in the... oh! They are on my head!"
+        },
+        {
+          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
+          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
+        }
+      ]
+    },
+    "ter": {
+      "lemma": "ter",
+      "stress": "teʁ",
+      "pos": "verb",
+      "gloss": "to have; there is / there are (tem)",
+      "meanings": [
+        {
+          "en": "to have; there is / there are (tem)",
+          "note": "Irregular (tenho, tem, temos, têm; tive, teve); impersonal tem means 'there is / there are' in Brazil."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "eu tenho",
+              "nós temos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "você tem",
+              "vocês têm"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ele/ela tem",
+              "eles/elas têm"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "eu tive",
+                "nós tivemos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "você teve",
+                "vocês tiveram"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "ele/ela teve",
+                "eles/elas tiveram"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "haver",
+          "gloss": "there to be"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Não tem ninguém lá. É a campainha do quarto quatro.",
+          "trans": "Nobody is there. It is the buzzer from room four."
+        },
+        {
+          "text": "Não, só tem uma caneta e três recibos velhos!",
+          "trans": "No, there is only a pen and three old receipts!"
+        },
+        {
+          "text": "Bom dia, querida. Tenho uma reserva para a Helena.",
+          "trans": "Good morning, my dear. I have a booking for Helena."
         }
       ]
     },
@@ -3941,91 +4288,19 @@
         }
       ]
     },
-    "alguém": {
-      "lemma": "alguém",
-      "stress": "awˈɡẽj̃",
-      "pos": "pron",
-      "gloss": "someone; anyone",
+    "nome": {
+      "lemma": "nome",
+      "stress": "ˈnomi",
+      "pos": "noun",
+      "gloss": "name",
       "meanings": [
         {
-          "en": "someone; anyone",
-          "note": "Indefinite pronoun referring to a person."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "ninguém",
-          "gloss": "nobody"
-        },
-        {
-          "word": "algo",
-          "gloss": "something"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Que barulho foi esse? Alguém tocou duas vezes!",
-          "trans": "What noise was that? Somebody rang twice!"
-        },
-        {
-          "text": "Alguém na rodoviária pegou a minha mala azul por engano!",
-          "trans": "Someone at the bus station took my blue suitcase by mistake!"
-        },
-        {
-          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
-          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
-        }
-      ]
-    },
-    "alô": {
-      "lemma": "alô",
-      "stress": "aˈlo",
-      "pos": "interj",
-      "gloss": "hello (on the phone)",
-      "meanings": [
-        {
-          "en": "hello (on the phone)",
-          "note": "Standard greeting when answering a phone call."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "oi",
-          "gloss": "hi"
-        },
-        {
-          "word": "telefone",
-          "gloss": "telephone"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
-          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
-        },
-        {
-          "text": "Espere... alô, senhor! O senhor está ligando sobre a mala azul-escura?",
-          "trans": "Wait... hello, sir! Are you calling about the dark-blue suitcase?"
-        }
-      ]
-    },
-    "anotar": {
-      "lemma": "anotar",
-      "stress": "anoˈtaʁ",
-      "pos": "verb",
-      "gloss": "to write down; to note",
-      "meanings": [
-        {
-          "en": "to write down; to note",
-          "note": "Essential front-desk verb for recording bookings or notes."
+          "en": "name",
+          "note": "Em nome de = 'under the name of'."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Forms",
         "columns": [
           "",
           "sg",
@@ -4034,82 +4309,636 @@
         "rows": [
           {
             "cells": [
-              "1st",
-              "eu anoto",
-              "nós anotamos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "você anota",
-              "vocês anotam"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ele/ela anota",
-              "eles/elas anotam"
+              "form",
+              "o nome",
+              "os nomes"
             ]
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "eu anotei",
-                "nós anotamos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "você anotou",
-                "vocês anotaram"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "ele/ela anotou",
-                "eles/elas anotaram"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "related": [
         {
-          "word": "anotação",
-          "gloss": "note"
+          "word": "sobrenome",
+          "gloss": "surname"
+        }
+      ],
+      "gender": "m",
+      "plural": "nomes",
+      "examples": [
+        {
+          "text": "Tem algum nome ou número de telefone aí?",
+          "trans": "Is there any name or phone number there?"
         },
         {
-          "word": "caderno",
-          "gloss": "notebook"
+          "text": "Até sexta-feira? Sem nome e sem assinatura!",
+          "trans": "Until Friday? No name and no signature!"
+        }
+      ]
+    },
+    "ou": {
+      "lemma": "ou",
+      "stress": "ow",
+      "pos": "conj",
+      "gloss": "or",
+      "meanings": [
+        {
+          "en": "or",
+          "note": "Coordinating conjunction offering alternatives."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "e",
+          "gloss": "and"
+        },
+        {
+          "word": "nem",
+          "gloss": "nor"
         }
       ],
       "examples": [
         {
+          "text": "Que maravilha. A janela dá para a rua ou para o pátio?",
+          "trans": "Wonderful. Does the window face the street or the courtyard?"
+        },
+        {
+          "text": "Tem algum nome ou número de telefone aí?",
+          "trans": "Is there any name or phone number there?"
+        },
+        {
+          "text": "Bom dia de novo, Dona Helena! A senhora quer café ou chá preto?",
+          "trans": "Good morning again, Madam Helena! Would you like coffee or black tea?"
+        }
+      ]
+    },
+    "número": {
+      "lemma": "número",
+      "stress": "ˈnũmeɾu",
+      "pos": "noun",
+      "gloss": "number; size",
+      "meanings": [
+        {
+          "en": "number; size",
+          "note": "Room number, street number, or shoe/clothing size."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "o número",
+              "os números"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "endereço",
+          "gloss": "address"
+        }
+      ],
+      "gender": "m",
+      "plural": "números",
+      "examples": [
+        {
+          "text": "Regra número um: tome chá quente primeiro e depois atenda a campainha.",
+          "trans": "Rule number one: drink hot tea first and then answer the bell."
+        },
+        {
+          "text": "Aqui está a sua chave, número quatro. O café da manhã é das sete e meia às dez.",
+          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
+        },
+        {
+          "text": "Tem algum nome ou número de telefone aí?",
+          "trans": "Is there any name or phone number there?"
+        }
+      ]
+    },
+    "de": {
+      "lemma": "de",
+      "stress": "dʒi",
+      "pos": "prep",
+      "gloss": "of; from; by",
+      "meanings": [
+        {
+          "en": "of; from; by",
+          "note": "Expresses possession, material, origin, or transport; contracts with o/a/os/as as do, da, dos, das."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "em",
+          "gloss": "in; on"
+        },
+        {
+          "word": "por",
+          "gloss": "by; for"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Um caderno de papel? Sério?",
+          "trans": "A paper notebook? Really?"
+        },
+        {
+          "text": "Oi! Você deve ser a Camila. Eu sou a Bianca, da cozinha.",
+          "trans": "Hi! You must be Camila. I am Bianca, from the kitchen."
+        },
+        {
+          "text": "Pãozinho fresco da manhã! Pegue um enquanto está quentinho.",
+          "trans": "Fresh morning rolls! Take one while it is nice and warm."
+        }
+      ]
+    },
+    "telefone": {
+      "lemma": "telefone",
+      "stress": "teleˈfõni",
+      "pos": "noun",
+      "gloss": "telephone; phone number",
+      "meanings": [
+        {
+          "en": "telephone; phone number",
+          "note": "Por telefone = 'by phone'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "o telefone",
+              "os telefones"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "telefonema",
+          "gloss": "phone call"
+        },
+        {
+          "word": "ligar",
+          "gloss": "to call"
+        }
+      ],
+      "gender": "m",
+      "plural": "telefones",
+      "examples": [
+        {
+          "text": "Tem algum nome ou número de telefone aí?",
+          "trans": "Is there any name or phone number there?"
+        },
+        {
+          "text": "Infelizmente não tem telefone. Só duas letras iniciais e uma rua antiga.",
+          "trans": "Unfortunately there is no phone number. Only two initials and an old street."
+        },
+        {
           "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
           "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
+        }
+      ]
+    },
+    "aí": {
+      "lemma": "aí",
+      "stress": "aˈi",
+      "pos": "adv",
+      "gloss": "there (near you); then",
+      "meanings": [
+        {
+          "en": "there (near you); then",
+          "note": "Points to the listener's spot or a spot right in view (bem aí)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "aqui",
+          "gloss": "here"
+        },
+        {
+          "word": "ali",
+          "gloss": "over there"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Bem aí na sua testa, sãos e salvos.",
+          "trans": "Right there on your forehead, safe and sound."
+        },
+        {
+          "text": "Tem algum nome ou número de telefone aí?",
+          "trans": "Is there any name or phone number there?"
         },
         {
           "text": "Pergunte o nome dele! Anote aí no papel!",
           "trans": "Ask his name! Write it down on the paper!"
+        }
+      ]
+    },
+    "infelizmente": {
+      "lemma": "infelizmente",
+      "stress": "ĩfelizˈmẽtʃi",
+      "pos": "adv",
+      "gloss": "unfortunately",
+      "meanings": [
+        {
+          "en": "unfortunately",
+          "note": "Expresses polite regret."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "feliz",
+          "gloss": "happy"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Infelizmente não tem telefone. Só duas letras iniciais e uma rua antiga.",
+          "trans": "Unfortunately there is no phone number. Only two initials and an old street."
         },
         {
-          "text": "Ai, que desastre! Ontem anotei uma reserva no tablet sem os meus óculos!",
-          "trans": "Oh, what a disaster! Yesterday I wrote a booking on the tablet without my glasses!"
+          "text": "Infelizmente a loja de ferragens fecha ao meio-dia no sábado.",
+          "trans": "Unfortunately the hardware store closes at noon on Saturdays."
+        }
+      ]
+    },
+    "não": {
+      "lemma": "não",
+      "stress": "nɐ̃w̃",
+      "pos": "adv",
+      "gloss": "no; not",
+      "meanings": [
+        {
+          "en": "no; not",
+          "note": "Standard word for 'no' and verbal negation (placed right before the verb)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "sim",
+          "gloss": "yes"
+        },
+        {
+          "word": "nunca",
+          "gloss": "never"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Bom dia. Não, levante a maçaneta primeiro e depois empurre.",
+          "trans": "Good morning. No, lift the handle first and then push."
+        },
+        {
+          "text": "Não tem ninguém lá. É a campainha do quarto quatro.",
+          "trans": "Nobody is there. It is the buzzer from room four."
+        },
+        {
+          "text": "Não, só tem uma caneta e três recibos velhos!",
+          "trans": "No, there is only a pen and three old receipts!"
+        }
+      ]
+    },
+    "só": {
+      "lemma": "só",
+      "stress": "sɔ",
+      "pos": "adv",
+      "gloss": "only; just",
+      "meanings": [
+        {
+          "en": "only; just",
+          "note": "Everyday equivalent of somente; olha só = 'just look'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "simplesmente",
+          "gloss": "simply"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Não, só tem uma caneta e três recibos velhos!",
+          "trans": "No, there is only a pen and three old receipts!"
+        },
+        {
+          "text": "Olha só, um táxi acabou de parar no portão.",
+          "trans": "Look there, a taxi just stopped at the gate."
+        },
+        {
+          "text": "Só vestidos, partituras e a minha xícara favorita!",
+          "trans": "Only dresses, sheet music, and my favourite teacup!"
+        }
+      ]
+    },
+    "dois": {
+      "lemma": "dois",
+      "stress": "dojs",
+      "pos": "num",
+      "gloss": "two",
+      "meanings": [
+        {
+          "en": "two",
+          "note": "Has a feminine form duas before feminine nouns (duas chaves, duas horas)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "um",
+          "gloss": "one"
+        },
+        {
+          "word": "três",
+          "gloss": "three"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Que barulho foi esse? Alguém tocou duas vezes!",
+          "trans": "What noise was that? Somebody rang twice!"
+        },
+        {
+          "text": "Mesmo com o quarto vazio, o fio velho toca duas vezes.",
+          "trans": "Even with the room empty, the old wire rings twice."
+        },
+        {
+          "text": "Muito obrigada aos dois.",
+          "trans": "Thank you both very much."
+        }
+      ]
+    },
+    "letra": {
+      "lemma": "letra",
+      "stress": "ˈletɾɐ",
+      "pos": "noun",
+      "gloss": "letter (of alphabet); handwriting",
+      "meanings": [
+        {
+          "en": "letter (of alphabet); handwriting",
+          "note": "Singular a letra often means someone's handwriting."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "a letra",
+              "as letras"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "letrinha",
+          "gloss": "tiny print"
+        },
+        {
+          "word": "escrever",
+          "gloss": "to write"
+        }
+      ],
+      "gender": "f",
+      "plural": "letras",
+      "examples": [
+        {
+          "text": "Infelizmente não tem telefone. Só duas letras iniciais e uma rua antiga.",
+          "trans": "Unfortunately there is no phone number. Only two initials and an old street."
+        },
+        {
+          "text": "Que curioso! A letra daquela etiqueta pareceu tão familiar para mim.",
+          "trans": "How curious! The handwriting on that tag looked so familiar to me."
+        },
+        {
+          "text": "Eu reconheci a sua letra quadradinha naquele postal em dois segundos.",
+          "trans": "I recognized your neat block handwriting on that postcard in two seconds."
+        }
+      ]
+    },
+    "inicial": {
+      "lemma": "inicial",
+      "stress": "inisiˈaw",
+      "pos": "noun",
+      "gloss": "initial (letter)",
+      "meanings": [
+        {
+          "en": "initial (letter)",
+          "note": "First letter of a name (as iniciais); also an adjective."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "a inicial",
+              "as iniciais"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "letra",
+          "gloss": "letter"
+        },
+        {
+          "word": "nome",
+          "gloss": "name"
+        }
+      ],
+      "gender": "f",
+      "plural": "iniciais",
+      "examples": [
+        {
+          "text": "Infelizmente não tem telefone. Só duas letras iniciais e uma rua antiga.",
+          "trans": "Unfortunately there is no phone number. Only two initials and an old street."
+        },
+        {
+          "text": "Veja o zíper... sim, as iniciais dela estão bem aqui!",
+          "trans": "Check the zipper... yes, her initials are right here!"
+        },
+        {
+          "text": "Espere um instante... Número doze da Rua das Acácias, e duas iniciais de infância escritas no canto!",
+          "trans": "Wait a moment... Number twelve, Rua do Cajueiro, and two childhood initials written in the corner!"
+        }
+      ]
+    },
+    "e": {
+      "lemma": "e",
+      "stress": "i",
+      "pos": "conj",
+      "gloss": "and",
+      "meanings": [
+        {
+          "en": "and",
+          "note": "Coordinating conjunction pronounced [i] in Brazilian Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "ou",
+          "gloss": "or"
+        },
+        {
+          "word": "mas",
+          "gloss": "but"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Bom dia. Não, levante a maçaneta primeiro e depois empurre.",
+          "trans": "Good morning. No, lift the handle first and then push."
+        },
+        {
+          "text": "Na gaveta. Aqui a gente usa este caderno grande e um lápis.",
+          "trans": "In the drawer. Here we use this big notebook and a pencil."
+        },
+        {
+          "text": "Justo! E estas são as chaves?",
+          "trans": "Fair enough! And are these the keys?"
+        }
+      ]
+    },
+    "um": {
+      "lemma": "um",
+      "stress": "ũ",
+      "pos": "det",
+      "gloss": "a; an; one",
+      "meanings": [
+        {
+          "en": "a; an; one",
+          "note": "Indefinite article (um, uma, uns, umas) and masculine form of the number one."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "o",
+          "gloss": "the"
+        },
+        {
+          "word": "dois",
+          "gloss": "two"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Na gaveta. Aqui a gente usa este caderno grande e um lápis.",
+          "trans": "In the drawer. Here we use this big notebook and a pencil."
+        },
+        {
+          "text": "Um caderno de papel? Sério?",
+          "trans": "A paper notebook? Really?"
+        },
+        {
+          "text": "Regra número um: tome chá quente primeiro e depois atenda a campainha.",
+          "trans": "Rule number one: drink hot tea first and then answer the bell."
+        }
+      ]
+    },
+    "rua": {
+      "lemma": "rua",
+      "stress": "ˈʁuɐ",
+      "pos": "noun",
+      "gloss": "street",
+      "meanings": [
+        {
+          "en": "street",
+          "note": "City street."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "a rua",
+              "as ruas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "calçada",
+          "gloss": "sidewalk"
+        },
+        {
+          "word": "esquina",
+          "gloss": "corner"
+        }
+      ],
+      "gender": "f",
+      "plural": "ruas",
+      "examples": [
+        {
+          "text": "A Bianca conversa com toda a rua como velha amiga.",
+          "trans": "Bianca chats with the whole street like an old friend."
+        },
+        {
+          "text": "Que maravilha. A janela dá para a rua ou para o pátio?",
+          "trans": "Wonderful. Does the window face the street or the courtyard?"
+        },
+        {
+          "text": "Infelizmente não tem telefone. Só duas letras iniciais e uma rua antiga.",
+          "trans": "Unfortunately there is no phone number. Only two initials and an old street."
         }
       ]
     },
@@ -4171,1219 +5000,6 @@
         {
           "text": "Casas antigas soltam um parafuso toda terça-feira. Pronto, pode sentar.",
           "trans": "Old houses loosen a screw every Tuesday. Done, you can sit."
-        }
-      ]
-    },
-    "aqui": {
-      "lemma": "aqui",
-      "stress": "aˈki",
-      "pos": "adv",
-      "gloss": "here",
-      "meanings": [
-        {
-          "en": "here",
-          "note": "Near the speaker; aqui está/estão = 'here is/are'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "aí",
-          "gloss": "there (near you)"
-        },
-        {
-          "word": "lá",
-          "gloss": "over there"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Na gaveta. Aqui a gente usa este caderno grande e um lápis.",
-          "trans": "In the drawer. Here we use this big notebook and a pencil."
-        },
-        {
-          "text": "Obrigada! Aqui a gente fala você com todo mundo?",
-          "trans": "Thank you! Do we say casual 'you' with everyone here?"
-        },
-        {
-          "text": "Com licença, senhora. Nossa, a senhora trouxe pedras aqui dentro?",
-          "trans": "Allow me, madam. Goodness, did you bring stones in here?"
-        }
-      ]
-    },
-    "até": {
-      "lemma": "até",
-      "stress": "aˈtɛ",
-      "pos": "prep",
-      "gloss": "until; up to; even",
-      "meanings": [
-        {
-          "en": "until; up to; even",
-          "note": "Marks a limit in time or space (até sexta, até logo) or 'even' as an adverbial particle."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "desde",
-          "gloss": "since"
-        },
-        {
-          "word": "logo",
-          "gloss": "soon"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Deixe eu ler: 'Desculpe o engano. Por favor, guardem a minha mala azul até sexta-feira.'",
-          "trans": "Let me read: 'Sorry for the mistake. Please keep my blue suitcase until Friday.'"
-        },
-        {
-          "text": "Até sexta-feira? Sem nome e sem assinatura!",
-          "trans": "Until Friday? No name and no signature!"
-        },
-        {
-          "text": "Quem deixa os sapatos e um trenzinho de madeira com estranhos até sexta?",
-          "trans": "Who leaves their shoes and a wooden train with strangers until Friday?"
-        }
-      ]
-    },
-    "avisar": {
-      "lemma": "avisar",
-      "stress": "aviˈzaʁ",
-      "pos": "verb",
-      "gloss": "to let know; to notify",
-      "meanings": [
-        {
-          "en": "to let know; to notify",
-          "note": "Giving someone a heads-up."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "eu aviso",
-              "nós avisamos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "você avisa",
-              "vocês avisam"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ele/ela avisa",
-              "eles/elas avisam"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "eu avisei",
-                "nós avisamos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "você avisou",
-                "vocês avisaram"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "ele/ela avisou",
-                "eles/elas avisaram"
-              ]
-            }
-          ]
-        }
-      ],
-      "related": [
-        {
-          "word": "aviso",
-          "gloss": "notice"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
-          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
-        },
-        {
-          "text": "Eu avisei que esse tablet é uma armadilha.",
-          "trans": "I warned you that this tablet is a trap."
-        }
-      ]
-    },
-    "azul": {
-      "lemma": "azul",
-      "stress": "aˈzuw",
-      "pos": "adj",
-      "gloss": "blue",
-      "meanings": [
-        {
-          "en": "blue",
-          "note": "Same form for m/f in singular; plural azuis."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "azul",
-              "azul"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "azuis",
-              "azuis"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "azul-escuro",
-          "gloss": "dark blue"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Logo ali depois do arco. Eu vou levar a mala azul para a senhora.",
-          "trans": "Right there past the arch. I will carry the blue suitcase for you."
-        },
-        {
-          "text": "Alguém na rodoviária pegou a minha mala azul por engano!",
-          "trans": "Someone at the bus station took my blue suitcase by mistake!"
-        },
-        {
-          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
-          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
-        }
-      ]
-    },
-    "aí": {
-      "lemma": "aí",
-      "stress": "aˈi",
-      "pos": "adv",
-      "gloss": "there (near you); then",
-      "meanings": [
-        {
-          "en": "there (near you); then",
-          "note": "Points to the listener's spot or a spot right in view (bem aí)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "aqui",
-          "gloss": "here"
-        },
-        {
-          "word": "ali",
-          "gloss": "over there"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Bem aí na sua testa, sãos e salvos.",
-          "trans": "Right there on your forehead, safe and sound."
-        },
-        {
-          "text": "Tem algum nome ou número de telefone aí?",
-          "trans": "Is there any name or phone number there?"
-        },
-        {
-          "text": "Pergunte o nome dele! Anote aí no papel!",
-          "trans": "Ask his name! Write it down on the paper!"
-        }
-      ]
-    },
-    "bairro": {
-      "lemma": "bairro",
-      "stress": "ˈbajʁu",
-      "pos": "noun",
-      "gloss": "neighborhood; district",
-      "meanings": [
-        {
-          "en": "neighborhood; district",
-          "note": "City neighborhood."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "o bairro",
-              "os bairros"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "rua",
-          "gloss": "street"
-        },
-        {
-          "word": "cidade",
-          "gloss": "city"
-        }
-      ],
-      "gender": "m",
-      "plural": "bairros",
-      "examples": [
-        {
-          "text": "Espere, essa rua fica aqui no nosso bairro, a cinco minutos daqui!",
-          "trans": "Wait, that street is right here in our neighbourhood, five minutes from here!"
-        },
-        {
-          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
-          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
-        },
-        {
-          "text": "Fria? Ah, sim! Os canos antigos do nosso bairro acordam devagar de manhã!",
-          "trans": "Cold? Oh, yes! The old pipes in our neighbourhood wake up slowly in the morning!"
-        }
-      ]
-    },
-    "bolso": {
-      "lemma": "bolso",
-      "stress": "ˈbowsu",
-      "pos": "noun",
-      "gloss": "pocket",
-      "meanings": [
-        {
-          "en": "pocket",
-          "note": "O bolso de cima = 'breast/top pocket'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "o bolso",
-              "os bolsos"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "paletó",
-          "gloss": "jacket"
-        }
-      ],
-      "gender": "m",
-      "plural": "bolsos",
-      "examples": [
-        {
-          "text": "Eles estão no bolso do seu paletó?",
-          "trans": "Are they in your jacket pocket?"
-        },
-        {
-          "text": "Diga que a minha tem uma fita vermelha no bolso de cima!",
-          "trans": "Say that mine has a red ribbon in the top pocket!"
-        },
-        {
-          "text": "A minha mala! Deixe eu abrir o bolso de cima... sim, a minha fita vermelha!",
-          "trans": "My suitcase! Let me open the top pocket... yes, my red ribbon!"
-        }
-      ]
-    },
-    "café": {
-      "lemma": "café",
-      "stress": "kaˈfɛ",
-      "pos": "noun",
-      "gloss": "coffee; café; breakfast (café da manhã)",
-      "meanings": [
-        {
-          "en": "coffee; café; breakfast (café da manhã)",
-          "note": "Means coffee, a café shop, and in café da manhã, 'breakfast'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "o café",
-              "os cafés"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "chá",
-          "gloss": "tea"
-        },
-        {
-          "word": "manhã",
-          "gloss": "morning"
-        }
-      ],
-      "gender": "m",
-      "plural": "cafés",
-      "examples": [
-        {
-          "text": "Porque café bom e pão quente deixam todo mundo feliz!",
-          "trans": "Because good coffee and warm bread make everyone happy!"
-        },
-        {
-          "text": "Aqui está a sua chave, número quatro. O café da manhã é das sete e meia às dez.",
-          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
-        },
-        {
-          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
-          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
-        }
-      ]
-    },
-    "chamar": {
-      "lemma": "chamar",
-      "stress": "ʃaˈmaʁ",
-      "pos": "verb",
-      "gloss": "to call; to summon",
-      "meanings": [
-        {
-          "en": "to call; to summon",
-          "note": "Calling someone over or calling a taxi."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "eu chamo",
-              "nós chamamos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "você chama",
-              "vocês chamam"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ele/ela chama",
-              "eles/elas chamam"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "eu chamei",
-                "nós chamamos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "você chamou",
-                "vocês chamaram"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "ele/ela chamou",
-                "eles/elas chamaram"
-              ]
-            }
-          ]
-        }
-      ],
-      "related": [
-        {
-          "word": "ligar",
-          "gloss": "to phone"
-        },
-        {
-          "word": "nome",
-          "gloss": "name"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
-          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
-        },
-        {
-          "text": "E lá vem a chama azul, firme, do jeito que deve ser.",
-          "trans": "And there comes the blue flame, steady, just how it ought to be."
-        },
-        {
-          "text": "Não chame, Dona Helena! Já estou quase com saudade daqueles dois toques.",
-          "trans": "Do not tempt it, Madam Helena! I am already almost missing those two rings."
-        }
-      ]
-    },
-    "cima": {
-      "lemma": "cima",
-      "stress": "ˈsĩmɐ",
-      "pos": "noun",
-      "gloss": "top; upper part",
-      "meanings": [
-        {
-          "en": "top; upper part",
-          "note": "Em cima de = 'on top of / above'; de cima = 'upper / top'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a cima",
-              "as cimas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "acima",
-          "gloss": "above"
-        },
-        {
-          "word": "embaixo",
-          "gloss": "underneath"
-        }
-      ],
-      "gender": "f",
-      "plural": "cimas",
-      "examples": [
-        {
-          "text": "Para o pátio, bem em cima do cajueiro velho. É muito silencioso.",
-          "trans": "The courtyard, right above the old cashew tree. It is very quiet."
-        },
-        {
-          "text": "Diga que a minha tem uma fita vermelha no bolso de cima!",
-          "trans": "Say that mine has a red ribbon in the top pocket!"
-        },
-        {
-          "text": "A minha mala! Deixe eu abrir o bolso de cima... sim, a minha fita vermelha!",
-          "trans": "My suitcase! Let me open the top pocket... yes, my red ribbon!"
-        }
-      ]
-    },
-    "cinco": {
-      "lemma": "cinco",
-      "stress": "ˈsĩku",
-      "pos": "num",
-      "gloss": "five",
-      "meanings": [
-        {
-          "en": "five",
-          "note": "Cardinal number 5."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "quatro",
-          "gloss": "four"
-        },
-        {
-          "word": "cinquenta",
-          "gloss": "fifty"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Espere, essa rua fica aqui no nosso bairro, a cinco minutos daqui!",
-          "trans": "Wait, that street is right here in our neighbourhood, five minutes from here!"
-        },
-        {
-          "text": "Vinte e cinco anos atrás eu dei aulas de piano perto daqui.",
-          "trans": "Twenty-five years ago I gave piano lessons near here."
-        },
-        {
-          "text": "Na nossa pousada, o serviço cinco estrelas é natural... opa!",
-          "trans": "At our guesthouse, five-star service comes naturally... whoops!"
-        }
-      ]
-    },
-    "com": {
-      "lemma": "com",
-      "stress": "kõ",
-      "pos": "prep",
-      "gloss": "with",
-      "meanings": [
-        {
-          "en": "with",
-          "note": "Expresses accompaniment, instrument, or state (com fome = hungry, com licença = excuse me)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "sem",
-          "gloss": "without"
-        },
-        {
-          "word": "comigo",
-          "gloss": "with me"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Bom dia! Com licença, a porta está trancada?",
-          "trans": "Good morning! Excuse me, is the door locked?"
-        },
-        {
-          "text": "Obrigada! Aqui a gente fala você com todo mundo?",
-          "trans": "Thank you! Do we say casual 'you' with everyone here?"
-        },
-        {
-          "text": "A Bianca conversa com toda a rua como velha amiga.",
-          "trans": "Bianca chats with the whole street like an old friend."
-        }
-      ]
-    },
-    "confusão": {
-      "lemma": "confusão",
-      "stress": "kõfuˈzɐ̃w̃",
-      "pos": "noun",
-      "gloss": "mix-up; confusion; mess",
-      "meanings": [
-        {
-          "en": "mix-up; confusion; mess",
-          "note": "Que confusão! = 'What a mix-up!'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a confusão",
-              "as confusões"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "engano",
-          "gloss": "mistake"
-        }
-      ],
-      "gender": "f",
-      "plural": "confusões",
-      "examples": [
-        {
-          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
-          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
-        },
-        {
-          "text": "Desculpe a confusão com os horários de chegada.",
-          "trans": "Sorry for the mix-up with the arrival times."
-        }
-      ]
-    },
-    "corpo": {
-      "lemma": "corpo",
-      "stress": "ˈkoʁpu",
-      "pos": "noun",
-      "gloss": "body",
-      "meanings": [
-        {
-          "en": "body",
-          "note": "A roupa do corpo = 'the clothes on one's back'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "o corpo",
-              "os corpos"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "roupa",
-          "gloss": "clothes"
-        }
-      ],
-      "gender": "m",
-      "plural": "corpos",
-      "examples": [
-        {
-          "text": "A culpa não é de vocês. Mas eu só tenho a roupa do corpo!",
-          "trans": "It is not your fault. Still, I only have the clothes on my back!"
-        },
-        {
-          "text": "Um banho morno descansa o corpo depois da viagem.",
-          "trans": "A warm shower relaxes the body after a trip."
-        }
-      ]
-    },
-    "culpa": {
-      "lemma": "culpa",
-      "stress": "ˈkuwpɐ",
-      "pos": "noun",
-      "gloss": "fault; blame",
-      "meanings": [
-        {
-          "en": "fault; blame",
-          "note": "Responsibility for an error."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a culpa",
-              "as culpas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "erro",
-          "gloss": "mistake"
-        }
-      ],
-      "gender": "f",
-      "plural": "culpas",
-      "examples": [
-        {
-          "text": "A culpa não é de vocês. Mas eu só tenho a roupa do corpo!",
-          "trans": "It is not your fault. Still, I only have the clothes on my back!"
-        },
-        {
-          "text": "Não foi culpa de ninguém; as malas eram idênticas.",
-          "trans": "It wasn't anyone's fault; the suitcases were identical."
-        }
-      ]
-    },
-    "daqui": {
-      "lemma": "daqui",
-      "stress": "daˈki",
-      "pos": "adv",
-      "gloss": "from here; in (time)",
-      "meanings": [
-        {
-          "en": "from here; in (time)",
-          "note": "Contraction of de + aqui; daqui a dez minutos = 'in ten minutes'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "aqui",
-          "gloss": "here"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Espere, essa rua fica aqui no nosso bairro, a cinco minutos daqui!",
-          "trans": "Wait, that street is right here in our neighbourhood, five minutes from here!"
-        },
-        {
-          "text": "Vinte e cinco anos atrás eu dei aulas de piano perto daqui.",
-          "trans": "Twenty-five years ago I gave piano lessons near here."
-        },
-        {
-          "text": "Para falar a verdade, eu gosto muito mais daqui do que do meu antigo escritório cinza.",
-          "trans": "To tell the truth, I like here much better than my old grey office."
-        }
-      ]
-    },
-    "de": {
-      "lemma": "de",
-      "stress": "dʒi",
-      "pos": "prep",
-      "gloss": "of; from; by",
-      "meanings": [
-        {
-          "en": "of; from; by",
-          "note": "Expresses possession, material, origin, or transport; contracts with o/a/os/as as do, da, dos, das."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "em",
-          "gloss": "in; on"
-        },
-        {
-          "word": "por",
-          "gloss": "by; for"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Um caderno de papel? Sério?",
-          "trans": "A paper notebook? Really?"
-        },
-        {
-          "text": "Oi! Você deve ser a Camila. Eu sou a Bianca, da cozinha.",
-          "trans": "Hi! You must be Camila. I am Bianca, from the kitchen."
-        },
-        {
-          "text": "Pãozinho fresco da manhã! Pegue um enquanto está quentinho.",
-          "trans": "Fresh morning rolls! Take one while it is nice and warm."
-        }
-      ]
-    },
-    "deixe-me": {
-      "lemma": "deixe-me",
-      "stress": "ˈdejʃimi",
-      "pos": "phrase",
-      "gloss": "let me (formal)",
-      "meanings": [
-        {
-          "en": "let me (formal)",
-          "note": "Enclitic imperative expression of deixar + me used in polite or formal speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "deixar",
-          "gloss": "to let"
-        },
-        {
-          "word": "me",
-          "gloss": "me"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
-          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
-        },
-        {
-          "text": "Deixe-me abrir o portão grande para a senhora passar.",
-          "trans": "Let me open the big gate for you to walk through, madam."
-        }
-      ]
-    },
-    "dizer": {
-      "lemma": "dizer",
-      "stress": "dʒiˈzeʁ",
-      "pos": "verb",
-      "gloss": "to say; to tell",
-      "meanings": [
-        {
-          "en": "to say; to tell",
-          "note": "Irregular: digo, diz, disse; quer dizer = 'means'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "eu digo",
-              "nós dizemos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "você diz",
-              "vocês dizem"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ele/ela diz",
-              "eles/elas dizem"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "eu disse",
-                "nós dissemos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "você disse",
-                "vocês disseram"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "ele/ela disse",
-                "eles/elas disseram"
-              ]
-            }
-          ]
-        }
-      ],
-      "related": [
-        {
-          "word": "falar",
-          "gloss": "to speak"
-        },
-        {
-          "word": "contar",
-          "gloss": "to tell"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Então a casa diz oi sozinha?",
-          "trans": "So the house says hi on its own?"
-        },
-        {
-          "text": "Diga que a minha tem uma fita vermelha no bolso de cima!",
-          "trans": "Say that mine has a red ribbon in the top pocket!"
-        },
-        {
-          "text": "Pode apostar! Me diga direitinho o que eu preciso comprar.",
-          "trans": "You bet! Tell me exactly what I need to buy."
-        }
-      ]
-    },
-    "dois": {
-      "lemma": "dois",
-      "stress": "dojs",
-      "pos": "num",
-      "gloss": "two",
-      "meanings": [
-        {
-          "en": "two",
-          "note": "Has a feminine form duas before feminine nouns (duas chaves, duas horas)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "um",
-          "gloss": "one"
-        },
-        {
-          "word": "três",
-          "gloss": "three"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Que barulho foi esse? Alguém tocou duas vezes!",
-          "trans": "What noise was that? Somebody rang twice!"
-        },
-        {
-          "text": "Mesmo com o quarto vazio, o fio velho toca duas vezes.",
-          "trans": "Even with the room empty, the old wire rings twice."
-        },
-        {
-          "text": "Muito obrigada aos dois.",
-          "trans": "Thank you both very much."
-        }
-      ]
-    },
-    "e": {
-      "lemma": "e",
-      "stress": "i",
-      "pos": "conj",
-      "gloss": "and",
-      "meanings": [
-        {
-          "en": "and",
-          "note": "Coordinating conjunction pronounced [i] in Brazilian Portuguese."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "ou",
-          "gloss": "or"
-        },
-        {
-          "word": "mas",
-          "gloss": "but"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Bom dia. Não, levante a maçaneta primeiro e depois empurre.",
-          "trans": "Good morning. No, lift the handle first and then push."
-        },
-        {
-          "text": "Na gaveta. Aqui a gente usa este caderno grande e um lápis.",
-          "trans": "In the drawer. Here we use this big notebook and a pencil."
-        },
-        {
-          "text": "Justo! E estas são as chaves?",
-          "trans": "Fair enough! And are these the keys?"
-        }
-      ]
-    },
-    "eles": {
-      "lemma": "eles",
-      "stress": "ˈelis",
-      "pos": "pron",
-      "gloss": "they",
-      "meanings": [
-        {
-          "en": "they",
-          "note": "Third-person plural masculine or mixed-gender pronoun (feminine elas)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "ele",
-          "gloss": "he"
-        },
-        {
-          "word": "deles",
-          "gloss": "their"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Eles estão no bolso do seu paletó?",
-          "trans": "Are they in your jacket pocket?"
-        },
-        {
-          "text": "Eles ainda não têm nada, senhora. Sinto muito mesmo.",
-          "trans": "They have nothing yet, madam. I am truly sorry."
-        },
-        {
-          "text": "Ponha a água quente no bule, Camila, eles estão chegando!",
-          "trans": "Put the hot water in the teapot, Camila, here they come!"
-        }
-      ]
-    },
-    "em": {
-      "lemma": "em",
-      "stress": "ẽj̃",
-      "pos": "prep",
-      "gloss": "in; on; at",
-      "meanings": [
-        {
-          "en": "in; on; at",
-          "note": "Core location/time preposition; contracts with o/a/os/as as no, na, nos, nas and with um as num."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "de",
-          "gloss": "of; from"
-        },
-        {
-          "word": "dentro",
-          "gloss": "inside"
-        }
-      ],
-      "examples": [
-        {
-          "text": "No primeiro dia eu sempre ando rápido. Onde fica o computador?",
-          "trans": "On the first day I always walk fast. Where is the computer?"
-        },
-        {
-          "text": "Na gaveta. Aqui a gente usa este caderno grande e um lápis.",
-          "trans": "In the drawer. Here we use this big notebook and a pencil."
-        },
-        {
-          "text": "Eles estão no bolso do seu paletó?",
-          "trans": "Are they in your jacket pocket?"
-        }
-      ]
-    },
-    "endereço": {
-      "lemma": "endereço",
-      "stress": "ẽdeˈɾesu",
-      "pos": "noun",
-      "gloss": "address",
-      "meanings": [
-        {
-          "en": "address",
-          "note": "Street address."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "o endereço",
-              "os endereços"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "rua",
-          "gloss": "street"
-        },
-        {
-          "word": "número",
-          "gloss": "number"
-        }
-      ],
-      "gender": "m",
-      "plural": "endereços",
-      "examples": [
-        {
-          "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
-          "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
-        },
-        {
-          "text": "Anotei o endereço completo da loja num papel.",
-          "trans": "I wrote down the store's full address on a slip of paper."
         }
       ]
     },
@@ -5521,313 +5137,6 @@
         }
       ]
     },
-    "estar": {
-      "lemma": "estar",
-      "stress": "isˈtaʁ",
-      "pos": "verb",
-      "gloss": "to be (state or current location)",
-      "meanings": [
-        {
-          "en": "to be (state or current location)",
-          "note": "Used for temporary states, feelings, weather, ongoing actions (estar + -ndo), and movable locations."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "eu estou",
-              "nós estamos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "você está",
-              "vocês estão"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ele/ela está",
-              "eles/elas estão"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "eu estive",
-                "nós estivemos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "você esteve",
-                "vocês estiveram"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "ele/ela esteve",
-                "eles/elas estiveram"
-              ]
-            }
-          ]
-        }
-      ],
-      "related": [
-        {
-          "word": "ser",
-          "gloss": "to be (permanent)"
-        },
-        {
-          "word": "ficar",
-          "gloss": "to stay; be located"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Bom dia! Com licença, a porta está trancada?",
-          "trans": "Good morning! Excuse me, is the door locked?"
-        },
-        {
-          "text": "Pãozinho fresco da manhã! Pegue um enquanto está quentinho.",
-          "trans": "Fresh morning rolls! Take one while it is nice and warm."
-        },
-        {
-          "text": "Bom dia, pessoal! Bem-vinda, Camila. Está tudo pronto?",
-          "trans": "Good morning, everyone! Welcome, Camila. Is everything ready?"
-        }
-      ]
-    },
-    "estranho": {
-      "lemma": "estranho",
-      "stress": "isˈtɾɐ̃ɲu",
-      "pos": "adj",
-      "gloss": "strange; odd; stranger (noun)",
-      "meanings": [
-        {
-          "en": "strange; odd; stranger (noun)",
-          "note": "As a plural noun (estranhos), means 'strangers'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "estranho",
-              "estranha"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "estranhos",
-              "estranhas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "desconhecido",
-          "gloss": "stranger"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
-          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
-        },
-        {
-          "text": "Quem deixa os sapatos e um trenzinho de madeira com estranhos até sexta?",
-          "trans": "Who leaves their shoes and a wooden train with strangers until Friday?"
-        },
-        {
-          "text": "Nervoso por causa de um trenzinho de madeira? Essa história fica mais estranha a cada hora.",
-          "trans": "Nervous because of a wooden train? This story gets stranger every hour."
-        }
-      ]
-    },
-    "etiqueta": {
-      "lemma": "etiqueta",
-      "stress": "etʃiˈketɐ",
-      "pos": "noun",
-      "gloss": "tag; label",
-      "meanings": [
-        {
-          "en": "tag; label",
-          "note": "Luggage tag or price label."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a etiqueta",
-              "as etiquetas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "mala",
-          "gloss": "suitcase"
-        },
-        {
-          "word": "nome",
-          "gloss": "name"
-        }
-      ],
-      "gender": "f",
-      "plural": "etiquetas",
-      "examples": [
-        {
-          "text": "Pode sentar, senhora. Fique tranquila, a gente vai olhar a etiqueta agora.",
-          "trans": "Please sit down, madam. Do not worry, we will check the tag now."
-        },
-        {
-          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
-          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
-        },
-        {
-          "text": "Que curioso! A letra daquela etiqueta pareceu tão familiar para mim.",
-          "trans": "How curious! The handwriting on that tag looked so familiar to me."
-        }
-      ]
-    },
-    "eu": {
-      "lemma": "eu",
-      "stress": "ew",
-      "pos": "pron",
-      "gloss": "I",
-      "meanings": [
-        {
-          "en": "I",
-          "note": "First-person singular subject pronoun."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "me",
-          "gloss": "me"
-        },
-        {
-          "word": "meu",
-          "gloss": "my"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ah, abriu! Obrigada. Eu sou a Camila, a nova recepcionista.",
-          "trans": "Oh, it opened! Thank you. I am Camila, the new receptionist."
-        },
-        {
-          "text": "Eu sou o Jorge. Você chegou dez minutos cedo.",
-          "trans": "I am Jorge. You arrived ten minutes early."
-        },
-        {
-          "text": "No primeiro dia eu sempre ando rápido. Onde fica o computador?",
-          "trans": "On the first day I always walk fast. Where is the computer?"
-        }
-      ]
-    },
-    "favor": {
-      "lemma": "favor",
-      "stress": "faˈvoʁ",
-      "pos": "noun",
-      "gloss": "favor",
-      "meanings": [
-        {
-          "en": "favor",
-          "note": "Por favor = 'please'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "o favor",
-              "os favores"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "gentileza",
-          "gloss": "kindness"
-        },
-        {
-          "word": "obrigado",
-          "gloss": "thank you"
-        }
-      ],
-      "gender": "m",
-      "plural": "favores",
-      "examples": [
-        {
-          "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
-          "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
-        },
-        {
-          "text": "Deixe eu ler: 'Desculpe o engano. Por favor, guardem a minha mala azul até sexta-feira.'",
-          "trans": "Let me read: 'Sorry for the mistake. Please keep my blue suitcase until Friday.'"
-        },
-        {
-          "text": "Por favor, não fale a palavra emergência antes do meu café!",
-          "trans": "Please do not say the word emergency before my coffee!"
-        }
-      ]
-    },
     "ficar": {
       "lemma": "ficar",
       "stress": "fiˈkaʁ",
@@ -5928,15 +5237,91 @@
         }
       ]
     },
-    "fita": {
-      "lemma": "fita",
-      "stress": "ˈfitɐ",
-      "pos": "noun",
-      "gloss": "ribbon; tape",
+    "aqui": {
+      "lemma": "aqui",
+      "stress": "aˈki",
+      "pos": "adv",
+      "gloss": "here",
       "meanings": [
         {
-          "en": "ribbon; tape",
-          "note": "Colored ribbon on a bag or adhesive tape."
+          "en": "here",
+          "note": "Near the speaker; aqui está/estão = 'here is/are'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "aí",
+          "gloss": "there (near you)"
+        },
+        {
+          "word": "lá",
+          "gloss": "over there"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Na gaveta. Aqui a gente usa este caderno grande e um lápis.",
+          "trans": "In the drawer. Here we use this big notebook and a pencil."
+        },
+        {
+          "text": "Obrigada! Aqui a gente fala você com todo mundo?",
+          "trans": "Thank you! Do we say casual 'you' with everyone here?"
+        },
+        {
+          "text": "Com licença, senhora. Nossa, a senhora trouxe pedras aqui dentro?",
+          "trans": "Allow me, madam. Goodness, did you bring stones in here?"
+        }
+      ]
+    },
+    "em": {
+      "lemma": "em",
+      "stress": "ẽj̃",
+      "pos": "prep",
+      "gloss": "in; on; at",
+      "meanings": [
+        {
+          "en": "in; on; at",
+          "note": "Core location/time preposition; contracts with o/a/os/as as no, na, nos, nas and with um as num."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "de",
+          "gloss": "of; from"
+        },
+        {
+          "word": "dentro",
+          "gloss": "inside"
+        }
+      ],
+      "examples": [
+        {
+          "text": "No primeiro dia eu sempre ando rápido. Onde fica o computador?",
+          "trans": "On the first day I always walk fast. Where is the computer?"
+        },
+        {
+          "text": "Na gaveta. Aqui a gente usa este caderno grande e um lápis.",
+          "trans": "In the drawer. Here we use this big notebook and a pencil."
+        },
+        {
+          "text": "Eles estão no bolso do seu paletó?",
+          "trans": "Are they in your jacket pocket?"
+        }
+      ]
+    },
+    "bairro": {
+      "lemma": "bairro",
+      "stress": "ˈbajʁu",
+      "pos": "noun",
+      "gloss": "neighborhood; district",
+      "meanings": [
+        {
+          "en": "neighborhood; district",
+          "note": "City neighborhood."
         }
       ],
       "forms": {
@@ -5950,8 +5335,8 @@
           {
             "cells": [
               "form",
-              "a fita",
-              "as fitas"
+              "o bairro",
+              "os bairros"
             ]
           }
         ]
@@ -5959,28 +5344,213 @@
       "moreForms": [],
       "related": [
         {
-          "word": "laço",
-          "gloss": "bow"
+          "word": "rua",
+          "gloss": "street"
         },
         {
-          "word": "alça",
-          "gloss": "handle"
+          "word": "cidade",
+          "gloss": "city"
         }
       ],
-      "gender": "f",
-      "plural": "fitas",
+      "gender": "m",
+      "plural": "bairros",
       "examples": [
         {
-          "text": "Diga que a minha tem uma fita vermelha no bolso de cima!",
-          "trans": "Say that mine has a red ribbon in the top pocket!"
+          "text": "Espere, essa rua fica aqui no nosso bairro, a cinco minutos daqui!",
+          "trans": "Wait, that street is right here in our neighbourhood, five minutes from here!"
         },
         {
-          "text": "Olhe, tem um envelope branco preso com fita na alça.",
-          "trans": "Look, there is a white envelope taped to the handle."
+          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
+          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
         },
         {
-          "text": "A minha mala! Deixe eu abrir o bolso de cima... sim, a minha fita vermelha!",
-          "trans": "My suitcase! Let me open the top pocket... yes, my red ribbon!"
+          "text": "Fria? Ah, sim! Os canos antigos do nosso bairro acordam devagar de manhã!",
+          "trans": "Cold? Oh, yes! The old pipes in our neighbourhood wake up slowly in the morning!"
+        }
+      ]
+    },
+    "cinco": {
+      "lemma": "cinco",
+      "stress": "ˈsĩku",
+      "pos": "num",
+      "gloss": "five",
+      "meanings": [
+        {
+          "en": "five",
+          "note": "Cardinal number 5."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "quatro",
+          "gloss": "four"
+        },
+        {
+          "word": "cinquenta",
+          "gloss": "fifty"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Espere, essa rua fica aqui no nosso bairro, a cinco minutos daqui!",
+          "trans": "Wait, that street is right here in our neighbourhood, five minutes from here!"
+        },
+        {
+          "text": "Vinte e cinco anos atrás eu dei aulas de piano perto daqui.",
+          "trans": "Twenty-five years ago I gave piano lessons near here."
+        },
+        {
+          "text": "Na nossa pousada, o serviço cinco estrelas é natural... opa!",
+          "trans": "At our guesthouse, five-star service comes naturally... whoops!"
+        }
+      ]
+    },
+    "minuto": {
+      "lemma": "minuto",
+      "stress": "miˈnutu",
+      "pos": "noun",
+      "gloss": "minute",
+      "meanings": [
+        {
+          "en": "minute",
+          "note": "Sixty seconds."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "o minuto",
+              "os minutos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "hora",
+          "gloss": "hour"
+        },
+        {
+          "word": "segundo",
+          "gloss": "second"
+        }
+      ],
+      "gender": "m",
+      "plural": "minutos",
+      "examples": [
+        {
+          "text": "Eu sou o Jorge. Você chegou dez minutos cedo.",
+          "trans": "I am Jorge. You arrived ten minutes early."
+        },
+        {
+          "text": "Espere, essa rua fica aqui no nosso bairro, a cinco minutos daqui!",
+          "trans": "Wait, that street is right here in our neighbourhood, five minutes from here!"
+        },
+        {
+          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
+          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+        }
+      ]
+    },
+    "daqui": {
+      "lemma": "daqui",
+      "stress": "daˈki",
+      "pos": "adv",
+      "gloss": "from here; in (time)",
+      "meanings": [
+        {
+          "en": "from here; in (time)",
+          "note": "Contraction of de + aqui; daqui a dez minutos = 'in ten minutes'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "aqui",
+          "gloss": "here"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Espere, essa rua fica aqui no nosso bairro, a cinco minutos daqui!",
+          "trans": "Wait, that street is right here in our neighbourhood, five minutes from here!"
+        },
+        {
+          "text": "Vinte e cinco anos atrás eu dei aulas de piano perto daqui.",
+          "trans": "Twenty-five years ago I gave piano lessons near here."
+        },
+        {
+          "text": "Para falar a verdade, eu gosto muito mais daqui do que do meu antigo escritório cinza.",
+          "trans": "To tell the truth, I like here much better than my old grey office."
+        }
+      ]
+    },
+    "estranho": {
+      "lemma": "estranho",
+      "stress": "isˈtɾɐ̃ɲu",
+      "pos": "adj",
+      "gloss": "strange; odd; stranger (noun)",
+      "meanings": [
+        {
+          "en": "strange; odd; stranger (noun)",
+          "note": "As a plural noun (estranhos), means 'strangers'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "estranho",
+              "estranha"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "estranhos",
+              "estranhas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "desconhecido",
+          "gloss": "stranger"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
+          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
+        },
+        {
+          "text": "Quem deixa os sapatos e um trenzinho de madeira com estranhos até sexta?",
+          "trans": "Who leaves their shoes and a wooden train with strangers until Friday?"
+        },
+        {
+          "text": "Nervoso por causa de um trenzinho de madeira? Essa história fica mais estranha a cada hora.",
+          "trans": "Nervous because of a wooden train? This story gets stranger every hour."
         }
       ]
     },
@@ -6040,15 +5610,176 @@
         }
       ]
     },
-    "ideia": {
-      "lemma": "ideia",
-      "stress": "iˈdɛjɐ",
-      "pos": "noun",
-      "gloss": "idea",
+    "vir": {
+      "lemma": "vir",
+      "stress": "viʁ",
+      "pos": "verb",
+      "gloss": "to come",
       "meanings": [
         {
-          "en": "idea",
-          "note": "Spelled without an acute accent in modern Portuguese."
+          "en": "to come",
+          "note": "Irregular: venho, vem, vimos, vêm; preterite vim, veio, vieram."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "eu venho",
+              "nós vimos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "você vem",
+              "vocês vêm"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ele/ela vem",
+              "eles/elas vêm"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "eu vim",
+                "nós viemos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "você veio",
+                "vocês vieram"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "ele/ela veio",
+                "eles/elas vieram"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "ir",
+          "gloss": "to go"
+        },
+        {
+          "word": "chegar",
+          "gloss": "to arrive"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
+          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
+        },
+        {
+          "text": "O antigo estúdio do sótão... venham comigo, rápido!",
+          "trans": "The old attic study... come with me, fast!"
+        },
+        {
+          "text": "Ouvi, sim! Pareceu vir do cano de água quente ali no banheiro.",
+          "trans": "I did hear it! It seemed to come from the hot-water pipe there in the bathroom."
+        }
+      ]
+    },
+    "mesmo": {
+      "lemma": "mesmo",
+      "stress": "ˈmezmu",
+      "pos": "adj",
+      "gloss": "same; -self; really (adv)",
+      "meanings": [
+        {
+          "en": "same; -self; really (adv)",
+          "note": "Before a noun: o mesmo ônibus ('the same bus'); after pronoun/adv: você mesmo ('yourself'), agora mesmo ('right now')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "mesmo",
+              "mesma"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "mesmos",
+              "mesmas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "próprio",
+          "gloss": "own"
+        },
+        {
+          "word": "igual",
+          "gloss": "equal"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mesmo com o quarto vazio, o fio velho toca duas vezes.",
+          "trans": "Even with the room empty, the old wire rings twice."
+        },
+        {
+          "text": "Isso mesmo! Você já faz parte da casa.",
+          "trans": "That's right! You already belong to the house."
+        },
+        {
+          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
+          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
+        }
+      ]
+    },
+    "ônibus": {
+      "lemma": "ônibus",
+      "stress": "ˈõnibus",
+      "pos": "noun",
+      "gloss": "bus; coach",
+      "meanings": [
+        {
+          "en": "bus; coach",
+          "note": "Invariable in the plural: o ônibus, os ônibus."
         }
       ],
       "forms": {
@@ -6062,8 +5793,8 @@
           {
             "cells": [
               "form",
-              "a ideia",
-              "as ideias"
+              "o ônibus",
+              "os ônibus"
             ]
           }
         ]
@@ -6071,162 +5802,118 @@
       "moreForms": [],
       "related": [
         {
-          "word": "pensar",
-          "gloss": "to think"
-        }
-      ],
-      "gender": "f",
-      "plural": "ideias",
-      "examples": [
-        {
-          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
-          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+          "word": "rodoviária",
+          "gloss": "bus station"
         },
         {
-          "text": "Ufa! Uma ideia rápida salvou o café da manhã de novo.",
-          "trans": "Phew! Quick thinking saved breakfast again."
+          "word": "parada",
+          "gloss": "bus stop"
+        }
+      ],
+      "gender": "m",
+      "plural": "ônibus",
+      "examples": [
+        {
+          "text": "Sim, quarto quatro no segundo andar! Como foi a viagem de ônibus?",
+          "trans": "Yes, room four on the second floor! How was the bus trip?"
+        },
+        {
+          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
+          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
         }
       ]
     },
-    "infelizmente": {
-      "lemma": "infelizmente",
-      "stress": "ĩfelizˈmẽtʃi",
-      "pos": "adv",
-      "gloss": "unfortunately",
+    "manhã": {
+      "lemma": "manhã",
+      "stress": "mɐ̃ˈɲɐ̃",
+      "pos": "noun",
+      "gloss": "morning",
       "meanings": [
         {
-          "en": "unfortunately",
-          "note": "Expresses polite regret."
+          "en": "morning",
+          "note": "De manhã = 'in the morning'; café da manhã = 'breakfast'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "a manhã",
+              "as manhãs"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "amanhã",
+          "gloss": "tomorrow"
+        },
+        {
+          "word": "dia",
+          "gloss": "day"
+        }
+      ],
+      "gender": "f",
+      "plural": "manhãs",
+      "examples": [
+        {
+          "text": "Pãozinho fresco da manhã! Pegue um enquanto está quentinho.",
+          "trans": "Fresh morning rolls! Take one while it is nice and warm."
+        },
+        {
+          "text": "Aqui está a sua chave, número quatro. O café da manhã é das sete e meia às dez.",
+          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
+        },
+        {
+          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
+          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
+        }
+      ]
+    },
+    "para": {
+      "lemma": "para",
+      "stress": "ˈpaɾɐ",
+      "pos": "prep",
+      "gloss": "to; for; in order to",
+      "meanings": [
+        {
+          "en": "to; for; in order to",
+          "note": "Indicates destination, recipient, or purpose; often shortened to pra in casual speech."
         }
       ],
       "forms": null,
       "moreForms": [],
       "related": [
         {
-          "word": "feliz",
-          "gloss": "happy"
+          "word": "pra",
+          "gloss": "to; for"
+        },
+        {
+          "word": "a",
+          "gloss": "to; at"
         }
       ],
       "examples": [
         {
-          "text": "Infelizmente não tem telefone. Só duas letras iniciais e uma rua antiga.",
-          "trans": "Unfortunately there is no phone number. Only two initials and an old street."
+          "text": "Comigo, sempre! Deixe o senhor e a senhora para os hóspedes.",
+          "trans": "With me, always! Leave sir and madam for the guests."
         },
         {
-          "text": "Infelizmente a loja de ferragens fecha ao meio-dia no sábado.",
-          "trans": "Unfortunately the hardware store closes at noon on Saturdays."
-        }
-      ]
-    },
-    "inicial": {
-      "lemma": "inicial",
-      "stress": "inisiˈaw",
-      "pos": "noun",
-      "gloss": "initial (letter)",
-      "meanings": [
-        {
-          "en": "initial (letter)",
-          "note": "First letter of a name (as iniciais); also an adjective."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a inicial",
-              "as iniciais"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "letra",
-          "gloss": "letter"
+          "text": "Não contem para ninguém! Agora, um sorriso bonito quando a campainha tocar.",
+          "trans": "Do not tell anyone! Now, a nice smile when the bell rings."
         },
         {
-          "word": "nome",
-          "gloss": "name"
-        }
-      ],
-      "gender": "f",
-      "plural": "iniciais",
-      "examples": [
-        {
-          "text": "Infelizmente não tem telefone. Só duas letras iniciais e uma rua antiga.",
-          "trans": "Unfortunately there is no phone number. Only two initials and an old street."
-        },
-        {
-          "text": "Veja o zíper... sim, as iniciais dela estão bem aqui!",
-          "trans": "Check the zipper... yes, her initials are right here!"
-        },
-        {
-          "text": "Espere um instante... Número doze, Rua das Acácias, e duas iniciais no canto!",
-          "trans": "Wait a moment... Number twelve, Rua das Acacias, and two initials in the corner!"
-        }
-      ]
-    },
-    "letra": {
-      "lemma": "letra",
-      "stress": "ˈletɾɐ",
-      "pos": "noun",
-      "gloss": "letter (of alphabet); handwriting",
-      "meanings": [
-        {
-          "en": "letter (of alphabet); handwriting",
-          "note": "Singular a letra often means someone's handwriting."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a letra",
-              "as letras"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "letrinha",
-          "gloss": "tiny print"
-        },
-        {
-          "word": "escrever",
-          "gloss": "to write"
-        }
-      ],
-      "gender": "f",
-      "plural": "letras",
-      "examples": [
-        {
-          "text": "Infelizmente não tem telefone. Só duas letras iniciais e uma rua antiga.",
-          "trans": "Unfortunately there is no phone number. Only two initials and an old street."
-        },
-        {
-          "text": "Que curioso! A letra daquela etiqueta pareceu tão familiar para mim.",
-          "trans": "How curious! The handwriting on that tag looked so familiar to me."
-        },
-        {
-          "text": "Eu reconheci a sua letra quadradinha naquele postal em dois segundos.",
-          "trans": "I recognized your neat block handwriting on that postcard in two seconds."
+          "text": "Que maravilha. A janela dá para a rua ou para o pátio?",
+          "trans": "Wonderful. Does the window face the street or the courtyard?"
         }
       ]
     },
@@ -6330,79 +6017,501 @@
         }
       ]
     },
-    "logo": {
-      "lemma": "logo",
-      "stress": "ˈlɔɡu",
+    "agora": {
+      "lemma": "agora",
+      "stress": "aˈɡɔɾɐ",
       "pos": "adv",
-      "gloss": "soon; right; right away",
+      "gloss": "now",
       "meanings": [
         {
-          "en": "soon; right; right away",
-          "note": "Até logo = see you later; logo ali = right over there."
+          "en": "now",
+          "note": "Agora mesmo means 'right this second'."
         }
       ],
       "forms": null,
       "moreForms": [],
       "related": [
         {
-          "word": "já",
-          "gloss": "already; soon"
+          "word": "hoje",
+          "gloss": "today"
         },
         {
-          "word": "até",
-          "gloss": "until"
+          "word": "já",
+          "gloss": "already"
         }
       ],
       "examples": [
         {
-          "text": "Logo ali depois do arco. Eu vou levar a mala azul para a senhora.",
-          "trans": "Right there past the arch. I will carry the blue suitcase for you."
+          "text": "Não contem para ninguém! Agora, um sorriso bonito quando a campainha tocar.",
+          "trans": "Do not tell anyone! Now, a nice smile when the bell rings."
         },
         {
-          "text": "O dono vai procurar essa mala logo, com certeza.",
-          "trans": "The owner will look for that suitcase soon, for sure."
+          "text": "Pode sentar, senhora. Fique tranquila, a gente vai olhar a etiqueta agora.",
+          "trans": "Please sit down, madam. Do not worry, we will check the tag now."
         },
         {
-          "text": "O Tiago não vai embora. Ele sempre fazia cara séria por cinco segundos e logo sorria.",
-          "trans": "Tiago will not walk away. He always made a stern face for five seconds and soon smiled."
+          "text": "Camila, ligue agora mesmo para os achados e perdidos da rodoviária.",
+          "trans": "Camila, call the bus station lost-and-found right away."
         }
       ]
     },
-    "lá": {
-      "lemma": "lá",
-      "stress": "la",
-      "pos": "adv",
-      "gloss": "there; over there",
+    "achado": {
+      "lemma": "achado",
+      "stress": "aˈʃadu",
+      "pos": "adj",
+      "gloss": "found; lost-and-found (achados e perdidos)",
       "meanings": [
         {
-          "en": "there; over there",
-          "note": "Points to a farther place; vamos lá = 'come on / let's go'."
+          "en": "found; lost-and-found (achados e perdidos)",
+          "note": "Achados e perdidos = 'lost and found'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "achado",
+              "achada"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "achados",
+              "achadas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "perdido",
+          "gloss": "lost"
+        },
+        {
+          "word": "achar",
+          "gloss": "to find"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Camila, ligue agora mesmo para os achados e perdidos da rodoviária.",
+          "trans": "Camila, call the bus station lost-and-found right away."
+        },
+        {
+          "text": "Esta padaria pequena foi um verdadeiro achado no bairro.",
+          "trans": "This little bakery was a real find in the neighborhood."
+        }
+      ]
+    },
+    "perdido": {
+      "lemma": "perdido",
+      "stress": "peʁˈdʒidu",
+      "pos": "adj",
+      "gloss": "lost; doomed",
+      "meanings": [
+        {
+          "en": "lost; doomed",
+          "note": "Estamos perdidos! = 'We're sunk!'; achados e perdidos = 'lost and found'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "perdido",
+              "perdida"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "perdidos",
+              "perdidas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "perder",
+          "gloss": "to lose"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Camila, ligue agora mesmo para os achados e perdidos da rodoviária.",
+          "trans": "Camila, call the bus station lost-and-found right away."
+        },
+        {
+          "text": "Veja a página um, Rafael: 'conversão em escritórios no próximo mês.' Estamos perdidos!",
+          "trans": "Look at page one, Rafael: 'office conversion next month.' We are sunk!"
+        }
+      ]
+    },
+    "rodoviária": {
+      "lemma": "rodoviária",
+      "stress": "ʁodoviˈaɾjɐ",
+      "pos": "noun",
+      "gloss": "intercity bus station",
+      "meanings": [
+        {
+          "en": "intercity bus station",
+          "note": "Short for estação rodoviária, Brazil's main hub for intercity coaches."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "a rodoviária",
+              "as rodoviárias"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "ônibus",
+          "gloss": "bus"
+        },
+        {
+          "word": "plataforma",
+          "gloss": "platform"
+        }
+      ],
+      "gender": "f",
+      "plural": "rodoviárias",
+      "examples": [
+        {
+          "text": "Alguém na rodoviária pegou a minha mala azul por engano!",
+          "trans": "Someone at the bus station took my blue suitcase by mistake!"
+        },
+        {
+          "text": "Camila, ligue agora mesmo para os achados e perdidos da rodoviária.",
+          "trans": "Camila, call the bus station lost-and-found right away."
+        }
+      ]
+    },
+    "estar": {
+      "lemma": "estar",
+      "stress": "isˈtaʁ",
+      "pos": "verb",
+      "gloss": "to be (state or current location)",
+      "meanings": [
+        {
+          "en": "to be (state or current location)",
+          "note": "Used for temporary states, feelings, weather, ongoing actions (estar + -ndo), and movable locations."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "eu estou",
+              "nós estamos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "você está",
+              "vocês estão"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ele/ela está",
+              "eles/elas estão"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "eu estive",
+                "nós estivemos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "você esteve",
+                "vocês estiveram"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "ele/ela esteve",
+                "eles/elas estiveram"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "ser",
+          "gloss": "to be (permanent)"
+        },
+        {
+          "word": "ficar",
+          "gloss": "to stay; be located"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Bom dia! Com licença, a porta está trancada?",
+          "trans": "Good morning! Excuse me, is the door locked?"
+        },
+        {
+          "text": "Pãozinho fresco da manhã! Pegue um enquanto está quentinho.",
+          "trans": "Fresh morning rolls! Take one while it is nice and warm."
+        },
+        {
+          "text": "Bom dia, pessoal! Bem-vinda, Camila. Está tudo pronto?",
+          "trans": "Good morning, everyone! Welcome, Camila. Is everything ready?"
+        }
+      ]
+    },
+    "alô": {
+      "lemma": "alô",
+      "stress": "aˈlo",
+      "pos": "interj",
+      "gloss": "hello (on the phone)",
+      "meanings": [
+        {
+          "en": "hello (on the phone)",
+          "note": "Standard greeting when answering a phone call."
         }
       ],
       "forms": null,
       "moreForms": [],
       "related": [
         {
-          "word": "ali",
-          "gloss": "over there"
+          "word": "oi",
+          "gloss": "hi"
         },
         {
-          "word": "fora",
-          "gloss": "outside"
+          "word": "telefone",
+          "gloss": "telephone"
         }
       ],
       "examples": [
         {
-          "text": "Não tem ninguém lá. É a campainha do quarto quatro.",
-          "trans": "Nobody is there. It is the buzzer from room four."
+          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
+          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
         },
         {
-          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
-          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+          "text": "Espere... alô, senhor! O senhor está ligando sobre a mala azul-escura?",
+          "trans": "Wait... hello, sir! Are you calling about the dark-blue suitcase?"
+        }
+      ]
+    },
+    "alguém": {
+      "lemma": "alguém",
+      "stress": "awˈɡẽj̃",
+      "pos": "pron",
+      "gloss": "someone; anyone",
+      "meanings": [
+        {
+          "en": "someone; anyone",
+          "note": "Indefinite pronoun referring to a person."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "ninguém",
+          "gloss": "nobody"
         },
         {
-          "text": "E a sua xícara lá dentro? Continua inteira?",
-          "trans": "And your teacup inside? Is it still in one piece?"
+          "word": "algo",
+          "gloss": "something"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Que barulho foi esse? Alguém tocou duas vezes!",
+          "trans": "What noise was that? Somebody rang twice!"
+        },
+        {
+          "text": "Alguém na rodoviária pegou a minha mala azul por engano!",
+          "trans": "Someone at the bus station took my blue suitcase by mistake!"
+        },
+        {
+          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
+          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
+        }
+      ]
+    },
+    "avisar": {
+      "lemma": "avisar",
+      "stress": "aviˈzaʁ",
+      "pos": "verb",
+      "gloss": "to let know; to notify",
+      "meanings": [
+        {
+          "en": "to let know; to notify",
+          "note": "Giving someone a heads-up."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "eu aviso",
+              "nós avisamos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "você avisa",
+              "vocês avisam"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ele/ela avisa",
+              "eles/elas avisam"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "eu avisei",
+                "nós avisamos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "você avisou",
+                "vocês avisaram"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "ele/ela avisou",
+                "eles/elas avisaram"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "aviso",
+          "gloss": "notice"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
+          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
+        },
+        {
+          "text": "Eu avisei que esse tablet é uma armadilha.",
+          "trans": "I warned you that this tablet is a trap."
+        }
+      ]
+    },
+    "sobre": {
+      "lemma": "sobre",
+      "stress": "ˈsobɾi",
+      "pos": "prep",
+      "gloss": "about; on; over",
+      "meanings": [
+        {
+          "en": "about; on; over",
+          "note": "Means 'about' a topic or physically 'on/above'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "sob",
+          "gloss": "under"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
+          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
+        },
+        {
+          "text": "Eu ouvi gritos sobre manteiga lá do meio do pátio.",
+          "trans": "I heard shouting about butter all the way from the middle of the courtyard."
+        },
+        {
+          "text": "Espere... alô, senhor! O senhor está ligando sobre a mala azul-escura?",
+          "trans": "Wait... hello, sir! Are you calling about the dark-blue suitcase?"
         }
       ]
     },
@@ -6462,147 +6571,15 @@
         }
       ]
     },
-    "manhã": {
-      "lemma": "manhã",
-      "stress": "mɐ̃ˈɲɐ̃",
-      "pos": "noun",
-      "gloss": "morning",
-      "meanings": [
-        {
-          "en": "morning",
-          "note": "De manhã = 'in the morning'; café da manhã = 'breakfast'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a manhã",
-              "as manhãs"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "amanhã",
-          "gloss": "tomorrow"
-        },
-        {
-          "word": "dia",
-          "gloss": "day"
-        }
-      ],
-      "gender": "f",
-      "plural": "manhãs",
-      "examples": [
-        {
-          "text": "Pãozinho fresco da manhã! Pegue um enquanto está quentinho.",
-          "trans": "Fresh morning rolls! Take one while it is nice and warm."
-        },
-        {
-          "text": "Aqui está a sua chave, número quatro. O café da manhã é das sete e meia às dez.",
-          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
-        },
-        {
-          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
-          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
-        }
-      ]
-    },
-    "mas": {
-      "lemma": "mas",
-      "stress": "mas",
-      "pos": "conj",
-      "gloss": "but",
-      "meanings": [
-        {
-          "en": "but",
-          "note": "Contrasting conjunction (distinct from mais = more)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "embora",
-          "gloss": "although"
-        },
-        {
-          "word": "mais",
-          "gloss": "more"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Eu preciso ler o caderno de reservas, mas cadê os meus óculos?",
-          "trans": "I need to read the reservation book, but where are my glasses?"
-        },
-        {
-          "text": "Tranquila e boa, obrigada, mas esta mala parece muito pesada hoje.",
-          "trans": "Calm and good, thank you, though this suitcase feels very heavy today."
-        },
-        {
-          "text": "Por fora é igual, sim! Mas olhe aqui dentro!",
-          "trans": "On the outside it is identical, yes! But look in here!"
-        }
-      ]
-    },
-    "me": {
-      "lemma": "me",
-      "stress": "mi",
-      "pos": "pron",
-      "gloss": "me; to me; myself",
-      "meanings": [
-        {
-          "en": "me; to me; myself",
-          "note": "First-person singular object and reflexive pronoun, usually placed before the verb in Brazil."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "eu",
-          "gloss": "I"
-        },
-        {
-          "word": "mim",
-          "gloss": "me"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ótimo. Pode me contar tudo o que eu preciso saber.",
-          "trans": "Great. You can tell me everything I need to know."
-        },
-        {
-          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
-          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
-        },
-        {
-          "text": "Me dê uma sacola e dinheiro! O mercadinho da esquina abre às sete.",
-          "trans": "Give me a bag and cash! The little corner market opens at seven."
-        }
-      ]
-    },
-    "mesmo": {
-      "lemma": "mesmo",
-      "stress": "ˈmezmu",
+    "azul": {
+      "lemma": "azul",
+      "stress": "aˈzuw",
       "pos": "adj",
-      "gloss": "same; -self; really (adv)",
+      "gloss": "blue",
       "meanings": [
         {
-          "en": "same; -self; really (adv)",
-          "note": "Before a noun: o mesmo ônibus ('the same bus'); after pronoun/adv: você mesmo ('yourself'), agora mesmo ('right now')."
+          "en": "blue",
+          "note": "Same form for m/f in singular; plural azuis."
         }
       ],
       "forms": {
@@ -6616,15 +6593,15 @@
           {
             "cells": [
               "sg",
-              "mesmo",
-              "mesma"
+              "azul",
+              "azul"
             ]
           },
           {
             "cells": [
               "pl",
-              "mesmos",
-              "mesmas"
+              "azuis",
+              "azuis"
             ]
           }
         ]
@@ -6632,76 +6609,187 @@
       "moreForms": [],
       "related": [
         {
-          "word": "próprio",
-          "gloss": "own"
-        },
-        {
-          "word": "igual",
-          "gloss": "equal"
+          "word": "azul-escuro",
+          "gloss": "dark blue"
         }
       ],
       "examples": [
         {
-          "text": "Mesmo com o quarto vazio, o fio velho toca duas vezes.",
-          "trans": "Even with the room empty, the old wire rings twice."
+          "text": "Logo ali depois do arco. Eu vou levar a mala azul para a senhora.",
+          "trans": "Right there past the arch. I will carry the blue suitcase for you."
         },
         {
-          "text": "Isso mesmo! Você já faz parte da casa.",
-          "trans": "That's right! You already belong to the house."
+          "text": "Alguém na rodoviária pegou a minha mala azul por engano!",
+          "trans": "Someone at the bus station took my blue suitcase by mistake!"
         },
         {
-          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
-          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
+          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
+          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
         }
       ]
     },
-    "meu": {
-      "lemma": "meu",
-      "stress": "mew",
-      "pos": "det",
-      "gloss": "my; mine",
+    "trocado": {
+      "lemma": "trocado",
+      "stress": "tɾoˈkadu",
+      "pos": "adj",
+      "gloss": "swapped; switched",
       "meanings": [
         {
-          "en": "my; mine",
-          "note": "First-person singular possessive: meu, minha, meus, minhas."
+          "en": "swapped; switched",
+          "note": "Mala trocada = 'mixed-up/swapped suitcase'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "trocado",
+              "trocada"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "trocados",
+              "trocadas"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "related": [
         {
-          "word": "eu",
-          "gloss": "I"
-        },
-        {
-          "word": "nosso",
-          "gloss": "our"
+          "word": "trocar",
+          "gloss": "to swap"
         }
       ],
       "examples": [
         {
-          "text": "Eu preciso ler o caderno de reservas, mas cadê os meus óculos?",
-          "trans": "I need to read the reservation book, but where are my glasses?"
+          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
+          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
         },
         {
-          "text": "Por que os meus óculos estariam no... ah! Estão na minha cabeça!",
-          "trans": "Why would my glasses be in the... oh! They are on my head!"
-        },
-        {
-          "text": "Só vestidos, partituras e a minha xícara favorita!",
-          "trans": "Only dresses, sheet music, and my favourite teacup!"
+          "text": "Pura sorte, mais uma mala azul trocada no ônibus de segunda de manhã!",
+          "trans": "Pure luck, plus one swapped blue suitcase on Monday morning's bus!"
         }
       ]
     },
-    "minuto": {
-      "lemma": "minuto",
-      "stress": "miˈnutu",
-      "pos": "noun",
-      "gloss": "minute",
+    "dizer": {
+      "lemma": "dizer",
+      "stress": "dʒiˈzeʁ",
+      "pos": "verb",
+      "gloss": "to say; to tell",
       "meanings": [
         {
-          "en": "minute",
-          "note": "Sixty seconds."
+          "en": "to say; to tell",
+          "note": "Irregular: digo, diz, disse; quer dizer = 'means'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "eu digo",
+              "nós dizemos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "você diz",
+              "vocês dizem"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ele/ela diz",
+              "eles/elas dizem"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "eu disse",
+                "nós dissemos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "você disse",
+                "vocês disseram"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "ele/ela disse",
+                "eles/elas disseram"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "falar",
+          "gloss": "to speak"
+        },
+        {
+          "word": "contar",
+          "gloss": "to tell"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Então a casa diz oi sozinha?",
+          "trans": "So the house says hi on its own?"
+        },
+        {
+          "text": "Diga que a minha tem uma fita vermelha no bolso de cima!",
+          "trans": "Say that mine has a red ribbon in the top pocket!"
+        },
+        {
+          "text": "Pode apostar! Me diga direitinho o que eu preciso comprar.",
+          "trans": "You bet! Tell me exactly what I need to buy."
+        }
+      ]
+    },
+    "fita": {
+      "lemma": "fita",
+      "stress": "ˈfitɐ",
+      "pos": "noun",
+      "gloss": "ribbon; tape",
+      "meanings": [
+        {
+          "en": "ribbon; tape",
+          "note": "Colored ribbon on a bag or adhesive tape."
         }
       ],
       "forms": {
@@ -6715,8 +6803,8 @@
           {
             "cells": [
               "form",
-              "o minuto",
-              "os minutos"
+              "a fita",
+              "as fitas"
             ]
           }
         ]
@@ -6724,116 +6812,339 @@
       "moreForms": [],
       "related": [
         {
-          "word": "hora",
-          "gloss": "hour"
+          "word": "laço",
+          "gloss": "bow"
         },
         {
-          "word": "segundo",
-          "gloss": "second"
+          "word": "alça",
+          "gloss": "handle"
+        }
+      ],
+      "gender": "f",
+      "plural": "fitas",
+      "examples": [
+        {
+          "text": "Diga que a minha tem uma fita vermelha no bolso de cima!",
+          "trans": "Say that mine has a red ribbon in the top pocket!"
+        },
+        {
+          "text": "Olhe, tem um envelope branco preso com fita na alça.",
+          "trans": "Look, there is a white envelope taped to the handle."
+        },
+        {
+          "text": "A minha mala! Deixe eu abrir o bolso de cima... sim, a minha fita vermelha!",
+          "trans": "My suitcase! Let me open the top pocket... yes, my red ribbon!"
+        }
+      ]
+    },
+    "vermelho": {
+      "lemma": "vermelho",
+      "stress": "veʁˈmeʎu",
+      "pos": "adj",
+      "gloss": "red",
+      "meanings": [
+        {
+          "en": "red",
+          "note": "Standard word for red."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "vermelho",
+              "vermelha"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "vermelhos",
+              "vermelhas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "azul",
+          "gloss": "blue"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Diga que a minha tem uma fita vermelha no bolso de cima!",
+          "trans": "Say that mine has a red ribbon in the top pocket!"
+        },
+        {
+          "text": "A minha mala! Deixe eu abrir o bolso de cima... sim, a minha fita vermelha!",
+          "trans": "My suitcase! Let me open the top pocket... yes, my red ribbon!"
+        },
+        {
+          "text": "Três garrafas de leite, vinte ovos, manteiga, queijo e maçãs vermelhas!",
+          "trans": "Three bottles of milk, twenty eggs, butter, cheese, and red apples!"
+        }
+      ]
+    },
+    "bolso": {
+      "lemma": "bolso",
+      "stress": "ˈbowsu",
+      "pos": "noun",
+      "gloss": "pocket",
+      "meanings": [
+        {
+          "en": "pocket",
+          "note": "O bolso de cima = 'breast/top pocket'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "o bolso",
+              "os bolsos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "paletó",
+          "gloss": "jacket"
         }
       ],
       "gender": "m",
-      "plural": "minutos",
+      "plural": "bolsos",
       "examples": [
         {
-          "text": "Eu sou o Jorge. Você chegou dez minutos cedo.",
-          "trans": "I am Jorge. You arrived ten minutes early."
+          "text": "Eles estão no bolso do seu paletó?",
+          "trans": "Are they in your jacket pocket?"
         },
         {
-          "text": "Espere, essa rua fica aqui no nosso bairro, a cinco minutos daqui!",
-          "trans": "Wait, that street is right here in our neighbourhood, five minutes from here!"
+          "text": "Diga que a minha tem uma fita vermelha no bolso de cima!",
+          "trans": "Say that mine has a red ribbon in the top pocket!"
         },
         {
-          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
-          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+          "text": "A minha mala! Deixe eu abrir o bolso de cima... sim, a minha fita vermelha!",
+          "trans": "My suitcase! Let me open the top pocket... yes, my red ribbon!"
         }
       ]
     },
-    "muito": {
-      "lemma": "muito",
-      "stress": "ˈmũj̃tu",
-      "pos": "adv",
-      "gloss": "very; a lot; much; many",
+    "cima": {
+      "lemma": "cima",
+      "stress": "ˈsĩmɐ",
+      "pos": "noun",
+      "gloss": "top; upper part",
       "meanings": [
         {
-          "en": "very; a lot; much; many",
-          "note": "Invariable as an adverb ('very / a lot'); inflects as a determiner (muito, muita, muitos, muitas)."
+          "en": "top; upper part",
+          "note": "Em cima de = 'on top of / above'; de cima = 'upper / top'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "a cima",
+              "as cimas"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "related": [
         {
-          "word": "pouco",
-          "gloss": "little; few"
+          "word": "acima",
+          "gloss": "above"
         },
         {
-          "word": "bastante",
-          "gloss": "plenty"
+          "word": "embaixo",
+          "gloss": "underneath"
         }
       ],
+      "gender": "f",
+      "plural": "cimas",
       "examples": [
-        {
-          "text": "Muito prazer, Bianca! Que cheiro maravilhoso!",
-          "trans": "Nice to meet you, Bianca! What a wonderful smell!"
-        },
-        {
-          "text": "Tranquila e boa, obrigada, mas esta mala parece muito pesada hoje.",
-          "trans": "Calm and good, thank you, though this suitcase feels very heavy today."
-        },
         {
           "text": "Para o pátio, bem em cima do cajueiro velho. É muito silencioso.",
           "trans": "The courtyard, right above the old cashew tree. It is very quiet."
+        },
+        {
+          "text": "Diga que a minha tem uma fita vermelha no bolso de cima!",
+          "trans": "Say that mine has a red ribbon in the top pocket!"
+        },
+        {
+          "text": "A minha mala! Deixe eu abrir o bolso de cima... sim, a minha fita vermelha!",
+          "trans": "My suitcase! Let me open the top pocket... yes, my red ribbon!"
         }
       ]
     },
-    "nada": {
-      "lemma": "nada",
-      "stress": "ˈnadɐ",
-      "pos": "pron",
-      "gloss": "nothing; anything",
+    "ainda": {
+      "lemma": "ainda",
+      "stress": "aˈĩdɐ",
+      "pos": "adv",
+      "gloss": "still; yet",
       "meanings": [
         {
-          "en": "nothing; anything",
-          "note": "Negative pronoun; nada mal means 'not bad at all'."
+          "en": "still; yet",
+          "note": "Ainda não means 'not yet'; ainda bem means 'thank goodness'."
         }
       ],
       "forms": null,
       "moreForms": [],
       "related": [
         {
-          "word": "tudo",
-          "gloss": "everything"
-        },
-        {
-          "word": "ninguém",
-          "gloss": "nobody"
+          "word": "já",
+          "gloss": "already"
         }
       ],
       "examples": [
+        {
+          "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
+          "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
+        },
         {
           "text": "Eles ainda não têm nada, senhora. Sinto muito mesmo.",
           "trans": "They have nothing yet, madam. I am truly sorry."
         },
         {
-          "text": "Só um pingo de leite, dois ovos e nada de manteiga!",
-          "trans": "Only a tiny drop of milk, two eggs, and no butter at all!"
-        },
-        {
-          "text": "Nada mal para o segundo dia, novata.",
-          "trans": "Not bad for day two, rookie."
+          "text": "Minha nossa! Nem uma gota na mesa, ainda bem... caiu tudo na minha gravata!",
+          "trans": "Goodness me! Not a drop on the table, thank goodness... it all fell on my tie!"
         }
       ]
     },
-    "nome": {
-      "lemma": "nome",
-      "stress": "ˈnomi",
-      "pos": "noun",
-      "gloss": "name",
+    "anotar": {
+      "lemma": "anotar",
+      "stress": "anoˈtaʁ",
+      "pos": "verb",
+      "gloss": "to write down; to note",
       "meanings": [
         {
-          "en": "name",
-          "note": "Em nome de = 'under the name of'."
+          "en": "to write down; to note",
+          "note": "Essential front-desk verb for recording bookings or notes."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "eu anoto",
+              "nós anotamos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "você anota",
+              "vocês anotam"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ele/ela anota",
+              "eles/elas anotam"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "eu anotei",
+                "nós anotamos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "você anotou",
+                "vocês anotaram"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "ele/ela anotou",
+                "eles/elas anotaram"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "anotação",
+          "gloss": "note"
+        },
+        {
+          "word": "caderno",
+          "gloss": "notebook"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
+          "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
+        },
+        {
+          "text": "Pergunte o nome dele! Anote aí no papel!",
+          "trans": "Ask his name! Write it down on the paper!"
+        },
+        {
+          "text": "Ai, que desastre! Ontem anotei uma reserva no tablet sem os meus óculos!",
+          "trans": "Oh, what a disaster! Yesterday I wrote a booking on the tablet without my glasses!"
+        }
+      ]
+    },
+    "endereço": {
+      "lemma": "endereço",
+      "stress": "ẽdeˈɾesu",
+      "pos": "noun",
+      "gloss": "address",
+      "meanings": [
+        {
+          "en": "address",
+          "note": "Street address."
         }
       ],
       "forms": {
@@ -6847,8 +7158,8 @@
           {
             "cells": [
               "form",
-              "o nome",
-              "os nomes"
+              "o endereço",
+              "os endereços"
             ]
           }
         ]
@@ -6856,112 +7167,36 @@
       "moreForms": [],
       "related": [
         {
-          "word": "sobrenome",
-          "gloss": "surname"
+          "word": "rua",
+          "gloss": "street"
+        },
+        {
+          "word": "número",
+          "gloss": "number"
         }
       ],
       "gender": "m",
-      "plural": "nomes",
+      "plural": "endereços",
       "examples": [
         {
-          "text": "Bom dia, querida. Tenho uma reserva em nome de Helena.",
-          "trans": "Good morning, my dear. I have a booking under the name Helena."
+          "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
+          "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
         },
         {
-          "text": "Tem algum nome ou número de telefone aí?",
-          "trans": "Is there any name or phone number there?"
-        },
-        {
-          "text": "Até sexta-feira? Sem nome e sem assinatura!",
-          "trans": "Until Friday? No name and no signature!"
+          "text": "Anotei o endereço completo da loja num papel.",
+          "trans": "I wrote down the store's full address on a slip of paper."
         }
       ]
     },
-    "nosso": {
-      "lemma": "nosso",
-      "stress": "ˈnɔsu",
-      "pos": "det",
-      "gloss": "our; ours",
-      "meanings": [
-        {
-          "en": "our; ours",
-          "note": "First-person plural possessive: nosso, nossa, nossos, nossas."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "nós",
-          "gloss": "we"
-        },
-        {
-          "word": "meu",
-          "gloss": "my"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Com licença, senhora. Nossa, a senhora trouxe pedras aqui dentro?",
-          "trans": "Allow me, madam. Goodness, did you bring stones in here?"
-        },
-        {
-          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
-          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
-        },
-        {
-          "text": "Espere, essa rua fica aqui no nosso bairro, a cinco minutos daqui!",
-          "trans": "Wait, that street is right here in our neighbourhood, five minutes from here!"
-        }
-      ]
-    },
-    "não": {
-      "lemma": "não",
-      "stress": "nɐ̃w̃",
-      "pos": "adv",
-      "gloss": "no; not",
-      "meanings": [
-        {
-          "en": "no; not",
-          "note": "Standard word for 'no' and verbal negation (placed right before the verb)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "sim",
-          "gloss": "yes"
-        },
-        {
-          "word": "nunca",
-          "gloss": "never"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Bom dia. Não, levante a maçaneta primeiro e depois empurre.",
-          "trans": "Good morning. No, lift the handle first and then push."
-        },
-        {
-          "text": "Não tem ninguém lá. É a campainha do quarto quatro.",
-          "trans": "Nobody is there. It is the buzzer from room four."
-        },
-        {
-          "text": "Não, só tem uma caneta e três recibos velhos!",
-          "trans": "No, there is only a pen and three old receipts!"
-        }
-      ]
-    },
-    "número": {
-      "lemma": "número",
-      "stress": "ˈnũmeɾu",
+    "pousada": {
+      "lemma": "pousada",
+      "stress": "powˈzadɐ",
       "pos": "noun",
-      "gloss": "number; size",
+      "gloss": "guesthouse; inn",
       "meanings": [
         {
-          "en": "number; size",
-          "note": "Room number, street number, or shoe/clothing size."
+          "en": "guesthouse; inn",
+          "note": "Classic Brazilian small, welcoming inn."
         }
       ],
       "forms": {
@@ -6975,8 +7210,8 @@
           {
             "cells": [
               "form",
-              "o número",
-              "os números"
+              "a pousada",
+              "as pousadas"
             ]
           }
         ]
@@ -6984,58 +7219,118 @@
       "moreForms": [],
       "related": [
         {
-          "word": "endereço",
-          "gloss": "address"
+          "word": "hotel",
+          "gloss": "hotel"
+        },
+        {
+          "word": "hóspede",
+          "gloss": "guest"
         }
       ],
-      "gender": "m",
-      "plural": "números",
+      "gender": "f",
+      "plural": "pousadas",
       "examples": [
         {
-          "text": "Regra número um: tome chá quente primeiro e depois atenda a campainha.",
-          "trans": "Rule number one: drink hot tea first and then answer the bell."
+          "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
+          "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
         },
         {
-          "text": "Aqui está a sua chave, número quatro. O café da manhã é das sete e meia às dez.",
-          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
+          "text": "Bem-vinda à Pousada do Cajueiro, Camila. Seu segundo dia não vai ser chato.",
+          "trans": "Welcome to the Cashew Tree Guesthouse, Camila. Your second day is not going to be boring."
         },
         {
-          "text": "Tem algum nome ou número de telefone aí?",
-          "trans": "Is there any name or phone number there?"
+          "text": "Na nossa pousada, o serviço cinco estrelas é natural... opa!",
+          "trans": "At our guesthouse, five-star service comes naturally... whoops!"
         }
       ]
     },
-    "o": {
-      "lemma": "o",
-      "stress": "u",
-      "pos": "det",
-      "gloss": "the",
+    "por": {
+      "lemma": "por",
+      "stress": "puʁ",
+      "pos": "prep",
+      "gloss": "for; by; through",
       "meanings": [
         {
-          "en": "the",
-          "note": "Definite article agreeing in gender and number: o, a, os, as. Often used before first names in Brazil."
+          "en": "for; by; through",
+          "note": "Indicates cause, duration, exchange, or path; contracts with o/a/os/as as pelo, pela, pelos, pelas."
         }
       ],
       "forms": null,
       "moreForms": [],
       "related": [
         {
-          "word": "um",
-          "gloss": "a; an"
+          "word": "para",
+          "gloss": "to; for"
         }
       ],
       "examples": [
         {
-          "text": "Bom dia! Com licença, a porta está trancada?",
-          "trans": "Good morning! Excuse me, is the door locked?"
+          "text": "Por que os meus óculos estariam no... ah! Estão na minha cabeça!",
+          "trans": "Why would my glasses be in the... oh! They are on my head!"
         },
         {
-          "text": "Bom dia. Não, levante a maçaneta primeiro e depois empurre.",
-          "trans": "Good morning. No, lift the handle first and then push."
+          "text": "Por fora é igual, sim! Mas olhe aqui dentro!",
+          "trans": "On the outside it is identical, yes! But look in here!"
         },
         {
-          "text": "Ah, abriu! Obrigada. Eu sou a Camila, a nova recepcionista.",
-          "trans": "Oh, it opened! Thank you. I am Camila, the new receptionist."
+          "text": "Por isso estava tão pesada. Madeira e couro!",
+          "trans": "That is why it was so heavy. Wood and leather!"
+        }
+      ]
+    },
+    "favor": {
+      "lemma": "favor",
+      "stress": "faˈvoʁ",
+      "pos": "noun",
+      "gloss": "favor",
+      "meanings": [
+        {
+          "en": "favor",
+          "note": "Por favor = 'please'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "o favor",
+              "os favores"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "gentileza",
+          "gloss": "kindness"
+        },
+        {
+          "word": "obrigado",
+          "gloss": "thank you"
+        }
+      ],
+      "gender": "m",
+      "plural": "favores",
+      "examples": [
+        {
+          "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
+          "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
+        },
+        {
+          "text": "Deixe eu ler: 'Desculpe o engano. Por favor, guardem a minha mala azul até sexta-feira.'",
+          "trans": "Let me read: 'Sorry for the mistake. Please keep my blue suitcase until Friday.'"
+        },
+        {
+          "text": "Por favor, não fale a palavra emergência antes do meu café!",
+          "trans": "Please do not say the word emergency before my coffee!"
         }
       ]
     },
@@ -7100,424 +7395,79 @@
         }
       ]
     },
-    "ou": {
-      "lemma": "ou",
-      "stress": "ow",
-      "pos": "conj",
-      "gloss": "or",
+    "eles": {
+      "lemma": "eles",
+      "stress": "ˈelis",
+      "pos": "pron",
+      "gloss": "they",
       "meanings": [
         {
-          "en": "or",
-          "note": "Coordinating conjunction offering alternatives."
+          "en": "they",
+          "note": "Third-person plural masculine or mixed-gender pronoun (feminine elas)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "related": [
         {
-          "word": "e",
-          "gloss": "and"
+          "word": "ele",
+          "gloss": "he"
         },
         {
-          "word": "nem",
-          "gloss": "nor"
+          "word": "deles",
+          "gloss": "their"
         }
       ],
       "examples": [
         {
-          "text": "Que maravilha. A janela dá para a rua ou para o pátio?",
-          "trans": "Wonderful. Does the window face the street or the courtyard?"
+          "text": "Eles estão no bolso do seu paletó?",
+          "trans": "Are they in your jacket pocket?"
         },
         {
-          "text": "Tem algum nome ou número de telefone aí?",
-          "trans": "Is there any name or phone number there?"
+          "text": "Eles ainda não têm nada, senhora. Sinto muito mesmo.",
+          "trans": "They have nothing yet, madam. I am truly sorry."
         },
         {
-          "text": "Bom dia de novo, Dona Helena! A senhora quer café ou chá preto?",
-          "trans": "Good morning again, Madam Helena! Would you like coffee or black tea?"
+          "text": "Ponha a água quente no bule, Camila, eles estão chegando!",
+          "trans": "Put the hot water in the teapot, Camila, here they come!"
         }
       ]
     },
-    "para": {
-      "lemma": "para",
-      "stress": "ˈpaɾɐ",
-      "pos": "prep",
-      "gloss": "to; for; in order to",
+    "nada": {
+      "lemma": "nada",
+      "stress": "ˈnadɐ",
+      "pos": "pron",
+      "gloss": "nothing; anything",
       "meanings": [
         {
-          "en": "to; for; in order to",
-          "note": "Indicates destination, recipient, or purpose; often shortened to pra in casual speech."
+          "en": "nothing; anything",
+          "note": "Negative pronoun; nada mal means 'not bad at all'."
         }
       ],
       "forms": null,
       "moreForms": [],
       "related": [
         {
-          "word": "pra",
-          "gloss": "to; for"
+          "word": "tudo",
+          "gloss": "everything"
         },
         {
-          "word": "a",
-          "gloss": "to; at"
+          "word": "ninguém",
+          "gloss": "nobody"
         }
       ],
       "examples": [
         {
-          "text": "Comigo, sempre! Deixe o senhor e a senhora para os hóspedes.",
-          "trans": "With me, always! Leave sir and madam for the guests."
+          "text": "Eles ainda não têm nada, senhora. Sinto muito mesmo.",
+          "trans": "They have nothing yet, madam. I am truly sorry."
         },
         {
-          "text": "Não contem para ninguém! Agora, um sorriso bonito quando a campainha tocar.",
-          "trans": "Do not tell anyone! Now, a nice smile when the bell rings."
+          "text": "Só um pingo de leite, dois ovos e nada de manteiga!",
+          "trans": "Only a tiny drop of milk, two eggs, and no butter at all!"
         },
         {
-          "text": "Que maravilha. A janela dá para a rua ou para o pátio?",
-          "trans": "Wonderful. Does the window face the street or the courtyard?"
-        }
-      ]
-    },
-    "perdido": {
-      "lemma": "perdido",
-      "stress": "peʁˈdʒidu",
-      "pos": "adj",
-      "gloss": "lost; doomed",
-      "meanings": [
-        {
-          "en": "lost; doomed",
-          "note": "Estamos perdidos! = 'We're sunk!'; achados e perdidos = 'lost and found'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "perdido",
-              "perdida"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "perdidos",
-              "perdidas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "perder",
-          "gloss": "to lose"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Camila, ligue agora mesmo para os achados e perdidos da rodoviária.",
-          "trans": "Camila, call the bus station lost-and-found right away."
-        },
-        {
-          "text": "Veja a página um, Rafael: 'conversão em escritórios no próximo mês.' Estamos perdidos!",
-          "trans": "Look at page one, Rafael: 'office conversion next month.' We are sunk!"
-        }
-      ]
-    },
-    "por": {
-      "lemma": "por",
-      "stress": "puʁ",
-      "pos": "prep",
-      "gloss": "for; by; through",
-      "meanings": [
-        {
-          "en": "for; by; through",
-          "note": "Indicates cause, duration, exchange, or path; contracts with o/a/os/as as pelo, pela, pelos, pelas."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "para",
-          "gloss": "to; for"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Por que os meus óculos estariam no... ah! Estão na minha cabeça!",
-          "trans": "Why would my glasses be in the... oh! They are on my head!"
-        },
-        {
-          "text": "Por fora é igual, sim! Mas olhe aqui dentro!",
-          "trans": "On the outside it is identical, yes! But look in here!"
-        },
-        {
-          "text": "Por isso estava tão pesada. Madeira e couro!",
-          "trans": "That is why it was so heavy. Wood and leather!"
-        }
-      ]
-    },
-    "pousada": {
-      "lemma": "pousada",
-      "stress": "powˈzadɐ",
-      "pos": "noun",
-      "gloss": "guesthouse; inn",
-      "meanings": [
-        {
-          "en": "guesthouse; inn",
-          "note": "Classic Brazilian small, welcoming inn."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a pousada",
-              "as pousadas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "hotel",
-          "gloss": "hotel"
-        },
-        {
-          "word": "hóspede",
-          "gloss": "guest"
-        }
-      ],
-      "gender": "f",
-      "plural": "pousadas",
-      "examples": [
-        {
-          "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
-          "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
-        },
-        {
-          "text": "Bem-vinda à Pousada do Cajueiro, Camila. Seu segundo dia não vai ser chato.",
-          "trans": "Welcome to the Cashew Tree Guesthouse, Camila. Your second day is not going to be boring."
-        },
-        {
-          "text": "Na nossa pousada, o serviço cinco estrelas é natural... opa!",
-          "trans": "At our guesthouse, five-star service comes naturally... whoops!"
-        }
-      ]
-    },
-    "que": {
-      "lemma": "que",
-      "stress": "ki",
-      "pos": "conj",
-      "gloss": "that; than; what",
-      "meanings": [
-        {
-          "en": "that; than; what",
-          "note": "Connects clauses, introduces comparisons, or asks/exclaims before nouns (Que maravilha!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "quê",
-          "gloss": "what (stressed)"
-        },
-        {
-          "word": "quem",
-          "gloss": "who"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ótimo. Pode me contar tudo o que eu preciso saber.",
-          "trans": "Great. You can tell me everything I need to know."
-        },
-        {
-          "text": "Muito prazer, Bianca! Que cheiro maravilhoso!",
-          "trans": "Nice to meet you, Bianca! What a wonderful smell!"
-        },
-        {
-          "text": "Que barulho foi esse? Alguém tocou duas vezes!",
-          "trans": "What noise was that? Somebody rang twice!"
-        }
-      ]
-    },
-    "rodoviária": {
-      "lemma": "rodoviária",
-      "stress": "ʁodoviˈaɾjɐ",
-      "pos": "noun",
-      "gloss": "intercity bus station",
-      "meanings": [
-        {
-          "en": "intercity bus station",
-          "note": "Short for estação rodoviária, Brazil's main hub for intercity coaches."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a rodoviária",
-              "as rodoviárias"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "ônibus",
-          "gloss": "bus"
-        },
-        {
-          "word": "plataforma",
-          "gloss": "platform"
-        }
-      ],
-      "gender": "f",
-      "plural": "rodoviárias",
-      "examples": [
-        {
-          "text": "Alguém na rodoviária pegou a minha mala azul por engano!",
-          "trans": "Someone at the bus station took my blue suitcase by mistake!"
-        },
-        {
-          "text": "Camila, ligue agora mesmo para os achados e perdidos da rodoviária.",
-          "trans": "Camila, call the bus station lost-and-found right away."
-        },
-        {
-          "text": "Sopa quente? Depois daquela plataforma fria na rodoviária, parece um sonho.",
-          "trans": "Hot soup? After that chilly platform at the bus station, it sounds like a dream."
-        }
-      ]
-    },
-    "roupa": {
-      "lemma": "roupa",
-      "stress": "ˈʁowpɐ",
-      "pos": "noun",
-      "gloss": "clothes; clothing",
-      "meanings": [
-        {
-          "en": "clothes; clothing",
-          "note": "Collective singular (a roupa) often translates English plural 'clothes'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a roupa",
-              "as roupas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "camisa",
-          "gloss": "shirt"
-        },
-        {
-          "word": "blusa",
-          "gloss": "blouse"
-        }
-      ],
-      "gender": "f",
-      "plural": "roupas",
-      "examples": [
-        {
-          "text": "A culpa não é de vocês. Mas eu só tenho a roupa do corpo!",
-          "trans": "It is not your fault. Still, I only have the clothes on my back!"
-        },
-        {
-          "text": "Eu vou buscar lençóis brancos limpos no armário de roupa de cama!",
-          "trans": "I will fetch clean white sheets from the linen cupboard!"
-        }
-      ]
-    },
-    "rua": {
-      "lemma": "rua",
-      "stress": "ˈʁuɐ",
-      "pos": "noun",
-      "gloss": "street",
-      "meanings": [
-        {
-          "en": "street",
-          "note": "City street."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "a rua",
-              "as ruas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "calçada",
-          "gloss": "sidewalk"
-        },
-        {
-          "word": "esquina",
-          "gloss": "corner"
-        }
-      ],
-      "gender": "f",
-      "plural": "ruas",
-      "examples": [
-        {
-          "text": "A Bianca conversa com toda a rua como velha amiga.",
-          "trans": "Bianca chats with the whole street like an old friend."
-        },
-        {
-          "text": "Que maravilha. A janela dá para a rua ou para o pátio?",
-          "trans": "Wonderful. Does the window face the street or the courtyard?"
-        },
-        {
-          "text": "Infelizmente não tem telefone. Só duas letras iniciais e uma rua antiga.",
-          "trans": "Unfortunately there is no phone number. Only two initials and an old street."
+          "text": "Nada mal para o segundo dia, novata.",
+          "trans": "Not bad for day two, rookie."
         }
       ]
     },
@@ -7677,6 +7627,92 @@
         }
       ]
     },
+    "muito": {
+      "lemma": "muito",
+      "stress": "ˈmũj̃tu",
+      "pos": "adv",
+      "gloss": "very; a lot; much; many",
+      "meanings": [
+        {
+          "en": "very; a lot; much; many",
+          "note": "Invariable as an adverb ('very / a lot'); inflects as a determiner (muito, muita, muitos, muitas)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "pouco",
+          "gloss": "little; few"
+        },
+        {
+          "word": "bastante",
+          "gloss": "plenty"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Muito prazer, Bianca! Que cheiro maravilhoso!",
+          "trans": "Nice to meet you, Bianca! What a wonderful smell!"
+        },
+        {
+          "text": "Tranquila e boa, obrigada, mas esta mala parece muito pesada hoje.",
+          "trans": "Calm and good, thank you, though this suitcase feels very heavy today."
+        },
+        {
+          "text": "Para o pátio, bem em cima do cajueiro velho. É muito silencioso.",
+          "trans": "The courtyard, right above the old cashew tree. It is very quiet."
+        }
+      ]
+    },
+    "culpa": {
+      "lemma": "culpa",
+      "stress": "ˈkuwpɐ",
+      "pos": "noun",
+      "gloss": "fault; blame",
+      "meanings": [
+        {
+          "en": "fault; blame",
+          "note": "Responsibility for an error."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "a culpa",
+              "as culpas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "erro",
+          "gloss": "mistake"
+        }
+      ],
+      "gender": "f",
+      "plural": "culpas",
+      "examples": [
+        {
+          "text": "A culpa não é de vocês. Mas eu só tenho a roupa do corpo!",
+          "trans": "It is not your fault. Still, I only have the clothes on my back!"
+        },
+        {
+          "text": "Não foi culpa de ninguém; as malas eram idênticas.",
+          "trans": "It wasn't anyone's fault; the suitcases were identical."
+        }
+      ]
+    },
     "ser": {
       "lemma": "ser",
       "stress": "seʁ",
@@ -7777,574 +7813,6 @@
         }
       ]
     },
-    "sobre": {
-      "lemma": "sobre",
-      "stress": "ˈsobɾi",
-      "pos": "prep",
-      "gloss": "about; on; over",
-      "meanings": [
-        {
-          "en": "about; on; over",
-          "note": "Means 'about' a topic or physically 'on/above'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "sob",
-          "gloss": "under"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
-          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
-        },
-        {
-          "text": "Eu ouvi gritos sobre manteiga lá do meio do pátio.",
-          "trans": "I heard shouting about butter all the way from the middle of the courtyard."
-        },
-        {
-          "text": "Espere... alô, senhor! O senhor está ligando sobre a mala azul-escura?",
-          "trans": "Wait... hello, sir! Are you calling about the dark-blue suitcase?"
-        }
-      ]
-    },
-    "só": {
-      "lemma": "só",
-      "stress": "sɔ",
-      "pos": "adv",
-      "gloss": "only; just",
-      "meanings": [
-        {
-          "en": "only; just",
-          "note": "Everyday equivalent of somente; olha só = 'just look'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "simplesmente",
-          "gloss": "simply"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Não, só tem uma caneta e três recibos velhos!",
-          "trans": "No, there is only a pen and three old receipts!"
-        },
-        {
-          "text": "Olha só, um táxi acabou de parar no portão.",
-          "trans": "Look there, a taxi just stopped at the gate."
-        },
-        {
-          "text": "Só vestidos, partituras e a minha xícara favorita!",
-          "trans": "Only dresses, sheet music, and my favourite teacup!"
-        }
-      ]
-    },
-    "telefone": {
-      "lemma": "telefone",
-      "stress": "teleˈfõni",
-      "pos": "noun",
-      "gloss": "telephone; phone number",
-      "meanings": [
-        {
-          "en": "telephone; phone number",
-          "note": "Por telefone = 'by phone'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "o telefone",
-              "os telefones"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "telefonema",
-          "gloss": "phone call"
-        },
-        {
-          "word": "ligar",
-          "gloss": "to call"
-        }
-      ],
-      "gender": "m",
-      "plural": "telefones",
-      "examples": [
-        {
-          "text": "Tem algum nome ou número de telefone aí?",
-          "trans": "Is there any name or phone number there?"
-        },
-        {
-          "text": "Infelizmente não tem telefone. Só duas letras iniciais e uma rua antiga.",
-          "trans": "Unfortunately there is no phone number. Only two initials and an old street."
-        },
-        {
-          "text": "Ainda não? Anote o telefone e o endereço da nossa pousada, por favor. Obrigada!",
-          "trans": "Not yet? Write down our guesthouse phone and address, please. Thank you!"
-        }
-      ]
-    },
-    "ter": {
-      "lemma": "ter",
-      "stress": "teʁ",
-      "pos": "verb",
-      "gloss": "to have; there is / there are (tem)",
-      "meanings": [
-        {
-          "en": "to have; there is / there are (tem)",
-          "note": "Irregular (tenho, tem, temos, têm; tive, teve); impersonal tem means 'there is / there are' in Brazil."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "eu tenho",
-              "nós temos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "você tem",
-              "vocês têm"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ele/ela tem",
-              "eles/elas têm"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "eu tive",
-                "nós tivemos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "você teve",
-                "vocês tiveram"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "ele/ela teve",
-                "eles/elas tiveram"
-              ]
-            }
-          ]
-        }
-      ],
-      "related": [
-        {
-          "word": "haver",
-          "gloss": "there to be"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Não tem ninguém lá. É a campainha do quarto quatro.",
-          "trans": "Nobody is there. It is the buzzer from room four."
-        },
-        {
-          "text": "Não, só tem uma caneta e três recibos velhos!",
-          "trans": "No, there is only a pen and three old receipts!"
-        },
-        {
-          "text": "Bom dia, querida. Tenho uma reserva em nome de Helena.",
-          "trans": "Good morning, my dear. I have a booking under the name Helena."
-        }
-      ]
-    },
-    "trocado": {
-      "lemma": "trocado",
-      "stress": "tɾoˈkadu",
-      "pos": "adj",
-      "gloss": "swapped; switched",
-      "meanings": [
-        {
-          "en": "swapped; switched",
-          "note": "Mala trocada = 'mixed-up/swapped suitcase'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "trocado",
-              "trocada"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "trocados",
-              "trocadas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "trocar",
-          "gloss": "to swap"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Estou ligando agora... Alô? Alguém avisou sobre uma mala azul trocada?",
-          "trans": "I am calling now... Hello? Did anyone report a swapped blue suitcase?"
-        },
-        {
-          "text": "Pura sorte, mais uma mala azul trocada no ônibus de segunda de manhã!",
-          "trans": "Pure luck, plus one swapped blue suitcase on Monday morning's bus!"
-        }
-      ]
-    },
-    "um": {
-      "lemma": "um",
-      "stress": "ũ",
-      "pos": "det",
-      "gloss": "a; an; one",
-      "meanings": [
-        {
-          "en": "a; an; one",
-          "note": "Indefinite article (um, uma, uns, umas) and masculine form of the number one."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "o",
-          "gloss": "the"
-        },
-        {
-          "word": "dois",
-          "gloss": "two"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Na gaveta. Aqui a gente usa este caderno grande e um lápis.",
-          "trans": "In the drawer. Here we use this big notebook and a pencil."
-        },
-        {
-          "text": "Um caderno de papel? Sério?",
-          "trans": "A paper notebook? Really?"
-        },
-        {
-          "text": "Regra número um: tome chá quente primeiro e depois atenda a campainha.",
-          "trans": "Rule number one: drink hot tea first and then answer the bell."
-        }
-      ]
-    },
-    "ver": {
-      "lemma": "ver",
-      "stress": "veʁ",
-      "pos": "verb",
-      "gloss": "to see; to check",
-      "meanings": [
-        {
-          "en": "to see; to check",
-          "note": "Irregular: vejo, vê, vemos, veem; preterite vi, viu, vimos; imperative veja/vejam."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "eu vejo",
-              "nós vemos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "você vê",
-              "vocês veem"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ele/ela vê",
-              "eles/elas veem"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "eu vi",
-                "nós vimos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "você viu",
-                "vocês viram"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "ele/ela viu",
-                "eles/elas viram"
-              ]
-            }
-          ]
-        }
-      ],
-      "related": [
-        {
-          "word": "olhar",
-          "gloss": "to look"
-        },
-        {
-          "word": "vista",
-          "gloss": "view"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
-          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
-        },
-        {
-          "text": "Veja o zíper... sim, as iniciais dela estão bem aqui!",
-          "trans": "Check the zipper... yes, her initials are right here!"
-        },
-        {
-          "text": "Vamos lá, quero ver quem chega primeiro ao terceiro andar!",
-          "trans": "Come on, let's see who reaches the third floor first!"
-        }
-      ]
-    },
-    "vermelho": {
-      "lemma": "vermelho",
-      "stress": "veʁˈmeʎu",
-      "pos": "adj",
-      "gloss": "red",
-      "meanings": [
-        {
-          "en": "red",
-          "note": "Standard word for red."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "vermelho",
-              "vermelha"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "vermelhos",
-              "vermelhas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "azul",
-          "gloss": "blue"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Diga que a minha tem uma fita vermelha no bolso de cima!",
-          "trans": "Say that mine has a red ribbon in the top pocket!"
-        },
-        {
-          "text": "A minha mala! Deixe eu abrir o bolso de cima... sim, a minha fita vermelha!",
-          "trans": "My suitcase! Let me open the top pocket... yes, my red ribbon!"
-        },
-        {
-          "text": "Três garrafas de leite, vinte ovos, manteiga, queijo e maçãs vermelhas!",
-          "trans": "Three bottles of milk, twenty eggs, butter, cheese, and red apples!"
-        }
-      ]
-    },
-    "vir": {
-      "lemma": "vir",
-      "stress": "viʁ",
-      "pos": "verb",
-      "gloss": "to come",
-      "meanings": [
-        {
-          "en": "to come",
-          "note": "Irregular: venho, vem, vimos, vêm; preterite vim, veio, vieram."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "eu venho",
-              "nós vimos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "você vem",
-              "vocês vêm"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ele/ela vem",
-              "eles/elas vêm"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "eu vim",
-                "nós viemos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "você veio",
-                "vocês vieram"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "ele/ela veio",
-                "eles/elas vieram"
-              ]
-            }
-          ]
-        }
-      ],
-      "related": [
-        {
-          "word": "ir",
-          "gloss": "to go"
-        },
-        {
-          "word": "chegar",
-          "gloss": "to arrive"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
-          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
-        },
-        {
-          "text": "O antigo estúdio do sótão... venham comigo, rápido!",
-          "trans": "The old attic study... come with me, fast!"
-        },
-        {
-          "text": "Ouvi, sim! Pareceu vir do cano de água quente ali no banheiro.",
-          "trans": "I did hear it! It seemed to come from the hot-water pipe there in the bathroom."
-        }
-      ]
-    },
     "vocês": {
       "lemma": "vocês",
       "stress": "voˈses",
@@ -8379,71 +7847,91 @@
         }
       ]
     },
-    "óculos": {
-      "lemma": "óculos",
-      "stress": "ˈɔkulus",
-      "pos": "noun",
-      "gloss": "glasses; spectacles",
+    "mas": {
+      "lemma": "mas",
+      "stress": "mas",
+      "pos": "conj",
+      "gloss": "but",
       "meanings": [
         {
-          "en": "glasses; spectacles",
-          "note": "Plural-only masculine noun: os meus óculos ('my glasses')."
+          "en": "but",
+          "note": "Contrasting conjunction (distinct from mais = more)."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "—",
-              "os óculos"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "related": [
         {
-          "word": "ler",
-          "gloss": "to read"
+          "word": "embora",
+          "gloss": "although"
         },
         {
-          "word": "olho",
-          "gloss": "eye"
+          "word": "mais",
+          "gloss": "more"
         }
       ],
-      "gender": "m",
-      "number": "pl",
       "examples": [
         {
           "text": "Eu preciso ler o caderno de reservas, mas cadê os meus óculos?",
           "trans": "I need to read the reservation book, but where are my glasses?"
         },
         {
-          "text": "Por que os meus óculos estariam no... ah! Estão na minha cabeça!",
-          "trans": "Why would my glasses be in the... oh! They are on my head!"
+          "text": "Tranquila e boa, obrigada, mas esta mala parece muito pesada hoje.",
+          "trans": "Calm and good, thank you, though this suitcase feels very heavy today."
         },
         {
-          "text": "Que confusão, minha nossa! Deixe-me ver a etiqueta com os óculos.",
-          "trans": "What a mix-up, goodness me! Let me see the tag with my glasses."
+          "text": "Por fora é igual, sim! Mas olhe aqui dentro!",
+          "trans": "On the outside it is identical, yes! But look in here!"
         }
       ]
     },
-    "ônibus": {
-      "lemma": "ônibus",
-      "stress": "ˈõnibus",
-      "pos": "noun",
-      "gloss": "bus; coach",
+    "eu": {
+      "lemma": "eu",
+      "stress": "ew",
+      "pos": "pron",
+      "gloss": "I",
       "meanings": [
         {
-          "en": "bus; coach",
-          "note": "Invariable in the plural: o ônibus, os ônibus."
+          "en": "I",
+          "note": "First-person singular subject pronoun."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "me",
+          "gloss": "me"
+        },
+        {
+          "word": "meu",
+          "gloss": "my"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ah, abriu! Obrigada. Eu sou a Camila, a nova recepcionista.",
+          "trans": "Oh, it opened! Thank you. I am Camila, the new receptionist."
+        },
+        {
+          "text": "Eu sou o Jorge. Você chegou dez minutos cedo.",
+          "trans": "I am Jorge. You arrived ten minutes early."
+        },
+        {
+          "text": "No primeiro dia eu sempre ando rápido. Onde fica o computador?",
+          "trans": "On the first day I always walk fast. Where is the computer?"
+        }
+      ]
+    },
+    "roupa": {
+      "lemma": "roupa",
+      "stress": "ˈʁowpɐ",
+      "pos": "noun",
+      "gloss": "clothes; clothing",
+      "meanings": [
+        {
+          "en": "clothes; clothing",
+          "note": "Collective singular (a roupa) often translates English plural 'clothes'."
         }
       ],
       "forms": {
@@ -8457,8 +7945,8 @@
           {
             "cells": [
               "form",
-              "o ônibus",
-              "os ônibus"
+              "a roupa",
+              "as roupas"
             ]
           }
         ]
@@ -8466,28 +7954,528 @@
       "moreForms": [],
       "related": [
         {
-          "word": "rodoviária",
-          "gloss": "bus station"
+          "word": "camisa",
+          "gloss": "shirt"
         },
         {
-          "word": "parada",
-          "gloss": "bus stop"
+          "word": "blusa",
+          "gloss": "blouse"
+        }
+      ],
+      "gender": "f",
+      "plural": "roupas",
+      "examples": [
+        {
+          "text": "A culpa não é de vocês. Mas eu só tenho a roupa do corpo!",
+          "trans": "It is not your fault. Still, I only have the clothes on my back!"
+        },
+        {
+          "text": "Eu vou buscar lençóis brancos limpos no armário de roupa de cama!",
+          "trans": "I will fetch clean white sheets from the linen cupboard!"
+        }
+      ]
+    },
+    "corpo": {
+      "lemma": "corpo",
+      "stress": "ˈkoʁpu",
+      "pos": "noun",
+      "gloss": "body",
+      "meanings": [
+        {
+          "en": "body",
+          "note": "A roupa do corpo = 'the clothes on one's back'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "o corpo",
+              "os corpos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "roupa",
+          "gloss": "clothes"
         }
       ],
       "gender": "m",
-      "plural": "ônibus",
+      "plural": "corpos",
       "examples": [
         {
-          "text": "Sim, quarto quatro no segundo andar! Como foi a viagem de ônibus?",
-          "trans": "Yes, room four on the second floor! How was the bus trip?"
+          "text": "A culpa não é de vocês. Mas eu só tenho a roupa do corpo!",
+          "trans": "It is not your fault. Still, I only have the clothes on my back!"
         },
         {
-          "text": "Que estranho! A gente veio no mesmo ônibus da manhã para o mesmo bairro.",
-          "trans": "How strange! We rode the same morning bus to the same neighbourhood."
+          "text": "Um banho morno descansa o corpo depois da viagem.",
+          "trans": "A warm shower relaxes the body after a trip."
+        }
+      ]
+    },
+    "lá": {
+      "lemma": "lá",
+      "stress": "la",
+      "pos": "adv",
+      "gloss": "there; over there",
+      "meanings": [
+        {
+          "en": "there; over there",
+          "note": "Points to a farther place; vamos lá = 'come on / let's go'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "ali",
+          "gloss": "over there"
         },
         {
-          "text": "E ele chega no ônibus das oito da noite, daqui a quarenta minutos!",
-          "trans": "And he arrives on the eight o'clock evening bus, in forty minutes!"
+          "word": "fora",
+          "gloss": "outside"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Não tem ninguém lá. É a campainha do quarto quatro.",
+          "trans": "Nobody is there. It is the buzzer from room four."
+        },
+        {
+          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
+          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+        },
+        {
+          "text": "E a sua xícara lá dentro? Continua inteira?",
+          "trans": "And your teacup inside? Is it still in one piece?"
+        }
+      ]
+    },
+    "café": {
+      "lemma": "café",
+      "stress": "kaˈfɛ",
+      "pos": "noun",
+      "gloss": "coffee; café; breakfast (café da manhã)",
+      "meanings": [
+        {
+          "en": "coffee; café; breakfast (café da manhã)",
+          "note": "Means coffee, a café shop, and in café da manhã, 'breakfast'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "o café",
+              "os cafés"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "chá",
+          "gloss": "tea"
+        },
+        {
+          "word": "manhã",
+          "gloss": "morning"
+        }
+      ],
+      "gender": "m",
+      "plural": "cafés",
+      "examples": [
+        {
+          "text": "Porque café bom e pão quente deixam todo mundo feliz!",
+          "trans": "Because good coffee and warm bread make everyone happy!"
+        },
+        {
+          "text": "Aqui está a sua chave, número quatro. O café da manhã é das sete e meia às dez.",
+          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
+        },
+        {
+          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
+          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+        }
+      ]
+    },
+    "acabar": {
+      "lemma": "acabar",
+      "stress": "akaˈbaʁ",
+      "pos": "verb",
+      "gloss": "to finish; to have just (acabou de)",
+      "meanings": [
+        {
+          "en": "to finish; to have just (acabou de)",
+          "note": "Acabar de + infinitive means 'to have just done something'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "eu acabo",
+              "nós acabamos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "você acaba",
+              "vocês acabam"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ele/ela acaba",
+              "eles/elas acabam"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "eu acabei",
+                "nós acabamos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "você acabou",
+                "vocês acabaram"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "ele/ela acabou",
+                "eles/elas acabaram"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "começar",
+          "gloss": "to start"
+        },
+        {
+          "word": "terminar",
+          "gloss": "to finish"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Olha só, um táxi acabou de parar no portão.",
+          "trans": "Look there, a taxi just stopped at the gate."
+        },
+        {
+          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
+          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+        },
+        {
+          "text": "Notícia ruim. A válvula de latão do aquecedor central acaba de rachar.",
+          "trans": "Bad news. The brass valve on the central water heater just cracked."
+        }
+      ]
+    },
+    "me": {
+      "lemma": "me",
+      "stress": "mi",
+      "pos": "pron",
+      "gloss": "me; to me; myself",
+      "meanings": [
+        {
+          "en": "me; to me; myself",
+          "note": "First-person singular object and reflexive pronoun, usually placed before the verb in Brazil."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "eu",
+          "gloss": "I"
+        },
+        {
+          "word": "mim",
+          "gloss": "me"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ótimo. Pode me contar tudo o que eu preciso saber.",
+          "trans": "Great. You can tell me everything I need to know."
+        },
+        {
+          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
+          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+        },
+        {
+          "text": "Me dê uma sacola e dinheiro! O mercadinho da esquina abre às sete.",
+          "trans": "Give me a bag and cash! The little corner market opens at seven."
+        }
+      ]
+    },
+    "chamar": {
+      "lemma": "chamar",
+      "stress": "ʃaˈmaʁ",
+      "pos": "verb",
+      "gloss": "to call; to summon",
+      "meanings": [
+        {
+          "en": "to call; to summon",
+          "note": "Calling someone over or calling a taxi."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "eu chamo",
+              "nós chamamos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "você chama",
+              "vocês chamam"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ele/ela chama",
+              "eles/elas chamam"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "eu chamei",
+                "nós chamamos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "você chamou",
+                "vocês chamaram"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "ele/ela chamou",
+                "eles/elas chamaram"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "ligar",
+          "gloss": "to phone"
+        },
+        {
+          "word": "nome",
+          "gloss": "name"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
+          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+        },
+        {
+          "text": "E lá vem a chama azul, firme, do jeito que deve ser.",
+          "trans": "And there comes the blue flame, steady, just how it ought to be."
+        },
+        {
+          "text": "Não chame, Dona Helena! Já estou quase com saudade daqueles dois toques.",
+          "trans": "Do not tempt it, Madam Helena! I am already almost missing those two rings."
+        }
+      ]
+    },
+    "ideia": {
+      "lemma": "ideia",
+      "stress": "iˈdɛjɐ",
+      "pos": "noun",
+      "gloss": "idea",
+      "meanings": [
+        {
+          "en": "idea",
+          "note": "Spelled without an acute accent in modern Portuguese."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "a ideia",
+              "as ideias"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "pensar",
+          "gloss": "to think"
+        }
+      ],
+      "gender": "f",
+      "plural": "ideias",
+      "examples": [
+        {
+          "text": "Um minuto só, a Bianca lá no café acabou de me chamar com uma ideia!",
+          "trans": "Just one minute, Bianca over in the café just waved to me with an idea!"
+        },
+        {
+          "text": "Ufa! Uma ideia rápida salvou o café da manhã de novo.",
+          "trans": "Phew! Quick thinking saved breakfast again."
+        }
+      ]
+    },
+    "até": {
+      "lemma": "até",
+      "stress": "aˈtɛ",
+      "pos": "prep",
+      "gloss": "until; up to; even",
+      "meanings": [
+        {
+          "en": "until; up to; even",
+          "note": "Marks a limit in time or space (até sexta, até logo) or 'even' as an adverbial particle."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "desde",
+          "gloss": "since"
+        },
+        {
+          "word": "logo",
+          "gloss": "soon"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Deixe eu ler: 'Desculpe o engano. Por favor, guardem a minha mala azul até sexta-feira.'",
+          "trans": "Let me read: 'Sorry for the mistake. Please keep my blue suitcase until Friday.'"
+        },
+        {
+          "text": "Até sexta-feira? Sem nome e sem assinatura!",
+          "trans": "Until Friday? No name and no signature!"
+        },
+        {
+          "text": "Quem deixa os sapatos e um trenzinho de madeira com estranhos até sexta?",
+          "trans": "Who leaves their shoes and a wooden train with strangers until Friday?"
+        }
+      ]
+    },
+    "logo": {
+      "lemma": "logo",
+      "stress": "ˈlɔɡu",
+      "pos": "adv",
+      "gloss": "soon; right; right away",
+      "meanings": [
+        {
+          "en": "soon; right; right away",
+          "note": "Até logo = see you later; logo ali = right over there."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "related": [
+        {
+          "word": "já",
+          "gloss": "already; soon"
+        },
+        {
+          "word": "até",
+          "gloss": "until"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Logo ali depois do arco. Eu vou levar a mala azul para a senhora.",
+          "trans": "Right there past the arch. I will carry the blue suitcase for you."
+        },
+        {
+          "text": "O dono vai procurar essa mala logo, com certeza.",
+          "trans": "The owner will look for that suitcase soon, for sure."
+        },
+        {
+          "text": "O Tiago não vai embora. Ele sempre fazia cara séria por cinco segundos e logo sorria.",
+          "trans": "Tiago will not walk away. He always made a stern face for five seconds and soon smiled."
         }
       ]
     }

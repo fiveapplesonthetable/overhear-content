@@ -25,7 +25,7 @@ STORY = [
     ('mateo', 'Bien pensado, Clara. Javier lee normas municipales de edificios cada semana.', 'Smart thinking, Clara. Javier reads city building rules every single week.'),
     ('ernesto', '¡Ay, jamás podría molestar a un cliente con nuestros problemas del alquiler!', 'Oh, I could never bother a paying guest with our landlord troubles!'),
     ('clara', '¿Después de vigilar su maleta azul toda la semana? ¡Querrá ayudarnos!', 'After we guarded his blue suitcase all week? He will want to help!'),
-    ('mateo', 'Esperad: ahí vuelve Rocío desde su mesa ahora mismo.', 'Wait—here comes Rocio back from their table right now.'),
+    ('mateo', 'Un momento: Rocío está sacando la tarta a su mesa ahora mismo.', 'Wait—Rocio is taking the cake out to their table right now.'),
 ]
 WALK = [
     (0, None, "'Fifteen years of polishing brass keys and straightening ties... gone in thirty days!' Poor Ernesto already sees his beloved guesthouse vanishing."),
@@ -39,5 +39,5 @@ WALK = [
     (8, None, ["'Smart thinking, Clara. Javier reads city building rules every single week.' Praise a clever idea with two crisp words:", (None, 'Bien pensado'), "literally 'well thought!'."]),
     (9, None, ["'Oh, I could never bother a paying guest with our landlord troubles!' Stronger than everyday 'never',", (None, 'jamás'), "means 'never ever!'."]),
     (10, None, ["'After we guarded his blue suitcase all week? He will want to help!' Irregular future", (None, 'Querrá'), "means 'he will want'."]),
-    (11, None, ["'Wait—here comes Rocio back from their table right now.'", (None, 'ahí vuelve'), "literally 'there returns', announces someone walking back toward you."]),
+    (11, None, ["'Wait—Rocio is taking the cake out to their table right now.' For right now, Spanish simply says", (None, 'ahora mismo'), "meaning 'now same'."]),
 ]
