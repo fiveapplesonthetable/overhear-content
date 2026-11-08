@@ -1,0 +1,113 @@
+# Authoring module for linden-courtyard-de-s01e05-scene-05.
+ID = 'linden-courtyard-de-s01e05-scene-05'
+SHOW = 'linden-courtyard-de'
+SEASON = 1
+EPISODE = 5
+SCENE = 5
+TITLE = 'Simple Words First  (Zuerst einfache Worte)'
+LEVEL = 'A1 — Anfänger'
+PAIR = 'en-de'
+LABELS = {'caleb': 'Caleb', 'hannah': 'Hannah'}
+INTRO = 'Zwanzig Minuten vor zwölf läuft Caleb mit einem zerknitterten Blatt Papier auf dem Hofpflaster auf und ab, als Hannah mit einem Glas kühlem Wasser zu ihm tritt. Hören Sie zuerst die gesamte Szene.'
+OPENER = 'Gehen wir Hannahs klugen Rat gegen Lampenfieber nun Satz für Satz durch.'
+TRANSITION = 'Hören wir uns diese Szene im Innenhof jetzt noch einmal flüssig am Stück an.'
+OUTRO = 'Keine neunzehnteilige Rede — nur Danke fürs Kommen, du hast mir gefehlt, und setz dich zu Tee und Zitronenkuchen! Noch zehn Minuten bis zwölf. Bis gleich!'
+CLOSING = ('caleb', 'Take care!')
+STORY = [('hannah',
+  'Here, drink a sip of cool water, Caleb. What is on that paper?',
+  'Hier, trinken Sie einen Schluck kühles Wasser, Caleb. Was steht auf diesem Zettel?'),
+ ('caleb',
+  'A five minute speech explaining nineteen reasons why we were both wrong in April.',
+  'Eine fünfminütige Rede mit neunzehn Gründen, warum wir im April beide unrecht hatten.'),
+ ('hannah',
+  'Nineteen reasons?! Are you welcoming your brother or reading a train schedule?',
+  'Neunzehn Gründe?! Begrüßen Sie Ihren Bruder oder lesen Sie einen Zugfahrplan vor?'),
+ ('caleb',
+  'When I get nervous, my sentences grow very long and formal!',
+  'Wenn ich nervös werde, werden meine Sätze furchtbar lang und förmlich!'),
+ ('hannah',
+  'Fold that paper and put it in your pocket right now.',
+  'Falten Sie diesen Zettel zusammen und stecken Sie ihn sofort in die Tasche.'),
+ ('caleb',
+  'Without my notes, what do I say when he walks through that gate?',
+  'Was sage ich denn ohne meine Notizen, wenn er durch dieses Tor tritt?'),
+ ('hannah',
+  "Start with three short sentences. First: 'Hello, Owen, thank you for coming.'",
+  'Fangen Sie mit drei kurzen Sätzen an. Erstens: "Hallo, Owen, danke, dass du gekommen bist."'),
+ ('caleb',
+  "'Hello, Owen, thank you for coming.' Okay, I can remember that.",
+  '"Hallo, Owen, danke, dass du gekommen bist." Gut, das kann ich mir merken.'),
+ ('hannah', "Second: 'I missed you these three years.'", 'Zweitens: "Du hast mir diese drei Jahre gefehlt."'),
+ ('caleb',
+  "'I missed you these three years.' Honest and clear. And third?",
+  '"Du hast mir diese drei Jahre gefehlt." Ehrlich und klar. Und drittens?'),
+ ('hannah', "'Sit down, there is hot tea and Friday lemon cake.'", '"Setz dich, es gibt heißen Tee und Freitags-Zitronenkuchen."'),
+ ('caleb',
+  'Tea and lemon cake! Hannah, you should open a school for nervous brothers.',
+  'Tee und Zitronenkuchen! Hannah, Sie sollten eine Schule für nervöse Brüder eröffnen.')]
+WALK = [(0,
+  None,
+  ["'Hier, trinken Sie einen Schluck kühles Wasser, Caleb. Was steht auf diesem Zettel?' Geschriebener Text befindet sich auf Englisch "
+   'räumlich',
+   (None, 'on that paper'),
+   'auf der Blattoberfläche.']),
+ (1,
+  None,
+  ["'Eine fünfminütige Rede mit neunzehn Gründen, warum wir im April beide unrecht hatten.' Vor einem Hauptwort verliert die Zeitangabe in",
+   (None, 'five minute speech'),
+   'wie ein Eigenschaftswort ihre Mehrzahlendung.']),
+ (2,
+  None,
+  ["'Neunzehn Gründe?! Begrüßen Sie Ihren Bruder oder lesen Sie einen Zugfahrplan vor?' Mit feinem Humor entlarvt die Frage",
+   (None, 'Are you welcoming'),
+   'in der Verlaufsform Calebs steife Vorbereitung.']),
+ (3,
+  None,
+  ["'Wenn ich nervös werde, werden meine Sätze furchtbar lang und förmlich!' Zwei Verben für werden wechseln sich elegant ab:",
+   (None, 'get nervous'),
+   'für rasche Stimmung und',
+   (None, 'grow very long'),
+   'für allmähliches Anwachsen.']),
+ (4,
+  None,
+  ["'Falten Sie diesen Zettel zusammen und stecken Sie ihn sofort in die Tasche.' Papier oder Kleidung zusammenlegen drückt die klare "
+   'Aufforderung',
+   (None, 'Fold that paper'),
+   'ohne Zusatzwort aus.']),
+ (5,
+  None,
+  ["'Was sage ich denn ohne meine Notizen, wenn er durch dieses Tor tritt?' Bewegung mitten durch eine Öffnung kennzeichnet",
+   (None, 'when he walks through'),
+   'in der einfachen Gegenwart.']),
+ (6,
+  None,
+  ['\'Fangen Sie mit drei kurzen Sätzen an. Erstens: "Hallo, Owen, danke, dass du gekommen bist."\' Herzlichen Dank beim Empfang fasst',
+   (None, 'thank you for coming'),
+   'kompakt mit der Verlaufsform zusammen.']),
+ (7,
+  None,
+  ['\'"Hallo, Owen, danke, dass du gekommen bist." Gut, das kann ich mir merken.\' Sich etwas im Gedächtnis behalten heißt auf Englisch '
+   'aktiv',
+   (None, 'I can remember that'),
+   'ganz ohne rückbezügliches Fürwort.']),
+ (8,
+  None,
+  ['\'Zweitens: "Du hast mir diese drei Jahre gefehlt."\' Wo im Deutschen die vermisste Person Subjekt ist, geht',
+   (None, 'I missed you'),
+   'direkt vom eigenen Ich aus.']),
+ (9,
+  None,
+  ['\'"Du hast mir diese drei Jahre gefehlt." Ehrlich und klar. Und drittens?\' In einer Aufzählung fragt',
+   (None, 'And third'),
+   'knapp nach dem dritten Punkt.']),
+ (10,
+  None,
+  ['\'"Setz dich, es gibt heißen Tee und Freitags-Zitronenkuchen."\' Eine offene Einladung an den Tisch spricht',
+   (None, 'Sit down'),
+   'warm und unkompliziert aus.']),
+ (11,
+  None,
+  ["'Tee und Zitronenkuchen! Hannah, Sie sollten eine Schule für nervöse Brüder eröffnen.' Freundliche Ratschläge und Komplimente kleidet "
+   'der Alltag gern in',
+   (None, 'you should open'),
+   'mit dem sanften Modalverb.'])]

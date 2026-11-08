@@ -1,0 +1,116 @@
+# Authoring module for linden-courtyard-fr-s01e04-scene-06.
+ID = 'linden-courtyard-fr-s01e04-scene-06'
+SHOW = 'linden-courtyard-fr'
+SEASON = 1
+EPISODE = 4
+SCENE = 6
+TITLE = "The Acoustic Architect  (L'architecte acousticien)"
+LEVEL = 'A1 — débutant'
+PAIR = 'en-fr'
+LABELS = {'caleb': 'Caleb', 'hannah': 'Hannah', 'tessa': 'Tessa'}
+INTRO = "Dehors sous l'ombre du vieux tilleul de la cour, Caleb ouvre son carnet de cuir marron devant Hannah et Tessa pendant que chantent les oiseaux du matin. Découvrons d'abord toute la scène."
+OPENER = 'Examinons à présent chaque phrase de cette révélation en plein air.'
+TRANSITION = "Réécoutons tout ce dialogue paisible d'un seul trait."
+OUTRO = "Caleb est donc architecte acousticien, mais son allusion discrète à deux rues d'ici et au vendredi vient de faire écarquiller les yeux de Hannah et de Tessa! À la prochaine scène!"
+CLOSING = ('tessa', 'See you later!')
+STORY = [('caleb',
+  'Look closely at this page. It measures decibels and quietness, not hotel stars!',
+  "Regardez attentivement cette page. Elle mesure les décibels et le calme, pas les étoiles d'hôtel!"),
+ ('hannah',
+  "Decibels? So 'nine out of ten' was not a review of my front desk?",
+  'Des décibels? Alors "neuf sur dix", ce n\'était pas une évaluation de ma réception?'),
+ ('caleb',
+  'Well, your front desk deserves ten! Honestly, though, I am an acoustic architect.',
+  'Eh bien, votre réception mérite dix! À vrai dire, pourtant, je suis architecte acousticien.'),
+ ('tessa', 'An acoustic architect! Do you design concert halls?', 'Un architecte acousticien! Vous concevez des salles de concert?'),
+ ('caleb',
+  'Small libraries and courtyards, mostly. I measure how old stone walls block street noise.',
+  'De petites bibliothèques et des cours intérieures, surtout. Je mesure comment les vieux murs de pierre arrêtent le bruit de la rue.'),
+ ('hannah',
+  'That is why you listened for cars up in the attic last night!',
+  "C'est pour ça que vous tendiez l'oreille aux voitures là-haut au grenier hier soir!"),
+ ('caleb',
+  'Exactly. Outside on the avenue it is loud, yet inside this courtyard you hear leaves and birds.',
+  "Exactement. Dehors sur l'avenue c'est bruyant, et pourtant dans cette cour on entend les feuilles et les oiseaux."),
+ ('tessa',
+  'Wait until Arthur hears he panicked all night over decibels!',
+  "Attends qu'Arthur apprenne qu'il a paniqué toute la nuit pour des décibels!"),
+ ('caleb',
+  'Truthfully, I also chose this neighborhood for an old family reason.',
+  "En toute franchise, j'ai aussi choisi ce quartier pour une vieille raison familiale."),
+ ('hannah', 'Oh? Did your family live near here once?', "Oh? Votre famille a-t-elle vécu près d'ici autrefois?"),
+ ('caleb',
+  'Two streets away, when I was small. Friday is... an important day for me.',
+  "À deux rues d'ici, quand j'étais petit. Vendredi est... un jour important pour moi."),
+ ('tessa', 'Wait, did he just say Friday?!', 'Attends, il vient bien de dire vendredi?!')]
+WALK = [(0,
+  None,
+  ["'Regardez attentivement cette page. Elle mesure les décibels et le calme, pas les étoiles d'hôtel!' Pour inviter quelqu'un à observer "
+   "un détail de tout près, on associe l'adverbe à l'impératif dans",
+   (None, 'Look closely'),
+   'regardez de près.']),
+ (1,
+  None,
+  ['\'Des décibels? Alors "neuf sur dix", ce n\'était pas une évaluation de ma réception?\' Au prétérit négatif du verbe être,',
+   (None, 'was not a review'),
+   'se construit directement sans auxiliaire supplémentaire.']),
+ (2,
+  None,
+  ["'Eh bien, votre réception mérite dix! À vrai dire, pourtant, je suis architecte acousticien.' Glissé entre virgules au milieu de la "
+   'phrase,',
+   (None, 'though'),
+   'apporte une nuance souple proche de notre "pourtant" ou "cela dit".']),
+ (3,
+  None,
+  ["'Un architecte acousticien! Vous concevez des salles de concert?' Le verbe",
+   (None, 'design'),
+   'veut dire concevoir les plans, ici pour des',
+   (None, 'concert halls'),
+   'salles de concert.']),
+ (4,
+  None,
+  ["'De petites bibliothèques et des cours intérieures, surtout. Je mesure comment les vieux murs de pierre arrêtent le bruit de la rue.' "
+   'Attention au célèbre faux-ami',
+   (None, 'libraries'),
+   'qui désigne des bibliothèques, suivi de',
+   (None, 'mostly'),
+   'principalement.']),
+ (5,
+  None,
+  ["'C'est pour ça que vous tendiez l'oreille aux voitures là-haut au grenier hier soir!' Après",
+   (None, 'That is why'),
+   'notez la différence de préposition dans',
+   (None, 'listened for cars'),
+   "où l'on guette un bruit éventuel."]),
+ (6,
+  None,
+  ["'Exactement. Dehors sur l'avenue c'est bruyant, et pourtant dans cette cour on entend les feuilles et les oiseaux.' Placé en charnière "
+   'entre deux propositions opposées,',
+   (None, 'yet'),
+   'ne veut plus dire "encore", mais "et pourtant".']),
+ (7,
+  None,
+  ["'Attends qu'Arthur apprenne qu'il a paniqué toute la nuit pour des décibels!' Très idiomatique à l'oral, l'ouverture",
+   (None, 'Wait until Arthur hears'),
+   'utilise le présent après la conjonction temporelle.']),
+ (8,
+  None,
+  ["'En toute franchise, j'ai aussi choisi ce quartier pour une vieille raison familiale.' Une seule voyelle change au prétérit irrégulier",
+   (None, 'chose'),
+   "j'ai choisi."]),
+ (9,
+  None,
+  ["'Oh? Votre famille a-t-elle vécu près d'ici autrefois?' Placé en fin de question au passé, l'adverbe",
+   (None, 'once'),
+   'ne compte pas "une seule fois", mais signifie "autrefois, jadis".']),
+ (10,
+  None,
+  ["'À deux rues d'ici, quand j'étais petit. Vendredi est... un jour important pour moi.' Pour évoquer son enfance, l'anglais dit avec "
+   'simplicité',
+   (None, 'when I was small'),
+   "quand j'étais petit."]),
+ (11,
+  None,
+  ["'Attends, il vient bien de dire vendredi?!' Stupéfaite, Tessa vérifie ce qu'elle a entendu grâce à",
+   (None, 'did he just say'),
+   'vient-il vraiment de prononcer ce mot.'])]

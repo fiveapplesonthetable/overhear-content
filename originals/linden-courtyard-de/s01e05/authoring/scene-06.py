@@ -1,0 +1,118 @@
+# Authoring module for linden-courtyard-de-s01e05-scene-06.
+ID = 'linden-courtyard-de-s01e05-scene-06'
+SHOW = 'linden-courtyard-de'
+SEASON = 1
+EPISODE = 5
+SCENE = 6
+TITLE = 'Ten Minutes to Twelve  (Zehn vor zwölf)'
+LEVEL = 'A1 — Anfänger'
+PAIR = 'en-de'
+LABELS = {'arthur': 'Arthur', 'hannah': 'Hannah', 'tessa': 'Tessa'}
+INTRO = 'Drinnen am Empfang rückt Arthur um zehn vor zwölf seine saubere blaue Krawatte zurecht, während Hannah und Tessa auf die Wanduhr schauen — genau als der Briefträger einen dicken weißen Umschlag abgibt. Hören Sie zuerst zu.'
+OPENER = 'Schauen wir uns diese gespannte Ruhe vor dem Glockenschlag nun Zeile für Zeile an.'
+TRANSITION = 'Hören wir uns die gesamte Szene an der Rezeption jetzt noch einmal ohne Pause an.'
+OUTRO = 'Der dicke Brief mit dem roten Amtsstempel bleibt ungeöffnet neben dem Gästebuch liegen, während draußen die Kirchenglocken zwölf schlagen. Gehen wir in der nächsten Szene hinaus ans Tor!'
+CLOSING = ('tessa', 'See you later!')
+STORY = [('arthur',
+  'How does my tie look today, Hannah? Zero orange juice in sight!',
+  'Wie sitzt meine Krawatte heute, Hannah? Weit und breit kein Tropfen Orangensaft!'),
+ ('hannah',
+  'Sharp and spotless, Arthur! Even your glasses are on your nose instead of your forehead.',
+  'Schick und makellos, Arthur! Sogar deine Brille sitzt auf der Nase statt auf der Stirn.'),
+ ('arthur',
+  'Progress! Today our courtyard hosts a family reunion. Quiet dignity from everyone!',
+  'Ein Fortschritt! Heute richtet unser Innenhof ein Familientreffen aus. Stille Würde von allen, bitte!'),
+ ('tessa',
+  'Says the man peeking through the lace curtain every thirty seconds!',
+  'Sagt der Mann, der alle dreißig Sekunden durch die Spitzengardine späht!'),
+ ('arthur',
+  'I am checking the weather, Tessa! Who left this thick envelope by the bell?',
+  'Ich prüfe das Wetter, Tessa! Wer hat diesen dicken Umschlag neben die Klingel gelegt?'),
+ ('hannah',
+  'The mailman just asked me to sign for it. It has a red property office stamp.',
+  'Der Briefträger hat mich gerade dafür unterschreiben lassen. Darauf ist ein roter Stempel vom Liegenschaftsamt.'),
+ ('arthur',
+  "From the building landlord's lawyer? Strange, our rent is paid until next summer.",
+  'Vom Anwalt des Hauseigentümers? Seltsam, unsere Miete ist bis nächsten Sommer bezahlt.'),
+ ('tessa',
+  'Open it after twelve, boss! Look at the clock: five minutes to noon!',
+  'Mach ihn nach zwölf auf, Chef! Schau auf die Uhr: fünf vor zwölf!'),
+ ('arthur',
+  'Right you are. Paperwork can wait. Put it beside the book for now.',
+  'Recht hast du. Papierkram kann warten. Leg ihn vorerst neben das Buch.'),
+ ('hannah',
+  "I placed the blue suitcase right beside Caleb's table under the tree.",
+  'Ich habe den blauen Koffer direkt neben Calebs Tisch unter den Baum gestellt.'),
+ ('tessa',
+  'And the teapot is hot! Everybody step back from the window!',
+  'Und die Teekanne ist heiß! Alle einen Schritt zurück vom Fenster!'),
+ ('arthur',
+  'Listen... the church clock down the street is starting to chime twelve!',
+  'Horcht mal... die Kirchturmuhr die Straße hinunter fängt an, zwölf zu schlagen!')]
+WALK = [(0,
+  None,
+  ["'Wie sitzt meine Krawatte heute, Hannah? Weit und breit kein Tropfen Orangensaft!' Dass weit und breit kein Fleck zu entdecken ist, "
+   'drückt',
+   (None, 'in sight'),
+   'wörtlich als in Sichtweite aus.']),
+ (1,
+  None,
+  ["'Schick und makellos, Arthur! Sogar deine Brille sitzt auf der Nase statt auf der Stirn.' Durch die angehängte Silbe für ohne bedeutet",
+   (None, 'spotless'),
+   'fleckenlos sauber.']),
+ (2,
+  None,
+  ["'Ein Fortschritt! Heute richtet unser Innenhof ein Familientreffen aus. Stille Würde von allen, bitte!' Als Verb gebraucht heißt",
+   (None, 'hosts'),
+   'hier feierlich Gastgeber sein für ein Treffen.']),
+ (3,
+  None,
+  ["'Sagt der Mann, der alle dreißig Sekunden durch die Spitzengardine späht!' Neckische Konter im Gespräch beginnen mit Vorliebe durch "
+   'die umgestellte Formel',
+   (None, 'Says the man'),
+   'am Satzanfang.']),
+ (4,
+  None,
+  ["'Ich prüfe das Wetter, Tessa! Wer hat diesen dicken Umschlag neben die Klingel gelegt?' Da das Fragewort selbst Täter ist, kommt",
+   (None, 'Who left'),
+   'ohne jedes umschreibende Hilfsverb aus.']),
+ (5,
+  None,
+  ["'Der Briefträger hat mich gerade dafür unterschreiben lassen. Darauf ist ein roter Stempel vom Liegenschaftsamt.' Eingeschriebene Post "
+   'quittiert man mit der festen Verbindung',
+   (None, 'sign for it'),
+   'beim Zusteller.']),
+ (6,
+  None,
+  ["'Vom Anwalt des Hauseigentümers? Seltsam, unsere Miete ist bis nächsten Sommer bezahlt.' Bis zu einem künftigen Zeitpunkt reicht die "
+   'Fristangabe',
+   (None, 'until next summer'),
+   'ohne Artikel vor der Jahreszeit.']),
+ (7,
+  None,
+  ["'Mach ihn nach zwölf auf, Chef! Schau auf die Uhr: fünf vor zwölf!' Minuten vor der vollen Stunde verknüpft",
+   (None, 'five minutes to noon'),
+   'über das Richtungswort auf zwölf Uhr zu.']),
+ (8,
+  None,
+  ["'Recht hast du. Papierkram kann warten. Leg ihn vorerst neben das Buch.' Freundliche Zustimmung spendet das umgestellte",
+   (None, 'Right you are'),
+   'und',
+   (None, 'for now'),
+   'heißt für den Augenblick erst einmal.']),
+ (9,
+  None,
+  ["'Ich habe den blauen Koffer direkt neben Calebs Tisch unter den Baum gestellt.' Sorgfältiges Hinstellen drückt das gewählte Verb in",
+   (None, 'I placed'),
+   'etwas bewusster aus als bloßes stellen.']),
+ (10,
+  None,
+  ["'Und die Teekanne ist heiß! Alle einen Schritt zurück vom Fenster!' Einen Schritt nach hinten treten fasst das Verb",
+   (None, 'step back'),
+   'bündig zusammen.']),
+ (11,
+  None,
+  ["'Horcht mal... die Kirchturmuhr die Straße hinunter fängt an, zwölf zu schlagen!' Ein Stück weiter an derselben Straße liegt etwas auf "
+   'Englisch',
+   (None, 'down the street'),
+   'ohne zusätzliches Verb.'])]

@@ -1,0 +1,128 @@
+# Authoring module for linden-courtyard-fr-s01e05-scene-06.
+ID = 'linden-courtyard-fr-s01e05-scene-06'
+SHOW = 'linden-courtyard-fr'
+SEASON = 1
+EPISODE = 5
+SCENE = 6
+TITLE = 'Ten Minutes to Twelve  (Midi moins dix)'
+LEVEL = 'A1 — débutant'
+PAIR = 'en-fr'
+LABELS = {'arthur': 'Arthur', 'hannah': 'Hannah', 'tessa': 'Tessa'}
+INTRO = "À l'intérieur de la réception, à midi moins dix, Arthur redresse sa cravate bleue immaculée pendant que Hannah et Tessa surveillent la pendule, juste quand le facteur dépose un épais pli blanc sur le comptoir. Tendez d'abord l'oreille."
+OPENER = "Passons au crible chaque réplique de ces dernières minutes d'attente."
+TRANSITION = 'Écoutons de nouveau toute la scène au rythme du compte à rebours.'
+OUTRO = 'Cette enveloppe épaisse au tampon rouge reste fermée sur le comptoir tandis que le clocher voisin entame les douze coups de midi! Rejoignons vite la grille dans la scène suivante. À tout de suite!'
+CLOSING = ('tessa', 'See you later!')
+STORY = [('arthur',
+  'How does my tie look today, Hannah? Zero orange juice in sight!',
+  "Comment est ma cravate aujourd'hui, Hannah? Pas la moindre trace de jus d'orange à l'horizon!"),
+ ('hannah',
+  'Sharp and spotless, Arthur! Even your glasses are on your nose instead of your forehead.',
+  'Impeccable et sans une tache, Arthur! Même tes lunettes sont sur ton nez au lieu de ton front.'),
+ ('arthur',
+  'Progress! Today our courtyard hosts a family reunion. Quiet dignity from everyone!',
+  "Quel progrès! Aujourd'hui notre cour accueille des retrouvailles familiales. Dignité discrète pour tout le monde!"),
+ ('tessa',
+  'Says the man peeking through the lace curtain every thirty seconds!',
+  "Dit l'homme qui épie derrière le rideau en dentelle toutes les trente secondes!"),
+ ('arthur',
+  'I am checking the weather, Tessa! Who left this thick envelope by the bell?',
+  'Je vérifie la météo, Tessa! Qui a laissé cette épaisse enveloppe près de la clochette?'),
+ ('hannah',
+  'The mailman just asked me to sign for it. It has a red property office stamp.',
+  "Le facteur vient de me demander de signer le reçu. Elle porte un tampon rouge d'agence foncière."),
+ ('arthur',
+  "From the building landlord's lawyer? Strange, our rent is paid until next summer.",
+  "De l'avocat du propriétaire des murs? Étrange, notre loyer est payé jusqu'à l'été prochain."),
+ ('tessa',
+  'Open it after twelve, boss! Look at the clock: five minutes to noon!',
+  "Ouvre-la après douze heures, patron! Regarde l'horloge: midi moins cinq!"),
+ ('arthur',
+  'Right you are. Paperwork can wait. Put it beside the book for now.',
+  "Tu as bien raison. La paperasse peut attendre. Pose-la à côté du registre pour l'instant."),
+ ('hannah',
+  "I placed the blue suitcase right beside Caleb's table under the tree.",
+  "J'ai placé la valise bleue juste à côté de la table de Caleb sous l'arbre."),
+ ('tessa',
+  'And the teapot is hot! Everybody step back from the window!',
+  'Et la théière est brûlante! Tout le monde recule loin de la fenêtre!'),
+ ('arthur',
+  'Listen... the church clock down the street is starting to chime twelve!',
+  "Écoutez... l'horloge de l'église un peu plus bas dans la rue commence à sonner midi!")]
+WALK = [(0,
+  None,
+  ["'Comment est ma cravate aujourd'hui, Hannah? Pas la moindre trace de jus d'orange à l'horizon!' Clin d'œil à sa mésaventure du mardi, "
+   'la locution',
+   (None, 'in sight'),
+   'veut dire "en vue, visible autour de nous".']),
+ (1,
+  None,
+  ["'Impeccable et sans une tache, Arthur! Même tes lunettes sont sur ton nez au lieu de ton front.' Bâti sur le mot tache suivi du "
+   "suffixe privatif, l'adjectif",
+   (None, 'spotless'),
+   'signifie littéralement "sans la moindre tache".']),
+ (2,
+  None,
+  ["'Quel progrès! Aujourd'hui notre cour accueille des retrouvailles familiales. Dignité discrète pour tout le monde!' Employé comme "
+   'verbe, le mot hôte donne',
+   (None, 'hosts'),
+   'accueille ou reçoit une',
+   (None, 'family reunion'),
+   'réunion de famille.']),
+ (3,
+  None,
+  ["'Dit l'homme qui épie derrière le rideau en dentelle toutes les trente secondes!' Taquine et très vivante à l'oral, l'inversion",
+   (None, 'Says the man'),
+   "épingle quelqu'un pris en flagrant délit de contradiction, occupé à",
+   (None, 'peeking'),
+   "jeter des coups d'œil furtifs."]),
+ (4,
+  None,
+  ["'Je vérifie la météo, Tessa! Qui a laissé cette épaisse enveloppe près de la clochette?' Sans auxiliaire puisque l'interrogatif est "
+   'sujet,',
+   (None, 'Who left'),
+   'demande directement qui a déposé ce courrier.']),
+ (5,
+  None,
+  ["'Le facteur vient de me demander de signer le reçu. Elle porte un tampon rouge d'agence foncière.' Pour un pli remis contre signature, "
+   "l'expression dédiée est",
+   (None, 'sign for it'),
+   "signer l'accusé de réception."]),
+ (6,
+  None,
+  ["'De l'avocat du propriétaire des murs? Étrange, notre loyer est payé jusqu'à l'été prochain.' Le bailleur d'un immeuble s'appelle",
+   (None, 'landlord'),
+   "et l'échéance payée d'avance s'introduit par",
+   (None, 'until next summer'),
+   "jusqu'à l'été prochain."]),
+ (7,
+  None,
+  ["'Ouvre-la après douze heures, patron! Regarde l'horloge: midi moins cinq!' Pour lire les minutes avant l'heure ronde, l'anglais place "
+   'les minutes en tête dans',
+   (None, 'five minutes to noon'),
+   'cinq minutes avant midi.']),
+ (8,
+  None,
+  ["'Tu as bien raison. La paperasse peut attendre. Pose-la à côté du registre pour l'instant.' Chaleureusement approbatrice, l'inversion",
+   (None, 'Right you are'),
+   'veut dire "tu as parfaitement raison", et',
+   (None, 'for now'),
+   'signifie provisoirement.']),
+ (9,
+  None,
+  ["'J'ai placé la valise bleue juste à côté de la table de Caleb sous l'arbre.' Plus soigné que le verbe courant poser,",
+   (None, 'I placed'),
+   "indique qu'elle a disposé la valise avec précaution."]),
+ (10,
+  None,
+  ["'Et la théière est brûlante! Tout le monde recule loin de la fenêtre!' Accompagné de l'adverbe de retrait, l'impératif",
+   (None, 'step back'),
+   'ordonne de faire un pas en arrière.']),
+ (11,
+  None,
+  ["'Écoutez... l'horloge de l'église un peu plus bas dans la rue commence à sonner midi!' Pour situer un bâtiment un peu plus loin dans "
+   "la même rue, l'anglais dit",
+   (None, 'down the street'),
+   'avant',
+   (None, 'chime twelve'),
+   'carillonner les douze coups.'])]

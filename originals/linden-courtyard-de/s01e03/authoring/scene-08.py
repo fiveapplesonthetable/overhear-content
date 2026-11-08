@@ -1,0 +1,106 @@
+# Authoring module for linden-courtyard-de-s01e03-scene-08.
+ID = 'linden-courtyard-de-s01e03-scene-08'
+SHOW = 'linden-courtyard-de'
+SEASON = 1
+EPISODE = 3
+SCENE = 8
+TITLE = 'Ice-Cold Pipes  (Eiskalte Rohre)'
+LEVEL = 'A1 — Anfänger'
+PAIR = 'en-de'
+LABELS = {'graham': 'Graham', 'hannah': 'Hannah', 'arthur': 'Arthur'}
+INTRO = 'Unten am Empfang warten Hannah und Arthur gespannt neben der Kellertür, bis Graham kopfschüttelnd heraufsteigt und sich die Hände an einem Putzlappen abwischt. Hören Sie zuerst die gesamte Szene.'
+OPENER = 'Nehmen wir Grahams Diagnose am Heizkessel nun Satz für Satz unter die Lupe.'
+TRANSITION = 'Hören wir uns das spannende Finale von Folge drei jetzt noch einmal am Stück an.'
+OUTRO = 'Ein vermeintlicher Reiseführer-Prüfer unterm Dach, ein defektes Ventil im Keller und ein Wettlauf um Punkt sieben über die Brücke! Damit endet Folge drei — bis gleich in Folge vier!'
+CLOSING = ('graham', 'See you tomorrow!')
+STORY = [('arthur', 'Tell me it was just a tiny air bubble, Graham! Please!', 'Sag mir, dass es bloß eine winzige Luftblase war, Graham! Bitte!'),
+ ('graham',
+  'Bad news. The brass pressure valve on the old boiler just gave up.',
+  'Schlechte Nachrichten. Das Messing-Druckventil am alten Heizkessel hat gerade den Geist aufgegeben.'),
+ ('hannah',
+  'Does that mean no radiators tonight, or no hot water too?',
+  'Heißt das keine Heizung heute Nacht, oder auch kein warmes Wasser?'),
+ ('graham',
+  'The rooms will stay warm until morning, Hannah, because the brick walls hold heat.',
+  'Die Zimmer bleiben bis zum Morgen warm, Hannah, weil die Ziegelmauern die Wärme speichern.'),
+ ('arthur', 'Thank heavens! And the morning showers?', 'Dem Himmel sei Dank! Und die Morgenduschen?'),
+ ('graham', 'At seven tomorrow morning, the shower water will be ice cold.', 'Morgen früh um sieben wird das Duschwasser eiskalt sein.'),
+ ('arthur',
+  'Ice cold showers?! With the Portland Travel Guide inspector on the third floor?!',
+  'Eiskalte Duschen?! Mit dem Prüfer vom Reiseführer für Portland oben im zweiten Stock?!'),
+ ('hannah', 'Do you have a spare brass valve in your toolbox?', 'Hast du ein Ersatzventil aus Messing in deinem Werkzeugkasten?'),
+ ('graham',
+  'Used my last one in winter. Only the old hardware shop past the bridge sells this size.',
+  'Mein letztes habe ich im Winter verbraucht. Nur der alte Eisenwarenladen hinter der Brücke führt diese Größe.'),
+ ('hannah', 'What time does that hardware shop open?', 'Wann macht dieser Eisenwarenladen auf?'),
+ ('graham', 'Seven sharp, half an hour before breakfast.', 'Punkt sieben, eine halbe Stunde vor dem Frühstück.'),
+ ('hannah',
+  'Set your alarm, Graham. Tomorrow morning we beat the cold showers!',
+  'Stell dir den Wecker, Graham. Morgen früh sind wir schneller als die kalten Duschen!')]
+WALK = [(0,
+  None,
+  ["'Sag mir, dass es bloß eine winzige Luftblase war, Graham! Bitte!' Flehende Bitten eröffnen oft mit",
+   (None, 'Tell me'),
+   'gefolgt vom erhofften Satz ganz ohne einleitendes Bindewort.']),
+ (1,
+  None,
+  ["'Schlechte Nachrichten. Das Messing-Druckventil am alten Heizkessel hat gerade den Geist aufgegeben.' Trotz Einzahl-Sinn ist",
+   (None, 'Bad news'),
+   'formal unzählbar, und',
+   (None, 'gave up'),
+   'vermenschlicht das streikende Bauteil.']),
+ (2,
+  None,
+  ["'Heißt das keine Heizung heute Nacht, oder auch kein warmes Wasser?' Im Sinne von ebenfalls steht das kleine Wort",
+   (None, 'too'),
+   'mit langem Vokal fast immer am Satzende.']),
+ (3,
+  None,
+  ["'Die Zimmer bleiben bis zum Morgen warm, Hannah, weil die Ziegelmauern die Wärme speichern.' Um auszudrücken, dass ein Zustand anhält, "
+   'verknüpft',
+   (None, 'stay warm'),
+   'das Verb bleiben unmittelbar mit dem Eigenschaftswort.']),
+ (4,
+  None,
+  ["'Dem Himmel sei Dank! Und die Morgenduschen?' Große Erleichterung ruft",
+   (None, 'Thank heavens'),
+   'aus, wobei der Himmel in dieser festen Formel in der Mehrzahl steht.']),
+ (5,
+  None,
+  ["'Morgen früh um sieben wird das Duschwasser eiskalt sein.' Genau wie im Deutschen verstärkt das Bild aus Eis in",
+   (None, 'ice cold'),
+   'die Kälte anschaulich.']),
+ (6,
+  None,
+  ["'Eiskalte Duschen?! Mit dem Prüfer vom Reiseführer für Portland oben im zweiten Stock?!' Stockwerke führt man im Englischen stets mit "
+   'der Oberflächen-Präposition wie in',
+   (None, 'on the third floor'),
+   'ein.']),
+ (7,
+  None,
+  ["'Hast du ein Ersatzventil aus Messing in deinem Werkzeugkasten?' Vor einem Gegenstand bezeichnet das nützliche Wort",
+   (None, 'spare'),
+   'alles, was als Reserve vorrätig gehalten wird.']),
+ (8,
+  None,
+  ["'Mein letztes habe ich im Winter verbraucht. Nur der alte Eisenwarenladen hinter der Brücke führt diese Größe.' Werkzeuge kauft man im",
+   (None, 'hardware shop'),
+   'der hier räumlich',
+   (None, 'past the bridge'),
+   'jenseits der Brücke liegt.']),
+ (9,
+  None,
+  ["'Wann macht dieser Eisenwarenladen auf?' Nach genauen Öffnungszeiten fragt der Alltag präzise mit",
+   (None, 'What time does'),
+   'statt des allgemeineren Frageworts für wann.']),
+ (10,
+  None,
+  ["'Punkt sieben, eine halbe Stunde vor dem Frühstück.' Direkt hinter einer Uhrzeit betont",
+   (None, 'Seven sharp'),
+   'unmissverständlich die exakte Minute.']),
+ (11,
+  None,
+  ["'Stell dir den Wecker, Graham. Morgen früh sind wir schneller als die kalten Duschen!' Einen Wecker richtet man im Englischen mit der "
+   'festen Verbindung',
+   (None, 'Set your alarm'),
+   'für den nächsten Morgen ein.'])]
