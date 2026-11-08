@@ -98,7 +98,7 @@ Following strict 3-2-1 cycle priority (`3 RU -> 2 FR -> 1 ES -> 1 IT -> 1 PT -> 
 12. `original-haessal-guesthouse-s01e01` (`ko-en`)
 13. `original-xiaoyuan-kezhan-s01e01` (`zh-en`)
 
-### Cycle 2 (8 / 13 Released, 3 Actively Rendering on A100, 2 Queued Next)
+### Cycle 2 (10 / 13 Released, 3 Actively Rendering on A100)
 14. `original-dvorik-u-mosta-s01e04` (`ru-en`) — Released
 15. `original-dvorik-u-mosta-s01e05` (`ru-en`) — Released
 16. `original-dvorik-u-mosta-s01e06` (`ru-en`) — Released (completes RU Season 1!)
@@ -107,8 +107,8 @@ Following strict 3-2-1 cycle priority (`3 RU -> 2 FR -> 1 ES -> 1 IT -> 1 PT -> 
 19. `original-posada-del-limonero-s01e02` (`es-en`) — Released
 20. `original-locanda-del-tiglio-s01e02` (`it-en`) — Released
 21. `original-pousada-do-cajueiro-s01e02` (`pt-en`) — Released
-- `pension-sonnenhof-s01e02` (`de-en`) — In progress (all 8 scenes rendered, finishing clips/forms)
-- `bayt-al-yasmin-s01e02` (`ar-en`) — In progress (6/8 scenes rendered, finishing scenes 7–8 + clips/forms)
-- `hidamari-ryokan-s01e02` (`ja-en`) — In progress (all 8 scenes rendered, finishing clips/forms)
-- `haessal-guesthouse-s01e02` (`ko-en`) — Queued next in Cycle 2
-- `xiaoyuan-kezhan-s01e02` (`zh-en`) — Queued next in Cycle 2
+22. `original-pension-sonnenhof-s01e02` (`de-en`) — Released (`8 scenes, 6,011 files, 81.2 MB`)
+23. `original-hidamari-ryokan-s01e02` (`ja-en`) — Released (`8 scenes, 3,492 files, 64.2 MB`)
+- `bayt-al-yasmin-s01e02` (`ar-en`) — In progress (all 8 scenes + 223 example clips done, finishing `forms`)
+- `haessal-guesthouse-s01e02` (`ko-en`) — In progress (synthesizing scenes 1–8)
+- `xiaoyuan-kezhan-s01e02` (`zh-en`) — In progress (synthesizing scenes 1–8)
