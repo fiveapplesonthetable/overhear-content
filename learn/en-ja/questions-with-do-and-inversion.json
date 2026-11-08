@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "questions-with-do-and-inversion",
+  "pair": "en-ja",
+  "section": "verbs",
+  "order": 3,
+  "title": {
+    "ja": "英語の質問の作り方：be動詞の入れ替えと助動詞 do"
+  },
+  "summary": {
+    "ja": "文末に「か」を付ける日本語とは逆の発想！先頭で「これから質問します」と合図する2つのパターン。"
+  },
+  "body": {
+    "ja": "シーズン1・エピソード1〜2より。\n\n日本語の疑問文は最後まで語順を変えずに文末へ「〜ですか？」を添えますが、英語は文の「一番最初」で質問だと知らせる言語です。作り方は大きく分けて2通りしかありません。まず、文に *be* 動詞や *can*・*would* などの助動詞があるときは、それを主語の前へ出します：*is the door locked*、*Where is the computer*、*Are they in your coat pocket*。\n\nそれ以外の一般動詞では、文の先頭に助動詞 *do*（三人称単数なら *does*、過去のことなら *did*）を置き、後ろの本動詞は変化のない原形に戻します：*Do we use first names here*、*Where do the small spoons and napkins go*、*Did you pack stones in here*。\n\n否定文を作るときも同じ助動詞に *not* を添えるだけです。イヴリンが *I certainly do not wear size eleven shoes* と言い、グレアムが *a room we do not have* と言うように、どんな動詞でも同じ仕組みで否定できます。"
+  },
+  "related": [
+    "verb-to-be-present",
+    "present-simple-vs-continuous"
+  ],
+  "examples": [
+    {
+      "sceneId": "linden-courtyard-ja-s01e01-scene-01",
+      "seg": 1
+    },
+    {
+      "sceneId": "linden-courtyard-ja-s01e01-scene-02",
+      "seg": 4
+    },
+    {
+      "sceneId": "linden-courtyard-ja-s01e02-scene-04",
+      "seg": 7
+    }
+  ],
+  "tags": [
+    "do",
+    "does",
+    "did",
+    "where",
+    "what",
+    "is"
+  ]
+}
