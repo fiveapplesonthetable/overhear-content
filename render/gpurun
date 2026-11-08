@@ -90,10 +90,11 @@ def gpu_snapshot():
 
 
 def unallocated_pending(by_pid):
-    """MiB not yet reflected in nvidia-smi free_mib (startup weight loads + KV-cache spike cushion)."""
+    """Return (pending_mib, active_heavy_count) not yet reflected in nvidia-smi free_mib."""
     children = proc_children_map()
     now = time.time()
     pending = 0
+    heavy = 0
     for path in entries(SLOTS):
         try:
             with open(path) as f:
@@ -108,28 +109,29 @@ def unallocated_pending(by_pid):
                 pass
             continue
         decl = int(slot["mib"])
+        if decl >= 5000:
+            heavy += 1
         age = now - float(slot.get("t", now - 30.0))
         actual = sum(by_pid.get(p, 0) for p in tree_pids(pid, children))
         cmd_s = slot.get("cmd", "")
         if actual >= 1500:
-            is_qwen = "venv-qwen" in cmd_s and decl >= 7000
-            is_retake = "--attempt 1" in cmd_s or "--attempt 2" in cmd_s or "--attempt 3" in cmd_s or " stage.py retake " in cmd_s
+            is_qwen = "venv-qwen" in cmd_s and decl >= 6000
             if is_qwen:
-                peak = 10500 if is_retake else 12200
-            elif "venv-asr" in cmd_s and decl >= 7000:
-                peak = 6000
+                peak = 9500
+            elif "venv-asr" in cmd_s and decl >= 6000:
+                peak = 6200
             else:
                 peak = max(decl, 3200)
-            pending += max(600, peak - actual)
+            pending += max(400, min(2200, peak - actual))
         elif actual > 0:
             pending += max(2200, min(decl, 6000))
         elif age < 22.0:
             # Process just started and hasn't called model.to('cuda') yet.
-            pending += min(decl, 10500)
+            pending += min(decl, 8500)
         else:
             # Process is doing CPU prep (e.g. RUAccent) before touching GPU.
             pending += min(decl, 3000)
-    return pending
+    return pending, heavy
 
 
 def ahead_of(me):
@@ -179,11 +181,13 @@ def main():
         with open(LEDGER, "a") as ledger:
             fcntl.flock(ledger, fcntl.LOCK_EX)
             free_m, used_m, by_pid = gpu_snapshot()
-            pend = unallocated_pending(by_pid)
+            pend, heavy = unallocated_pending(by_pid)
+            max_heavy = int(os.environ.get("GPURUN_MAX_HEAVY", "4"))
             need = min(mib + MARGIN, BUDGET)
             if (not old_lock_held()
-                    and used_m + pend + ahead_of(me) + min(mib, 13000) <= BUDGET
-                    and free_m - pend >= min(need, 13000 + MARGIN)):
+                    and not (mib >= 5000 and heavy >= max_heavy)
+                    and used_m + pend + ahead_of(me) + min(mib, 9500) <= BUDGET
+                    and free_m - pend >= min(need, 9500 + MARGIN)):
                 with open(slot, "w") as f:
                     json.dump({"pid": me["pid"], "mib": mib, "t": time.time(), "cmd": me["cmd"]}, f)
                 try:
