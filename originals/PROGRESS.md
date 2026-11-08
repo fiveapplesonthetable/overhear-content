@@ -119,7 +119,8 @@ Following strict 3-2-1 cycle priority (`3 RU -> 2 FR -> 1 ES -> 1 IT -> 1 PT -> 
 29. `original-locanda-del-tiglio-s01e03` (`it-en`) — Released
 30. `original-pousada-do-cajueiro-s01e03` (`pt-en`) — Released
 31. `original-posada-del-limonero-s01e03` (`es-en`) — Released
-- `pension-sonnenhof-s01e03` (`de-en`), `bayt-al-yasmin-s01e03` (`ar-en`), `hidamari-ryokan-s01e03` (`ja-en`) — Rendering on A100
+- `bayt-al-yasmin-s01e03` (`ar-en`), `hidamari-ryokan-s01e03` (`ja-en`), **`linden-courtyard-es-s01e01` (`en-es` pilot)** — Rendering on A100
+32. `original-pension-sonnenhof-s01e03` (`de-en`) — Released
 
 ## 7. Hindi (`hi-en`) & English Target-Language Pairs (`en-es`, `en-pt` Pilot & Output-Contract Notes)
 
@@ -129,10 +130,10 @@ Following strict 3-2-1 cycle priority (`3 RU -> 2 FR -> 1 ES -> 1 IT -> 1 PT -> 
   - 48 scenes (`s01e01`–`s01e06`) with 100% explicit `[start, end]` Devanagari spans + 100% reviewed ISO-15919/IAST vowel-length `reading` (`mms-uroman` `hin` verified across all 1,776 dialogue segments / 22,302 tokens).
   - `dictionary/hi-en.json` (**974 lemmas** with 5 Hindi verb tables, noun `Forms` + `gender`, inflecting `-आ` adjective `Forms`, postpositions, and 1,948 non-templated Hindi examples), `word-origins/hi-en.json` (**974/974 = 100%** sourced etymologies), and 10 `learn/hi-en/*.json` notes (`three-levels-of-you`, `postpositions-and-oblique-case`, `gender-and-agreement`, `numbers-prices-and-money`, etc.).
 
-### 7b. English Target-Language Pairs (All 11 `en-<native>` Pairs Active — `en-es`, `en-pt` & `en-hi` Full Season 1 Complete, 8 Remaining Pairs at S1E1–E2 — `spec/NEW-PAIRS.md` §2)
+### 7b. English Target-Language Pairs (All 11 `en-<native>` Pairs Active — `en-es`, `en-pt`, `en-hi`, `en-it` & `en-ru` Full Season 1 Complete, 6 Remaining Pairs at S1E1–E2 — `spec/NEW-PAIRS.md` §2)
 - **Setting & Shared Dialogue:** *Linden Courtyard Inn*, 38 Linden Street, **Portland, Maine** (General American English + US spelling). Spoken dialogue lines across all scenes are 100% byte-identical across all 11 `en-<native>` pairs while all narrator lines, translations, word glosses/grammar tags, dictionary definitions/notes, word-origins, and `learn/` notes are written fresh in `<native>`:
-  - **Full Season 1 (`s01e01`–`s01e06`, 48 scenes, 1,057 lemmas, 10 `learn/` notes each):** `en-es` (`originals/linden-courtyard-es`), `en-pt` (`originals/linden-courtyard-pt`), `en-hi` (`originals/linden-courtyard-hi`).
-  - **S1E1–S1E2 (`s01e01`–`s01e02`, 16 scenes, 580 lemmas, 10 `learn/` notes each; `s01e03`–`s01e06` authoring in progress):** `en-fr` (`originals/linden-courtyard-fr`), `en-de` (`originals/linden-courtyard-de`), `en-it` (`originals/linden-courtyard-it`), `en-ru` (`originals/linden-courtyard-ru`), `en-ar` (`originals/linden-courtyard-ar`), `en-ja` (`originals/linden-courtyard-ja`), `en-ko` (`originals/linden-courtyard-ko`), `en-zh` (`originals/linden-courtyard-zh`).
+  - **Full Season 1 (`s01e01`–`s01e06`, 48 scenes, 1,057 lemmas, 10 `learn/` notes each):** `en-es` (`originals/linden-courtyard-es`, `s01e01` pilot rendering on A100), `en-pt` (`originals/linden-courtyard-pt`), `en-hi` (`originals/linden-courtyard-hi`), `en-it` (`originals/linden-courtyard-it`), `en-ru` (`originals/linden-courtyard-ru`).
+  - **S1E1–S1E2 (`s01e01`–`s01e02`, 16 scenes, 580 lemmas, 10 `learn/` notes each; `s01e03`–`s01e06` authoring in progress):** `en-fr` (`originals/linden-courtyard-fr`), `en-de` (`originals/linden-courtyard-de`), `en-ar` (`originals/linden-courtyard-ar`), `en-ja` (`originals/linden-courtyard-ja`), `en-ko` (`originals/linden-courtyard-ko`), `en-zh` (`originals/linden-courtyard-zh`).
 - **Cast Collision Audit:** `hannah, graham, tessa, arthur, evelyn, caleb, owen` — **0 collisions** across all 21 existing shows in `out/*/cast.json` and `originals/*/cast.json`.
 - **Synthetic Voices (Qwen3-TTS VoiceDesign -> Base, 0 real-person audio):**
   - `en-f1` (`CER=0.0`, median F0 `184 Hz`), `en-f2` (`CER=0.0`, `192 Hz`), `en-f3` (`CER=0.0`, `158 Hz`), `en-m1` (`CER=0.0`, `106 Hz`), `en-m2` (`CER=0.0`, `101 Hz`), `en-m3` (`CER=0.0`, `109 Hz`), `en-m4` (`CER=0.0`, `114 Hz`), `es-narr` (`CER=0.0`, `170 Hz`), `pt-narr` (`CER=0.0`, `196 Hz`).
