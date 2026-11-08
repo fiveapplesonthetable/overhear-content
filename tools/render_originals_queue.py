@@ -83,7 +83,7 @@ def build_order(root: Path):
 
 
 def run_step(cmd, root: Path, out_dir: Path, log: Path, hold_git_lock: bool = False, lang: str = "") -> int:
-    is_ar = lang == "ar"
+    is_ar = (lang == "ar") or ("chatterbox" in " ".join(cmd))
     extra_env = {
         "OVERHEAR_HOME": os.environ.get("OVERHEAR_HOME", str(Path.home() / "overhear")),
         "GPURUN_BUDGET_MIB": os.environ.get("GPURUN_BUDGET_MIB", "35500"),
@@ -171,7 +171,18 @@ def main():
     while True:
         state = load_state()
         lang = ep = st = None
-        for l_, e_, s_ in build_order(root):
+        prio_items = []
+        prio_file = out_dir / "priority.json"
+        if prio_file.exists():
+            try:
+                for item in json.loads(prio_file.read_text()):
+                    ep_slug = item["episode"]
+                    show_slug, ep_code = ep_slug.rsplit("-", 1)
+                    if (root / "originals" / show_slug / ep_code / "scene-01.json").is_file() and (root / item["settings"]).is_file():
+                        prio_items.append((item["lang"], ep_slug, item["settings"]))
+            except Exception:
+                pass
+        for l_, e_, s_ in prio_items + build_order(root):
             if not wanted(l_) or e_ in state["done"] or e_ in state["failed"]:
                 continue
             try:  # Atomic claim so parallel workers never render the same episode.
