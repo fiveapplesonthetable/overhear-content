@@ -94,6 +94,9 @@ cycle. Make each language's voices (`spec/voices.md`) before its first episode i
 When a season's 6 episodes are done, carry on into that show's season 2 in the same cycle. Season 2 has a new 6-line arc
 in the bible, with its own originality review.
 
+**New pairs join this cycle** as [NEW-PAIRS.md](NEW-PAIRS.md) sets out: Hindi first, then English for Spanish and Portuguese
+speakers, then English for the rest. Each one adds an episode to every cycle and replaces none.
+
 Originals now come before all work on the adapted shows in `out/`. That content is private now, so fix it only
 when no Originals episode is waiting.
 
