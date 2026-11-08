@@ -107,6 +107,9 @@ def comparison_cer(record, kind, hyp, fold_vowels=False):
             text = re.sub(r"[\u0640\u064b-\u065f\u0670]", "", text)
             text = re.sub(r"[أإآٱ]", "ا", text)
         if record["lang"] == "hi":
+            text = text.replace("\u093c", "").replace("\u0901", "\u0902")
+            for a, b in (("ये", "ए"), ("यी", "ई"), ("ईए", "इए"), ("न्", "ं"), ("म्", "ं")):
+                text = text.replace(a, b)
             cleaned = "".join(ch if unicodedata.category(ch)[0] in ("L", "M", "N") else " " for ch in text)
             return re.sub(r"\s+", " ", cleaned).strip()
         if record["lang"] in ("ja", "zh"):
