@@ -162,11 +162,15 @@ def main():
         show = ep.rsplit("-s", 1)[0]
         log = args.state_dir / f"{ep}.log"
         lang = lang_for(show)
-        rc = run_step(["python3", "-I", "render/pipeline.py", "--root", "originals", "--episode", ep, "--settings", st,
-                       "--store", str(args.store)], ROOT, args.state_dir, log, lang=lang)
-        if rc == 0:
-            rc = run_step(["python3", "-I", "tools/check_render.py", str(args.store), "--root", "originals", "--episode", ep],
-                          ROOT, args.state_dir, log, lang=lang)
+        for pass_num in (1, 2):
+            extra = ["--retry-failed"] if pass_num > 1 else []
+            rc = run_step(["python3", "-I", "render/pipeline.py", "--root", "originals", "--episode", ep, "--settings", st,
+                           "--store", str(args.store)] + extra, ROOT, args.state_dir, log, lang=lang)
+            if rc == 0:
+                rc = run_step(["python3", "-I", "tools/check_render.py", str(args.store), "--root", "originals", "--episode", ep],
+                              ROOT, args.state_dir, log, lang=lang)
+            if rc == 0:
+                break
         if rc == 0 and not args.no_release:
             rc = run_step(["python3", "-I", "tools/package_render.py", str(args.store), "--root", "originals", "--episode", ep,
                            "--release"], ROOT, args.state_dir, log, hold_git_lock=True, lang=lang)
