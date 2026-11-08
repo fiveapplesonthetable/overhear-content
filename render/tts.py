@@ -249,8 +249,9 @@ class QwenCustomEngine:
 
 
                 wavs_target = []
+                n_cands = 1 if getattr(self, "single_candidate_per_attempt", False) else 3
                 if chunk_target:
-                    ct_bs = max(1, bs // 3)
+                    ct_bs = max(1, bs // n_cands)
                     try:
                         temp = t.get("temperature", 0.7) * 0.95
                         rep = t.get("repetition_penalty", 1.0) * 1.1
@@ -258,7 +259,7 @@ class QwenCustomEngine:
                             ct_slice = chunk_target[j:j + ct_bs]
                             expanded_target = []
                             for c in ct_slice:
-                                for cand_idx in range(3):
+                                for cand_idx in range(n_cands):
                                     expanded_target.append(c)
                             wavs_target.extend(self.generate([(c["voice"], langs[c["lang"]], c["text_tts"]) for c in expanded_target], seed, temperature=temp, repetition_penalty=rep))
                     except torch.cuda.OutOfMemoryError:
@@ -313,7 +314,7 @@ class QwenCustomEngine:
                         
                 # process target
                 for c_idx, c in enumerate(chunk_target):
-                    w_list = wavs_target[c_idx*3 : c_idx*3 + 3]
+                    w_list = wavs_target[c_idx*n_cands : c_idx*n_cands + n_cands]
                     candidates_info = []
                     ref_path = self.voices.ref_path(c["voice"])
                     for w in w_list:
@@ -335,13 +336,15 @@ class QwenCustomEngine:
                                 "repeat": not rep_ok
                             }
                         })
+                    all_cands = c.setdefault("_all_candidates", [])
+                    all_cands.extend(candidates_info)
                         
                     passing = [info for info in candidates_info if info["all_ok"]]
                     if passing:
                         best_info = min(passing, key=lambda x: (x["cer"], -x["sim"]))
                         ok = True
                     else:
-                        best_info = min(candidates_info, key=lambda x: (x["cer"], -x["sim"]))
+                        best_info = min(all_cands, key=lambda x: (x["cer"], -x["sim"]))
                         ok = False
                         
                     w = best_info["wav"]

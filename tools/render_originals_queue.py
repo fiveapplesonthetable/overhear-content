@@ -82,14 +82,16 @@ def build_order(root: Path):
     return q
 
 
-def run_step(cmd, root: Path, out_dir: Path, log: Path, hold_git_lock: bool = False) -> int:
+def run_step(cmd, root: Path, out_dir: Path, log: Path, hold_git_lock: bool = False, lang: str = "") -> int:
+    is_ar = lang == "ar"
     extra_env = {
         "OVERHEAR_HOME": os.environ.get("OVERHEAR_HOME", str(Path.home() / "overhear")),
-        "GPURUN_BUDGET_MIB": os.environ.get("GPURUN_BUDGET_MIB", "33500"),
-        "OVERHEAR_SYNTH_WORKERS": os.environ.get("OVERHEAR_SYNTH_WORKERS", "3"),
-        "OVERHEAR_ALIGN_WORKERS": os.environ.get("OVERHEAR_ALIGN_WORKERS", "3"),
-        "OVERHEAR_SCENES_PER_SYNTH": os.environ.get("OVERHEAR_SCENES_PER_SYNTH", "4"),
-        "OVERHEAR_FORM_WORKERS": os.environ.get("OVERHEAR_FORM_WORKERS", "3"),
+        "GPURUN_BUDGET_MIB": os.environ.get("GPURUN_BUDGET_MIB", "35500"),
+        "GPURUN_MARGIN_MIB": os.environ.get("GPURUN_MARGIN_MIB", "3500"),
+        "OVERHEAR_SYNTH_WORKERS": "2" if is_ar else os.environ.get("OVERHEAR_SYNTH_WORKERS", "4"),
+        "OVERHEAR_ALIGN_WORKERS": "2" if is_ar else os.environ.get("OVERHEAR_ALIGN_WORKERS", "3"),
+        "OVERHEAR_SCENES_PER_SYNTH": "2" if is_ar else os.environ.get("OVERHEAR_SCENES_PER_SYNTH", "4"),
+        "OVERHEAR_FORM_WORKERS": "2" if is_ar else os.environ.get("OVERHEAR_FORM_WORKERS", "3"),
         "OVERHEAR_FORMS_BATCH": os.environ.get("OVERHEAR_FORMS_BATCH", "32"),
         "OVERHEAR_TTS_BATCH": os.environ.get("OVERHEAR_TTS_BATCH", "16"),
     }
@@ -129,6 +131,13 @@ def main():
     skip = {x for x in args.exclude_langs.split(",") if x}
 
     def wanted(lang):
+        env_file = args.state_dir.resolve() / "env.json"
+        if env_file.exists():
+            try:
+                if json.loads(env_file.read_text()).get("ALL_LANGS_321"):
+                    return True
+            except Exception:
+                pass
         return (not only or lang in only) and lang not in skip
 
     root = args.content.resolve()
@@ -183,7 +192,7 @@ def main():
             extra = ["--retry-failed"] if attempt > 1 else []
             rc = run_step(
                 ["python3", "-I", "render/pipeline.py", "--root", "originals", "--episode", ep, "--settings", st, "--store", str(args.store), *extra],
-                root, out_dir, log,
+                root, out_dir, log, lang=lang,
             )
             busy_waits = 0
             while rc == 0 and log.read_text(errors="replace")[-400:].rstrip().endswith("another pipeline run is active; exiting") and busy_waits < 240:
@@ -192,13 +201,13 @@ def main():
                 time.sleep(60)
                 rc = run_step(
                     ["python3", "-I", "render/pipeline.py", "--root", "originals", "--episode", ep, "--settings", st, "--store", str(args.store), *extra],
-                    root, out_dir, log,
+                    root, out_dir, log, lang=lang,
                 )
             if rc == 0:
                 stage = f"check(pass={attempt})"
                 rc = run_step(
                     ["python3", "-I", "tools/check_render.py", str(args.store), "--root", "originals", "--episode", ep],
-                    root, out_dir, log,
+                    root, out_dir, log, lang=lang,
                 )
             if rc == 0:
                 break
@@ -207,7 +216,7 @@ def main():
             stage = "release"
             rc = run_step(
                 ["python3", "-I", "tools/package_render.py", str(args.store), "--root", "originals", "--episode", ep, "--release"],
-                root, out_dir, log, hold_git_lock=True,
+                root, out_dir, log, hold_git_lock=True, lang=lang,
             )
         mins = round((time.time() - t0) / 60, 1)
         if rc == 0:
