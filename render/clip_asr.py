@@ -147,9 +147,12 @@ def main():
                     segs, _ = m.transcribe(audio_arr, language=lang, beam_size=5, condition_on_previous_text=False, vad_filter=False)
                     return " ".join(t.text for t in segs).strip()
                 except RuntimeError as e:
-                    err_s = str(e).lower()
-                    if "out of memory" in err_s and attempt < 2:
-                        time.sleep(2.0 * (attempt + 1))
+                    if attempt < 2:
+                        time.sleep(2.5 * (attempt + 1))
+                        try:
+                            m = WhisperModel("large-v3-turbo", device="cuda", compute_type="float16")
+                        except Exception:
+                            pass
                         continue
                     print(f"clip_asr cuda error ({e}); switching to cpu WhisperModel", file=sys.stderr, flush=True)
                     m = None
