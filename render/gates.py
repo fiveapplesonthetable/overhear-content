@@ -182,11 +182,18 @@ class AudioGates:
                 hyp_text = " ".join(s.text for s in segs).strip()
                 break
             except RuntimeError as e:
+                import gc
+                self.whisper = None
+                gc.collect()
                 torch.cuda.empty_cache()
-                if "out of memory" in str(e).lower() and _w_try < 2:
+                if _w_try < 2:
                     time.sleep(2.0 * (_w_try + 1))
-                    continue
-                self.whisper = WhisperModel("large-v3-turbo", device="cpu", compute_type="int8", local_files_only=True)
+                    try:
+                        self.whisper = WhisperModel("large-v3-turbo", device="cuda", compute_type="float16", local_files_only=True)
+                        continue
+                    except Exception:
+                        pass
+                self.whisper = WhisperModel("large-v3-turbo", device="cpu", compute_type="int8", cpu_threads=12, local_files_only=True)
                 segs, info = self.whisper.transcribe(wav_16k, language=lang, beam_size=1, word_timestamps=False, condition_on_previous_text=False)
                 hyp_text = " ".join(s.text for s in segs).strip()
                 break

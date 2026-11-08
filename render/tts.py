@@ -203,7 +203,7 @@ class QwenCustomEngine:
             out[idx] = np.asarray(w, dtype=np.float32)
         return out
 
-    def synth_many(self, items, store):
+    def synth_many(self, items, store, use_gates=True):
         """items: [dict(key, voice, lang, text_tts, text_plain)] unique by key. Fills store.tts_path(key) for each.
         Returns stats {n, audio_s, wall_s, retries}."""
         torch = self.torch
@@ -219,10 +219,13 @@ class QwenCustomEngine:
         attempt = 0
         t0 = time.time()
         
-        import gates
-        g = gates.get_gates()
         import json
         from plan import plausible
+        if use_gates:
+            import gates
+            g = gates.get_gates()
+        else:
+            g = None
         
         while pending and attempt <= t["sentence_retries"]:
             nxt = []
@@ -254,7 +257,7 @@ class QwenCustomEngine:
 
 
                 wavs_target = []
-                n_cands = 1 if getattr(self, "single_candidate_per_attempt", False) else 3
+                n_cands = 1 if (not use_gates or getattr(self, "single_candidate_per_attempt", False)) else 3
                 if chunk_target:
                     ct_bs = max(1, bs // n_cands)
                     try:
@@ -287,6 +290,19 @@ class QwenCustomEngine:
                 
                 # process en
                 for c, w in zip(chunk_en, wavs_en):
+                    if not use_gates:
+                        ok = plausible(c["text_plain"], len(w) / NATIVE_SR)
+                        if ok or attempt == t["sentence_retries"]:
+                            p = store.tts_path(c["key"])
+                            tmp = p.with_suffix(".tmp.flac")
+                            sf.write(str(tmp), w, NATIVE_SR, format="FLAC", subtype="PCM_16")
+                            tmp.replace(p)
+                            stats["n"] += 1
+                            stats["audio_s"] += len(w) / NATIVE_SR
+                        else:
+                            nxt.append(c)
+                            stats["retries"] += 1
+                        continue
                     ref_path = self.voices.ref_path(c["voice"])
                     sim_ok, sim_val = g.check_similarity(w, NATIVE_SR, ref_path, threshold=0.78)
                     len_ok, len_reason = g.check_length_pause(w, NATIVE_SR, c["text_plain"], c["lang"])
@@ -327,6 +343,20 @@ class QwenCustomEngine:
                 # process target
                 for c_idx, c in enumerate(chunk_target):
                     w_list = wavs_target[c_idx*n_cands : c_idx*n_cands + n_cands]
+                    if not use_gates:
+                        w = w_list[0]
+                        ok = plausible(c["text_plain"], len(w) / NATIVE_SR)
+                        if ok or attempt == t["sentence_retries"]:
+                            p = store.tts_path(c["key"])
+                            tmp = p.with_suffix(".tmp.flac")
+                            sf.write(str(tmp), w, NATIVE_SR, format="FLAC", subtype="PCM_16")
+                            tmp.replace(p)
+                            stats["n"] += 1
+                            stats["audio_s"] += len(w) / NATIVE_SR
+                        else:
+                            nxt.append(c)
+                            stats["retries"] += 1
+                        continue
                     candidates_info = []
                     ref_path = self.voices.ref_path(c["voice"])
                     for w in w_list:

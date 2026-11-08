@@ -161,7 +161,7 @@ def render_items(items, engine, store, settings, attempt, log=print, kind="clips
         for it in items:
             for st in it.sents:
                 uniq.setdefault(st.key, {"key": st.key, "voice": it.voice, "lang": it.lang, "text_tts": st.tts, "text_plain": st.plain})
-        stats = engine.synth_many(list(uniq.values()), store)
+        stats = engine.synth_many(list(uniq.values()), store, use_gates=False)
         log(f"{kind} synth: {stats}")
     else:
         temp = cfg["temperatures"][(attempt - 1) % len(cfg["temperatures"])]
