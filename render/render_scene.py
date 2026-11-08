@@ -60,7 +60,17 @@ def _find_inline_chains(segments):
     return chains
 
 
-def _build_carrier_spec(segments, a, b):
+_CARRIER_PLACEHOLDERS = {
+    "en": ("Name", "name"),
+    "es": ("Nombre", "nombre"),
+    "pt": ("Nome", "nome"),
+    "fr": ("Terme", "terme"),
+    "de": ("Wort", "wort"),
+    "it": ("Voce", "voce"),
+}
+
+
+def _build_carrier_spec(segments, a, b, narr_lang="en"):
     """Build (carrier_text, char_maps, gaps_override) for inline chain segments[a..b]."""
     buf = []
     char_maps = {}
@@ -130,14 +140,15 @@ def _build_carrier_spec(segments, a, b):
                         punct = m.group(1)[0]
                         consumed_leading.add(k + 1)
                         comma_pause = True
-                    elif re.match(r'^\s*[A-Za-z0-9"\']', nxt_t):
+                    elif re.match(r'^\s*[A-Za-z0-9"\']' if narr_lang == "en" else r'^\s*[\w¿¡"\']', nxt_t):
                         punct = ","
             if not punct and t_strip[-1:] in ",;:":
                 punct = ","
                 comma_pause = True
             if k == b and not punct:
                 punct = "."
-            ph = "Name" if (core_tail and core_tail in ".!?…") else "name"
+            ph_cap, ph_low = _CARRIER_PLACEHOLDERS.get(narr_lang, ("Name", "name"))
+            ph = ph_cap if (core_tail and core_tail in ".!?…") else ph_low
             for ch in (ph + punct):
                 buf.append(ch)
             if k < b:
@@ -203,9 +214,9 @@ class Renderer:
         chain_by_seg = {}
         narr_voice = roles["narrator"]
         narr_lang = self.voices.lang_of(narr_voice)
-        if narr_lang == "en":
+        if narr_lang in _CARRIER_PLACEHOLDERS:
             for a, b in _find_inline_chains(segments):
-                c_text, c_maps, g_over = _build_carrier_spec(segments, a, b)
+                c_text, c_maps, g_over = _build_carrier_spec(segments, a, b, narr_lang=narr_lang)
                 if c_text and c_maps:
                     affected = {str(i): takes[str(i)] for i in range(a, b + 1) if str(i) in takes}
                     # A carrier is one cached utterance spanning several authored segments.
@@ -356,11 +367,12 @@ class Renderer:
 
         # Slice continuous narrator carrier waveforms cleanly at MMS_FA acoustic energy valleys around 'phrase' slots
         carrier_aligned = {}
+        narr_lang = voices.lang_of(roles["narrator"])
         for ch_obj in getattr(ctx, "carriers", []):
             if ch_obj.key not in carrier_aligned:
                 c_wav = tts.load_wav(self.store.tts_path(ch_obj.key))[0]
                 c_clip = audio.prepare_sentence(c_wav, sr, s["audio"])
-                c_ct, c_x16 = aligner.char_times(c_clip, sr, ch_obj.text, "en")
+                c_ct, c_x16 = aligner.char_times(c_clip, sr, ch_obj.text, narr_lang)
                 c_env, c_hop = audio_env(c_x16)
                 carrier_aligned[ch_obj.key] = (c_clip, c_ct, c_x16, c_env, c_hop)
             c_clip, c_ct, c_x16, c_env, c_hop = carrier_aligned[ch_obj.key]

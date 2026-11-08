@@ -1280,6 +1280,148 @@
           "note": "synthetic, no show audio"
         }
       ]
+    },
+    "en-f1": {
+      "file": "refs/en-f1.flac",
+      "lang": "en",
+      "gender": "f",
+      "text": "Good morning, and welcome in from the rain. Your room upstairs is clean and quiet, and fresh hot coffee is ready in the corner.",
+      "desc": "VoiceDesign: A calm, clear General American woman in her mid-twenties, warm natural mid-low studio voice, steady conversational pace, crisp diction (neutral reader).",
+      "seconds": 8.15,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 206,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "hannah"
+    },
+    "en-f2": {
+      "file": "refs/en-f2.flac",
+      "lang": "en",
+      "gender": "f",
+      "text": "Hello there, come sit by the window for a minute. I just took a basket of warm cinnamon rolls out of the kitchen oven.",
+      "desc": "VoiceDesign: A friendly, grounded General American woman in her early thirties, warm mezzo timbre, natural everyday delivery.",
+      "seconds": 7.12,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 204,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "tessa"
+    },
+    "en-f3": {
+      "file": "refs/en-f3.flac",
+      "lang": "en",
+      "gender": "f",
+      "text": "Good afternoon, my dear. The morning train ride was very pleasant, and this quiet courtyard reminds me of an old garden.",
+      "desc": "VoiceDesign: A composed, gentle General American woman in her early sixties, rich contralto timbre, calm steady pace.",
+      "seconds": 7.6,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 207,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "evelyn"
+    },
+    "en-m1": {
+      "file": "refs/en-m1.flac",
+      "lang": "en",
+      "gender": "m",
+      "text": "Good morning. Lift the brass handle slightly before you push the front door, and write every room number down in pencil.",
+      "desc": "VoiceDesign: A grounded, warm General American man in his late forties, steady natural baritone voice, unhurried practical delivery.",
+      "seconds": 6.83,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 204,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "graham"
+    },
+    "en-m2": {
+      "file": "refs/en-m2.flac",
+      "lang": "en",
+      "gender": "m",
+      "text": "Excuse me one moment while I find my reading glasses. Every guest arriving this week deserves a spotless room and a warm welcome.",
+      "desc": "VoiceDesign: A polite, articulate General American man in his late fifties, smooth mid-baritone voice, clear studio diction.",
+      "seconds": 6.97,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 203,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "arthur"
+    },
+    "en-m3": {
+      "file": "refs/en-m3.flac",
+      "lang": "en",
+      "gender": "m",
+      "text": "Thank you very much for your help tonight. The third floor study is peaceful, and you can barely hear the rain on the roof.",
+      "desc": "VoiceDesign: A calm, thoughtful General American man in his early thirties, warm light-baritone voice, relaxed clear articulation.",
+      "seconds": 6.77,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 207,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "caleb"
+    },
+    "en-m4": {
+      "file": "refs/en-m4.flac",
+      "lang": "en",
+      "gender": "m",
+      "text": "Good evening. It has been three long years since I walked down this street, and I am glad the courtyard gate is still open.",
+      "desc": "VoiceDesign: A warm, sincere General American man in his late thirties, resonant baritone voice, steady natural pace.",
+      "seconds": 6.75,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 202,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "owen"
+    },
+    "es-narr": {
+      "file": "refs/es-narr.flac",
+      "lang": "es",
+      "gender": "f",
+      "text": "Primero vamos a escuchar toda la escena en inglés con calma, sin preocuparnos por entender cada palabra desde el principio.",
+      "desc": "VoiceDesign: Calm, warm Spanish female narrator in her mid-thirties, grounded contralto studio storyteller voice, reassuring even delivery.",
+      "seconds": 7.12,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 208,
+          "note": "synthetic, no show audio"
+        }
+      ]
+    },
+    "pt-narr": {
+      "file": "refs/pt-narr.flac",
+      "lang": "pt",
+      "gender": "f",
+      "text": "Primeiro vamos ouvir toda a cena em inglês com tranquilidade, sem nos preocuparmos em entender cada palavra agora.",
+      "desc": "VoiceDesign: Calm, warm Brazilian Portuguese female narrator in her mid-thirties, grounded contralto studio storyteller voice, gentle reassuring delivery.",
+      "seconds": 6.06,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 201,
+          "note": "synthetic, no show audio"
+        }
+      ]
     }
   }
 }

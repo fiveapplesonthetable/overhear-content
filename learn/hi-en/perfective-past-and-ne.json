@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "perfective-past-and-ne",
+  "pair": "hi-en",
+  "section": "verbs",
+  "order": 8,
+  "title": {
+    "en": "Completed past actions and the ने (ergative) rule"
+  },
+  "summary": {
+    "en": "In completed past tenses, intransitive verbs agree with the subject—while transitive verbs mark the doer with ने and agree with the object instead."
+  },
+  "body": {
+    "en": "From *आँगन हवेली*, season 1.\n\nWhen an action is finished and complete, Hindi uses the **perfective participle** (`-आ / -ए / -ई / -ईं`, plus five classic irregulars worth knowing by heart: *किया* from *करना* 'to do', *दिया* from *देना* 'to give', *लिया* from *लेना* 'to take', *गया* from *जाना* 'to go', and *हुआ* from *होना* 'to become/happen').\n\nHow the verb agrees depends on one golden split:\n\n1. **Intransitive verbs (and motion/speech exceptions) NEVER take *ने*—the verb agrees with the subject:**\n   - *दरवाज़ा खुल गया!* (`darvāzā khul gayā!`, 'the door opened!' — agrees with m.sg *दरवाज़ा*).\n   - *तुम दस मिनट जल्दी आ गईं* (`tum das minaṭ jaldī ā gaīn`, 'you arrived ten minutes early' — agrees respectfully with Kavya).\n   - Memorise four everyday transitive-looking verbs that behave like motion/intransitive verbs and **never** take *ने*: *लाना* ('to bring' — *काव्या नमकीन मक्खन ले आई*), *बोलना* ('to speak'), *भूलना* ('to forget'), and *समझना* ('to understand' — *मैं समझ गया* 'I get it').\n\n2. **Transitive verbs mark the doer with *ने* (`ne`), and the verb agrees with the direct object!**\n   - *आपने घंटी बजाई!* (`āpne ghanṭī bajāī!`, 'you rang the bell!') — *बजाई* is feminine singular to match *घंटी* ('bell', f.), no matter whether a man or a woman rang it!\n   - *क्या ये हरी पत्तियाँ आपने ख़ुद उगाई हैं?* ('did you grow these green leaves yourself?') — *उगाई हैं* agrees with feminine plural *पत्तियाँ*.\n   - *मैंने कल फ़ोन पर कमरा सात बुक किया था* ('I booked room seven by phone yesterday') — *किया था* agrees with masculine singular *कमरा*."
+  },
+  "related": [
+    "postpositions-and-oblique-case",
+    "progressive-vs-habitual"
+  ],
+  "examples": [
+    {
+      "sceneId": "aangan-haveli-s01e01-scene-05",
+      "seg": 1
+    },
+    {
+      "sceneId": "aangan-haveli-s01e02-scene-04",
+      "seg": 4
+    },
+    {
+      "sceneId": "aangan-haveli-s01e02-scene-08",
+      "seg": 6
+    },
+    {
+      "sceneId": "aangan-haveli-s01e03-scene-04",
+      "seg": 4
+    }
+  ],
+  "tags": [
+    "ने",
+    "आपने",
+    "मैंने",
+    "उन्होंने",
+    "किया",
+    "बजाई",
+    "लिया",
+    "गया"
+  ]
+}

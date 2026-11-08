@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "postpositions-and-oblique-case",
+  "pair": "hi-en",
+  "section": "cases",
+  "order": 2,
+  "title": {
+    "en": "Postpositions and the oblique case"
+  },
+  "summary": {
+    "en": "Words like में ('in'), पर ('on'), and से ('from/with') come AFTER the noun—and pull masculine -आ nouns and plurals into the oblique case."
+  },
+  "body": {
+    "en": "From *आँगन हवेली*, season 1.\n\nWhere English puts prepositions before a noun ('in the drawer', 'on the step', 'from the kitchen'), Hindi puts **postpositions** right after it: *दराज़ में* (`darāz men`, 'in the drawer'), *सीढ़ी पर* (`sīṛhī par`, 'on the step'), *रसोई से* (`rasoī se`, 'from the kitchen').\n\nWhenever a postposition follows a noun phrase, that phrase steps into the **oblique case**. Most singular nouns look unchanged in the oblique singular (*रसोई* stays *रसोई से*, *मेज़* stays *मेज़ पर*), so you only have two high-frequency changes to watch for:\n\n- **Masculine `-आ` (`-ā`) singular nouns flip `-आ` to `-ए` (`-e`):** *कमरा* (`kamrā`, 'room') becomes *कमरे में* (`kamre men`, 'in the room'), and *गल्ला* ('cash box') becomes *गल्ले से* (`galle se`, 'from the cash box'). Any `-आ` adjective in front flips to `-ए` right along with it: *नीला सूटकेस* ('blue suitcase') -> *गहरे नीले सूटकेस के बारे में* ('about the dark-blue suitcase').\n- **Every plural noun—masculine or feminine—takes `-ओं` (`-on`) before a postposition:** *कमरे* ('rooms') -> *कमरों की सूची* (`kamron kī sūchī`, 'the list of rooms'), *मेहमान* ('guests') -> *मेहमानों के लिए* (`mehmānon ke liye`, 'for the guests'), and *सीढ़ियाँ* ('stairs') -> *सीढ़ियों से* (`sīṛhiyon se`, 'down/up the stairs').\n\nCompound postpositions link onto the noun with *के* (`ke`): *के लिए* ('for'), *के पास* ('near / with'), *के साथ* ('along with'), *के बाद* ('after'), *के बिना* ('without'), and *के ऊपर* ('above')."
+  },
+  "related": [
+    "gender-and-agreement",
+    "ka-ke-ki-and-ke-paas"
+  ],
+  "examples": [
+    {
+      "sceneId": "aangan-haveli-s01e01-scene-01",
+      "seg": 6
+    },
+    {
+      "sceneId": "aangan-haveli-s01e01-scene-01",
+      "seg": 8
+    },
+    {
+      "sceneId": "aangan-haveli-s01e02-scene-02",
+      "seg": 5
+    },
+    {
+      "sceneId": "aangan-haveli-s01e02-scene-06",
+      "seg": 3
+    }
+  ],
+  "tags": [
+    "में",
+    "पर",
+    "से",
+    "को",
+    "लिए",
+    "कमरों",
+    "मेहमानों",
+    "सीढ़ियों"
+  ]
+}

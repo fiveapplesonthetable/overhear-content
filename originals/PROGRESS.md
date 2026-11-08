@@ -116,6 +116,31 @@ Following strict 3-2-1 cycle priority (`3 RU -> 2 FR -> 1 ES -> 1 IT -> 1 PT -> 
 ### Cycle 3 (In Progress on A100)
 27. `original-hotel-du-tilleul-s01e05` (`fr-en`) — Released (`8 scenes, 6,929 files, 90.4 MB`)
 28. `original-hotel-du-tilleul-s01e06` (`fr-en`) — Released (`8 scenes, 6,851 files, 91.8 MB` — completes FR Season 1!)
-- `posada-del-limonero-s01e03` (`es-en`) — In progress
-- `locanda-del-tiglio-s01e03` (`it-en`) — In progress
-- `pousada-do-cajueiro-s01e03` (`pt-en`) — In progress
+29. `original-locanda-del-tiglio-s01e03` (`it-en`) — Released
+30. `original-pousada-do-cajueiro-s01e03` (`pt-en`) — Released
+31. `original-posada-del-limonero-s01e03` (`es-en`) — Released
+- `pension-sonnenhof-s01e03` (`de-en`), `bayt-al-yasmin-s01e03` (`ar-en`), `hidamari-ryokan-s01e03` (`ja-en`) — Rendering on A100
+
+## 7. Hindi (`hi-en`) & English Target-Language Pairs (`en-es`, `en-pt` Pilot & Output-Contract Notes)
+
+### 7a. Hindi Originals (`aangan-haveli`, `hi-en` — `spec/NEW-PAIRS.md` §1b)
+- **Setting & Cast:** *आँगन हवेली* (*Aangan Haveli*), **Jaipur, Rajasthan** — natural everyday spoken Hindi (`बोलचाल की हिंदी`) in NFC Devanagari (`0` digits). Invented cast `kavya, pratap, diya, mohan, sudha, kabir, dev` — **0 collisions** across all 21 shows / 502 characters in `out/` and `originals/`.
+- **Authoring & Learning Layer (`s01e01`–`s01e03` complete, `s01e04`–`s01e06` in progress):**
+  - 24 scenes (`s01e01`–`s01e03`) with 100% explicit `[start, end]` Devanagari spans + 100% reviewed ISO-15919/IAST vowel-length `reading` (`mms-uroman` `hin` verified across all 888 segments / 10,266 tokens).
+  - `dictionary/hi-en.json` (**678 lemmas** with 5 Hindi verb tables, noun `Forms` + `gender`, inflecting `-आ` adjective `Forms`, postpositions, and 1,356 non-templated Hindi examples), `word-origins/hi-en.json` (**678/678 = 100%** sourced etymologies), and 10 `learn/hi-en/*.json` notes (`three-levels-of-you`, `postpositions-and-oblique-case`, `gender-and-agreement`, `numbers-prices-and-money`, etc.).
+
+### 7b. English Target-Language Pairs (`en-es` & `en-pt` — `spec/NEW-PAIRS.md` §2)
+- **Setting & Shared Dialogue:** *Linden Courtyard Inn*, 38 Linden Street, **Portland, Maine** (General American English + US spelling). Spoken dialogue lines across all scenes are 100% byte-identical across `en-es` (`originals/linden-courtyard-es`) and `en-pt` (`originals/linden-courtyard-pt`), while all narrator lines, translations, word glosses/grammar tags, dictionary definitions/notes, word-origins, and `learn/` notes are written fresh in Spanish (`es`) and Brazilian Portuguese (`pt`).
+- **Cast Collision Audit:** `hannah, graham, tessa, arthur, evelyn, caleb, owen` — **0 collisions** across all 21 existing shows in `out/*/cast.json` and `originals/*/cast.json`.
+- **Synthetic Voices (Qwen3-TTS VoiceDesign -> Base, 0 real-person audio):**
+  - `en-f1` (`CER=0.0`, median F0 `184 Hz`), `en-f2` (`CER=0.0`, `192 Hz`), `en-f3` (`CER=0.0`, `158 Hz`), `en-m1` (`CER=0.0`, `106 Hz`), `en-m2` (`CER=0.0`, `101 Hz`), `en-m3` (`CER=0.0`, `109 Hz`), `en-m4` (`CER=0.0`, `114 Hz`), `es-narr` (`CER=0.0`, `170 Hz`), `pt-narr` (`CER=0.0`, `196 Hz`).
+- **Pronunciation & Word Tables:** 100% General American bare IPA in `stress` (`ˈmɔɹnɪŋ`, `ˈkɔfi`, `ɝb`, `θɹi`, `ðə`); 5-row English verb tables (`base / 3rd sg / past / past participle / -ing`), 2-row irregular plural noun tables, and 3-row irregular comparative adjective tables.
+
+### 7c. Output-Contract Audit for Non-English Native Languages (`spec/OUTPUT-CONTRACT.md` -> App / Publisher Owner Notes)
+All existing `-en` outputs remain 100% byte-identical. For `en-<native>` pairs (`en-es` pilot first), the app and publisher (`publish/rulisten_pub/`) should note the following contract conventions where English was previously assumed to be the sole native language:
+1. **`show.json` (`title`, `summary`, `seasons[].title`):** Keyed by `{"<target>": ..., "<native>": ...}` (e.g. `{"en": "Linden Courtyard Inn", "es": "Posada del Patio del Tilo"}`). Both `"en"` and `"<native>"` are present on `en-<native>` shows, with `"en"` representing the target title/summary and `"<native>"` representing the learner's UI language.
+2. **`cast.json` (`cast[].ru` and `cast[].en`):** Retains legacy field names `"ru"` (target-language display name, e.g. `"Hannah"`) and `"en"` (list of allowed narrator name tokens in `<native>`, e.g. `["Hannah"]`) for schema compatibility.
+3. **`scene-NN.notes.json` & `dictionary/<pair>.json` (`meanings[].en`):** Retains literal property key `"en"` inside `lexicon.<lemma>.meanings[]` for schema/UI compatibility, while storing the `<native>` definition string (`es` in `en-es`, `pt` in `en-pt`, etc.). Likewise `lines[].trans`, `words[].gloss`, `words[].gram`, `meanings[].note`, and `examples[].trans` hold `<native>` text.
+4. **`spans.json` & Published `transcript.lines[].lang`:** Narrator segments (`v == "narrator"`) now carry `"lang": "<native>"` (`"es"`, `"pt"`, `"hi"`, etc.) rather than `"en"`, while studied dialogue segments carry `"lang": "en"`. Any app/publisher filter that previously checked `line.lang != "en"` to mean "studied target line" MUST instead check `line.lang == pair.target` (or `v != "narrator"`).
+5. **`learn/<pair>/*.json` & `word-origins/<pair>.json`:** `learn` articles store localized maps `{"<native>": "..."}` (`{"es": "..."}`, `{"pt": "..."}`), and `word-origins` stores `etymology` and `notes` in `<native>`.
+6. **Future CJK Native Narrators (`en-ja`, `en-zh`):** In `spec/OUTPUT-CONTRACT.md` §2, narrator segments in `timing.json` tokenize by whitespace rather than `native_text` spans. On unspaced Japanese/Chinese narrator text, whitespace tokenization produces clause-level tokens rather than word-level tokens unless the app highlights narrator segments at sentence level (`spans.json`) or segments CJK narrator strings.

@@ -265,7 +265,7 @@ def prepare_segment(seg_i: int, role: str, text: str, lang: str, words, policy: 
     out = []
     if lang != "ru" or policy == "none":
         for k, (a, b, s) in enumerate(sents):
-            s_tts = sanitize_english_narrator_tts(s) if lang == "en" else s
+            s_tts = sanitize_english_narrator_tts(s) if (lang == "en" and role == "narrator") else s
             out.append(Sentence(seg_i, k, role, lang, s, s_tts, a, gap=(gap if k == len(sents) - 1 else isent)))
         return out
     inserts, expected, missing = segment_inserts(text, words, policy, hom)
