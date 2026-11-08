@@ -117,14 +117,17 @@ def unallocated_pending(by_pid):
         if actual >= 1500:
             is_qwen = "venv-qwen" in cmd_s and decl >= 6000
             if is_qwen:
-                peak = 9500
+                peak = 8500
             elif "venv-asr" in cmd_s and decl >= 6000:
                 peak = 6200
             else:
                 peak = max(decl, 3200)
-            pending += max(400, min(2200, peak - actual))
+            pending += max(300, min(1400, peak - actual))
         elif actual > 0:
-            pending += max(2200, min(decl, 6000))
+            if age > 25.0:
+                pending += 200
+            else:
+                pending += max(1500, min(decl, 5000))
         elif age < 22.0:
             # Process just started and hasn't called model.to('cuda') yet.
             pending += min(decl, 8500)
@@ -186,8 +189,8 @@ def main():
             need = min(mib + MARGIN, BUDGET)
             if (not old_lock_held()
                     and not (mib >= 5000 and heavy >= max_heavy)
-                    and used_m + pend + ahead_of(me) + min(mib, 9500) <= BUDGET
-                    and free_m - pend >= min(need, 9500 + MARGIN)):
+                    and used_m + pend + ahead_of(me) + min(mib, 8200) <= BUDGET
+                    and free_m - pend >= min(need, 8200 + MARGIN)):
                 with open(slot, "w") as f:
                     json.dump({"pid": me["pid"], "mib": mib, "t": time.time(), "cmd": me["cmd"]}, f)
                 try:
