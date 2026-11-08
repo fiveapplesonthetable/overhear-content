@@ -1285,112 +1285,70 @@
       "file": "refs/en-f1.flac",
       "lang": "en",
       "gender": "f",
-      "text": "Good morning, and welcome in from the rain. Your room upstairs is clean and quiet, and fresh hot coffee is ready in the corner.",
-      "desc": "VoiceDesign: A calm, clear General American woman in her mid-twenties, warm natural mid-low studio voice, steady conversational pace, crisp diction (neutral reader).",
-      "seconds": 8.15,
-      "source": [
-        {
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 206,
-          "note": "synthetic, no show audio"
-        }
-      ],
+      "text": "When you watch the second episode, listen for the chef asking where his knife is, and for the one word he shouts when he’s in a hurry.",
+      "desc": "British English female — Sky reference voice, warm, relaxed Southern British accent, clear mezzo-soprano, natural conversational delivery.",
+      "seconds": 8.04,
+      "source": "sky.flac (trimmed 7.88s + 0.16s silence)",
       "designedFor": "hannah"
     },
     "en-f2": {
       "file": "refs/en-f2.flac",
       "lang": "en",
       "gender": "f",
-      "text": "Hello there, come sit by the window for a minute. I just took a basket of warm cinnamon rolls out of the kitchen oven.",
-      "desc": "VoiceDesign: A friendly, grounded General American woman in her early thirties, warm mezzo timbre, natural everyday delivery.",
-      "seconds": 7.12,
-      "source": [
-        {
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 204,
-          "note": "synthetic, no show audio"
-        }
-      ],
+      "text": "Good morning, come and sit by the garden window for a moment. I have just poured a fresh pot of hot tea and set out the jam.",
+      "desc": "British English female — 32yo Southern British Received Pronunciation accent, warm friendly mezzo, natural conversational studio delivery.",
+      "seconds": 7.21,
+      "source": "VoxCPM2 VoiceDesign (en-GB RP, seed 101)",
       "designedFor": "tessa"
     },
     "en-f3": {
       "file": "refs/en-f3.flac",
       "lang": "en",
       "gender": "f",
-      "text": "Good afternoon, my dear. The morning train ride was very pleasant, and this quiet courtyard reminds me of an old garden.",
-      "desc": "VoiceDesign: A composed, gentle General American woman in her early sixties, rich contralto timbre, calm steady pace.",
-      "seconds": 7.6,
-      "source": [
-        {
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 207,
-          "note": "synthetic, no show audio"
-        }
-      ],
+      "text": "Good afternoon, my dear. The morning train journey from London was rather pleasant, and this quiet courtyard reminds me of our old garden.",
+      "desc": "British English female — 62yo Oxford Received Pronunciation accent, warm contralto, composed and unhurried studio delivery.",
+      "seconds": 8.42,
+      "source": "VoxCPM2 VoiceDesign (en-GB RP, seed 503)",
       "designedFor": "evelyn"
     },
     "en-m1": {
       "file": "refs/en-m1.flac",
       "lang": "en",
       "gender": "m",
-      "text": "Good morning. Lift the brass handle slightly before you push the front door, and write every room number down in pencil.",
-      "desc": "VoiceDesign: A grounded, warm General American man in his late forties, steady natural baritone voice, unhurried practical delivery.",
-      "seconds": 6.83,
-      "source": [
-        {
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 204,
-          "note": "synthetic, no show audio"
-        }
-      ],
+      "text": "Good morning. Lift the brass handle slightly before you push the front door, and ask if the courtyard path is clear.",
+      "desc": "British English male — 42yo Oxford Southern British accent, friendly conversational mid-baritone, clear studio articulation.",
+      "seconds": 6.12,
+      "source": "VoxCPM2 VoiceDesign (en-GB RP, seed 203)",
       "designedFor": "graham"
     },
     "en-m2": {
       "file": "refs/en-m2.flac",
       "lang": "en",
       "gender": "m",
-      "text": "Excuse me one moment while I find my reading glasses. Every guest arriving this week deserves a spotless room and a warm welcome.",
-      "desc": "VoiceDesign: A polite, articulate General American man in his late fifties, smooth mid-baritone voice, clear studio diction.",
-      "seconds": 6.97,
-      "source": [
-        {
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 203,
-          "note": "synthetic, no show audio"
-        }
-      ],
+      "text": "One moment while I fetch my reading glasses. Every guest arriving this afternoon deserves a spotless room and a proper welcome.",
+      "desc": "British English male — 56yo London Received Pronunciation accent, crisp polite mid-baritone, warm conversational pace.",
+      "seconds": 7.41,
+      "source": "VoxCPM2 VoiceDesign (en-GB RP, seed 503 trimmed)",
       "designedFor": "arthur"
     },
     "en-m3": {
       "file": "refs/en-m3.flac",
       "lang": "en",
       "gender": "m",
-      "text": "Thank you very much for your help tonight. The third floor study is peaceful, and you can barely hear the rain on the roof.",
-      "desc": "VoiceDesign: A calm, thoughtful General American man in his early thirties, warm light-baritone voice, relaxed clear articulation.",
-      "seconds": 6.77,
-      "source": [
-        {
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 207,
-          "note": "synthetic, no show audio"
-        }
-      ],
+      "text": "Thank you very much for your help this evening. The upstairs study is peaceful, and one can hardly hear the rain on the roof.",
+      "desc": "British English male — 32yo Cambridge Southern British accent, calm thoughtful light-baritone, relaxed studio articulation.",
+      "seconds": 7.86,
+      "source": "VoxCPM2 VoiceDesign (en-GB RP, seed 101)",
       "designedFor": "caleb"
     },
     "en-m4": {
       "file": "refs/en-m4.flac",
       "lang": "en",
       "gender": "m",
-      "text": "Good evening. It has been three long years since I walked down this street, and I am glad the courtyard gate is still open.",
-      "desc": "VoiceDesign: A warm, sincere General American man in his late thirties, resonant baritone voice, steady natural pace.",
-      "seconds": 6.75,
-      "source": [
-        {
-          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "seed": 202,
-          "note": "synthetic, no show audio"
-        }
-      ],
+      "text": "Good evening. It has been three long years since I walked past the castle garden, and I am glad the courtyard gate is still open.",
+      "desc": "British English male — 36yo London Southern British accent, calm gentle baritone, steady natural pace.",
+      "seconds": 8.2,
+      "source": "VoxCPM2 VoiceDesign (en-GB RP, seed 101)",
       "designedFor": "owen"
     },
     "es-narr": {
