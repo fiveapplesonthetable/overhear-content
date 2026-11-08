@@ -12,6 +12,8 @@ This file says what to write. The scene recipe, the formats, the checkers and th
 `spec/recipe.md`, `spec/quality.md`, `spec/OUTPUT-CONTRACT.md` and the README loop all still apply, except where this file
 says otherwise.
 
+Before each writing cycle, review and fix approved listener feedback as [feedback.md](feedback.md) describes.
+
 ## 1. Where Originals live, and how it ships
 
 Original shows live in their own folder and ship through their own release tags. The publishing machine runs a separate

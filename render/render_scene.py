@@ -188,6 +188,8 @@ class Renderer:
     def prepare(self, scene):
         if any("sourceAudio" in seg for seg in scene.script["segments"]):
             raise ValueError("original show sourceAudio is private verification only; public render requires validated native synthesis")
+        import retakes
+        takes = retakes.for_scene(scene)
         roles = check_voices(scene, self.voices)
         rkey = render_key(scene, self.voices, self.s, roles)
         notes_by_seg = {l["seg"]: l.get("words") or [] for l in scene.notes.get("lines", []) if isinstance(l, dict)}
@@ -204,7 +206,10 @@ class Renderer:
         for a, b in _find_inline_chains(segments):
             c_text, c_maps, g_over = _build_carrier_spec(segments, a, b)
             if c_text and c_maps:
-                c_key = tts.cache_key(self.s, narr_voice, self.voices.ref_version(narr_voice), narr_lang, c_text)
+                affected = {str(i): takes[str(i)] for i in range(a, b + 1) if str(i) in takes}
+                # A carrier is one cached utterance spanning several authored segments.
+                counter = int(config.sha(affected)[:16], 16) if affected else 0
+                c_key = tts.cache_key(self.s, narr_voice, self.voices.ref_version(narr_voice), narr_lang, c_text, retake=counter)
                 ch_obj = CarrierChain(a, b, c_key, c_text, c_maps, g_over)
                 carriers.append(ch_obj)
                 for k in range(a, b + 1):
@@ -242,14 +247,14 @@ class Renderer:
                 cand_240 = textprep.prepare_segment(
                     i, g["v"], g["t"], lang, notes_by_seg.get(i), seg_policy, eff_gap, isent_cfg.get(lang, isent_cfg["en"]),
                     max_turn_chars=turn_max)
-                if not all(self.store.tts_path(tts.cache_key(self.s, voice, self.voices.ref_version(voice), lang, st.tts)).exists() for st in cand_240):
+                if not all(self.store.tts_path(tts.cache_key(self.s, voice, self.voices.ref_version(voice), lang, st.tts, retake=takes.get(str(i), 0))).exists() for st in cand_240):
                     turn_max = 145
             for st in textprep.prepare_segment(
                     i, g["v"], g["t"], lang, notes_by_seg.get(i), seg_policy, eff_gap, isent_cfg.get(lang, isent_cfg["en"]),
                     ruaccent=self.ruaccent if (lang == "ru" and self.s["stress"]["ruaccentFallback"]) else None,
                     max_turn_chars=turn_max):
                 st.voice = voice
-                st.key = tts.cache_key(self.s, voice, self.voices.ref_version(voice), lang, st.tts)
+                st.key = tts.cache_key(self.s, voice, self.voices.ref_version(voice), lang, st.tts, retake=takes.get(str(i), 0))
                 if native_words:
                     end = st.start + len(st.plain)
                     overlapping = [word for word in native_words if word.start < end and word.end > st.start]
