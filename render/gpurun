@@ -115,12 +115,12 @@ def unallocated_pending(by_pid):
             is_qwen = "venv-qwen" in cmd_s and decl >= 7000
             is_retake = "--attempt 1" in cmd_s or "--attempt 2" in cmd_s or "--attempt 3" in cmd_s or " stage.py retake " in cmd_s
             if is_qwen:
-                peak = 10800 if is_retake else 15800
+                peak = 9800 if is_retake else 10800
             elif "venv-asr" in cmd_s and decl >= 7000:
-                peak = 6200
+                peak = 5500
             else:
                 peak = max(decl, 3200)
-            pending += max(400, peak - actual)
+            pending += max(400, min(2500, peak - actual))
         elif actual > 0:
             pending += max(2200, min(decl, 6000))
         elif age < 22.0:
