@@ -16,15 +16,15 @@ CLOSING = ('hannah', 'See you soon!')
 STORY = [
     ('evelyn', 'Let me look at you properly, Caleb! You grew taller than the piano!', 'دعني أنظر إليك جيداً يا كاليب! لقد كبرتَ وصرتَ أطول من البيانو!'),
     ('caleb', 'I cannot believe you are staying in the exact same guesthouse, Miss Evelyn.', 'لا أصدق أنكِ تقيمين في النزل نفسه تماماً يا آنسة إيفلين.'),
-    ('hannah', 'Wait, so we rode the same train on Monday, and you took her suitcase?', 'انتظر، إذن ركبنا القطار نفسه يوم الاثنين، وأخذتَ أنت حقيبتها؟'),
+    ('hannah', 'Wait, so you rode the same train on Monday and took her suitcase?', 'مهلاً، إذن ركبتما القطار نفسه يوم الاثنين وأخذتَ أنت حقيبتها؟'),
     ('caleb', "By complete accident! At my cousin's apartment I opened it and saw sheet music and a red ribbon.", 'بمحض المصادفة غير المقصودة! في شقة ابن عمي فتحتها ورأيتُ نوتات موسيقية وشريطاً أحمر.'),
     ('evelyn', 'Why did you leave my bag on the step at night and run away?', 'لماذا تركتَ حقيبتي على العتبة ليلاً وفررتَ مسرعاً؟'),
     ('caleb', 'Because when I walked here on Monday evening, I saw my older brother walking down this street!', 'لأنني حين مشيتُ إلى هنا مساء الاثنين، لمحتُ أخي الأكبر يمشي في هذا الشارع!'),
     ('hannah', 'Your older brother lives here in Portland?', 'أخوك الأكبر يعيش هنا في بورتلاند؟'),
     ('caleb', 'Yes. I panicked, rang your bell, and slipped the Friday note onto the handle.', 'نعم. أصابني الارتباك، فقرعتُ جرسكم، ودسستُ ملاحظة يوم الجمعة على المقبض.'),
     ('evelyn', 'Wait, and Wednesday night you checked in here under your real name?', 'مهلاً، وفي ليلة الأربعاء سجلتَ دخولك هنا باسمك الحقيقي؟'),
-    ('caleb', 'I needed a quiet place nearby before Friday, and honestly forgot you still had my bag!', 'احتجتُ إلى مكان هادئ في الجوار قبل يوم الجمعة، ونسيتُ بصدق أن حقيبتي لا تزال لديكم!'),
-    ('hannah', 'Until you called us on Tuesday asking us not to open the white package!', 'حتى اتصلتَ بنا يوم الثلاثاء طالباً منا عدم فتح اللفافة البيضاء!'),
+    ('caleb', 'I needed a quiet place nearby before Friday, and honestly felt too shy to ask for my bag!', 'كنت بحاجة إلى مكان هادئ قريب قبل يوم الجمعة، وبصراحة شعرت بالخجل الشديد من طلب حقيبتي!'),
+    ('hannah', 'Even after you called us on Tuesday about the white package!', 'حتى بعد أن اتصلت بنا يوم الثلاثاء بشأن الرزمة البيضاء!'),
     ('caleb', 'Everything in that white paper belongs to my brother Owen, not me.', 'كل ما في تلك الورقة البيضاء يخص أخي أوين، لا يخصني أنا.'),
 ]
 WALK = [
@@ -38,6 +38,6 @@ WALK = [
     (7, None, ["'نعم. أصابني الارتباك، فقرعتُ جرسكم، ودسستُ ملاحظة يوم الجمعة على المقبض.' يجمع الفعل مع حرف الجر", (None, 'slipped the Friday note onto'), 'بين السرعة والهدوء.']),
     (8, None, ["'مهلاً، وفي ليلة الأربعاء سجلتَ دخولك هنا باسمك الحقيقي؟' تعني العبارة الفندقية", (None, 'checked in here under your real name'), 'تدوين الاسم في سجل النزلاء.']),
     (9, None, ["'احتجتُ إلى مكان هادئ في الجوار قبل يوم الجمعة، ونسيتُ بصدق أن حقيبتي لا تزال لديكم!' تأتي كلمة", (None, 'nearby'), 'مباشرةً بعد الاسم من غير حاجة إلى حرف جر.']),
-    (10, None, ["'حتى اتصلتَ بنا يوم الثلاثاء طالباً منا عدم فتح اللفافة البيضاء!' يوضح النفي قبل المصدر في", (None, 'asking us not to open'), 'طريقة صياغة الرجاء المنفي.']),
+    (10, None, ["'حتى اتصلتَ بنا يوم الثلاثاء طالباً منا عدم فتح اللفافة البيضاء!' يوضح النفي قبل المصدر في", (None, 'called us on Tuesday about'), 'طريقة صياغة الرجاء المنفي.']),
     (11, None, ["'كل ما في تلك الورقة البيضاء يخص أخي أوين، لا يخصني أنا.' يربط الفعل", (None, 'belongs to'), 'الغرض المحفوظ بصاحبه الحقيقي.']),
 ]

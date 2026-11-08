@@ -24,7 +24,7 @@ STORY = [
     ('evelyn', 'Do not worry! Cold sparkling water takes orange juice right out.', 'Não se preocupe! Água com gás gelada tira suco de laranja na hora.'),
     ('hannah', 'Here is a clean cloth and cold water, Arthur.', 'Aqui estão um pano limpo e água fria, Arthur.'),
     ('arthur', "Excuse me, ma'am, I shall retreat to my office with dignity!", 'Com licença, senhora, vou me retirar para o meu escritório com dignidade!'),
-    ('evelyn', 'Your scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'Seus ovos mexidos estão deliciosos, Hannah. Dê meus parabéns à Tessa!'),
+    ('evelyn', 'The scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'Os ovos mexidos estão deliciosos, Hannah. Dê meus parabéns à Tessa!'),
     ('hannah', 'I will! Enjoy your morning.', 'Pode deixar! Aproveite sua manhã.'),
 ]
 WALK = [
@@ -38,6 +38,6 @@ WALK = [
     (7, None, ["'Não se preocupe! Água com gás gelada tira suco de laranja na hora.' Água gaseificada é chamada de", (None, 'sparkling water'), 'e para remover uma mancha usamos', (None, 'takes orange juice right out'), 'tira na hora.']),
     (8, None, ["'Aqui estão um pano limpo e água fria, Arthur.' Um paninho de limpeza se diz simplesmente", (None, 'a clean cloth'), 'um pano limpo.']),
     (9, None, ["'Com licença, senhora, vou me retirar para o meu escritório com dignidade!' Arthur brinca com uma formalidade solene ao dizer", (None, 'I shall retreat'), 'vou me retirar.']),
-    (10, None, ["'Seus ovos mexidos estão deliciosos, Hannah. Dê meus parabéns à Tessa!' Para mandar elogios a quem preparou o prato, usa-se o plural", (None, 'my compliments'), 'meus cumprimentos.']),
+    (10, None, ["'Os ovos mexidos estão deliciosos, Hannah. Dê meus parabéns à Tessa!' Para mandar elogios a quem preparou o prato, usa-se o plural", (None, 'my compliments'), 'meus cumprimentos.']),
     (11, None, ["'Pode deixar! Aproveite sua manhã.' Nosso simpático 'pode deixar!' cabe inteirinho em", (None, 'I will'), 'prometendo transmitir o recado.']),
 ]

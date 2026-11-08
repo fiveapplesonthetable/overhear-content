@@ -45,7 +45,7 @@ STORY = [('mohan',
   'After we guarded his blue suitcase all week? He will gladly help!'),
  ('pratap',
   'रुको—दीया अभी उनकी मेज़ से वापस आ रही है।',
-  'Wait—Diya is walking back from their table right now.')]
+  'Wait—Diya is taking the cake out to their table right now.')]
 
 WALK = [(1,
   None,

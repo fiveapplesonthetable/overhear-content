@@ -16,14 +16,14 @@ CLOSING = ("hannah", "See you soon!")
 STORY = [
     ("evelyn", "Let me look at you properly, Caleb! You grew taller than the piano!", "Fatti guardare come si deve, Caleb! Sei cresciuto più del pianoforte!"),
     ("caleb", "I cannot believe you are staying in the exact same guesthouse, Miss Evelyn.", "Non riesco a credere che alloggi proprio nella stessa identica locanda, signorina Evelyn."),
-    ("hannah", "Wait, so we rode the same train on Monday, and you took her suitcase?", "Aspetta, quindi lunedì abbiamo viaggiato sullo stesso treno e tu hai preso la sua valigia?"),
+    ("hannah", "Wait, so you rode the same train on Monday and took her suitcase?", "Aspetta, quindi lunedì abbiamo viaggiato sullo stesso treno e tu hai preso la sua valigia?"),
     ("caleb", "By complete accident! At my cousin's apartment I opened it and saw sheet music and a red ribbon.", "Per puro caso! Nell'appartamento di mio cugino l'ho aperta e ho visto degli spartiti e un nastro rosso."),
     ("evelyn", "Why did you leave my bag on the step at night and run away?", "Perché hai lasciato la mia borsa sul gradino di notte e sei scappato via?"),
     ("caleb", "Because when I walked here on Monday evening, I saw my older brother walking down this street!", "Perché lunedì sera, mentre venivo qui a piedi, ho visto mio fratello maggiore camminare lungo questa strada!"),
     ("hannah", "Your older brother lives here in Portland?", "Tuo fratello maggiore abita qui a Portland?"),
     ("caleb", "Yes. I panicked, rang your bell, and slipped the Friday note onto the handle.", "Sì. Sono andato nel panico, ho suonato il vostro campanello e ho infilato il biglietto del venerdì sulla maniglia."),
     ("evelyn", "Wait, and Wednesday night you checked in here under your real name?", "Aspetta, e mercoledì sera ti sei registrato qui col tuo vero nome?"),
-    ("caleb", "I needed a quiet place nearby before Friday, and honestly forgot you still had my bag!", "Mi serviva un posto tranquillo qui vicino prima di venerdì, e sinceramente mi ero dimenticato che avevate ancora la mia borsa!"),
+    ("caleb", "I needed a quiet place nearby before Friday, and honestly felt too shy to ask for my bag!", "Mi serviva un posto tranquillo qui vicino prima di venerdì, e sinceramente mi ero dimenticato che avevate ancora la mia borsa!"),
     ("hannah", "Until you called us on Tuesday asking us not to open the white package!", "Finché martedì non ci hai telefonato chiedendoci di non aprire il pacchetto bianco!"),
     ("caleb", "Everything in that white paper belongs to my brother Owen, not me.", "Tutto quello che c'è in quella carta bianca appartiene a mio fratello Owen, non a me."),
 ]

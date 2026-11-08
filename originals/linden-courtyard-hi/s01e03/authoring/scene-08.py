@@ -19,7 +19,7 @@ STORY = [
     ('hannah', 'Does that mean no radiators tonight, or no hot water too?', 'क्या इसका मतलब है आज रात रेडिएटर बंद रहेंगे, या गरम पानी भी नहीं मिलेगा?'),
     ('graham', 'The rooms will stay warm until morning, Hannah, because the brick walls hold heat.', 'कमरे सुबह तक गरम रहेंगे, हैना, क्योंकि ईंट की दीवारें गरमाहट रोककर रखती हैं।'),
     ('arthur', 'Thank heavens! And the morning showers?', 'भगवान का शुक्र है! और सुबह के शॉवर का क्या होगा?'),
-    ('graham', 'At seven tomorrow morning, the shower water will be ice cold.', 'कल सुबह सात बजे शॉवर का पानी बर्फ़ जैसा ठंडा होगा।'),
+    ('graham', 'By tomorrow morning, the shower water will be ice cold.', 'कल सुबह तक शॉवर का पानी बर्फ़ जैसा ठंडा हो जाएगा।'),
     ('arthur', 'Ice cold showers?! With the Portland Travel Guide inspector on the third floor?!', 'बर्फ़ जैसे ठंडे शॉवर?! वह भी तीसरी मंज़िल पर ठहरे पोर्टलैंड ट्रैवल गाइड के निरीक्षक के रहते?!'),
     ('hannah', 'Do you have a spare brass valve in your toolbox?', 'क्या तुम्हारे औज़ारों के बक्से में पीतल का कोई अतिरिक्त वाल्व रखा है?'),
     ('graham', 'Used my last one in winter. Only the old hardware shop past the bridge sells this size.', 'आख़िरी वाला सर्दियों में लग गया था। पुल के उस पार वाली पुरानी हार्डवेयर दुकान ही यह नाप बेचती है।'),

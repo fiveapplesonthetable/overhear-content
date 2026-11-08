@@ -14,7 +14,7 @@ TRANSITION = 'Volvamos a escuchar toda la conversación seguida.'
 OUTRO = 'El tren de madera del abuelo ha vuelto a casa y el asombro de Owen al ver a la señorita Evelyn llenó el patio de risas. Dentro, sin embargo, Arthur sigue mirando aquella carta. Hasta pronto.'
 CLOSING = ('evelyn', 'See you later!')
 STORY = [
-    ('caleb', 'Before the movers cleared Linden Street, I saved this box from the attic shelf.', 'Antes de que los de la mudanza vaciaran la calle Linden, salvé esta caja del estante del ático.'),
+    ('caleb', 'Before the movers cleared the house, I saved this box from the attic shelf.', 'Antes de que los de la mudanza vaciaran la casa, salvé esta caja de la estantería del ático.'),
     ('owen', "Open the white paper... no! Grandfather's carved wooden train engine!", 'Abre el papel blanco... ¡no puede ser! ¡La locomotora de madera tallada del abuelo!'),
     ('caleb', 'Look underneath the wheels. Your name and mine are still penciled there.', 'Mira debajo de las ruedas. Tu nombre y el mío siguen escritos a lápiz ahí.'),
     ('owen', 'I thought this was lost when we sold the house! Why keep it for me?', '¡Pensaba que esto se había perdido cuando vendimos la casa! ¿Por qué guardarlo para mí?'),
@@ -28,7 +28,7 @@ STORY = [
     ('owen', 'Please sit with us, Miss Evelyn! Tell me I am not twenty-five years late for my lesson!', '¡Por favor siéntese con nosotros, señorita Evelyn! ¡Dígame que no llego veinticinco años tarde a mi clase!'),
 ]
 WALK = [
-    (0, None, ["'Antes de que los de la mudanza vaciaran la calle Linden, salvé esta caja del estante del ático.' En Estados Unidos, los operarios de mudanzas se llaman simplemente", (None, 'the movers'), 'los que trasladan muebles.']),
+    (0, None, ["'Antes de que los de la mudanza vaciaran la casa, salvé esta caja de la estantería del ático.' A los trabajadores de mudanzas se les llama", (None, 'the movers'), "que viene del verbo mover."]),
     (1, None, ["'Abre el papel blanco... ¡no puede ser! ¡La locomotora de madera tallada del abuelo!' En", (None, 'train engine'), 'la palabra para motor nombra la locomotora que tira del tren.']),
     (2, None, ["'Mira debajo de las ruedas. Tu nombre y el mío siguen escritos a lápiz ahí.' Dos puntos clave:", (None, 'underneath'), "para 'justo por debajo de', y", (None, 'Your name and mine'), 'tu nombre y el mío.']),
     (3, None, ["'¡Pensaba que esto se había perdido cuando vendimos la casa! ¿Por qué guardarlo para mí?' En preguntas breves sobre la intención de un gesto basta unir", (None, 'Why keep it'), 'con el verbo en forma base.']),

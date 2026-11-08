@@ -18,7 +18,7 @@ STORY = [
     ('caleb', 'Wait a moment, sir. Did you read page two clipped underneath?', 'एक पल रुकिए, सर। क्या आपने नीचे क्लिप से लगा पन्ना दो पढ़ा?'),
     ('arthur', 'Only small gray numbers! My heart stopped at page one!', 'बस छोटे स्लेटी नंबर दिखे! मेरा दिल तो पन्ना एक पर ही रुक गया था!'),
     ('hannah', 'Look where Caleb is pointing with his pencil, Arthur!', 'देखिए केलेब अपनी पेंसिल से कहाँ इशारा कर रहे हैं, आर्थर!'),
-    ('caleb', 'Clause fourteen of the Portland Old Quarter Act, and my brother outside just nodded!', 'पोर्टलैंड ओल्ड क्वार्टर अधिनियम का क्लॉज़ चौदह, और बाहर खड़े मेरे भाई ने भी अभी सिर हिलाकर हामी भरी!'),
+    ('caleb', 'Clause fourteen of the Portland Old Quarter Act, and my brother here just nodded!', 'पोर्टलैंड ओल्ड क्वार्टर अधिनियम का क्लॉज़ चौदह, और बाहर खड़े मेरे भाई ने भी अभी सिर हिलाकर हामी भरी!'),
     ('arthur', 'In plain words, please! What does Clause fourteen say?', 'सीधे-सादे शब्दों में बताइए, कृपया! क्लॉज़ चौदह क्या कहता है?'),
     ('caleb', 'No courtyard building over eighty years old may become private offices if the first floor serves neighbors daily.', 'अस्सी साल से अधिक पुरानी कोई भी आँगन वाली इमारत निजी दफ़्तर नहीं बन सकती यदि पहली मंज़िल प्रतिदिन पड़ोसियों को सेवा दे।'),
     ('hannah', "'Serves neighbors daily'... like a public morning cafe?!", '“प्रतिदिन पड़ोसियों को सेवा दे”... क्या सुबह के किसी सार्वजनिक कैफ़े की तरह?!'),

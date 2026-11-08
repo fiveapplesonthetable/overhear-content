@@ -23,7 +23,7 @@ STORY = [
     ('arthur', 'Do not snoop, of course... wait, it fell open to the middle page!', '물론 남의 걸 엿보면 안 되죠. 어라, 가운데 쪽이 저절로 펼쳐져 버렸네요!'),
     ('hannah', 'Why are there neat pencil drawings of three guesthouses on our street?', '왜 우리 거리에 있는 여관 세 곳의 깔끔한 연필 그림이 그려져 있을까요?'),
     ('tessa', "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'", '우리 여관 옆에 적힌 글씨 좀 봐요, 안뜰 너비, 거리 소음, 정숙도 점수 십 점 만점에 구 점!'),
-    ('arthur', 'Nine out of ten?! Nobody measures lobbies unless...', '십 점 만점에 구 점이라고요? 아무도 로비를 재지 않아요, 혹시 이게 아니라면 말이죠!'),
+    ('arthur', 'Nine out of ten?! Nobody measures courtyards unless...', '십 점 만점에 구 점이라고요? 아무도 안뜰을 재지 않아요, 혹시 이게 아니라면 말이죠!'),
     ('tessa', 'Unless he writes for the annual Portland Travel Guide!', '그분이 해마다 나오는 포틀랜드 여행 안내서 필진이 아니라면 말이죠!'),
     ('hannah', 'Quick, close it! Let us take it upstairs... wait, what is that loud clanking sound?', '얼른 덮어요! 위층으로 가져다드립시다. 잠깐, 저 요란한 쇳소리는 뭐죠?'),
 ]
@@ -37,7 +37,7 @@ WALK = [
     (6, None, ["'물론 남의 걸 엿보면 안 되죠. 어라, 가운데 쪽이 저절로 펼쳐져 버렸네요!' 책이나 수첩이 툭 떨어지며 저절로 활짝 열린 상태를 묘사할 때는", (None, 'fell open'), '과거형 동사 뒤에 형용사를 바로 붙여 결과 상태를 한눈에 보여 줘요.']),
     (7, None, ["'왜 우리 거리에 있는 여관 세 곳의 깔끔한 연필 그림이 그려져 있을까요?' 무언가가 존재하는 이유를 물으며 문장을 시작할 때는", (None, 'Why are there'), '뒤에 오는 복수 명사에 맞춰 복수형 동사를 먼저 꺼내어 질문해요.']),
     (8, None, ["'우리 여관 옆에 적힌 글씨 좀 봐요, 안뜰 너비, 거리 소음, 정숙도 점수 십 점 만점에 구 점!' 전체 기준점 가운데 몇 점인지를 숫자로 또렷이 밝힐 때는", (None, 'nine out of ten'), '전치사구를 사이에 두어 만점 대비 점수를 알기 쉽게 표현해요.']),
-    (9, None, ["'십 점 만점에 구 점이라고요? 아무도 로비를 재지 않아요, 혹시 이게 아니라면 말이죠!' 유일한 예외 조건을 덧붙이며 말끝을 의미심장하게 흐릴 때는", (None, 'unless'), '만약 무엇이 아니라면이라는 접속사 하나로 긴장감을 확 끌어올려요.']),
+    (9, None, ["'십 점 만점에 구 점이라고요? 아무도 안뜰을 재지 않아요, 혹시 이게 아니라면 말이죠!' 유일한 예외 조건을 덧붙이며 말끝을 의미심장하게 흐릴 때는", (None, 'unless'), '만약 무엇이 아니라면이라는 접속사 하나로 긴장감을 확 끌어올려요.']),
     (10, None, ["'그분이 해마다 나오는 포틀랜드 여행 안내서 필진이 아니라면 말이죠!' 앞사람이 남긴 접속사를 그대로 받아 추리를 이어 나갈 때는", (None, 'Unless he writes'), '현재시제 동사를 써서 그 사람의 직업이나 평소의 일을 짐작해요.']),
     (11, None, ["'얼른 덮어요! 위층으로 가져다드립시다. 잠깐, 저 요란한 쇳소리는 뭐죠?' 금속끼리 둔탁하게 부딪히며 탕탕 울리는 소리를 생생히 묘사할 때는", (None, 'clanking sound'), '소리를 흉내 낸 분사 형용사를 붙여 현장감을 또렷하게 살려요.']),
 ]

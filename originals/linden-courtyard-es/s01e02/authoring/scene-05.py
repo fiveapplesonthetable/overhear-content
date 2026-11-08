@@ -24,7 +24,7 @@ STORY = [
     ('evelyn', 'Do not worry! Cold sparkling water takes orange juice right out.', '¡No se preocupe! El agua fría con gas quita el zumo de naranja enseguida.'),
     ('hannah', 'Here is a clean cloth and cold water, Arthur.', 'Aquí tiene un paño limpio y agua fría, Arthur.'),
     ('arthur', "Excuse me, ma'am, I shall retreat to my office with dignity!", '¡Disculpe, señora, me retiraré a mi despacho con dignidad!'),
-    ('evelyn', 'Your scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'Sus huevos revueltos están deliciosos, Hannah. ¡Dele mis felicitaciones a Tessa!'),
+    ('evelyn', 'The scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'Los huevos revueltos están deliciosos, Hannah. ¡Felicite a Tessa de mi parte!'),
     ('hannah', 'I will! Enjoy your morning.', '¡De su parte! Que disfrute la mañana.'),
 ]
 WALK = [
@@ -38,6 +38,6 @@ WALK = [
     (7, None, ["'¡No se preocupe! El agua fría con gas quita el zumo de naranja enseguida.' El agua con gas se pide como", (None, 'sparkling water'), 'agua chispeante, y', (None, 'takes orange juice right out'), 'significa quitar una mancha por completo.']),
     (8, None, ["'Aquí tiene un paño limpio y agua fría, Arthur.' La palabra", (None, 'cloth'), 'designa un trapo o paño de tela limpia para secar la mesa.']),
     (9, None, ["'¡Disculpe, señora, me retiraré a mi despacho con dignidad!' Arthur exagera su tono solemne usando", (None, 'I shall retreat'), 'que hoy suena teatral y humorísticamente formal.']),
-    (10, None, ["'Sus huevos revueltos están deliciosos, Hannah. ¡Dele mis felicitaciones a Tessa!' En el comedor,", (None, 'my compliments'), 'va siempre en plural para felicitar a quien cocina.']),
+    (10, None, ["'Los huevos revueltos están deliciosos, Hannah. ¡Felicite a Tessa de mi parte!' Para transmitir saludos o felicitaciones se dice literalmente 'dile mis cumplidos':", (None, 'Tell Tessa my compliments'), "."]),
     (11, None, ["'¡De su parte! Que disfrute la mañana.' Prometer que harás un recado se resume en dos palabras:", (None, 'I will'), "literalmente 'lo haré'."]),
 ]

@@ -8,7 +8,7 @@ TITLE = 'Truth in the Courtyard  (Die Wahrheit im Innenhof)'
 LEVEL = 'A1 — Anfänger'
 PAIR = 'en-de'
 LABELS = {'caleb': 'Caleb', 'hannah': 'Hannah', 'evelyn': 'Evelyn'}
-INTRO = 'Noch immer unter dem alten Hofbaum im Gasthof Lindenhof setzt sich Caleb zu Hannah und Evelyn auf die Bank, um das Rätsel vom Montagabend von Anfang an aufzuklären. Hören Sie zuerst die gesamte Szene im Zusammenhang.'
+INTRO = "Out under the courtyard tree at the Linden Courtyard in Portland, Caleb sits down with Hannah and Evelyn to explain Monday night's mystery from the very beginning. Listen first."
 OPENER = 'Schauen wir uns Calebs ehrliche Beichte im Hof nun Satz für Satz genauer an.'
 TRANSITION = 'Hören wir uns das ganze Gespräch unterm Baum jetzt noch einmal flüssig an.'
 OUTRO = 'Endlich greifen alle Puzzleteile von Montag und Dienstag ineinander! Gleich in der nächsten Szene erzählt Caleb, warum er seit drei Jahren kein Wort mehr mit seinem Bruder Owen gesprochen hat.'
@@ -20,7 +20,7 @@ STORY = [('evelyn',
   'I cannot believe you are staying in the exact same guesthouse, Miss Evelyn.',
   'Ich kann kaum fassen, dass Sie genau im selben Gästehaus wohnen, Frau Evelyn.'),
  ('hannah',
-  'Wait, so we rode the same train on Monday, and you took her suitcase?',
+  'Wait, so you rode the same train on Monday and took her suitcase?',
   'Warten Sie, wir sind am Montag also mit demselben Zug gefahren, und Sie haben ihren Koffer mitgenommen?'),
  ('caleb',
   "By complete accident! At my cousin's apartment I opened it and saw sheet music and a red ribbon.",
@@ -39,10 +39,10 @@ STORY = [('evelyn',
   'Wait, and Wednesday night you checked in here under your real name?',
   'Moment, und am Mittwochabend hast du hier unter deinem echten Namen eingecheckt?'),
  ('caleb',
-  'I needed a quiet place nearby before Friday, and honestly forgot you still had my bag!',
+  'I needed a quiet place nearby before Friday, and honestly felt too shy to ask for my bag!',
   'Ich brauchte vor Freitag eine ruhige Bleibe in der Nähe und hatte ehrlich vergessen, dass meine Tasche noch bei Ihnen stand!'),
  ('hannah',
-  'Until you called us on Tuesday asking us not to open the white package!',
+  'Even after you called us on Tuesday about the white package!',
   'Bis Sie uns am Dienstag angerufen und gebeten haben, das weiße Päckchen nicht zu öffnen!'),
  ('caleb',
   'Everything in that white paper belongs to my brother Owen, not me.',
@@ -112,7 +112,7 @@ WALK = [(0,
   None,
   ["'Bis Sie uns am Dienstag angerufen und gebeten haben, das weiße Päckchen nicht zu öffnen!' Verneinte Infinitive stellen im Englischen "
    'wie in',
-   (None, 'not to open'),
+   (None, 'about'),
    'das Verneinungswort immer vor das kleine zu-Wort.']),
  (11,
   None,

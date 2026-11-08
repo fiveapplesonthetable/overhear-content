@@ -19,12 +19,12 @@ STORY = [
     ('hannah', 'Why could you not simply hand Owen the wooden train at his front door?', 'لماذا لم تستطع ببساطة أن تسلّم أوين القطار الخشبي عند باب بيته؟'),
     ('caleb', 'Three years ago, after our grandfather died, Owen and I argued bitterly over selling the old house.', 'قبل ثلاث سنوات، بعد وفاة جدنا، تجادلتُ أنا وأوين بمرارة حول بيع البيت القديم.'),
     ('graham', 'Family houses and old memories, those arguments cut deep.', 'بيوت العائلة والذكريات القديمة... تلك الخلافات تجرح القلب بعمق.'),
-    ('caleb', 'We have not spoken since that Sunday. Last week I sent him one short postcard.', 'لم نتحدث منذ يوم الأحد ذاك. وفي الأسبوع الماضي أرسلتُ له بطاقة بريدية قصيرة واحدة.'),
+    ('caleb', 'We have not spoken since that day. Last week I sent him one short postcard.', 'لم نتحدث منذ ذلك اليوم. وفي الأسبوع الماضي أرسلتُ له بطاقة بريدية قصيرة واحدة.'),
     ('hannah', 'Asking him to meet you here on Friday at noon?', 'تطلب منه فيها أن يلتقي بك هنا يوم الجمعة عند الظهر؟'),
     ('caleb', "Actually, I only wrote: 'Something from Grandfather is waiting at the Linden Courtyard Inn Friday at noon.'", 'في الواقع، كتبتُ فقط: هناك شيء من الجد ينتظرك في نزل ساحة الزيزفون يوم الجمعة عند الظهر.'),
     ('graham', 'Aha! You feared that if you signed your name, stubborn big brother would stay home!', 'أها! خشيتَ إن وقّعتَ اسمك أن يبقى الأخ الكبير العنيد في بيته!'),
     ('caleb', 'You know older brothers well, Graham.', 'أنت تعرف الإخوة الكبار جيداً يا غراهام.'),
-    ('hannah', 'Wait, were you planning to hand the clerk the bag and watch from across the street?!', 'مهلاً، هل كنتَ تخطط لتسليم الحقيبة لموظف الاستقبال والمراقبة من الجهة المقابلة من الشارع؟!'),
+    ('hannah', 'Wait, were you planning to let the clerk hand him the bag and watch from across the street?!', 'انتظر، هل كنت تخطط لأن تدع الموظف يسلمه الحقيبة وتراقب من الجانب الآخر للشارع؟!'),
     ('caleb', 'That was my cowardly Monday plan... before I met all of you.', 'كانت تلك خطتي الجبانة ليوم الاثنين... قبل أن ألتقي بكم جميعاً.'),
 ]
 WALK = [
@@ -33,7 +33,7 @@ WALK = [
     (2, None, ["'لماذا لم تستطع ببساطة أن تسلّم أوين القطار الخشبي عند باب بيته؟' يعني الفعل", (None, 'hand Owen the wooden train'), 'التسليم الشخصي المباشر.']),
     (3, None, ["'قبل ثلاث سنوات، بعد وفاة جدنا، تجادلتُ أنا وأوين بمرارة حول بيع البيت القديم.' يقدم المتحدث الإنجليزي اسم غيره على نفسه في", (None, 'Owen and I argued'), 'أدباً في العطف.']),
     (4, None, ["'بيوت العائلة والذكريات القديمة... تلك الخلافات تجرح القلب بعمق.' التعبير المجازي", (None, 'cut deep'), 'يصف أثر الخلافات العائلية بإيجاز مؤثر.']),
-    (5, None, ["'لم نتحدث منذ يوم الأحد ذاك. وفي الأسبوع الماضي أرسلتُ له بطاقة بريدية قصيرة واحدة.' يقترن المضارع التام المنفي", (None, 'We have not spoken since'), 'بنقطة بداية القطيعة.']),
+    (5, None, ["'لم نتحدث منذ ذلك اليوم. وفي الأسبوع الماضي أرسلتُ له بطاقة بريدية قصيرة واحدة.' يقترن المضارع التام المنفي", (None, 'We have not spoken since'), 'بنقطة بداية القطيعة.']),
     (6, None, ["'تطلب منه فيها أن يلتقي بك هنا يوم الجمعة عند الظهر؟' يحدد التعبير الزمني", (None, 'on Friday at noon'), 'اليوم أولاً ثم الساعة.']),
     (7, None, ["'في الواقع، كتبتُ فقط: هناك شيء من الجد ينتظرك في نزل ساحة الزيزفون يوم الجمعة عند الظهر.' يضفي التنكير في", (None, 'Something from Grandfather'), 'غموضاً يدفع الأخ إلى الحضور.']),
     (8, None, ["'أها! خشيتَ إن وقّعتَ اسمك أن يبقى الأخ الكبير العنيد في بيته!' تُستعمل عبارة", (None, 'stay home'), 'في الإنجليزية الأمريكية دون حرف جر قبل البيت.']),

@@ -21,9 +21,9 @@ STORY = [
     ('hannah', 'I always walk fast on my first day. Where is the computer?', '初日はいつも速足で歩いてしまうんです。パソコンはどこにありますか？'),
     ('graham', 'In the drawer. Here we use this big paper book and a pencil.', '引き出しの中だよ。ここではこの大きな紙の台帳と鉛筆を使うんだ。'),
     ('hannah', 'A paper book? Really?', '紙の台帳ですか？本当に？'),
-    ('graham', 'Paper never loses the room list when it rains.', '紙なら雨が降っても客室リストが消えることは決してないからね。'),
+    ('graham', 'Paper still works when the power goes out.', '紙なら、停電になっても使えるからね。'),
     ('hannah', 'Fair enough! And these are the keys?', 'なるほど、もっともですね！それで、これらがお部屋の鍵ですか？'),
-    ('graham', 'Yes, eight rooms, eight brass keys. Room four is arriving today.', 'ああ、八つの客室に八本の真鍮の鍵だ。四号室のお客さまは今日到着するよ。'),
+    ('graham', 'Yes, eight rooms, eight brass keys. Room four\'s guest arrives today.', 'ああ、八つの客室に八本の真鍮の鍵だ。四号室のお客さまは今日到着するよ。'),
     ('hannah', 'Great. Tell me everything I need to know.', 'わかりました。私が知っておくべきことを全部教えてください。'),
     ('graham', 'Rule one: drink hot tea first, then answer the bell.', 'ルールその一、まず熱いお茶を飲んで、それからベルに出ること。'),
 ]
@@ -35,9 +35,9 @@ WALK = [
     (4, None, ["'初日はいつも速足で歩いてしまうんです。パソコンはどこにありますか？' カレンダーの特定の日付や初日には", (None, 'on my first day'), 'という前置詞を選びます。']),
     (5, None, ["'引き出しの中だよ。ここではこの大きな紙の台帳と鉛筆を使うんだ。' 大きさと材質を名詞の前に並べて", (None, 'big paper book'), 'と前置詞なしでつなげます。']),
     (6, None, ["'紙の台帳ですか？本当に？' 相手の言葉に驚いて聞き返すときは", (None, 'Really'), 'と語尾を上げるだけで自然な相づちになります。']),
-    (7, None, ["'紙なら雨が降っても客室リストが消えることは決してないからね。' 天候を語る文でも英語は形式上の主語を省かず", (None, 'when it rains'), 'と表現します。']),
+    (7, None, ["'紙なら、停電になっても使えるからね。' 「停電になる」や「電気が消える」ことは", (None, 'when the power goes out'), 'と表現します。']),
     (8, None, ["'なるほど、もっともですね！それで、これらがお部屋の鍵ですか？' 相手の理由に納得したときは", (None, 'Fair enough'), 'と返すと会話が気持ちよく弾みます。']),
-    (9, None, ["'ああ、八つの客室に八本の真鍮の鍵だ。四号室のお客さまは今日到着するよ。' すでに決まっている今日の予定には現在進行形の", (None, 'is arriving today'), 'がとてもよく使われます。']),
+    (9, None, ["'ああ、八つの客室に八本の真鍮の鍵だ。四号室のお客さまは今日到着するよ。' すでに決まっている今日の予定は現在形の", (None, 'arrives today'), 'で表すこともあります。']),
     (10, None, ["'わかりました。私が知っておくべきことを全部教えてください。' すべてを表す代名詞の", (None, 'everything'), 'のすぐ後ろに', (None, 'I need to know'), 'を直接つなげて説明します。']),
     (11, None, ["'ルールその一、まず熱いお茶を飲んで、それからベルに出ること。' 英語では電話だけでなくフロントの呼び鈴に出るときも", (None, 'answer the bell'), 'という動詞を使います。']),
 ]

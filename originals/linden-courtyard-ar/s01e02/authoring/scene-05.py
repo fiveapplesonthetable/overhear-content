@@ -24,7 +24,7 @@ STORY = [
     ('evelyn', 'Do not worry! Cold sparkling water takes orange juice right out.', 'لا تقلق! الماء الفوار البارد يزيل عصير البرتقال في الحال.'),
     ('hannah', 'Here is a clean cloth and cold water, Arthur.', 'تفضل قطعة قماش نظيفة وماءً بارداً يا آرثر.'),
     ('arthur', "Excuse me, ma'am, I shall retreat to my office with dignity!", 'عن إذنكِ يا سيدتي، سأنسحب إلى مكتبي بكل وقار!'),
-    ('evelyn', 'Your scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'البيض المخفوق لديكم لذيذ يا هانا. بلّغي تيسا تحياتي وإعجابي!'),
+    ('evelyn', 'The scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'البيض المخفوق لذيذ يا هانا. أبلغي تيسا تحياتي!'),
     ('hannah', 'I will! Enjoy your morning.', 'سأفعل بكل سرور! استمتعي بصباحك.'),
 ]
 WALK = [

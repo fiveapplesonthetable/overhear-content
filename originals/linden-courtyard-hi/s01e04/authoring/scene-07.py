@@ -15,12 +15,12 @@ OUTRO = 'बारह नंबर, लिंडन स्ट्रीट के
 CLOSING = ('evelyn', 'Bye for now!')
 STORY = [
     ('graham', 'Let me set this blue suitcase here for five minutes while I sweep the closet.', 'जब तक मैं अलमारी में झाड़ू लगाऊँ, पाँच मिनट यह नीला सूटकेस यहाँ रख देता हूँ।'),
-    ('hannah', 'Careful with it, Graham. Tomorrow at noon is Friday!', 'इसे सँभालकर रखना, ग्राहम। कल दोपहर बारह बजे शुक्रवार है!'),
+    ('hannah', 'Careful with it, Graham. Friday at noon is tomorrow!', 'इसे सँभालकर रखना, ग्राहम। शुक्रवार दोपहर बारह बजे कल ही है!'),
     ('evelyn', "Oh, is that the twin suitcase from Monday's train?", 'ओह, क्या यह सोमवार वाली ट्रेन का वही हमशक्ल सूटकेस है?'),
     ('hannah', "Yes, ma'am, still waiting for its owner.", 'जी हाँ, मैम, अब भी अपने मालिक का इंतज़ार कर रहा है।'),
     ('evelyn', 'May I look at the paper tag again here in the bright sunlight?', 'क्या मैं यहाँ तेज़ धूप में काग़ज़ के टैग को एक बार फिर देख सकती हूँ?'),
     ('graham', "Go right ahead, ma'am. Monday afternoon the lobby was dark.", 'बेझिझक देखिए, मैम। सोमवार दोपहर लॉबी में अँधेरा था।'),
-    ('evelyn', 'Wait a moment... Number twelve, Linden Street, and two childhood initials carved on the corner!', 'एक पल रुकिए... नंबर बारह, लिंडन स्ट्रीट, और कोने पर खुदे बचपन के दो शुरुआती अक्षर!'),
+    ('evelyn', 'Wait a moment... Number twelve, Linden Street, and two childhood initials written in the corner!', 'एक पल रुकिए... नंबर बारह, लिंडन स्ट्रीट, और कोने पर लिखे बचपन के दो शुरुआती अक्षर!'),
     ('hannah', 'Miss Evelyn, you look amazed! Do you know Number twelve, Linden Street?', 'मिस एवेलिन, आप तो दंग दिख रही हैं! क्या आप नंबर बारह, लिंडन स्ट्रीट को जानती हैं?'),
     ('evelyn', 'Know it? Every Friday for six years I climbed those wooden stairs to teach piano!', 'जानती हूँ? छह साल तक हर शुक्रवार मैं पियानो सिखाने उन्हीं लकड़ी की सीढ़ियों पर चढ़ती थी!'),
     ('graham', 'Twenty-five years ago? In that same house?', 'पच्चीस साल पहले? उसी घर में?'),
@@ -34,7 +34,7 @@ WALK = [
     (3, None, ["'जी हाँ, मैम, अब भी अपने मालिक का इंतज़ार कर रहा है।' निरंतर बनी हुई स्थिति बताने में", (None, 'still waiting for its owner'), 'बेजान बैग के साथ संबंधवाचक शब्द इट्स का प्रयोग करता है।']),
     (4, None, ["'क्या मैं यहाँ तेज़ धूप में काग़ज़ के टैग को एक बार फिर देख सकती हूँ?' भरपूर उजाले का वर्णन करते हुए", (None, 'in the bright sunlight'), 'दिखाता है कि रोशनी के दायरे में होने पर इन पूर्वसर्ग आता है।']),
     (5, None, ["'बेझिझक देखिए, मैम। सोमवार दोपहर लॉबी में अँधेरा था।' पूरी खुशी से अनुमति देने वाला अत्यंत प्रचलित मुहावरा", (None, 'Go right ahead'), 'विनम्र बातचीत में तुरंत हरी झंडी दे देता है।']),
-    (6, None, ["'एक पल रुकिए... नंबर बारह, लिंडन स्ट्रीट, और कोने पर खुदे बचपन के दो शुरुआती अक्षर!' लकड़ी या चमड़े पर उकेरे नाम के प्रथम अक्षरों को", (None, 'childhood initials carved on the corner'), 'बड़े सटीक ढंग से सामने लाता है।']),
+    (6, None, ["'एक पल रुकिए... नंबर बारह, लिंडन स्ट्रीट, और कोने पर खुदे बचपन के दो शुरुआती अक्षर!' लकड़ी या चमड़े पर उकेरे नाम के प्रथम अक्षरों को", (None, 'childhood initials written in the corner'), 'बड़े सटीक ढंग से सामने लाता है।']),
     (7, None, ["'मिस एवेलिन, आप तो दंग दिख रही हैं! क्या आप नंबर बारह, लिंडन स्ट्रीट को जानती हैं?' चेहरे के भाव से विस्मय भाँपकर कहा गया", (None, 'you look amazed'), 'क्रिया लुक के साथ विशेषण का सुंदर मेल है।']),
     (8, None, ["'जानती हूँ? छह साल तक हर शुक्रवार मैं पियानो सिखाने उन्हीं लकड़ी की सीढ़ियों पर चढ़ती थी!' वर्षों तक चली नियमित आदत को", (None, 'Every Friday for six years'), 'आवृत्ति और कुल अवधि एक साथ जोड़कर बताता है।']),
     (9, None, ["'पच्चीस साल पहले? उसी घर में?' बीते समय की दूरी मापने में संख्या के पीछे लगा", (None, 'Twenty-five years ago'), 'और पहचान की पुष्टि करता', (None, 'that same house'), 'तुरंत अतीत में ले जाते हैं।']),

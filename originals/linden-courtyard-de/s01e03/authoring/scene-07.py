@@ -33,7 +33,7 @@ STORY = [('hannah', 'Excuse me, Caleb? Sorry to disturb you.', 'Entschuldigen Si
   'Yes! It sounded like it came from the heating pipe in the corner.',
   'Ja! Es klang, als käme es aus dem Heizungsrohr in der Ecke.'),
  ('caleb',
-  'Feel the radiator. The top is warm, while the bottom is turning cool.',
+  'Feel the radiator. The bottom is warm, while the top is turning cool.',
   'Fühlen Sie mal am Heizkörper. Oben ist er warm, während er unten langsam abkühlt.'),
  ('hannah', 'Oh! Sometimes old pipes have a little air bubble at night.', 'Ach! Manchmal haben alte Rohre nachts eine kleine Luftblase.'),
  ('caleb',

@@ -24,7 +24,7 @@ STORY = [
     ("evelyn", "Do not worry! Cold sparkling water takes orange juice right out.", "Non si preoccupi! L'acqua fredda frizzante toglie subito il succo d'arancia."),
     ("hannah", "Here is a clean cloth and cold water, Arthur.", "Ecco un panno pulito e dell'acqua fredda, Arthur."),
     ("arthur", "Excuse me, ma'am, I shall retreat to my office with dignity!", "Mi scusi, signora, mi ritirerò nel mio ufficio con dignità!"),
-    ("evelyn", "Your scrambled eggs are delicious, Hannah. Tell Tessa my compliments!", "Le vostre uova strapazzate sono squisite, Hannah. Faccia i miei complimenti a Tessa!"),
+    ("evelyn", "The scrambled eggs are delicious, Hannah. Tell Tessa my compliments!", "Le vostre uova strapazzate sono squisite, Hannah. Faccia i miei complimenti a Tessa!"),
     ("hannah", "I will! Enjoy your morning.", "Sarà fatto! Buona mattinata."),
 ]
 WALK = [

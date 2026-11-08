@@ -14,7 +14,7 @@ TRANSITION = 'والآن أنصت إلى المشهد كاملاً بالسرع�
 OUTRO = 'اجتمع الشقيقان مع معلمتهما إيفلين حول طاولة الساحة، بينما تدور خلف نافذة البهو مشاورات لإنقاذ النزل! نلتقي في المشهد الثالث.'
 CLOSING = ('evelyn', 'See you later!')
 STORY = [
-    ('caleb', 'Before the movers cleared Linden Street, I saved this box from the attic shelf.', 'قبل أن يُخلي عمال النقل بيت شارع الزيزفون، أنقذتُ هذا الصندوق من رف العلية.'),
+    ('caleb', 'Before the movers cleared the house, I saved this box from the attic shelf.', 'قبل أن يخلي عمال النقل المنزل، احتفظت بهذا الصندوق من رف العلية.'),
     ('owen', "Open the white paper... no! Grandfather's carved wooden train engine!", 'افتح الورقة البيضاء... مستحيل! قاطرة القطار الخشبية التي نحتها الجد!'),
     ('caleb', 'Look underneath the wheels. Your name and mine are still penciled there.', 'انظر تحت العجلات. اسمك واسمي لا يزالان مكتوبين بقلم الرصاص هناك.'),
     ('owen', 'I thought this was lost when we sold the house! Why keep it for me?', 'ظننتُ أن هذه ضاعت عندما بعنا البيت! لماذا احتفظتَ بها من أجلي؟'),
@@ -28,7 +28,7 @@ STORY = [
     ('owen', 'Please sit with us, Miss Evelyn! Tell me I am not twenty-five years late for my lesson!', 'أرجوكِ اجلسي معنا يا آنسة إيفلين! قولي لي إنني لم أتأخر خمسةً وعشرين عاماً عن درسي!'),
 ]
 WALK = [
-    (0, None, ["'قبل أن يُخلي عمال النقل بيت شارع الزيزفون، أنقذتُ هذا الصندوق من رف العلية.' يشير الجمع", (None, 'the movers'), 'إلى الشركة التي أفرغت المنزل القديم عند البيع.']),
+    (0, None, ["'قبل أن يخلي عمال النقل المنزل، احتفظت بهذا الصندوق من رف العلية.' يشير الجمع", (None, 'the movers'), 'إلى الشركة التي أفرغت المنزل القديم عند البيع.']),
     (1, None, ["'افتح الورقة البيضاء... مستحيل! قاطرة القطار الخشبية التي نحتها الجد!' يتتبع الوصف في", (None, 'carved wooden train engine'), 'طريقة الصنع فالمادة فالنوع.']),
     (2, None, ["'انظر تحت العجلات. اسمك واسمي لا يزالان مكتوبين بقلم الرصاص هناك.' تتحول كلمة القلم إلى صفة فعلية في", (None, 'still penciled there'), 'بإيجاز أنيق.']),
     (3, None, ["'ظننتُ أن هذه ضاعت عندما بعنا البيت! لماذا احتفظتَ بها من أجلي؟' تختصر صيغة السؤال", (None, 'Why keep it for me'), 'الفعل المساعد والفاعل لصدق الانفعال.']),

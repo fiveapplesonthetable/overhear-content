@@ -15,13 +15,13 @@ OUTRO = 'ओवेन सिटी हॉल के अनुबंध विभ
 CLOSING = ('tessa', 'See you soon!')
 STORY = [
     ('tessa', 'Fresh from the oven: Friday lemon cake with extra corner pieces!', 'ओवन से एकदम ताज़ा निकला: अतिरिक्त कोने वाले टुकड़ों के साथ शुक्रवार वाला नींबू केक!'),
-    ('owen', 'One bite... Caleb, close your eyes! That tastes exactly like Linden Street!', 'एक कौर... केलेब, अपनी आँखें बंद करो! इसका स्वाद हूबहू लिंडन स्ट्रीट जैसा है!'),
+    ('owen', "One bite... Caleb, close your eyes! That tastes exactly like Grandfather's cake!", 'एक कौर... केलेब, अपनी आँखें बंद करो! इसका स्वाद बिल्कुल दादाजी के केक जैसा है!'),
     ('caleb', 'Tessa baked it this morning when Miss Evelyn told her our Friday story.', 'जब मिस एवेलिन ने आज सुबह उन्हें हमारी शुक्रवार वाली कहानी सुनाई, तब टेसा ने इसे बेक किया।'),
     ('owen', 'What kind of magical guesthouse did you walk into, little brother?', 'छोटे भाई, तुम यह किस तरह के जादुई गेस्टहाउस में आ पहुँचे हो?'),
     ('caleb', "The kind that fixes attic lamps in the rain and guards a stranger's bag.", 'उस तरह के जो बारिश में अटारी के लैंप जोड़ता है और किसी अजनबी के बैग की रखवाली करता है।'),
     ('owen', 'Then tell me why the poor gentleman behind the front desk looks ready to cry.', 'तो फिर मुझे बताओ कि स्वागत डेस्क के पीछे खड़े वे बेचारे सज्जन रोने को तैयार क्यों दिख रहे हैं।'),
     ('tessa', 'Oh! Did you see Arthur through the window? I tried to smile twice as wide!', 'ओह! क्या आपने खिड़की से आर्थर को देख लिया? मैंने तो दोगुनी चौड़ी मुस्कान बिखेरने की कोशिश की थी!'),
-    ('caleb', 'Tessa, is something wrong inside? Did the boiler pipe leak again?', 'टेसा, क्या अंदर कुछ गड़बड़ है? क्या बॉयलर का पाइप फिर से टपकने लगा?'),
+    ('caleb', 'Tessa, is something wrong inside? Did the boiler break again?', 'टेसा, क्या अंदर कुछ गड़बड़ है? क्या बॉयलर फिर से ख़राब हो गया?'),
     ('tessa', 'Worse than a pipe... a registered letter came from the building owner at noon.', 'पाइप से भी ज़्यादा बुरा... दोपहर बारह बजे इमारत के मालिक की ओर से एक रजिस्टर्ड खत आया है।'),
     ('owen', 'A property letter? Let Caleb and me see it. I work in city contracts, and he knows heritage law!', 'संपत्ति से जुड़ा खत? केलेब और मुझे देखने दीजिए। मैं शहर के अनुबंधों में काम करता हूँ, और इसे विरासत कानून पता है!'),
     ('caleb', "Wait, Owen, you still work at City Hall's contract desk?!", 'रुको, ओवेन, तुम अब भी सिटी हॉल के अनुबंध डेस्क पर काम करते हो?!'),

@@ -14,9 +14,9 @@ TRANSITION = 'Давайте переслушаем всю сцену целик
 OUTRO = 'Дедушкин деревянный паровозик вернулся в семью, а радостное изумление Оуэна при виде мисс Эвелин наполнило дворик смехом. Зато внутри Артур всё ещё смотрит на грозное письмо. До скорого!'
 CLOSING = ('evelyn', 'See you later!')
 STORY = [
-    ('caleb', 'Before the movers cleared Linden Street, I saved this box from the attic shelf.', 'До того как грузчики освободили дом на Липовой улице, я спас эту коробку с полки на чердаке.'),
+    ('caleb', 'Before the movers cleared the house, I saved this box from the attic shelf.', 'До того как грузчики освободили дом на Липовой улице, я спас эту коробку с полки на чердаке.'),
     ('owen', "Open the white paper... no! Grandfather's carved wooden train engine!", 'Разверни белую бумагу... да ладно! Дедушкин резной деревянный паровозик!'),
-    ('caleb', 'Look underneath the wheels. Your name and mine are still penciled there.', 'Загляни под колёса. Твоё имя и моё до сих пор написаны там карандашом.'),
+    ('caleb', 'Look underneath the wheels. Your name and mine are still penciled there.', 'До того, как грузчики освободили дом, я спас эту коробку с полки на чердаке.'),
     ('owen', 'I thought this was lost when we sold the house! Why keep it for me?', 'Я думал, он пропал, когда мы продали дом! Зачем ты сберёг его для меня?'),
     ('caleb', 'Because a house is brick and timber, Owen, while family is what we keep.', 'Потому что дом — это кирпич и брёвна, Оуэн, а семья — это то, что мы бережём.'),
     ('evelyn', 'And you two boys kept the best part of Number twelve right here.', 'И лучшую часть дома номер двенадцать вы оба, мальчики, сохранили прямо здесь.'),

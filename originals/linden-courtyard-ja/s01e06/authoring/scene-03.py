@@ -25,7 +25,7 @@ STORY = [
     ('graham', 'Smart thinking, Hannah. Caleb reads city building rules every single week.', '冴えてるな、ハンナ。ケイレブは毎週欠かさず市の建築規則を読んでいるからな。'),
     ('arthur', 'Oh, I could never bother a paying guest with our landlord troubles!', 'ああ、お金を払っているお客さまに、うちの家主とのもめごとでご迷惑はかけられません！'),
     ('hannah', 'After we guarded his blue suitcase all week? He will want to help!', '一週間ずっと彼の青いスーツケースを預かってあげたのに？きっと力を貸したいと思うわよ！'),
-    ('graham', 'Wait, here comes Tessa back from their table right now.', '待って、ちょうどテッサが二人のテーブルから戻ってくるぞ。'),
+    ('graham', 'Wait, Tessa is taking the cake out to their table right now.', '待って、ちょうど今、テッサが彼らのテーブルにケーキを運んでいるところだ。'),
 ]
 WALK = [
     (0, None, ["'十五年間、真鍮の鍵を磨き、ネクタイを整えてきたのに…たった三十日で消えてしまうなんて！' 動詞に語尾を付けた形を前置詞の後ろに並べた", (None, 'polishing brass keys and straightening ties'), 'で、長年の仕事を名詞のように扱っています。積み重ねてきた日々が目に浮かぶ表現です。']),
@@ -39,5 +39,5 @@ WALK = [
     (8, None, ["'冴えてるな、ハンナ。ケイレブは毎週欠かさず市の建築規則を読んでいるからな。' 強調語をはさんだ", (None, 'every single week'), 'では、「一つ一つの」を意味する形容詞が加わって、一度も抜かさないという気持ちが強まります。']),
     (9, None, ["'ああ、お金を払っているお客さまに、うちの家主とのもめごとでご迷惑はかけられません！' 人の手をわずらわせる動詞を使った", (None, 'I could never bother a paying guest'), 'では、過去形の助動詞が控えめな気持ちを表します。客を表す名詞の前の語は「料金を払っている」という意味です。']),
     (10, None, ["'一週間ずっと彼の青いスーツケースを預かってあげたのに？きっと力を貸したいと思うわよ！' 未来の気持ちを確信をもって言う", (None, 'He will want to help'), 'では、助動詞が予測を、次の動詞が願望を表します。二つを重ねて「きっと…したくなる」という意味になります。']),
-    (11, None, ["'待って、ちょうどテッサが二人のテーブルから戻ってくるぞ。' 副詞を文頭に出して倒置した", (None, 'here comes Tessa'), 'は、誰かが近づいてくるのを指さすような口語表現です。主語が代名詞のときは語順が変わるので覚えておきましょう。']),
+    (11, None, ["'待って、ちょうど今、テッサが彼らのテーブルにケーキを運んでいるところだ。' 相手に注意を促す現在進行形で", (None, 'Tessa is taking the cake out'), 'と状況を描写しています。']),
 ]

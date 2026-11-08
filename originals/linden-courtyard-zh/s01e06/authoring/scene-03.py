@@ -25,7 +25,7 @@ STORY = [
     ('graham', 'Smart thinking, Hannah. Caleb reads city building rules every single week.', '脑筋转得真快，汉娜。凯勒布每个星期都在研究市政建筑法规呢。'),
     ('arthur', 'Oh, I could never bother a paying guest with our landlord troubles!', '噢，我怎么好意思拿咱们和房东的麻烦事去打扰付费入住的客人呢！'),
     ('hannah', 'After we guarded his blue suitcase all week? He will want to help!', '咱们可是替他守了一整周蓝箱子呢！他肯定巴不得帮忙！'),
-    ('graham', 'Wait, here comes Tessa back from their table right now.', '等等，泰莎这会儿正好从他们那桌走回来了。'),
+    ('graham', 'Wait, Tessa is taking the cake out to their table right now.', '等等，泰莎这会儿正要把蛋糕端到他们那桌去。'),
 ]
 WALK = [
     (0, None, ["'十五年来擦亮黄铜钥匙、整理领带的心血……三十天后就要化为乌有了！' 过去分词搭配时间介词构成", (None, 'gone in thirty days'), '这里的介词表示在三十天之后一切便将消逝。']),
@@ -39,5 +39,5 @@ WALK = [
     (8, None, ["'脑筋转得真快，汉娜。凯勒布每个星期都在研究市政建筑法规呢。' 夸赞同伴点子妙、反应快时，一句简短的", (None, 'Smart thinking'), '在日常合作中既真诚又提气。']),
     (9, None, ["'噢，我怎么好意思拿咱们和房东的麻烦事去打扰付费入住的客人呢！' 情态动词加否定词构成", (None, 'I could never bother'), '贴切表现出老派店主不愿给客人添麻烦的矜持。']),
     (10, None, ["'咱们可是替他守了一整周蓝箱子呢！他肯定巴不得帮忙！' 笃定推测对方一定乐意相助时，用将来时说出", (None, 'He will want to help'), '语气干脆又充满信心。']),
-    (11, None, ["'等等，泰莎这会儿正好从他们那桌走回来了。' 看到某人正朝这边走来，口语常用全倒装句", (None, 'here comes Tessa'), '把人物名字放在动词后面，自然引出下一场戏。']),
+    (11, None, ["'等等，泰莎这会儿正要把蛋糕端到他们那桌去。' 英语用短语动词", (None, 'taking'), "来表示把食物“端出去、拿出去”。"]),
 ]

@@ -23,7 +23,7 @@ STORY = [
     ('arthur', 'Do not snoop, of course... wait, it fell open to the middle page!', 'No curioseen, por supuesto... ¡esperen, se abrió solo por la página central!'),
     ('hannah', 'Why are there neat pencil drawings of three guesthouses on our street?', '¿Por qué hay dibujos limpios a lápiz de tres posadas de nuestra calle?'),
     ('tessa', "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'", "Miren las palabras junto a la nuestra: 'Ancho del patio, ruido de la calle, puntuación de silencio: ¡nueve de diez!'"),
-    ('arthur', 'Nine out of ten?! Nobody measures lobbies unless...', '¡¿Nueve de diez?! Nadie mide vestíbulos a menos que...'),
+    ('arthur', 'Nine out of ten?! Nobody measures courtyards unless...', '¡¿Nueve de diez?! Nadie mide patios a menos que...'),
     ('tessa', 'Unless he writes for the annual Portland Travel Guide!', '¡A menos que escriba para la Guía Anual de Viajes de Portland!'),
     ('hannah', 'Quick, close it! Let us take it upstairs... wait, what is that loud clanking sound?', '¡Rápido, ciérralo! Subámoslo arriba... esperen, ¿qué es ese ruido metálico tan fuerte?'),
 ]
@@ -37,7 +37,7 @@ WALK = [
     (6, None, ["'No curioseen, por supuesto... ¡esperen, se abrió solo por la página central!' La combinación", (None, 'fell open'), 'retrata muy gráficamente un libro que cae y queda abierto.']),
     (7, None, ["'¿Por qué hay dibujos limpios a lápiz de tres posadas de nuestra calle?' Para preguntar '¿por qué hay...?' en plural se invierte a", (None, 'Why are there'), 'antes del sustantivo plural.']),
     (8, None, ["'Miren las palabras junto a la nuestra: Ancho del patio, ruido de la calle, puntuación de silencio: ¡nueve de diez!' En calificaciones o escalas, la proporción se dice con", (None, 'nine out of ten'), 'nueve de diez.']),
-    (9, None, ["'¡¿Nueve de diez?! Nadie mide vestíbulos a menos que...' El conector condicional", (None, 'unless'), "resume en una sola palabra nuestro 'a menos que' o 'salvo que'."]),
+    (9, None, ["'¡¿Nueve de diez?! Nadie mide patios a menos que...' El conector condicional", (None, 'unless'), "resume en una sola palabra nuestro 'a menos que' o 'salvo que'."]),
     (10, None, ["'¡A menos que escriba para la Guía Anual de Viajes de Portland!' En inglés, tras 'unless' se usa presente simple,", (None, 'Unless he writes'), 'donde el español exige subjuntivo.']),
     (11, None, ["'¡Rápido, ciérralo! Subámoslo arriba... esperen, ¿qué es ese ruido metálico tan fuerte?' El verbo sonoro", (None, 'clanking sound'), 'imita directamente el choque seco de piezas de metal.']),
 ]

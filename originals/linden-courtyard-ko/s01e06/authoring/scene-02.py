@@ -14,7 +14,7 @@ TRANSITION = '마치 아름다운 이중주 같은 세 사람의 대화를 다�
 OUTRO = '월요일 아침 기차에서 뒤바뀐 파란 가방 하나가 이십오 년 만의 사제 상봉까지 이끌어 주었네요. 하지만 로비 안에서는 아서의 한숨 소리가 깊어지고 있습니다. 다음 장면에서 확인해 봐요.'
 CLOSING = ('evelyn', 'See you later!')
 STORY = [
-    ('caleb', 'Before the movers cleared Linden Street, I saved this box from the attic shelf.', '이삿짐센터 직원들이 린든 거리 집을 비우기 전에 제가 다락방 선반에서 이 상자를 구해 두었어요.'),
+    ('caleb', 'Before the movers cleared the house, I saved this box from the attic shelf.', '이삿짐센터 직원들이 집을 비우기 전에 제가 다락방 선반에서 이 상자를 구해 두었어요.'),
     ('owen', "Open the white paper... no! Grandfather's carved wooden train engine!", '하얀 종이를 펼쳐 보니... 설마! 할아버지께서 깎으신 나무 기차 기관차잖아!'),
     ('caleb', 'Look underneath the wheels. Your name and mine are still penciled there.', '바퀴 바로 밑쪽을 봐요. 형 이름이랑 제 이름이 아직도 연필로 적혀 있어요.'),
     ('owen', 'I thought this was lost when we sold the house! Why keep it for me?', '집을 팔았을 때 이건 잃어버린 줄만 알았어! 왜 나를 위해 이걸 간직해 둔 거니?'),
@@ -28,7 +28,7 @@ STORY = [
     ('owen', 'Please sit with us, Miss Evelyn! Tell me I am not twenty-five years late for my lesson!', '저희와 함께 앉으세요, 에블린 선생님! 레슨 시간에 이십오 년이나 지각한 건 아니라고 말씀해 주세요!'),
 ]
 WALK = [
-    (0, None, ["'이삿짐센터 직원들이 린든 거리 집을 비우기 전에 제가 다락방 선반에서 이 상자를 구해 두었어요.' 가구와 짐을 옮겨 주는 이사업체 사람들을 일상 영어에서는 복수 명사", (None, 'the movers'), '단어로 간결하게 불러요.']),
+    (0, None, ["'이삿짐센터 직원들이 집을 비우기 전에 제가 다락방 선반에서 이 상자를 구해 두었어요.' 가구와 짐을 옮겨 주는 이사업체 사람들을 일상 영어에서는 복수 명사", (None, 'the movers'), '단어로 간결하게 불러요.']),
     (1, None, ["'하얀 종이를 펼쳐 보니... 설마! 할아버지께서 깎으신 나무 기차 기관차잖아!' 열차 맨 앞에서 객차를 이끄는 기관차 부분을 가리킬 때는 복합 명사", (None, 'train engine'), '표현을 써서 정교한 나무 장난감을 묘사해요.']),
     (2, None, ["'바퀴 바로 밑쪽을 봐요. 형 이름이랑 제 이름이 아직도 연필로 적혀 있어요.' 사물의 바로 아랫면이라는 위치를 짚는 전치사", (None, 'underneath'), '그리고 내 이름을 소유대명사로 줄여 나란히 묶은', (None, 'Your name and mine'), '구절이 세월을 건넌 형제애를 보여 줘요.']),
     (3, None, ["'집을 팔았을 때 이건 잃어버린 줄만 알았어! 왜 나를 위해 이걸 간직해 둔 거니?' 조동사와 주어를 덜어 내고 동사원형만 바로 붙인 구어체 의문문", (None, 'Why keep it'), '어순으로 벅차오르는 고마움을 짧게 물어요.']),

@@ -14,7 +14,7 @@ TRANSITION = 'Lassen Sie uns die Szene mit der Holzlokomotive jetzt noch einmal 
 OUTRO = 'Großvaters geschnitzte Lokomotive ist wieder da, und Owens Verblüffung beim Anblick von Frau Evelyn hat den Hof mit Lachen erfüllt! Drinnen aber starrt Arthur noch immer auf den Brief.'
 CLOSING = ('evelyn', 'See you later!')
 STORY = [('caleb',
-  'Before the movers cleared Linden Street, I saved this box from the attic shelf.',
+  'Before the movers cleared the house, I saved this box from the attic shelf.',
   'Bevor die Möbelpacker die Lindenstraße ausgeräumt haben, habe ich diesen Karton vom Dachbodenregal gerettet.'),
  ('owen',
   "Open the white paper... no! Grandfather's carved wooden train engine!",

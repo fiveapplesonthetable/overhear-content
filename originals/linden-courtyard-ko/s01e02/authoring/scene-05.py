@@ -24,7 +24,7 @@ STORY = [
     ('evelyn', 'Do not worry! Cold sparkling water takes orange juice right out.', '걱정하지 마세요! 차가운 탄산수면 오렌지 주스 얼룩이 쏙 빠진답니다.'),
     ('hannah', 'Here is a clean cloth and cold water, Arthur.', '여기 깨끗한 천이랑 찬물 있어요, 아서.'),
     ('arthur', "Excuse me, ma'am, I shall retreat to my office with dignity!", '실례하겠습니다, 선생님, 저는 품위를 지키며 제 사무실로 물러나 보겠습니다!'),
-    ('evelyn', 'Your scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', '스크램블드에그가 정말 맛있네요, 해나. 테사에게 제 찬사를 꼭 전해 주세요!'),
+    ('evelyn', 'The scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', '스크램블드에그가 정말 맛있네요, 그레이엄. 테사에게도 훌륭하다고 전해 주세요!'),
     ('hannah', 'I will! Enjoy your morning.', '꼭 전해 드릴게요! 기분 좋은 아침 시간 보내세요.'),
 ]
 WALK = [
@@ -38,6 +38,6 @@ WALK = [
     (7, None, ["'걱정하지 마세요! 차가운 탄산수면 오렌지 주스 얼룩이 쏙 빠진답니다.' 톡 쏘는 기포가 든 탄산수를 가리키는", (None, 'sparkling water'), '그리고 얼룩을 말끔히 빼낸다는 뜻의', (None, 'takes orange juice right out'), '살림 지혜가 담긴 유용한 표현이에요.']),
     (8, None, ["'여기 깨끗한 천이랑 찬물 있어요, 아서.' 물기나 얼룩을 닦아 내는 행주나 천 한 장은", (None, 'cloth'), '바로 이 단어를 셀 수 있는 명사로 써서 건네요.']),
     (9, None, ["'실례하겠습니다, 선생님, 저는 품위를 지키며 제 사무실로 물러나 보겠습니다!' 조금 고풍스럽고 익살스러운 어조로 자리를 피하겠다고 말할 때", (None, 'I shall retreat'), '이런 격식 있는 조동사와 동사를 골라 썼어요.']),
-    (10, None, ["'스크램블드에그가 정말 맛있네요, 해나. 테사에게 제 찬사를 꼭 전해 주세요!' 요리사에게 음식이 훌륭했다고 감탄 인사를 전해 달라고 할 때 항상 복수형인", (None, 'my compliments'), '여기서 이 표현을 관용적으로 써요.']),
+    (10, None, ["'스크램블드에그가 정말 맛있네요, 그레이엄. 테사에게도 훌륭하다고 전해 주세요!' 요리사에게 음식이 훌륭했다고 감탄 인사를 전해 달라고 할 때 항상 복수형인", (None, 'my compliments'), '여기서 이 표현을 관용적으로 써요.']),
     (11, None, ["'꼭 전해 드릴게요! 기분 좋은 아침 시간 보내세요.' 상대방의 부탁을 흔쾌히 들어주겠다고 짧게 약속할 때는", (None, 'I will'), '여기서 이 두 단어만으로도 믿음직한 대답이 완성돼요.']),
 ]

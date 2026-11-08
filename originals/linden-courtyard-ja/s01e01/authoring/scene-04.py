@@ -15,7 +15,7 @@ OUTRO = 'グレアムが重い青い鞄を運び、イヴリンは中庭を見�
 CLOSING = ('evelyn', 'Take care!')
 STORY = [
     ('hannah', "Welcome! Good morning, ma'am.", 'ようこそいらっしゃいませ！おはようございます、お客さま。'),
-    ('evelyn', 'Good morning, my dear. I have a room for Evelyn.', 'おはよう、お嬢さん。イヴリンの名前で部屋を予約しています。'),
+    ('evelyn', 'Good morning, my dear. I have a booking for Evelyn.', 'おはよう、お嬢さん。イヴリンの名前で予約しています。'),
     ('hannah', 'Yes, room four on the second floor! How was your train trip?', 'はい、二階の四号室ですね！列車の旅はいかがでしたか？'),
     ('evelyn', 'Quiet and pleasant, thank you, though this suitcase feels very heavy today.', '静かで快適でしたよ、ありがとう。ただ今日はこのスーツケースがずいぶん重く感じるけれど。'),
     ('graham', 'Allow me. Goodness, did you pack stones in here?', 'お持ちしましょう。おやまあ、この中に石でもお詰めになったのですか？'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'ようこそいらっしゃいませ！おはようございます、お客さま。' 女性のお客さまへ敬意を込めて呼びかけるときは文末に", (None, "Good morning, ma'am"), 'を添えるととても丁寧です。']),
-    (1, None, ["'おはよう、お嬢さん。イヴリンの名前で部屋を予約しています。' ホテルに到着して予約があることを伝えるときはシンプルに", (None, 'I have a room for Evelyn'), 'と自然に言えます。']),
+    (1, None, ["'おはよう、お嬢さん。イヴリンの名前で予約しています。' ホテルに到着して予約があることを伝えるときはシンプルに", (None, 'I have a booking for Evelyn'), 'と自然に言えます。']),
     (2, None, ["'はい、二階の四号室ですね！列車の旅はいかがでしたか？' 建物の階数を表すには接触の前置詞を使って", (None, 'on the second floor'), 'と言い、旅の感想は', (None, 'How was your train trip'), 'と温かく尋ねます。']),
     (3, None, ["'静かで快適でしたよ、ありがとう。ただ今日はこのスーツケースがずいぶん重く感じるけれど。' 手に持った感触を述べるときは物を主語にして", (None, 'feels very heavy'), 'と形容詞を続けます。']),
     (4, None, ["'お持ちしましょう。おやまあ、この中に石でもお詰めになったのですか？' 手助けを申し出る上品な一言", (None, 'Allow me'), 'に続けて、過去の疑問文', (None, 'did you pack stones'), 'と冗談を添えています。']),

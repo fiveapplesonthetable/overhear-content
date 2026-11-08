@@ -42,7 +42,7 @@
     },
     {
       "seg": 2,
-      "trans": "おはよう、お嬢さん。イヴリンの名前で部屋を予約しています。",
+      "trans": "おはよう、お嬢さん。イヴリンの名前で予約しています。",
       "words": [
         {
           "t": "Good",
@@ -101,11 +101,11 @@
           "gram": "限定詞"
         },
         {
-          "t": "room",
-          "lemma": "room",
+          "t": "booking",
+          "lemma": "booking",
           "pos": "noun",
-          "stress": "ɹum",
-          "gloss": "部屋；客室；余地",
+          "stress": "ˈbʊkɪŋ",
+          "gloss": "予約",
           "gram": "名詞（単数）"
         },
         {
@@ -118,11 +118,11 @@
         },
         {
           "t": "Evelyn.",
-          "lemma": "Evelyn",
+          "lemma": "evelyn",
           "pos": "name",
-          "stress": null,
-          "gloss": "イヴリン",
-          "gram": "固有名詞"
+          "stress": "ˈɛvəlɪn",
+          "gloss": "Evelyn",
+          "gram": "name"
         }
       ]
     },
@@ -1064,7 +1064,7 @@
     },
     {
       "seg": 18,
-      "trans": "おはよう、お嬢さん。イヴリンの名前で部屋を予約しています。",
+      "trans": "おはよう、お嬢さん。イヴリンの名前で予約しています。",
       "words": [
         {
           "t": "Good",
@@ -1123,11 +1123,11 @@
           "gram": "限定詞"
         },
         {
-          "t": "room",
-          "lemma": "room",
+          "t": "booking",
+          "lemma": "booking",
           "pos": "noun",
-          "stress": "ɹum",
-          "gloss": "部屋；客室；余地",
+          "stress": "ˈbʊkɪŋ",
+          "gloss": "予約",
           "gram": "名詞（単数）"
         },
         {
@@ -1140,17 +1140,17 @@
         },
         {
           "t": "Evelyn.",
-          "lemma": "Evelyn",
+          "lemma": "evelyn",
           "pos": "name",
-          "stress": null,
-          "gloss": "イヴリン",
-          "gram": "固有名詞"
+          "stress": "ˈɛvəlɪn",
+          "gloss": "Evelyn",
+          "gram": "name"
         }
       ]
     },
     {
       "seg": 20,
-      "trans": "イヴリン宛ての部屋があります",
+      "trans": "私は；私が 持っている；ある；（食事・時間を）とる 一つの；ある 予約 〜のために；〜用；〜の間 Evelyn",
       "words": [
         {
           "t": "I",
@@ -1177,11 +1177,11 @@
           "gram": "限定詞"
         },
         {
-          "t": "room",
-          "lemma": "room",
+          "t": "booking",
+          "lemma": "booking",
           "pos": "noun",
-          "stress": "ɹum",
-          "gloss": "部屋；客室；余地",
+          "stress": "ˈbʊkɪŋ",
+          "gloss": "予約",
           "gram": "名詞（単数）"
         },
         {
@@ -1194,11 +1194,11 @@
         },
         {
           "t": "Evelyn",
-          "lemma": "Evelyn",
+          "lemma": "evelyn",
           "pos": "name",
-          "stress": null,
-          "gloss": "イヴリン",
-          "gram": "固有名詞"
+          "stress": "ˈɛvəlɪn",
+          "gloss": "Evelyn",
+          "gram": "name"
         }
       ]
     },
@@ -2704,7 +2704,7 @@
     },
     {
       "seg": 73,
-      "trans": "おはよう、お嬢さん。イヴリンの名前で部屋を予約しています。",
+      "trans": "おはよう、お嬢さん。イヴリンの名前で予約しています。",
       "words": [
         {
           "t": "Good",
@@ -2763,11 +2763,11 @@
           "gram": "限定詞"
         },
         {
-          "t": "room",
-          "lemma": "room",
+          "t": "booking",
+          "lemma": "booking",
           "pos": "noun",
-          "stress": "ɹum",
-          "gloss": "部屋；客室；余地",
+          "stress": "ˈbʊkɪŋ",
+          "gloss": "予約",
           "gram": "名詞（単数）"
         },
         {
@@ -2780,11 +2780,11 @@
         },
         {
           "t": "Evelyn.",
-          "lemma": "Evelyn",
+          "lemma": "evelyn",
           "pos": "name",
-          "stress": null,
-          "gloss": "イヴリン",
-          "gram": "固有名詞"
+          "stress": "ˈɛvəlɪn",
+          "gloss": "Evelyn",
+          "gram": "name"
         }
       ]
     },
@@ -3680,805 +3680,27 @@
     }
   ],
   "lexicon": {
-    "a": {
-      "lemma": "a",
-      "stress": "ə",
-      "pos": "det",
-      "gloss": "一つの；ある",
+    "welcome": {
+      "lemma": "welcome",
+      "stress": "ˈwɛlkəm",
+      "pos": "interj",
+      "gloss": "ようこそ！；歓迎する",
       "meanings": [
         {
-          "en": "一つの；ある",
-          "note": "子音で始まる数えられる単数名詞の前に置きます（日本語にはない冠詞です）。"
+          "en": "ようこそ！；歓迎する",
+          "note": "到着した人や新しい仲間を迎える第一声 Welcome! / Welcome to the Linden Courtyard Inn! として使います（どこへ迎えるかは to で続けます）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "I have a blue pen.",
-          "trans": "私は青いペンを一本持っています。"
+          "text": "Welcome to Linden Courtyard Inn!",
+          "trans": "リンデン・コートヤード・インへようこそ！"
         },
         {
-          "text": "She wants a cup of tea.",
-          "trans": "彼女は紅茶を一杯ほしがっています。"
-        }
-      ],
-      "related": []
-    },
-    "above": {
-      "lemma": "above",
-      "stress": "əˈbʌv",
-      "pos": "prep",
-      "gloss": "〜より上に",
-      "meanings": [
-        {
-          "en": "〜より上に",
-          "note": "表面に直接触れていない上方の位置を表します（接触していれば on）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A lamp hangs above the table.",
-          "trans": "テーブルの上にランプが吊るされています。"
-        },
-        {
-          "text": "Our room is above the garden.",
-          "trans": "私たちの部屋は庭の上にあります。"
-        }
-      ],
-      "related": []
-    },
-    "allow": {
-      "lemma": "allow",
-      "stress": "əˈlaʊ",
-      "pos": "verb",
-      "gloss": "許可する；〜させてください",
-      "meanings": [
-        {
-          "en": "許可する；〜させてください",
-          "note": "Allow me.（お任せください／私にさせてください）は接客や手助けの定番表現です。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "allow"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "allows"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "allowed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "allowed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "allowing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Allow me to hold the door.",
-          "trans": "ドアを押さえさせてください。"
-        },
-        {
-          "text": "They do not allow pets inside.",
-          "trans": "館内へのペットの同伴はできません。"
-        }
-      ],
-      "related": []
-    },
-    "and": {
-      "lemma": "and",
-      "stress": "ænd",
-      "pos": "conj",
-      "gloss": "〜と…；そして",
-      "meanings": [
-        {
-          "en": "〜と…；そして",
-          "note": "会話では弱く /ən/ のように発音され、前後の語と滑らかにつながります。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bring bread and butter, please.",
-          "trans": "パンとバターを持ってきてください。"
-        },
-        {
-          "text": "Wash your hands and sit down.",
-          "trans": "手を洗って座ってください。"
-        }
-      ],
-      "related": []
-    },
-    "archway": {
-      "lemma": "archway",
-      "stress": "ˈɑɹtʃˌweɪ",
-      "pos": "noun",
-      "gloss": "アーチ道；アーチ型の通路",
-      "meanings": [
-        {
-          "en": "アーチ道；アーチ型の通路",
-          "note": "arch（アーチ）と way（通路）を組み合わせた複合名詞です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Walk through the stone archway.",
-          "trans": "石造りのアーチ道を通り抜けてください。"
-        },
-        {
-          "text": "The courtyard lies beyond that archway.",
-          "trans": "中庭はそのアーチ道の向こうにあります。"
-        }
-      ],
-      "related": []
-    },
-    "bag": {
-      "lemma": "bag",
-      "stress": "bæɡ",
-      "pos": "noun",
-      "gloss": "バッグ；袋；鞄",
-      "meanings": [
-        {
-          "en": "バッグ；袋；鞄",
-          "note": "買い物袋から旅行鞄まで幅広く使える便利な可算名詞です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Can I help you with your bag?",
-          "trans": "お荷物をお持ちしましょうか？"
-        },
-        {
-          "text": "Bring a cloth bag to the market.",
-          "trans": "市場へは布製の袋を持っていきなさい。"
-        }
-      ],
-      "related": []
-    },
-    "be": {
-      "lemma": "be",
-      "stress": "bi",
-      "pos": "verb",
-      "gloss": "〜である；〜にいる・ある",
-      "meanings": [
-        {
-          "en": "〜である；〜にいる・ある",
-          "note": "日本語の「〜です」と「〜にいる／ある」の両方を1語で担う最重要動詞です。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "be"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "is"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "was, were"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "been"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "being"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The keys are on the desk.",
-          "trans": "鍵は机の上にあります。"
-        },
-        {
-          "text": "She wants to be a teacher.",
-          "trans": "彼女は先生になりたがっています。"
-        }
-      ],
-      "related": []
-    },
-    "blue": {
-      "lemma": "blue",
-      "stress": "blu",
-      "pos": "adj",
-      "gloss": "青い",
-      "meanings": [
-        {
-          "en": "青い",
-          "note": "/l/ は舌先を上の歯茎にしっかり当てて発音します。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at that clear blue sky.",
-          "trans": "あの澄んだ青い空を見てください。"
-        },
-        {
-          "text": "My suitcase has a blue handle.",
-          "trans": "私のスーツケースには青い持ち手が付いています。"
-        }
-      ],
-      "related": []
-    },
-    "both": {
-      "lemma": "both",
-      "stress": "boʊθ",
-      "pos": "det",
-      "gloss": "両方の；二人とも",
-      "meanings": [
-        {
-          "en": "両方の；二人とも",
-          "note": "語末の th は舌先を軽く歯に当てて息を出します（/boʊθ/）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Both windows face the garden.",
-          "trans": "両方の窓が庭に面しています。"
-        },
-        {
-          "text": "Thank you both for your help.",
-          "trans": "お二人とも手伝ってくれてありがとう。"
-        }
-      ],
-      "related": []
-    },
-    "breakfast": {
-      "lemma": "breakfast",
-      "stress": "ˈbɹɛkfəst",
-      "pos": "noun",
-      "gloss": "朝食",
-      "meanings": [
-        {
-          "en": "朝食",
-          "note": "綴りは break + fast ですが、発音は /ˈbɹɛkfəst/ と短く詰まります。無冠詞で使うのが基本です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast is ready at seven.",
-          "trans": "朝食は7時に用意できます。"
-        },
-        {
-          "text": "We had eggs and toast for breakfast.",
-          "trans": "私たちは朝食に卵とトーストを食べました。"
-        }
-      ],
-      "related": []
-    },
-    "care": {
-      "lemma": "care",
-      "stress": "kɛɹ",
-      "pos": "noun",
-      "gloss": "気遣い；手入れ；世話",
-      "meanings": [
-        {
-          "en": "気遣い；手入れ；世話",
-          "note": "Take care!（お気をつけて／お大事に）は別れ際の温かい決まり文句です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Take care on the wet stone steps.",
-          "trans": "濡れた石段では足元に気をつけてください。"
-        },
-        {
-          "text": "Who takes care of the garden?",
-          "trans": "誰が庭の手入れをしているのですか？"
-        }
-      ],
-      "related": []
-    },
-    "carry": {
-      "lemma": "carry",
-      "stress": "ˈkæɹi",
-      "pos": "verb",
-      "gloss": "運ぶ；持ち歩く",
-      "meanings": [
-        {
-          "en": "運ぶ；持ち歩く",
-          "note": "手に持ったり抱えたりして移動させる動作を表します（過去形は carried）。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "carry"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "carries"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "carried"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "carried"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "carrying"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me carry that heavy suitcase.",
-          "trans": "その重いスーツケースを運びましょう。"
-        },
-        {
-          "text": "She always carries a small notebook.",
-          "trans": "彼女はいつも小さなノートを持ち歩いています。"
-        }
-      ],
-      "related": []
-    },
-    "courtyard": {
-      "lemma": "courtyard",
-      "stress": "ˈkɔɹtˌjɑɹd",
-      "pos": "noun",
-      "gloss": "中庭",
-      "meanings": [
-        {
-          "en": "中庭",
-          "note": "建物や塀に囲まれた屋外の中庭です。court + yard の複合名詞。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lanterns glow in the stone courtyard at dusk.",
-          "trans": "夕暮れになると石造りの中庭にランタンが灯ります。"
-        },
-        {
-          "text": "My window faces the quiet courtyard.",
-          "trans": "私の窓は静かな中庭に面しています。"
-        }
-      ],
-      "related": []
-    },
-    "dear": {
-      "lemma": "dear",
-      "stress": "dɪɹ",
-      "pos": "noun",
-      "gloss": "親愛なる人；まあ大変（間投詞的）",
-      "meanings": [
-        {
-          "en": "親愛なる人；まあ大変（間投詞的）",
-          "note": "高齢の女性が親しみを込めて my dear と呼んだり、Oh dear! / Dear me!（あら大変！）と驚いたりするときに使います。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Come sit by the window, dear.",
-          "trans": "窓のそばに座ってね、あなた。"
-        },
-        {
-          "text": "Oh dear, it started to rain.",
-          "trans": "あら大変、雨が降り始めました。"
-        }
-      ],
-      "related": []
-    },
-    "do": {
-      "lemma": "do",
-      "stress": "du",
-      "pos": "verb",
-      "gloss": "する；疑問・否定を作る助動詞",
-      "meanings": [
-        {
-          "en": "する；疑問・否定を作る助動詞",
-          "note": "一般動詞の疑問文（Do we use...?）や否定文（do not worry）を支える英語の要の語です。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "do"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "does"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "did"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "done"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "doing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you want sugar in your coffee?",
-          "trans": "コーヒーにお砂糖は入れますか？"
-        },
-        {
-          "text": "What should we do with this package?",
-          "trans": "この小包はどうしましょうか？"
-        }
-      ],
-      "related": []
-    },
-    "dress": {
-      "lemma": "dress",
-      "stress": "dɹɛs",
-      "pos": "noun",
-      "gloss": "ワンピース；ドレス",
-      "meanings": [
-        {
-          "en": "ワンピース；ドレス",
-          "note": "日本語の「ドレス」より幅広く、日常のお出かけ用ワンピースも指します。複数形は dresses。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "She packed two summer dresses in her bag.",
-          "trans": "彼女はバッグに夏用のワンピースを2着詰めました。"
-        },
-        {
-          "text": "That green dress looks lovely on you.",
-          "trans": "その緑のワンピース、とてもよくお似合いですね。"
-        }
-      ],
-      "related": []
-    },
-    "face": {
-      "lemma": "face",
-      "stress": "feɪs",
-      "pos": "verb",
-      "gloss": "〜に面している；向く；顔",
-      "meanings": [
-        {
-          "en": "〜に面している；向く；顔",
-          "note": "客室や窓が「中庭に面している（facing the courtyard）」と言うときにとても自然な動詞です。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "face"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "faces"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "faced"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "faced"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "facing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room three faces the quiet courtyard.",
-          "trans": "3号室は静かな中庭に面しています。"
-        },
-        {
-          "text": "Turn your chair to face the garden.",
-          "trans": "庭の方を向くように椅子を回してください。"
-        }
-      ],
-      "related": []
-    },
-    "favorite": {
-      "lemma": "favorite",
-      "stress": "ˈfeɪvɹɪt",
-      "pos": "adj",
-      "gloss": "お気に入りの；一番好きな",
-      "meanings": [
-        {
-          "en": "お気に入りの；一番好きな",
-          "note": "米国英語の綴りは favorite（英国英語は favourite）。前に most を付けず単体で「一番のお気に入り」を表します。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Cinnamon rolls are my favorite breakfast.",
-          "trans": "シナモンロールは私の一番好きな朝食です。"
-        },
-        {
-          "text": "Which room is your favorite?",
-          "trans": "どの部屋があなたのお気に入りですか？"
-        }
-      ],
-      "related": []
-    },
-    "feel": {
-      "lemma": "feel",
-      "stress": "fil",
-      "pos": "verb",
-      "gloss": "〜と感じられる；感じる",
-      "meanings": [
-        {
-          "en": "〜と感じられる；感じる",
-          "note": "物が主語で This suitcase feels heavy（この鞄はずっしり重く感じる）のように感触を表す用法が重要です。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "feel"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "feels"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "felt"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "felt"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "feeling"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This suitcase feels much lighter than mine.",
-          "trans": "このスーツケースは私のものよりずっと軽く感じます。"
-        },
-        {
-          "text": "I feel right at home here.",
-          "trans": "ここはまるで自分の家のようにくつろげます。"
-        }
-      ],
-      "related": []
-    },
-    "floor": {
-      "lemma": "floor",
-      "stress": "flɔɹ",
-      "pos": "noun",
-      "gloss": "階；床",
-      "meanings": [
-        {
-          "en": "階；床",
-          "note": "米国英語の first floor は1階、second floor は日本の「2階」にあたります（前置詞は on）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room six is on the second floor.",
-          "trans": "6号室は2階にあります。"
-        },
-        {
-          "text": "Sunlight warmed the wooden floor.",
-          "trans": "日差しが木の床を温めました。"
-        }
-      ],
-      "related": []
-    },
-    "for": {
-      "lemma": "for",
-      "stress": "fɔɹ",
-      "pos": "prep",
-      "gloss": "〜のために；〜用；〜の間",
-      "meanings": [
-        {
-          "en": "〜のために；〜用；〜の間",
-          "note": "宛先・用途（a room for Evelyn「イヴリン様のお部屋」）や期間を表す万能な前置詞です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This package arrived for room two.",
-          "trans": "この小包は2号室宛てに届きました。"
-        },
-        {
-          "text": "Wait here for just a moment.",
-          "trans": "ほんの少しの間ここで待っていてください。"
-        }
-      ],
-      "related": []
-    },
-    "four": {
-      "lemma": "four",
-      "stress": "fɔɹ",
-      "pos": "num",
-      "gloss": "四（4）",
-      "meanings": [
-        {
-          "en": "四（4）",
-          "note": "room four（4号室）のように番号として後ろに置くときは冠詞 the を付けません。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four looks out on the courtyard.",
-          "trans": "4号室は中庭に面しています。"
-        },
-        {
-          "text": "Please bring four spoons for the table.",
-          "trans": "テーブル用にスプーンを4本持ってきてください。"
-        }
-      ],
-      "related": []
-    },
-    "from": {
-      "lemma": "from",
-      "stress": "fɹʌm",
-      "pos": "prep",
-      "gloss": "〜から",
-      "meanings": [
-        {
-          "en": "〜から",
-          "note": "from seven thirty to ten（7時半から10時まで）のように起点や出身・出どころを表します。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Warm rolls came straight from the oven.",
-          "trans": "温かいロールパンがオーブンから出てきたばかりです。"
-        },
-        {
-          "text": "How far is the station from here?",
-          "trans": "ここから駅までどのくらいありますか？"
+          "text": "You are very welcome! Enjoy your tea.",
+          "trans": "どういたしまして！どうぞお茶をお楽しみください。"
         }
       ],
       "related": []
@@ -4534,27 +3756,127 @@
       ],
       "related": []
     },
-    "goodness": {
-      "lemma": "goodness",
-      "stress": "ˈɡʊdnəs",
+    "morning": {
+      "lemma": "morning",
+      "stress": "ˈmɔɹnɪŋ",
       "pos": "noun",
-      "gloss": "まあ！；なんてこと（間投詞的）；善良",
+      "gloss": "朝；午前中",
       "meanings": [
         {
-          "en": "まあ！；なんてこと（間投詞的）；善良",
-          "note": "驚いたときの Goodness! や、ほっとしたときの thank goodness（やれやれ助かった）は上品で穏やかな表現です。"
+          "en": "朝；午前中",
+          "note": "Good morning!（おはようございます）のほか、morning train（朝の列車）、morning coffee のように名詞の前でもよく使います。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Oh goodness, look at the time!",
-          "trans": "あらまあ、もうこんな時間！"
+          "text": "Good morning! Coffee is hot and ready.",
+          "trans": "おはようございます！熱いコーヒーが入っていますよ。"
         },
         {
-          "text": "Thank goodness nobody lost a passport.",
-          "trans": "誰もパスポートをなくさなくて本当によかったです。"
+          "text": "Rain fell softly all morning.",
+          "trans": "午前中ずっと静かに雨が降っていました。"
+        }
+      ],
+      "related": []
+    },
+    "ma'am": {
+      "lemma": "ma'am",
+      "stress": "mæm",
+      "pos": "noun",
+      "gloss": "奥様；お客様（女性への丁寧な呼びかけ）",
+      "meanings": [
+        {
+          "en": "奥様；お客様（女性への丁寧な呼びかけ）",
+          "note": "madam の短縮形で /mæm/ と読みます。米国のホテルやお店で大人の女性客に呼びかけるとても丁寧な敬称です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Right this way, ma'am.",
+          "trans": "こちらへどうぞ、お客様。"
+        },
+        {
+          "text": "May I take your coat, ma'am?",
+          "trans": "コートをお預かりいたしましょうか、お客様？"
+        }
+      ],
+      "related": []
+    },
+    "my": {
+      "lemma": "my",
+      "stress": "maɪ",
+      "pos": "det",
+      "gloss": "私の",
+      "meanings": [
+        {
+          "en": "私の",
+          "note": "単数名詞の前でも複数名詞の前でも形は変わらず my を使います（my glasses, my first day）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Today is my first morning at the desk.",
+          "trans": "今日はフロントでの私の最初の朝です。"
+        },
+        {
+          "text": "Where did I put my reading glasses?",
+          "trans": "老眼鏡をどこに置いたかしら？"
+        }
+      ],
+      "related": []
+    },
+    "dear": {
+      "lemma": "dear",
+      "stress": "dɪɹ",
+      "pos": "noun",
+      "gloss": "親愛なる人；まあ大変（間投詞的）",
+      "meanings": [
+        {
+          "en": "親愛なる人；まあ大変（間投詞的）",
+          "note": "高齢の女性が親しみを込めて my dear と呼んだり、Oh dear! / Dear me!（あら大変！）と驚いたりするときに使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Come sit by the window, dear.",
+          "trans": "窓のそばに座ってね、あなた。"
+        },
+        {
+          "text": "Oh dear, it started to rain.",
+          "trans": "あら大変、雨が降り始めました。"
+        }
+      ],
+      "related": []
+    },
+    "i": {
+      "lemma": "i",
+      "stress": "aɪ",
+      "pos": "pron",
+      "gloss": "私は；私が",
+      "meanings": [
+        {
+          "en": "私は；私が",
+          "note": "一人称単数の主格代名詞で、文の途中であっても常に大文字の I で書きます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I am Hannah, the new receptionist.",
+          "trans": "私は新しく来た受付のハンナです。"
+        },
+        {
+          "text": "May I help you with your luggage?",
+          "trans": "お荷物をお持ちしましょうか？"
         }
       ],
       "related": []
@@ -4622,678 +3944,102 @@
       ],
       "related": []
     },
-    "heavy": {
-      "lemma": "heavy",
-      "stress": "ˈhɛvi",
-      "pos": "adj",
-      "gloss": "重い；激しい（雨など）",
-      "meanings": [
-        {
-          "en": "重い；激しい（雨など）",
-          "note": "荷物の重さだけでなく、激しい雨を heavy rain と言うのにも使います（強い雨を strong rain とは言いません）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Careful, that blue suitcase is heavy.",
-          "trans": "気をつけて、その青いスーツケースは重いですよ。"
-        },
-        {
-          "text": "Let me help you with that heavy box.",
-          "trans": "その重い箱を持つのを手伝わせてください。"
-        }
-      ],
-      "related": []
-    },
-    "here": {
-      "lemma": "here",
-      "stress": "hɪɹ",
-      "pos": "adv",
-      "gloss": "ここに；ここで；さあどうぞ",
-      "meanings": [
-        {
-          "en": "ここに；ここで；さあどうぞ",
-          "note": "物を手渡すときの Here is your key. や Here you are.（はい、どうぞ）は接客や日常の必須表現です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is your brass key for room four.",
-          "trans": "はい、4号室の真鍮の鍵です。"
-        },
-        {
-          "text": "Sign your name right here, please.",
-          "trans": "まさにこちらにご署名をお願いします。"
-        }
-      ],
-      "related": []
-    },
-    "how": {
-      "lemma": "how",
-      "stress": "haʊ",
-      "pos": "adv",
-      "gloss": "どのように；どれほど；なんと〜！",
-      "meanings": [
-        {
-          "en": "どのように；どれほど；なんと〜！",
-          "note": "疑問文（How was your trip?「旅はいかがでしたか？」）のほか、感嘆文（How strange!「なんて不思議！」）を作ります。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "How do you take your coffee?",
-          "trans": "コーヒーはどのようにお召し上がりですか？"
-        },
-        {
-          "text": "How nice to see you again!",
-          "trans": "またお会いできてなんて嬉しいのでしょう！"
-        }
-      ],
-      "related": []
-    },
-    "i": {
-      "lemma": "i",
-      "stress": "aɪ",
-      "pos": "pron",
-      "gloss": "私は；私が",
-      "meanings": [
-        {
-          "en": "私は；私が",
-          "note": "一人称単数の主格代名詞で、文の途中であっても常に大文字の I で書きます。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I am Hannah, the new receptionist.",
-          "trans": "私は新しく来た受付のハンナです。"
-        },
-        {
-          "text": "May I help you with your luggage?",
-          "trans": "お荷物をお持ちしましょうか？"
-        }
-      ],
-      "related": []
-    },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "〜の中に；〜で；あと〜で（時間）",
-      "meanings": [
-        {
-          "en": "〜の中に；〜で；あと〜で（時間）",
-          "note": "空間の「中（in the fridge）」のほか、今から数えた時間「〜以内に・あと〜で（in ten minutes）」を表す重要用法があります！"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait in the warm dining room.",
-          "trans": "暖かいダイニングルームでお待ちください。"
-        },
-        {
-          "text": "Coffee will be ready in three minutes.",
-          "trans": "コーヒーはあと3分で入ります。"
-        }
-      ],
-      "related": []
-    },
-    "it": {
-      "lemma": "it",
-      "stress": "ɪt",
-      "pos": "pron",
-      "gloss": "それは；それを；（天候・時間などの形式主語）",
-      "meanings": [
-        {
-          "en": "それは；それを；（天候・時間などの形式主語）",
-          "note": "単数の物を指すほか、英語は主語を空欄にできないため It is raining（雨が降っている）のような形式主語としても必須です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle, and it opens easily.",
-          "trans": "ハンドルを持ち上げれば、簡単に開きますよ。"
-        },
-        {
-          "text": "It is sunny and warm this afternoon.",
-          "trans": "今日の午後は晴れて暖かいです。"
-        }
-      ],
-      "related": []
-    },
-    "just": {
-      "lemma": "just",
-      "stress": "dʒʌst",
-      "pos": "adv",
-      "gloss": "たった今；ちょうど；ただ〜だけ",
-      "meanings": [
-        {
-          "en": "たった今；ちょうど；ただ〜だけ",
-          "note": "過去形と組んで「たった今〜したところ（just waved）」、名詞の前で「ほんの〜だけ（just half a glass）」と多彩に働きます。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Give me just one minute, please.",
-          "trans": "ほんの1分だけお待ちください。"
-        },
-        {
-          "text": "The taxi just pulled up outside.",
-          "trans": "ちょうど外にタクシーが止まったところです。"
-        }
-      ],
-      "related": []
-    },
-    "key": {
-      "lemma": "key",
-      "stress": "ki",
-      "pos": "noun",
-      "gloss": "鍵；キー",
-      "meanings": [
-        {
-          "en": "鍵；キー",
-          "note": "綴りは ey ですが発音は /ki/（キー）です。under lock and key は「しっかり鍵を掛けて厳重に」という慣用句。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is the brass key to room four.",
-          "trans": "はい、4号室の真鍮の鍵です。"
-        },
-        {
-          "text": "Eight keys hang neatly behind the desk.",
-          "trans": "机の後ろに8本の鍵が整然と掛かっています。"
-        }
-      ],
-      "related": []
-    },
-    "ma'am": {
-      "lemma": "ma'am",
-      "stress": "mæm",
-      "pos": "noun",
-      "gloss": "奥様；お客様（女性への丁寧な呼びかけ）",
-      "meanings": [
-        {
-          "en": "奥様；お客様（女性への丁寧な呼びかけ）",
-          "note": "madam の短縮形で /mæm/ と読みます。米国のホテルやお店で大人の女性客に呼びかけるとても丁寧な敬称です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Right this way, ma'am.",
-          "trans": "こちらへどうぞ、お客様。"
-        },
-        {
-          "text": "May I take your coat, ma'am?",
-          "trans": "コートをお預かりいたしましょうか、お客様？"
-        }
-      ],
-      "related": []
-    },
-    "me": {
-      "lemma": "me",
-      "stress": "mi",
-      "pos": "pron",
-      "gloss": "私を；私に",
-      "meanings": [
-        {
-          "en": "私を；私に",
-          "note": "動詞や前置詞の直後に置く一人称の目的格です（Tell me「私に教えて」、Allow me「私に任せて」）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Excuse me, where is the dining room?",
-          "trans": "すみません、ダイニングルームはどこですか？"
-        },
-        {
-          "text": "Save a cup of coffee for me.",
-          "trans": "私の分もコーヒーを一杯取っておいてください。"
-        }
-      ],
-      "related": []
-    },
-    "morning": {
-      "lemma": "morning",
-      "stress": "ˈmɔɹnɪŋ",
-      "pos": "noun",
-      "gloss": "朝；午前中",
-      "meanings": [
-        {
-          "en": "朝；午前中",
-          "note": "Good morning!（おはようございます）のほか、morning train（朝の列車）、morning coffee のように名詞の前でもよく使います。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Coffee is hot and ready.",
-          "trans": "おはようございます！熱いコーヒーが入っていますよ。"
-        },
-        {
-          "text": "Rain fell softly all morning.",
-          "trans": "午前中ずっと静かに雨が降っていました。"
-        }
-      ],
-      "related": []
-    },
-    "much": {
-      "lemma": "much",
-      "stress": "mʌtʃ",
-      "pos": "adv",
-      "gloss": "ずっと（比較級の強調）；たくさん（不可算）",
-      "meanings": [
-        {
-          "en": "ずっと（比較級の強調）；たくさん（不可算）",
-          "note": "Thank you very much のほか、比較級の前に置いて much better（ずっと良い・ずっと好き）と強める用法が便利です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Thank you so much for your help!",
-          "trans": "手伝ってくださって本当にありがとうございます！"
-        },
-        {
-          "text": "How much sugar do you like in tea?",
-          "trans": "紅茶にはお砂糖をどのくらい入れますか？"
-        }
-      ],
-      "related": []
-    },
-    "music": {
-      "lemma": "music",
-      "stress": "ˈmjuzɪk",
-      "pos": "noun",
-      "gloss": "音楽",
-      "meanings": [
-        {
-          "en": "音楽",
-          "note": "sheet music で「楽譜（1枚ずつの譜面）」を表す不可算名詞になります。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Soft piano music played in the parlor.",
-          "trans": "談話室で柔らかなピアノ音楽が流れていました。"
-        },
-        {
-          "text": "Do you listen to music while you bake?",
-          "trans": "パンを焼きながら音楽を聴きますか？"
-        }
-      ],
-      "related": []
-    },
-    "my": {
-      "lemma": "my",
-      "stress": "maɪ",
+    "a": {
+      "lemma": "a",
+      "stress": "ə",
       "pos": "det",
-      "gloss": "私の",
+      "gloss": "一つの；ある",
       "meanings": [
         {
-          "en": "私の",
-          "note": "単数名詞の前でも複数名詞の前でも形は変わらず my を使います（my glasses, my first day）。"
+          "en": "一つの；ある",
+          "note": "子音で始まる数えられる単数名詞の前に置きます（日本語にはない冠詞です）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Today is my first morning at the desk.",
-          "trans": "今日はフロントでの私の最初の朝です。"
+          "text": "I have a blue pen.",
+          "trans": "私は青いペンを一本持っています。"
         },
         {
-          "text": "Where did I put my reading glasses?",
-          "trans": "老眼鏡をどこに置いたかしら？"
+          "text": "She wants a cup of tea.",
+          "trans": "彼女は紅茶を一杯ほしがっています。"
         }
       ],
       "related": []
     },
-    "need": {
-      "lemma": "need",
-      "stress": "nid",
-      "pos": "verb",
-      "gloss": "必要とする；〜する必要がある",
-      "meanings": [
-        {
-          "en": "必要とする；〜する必要がある",
-          "note": "物が必要なら need plain butter、動作が必要なら need to read のように to + 原形を続けます。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "need"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "needs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "needed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "needed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "needing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "私が知っておくべきことをすべて教えてください。"
-        },
-        {
-          "text": "Do you need an extra towel for your room?",
-          "trans": "お部屋に予備のタオルは必要ですか？"
-        }
-      ],
-      "related": []
-    },
-    "number": {
-      "lemma": "number",
-      "stress": "ˈnʌmbɚ",
+    "booking": {
+      "lemma": "booking",
+      "stress": "ˈbʊkɪŋ",
       "pos": "noun",
-      "gloss": "番号；数",
+      "gloss": "予約",
       "meanings": [
         {
-          "en": "番号；数",
-          "note": "電話番号（phone number）のほか、番号の前に添えて key, number four（4番の鍵）のようにも使います。"
+          "en": "予約",
+          "note": "reservation と並んでホテルや旅行の予約を指す名詞です。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "May I have your phone number, please?",
-          "trans": "お電話番号をいただけますか？"
+          "text": "We have a weekend booking for two.",
+          "trans": "週末に2名様の予約が入っています。"
         },
         {
-          "text": "Check the brass number on your door.",
-          "trans": "ドアに付いた真鍮の番号を確認してください。"
+          "text": "She checked every phone booking.",
+          "trans": "彼女は電話予約をすべて確認しました。"
         }
       ],
       "related": []
     },
-    "old": {
-      "lemma": "old",
-      "stress": "oʊld",
-      "pos": "adj",
-      "gloss": "古い；昔からの；年配の",
-      "meanings": [
-        {
-          "en": "古い；昔からの；年配の",
-          "note": "物の古さ（the old tree）、昔からの親しさ（old friends）、人の年齢（young or old）のすべてに使えます。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Portland has a charming old port district.",
-          "trans": "ポートランドには魅力的な古い港湾地区があります。"
-        },
-        {
-          "text": "This brass bell is eighty years old.",
-          "trans": "この真鍮のベルは80年前のものです。"
-        }
-      ],
-      "related": []
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɑn",
+    "for": {
+      "lemma": "for",
+      "stress": "fɔɹ",
       "pos": "prep",
-      "gloss": "〜の上に（接触）；〜に（曜日・特定の日・階）",
+      "gloss": "〜のために；〜用；〜の間",
       "meanings": [
         {
-          "en": "〜の上に（接触）；〜に（曜日・特定の日・階）",
-          "note": "表面への接触（on my head「頭の上に」）、階数（on the second floor）、特定の日（on my first day）、列車への乗車（on the evening train）まで幅広く担います。"
+          "en": "〜のために；〜用；〜の間",
+          "note": "宛先・用途（a room for Evelyn「イヴリン様のお部屋」）や期間を表す万能な前置詞です。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Your key is on the wooden desk.",
-          "trans": "あなたの鍵は木の机の上にあります。"
+          "text": "This package arrived for room two.",
+          "trans": "この小包は2号室宛てに届きました。"
         },
         {
-          "text": "Tessa bakes apple rolls on Fridays.",
-          "trans": "テッサは毎週金曜日にりんごのロールパンを焼きます。"
+          "text": "Wait here for just a moment.",
+          "trans": "ほんの少しの間ここで待っていてください。"
         }
       ],
       "related": []
     },
-    "only": {
-      "lemma": "only",
-      "stress": "ˈoʊnli",
-      "pos": "adv",
-      "gloss": "〜だけ；ほんの〜しか",
+    "yes": {
+      "lemma": "yes",
+      "stress": "jɛs",
+      "pos": "interj",
+      "gloss": "はい；ええ",
       "meanings": [
         {
-          "en": "〜だけ；ほんの〜しか",
-          "note": "説明したい語のすぐ前に置くのが基本です（only my pen「私のペンだけ」）。"
+          "en": "はい；ええ",
+          "note": "質問に対する肯定の返事のほか、自分の目で確かめて「よし、やっぱりそうだ！（yes, her initials are right here!）」と頷くときにも使います。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "We have only eight rooms at the inn.",
-          "trans": "この宿には客室が8つしかありません。"
+          "text": "Yes, eight rooms and eight brass keys.",
+          "trans": "はい、8つの客室に8本の真鍮の鍵です。"
         },
         {
-          "text": "This is the only key to the garden shed.",
-          "trans": "これが庭の小屋の唯一の鍵です。"
-        }
-      ],
-      "related": []
-    },
-    "or": {
-      "lemma": "or",
-      "stress": "ɔɹ",
-      "pos": "conj",
-      "gloss": "または；それとも",
-      "meanings": [
-        {
-          "en": "または；それとも",
-          "note": "選択疑問文（coffee or black tea?「コーヒーになさいますか、それとも紅茶ですか？」）を作る基本接続詞です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Would you like coffee or tea?",
-          "trans": "コーヒーと紅茶のどちらになさいますか？"
-        },
-        {
-          "text": "Call me today or tomorrow morning.",
-          "trans": "今日か明日の朝にお電話ください。"
-        }
-      ],
-      "related": []
-    },
-    "pack": {
-      "lemma": "pack",
-      "stress": "pæk",
-      "pos": "verb",
-      "gloss": "荷造りする；（箱・袋の）一個（名詞）",
-      "meanings": [
-        {
-          "en": "荷造りする；（箱・袋の）一個（名詞）",
-          "note": "動詞「鞄に詰める（pack stones）」のほか、名詞でバターなどの「1パック（which pack of butter）」も表します。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "pack"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "packs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "packed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "packed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "packing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Did you pack an umbrella for the trip?",
-          "trans": "旅行用に傘は詰めましたか？"
-        },
-        {
-          "text": "He packed two warm sweaters and a book.",
-          "trans": "彼は暖かいセーター2枚と本を1冊詰めました。"
-        }
-      ],
-      "related": []
-    },
-    "pleasant": {
-      "lemma": "pleasant",
-      "stress": "ˈplɛzənt",
-      "pos": "adj",
-      "gloss": "心地よい；快適な；感じの良い",
-      "meanings": [
-        {
-          "en": "心地よい；快適な；感じの良い",
-          "note": "旅や天気、会話が「穏やかで気持ちよかった（Quiet and pleasant）」と述べるときの上品な形容詞です（母音は /ɛ/）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "We had a very pleasant chat over tea.",
-          "trans": "お茶を飲みながらとても心地よいおしゃべりをしました。"
-        },
-        {
-          "text": "Have a pleasant evening in Portland!",
-          "trans": "ポートランドで快適な夜をお過ごしください！"
-        }
-      ],
-      "related": []
-    },
-    "quiet": {
-      "lemma": "quiet",
-      "stress": "ˈkwaɪət",
-      "pos": "adj",
-      "gloss": "静かな；落ち着いた",
-      "meanings": [
-        {
-          "en": "静かな；落ち着いた",
-          "note": "綴りの似ている quite（かなり /kwaɪt/）と混同しないよう注意！こちらは2音節で /ˈkwaɪət/（クワイエット）です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room eight is on the quiet garden side.",
-          "trans": "8号室は静かな庭側にあります。"
-        },
-        {
-          "text": "Mornings are peaceful and quiet here.",
-          "trans": "ここの朝は穏やかで静かです。"
-        }
-      ],
-      "related": []
-    },
-    "right": {
-      "lemma": "right",
-      "stress": "ɹaɪt",
-      "pos": "adj",
-      "gloss": "まさに；すぐ；正しい；右",
-      "meanings": [
-        {
-          "en": "まさに；すぐ；正しい；右",
-          "note": "場所や時間の直前に置くと「ちょうど・まさに」と強調します（right here「まさにここ」、right now「今すぐ」、right away「ただちに」、fit right in「ぴったり馴染む」）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You have the right room key now.",
-          "trans": "これで正しい部屋の鍵をお持ちですね。"
-        },
-        {
-          "text": "Your room is the second door on the right.",
-          "trans": "あなたのお部屋は右側の2番目のドアです。"
+          "text": "Yes, please! I would love some coffee.",
+          "trans": "はい、ぜひ！コーヒーをいただきたいです。"
         }
       ],
       "related": []
@@ -5323,6 +4069,81 @@
       ],
       "related": []
     },
+    "four": {
+      "lemma": "four",
+      "stress": "fɔɹ",
+      "pos": "num",
+      "gloss": "四（4）",
+      "meanings": [
+        {
+          "en": "四（4）",
+          "note": "room four（4号室）のように番号として後ろに置くときは冠詞 the を付けません。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four looks out on the courtyard.",
+          "trans": "4号室は中庭に面しています。"
+        },
+        {
+          "text": "Please bring four spoons for the table.",
+          "trans": "テーブル用にスプーンを4本持ってきてください。"
+        }
+      ],
+      "related": []
+    },
+    "on": {
+      "lemma": "on",
+      "stress": "ɑn",
+      "pos": "prep",
+      "gloss": "〜の上に（接触）；〜に（曜日・特定の日・階）",
+      "meanings": [
+        {
+          "en": "〜の上に（接触）；〜に（曜日・特定の日・階）",
+          "note": "表面への接触（on my head「頭の上に」）、階数（on the second floor）、特定の日（on my first day）、列車への乗車（on the evening train）まで幅広く担います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your key is on the wooden desk.",
+          "trans": "あなたの鍵は木の机の上にあります。"
+        },
+        {
+          "text": "Tessa bakes apple rolls on Fridays.",
+          "trans": "テッサは毎週金曜日にりんごのロールパンを焼きます。"
+        }
+      ],
+      "related": []
+    },
+    "the": {
+      "lemma": "the",
+      "stress": "ðə",
+      "pos": "det",
+      "gloss": "その；例の（定冠詞）",
+      "meanings": [
+        {
+          "en": "その；例の（定冠詞）",
+          "note": "話し手と聞き手の間で「どのドアか・どの鍵か」が共通してわかる名詞の前に置きます（the door, the front desk）。母音の前では /ði/ と読みます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle on the front door.",
+          "trans": "玄関のドアのハンドルを持ち上げてください。"
+        },
+        {
+          "text": "All the keys hang behind the desk.",
+          "trans": "鍵はすべてフロントの後ろに掛かっています。"
+        }
+      ],
+      "related": []
+    },
     "second": {
       "lemma": "second",
       "stress": "ˈsɛkənd",
@@ -5348,166 +4169,65 @@
       ],
       "related": []
     },
-    "seven": {
-      "lemma": "seven",
-      "stress": "ˈsɛvən",
-      "pos": "num",
-      "gloss": "七（7）",
+    "floor": {
+      "lemma": "floor",
+      "stress": "flɔɹ",
+      "pos": "noun",
+      "gloss": "階；床",
       "meanings": [
         {
-          "en": "七（7）",
-          "note": "日本語の「セブン」は「ブ」になりますが、英語は下唇を上の歯に当てる /v/ で /ˈsɛvən/ と発音します。seven thirty は「7時30分」。"
+          "en": "階；床",
+          "note": "米国英語の first floor は1階、second floor は日本の「2階」にあたります（前置詞は on）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Tessa opens her bakery at seven sharp.",
-          "trans": "テッサは7時ちょうどにパン屋を開けます。"
+          "text": "Room six is on the second floor.",
+          "trans": "6号室は2階にあります。"
         },
         {
-          "text": "Room seven faces the linden tree.",
-          "trans": "7号室は菩提樹に面しています。"
+          "text": "Sunlight warmed the wooden floor.",
+          "trans": "日差しが木の床を温めました。"
         }
       ],
       "related": []
     },
-    "sheet": {
-      "lemma": "sheet",
-      "stress": "ʃit",
-      "pos": "noun",
-      "gloss": "一枚の紙；シーツ",
+    "how": {
+      "lemma": "how",
+      "stress": "haʊ",
+      "pos": "adv",
+      "gloss": "どのように；どれほど；なんと〜！",
       "meanings": [
         {
-          "en": "一枚の紙；シーツ",
-          "note": "母音は長い /i/（/ʃit/）なので短く発音しないよう注意！sheet music で「楽譜」を表します。"
+          "en": "どのように；どれほど；なんと〜！",
+          "note": "疑問文（How was your trip?「旅はいかがでしたか？」）のほか、感嘆文（How strange!「なんて不思議！」）を作ります。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Sign your name on the top sheet.",
-          "trans": "一番上の用紙にお名前をご署名ください。"
+          "text": "How do you take your coffee?",
+          "trans": "コーヒーはどのようにお召し上がりですか？"
         },
         {
-          "text": "Fresh cotton sheets dry fast in the breeze.",
-          "trans": "清潔な綿のシーツはそよ風ですぐに乾きます。"
+          "text": "How nice to see you again!",
+          "trans": "またお会いできてなんて嬉しいのでしょう！"
         }
       ],
       "related": []
     },
-    "stairs": {
-      "lemma": "stairs",
-      "stress": "stɛɹz",
-      "pos": "noun",
-      "gloss": "階段",
-      "meanings": [
-        {
-          "en": "階段",
-          "note": "複数の段が集まって階段を成すため、屋内階段は常に複数形の the stairs で表します（1段だけなら step）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Follow me up the wooden stairs.",
-          "trans": "木の階段を上って私について来てください。"
-        },
-        {
-          "text": "Her room is right at the top of the stairs.",
-          "trans": "彼女のお部屋は階段を上りきったすぐそこです。"
-        }
-      ],
-      "related": [],
-      "number": "pl"
-    },
-    "stone": {
-      "lemma": "stone",
-      "stress": "stoʊn",
-      "pos": "noun",
-      "gloss": "石；石造りの",
-      "meanings": [
-        {
-          "en": "石；石造りの",
-          "note": "数えられる小石や庭石は stones、素材として名詞の前に置くときは the stone step（石の踏み段）のように単数形で使います。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Warm sunlight dried the wet courtyard stones.",
-          "trans": "暖かい日差しが中庭の濡れた石を乾かしました。"
-        },
-        {
-          "text": "They sat by the low stone wall.",
-          "trans": "彼らは低い石垣のそばに座りました。"
-        }
-      ],
-      "related": []
-    },
-    "street": {
-      "lemma": "street",
-      "stress": "stɹit",
-      "pos": "noun",
-      "gloss": "通り；街路",
-      "meanings": [
-        {
-          "en": "通り；街路",
-          "note": "自分が住んでいたり働いていたりする面した通りを、英語では親しみを込めて on our street（私たちの通りで）と前置詞 on で表します。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our guesthouse stands on quiet Linden Street.",
-          "trans": "私たちのゲストハウスは静かなリンデン通りに建っています。"
-        },
-        {
-          "text": "Cross the street to reach the bakery.",
-          "trans": "通りを渡ればパン屋に着きます。"
-        }
-      ],
-      "related": []
-    },
-    "suitcase": {
-      "lemma": "suitcase",
-      "stress": "ˈsutˌkeɪs",
-      "pos": "noun",
-      "gloss": "スーツケース；旅行鞄",
-      "meanings": [
-        {
-          "en": "スーツケース；旅行鞄",
-          "note": "不可算名詞の luggage と違い、suitcase は1個・2個と数えられる名詞（two suitcases）です。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Two guests brought the exact same blue suitcase.",
-          "trans": "2人の宿泊客がまったく同じ青いスーツケースを持ってきました。"
-        },
-        {
-          "text": "Set your suitcase on the wooden luggage rack.",
-          "trans": "スーツケースを木製の荷物台の上に置いてください。"
-        }
-      ],
-      "related": []
-    },
-    "take": {
-      "lemma": "take",
-      "stress": "teɪk",
+    "be": {
+      "lemma": "be",
+      "stress": "bi",
       "pos": "verb",
-      "gloss": "取る；持っていく；受け取る；（乗り物に）乗る",
+      "gloss": "〜である；〜にいる・ある",
       "meanings": [
         {
-          "en": "取る；持っていく；受け取る；（乗り物に）乗る",
-          "note": "Take one（1つどうぞ）、took my suitcase（持っていった）、take care（世話をする／気をつける）、takes juice out（染みを落とす）と大活躍する基本動詞（過去形 took、過去分詞 taken）。"
+          "en": "〜である；〜にいる・ある",
+          "note": "日本語の「〜です」と「〜にいる／ある」の両方を1語で担う最重要動詞です。"
         }
       ],
       "forms": {
@@ -5520,31 +4240,31 @@
           {
             "cells": [
               "base",
-              "take"
+              "be"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "takes"
+              "is"
             ]
           },
           {
             "cells": [
               "past",
-              "took"
+              "was, were"
             ]
           },
           {
             "cells": [
               "past participle",
-              "taken"
+              "been"
             ]
           },
           {
             "cells": [
               "-ing",
-              "taking"
+              "being"
             ]
           }
         ]
@@ -5552,62 +4272,162 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Take an umbrella before you walk to the harbor.",
-          "trans": "港へ歩いて行く前に傘を持っていきなさい。"
+          "text": "The keys are on the desk.",
+          "trans": "鍵は机の上にあります。"
         },
         {
-          "text": "Someone took the wrong blue bag from the taxi.",
-          "trans": "誰かがタクシーから間違った青い鞄を持っていってしまいました。"
+          "text": "She wants to be a teacher.",
+          "trans": "彼女は先生になりたがっています。"
         }
       ],
       "related": []
     },
-    "teacup": {
-      "lemma": "teacup",
-      "stress": "ˈtiˌkʌp",
+    "your": {
+      "lemma": "your",
+      "stress": "jʊɹ",
+      "pos": "det",
+      "gloss": "あなたの；あなたたちの",
+      "meanings": [
+        {
+          "en": "あなたの；あなたたちの",
+          "note": "名詞の前に置く所有格です（your key, your glasses）。you are の短縮形 you're と音が同じなので綴り分けに注意しましょう。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is your room key, Evelyn.",
+          "trans": "はい、お部屋の鍵ですよ、イヴリン様。"
+        },
+        {
+          "text": "Enjoy your morning coffee!",
+          "trans": "朝のコーヒーをどうぞお楽しみください！"
+        }
+      ],
+      "related": []
+    },
+    "train": {
+      "lemma": "train",
+      "stress": "tɹeɪn",
       "pos": "noun",
-      "gloss": "ティーカップ；紅茶用の茶碗",
+      "gloss": "列車；電車",
       "meanings": [
         {
-          "en": "ティーカップ；紅茶用の茶碗",
-          "note": "a cup of tea が「お茶1杯（中身）」を表すのに対し、teacup は「お気に入りの茶器そのもの（my favorite teacup）」を指します。"
+          "en": "列車；電車",
+          "note": "語頭の tr は「トゥレイン」と母音を入れず /tɹeɪn/ と一気に発音します（train trip, train station）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Warm each ceramic teacup with hot water first.",
-          "trans": "まず熱いお湯でそれぞれの陶器のティーカップを温めてください。"
+          "text": "Both guests arrived on the nine o'clock train.",
+          "trans": "2人の宿泊客とも9時の列車で到着しました。"
         },
         {
-          "text": "Evelyn admired the blue floral teacup.",
-          "trans": "イヴリンは青い花柄のティーカップに見とれました。"
+          "text": "The train station is ten minutes away by taxi.",
+          "trans": "鉄道の駅はタクシーで10分の距離にあります。"
         }
       ],
       "related": []
     },
-    "ten": {
-      "lemma": "ten",
-      "stress": "tɛn",
-      "pos": "num",
-      "gloss": "十（10）",
+    "trip": {
+      "lemma": "trip",
+      "stress": "tɹɪp",
+      "pos": "noun",
+      "gloss": "旅；旅行",
       "meanings": [
         {
-          "en": "十（10）",
-          "note": "ten minutes early（10分早く）、until ten（10時まで）のように時間表現のかなめとなる数字です。"
+          "en": "旅；旅行",
+          "note": "往復のひとまとまりの旅行を指す最も日常的な可算名詞です（train trip「列車の旅」、saving my whole trip）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "You are ten minutes early today.",
-          "trans": "今日は10分早く到着されましたね。"
+          "text": "How was your train trip from Boston?",
+          "trans": "ボストンからの列車の旅はいかがでしたか？"
         },
         {
-          "text": "Breakfast runs from eight until ten.",
-          "trans": "朝食は8時から10時までです。"
+          "text": "Have a wonderful trip!",
+          "trans": "どうぞ素敵なご旅行を！"
+        }
+      ],
+      "related": []
+    },
+    "quiet": {
+      "lemma": "quiet",
+      "stress": "ˈkwaɪət",
+      "pos": "adj",
+      "gloss": "静かな；落ち着いた",
+      "meanings": [
+        {
+          "en": "静かな；落ち着いた",
+          "note": "綴りの似ている quite（かなり /kwaɪt/）と混同しないよう注意！こちらは2音節で /ˈkwaɪət/（クワイエット）です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room eight is on the quiet garden side.",
+          "trans": "8号室は静かな庭側にあります。"
+        },
+        {
+          "text": "Mornings are peaceful and quiet here.",
+          "trans": "ここの朝は穏やかで静かです。"
+        }
+      ],
+      "related": []
+    },
+    "and": {
+      "lemma": "and",
+      "stress": "ænd",
+      "pos": "conj",
+      "gloss": "〜と…；そして",
+      "meanings": [
+        {
+          "en": "〜と…；そして",
+          "note": "会話では弱く /ən/ のように発音され、前後の語と滑らかにつながります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bring bread and butter, please.",
+          "trans": "パンとバターを持ってきてください。"
+        },
+        {
+          "text": "Wash your hands and sit down.",
+          "trans": "手を洗って座ってください。"
+        }
+      ],
+      "related": []
+    },
+    "pleasant": {
+      "lemma": "pleasant",
+      "stress": "ˈplɛzənt",
+      "pos": "adj",
+      "gloss": "心地よい；快適な；感じの良い",
+      "meanings": [
+        {
+          "en": "心地よい；快適な；感じの良い",
+          "note": "旅や天気、会話が「穏やかで気持ちよかった（Quiet and pleasant）」と述べるときの上品な形容詞です（母音は /ɛ/）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We had a very pleasant chat over tea.",
+          "trans": "お茶を飲みながらとても心地よいおしゃべりをしました。"
+        },
+        {
+          "text": "Have a pleasant evening in Portland!",
+          "trans": "ポートランドで快適な夜をお過ごしください！"
         }
       ],
       "related": []
@@ -5675,77 +4495,27 @@
       ],
       "related": []
     },
-    "the": {
-      "lemma": "the",
-      "stress": "ðə",
-      "pos": "det",
-      "gloss": "その；例の（定冠詞）",
+    "you": {
+      "lemma": "you",
+      "stress": "ju",
+      "pos": "pron",
+      "gloss": "あなたは・を；あなたたちは・を",
       "meanings": [
         {
-          "en": "その；例の（定冠詞）",
-          "note": "話し手と聞き手の間で「どのドアか・どの鍵か」が共通してわかる名詞の前に置きます（the door, the front desk）。母音の前では /ði/ と読みます。"
+          "en": "あなたは・を；あなたたちは・を",
+          "note": "英語の you は1人にも複数人（Thank you both! / You good people are...）にも使え、動詞は常に単数・複数を問わず are をとります！"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Lift the handle on the front door.",
-          "trans": "玄関のドアのハンドルを持ち上げてください。"
+          "text": "You are ten minutes early today!",
+          "trans": "今日は10分早く到着されましたね！"
         },
         {
-          "text": "All the keys hang behind the desk.",
-          "trans": "鍵はすべてフロントの後ろに掛かっています。"
-        }
-      ],
-      "related": []
-    },
-    "thirty": {
-      "lemma": "thirty",
-      "stress": "ˈθɝti",
-      "pos": "num",
-      "gloss": "三十（30）",
-      "meanings": [
-        {
-          "en": "三十（30）",
-          "note": "時刻の「〜時半」を seven thirty（7時30分）のように簡潔に言うときに欠かせません。米国英語では2つ目の t が柔らかく弾かれます。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast ends at nine thirty.",
-          "trans": "朝食は9時30分に終わります。"
-        },
-        {
-          "text": "Walk thirty paces past the bakery.",
-          "trans": "パン屋を過ぎて30歩ほど歩いてください。"
-        }
-      ],
-      "related": []
-    },
-    "this": {
-      "lemma": "this",
-      "stress": "ðɪs",
-      "pos": "det",
-      "gloss": "この；これ",
-      "meanings": [
-        {
-          "en": "この；これ",
-          "note": "話し手のすぐ手元にある単数の物や今起きている状況を指します（this big paper book, this suitcase）。語末は濁らない /ðɪs/。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use this big paper book.",
-          "trans": "ここではこの大きな紙の台帳を使っています。"
-        },
-        {
-          "text": "Hello, this is Hannah at the front desk.",
-          "trans": "もしもし、フロントのハンナです。"
+          "text": "Thank you! See you next time!",
+          "trans": "ありがとうございます！また次回お会いしましょう！"
         }
       ],
       "related": []
@@ -5775,177 +4545,115 @@
       ],
       "related": []
     },
-    "through": {
-      "lemma": "through",
-      "stress": "θɹu",
-      "pos": "prep",
-      "gloss": "〜を通り抜けて；〜を通して",
+    "this": {
+      "lemma": "this",
+      "stress": "ðɪs",
+      "pos": "det",
+      "gloss": "この；これ",
       "meanings": [
         {
-          "en": "〜を通り抜けて；〜を通して",
-          "note": "gh は完全な黙字で threw（投げた）と同じ /θɹu/ と読みます（Right through this archway「このアーチ道を抜けたすぐ先」）。"
+          "en": "この；これ",
+          "note": "話し手のすぐ手元にある単数の物や今起きている状況を指します（this big paper book, this suitcase）。語末は濁らない /ðɪs/。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Walk through the courtyard to the kitchen.",
-          "trans": "中庭を通り抜けてキッチンへ歩いていってください。"
+          "text": "Here we use this big paper book.",
+          "trans": "ここではこの大きな紙の台帳を使っています。"
         },
         {
-          "text": "Sunlight came through the tall windows.",
-          "trans": "背の高い窓から日差しが差し込みました。"
+          "text": "Hello, this is Hannah at the front desk.",
+          "trans": "もしもし、フロントのハンナです。"
         }
       ],
       "related": []
     },
-    "to": {
-      "lemma": "to",
-      "stress": "tu",
-      "pos": "prep",
-      "gloss": "〜へ（方向・到達点）；〜すること（不定詞）",
-      "meanings": [
-        {
-          "en": "〜へ（方向・到達点）；〜すること（不定詞）",
-          "note": "目的地（to the light）、相手（talk to everyone）、時刻の範囲（seven thirty to ten）、さらに動詞の原形を導く to（need to know）と大活躍します。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Welcome to Linden Courtyard Inn!",
-          "trans": "リンデン・コートヤード・インへようこそ！"
-        },
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "私が知っておくべきことを全部教えてください。"
-        }
-      ],
-      "related": []
-    },
-    "today": {
-      "lemma": "today",
-      "stress": "təˈdeɪ",
-      "pos": "adv",
-      "gloss": "今日；現代",
-      "meanings": [
-        {
-          "en": "今日；現代",
-          "note": "これ自体が副詞なので on today とは言わずそのまま today を使います。所有格 today's guest（今日のお客様）も頻出！"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four is arriving today.",
-          "trans": "4号室のお客様は今日到着されます。"
-        },
-        {
-          "text": "Today's soup is warm tomato basil.",
-          "trans": "本日のスープは温かいトマトバジルです。"
-        }
-      ],
-      "related": []
-    },
-    "train": {
-      "lemma": "train",
-      "stress": "tɹeɪn",
+    "suitcase": {
+      "lemma": "suitcase",
+      "stress": "ˈsutˌkeɪs",
       "pos": "noun",
-      "gloss": "列車；電車",
+      "gloss": "スーツケース；旅行鞄",
       "meanings": [
         {
-          "en": "列車；電車",
-          "note": "語頭の tr は「トゥレイン」と母音を入れず /tɹeɪn/ と一気に発音します（train trip, train station）。"
+          "en": "スーツケース；旅行鞄",
+          "note": "不可算名詞の luggage と違い、suitcase は1個・2個と数えられる名詞（two suitcases）です。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Both guests arrived on the nine o'clock train.",
-          "trans": "2人の宿泊客とも9時の列車で到着しました。"
+          "text": "Two guests brought the exact same blue suitcase.",
+          "trans": "2人の宿泊客がまったく同じ青いスーツケースを持ってきました。"
         },
         {
-          "text": "The train station is ten minutes away by taxi.",
-          "trans": "鉄道の駅はタクシーで10分の距離にあります。"
+          "text": "Set your suitcase on the wooden luggage rack.",
+          "trans": "スーツケースを木製の荷物台の上に置いてください。"
         }
       ],
       "related": []
     },
-    "tree": {
-      "lemma": "tree",
-      "stress": "tɹi",
-      "pos": "noun",
-      "gloss": "木；樹木",
+    "feel": {
+      "lemma": "feel",
+      "stress": "fil",
+      "pos": "verb",
+      "gloss": "〜と感じられる；感じる",
       "meanings": [
         {
-          "en": "木；樹木",
-          "note": "宿の中庭に木陰を作る大きな菩提樹（the old tree）のような立ち木を指します（木材・素材は wood）。"
+          "en": "〜と感じられる；感じる",
+          "note": "物が主語で This suitcase feels heavy（この鞄はずっしり重く感じる）のように感触を表す用法が重要です。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "feel"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "feels"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "felt"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "felt"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "feeling"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "A tall linden tree shades the courtyard.",
-          "trans": "背の高い菩提樹が中庭に木陰を作っています。"
+          "text": "This suitcase feels much lighter than mine.",
+          "trans": "このスーツケースは私のものよりずっと軽く感じます。"
         },
         {
-          "text": "Birds sing in the garden trees every morning.",
-          "trans": "毎朝、庭の木々で鳥たちがさえずります。"
-        }
-      ],
-      "related": []
-    },
-    "trip": {
-      "lemma": "trip",
-      "stress": "tɹɪp",
-      "pos": "noun",
-      "gloss": "旅；旅行",
-      "meanings": [
-        {
-          "en": "旅；旅行",
-          "note": "往復のひとまとまりの旅行を指す最も日常的な可算名詞です（train trip「列車の旅」、saving my whole trip）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "How was your train trip from Boston?",
-          "trans": "ボストンからの列車の旅はいかがでしたか？"
-        },
-        {
-          "text": "Have a wonderful trip!",
-          "trans": "どうぞ素敵なご旅行を！"
-        }
-      ],
-      "related": []
-    },
-    "up": {
-      "lemma": "up",
-      "stress": "ʌp",
-      "pos": "adv",
-      "gloss": "上へ；すっかり",
-      "meanings": [
-        {
-          "en": "上へ；すっかり",
-          "note": "carry the bag up（鞄を上の階へ運ぶ）のほか、句動詞 hang up（電話を切る）など動詞と組んで大活躍します。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pick up the brass key from the tray.",
-          "trans": "トレイから真鍮の鍵を手に取ってください。"
-        },
-        {
-          "text": "Look up at the painted wooden sign.",
-          "trans": "ペンキ塗りの木の看板を見上げてごらんなさい。"
+          "text": "I feel right at home here.",
+          "trans": "ここはまるで自分の家のようにくつろげます。"
         }
       ],
       "related": []
@@ -5975,15 +4683,679 @@
       ],
       "related": []
     },
-    "welcome": {
-      "lemma": "welcome",
-      "stress": "ˈwɛlkəm",
-      "pos": "interj",
-      "gloss": "ようこそ！；歓迎する",
+    "heavy": {
+      "lemma": "heavy",
+      "stress": "ˈhɛvi",
+      "pos": "adj",
+      "gloss": "重い；激しい（雨など）",
       "meanings": [
         {
-          "en": "ようこそ！；歓迎する",
-          "note": "到着した人や新しい仲間を迎える第一声 Welcome! / Welcome to the Linden Courtyard Inn! として使います（どこへ迎えるかは to で続けます）。"
+          "en": "重い；激しい（雨など）",
+          "note": "荷物の重さだけでなく、激しい雨を heavy rain と言うのにも使います（強い雨を strong rain とは言いません）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Careful, that blue suitcase is heavy.",
+          "trans": "気をつけて、その青いスーツケースは重いですよ。"
+        },
+        {
+          "text": "Let me help you with that heavy box.",
+          "trans": "その重い箱を持つのを手伝わせてください。"
+        }
+      ],
+      "related": []
+    },
+    "today": {
+      "lemma": "today",
+      "stress": "təˈdeɪ",
+      "pos": "adv",
+      "gloss": "今日；現代",
+      "meanings": [
+        {
+          "en": "今日；現代",
+          "note": "これ自体が副詞なので on today とは言わずそのまま today を使います。所有格 today's guest（今日のお客様）も頻出！"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four is arriving today.",
+          "trans": "4号室のお客様は今日到着されます。"
+        },
+        {
+          "text": "Today's soup is warm tomato basil.",
+          "trans": "本日のスープは温かいトマトバジルです。"
+        }
+      ],
+      "related": []
+    },
+    "allow": {
+      "lemma": "allow",
+      "stress": "əˈlaʊ",
+      "pos": "verb",
+      "gloss": "許可する；〜させてください",
+      "meanings": [
+        {
+          "en": "許可する；〜させてください",
+          "note": "Allow me.（お任せください／私にさせてください）は接客や手助けの定番表現です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "allow"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "allows"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "allowed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "allowed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "allowing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Allow me to hold the door.",
+          "trans": "ドアを押さえさせてください。"
+        },
+        {
+          "text": "They do not allow pets inside.",
+          "trans": "館内へのペットの同伴はできません。"
+        }
+      ],
+      "related": []
+    },
+    "me": {
+      "lemma": "me",
+      "stress": "mi",
+      "pos": "pron",
+      "gloss": "私を；私に",
+      "meanings": [
+        {
+          "en": "私を；私に",
+          "note": "動詞や前置詞の直後に置く一人称の目的格です（Tell me「私に教えて」、Allow me「私に任せて」）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Excuse me, where is the dining room?",
+          "trans": "すみません、ダイニングルームはどこですか？"
+        },
+        {
+          "text": "Save a cup of coffee for me.",
+          "trans": "私の分もコーヒーを一杯取っておいてください。"
+        }
+      ],
+      "related": []
+    },
+    "goodness": {
+      "lemma": "goodness",
+      "stress": "ˈɡʊdnəs",
+      "pos": "noun",
+      "gloss": "まあ！；なんてこと（間投詞的）；善良",
+      "meanings": [
+        {
+          "en": "まあ！；なんてこと（間投詞的）；善良",
+          "note": "驚いたときの Goodness! や、ほっとしたときの thank goodness（やれやれ助かった）は上品で穏やかな表現です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh goodness, look at the time!",
+          "trans": "あらまあ、もうこんな時間！"
+        },
+        {
+          "text": "Thank goodness nobody lost a passport.",
+          "trans": "誰もパスポートをなくさなくて本当によかったです。"
+        }
+      ],
+      "related": []
+    },
+    "do": {
+      "lemma": "do",
+      "stress": "du",
+      "pos": "verb",
+      "gloss": "する；疑問・否定を作る助動詞",
+      "meanings": [
+        {
+          "en": "する；疑問・否定を作る助動詞",
+          "note": "一般動詞の疑問文（Do we use...?）や否定文（do not worry）を支える英語の要の語です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "do"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "does"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "did"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "done"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "doing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do you want sugar in your coffee?",
+          "trans": "コーヒーにお砂糖は入れますか？"
+        },
+        {
+          "text": "What should we do with this package?",
+          "trans": "この小包はどうしましょうか？"
+        }
+      ],
+      "related": []
+    },
+    "pack": {
+      "lemma": "pack",
+      "stress": "pæk",
+      "pos": "verb",
+      "gloss": "荷造りする；（箱・袋の）一個（名詞）",
+      "meanings": [
+        {
+          "en": "荷造りする；（箱・袋の）一個（名詞）",
+          "note": "動詞「鞄に詰める（pack stones）」のほか、名詞でバターなどの「1パック（which pack of butter）」も表します。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "pack"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "packs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "packed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "packed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "packing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did you pack an umbrella for the trip?",
+          "trans": "旅行用に傘は詰めましたか？"
+        },
+        {
+          "text": "He packed two warm sweaters and a book.",
+          "trans": "彼は暖かいセーター2枚と本を1冊詰めました。"
+        }
+      ],
+      "related": []
+    },
+    "stone": {
+      "lemma": "stone",
+      "stress": "stoʊn",
+      "pos": "noun",
+      "gloss": "石；石造りの",
+      "meanings": [
+        {
+          "en": "石；石造りの",
+          "note": "数えられる小石や庭石は stones、素材として名詞の前に置くときは the stone step（石の踏み段）のように単数形で使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm sunlight dried the wet courtyard stones.",
+          "trans": "暖かい日差しが中庭の濡れた石を乾かしました。"
+        },
+        {
+          "text": "They sat by the low stone wall.",
+          "trans": "彼らは低い石垣のそばに座りました。"
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "〜の中に；〜で；あと〜で（時間）",
+      "meanings": [
+        {
+          "en": "〜の中に；〜で；あと〜で（時間）",
+          "note": "空間の「中（in the fridge）」のほか、今から数えた時間「〜以内に・あと〜で（in ten minutes）」を表す重要用法があります！"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait in the warm dining room.",
+          "trans": "暖かいダイニングルームでお待ちください。"
+        },
+        {
+          "text": "Coffee will be ready in three minutes.",
+          "trans": "コーヒーはあと3分で入ります。"
+        }
+      ],
+      "related": []
+    },
+    "here": {
+      "lemma": "here",
+      "stress": "hɪɹ",
+      "pos": "adv",
+      "gloss": "ここに；ここで；さあどうぞ",
+      "meanings": [
+        {
+          "en": "ここに；ここで；さあどうぞ",
+          "note": "物を手渡すときの Here is your key. や Here you are.（はい、どうぞ）は接客や日常の必須表現です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is your brass key for room four.",
+          "trans": "はい、4号室の真鍮の鍵です。"
+        },
+        {
+          "text": "Sign your name right here, please.",
+          "trans": "まさにこちらにご署名をお願いします。"
+        }
+      ],
+      "related": []
+    },
+    "only": {
+      "lemma": "only",
+      "stress": "ˈoʊnli",
+      "pos": "adv",
+      "gloss": "〜だけ；ほんの〜しか",
+      "meanings": [
+        {
+          "en": "〜だけ；ほんの〜しか",
+          "note": "説明したい語のすぐ前に置くのが基本です（only my pen「私のペンだけ」）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We have only eight rooms at the inn.",
+          "trans": "この宿には客室が8つしかありません。"
+        },
+        {
+          "text": "This is the only key to the garden shed.",
+          "trans": "これが庭の小屋の唯一の鍵です。"
+        }
+      ],
+      "related": []
+    },
+    "dress": {
+      "lemma": "dress",
+      "stress": "dɹɛs",
+      "pos": "noun",
+      "gloss": "ワンピース；ドレス",
+      "meanings": [
+        {
+          "en": "ワンピース；ドレス",
+          "note": "日本語の「ドレス」より幅広く、日常のお出かけ用ワンピースも指します。複数形は dresses。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "She packed two summer dresses in her bag.",
+          "trans": "彼女はバッグに夏用のワンピースを2着詰めました。"
+        },
+        {
+          "text": "That green dress looks lovely on you.",
+          "trans": "その緑のワンピース、とてもよくお似合いですね。"
+        }
+      ],
+      "related": []
+    },
+    "sheet": {
+      "lemma": "sheet",
+      "stress": "ʃit",
+      "pos": "noun",
+      "gloss": "一枚の紙；シーツ",
+      "meanings": [
+        {
+          "en": "一枚の紙；シーツ",
+          "note": "母音は長い /i/（/ʃit/）なので短く発音しないよう注意！sheet music で「楽譜」を表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Sign your name on the top sheet.",
+          "trans": "一番上の用紙にお名前をご署名ください。"
+        },
+        {
+          "text": "Fresh cotton sheets dry fast in the breeze.",
+          "trans": "清潔な綿のシーツはそよ風ですぐに乾きます。"
+        }
+      ],
+      "related": []
+    },
+    "music": {
+      "lemma": "music",
+      "stress": "ˈmjuzɪk",
+      "pos": "noun",
+      "gloss": "音楽",
+      "meanings": [
+        {
+          "en": "音楽",
+          "note": "sheet music で「楽譜（1枚ずつの譜面）」を表す不可算名詞になります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Soft piano music played in the parlor.",
+          "trans": "談話室で柔らかなピアノ音楽が流れていました。"
+        },
+        {
+          "text": "Do you listen to music while you bake?",
+          "trans": "パンを焼きながら音楽を聴きますか？"
+        }
+      ],
+      "related": []
+    },
+    "favorite": {
+      "lemma": "favorite",
+      "stress": "ˈfeɪvɹɪt",
+      "pos": "adj",
+      "gloss": "お気に入りの；一番好きな",
+      "meanings": [
+        {
+          "en": "お気に入りの；一番好きな",
+          "note": "米国英語の綴りは favorite（英国英語は favourite）。前に most を付けず単体で「一番のお気に入り」を表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Cinnamon rolls are my favorite breakfast.",
+          "trans": "シナモンロールは私の一番好きな朝食です。"
+        },
+        {
+          "text": "Which room is your favorite?",
+          "trans": "どの部屋があなたのお気に入りですか？"
+        }
+      ],
+      "related": []
+    },
+    "teacup": {
+      "lemma": "teacup",
+      "stress": "ˈtiˌkʌp",
+      "pos": "noun",
+      "gloss": "ティーカップ；紅茶用の茶碗",
+      "meanings": [
+        {
+          "en": "ティーカップ；紅茶用の茶碗",
+          "note": "a cup of tea が「お茶1杯（中身）」を表すのに対し、teacup は「お気に入りの茶器そのもの（my favorite teacup）」を指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm each ceramic teacup with hot water first.",
+          "trans": "まず熱いお湯でそれぞれの陶器のティーカップを温めてください。"
+        },
+        {
+          "text": "Evelyn admired the blue floral teacup.",
+          "trans": "イヴリンは青い花柄のティーカップに見とれました。"
+        }
+      ],
+      "related": []
+    },
+    "key": {
+      "lemma": "key",
+      "stress": "ki",
+      "pos": "noun",
+      "gloss": "鍵；キー",
+      "meanings": [
+        {
+          "en": "鍵；キー",
+          "note": "綴りは ey ですが発音は /ki/（キー）です。under lock and key は「しっかり鍵を掛けて厳重に」という慣用句。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is the brass key to room four.",
+          "trans": "はい、4号室の真鍮の鍵です。"
+        },
+        {
+          "text": "Eight keys hang neatly behind the desk.",
+          "trans": "机の後ろに8本の鍵が整然と掛かっています。"
+        }
+      ],
+      "related": []
+    },
+    "number": {
+      "lemma": "number",
+      "stress": "ˈnʌmbɚ",
+      "pos": "noun",
+      "gloss": "番号；数",
+      "meanings": [
+        {
+          "en": "番号；数",
+          "note": "電話番号（phone number）のほか、番号の前に添えて key, number four（4番の鍵）のようにも使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "May I have your phone number, please?",
+          "trans": "お電話番号をいただけますか？"
+        },
+        {
+          "text": "Check the brass number on your door.",
+          "trans": "ドアに付いた真鍮の番号を確認してください。"
+        }
+      ],
+      "related": []
+    },
+    "breakfast": {
+      "lemma": "breakfast",
+      "stress": "ˈbɹɛkfəst",
+      "pos": "noun",
+      "gloss": "朝食",
+      "meanings": [
+        {
+          "en": "朝食",
+          "note": "綴りは break + fast ですが、発音は /ˈbɹɛkfəst/ と短く詰まります。無冠詞で使うのが基本です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast is ready at seven.",
+          "trans": "朝食は7時に用意できます。"
+        },
+        {
+          "text": "We had eggs and toast for breakfast.",
+          "trans": "私たちは朝食に卵とトーストを食べました。"
+        }
+      ],
+      "related": []
+    },
+    "from": {
+      "lemma": "from",
+      "stress": "fɹʌm",
+      "pos": "prep",
+      "gloss": "〜から",
+      "meanings": [
+        {
+          "en": "〜から",
+          "note": "from seven thirty to ten（7時半から10時まで）のように起点や出身・出どころを表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm rolls came straight from the oven.",
+          "trans": "温かいロールパンがオーブンから出てきたばかりです。"
+        },
+        {
+          "text": "How far is the station from here?",
+          "trans": "ここから駅までどのくらいありますか？"
+        }
+      ],
+      "related": []
+    },
+    "seven": {
+      "lemma": "seven",
+      "stress": "ˈsɛvən",
+      "pos": "num",
+      "gloss": "七（7）",
+      "meanings": [
+        {
+          "en": "七（7）",
+          "note": "日本語の「セブン」は「ブ」になりますが、英語は下唇を上の歯に当てる /v/ で /ˈsɛvən/ と発音します。seven thirty は「7時30分」。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa opens her bakery at seven sharp.",
+          "trans": "テッサは7時ちょうどにパン屋を開けます。"
+        },
+        {
+          "text": "Room seven faces the linden tree.",
+          "trans": "7号室は菩提樹に面しています。"
+        }
+      ],
+      "related": []
+    },
+    "thirty": {
+      "lemma": "thirty",
+      "stress": "ˈθɝti",
+      "pos": "num",
+      "gloss": "三十（30）",
+      "meanings": [
+        {
+          "en": "三十（30）",
+          "note": "時刻の「〜時半」を seven thirty（7時30分）のように簡潔に言うときに欠かせません。米国英語では2つ目の t が柔らかく弾かれます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast ends at nine thirty.",
+          "trans": "朝食は9時30分に終わります。"
+        },
+        {
+          "text": "Walk thirty paces past the bakery.",
+          "trans": "パン屋を過ぎて30歩ほど歩いてください。"
+        }
+      ],
+      "related": []
+    },
+    "to": {
+      "lemma": "to",
+      "stress": "tu",
+      "pos": "prep",
+      "gloss": "〜へ（方向・到達点）；〜すること（不定詞）",
+      "meanings": [
+        {
+          "en": "〜へ（方向・到達点）；〜すること（不定詞）",
+          "note": "目的地（to the light）、相手（talk to everyone）、時刻の範囲（seven thirty to ten）、さらに動詞の原形を導く to（need to know）と大活躍します。"
         }
       ],
       "forms": null,
@@ -5994,8 +5366,371 @@
           "trans": "リンデン・コートヤード・インへようこそ！"
         },
         {
-          "text": "You are very welcome! Enjoy your tea.",
-          "trans": "どういたしまして！どうぞお茶をお楽しみください。"
+          "text": "Tell me everything I need to know.",
+          "trans": "私が知っておくべきことを全部教えてください。"
+        }
+      ],
+      "related": []
+    },
+    "ten": {
+      "lemma": "ten",
+      "stress": "tɛn",
+      "pos": "num",
+      "gloss": "十（10）",
+      "meanings": [
+        {
+          "en": "十（10）",
+          "note": "ten minutes early（10分早く）、until ten（10時まで）のように時間表現のかなめとなる数字です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You are ten minutes early today.",
+          "trans": "今日は10分早く到着されましたね。"
+        },
+        {
+          "text": "Breakfast runs from eight until ten.",
+          "trans": "朝食は8時から10時までです。"
+        }
+      ],
+      "related": []
+    },
+    "wonderful": {
+      "lemma": "wonderful",
+      "stress": "ˈwʌndɚfəl",
+      "pos": "adj",
+      "gloss": "素晴らしい；素敵な",
+      "meanings": [
+        {
+          "en": "素晴らしい；素敵な",
+          "note": "香り（smells wonderful）や嬉しい知らせに対する一言の相づち Wonderful!（素敵ですね！／よかったわ！）として品よく響きます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "What wonderful news—Caleb found the taxi!",
+          "trans": "なんて素晴らしい知らせでしょう、ケイレブがタクシーを見つけてくれました！"
+        },
+        {
+          "text": "Have a wonderful afternoon in Portland!",
+          "trans": "ポートランドで素晴らしい午後をお過ごしください！"
+        }
+      ],
+      "related": []
+    },
+    "window": {
+      "lemma": "window",
+      "stress": "ˈwɪndoʊ",
+      "pos": "noun",
+      "gloss": "窓",
+      "meanings": [
+        {
+          "en": "窓",
+          "note": "語源は「風の目」という詩的な言葉です。Is the window facing the courtyard?（窓は中庭に面していますか？）は客室選びの定番フレーズ。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Sit at the sunny table by the window.",
+          "trans": "窓際の日当たりの良いテーブルにお座りください。"
+        },
+        {
+          "text": "Open the window to hear the harbor gulls.",
+          "trans": "港のカモメの声が聞こえるよう窓を開けてください。"
+        }
+      ],
+      "related": []
+    },
+    "face": {
+      "lemma": "face",
+      "stress": "feɪs",
+      "pos": "verb",
+      "gloss": "〜に面している；向く；顔",
+      "meanings": [
+        {
+          "en": "〜に面している；向く；顔",
+          "note": "客室や窓が「中庭に面している（facing the courtyard）」と言うときにとても自然な動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "face"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "faces"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "faced"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "faced"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "facing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room three faces the quiet courtyard.",
+          "trans": "3号室は静かな中庭に面しています。"
+        },
+        {
+          "text": "Turn your chair to face the garden.",
+          "trans": "庭の方を向くように椅子を回してください。"
+        }
+      ],
+      "related": []
+    },
+    "street": {
+      "lemma": "street",
+      "stress": "stɹit",
+      "pos": "noun",
+      "gloss": "通り；街路",
+      "meanings": [
+        {
+          "en": "通り；街路",
+          "note": "自分が住んでいたり働いていたりする面した通りを、英語では親しみを込めて on our street（私たちの通りで）と前置詞 on で表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our guesthouse stands on quiet Linden Street.",
+          "trans": "私たちのゲストハウスは静かなリンデン通りに建っています。"
+        },
+        {
+          "text": "Cross the street to reach the bakery.",
+          "trans": "通りを渡ればパン屋に着きます。"
+        }
+      ],
+      "related": []
+    },
+    "or": {
+      "lemma": "or",
+      "stress": "ɔɹ",
+      "pos": "conj",
+      "gloss": "または；それとも",
+      "meanings": [
+        {
+          "en": "または；それとも",
+          "note": "選択疑問文（coffee or black tea?「コーヒーになさいますか、それとも紅茶ですか？」）を作る基本接続詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Would you like coffee or tea?",
+          "trans": "コーヒーと紅茶のどちらになさいますか？"
+        },
+        {
+          "text": "Call me today or tomorrow morning.",
+          "trans": "今日か明日の朝にお電話ください。"
+        }
+      ],
+      "related": []
+    },
+    "courtyard": {
+      "lemma": "courtyard",
+      "stress": "ˈkɔɹtˌjɑɹd",
+      "pos": "noun",
+      "gloss": "中庭",
+      "meanings": [
+        {
+          "en": "中庭",
+          "note": "建物や塀に囲まれた屋外の中庭です。court + yard の複合名詞。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lanterns glow in the stone courtyard at dusk.",
+          "trans": "夕暮れになると石造りの中庭にランタンが灯ります。"
+        },
+        {
+          "text": "My window faces the quiet courtyard.",
+          "trans": "私の窓は静かな中庭に面しています。"
+        }
+      ],
+      "related": []
+    },
+    "right": {
+      "lemma": "right",
+      "stress": "ɹaɪt",
+      "pos": "adj",
+      "gloss": "まさに；すぐ；正しい；右",
+      "meanings": [
+        {
+          "en": "まさに；すぐ；正しい；右",
+          "note": "場所や時間の直前に置くと「ちょうど・まさに」と強調します（right here「まさにここ」、right now「今すぐ」、right away「ただちに」、fit right in「ぴったり馴染む」）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You have the right room key now.",
+          "trans": "これで正しい部屋の鍵をお持ちですね。"
+        },
+        {
+          "text": "Your room is the second door on the right.",
+          "trans": "あなたのお部屋は右側の2番目のドアです。"
+        }
+      ],
+      "related": []
+    },
+    "above": {
+      "lemma": "above",
+      "stress": "əˈbʌv",
+      "pos": "prep",
+      "gloss": "〜より上に",
+      "meanings": [
+        {
+          "en": "〜より上に",
+          "note": "表面に直接触れていない上方の位置を表します（接触していれば on）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A lamp hangs above the table.",
+          "trans": "テーブルの上にランプが吊るされています。"
+        },
+        {
+          "text": "Our room is above the garden.",
+          "trans": "私たちの部屋は庭の上にあります。"
+        }
+      ],
+      "related": []
+    },
+    "old": {
+      "lemma": "old",
+      "stress": "oʊld",
+      "pos": "adj",
+      "gloss": "古い；昔からの；年配の",
+      "meanings": [
+        {
+          "en": "古い；昔からの；年配の",
+          "note": "物の古さ（the old tree）、昔からの親しさ（old friends）、人の年齢（young or old）のすべてに使えます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Portland has a charming old port district.",
+          "trans": "ポートランドには魅力的な古い港湾地区があります。"
+        },
+        {
+          "text": "This brass bell is eighty years old.",
+          "trans": "この真鍮のベルは80年前のものです。"
+        }
+      ],
+      "related": []
+    },
+    "tree": {
+      "lemma": "tree",
+      "stress": "tɹi",
+      "pos": "noun",
+      "gloss": "木；樹木",
+      "meanings": [
+        {
+          "en": "木；樹木",
+          "note": "宿の中庭に木陰を作る大きな菩提樹（the old tree）のような立ち木を指します（木材・素材は wood）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A tall linden tree shades the courtyard.",
+          "trans": "背の高い菩提樹が中庭に木陰を作っています。"
+        },
+        {
+          "text": "Birds sing in the garden trees every morning.",
+          "trans": "毎朝、庭の木々で鳥たちがさえずります。"
+        }
+      ],
+      "related": []
+    },
+    "it": {
+      "lemma": "it",
+      "stress": "ɪt",
+      "pos": "pron",
+      "gloss": "それは；それを；（天候・時間などの形式主語）",
+      "meanings": [
+        {
+          "en": "それは；それを；（天候・時間などの形式主語）",
+          "note": "単数の物を指すほか、英語は主語を空欄にできないため It is raining（雨が降っている）のような形式主語としても必須です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle, and it opens easily.",
+          "trans": "ハンドルを持ち上げれば、簡単に開きますよ。"
+        },
+        {
+          "text": "It is sunny and warm this afternoon.",
+          "trans": "今日の午後は晴れて暖かいです。"
+        }
+      ],
+      "related": []
+    },
+    "just": {
+      "lemma": "just",
+      "stress": "dʒʌst",
+      "pos": "adv",
+      "gloss": "たった今；ちょうど；ただ〜だけ",
+      "meanings": [
+        {
+          "en": "たった今；ちょうど；ただ〜だけ",
+          "note": "過去形と組んで「たった今〜したところ（just waved）」、名詞の前で「ほんの〜だけ（just half a glass）」と多彩に働きます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Give me just one minute, please.",
+          "trans": "ほんの1分だけお待ちください。"
+        },
+        {
+          "text": "The taxi just pulled up outside.",
+          "trans": "ちょうど外にタクシーが止まったところです。"
         }
       ],
       "related": []
@@ -6025,6 +5760,69 @@
       ],
       "related": []
     },
+    "need": {
+      "lemma": "need",
+      "stress": "nid",
+      "pos": "verb",
+      "gloss": "必要とする；〜する必要がある",
+      "meanings": [
+        {
+          "en": "必要とする；〜する必要がある",
+          "note": "物が必要なら need plain butter、動作が必要なら need to read のように to + 原形を続けます。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "need"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "needs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "needed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "needed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "needing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "私が知っておくべきことをすべて教えてください。"
+        },
+        {
+          "text": "Do you need an extra towel for your room?",
+          "trans": "お部屋に予備のタオルは必要ですか？"
+        }
+      ],
+      "related": []
+    },
     "where": {
       "lemma": "where",
       "stress": "wɛɹ",
@@ -6046,6 +5844,82 @@
         {
           "text": "Where would you like to sit?",
           "trans": "どちらのお席にお座りになりたいですか？"
+        }
+      ],
+      "related": []
+    },
+    "stairs": {
+      "lemma": "stairs",
+      "stress": "stɛɹz",
+      "pos": "noun",
+      "gloss": "階段",
+      "meanings": [
+        {
+          "en": "階段",
+          "note": "複数の段が集まって階段を成すため、屋内階段は常に複数形の the stairs で表します（1段だけなら step）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Follow me up the wooden stairs.",
+          "trans": "木の階段を上って私について来てください。"
+        },
+        {
+          "text": "Her room is right at the top of the stairs.",
+          "trans": "彼女のお部屋は階段を上りきったすぐそこです。"
+        }
+      ],
+      "related": [],
+      "number": "pl"
+    },
+    "through": {
+      "lemma": "through",
+      "stress": "θɹu",
+      "pos": "prep",
+      "gloss": "〜を通り抜けて；〜を通して",
+      "meanings": [
+        {
+          "en": "〜を通り抜けて；〜を通して",
+          "note": "gh は完全な黙字で threw（投げた）と同じ /θɹu/ と読みます（Right through this archway「このアーチ道を抜けたすぐ先」）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Walk through the courtyard to the kitchen.",
+          "trans": "中庭を通り抜けてキッチンへ歩いていってください。"
+        },
+        {
+          "text": "Sunlight came through the tall windows.",
+          "trans": "背の高い窓から日差しが差し込みました。"
+        }
+      ],
+      "related": []
+    },
+    "archway": {
+      "lemma": "archway",
+      "stress": "ˈɑɹtʃˌweɪ",
+      "pos": "noun",
+      "gloss": "アーチ道；アーチ型の通路",
+      "meanings": [
+        {
+          "en": "アーチ道；アーチ型の通路",
+          "note": "arch（アーチ）と way（通路）を組み合わせた複合名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Walk through the stone archway.",
+          "trans": "石造りのアーチ道を通り抜けてください。"
+        },
+        {
+          "text": "The courtyard lies beyond that archway.",
+          "trans": "中庭はそのアーチ道の向こうにあります。"
         }
       ],
       "related": []
@@ -6113,127 +5987,278 @@
       ],
       "related": []
     },
-    "window": {
-      "lemma": "window",
-      "stress": "ˈwɪndoʊ",
-      "pos": "noun",
-      "gloss": "窓",
+    "carry": {
+      "lemma": "carry",
+      "stress": "ˈkæɹi",
+      "pos": "verb",
+      "gloss": "運ぶ；持ち歩く",
       "meanings": [
         {
-          "en": "窓",
-          "note": "語源は「風の目」という詩的な言葉です。Is the window facing the courtyard?（窓は中庭に面していますか？）は客室選びの定番フレーズ。"
+          "en": "運ぶ；持ち歩く",
+          "note": "手に持ったり抱えたりして移動させる動作を表します（過去形は carried）。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "carry"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "carries"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "carried"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "carried"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "carrying"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Sit at the sunny table by the window.",
-          "trans": "窓際の日当たりの良いテーブルにお座りください。"
+          "text": "Let me carry that heavy suitcase.",
+          "trans": "その重いスーツケースを運びましょう。"
         },
         {
-          "text": "Open the window to hear the harbor gulls.",
-          "trans": "港のカモメの声が聞こえるよう窓を開けてください。"
+          "text": "She always carries a small notebook.",
+          "trans": "彼女はいつも小さなノートを持ち歩いています。"
         }
       ],
       "related": []
     },
-    "wonderful": {
-      "lemma": "wonderful",
-      "stress": "ˈwʌndɚfəl",
+    "blue": {
+      "lemma": "blue",
+      "stress": "blu",
       "pos": "adj",
-      "gloss": "素晴らしい；素敵な",
+      "gloss": "青い",
       "meanings": [
         {
-          "en": "素晴らしい；素敵な",
-          "note": "香り（smells wonderful）や嬉しい知らせに対する一言の相づち Wonderful!（素敵ですね！／よかったわ！）として品よく響きます。"
+          "en": "青い",
+          "note": "/l/ は舌先を上の歯茎にしっかり当てて発音します。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "What wonderful news—Caleb found the taxi!",
-          "trans": "なんて素晴らしい知らせでしょう、ケイレブがタクシーを見つけてくれました！"
+          "text": "Look at that clear blue sky.",
+          "trans": "あの澄んだ青い空を見てください。"
         },
         {
-          "text": "Have a wonderful afternoon in Portland!",
-          "trans": "ポートランドで素晴らしい午後をお過ごしください！"
+          "text": "My suitcase has a blue handle.",
+          "trans": "私のスーツケースには青い持ち手が付いています。"
         }
       ],
       "related": []
     },
-    "yes": {
-      "lemma": "yes",
-      "stress": "jɛs",
-      "pos": "interj",
-      "gloss": "はい；ええ",
+    "bag": {
+      "lemma": "bag",
+      "stress": "bæɡ",
+      "pos": "noun",
+      "gloss": "バッグ；袋；鞄",
       "meanings": [
         {
-          "en": "はい；ええ",
-          "note": "質問に対する肯定の返事のほか、自分の目で確かめて「よし、やっぱりそうだ！（yes, her initials are right here!）」と頷くときにも使います。"
+          "en": "バッグ；袋；鞄",
+          "note": "買い物袋から旅行鞄まで幅広く使える便利な可算名詞です。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Yes, eight rooms and eight brass keys.",
-          "trans": "はい、8つの客室に8本の真鍮の鍵です。"
+          "text": "Can I help you with your bag?",
+          "trans": "お荷物をお持ちしましょうか？"
         },
         {
-          "text": "Yes, please! I would love some coffee.",
-          "trans": "はい、ぜひ！コーヒーをいただきたいです。"
+          "text": "Bring a cloth bag to the market.",
+          "trans": "市場へは布製の袋を持っていきなさい。"
         }
       ],
       "related": []
     },
-    "you": {
-      "lemma": "you",
-      "stress": "ju",
-      "pos": "pron",
-      "gloss": "あなたは・を；あなたたちは・を",
+    "up": {
+      "lemma": "up",
+      "stress": "ʌp",
+      "pos": "adv",
+      "gloss": "上へ；すっかり",
       "meanings": [
         {
-          "en": "あなたは・を；あなたたちは・を",
-          "note": "英語の you は1人にも複数人（Thank you both! / You good people are...）にも使え、動詞は常に単数・複数を問わず are をとります！"
+          "en": "上へ；すっかり",
+          "note": "carry the bag up（鞄を上の階へ運ぶ）のほか、句動詞 hang up（電話を切る）など動詞と組んで大活躍します。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "You are ten minutes early today!",
-          "trans": "今日は10分早く到着されましたね！"
+          "text": "Pick up the brass key from the tray.",
+          "trans": "トレイから真鍮の鍵を手に取ってください。"
         },
         {
-          "text": "Thank you! See you next time!",
-          "trans": "ありがとうございます！また次回お会いしましょう！"
+          "text": "Look up at the painted wooden sign.",
+          "trans": "ペンキ塗りの木の看板を見上げてごらんなさい。"
         }
       ],
       "related": []
     },
-    "your": {
-      "lemma": "your",
-      "stress": "jʊɹ",
+    "both": {
+      "lemma": "both",
+      "stress": "boʊθ",
       "pos": "det",
-      "gloss": "あなたの；あなたたちの",
+      "gloss": "両方の；二人とも",
       "meanings": [
         {
-          "en": "あなたの；あなたたちの",
-          "note": "名詞の前に置く所有格です（your key, your glasses）。you are の短縮形 you're と音が同じなので綴り分けに注意しましょう。"
+          "en": "両方の；二人とも",
+          "note": "語末の th は舌先を軽く歯に当てて息を出します（/boʊθ/）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Here is your room key, Evelyn.",
-          "trans": "はい、お部屋の鍵ですよ、イヴリン様。"
+          "text": "Both windows face the garden.",
+          "trans": "両方の窓が庭に面しています。"
         },
         {
-          "text": "Enjoy your morning coffee!",
-          "trans": "朝のコーヒーをどうぞお楽しみください！"
+          "text": "Thank you both for your help.",
+          "trans": "お二人とも手伝ってくれてありがとう。"
+        }
+      ],
+      "related": []
+    },
+    "much": {
+      "lemma": "much",
+      "stress": "mʌtʃ",
+      "pos": "adv",
+      "gloss": "ずっと（比較級の強調）；たくさん（不可算）",
+      "meanings": [
+        {
+          "en": "ずっと（比較級の強調）；たくさん（不可算）",
+          "note": "Thank you very much のほか、比較級の前に置いて much better（ずっと良い・ずっと好き）と強める用法が便利です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Thank you so much for your help!",
+          "trans": "手伝ってくださって本当にありがとうございます！"
+        },
+        {
+          "text": "How much sugar do you like in tea?",
+          "trans": "紅茶にはお砂糖をどのくらい入れますか？"
+        }
+      ],
+      "related": []
+    },
+    "take": {
+      "lemma": "take",
+      "stress": "teɪk",
+      "pos": "verb",
+      "gloss": "取る；持っていく；受け取る；（乗り物に）乗る",
+      "meanings": [
+        {
+          "en": "取る；持っていく；受け取る；（乗り物に）乗る",
+          "note": "Take one（1つどうぞ）、took my suitcase（持っていった）、take care（世話をする／気をつける）、takes juice out（染みを落とす）と大活躍する基本動詞（過去形 took、過去分詞 taken）。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "take"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "takes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "took"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "taken"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "taking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Take an umbrella before you walk to the harbor.",
+          "trans": "港へ歩いて行く前に傘を持っていきなさい。"
+        },
+        {
+          "text": "Someone took the wrong blue bag from the taxi.",
+          "trans": "誰かがタクシーから間違った青い鞄を持っていってしまいました。"
+        }
+      ],
+      "related": []
+    },
+    "care": {
+      "lemma": "care",
+      "stress": "kɛɹ",
+      "pos": "noun",
+      "gloss": "気遣い；手入れ；世話",
+      "meanings": [
+        {
+          "en": "気遣い；手入れ；世話",
+          "note": "Take care!（お気をつけて／お大事に）は別れ際の温かい決まり文句です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Take care on the wet stone steps.",
+          "trans": "濡れた石段では足元に気をつけてください。"
+        },
+        {
+          "text": "Who takes care of the garden?",
+          "trans": "誰が庭の手入れをしているのですか？"
         }
       ],
       "related": []

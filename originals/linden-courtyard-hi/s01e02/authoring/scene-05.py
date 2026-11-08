@@ -24,7 +24,7 @@ STORY = [
     ('evelyn', 'Do not worry! Cold sparkling water takes orange juice right out.', 'चिंता मत कीजिए! ठंडा स्पार्कलिंग वॉटर संतरे के जूस का दाग़ तुरंत निकाल देता है।'),
     ('hannah', 'Here is a clean cloth and cold water, Arthur.', 'यह लीजिए साफ़ कपड़ा और ठंडा पानी, आर्थर।'),
     ('arthur', "Excuse me, ma'am, I shall retreat to my office with dignity!", 'माफ़ कीजिएगा, मैम, अब मैं गरिमा के साथ अपने दफ़्तर में प्रस्थान करूँगा!'),
-    ('evelyn', 'Your scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'आपके स्क्रैम्बल्ड एग्स बहुत स्वादिष्ट हैं, हैना। टेसा से मेरी तारीफ़ कहिएगा!'),
+    ('evelyn', 'The scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'स्क्रैम्बल्ड एग्स बहुत स्वादिष्ट हैं, हैना। टेसा से मेरी तारीफ़ कहना!'),
     ('hannah', 'I will! Enjoy your morning.', 'मैं ज़रूर कहूँगी! अपनी सुबह का आनंद लीजिए।'),
 ]
 WALK = [

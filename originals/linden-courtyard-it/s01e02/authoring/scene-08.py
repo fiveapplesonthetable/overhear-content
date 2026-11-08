@@ -21,7 +21,7 @@ STORY = [
     ("hannah", "Wait, let me look at the tablet screen and the paper book together.", "Aspetta, fammi controllare insieme lo schermo e il registro di carta."),
     ("graham", "Let me guess. You promised somebody a room we do not have?", "Fammi indovinare. Hai promesso a qualcuno una camera che non abbiamo?"),
     ("hannah", "Arthur! Room seven is already occupied, and you booked a second guest into room seven!", "Arthur! La camera sette è già occupata, e hai prenotato un secondo ospite nella camera sette!"),
-    ("arthur", "And he arrives on the eight o'clock evening train, in forty minutes!", "E arriva col treno serale delle otto, tra quaranta minuti!"),
+    ("arthur", "And he arrives here at eight o'clock this evening, in forty minutes!", "E arriva col treno serale delle otto, tra quaranta minuti!"),
     ("graham", "Told you that tablet is a trap.", "Te l'avevo detto che quell'aggeggio elettronico è una trappola."),
     ("arthur", "It is raining outside and every hotel on our street is full! What do we do?", "Fuori piove e ogni albergo nella nostra via è al completo! Che cosa facciamo?"),
     ("hannah", "Wait, what is on the third floor above the stairs?", "Aspettate, che cosa c'è al terzo piano in cima alle scale?"),

@@ -21,7 +21,7 @@ STORY = [
     ('hannah', 'We are glad you find our courtyard peaceful for your... work.', 'يسعدنا أن تجد ساحتنا هادئة ومناسبة... لعملك.'),
     ('caleb', 'Very peaceful! Though did you hear a funny metal knock just now?', 'هادئة جداً! غير أنكِ هل سمعتِ طرقة معدنية غريبة قبل لحظة؟'),
     ('hannah', 'Yes! It sounded like it came from the heating pipe in the corner.', 'نعم! بدت كأنها صادرة من أنبوب التدفئة في الزاوية.'),
-    ('caleb', 'Feel the radiator. The top is warm, while the bottom is turning cool.', 'المسي مشعاع التدفئة. الجزء العلوي دافئ، بينما يميل الجزء السفلي إلى البرودة.'),
+    ('caleb', 'Feel the radiator. The bottom is warm, while the top is turning cool.', 'تحسس المشعاع. الجزء السفلي دافئ، بينما الجزء العلوي بدأ يبرد.'),
     ('hannah', 'Oh! Sometimes old pipes have a little air bubble at night.', 'أوه! تتكون أحياناً في الأنابيب القديمة فقاعة هواء صغيرة ليلاً.'),
     ('caleb', 'I have a warm blanket, so I am quite comfortable tonight.', 'لديّ بطانية دافئة، لذا فأنا مرتاح تماماً هذه الليلة.'),
     ('hannah', 'Thank you for being so patient! Graham will check the basement right away.', 'شكراً لك على سعة صدرك وصبرك! سيتفقد غراهام القبو على الفور.'),

@@ -15,8 +15,8 @@ OUTRO = 'एवेलिन का असली सूटकेस वापस 
 CLOSING = ('graham', 'Have a good night!')
 STORY = [
     ('hannah', 'Did you hear that, Graham? Someone just rang the gate bell!', 'ग्राहम, क्या तुमने वह सुना? अभी-अभी किसी ने गेट की घंटी बजाई!'),
-    ('graham', "At nine o'clock? Stay here, let us open the door together.", 'रात के नौ बजे? यहीं रुको, चलो साथ मिलकर दरवाज़ा खोलते हैं।'),
-    ('hannah', 'Hello? Good evening! Nobody is standing in the courtyard!', 'हैलो? शुभ संध्या! आँगन में तो कोई खड़ा नहीं है!'),
+    ('graham', "At nine o'clock? Wait, let us open the gate together.", 'रात के नौ बजे? रुको, चलो साथ मिलकर गेट खोलते हैं।'),
+    ('hannah', 'Hello? Good evening! Nobody is standing at the gate!', 'हैलो? शुभ संध्या! आँगन में कोई इंतज़ार नहीं कर रहा है!'),
     ('graham', 'Wait. Look down on the stone step.', 'रुको। नीचे पत्थर की सीढ़ी पर देखो।'),
     ('hannah', "Another dark blue suitcase! Is this Miss Evelyn's bag?", 'एक और गहरा नीला सूटकेस! क्या यह मिस एवेलिन का बैग है?'),
     ('graham', 'Check the zipper... yes, her initials are right here!', 'ज़िप देखो... हाँ, उनके नाम के आद्याक्षर ठीक यहीं हैं!'),

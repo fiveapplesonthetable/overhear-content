@@ -13,8 +13,8 @@ OUTRO = ("A steady blue flame and hot copper pipes—and Pratap even called Kavy
 CLOSING = ('kavya', 'जल्द मिलेंगे!')
 
 STORY = [('kavya',
-  'लीजिए प्रताप जी, पीतल के दोनों वाल्व! साँस भी फूली है और जीत भी पक्की है!',
-  'Here you go, Pratap, both brass valves! Out of breath, yet right on time!'),
+  'लीजिए प्रताप जी, पीतल के दोनों वाल्व! मेरी साँस फूले? कभी नहीं!',
+  'Here are both brass valves, Pratap! Catch my breath? Never!'),
  ('pratap',
   'शाबाश! इस टॉर्च की रोशनी ठीक यहाँ पाइप के जोड़ पर सीधी रखो।',
   'Well done! Hold this flashlight beam steady right here on the pipe joint.'),

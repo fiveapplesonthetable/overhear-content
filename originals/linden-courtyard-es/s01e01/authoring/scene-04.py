@@ -15,7 +15,7 @@ OUTRO = 'Hannah resolvió su primer registro con soltura, aunque Graham notó qu
 CLOSING = ('evelyn', 'Take care!')
 STORY = [
     ('hannah', "Welcome! Good morning, ma'am.", '¡Bienvenida! Buenos días, señora.'),
-    ('evelyn', 'Good morning, my dear. I have a room for Evelyn.', 'Buenos días, querida. Tengo una habitación a nombre de Evelyn.'),
+    ('evelyn', 'Good morning, my dear. I have a booking for Evelyn.', 'Buenos días, querida. Tengo una reserva para Evelyn.'),
     ('hannah', 'Yes, room four on the second floor! How was your train trip?', '¡Sí, la habitación cuatro en el segundo piso! ¿Qué tal estuvo su viaje en tren?'),
     ('evelyn', 'Quiet and pleasant, thank you, though this suitcase feels very heavy today.', 'Tranquilo y agradable, gracias, aunque esta maleta se siente muy pesada hoy.'),
     ('graham', 'Allow me. Goodness, did you pack stones in here?', 'Permítame. ¡Madre mía, ¿metió piedras aquí dentro?!'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'¡Bienvenida! Buenos días, señora.' En Estados Unidos el trato cortés habitual hacia una clienta es", (None, "ma'am"), 'fórmula breve, cálida y muy respetuosa.']),
-    (1, None, ["'Buenos días, querida. Tengo una habitación a nombre de Evelyn.' Al llegar a un hotel basta decir", (None, 'I have a room for'), 'seguido de tu nombre para indicar tu reserva.']),
+    (1, None, ["'Buenos días, querida. Tengo una reserva para Evelyn.' Para una reserva en un hotel o restaurante se suele usar el sustantivo", (None, 'booking'), "que viene del verbo 'book'."]),
     (2, None, ["'¡Sí, la habitación cuatro en el segundo piso! ¿Qué tal estuvo su viaje en tren?' Para preguntar cómo salió un trayecto ya terminado,", (None, 'How was your train trip'), 'es la fórmula más directa.']),
     (3, None, ["'Tranquilo y agradable, gracias, aunque esta maleta se siente muy pesada hoy.' El giro", (None, 'feels very heavy'), 'describe el peso que notas al levantar o arrastrar algo.']),
     (4, None, ["'Permítame. ¡Madre mía, ¿metió piedras aquí dentro?!' Al ofrecerte a cargar algo,", (None, 'Allow me'), 'suena caballeroso, y', (None, 'Goodness'), 'es una exclamación suave de sorpresa.']),

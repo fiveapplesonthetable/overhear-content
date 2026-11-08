@@ -21,9 +21,9 @@ STORY = [
     ('hannah', 'I always walk fast on my first day. Where is the computer?', 'Siempre camino rápido en mi primer día. ¿Dónde está la computadora?'),
     ('graham', 'In the drawer. Here we use this big paper book and a pencil.', 'En el cajón. Aquí usamos este gran libro de papel y un lápiz.'),
     ('hannah', 'A paper book? Really?', '¿Un libro de papel? ¿En serio?'),
-    ('graham', 'Paper never loses the room list when it rains.', 'El papel nunca pierde la lista de habitaciones cuando llueve.'),
+    ('graham', 'Paper still works when the power goes out.', 'El papel sigue funcionando cuando se va la luz.'),
     ('hannah', 'Fair enough! And these are the keys?', '¡Tiene sentido! ¿Y estas son las llaves?'),
-    ('graham', 'Yes, eight rooms, eight brass keys. Room four is arriving today.', 'Sí, ocho habitaciones, ocho llaves de latón. La habitación cuatro llega hoy.'),
+    ('graham', "Yes, eight rooms, eight brass keys. Room four's guest arrives today.", 'Sí, ocho habitaciones, ocho llaves de latón. El huésped de la habitación cuatro llega hoy.'),
     ('hannah', 'Great. Tell me everything I need to know.', 'Genial. Dime todo lo que necesito saber.'),
     ('graham', 'Rule one: drink hot tea first, then answer the bell.', 'Regla uno: primero bebe té caliente y luego contesta el timbre.'),
 ]
@@ -35,9 +35,9 @@ WALK = [
     (4, None, ["'Siempre camino rápido en mi primer día. ¿Dónde está la computadora?' Con días concretos el inglés elige la preposición", (None, 'on my first day'), 'como si te apoyaras sobre esa fecha del calendario.']),
     (5, None, ["'En el cajón. Aquí usamos este gran libro de papel y un lápiz.' Observa el orden delante del sustantivo en", (None, 'big paper book'), "donde tamaño y material van antes de 'libro', sin usar ninguna preposición."]),
     (6, None, ["'¿Un libro de papel? ¿En serio?' Esa reacción corta,", (None, 'Really'), "sirve igual que nuestro '¿de verdad?' o '¿en serio?' con solo subir la entonación al final."]),
-    (7, None, ["'El papel nunca pierde la lista de habitaciones cuando llueve.' Mira el cierre", (None, 'when it rains'), 'donde otra vez aparece un sujeto neutro obligatorio con los verbos de clima.']),
+    (7, None, ["'El papel sigue funcionando cuando se va la luz.' Fíjate en el cierre", (None, 'when the power goes out'), "que significa literalmente 'cuando el poder se va'."]),
     (8, None, ["'¡Tiene sentido! ¿Y estas son las llaves?' Cuando alguien te convence con un buen argumento,", (None, 'Fair enough'), "suena muy natural para decir 'justo es' o 'me parece razonable'."]),
-    (9, None, ["'Sí, ocho habitaciones, ocho llaves de latón. La habitación cuatro llega hoy.' La forma continua", (None, 'is arriving today'), 'se usa muchísimo en inglés para planes ya previstos hoy mismo.']),
+    (9, None, ["'Sí, ocho habitaciones, ocho llaves de latón. El huésped de la habitación cuatro llega hoy.' Fíjate en el posesivo", (None, "Room four's guest"), "que pone a la habitación como 'dueña' del huésped."]),
     (10, None, ["'Genial. Dime todo lo que necesito saber.' Después de", (None, 'everything'), "el inglés omite el equivalente a 'que' y enlaza directo con", (None, 'I need to know'), 'de forma muy ágil.']),
     (11, None, ["'Regla uno: primero bebe té caliente y luego contesta el timbre.' En inglés no solo contestas el teléfono: también dices", (None, 'answer the bell'), 'para acudir cuando suena la campanilla del mostrador.']),
 ]

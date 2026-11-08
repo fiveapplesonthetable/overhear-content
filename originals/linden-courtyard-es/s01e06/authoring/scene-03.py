@@ -25,7 +25,7 @@ STORY = [
     ('graham', 'Smart thinking, Hannah. Caleb reads city building rules every single week.', 'Bien pensado, Hannah. Caleb lee normativas municipales de edificación todas las semanas.'),
     ('arthur', 'Oh, I could never bother a paying guest with our landlord troubles!', '¡Oh, jamás podría molestar a un huésped de pago con nuestros problemas de alquiler!'),
     ('hannah', 'After we guarded his blue suitcase all week? He will want to help!', '¿Después de que custodiamos su maleta azul toda la semana? ¡Querrá ayudar!'),
-    ('graham', 'Wait, here comes Tessa back from their table right now.', 'Esperen, ahí vuelve Tessa de la mesa de ellos ahora mismo.'),
+    ('graham', 'Wait, Tessa is taking the cake out to their table right now.', 'Un momento, Tessa está sacando el pastel a su mesa ahora mismo.'),
 ]
 WALK = [
     (0, None, ["'Quince años sacando brillo a llaves de latón y enderezando corbatas... ¡perdidos en treinta días!' Tras 'of', ambos verbos van en '-ing', y el participio", (None, 'gone in thirty days'), "resume 'desaparecidos en treinta días'."]),
@@ -39,5 +39,5 @@ WALK = [
     (8, None, ["'Bien pensado, Hannah. Caleb lee normativas municipales de edificación todas las semanas.' El elogio rápido", (None, 'Smart thinking'), 'celebra una buena idea al instante.']),
     (9, None, ["'Oh, jamás podría molestar a un huésped de pago con nuestros problemas de alquiler!' Combinar 'could' con 'never' en", (None, 'I could never bother'), 'expresa un escrúpulo de cortesía muy fuerte.']),
     (10, None, ["'¿Después de que custodiamos su maleta azul toda la semana? ¡Querrá ayudar!' Con total seguridad amable,", (None, 'He will want to help'), 'anticipa su buena disposición.']),
-    (11, None, ["'Esperen, ahí vuelve Tessa de la mesa de ellos ahora mismo.' Con nombres propios en", (None, 'here comes Tessa'), 'el verbo va delante del nombre para anunciar a quien se acerca.']),
+    (11, None, ["'Un momento, Tessa está sacando el pastel a su mesa ahora mismo.' Para indicar que algo ocurre en este preciso instante se añade", (None, 'right now'), "literalmente 'justo ahora'."]),
 ]

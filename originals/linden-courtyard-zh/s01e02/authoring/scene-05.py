@@ -24,7 +24,7 @@ STORY = [
     ('evelyn', 'Do not worry! Cold sparkling water takes orange juice right out.', '别担心！冰气泡水一下子就能把橙汁渍洗掉。'),
     ('hannah', 'Here is a clean cloth and cold water, Arthur.', '亚瑟，给你一块干净抹布和冷水。'),
     ('arthur', "Excuse me, ma'am, I shall retreat to my office with dignity!", '女士，失陪一下，容我体面地退回办公室去处理吧！'),
-    ('evelyn', 'Your scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', '汉娜，你们做的炒蛋真美味。请代我向泰莎转达称赞！'),
+    ('evelyn', 'The scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', '这炒蛋真美味，汉娜。请代我向泰莎转达称赞！'),
     ('hannah', 'I will! Enjoy your morning.', '我一定转达！祝您早上愉快。'),
 ]
 WALK = [
@@ -38,6 +38,6 @@ WALK = [
     (7, None, ["'别担心！冰气泡水一下子就能把橙汁渍洗掉。' 英语里带气的苏打水叫作", (None, 'sparkling water'), '伊芙琳接着用生活妙招短语', (None, 'takes orange juice right out'), '告诉他能把污渍彻底清除干净。']),
     (8, None, ["'亚瑟，给你一块干净抹布和冷水。' 注意单数名词", (None, 'cloth'), '指一块擦拭用的抹布或餐布，千万别跟它加了复数词尾后专指“衣服”的同源词弄混了。']),
     (9, None, ["'女士，失陪一下，容我体面地退回办公室去处理吧！' 亚瑟故意选用古典郑重的助动词说出", (None, 'I shall retreat'), '拿自己狼狈退场开起了绅士玩笑，立刻化解了尴尬。']),
-    (10, None, ["'汉娜，你们做的炒蛋真美味。请代我向泰莎转达称赞！' 吃完饭想夸奖大厨手艺好，英语最地道的说法就是请服务员转达复数形式的", (None, 'my compliments'), '听起来格外优雅得体。']),
+    (10, None, ["'这炒蛋真美味，汉娜。请代我向泰莎转达称赞！' 吃完饭想夸奖大厨手艺好，英语最地道的说法就是请服务员转达复数形式的", (None, 'my compliments'), "听起来格外优雅得体。"]),
     (11, None, ["'我一定转达！祝您早上愉快。' 答应别人的嘱托时，只用主语加上将来意愿助动词回答一句", (None, 'I will'), '简短干脆，省去了后面重复的动词短语。']),
 ]

@@ -15,12 +15,12 @@ OUTRO = 'La luz del día sobre una vieja etiqueta de equipaje acaba de abrir vei
 CLOSING = ('evelyn', 'Bye for now!')
 STORY = [
     ('graham', 'Let me set this blue suitcase here for five minutes while I sweep the closet.', 'Déjame apoyar aquí esta maleta azul cinco minutos mientras barro el armario.'),
-    ('hannah', 'Careful with it, Graham. Tomorrow at noon is Friday!', 'Con cuidado con ella, Graham. ¡Mañana al mediodía es viernes!'),
+    ('hannah', 'Careful with it, Graham. Friday at noon is tomorrow!', 'Cuidado con ella, Graham. ¡El viernes al mediodía es mañana!'),
     ('evelyn', "Oh, is that the twin suitcase from Monday's train?", 'Oh, ¿esa es la maleta gemela del tren del lunes?'),
     ('hannah', "Yes, ma'am, still waiting for its owner.", 'Sí, señora, todavía esperando a su dueño.'),
     ('evelyn', 'May I look at the paper tag again here in the bright sunlight?', '¿Puedo mirar otra vez la etiqueta de papel aquí bajo la luz brillante del sol?'),
     ('graham', "Go right ahead, ma'am. Monday afternoon the lobby was dark.", 'Adelante, señora. El lunes por la tarde el vestíbulo estaba oscuro.'),
-    ('evelyn', 'Wait a moment... Number twelve, Linden Street, and two childhood initials carved on the corner!', 'Un momento... ¡Número doce de la calle Linden, y dos iniciales de infancia talladas en la esquina!'),
+    ('evelyn', 'Wait a moment... Number twelve, Linden Street, and two childhood initials written in the corner!', 'Un momento... ¡Número doce de la calle Linden, y dos iniciales de infancia escritas en la esquina!'),
     ('hannah', 'Miss Evelyn, you look amazed! Do you know Number twelve, Linden Street?', '¡Señorita Evelyn, se la ve asombrada! ¿Conoce el número doce de la calle Linden?'),
     ('evelyn', 'Know it? Every Friday for six years I climbed those wooden stairs to teach piano!', '¿Que si lo conozco? ¡Cada viernes durante seis años subí esa escalera de madera para enseñar piano!'),
     ('graham', 'Twenty-five years ago? In that same house?', '¿Hace veinticinco años? ¿En esa misma casa?'),
@@ -29,12 +29,12 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Déjame apoyar aquí esta maleta azul cinco minutos mientras barro el armario.' Para duraciones concretas de tiempo usamos la preposición", (None, 'for five minutes'), 'durante cinco minutos.']),
-    (1, None, ["'Con cuidado con ella, Graham. ¡Mañana al mediodía es viernes!' Recuerda que mediodía lleva la misma preposición puntual que las horas:", (None, 'at noon'), 'al mediodía.']),
+    (1, None, ["'Cuidado con ella, Graham. ¡El viernes al mediodía es mañana!' Recuerda que mediodía lleva la misma preposición puntual que las horas:", (None, 'at noon'), "al mediodía."]),
     (2, None, ["'Oh, ¿esa es la maleta gemela del tren del lunes?' En", (None, 'twin suitcase'), "la palabra para 'gemelo' describe dos objetos idénticos."]),
     (3, None, ["'Sí, señora, todavía esperando a su dueño.' Atención al posesivo neutro sin apóstrofo en", (None, 'waiting for its owner'), 'esperando a su dueño.']),
     (4, None, ["'¿Puedo mirar otra vez la etiqueta de papel aquí bajo la luz brillante del sol?' Cuando algo está iluminado por el sol, el inglés usa 'in':", (None, 'in the bright sunlight'), 'a plena luz del sol.']),
     (5, None, ["'Adelante, señora. El lunes por la tarde el vestíbulo estaba oscuro.' Para dar permiso con calidez inmediata, nada suena más natural que", (None, 'Go right ahead'), 'adelante, faltaría más.']),
-    (6, None, ["'Un momento... ¡Número doce de la calle Linden, y dos iniciales de infancia talladas en la esquina!' El participio", (None, 'carved on the corner'), 'indica letras grabadas en madera o cuero.']),
+    (6, None, ["'Un momento... ¡Número doce de la calle Linden, y dos iniciales de infancia escritas en la esquina!' El participio", (None, 'written in the corner'), "indica que están simplemente anotadas, no talladas."]),
     (7, None, ["'¡Señorita Evelyn, se la ve asombrada! ¿Conoce el número doce de la calle Linden?' Con verbos de aspecto como 'look', ponemos el adjetivo directo:", (None, 'you look amazed'), 'te ves asombrada.']),
     (8, None, ["'¿Que si lo conozco? ¡Cada viernes durante seis años subí esa escalera de madera para enseñar piano!' Después de 'teach', los instrumentos musicales van sin artículo en", (None, 'teach piano'), 'enseñar piano.']),
     (9, None, ["'¿Hace veinticinco años? ¿En esa misma casa?' Recuerda el orden temporal con", (None, 'Twenty-five years ago'), "donde 'ago' cierra siempre la expresión al final."]),

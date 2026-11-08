@@ -14,7 +14,7 @@ TRANSITION = "Riascoltiamo ora tutta la scena di seguito."
 OUTRO = "Il trenino di legno del nonno è tornato a casa e lo stupore di Owen davanti alla signorina Evelyn ha riempito il cortile di sorrisi. Dentro, però, Arthur fissa ancora quella lettera. A tra poco."
 CLOSING = ("evelyn", "See you later!")
 STORY = [
-    ("caleb", "Before the movers cleared Linden Street, I saved this box from the attic shelf.", "Prima che i traslocatori sgomberassero via del Tiglio, ho salvato questa scatola dallo scaffale della soffitta."),
+    ("caleb", "Before the movers cleared the house, I saved this box from the attic shelf.", "Prima che i traslocatori sgomberassero la casa, ho salvato questa scatola dallo scaffale della soffitta."),
     ("owen", "Open the white paper... no! Grandfather's carved wooden train engine!", "Apri la carta bianca... non ci credo! La locomotiva di legno intagliato del nonno!"),
     ("caleb", "Look underneath the wheels. Your name and mine are still penciled there.", "Guarda sotto le ruote. Il tuo nome e il mio sono ancora scritti a matita lì sotto."),
     ("owen", "I thought this was lost when we sold the house! Why keep it for me?", "Pensavo che fosse andato perduto quando abbiamo venduto la casa! Perché conservarlo per me?"),
@@ -28,7 +28,7 @@ STORY = [
     ("owen", "Please sit with us, Miss Evelyn! Tell me I am not twenty-five years late for my lesson!", "Per favore, si sieda con noi, signorina Evelyn! Mi dica che non sono in ritardo di venticinque anni per la lezione!"),
 ]
 WALK = [
-    (0, None, ["'Prima che i traslocatori sgomberassero via del Tiglio, ho salvato questa scatola dallo scaffale della soffitta.' Gli addetti ai traslochi si chiamano", (None, "the movers"), "mentre", (None, "attic shelf"), "compatta soffitta e scaffale senza preposizioni."]),
+    (0, None, ["'Prima che i traslocatori sgomberassero la casa, ho salvato questa scatola dallo scaffale della soffitta.' Gli addetti ai traslochi si chiamano", (None, "the movers"), "mentre", (None, "attic shelf"), "compatta soffitta e scaffale senza preposizioni."]),
     (1, None, ["'Apri la carta bianca... non ci credo! La locomotiva di legno intagliato del nonno!' Osserva la catena ordinata di descrittori in", (None, "carved wooden train engine"), "lavorazione a intaglio, materiale e tipo di treno."]),
     (2, None, ["'Guarda sotto le ruote. Il tuo nome e il mio sono ancora scritti a matita lì sotto.' La posizione proprio sul fondo è resa da", (None, "underneath the wheels"), "e dal nome per matita nasce il participio", (None, "penciled"), "scritto a lapis."]),
     (3, None, ["'Pensavo che fosse andato perduto quando abbiamo venduto la casa! Perché conservarlo per me?' Per chiedere il motivo di una scelta basta accostare l'interrogativo al verbo nudo in", (None, "Why keep it"), "perché tenerlo."]),

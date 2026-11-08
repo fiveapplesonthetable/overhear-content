@@ -15,8 +15,8 @@ OUTRO = 'La maleta de Evelyn ha vuelto, pero el desconocido desapareció en la n
 CLOSING = ('graham', 'Have a good night!')
 STORY = [
     ('hannah', 'Did you hear that, Graham? Someone just rang the gate bell!', '¿Oíste eso, Graham? ¡Alguien acaba de tocar la campana de la entrada!'),
-    ('graham', "At nine o'clock? Stay here, let us open the door together.", '¿A las nueve en punto? Quédate aquí, abramos la puerta juntos.'),
-    ('hannah', 'Hello? Good evening! Nobody is standing in the courtyard!', '¿Hola? ¡Buenas noches! ¡No hay nadie parado en el patio!'),
+    ('graham', "At nine o'clock? Wait, let us open the gate together.", '¿A las nueve? Espera, abramos la verja juntos.'),
+    ('hannah', 'Hello? Good evening! Nobody is standing at the gate!', '¿Hola? ¡Buenas noches! ¡No hay nadie de pie en la verja!'),
     ('graham', 'Wait. Look down on the stone step.', 'Espera. Mira abajo en el escalón de piedra.'),
     ('hannah', "Another dark blue suitcase! Is this Miss Evelyn's bag?", '¡Otra maleta azul oscuro! ¿Es el equipaje de la señorita Evelyn?'),
     ('graham', 'Check the zipper... yes, her initials are right here!', 'Revisa la cremallera... ¡sí, sus iniciales están aquí mismo!'),
@@ -29,8 +29,8 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'¿Oíste eso, Graham? ¡Alguien acaba de tocar la campana de la entrada!' Otra pregunta limpia en pasado:", (None, 'Did you hear that'), 'pone el auxiliar delante y deja el verbo oír sin cambios.']),
-    (1, None, ["'¿A las nueve en punto? Quédate aquí, abramos la puerta juntos.' La expresión clásica", (None, "nine o'clock"), 'marca siempre una hora exacta del reloj.']),
-    (2, None, ["'¿Hola? ¡Buenas noches! ¡No hay nadie parado en el patio!' Atención a la diferencia vital: al llegar de noche saludas con", (None, 'Good evening'), 'mientras que la otra despedida nocturna se reserva para irte o acostarte.']),
+    (1, None, ["'¿A las nueve? Espera, abramos la verja juntos.' Cuando se propone hacer algo juntos, el inglés siempre arranca con", (None, 'let us'), "o su versión abreviada 'let\'s'."]),
+    (2, None, ["'¿Hola? ¡Buenas noches! ¡No hay nadie de pie en la verja!' En inglés la doble negación no existe; si usas", (None, 'Nobody'), "el verbo siempre va en positivo: 'nadie está de pie'."]),
     (3, None, ["'Espera. Mira abajo en el escalón de piedra.' Al juntar mirada y dirección,", (None, 'Look down'), 'indica enseguida que bajes la vista hacia el suelo.']),
     (4, None, ["'¡Otra maleta azul oscuro! ¿Es el equipaje de la señorita Evelyn?' Cuando quieres decir 'otro más' en singular, el inglés fusiona artículo y adjetivo en una sola palabra:", (None, 'Another'), 'otra maleta.']),
     (5, None, ["'Revisa la cremallera... ¡sí, sus iniciales están aquí mismo!' Como las iniciales pertenecen a una mujer, el posesivo es", (None, 'her initials'), "guiado por la dueña y no por la palabra 'iniciales'."]),

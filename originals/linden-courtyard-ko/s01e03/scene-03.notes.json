@@ -3744,90 +3744,15 @@
     }
   ],
   "lexicon": {
-    "all": {
-      "lemma": "all",
-      "stress": "ɔl",
-      "pos": "det",
-      "gloss": "모든, 전부",
-      "meanings": [
-        {
-          "en": "모든, 전부",
-          "note": "집단 전체나 기간 내내를 가리키는 한정사입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "All the windows are open.",
-          "trans": "창문이 전부 열려 있어요."
-        },
-        {
-          "text": "She worked all morning.",
-          "trans": "그녀는 아침 내내 일했어요."
-        }
-      ],
-      "related": []
-    },
-    "almost": {
-      "lemma": "almost",
-      "stress": "ˈɔlˌmoʊst",
-      "pos": "adv",
-      "gloss": "거의",
-      "meanings": [
-        {
-          "en": "거의",
-          "note": "동사나 형용사 앞에 놓여 어떤 상태에 아주 가까워졌음을 나타냅니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Dinner is almost ready.",
-          "trans": "저녁 식사가 거의 다 준비되었어요."
-        },
-        {
-          "text": "I almost forgot my umbrella.",
-          "trans": "우산을 거의 잊어버릴 뻔했어요."
-        }
-      ],
-      "related": []
-    },
-    "and": {
-      "lemma": "and",
-      "stress": "ænd",
-      "pos": "conj",
-      "gloss": "그리고, ~와/과",
-      "meanings": [
-        {
-          "en": "그리고, ~와/과",
-          "note": "단어나 구, 문장을 나란히 이어 주는 기본 접속사입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bring bread and butter, please.",
-          "trans": "빵과 버터를 가져다주세요."
-        },
-        {
-          "text": "Wash your hands and sit down.",
-          "trans": "손을 씻고 자리에 앉으세요."
-        }
-      ],
-      "related": []
-    },
-    "be": {
-      "lemma": "be",
-      "stress": "bi",
+    "tuck": {
+      "lemma": "tuck",
+      "stress": "tʌk",
       "pos": "verb",
-      "gloss": "~이다, ~에 있다",
+      "gloss": "밀어 넣어 고정하다, 갈무리하다",
       "meanings": [
         {
-          "en": "~이다, ~에 있다",
-          "note": "주어에 따라 현재형이 am, is, are로 바뀌며 신분·상태·위치를 모두 나타냅니다."
+          "en": "밀어 넣어 고정하다, 갈무리하다",
+          "note": "침대 시트 자락을 매트리스 밑으로 깔끔하게 밀어 넣을 때 쓰는 동사입니다."
         }
       ],
       "forms": {
@@ -3840,31 +3765,31 @@
           {
             "cells": [
               "base",
-              "be"
+              "tuck"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "is"
+              "tucks"
             ]
           },
           {
             "cells": [
               "past",
-              "was, were"
+              "tucked"
             ]
           },
           {
             "cells": [
               "past participle",
-              "been"
+              "tucked"
             ]
           },
           {
             "cells": [
               "-ing",
-              "being"
+              "tucking"
             ]
           }
         ]
@@ -3872,237 +3797,62 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "The keys are on the desk.",
-          "trans": "열쇠들은 책상 위에 있어요."
+          "text": "Tuck that white sheet corner tight.",
+          "trans": "흰 침대 시트 모서리를 팽팽하게 밀어 넣으세요."
         },
         {
-          "text": "She wants to be a teacher.",
-          "trans": "그녀는 선생님이 되고 싶어 해요."
+          "text": "He tucked the folded letter in his pocket.",
+          "trans": "그는 접은 편지를 주머니 속에 잘 챙겨 넣었어요."
         }
       ],
       "related": []
     },
-    "bed": {
-      "lemma": "bed",
-      "stress": "bɛd",
+    "that": {
+      "lemma": "that",
+      "stress": "ðæt",
+      "pos": "pron",
+      "gloss": "저것, 그것; 저~",
+      "meanings": [
+        {
+          "en": "저것, 그것; 저~",
+          "note": "조금 떨어져 있거나 방금 언급된 대상(that bell, that street)을 가리키는 지시어입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "That blue suitcase by the door is Arthur's.",
+          "trans": "문 옆에 있는 저 파란색 여행 가방은 아서의 것이에요."
+        },
+        {
+          "text": "That sounds like a great plan!",
+          "trans": "그거 정말 좋은 계획 같네요!"
+        }
+      ],
+      "related": []
+    },
+    "sheet": {
+      "lemma": "sheet",
+      "stress": "ʃit",
       "pos": "noun",
-      "gloss": "침대, 잠자리",
+      "gloss": "한 장, 시트; 악보(sheet music)",
       "meanings": [
         {
-          "en": "침대, 잠자리",
-          "note": "관사 없이 go to bed라고 하면 '잠자리에 들다'라는 뜻입니다."
+          "en": "한 장, 시트; 악보(sheet music)",
+          "note": "침대 시트나 종이 한 장을 뜻하며 sheet music은 책으로 묶이지 않은 낱장 '악보'를 가리킵니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "The attic has a comfortable bed.",
-          "trans": "다락방에는 편안한 침대가 있어요."
+          "text": "Sign your name on the top sheet.",
+          "trans": "맨 윗장 종이에 성함을 서명해 주세요."
         },
         {
-          "text": "Put clean sheets on the bed.",
-          "trans": "침대에 깨끗한 시트를 깔아 주세요."
-        }
-      ],
-      "related": []
-    },
-    "bell": {
-      "lemma": "bell",
-      "stress": "bɛl",
-      "pos": "noun",
-      "gloss": "종, 벨, 초인종",
-      "meanings": [
-        {
-          "en": "종, 벨, 초인종",
-          "note": "프런트 데스크의 호출 종과 현관 초인종 모두에 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ring the bell at the front desk.",
-          "trans": "프런트 데스크에 있는 종을 울려 주세요."
-        },
-        {
-          "text": "Did you hear the gate bell?",
-          "trans": "대문 초인종 소리 들으셨나요?"
-        }
-      ],
-      "related": []
-    },
-    "beside": {
-      "lemma": "beside",
-      "stress": "bɪˈsaɪd",
-      "pos": "prep",
-      "gloss": "~옆에, 나란히",
-      "meanings": [
-        {
-          "en": "~옆에, 나란히",
-          "note": "물리적으로 바로 옆자리를 뜻하며 besides('게다가')와 구별해야 합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Put the spoon beside the cup.",
-          "trans": "찻잔 옆에 숟가락을 놓아 주세요."
-        },
-        {
-          "text": "Come sit beside the window.",
-          "trans": "이리 와서 창가 옆에 앉으세요."
-        }
-      ],
-      "related": []
-    },
-    "blue": {
-      "lemma": "blue",
-      "stress": "blu",
-      "pos": "adj",
-      "gloss": "파란, 푸른",
-      "meanings": [
-        {
-          "en": "파란, 푸른",
-          "note": "맑은 하늘이나 바다 빛깔을 나타내는 기본 색채 형용사입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at that clear blue sky.",
-          "trans": "저 맑고 푸른 하늘을 보세요."
-        },
-        {
-          "text": "My suitcase has a blue handle.",
-          "trans": "제 여행 가방에는 파란색 손잡이가 달려 있어요."
-        }
-      ],
-      "related": []
-    },
-    "brass": {
-      "lemma": "brass",
-      "stress": "bɹæs",
-      "pos": "noun",
-      "gloss": "황동, 놋쇠",
-      "meanings": [
-        {
-          "en": "황동, 놋쇠",
-          "note": "오래된 열쇠나 문손잡이에 흔히 쓰이는 노란빛 금속 합금입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Polish the brass handle on the door.",
-          "trans": "문에 달린 황동 손잡이를 닦아 주세요."
-        },
-        {
-          "text": "Eight brass keys hang behind the desk.",
-          "trans": "책상 뒤에 황동 열쇠 여덟 개가 걸려 있어요."
-        }
-      ],
-      "related": []
-    },
-    "breakfast": {
-      "lemma": "breakfast",
-      "stress": "ˈbɹɛkfəst",
-      "pos": "noun",
-      "gloss": "아침 식사",
-      "meanings": [
-        {
-          "en": "아침 식사",
-          "note": "식사 이름 앞에는 보통 관사를 붙이지 않고 for breakfast처럼 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast is ready at seven.",
-          "trans": "일곱 시에 아침 식사가 준비돼요."
-        },
-        {
-          "text": "We had eggs and toast for breakfast.",
-          "trans": "우리는 아침으로 달걀과 토스트를 먹었어요."
-        }
-      ],
-      "related": []
-    },
-    "bye": {
-      "lemma": "bye",
-      "stress": "baɪ",
-      "pos": "interj",
-      "gloss": "안녕, 잘 가요",
-      "meanings": [
-        {
-          "en": "안녕, 잘 가요",
-          "note": "일상에서 가볍고 친근하게 건네는 작별 인사입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bye! Have a safe trip.",
-          "trans": "안녕히 가세요! 조심히 다녀오세요."
-        },
-        {
-          "text": "She waved and said bye.",
-          "trans": "그녀는 손을 흔들며 작별 인사를 했어요."
-        }
-      ],
-      "related": []
-    },
-    "calm": {
-      "lemma": "calm",
-      "stress": "kɑm",
-      "pos": "adj",
-      "gloss": "차분한, 평온한",
-      "meanings": [
-        {
-          "en": "차분한, 평온한",
-          "note": "철자 속의 l은 소리 나지 않으며 목소리나 태도가 침착할 때 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Your voice sounds calm and clear.",
-          "trans": "목소리가 차분하고 또렷하게 들리네요."
-        },
-        {
-          "text": "Try to look calm when he arrives.",
-          "trans": "그가 도착하면 침착해 보이도록 노력해 보세요."
-        }
-      ],
-      "related": []
-    },
-    "change": {
-      "lemma": "change",
-      "stress": "tʃeɪndʒ",
-      "pos": "noun",
-      "gloss": "거스름돈, 잔돈; 변화",
-      "meanings": [
-        {
-          "en": "거스름돈, 잔돈; 변화",
-          "note": "현금 결제 후 돌려받는 거스름돈을 뜻할 때는 셀 수 없는 명사로 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Count your change before leaving the counter.",
-          "trans": "카운터를 떠나기 전에 거스름돈을 세어 보세요."
-        },
-        {
-          "text": "Here is five dollars in change.",
-          "trans": "여기 거스름돈 오 달러입니다."
+          "text": "Fresh cotton sheets dry fast in the breeze.",
+          "trans": "깨끗한 면 시트가 산들바람에 금방 말라요."
         }
       ],
       "related": []
@@ -4132,466 +3882,52 @@
       ],
       "related": []
     },
-    "courtyard": {
-      "lemma": "courtyard",
-      "stress": "ˈkɔɹtˌjɑɹd",
-      "pos": "noun",
-      "gloss": "안뜰, 중정",
-      "meanings": [
-        {
-          "en": "안뜰, 중정",
-          "note": "건물이나 담장으로 아늑하게 둘러싸인 야외 마당입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lanterns glow in the stone courtyard at dusk.",
-          "trans": "해 질 녘이면 돌로 된 안뜰에 등불이 켜져요."
-        },
-        {
-          "text": "My window faces the quiet courtyard.",
-          "trans": "제 방 창문은 조용한 안뜰을 마주 보고 있어요."
-        }
-      ],
-      "related": []
-    },
-    "desk": {
-      "lemma": "desk",
-      "stress": "dɛsk",
-      "pos": "noun",
-      "gloss": "책상; 프런트 데스크",
-      "meanings": [
-        {
-          "en": "책상; 프런트 데스크",
-          "note": "호텔에서 front desk라고 하면 손님을 맞이하는 안내 데스크를 뜻합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Leave your room key at the front desk.",
-          "trans": "객실 열쇠는 프런트 데스크에 맡겨 주세요."
-        },
-        {
-          "text": "A brass bell sits on the wooden desk.",
-          "trans": "나무 책상 위에 황동 종이 놓여 있어요."
-        }
-      ],
-      "related": []
-    },
-    "discount": {
-      "lemma": "discount",
-      "stress": "ˈdɪsˌkaʊnt",
-      "pos": "noun",
-      "gloss": "할인",
-      "meanings": [
-        {
-          "en": "할인",
-          "note": "명사로 쓰일 때는 첫 음절에 강세를 두며 숙박비나 가격을 깎아 주는 것을 뜻합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Offer him a generous room discount.",
-          "trans": "그에게 넉넉한 객실 할인을 제안해 보세요."
-        },
-        {
-          "text": "Students get a ten percent discount.",
-          "trans": "학생들은 십 퍼센트 할인을 받아요."
-        }
-      ],
-      "related": []
-    },
-    "do": {
-      "lemma": "do",
-      "stress": "du",
-      "pos": "verb",
-      "gloss": "하다; (의문·부정문 조동사)",
-      "meanings": [
-        {
-          "en": "하다; (의문·부정문 조동사)",
-          "note": "일반동사 '하다'로 쓰이는 동시에 일반동사의 의문문과 부정문을 만드는 조동사입니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "do"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "does"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "did"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "done"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "doing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you want sugar in your coffee?",
-          "trans": "커피에 설탕을 넣어 드시겠어요?"
-        },
-        {
-          "text": "What should we do with this package?",
-          "trans": "이 소포는 어떻게 할까요?"
-        }
-      ],
-      "related": []
-    },
-    "dot": {
-      "lemma": "dot",
-      "stress": "dɑt",
-      "pos": "noun",
-      "gloss": "점; 정각에(on the dot)",
-      "meanings": [
-        {
-          "en": "점; 정각에(on the dot)",
-          "note": "시각 뒤에 붙는 on the dot은 '일 분도 어기지 않고 정각에'라는 관용 표현입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "He arrived at eight on the dot.",
-          "trans": "그는 여덟 시 정각에 도착했어요."
-        },
-        {
-          "text": "Put a small dot on the map.",
-          "trans": "지도 위에 작은 점을 하나 찍어 보세요."
-        }
-      ],
-      "related": []
-    },
-    "down": {
-      "lemma": "down",
-      "stress": "daʊn",
+    "tight": {
+      "lemma": "tight",
+      "stress": "taɪt",
       "pos": "adv",
-      "gloss": "아래로, 내려가서",
+      "gloss": "단단히, 팽팽하게",
       "meanings": [
         {
-          "en": "아래로, 내려가서",
-          "note": "sit down('앉다'), write down('적어 두다')처럼 여러 동사와 자연스럽게 어울립니다."
+          "en": "단단히, 팽팽하게",
+          "note": "철자 gh는 묵음이며 tuck이나 hold 뒤에서 '풀리지 않게 꼭, 단단히'라는 부사로 자주 씁니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Please sit down and rest a moment.",
-          "trans": "자리에 앉아 잠시 쉬세요."
+          "text": "Tuck that sheet corner tight.",
+          "trans": "침대 시트 모서리를 팽팽하게 밀어 넣어 고정하세요."
         },
         {
-          "text": "Write down the phone number before you forget.",
-          "trans": "잊어버리기 전에 전화번호를 적어 두세요."
+          "text": "Screw the brass cap on tight.",
+          "trans": "황동 마개를 단단히 돌려 잠그세요."
         }
       ],
       "related": []
     },
-    "downstairs": {
-      "lemma": "downstairs",
-      "stress": "ˌdaʊnˈstɛɹz",
+    "here": {
+      "lemma": "here",
+      "stress": "hɪɹ",
       "pos": "adv",
-      "gloss": "아래층으로, 아래층에",
+      "gloss": "여기, 이곳에",
       "meanings": [
         {
-          "en": "아래층으로, 아래층에",
-          "note": "그 자체로 방향과 위치를 포함하는 부사이므로 앞에 to나 in을 붙이지 않습니다."
+          "en": "여기, 이곳에",
+          "note": "물건을 건네며 Here is your key('여기 열쇠 있습니다')나 Here you are라고 자주 씁니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Breakfast is served downstairs until ten.",
-          "trans": "아침 식사는 열 시까지 아래층에서 제공됩니다."
+          "text": "Here is your brass key for room four.",
+          "trans": "여기 사 호실 황동 열쇠가 있습니다."
         },
         {
-          "text": "I left my umbrella downstairs by the door.",
-          "trans": "아래층 문 옆에 우산을 두고 왔어요."
-        }
-      ],
-      "related": []
-    },
-    "eight": {
-      "lemma": "eight",
-      "stress": "eɪt",
-      "pos": "num",
-      "gloss": "여덟, 팔",
-      "meanings": [
-        {
-          "en": "여덟, 팔",
-          "note": "철자 속 gh는 묵음이어서 발음이 ate와 똑같습니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our guesthouse has eight quiet rooms.",
-          "trans": "우리 게스트하우스에는 조용한 객실 여덟 개가 있어요."
-        },
-        {
-          "text": "Breakfast starts at eight o'clock sharp.",
-          "trans": "아침 식사는 여덟 시 정각에 시작해요."
-        }
-      ],
-      "related": []
-    },
-    "explain": {
-      "lemma": "explain",
-      "stress": "ɪkˈspleɪn",
-      "pos": "verb",
-      "gloss": "설명하다",
-      "meanings": [
-        {
-          "en": "설명하다",
-          "note": "사람에게 설명할 때는 반드시 전치사 to를 써서 explain ~ to 사람 어순으로 말합니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "explain"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "explains"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "explained"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "explained"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "explaining"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Hannah can explain it clearly.",
-          "trans": "해나가 그것을 명확하게 설명해 줄 수 있어요."
-        },
-        {
-          "text": "Let me explain what happened.",
-          "trans": "무슨 일이 있었는지 제가 설명해 드릴게요."
-        }
-      ],
-      "related": []
-    },
-    "fit": {
-      "lemma": "fit",
-      "stress": "fɪt",
-      "pos": "verb",
-      "gloss": "꼭 맞다, 어울리다",
-      "meanings": [
-        {
-          "en": "꼭 맞다, 어울리다",
-          "note": "열쇠가 자물쇠에 맞거나 옷이 몸에 잘 맞을 때 쓰며 fit right in은 '금세 잘 어울리다'입니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "fit"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "fits"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "fit"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "fit"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "fitting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Does this brass key fit room four?",
-          "trans": "이 황동 열쇠가 사 호실에 맞나요?"
-        },
-        {
-          "text": "All four cups fit neatly on the tray.",
-          "trans": "찻잔 네 개가 쟁반 위에 단정하게 다 들어가네요."
-        }
-      ],
-      "related": []
-    },
-    "for": {
-      "lemma": "for",
-      "stress": "fɔɹ",
-      "pos": "prep",
-      "gloss": "~을 위해; ~동안",
-      "meanings": [
-        {
-          "en": "~을 위해; ~동안",
-          "note": "받는 대상(for room four), 목적(for breakfast), 지속 시간 등을 폭넓게 나타냅니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This package arrived for room two.",
-          "trans": "이 소포는 이 호실 앞으로 도착했어요."
-        },
-        {
-          "text": "Wait here for just a moment.",
-          "trans": "잠시만 여기서 기다려 주세요."
-        }
-      ],
-      "related": []
-    },
-    "free": {
-      "lemma": "free",
-      "stress": "fɹi",
-      "pos": "adj",
-      "gloss": "비어 있는, 한가한; 무료의",
-      "meanings": [
-        {
-          "en": "비어 있는, 한가한; 무료의",
-          "note": "방이나 자리가 비어 있다는 뜻과 요금이 무료라는 뜻을 모두 지닙니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Is this garden table free?",
-          "trans": "이 정원 테이블 자리 비어 있나요?"
-        },
-        {
-          "text": "Coffee and tea are free for all guests.",
-          "trans": "모든 투숙객에게 커피와 차는 무료로 제공돼요."
-        }
-      ],
-      "related": []
-    },
-    "gate": {
-      "lemma": "gate",
-      "stress": "ɡeɪt",
-      "pos": "noun",
-      "gloss": "대문, 출입문",
-      "meanings": [
-        {
-          "en": "대문, 출입문",
-          "note": "담장이나 정원, 안뜰로 들어서는 바깥쪽 문을 가리킵니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Close the iron gate behind you.",
-          "trans": "들어오신 뒤에 철제 대문을 닫아 주세요."
-        },
-        {
-          "text": "Tessa waited by the courtyard gate.",
-          "trans": "테사는 안뜰 대문 옆에서 기다렸어요."
-        }
-      ],
-      "related": []
-    },
-    "generous": {
-      "lemma": "generous",
-      "stress": "ˈdʒɛnɚəs",
-      "pos": "adj",
-      "gloss": "후한, 넉넉한, 관대한",
-      "meanings": [
-        {
-          "en": "후한, 넉넉한, 관대한",
-          "note": "사람의 인심이 후할 때뿐 아니라 할인 폭이나 음식 양이 넉넉할 때도 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Half price is very generous of you!",
-          "trans": "반값으로 해 주시다니 정말 후하시네요!"
-        },
-        {
-          "text": "She cut two generous slices of cake.",
-          "trans": "그녀는 케이크를 큼직하게 두 조각 잘랐어요."
+          "text": "Sign your name right here, please.",
+          "trans": "바로 여기에 성함을 서명해 주세요."
         }
       ],
       "related": []
@@ -4659,1076 +3995,77 @@
       ],
       "related": []
     },
-    "good": {
-      "lemma": "good",
-      "stress": "ɡʊd",
-      "pos": "adj",
-      "gloss": "좋은, 훌륭한",
-      "meanings": [
-        {
-          "en": "좋은, 훌륭한",
-          "note": "인사말(Good morning)에 두루 쓰이며 비교급은 better, 최상급은 best로 불규칙 변화합니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "good"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "better"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "best"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Did you sleep well?",
-          "trans": "좋은 아침이에요! 간밤에 잘 주무셨나요?"
-        },
-        {
-          "text": "Fresh bread smells even better with butter.",
-          "trans": "갓 구운 빵은 버터를 바르면 훨씬 더 좋은 냄새가 나요."
-        }
-      ],
-      "related": []
-    },
-    "guest": {
-      "lemma": "guest",
-      "stress": "ɡɛst",
-      "pos": "noun",
-      "gloss": "손님, 투숙객",
-      "meanings": [
-        {
-          "en": "손님, 투숙객",
-          "note": "호텔이나 여관에 묵는 투숙객과 집에 초대한 손님 모두에 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our new guest arrives at noon.",
-          "trans": "새 손님은 정오에 도착하세요."
-        },
-        {
-          "text": "Six guests joined us for breakfast.",
-          "trans": "여섯 명의 투숙객이 아침 식사에 함께했어요."
-        }
-      ],
-      "related": []
-    },
-    "half": {
-      "lemma": "half",
-      "stress": "hæf",
-      "pos": "noun",
-      "gloss": "절반, 반",
-      "meanings": [
-        {
-          "en": "절반, 반",
-          "note": "철자 속 l은 묵음(/hæf/)이며 half a glass, half the city처럼 관사 앞에 놓입니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "singular",
-              "half"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
-              "halves"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast will be ready in half an hour.",
-          "trans": "아침 식사는 삼십 분 뒤에 준비될 거예요."
-        },
-        {
-          "text": "Take half of this warm roll.",
-          "trans": "이 따뜻한 롤빵 반쪽을 드세요."
-        }
-      ],
-      "related": []
-    },
-    "hang": {
-      "lemma": "hang",
-      "stress": "hæŋ",
-      "pos": "verb",
-      "gloss": "걸다, 걸려 있다; (전화를) 끊다",
-      "meanings": [
-        {
-          "en": "걸다, 걸려 있다; (전화를) 끊다",
-          "note": "사물을 걸 때는 불규칙형 hung을 쓰며, 전화를 끊다는 뜻의 구동사 hang up도 hung up으로 씁니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "hang"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "hangs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "hung"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "hung"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "hanging"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Hang your wet coat on the wooden hook.",
-          "trans": "젖은 코트를 나무 고리에 걸어 두세요."
-        },
-        {
-          "text": "Eight brass keys hung behind the desk.",
-          "trans": "책상 뒤에 황동 열쇠 여덟 개가 걸려 있었어요."
-        }
-      ],
-      "related": []
-    },
-    "hear": {
-      "lemma": "hear",
-      "stress": "hɪɹ",
-      "pos": "verb",
-      "gloss": "듣다, 들리다",
-      "meanings": [
-        {
-          "en": "듣다, 들리다",
-          "note": "의식적으로 귀 기울이는 listen과 달리 소리가 귀에 자연히 들려올 때 쓰며 과거형은 heard입니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "hear"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "hears"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "heard"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "heard"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "hearing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Did you hear the front desk bell?",
-          "trans": "프런트 데스크 종소리 들으셨나요?"
-        },
-        {
-          "text": "I heard footsteps on the stairs.",
-          "trans": "계단에서 발소리가 들렸어요."
-        }
-      ],
-      "related": []
-    },
-    "heart": {
-      "lemma": "heart",
-      "stress": "hɑɹt",
-      "pos": "noun",
-      "gloss": "심장, 마음",
-      "meanings": [
-        {
-          "en": "심장, 마음",
-          "note": "모음을 입을 크게 벌려 /hɑɹt/로 발음해 hurt('다치다')와 구별해야 합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My heart is pounding with excitement!",
-          "trans": "설레서 심장이 두근거려요!"
-        },
-        {
-          "text": "She thanked us from the heart.",
-          "trans": "그녀는 진심으로 우리에게 고마워했어요."
-        }
-      ],
-      "related": []
-    },
-    "here": {
-      "lemma": "here",
-      "stress": "hɪɹ",
-      "pos": "adv",
-      "gloss": "여기, 이곳에",
-      "meanings": [
-        {
-          "en": "여기, 이곳에",
-          "note": "물건을 건네며 Here is your key('여기 열쇠 있습니다')나 Here you are라고 자주 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is your brass key for room four.",
-          "trans": "여기 사 호실 황동 열쇠가 있습니다."
-        },
-        {
-          "text": "Sign your name right here, please.",
-          "trans": "바로 여기에 성함을 서명해 주세요."
-        }
-      ],
-      "related": []
-    },
-    "him": {
-      "lemma": "him",
-      "stress": "hɪm",
-      "pos": "pron",
-      "gloss": "그를, 그에게",
-      "meanings": [
-        {
-          "en": "그를, 그에게",
-          "note": "동사나 전치사 뒤에 오는 3인칭 남성 단수 목적격 대명사입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tell him breakfast is still warm.",
-          "trans": "그에게 아침 식사가 아직 따뜻하다고 전해 주세요."
-        },
-        {
-          "text": "I saved a cinnamon roll for him.",
-          "trans": "그를 위해 시나몬 롤 하나를 남겨 두었어요."
-        }
-      ],
-      "related": []
-    },
-    "honest": {
-      "lemma": "honest",
-      "stress": "ˈɑnɪst",
-      "pos": "adj",
-      "gloss": "솔직한, 정직한",
-      "meanings": [
-        {
-          "en": "솔직한, 정직한",
-          "note": "첫 글자 h가 묵음이어서 단수 앞에 부정관사 an(an honest apology)을 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Keep your words simple and honest.",
-          "trans": "말은 단순하고 솔직하게 하세요."
-        },
-        {
-          "text": "Thank you for being honest with me.",
-          "trans": "저에게 솔직하게 말씀해 주셔서 고마워요."
-        }
-      ],
-      "related": []
-    },
-    "honestly": {
-      "lemma": "honestly",
-      "stress": "ˈɑnɪstli",
-      "pos": "adv",
-      "gloss": "솔직히 말해서, 정직하게",
-      "meanings": [
-        {
-          "en": "솔직히 말해서, 정직하게",
-          "note": "첫 글자 h는 묵음이며 문장 맨 앞에서 솔직한 심정을 털어놓을 때 자주 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Honestly, paper books never fail in a storm.",
-          "trans": "솔직히 폭풍우가 칠 때는 종이책이 고장 날 일이 없죠."
-        },
-        {
-          "text": "Tell me honestly if the tea is too strong.",
-          "trans": "차가 너무 진하면 솔직하게 말씀해 주세요."
-        }
-      ],
-      "related": []
-    },
-    "how": {
-      "lemma": "how",
-      "stress": "haʊ",
-      "pos": "adv",
-      "gloss": "어떻게; 얼마나",
-      "meanings": [
-        {
-          "en": "어떻게; 얼마나",
-          "note": "상태나 안부를 묻는 의문문(How was your trip?)과 감탄문(How strange!)을 이끕니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "How do you take your coffee?",
-          "trans": "커피는 어떻게 타 드릴까요?"
-        },
-        {
-          "text": "How nice to see you again!",
-          "trans": "다시 뵙게 되어 정말 반갑습니다!"
-        }
-      ],
-      "related": []
-    },
-    "i": {
-      "lemma": "i",
-      "stress": "aɪ",
-      "pos": "pron",
-      "gloss": "나, 저",
-      "meanings": [
-        {
-          "en": "나, 저",
-          "note": "1인칭 단수 주격 대명사로 문장 중간에 와도 언제나 대문자 I로 적습니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I am Hannah, the new receptionist.",
-          "trans": "저는 새로 온 프런트 직원 해나입니다."
-        },
-        {
-          "text": "May I help you with your luggage?",
-          "trans": "짐 드는 걸 도와드릴까요?"
-        }
-      ],
-      "related": []
-    },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "~안에; ~후에(경과 시간)",
-      "meanings": [
-        {
-          "en": "~안에; ~후에(경과 시간)",
-          "note": "닫힌 공간 내부(in the drawer)뿐 아니라 '사십 분 뒤에'(in forty minutes)처럼 걸리는 시간 뒤도 나타냅니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait in the warm dining room.",
-          "trans": "따뜻한 식당 안에서 기다려 주세요."
-        },
-        {
-          "text": "Coffee will be ready in three minutes.",
-          "trans": "커피는 삼 분 뒤에 준비될 거예요."
-        }
-      ],
-      "related": []
-    },
-    "it": {
-      "lemma": "it",
-      "stress": "ɪt",
-      "pos": "pron",
-      "gloss": "그것; (날씨·시간의 비인칭 주어)",
-      "meanings": [
-        {
-          "en": "그것; (날씨·시간의 비인칭 주어)",
-          "note": "사물 단수를 가리킬 뿐 아니라 날씨(when it rains)나 시간 표현에서 빈자리를 채우는 필수 주어입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle, and it opens easily.",
-          "trans": "손잡이를 들어 올리면 문이 쉽게 열려요."
-        },
-        {
-          "text": "It is sunny and warm this afternoon.",
-          "trans": "오늘 오후는 화창하고 따뜻하네요."
-        }
-      ],
-      "related": []
-    },
-    "just": {
-      "lemma": "just",
-      "stress": "dʒʌst",
-      "pos": "adv",
-      "gloss": "방금, 막; 딱, 그저",
-      "meanings": [
-        {
-          "en": "방금, 막; 딱, 그저",
-          "note": "과거동사 앞에서는 '방금'(just waved), 명사·절 앞에서는 '딱·그저'(just half a glass)를 뜻합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Give me just one minute, please.",
-          "trans": "딱 일 분만 시간을 주세요."
-        },
-        {
-          "text": "The taxi just pulled up outside.",
-          "trans": "방금 밖에 택시가 와서 섰어요."
-        }
-      ],
-      "related": []
-    },
-    "lamp": {
-      "lemma": "lamp",
-      "stress": "læmp",
-      "pos": "noun",
-      "gloss": "스탠드, 등, 램프",
-      "meanings": [
-        {
-          "en": "스탠드, 등, 램프",
-          "note": "책상이나 침대 머리맡을 은은하게 비추는 조명 기구를 가리킵니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Plug in Graham's brass lamp.",
-          "trans": "그레이엄의 황동 스탠드 플러그를 꽂으세요."
-        },
-        {
-          "text": "Each desk needs a warm reading lamp.",
-          "trans": "각 책상에는 따뜻한 독서등이 필요해요."
-        }
-      ],
-      "related": []
-    },
-    "leave": {
-      "lemma": "leave",
-      "stress": "liv",
-      "pos": "verb",
-      "gloss": "두고 가다, 남기다; 떠나다",
-      "meanings": [
-        {
-          "en": "두고 가다, 남기다; 떠나다",
-          "note": "과거형과 과거분사형은 left이며 물건을 놓아두다와 장소를 출발하다 두 뜻으로 다 쓰입니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "leave"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "leaves"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "leaving"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You can leave your bags by the desk.",
-          "trans": "가방은 데스크 옆에 두셔도 됩니다."
-        },
-        {
-          "text": "Our bus leaves at nine fifteen.",
-          "trans": "우리 버스는 아홉 시 십오 분에 출발해요."
-        }
-      ],
-      "related": []
-    },
-    "let": {
-      "lemma": "let",
-      "stress": "lɛt",
-      "pos": "verb",
-      "gloss": "~하게 해 주다",
-      "meanings": [
-        {
-          "en": "~하게 해 주다",
-          "note": "Let me + 동사원형('제가 ~할게요'), Let us + 동사원형('우리 ~해요') 구문으로 매우 자주 쓰입니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "let"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "lets"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "let"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "let"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "letting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me carry that tray for you.",
-          "trans": "제가 그 쟁반을 들어 드릴게요."
-        },
-        {
-          "text": "Let us look at the guest book together.",
-          "trans": "함께 숙박부를 살펴봐요."
-        }
-      ],
-      "related": []
-    },
-    "light": {
-      "lemma": "light",
-      "stress": "laɪt",
-      "pos": "adj",
-      "gloss": "빛, 밝은 곳; 가벼운",
-      "meanings": [
-        {
-          "en": "빛, 밝은 곳; 가벼운",
-          "note": "명사로는 '불빛·햇빛'(to the light), 형용사로는 '가벼운' 또는 '밝은'을 뜻합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This bag is surprisingly light!",
-          "trans": "이 가방은 놀라울 만큼 가볍네요!"
-        },
-        {
-          "text": "Morning light filled the courtyard.",
-          "trans": "아침 햇살이 안뜰을 가득 채웠어요."
-        }
-      ],
-      "related": []
-    },
-    "look": {
-      "lemma": "look",
-      "stress": "lʊk",
-      "pos": "verb",
-      "gloss": "보다; ~해 보이다",
-      "meanings": [
-        {
-          "en": "보다; ~해 보이다",
-          "note": "대상을 바라볼 때는 look at, 찾을 때는 look for, 상태를 묘사할 때는 look + 형용사를 씁니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "look"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "looks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "looked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "looked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "looking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at the brass tag on the handle.",
-          "trans": "손잡이에 달린 황동 이름표를 보세요."
-        },
-        {
-          "text": "Those cinnamon rolls look delicious!",
-          "trans": "저 시나몬 롤 정말 맛있어 보이네요!"
-        }
-      ],
-      "related": []
-    },
-    "me": {
-      "lemma": "me",
-      "stress": "mi",
-      "pos": "pron",
-      "gloss": "나를, 나에게",
-      "meanings": [
-        {
-          "en": "나를, 나에게",
-          "note": "동사나 전치사 뒤에 놓이는 1인칭 단수 목적격 대명사입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Excuse me, where is the dining room?",
-          "trans": "실례합니다, 식당이 어디에 있나요?"
-        },
-        {
-          "text": "Save a cup of coffee for me.",
-          "trans": "제 몫으로 커피 한 잔 남겨 주세요."
-        }
-      ],
-      "related": []
-    },
-    "mirror": {
-      "lemma": "mirror",
-      "stress": "ˈmɪɹɚ",
-      "pos": "noun",
-      "gloss": "거울",
-      "meanings": [
-        {
-          "en": "거울",
-          "note": "유리에 비친 모습을 보는 거울이며 '거울 속을 보다'라고 할 때 영어에서는 look in the mirror라고 합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A brass mirror hangs in the hallway.",
-          "trans": "복도에 황동 테두리 거울이 걸려 있어요."
-        },
-        {
-          "text": "He checked his tie in the hall mirror.",
-          "trans": "그는 복도 거울을 보며 넥타이를 정돈했어요."
-        }
-      ],
-      "related": []
-    },
-    "my": {
-      "lemma": "my",
-      "stress": "maɪ",
+    "the": {
+      "lemma": "the",
+      "stress": "ðə",
       "pos": "det",
-      "gloss": "나의, 제",
+      "gloss": "그(정관사)",
       "meanings": [
         {
-          "en": "나의, 제",
-          "note": "뒤에 단수 명사가 오든 복수 명사가 오든 형태 변화 없이 항상 my를 씁니다."
+          "en": "그(정관사)",
+          "note": "말하는 사람과 듣는 사람 모두 어떤 것을 가리키는지 이미 알고 있을 때 명사 앞에 붙입니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Today is my first morning at the desk.",
-          "trans": "오늘은 제가 데스크에서 일하는 첫 아침이에요."
+          "text": "Lift the handle on the front door.",
+          "trans": "현관문에 달린 손잡이를 들어 올리세요."
         },
         {
-          "text": "Where did I put my reading glasses?",
-          "trans": "제 돋보기안경을 어디에 두었죠?"
+          "text": "All the keys hang behind the desk.",
+          "trans": "열쇠들은 모두 데스크 뒤에 걸려 있어요."
         }
       ],
       "related": []
     },
-    "myself": {
-      "lemma": "myself",
-      "stress": "maɪˈsɛlf",
-      "pos": "pron",
-      "gloss": "저 자신, 직접",
+    "two": {
+      "lemma": "two",
+      "stress": "tu",
+      "pos": "num",
+      "gloss": "둘, 이",
       "meanings": [
         {
-          "en": "저 자신, 직접",
-          "note": "문장 끝에 붙여 쓰면 '저 자신도, 제가 직접'이라는 강조의 뜻을 더합니다."
+          "en": "둘, 이",
+          "note": "철자 속 w는 묵음이어서 발음이 to, too와 똑같이 /tu/입니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "I almost want to stay up here myself!",
-          "trans": "저 자신도 거의 여기 위층에 묵고 싶어질 정도네요!"
+          "text": "Two identical blue suitcases stood by the door.",
+          "trans": "똑같이 생긴 파란색 여행 가방 두 개가 문 옆에 서 있었어요."
         },
         {
-          "text": "I poured myself a cup of hot tea.",
-          "trans": "제가 직접 마실 따뜻한 차 한 잔을 따랐어요."
+          "text": "Two coffees with warm milk, please.",
+          "trans": "따뜻한 우유를 넣은 커피 두 잔 부탁합니다."
         }
       ],
       "related": []
     },
-    "now": {
-      "lemma": "now",
-      "stress": "naʊ",
-      "pos": "adv",
-      "gloss": "지금, 이제",
+    "soft": {
+      "lemma": "soft",
+      "stress": "sɔft",
+      "pos": "adj",
+      "gloss": "부드러운, 푹신한; 잔잔한",
       "meanings": [
         {
-          "en": "지금, 이제",
-          "note": "right now는 '바로 지금', for now는 '우선 당분간은', Bye for now!는 '우선 이만 가 볼게요!'입니다."
+          "en": "부드러운, 푹신한; 잔잔한",
+          "note": "양모 가디건의 포근한 촉감(soft wool cardigan)이나 은은한 빛·음악을 묘사합니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Room four is clean and ready now.",
-          "trans": "사 호실은 이제 깨끗이 정돈되어 준비가 끝났어요."
+          "text": "This gray wool sweater is very soft.",
+          "trans": "이 회색 울 스웨터는 감촉이 아주 부드러워요."
         },
         {
-          "text": "What should we do right now?",
-          "trans": "바로 지금 우리가 무엇을 해야 할까요?"
-        }
-      ],
-      "related": []
-    },
-    "o'clock": {
-      "lemma": "o'clock",
-      "stress": "əˈklɑk",
-      "pos": "adv",
-      "gloss": "~시 정각",
-      "meanings": [
-        {
-          "en": "~시 정각",
-          "note": "일 시부터 열두 시까지 정각 시간을 말할 때 숫자 뒤에 붙여 씁니다(nine o'clock)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast begins at eight o'clock.",
-          "trans": "아침 식사는 여덟 시 정각에 시작해요."
-        },
-        {
-          "text": "The quiet bell chimed twelve o'clock.",
-          "trans": "조용한 종이 열두 시 정각을 알렸어요."
-        }
-      ],
-      "related": []
-    },
-    "of": {
-      "lemma": "of",
-      "stress": "ʌv",
-      "pos": "prep",
-      "gloss": "~의, ~중에서",
-      "meanings": [
-        {
-          "en": "~의, ~중에서",
-          "note": "분량 표현(a slice of bread, three bottles of milk)에서 용기·단위와 내용물을 이어 줍니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Would you like a cup of coffee?",
-          "trans": "커피 한 잔 드릴까요?"
-        },
-        {
-          "text": "Of course! Right this way.",
-          "trans": "물론이죠! 이쪽으로 오세요."
-        }
-      ],
-      "related": []
-    },
-    "offer": {
-      "lemma": "offer",
-      "stress": "ˈɔfɚ",
-      "pos": "verb",
-      "gloss": "제안하다, 권하다",
-      "meanings": [
-        {
-          "en": "제안하다, 권하다",
-          "note": "뒤에 간접목적어와 직접목적어를 나란히 써서(offer him a discount) '~에게 …을 제안하다'를 나타냅니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "offer"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "offers"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "offered"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "offered"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "offering"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "What discount should we offer him?",
-          "trans": "그분에게 어떤 할인을 제안해 드릴까요?"
-        },
-        {
-          "text": "Tessa offered everyone warm tea.",
-          "trans": "테사는 모두에게 따뜻한 차를 권했어요."
-        }
-      ],
-      "related": []
-    },
-    "oh": {
-      "lemma": "oh",
-      "stress": "oʊ",
-      "pos": "interj",
-      "gloss": "아!, 어머!",
-      "meanings": [
-        {
-          "en": "아!, 어머!",
-          "note": "무언가를 문득 깨달았을 때(Oh, it opens!)나 가벼운 놀람을 나타낼 때 자연스럽게 내뱉는 감탄사입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh, it opens! Thank you so much.",
-          "trans": "아, 문이 열리네요! 정말 감사합니다."
-        },
-        {
-          "text": "Oh, I nearly forgot my scarf!",
-          "trans": "어머, 목도리를 깜빡할 뻔했네요!"
-        }
-      ],
-      "related": []
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɑn",
-      "pos": "prep",
-      "gloss": "~위에(접촉); ~에(요일·날짜)",
-      "meanings": [
-        {
-          "en": "~위에(접촉); ~에(요일·날짜)",
-          "note": "표면에 닿아 있는 위치(on my head, on the step)와 특정 날(on my first day)에 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Your key is on the wooden desk.",
-          "trans": "손님 열쇠는 나무 책상 위에 있어요."
-        },
-        {
-          "text": "Tessa bakes apple rolls on Fridays.",
-          "trans": "테사는 금요일마다 사과 롤빵을 구워요."
-        }
-      ],
-      "related": []
-    },
-    "or": {
-      "lemma": "or",
-      "stress": "ɔɹ",
-      "pos": "conj",
-      "gloss": "또는, 아니면",
-      "meanings": [
-        {
-          "en": "또는, 아니면",
-          "note": "선택 의문문(coffee or black tea?)에서 두 가지 이상의 대안을 나란히 연결합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Would you like coffee or tea?",
-          "trans": "커피로 드릴까요, 차로 드릴까요?"
-        },
-        {
-          "text": "Call me today or tomorrow morning.",
-          "trans": "오늘이나 내일 아침에 전화 주세요."
-        }
-      ],
-      "related": []
-    },
-    "our": {
-      "lemma": "our",
-      "stress": "ˈaʊɚ",
-      "pos": "det",
-      "gloss": "우리의, 저희의",
-      "meanings": [
-        {
-          "en": "우리의, 저희의",
-          "note": "뒤에 오는 명사의 단수·복수에 상관없이 형태가 항상 our로 일정합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Welcome to our courtyard guesthouse.",
-          "trans": "저희 안뜰 게스트하우스에 오신 것을 환영합니다."
-        },
-        {
-          "text": "All our bread comes from Tessa's oven.",
-          "trans": "저희 빵은 모두 테사의 오븐에서 구워 나와요."
+          "text": "Soft morning light entered the room.",
+          "trans": "은은한 아침 햇살이 방 안으로 스며들었어요."
         }
       ],
       "related": []
@@ -5758,15 +4095,15 @@
       ],
       "related": []
     },
-    "plug": {
-      "lemma": "plug",
-      "stress": "plʌɡ",
+    "do": {
+      "lemma": "do",
+      "stress": "du",
       "pos": "verb",
-      "gloss": "플러그를 꽂다(plug in)",
+      "gloss": "하다; (의문·부정문 조동사)",
       "meanings": [
         {
-          "en": "플러그를 꽂다(plug in)",
-          "note": "전원 코드를 연결할 때는 부사 in과 함께 쓰며 과거형은 g를 겹쳐 plugged로 적습니다."
+          "en": "하다; (의문·부정문 조동사)",
+          "note": "일반동사 '하다'로 쓰이는 동시에 일반동사의 의문문과 부정문을 만드는 조동사입니다."
         }
       ],
       "forms": {
@@ -5779,31 +4116,31 @@
           {
             "cells": [
               "base",
-              "plug"
+              "do"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "plugs"
+              "does"
             ]
           },
           {
             "cells": [
               "past",
-              "plugged"
+              "did"
             ]
           },
           {
             "cells": [
               "past participle",
-              "plugged"
+              "done"
             ]
           },
           {
             "cells": [
               "-ing",
-              "plugging"
+              "doing"
             ]
           }
         ]
@@ -5811,100 +4148,150 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Plug in the brass desk lamp.",
-          "trans": "황동 책상 스탠드의 플러그를 꽂으세요."
+          "text": "Do you want sugar in your coffee?",
+          "trans": "커피에 설탕을 넣어 드시겠어요?"
         },
         {
-          "text": "Is the coffee maker plugged in?",
-          "trans": "커피 메이커 전원 플러그가 꽂혀 있나요?"
+          "text": "What should we do with this package?",
+          "trans": "이 소포는 어떻게 할까요?"
         }
       ],
       "related": []
     },
-    "pound": {
-      "lemma": "pound",
-      "stress": "paʊnd",
-      "pos": "verb",
-      "gloss": "(심장이) 쿵쾅거리다; 세게 두드리다",
+    "and": {
+      "lemma": "and",
+      "stress": "ænd",
+      "pos": "conj",
+      "gloss": "그리고, ~와/과",
       "meanings": [
         {
-          "en": "(심장이) 쿵쾅거리다; 세게 두드리다",
-          "note": "긴장이나 설렘으로 심장이 빠르게 뛰는 상태를 My heart is pounding처럼 표현합니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "pound"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "pounds"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "pounded"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "pounded"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "pounding"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My heart was pounding before noon!",
-          "trans": "정오 전에는 긴장되어 심장이 쿵쾅거렸어요!"
-        },
-        {
-          "text": "Rain pounded against the shutters.",
-          "trans": "빗줄기가 덧창을 세차게 두드렸어요."
-        }
-      ],
-      "related": []
-    },
-    "price": {
-      "lemma": "price",
-      "stress": "pɹaɪs",
-      "pos": "noun",
-      "gloss": "가격, 요금",
-      "meanings": [
-        {
-          "en": "가격, 요금",
-          "note": "half price는 전치사 없이 '반값에, 반값인'이라는 뜻으로 쓰입니다."
+          "en": "그리고, ~와/과",
+          "note": "단어나 구, 문장을 나란히 이어 주는 기본 접속사입니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Tonight your room is half price.",
-          "trans": "오늘 밤 손님 객실은 반값으로 모실게요."
+          "text": "Bring bread and butter, please.",
+          "trans": "빵과 버터를 가져다주세요."
         },
         {
-          "text": "What is the price of two valves?",
-          "trans": "밸브 두 개 가격은 얼마인가요?"
+          "text": "Wash your hands and sit down.",
+          "trans": "손을 씻고 자리에 앉으세요."
+        }
+      ],
+      "related": []
+    },
+    "blue": {
+      "lemma": "blue",
+      "stress": "blu",
+      "pos": "adj",
+      "gloss": "파란, 푸른",
+      "meanings": [
+        {
+          "en": "파란, 푸른",
+          "note": "맑은 하늘이나 바다 빛깔을 나타내는 기본 색채 형용사입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at that clear blue sky.",
+          "trans": "저 맑고 푸른 하늘을 보세요."
+        },
+        {
+          "text": "My suitcase has a blue handle.",
+          "trans": "제 여행 가방에는 파란색 손잡이가 달려 있어요."
+        }
+      ],
+      "related": []
+    },
+    "rug": {
+      "lemma": "rug",
+      "stress": "ɹʌɡ",
+      "pos": "noun",
+      "gloss": "러그, 부분 깔개",
+      "meanings": [
+        {
+          "en": "러그, 부분 깔개",
+          "note": "바닥 전체를 덮는 carpet과 달리 나무 바닥 일부에 포근하게 까는 직물 깔개입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lay the woven blue rug beside the bed.",
+          "trans": "침대 옆에 파란색 직조 러그를 깔아 주세요."
+        },
+        {
+          "text": "A soft rug warms the bare floor.",
+          "trans": "부드러운 러그가 빈 마룻바닥을 따뜻하게 해 줘요."
+        }
+      ],
+      "related": []
+    },
+    "fit": {
+      "lemma": "fit",
+      "stress": "fɪt",
+      "pos": "verb",
+      "gloss": "꼭 맞다, 어울리다",
+      "meanings": [
+        {
+          "en": "꼭 맞다, 어울리다",
+          "note": "열쇠가 자물쇠에 맞거나 옷이 몸에 잘 맞을 때 쓰며 fit right in은 '금세 잘 어울리다'입니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "fit"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "fits"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "fit"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "fit"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "fitting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Does this brass key fit room four?",
+          "trans": "이 황동 열쇠가 사 호실에 맞나요?"
+        },
+        {
+          "text": "All four cups fit neatly on the tray.",
+          "trans": "찻잔 네 개가 쟁반 위에 단정하게 다 들어가네요."
         }
       ],
       "related": []
@@ -5934,77 +4321,77 @@
       ],
       "related": []
     },
-    "room": {
-      "lemma": "room",
-      "stress": "ɹum",
-      "pos": "noun",
-      "gloss": "방, 객실; 공간",
+    "beside": {
+      "lemma": "beside",
+      "stress": "bɪˈsaɪd",
+      "pos": "prep",
+      "gloss": "~옆에, 나란히",
       "meanings": [
         {
-          "en": "방, 객실; 공간",
-          "note": "'객실'일 때는 셀 수 있고(eight rooms), 뒤에 숫자를 붙여 Room four('사 호실')처럼 호수를 나타냅니다."
+          "en": "~옆에, 나란히",
+          "note": "물리적으로 바로 옆자리를 뜻하며 besides('게다가')와 구별해야 합니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Room four overlooks the sunny courtyard.",
-          "trans": "사 호실에서는 햇살 가득한 안뜰이 내려다보여요."
+          "text": "Put the spoon beside the cup.",
+          "trans": "찻잔 옆에 숟가락을 놓아 주세요."
         },
         {
-          "text": "All eight rooms are clean and ready.",
-          "trans": "여덟 개 객실 모두 깨끗하게 준비되어 있어요."
+          "text": "Come sit beside the window.",
+          "trans": "이리 와서 창가 옆에 앉으세요."
         }
       ],
       "related": []
     },
-    "round": {
-      "lemma": "round",
-      "stress": "ɹaʊnd",
-      "pos": "adj",
-      "gloss": "둥근, 원형의",
+    "bed": {
+      "lemma": "bed",
+      "stress": "bɛd",
+      "pos": "noun",
+      "gloss": "침대, 잠자리",
       "meanings": [
         {
-          "en": "둥근, 원형의",
-          "note": "거울이나 식탁처럼 모서리 없이 동그란 모양을 묘사할 때 씁니다."
+          "en": "침대, 잠자리",
+          "note": "관사 없이 go to bed라고 하면 '잠자리에 들다'라는 뜻입니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Where should we hang this round mirror?",
-          "trans": "이 둥근 거울을 어디에 걸까요?"
+          "text": "The attic has a comfortable bed.",
+          "trans": "다락방에는 편안한 침대가 있어요."
         },
         {
-          "text": "Four friends sat at a round table.",
-          "trans": "네 친구가 둥근 식탁에 둘러앉았어요."
+          "text": "Put clean sheets on the bed.",
+          "trans": "침대에 깨끗한 시트를 깔아 주세요."
         }
       ],
       "related": []
     },
-    "rug": {
-      "lemma": "rug",
-      "stress": "ɹʌɡ",
-      "pos": "noun",
-      "gloss": "러그, 부분 깔개",
+    "where": {
+      "lemma": "where",
+      "stress": "wɛɹ",
+      "pos": "adv",
+      "gloss": "어디에, 어디로",
       "meanings": [
         {
-          "en": "러그, 부분 깔개",
-          "note": "바닥 전체를 덮는 carpet과 달리 나무 바닥 일부에 포근하게 까는 직물 깔개입니다."
+          "en": "어디에, 어디로",
+          "note": "사물이나 장소의 위치를 물을 때 문장 맨 앞에 놓습니다(Where is the computer?)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Lay the woven blue rug beside the bed.",
-          "trans": "침대 옆에 파란색 직조 러그를 깔아 주세요."
+          "text": "Where is the computer?",
+          "trans": "컴퓨터는 어디에 있나요?"
         },
         {
-          "text": "A soft rug warms the bare floor.",
-          "trans": "부드러운 러그가 빈 마룻바닥을 따뜻하게 해 줘요."
+          "text": "Where would you like to sit?",
+          "trans": "어느 자리에 앉고 싶으신가요?"
         }
       ],
       "related": []
@@ -6072,228 +4459,90 @@
       ],
       "related": []
     },
-    "sheet": {
-      "lemma": "sheet",
-      "stress": "ʃit",
-      "pos": "noun",
-      "gloss": "한 장, 시트; 악보(sheet music)",
-      "meanings": [
-        {
-          "en": "한 장, 시트; 악보(sheet music)",
-          "note": "침대 시트나 종이 한 장을 뜻하며 sheet music은 책으로 묶이지 않은 낱장 '악보'를 가리킵니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Sign your name on the top sheet.",
-          "trans": "맨 윗장 종이에 성함을 서명해 주세요."
-        },
-        {
-          "text": "Fresh cotton sheets dry fast in the breeze.",
-          "trans": "깨끗한 면 시트가 산들바람에 금방 말라요."
-        }
-      ],
-      "related": []
-    },
-    "sleep": {
-      "lemma": "sleep",
-      "stress": "slip",
-      "pos": "verb",
-      "gloss": "자다, 잠들다",
-      "meanings": [
-        {
-          "en": "자다, 잠들다",
-          "note": "과거형은 slept이며 sleep well('푹 자다')은 숙소에서 아침저녁 인사로 자주 쓰입니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "sleep"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "sleeps"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "slept"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "slept"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "sleeping"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Did you sleep well?",
-          "trans": "좋은 아침입니다! 간밤에 푹 주무셨나요?"
-        },
-        {
-          "text": "Everyone sleeps soundly after sea air.",
-          "trans": "바닷바람을 쐬고 나면 누구나 곤히 잠들어요."
-        }
-      ],
-      "related": []
-    },
-    "soft": {
-      "lemma": "soft",
-      "stress": "sɔft",
-      "pos": "adj",
-      "gloss": "부드러운, 푹신한; 잔잔한",
-      "meanings": [
-        {
-          "en": "부드러운, 푹신한; 잔잔한",
-          "note": "양모 가디건의 포근한 촉감(soft wool cardigan)이나 은은한 빛·음악을 묘사합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This gray wool sweater is very soft.",
-          "trans": "이 회색 울 스웨터는 감촉이 아주 부드러워요."
-        },
-        {
-          "text": "Soft morning light entered the room.",
-          "trans": "은은한 아침 햇살이 방 안으로 스며들었어요."
-        }
-      ],
-      "related": []
-    },
-    "sound": {
-      "lemma": "sound",
-      "stress": "saʊnd",
-      "pos": "verb",
-      "gloss": "~하게 들리다; 소리",
-      "meanings": [
-        {
-          "en": "~하게 들리다; 소리",
-          "note": "뒤에 형용사를 붙여(sounded nervous) 목소리나 이야기가 어떻게 들리는지 묘사합니다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "sound"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "sounds"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "sounded"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "sounded"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "sounding"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Hot tea and apple bread? That sounds wonderful!",
-          "trans": "뜨거운 차와 사과 빵이라고요? 정말 좋게 들리네요!"
-        },
-        {
-          "text": "Her voice sounded calm on the phone.",
-          "trans": "전화기 너머 그녀의 목소리는 차분하게 들렸어요."
-        }
-      ],
-      "related": []
-    },
-    "that": {
-      "lemma": "that",
-      "stress": "ðæt",
+    "i": {
+      "lemma": "i",
+      "stress": "aɪ",
       "pos": "pron",
-      "gloss": "저것, 그것; 저~",
+      "gloss": "나, 저",
       "meanings": [
         {
-          "en": "저것, 그것; 저~",
-          "note": "조금 떨어져 있거나 방금 언급된 대상(that bell, that street)을 가리키는 지시어입니다."
+          "en": "나, 저",
+          "note": "1인칭 단수 주격 대명사로 문장 중간에 와도 언제나 대문자 I로 적습니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "That blue suitcase by the door is Arthur's.",
-          "trans": "문 옆에 있는 저 파란색 여행 가방은 아서의 것이에요."
+          "text": "I am Hannah, the new receptionist.",
+          "trans": "저는 새로 온 프런트 직원 해나입니다."
         },
         {
-          "text": "That sounds like a great plan!",
-          "trans": "그거 정말 좋은 계획 같네요!"
+          "text": "May I help you with your luggage?",
+          "trans": "짐 드는 걸 도와드릴까요?"
         }
       ],
       "related": []
     },
-    "the": {
-      "lemma": "the",
-      "stress": "ðə",
-      "pos": "det",
-      "gloss": "그(정관사)",
+    "hang": {
+      "lemma": "hang",
+      "stress": "hæŋ",
+      "pos": "verb",
+      "gloss": "걸다, 걸려 있다; (전화를) 끊다",
       "meanings": [
         {
-          "en": "그(정관사)",
-          "note": "말하는 사람과 듣는 사람 모두 어떤 것을 가리키는지 이미 알고 있을 때 명사 앞에 붙입니다."
+          "en": "걸다, 걸려 있다; (전화를) 끊다",
+          "note": "사물을 걸 때는 불규칙형 hung을 쓰며, 전화를 끊다는 뜻의 구동사 hang up도 hung up으로 씁니다."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "hang"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "hangs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "hung"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "hung"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "hanging"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Lift the handle on the front door.",
-          "trans": "현관문에 달린 손잡이를 들어 올리세요."
+          "text": "Hang your wet coat on the wooden hook.",
+          "trans": "젖은 코트를 나무 고리에 걸어 두세요."
         },
         {
-          "text": "All the keys hang behind the desk.",
-          "trans": "열쇠들은 모두 데스크 뒤에 걸려 있어요."
+          "text": "Eight brass keys hung behind the desk.",
+          "trans": "책상 뒤에 황동 열쇠 여덟 개가 걸려 있었어요."
         }
       ],
       "related": []
@@ -6323,90 +4572,253 @@
       ],
       "related": []
     },
-    "tight": {
-      "lemma": "tight",
-      "stress": "taɪt",
-      "pos": "adv",
-      "gloss": "단단히, 팽팽하게",
+    "round": {
+      "lemma": "round",
+      "stress": "ɹaʊnd",
+      "pos": "adj",
+      "gloss": "둥근, 원형의",
       "meanings": [
         {
-          "en": "단단히, 팽팽하게",
-          "note": "철자 gh는 묵음이며 tuck이나 hold 뒤에서 '풀리지 않게 꼭, 단단히'라는 부사로 자주 씁니다."
+          "en": "둥근, 원형의",
+          "note": "거울이나 식탁처럼 모서리 없이 동그란 모양을 묘사할 때 씁니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Tuck that sheet corner tight.",
-          "trans": "침대 시트 모서리를 팽팽하게 밀어 넣어 고정하세요."
+          "text": "Where should we hang this round mirror?",
+          "trans": "이 둥근 거울을 어디에 걸까요?"
         },
         {
-          "text": "Screw the brass cap on tight.",
-          "trans": "황동 마개를 단단히 돌려 잠그세요."
+          "text": "Four friends sat at a round table.",
+          "trans": "네 친구가 둥근 식탁에 둘러앉았어요."
         }
       ],
       "related": []
     },
-    "to": {
-      "lemma": "to",
-      "stress": "tu",
+    "mirror": {
+      "lemma": "mirror",
+      "stress": "ˈmɪɹɚ",
+      "pos": "noun",
+      "gloss": "거울",
+      "meanings": [
+        {
+          "en": "거울",
+          "note": "유리에 비친 모습을 보는 거울이며 '거울 속을 보다'라고 할 때 영어에서는 look in the mirror라고 합니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A brass mirror hangs in the hallway.",
+          "trans": "복도에 황동 테두리 거울이 걸려 있어요."
+        },
+        {
+          "text": "He checked his tie in the hall mirror.",
+          "trans": "그는 복도 거울을 보며 넥타이를 정돈했어요."
+        }
+      ],
+      "related": []
+    },
+    "leave": {
+      "lemma": "leave",
+      "stress": "liv",
+      "pos": "verb",
+      "gloss": "두고 가다, 남기다; 떠나다",
+      "meanings": [
+        {
+          "en": "두고 가다, 남기다; 떠나다",
+          "note": "과거형과 과거분사형은 left이며 물건을 놓아두다와 장소를 출발하다 두 뜻으로 다 쓰입니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "leave"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "leaves"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "left"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "left"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "leaving"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You can leave your bags by the desk.",
+          "trans": "가방은 데스크 옆에 두셔도 됩니다."
+        },
+        {
+          "text": "Our bus leaves at nine fifteen.",
+          "trans": "우리 버스는 아홉 시 십오 분에 출발해요."
+        }
+      ],
+      "related": []
+    },
+    "of": {
+      "lemma": "of",
+      "stress": "ʌv",
       "pos": "prep",
-      "gloss": "~로, ~에게; ~하기 위해(부정사 표지)",
+      "gloss": "~의, ~중에서",
       "meanings": [
         {
-          "en": "~로, ~에게; ~하기 위해(부정사 표지)",
-          "note": "도착점·전달 대상을 나타내는 전치사(to the light, to ten)이자 동사원형 앞에서 to부정사를 이끕니다."
+          "en": "~의, ~중에서",
+          "note": "분량 표현(a slice of bread, three bottles of milk)에서 용기·단위와 내용물을 이어 줍니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Welcome to Linden Courtyard Inn!",
-          "trans": "린든 코트야드 여관에 오신 것을 환영합니다!"
+          "text": "Would you like a cup of coffee?",
+          "trans": "커피 한 잔 드릴까요?"
         },
         {
-          "text": "Tell me everything I need to know.",
-          "trans": "제가 알아야 할 모든 것을 말해 주세요."
+          "text": "Of course! Right this way.",
+          "trans": "물론이죠! 이쪽으로 오세요."
         }
       ],
       "related": []
     },
-    "tonight": {
-      "lemma": "tonight",
-      "stress": "təˈnaɪt",
-      "pos": "adv",
-      "gloss": "오늘 밤",
+    "window": {
+      "lemma": "window",
+      "stress": "ˈwɪndoʊ",
+      "pos": "noun",
+      "gloss": "창문",
       "meanings": [
         {
-          "en": "오늘 밤",
-          "note": "this night라고 하지 않고 언제나 한 단어 tonight으로 붙여 쓰는 점에 유의하세요."
+          "en": "창문",
+          "note": "방 안에서 거리나 안뜰을 내다보는 창문을 가리키는 셀 수 있는 명사입니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "All eight rooms are full tonight.",
-          "trans": "오늘 밤에는 여덟 개 객실이 모두 만실이에요."
+          "text": "Sit at the sunny table by the window.",
+          "trans": "창가 옆 햇살 드는 식탁에 앉으세요."
         },
         {
-          "text": "Sleep well tonight!",
-          "trans": "오늘 밤 푹 주무세요!"
+          "text": "Open the window to hear the harbor gulls.",
+          "trans": "항구 갈매기 소리가 들리도록 창문을 열어 보세요."
         }
       ],
       "related": []
     },
-    "tuck": {
-      "lemma": "tuck",
-      "stress": "tʌk",
+    "or": {
+      "lemma": "or",
+      "stress": "ɔɹ",
+      "pos": "conj",
+      "gloss": "또는, 아니면",
+      "meanings": [
+        {
+          "en": "또는, 아니면",
+          "note": "선택 의문문(coffee or black tea?)에서 두 가지 이상의 대안을 나란히 연결합니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Would you like coffee or tea?",
+          "trans": "커피로 드릴까요, 차로 드릴까요?"
+        },
+        {
+          "text": "Call me today or tomorrow morning.",
+          "trans": "오늘이나 내일 아침에 전화 주세요."
+        }
+      ],
+      "related": []
+    },
+    "desk": {
+      "lemma": "desk",
+      "stress": "dɛsk",
+      "pos": "noun",
+      "gloss": "책상; 프런트 데스크",
+      "meanings": [
+        {
+          "en": "책상; 프런트 데스크",
+          "note": "호텔에서 front desk라고 하면 손님을 맞이하는 안내 데스크를 뜻합니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Leave your room key at the front desk.",
+          "trans": "객실 열쇠는 프런트 데스크에 맡겨 주세요."
+        },
+        {
+          "text": "A brass bell sits on the wooden desk.",
+          "trans": "나무 책상 위에 황동 종이 놓여 있어요."
+        }
+      ],
+      "related": []
+    },
+    "light": {
+      "lemma": "light",
+      "stress": "laɪt",
+      "pos": "adj",
+      "gloss": "빛, 밝은 곳; 가벼운",
+      "meanings": [
+        {
+          "en": "빛, 밝은 곳; 가벼운",
+          "note": "명사로는 '불빛·햇빛'(to the light), 형용사로는 '가벼운' 또는 '밝은'을 뜻합니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This bag is surprisingly light!",
+          "trans": "이 가방은 놀라울 만큼 가볍네요!"
+        },
+        {
+          "text": "Morning light filled the courtyard.",
+          "trans": "아침 햇살이 안뜰을 가득 채웠어요."
+        }
+      ],
+      "related": []
+    },
+    "be": {
+      "lemma": "be",
+      "stress": "bi",
       "pos": "verb",
-      "gloss": "밀어 넣어 고정하다, 갈무리하다",
+      "gloss": "~이다, ~에 있다",
       "meanings": [
         {
-          "en": "밀어 넣어 고정하다, 갈무리하다",
-          "note": "침대 시트 자락을 매트리스 밑으로 깔끔하게 밀어 넣을 때 쓰는 동사입니다."
+          "en": "~이다, ~에 있다",
+          "note": "주어에 따라 현재형이 am, is, are로 바뀌며 신분·상태·위치를 모두 나타냅니다."
         }
       ],
       "forms": {
@@ -6419,31 +4831,31 @@
           {
             "cells": [
               "base",
-              "tuck"
+              "be"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "tucks"
+              "is"
             ]
           },
           {
             "cells": [
               "past",
-              "tucked"
+              "was, were"
             ]
           },
           {
             "cells": [
               "past participle",
-              "tucked"
+              "been"
             ]
           },
           {
             "cells": [
               "-ing",
-              "tucking"
+              "being"
             ]
           }
         ]
@@ -6451,100 +4863,76 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Tuck that white sheet corner tight.",
-          "trans": "흰 침대 시트 모서리를 팽팽하게 밀어 넣으세요."
+          "text": "The keys are on the desk.",
+          "trans": "열쇠들은 책상 위에 있어요."
         },
         {
-          "text": "He tucked the folded letter in his pocket.",
-          "trans": "그는 접은 편지를 주머니 속에 잘 챙겨 넣었어요."
+          "text": "She wants to be a teacher.",
+          "trans": "그녀는 선생님이 되고 싶어 해요."
         }
       ],
       "related": []
     },
-    "two": {
-      "lemma": "two",
-      "stress": "tu",
-      "pos": "num",
-      "gloss": "둘, 이",
+    "good": {
+      "lemma": "good",
+      "stress": "ɡʊd",
+      "pos": "adj",
+      "gloss": "좋은, 훌륭한",
       "meanings": [
         {
-          "en": "둘, 이",
-          "note": "철자 속 w는 묵음이어서 발음이 to, too와 똑같이 /tu/입니다."
+          "en": "좋은, 훌륭한",
+          "note": "인사말(Good morning)에 두루 쓰이며 비교급은 better, 최상급은 best로 불규칙 변화합니다."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "good"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "better"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "best"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Two identical blue suitcases stood by the door.",
-          "trans": "똑같이 생긴 파란색 여행 가방 두 개가 문 옆에 서 있었어요."
+          "text": "Good morning! Did you sleep well?",
+          "trans": "좋은 아침이에요! 간밤에 잘 주무셨나요?"
         },
         {
-          "text": "Two coffees with warm milk, please.",
-          "trans": "따뜻한 우유를 넣은 커피 두 잔 부탁합니다."
+          "text": "Fresh bread smells even better with butter.",
+          "trans": "갓 구운 빵은 버터를 바르면 훨씬 더 좋은 냄새가 나요."
         }
       ],
       "related": []
     },
-    "up": {
-      "lemma": "up",
-      "stress": "ʌp",
-      "pos": "adv",
-      "gloss": "위로, 위층으로; 끝까지",
-      "meanings": [
-        {
-          "en": "위로, 위층으로; 끝까지",
-          "note": "carry the bag up('위층으로 들어 올리다'), hung up('전화를 끊었다')처럼 동사에 방향이나 완료의 뜻을 더합니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pick up the brass key from the tray.",
-          "trans": "쟁반 위에서 황동 열쇠를 집어 드세요."
-        },
-        {
-          "text": "Look up at the painted wooden sign.",
-          "trans": "칠해진 나무 간판을 올려다보세요."
-        }
-      ],
-      "related": []
-    },
-    "us": {
-      "lemma": "us",
-      "stress": "ʌs",
-      "pos": "pron",
-      "gloss": "우리를, 우리에게",
-      "meanings": [
-        {
-          "en": "우리를, 우리에게",
-          "note": "1인칭 복수 목적격 대명사로 Let us('우리 ~합시다')나 safe with us('우리가 지켜 줄')에 쓰입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Join us for hot tea in the parlor!",
-          "trans": "응접실에서 저희와 함께 따뜻한 차를 드세요!"
-        },
-        {
-          "text": "Tessa brought fresh rolls for all of us.",
-          "trans": "테사가 우리 모두를 위해 갓 구운 롤빵을 가져왔어요."
-        }
-      ],
-      "related": []
-    },
-    "wait": {
-      "lemma": "wait",
-      "stress": "weɪt",
+    "plug": {
+      "lemma": "plug",
+      "stress": "plʌɡ",
       "pos": "verb",
-      "gloss": "기다리다; 잠깐만요!",
+      "gloss": "플러그를 꽂다(plug in)",
       "meanings": [
         {
-          "en": "기다리다; 잠깐만요!",
-          "note": "대화 첫머리에 Wait, / Wait a second!라고 하면 무언가를 문득 발견하고 '잠깐만요!'라고 주의를 끄는 말입니다."
+          "en": "플러그를 꽂다(plug in)",
+          "note": "전원 코드를 연결할 때는 부사 in과 함께 쓰며 과거형은 g를 겹쳐 plugged로 적습니다."
         }
       ],
       "forms": {
@@ -6557,31 +4945,31 @@
           {
             "cells": [
               "base",
-              "wait"
+              "plug"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "waits"
+              "plugs"
             ]
           },
           {
             "cells": [
               "past",
-              "waited"
+              "plugged"
             ]
           },
           {
             "cells": [
               "past participle",
-              "waited"
+              "plugged"
             ]
           },
           {
             "cells": [
               "-ing",
-              "waiting"
+              "plugging"
             ]
           }
         ]
@@ -6589,12 +4977,300 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Wait right here while I grab the key.",
-          "trans": "제가 열쇠를 챙겨 올 동안 바로 여기서 기다려 주세요."
+          "text": "Plug in the brass desk lamp.",
+          "trans": "황동 책상 스탠드의 플러그를 꽂으세요."
         },
         {
-          "text": "Caleb waited for the yellow taxi at the curb.",
-          "trans": "케일럽은 연석에서 노란 택시를 기다렸어요."
+          "text": "Is the coffee maker plugged in?",
+          "trans": "커피 메이커 전원 플러그가 꽂혀 있나요?"
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "~안에; ~후에(경과 시간)",
+      "meanings": [
+        {
+          "en": "~안에; ~후에(경과 시간)",
+          "note": "닫힌 공간 내부(in the drawer)뿐 아니라 '사십 분 뒤에'(in forty minutes)처럼 걸리는 시간 뒤도 나타냅니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait in the warm dining room.",
+          "trans": "따뜻한 식당 안에서 기다려 주세요."
+        },
+        {
+          "text": "Coffee will be ready in three minutes.",
+          "trans": "커피는 삼 분 뒤에 준비될 거예요."
+        }
+      ],
+      "related": []
+    },
+    "brass": {
+      "lemma": "brass",
+      "stress": "bɹæs",
+      "pos": "noun",
+      "gloss": "황동, 놋쇠",
+      "meanings": [
+        {
+          "en": "황동, 놋쇠",
+          "note": "오래된 열쇠나 문손잡이에 흔히 쓰이는 노란빛 금속 합금입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Polish the brass handle on the door.",
+          "trans": "문에 달린 황동 손잡이를 닦아 주세요."
+        },
+        {
+          "text": "Eight brass keys hang behind the desk.",
+          "trans": "책상 뒤에 황동 열쇠 여덟 개가 걸려 있어요."
+        }
+      ],
+      "related": []
+    },
+    "lamp": {
+      "lemma": "lamp",
+      "stress": "læmp",
+      "pos": "noun",
+      "gloss": "스탠드, 등, 램프",
+      "meanings": [
+        {
+          "en": "스탠드, 등, 램프",
+          "note": "책상이나 침대 머리맡을 은은하게 비추는 조명 기구를 가리킵니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Plug in Graham's brass lamp.",
+          "trans": "그레이엄의 황동 스탠드 플러그를 꽂으세요."
+        },
+        {
+          "text": "Each desk needs a warm reading lamp.",
+          "trans": "각 책상에는 따뜻한 독서등이 필요해요."
+        }
+      ],
+      "related": []
+    },
+    "oh": {
+      "lemma": "oh",
+      "stress": "oʊ",
+      "pos": "interj",
+      "gloss": "아!, 어머!",
+      "meanings": [
+        {
+          "en": "아!, 어머!",
+          "note": "무언가를 문득 깨달았을 때(Oh, it opens!)나 가벼운 놀람을 나타낼 때 자연스럽게 내뱉는 감탄사입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh, it opens! Thank you so much.",
+          "trans": "아, 문이 열리네요! 정말 감사합니다."
+        },
+        {
+          "text": "Oh, I nearly forgot my scarf!",
+          "trans": "어머, 목도리를 깜빡할 뻔했네요!"
+        }
+      ],
+      "related": []
+    },
+    "look": {
+      "lemma": "look",
+      "stress": "lʊk",
+      "pos": "verb",
+      "gloss": "보다; ~해 보이다",
+      "meanings": [
+        {
+          "en": "보다; ~해 보이다",
+          "note": "대상을 바라볼 때는 look at, 찾을 때는 look for, 상태를 묘사할 때는 look + 형용사를 씁니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "look"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "looks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "looked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "looked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "looking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at the brass tag on the handle.",
+          "trans": "손잡이에 달린 황동 이름표를 보세요."
+        },
+        {
+          "text": "Those cinnamon rolls look delicious!",
+          "trans": "저 시나몬 롤 정말 맛있어 보이네요!"
+        }
+      ],
+      "related": []
+    },
+    "how": {
+      "lemma": "how",
+      "stress": "haʊ",
+      "pos": "adv",
+      "gloss": "어떻게; 얼마나",
+      "meanings": [
+        {
+          "en": "어떻게; 얼마나",
+          "note": "상태나 안부를 묻는 의문문(How was your trip?)과 감탄문(How strange!)을 이끕니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How do you take your coffee?",
+          "trans": "커피는 어떻게 타 드릴까요?"
+        },
+        {
+          "text": "How nice to see you again!",
+          "trans": "다시 뵙게 되어 정말 반갑습니다!"
+        }
+      ],
+      "related": []
+    },
+    "warm": {
+      "lemma": "warm",
+      "stress": "wɔɹm",
+      "pos": "adj",
+      "gloss": "따뜻한, 따스한",
+      "meanings": [
+        {
+          "en": "따뜻한, 따스한",
+          "note": "갓 구운 빵의 온기(warm bread), 포근한 옷, 다정한 환대를 묘사하는 정겨운 형용사입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa brought a basket of warm bread.",
+          "trans": "테사가 따뜻한 빵 한 바구니를 가져왔어요."
+        },
+        {
+          "text": "Thank you for such a warm welcome!",
+          "trans": "이토록 따뜻하게 맞아 주셔서 감사합니다!"
+        }
+      ],
+      "related": []
+    },
+    "yellow": {
+      "lemma": "yellow",
+      "stress": "ˈjɛloʊ",
+      "pos": "adj",
+      "gloss": "노란, 노란색의",
+      "meanings": [
+        {
+          "en": "노란, 노란색의",
+          "note": "밝은 레몬이나 미국식 택시, 따뜻한 전구 빛깔을 나타내는 색채 형용사입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A yellow taxi stopped outside the gate.",
+          "trans": "대문 밖에 노란 택시 한 대가 멈춰 섰어요."
+        },
+        {
+          "text": "Six yellow lemons sat in the basket.",
+          "trans": "바구니 안에 노란 레몬 여섯 개가 담겨 있었어요."
+        }
+      ],
+      "related": []
+    },
+    "honestly": {
+      "lemma": "honestly",
+      "stress": "ˈɑnɪstli",
+      "pos": "adv",
+      "gloss": "솔직히 말해서, 정직하게",
+      "meanings": [
+        {
+          "en": "솔직히 말해서, 정직하게",
+          "note": "첫 글자 h는 묵음이며 문장 맨 앞에서 솔직한 심정을 털어놓을 때 자주 씁니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Honestly, paper books never fail in a storm.",
+          "trans": "솔직히 폭풍우가 칠 때는 종이책이 고장 날 일이 없죠."
+        },
+        {
+          "text": "Tell me honestly if the tea is too strong.",
+          "trans": "차가 너무 진하면 솔직하게 말씀해 주세요."
+        }
+      ],
+      "related": []
+    },
+    "almost": {
+      "lemma": "almost",
+      "stress": "ˈɔlˌmoʊst",
+      "pos": "adv",
+      "gloss": "거의",
+      "meanings": [
+        {
+          "en": "거의",
+          "note": "동사나 형용사 앞에 놓여 어떤 상태에 아주 가까워졌음을 나타냅니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Dinner is almost ready.",
+          "trans": "저녁 식사가 거의 다 준비되었어요."
+        },
+        {
+          "text": "I almost forgot my umbrella.",
+          "trans": "우산을 거의 잊어버릴 뻔했어요."
         }
       ],
       "related": []
@@ -6662,90 +5338,15 @@
       ],
       "related": []
     },
-    "warm": {
-      "lemma": "warm",
-      "stress": "wɔɹm",
-      "pos": "adj",
-      "gloss": "따뜻한, 따스한",
+    "to": {
+      "lemma": "to",
+      "stress": "tu",
+      "pos": "prep",
+      "gloss": "~로, ~에게; ~하기 위해(부정사 표지)",
       "meanings": [
         {
-          "en": "따뜻한, 따스한",
-          "note": "갓 구운 빵의 온기(warm bread), 포근한 옷, 다정한 환대를 묘사하는 정겨운 형용사입니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tessa brought a basket of warm bread.",
-          "trans": "테사가 따뜻한 빵 한 바구니를 가져왔어요."
-        },
-        {
-          "text": "Thank you for such a warm welcome!",
-          "trans": "이토록 따뜻하게 맞아 주셔서 감사합니다!"
-        }
-      ],
-      "related": []
-    },
-    "we": {
-      "lemma": "we",
-      "stress": "wi",
-      "pos": "pron",
-      "gloss": "우리, 저희",
-      "meanings": [
-        {
-          "en": "우리, 저희",
-          "note": "말하는 사람을 포함한 복수 주격 대명사로 동사는 항상 복수형(are, do, use)을 씁니다."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use a paper book and a pencil.",
-          "trans": "이곳에서 저희는 종이 장부와 연필을 써요."
-        },
-        {
-          "text": "We solved the suitcase mix-up together!",
-          "trans": "우리가 함께 여행 가방 수수께끼를 풀었어요!"
-        }
-      ],
-      "related": []
-    },
-    "week": {
-      "lemma": "week",
-      "stress": "wik",
-      "pos": "noun",
-      "gloss": "일주일, 한 주",
-      "meanings": [
-        {
-          "en": "일주일, 한 주",
-          "note": "all week은 '일주일 내내'라는 뜻이며 발음이 weak('약한')와 같으므로 철자에 유의하세요."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Evelyn is staying with us all week.",
-          "trans": "에블린은 일주일 내내 저희 숙소에 머무르세요."
-        },
-        {
-          "text": "Have a wonderful week!",
-          "trans": "즐거운 한 주 보내세요!"
-        }
-      ],
-      "related": []
-    },
-    "welcome": {
-      "lemma": "welcome",
-      "stress": "ˈwɛlkəm",
-      "pos": "interj",
-      "gloss": "환영합니다!; 천만에요",
-      "meanings": [
-        {
-          "en": "환영합니다!; 천만에요",
-          "note": "단독으로 Welcome!이라고 하거나 장소 앞에 전치사 to를 붙여 Welcome to the Inn!처럼 맞이합니다."
+          "en": "~로, ~에게; ~하기 위해(부정사 표지)",
+          "note": "도착점·전달 대상을 나타내는 전치사(to the light, to ten)이자 동사원형 앞에서 to부정사를 이끕니다."
         }
       ],
       "forms": null,
@@ -6756,8 +5357,209 @@
           "trans": "린든 코트야드 여관에 오신 것을 환영합니다!"
         },
         {
-          "text": "You are very welcome! Enjoy your tea.",
-          "trans": "천만에요! 차 맛있게 드세요."
+          "text": "Tell me everything I need to know.",
+          "trans": "제가 알아야 할 모든 것을 말해 주세요."
+        }
+      ],
+      "related": []
+    },
+    "sleep": {
+      "lemma": "sleep",
+      "stress": "slip",
+      "pos": "verb",
+      "gloss": "자다, 잠들다",
+      "meanings": [
+        {
+          "en": "자다, 잠들다",
+          "note": "과거형은 slept이며 sleep well('푹 자다')은 숙소에서 아침저녁 인사로 자주 쓰입니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sleep"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sleeps"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "slept"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "slept"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "sleeping"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Good morning! Did you sleep well?",
+          "trans": "좋은 아침입니다! 간밤에 푹 주무셨나요?"
+        },
+        {
+          "text": "Everyone sleeps soundly after sea air.",
+          "trans": "바닷바람을 쐬고 나면 누구나 곤히 잠들어요."
+        }
+      ],
+      "related": []
+    },
+    "up": {
+      "lemma": "up",
+      "stress": "ʌp",
+      "pos": "adv",
+      "gloss": "위로, 위층으로; 끝까지",
+      "meanings": [
+        {
+          "en": "위로, 위층으로; 끝까지",
+          "note": "carry the bag up('위층으로 들어 올리다'), hung up('전화를 끊었다')처럼 동사에 방향이나 완료의 뜻을 더합니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pick up the brass key from the tray.",
+          "trans": "쟁반 위에서 황동 열쇠를 집어 드세요."
+        },
+        {
+          "text": "Look up at the painted wooden sign.",
+          "trans": "칠해진 나무 간판을 올려다보세요."
+        }
+      ],
+      "related": []
+    },
+    "myself": {
+      "lemma": "myself",
+      "stress": "maɪˈsɛlf",
+      "pos": "pron",
+      "gloss": "저 자신, 직접",
+      "meanings": [
+        {
+          "en": "저 자신, 직접",
+          "note": "문장 끝에 붙여 쓰면 '저 자신도, 제가 직접'이라는 강조의 뜻을 더합니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I almost want to stay up here myself!",
+          "trans": "저 자신도 거의 여기 위층에 묵고 싶어질 정도네요!"
+        },
+        {
+          "text": "I poured myself a cup of hot tea.",
+          "trans": "제가 직접 마실 따뜻한 차 한 잔을 따랐어요."
+        }
+      ],
+      "related": []
+    },
+    "tonight": {
+      "lemma": "tonight",
+      "stress": "təˈnaɪt",
+      "pos": "adv",
+      "gloss": "오늘 밤",
+      "meanings": [
+        {
+          "en": "오늘 밤",
+          "note": "this night라고 하지 않고 언제나 한 단어 tonight으로 붙여 쓰는 점에 유의하세요."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "All eight rooms are full tonight.",
+          "trans": "오늘 밤에는 여덟 개 객실이 모두 만실이에요."
+        },
+        {
+          "text": "Sleep well tonight!",
+          "trans": "오늘 밤 푹 주무세요!"
+        }
+      ],
+      "related": []
+    },
+    "wait": {
+      "lemma": "wait",
+      "stress": "weɪt",
+      "pos": "verb",
+      "gloss": "기다리다; 잠깐만요!",
+      "meanings": [
+        {
+          "en": "기다리다; 잠깐만요!",
+          "note": "대화 첫머리에 Wait, / Wait a second!라고 하면 무언가를 문득 발견하고 '잠깐만요!'라고 주의를 끄는 말입니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "wait"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "waits"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "waited"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "waited"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "waiting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait right here while I grab the key.",
+          "trans": "제가 열쇠를 챙겨 올 동안 바로 여기서 기다려 주세요."
+        },
+        {
+          "text": "Caleb waited for the yellow taxi at the curb.",
+          "trans": "케일럽은 연석에서 노란 택시를 기다렸어요."
         }
       ],
       "related": []
@@ -6787,77 +5589,410 @@
       ],
       "related": []
     },
-    "where": {
-      "lemma": "where",
-      "stress": "wɛɹ",
-      "pos": "adv",
-      "gloss": "어디에, 어디로",
-      "meanings": [
-        {
-          "en": "어디에, 어디로",
-          "note": "사물이나 장소의 위치를 물을 때 문장 맨 앞에 놓습니다(Where is the computer?)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Where is the computer?",
-          "trans": "컴퓨터는 어디에 있나요?"
-        },
-        {
-          "text": "Where would you like to sit?",
-          "trans": "어느 자리에 앉고 싶으신가요?"
-        }
-      ],
-      "related": []
-    },
-    "window": {
-      "lemma": "window",
-      "stress": "ˈwɪndoʊ",
+    "discount": {
+      "lemma": "discount",
+      "stress": "ˈdɪsˌkaʊnt",
       "pos": "noun",
-      "gloss": "창문",
+      "gloss": "할인",
       "meanings": [
         {
-          "en": "창문",
-          "note": "방 안에서 거리나 안뜰을 내다보는 창문을 가리키는 셀 수 있는 명사입니다."
+          "en": "할인",
+          "note": "명사로 쓰일 때는 첫 음절에 강세를 두며 숙박비나 가격을 깎아 주는 것을 뜻합니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Sit at the sunny table by the window.",
-          "trans": "창가 옆 햇살 드는 식탁에 앉으세요."
+          "text": "Offer him a generous room discount.",
+          "trans": "그에게 넉넉한 객실 할인을 제안해 보세요."
         },
         {
-          "text": "Open the window to hear the harbor gulls.",
-          "trans": "항구 갈매기 소리가 들리도록 창문을 열어 보세요."
+          "text": "Students get a ten percent discount.",
+          "trans": "학생들은 십 퍼센트 할인을 받아요."
         }
       ],
       "related": []
     },
-    "yellow": {
-      "lemma": "yellow",
-      "stress": "ˈjɛloʊ",
-      "pos": "adj",
-      "gloss": "노란, 노란색의",
+    "we": {
+      "lemma": "we",
+      "stress": "wi",
+      "pos": "pron",
+      "gloss": "우리, 저희",
       "meanings": [
         {
-          "en": "노란, 노란색의",
-          "note": "밝은 레몬이나 미국식 택시, 따뜻한 전구 빛깔을 나타내는 색채 형용사입니다."
+          "en": "우리, 저희",
+          "note": "말하는 사람을 포함한 복수 주격 대명사로 동사는 항상 복수형(are, do, use)을 씁니다."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "A yellow taxi stopped outside the gate.",
-          "trans": "대문 밖에 노란 택시 한 대가 멈춰 섰어요."
+          "text": "Here we use a paper book and a pencil.",
+          "trans": "이곳에서 저희는 종이 장부와 연필을 써요."
         },
         {
-          "text": "Six yellow lemons sat in the basket.",
-          "trans": "바구니 안에 노란 레몬 여섯 개가 담겨 있었어요."
+          "text": "We solved the suitcase mix-up together!",
+          "trans": "우리가 함께 여행 가방 수수께끼를 풀었어요!"
+        }
+      ],
+      "related": []
+    },
+    "offer": {
+      "lemma": "offer",
+      "stress": "ˈɔfɚ",
+      "pos": "verb",
+      "gloss": "제안하다, 권하다",
+      "meanings": [
+        {
+          "en": "제안하다, 권하다",
+          "note": "뒤에 간접목적어와 직접목적어를 나란히 써서(offer him a discount) '~에게 …을 제안하다'를 나타냅니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "offer"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "offers"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "offered"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "offered"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "offering"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "What discount should we offer him?",
+          "trans": "그분에게 어떤 할인을 제안해 드릴까요?"
+        },
+        {
+          "text": "Tessa offered everyone warm tea.",
+          "trans": "테사는 모두에게 따뜻한 차를 권했어요."
+        }
+      ],
+      "related": []
+    },
+    "him": {
+      "lemma": "him",
+      "stress": "hɪm",
+      "pos": "pron",
+      "gloss": "그를, 그에게",
+      "meanings": [
+        {
+          "en": "그를, 그에게",
+          "note": "동사나 전치사 뒤에 오는 3인칭 남성 단수 목적격 대명사입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell him breakfast is still warm.",
+          "trans": "그에게 아침 식사가 아직 따뜻하다고 전해 주세요."
+        },
+        {
+          "text": "I saved a cinnamon roll for him.",
+          "trans": "그를 위해 시나몬 롤 하나를 남겨 두었어요."
+        }
+      ],
+      "related": []
+    },
+    "for": {
+      "lemma": "for",
+      "stress": "fɔɹ",
+      "pos": "prep",
+      "gloss": "~을 위해; ~동안",
+      "meanings": [
+        {
+          "en": "~을 위해; ~동안",
+          "note": "받는 대상(for room four), 목적(for breakfast), 지속 시간 등을 폭넓게 나타냅니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This package arrived for room two.",
+          "trans": "이 소포는 이 호실 앞으로 도착했어요."
+        },
+        {
+          "text": "Wait here for just a moment.",
+          "trans": "잠시만 여기서 기다려 주세요."
+        }
+      ],
+      "related": []
+    },
+    "change": {
+      "lemma": "change",
+      "stress": "tʃeɪndʒ",
+      "pos": "noun",
+      "gloss": "거스름돈, 잔돈; 변화",
+      "meanings": [
+        {
+          "en": "거스름돈, 잔돈; 변화",
+          "note": "현금 결제 후 돌려받는 거스름돈을 뜻할 때는 셀 수 없는 명사로 씁니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Count your change before leaving the counter.",
+          "trans": "카운터를 떠나기 전에 거스름돈을 세어 보세요."
+        },
+        {
+          "text": "Here is five dollars in change.",
+          "trans": "여기 거스름돈 오 달러입니다."
+        }
+      ],
+      "related": []
+    },
+    "room": {
+      "lemma": "room",
+      "stress": "ɹum",
+      "pos": "noun",
+      "gloss": "방, 객실; 공간",
+      "meanings": [
+        {
+          "en": "방, 객실; 공간",
+          "note": "'객실'일 때는 셀 수 있고(eight rooms), 뒤에 숫자를 붙여 Room four('사 호실')처럼 호수를 나타냅니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four overlooks the sunny courtyard.",
+          "trans": "사 호실에서는 햇살 가득한 안뜰이 내려다보여요."
+        },
+        {
+          "text": "All eight rooms are clean and ready.",
+          "trans": "여덟 개 객실 모두 깨끗하게 준비되어 있어요."
+        }
+      ],
+      "related": []
+    },
+    "half": {
+      "lemma": "half",
+      "stress": "hæf",
+      "pos": "noun",
+      "gloss": "절반, 반",
+      "meanings": [
+        {
+          "en": "절반, 반",
+          "note": "철자 속 l은 묵음(/hæf/)이며 half a glass, half the city처럼 관사 앞에 놓입니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "half"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "halves"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast will be ready in half an hour.",
+          "trans": "아침 식사는 삼십 분 뒤에 준비될 거예요."
+        },
+        {
+          "text": "Take half of this warm roll.",
+          "trans": "이 따뜻한 롤빵 반쪽을 드세요."
+        }
+      ],
+      "related": []
+    },
+    "price": {
+      "lemma": "price",
+      "stress": "pɹaɪs",
+      "pos": "noun",
+      "gloss": "가격, 요금",
+      "meanings": [
+        {
+          "en": "가격, 요금",
+          "note": "half price는 전치사 없이 '반값에, 반값인'이라는 뜻으로 쓰입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tonight your room is half price.",
+          "trans": "오늘 밤 손님 객실은 반값으로 모실게요."
+        },
+        {
+          "text": "What is the price of two valves?",
+          "trans": "밸브 두 개 가격은 얼마인가요?"
+        }
+      ],
+      "related": []
+    },
+    "free": {
+      "lemma": "free",
+      "stress": "fɹi",
+      "pos": "adj",
+      "gloss": "비어 있는, 한가한; 무료의",
+      "meanings": [
+        {
+          "en": "비어 있는, 한가한; 무료의",
+          "note": "방이나 자리가 비어 있다는 뜻과 요금이 무료라는 뜻을 모두 지닙니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Is this garden table free?",
+          "trans": "이 정원 테이블 자리 비어 있나요?"
+        },
+        {
+          "text": "Coffee and tea are free for all guests.",
+          "trans": "모든 투숙객에게 커피와 차는 무료로 제공돼요."
+        }
+      ],
+      "related": []
+    },
+    "breakfast": {
+      "lemma": "breakfast",
+      "stress": "ˈbɹɛkfəst",
+      "pos": "noun",
+      "gloss": "아침 식사",
+      "meanings": [
+        {
+          "en": "아침 식사",
+          "note": "식사 이름 앞에는 보통 관사를 붙이지 않고 for breakfast처럼 씁니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast is ready at seven.",
+          "trans": "일곱 시에 아침 식사가 준비돼요."
+        },
+        {
+          "text": "We had eggs and toast for breakfast.",
+          "trans": "우리는 아침으로 달걀과 토스트를 먹었어요."
+        }
+      ],
+      "related": []
+    },
+    "all": {
+      "lemma": "all",
+      "stress": "ɔl",
+      "pos": "det",
+      "gloss": "모든, 전부",
+      "meanings": [
+        {
+          "en": "모든, 전부",
+          "note": "집단 전체나 기간 내내를 가리키는 한정사입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "All the windows are open.",
+          "trans": "창문이 전부 열려 있어요."
+        },
+        {
+          "text": "She worked all morning.",
+          "trans": "그녀는 아침 내내 일했어요."
+        }
+      ],
+      "related": []
+    },
+    "week": {
+      "lemma": "week",
+      "stress": "wik",
+      "pos": "noun",
+      "gloss": "일주일, 한 주",
+      "meanings": [
+        {
+          "en": "일주일, 한 주",
+          "note": "all week은 '일주일 내내'라는 뜻이며 발음이 weak('약한')와 같으므로 철자에 유의하세요."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Evelyn is staying with us all week.",
+          "trans": "에블린은 일주일 내내 저희 숙소에 머무르세요."
+        },
+        {
+          "text": "Have a wonderful week!",
+          "trans": "즐거운 한 주 보내세요!"
+        }
+      ],
+      "related": []
+    },
+    "generous": {
+      "lemma": "generous",
+      "stress": "ˈdʒɛnɚəs",
+      "pos": "adj",
+      "gloss": "후한, 넉넉한, 관대한",
+      "meanings": [
+        {
+          "en": "후한, 넉넉한, 관대한",
+          "note": "사람의 인심이 후할 때뿐 아니라 할인 폭이나 음식 양이 넉넉할 때도 씁니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Half price is very generous of you!",
+          "trans": "반값으로 해 주시다니 정말 후하시네요!"
+        },
+        {
+          "text": "She cut two generous slices of cake.",
+          "trans": "그녀는 케이크를 큼직하게 두 조각 잘랐어요."
         }
       ],
       "related": []
@@ -6883,6 +6018,871 @@
         {
           "text": "Thank you! See you next time!",
           "trans": "감사합니다! 다음에 또 만나요!"
+        }
+      ],
+      "related": []
+    },
+    "just": {
+      "lemma": "just",
+      "stress": "dʒʌst",
+      "pos": "adv",
+      "gloss": "방금, 막; 딱, 그저",
+      "meanings": [
+        {
+          "en": "방금, 막; 딱, 그저",
+          "note": "과거동사 앞에서는 '방금'(just waved), 명사·절 앞에서는 '딱·그저'(just half a glass)를 뜻합니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Give me just one minute, please.",
+          "trans": "딱 일 분만 시간을 주세요."
+        },
+        {
+          "text": "The taxi just pulled up outside.",
+          "trans": "방금 밖에 택시가 와서 섰어요."
+        }
+      ],
+      "related": []
+    },
+    "hear": {
+      "lemma": "hear",
+      "stress": "hɪɹ",
+      "pos": "verb",
+      "gloss": "듣다, 들리다",
+      "meanings": [
+        {
+          "en": "듣다, 들리다",
+          "note": "의식적으로 귀 기울이는 listen과 달리 소리가 귀에 자연히 들려올 때 쓰며 과거형은 heard입니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "hear"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "hears"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "heard"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "heard"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "hearing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did you hear the front desk bell?",
+          "trans": "프런트 데스크 종소리 들으셨나요?"
+        },
+        {
+          "text": "I heard footsteps on the stairs.",
+          "trans": "계단에서 발소리가 들렸어요."
+        }
+      ],
+      "related": []
+    },
+    "courtyard": {
+      "lemma": "courtyard",
+      "stress": "ˈkɔɹtˌjɑɹd",
+      "pos": "noun",
+      "gloss": "안뜰, 중정",
+      "meanings": [
+        {
+          "en": "안뜰, 중정",
+          "note": "건물이나 담장으로 아늑하게 둘러싸인 야외 마당입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lanterns glow in the stone courtyard at dusk.",
+          "trans": "해 질 녘이면 돌로 된 안뜰에 등불이 켜져요."
+        },
+        {
+          "text": "My window faces the quiet courtyard.",
+          "trans": "제 방 창문은 조용한 안뜰을 마주 보고 있어요."
+        }
+      ],
+      "related": []
+    },
+    "gate": {
+      "lemma": "gate",
+      "stress": "ɡeɪt",
+      "pos": "noun",
+      "gloss": "대문, 출입문",
+      "meanings": [
+        {
+          "en": "대문, 출입문",
+          "note": "담장이나 정원, 안뜰로 들어서는 바깥쪽 문을 가리킵니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Close the iron gate behind you.",
+          "trans": "들어오신 뒤에 철제 대문을 닫아 주세요."
+        },
+        {
+          "text": "Tessa waited by the courtyard gate.",
+          "trans": "테사는 안뜰 대문 옆에서 기다렸어요."
+        }
+      ],
+      "related": []
+    },
+    "bell": {
+      "lemma": "bell",
+      "stress": "bɛl",
+      "pos": "noun",
+      "gloss": "종, 벨, 초인종",
+      "meanings": [
+        {
+          "en": "종, 벨, 초인종",
+          "note": "프런트 데스크의 호출 종과 현관 초인종 모두에 씁니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ring the bell at the front desk.",
+          "trans": "프런트 데스크에 있는 종을 울려 주세요."
+        },
+        {
+          "text": "Did you hear the gate bell?",
+          "trans": "대문 초인종 소리 들으셨나요?"
+        }
+      ],
+      "related": []
+    },
+    "downstairs": {
+      "lemma": "downstairs",
+      "stress": "ˌdaʊnˈstɛɹz",
+      "pos": "adv",
+      "gloss": "아래층으로, 아래층에",
+      "meanings": [
+        {
+          "en": "아래층으로, 아래층에",
+          "note": "그 자체로 방향과 위치를 포함하는 부사이므로 앞에 to나 in을 붙이지 않습니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast is served downstairs until ten.",
+          "trans": "아침 식사는 열 시까지 아래층에서 제공됩니다."
+        },
+        {
+          "text": "I left my umbrella downstairs by the door.",
+          "trans": "아래층 문 옆에 우산을 두고 왔어요."
+        }
+      ],
+      "related": []
+    },
+    "eight": {
+      "lemma": "eight",
+      "stress": "eɪt",
+      "pos": "num",
+      "gloss": "여덟, 팔",
+      "meanings": [
+        {
+          "en": "여덟, 팔",
+          "note": "철자 속 gh는 묵음이어서 발음이 ate와 똑같습니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our guesthouse has eight quiet rooms.",
+          "trans": "우리 게스트하우스에는 조용한 객실 여덟 개가 있어요."
+        },
+        {
+          "text": "Breakfast starts at eight o'clock sharp.",
+          "trans": "아침 식사는 여덟 시 정각에 시작해요."
+        }
+      ],
+      "related": []
+    },
+    "o'clock": {
+      "lemma": "o'clock",
+      "stress": "əˈklɑk",
+      "pos": "adv",
+      "gloss": "~시 정각",
+      "meanings": [
+        {
+          "en": "~시 정각",
+          "note": "일 시부터 열두 시까지 정각 시간을 말할 때 숫자 뒤에 붙여 씁니다(nine o'clock)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast begins at eight o'clock.",
+          "trans": "아침 식사는 여덟 시 정각에 시작해요."
+        },
+        {
+          "text": "The quiet bell chimed twelve o'clock.",
+          "trans": "조용한 종이 열두 시 정각을 알렸어요."
+        }
+      ],
+      "related": []
+    },
+    "on": {
+      "lemma": "on",
+      "stress": "ɑn",
+      "pos": "prep",
+      "gloss": "~위에(접촉); ~에(요일·날짜)",
+      "meanings": [
+        {
+          "en": "~위에(접촉); ~에(요일·날짜)",
+          "note": "표면에 닿아 있는 위치(on my head, on the step)와 특정 날(on my first day)에 씁니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your key is on the wooden desk.",
+          "trans": "손님 열쇠는 나무 책상 위에 있어요."
+        },
+        {
+          "text": "Tessa bakes apple rolls on Fridays.",
+          "trans": "테사는 금요일마다 사과 롤빵을 구워요."
+        }
+      ],
+      "related": []
+    },
+    "dot": {
+      "lemma": "dot",
+      "stress": "dɑt",
+      "pos": "noun",
+      "gloss": "점; 정각에(on the dot)",
+      "meanings": [
+        {
+          "en": "점; 정각에(on the dot)",
+          "note": "시각 뒤에 붙는 on the dot은 '일 분도 어기지 않고 정각에'라는 관용 표현입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He arrived at eight on the dot.",
+          "trans": "그는 여덟 시 정각에 도착했어요."
+        },
+        {
+          "text": "Put a small dot on the map.",
+          "trans": "지도 위에 작은 점을 하나 찍어 보세요."
+        }
+      ],
+      "related": []
+    },
+    "our": {
+      "lemma": "our",
+      "stress": "ˈaʊɚ",
+      "pos": "det",
+      "gloss": "우리의, 저희의",
+      "meanings": [
+        {
+          "en": "우리의, 저희의",
+          "note": "뒤에 오는 명사의 단수·복수에 상관없이 형태가 항상 our로 일정합니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to our courtyard guesthouse.",
+          "trans": "저희 안뜰 게스트하우스에 오신 것을 환영합니다."
+        },
+        {
+          "text": "All our bread comes from Tessa's oven.",
+          "trans": "저희 빵은 모두 테사의 오븐에서 구워 나와요."
+        }
+      ],
+      "related": []
+    },
+    "guest": {
+      "lemma": "guest",
+      "stress": "ɡɛst",
+      "pos": "noun",
+      "gloss": "손님, 투숙객",
+      "meanings": [
+        {
+          "en": "손님, 투숙객",
+          "note": "호텔이나 여관에 묵는 투숙객과 집에 초대한 손님 모두에 씁니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our new guest arrives at noon.",
+          "trans": "새 손님은 정오에 도착하세요."
+        },
+        {
+          "text": "Six guests joined us for breakfast.",
+          "trans": "여섯 명의 투숙객이 아침 식사에 함께했어요."
+        }
+      ],
+      "related": []
+    },
+    "my": {
+      "lemma": "my",
+      "stress": "maɪ",
+      "pos": "det",
+      "gloss": "나의, 제",
+      "meanings": [
+        {
+          "en": "나의, 제",
+          "note": "뒤에 단수 명사가 오든 복수 명사가 오든 형태 변화 없이 항상 my를 씁니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Today is my first morning at the desk.",
+          "trans": "오늘은 제가 데스크에서 일하는 첫 아침이에요."
+        },
+        {
+          "text": "Where did I put my reading glasses?",
+          "trans": "제 돋보기안경을 어디에 두었죠?"
+        }
+      ],
+      "related": []
+    },
+    "heart": {
+      "lemma": "heart",
+      "stress": "hɑɹt",
+      "pos": "noun",
+      "gloss": "심장, 마음",
+      "meanings": [
+        {
+          "en": "심장, 마음",
+          "note": "모음을 입을 크게 벌려 /hɑɹt/로 발음해 hurt('다치다')와 구별해야 합니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My heart is pounding with excitement!",
+          "trans": "설레서 심장이 두근거려요!"
+        },
+        {
+          "text": "She thanked us from the heart.",
+          "trans": "그녀는 진심으로 우리에게 고마워했어요."
+        }
+      ],
+      "related": []
+    },
+    "pound": {
+      "lemma": "pound",
+      "stress": "paʊnd",
+      "pos": "verb",
+      "gloss": "(심장이) 쿵쾅거리다; 세게 두드리다",
+      "meanings": [
+        {
+          "en": "(심장이) 쿵쾅거리다; 세게 두드리다",
+          "note": "긴장이나 설렘으로 심장이 빠르게 뛰는 상태를 My heart is pounding처럼 표현합니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "pound"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "pounds"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "pounded"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "pounded"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "pounding"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My heart was pounding before noon!",
+          "trans": "정오 전에는 긴장되어 심장이 쿵쾅거렸어요!"
+        },
+        {
+          "text": "Rain pounded against the shutters.",
+          "trans": "빗줄기가 덧창을 세차게 두드렸어요."
+        }
+      ],
+      "related": []
+    },
+    "explain": {
+      "lemma": "explain",
+      "stress": "ɪkˈspleɪn",
+      "pos": "verb",
+      "gloss": "설명하다",
+      "meanings": [
+        {
+          "en": "설명하다",
+          "note": "사람에게 설명할 때는 반드시 전치사 to를 써서 explain ~ to 사람 어순으로 말합니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "explain"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "explains"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "explained"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "explained"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "explaining"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hannah can explain it clearly.",
+          "trans": "해나가 그것을 명확하게 설명해 줄 수 있어요."
+        },
+        {
+          "text": "Let me explain what happened.",
+          "trans": "무슨 일이 있었는지 제가 설명해 드릴게요."
+        }
+      ],
+      "related": []
+    },
+    "it": {
+      "lemma": "it",
+      "stress": "ɪt",
+      "pos": "pron",
+      "gloss": "그것; (날씨·시간의 비인칭 주어)",
+      "meanings": [
+        {
+          "en": "그것; (날씨·시간의 비인칭 주어)",
+          "note": "사물 단수를 가리킬 뿐 아니라 날씨(when it rains)나 시간 표현에서 빈자리를 채우는 필수 주어입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle, and it opens easily.",
+          "trans": "손잡이를 들어 올리면 문이 쉽게 열려요."
+        },
+        {
+          "text": "It is sunny and warm this afternoon.",
+          "trans": "오늘 오후는 화창하고 따뜻하네요."
+        }
+      ],
+      "related": []
+    },
+    "sound": {
+      "lemma": "sound",
+      "stress": "saʊnd",
+      "pos": "verb",
+      "gloss": "~하게 들리다; 소리",
+      "meanings": [
+        {
+          "en": "~하게 들리다; 소리",
+          "note": "뒤에 형용사를 붙여(sounded nervous) 목소리나 이야기가 어떻게 들리는지 묘사합니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sound"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sounds"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "sounded"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "sounded"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "sounding"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hot tea and apple bread? That sounds wonderful!",
+          "trans": "뜨거운 차와 사과 빵이라고요? 정말 좋게 들리네요!"
+        },
+        {
+          "text": "Her voice sounded calm on the phone.",
+          "trans": "전화기 너머 그녀의 목소리는 차분하게 들렸어요."
+        }
+      ],
+      "related": []
+    },
+    "calm": {
+      "lemma": "calm",
+      "stress": "kɑm",
+      "pos": "adj",
+      "gloss": "차분한, 평온한",
+      "meanings": [
+        {
+          "en": "차분한, 평온한",
+          "note": "철자 속의 l은 소리 나지 않으며 목소리나 태도가 침착할 때 씁니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your voice sounds calm and clear.",
+          "trans": "목소리가 차분하고 또렷하게 들리네요."
+        },
+        {
+          "text": "Try to look calm when he arrives.",
+          "trans": "그가 도착하면 침착해 보이도록 노력해 보세요."
+        }
+      ],
+      "related": []
+    },
+    "honest": {
+      "lemma": "honest",
+      "stress": "ˈɑnɪst",
+      "pos": "adj",
+      "gloss": "솔직한, 정직한",
+      "meanings": [
+        {
+          "en": "솔직한, 정직한",
+          "note": "첫 글자 h가 묵음이어서 단수 앞에 부정관사 an(an honest apology)을 씁니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Keep your words simple and honest.",
+          "trans": "말은 단순하고 솔직하게 하세요."
+        },
+        {
+          "text": "Thank you for being honest with me.",
+          "trans": "저에게 솔직하게 말씀해 주셔서 고마워요."
+        }
+      ],
+      "related": []
+    },
+    "me": {
+      "lemma": "me",
+      "stress": "mi",
+      "pos": "pron",
+      "gloss": "나를, 나에게",
+      "meanings": [
+        {
+          "en": "나를, 나에게",
+          "note": "동사나 전치사 뒤에 놓이는 1인칭 단수 목적격 대명사입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Excuse me, where is the dining room?",
+          "trans": "실례합니다, 식당이 어디에 있나요?"
+        },
+        {
+          "text": "Save a cup of coffee for me.",
+          "trans": "제 몫으로 커피 한 잔 남겨 주세요."
+        }
+      ],
+      "related": []
+    },
+    "let": {
+      "lemma": "let",
+      "stress": "lɛt",
+      "pos": "verb",
+      "gloss": "~하게 해 주다",
+      "meanings": [
+        {
+          "en": "~하게 해 주다",
+          "note": "Let me + 동사원형('제가 ~할게요'), Let us + 동사원형('우리 ~해요') 구문으로 매우 자주 쓰입니다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "let"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "lets"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "let"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "let"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "letting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let me carry that tray for you.",
+          "trans": "제가 그 쟁반을 들어 드릴게요."
+        },
+        {
+          "text": "Let us look at the guest book together.",
+          "trans": "함께 숙박부를 살펴봐요."
+        }
+      ],
+      "related": []
+    },
+    "us": {
+      "lemma": "us",
+      "stress": "ʌs",
+      "pos": "pron",
+      "gloss": "우리를, 우리에게",
+      "meanings": [
+        {
+          "en": "우리를, 우리에게",
+          "note": "1인칭 복수 목적격 대명사로 Let us('우리 ~합시다')나 safe with us('우리가 지켜 줄')에 쓰입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Join us for hot tea in the parlor!",
+          "trans": "응접실에서 저희와 함께 따뜻한 차를 드세요!"
+        },
+        {
+          "text": "Tessa brought fresh rolls for all of us.",
+          "trans": "테사가 우리 모두를 위해 갓 구운 롤빵을 가져왔어요."
+        }
+      ],
+      "related": []
+    },
+    "down": {
+      "lemma": "down",
+      "stress": "daʊn",
+      "pos": "adv",
+      "gloss": "아래로, 내려가서",
+      "meanings": [
+        {
+          "en": "아래로, 내려가서",
+          "note": "sit down('앉다'), write down('적어 두다')처럼 여러 동사와 자연스럽게 어울립니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Please sit down and rest a moment.",
+          "trans": "자리에 앉아 잠시 쉬세요."
+        },
+        {
+          "text": "Write down the phone number before you forget.",
+          "trans": "잊어버리기 전에 전화번호를 적어 두세요."
+        }
+      ],
+      "related": []
+    },
+    "welcome": {
+      "lemma": "welcome",
+      "stress": "ˈwɛlkəm",
+      "pos": "interj",
+      "gloss": "환영합니다!; 천만에요",
+      "meanings": [
+        {
+          "en": "환영합니다!; 천만에요",
+          "note": "단독으로 Welcome!이라고 하거나 장소 앞에 전치사 to를 붙여 Welcome to the Inn!처럼 맞이합니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to Linden Courtyard Inn!",
+          "trans": "린든 코트야드 여관에 오신 것을 환영합니다!"
+        },
+        {
+          "text": "You are very welcome! Enjoy your tea.",
+          "trans": "천만에요! 차 맛있게 드세요."
+        }
+      ],
+      "related": []
+    },
+    "bye": {
+      "lemma": "bye",
+      "stress": "baɪ",
+      "pos": "interj",
+      "gloss": "안녕, 잘 가요",
+      "meanings": [
+        {
+          "en": "안녕, 잘 가요",
+          "note": "일상에서 가볍고 친근하게 건네는 작별 인사입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bye! Have a safe trip.",
+          "trans": "안녕히 가세요! 조심히 다녀오세요."
+        },
+        {
+          "text": "She waved and said bye.",
+          "trans": "그녀는 손을 흔들며 작별 인사를 했어요."
+        }
+      ],
+      "related": []
+    },
+    "now": {
+      "lemma": "now",
+      "stress": "naʊ",
+      "pos": "adv",
+      "gloss": "지금, 이제",
+      "meanings": [
+        {
+          "en": "지금, 이제",
+          "note": "right now는 '바로 지금', for now는 '우선 당분간은', Bye for now!는 '우선 이만 가 볼게요!'입니다."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four is clean and ready now.",
+          "trans": "사 호실은 이제 깨끗이 정돈되어 준비가 끝났어요."
+        },
+        {
+          "text": "What should we do right now?",
+          "trans": "바로 지금 우리가 무엇을 해야 할까요?"
         }
       ],
       "related": []

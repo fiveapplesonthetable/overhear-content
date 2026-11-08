@@ -24,7 +24,7 @@ STORY = [
     ('evelyn', 'Do not worry! Cold sparkling water takes orange juice right out.', 'ご心配なく！冷たい炭酸水を使えばオレンジジュースはすぐに落ちますよ。'),
     ('hannah', 'Here is a clean cloth and cold water, Arthur.', 'はい、清潔な布巾と冷たいお水ですよ、アーサー。'),
     ('arthur', "Excuse me, ma'am, I shall retreat to my office with dignity!", '失礼いたします、お客さま、私は威厳を保って事務室へ退却いたします！'),
-    ('evelyn', 'Your scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'スクランブルエッグがとてもおいしいわ、ハンナ。テッサに私からのお褒めの言葉を伝えてちょうだい！'),
+    ('evelyn', 'The scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'スクランブルエッグがとてもおいしいわ、ハンナ。テッサに私からのお褒めの言葉を伝えてちょうだい！'),
     ('hannah', 'I will! Enjoy your morning.', 'お伝えしますね！どうぞ素敵な朝をお過ごしください。'),
 ]
 WALK = [

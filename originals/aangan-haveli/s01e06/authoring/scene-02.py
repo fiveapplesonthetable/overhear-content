@@ -16,7 +16,7 @@ CLOSING = ('sudha', 'फिर मिलेंगे!')
 
 STORY = [('kabir',
   'चंपा गली का घर ख़ाली होने से पहले, मैंने अटारी की शेल्फ़ से यह डिब्बा बचा लिया था।',
-  'Before the house on Champa Lane was cleared out, I saved this box from the attic shelf.'),
+  'Before the movers cleared the house, I saved this box from the attic shelf.'),
  ('dev',
   'सफ़ेद काग़ज़ खोलो... अरे नहीं! दादा जी का तराशा हुआ लकड़ी का इंजन!',
   "Open the white paper... no way! Grandfather's carved wooden locomotive!"),

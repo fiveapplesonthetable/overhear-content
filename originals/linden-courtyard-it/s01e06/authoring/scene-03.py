@@ -25,7 +25,7 @@ STORY = [
     ("graham", "Smart thinking, Hannah. Caleb reads city building rules every single week.", "Ottima pensata, Hannah. Caleb legge i regolamenti edilizi comunali ogni singola settimana."),
     ("arthur", "Oh, I could never bother a paying guest with our landlord troubles!", "Oh, non potrei mai disturbare un ospite pagante con i nostri guai d'affitto!"),
     ("hannah", "After we guarded his blue suitcase all week? He will want to help!", "Dopo che abbiamo custodito la sua valigia blu per tutta la settimana? Vorrà darci una mano di sicuro!"),
-    ("graham", "Wait, here comes Tessa back from their table right now.", "Aspettate, ecco che torna Tessa dal loro tavolo proprio adesso."),
+    ("graham", "Wait, Tessa is taking the cake out to their table right now.", "Aspettate, Tessa sta portando fuori la torta al loro tavolo proprio adesso."),
 ]
 WALK = [
     (0, None, ["'Quindici anni passati a lucidare chiavi d'ottone e raddrizzare cravatte... svaniti in trenta giorni!' Dopo la preposizione specificativa compare il gerundio sostantivato in", (None, "of polishing"), "mentre", (None, "gone in thirty days"), "esprime il timore di vedere tutto sparire."]),
@@ -39,7 +39,7 @@ WALK = [
     (8, None, ["'Ottima pensata, Hannah. Caleb legge i regolamenti edilizi comunali ogni singola settimana.' Il complimento rapido per un'intuizione brillante è", (None, "Smart thinking"), "seguito dal composto", (None, "city building rules"), "norme edilizie comunali."]),
     (9, None, ["'Oh, non potrei mai disturbare un ospite pagante con i nostri guai d'affitto!' Lo scrupolo di Arthur unisce condizionale e negazione in", (None, "could never bother"), "davanti all'espressione alberghiera", (None, "paying guest"), "ospite pagante."]),
     (10, None, ["'Dopo che abbiamo custodito la sua valigia blu per tutta la settimana? Vorrà darci una mano di sicuro!' Il futuro esprime qui una previsione sicura sulla buona volontà altrui:", (None, "He will want to help"), "vorrà sicuramente aiutare."]),
-    (11, None, ["'Aspettate, ecco che torna Tessa dal loro tavolo proprio adesso.' Quando il soggetto è un nome proprio e non un pronome, l'inversione presentativa mette il verbo prima del nome in", (None, "here comes Tessa back"), "ecco Tessa di ritorno."]),
+    (11, None, ["'Aspettate, Tessa sta portando fuori la torta al loro tavolo proprio adesso.' Quando il soggetto è un nome proprio e non un pronome, l'inversione presentativa mette il verbo prima del nome in", (None, "taking the cake out"), "ecco Tessa di ritorno."]),
 ]
 CALLOUT_TRANS = {
     "of polishing": "passati a lucidare",
@@ -58,5 +58,5 @@ CALLOUT_TRANS = {
     "could never bother": "non potrei mai disturbare",
     "paying guest": "ospite pagante",
     "He will want to help": "vorrà aiutare",
-    "here comes Tessa back": "ecco che torna Tessa",
+    "taking the cake out": "ecco che torna Tessa",
 }

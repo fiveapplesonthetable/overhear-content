@@ -36,7 +36,7 @@ STORY = [('arthur', 'Well? Did he shout? Did he ask for his money back?', 'Alors
  ('tessa',
   "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'",
   'Regardez les mots à côté de la nôtre: "Largeur de la cour, bruit de la rue, note de calme: neuf sur dix!"'),
- ('arthur', 'Nine out of ten?! Nobody measures lobbies unless...', "Neuf sur dix?! Personne ne mesure les halls d'entrée à moins que..."),
+ ('arthur', 'Nine out of ten?! Nobody measures courtyards unless...', 'Neuf sur dix?! Personne ne mesure les cours à moins que...'),
  ('tessa', 'Unless he writes for the annual Portland Travel Guide!', "À moins qu'il n'écrive pour le Guide de voyage annuel de Portland!"),
  ('hannah',
   'Quick, close it! Let us take it upstairs... wait, what is that loud clanking sound?',

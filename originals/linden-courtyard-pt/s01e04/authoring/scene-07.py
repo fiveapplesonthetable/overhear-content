@@ -15,12 +15,12 @@ OUTRO = 'A luz clara do sol sobre uma antiga etiqueta de bagagem acabou de revel
 CLOSING = ('evelyn', 'Bye for now!')
 STORY = [
     ('graham', 'Let me set this blue suitcase here for five minutes while I sweep the closet.', 'Deixe eu apoiar esta mala azul aqui por cinco minutos enquanto varro o armário.'),
-    ('hannah', 'Careful with it, Graham. Tomorrow at noon is Friday!', 'Cuidado com ela, Graham. Amanhã ao meio-dia é sexta-feira!'),
+    ('hannah', 'Careful with it, Graham. Friday at noon is tomorrow!', 'Cuidado com ela, Graham. Sexta ao meio-dia é amanhã!'),
     ('evelyn', "Oh, is that the twin suitcase from Monday's train?", 'Ah, essa é a mala gêmea do trem de segunda-feira?'),
     ('hannah', "Yes, ma'am, still waiting for its owner.", 'Sim, senhora, ainda esperando pelo dono.'),
     ('evelyn', 'May I look at the paper tag again here in the bright sunlight?', 'Posso olhar a etiqueta de papel de novo aqui na luz clara do sol?'),
     ('graham', "Go right ahead, ma'am. Monday afternoon the lobby was dark.", 'Fique à vontade, senhora. Na segunda-feira à tarde a recepção estava escura.'),
-    ('evelyn', 'Wait a moment... Number twelve, Linden Street, and two childhood initials carved on the corner!', 'Espere um instante... Número doze da rua Linden, e duas iniciais de infância entalhadas no canto!'),
+    ('evelyn', 'Wait a moment... Number twelve, Linden Street, and two childhood initials written in the corner!', 'Espere um instante... Número doze da rua Linden, e duas iniciais de infância escritas no canto!'),
     ('hannah', 'Miss Evelyn, you look amazed! Do you know Number twelve, Linden Street?', 'Senhorita Evelyn, a senhora parece espantada! Conhece o número doze da rua Linden?'),
     ('evelyn', 'Know it? Every Friday for six years I climbed those wooden stairs to teach piano!', 'Se conheço? Toda sexta-feira durante seis anos eu subi aquela escada de madeira para ensinar piano!'),
     ('graham', 'Twenty-five years ago? In that same house?', 'Vinte e cinco anos atrás? Naquela mesma casa?'),
@@ -29,12 +29,12 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Deixe eu apoiar esta mala azul aqui por cinco minutos enquanto varro o armário.' Para indicar por quanto tempo algo dura, usamos", (None, 'for five minutes'), 'por cinco minutos.']),
-    (1, None, ["'Cuidado com ela, Graham. Amanhã ao meio-dia é sexta-feira!' Meio-dia pede sempre a preposição pontual:", (None, 'at noon'), 'ao meio-dia.']),
+    (1, None, ["'Cuidado com ela, Graham. Sexta ao meio-dia é amanhã!' Meio-dia pede sempre a preposição pontual:", (None, 'at noon'), 'ao meio-dia.']),
     (2, None, ["'Ah, essa é a mala gêmea do trem de segunda-feira?' Usar", (None, 'twin suitcase'), 'é um jeito expressivo de dizer que as duas malas são idênticas.']),
     (3, None, ["'Sim, senhora, ainda esperando pelo dono.' Repare no possessivo neutro sem apóstrofo em", (None, 'waiting for its owner'), 'referindo-se ao dono da mala.']),
     (4, None, ["'Posso olhar a etiqueta de papel de novo aqui na luz clara do sol?' Para dizer 'ao sol' ou 'na luz do sol', o inglês usa 'in':", (None, 'in the bright sunlight'), 'na luz brilhante do sol.']),
     (5, None, ["'Fique à vontade, senhora. Na segunda-feira à tarde a recepção estava escura.' Para dar permissão de forma calorosa, use", (None, 'Go right ahead'), 'pode ir em frente, fique à vontade.']),
-    (6, None, ["'Espere um instante... Número doze da rua Linden, e duas iniciais de infância entalhadas no canto!' A forma", (None, 'carved on the corner'), 'indica letras gravadas na madeira ou no couro.']),
+    (6, None, ["'Espere um instante... Número doze da rua Linden, e duas iniciais de infância escritas no canto!' O particípio", (None, 'written'), 'indica algo que foi escrito ou anotado no papel.']),
     (7, None, ["'Senhorita Evelyn, a senhora parece espantada! Conhece o número doze da rua Linden?' Depois do verbo parecer visualmente, vem o adjetivo direto:", (None, 'you look amazed'), 'você parece maravilhada.']),
     (8, None, ["'Se conheço? Toda sexta-feira durante seis anos eu subi aquela escada de madeira para ensinar piano!' Depois de 'teach', instrumentos musicais podem vir sem artigo:", (None, 'teach piano'), 'dar aulas de piano.']),
     (9, None, ["'Vinte e cinco anos atrás? Naquela mesma casa?' A ordem em", (None, 'Twenty-five years ago'), "bate certinho com o nosso 'vinte e cinco anos atrás'."]),

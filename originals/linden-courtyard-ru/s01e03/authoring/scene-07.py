@@ -21,7 +21,7 @@ STORY = [
     ('hannah', 'We are glad you find our courtyard peaceful for your... work.', 'Мы рады, что наш дворик показался вам таким тихим для вашей... работы.'),
     ('caleb', 'Very peaceful! Though did you hear a funny metal knock just now?', 'Очень тихим! Хотя вы не слышали сейчас странный металлический стук?'),
     ('hannah', 'Yes! It sounded like it came from the heating pipe in the corner.', 'Да! Звук был такой, будто шёл из трубы отопления в углу.'),
-    ('caleb', 'Feel the radiator. The top is warm, while the bottom is turning cool.', 'Потрогайте батарею. Верх тёплый, а низ уже остывает.'),
+    ('caleb', 'Feel the radiator. The bottom is warm, while the top is turning cool.', 'Потрогайте батарею — снизу она тёплая, а сверху становится холодной.'),
     ('hannah', 'Oh! Sometimes old pipes have a little air bubble at night.', 'Ой! Иногда в старых трубах по ночам собирается маленький пузырёк воздуха.'),
     ('caleb', 'I have a warm blanket, so I am quite comfortable tonight.', 'У меня есть тёплое одеяло, так что сегодня ночью мне вполне уютно.'),
     ('hannah', 'Thank you for being so patient! Graham will check the basement right away.', 'Спасибо вам за такое терпение! Грэм сейчас же проверит подвал.'),

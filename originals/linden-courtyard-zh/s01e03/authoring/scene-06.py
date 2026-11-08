@@ -23,7 +23,7 @@ STORY = [
     ('arthur', 'Do not snoop, of course... wait, it fell open to the middle page!', '当然不能偷看啦……等等，它自己翻开停在中间那一页了！'),
     ('hannah', 'Why are there neat pencil drawings of three guesthouses on our street?', '为什么上面画着咱们这条街上三家客栈工整的铅笔速写呢？'),
     ('tessa', "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'", '快看咱们客栈旁边的字：“庭院宽度、街道噪音、安静评分：十分中的九分！”'),
-    ('arthur', 'Nine out of ten?! Nobody measures lobbies unless...', '十分中的九分？！没人会去测量旅馆大堂，除非……'),
+    ('arthur', 'Nine out of ten?! Nobody measures courtyards unless...', '十分中的九分？！没人会去测量庭院，除非……'),
     ('tessa', 'Unless he writes for the annual Portland Travel Guide!', '除非他是给年度波特兰旅游指南撰稿的评审员！'),
     ('hannah', 'Quick, close it! Let us take it upstairs... wait, what is that loud clanking sound?', '快合上！咱们赶紧把它送上楼……等等，那阵响亮的金属哐当声是什么？'),
 ]
@@ -37,7 +37,7 @@ WALK = [
     (6, None, ["'当然不能偷看啦……等等，它自己翻开停在中间那一页了！' 书本或册子顺势散开、摊开在桌面上，英语形象地把掉落和形容词结合成", (None, 'fell open'), '巧妙替亚瑟找了个“不是故意偷看”的借口。']),
     (7, None, ["'为什么上面画着咱们这条街上三家客栈工整的铅笔速写呢？' 把存现句变成特殊疑问句时，把系动词提前到引导词前面，说出", (None, 'Why are there'), '因为后面的速写是复数，所以系动词对应使用复数形式。']),
     (8, None, ["'快看咱们客栈旁边的字：“庭院宽度、街道噪音、安静评分：十分中的九分！”' 英语表达打分比例非常直观，", (None, 'nine out of ten'), '字面意思是十个里面占了九个，也就是满分十分得了九分。']),
-    (9, None, ["'十分中的九分？！没人会去测量旅馆大堂，除非……' 引出唯一的例外推论时，连词", (None, 'unless'), '相当于汉语的“除非……否则绝不会”，吊足了大家的胃口。']),
+    (9, None, ["'十分中的九分？！没人会去测量庭院，除非……' 引出唯一的例外推论时，连词", (None, 'unless'), "相当于汉语的“除非……否则绝不会”，吊足了大家的胃口。"]),
     (10, None, ["'除非他是给年度波特兰旅游指南撰稿的评审员！' 泰莎顺着上一句的话头接下去，说出", (None, 'Unless he writes'), '用一般现在时表示某人的职业工作是为指南杂志撰稿。']),
     (11, None, ["'快合上！咱们赶紧把它送上楼……等等，那阵响亮的金属哐当声是什么？' 英语有很多生动的拟声词，形容厚重金属管道互相撞击发出的沉闷巨响就叫", (None, 'clanking sound'), '一听就让人联想到老旧暖气管。']),
 ]

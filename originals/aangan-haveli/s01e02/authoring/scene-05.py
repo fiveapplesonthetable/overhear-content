@@ -40,8 +40,8 @@ STORY = [('kavya',
   'माफ़ कीजिए मैडम, मैं इज़्ज़त के साथ अपने दफ़्तर में जाता हूँ!',
   'Excuse me, madam, I shall retreat to my office with dignity!'),
  ('sudha',
-  'तुम्हारे अंडे बहुत स्वादिष्ट बने हैं, काव्या। दीया को मेरी तारीफ़ कहना!',
-  'Your eggs turned out delicious, Kavya. Pass my compliments to Diya!'),
+  'अंडे बहुत स्वादिष्ट बने हैं, काव्या। दीया को मेरी तारीफ़ कहना!',
+  'The scrambled eggs are delicious, Kavya. Tell Diya my compliments!'),
  ('kavya', 'ज़रूर कहूँगी! आपकी सुबह शुभ हो।', 'I certainly will! Enjoy your morning.')]
 
 WALK = [(0,

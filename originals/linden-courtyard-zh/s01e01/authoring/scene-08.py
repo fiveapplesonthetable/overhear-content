@@ -15,8 +15,8 @@ OUTRO = '伊芙琳自己的行李箱失而复得，可那位神秘物主却拜�
 CLOSING = ('graham', 'Have a good night!')
 STORY = [
     ('hannah', 'Did you hear that, Graham? Someone just rang the gate bell!', '格雷厄姆，你听见了吗？刚才有人按了院门铃！'),
-    ('graham', "At nine o'clock? Stay here, let us open the door together.", '九点钟按铃？你待在这儿，咱们一起去开门。'),
-    ('hannah', 'Hello? Good evening! Nobody is standing in the courtyard!', '喂，有人吗？晚上好！庭院里根本没人站着呀！'),
+    ('graham', "At nine o'clock? Wait, let us open the gate together.", '九点钟？等等，咱们一起去开大门。'),
+    ('hannah', 'Hello? Good evening! Nobody is standing at the gate!', '喂，有人吗？晚上好！大门前根本没人站着呀！'),
     ('graham', 'Wait. Look down on the stone step.', '等等。往下面的石阶上看。'),
     ('hannah', "Another dark blue suitcase! Is this Miss Evelyn's bag?", '又是一只深蓝色行李箱！这是伊芙琳女士的包吗？'),
     ('graham', 'Check the zipper... yes, her initials are right here!', '看看拉链那儿……没错，她的姓名首字母就在这儿！'),
@@ -29,8 +29,8 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'格雷厄姆，你听见了吗？刚才有人按了院门铃！' 夜深人静听到门外异响时，最自然的确认问句就是", (None, 'Did you hear that'), '用指示代词指代刚刚响起的那声铃音。']),
-    (1, None, ["'九点钟按铃？你待在这儿，咱们一起去开门。' 表达不带分钟的整点时刻，英语在数字后面加上缩合词构成", (None, "nine o'clock"), '专门表示“九点整”。']),
-    (2, None, ["'喂，有人吗？晚上好！庭院里根本没人站着呀！' 哪怕到了夜里九点，只要是开门迎客打招呼，英语依然要说", (None, 'Good evening'), '而不能用道别睡觉时才说的晚安。']),
+    (1, None, ["'九点钟？等等，咱们一起去开大门。' 表达不带分钟的整点时刻，英语在数字后面加上缩合词构成", (None, "nine o'clock"), "专门表示“九点整”。"]),
+    (2, None, ["'喂，有人吗？晚上好！大门前根本没人站着呀！' 哪怕到了夜里，只要是见面打招呼，英语依然要说", (None, 'Good evening'), "而不能用道别睡觉时才说的晚安。"]),
     (3, None, ["'等等。往下面的石阶上看。' 动词后面加上表示向下的副词构成", (None, 'Look down'), '简洁有力地提醒同伴低头往脚下看。']),
     (4, None, ["'又是一只深蓝色行李箱！这是伊芙琳女士的包吗？' 看到同款式的第二只箱子出现，句首用限定词", (None, 'Another'), '精准表达“又一个、再一只”的惊喜。']),
     (5, None, ["'看看拉链那儿……没错，她的姓名首字母就在这儿！' 英语复数名词", (None, 'her initials'), '专指把名和姓的开头字母缩写印在皮具上的标记，一眼就能确认箱子归属。']),

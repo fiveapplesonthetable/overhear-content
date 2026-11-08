@@ -24,7 +24,7 @@ STORY = [('arthur', 'Tell me it was just a tiny air bubble, Graham! Please!', 'S
   'The rooms will stay warm until morning, Hannah, because the brick walls hold heat.',
   'Die Zimmer bleiben bis zum Morgen warm, Hannah, weil die Ziegelmauern die Wärme speichern.'),
  ('arthur', 'Thank heavens! And the morning showers?', 'Dem Himmel sei Dank! Und die Morgenduschen?'),
- ('graham', 'At seven tomorrow morning, the shower water will be ice cold.', 'Morgen früh um sieben wird das Duschwasser eiskalt sein.'),
+ ('graham', 'By tomorrow morning, the shower water will be ice cold.', 'Bis morgen früh wird das Duschwasser eiskalt sein.'),
  ('arthur',
   'Ice cold showers?! With the Portland Travel Guide inspector on the third floor?!',
   'Eiskalte Duschen?! Mit dem Prüfer vom Reiseführer für Portland oben im zweiten Stock?!'),

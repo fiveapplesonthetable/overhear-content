@@ -15,8 +15,8 @@ OUTRO = 'イヴリンの本物のスーツケースは無事に戻りました�
 CLOSING = ('graham', 'Have a good night!')
 STORY = [
     ('hannah', 'Did you hear that, Graham? Someone just rang the gate bell!', '今の聞こえましたか、グレアム？たった今、誰かが門のベルを鳴らしました！'),
-    ('graham', "At nine o'clock? Stay here, let us open the door together.", '九時にかい？ここにいて、一緒にドアを開けよう。'),
-    ('hannah', 'Hello? Good evening! Nobody is standing in the courtyard!', 'もしもし？こんばんは！中庭には誰も立っていませんよ！'),
+    ('graham', "At nine o'clock? Wait, let us open the gate together.", '夜の九時に？待って、一緒に門を開けよう。'),
+    ('hannah', 'Hello? Good evening! Nobody is standing at the gate!', 'もしもし？こんばんは！門のところには誰も立っていませんよ！'),
     ('graham', 'Wait. Look down on the stone step.', '待って。足元の石段の上を見てごらん。'),
     ('hannah', "Another dark blue suitcase! Is this Miss Evelyn's bag?", 'もう一つの濃紺のスーツケース！これってミス・イヴリンの鞄ですか？'),
     ('graham', 'Check the zipper... yes, her initials are right here!', 'ファスナーを調べてみよう…ああ、まさにここに彼女のイニシャルがあるぞ！'),
@@ -29,8 +29,8 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'今の聞こえましたか、グレアム？たった今、誰かが門のベルを鳴らしました！' 物音が耳に入ったかを過去の疑問文で", (None, 'Did you hear that'), 'と尋ね、直前の出来事を', (None, 'just rang the gate bell'), 'と驚いて伝えます。']),
-    (1, None, ["'九時にかい？ここにいて、一緒にドアを開けよう。' ぴったりの時刻を表す", (None, "At nine o'clock"), 'と、相手を誘う落ち着いた表現の', (None, 'let us open the door together'), 'に注目しましょう。']),
-    (2, None, ["'もしもし？こんばんは！中庭には誰も立っていませんよ！' 夜に出会ったときの挨拶は", (None, 'Good evening'), 'を使い、誰もいない様子を進行形で', (None, 'Nobody is standing'), 'と描写します。']),
+    (1, None, ["'夜の九時に？待って、一緒に門を開けよう。' ぴったりの時刻を表す", (None, "At nine o'clock"), 'と、相手を誘う落ち着いた表現の', (None, 'let us open the gate together'), 'に注目しましょう。']),
+    (2, None, ["'もしもし？こんばんは！門のところには誰も立っていませんよ！' 夜に出会ったときの挨拶は", (None, 'Good evening'), 'を使い、誰もいない様子を進行形で', (None, 'Nobody is standing'), 'と描写します。']),
     (3, None, ["'待って。足元の石段の上を見てごらん。' 視線を下に向けるときは動詞に副詞を添えて", (None, 'Look down on the stone step'), 'と具体的に場所を示します。']),
     (4, None, ["'もう一つの濃紺のスーツケース！これってミス・イヴリンの鞄ですか？' 追加のもう一つを表す", (None, 'Another dark blue suitcase'), 'と、人名の所有格を使った', (None, "Miss Evelyn's bag"), 'の組み合わせです。']),
     (5, None, ["'ファスナーを調べてみよう…ああ、まさにここに彼女のイニシャルがあるぞ！' 米国英語では鞄の留め具を", (None, 'Check the zipper'), 'と呼び、頭文字が複数なので', (None, 'her initials are right here'), 'と複数形で受けます。']),

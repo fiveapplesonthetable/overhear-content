@@ -3876,90 +3876,15 @@
     }
   ],
   "lexicon": {
-    "all": {
-      "lemma": "all",
-      "stress": "ɔl",
-      "pos": "det",
-      "gloss": "все, всё, весь",
-      "meanings": [
-        {
-          "en": "все, всё, весь",
-          "note": "Обозначает полноту группы или периода времени (all morning — «всё утро»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "All the windows are open.",
-          "trans": "Все окна открыты."
-        },
-        {
-          "text": "She worked all morning.",
-          "trans": "Она проработала всё утро."
-        }
-      ],
-      "related": []
-    },
-    "almost": {
-      "lemma": "almost",
-      "stress": "ˈɔlˌmoʊst",
-      "pos": "adv",
-      "gloss": "почти, чуть не",
-      "meanings": [
-        {
-          "en": "почти, чуть не",
-          "note": "Ставится перед словом, к которому относится: almost ready («почти готов»), almost forgot («чуть не забыл»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Dinner is almost ready.",
-          "trans": "Ужин почти готов."
-        },
-        {
-          "text": "I almost forgot my umbrella.",
-          "trans": "Я чуть не забыл зонтик."
-        }
-      ],
-      "related": []
-    },
-    "and": {
-      "lemma": "and",
-      "stress": "ænd",
-      "pos": "conj",
-      "gloss": "и, а",
-      "meanings": [
-        {
-          "en": "и, а",
-          "note": "Базовый соединительный союз для слов и частей предложения."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bring bread and butter, please.",
-          "trans": "Принесите, пожалуйста, хлеб и масло."
-        },
-        {
-          "text": "Wash your hands and sit down.",
-          "trans": "Вымойте руки и садитесь."
-        }
-      ],
-      "related": []
-    },
-    "be": {
-      "lemma": "be",
-      "stress": "bi",
+    "tuck": {
+      "lemma": "tuck",
+      "stress": "tʌk",
       "pos": "verb",
-      "gloss": "быть, находиться, являться",
+      "gloss": "подтыкать, заправлять (простыню или рубашку)",
       "meanings": [
         {
-          "en": "быть, находиться, являться",
-          "note": "В отличие от русского, в английском глагол-связка в настоящем времени (am, is, are) никогда не опускается."
+          "en": "подтыкать, заправлять (простыню или рубашку)",
+          "note": "Используется, когда аккуратно заправляют края простыни под матрас (tuck the sheet) или убирают письмо в карман."
         }
       ],
       "forms": {
@@ -3972,31 +3897,31 @@
           {
             "cells": [
               "base",
-              "be"
+              "tuck"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "is"
+              "tucks"
             ]
           },
           {
             "cells": [
               "past",
-              "was, were"
+              "tucked"
             ]
           },
           {
             "cells": [
               "past participle",
-              "been"
+              "tucked"
             ]
           },
           {
             "cells": [
               "-ing",
-              "being"
+              "tucking"
             ]
           }
         ]
@@ -4004,237 +3929,62 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "The keys are on the desk.",
-          "trans": "Ключи лежат на стойке."
+          "text": "Tuck that white sheet corner tight.",
+          "trans": "Туго подоткни этот белый уголок простыни."
         },
         {
-          "text": "She wants to be a teacher.",
-          "trans": "Она хочет стать учительницей."
+          "text": "He tucked the folded letter in his pocket.",
+          "trans": "Он спрятал сложенное письмо во внутренний карман."
         }
       ],
       "related": []
     },
-    "bed": {
-      "lemma": "bed",
-      "stress": "bɛd",
+    "that": {
+      "lemma": "that",
+      "stress": "ðæt",
+      "pos": "pron",
+      "gloss": "тот, та, то, этот; что (союз)",
+      "meanings": [
+        {
+          "en": "тот, та, то, этот; что (союз)",
+          "note": "Указывает на более удалённый предмет (That suitcase by the door), отсылает к только что сказанному (That sounds great!) или вводит придаточное."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "That blue suitcase by the door is Arthur's.",
+          "trans": "Тот синий чемодан у двери — Артура."
+        },
+        {
+          "text": "That sounds like a great plan!",
+          "trans": "Звучит как отличный план!"
+        }
+      ],
+      "related": []
+    },
+    "sheet": {
+      "lemma": "sheet",
+      "stress": "ʃit",
       "pos": "noun",
-      "gloss": "кровать, постель",
+      "gloss": "лист (бумаги); простыня",
       "meanings": [
         {
-          "en": "кровать, постель",
-          "note": "В устойчивых выражениях go to bed («ложиться спать») и in bed («в постели») артикль не ставится!"
+          "en": "лист (бумаги); простыня",
+          "note": "Произносится с долгим напряжённым гласным /i/ (/ʃit/); top sheet — верхний лист, cotton sheets — хлопковые простыни."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "The attic has a comfortable bed.",
-          "trans": "На мансарде удобная кровать."
+          "text": "Sign your name on the top sheet.",
+          "trans": "Напишите своё имя на верхнем листе."
         },
         {
-          "text": "Put clean sheets on the bed.",
-          "trans": "Застели кровать чистыми простынями."
-        }
-      ],
-      "related": []
-    },
-    "bell": {
-      "lemma": "bell",
-      "stress": "bɛl",
-      "pos": "noun",
-      "gloss": "звонок, колокольчик",
-      "meanings": [
-        {
-          "en": "звонок, колокольчик",
-          "note": "Обозначает и настольный колокольчик на стойке регистрации, и дверной звонок."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ring the bell at the front desk.",
-          "trans": "Позвоните в колокольчик на стойке регистрации."
-        },
-        {
-          "text": "Did you hear the gate bell?",
-          "trans": "Ты слышал звонок у ворот?"
-        }
-      ],
-      "related": []
-    },
-    "beside": {
-      "lemma": "beside",
-      "stress": "bɪˈsaɪd",
-      "pos": "prep",
-      "gloss": "рядом с, около",
-      "meanings": [
-        {
-          "en": "рядом с, около",
-          "note": "Указывает пространственную близость («сбоку от»); не путайте с besides («кроме того»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Put the spoon beside the cup.",
-          "trans": "Положите ложку рядом с чашкой."
-        },
-        {
-          "text": "Come sit beside the window.",
-          "trans": "Садитесь рядом с окном."
-        }
-      ],
-      "related": []
-    },
-    "blue": {
-      "lemma": "blue",
-      "stress": "blu",
-      "pos": "adj",
-      "gloss": "синий, голубой",
-      "meanings": [
-        {
-          "en": "синий, голубой",
-          "note": "В английском одно слово blue охватывает оба русских цвета — и «синий», и «голубой» (при необходимости уточняют: dark blue, light blue)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at that clear blue sky.",
-          "trans": "Посмотри на это ясное голубое небо."
-        },
-        {
-          "text": "My suitcase has a blue handle.",
-          "trans": "У моего чемодана синяя ручка."
-        }
-      ],
-      "related": []
-    },
-    "brass": {
-      "lemma": "brass",
-      "stress": "bɹæs",
-      "pos": "noun",
-      "gloss": "латунь; латунный",
-      "meanings": [
-        {
-          "en": "латунь; латунный",
-          "note": "Золотистый сплав меди и цинка; перед другим существительным переводится прилагательным: brass key — «латунный ключ»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Polish the brass handle on the door.",
-          "trans": "Натрите латунную ручку на двери."
-        },
-        {
-          "text": "Eight brass keys hang behind the desk.",
-          "trans": "За стойкой висят восемь латунных ключей."
-        }
-      ],
-      "related": []
-    },
-    "breakfast": {
-      "lemma": "breakfast",
-      "stress": "ˈbɹɛkfəst",
-      "pos": "noun",
-      "gloss": "завтрак",
-      "meanings": [
-        {
-          "en": "завтрак",
-          "note": "С предлогами обычно употребляется без артикля: for breakfast («на завтрак»), at breakfast («за завтраком»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast is ready at seven.",
-          "trans": "Завтрак готов в семь часов."
-        },
-        {
-          "text": "We had eggs and toast for breakfast.",
-          "trans": "На завтрак у нас были яйца и тосты."
-        }
-      ],
-      "related": []
-    },
-    "bye": {
-      "lemma": "bye",
-      "stress": "baɪ",
-      "pos": "interj",
-      "gloss": "пока, до встречи",
-      "meanings": [
-        {
-          "en": "пока, до встречи",
-          "note": "Разговорное дружелюбное прощание; Bye for now! — «Пока, до скорого!»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bye! Have a safe trip.",
-          "trans": "Пока! Счастливого пути."
-        },
-        {
-          "text": "She waved and said bye.",
-          "trans": "Она помахала рукой и сказала «пока»."
-        }
-      ],
-      "related": []
-    },
-    "calm": {
-      "lemma": "calm",
-      "stress": "kɑm",
-      "pos": "adj",
-      "gloss": "спокойный, тихий, невозмутимый",
-      "meanings": [
-        {
-          "en": "спокойный, тихий, невозмутимый",
-          "note": "Буква l полностью немая (/kɑm/); с глаголами восприятия употребляется прилагательное: sound calm, look calm."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Your voice sounds calm and clear.",
-          "trans": "Твой голос звучит спокойно и уверенно."
-        },
-        {
-          "text": "Try to look calm when he arrives.",
-          "trans": "Постарайся выглядеть спокойным, когда он придёт."
-        }
-      ],
-      "related": []
-    },
-    "change": {
-      "lemma": "change",
-      "stress": "tʃeɪndʒ",
-      "pos": "noun",
-      "gloss": "сдача, мелочь; перемена",
-      "meanings": [
-        {
-          "en": "сдача, мелочь; перемена",
-          "note": "При оплате наличными означает сдачу (Keep the change — «Сдачи не нужно»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Count your change before leaving the counter.",
-          "trans": "Пересчитайте сдачу, не отходя от стойки."
-        },
-        {
-          "text": "Here is five dollars in change.",
-          "trans": "Вот пять долларов сдачи."
+          "text": "Fresh cotton sheets dry fast in the breeze.",
+          "trans": "Свежие хлопковые простыни быстро сохнут на ветру."
         }
       ],
       "related": []
@@ -4264,466 +4014,52 @@
       ],
       "related": []
     },
-    "courtyard": {
-      "lemma": "courtyard",
-      "stress": "ˈkɔɹtˌjɑɹd",
-      "pos": "noun",
-      "gloss": "внутренний дворик",
-      "meanings": [
-        {
-          "en": "внутренний дворик",
-          "note": "Уютный мощёный двор, окружённый стенами здания или садовой оградой."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lanterns glow in the stone courtyard at dusk.",
-          "trans": "В сумерках в каменном дворике светятся фонари."
-        },
-        {
-          "text": "My window faces the quiet courtyard.",
-          "trans": "Моё окно выходит в тихий внутренний дворик."
-        }
-      ],
-      "related": []
-    },
-    "desk": {
-      "lemma": "desk",
-      "stress": "dɛsk",
-      "pos": "noun",
-      "gloss": "письменный стол; стойка регистрации (front desk)",
-      "meanings": [
-        {
-          "en": "письменный стол; стойка регистрации (front desk)",
-          "note": "В гостинице front desk всегда означает стойку приёма и регистрации гостей (ресепшен)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Leave your room key at the front desk.",
-          "trans": "Оставьте ключ от номера на стойке регистрации."
-        },
-        {
-          "text": "A brass bell sits on the wooden desk.",
-          "trans": "На деревянной стойке стоит латунный колокольчик."
-        }
-      ],
-      "related": []
-    },
-    "discount": {
-      "lemma": "discount",
-      "stress": "ˈdɪsˌkaʊnt",
-      "pos": "noun",
-      "gloss": "скидка",
-      "meanings": [
-        {
-          "en": "скидка",
-          "note": "Скидка в процентах выражается без предлога of: a ten percent discount («десятипроцентная скидка»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Offer him a generous room discount.",
-          "trans": "Предложи ему щедрую скидку на номер."
-        },
-        {
-          "text": "Students get a ten percent discount.",
-          "trans": "Студенты получают скидку десять процентов."
-        }
-      ],
-      "related": []
-    },
-    "do": {
-      "lemma": "do",
-      "stress": "du",
-      "pos": "verb",
-      "gloss": "делать; вспом. глагол вопросов и отрицаний",
-      "meanings": [
-        {
-          "en": "делать; вспом. глагол вопросов и отрицаний",
-          "note": "Как смысловой глагол означает «делать» (what should we do?), а в вопросах (Do you want...?) сам не переводится."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "do"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "does"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "did"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "done"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "doing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you want sugar in your coffee?",
-          "trans": "Хотите сахара в кофе?"
-        },
-        {
-          "text": "What should we do with this package?",
-          "trans": "Что нам делать с этой посылкой?"
-        }
-      ],
-      "related": []
-    },
-    "dot": {
-      "lemma": "dot",
-      "stress": "dɑt",
-      "pos": "noun",
-      "gloss": "точка; ровно, секунда в секунду (on the dot)",
-      "meanings": [
-        {
-          "en": "точка; ровно, секунда в секунду (on the dot)",
-          "note": "Разговорная идиома со временем at eight on the dot означает «ровно в восемь, минута в минуту»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "He arrived at eight on the dot.",
-          "trans": "Он приехал ровно в восемь."
-        },
-        {
-          "text": "Put a small dot on the map.",
-          "trans": "Поставь маленькую точку на карте."
-        }
-      ],
-      "related": []
-    },
-    "down": {
-      "lemma": "down",
-      "stress": "daʊn",
+    "tight": {
+      "lemma": "tight",
+      "stress": "taɪt",
       "pos": "adv",
-      "gloss": "вниз, внизу",
+      "gloss": "плотно, туго, крепко",
       "meanings": [
         {
-          "en": "вниз, внизу",
-          "note": "Входит во множество фразовых глаголов: sit down («сесть»), write down («записать»), calm down («успокоиться»)."
+          "en": "плотно, туго, крепко",
+          "note": "Буквы gh не произносятся (/taɪt/); после глаголов tuck tight, screw on tight работает как короткое разговорное наречие «туго, накрепко»."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Please sit down and rest a moment.",
-          "trans": "Пожалуйста, присядьте и немного отдохните."
+          "text": "Tuck that sheet corner tight.",
+          "trans": "Плотнее подоткни уголок простыни."
         },
         {
-          "text": "Write down the phone number before you forget.",
-          "trans": "Запишите номер телефона, пока не забыли."
+          "text": "Screw the brass cap on tight.",
+          "trans": "Закрути латунную крышку потуже."
         }
       ],
       "related": []
     },
-    "downstairs": {
-      "lemma": "downstairs",
-      "stress": "ˌdaʊnˈstɛɹz",
+    "here": {
+      "lemma": "here",
+      "stress": "hɪɹ",
       "pos": "adv",
-      "gloss": "внизу, на нижнем этаже; вниз по лестнице",
+      "gloss": "здесь, тут; сюда",
       "meanings": [
         {
-          "en": "внизу, на нижнем этаже; вниз по лестнице",
-          "note": "Наречие места и направления; употребляется без предлога (не *in downstairs*)."
+          "en": "здесь, тут; сюда",
+          "note": "В начале фразы Here is... / Here you are сопровождает передачу предмета: «Вот ваш ключ», «Пожалуйста, возьмите»."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Breakfast is served downstairs until ten.",
-          "trans": "Завтрак подают внизу до десяти часов."
+          "text": "Here is your brass key for room four.",
+          "trans": "Вот ваш латунный ключ от четвёртого номера."
         },
         {
-          "text": "I left my umbrella downstairs by the door.",
-          "trans": "Я оставил зонтик внизу у двери."
-        }
-      ],
-      "related": []
-    },
-    "eight": {
-      "lemma": "eight",
-      "stress": "eɪt",
-      "pos": "num",
-      "gloss": "восемь",
-      "meanings": [
-        {
-          "en": "восемь",
-          "note": "Буквы gh не читаются; слово звучит в точности как прошедшая форма глагола eat — ate (/eɪt/)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our guesthouse has eight quiet rooms.",
-          "trans": "В нашем гостевом доме восемь тихих номеров."
-        },
-        {
-          "text": "Breakfast starts at eight o'clock sharp.",
-          "trans": "Завтрак начинается ровно в восемь часов."
-        }
-      ],
-      "related": []
-    },
-    "explain": {
-      "lemma": "explain",
-      "stress": "ɪkˈspleɪn",
-      "pos": "verb",
-      "gloss": "объяснять",
-      "meanings": [
-        {
-          "en": "объяснять",
-          "note": "Частая ошибка — пропускать предлог to перед адресатом: правильно explain it to me (нельзя сказать explain me)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "explain"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "explains"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "explained"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "explained"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "explaining"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Hannah can explain it clearly.",
-          "trans": "Ханна может всё ясно объяснить."
-        },
-        {
-          "text": "Let me explain what happened.",
-          "trans": "Позвольте мне объяснить, что произошло."
-        }
-      ],
-      "related": []
-    },
-    "fit": {
-      "lemma": "fit",
-      "stress": "fɪt",
-      "pos": "verb",
-      "gloss": "подходить (к замку или по размеру); помещаться",
-      "meanings": [
-        {
-          "en": "подходить (к замку или по размеру); помещаться",
-          "note": "В американском английском прошедшая форма обычно совпадает с начальной: fit."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "fit"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "fits"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "fit"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "fit"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "fitting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Does this brass key fit room four?",
-          "trans": "Подходит ли этот латунный ключ к четвёртому номеру?"
-        },
-        {
-          "text": "All four cups fit neatly on the tray.",
-          "trans": "Все четыре чашки аккуратно помещаются на подносе."
-        }
-      ],
-      "related": []
-    },
-    "for": {
-      "lemma": "for",
-      "stress": "fɔɹ",
-      "pos": "prep",
-      "gloss": "для, за; на, в течение",
-      "meanings": [
-        {
-          "en": "для, за; на, в течение",
-          "note": "Обозначает адресата (for room two), назначение (for breakfast) и длительность отрезка времени (for an hour)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This package arrived for room two.",
-          "trans": "Эта посылка пришла для второго номера."
-        },
-        {
-          "text": "Wait here for just a moment.",
-          "trans": "Подождите здесь буквально минутку."
-        }
-      ],
-      "related": []
-    },
-    "free": {
-      "lemma": "free",
-      "stress": "fɹi",
-      "pos": "adj",
-      "gloss": "свободный, незанятый; бесплатный",
-      "meanings": [
-        {
-          "en": "свободный, незанятый; бесплатный",
-          "note": "Означает как «незанятый» (Is this table free?), так и «бесплатный» (Coffee is free for guests)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Is this garden table free?",
-          "trans": "Этот садовый столик свободен?"
-        },
-        {
-          "text": "Coffee and tea are free for all guests.",
-          "trans": "Кофе и чай для всех постояльцев бесплатны."
-        }
-      ],
-      "related": []
-    },
-    "gate": {
-      "lemma": "gate",
-      "stress": "ɡeɪt",
-      "pos": "noun",
-      "gloss": "ворота, калитка; выход на посадку",
-      "meanings": [
-        {
-          "en": "ворота, калитка; выход на посадку",
-          "note": "Садовая калитка или кованые ворота дворика, а на вокзале и в аэропорту — выход к платформе или самолёту."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Close the iron gate behind you.",
-          "trans": "Закройте за собой железную калитку."
-        },
-        {
-          "text": "Tessa waited by the courtyard gate.",
-          "trans": "Тесса ждала у ворот внутреннего дворика."
-        }
-      ],
-      "related": []
-    },
-    "generous": {
-      "lemma": "generous",
-      "stress": "ˈdʒɛnɚəs",
-      "pos": "adj",
-      "gloss": "щедрый; большой (о порции или скидке)",
-      "meanings": [
-        {
-          "en": "щедрый; большой (о порции или скидке)",
-          "note": "Вежливая формула благодарности: That is very generous of you! — «Это очень щедро с вашей стороны!»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Half price is very generous of you!",
-          "trans": "Полцены — это очень щедро с вашей стороны!"
-        },
-        {
-          "text": "She cut two generous slices of cake.",
-          "trans": "Она отрезала два больших куска кекса."
+          "text": "Sign your name right here, please.",
+          "trans": "Распишитесь прямо здесь, пожалуйста."
         }
       ],
       "related": []
@@ -4791,1076 +4127,77 @@
       ],
       "related": []
     },
-    "good": {
-      "lemma": "good",
-      "stress": "ɡʊd",
-      "pos": "adj",
-      "gloss": "хороший, добрый",
-      "meanings": [
-        {
-          "en": "хороший, добрый",
-          "note": "Неправильные степени сравнения: good — better — the best; входит в приветствия Good morning, Good evening."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "good"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "better"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "best"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Did you sleep well?",
-          "trans": "Доброе утро! Хорошо ли вам спалось?"
-        },
-        {
-          "text": "Fresh bread smells even better with butter.",
-          "trans": "Свежий хлеб с маслом пахнет ещё лучше."
-        }
-      ],
-      "related": []
-    },
-    "guest": {
-      "lemma": "guest",
-      "stress": "ɡɛst",
-      "pos": "noun",
-      "gloss": "гость, постоялец",
-      "meanings": [
-        {
-          "en": "гость, постоялец",
-          "note": "Буква u служит лишь для сохранения твёрдого /ɡ/ перед e (/ɡɛst/); означает и гостя дома, и постояльца отеля."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our new guest arrives at noon.",
-          "trans": "Наш новый постоялец приезжает в полдень."
-        },
-        {
-          "text": "Six guests joined us for breakfast.",
-          "trans": "К завтраку к нам присоединились шестеро гостей."
-        }
-      ],
-      "related": []
-    },
-    "half": {
-      "lemma": "half",
-      "stress": "hæf",
-      "pos": "noun",
-      "gloss": "половина, пол-",
-      "meanings": [
-        {
-          "en": "половина, пол-",
-          "note": "Буква l не произносится (/hæf/); мн. ч. — halves; «полчаса» — half an hour (артикль стоит после half)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "singular",
-              "half"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
-              "halves"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast will be ready in half an hour.",
-          "trans": "Завтрак будет готов через полчаса."
-        },
-        {
-          "text": "Take half of this warm roll.",
-          "trans": "Возьмите половинку этой тёплой булочки."
-        }
-      ],
-      "related": []
-    },
-    "hang": {
-      "lemma": "hang",
-      "stress": "hæŋ",
-      "pos": "verb",
-      "gloss": "вешать; висеть",
-      "meanings": [
-        {
-          "en": "вешать; висеть",
-          "note": "О предметах — неправильный глагол hang — hung — hung; в английском один глагол передаёт и «повесить», и «висеть»."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "hang"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "hangs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "hung"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "hung"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "hanging"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Hang your wet coat on the wooden hook.",
-          "trans": "Повесьте мокрое пальто на деревянный крючок."
-        },
-        {
-          "text": "Eight brass keys hung behind the desk.",
-          "trans": "За стойкой висели восемь латунных ключей."
-        }
-      ],
-      "related": []
-    },
-    "hear": {
-      "lemma": "hear",
-      "stress": "hɪɹ",
-      "pos": "verb",
-      "gloss": "слышать",
-      "meanings": [
-        {
-          "en": "слышать",
-          "note": "Неправильный глагол со сменой гласного в произношении: hear /hɪɹ/ — heard /hɝd/ — heard /hɝd/."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "hear"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "hears"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "heard"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "heard"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "hearing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Did you hear the front desk bell?",
-          "trans": "Вы слышали звонок на стойке регистрации?"
-        },
-        {
-          "text": "I heard footsteps on the stairs.",
-          "trans": "Я услышал шаги на лестнице."
-        }
-      ],
-      "related": []
-    },
-    "heart": {
-      "lemma": "heart",
-      "stress": "hɑɹt",
-      "pos": "noun",
-      "gloss": "сердце; душа (from the heart — от всего сердца)",
-      "meanings": [
-        {
-          "en": "сердце; душа (from the heart — от всего сердца)",
-          "note": "Гласные ear здесь читаются с открытым звуком /ɑɹ/ (/hɑɹt/) — не путайте со словом hurt /hɝt/ («болеть, ранить»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My heart is pounding with excitement!",
-          "trans": "У меня сердце колотится от волнения!"
-        },
-        {
-          "text": "She thanked us from the heart.",
-          "trans": "Она поблагодарила нас от всего сердца."
-        }
-      ],
-      "related": []
-    },
-    "here": {
-      "lemma": "here",
-      "stress": "hɪɹ",
-      "pos": "adv",
-      "gloss": "здесь, тут; сюда",
-      "meanings": [
-        {
-          "en": "здесь, тут; сюда",
-          "note": "В начале фразы Here is... / Here you are сопровождает передачу предмета: «Вот ваш ключ», «Пожалуйста, возьмите»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is your brass key for room four.",
-          "trans": "Вот ваш латунный ключ от четвёртого номера."
-        },
-        {
-          "text": "Sign your name right here, please.",
-          "trans": "Распишитесь прямо здесь, пожалуйста."
-        }
-      ],
-      "related": []
-    },
-    "him": {
-      "lemma": "him",
-      "stress": "hɪm",
-      "pos": "pron",
-      "gloss": "его, ему (о мужчине)",
-      "meanings": [
-        {
-          "en": "его, ему (о мужчине)",
-          "note": "Объектный падеж местоимения he после глаголов и предлогов (tell him, for him)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tell him breakfast is still warm.",
-          "trans": "Скажите ему, что завтрак ещё тёплый."
-        },
-        {
-          "text": "I saved a cinnamon roll for him.",
-          "trans": "Я отложила для него булочку с корицей."
-        }
-      ],
-      "related": []
-    },
-    "honest": {
-      "lemma": "honest",
-      "stress": "ˈɑnɪst",
-      "pos": "adj",
-      "gloss": "честный, искренний",
-      "meanings": [
-        {
-          "en": "честный, искренний",
-          "note": "Начальная буква h не произносится (/ˈɑnɪst/), поэтому перед словом ставится артикль an: an honest apology."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Keep your words simple and honest.",
-          "trans": "Пусть твои слова будут простыми и искренними."
-        },
-        {
-          "text": "Thank you for being honest with me.",
-          "trans": "Спасибо, что был честен со мной."
-        }
-      ],
-      "related": []
-    },
-    "honestly": {
-      "lemma": "honestly",
-      "stress": "ˈɑnɪstli",
-      "pos": "adv",
-      "gloss": "честно говоря, откровенно",
-      "meanings": [
-        {
-          "en": "честно говоря, откровенно",
-          "note": "Начальная буква h совершенно немая (/ˈɑnɪstli/)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Honestly, paper books never fail in a storm.",
-          "trans": "Честно говоря, бумажные книги никогда не подводят в грозу."
-        },
-        {
-          "text": "Tell me honestly if the tea is too strong.",
-          "trans": "Скажите честно, не слишком ли крепкий чай."
-        }
-      ],
-      "related": []
-    },
-    "how": {
-      "lemma": "how",
-      "stress": "haʊ",
-      "pos": "adv",
-      "gloss": "как; насколько (+ прил./нар.)",
-      "meanings": [
-        {
-          "en": "как; насколько (+ прил./нар.)",
-          "note": "Образует важнейшие вопросы: How are you? («Как дела?»), How much? («Сколько?»), How far? («Как далеко?»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "How do you take your coffee?",
-          "trans": "Как вы пьёте кофе — с чем?"
-        },
-        {
-          "text": "How nice to see you again!",
-          "trans": "Как приятно снова вас видеть!"
-        }
-      ],
-      "related": []
-    },
-    "i": {
-      "lemma": "i",
-      "stress": "aɪ",
-      "pos": "pron",
-      "gloss": "я",
-      "meanings": [
-        {
-          "en": "я",
-          "note": "Личное местоимение 1-го лица I в английском всегда пишется с заглавной буквы, даже в середине предложения."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I am Hannah, the new receptionist.",
-          "trans": "Я Ханна, новый администратор."
-        },
-        {
-          "text": "May I help you with your luggage?",
-          "trans": "Могу я помочь вам с багажом?"
-        }
-      ],
-      "related": []
-    },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "в, внутри; через (о времени)",
-      "meanings": [
-        {
-          "en": "в, внутри; через (о времени)",
-          "note": "С периодами времени в будущем переводится предлогом «через»: in three minutes — «через три минуты»!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait in the warm dining room.",
-          "trans": "Подождите в тёплой столовой."
-        },
-        {
-          "text": "Coffee will be ready in three minutes.",
-          "trans": "Кофе будет готов через три минуты."
-        }
-      ],
-      "related": []
-    },
-    "it": {
-      "lemma": "it",
-      "stress": "ɪt",
-      "pos": "pron",
-      "gloss": "он, она, оно (о предмете); безличное подлежащее",
-      "meanings": [
-        {
-          "en": "он, она, оно (о предмете); безличное подлежащее",
-          "note": "Заменяет любой неодушевлённый предмет в ед. ч. и обязательно стоит в безличных фразах о погоде (It is sunny — «Солнечно»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle, and it opens easily.",
-          "trans": "Поднимите ручку вверх, и дверь легко откроется."
-        },
-        {
-          "text": "It is sunny and warm this afternoon.",
-          "trans": "Сегодня днём солнечно и тепло."
-        }
-      ],
-      "related": []
-    },
-    "just": {
-      "lemma": "just",
-      "stress": "dʒʌst",
-      "pos": "adv",
-      "gloss": "просто, всего лишь; только что; как раз",
-      "meanings": [
-        {
-          "en": "просто, всего лишь; только что; как раз",
-          "note": "Смягчает просьбу (just one minute — «буквально одну минуту») или означает действие, произошедшее только что."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Give me just one minute, please.",
-          "trans": "Дайте мне всего одну минутку, пожалуйста."
-        },
-        {
-          "text": "The taxi just pulled up outside.",
-          "trans": "Такси только что подъехало к дому."
-        }
-      ],
-      "related": []
-    },
-    "lamp": {
-      "lemma": "lamp",
-      "stress": "læmp",
-      "pos": "noun",
-      "gloss": "лампа, светильник",
-      "meanings": [
-        {
-          "en": "лампа, светильник",
-          "note": "Настольная, напольная или настенная лампа (сама стеклянная лампочка внутри — bulb)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Plug in Graham's brass lamp.",
-          "trans": "Включи в розетку латунную лампу Грэма."
-        },
-        {
-          "text": "Each desk needs a warm reading lamp.",
-          "trans": "На каждом письменном столе нужна тёплая лампа для чтения."
-        }
-      ],
-      "related": []
-    },
-    "leave": {
-      "lemma": "leave",
-      "stress": "liv",
-      "pos": "verb",
-      "gloss": "оставлять; уезжать, отправляться",
-      "meanings": [
-        {
-          "en": "оставлять; уезжать, отправляться",
-          "note": "Неправильный глагол: leave — left — left; охватывает и «оставить багаж» (leave your bags), и «отправляться» (leaves at nine)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "leave"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "leaves"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "leaving"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You can leave your bags by the desk.",
-          "trans": "Вы можете оставить сумки у стойки."
-        },
-        {
-          "text": "Our bus leaves at nine fifteen.",
-          "trans": "Наш автобус отправляется в девять пятнадцать."
-        }
-      ],
-      "related": []
-    },
-    "let": {
-      "lemma": "let",
-      "stress": "lɛt",
-      "pos": "verb",
-      "gloss": "позволять; давай(те)",
-      "meanings": [
-        {
-          "en": "позволять; давай(те)",
-          "note": "Неправильный глагол (let — let — let); после дополнения глагол идёт без to: Let me help («Позвольте мне помочь»), Let us / Let's («Давайте»)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "let"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "lets"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "let"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "let"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "letting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me carry that tray for you.",
-          "trans": "Давайте я понесу этот поднос за вас."
-        },
-        {
-          "text": "Let us look at the guest book together.",
-          "trans": "Давайте вместе заглянем в гостевую книгу."
-        }
-      ],
-      "related": []
-    },
-    "light": {
-      "lemma": "light",
-      "stress": "laɪt",
-      "pos": "adj",
-      "gloss": "лёгкий (по весу); светлый; свет",
-      "meanings": [
-        {
-          "en": "лёгкий (по весу); светлый; свет",
-          "note": "Буквы gh не читаются (/laɪt/); объединяет два русских слова-омонима в истории языка: «лёгкий» (антоним heavy) и «свет»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This bag is surprisingly light!",
-          "trans": "Эта сумка на удивление лёгкая!"
-        },
-        {
-          "text": "Morning light filled the courtyard.",
-          "trans": "Утренний свет наполнил внутренний дворик."
-        }
-      ],
-      "related": []
-    },
-    "look": {
-      "lemma": "look",
-      "stress": "lʊk",
-      "pos": "verb",
-      "gloss": "смотреть; выглядеть (+ прил.)",
-      "meanings": [
-        {
-          "en": "смотреть; выглядеть (+ прил.)",
-          "note": "Меняет значение от предлога: look at — «смотреть на», look for — «искать»; без предлога перед прилагательным — «выглядеть» (look delicious)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "look"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "looks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "looked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "looked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "looking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at the brass tag on the handle.",
-          "trans": "Посмотрите на латунную бирку на ручке."
-        },
-        {
-          "text": "Those cinnamon rolls look delicious!",
-          "trans": "Эти булочки с корицей выглядят аппетитно!"
-        }
-      ],
-      "related": []
-    },
-    "me": {
-      "lemma": "me",
-      "stress": "mi",
-      "pos": "pron",
-      "gloss": "мне, меня, мной",
-      "meanings": [
-        {
-          "en": "мне, меня, мной",
-          "note": "Объектная форма местоимения I после любых глаголов и предлогов (tell me, for me, excuse me)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Excuse me, where is the dining room?",
-          "trans": "Извините, где находится столовая?"
-        },
-        {
-          "text": "Save a cup of coffee for me.",
-          "trans": "Оставьте для меня чашечку кофе."
-        }
-      ],
-      "related": []
-    },
-    "mirror": {
-      "lemma": "mirror",
-      "stress": "ˈmɪɹɚ",
-      "pos": "noun",
-      "gloss": "зеркало",
-      "meanings": [
-        {
-          "en": "зеркало",
-          "note": "В американском произношении звучит мягко с двумя ротическими звуками (/ˈmɪɹɚ/)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A brass mirror hangs in the hallway.",
-          "trans": "В прихожей висит зеркало в латунной раме."
-        },
-        {
-          "text": "He checked his tie in the hall mirror.",
-          "trans": "Он поправил галстук перед зеркалом в холле."
-        }
-      ],
-      "related": []
-    },
-    "my": {
-      "lemma": "my",
-      "stress": "maɪ",
+    "the": {
+      "lemma": "the",
+      "stress": "ðə",
       "pos": "det",
-      "gloss": "мой, моя, моё, мои (перед существительным)",
+      "gloss": "определённый артикль (этот или тот самый)",
       "meanings": [
         {
-          "en": "мой, моя, моё, мои (перед существительным)",
-          "note": "Не изменяется ни по родам, ни по числам: my key («мой ключ»), my glasses («мои очки»)."
+          "en": "определённый артикль (этот или тот самый)",
+          "note": "В русском артиклей нет; the ставится, когда собеседникам понятно, о каком именно предмете идёт речь (the handle — ручка этой двери, the desk — наша стойка)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Today is my first morning at the desk.",
-          "trans": "Сегодня моё первое утро за стойкой регистрации."
+          "text": "Lift the handle on the front door.",
+          "trans": "Поднимите ручку на входной двери."
         },
         {
-          "text": "Where did I put my reading glasses?",
-          "trans": "Куда же я положил свои очки для чтения?"
+          "text": "All the keys hang behind the desk.",
+          "trans": "Все ключи висят за стойкой."
         }
       ],
       "related": []
     },
-    "myself": {
-      "lemma": "myself",
-      "stress": "maɪˈsɛlf",
-      "pos": "pron",
-      "gloss": "я сам, сама; себе, себя",
+    "two": {
+      "lemma": "two",
+      "stress": "tu",
+      "pos": "num",
+      "gloss": "два, две",
       "meanings": [
         {
-          "en": "я сам, сама; себе, себя",
-          "note": "В конце предложения усиливает подлежащее I: «я и сам почти хочу...»; не используйте myself вместо простого me."
+          "en": "два, две",
+          "note": "Буква w совершенно немая: слово произносится /tu/ — точно так же, как предлог to и наречие too."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "I almost want to stay up here myself!",
-          "trans": "Мне уже почти самой хочется здесь поселиться!"
+          "text": "Two identical blue suitcases stood by the door.",
+          "trans": "У двери стояли два одинаковых синих чемодана."
         },
         {
-          "text": "I poured myself a cup of hot tea.",
-          "trans": "Я налил себе чашку горячего чая."
+          "text": "Two coffees with warm milk, please.",
+          "trans": "Два кофе с тёплым молоком, пожалуйста."
         }
       ],
       "related": []
     },
-    "now": {
-      "lemma": "now",
-      "stress": "naʊ",
-      "pos": "adv",
-      "gloss": "сейчас, теперь",
+    "soft": {
+      "lemma": "soft",
+      "stress": "sɔft",
+      "pos": "adj",
+      "gloss": "мягкий, нежный; тихий, приглушённый",
       "meanings": [
         {
-          "en": "сейчас, теперь",
-          "note": "Сочетание right now подчёркивает немедленность: «прямо сейчас, сию минуту»."
+          "en": "мягкий, нежный; тихий, приглушённый",
+          "note": "О шерсти и выпечке — «мягкий», а о свете, голосе или музыке — «мягкий, тихий, негромкий»."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Room four is clean and ready now.",
-          "trans": "Четвёртый номер уже убран и готов."
+          "text": "This gray wool sweater is very soft.",
+          "trans": "Этот серый шерстяной свитер очень мягкий."
         },
         {
-          "text": "What should we do right now?",
-          "trans": "Что нам делать прямо сейчас?"
-        }
-      ],
-      "related": []
-    },
-    "o'clock": {
-      "lemma": "o'clock",
-      "stress": "əˈklɑk",
-      "pos": "adv",
-      "gloss": "ровно ... часов (о времени на часах)",
-      "meanings": [
-        {
-          "en": "ровно ... часов (о времени на часах)",
-          "note": "Ставится только после целого часа от 1 до 12 (eight o'clock — «восемь часов»); при указании минут опускается."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast begins at eight o'clock.",
-          "trans": "Завтрак начинается в восемь часов."
-        },
-        {
-          "text": "The quiet bell chimed twelve o'clock.",
-          "trans": "Тихие часы пробили двенадцать."
-        }
-      ],
-      "related": []
-    },
-    "of": {
-      "lemma": "of",
-      "stress": "ʌv",
-      "pos": "prep",
-      "gloss": "предлог родительного падежа и принадлежности",
-      "meanings": [
-        {
-          "en": "предлог родительного падежа и принадлежности",
-          "note": "Единственное слово английского, где конечная буква f читается звонко как /v/ (/ʌv/); передаёт русский родительный падеж (a cup of coffee — «чашка кофе»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Would you like a cup of coffee?",
-          "trans": "Не хотите ли чашечку кофе?"
-        },
-        {
-          "text": "Of course! Right this way.",
-          "trans": "Конечно! Прошу сюда."
-        }
-      ],
-      "related": []
-    },
-    "offer": {
-      "lemma": "offer",
-      "stress": "ˈɔfɚ",
-      "pos": "verb",
-      "gloss": "предлагать; предложение",
-      "meanings": [
-        {
-          "en": "предлагать; предложение",
-          "note": "Позволяет ставить адресата сразу после глагола без предлога to: offer him a discount («предложить ему скидку»)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "offer"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "offers"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "offered"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "offered"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "offering"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "What discount should we offer him?",
-          "trans": "Какую скидку нам ему предложить?"
-        },
-        {
-          "text": "Tessa offered everyone warm tea.",
-          "trans": "Тесса предложила всем горячего чаю."
-        }
-      ],
-      "related": []
-    },
-    "oh": {
-      "lemma": "oh",
-      "stress": "oʊ",
-      "pos": "interj",
-      "gloss": "о, ах, надо же",
-      "meanings": [
-        {
-          "en": "о, ах, надо же",
-          "note": "Передаёт мягкое удивление, внезапную догадку (Oh, it opens! — «Ой, открылась!») или спохватывание."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh, it opens! Thank you so much.",
-          "trans": "О, она открывается! Большое вам спасибо."
-        },
-        {
-          "text": "Oh, I nearly forgot my scarf!",
-          "trans": "Ох, я чуть не забыла свой шарф!"
-        }
-      ],
-      "related": []
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɑn",
-      "pos": "prep",
-      "gloss": "на (поверхности); в (+ день недели)",
-      "meanings": [
-        {
-          "en": "на (поверхности); в (+ день недели)",
-          "note": "Обозначает контакт с поверхностью (on the desk) и употребляется со всеми днями недели и датами: on Friday, on Fridays («по пятницам»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Your key is on the wooden desk.",
-          "trans": "Ваш ключ лежит на деревянной стойке."
-        },
-        {
-          "text": "Tessa bakes apple rolls on Fridays.",
-          "trans": "По пятницам Тесса печёт яблочные булочки."
-        }
-      ],
-      "related": []
-    },
-    "or": {
-      "lemma": "or",
-      "stress": "ɔɹ",
-      "pos": "conj",
-      "gloss": "или",
-      "meanings": [
-        {
-          "en": "или",
-          "note": "Соединяет варианты выбора в вопросах и утверждениях."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Would you like coffee or tea?",
-          "trans": "Желаете кофе или чай?"
-        },
-        {
-          "text": "Call me today or tomorrow morning.",
-          "trans": "Позвоните мне сегодня или завтра утром."
-        }
-      ],
-      "related": []
-    },
-    "our": {
-      "lemma": "our",
-      "stress": "ˈaʊɚ",
-      "pos": "det",
-      "gloss": "наш, наша, наше, наши",
-      "meanings": [
-        {
-          "en": "наш, наша, наше, наши",
-          "note": "Единая форма притяжательного определителя перед любыми существительными (самостоятельная форма без существительного — ours)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Welcome to our courtyard guesthouse.",
-          "trans": "Добро пожаловать в наш гостевой дом с двориком."
-        },
-        {
-          "text": "All our bread comes from Tessa's oven.",
-          "trans": "Весь наш хлеб — прямо из печи Тессы."
+          "text": "Soft morning light entered the room.",
+          "trans": "Комнату наполнил мягкий утренний свет."
         }
       ],
       "related": []
@@ -5890,15 +4227,15 @@
       ],
       "related": []
     },
-    "plug": {
-      "lemma": "plug",
-      "stress": "plʌɡ",
+    "do": {
+      "lemma": "do",
+      "stress": "du",
       "pos": "verb",
-      "gloss": "включать в розетку (plug in); вилка, пробка",
+      "gloss": "делать; вспом. глагол вопросов и отрицаний",
       "meanings": [
         {
-          "en": "включать в розетку (plug in); вилка, пробка",
-          "note": "Для электроприборов всегда используется с частицей in (plug in the lamp); в прошедшем времени g удваивается — plugged."
+          "en": "делать; вспом. глагол вопросов и отрицаний",
+          "note": "Как смысловой глагол означает «делать» (what should we do?), а в вопросах (Do you want...?) сам не переводится."
         }
       ],
       "forms": {
@@ -5911,31 +4248,31 @@
           {
             "cells": [
               "base",
-              "plug"
+              "do"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "plugs"
+              "does"
             ]
           },
           {
             "cells": [
               "past",
-              "plugged"
+              "did"
             ]
           },
           {
             "cells": [
               "past participle",
-              "plugged"
+              "done"
             ]
           },
           {
             "cells": [
               "-ing",
-              "plugging"
+              "doing"
             ]
           }
         ]
@@ -5943,100 +4280,150 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Plug in the brass desk lamp.",
-          "trans": "Включи настольную латунную лампу в розетку."
+          "text": "Do you want sugar in your coffee?",
+          "trans": "Хотите сахара в кофе?"
         },
         {
-          "text": "Is the coffee maker plugged in?",
-          "trans": "Кофеварка включена в сеть?"
+          "text": "What should we do with this package?",
+          "trans": "Что нам делать с этой посылкой?"
         }
       ],
       "related": []
     },
-    "pound": {
-      "lemma": "pound",
-      "stress": "paʊnd",
-      "pos": "verb",
-      "gloss": "сильно колотиться (о сердце); стучать, барабанить",
+    "and": {
+      "lemma": "and",
+      "stress": "ænd",
+      "pos": "conj",
+      "gloss": "и, а",
       "meanings": [
         {
-          "en": "сильно колотиться (о сердце); стучать, барабанить",
-          "note": "Образно передаёт гулкое сердцебиение от волнения (My heart was pounding) или шум ливня по ставням."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "pound"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "pounds"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "pounded"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "pounded"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "pounding"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My heart was pounding before noon!",
-          "trans": "До полудня сердце у меня бешено колотилось!"
-        },
-        {
-          "text": "Rain pounded against the shutters.",
-          "trans": "Дождь барабанил по ставням."
-        }
-      ],
-      "related": []
-    },
-    "price": {
-      "lemma": "price",
-      "stress": "pɹaɪs",
-      "pos": "noun",
-      "gloss": "цена, стоимость",
-      "meanings": [
-        {
-          "en": "цена, стоимость",
-          "note": "Разговорное half price («за полцены») после глагола be употребляется без предлога at."
+          "en": "и, а",
+          "note": "Базовый соединительный союз для слов и частей предложения."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Tonight your room is half price.",
-          "trans": "Сегодня вечером ваш номер за полцены."
+          "text": "Bring bread and butter, please.",
+          "trans": "Принесите, пожалуйста, хлеб и масло."
         },
         {
-          "text": "What is the price of two valves?",
-          "trans": "Какова цена двух вентилей?"
+          "text": "Wash your hands and sit down.",
+          "trans": "Вымойте руки и садитесь."
+        }
+      ],
+      "related": []
+    },
+    "blue": {
+      "lemma": "blue",
+      "stress": "blu",
+      "pos": "adj",
+      "gloss": "синий, голубой",
+      "meanings": [
+        {
+          "en": "синий, голубой",
+          "note": "В английском одно слово blue охватывает оба русских цвета — и «синий», и «голубой» (при необходимости уточняют: dark blue, light blue)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at that clear blue sky.",
+          "trans": "Посмотри на это ясное голубое небо."
+        },
+        {
+          "text": "My suitcase has a blue handle.",
+          "trans": "У моего чемодана синяя ручка."
+        }
+      ],
+      "related": []
+    },
+    "rug": {
+      "lemma": "rug",
+      "stress": "ɹʌɡ",
+      "pos": "noun",
+      "gloss": "коврик, небольшой ковёр",
+      "meanings": [
+        {
+          "en": "коврик, небольшой ковёр",
+          "note": "В США rug — отдельный тканый коврик у кровати или в гостиной, тогда как ковролин от стены до стены называют carpet."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lay the woven blue rug beside the bed.",
+          "trans": "Постели плетёный синий коврик у кровати."
+        },
+        {
+          "text": "A soft rug warms the bare floor.",
+          "trans": "Мягкий коврик согревает голый пол."
+        }
+      ],
+      "related": []
+    },
+    "fit": {
+      "lemma": "fit",
+      "stress": "fɪt",
+      "pos": "verb",
+      "gloss": "подходить (к замку или по размеру); помещаться",
+      "meanings": [
+        {
+          "en": "подходить (к замку или по размеру); помещаться",
+          "note": "В американском английском прошедшая форма обычно совпадает с начальной: fit."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "fit"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "fits"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "fit"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "fit"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "fitting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Does this brass key fit room four?",
+          "trans": "Подходит ли этот латунный ключ к четвёртому номеру?"
+        },
+        {
+          "text": "All four cups fit neatly on the tray.",
+          "trans": "Все четыре чашки аккуратно помещаются на подносе."
         }
       ],
       "related": []
@@ -6066,77 +4453,77 @@
       ],
       "related": []
     },
-    "room": {
-      "lemma": "room",
-      "stress": "ɹum",
-      "pos": "noun",
-      "gloss": "комната, гостиничный номер; свободное место",
+    "beside": {
+      "lemma": "beside",
+      "stress": "bɪˈsaɪd",
+      "pos": "prep",
+      "gloss": "рядом с, около",
       "meanings": [
         {
-          "en": "комната, гостиничный номер; свободное место",
-          "note": "Как «номер в отеле» — исчисляемое (Room four — без артикля перед цифрой!); как «пространство, место» — неисчисляемое (plenty of room)."
+          "en": "рядом с, около",
+          "note": "Указывает пространственную близость («сбоку от»); не путайте с besides («кроме того»)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Room four overlooks the sunny courtyard.",
-          "trans": "Окна четвёртого номера выходят на солнечный дворик."
+          "text": "Put the spoon beside the cup.",
+          "trans": "Положите ложку рядом с чашкой."
         },
         {
-          "text": "All eight rooms are clean and ready.",
-          "trans": "Все восемь номеров убраны и готовы к заезду."
+          "text": "Come sit beside the window.",
+          "trans": "Садитесь рядом с окном."
         }
       ],
       "related": []
     },
-    "round": {
-      "lemma": "round",
-      "stress": "ɹaʊnd",
-      "pos": "adj",
-      "gloss": "круглый",
+    "bed": {
+      "lemma": "bed",
+      "stress": "bɛd",
+      "pos": "noun",
+      "gloss": "кровать, постель",
       "meanings": [
         {
-          "en": "круглый",
-          "note": "Описывает круглую форму столешницы или зеркала (round table, round mirror)."
+          "en": "кровать, постель",
+          "note": "В устойчивых выражениях go to bed («ложиться спать») и in bed («в постели») артикль не ставится!"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Where should we hang this round mirror?",
-          "trans": "Куда нам повесить это круглое зеркало?"
+          "text": "The attic has a comfortable bed.",
+          "trans": "На мансарде удобная кровать."
         },
         {
-          "text": "Four friends sat at a round table.",
-          "trans": "Четверо друзей сидели за круглым столом."
+          "text": "Put clean sheets on the bed.",
+          "trans": "Застели кровать чистыми простынями."
         }
       ],
       "related": []
     },
-    "rug": {
-      "lemma": "rug",
-      "stress": "ɹʌɡ",
-      "pos": "noun",
-      "gloss": "коврик, небольшой ковёр",
+    "where": {
+      "lemma": "where",
+      "stress": "wɛɹ",
+      "pos": "adv",
+      "gloss": "где; куда",
       "meanings": [
         {
-          "en": "коврик, небольшой ковёр",
-          "note": "В США rug — отдельный тканый коврик у кровати или в гостиной, тогда как ковролин от стены до стены называют carpet."
+          "en": "где; куда",
+          "note": "Одно слово передаёт оба русских вопроса — и местонахождение («где?» — Where is...?), и направление («куда?»); рифмуется с air (/wɛɹ/)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Lay the woven blue rug beside the bed.",
-          "trans": "Постели плетёный синий коврик у кровати."
+          "text": "Where is the computer?",
+          "trans": "А где же компьютер?"
         },
         {
-          "text": "A soft rug warms the bare floor.",
-          "trans": "Мягкий коврик согревает голый пол."
+          "text": "Where would you like to sit?",
+          "trans": "Куда бы вы хотели сесть?"
         }
       ],
       "related": []
@@ -6204,228 +4591,90 @@
       ],
       "related": []
     },
-    "sheet": {
-      "lemma": "sheet",
-      "stress": "ʃit",
-      "pos": "noun",
-      "gloss": "лист (бумаги); простыня",
-      "meanings": [
-        {
-          "en": "лист (бумаги); простыня",
-          "note": "Произносится с долгим напряжённым гласным /i/ (/ʃit/); top sheet — верхний лист, cotton sheets — хлопковые простыни."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Sign your name on the top sheet.",
-          "trans": "Напишите своё имя на верхнем листе."
-        },
-        {
-          "text": "Fresh cotton sheets dry fast in the breeze.",
-          "trans": "Свежие хлопковые простыни быстро сохнут на ветру."
-        }
-      ],
-      "related": []
-    },
-    "sleep": {
-      "lemma": "sleep",
-      "stress": "slip",
-      "pos": "verb",
-      "gloss": "спать",
-      "meanings": [
-        {
-          "en": "спать",
-          "note": "Неправильный глагол: sleep — slept — slept; утренний вопрос гостям — Did you sleep well? («Хорошо ли вы спали?»)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "sleep"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "sleeps"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "slept"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "slept"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "sleeping"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Did you sleep well?",
-          "trans": "Доброе утро! Хорошо ли вам спалось?"
-        },
-        {
-          "text": "Everyone sleeps soundly after sea air.",
-          "trans": "После морского воздуха всем спится крепко."
-        }
-      ],
-      "related": []
-    },
-    "soft": {
-      "lemma": "soft",
-      "stress": "sɔft",
-      "pos": "adj",
-      "gloss": "мягкий, нежный; тихий, приглушённый",
-      "meanings": [
-        {
-          "en": "мягкий, нежный; тихий, приглушённый",
-          "note": "О шерсти и выпечке — «мягкий», а о свете, голосе или музыке — «мягкий, тихий, негромкий»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This gray wool sweater is very soft.",
-          "trans": "Этот серый шерстяной свитер очень мягкий."
-        },
-        {
-          "text": "Soft morning light entered the room.",
-          "trans": "Комнату наполнил мягкий утренний свет."
-        }
-      ],
-      "related": []
-    },
-    "sound": {
-      "lemma": "sound",
-      "stress": "saʊnd",
-      "pos": "verb",
-      "gloss": "звучать, казаться на слух; звук",
-      "meanings": [
-        {
-          "en": "звучать, казаться на слух; звук",
-          "note": "После глагола sound ставится прилагательное: That sounds wonderful! («Звучит чудесно!» — частая реакция на хорошую идею)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "sound"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "sounds"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "sounded"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "sounded"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "sounding"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Hot tea and apple bread? That sounds wonderful!",
-          "trans": "Горячий чай и яблочный хлеб? Звучит замечательно!"
-        },
-        {
-          "text": "Her voice sounded calm on the phone.",
-          "trans": "По телефону её голос звучал спокойно."
-        }
-      ],
-      "related": []
-    },
-    "that": {
-      "lemma": "that",
-      "stress": "ðæt",
+    "i": {
+      "lemma": "i",
+      "stress": "aɪ",
       "pos": "pron",
-      "gloss": "тот, та, то, этот; что (союз)",
+      "gloss": "я",
       "meanings": [
         {
-          "en": "тот, та, то, этот; что (союз)",
-          "note": "Указывает на более удалённый предмет (That suitcase by the door), отсылает к только что сказанному (That sounds great!) или вводит придаточное."
+          "en": "я",
+          "note": "Личное местоимение 1-го лица I в английском всегда пишется с заглавной буквы, даже в середине предложения."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "That blue suitcase by the door is Arthur's.",
-          "trans": "Тот синий чемодан у двери — Артура."
+          "text": "I am Hannah, the new receptionist.",
+          "trans": "Я Ханна, новый администратор."
         },
         {
-          "text": "That sounds like a great plan!",
-          "trans": "Звучит как отличный план!"
+          "text": "May I help you with your luggage?",
+          "trans": "Могу я помочь вам с багажом?"
         }
       ],
       "related": []
     },
-    "the": {
-      "lemma": "the",
-      "stress": "ðə",
-      "pos": "det",
-      "gloss": "определённый артикль (этот или тот самый)",
+    "hang": {
+      "lemma": "hang",
+      "stress": "hæŋ",
+      "pos": "verb",
+      "gloss": "вешать; висеть",
       "meanings": [
         {
-          "en": "определённый артикль (этот или тот самый)",
-          "note": "В русском артиклей нет; the ставится, когда собеседникам понятно, о каком именно предмете идёт речь (the handle — ручка этой двери, the desk — наша стойка)."
+          "en": "вешать; висеть",
+          "note": "О предметах — неправильный глагол hang — hung — hung; в английском один глагол передаёт и «повесить», и «висеть»."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "hang"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "hangs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "hung"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "hung"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "hanging"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Lift the handle on the front door.",
-          "trans": "Поднимите ручку на входной двери."
+          "text": "Hang your wet coat on the wooden hook.",
+          "trans": "Повесьте мокрое пальто на деревянный крючок."
         },
         {
-          "text": "All the keys hang behind the desk.",
-          "trans": "Все ключи висят за стойкой."
+          "text": "Eight brass keys hung behind the desk.",
+          "trans": "За стойкой висели восемь латунных ключей."
         }
       ],
       "related": []
@@ -6455,90 +4704,253 @@
       ],
       "related": []
     },
-    "tight": {
-      "lemma": "tight",
-      "stress": "taɪt",
-      "pos": "adv",
-      "gloss": "плотно, туго, крепко",
+    "round": {
+      "lemma": "round",
+      "stress": "ɹaʊnd",
+      "pos": "adj",
+      "gloss": "круглый",
       "meanings": [
         {
-          "en": "плотно, туго, крепко",
-          "note": "Буквы gh не произносятся (/taɪt/); после глаголов tuck tight, screw on tight работает как короткое разговорное наречие «туго, накрепко»."
+          "en": "круглый",
+          "note": "Описывает круглую форму столешницы или зеркала (round table, round mirror)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Tuck that sheet corner tight.",
-          "trans": "Плотнее подоткни уголок простыни."
+          "text": "Where should we hang this round mirror?",
+          "trans": "Куда нам повесить это круглое зеркало?"
         },
         {
-          "text": "Screw the brass cap on tight.",
-          "trans": "Закрути латунную крышку потуже."
+          "text": "Four friends sat at a round table.",
+          "trans": "Четверо друзей сидели за круглым столом."
         }
       ],
       "related": []
     },
-    "to": {
-      "lemma": "to",
-      "stress": "tu",
+    "mirror": {
+      "lemma": "mirror",
+      "stress": "ˈmɪɹɚ",
+      "pos": "noun",
+      "gloss": "зеркало",
+      "meanings": [
+        {
+          "en": "зеркало",
+          "note": "В американском произношении звучит мягко с двумя ротическими звуками (/ˈmɪɹɚ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A brass mirror hangs in the hallway.",
+          "trans": "В прихожей висит зеркало в латунной раме."
+        },
+        {
+          "text": "He checked his tie in the hall mirror.",
+          "trans": "Он поправил галстук перед зеркалом в холле."
+        }
+      ],
+      "related": []
+    },
+    "leave": {
+      "lemma": "leave",
+      "stress": "liv",
+      "pos": "verb",
+      "gloss": "оставлять; уезжать, отправляться",
+      "meanings": [
+        {
+          "en": "оставлять; уезжать, отправляться",
+          "note": "Неправильный глагол: leave — left — left; охватывает и «оставить багаж» (leave your bags), и «отправляться» (leaves at nine)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "leave"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "leaves"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "left"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "left"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "leaving"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You can leave your bags by the desk.",
+          "trans": "Вы можете оставить сумки у стойки."
+        },
+        {
+          "text": "Our bus leaves at nine fifteen.",
+          "trans": "Наш автобус отправляется в девять пятнадцать."
+        }
+      ],
+      "related": []
+    },
+    "of": {
+      "lemma": "of",
+      "stress": "ʌv",
       "pos": "prep",
-      "gloss": "к, в, до (направление); частица инфинитива",
+      "gloss": "предлог родительного падежа и принадлежности",
       "meanings": [
         {
-          "en": "к, в, до (направление); частица инфинитива",
-          "note": "Указывает направление движения (Welcome to..., walk to the harbor) и ставится перед начальной формой глагола (need to know)."
+          "en": "предлог родительного падежа и принадлежности",
+          "note": "Единственное слово английского, где конечная буква f читается звонко как /v/ (/ʌv/); передаёт русский родительный падеж (a cup of coffee — «чашка кофе»)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Welcome to Linden Courtyard Inn!",
-          "trans": "Добро пожаловать в гостиницу «Линден Кортьярд Инн»!"
+          "text": "Would you like a cup of coffee?",
+          "trans": "Не хотите ли чашечку кофе?"
         },
         {
-          "text": "Tell me everything I need to know.",
-          "trans": "Расскажите мне всё, что мне нужно знать."
+          "text": "Of course! Right this way.",
+          "trans": "Конечно! Прошу сюда."
         }
       ],
       "related": []
     },
-    "tonight": {
-      "lemma": "tonight",
-      "stress": "təˈnaɪt",
-      "pos": "adv",
-      "gloss": "сегодня вечером, этой ночью",
+    "window": {
+      "lemma": "window",
+      "stress": "ˈwɪndoʊ",
+      "pos": "noun",
+      "gloss": "окно; оконный",
       "meanings": [
         {
-          "en": "сегодня вечером, этой ночью",
-          "note": "По-русски мы говорим из двух слов «сегодня вечером», а по-английски — одним словом tonight (говорить *today evening* нельзя!)."
+          "en": "окно; оконный",
+          "note": "By the window — любимое место гостей «у окна»."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "All eight rooms are full tonight.",
-          "trans": "Сегодня вечером заняты все восемь номеров."
+          "text": "Sit at the sunny table by the window.",
+          "trans": "Садитесь за солнечный столик у окна."
         },
         {
-          "text": "Sleep well tonight!",
-          "trans": "Приятных снов сегодня ночью!"
+          "text": "Open the window to hear the harbor gulls.",
+          "trans": "Откройте окно, чтобы услышать чаек над гаванью."
         }
       ],
       "related": []
     },
-    "tuck": {
-      "lemma": "tuck",
-      "stress": "tʌk",
+    "or": {
+      "lemma": "or",
+      "stress": "ɔɹ",
+      "pos": "conj",
+      "gloss": "или",
+      "meanings": [
+        {
+          "en": "или",
+          "note": "Соединяет варианты выбора в вопросах и утверждениях."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Would you like coffee or tea?",
+          "trans": "Желаете кофе или чай?"
+        },
+        {
+          "text": "Call me today or tomorrow morning.",
+          "trans": "Позвоните мне сегодня или завтра утром."
+        }
+      ],
+      "related": []
+    },
+    "desk": {
+      "lemma": "desk",
+      "stress": "dɛsk",
+      "pos": "noun",
+      "gloss": "письменный стол; стойка регистрации (front desk)",
+      "meanings": [
+        {
+          "en": "письменный стол; стойка регистрации (front desk)",
+          "note": "В гостинице front desk всегда означает стойку приёма и регистрации гостей (ресепшен)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Leave your room key at the front desk.",
+          "trans": "Оставьте ключ от номера на стойке регистрации."
+        },
+        {
+          "text": "A brass bell sits on the wooden desk.",
+          "trans": "На деревянной стойке стоит латунный колокольчик."
+        }
+      ],
+      "related": []
+    },
+    "light": {
+      "lemma": "light",
+      "stress": "laɪt",
+      "pos": "adj",
+      "gloss": "лёгкий (по весу); светлый; свет",
+      "meanings": [
+        {
+          "en": "лёгкий (по весу); светлый; свет",
+          "note": "Буквы gh не читаются (/laɪt/); объединяет два русских слова-омонима в истории языка: «лёгкий» (антоним heavy) и «свет»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This bag is surprisingly light!",
+          "trans": "Эта сумка на удивление лёгкая!"
+        },
+        {
+          "text": "Morning light filled the courtyard.",
+          "trans": "Утренний свет наполнил внутренний дворик."
+        }
+      ],
+      "related": []
+    },
+    "be": {
+      "lemma": "be",
+      "stress": "bi",
       "pos": "verb",
-      "gloss": "подтыкать, заправлять (простыню или рубашку)",
+      "gloss": "быть, находиться, являться",
       "meanings": [
         {
-          "en": "подтыкать, заправлять (простыню или рубашку)",
-          "note": "Используется, когда аккуратно заправляют края простыни под матрас (tuck the sheet) или убирают письмо в карман."
+          "en": "быть, находиться, являться",
+          "note": "В отличие от русского, в английском глагол-связка в настоящем времени (am, is, are) никогда не опускается."
         }
       ],
       "forms": {
@@ -6551,31 +4963,31 @@
           {
             "cells": [
               "base",
-              "tuck"
+              "be"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "tucks"
+              "is"
             ]
           },
           {
             "cells": [
               "past",
-              "tucked"
+              "was, were"
             ]
           },
           {
             "cells": [
               "past participle",
-              "tucked"
+              "been"
             ]
           },
           {
             "cells": [
               "-ing",
-              "tucking"
+              "being"
             ]
           }
         ]
@@ -6583,100 +4995,76 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Tuck that white sheet corner tight.",
-          "trans": "Туго подоткни этот белый уголок простыни."
+          "text": "The keys are on the desk.",
+          "trans": "Ключи лежат на стойке."
         },
         {
-          "text": "He tucked the folded letter in his pocket.",
-          "trans": "Он спрятал сложенное письмо во внутренний карман."
+          "text": "She wants to be a teacher.",
+          "trans": "Она хочет стать учительницей."
         }
       ],
       "related": []
     },
-    "two": {
-      "lemma": "two",
-      "stress": "tu",
-      "pos": "num",
-      "gloss": "два, две",
+    "good": {
+      "lemma": "good",
+      "stress": "ɡʊd",
+      "pos": "adj",
+      "gloss": "хороший, добрый",
       "meanings": [
         {
-          "en": "два, две",
-          "note": "Буква w совершенно немая: слово произносится /tu/ — точно так же, как предлог to и наречие too."
+          "en": "хороший, добрый",
+          "note": "Неправильные степени сравнения: good — better — the best; входит в приветствия Good morning, Good evening."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "good"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "better"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "best"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Two identical blue suitcases stood by the door.",
-          "trans": "У двери стояли два одинаковых синих чемодана."
+          "text": "Good morning! Did you sleep well?",
+          "trans": "Доброе утро! Хорошо ли вам спалось?"
         },
         {
-          "text": "Two coffees with warm milk, please.",
-          "trans": "Два кофе с тёплым молоком, пожалуйста."
+          "text": "Fresh bread smells even better with butter.",
+          "trans": "Свежий хлеб с маслом пахнет ещё лучше."
         }
       ],
       "related": []
     },
-    "up": {
-      "lemma": "up",
-      "stress": "ʌp",
-      "pos": "adv",
-      "gloss": "вверх, наверх",
-      "meanings": [
-        {
-          "en": "вверх, наверх",
-          "note": "Образует частые фразовые глаголы: pick up («поднять, забрать»), look up («посмотреть вверх»), wake up («проснуться»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pick up the brass key from the tray.",
-          "trans": "Возьмите латунный ключ с подноса."
-        },
-        {
-          "text": "Look up at the painted wooden sign.",
-          "trans": "Посмотрите вверх на расписную деревянную вывеску."
-        }
-      ],
-      "related": []
-    },
-    "us": {
-      "lemma": "us",
-      "stress": "ʌs",
-      "pos": "pron",
-      "gloss": "нам, нас, нами",
-      "meanings": [
-        {
-          "en": "нам, нас, нами",
-          "note": "Объектный падеж местоимения we; в разговорной речи Let us стягивается в Let's («Давайте»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Join us for hot tea in the parlor!",
-          "trans": "Присоединяйтесь к нам на горячий чай в гостиной!"
-        },
-        {
-          "text": "Tessa brought fresh rolls for all of us.",
-          "trans": "Тесса принесла свежие булочки для всех нас."
-        }
-      ],
-      "related": []
-    },
-    "wait": {
-      "lemma": "wait",
-      "stress": "weɪt",
+    "plug": {
+      "lemma": "plug",
+      "stress": "plʌɡ",
       "pos": "verb",
-      "gloss": "ждать, подождать",
+      "gloss": "включать в розетку (plug in); вилка, пробка",
       "meanings": [
         {
-          "en": "ждать, подождать",
-          "note": "По-русски «ждать такси» без предлога, а по-английски перед объектом ожидания ОБЯЗАТЕЛЕН предлог for: wait for the taxi!"
+          "en": "включать в розетку (plug in); вилка, пробка",
+          "note": "Для электроприборов всегда используется с частицей in (plug in the lamp); в прошедшем времени g удваивается — plugged."
         }
       ],
       "forms": {
@@ -6689,31 +5077,31 @@
           {
             "cells": [
               "base",
-              "wait"
+              "plug"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "waits"
+              "plugs"
             ]
           },
           {
             "cells": [
               "past",
-              "waited"
+              "plugged"
             ]
           },
           {
             "cells": [
               "past participle",
-              "waited"
+              "plugged"
             ]
           },
           {
             "cells": [
               "-ing",
-              "waiting"
+              "plugging"
             ]
           }
         ]
@@ -6721,12 +5109,300 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Wait right here while I grab the key.",
-          "trans": "Подождите прямо здесь, пока я возьму ключ."
+          "text": "Plug in the brass desk lamp.",
+          "trans": "Включи настольную латунную лампу в розетку."
         },
         {
-          "text": "Caleb waited for the yellow taxi at the curb.",
-          "trans": "Калеб ждал жёлтое такси у тротуара."
+          "text": "Is the coffee maker plugged in?",
+          "trans": "Кофеварка включена в сеть?"
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "в, внутри; через (о времени)",
+      "meanings": [
+        {
+          "en": "в, внутри; через (о времени)",
+          "note": "С периодами времени в будущем переводится предлогом «через»: in three minutes — «через три минуты»!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait in the warm dining room.",
+          "trans": "Подождите в тёплой столовой."
+        },
+        {
+          "text": "Coffee will be ready in three minutes.",
+          "trans": "Кофе будет готов через три минуты."
+        }
+      ],
+      "related": []
+    },
+    "brass": {
+      "lemma": "brass",
+      "stress": "bɹæs",
+      "pos": "noun",
+      "gloss": "латунь; латунный",
+      "meanings": [
+        {
+          "en": "латунь; латунный",
+          "note": "Золотистый сплав меди и цинка; перед другим существительным переводится прилагательным: brass key — «латунный ключ»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Polish the brass handle on the door.",
+          "trans": "Натрите латунную ручку на двери."
+        },
+        {
+          "text": "Eight brass keys hang behind the desk.",
+          "trans": "За стойкой висят восемь латунных ключей."
+        }
+      ],
+      "related": []
+    },
+    "lamp": {
+      "lemma": "lamp",
+      "stress": "læmp",
+      "pos": "noun",
+      "gloss": "лампа, светильник",
+      "meanings": [
+        {
+          "en": "лампа, светильник",
+          "note": "Настольная, напольная или настенная лампа (сама стеклянная лампочка внутри — bulb)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Plug in Graham's brass lamp.",
+          "trans": "Включи в розетку латунную лампу Грэма."
+        },
+        {
+          "text": "Each desk needs a warm reading lamp.",
+          "trans": "На каждом письменном столе нужна тёплая лампа для чтения."
+        }
+      ],
+      "related": []
+    },
+    "oh": {
+      "lemma": "oh",
+      "stress": "oʊ",
+      "pos": "interj",
+      "gloss": "о, ах, надо же",
+      "meanings": [
+        {
+          "en": "о, ах, надо же",
+          "note": "Передаёт мягкое удивление, внезапную догадку (Oh, it opens! — «Ой, открылась!») или спохватывание."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh, it opens! Thank you so much.",
+          "trans": "О, она открывается! Большое вам спасибо."
+        },
+        {
+          "text": "Oh, I nearly forgot my scarf!",
+          "trans": "Ох, я чуть не забыла свой шарф!"
+        }
+      ],
+      "related": []
+    },
+    "look": {
+      "lemma": "look",
+      "stress": "lʊk",
+      "pos": "verb",
+      "gloss": "смотреть; выглядеть (+ прил.)",
+      "meanings": [
+        {
+          "en": "смотреть; выглядеть (+ прил.)",
+          "note": "Меняет значение от предлога: look at — «смотреть на», look for — «искать»; без предлога перед прилагательным — «выглядеть» (look delicious)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "look"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "looks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "looked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "looked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "looking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at the brass tag on the handle.",
+          "trans": "Посмотрите на латунную бирку на ручке."
+        },
+        {
+          "text": "Those cinnamon rolls look delicious!",
+          "trans": "Эти булочки с корицей выглядят аппетитно!"
+        }
+      ],
+      "related": []
+    },
+    "how": {
+      "lemma": "how",
+      "stress": "haʊ",
+      "pos": "adv",
+      "gloss": "как; насколько (+ прил./нар.)",
+      "meanings": [
+        {
+          "en": "как; насколько (+ прил./нар.)",
+          "note": "Образует важнейшие вопросы: How are you? («Как дела?»), How much? («Сколько?»), How far? («Как далеко?»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How do you take your coffee?",
+          "trans": "Как вы пьёте кофе — с чем?"
+        },
+        {
+          "text": "How nice to see you again!",
+          "trans": "Как приятно снова вас видеть!"
+        }
+      ],
+      "related": []
+    },
+    "warm": {
+      "lemma": "warm",
+      "stress": "wɔɹm",
+      "pos": "adj",
+      "gloss": "тёплый; радушный, сердечный",
+      "meanings": [
+        {
+          "en": "тёплый; радушный, сердечный",
+          "note": "Буква a после w читается как /ɔ/ (/wɔɹm/); означает и приятное тепло хлеба или чая, и сердечность приёма (a warm welcome)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa brought a basket of warm bread.",
+          "trans": "Тесса принесла корзинку тёплого хлеба."
+        },
+        {
+          "text": "Thank you for such a warm welcome!",
+          "trans": "Спасибо за такой тёплый приём!"
+        }
+      ],
+      "related": []
+    },
+    "yellow": {
+      "lemma": "yellow",
+      "stress": "ˈjɛloʊ",
+      "pos": "adj",
+      "gloss": "жёлтый",
+      "meanings": [
+        {
+          "en": "жёлтый",
+          "note": "В Нью-Йорке и многих американских городах классические городские такси выкрашены в ярко-жёлтый цвет (yellow taxi)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A yellow taxi stopped outside the gate.",
+          "trans": "У ворот остановилось жёлтое такси."
+        },
+        {
+          "text": "Six yellow lemons sat in the basket.",
+          "trans": "В корзинке лежало шесть жёлтых лимонов."
+        }
+      ],
+      "related": []
+    },
+    "honestly": {
+      "lemma": "honestly",
+      "stress": "ˈɑnɪstli",
+      "pos": "adv",
+      "gloss": "честно говоря, откровенно",
+      "meanings": [
+        {
+          "en": "честно говоря, откровенно",
+          "note": "Начальная буква h совершенно немая (/ˈɑnɪstli/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Honestly, paper books never fail in a storm.",
+          "trans": "Честно говоря, бумажные книги никогда не подводят в грозу."
+        },
+        {
+          "text": "Tell me honestly if the tea is too strong.",
+          "trans": "Скажите честно, не слишком ли крепкий чай."
+        }
+      ],
+      "related": []
+    },
+    "almost": {
+      "lemma": "almost",
+      "stress": "ˈɔlˌmoʊst",
+      "pos": "adv",
+      "gloss": "почти, чуть не",
+      "meanings": [
+        {
+          "en": "почти, чуть не",
+          "note": "Ставится перед словом, к которому относится: almost ready («почти готов»), almost forgot («чуть не забыл»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Dinner is almost ready.",
+          "trans": "Ужин почти готов."
+        },
+        {
+          "text": "I almost forgot my umbrella.",
+          "trans": "Я чуть не забыл зонтик."
         }
       ],
       "related": []
@@ -6794,90 +5470,15 @@
       ],
       "related": []
     },
-    "warm": {
-      "lemma": "warm",
-      "stress": "wɔɹm",
-      "pos": "adj",
-      "gloss": "тёплый; радушный, сердечный",
+    "to": {
+      "lemma": "to",
+      "stress": "tu",
+      "pos": "prep",
+      "gloss": "к, в, до (направление); частица инфинитива",
       "meanings": [
         {
-          "en": "тёплый; радушный, сердечный",
-          "note": "Буква a после w читается как /ɔ/ (/wɔɹm/); означает и приятное тепло хлеба или чая, и сердечность приёма (a warm welcome)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tessa brought a basket of warm bread.",
-          "trans": "Тесса принесла корзинку тёплого хлеба."
-        },
-        {
-          "text": "Thank you for such a warm welcome!",
-          "trans": "Спасибо за такой тёплый приём!"
-        }
-      ],
-      "related": []
-    },
-    "we": {
-      "lemma": "we",
-      "stress": "wi",
-      "pos": "pron",
-      "gloss": "мы",
-      "meanings": [
-        {
-          "en": "мы",
-          "note": "Личное местоимение 1-го лица мн. ч. в роли подлежащего."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use a paper book and a pencil.",
-          "trans": "Здесь мы пользуемся бумажной книгой и карандашом."
-        },
-        {
-          "text": "We solved the suitcase mix-up together!",
-          "trans": "Мы вместе распутали историю с чемоданами!"
-        }
-      ],
-      "related": []
-    },
-    "week": {
-      "lemma": "week",
-      "stress": "wik",
-      "pos": "noun",
-      "gloss": "неделя",
-      "meanings": [
-        {
-          "en": "неделя",
-          "note": "Произносится /wik/ (полный омофон слова weak — «слабый»); all week — «всю неделю»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Evelyn is staying with us all week.",
-          "trans": "Эвелин гостит у нас всю неделю."
-        },
-        {
-          "text": "Have a wonderful week!",
-          "trans": "Чудесной вам недели!"
-        }
-      ],
-      "related": []
-    },
-    "welcome": {
-      "lemma": "welcome",
-      "stress": "ˈwɛlkəm",
-      "pos": "interj",
-      "gloss": "добро пожаловать!; пожалуйста, не за что (You're welcome)",
-      "meanings": [
-        {
-          "en": "добро пожаловать!; пожалуйста, не за что (You're welcome)",
-          "note": "Две важнейшие роли: Welcome to...! («Добро пожаловать в...!») и ответ на благодарность You are welcome! («Пожалуйста! Не за что!»)."
+          "en": "к, в, до (направление); частица инфинитива",
+          "note": "Указывает направление движения (Welcome to..., walk to the harbor) и ставится перед начальной формой глагола (need to know)."
         }
       ],
       "forms": null,
@@ -6888,8 +5489,209 @@
           "trans": "Добро пожаловать в гостиницу «Линден Кортьярд Инн»!"
         },
         {
-          "text": "You are very welcome! Enjoy your tea.",
-          "trans": "Всегда пожалуйста! Приятного чаепития."
+          "text": "Tell me everything I need to know.",
+          "trans": "Расскажите мне всё, что мне нужно знать."
+        }
+      ],
+      "related": []
+    },
+    "sleep": {
+      "lemma": "sleep",
+      "stress": "slip",
+      "pos": "verb",
+      "gloss": "спать",
+      "meanings": [
+        {
+          "en": "спать",
+          "note": "Неправильный глагол: sleep — slept — slept; утренний вопрос гостям — Did you sleep well? («Хорошо ли вы спали?»)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sleep"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sleeps"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "slept"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "slept"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "sleeping"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Good morning! Did you sleep well?",
+          "trans": "Доброе утро! Хорошо ли вам спалось?"
+        },
+        {
+          "text": "Everyone sleeps soundly after sea air.",
+          "trans": "После морского воздуха всем спится крепко."
+        }
+      ],
+      "related": []
+    },
+    "up": {
+      "lemma": "up",
+      "stress": "ʌp",
+      "pos": "adv",
+      "gloss": "вверх, наверх",
+      "meanings": [
+        {
+          "en": "вверх, наверх",
+          "note": "Образует частые фразовые глаголы: pick up («поднять, забрать»), look up («посмотреть вверх»), wake up («проснуться»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pick up the brass key from the tray.",
+          "trans": "Возьмите латунный ключ с подноса."
+        },
+        {
+          "text": "Look up at the painted wooden sign.",
+          "trans": "Посмотрите вверх на расписную деревянную вывеску."
+        }
+      ],
+      "related": []
+    },
+    "myself": {
+      "lemma": "myself",
+      "stress": "maɪˈsɛlf",
+      "pos": "pron",
+      "gloss": "я сам, сама; себе, себя",
+      "meanings": [
+        {
+          "en": "я сам, сама; себе, себя",
+          "note": "В конце предложения усиливает подлежащее I: «я и сам почти хочу...»; не используйте myself вместо простого me."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I almost want to stay up here myself!",
+          "trans": "Мне уже почти самой хочется здесь поселиться!"
+        },
+        {
+          "text": "I poured myself a cup of hot tea.",
+          "trans": "Я налил себе чашку горячего чая."
+        }
+      ],
+      "related": []
+    },
+    "tonight": {
+      "lemma": "tonight",
+      "stress": "təˈnaɪt",
+      "pos": "adv",
+      "gloss": "сегодня вечером, этой ночью",
+      "meanings": [
+        {
+          "en": "сегодня вечером, этой ночью",
+          "note": "По-русски мы говорим из двух слов «сегодня вечером», а по-английски — одним словом tonight (говорить *today evening* нельзя!)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "All eight rooms are full tonight.",
+          "trans": "Сегодня вечером заняты все восемь номеров."
+        },
+        {
+          "text": "Sleep well tonight!",
+          "trans": "Приятных снов сегодня ночью!"
+        }
+      ],
+      "related": []
+    },
+    "wait": {
+      "lemma": "wait",
+      "stress": "weɪt",
+      "pos": "verb",
+      "gloss": "ждать, подождать",
+      "meanings": [
+        {
+          "en": "ждать, подождать",
+          "note": "По-русски «ждать такси» без предлога, а по-английски перед объектом ожидания ОБЯЗАТЕЛЕН предлог for: wait for the taxi!"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "wait"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "waits"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "waited"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "waited"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "waiting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait right here while I grab the key.",
+          "trans": "Подождите прямо здесь, пока я возьму ключ."
+        },
+        {
+          "text": "Caleb waited for the yellow taxi at the curb.",
+          "trans": "Калеб ждал жёлтое такси у тротуара."
         }
       ],
       "related": []
@@ -6919,77 +5721,410 @@
       ],
       "related": []
     },
-    "where": {
-      "lemma": "where",
-      "stress": "wɛɹ",
-      "pos": "adv",
-      "gloss": "где; куда",
-      "meanings": [
-        {
-          "en": "где; куда",
-          "note": "Одно слово передаёт оба русских вопроса — и местонахождение («где?» — Where is...?), и направление («куда?»); рифмуется с air (/wɛɹ/)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Where is the computer?",
-          "trans": "А где же компьютер?"
-        },
-        {
-          "text": "Where would you like to sit?",
-          "trans": "Куда бы вы хотели сесть?"
-        }
-      ],
-      "related": []
-    },
-    "window": {
-      "lemma": "window",
-      "stress": "ˈwɪndoʊ",
+    "discount": {
+      "lemma": "discount",
+      "stress": "ˈdɪsˌkaʊnt",
       "pos": "noun",
-      "gloss": "окно; оконный",
+      "gloss": "скидка",
       "meanings": [
         {
-          "en": "окно; оконный",
-          "note": "By the window — любимое место гостей «у окна»."
+          "en": "скидка",
+          "note": "Скидка в процентах выражается без предлога of: a ten percent discount («десятипроцентная скидка»)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Sit at the sunny table by the window.",
-          "trans": "Садитесь за солнечный столик у окна."
+          "text": "Offer him a generous room discount.",
+          "trans": "Предложи ему щедрую скидку на номер."
         },
         {
-          "text": "Open the window to hear the harbor gulls.",
-          "trans": "Откройте окно, чтобы услышать чаек над гаванью."
+          "text": "Students get a ten percent discount.",
+          "trans": "Студенты получают скидку десять процентов."
         }
       ],
       "related": []
     },
-    "yellow": {
-      "lemma": "yellow",
-      "stress": "ˈjɛloʊ",
-      "pos": "adj",
-      "gloss": "жёлтый",
+    "we": {
+      "lemma": "we",
+      "stress": "wi",
+      "pos": "pron",
+      "gloss": "мы",
       "meanings": [
         {
-          "en": "жёлтый",
-          "note": "В Нью-Йорке и многих американских городах классические городские такси выкрашены в ярко-жёлтый цвет (yellow taxi)."
+          "en": "мы",
+          "note": "Личное местоимение 1-го лица мн. ч. в роли подлежащего."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "A yellow taxi stopped outside the gate.",
-          "trans": "У ворот остановилось жёлтое такси."
+          "text": "Here we use a paper book and a pencil.",
+          "trans": "Здесь мы пользуемся бумажной книгой и карандашом."
         },
         {
-          "text": "Six yellow lemons sat in the basket.",
-          "trans": "В корзинке лежало шесть жёлтых лимонов."
+          "text": "We solved the suitcase mix-up together!",
+          "trans": "Мы вместе распутали историю с чемоданами!"
+        }
+      ],
+      "related": []
+    },
+    "offer": {
+      "lemma": "offer",
+      "stress": "ˈɔfɚ",
+      "pos": "verb",
+      "gloss": "предлагать; предложение",
+      "meanings": [
+        {
+          "en": "предлагать; предложение",
+          "note": "Позволяет ставить адресата сразу после глагола без предлога to: offer him a discount («предложить ему скидку»)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "offer"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "offers"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "offered"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "offered"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "offering"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "What discount should we offer him?",
+          "trans": "Какую скидку нам ему предложить?"
+        },
+        {
+          "text": "Tessa offered everyone warm tea.",
+          "trans": "Тесса предложила всем горячего чаю."
+        }
+      ],
+      "related": []
+    },
+    "him": {
+      "lemma": "him",
+      "stress": "hɪm",
+      "pos": "pron",
+      "gloss": "его, ему (о мужчине)",
+      "meanings": [
+        {
+          "en": "его, ему (о мужчине)",
+          "note": "Объектный падеж местоимения he после глаголов и предлогов (tell him, for him)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell him breakfast is still warm.",
+          "trans": "Скажите ему, что завтрак ещё тёплый."
+        },
+        {
+          "text": "I saved a cinnamon roll for him.",
+          "trans": "Я отложила для него булочку с корицей."
+        }
+      ],
+      "related": []
+    },
+    "for": {
+      "lemma": "for",
+      "stress": "fɔɹ",
+      "pos": "prep",
+      "gloss": "для, за; на, в течение",
+      "meanings": [
+        {
+          "en": "для, за; на, в течение",
+          "note": "Обозначает адресата (for room two), назначение (for breakfast) и длительность отрезка времени (for an hour)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This package arrived for room two.",
+          "trans": "Эта посылка пришла для второго номера."
+        },
+        {
+          "text": "Wait here for just a moment.",
+          "trans": "Подождите здесь буквально минутку."
+        }
+      ],
+      "related": []
+    },
+    "change": {
+      "lemma": "change",
+      "stress": "tʃeɪndʒ",
+      "pos": "noun",
+      "gloss": "сдача, мелочь; перемена",
+      "meanings": [
+        {
+          "en": "сдача, мелочь; перемена",
+          "note": "При оплате наличными означает сдачу (Keep the change — «Сдачи не нужно»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Count your change before leaving the counter.",
+          "trans": "Пересчитайте сдачу, не отходя от стойки."
+        },
+        {
+          "text": "Here is five dollars in change.",
+          "trans": "Вот пять долларов сдачи."
+        }
+      ],
+      "related": []
+    },
+    "room": {
+      "lemma": "room",
+      "stress": "ɹum",
+      "pos": "noun",
+      "gloss": "комната, гостиничный номер; свободное место",
+      "meanings": [
+        {
+          "en": "комната, гостиничный номер; свободное место",
+          "note": "Как «номер в отеле» — исчисляемое (Room four — без артикля перед цифрой!); как «пространство, место» — неисчисляемое (plenty of room)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four overlooks the sunny courtyard.",
+          "trans": "Окна четвёртого номера выходят на солнечный дворик."
+        },
+        {
+          "text": "All eight rooms are clean and ready.",
+          "trans": "Все восемь номеров убраны и готовы к заезду."
+        }
+      ],
+      "related": []
+    },
+    "half": {
+      "lemma": "half",
+      "stress": "hæf",
+      "pos": "noun",
+      "gloss": "половина, пол-",
+      "meanings": [
+        {
+          "en": "половина, пол-",
+          "note": "Буква l не произносится (/hæf/); мн. ч. — halves; «полчаса» — half an hour (артикль стоит после half)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "half"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "halves"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast will be ready in half an hour.",
+          "trans": "Завтрак будет готов через полчаса."
+        },
+        {
+          "text": "Take half of this warm roll.",
+          "trans": "Возьмите половинку этой тёплой булочки."
+        }
+      ],
+      "related": []
+    },
+    "price": {
+      "lemma": "price",
+      "stress": "pɹaɪs",
+      "pos": "noun",
+      "gloss": "цена, стоимость",
+      "meanings": [
+        {
+          "en": "цена, стоимость",
+          "note": "Разговорное half price («за полцены») после глагола be употребляется без предлога at."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tonight your room is half price.",
+          "trans": "Сегодня вечером ваш номер за полцены."
+        },
+        {
+          "text": "What is the price of two valves?",
+          "trans": "Какова цена двух вентилей?"
+        }
+      ],
+      "related": []
+    },
+    "free": {
+      "lemma": "free",
+      "stress": "fɹi",
+      "pos": "adj",
+      "gloss": "свободный, незанятый; бесплатный",
+      "meanings": [
+        {
+          "en": "свободный, незанятый; бесплатный",
+          "note": "Означает как «незанятый» (Is this table free?), так и «бесплатный» (Coffee is free for guests)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Is this garden table free?",
+          "trans": "Этот садовый столик свободен?"
+        },
+        {
+          "text": "Coffee and tea are free for all guests.",
+          "trans": "Кофе и чай для всех постояльцев бесплатны."
+        }
+      ],
+      "related": []
+    },
+    "breakfast": {
+      "lemma": "breakfast",
+      "stress": "ˈbɹɛkfəst",
+      "pos": "noun",
+      "gloss": "завтрак",
+      "meanings": [
+        {
+          "en": "завтрак",
+          "note": "С предлогами обычно употребляется без артикля: for breakfast («на завтрак»), at breakfast («за завтраком»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast is ready at seven.",
+          "trans": "Завтрак готов в семь часов."
+        },
+        {
+          "text": "We had eggs and toast for breakfast.",
+          "trans": "На завтрак у нас были яйца и тосты."
+        }
+      ],
+      "related": []
+    },
+    "all": {
+      "lemma": "all",
+      "stress": "ɔl",
+      "pos": "det",
+      "gloss": "все, всё, весь",
+      "meanings": [
+        {
+          "en": "все, всё, весь",
+          "note": "Обозначает полноту группы или периода времени (all morning — «всё утро»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "All the windows are open.",
+          "trans": "Все окна открыты."
+        },
+        {
+          "text": "She worked all morning.",
+          "trans": "Она проработала всё утро."
+        }
+      ],
+      "related": []
+    },
+    "week": {
+      "lemma": "week",
+      "stress": "wik",
+      "pos": "noun",
+      "gloss": "неделя",
+      "meanings": [
+        {
+          "en": "неделя",
+          "note": "Произносится /wik/ (полный омофон слова weak — «слабый»); all week — «всю неделю»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Evelyn is staying with us all week.",
+          "trans": "Эвелин гостит у нас всю неделю."
+        },
+        {
+          "text": "Have a wonderful week!",
+          "trans": "Чудесной вам недели!"
+        }
+      ],
+      "related": []
+    },
+    "generous": {
+      "lemma": "generous",
+      "stress": "ˈdʒɛnɚəs",
+      "pos": "adj",
+      "gloss": "щедрый; большой (о порции или скидке)",
+      "meanings": [
+        {
+          "en": "щедрый; большой (о порции или скидке)",
+          "note": "Вежливая формула благодарности: That is very generous of you! — «Это очень щедро с вашей стороны!»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Half price is very generous of you!",
+          "trans": "Полцены — это очень щедро с вашей стороны!"
+        },
+        {
+          "text": "She cut two generous slices of cake.",
+          "trans": "Она отрезала два больших куска кекса."
         }
       ],
       "related": []
@@ -7015,6 +6150,871 @@
         {
           "text": "Thank you! See you next time!",
           "trans": "Спасибо вам! До следующей встречи!"
+        }
+      ],
+      "related": []
+    },
+    "just": {
+      "lemma": "just",
+      "stress": "dʒʌst",
+      "pos": "adv",
+      "gloss": "просто, всего лишь; только что; как раз",
+      "meanings": [
+        {
+          "en": "просто, всего лишь; только что; как раз",
+          "note": "Смягчает просьбу (just one minute — «буквально одну минуту») или означает действие, произошедшее только что."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Give me just one minute, please.",
+          "trans": "Дайте мне всего одну минутку, пожалуйста."
+        },
+        {
+          "text": "The taxi just pulled up outside.",
+          "trans": "Такси только что подъехало к дому."
+        }
+      ],
+      "related": []
+    },
+    "hear": {
+      "lemma": "hear",
+      "stress": "hɪɹ",
+      "pos": "verb",
+      "gloss": "слышать",
+      "meanings": [
+        {
+          "en": "слышать",
+          "note": "Неправильный глагол со сменой гласного в произношении: hear /hɪɹ/ — heard /hɝd/ — heard /hɝd/."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "hear"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "hears"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "heard"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "heard"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "hearing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did you hear the front desk bell?",
+          "trans": "Вы слышали звонок на стойке регистрации?"
+        },
+        {
+          "text": "I heard footsteps on the stairs.",
+          "trans": "Я услышал шаги на лестнице."
+        }
+      ],
+      "related": []
+    },
+    "courtyard": {
+      "lemma": "courtyard",
+      "stress": "ˈkɔɹtˌjɑɹd",
+      "pos": "noun",
+      "gloss": "внутренний дворик",
+      "meanings": [
+        {
+          "en": "внутренний дворик",
+          "note": "Уютный мощёный двор, окружённый стенами здания или садовой оградой."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lanterns glow in the stone courtyard at dusk.",
+          "trans": "В сумерках в каменном дворике светятся фонари."
+        },
+        {
+          "text": "My window faces the quiet courtyard.",
+          "trans": "Моё окно выходит в тихий внутренний дворик."
+        }
+      ],
+      "related": []
+    },
+    "gate": {
+      "lemma": "gate",
+      "stress": "ɡeɪt",
+      "pos": "noun",
+      "gloss": "ворота, калитка; выход на посадку",
+      "meanings": [
+        {
+          "en": "ворота, калитка; выход на посадку",
+          "note": "Садовая калитка или кованые ворота дворика, а на вокзале и в аэропорту — выход к платформе или самолёту."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Close the iron gate behind you.",
+          "trans": "Закройте за собой железную калитку."
+        },
+        {
+          "text": "Tessa waited by the courtyard gate.",
+          "trans": "Тесса ждала у ворот внутреннего дворика."
+        }
+      ],
+      "related": []
+    },
+    "bell": {
+      "lemma": "bell",
+      "stress": "bɛl",
+      "pos": "noun",
+      "gloss": "звонок, колокольчик",
+      "meanings": [
+        {
+          "en": "звонок, колокольчик",
+          "note": "Обозначает и настольный колокольчик на стойке регистрации, и дверной звонок."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ring the bell at the front desk.",
+          "trans": "Позвоните в колокольчик на стойке регистрации."
+        },
+        {
+          "text": "Did you hear the gate bell?",
+          "trans": "Ты слышал звонок у ворот?"
+        }
+      ],
+      "related": []
+    },
+    "downstairs": {
+      "lemma": "downstairs",
+      "stress": "ˌdaʊnˈstɛɹz",
+      "pos": "adv",
+      "gloss": "внизу, на нижнем этаже; вниз по лестнице",
+      "meanings": [
+        {
+          "en": "внизу, на нижнем этаже; вниз по лестнице",
+          "note": "Наречие места и направления; употребляется без предлога (не *in downstairs*)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast is served downstairs until ten.",
+          "trans": "Завтрак подают внизу до десяти часов."
+        },
+        {
+          "text": "I left my umbrella downstairs by the door.",
+          "trans": "Я оставил зонтик внизу у двери."
+        }
+      ],
+      "related": []
+    },
+    "eight": {
+      "lemma": "eight",
+      "stress": "eɪt",
+      "pos": "num",
+      "gloss": "восемь",
+      "meanings": [
+        {
+          "en": "восемь",
+          "note": "Буквы gh не читаются; слово звучит в точности как прошедшая форма глагола eat — ate (/eɪt/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our guesthouse has eight quiet rooms.",
+          "trans": "В нашем гостевом доме восемь тихих номеров."
+        },
+        {
+          "text": "Breakfast starts at eight o'clock sharp.",
+          "trans": "Завтрак начинается ровно в восемь часов."
+        }
+      ],
+      "related": []
+    },
+    "o'clock": {
+      "lemma": "o'clock",
+      "stress": "əˈklɑk",
+      "pos": "adv",
+      "gloss": "ровно ... часов (о времени на часах)",
+      "meanings": [
+        {
+          "en": "ровно ... часов (о времени на часах)",
+          "note": "Ставится только после целого часа от 1 до 12 (eight o'clock — «восемь часов»); при указании минут опускается."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast begins at eight o'clock.",
+          "trans": "Завтрак начинается в восемь часов."
+        },
+        {
+          "text": "The quiet bell chimed twelve o'clock.",
+          "trans": "Тихие часы пробили двенадцать."
+        }
+      ],
+      "related": []
+    },
+    "on": {
+      "lemma": "on",
+      "stress": "ɑn",
+      "pos": "prep",
+      "gloss": "на (поверхности); в (+ день недели)",
+      "meanings": [
+        {
+          "en": "на (поверхности); в (+ день недели)",
+          "note": "Обозначает контакт с поверхностью (on the desk) и употребляется со всеми днями недели и датами: on Friday, on Fridays («по пятницам»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your key is on the wooden desk.",
+          "trans": "Ваш ключ лежит на деревянной стойке."
+        },
+        {
+          "text": "Tessa bakes apple rolls on Fridays.",
+          "trans": "По пятницам Тесса печёт яблочные булочки."
+        }
+      ],
+      "related": []
+    },
+    "dot": {
+      "lemma": "dot",
+      "stress": "dɑt",
+      "pos": "noun",
+      "gloss": "точка; ровно, секунда в секунду (on the dot)",
+      "meanings": [
+        {
+          "en": "точка; ровно, секунда в секунду (on the dot)",
+          "note": "Разговорная идиома со временем at eight on the dot означает «ровно в восемь, минута в минуту»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He arrived at eight on the dot.",
+          "trans": "Он приехал ровно в восемь."
+        },
+        {
+          "text": "Put a small dot on the map.",
+          "trans": "Поставь маленькую точку на карте."
+        }
+      ],
+      "related": []
+    },
+    "our": {
+      "lemma": "our",
+      "stress": "ˈaʊɚ",
+      "pos": "det",
+      "gloss": "наш, наша, наше, наши",
+      "meanings": [
+        {
+          "en": "наш, наша, наше, наши",
+          "note": "Единая форма притяжательного определителя перед любыми существительными (самостоятельная форма без существительного — ours)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to our courtyard guesthouse.",
+          "trans": "Добро пожаловать в наш гостевой дом с двориком."
+        },
+        {
+          "text": "All our bread comes from Tessa's oven.",
+          "trans": "Весь наш хлеб — прямо из печи Тессы."
+        }
+      ],
+      "related": []
+    },
+    "guest": {
+      "lemma": "guest",
+      "stress": "ɡɛst",
+      "pos": "noun",
+      "gloss": "гость, постоялец",
+      "meanings": [
+        {
+          "en": "гость, постоялец",
+          "note": "Буква u служит лишь для сохранения твёрдого /ɡ/ перед e (/ɡɛst/); означает и гостя дома, и постояльца отеля."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our new guest arrives at noon.",
+          "trans": "Наш новый постоялец приезжает в полдень."
+        },
+        {
+          "text": "Six guests joined us for breakfast.",
+          "trans": "К завтраку к нам присоединились шестеро гостей."
+        }
+      ],
+      "related": []
+    },
+    "my": {
+      "lemma": "my",
+      "stress": "maɪ",
+      "pos": "det",
+      "gloss": "мой, моя, моё, мои (перед существительным)",
+      "meanings": [
+        {
+          "en": "мой, моя, моё, мои (перед существительным)",
+          "note": "Не изменяется ни по родам, ни по числам: my key («мой ключ»), my glasses («мои очки»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Today is my first morning at the desk.",
+          "trans": "Сегодня моё первое утро за стойкой регистрации."
+        },
+        {
+          "text": "Where did I put my reading glasses?",
+          "trans": "Куда же я положил свои очки для чтения?"
+        }
+      ],
+      "related": []
+    },
+    "heart": {
+      "lemma": "heart",
+      "stress": "hɑɹt",
+      "pos": "noun",
+      "gloss": "сердце; душа (from the heart — от всего сердца)",
+      "meanings": [
+        {
+          "en": "сердце; душа (from the heart — от всего сердца)",
+          "note": "Гласные ear здесь читаются с открытым звуком /ɑɹ/ (/hɑɹt/) — не путайте со словом hurt /hɝt/ («болеть, ранить»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My heart is pounding with excitement!",
+          "trans": "У меня сердце колотится от волнения!"
+        },
+        {
+          "text": "She thanked us from the heart.",
+          "trans": "Она поблагодарила нас от всего сердца."
+        }
+      ],
+      "related": []
+    },
+    "pound": {
+      "lemma": "pound",
+      "stress": "paʊnd",
+      "pos": "verb",
+      "gloss": "сильно колотиться (о сердце); стучать, барабанить",
+      "meanings": [
+        {
+          "en": "сильно колотиться (о сердце); стучать, барабанить",
+          "note": "Образно передаёт гулкое сердцебиение от волнения (My heart was pounding) или шум ливня по ставням."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "pound"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "pounds"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "pounded"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "pounded"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "pounding"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My heart was pounding before noon!",
+          "trans": "До полудня сердце у меня бешено колотилось!"
+        },
+        {
+          "text": "Rain pounded against the shutters.",
+          "trans": "Дождь барабанил по ставням."
+        }
+      ],
+      "related": []
+    },
+    "explain": {
+      "lemma": "explain",
+      "stress": "ɪkˈspleɪn",
+      "pos": "verb",
+      "gloss": "объяснять",
+      "meanings": [
+        {
+          "en": "объяснять",
+          "note": "Частая ошибка — пропускать предлог to перед адресатом: правильно explain it to me (нельзя сказать explain me)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "explain"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "explains"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "explained"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "explained"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "explaining"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hannah can explain it clearly.",
+          "trans": "Ханна может всё ясно объяснить."
+        },
+        {
+          "text": "Let me explain what happened.",
+          "trans": "Позвольте мне объяснить, что произошло."
+        }
+      ],
+      "related": []
+    },
+    "it": {
+      "lemma": "it",
+      "stress": "ɪt",
+      "pos": "pron",
+      "gloss": "он, она, оно (о предмете); безличное подлежащее",
+      "meanings": [
+        {
+          "en": "он, она, оно (о предмете); безличное подлежащее",
+          "note": "Заменяет любой неодушевлённый предмет в ед. ч. и обязательно стоит в безличных фразах о погоде (It is sunny — «Солнечно»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle, and it opens easily.",
+          "trans": "Поднимите ручку вверх, и дверь легко откроется."
+        },
+        {
+          "text": "It is sunny and warm this afternoon.",
+          "trans": "Сегодня днём солнечно и тепло."
+        }
+      ],
+      "related": []
+    },
+    "sound": {
+      "lemma": "sound",
+      "stress": "saʊnd",
+      "pos": "verb",
+      "gloss": "звучать, казаться на слух; звук",
+      "meanings": [
+        {
+          "en": "звучать, казаться на слух; звук",
+          "note": "После глагола sound ставится прилагательное: That sounds wonderful! («Звучит чудесно!» — частая реакция на хорошую идею)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sound"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sounds"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "sounded"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "sounded"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "sounding"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hot tea and apple bread? That sounds wonderful!",
+          "trans": "Горячий чай и яблочный хлеб? Звучит замечательно!"
+        },
+        {
+          "text": "Her voice sounded calm on the phone.",
+          "trans": "По телефону её голос звучал спокойно."
+        }
+      ],
+      "related": []
+    },
+    "calm": {
+      "lemma": "calm",
+      "stress": "kɑm",
+      "pos": "adj",
+      "gloss": "спокойный, тихий, невозмутимый",
+      "meanings": [
+        {
+          "en": "спокойный, тихий, невозмутимый",
+          "note": "Буква l полностью немая (/kɑm/); с глаголами восприятия употребляется прилагательное: sound calm, look calm."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your voice sounds calm and clear.",
+          "trans": "Твой голос звучит спокойно и уверенно."
+        },
+        {
+          "text": "Try to look calm when he arrives.",
+          "trans": "Постарайся выглядеть спокойным, когда он придёт."
+        }
+      ],
+      "related": []
+    },
+    "honest": {
+      "lemma": "honest",
+      "stress": "ˈɑnɪst",
+      "pos": "adj",
+      "gloss": "честный, искренний",
+      "meanings": [
+        {
+          "en": "честный, искренний",
+          "note": "Начальная буква h не произносится (/ˈɑnɪst/), поэтому перед словом ставится артикль an: an honest apology."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Keep your words simple and honest.",
+          "trans": "Пусть твои слова будут простыми и искренними."
+        },
+        {
+          "text": "Thank you for being honest with me.",
+          "trans": "Спасибо, что был честен со мной."
+        }
+      ],
+      "related": []
+    },
+    "me": {
+      "lemma": "me",
+      "stress": "mi",
+      "pos": "pron",
+      "gloss": "мне, меня, мной",
+      "meanings": [
+        {
+          "en": "мне, меня, мной",
+          "note": "Объектная форма местоимения I после любых глаголов и предлогов (tell me, for me, excuse me)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Excuse me, where is the dining room?",
+          "trans": "Извините, где находится столовая?"
+        },
+        {
+          "text": "Save a cup of coffee for me.",
+          "trans": "Оставьте для меня чашечку кофе."
+        }
+      ],
+      "related": []
+    },
+    "let": {
+      "lemma": "let",
+      "stress": "lɛt",
+      "pos": "verb",
+      "gloss": "позволять; давай(те)",
+      "meanings": [
+        {
+          "en": "позволять; давай(те)",
+          "note": "Неправильный глагол (let — let — let); после дополнения глагол идёт без to: Let me help («Позвольте мне помочь»), Let us / Let's («Давайте»)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "let"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "lets"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "let"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "let"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "letting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let me carry that tray for you.",
+          "trans": "Давайте я понесу этот поднос за вас."
+        },
+        {
+          "text": "Let us look at the guest book together.",
+          "trans": "Давайте вместе заглянем в гостевую книгу."
+        }
+      ],
+      "related": []
+    },
+    "us": {
+      "lemma": "us",
+      "stress": "ʌs",
+      "pos": "pron",
+      "gloss": "нам, нас, нами",
+      "meanings": [
+        {
+          "en": "нам, нас, нами",
+          "note": "Объектный падеж местоимения we; в разговорной речи Let us стягивается в Let's («Давайте»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Join us for hot tea in the parlor!",
+          "trans": "Присоединяйтесь к нам на горячий чай в гостиной!"
+        },
+        {
+          "text": "Tessa brought fresh rolls for all of us.",
+          "trans": "Тесса принесла свежие булочки для всех нас."
+        }
+      ],
+      "related": []
+    },
+    "down": {
+      "lemma": "down",
+      "stress": "daʊn",
+      "pos": "adv",
+      "gloss": "вниз, внизу",
+      "meanings": [
+        {
+          "en": "вниз, внизу",
+          "note": "Входит во множество фразовых глаголов: sit down («сесть»), write down («записать»), calm down («успокоиться»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Please sit down and rest a moment.",
+          "trans": "Пожалуйста, присядьте и немного отдохните."
+        },
+        {
+          "text": "Write down the phone number before you forget.",
+          "trans": "Запишите номер телефона, пока не забыли."
+        }
+      ],
+      "related": []
+    },
+    "welcome": {
+      "lemma": "welcome",
+      "stress": "ˈwɛlkəm",
+      "pos": "interj",
+      "gloss": "добро пожаловать!; пожалуйста, не за что (You're welcome)",
+      "meanings": [
+        {
+          "en": "добро пожаловать!; пожалуйста, не за что (You're welcome)",
+          "note": "Две важнейшие роли: Welcome to...! («Добро пожаловать в...!») и ответ на благодарность You are welcome! («Пожалуйста! Не за что!»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to Linden Courtyard Inn!",
+          "trans": "Добро пожаловать в гостиницу «Линден Кортьярд Инн»!"
+        },
+        {
+          "text": "You are very welcome! Enjoy your tea.",
+          "trans": "Всегда пожалуйста! Приятного чаепития."
+        }
+      ],
+      "related": []
+    },
+    "bye": {
+      "lemma": "bye",
+      "stress": "baɪ",
+      "pos": "interj",
+      "gloss": "пока, до встречи",
+      "meanings": [
+        {
+          "en": "пока, до встречи",
+          "note": "Разговорное дружелюбное прощание; Bye for now! — «Пока, до скорого!»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bye! Have a safe trip.",
+          "trans": "Пока! Счастливого пути."
+        },
+        {
+          "text": "She waved and said bye.",
+          "trans": "Она помахала рукой и сказала «пока»."
+        }
+      ],
+      "related": []
+    },
+    "now": {
+      "lemma": "now",
+      "stress": "naʊ",
+      "pos": "adv",
+      "gloss": "сейчас, теперь",
+      "meanings": [
+        {
+          "en": "сейчас, теперь",
+          "note": "Сочетание right now подчёркивает немедленность: «прямо сейчас, сию минуту»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four is clean and ready now.",
+          "trans": "Четвёртый номер уже убран и готов."
+        },
+        {
+          "text": "What should we do right now?",
+          "trans": "Что нам делать прямо сейчас?"
         }
       ],
       "related": []

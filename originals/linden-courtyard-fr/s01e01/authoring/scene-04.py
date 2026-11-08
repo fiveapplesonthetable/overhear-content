@@ -14,7 +14,7 @@ TRANSITION = 'Écoutons une nouvelle fois la scène entière au fil naturel des 
 OUTRO = 'Hannah a réussi son premier enregistrement avec aisance, mais Graham a bien senti que cette valise bleue pesait un poids inhabituel. À très bientôt pour découvrir pourquoi!'
 CLOSING = ('evelyn', 'Take care!')
 STORY = [('hannah', "Welcome! Good morning, ma'am.", 'Bienvenue! Bonjour, madame.'),
- ('evelyn', 'Good morning, my dear. I have a room for Evelyn.', "Bonjour, ma chère. J'ai une chambre au nom d'Evelyn."),
+ ('evelyn', 'Good morning, my dear. I have a booking for Evelyn.', "Bonjour, ma chère. J'ai une réservation pour Evelyn."),
  ('hannah',
   'Yes, room four on the second floor! How was your train trip?',
   "Oui, la chambre quatre au premier étage! Comment s'est passé votre voyage en train?"),
@@ -43,7 +43,7 @@ WALK = [(0,
  (1,
   None,
   ["'Bonjour, ma chère. J'ai une chambre au nom d'Evelyn.' En arrivant à l'hôtel, la formule simple",
-   (None, 'I have a room for'),
+   (None, 'I have a booking for'),
    'suivie du prénom suffit à annoncer sa réservation.']),
  (2,
   None,

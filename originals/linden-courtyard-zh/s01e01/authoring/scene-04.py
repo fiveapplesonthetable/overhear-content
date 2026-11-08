@@ -15,7 +15,7 @@ OUTRO = '格雷厄姆帮伊芙琳把那只沉甸甸的蓝色行李箱提上了�
 CLOSING = ('evelyn', 'Take care!')
 STORY = [
     ('hannah', "Welcome! Good morning, ma'am.", '欢迎光临！早上好，女士。'),
-    ('evelyn', 'Good morning, my dear. I have a room for Evelyn.', '早上好，亲爱的。我预订了一间登记在伊芙琳名下的客房。'),
+    ('evelyn', 'Good morning, my dear. I have a booking for Evelyn.', '早上好，亲爱的。我有一个伊芙琳的预订。'),
     ('hannah', 'Yes, room four on the second floor! How was your train trip?', '有的，二楼四号房！您坐火车一路上还顺利吗？'),
     ('evelyn', 'Quiet and pleasant, thank you, though this suitcase feels very heavy today.', '很安静也很惬意，谢谢你，不过这只行李箱今天拎着觉得特别沉。'),
     ('graham', 'Allow me. Goodness, did you pack stones in here?', '请让我来吧。好家伙，您在里面装石头了吗？'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'欢迎光临！早上好，女士。' 在美式英语服务场合，称呼成年女性最得体礼貌的词就是", (None, "ma'am"), '放在问候语末尾显得既尊重又亲切。']),
-    (1, None, ["'早上好，亲爱的。我预订了一间登记在伊芙琳名下的客房。' 客人到前台报名字办理入住时，常温和地说", (None, 'I have a room for'), '后面直接跟上预订人自己的名字即可。']),
+    (1, None, ["'早上好，亲爱的。我有一个伊芙琳的预订。' 客人到前台报名字办理入住时，常说", (None, 'a booking for'), "后面直接跟上预订的名字即可。"]),
     (2, None, ["'有的，二楼四号房！您坐火车一路上还顺利吗？' 寒暄旅途感受最自然的问法就是用过去式系动词提问：", (None, 'How was your train trip'), '关心客人刚才那段车程是否顺心。']),
     (3, None, ["'很安静也很惬意，谢谢你，不过这只行李箱今天拎着觉得特别沉。' 这里的感官短语", (None, 'feels very heavy'), '并不是说箱子自己有知觉，而是描述人手拎上去“摸起来、拎起来觉得很沉”。']),
     (4, None, ["'请让我来吧。好家伙，您在里面装石头了吗？' 主动上前帮客人提重物时，一句简短优雅的", (None, 'Allow me'), '比问需不需要帮忙更显周到；紧接着一句感叹词', (None, 'Goodness'), '温和地道出了箱子分量惊人。']),

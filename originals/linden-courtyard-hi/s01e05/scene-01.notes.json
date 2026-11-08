@@ -224,7 +224,7 @@
     },
     {
       "seg": 3,
-      "trans": "रुकिए, तो सोमवार को हमने एक ही ट्रेन में सफ़र किया, और आप इनका सूटकेस ले गए?",
+      "trans": "रुकिए, तो सोमवार को आपने एक ही ट्रेन में सफ़र किया, और आप इनका सूटकेस ले गए?",
       "words": [
         {
           "t": "Wait,",
@@ -243,18 +243,18 @@
           "gram": "क्रियाविशेषण"
         },
         {
-          "t": "we",
-          "lemma": "we",
+          "t": "you",
+          "lemma": "you",
           "pos": "pron",
-          "stress": "wi",
-          "gloss": "हम",
+          "stress": "ju",
+          "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
           "gram": "सर्वनाम"
         },
         {
           "t": "rode",
           "lemma": "ride",
           "pos": "verb",
-          "stress": "ɹoʊd",
+          "stress": "ɹaɪd",
           "gloss": "सवारी करके आया/गया",
           "gram": "अनियमित भूतकाल"
         },
@@ -291,7 +291,7 @@
           "gram": "पूर्वसर्ग"
         },
         {
-          "t": "Monday,",
+          "t": "Monday",
           "lemma": "monday",
           "pos": "noun",
           "stress": "ˈmʌndeɪ",
@@ -305,14 +305,6 @@
           "stress": "ænd",
           "gloss": "और",
           "gram": "संयोजक"
-        },
-        {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
-          "gram": "सर्वनाम"
         },
         {
           "t": "took",
@@ -1034,7 +1026,7 @@
     },
     {
       "seg": 10,
-      "trans": "मुझे शुक्रवार से पहले पास में एक शांत जगह चाहिए थी, और सच में भूल गया था कि मेरा बैग अब भी आपके पास है!",
+      "trans": "मुझे शुक्रवार से पहले पास में एक शांत जगह चाहिए थी, और सच कहूँ तो अपना बैग माँगने में झिझक हो रही थी!",
       "words": [
         {
           "t": "I",
@@ -1117,36 +1109,52 @@
           "gram": "क्रियाविशेषण"
         },
         {
-          "t": "forgot",
-          "lemma": "forget",
+          "t": "felt",
+          "lemma": "feel",
           "pos": "verb",
-          "stress": "fɚˈɡɑt",
-          "gloss": "भूल गया",
+          "stress": "fɛlt",
+          "gloss": "महसूस हुआ / लगा",
           "gram": "अनियमित भूतकाल"
         },
         {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
-          "gram": "सर्वनाम"
-        },
-        {
-          "t": "still",
-          "lemma": "still",
+          "t": "too",
+          "lemma": "too",
           "pos": "adv",
-          "stress": "stɪl",
-          "gloss": "अब भी, अभी तक; सादा/शांत (विशेषण)",
+          "stress": "tu",
+          "gloss": "भी (वाक्य के अंत में); ज़रूरत से ज़्यादा (+ विशेषण)",
           "gram": "क्रियाविशेषण"
         },
         {
-          "t": "had",
-          "lemma": "have",
+          "t": "shy",
+          "lemma": "shy",
+          "pos": "adj",
+          "stress": "ʃaɪ",
+          "gloss": "शर्मीला, झिझकने वाला",
+          "gram": "विशेषण"
+        },
+        {
+          "t": "to",
+          "lemma": "to",
+          "pos": "prep",
+          "stress": "tu",
+          "gloss": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
+          "gram": "पूर्वसर्ग"
+        },
+        {
+          "t": "ask",
+          "lemma": "ask",
           "pos": "verb",
-          "stress": "hæd",
-          "gloss": "था / पास था",
-          "gram": "अनियमित भूतकाल / कृदंत"
+          "stress": "æsk",
+          "gloss": "पूछना; माँगना",
+          "gram": "क्रिया, मूल रूप"
+        },
+        {
+          "t": "for",
+          "lemma": "for",
+          "pos": "prep",
+          "stress": "fɔɹ",
+          "gloss": "के लिए; तक (अवधि)",
+          "gram": "पूर्वसर्ग"
         },
         {
           "t": "my",
@@ -1171,11 +1179,19 @@
       "trans": "जब तक आपने मंगलवार को हमें फ़ोन करके सफ़ेद पैकेट न खोलने की गुज़ारिश नहीं की!",
       "words": [
         {
-          "t": "Until",
-          "lemma": "until",
+          "t": "Even",
+          "lemma": "even",
+          "pos": "adv",
+          "stress": "ˈivən",
+          "gloss": "यहाँ तक कि, भी",
+          "gram": "क्रियाविशेषण"
+        },
+        {
+          "t": "after",
+          "lemma": "after",
           "pos": "prep",
-          "stress": "ʌnˈtɪl",
-          "gloss": "जब तक... न, (समय) तक",
+          "stress": "ˈæftɚ",
+          "gloss": "के बाद",
           "gram": "पूर्वसर्ग"
         },
         {
@@ -1219,44 +1235,12 @@
           "gram": "संज्ञा, एकवचन"
         },
         {
-          "t": "asking",
-          "lemma": "ask",
-          "pos": "verb",
-          "stress": "ˈæskɪŋ",
-          "gloss": "माँगते/पूछते हुए",
-          "gram": "-ing रूप"
-        },
-        {
-          "t": "us",
-          "lemma": "us",
-          "pos": "pron",
-          "stress": "ʌs",
-          "gloss": "हमें, हमको (या पूर्वसर्ग के बाद 'हम')",
-          "gram": "सर्वनाम"
-        },
-        {
-          "t": "not",
-          "lemma": "not",
-          "pos": "adv",
-          "stress": "nɑt",
-          "gloss": "नहीं (क्रिया को नकारात्मक बनाने वाला शब्द)",
-          "gram": "क्रियाविशेषण"
-        },
-        {
-          "t": "to",
-          "lemma": "to",
+          "t": "about",
+          "lemma": "about",
           "pos": "prep",
-          "stress": "tu",
-          "gloss": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
+          "stress": "əˈbaʊt",
+          "gloss": "के बारे में; लगभग",
           "gram": "पूर्वसर्ग"
-        },
-        {
-          "t": "open",
-          "lemma": "open",
-          "pos": "verb",
-          "stress": "ˈoʊpən",
-          "gloss": "खोलना, खुलना; खुला हुआ (विशेषण)",
-          "gram": "क्रिया, मूल रूप"
         },
         {
           "t": "the",
@@ -1744,7 +1728,7 @@
     },
     {
       "seg": 26,
-      "trans": "रुकिए, तो सोमवार को हमने एक ही ट्रेन में सफ़र किया, और आप इनका सूटकेस ले गए?",
+      "trans": "रुकिए, तो सोमवार को आपने एक ही ट्रेन में सफ़र किया, और आप इनका सूटकेस ले गए?",
       "words": [
         {
           "t": "Wait,",
@@ -1763,18 +1747,18 @@
           "gram": "क्रियाविशेषण"
         },
         {
-          "t": "we",
-          "lemma": "we",
+          "t": "you",
+          "lemma": "you",
           "pos": "pron",
-          "stress": "wi",
-          "gloss": "हम",
+          "stress": "ju",
+          "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
           "gram": "सर्वनाम"
         },
         {
           "t": "rode",
           "lemma": "ride",
           "pos": "verb",
-          "stress": "ɹoʊd",
+          "stress": "ɹaɪd",
           "gloss": "सवारी करके आया/गया",
           "gram": "अनियमित भूतकाल"
         },
@@ -1811,7 +1795,7 @@
           "gram": "पूर्वसर्ग"
         },
         {
-          "t": "Monday,",
+          "t": "Monday",
           "lemma": "monday",
           "pos": "noun",
           "stress": "ˈmʌndeɪ",
@@ -1825,14 +1809,6 @@
           "stress": "ænd",
           "gloss": "और",
           "gram": "संयोजक"
-        },
-        {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
-          "gram": "सर्वनाम"
         },
         {
           "t": "took",
@@ -1862,21 +1838,21 @@
     },
     {
       "seg": 28,
-      "trans": "हम सवारी करके आया निश्चित आर्टिकल (वह खास वही ट्रेन पर सोमवार",
+      "trans": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें सवारी करके आया/गया निश्चित आर्टिकल (वह खास/परिचित) वही, एक जैसा ट्रेन, रेलगाड़ी पर, के ऊपर; को (दिनों के साथ); चालू सोमवार",
       "words": [
         {
-          "t": "we",
-          "lemma": "we",
+          "t": "you",
+          "lemma": "you",
           "pos": "pron",
-          "stress": "wi",
-          "gloss": "हम",
+          "stress": "ju",
+          "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
           "gram": "सर्वनाम"
         },
         {
           "t": "rode",
           "lemma": "ride",
           "pos": "verb",
-          "stress": "ɹoʊd",
+          "stress": "ɹaɪd",
           "gloss": "सवारी करके आया/गया",
           "gram": "अनियमित भूतकाल"
         },
@@ -2890,7 +2866,7 @@
     },
     {
       "seg": 56,
-      "trans": "मुझे शुक्रवार से पहले पास में एक शांत जगह चाहिए थी, और सच में भूल गया था कि मेरा बैग अब भी आपके पास है!",
+      "trans": "मुझे शुक्रवार से पहले पास में एक शांत जगह चाहिए थी, और सच कहूँ तो अपना बैग माँगने में झिझक हो रही थी!",
       "words": [
         {
           "t": "I",
@@ -2973,36 +2949,52 @@
           "gram": "क्रियाविशेषण"
         },
         {
-          "t": "forgot",
-          "lemma": "forget",
+          "t": "felt",
+          "lemma": "feel",
           "pos": "verb",
-          "stress": "fɚˈɡɑt",
-          "gloss": "भूल गया",
+          "stress": "fɛlt",
+          "gloss": "महसूस हुआ / लगा",
           "gram": "अनियमित भूतकाल"
         },
         {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
-          "gram": "सर्वनाम"
-        },
-        {
-          "t": "still",
-          "lemma": "still",
+          "t": "too",
+          "lemma": "too",
           "pos": "adv",
-          "stress": "stɪl",
-          "gloss": "अब भी, अभी तक; सादा/शांत (विशेषण)",
+          "stress": "tu",
+          "gloss": "भी (वाक्य के अंत में); ज़रूरत से ज़्यादा (+ विशेषण)",
           "gram": "क्रियाविशेषण"
         },
         {
-          "t": "had",
-          "lemma": "have",
+          "t": "shy",
+          "lemma": "shy",
+          "pos": "adj",
+          "stress": "ʃaɪ",
+          "gloss": "शर्मीला, झिझकने वाला",
+          "gram": "विशेषण"
+        },
+        {
+          "t": "to",
+          "lemma": "to",
+          "pos": "prep",
+          "stress": "tu",
+          "gloss": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
+          "gram": "पूर्वसर्ग"
+        },
+        {
+          "t": "ask",
+          "lemma": "ask",
           "pos": "verb",
-          "stress": "hæd",
-          "gloss": "था / पास था",
-          "gram": "अनियमित भूतकाल / कृदंत"
+          "stress": "æsk",
+          "gloss": "पूछना; माँगना",
+          "gram": "क्रिया, मूल रूप"
+        },
+        {
+          "t": "for",
+          "lemma": "for",
+          "pos": "prep",
+          "stress": "fɔɹ",
+          "gloss": "के लिए; तक (अवधि)",
+          "gram": "पूर्वसर्ग"
         },
         {
           "t": "my",
@@ -3024,7 +3016,7 @@
     },
     {
       "seg": 58,
-      "trans": "सच कहूँ तो भूल गया",
+      "trans": "सच कहूँ तो, ईमानदारी से महसूस हुआ / लगा भी (वाक्य के अंत में); ज़रूरत से ज़्यादा (+ विशेषण) शर्मीला, झिझकने वाला को, तक, की ओर; क्रिया के मूल रूप से पहले (to know) पूछना; माँगना के लिए; तक (अवधि) मेरा, मेरी, मेरे बैग, थैला, सूटकेस",
       "words": [
         {
           "t": "honestly",
@@ -3035,12 +3027,68 @@
           "gram": "क्रियाविशेषण"
         },
         {
-          "t": "forgot",
-          "lemma": "forget",
+          "t": "felt",
+          "lemma": "feel",
           "pos": "verb",
-          "stress": "fɚˈɡɑt",
-          "gloss": "भूल गया",
+          "stress": "fɛlt",
+          "gloss": "महसूस हुआ / लगा",
           "gram": "अनियमित भूतकाल"
+        },
+        {
+          "t": "too",
+          "lemma": "too",
+          "pos": "adv",
+          "stress": "tu",
+          "gloss": "भी (वाक्य के अंत में); ज़रूरत से ज़्यादा (+ विशेषण)",
+          "gram": "क्रियाविशेषण"
+        },
+        {
+          "t": "shy",
+          "lemma": "shy",
+          "pos": "adj",
+          "stress": "ʃaɪ",
+          "gloss": "शर्मीला, झिझकने वाला",
+          "gram": "विशेषण"
+        },
+        {
+          "t": "to",
+          "lemma": "to",
+          "pos": "prep",
+          "stress": "tu",
+          "gloss": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
+          "gram": "पूर्वसर्ग"
+        },
+        {
+          "t": "ask",
+          "lemma": "ask",
+          "pos": "verb",
+          "stress": "æsk",
+          "gloss": "पूछना; माँगना",
+          "gram": "क्रिया, मूल रूप"
+        },
+        {
+          "t": "for",
+          "lemma": "for",
+          "pos": "prep",
+          "stress": "fɔɹ",
+          "gloss": "के लिए; तक (अवधि)",
+          "gram": "पूर्वसर्ग"
+        },
+        {
+          "t": "my",
+          "lemma": "my",
+          "pos": "det",
+          "stress": "maɪ",
+          "gloss": "मेरा, मेरी, मेरे",
+          "gram": "निर्धारक"
+        },
+        {
+          "t": "bag",
+          "lemma": "bag",
+          "pos": "noun",
+          "stress": "bæɡ",
+          "gloss": "बैग, थैला, सूटकेस",
+          "gram": "संज्ञा, एकवचन"
         }
       ]
     },
@@ -3049,11 +3097,19 @@
       "trans": "जब तक आपने मंगलवार को हमें फ़ोन करके सफ़ेद पैकेट न खोलने की गुज़ारिश नहीं की!",
       "words": [
         {
-          "t": "Until",
-          "lemma": "until",
+          "t": "Even",
+          "lemma": "even",
+          "pos": "adv",
+          "stress": "ˈivən",
+          "gloss": "यहाँ तक कि, भी",
+          "gram": "क्रियाविशेषण"
+        },
+        {
+          "t": "after",
+          "lemma": "after",
           "pos": "prep",
-          "stress": "ʌnˈtɪl",
-          "gloss": "जब तक... न, (समय) तक",
+          "stress": "ˈæftɚ",
+          "gloss": "के बाद",
           "gram": "पूर्वसर्ग"
         },
         {
@@ -3097,44 +3153,12 @@
           "gram": "संज्ञा, एकवचन"
         },
         {
-          "t": "asking",
-          "lemma": "ask",
-          "pos": "verb",
-          "stress": "ˈæskɪŋ",
-          "gloss": "माँगते/पूछते हुए",
-          "gram": "-ing रूप"
-        },
-        {
-          "t": "us",
-          "lemma": "us",
-          "pos": "pron",
-          "stress": "ʌs",
-          "gloss": "हमें, हमको (या पूर्वसर्ग के बाद 'हम')",
-          "gram": "सर्वनाम"
-        },
-        {
-          "t": "not",
-          "lemma": "not",
-          "pos": "adv",
-          "stress": "nɑt",
-          "gloss": "नहीं (क्रिया को नकारात्मक बनाने वाला शब्द)",
-          "gram": "क्रियाविशेषण"
-        },
-        {
-          "t": "to",
-          "lemma": "to",
+          "t": "about",
+          "lemma": "about",
           "pos": "prep",
-          "stress": "tu",
-          "gloss": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
+          "stress": "əˈbaʊt",
+          "gloss": "के बारे में; लगभग",
           "gram": "पूर्वसर्ग"
-        },
-        {
-          "t": "open",
-          "lemma": "open",
-          "pos": "verb",
-          "stress": "ˈoʊpən",
-          "gloss": "खोलना, खुलना; खुला हुआ (विशेषण)",
-          "gram": "क्रिया, मूल रूप"
         },
         {
           "t": "the",
@@ -3164,47 +3188,15 @@
     },
     {
       "seg": 62,
-      "trans": "माँगते हमें नहीं (क्रिया को नकारात्मक बनाने वाला शब्द) को खोलना",
+      "trans": "के बारे में; लगभग",
       "words": [
         {
-          "t": "asking",
-          "lemma": "ask",
-          "pos": "verb",
-          "stress": "ˈæskɪŋ",
-          "gloss": "माँगते/पूछते हुए",
-          "gram": "-ing रूप"
-        },
-        {
-          "t": "us",
-          "lemma": "us",
-          "pos": "pron",
-          "stress": "ʌs",
-          "gloss": "हमें, हमको (या पूर्वसर्ग के बाद 'हम')",
-          "gram": "सर्वनाम"
-        },
-        {
-          "t": "not",
-          "lemma": "not",
-          "pos": "adv",
-          "stress": "nɑt",
-          "gloss": "नहीं (क्रिया को नकारात्मक बनाने वाला शब्द)",
-          "gram": "क्रियाविशेषण"
-        },
-        {
-          "t": "to",
-          "lemma": "to",
+          "t": "about",
+          "lemma": "about",
           "pos": "prep",
-          "stress": "tu",
-          "gloss": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
+          "stress": "əˈbaʊt",
+          "gloss": "के बारे में; लगभग",
           "gram": "पूर्वसर्ग"
-        },
-        {
-          "t": "open",
-          "lemma": "open",
-          "pos": "verb",
-          "stress": "ˈoʊpən",
-          "gloss": "खोलना, खुलना; खुला हुआ (विशेषण)",
-          "gram": "क्रिया, मूल रूप"
         }
       ]
     },
@@ -3578,7 +3570,7 @@
     },
     {
       "seg": 70,
-      "trans": "रुकिए, तो सोमवार को हमने एक ही ट्रेन में सफ़र किया, और आप इनका सूटकेस ले गए?",
+      "trans": "रुकिए, तो सोमवार को आपने एक ही ट्रेन में सफ़र किया, और आप इनका सूटकेस ले गए?",
       "words": [
         {
           "t": "Wait,",
@@ -3597,18 +3589,18 @@
           "gram": "क्रियाविशेषण"
         },
         {
-          "t": "we",
-          "lemma": "we",
+          "t": "you",
+          "lemma": "you",
           "pos": "pron",
-          "stress": "wi",
-          "gloss": "हम",
+          "stress": "ju",
+          "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
           "gram": "सर्वनाम"
         },
         {
           "t": "rode",
           "lemma": "ride",
           "pos": "verb",
-          "stress": "ɹoʊd",
+          "stress": "ɹaɪd",
           "gloss": "सवारी करके आया/गया",
           "gram": "अनियमित भूतकाल"
         },
@@ -3645,7 +3637,7 @@
           "gram": "पूर्वसर्ग"
         },
         {
-          "t": "Monday,",
+          "t": "Monday",
           "lemma": "monday",
           "pos": "noun",
           "stress": "ˈmʌndeɪ",
@@ -3659,14 +3651,6 @@
           "stress": "ænd",
           "gloss": "और",
           "gram": "संयोजक"
-        },
-        {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
-          "gram": "सर्वनाम"
         },
         {
           "t": "took",
@@ -4388,7 +4372,7 @@
     },
     {
       "seg": 77,
-      "trans": "मुझे शुक्रवार से पहले पास में एक शांत जगह चाहिए थी, और सच में भूल गया था कि मेरा बैग अब भी आपके पास है!",
+      "trans": "मुझे शुक्रवार से पहले पास में एक शांत जगह चाहिए थी, और सच कहूँ तो अपना बैग माँगने में झिझक हो रही थी!",
       "words": [
         {
           "t": "I",
@@ -4471,36 +4455,52 @@
           "gram": "क्रियाविशेषण"
         },
         {
-          "t": "forgot",
-          "lemma": "forget",
+          "t": "felt",
+          "lemma": "feel",
           "pos": "verb",
-          "stress": "fɚˈɡɑt",
-          "gloss": "भूल गया",
+          "stress": "fɛlt",
+          "gloss": "महसूस हुआ / लगा",
           "gram": "अनियमित भूतकाल"
         },
         {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
-          "gram": "सर्वनाम"
-        },
-        {
-          "t": "still",
-          "lemma": "still",
+          "t": "too",
+          "lemma": "too",
           "pos": "adv",
-          "stress": "stɪl",
-          "gloss": "अब भी, अभी तक; सादा/शांत (विशेषण)",
+          "stress": "tu",
+          "gloss": "भी (वाक्य के अंत में); ज़रूरत से ज़्यादा (+ विशेषण)",
           "gram": "क्रियाविशेषण"
         },
         {
-          "t": "had",
-          "lemma": "have",
+          "t": "shy",
+          "lemma": "shy",
+          "pos": "adj",
+          "stress": "ʃaɪ",
+          "gloss": "शर्मीला, झिझकने वाला",
+          "gram": "विशेषण"
+        },
+        {
+          "t": "to",
+          "lemma": "to",
+          "pos": "prep",
+          "stress": "tu",
+          "gloss": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
+          "gram": "पूर्वसर्ग"
+        },
+        {
+          "t": "ask",
+          "lemma": "ask",
           "pos": "verb",
-          "stress": "hæd",
-          "gloss": "था / पास था",
-          "gram": "अनियमित भूतकाल / कृदंत"
+          "stress": "æsk",
+          "gloss": "पूछना; माँगना",
+          "gram": "क्रिया, मूल रूप"
+        },
+        {
+          "t": "for",
+          "lemma": "for",
+          "pos": "prep",
+          "stress": "fɔɹ",
+          "gloss": "के लिए; तक (अवधि)",
+          "gram": "पूर्वसर्ग"
         },
         {
           "t": "my",
@@ -4525,11 +4525,19 @@
       "trans": "जब तक आपने मंगलवार को हमें फ़ोन करके सफ़ेद पैकेट न खोलने की गुज़ारिश नहीं की!",
       "words": [
         {
-          "t": "Until",
-          "lemma": "until",
+          "t": "Even",
+          "lemma": "even",
+          "pos": "adv",
+          "stress": "ˈivən",
+          "gloss": "यहाँ तक कि, भी",
+          "gram": "क्रियाविशेषण"
+        },
+        {
+          "t": "after",
+          "lemma": "after",
           "pos": "prep",
-          "stress": "ʌnˈtɪl",
-          "gloss": "जब तक... न, (समय) तक",
+          "stress": "ˈæftɚ",
+          "gloss": "के बाद",
           "gram": "पूर्वसर्ग"
         },
         {
@@ -4573,44 +4581,12 @@
           "gram": "संज्ञा, एकवचन"
         },
         {
-          "t": "asking",
-          "lemma": "ask",
-          "pos": "verb",
-          "stress": "ˈæskɪŋ",
-          "gloss": "माँगते/पूछते हुए",
-          "gram": "-ing रूप"
-        },
-        {
-          "t": "us",
-          "lemma": "us",
-          "pos": "pron",
-          "stress": "ʌs",
-          "gloss": "हमें, हमको (या पूर्वसर्ग के बाद 'हम')",
-          "gram": "सर्वनाम"
-        },
-        {
-          "t": "not",
-          "lemma": "not",
-          "pos": "adv",
-          "stress": "nɑt",
-          "gloss": "नहीं (क्रिया को नकारात्मक बनाने वाला शब्द)",
-          "gram": "क्रियाविशेषण"
-        },
-        {
-          "t": "to",
-          "lemma": "to",
+          "t": "about",
+          "lemma": "about",
           "pos": "prep",
-          "stress": "tu",
-          "gloss": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
+          "stress": "əˈbaʊt",
+          "gloss": "के बारे में; लगभग",
           "gram": "पूर्वसर्ग"
-        },
-        {
-          "t": "open",
-          "lemma": "open",
-          "pos": "verb",
-          "stress": "ˈoʊpən",
-          "gloss": "खोलना, खुलना; खुला हुआ (विशेषण)",
-          "gram": "क्रिया, मूल रूप"
         },
         {
           "t": "the",
@@ -4772,1437 +4748,6 @@
     }
   ],
   "lexicon": {
-    "a": {
-      "lemma": "a",
-      "stress": "ə",
-      "pos": "det",
-      "gloss": "एक, कोई",
-      "meanings": [
-        {
-          "en": "एक, कोई",
-          "note": "व्यंजन ध्वनि से शुरू होने वाले एकवचन संज्ञा शब्द से पहले आता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I have a blue pen.",
-          "trans": "मेरे पास एक नीला पेन है।"
-        },
-        {
-          "text": "She wants a cup of tea.",
-          "trans": "वह एक कप चाय चाहती है।"
-        }
-      ],
-      "related": []
-    },
-    "accident": {
-      "lemma": "accident",
-      "stress": "ˈæksɪdənt",
-      "pos": "noun",
-      "gloss": "दुर्घटना; संयोग",
-      "meanings": [
-        {
-          "en": "दुर्घटना; संयोग",
-          "note": "मुहावरे by accident का अर्थ होता है 'अनजाने में, इत्तेफ़ाक से'।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I took your bag by accident.",
-          "trans": "मैंने अनजाने में आपका बैग ले लिया।"
-        },
-        {
-          "text": "Nobody got hurt in the accident.",
-          "trans": "दुर्घटना में किसी को चोट नहीं लगी।"
-        }
-      ],
-      "related": []
-    },
-    "and": {
-      "lemma": "and",
-      "stress": "ænd",
-      "pos": "conj",
-      "gloss": "और",
-      "meanings": [
-        {
-          "en": "और",
-          "note": "दो शब्दों या वाक्यों को जोड़ने वाला मुख्य समुच्चयबोधक।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bring bread and butter, please.",
-          "trans": "कृपया ब्रेड और मक्खन लाइए।"
-        },
-        {
-          "text": "Wash your hands and sit down.",
-          "trans": "हाथ धोइए और बैठ जाइए।"
-        }
-      ],
-      "related": []
-    },
-    "apartment": {
-      "lemma": "apartment",
-      "stress": "əˈpɑɹtmənt",
-      "pos": "noun",
-      "gloss": "अपार्टमेंट, फ़्लैट",
-      "meanings": [
-        {
-          "en": "अपार्टमेंट, फ़्लैट",
-          "note": "अमेरिकी अंग्रेज़ी में बहुमंज़िला इमारत के घर का मानक शब्द।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My cousin rents a small apartment.",
-          "trans": "मेरा चचेरा भाई एक छोटा अपार्टमेंट किराए पर लेता है।"
-        },
-        {
-          "text": "Her apartment is on the top floor.",
-          "trans": "उसका अपार्टमेंट सबसे ऊपरी मंज़िल पर है।"
-        }
-      ],
-      "related": []
-    },
-    "ask": {
-      "lemma": "ask",
-      "stress": "æsk",
-      "pos": "verb",
-      "gloss": "पूछना; माँगना",
-      "meanings": [
-        {
-          "en": "पूछना; माँगना",
-          "note": "सीधे पूछने के लिए ask और कोई चीज़ माँगने के लिए ask for लगता है।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "ask"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "asks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "asked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "asked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "asking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ask the clerk for a receipt.",
-          "trans": "काउंटर पर कर्मचारी से रसीद माँगिए।"
-        },
-        {
-          "text": "May I ask a quick question?",
-          "trans": "क्या मैं एक छोटा-सा सवाल पूछ सकता हूँ?"
-        }
-      ],
-      "related": []
-    },
-    "at": {
-      "lemma": "at",
-      "stress": "æt",
-      "pos": "prep",
-      "gloss": "पर, में (निश्चित बिंदु या समय)",
-      "meanings": [
-        {
-          "en": "पर, में (निश्चित बिंदु या समय)",
-          "note": "घड़ी का सटीक समय (at seven) और निश्चित स्थान (at the desk) बताता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast starts at seven thirty.",
-          "trans": "नाश्ता साढ़े सात बजे शुरू होता है।"
-        },
-        {
-          "text": "Someone is waiting at the gate.",
-          "trans": "गेट पर कोई इंतज़ार कर रहा है।"
-        }
-      ],
-      "related": []
-    },
-    "away": {
-      "lemma": "away",
-      "stress": "əˈweɪ",
-      "pos": "adv",
-      "gloss": "दूर",
-      "meanings": [
-        {
-          "en": "दूर",
-          "note": "दूरी या समय के माप के बाद आता है, जैसे five minutes away।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The station is ten minutes away.",
-          "trans": "स्टेशन यहाँ से दस मिनट दूर है।"
-        },
-        {
-          "text": "Put your coat away in the closet.",
-          "trans": "अपना कोट अलमारी में रख दीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "bag": {
-      "lemma": "bag",
-      "stress": "bæɡ",
-      "pos": "noun",
-      "gloss": "बैग, थैला, सूटकेस",
-      "meanings": [
-        {
-          "en": "बैग, थैला, सूटकेस",
-          "note": "बाज़ार के थैले, हैंडबैग और सफ़र के सामान सबके लिए आम शब्द।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Can I help you with your bag?",
-          "trans": "क्या मैं आपके बैग में मदद करूँ?"
-        },
-        {
-          "text": "Bring a cloth bag to the market.",
-          "trans": "बाज़ार के लिए कपड़े का थैला ले आइए।"
-        }
-      ],
-      "related": []
-    },
-    "be": {
-      "lemma": "be",
-      "stress": "bi",
-      "pos": "verb",
-      "gloss": "होना",
-      "meanings": [
-        {
-          "en": "होना",
-          "note": "वर्तमान में am, is, are और भूतकाल में was, were रूप चलते हैं।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "be"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "is"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "was, were"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "been"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "being"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The keys are on the desk.",
-          "trans": "चाबियाँ डेस्क पर हैं।"
-        },
-        {
-          "text": "She wants to be a teacher.",
-          "trans": "वह शिक्षिका बनना चाहती है।"
-        }
-      ],
-      "related": []
-    },
-    "because": {
-      "lemma": "because",
-      "stress": "bɪˈkɔz",
-      "pos": "conj",
-      "gloss": "क्योंकि",
-      "meanings": [
-        {
-          "en": "क्योंकि",
-          "note": "कारण बताने वाला मुख्य संयोजक शब्द।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Stay inside because it is raining.",
-          "trans": "अंदर ही रहिए क्योंकि बारिश हो रही है।"
-        },
-        {
-          "text": "I smiled because the story was funny.",
-          "trans": "मैं मुस्कुराया क्योंकि कहानी मज़ेदार थी।"
-        }
-      ],
-      "related": []
-    },
-    "before": {
-      "lemma": "before",
-      "stress": "bɪˈfɔɹ",
-      "pos": "prep",
-      "gloss": "से पहले",
-      "meanings": [
-        {
-          "en": "से पहले",
-          "note": "समय में पहले या स्थान में सामने का अर्थ देता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wash these apples before breakfast.",
-          "trans": "नाश्ते से पहले ये सेब धो लीजिए।"
-        },
-        {
-          "text": "Check the lock before you sleep.",
-          "trans": "सोने से पहले ताला जाँच लीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "believe": {
-      "lemma": "believe",
-      "stress": "bɪˈliv",
-      "pos": "verb",
-      "gloss": "यकीन करना, विश्वास करना",
-      "meanings": [
-        {
-          "en": "यकीन करना, विश्वास करना",
-          "note": "मानसिक स्थिति बताने वाली क्रिया, इसलिए सामान्यतः -ing रूप में नहीं आती।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "believe"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "believes"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "believed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "believed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "believing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I cannot believe this good luck!",
-          "trans": "मुझे इस अच्छी किस्मत पर यकीन नहीं हो रहा!"
-        },
-        {
-          "text": "Do you believe his story?",
-          "trans": "क्या आपको उसकी कहानी पर भरोसा है?"
-        }
-      ],
-      "related": []
-    },
-    "bell": {
-      "lemma": "bell",
-      "stress": "bɛl",
-      "pos": "noun",
-      "gloss": "घंटी",
-      "meanings": [
-        {
-          "en": "घंटी",
-          "note": "काउंटर की घंटी या दरवाज़े की बेल दोनों के लिए प्रयुक्त।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ring the bell at the front desk.",
-          "trans": "रिसेप्शन डेस्क पर घंटी बजाइए।"
-        },
-        {
-          "text": "Did you hear the gate bell?",
-          "trans": "क्या आपने गेट की घंटी सुनी?"
-        }
-      ],
-      "related": []
-    },
-    "belong": {
-      "lemma": "belong",
-      "stress": "bɪˈlɔŋ",
-      "pos": "verb",
-      "gloss": "का होना, से संबंधित होना",
-      "meanings": [
-        {
-          "en": "का होना, से संबंधित होना",
-          "note": "मालिक बताने से पहले हमेशा to लगता है (belong to me)।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "belong"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "belongs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "belonged"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "belonged"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "belonging"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Does this notebook belong to you?",
-          "trans": "क्या यह डायरी आपकी है?"
-        },
-        {
-          "text": "Those keys belong to room four.",
-          "trans": "वे चाबियाँ कमरा नंबर चार की हैं।"
-        }
-      ],
-      "related": []
-    },
-    "brother": {
-      "lemma": "brother",
-      "stress": "ˈbɹʌðɚ",
-      "pos": "noun",
-      "gloss": "भाई",
-      "meanings": [
-        {
-          "en": "भाई",
-          "note": "बड़े भाई को older/big brother और छोटे भाई को younger/little brother कहते हैं।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My older brother works in Portland.",
-          "trans": "मेरे बड़े भाई पोर्टलैंड में काम करते हैं।"
-        },
-        {
-          "text": "The two brothers hugged at the gate.",
-          "trans": "दोनों भाई फाटक पर गले मिले।"
-        }
-      ],
-      "related": []
-    },
-    "by": {
-      "lemma": "by",
-      "stress": "baɪ",
-      "pos": "prep",
-      "gloss": "के द्वारा; के पास",
-      "meanings": [
-        {
-          "en": "के द्वारा; के पास",
-          "note": "by mistake ('गलती से'), by train ('ट्रेन से') और पास की स्थिति में प्रयुक्त।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "She traveled here by morning train.",
-          "trans": "वह सुबह की ट्रेन से यहाँ आई।"
-        },
-        {
-          "text": "I took your pen by mistake.",
-          "trans": "मैंने गलती से आपका पेन ले लिया।"
-        }
-      ],
-      "related": []
-    },
-    "call": {
-      "lemma": "call",
-      "stress": "kɔl",
-      "pos": "verb",
-      "gloss": "फ़ोन करना; बुलाना",
-      "meanings": [
-        {
-          "en": "फ़ोन करना; बुलाना",
-          "note": "टेलीफ़ोन करने और आवाज़ देकर बुलाने या नाम रखने दोनों में आता है।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "call"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "calls"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "called"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "called"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "calling"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Call the front desk if you need help.",
-          "trans": "मदद चाहिए तो रिसेप्शन पर फ़ोन कीजिए।"
-        },
-        {
-          "text": "Friends call him by his nickname.",
-          "trans": "दोस्त उसे उसके उपनाम से बुलाते हैं।"
-        }
-      ],
-      "related": []
-    },
-    "cannot": {
-      "lemma": "cannot",
-      "stress": "ˈkænɑt",
-      "pos": "verb",
-      "gloss": "नहीं कर सकना",
-      "meanings": [
-        {
-          "en": "नहीं कर सकना",
-          "note": "can का नकारात्मक रूप; मानक अंग्रेज़ी में एक साथ cannot लिखा जाता है।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "cannot"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "cannot"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "could not"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I cannot read tiny print without glasses.",
-          "trans": "मैं चश्मे के बिना छोटे अक्षर नहीं पढ़ सकता।"
-        },
-        {
-          "text": "You cannot park in front of the gate.",
-          "trans": "आप गेट के सामने गाड़ी खड़ी नहीं कर सकते।"
-        }
-      ],
-      "related": []
-    },
-    "check": {
-      "lemma": "check",
-      "stress": "tʃɛk",
-      "pos": "verb",
-      "gloss": "जाँचना, देख लेना",
-      "meanings": [
-        {
-          "en": "जाँचना, देख लेना",
-          "note": "होटल में नाम दर्ज कर प्रवेश करने को check into कहते हैं।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "check"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "checks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "checked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "checked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "checking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Check the room number on your key.",
-          "trans": "अपनी चाबी पर कमरे का नंबर जाँच लीजिए।"
-        },
-        {
-          "text": "Two travelers checked into room six.",
-          "trans": "दो यात्रियों ने कमरा नंबर छह में चेक-इन किया।"
-        }
-      ],
-      "related": []
-    },
-    "complete": {
-      "lemma": "complete",
-      "stress": "kəmˈplit",
-      "pos": "adj",
-      "gloss": "पूरा, संपूर्ण",
-      "meanings": [
-        {
-          "en": "पूरा, संपूर्ण",
-          "note": "by complete accident में 'पूरी तरह संयोग से' पर ज़ोर देता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "It happened by complete accident.",
-          "trans": "यह पूरी तरह अनजाने में हुआ।"
-        },
-        {
-          "text": "Here is the complete guest list.",
-          "trans": "यह रही मेहमानों की पूरी सूची।"
-        }
-      ],
-      "related": []
-    },
-    "cousin": {
-      "lemma": "cousin",
-      "stress": "ˈkʌzən",
-      "pos": "noun",
-      "gloss": "चचेरा/ममेरा/मौसेरा/फुफेरा भाई या बहन",
-      "meanings": [
-        {
-          "en": "चचेरा/ममेरा/मौसेरा/फुफेरा भाई या बहन",
-          "note": "अंग्रेज़ी में लड़का और लड़की दोनों के लिए एक ही शब्द cousin चलता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I stayed at my cousin's apartment.",
-          "trans": "मैं अपने चचेरे भाई के अपार्टमेंट में रुका था।"
-        },
-        {
-          "text": "Her cousin lives near the harbor.",
-          "trans": "उसकी ममेरी बहन बंदरगाह के पास रहती है।"
-        }
-      ],
-      "related": []
-    },
-    "do": {
-      "lemma": "do",
-      "stress": "du",
-      "pos": "verb",
-      "gloss": "करना; प्रश्न/नकार की सहायक क्रिया",
-      "meanings": [
-        {
-          "en": "करना; प्रश्न/नकार की सहायक क्रिया",
-          "note": "मुख्य क्रिया ('करना') के अलावा Do you...? और do not में सहायक क्रिया है।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "do"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "does"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "did"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "done"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "doing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you want sugar in your coffee?",
-          "trans": "क्या आप अपनी कॉफ़ी में चीनी चाहते हैं?"
-        },
-        {
-          "text": "What should we do with this package?",
-          "trans": "हमें इस पैकेट का क्या करना चाहिए?"
-        }
-      ],
-      "related": []
-    },
-    "down": {
-      "lemma": "down",
-      "stress": "daʊn",
-      "pos": "adv",
-      "gloss": "नीचे",
-      "meanings": [
-        {
-          "en": "नीचे",
-          "note": "कई क्रियाओं के साथ जुड़ता है: sit down ('बैठ जाना'), write down ('लिख लेना')।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Please sit down and rest a moment.",
-          "trans": "कृपया बैठ जाइए और एक पल आराम कीजिए।"
-        },
-        {
-          "text": "Write down the phone number before you forget.",
-          "trans": "भूलने से पहले फ़ोन नंबर लिख लीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "evening": {
-      "lemma": "evening",
-      "stress": "ˈivnɪŋ",
-      "pos": "noun",
-      "gloss": "शाम",
-      "meanings": [
-        {
-          "en": "शाम",
-          "note": "मिलने पर Good evening! कहते हैं, और रात को विदा होते समय Good night!।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good evening! Do you have a reservation?",
-          "trans": "शुभ संध्या! क्या आपकी बुकिंग है?"
-        },
-        {
-          "text": "We serve herbal tea every evening at eight.",
-          "trans": "हम हर शाम आठ बजे हर्बल चाय परोसते हैं।"
-        }
-      ],
-      "related": []
-    },
-    "everything": {
-      "lemma": "everything",
-      "stress": "ˈɛvɹiˌθɪŋ",
-      "pos": "pron",
-      "gloss": "सब कुछ, हर चीज़",
-      "meanings": [
-        {
-          "en": "सब कुछ, हर चीज़",
-          "note": "इसके साथ भी क्रिया हमेशा एकवचन (Everything is ready) आती है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "मुझे वह सब कुछ बताइए जो मुझे जानना चाहिए।"
-        },
-        {
-          "text": "Everything in the kitchen is clean and ready.",
-          "trans": "रसोई में सब कुछ साफ़ और तैयार है।"
-        }
-      ],
-      "related": []
-    },
-    "exact": {
-      "lemma": "exact",
-      "stress": "ɪɡˈzækt",
-      "pos": "adj",
-      "gloss": "सटीक, बिल्कुल सही",
-      "meanings": [
-        {
-          "en": "सटीक, बिल्कुल सही",
-          "note": "गिनती, हिसाब और पते की पूर्ण शुद्धता दिखाने वाला विशेषण।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "They carried the exact same blue suitcase.",
-          "trans": "उन दोनों के पास बिल्कुल एक-जैसा नीला सूटकेस था।"
-        },
-        {
-          "text": "Do you have the exact address?",
-          "trans": "क्या आपके पास सटीक पता है?"
-        }
-      ],
-      "related": []
-    },
-    "forget": {
-      "lemma": "forget",
-      "stress": "fɚˈɡɛt",
-      "pos": "verb",
-      "gloss": "भूलना, विस्मृत करना",
-      "meanings": [
-        {
-          "en": "भूलना, विस्मृत करना",
-          "note": "अनियमित क्रिया: forget, भूतकाल forgot, कृदंत forgotten।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "forget"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "forgets"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "forgot"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "forgotten"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "forgetting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do not forget your umbrella.",
-          "trans": "अपना छाता मत भूलिएगा।"
-        },
-        {
-          "text": "I completely forgot the room number!",
-          "trans": "मैं कमरे का नंबर पूरी तरह भूल गया!"
-        }
-      ],
-      "related": []
-    },
-    "friday": {
-      "lemma": "friday",
-      "stress": "ˈfɹaɪdeɪ",
-      "pos": "noun",
-      "gloss": "शुक्रवार",
-      "meanings": [
-        {
-          "en": "शुक्रवार",
-          "note": "अंग्रेज़ी में सप्ताह के दिनों के नाम बड़े अक्षर से लिखे जाते हैं और उनके साथ on लगता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our weekend guests arrive on Friday.",
-          "trans": "सप्ताहांत के हमारे मेहमान शुक्रवार को आते हैं।"
-        },
-        {
-          "text": "See you on Friday morning!",
-          "trans": "शुक्रवार सुबह मिलते हैं!"
-        }
-      ],
-      "related": []
-    },
-    "grow": {
-      "lemma": "grow",
-      "stress": "ɡɹoʊ",
-      "pos": "verb",
-      "gloss": "उगाना; बढ़ना",
-      "meanings": [
-        {
-          "en": "उगाना; बढ़ना",
-          "note": "अनियमित रूप: grow, grew, grown; पौधे उगाने के लिए भी यही क्रिया है।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "grow"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "grows"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "grew"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "grown"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "growing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh mint grows beside the kitchen steps.",
-          "trans": "रसोई की सीढ़ियों के पास ताज़ा पुदीना उगता है।"
-        },
-        {
-          "text": "They grow herbs in wooden boxes.",
-          "trans": "वे लकड़ी के बक्सों में हरी जड़ी-बूटियाँ उगाते हैं।"
-        }
-      ],
-      "related": []
-    },
-    "guesthouse": {
-      "lemma": "guesthouse",
-      "stress": "ˈɡɛstˌhaʊs",
-      "pos": "noun",
-      "gloss": "गेस्टहाउस, अतिथि-गृह",
-      "meanings": [
-        {
-          "en": "गेस्टहाउस, अतिथि-गृह",
-          "note": "छोटा, घरेलू माहौल वाला विश्रामगृह या सराय।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "They run a quiet guesthouse near the harbor.",
-          "trans": "वे बंदरगाह के पास एक शांत गेस्टहाउस चलाते हैं।"
-        },
-        {
-          "text": "Every room in the guesthouse is unique.",
-          "trans": "गेस्टहाउस का हर कमरा अनोखा है।"
-        }
-      ],
-      "related": []
-    },
-    "handle": {
-      "lemma": "handle",
-      "stress": "ˈhændəl",
-      "pos": "noun",
-      "gloss": "हैंडल, मूठ, हत्था",
-      "meanings": [
-        {
-          "en": "हैंडल, मूठ, हत्था",
-          "note": "दरवाज़े के हैंडल, कप के कुंडे और सूटकेस की मूठ सबके लिए प्रयुक्त।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the brass handle before you push.",
-          "trans": "धक्का देने से पहले पीतल का हैंडल ऊपर उठाइए।"
-        },
-        {
-          "text": "A blue ribbon was tied to the suitcase handle.",
-          "trans": "सूटकेस के हैंडल पर नीला रिबन बँधा था।"
-        }
-      ],
-      "related": []
-    },
-    "have": {
-      "lemma": "have",
-      "stress": "hæv",
-      "pos": "verb",
-      "gloss": "पास होना; लेना (खाना-पीना)",
-      "meanings": [
-        {
-          "en": "पास होना; लेना (खाना-पीना)",
-          "note": "तीसरे पुरुष एकवचन में has और भूतकाल में had बनता है।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "have"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "has"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "had"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "had"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "having"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you have a reservation for tonight?",
-          "trans": "क्या आज रात के लिए आपकी बुकिंग है?"
-        },
-        {
-          "text": "Let us have coffee in the courtyard.",
-          "trans": "चलो आँगन में बैठकर कॉफ़ी पीते हैं।"
-        }
-      ],
-      "related": []
-    },
-    "her": {
-      "lemma": "her",
-      "stress": "hɝ",
-      "pos": "det",
-      "gloss": "उसका/उसकी (स्त्री.); उसे",
-      "meanings": [
-        {
-          "en": "उसका/उसकी (स्त्री.); उसे",
-          "note": "स्त्रीलिंग संबंधसूचक (her initials) और कर्म सर्वनाम (give her) दोनों।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tessa brought her basket of warm bread.",
-          "trans": "टेसा गरम ब्रेड की अपनी टोकरी लाई।"
-        },
-        {
-          "text": "Please give her a cup of mint tea.",
-          "trans": "कृपया उन्हें पुदीने की चाय का एक कप दीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "here": {
-      "lemma": "here",
-      "stress": "hɪɹ",
-      "pos": "adv",
-      "gloss": "यहाँ; यह लीजिए",
-      "meanings": [
-        {
-          "en": "यहाँ; यह लीजिए",
-          "note": "कोई चीज़ थमाते समय Here is... या Here you are ('यह लीजिए') कहते हैं।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is your brass key for room four.",
-          "trans": "यह लीजिए कमरा नंबर चार की पीतल की चाबी।"
-        },
-        {
-          "text": "Sign your name right here, please.",
-          "trans": "कृपया ठीक यहाँ अपने हस्ताक्षर कीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "honestly": {
-      "lemma": "honestly",
-      "stress": "ˈɑnɪstli",
-      "pos": "adv",
-      "gloss": "सच कहूँ तो, ईमानदारी से",
-      "meanings": [
-        {
-          "en": "सच कहूँ तो, ईमानदारी से",
-          "note": "शुरुआत का h मूक रहता है (ˈɑnɪstli); वाक्य के आरंभ में राय बताने के लिए आम।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Honestly, paper books never fail in a storm.",
-          "trans": "सच कहूँ तो, तूफ़ान में काग़ज़ के रजिस्टर कभी धोखा नहीं देते।"
-        },
-        {
-          "text": "Tell me honestly if the tea is too strong.",
-          "trans": "ईमानदारी से बताइए कि चाय ज़्यादा कड़क तो नहीं है।"
-        }
-      ],
-      "related": []
-    },
-    "i": {
-      "lemma": "i",
-      "stress": "aɪ",
-      "pos": "pron",
-      "gloss": "मैं",
-      "meanings": [
-        {
-          "en": "मैं",
-          "note": "अंग्रेज़ी लेखन में कर्ता 'मैं' को वाक्य के बीच में भी हमेशा बड़ा अक्षर I लिखते हैं।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I am Hannah, the new receptionist.",
-          "trans": "मैं हैना हूँ, नई रिसेप्शनिस्ट।"
-        },
-        {
-          "text": "May I help you with your luggage?",
-          "trans": "क्या मैं आपके सामान में मदद करूँ?"
-        }
-      ],
-      "related": []
-    },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "में, के अंदर",
-      "meanings": [
-        {
-          "en": "में, के अंदर",
-          "note": "बंद जगह (in the fridge), शहर (in Portland), अवधि (in ten minutes = 'दस मिनट में') में प्रयुक्त।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait in the warm dining room.",
-          "trans": "गुनगुने भोजन-कक्ष में इंतज़ार कीजिए।"
-        },
-        {
-          "text": "Coffee will be ready in three minutes.",
-          "trans": "कॉफ़ी तीन मिनट में तैयार हो जाएगी।"
-        }
-      ],
-      "related": []
-    },
-    "it": {
-      "lemma": "it",
-      "stress": "ɪt",
-      "pos": "pron",
-      "gloss": "यह, वह (निर्जीव/मौसम)",
-      "meanings": [
-        {
-          "en": "यह, वह (निर्जीव/मौसम)",
-          "note": "वस्तुओं के अलावा मौसम और समय के वाक्यों में अनिवार्य कर्ता: It is raining।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle, and it opens easily.",
-          "trans": "हैंडल ऊपर उठाइए, यह आसानी से खुल जाता है।"
-        },
-        {
-          "text": "It is sunny and warm this afternoon.",
-          "trans": "आज दोपहर धूप खिली है और मौसम सुहावना है।"
-        }
-      ],
-      "related": []
-    },
-    "leave": {
-      "lemma": "leave",
-      "stress": "liv",
-      "pos": "verb",
-      "gloss": "छोड़ना, रख जाना; निकलना",
-      "meanings": [
-        {
-          "en": "छोड़ना, रख जाना; निकलना",
-          "note": "अनियमित भूतकाल और कृदंत रूप: left।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "leave"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "leaves"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "leaving"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You can leave your bags by the desk.",
-          "trans": "आप अपने बैग डेस्क के पास छोड़ सकते हैं।"
-        },
-        {
-          "text": "Our bus leaves at nine fifteen.",
-          "trans": "हमारी बस सवा नौ बजे निकलती है।"
-        }
-      ],
-      "related": []
-    },
     "let": {
       "lemma": "let",
       "stress": "lɛt",
@@ -6266,65 +4811,27 @@
       ],
       "related": []
     },
-    "live": {
-      "lemma": "live",
-      "stress": "lɪv",
-      "pos": "verb",
-      "gloss": "रहना, निवास करना",
+    "me": {
+      "lemma": "me",
+      "stress": "mi",
+      "pos": "pron",
+      "gloss": "मुझे, मुझको",
       "meanings": [
         {
-          "en": "रहना, निवास करना",
-          "note": "क्रिया रूप में ह्रस्व स्वर /lɪv/ बोला जाता है, जबकि विशेषण live ('सीधा प्रसारण') /laɪv/ होता है।"
+          "en": "मुझे, मुझको",
+          "note": "I ('मैं') का कर्म कारक रूप: Tell me, with me, allow me।"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "live"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "lives"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "lived"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "lived"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "living"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Does your brother live in Portland?",
-          "trans": "क्या तुम्हारे भाई पोर्टलैंड में रहते हैं?"
+          "text": "Excuse me, where is the dining room?",
+          "trans": "माफ़ कीजिए, भोजन-कक्ष कहाँ है?"
         },
         {
-          "text": "Our family lived two streets away.",
-          "trans": "हमारा परिवार यहाँ से दो गली दूर रहता था।"
+          "text": "Save a cup of coffee for me.",
+          "trans": "मेरे लिए एक कप कॉफ़ी बचाकर रखिए।"
         }
       ],
       "related": []
@@ -6392,27 +4899,617 @@
       ],
       "related": []
     },
-    "me": {
-      "lemma": "me",
-      "stress": "mi",
-      "pos": "pron",
-      "gloss": "मुझे, मुझको",
+    "at": {
+      "lemma": "at",
+      "stress": "æt",
+      "pos": "prep",
+      "gloss": "पर, में (निश्चित बिंदु या समय)",
       "meanings": [
         {
-          "en": "मुझे, मुझको",
-          "note": "I ('मैं') का कर्म कारक रूप: Tell me, with me, allow me।"
+          "en": "पर, में (निश्चित बिंदु या समय)",
+          "note": "घड़ी का सटीक समय (at seven) और निश्चित स्थान (at the desk) बताता है।"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Excuse me, where is the dining room?",
-          "trans": "माफ़ कीजिए, भोजन-कक्ष कहाँ है?"
+          "text": "Breakfast starts at seven thirty.",
+          "trans": "नाश्ता साढ़े सात बजे शुरू होता है।"
         },
         {
-          "text": "Save a cup of coffee for me.",
-          "trans": "मेरे लिए एक कप कॉफ़ी बचाकर रखिए।"
+          "text": "Someone is waiting at the gate.",
+          "trans": "गेट पर कोई इंतज़ार कर रहा है।"
+        }
+      ],
+      "related": []
+    },
+    "you": {
+      "lemma": "you",
+      "stress": "ju",
+      "pos": "pron",
+      "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
+      "meanings": [
+        {
+          "en": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
+          "note": "अंग्रेज़ी में 'तुम', 'आप' और 'आप सब' के लिए एक ही सर्वनाम you है, और इसके साथ हमेशा are लगता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You are ten minutes early today!",
+          "trans": "आज तुम दस मिनट जल्दी आ गई हो!"
+        },
+        {
+          "text": "Thank you! See you next time!",
+          "trans": "धन्यवाद! अगली बार मिलते हैं!"
+        }
+      ],
+      "related": []
+    },
+    "properly": {
+      "lemma": "properly",
+      "stress": "ˈpɹɑpɚli",
+      "pos": "adv",
+      "gloss": "ठीक से, सही ढंग से",
+      "meanings": [
+        {
+          "en": "ठीक से, सही ढंग से",
+          "note": "दरवाज़े, ताले या मशीन के सही तरीके से काम करने के लिए आम शब्द।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle so the latch closes properly.",
+          "trans": "हैंडल ऊपर उठाइए ताकि कुंडी ठीक से बंद हो।"
+        },
+        {
+          "text": "Now the espresso machine works properly.",
+          "trans": "अब एस्प्रेसो मशीन ठीक से काम कर रही है।"
+        }
+      ],
+      "related": []
+    },
+    "grow": {
+      "lemma": "grow",
+      "stress": "ɡɹoʊ",
+      "pos": "verb",
+      "gloss": "उगाना; बढ़ना",
+      "meanings": [
+        {
+          "en": "उगाना; बढ़ना",
+          "note": "अनियमित रूप: grow, grew, grown; पौधे उगाने के लिए भी यही क्रिया है।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "grow"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "grows"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "grew"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "grown"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "growing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fresh mint grows beside the kitchen steps.",
+          "trans": "रसोई की सीढ़ियों के पास ताज़ा पुदीना उगता है।"
+        },
+        {
+          "text": "They grow herbs in wooden boxes.",
+          "trans": "वे लकड़ी के बक्सों में हरी जड़ी-बूटियाँ उगाते हैं।"
+        }
+      ],
+      "related": []
+    },
+    "tall": {
+      "lemma": "tall",
+      "stress": "tɔl",
+      "pos": "adj",
+      "gloss": "लंबा, ऊँचे क़द का",
+      "meanings": [
+        {
+          "en": "लंबा, ऊँचे क़द का",
+          "note": "व्यक्तियों, पेड़ों और खड़ी इमारतों की ऊँचाई बताने का मानक विशेषण।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Is there a tall man in a gray coat?",
+          "trans": "क्या बाहर स्लेटी कोट पहने कोई लंबा व्यक्ति खड़ा है?"
+        },
+        {
+          "text": "You grew taller than the piano!",
+          "trans": "तुम तो पियानो से भी ज़्यादा लंबे हो गए हो!"
+        }
+      ],
+      "related": []
+    },
+    "than": {
+      "lemma": "than",
+      "stress": "ðæn",
+      "pos": "conj",
+      "gloss": "से, की तुलना में",
+      "meanings": [
+        {
+          "en": "से, की तुलना में",
+          "note": "तुलनात्मक विशेषणों के बाद दूसरा पक्ष जोड़ता है: lighter than, better than।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This suitcase feels lighter than mine.",
+          "trans": "यह सूटकेस मेरे सूटकेस से हल्का लग रहा है।"
+        },
+        {
+          "text": "Tea stays hot longer in ceramic than in glass.",
+          "trans": "काँच की तुलना में चीनी मिट्टी के कप में चाय ज़्यादा देर गरम रहती है।"
+        }
+      ],
+      "related": []
+    },
+    "the": {
+      "lemma": "the",
+      "stress": "ðə",
+      "pos": "det",
+      "gloss": "निश्चित आर्टिकल (वह खास/परिचित)",
+      "meanings": [
+        {
+          "en": "निश्चित आर्टिकल (वह खास/परिचित)",
+          "note": "स्त्रीलिंग-पुल्लिंग और एकवचन-बहुवचन सबके साथ एक ही रूप; व्यंजन से पहले 'द' (ðə) और स्वर से पहले 'दी' (ði)।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle on the front door.",
+          "trans": "सामने के दरवाज़े का हैंडल ऊपर उठाइए।"
+        },
+        {
+          "text": "All the keys hang behind the desk.",
+          "trans": "सारी चाबियाँ डेस्क के पीछे टँगी हैं।"
+        }
+      ],
+      "related": []
+    },
+    "piano": {
+      "lemma": "piano",
+      "stress": "piˈænoʊ",
+      "pos": "noun",
+      "gloss": "पियानो",
+      "meanings": [
+        {
+          "en": "पियानो",
+          "note": "अंग्रेज़ी में तीन शब्दांशों में बोला जाता है: पि-ऐ-नो (piˈænoʊ)।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Evelyn plays the old parlor piano beautifully.",
+          "trans": "एवेलिन बैठक का पुराना पियानो बहुत खूबसूरती से बजाती है।"
+        },
+        {
+          "text": "A brass lamp stands beside the piano.",
+          "trans": "पियानो के पास पीतल का एक लैंप रखा है।"
+        }
+      ],
+      "related": []
+    },
+    "i": {
+      "lemma": "i",
+      "stress": "aɪ",
+      "pos": "pron",
+      "gloss": "मैं",
+      "meanings": [
+        {
+          "en": "मैं",
+          "note": "अंग्रेज़ी लेखन में कर्ता 'मैं' को वाक्य के बीच में भी हमेशा बड़ा अक्षर I लिखते हैं।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I am Hannah, the new receptionist.",
+          "trans": "मैं हैना हूँ, नई रिसेप्शनिस्ट।"
+        },
+        {
+          "text": "May I help you with your luggage?",
+          "trans": "क्या मैं आपके सामान में मदद करूँ?"
+        }
+      ],
+      "related": []
+    },
+    "cannot": {
+      "lemma": "cannot",
+      "stress": "ˈkænɑt",
+      "pos": "verb",
+      "gloss": "नहीं कर सकना",
+      "meanings": [
+        {
+          "en": "नहीं कर सकना",
+          "note": "can का नकारात्मक रूप; मानक अंग्रेज़ी में एक साथ cannot लिखा जाता है।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "cannot"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "cannot"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "could not"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I cannot read tiny print without glasses.",
+          "trans": "मैं चश्मे के बिना छोटे अक्षर नहीं पढ़ सकता।"
+        },
+        {
+          "text": "You cannot park in front of the gate.",
+          "trans": "आप गेट के सामने गाड़ी खड़ी नहीं कर सकते।"
+        }
+      ],
+      "related": []
+    },
+    "believe": {
+      "lemma": "believe",
+      "stress": "bɪˈliv",
+      "pos": "verb",
+      "gloss": "यकीन करना, विश्वास करना",
+      "meanings": [
+        {
+          "en": "यकीन करना, विश्वास करना",
+          "note": "मानसिक स्थिति बताने वाली क्रिया, इसलिए सामान्यतः -ing रूप में नहीं आती।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "believe"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "believes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "believed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "believed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "believing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I cannot believe this good luck!",
+          "trans": "मुझे इस अच्छी किस्मत पर यकीन नहीं हो रहा!"
+        },
+        {
+          "text": "Do you believe his story?",
+          "trans": "क्या आपको उसकी कहानी पर भरोसा है?"
+        }
+      ],
+      "related": []
+    },
+    "be": {
+      "lemma": "be",
+      "stress": "bi",
+      "pos": "verb",
+      "gloss": "होना",
+      "meanings": [
+        {
+          "en": "होना",
+          "note": "वर्तमान में am, is, are और भूतकाल में was, were रूप चलते हैं।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "be"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "is"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "was, were"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "been"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "being"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The keys are on the desk.",
+          "trans": "चाबियाँ डेस्क पर हैं।"
+        },
+        {
+          "text": "She wants to be a teacher.",
+          "trans": "वह शिक्षिका बनना चाहती है।"
+        }
+      ],
+      "related": []
+    },
+    "stay": {
+      "lemma": "stay",
+      "stress": "steɪ",
+      "pos": "verb",
+      "gloss": "ठहरना, रुकना; प्रवास",
+      "meanings": [
+        {
+          "en": "ठहरना, रुकना; प्रवास",
+          "note": "होटल या सराय में रुकने के लिए मुख्य क्रिया: stay at an inn, Enjoy your stay!।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "stay"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "stays"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "stayed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "stayed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "staying"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How many nights are you staying with us?",
+          "trans": "आप हमारे यहाँ कितनी रातें रुक रहे हैं?"
+        },
+        {
+          "text": "Stay warm and dry out there!",
+          "trans": "बाहर गर्म और सूखे रहिए!"
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "में, के अंदर",
+      "meanings": [
+        {
+          "en": "में, के अंदर",
+          "note": "बंद जगह (in the fridge), शहर (in Portland), अवधि (in ten minutes = 'दस मिनट में') में प्रयुक्त।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait in the warm dining room.",
+          "trans": "गुनगुने भोजन-कक्ष में इंतज़ार कीजिए।"
+        },
+        {
+          "text": "Coffee will be ready in three minutes.",
+          "trans": "कॉफ़ी तीन मिनट में तैयार हो जाएगी।"
+        }
+      ],
+      "related": []
+    },
+    "exact": {
+      "lemma": "exact",
+      "stress": "ɪɡˈzækt",
+      "pos": "adj",
+      "gloss": "सटीक, बिल्कुल सही",
+      "meanings": [
+        {
+          "en": "सटीक, बिल्कुल सही",
+          "note": "गिनती, हिसाब और पते की पूर्ण शुद्धता दिखाने वाला विशेषण।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "They carried the exact same blue suitcase.",
+          "trans": "उन दोनों के पास बिल्कुल एक-जैसा नीला सूटकेस था।"
+        },
+        {
+          "text": "Do you have the exact address?",
+          "trans": "क्या आपके पास सटीक पता है?"
+        }
+      ],
+      "related": []
+    },
+    "same": {
+      "lemma": "same",
+      "stress": "seɪm",
+      "pos": "adj",
+      "gloss": "वही, एक जैसा",
+      "meanings": [
+        {
+          "en": "वही, एक जैसा",
+          "note": "लगभग हमेशा निश्चित आर्टिकल the के साथ आता है: the same।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "They carried the exact same blue suitcase.",
+          "trans": "उन दोनों के पास बिल्कुल एक जैसा नीला सूटकेस था।"
+        },
+        {
+          "text": "Have a lovely day! — You too, same to you!",
+          "trans": "आपका दिन शुभ हो! — आपको भी!"
+        }
+      ],
+      "related": []
+    },
+    "guesthouse": {
+      "lemma": "guesthouse",
+      "stress": "ˈɡɛstˌhaʊs",
+      "pos": "noun",
+      "gloss": "गेस्टहाउस, अतिथि-गृह",
+      "meanings": [
+        {
+          "en": "गेस्टहाउस, अतिथि-गृह",
+          "note": "छोटा, घरेलू माहौल वाला विश्रामगृह या सराय।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "They run a quiet guesthouse near the harbor.",
+          "trans": "वे बंदरगाह के पास एक शांत गेस्टहाउस चलाते हैं।"
+        },
+        {
+          "text": "Every room in the guesthouse is unique.",
+          "trans": "गेस्टहाउस का हर कमरा अनोखा है।"
         }
       ],
       "related": []
@@ -6480,140 +5577,15 @@
       ],
       "related": []
     },
-    "monday": {
-      "lemma": "monday",
-      "stress": "ˈmʌndeɪ",
-      "pos": "noun",
-      "gloss": "सोमवार",
-      "meanings": [
-        {
-          "en": "सोमवार",
-          "note": "सप्ताह के सभी दिनों की तरह हमेशा बड़े अक्षर (Monday) से लिखा जाता है और इसके साथ on लगता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I arrived here on Monday evening.",
-          "trans": "मैं सोमवार शाम को यहाँ पहुँचा था।"
-        },
-        {
-          "text": "Monday was Hannah's first day.",
-          "trans": "सोमवार हैना का पहला दिन था।"
-        }
-      ],
-      "related": []
-    },
-    "music": {
-      "lemma": "music",
-      "stress": "ˈmjuzɪk",
-      "pos": "noun",
-      "gloss": "संगीत",
-      "meanings": [
-        {
-          "en": "संगीत",
-          "note": "sheet music का अर्थ है काग़ज़ पर छपी संगीत की स्वरलिपि।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Soft piano music played in the parlor.",
-          "trans": "बैठक में पियानो का मधुर संगीत बज रहा था।"
-        },
-        {
-          "text": "Do you listen to music while you bake?",
-          "trans": "क्या आप बेकिंग करते समय संगीत सुनते हैं?"
-        }
-      ],
-      "related": []
-    },
-    "my": {
-      "lemma": "my",
-      "stress": "maɪ",
-      "pos": "det",
-      "gloss": "मेरा, मेरी, मेरे",
-      "meanings": [
-        {
-          "en": "मेरा, मेरी, मेरे",
-          "note": "अंग्रेज़ी में संज्ञा के लिंग या वचन से my कभी नहीं बदलता: my coat, my glasses।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Today is my first morning at the desk.",
-          "trans": "आज रिसेप्शन डेस्क पर मेरी पहली सुबह है।"
-        },
-        {
-          "text": "Where did I put my reading glasses?",
-          "trans": "मैंने अपना पढ़ने का चश्मा कहाँ रख दिया?"
-        }
-      ],
-      "related": []
-    },
-    "name": {
-      "lemma": "name",
-      "stress": "neɪm",
-      "pos": "noun",
-      "gloss": "नाम",
-      "meanings": [
-        {
-          "en": "नाम",
-          "note": "नाम पूछने का मानक वाक्य है: What is your name?"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My name is Hannah, and this is Graham.",
-          "trans": "मेरा नाम हैना है, और ये ग्राहम हैं।"
-        },
-        {
-          "text": "Both guests wrote their names in the ledger.",
-          "trans": "दोनों मेहमानों ने रजिस्टर में अपने नाम लिखे।"
-        }
-      ],
-      "related": []
-    },
-    "nearby": {
-      "lemma": "nearby",
-      "stress": "ˌnɪɹˈbaɪ",
-      "pos": "adv",
-      "gloss": "आस-पास, पास ही में",
-      "meanings": [
-        {
-          "en": "आस-पास, पास ही में",
-          "note": "near के विपरीत nearby के बाद कोई कर्म नहीं लगता (a dinner nearby)।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "We booked a quiet table nearby.",
-          "trans": "हमने पास ही में एक शांत मेज़ बुक की है।"
-        },
-        {
-          "text": "Is there a pharmacy nearby?",
-          "trans": "क्या यहाँ आस-पास कोई दवा की दुकान है?"
-        }
-      ],
-      "related": []
-    },
-    "need": {
-      "lemma": "need",
-      "stress": "nid",
+    "wait": {
+      "lemma": "wait",
+      "stress": "weɪt",
       "pos": "verb",
-      "gloss": "ज़रूरत होना, चाहिए होना",
+      "gloss": "इंतज़ार करना, रुकना",
       "meanings": [
         {
-          "en": "ज़रूरत होना, चाहिए होना",
-          "note": "इसके बाद संज्ञा (need a key) या to + क्रिया (need to check) दोनों आते हैं।"
+          "en": "इंतज़ार करना, रुकना",
+          "note": "जिस चीज़ का इंतज़ार हो उसके पहले for लगता है: wait for the taxi (*wait the taxi* नहीं)।"
         }
       ],
       "forms": {
@@ -6626,31 +5598,31 @@
           {
             "cells": [
               "base",
-              "need"
+              "wait"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "needs"
+              "waits"
             ]
           },
           {
             "cells": [
               "past",
-              "needed"
+              "waited"
             ]
           },
           {
             "cells": [
               "past participle",
-              "needed"
+              "waited"
             ]
           },
           {
             "cells": [
               "-ing",
-              "needing"
+              "waiting"
             ]
           }
         ]
@@ -6658,513 +5630,37 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Tell me everything I need to know.",
-          "trans": "मुझे वह सब बताइए जो मुझे जानना ज़रूरी है।"
+          "text": "Wait right here while I grab the key.",
+          "trans": "यहीं रुकिए जब तक मैं चाबी ले आऊँ।"
         },
         {
-          "text": "Do you need an extra towel for your room?",
-          "trans": "क्या आपको अपने कमरे के लिए एक अतिरिक्त तौलिया चाहिए?"
+          "text": "Caleb waited for the yellow taxi at the curb.",
+          "trans": "केलेब ने फुटपाथ के किनारे पीली टैक्सी का इंतज़ार किया।"
         }
       ],
       "related": []
     },
-    "night": {
-      "lemma": "night",
-      "stress": "naɪt",
-      "pos": "noun",
-      "gloss": "रात",
-      "meanings": [
-        {
-          "en": "रात",
-          "note": "रात में के लिए at night और विदा लेते या सोने जाते समय Good night कहते हैं।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Did you book for one night or two?",
-          "trans": "क्या आपने एक रात के लिए बुकिंग की थी या दो?"
-        },
-        {
-          "text": "The courtyard is very quiet at night.",
-          "trans": "रात में आँगन बहुत शांत रहता है।"
-        }
-      ],
-      "related": []
-    },
-    "not": {
-      "lemma": "not",
-      "stress": "nɑt",
+    "so": {
+      "lemma": "so",
+      "stress": "soʊ",
       "pos": "adv",
-      "gloss": "नहीं (क्रिया को नकारात्मक बनाने वाला शब्द)",
+      "gloss": "इतना (+ विशेषण); इसलिए (संयोजक)",
       "meanings": [
         {
-          "en": "नहीं (क्रिया को नकारात्मक बनाने वाला शब्द)",
-          "note": "सहायक क्रिया be, modal या do/does/did के बाद लगता है।"
+          "en": "इतना (+ विशेषण); इसलिए (संयोजक)",
+          "note": "Thank you so much! और so warm में हर दिन सुनाई देता है।"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Do not worry; your bag is safe here.",
-          "trans": "चिंता मत कीजिए; आपका बैग यहाँ सुरक्षित है।"
+          "text": "Thank you so much for waiting!",
+          "trans": "इंतज़ार करने के लिए आपका बहुत-बहुत धन्यवाद!"
         },
         {
-          "text": "The tea is warm, not too hot.",
-          "trans": "चाय गुनगुनी है, ज़्यादा गरम नहीं।"
-        }
-      ],
-      "related": []
-    },
-    "note": {
-      "lemma": "note",
-      "stress": "noʊt",
-      "pos": "noun",
-      "gloss": "नोट, छोटी चिट्ठी, टिप्पणी",
-      "meanings": [
-        {
-          "en": "नोट, छोटी चिट्ठी, टिप्पणी",
-          "note": "रिसेप्शन पर take a note ('नोट लिखना') और leave a note ('संदेश छोड़ना') बहुत आम हैं।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Evelyn left a kind note on the desk.",
-          "trans": "एवेलिन ने डेस्क पर एक प्यारा-सा नोट छोड़ा।"
-        },
-        {
-          "text": "Let me write a quick note in the ledger.",
-          "trans": "मुझे रजिस्टर में जल्दी-से एक नोट लिख लेने दीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "old": {
-      "lemma": "old",
-      "stress": "oʊld",
-      "pos": "adj",
-      "gloss": "पुराना; बुज़ुर्ग; उम्र का (years old)",
-      "meanings": [
-        {
-          "en": "पुराना; बुज़ुर्ग; उम्र का (years old)",
-          "note": "उम्र बताने में years के साथ आता है: forty years old।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Portland has a charming old port district.",
-          "trans": "पोर्टलैंड में बंदरगाह वाला एक सुंदर पुराना इलाका है।"
-        },
-        {
-          "text": "This brass bell is eighty years old.",
-          "trans": "पीतल की यह घंटी अस्सी साल पुरानी है।"
-        }
-      ],
-      "related": []
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɑn",
-      "pos": "prep",
-      "gloss": "पर, के ऊपर; को (दिनों के साथ); चालू",
-      "meanings": [
-        {
-          "en": "पर, के ऊपर; को (दिनों के साथ); चालू",
-          "note": "सतह के स्पर्श (on the desk) और वार/तारीख (on Friday) के लिए आता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Your key is on the wooden desk.",
-          "trans": "आपकी चाबी लकड़ी की डेस्क पर रखी है।"
-        },
-        {
-          "text": "Tessa bakes apple rolls on Fridays.",
-          "trans": "टेसा शुक्रवार को सेब वाले रोल बेक करती है।"
-        }
-      ],
-      "related": []
-    },
-    "onto": {
-      "lemma": "onto",
-      "stress": "ˈɔntu",
-      "pos": "prep",
-      "gloss": "के ऊपर (गति के साथ)",
-      "meanings": [
-        {
-          "en": "के ऊपर (गति के साथ)",
-          "note": "किसी सतह की ओर गति और उस पर टिकने दोनों का भाव दिखाता है (slip the note onto the handle)।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "He slipped the note onto the door handle.",
-          "trans": "उसने पर्ची दरवाज़े के हैंडल पर फँसा दी।"
-        },
-        {
-          "text": "Step carefully onto the stone curb.",
-          "trans": "पत्थर के किनारे पर सावधानी से कदम रखिए।"
-        }
-      ],
-      "related": []
-    },
-    "open": {
-      "lemma": "open",
-      "stress": "ˈoʊpən",
-      "pos": "verb",
-      "gloss": "खोलना, खुलना; खुला हुआ (विशेषण)",
-      "meanings": [
-        {
-          "en": "खोलना, खुलना; खुला हुआ (विशेषण)",
-          "note": "दुकान या दरवाज़ा 'खुला है' कहने के लिए विशेषण open लगता है, *opened* नहीं।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "open"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "opens"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "opened"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "opened"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "opening"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh, the door opens when you lift the handle!",
-          "trans": "अरे, हैंडल ऊपर उठाते ही दरवाज़ा खुल जाता है!"
-        },
-        {
-          "text": "Please open the window for fresh air.",
-          "trans": "ताज़ी हवा के लिए कृपया खिड़की खोल दीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "package": {
-      "lemma": "package",
-      "stress": "ˈpækɪdʒ",
-      "pos": "noun",
-      "gloss": "पार्सल, पैकेट",
-      "meanings": [
-        {
-          "en": "पार्सल, पैकेट",
-          "note": "डाक या कूरियर से आए डिब्बे के लिए अमेरिकी अंग्रेज़ी का सामान्य शब्द।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A small brown package arrived for Evelyn.",
-          "trans": "एवेलिन के नाम एक छोटा भूरा पार्सल आया है।"
-        },
-        {
-          "text": "Sign here to receive the package, please.",
-          "trans": "पार्सल लेने के लिए कृपया यहाँ हस्ताक्षर कीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "panic": {
-      "lemma": "panic",
-      "stress": "ˈpænɪk",
-      "pos": "verb",
-      "gloss": "घबरा जाना, हड़बड़ा जाना",
-      "meanings": [
-        {
-          "en": "घबरा जाना, हड़बड़ा जाना",
-          "note": "-ed और -ing जोड़ते समय /k/ ध्वनि बनाए रखने के लिए वर्तनी में k जुड़ता है: panicked, panicking।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "panic"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "panics"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "panicked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "panicked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "panicking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Arthur panicked over decibel numbers!",
-          "trans": "आर्थर डेसिबल की संख्याएँ देखकर ही घबरा गए!"
-        },
-        {
-          "text": "Stay calm and do not panic.",
-          "trans": "शांत रहिए और बिल्कुल मत घबराइए।"
-        }
-      ],
-      "related": []
-    },
-    "paper": {
-      "lemma": "paper",
-      "stress": "ˈpeɪpɚ",
-      "pos": "noun",
-      "gloss": "काग़ज़; काग़ज़ का",
-      "meanings": [
-        {
-          "en": "काग़ज़; काग़ज़ का",
-          "note": "सामग्री के रूप में अगणनीय (some paper); संज्ञा से पहले विशेषता बताता है (paper book)।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use a big paper book and a pencil.",
-          "trans": "यहाँ हम काग़ज़ का एक बड़ा रजिस्टर और पेंसिल इस्तेमाल करते हैं।"
-        },
-        {
-          "text": "Write your address on this slip of paper.",
-          "trans": "काग़ज़ की इस पर्ची पर अपना पता लिख दीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "piano": {
-      "lemma": "piano",
-      "stress": "piˈænoʊ",
-      "pos": "noun",
-      "gloss": "पियानो",
-      "meanings": [
-        {
-          "en": "पियानो",
-          "note": "अंग्रेज़ी में तीन शब्दांशों में बोला जाता है: पि-ऐ-नो (piˈænoʊ)।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Evelyn plays the old parlor piano beautifully.",
-          "trans": "एवेलिन बैठक का पुराना पियानो बहुत खूबसूरती से बजाती है।"
-        },
-        {
-          "text": "A brass lamp stands beside the piano.",
-          "trans": "पियानो के पास पीतल का एक लैंप रखा है।"
-        }
-      ],
-      "related": []
-    },
-    "place": {
-      "lemma": "place",
-      "stress": "pleɪs",
-      "pos": "noun",
-      "gloss": "जगह, स्थान",
-      "meanings": [
-        {
-          "en": "जगह, स्थान",
-          "note": "This place ('यह जगह') और in place ('अपनी जगह पर') में बहुत प्रचलित।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This courtyard is a peaceful place to read.",
-          "trans": "पढ़ने के लिए यह आँगन एक शांत जगह है।"
-        },
-        {
-          "text": "Every brass key has its own place.",
-          "trans": "पीतल की हर चाबी की अपनी तय जगह है।"
-        }
-      ],
-      "related": []
-    },
-    "properly": {
-      "lemma": "properly",
-      "stress": "ˈpɹɑpɚli",
-      "pos": "adv",
-      "gloss": "ठीक से, सही ढंग से",
-      "meanings": [
-        {
-          "en": "ठीक से, सही ढंग से",
-          "note": "दरवाज़े, ताले या मशीन के सही तरीके से काम करने के लिए आम शब्द।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle so the latch closes properly.",
-          "trans": "हैंडल ऊपर उठाइए ताकि कुंडी ठीक से बंद हो।"
-        },
-        {
-          "text": "Now the espresso machine works properly.",
-          "trans": "अब एस्प्रेसो मशीन ठीक से काम कर रही है।"
-        }
-      ],
-      "related": []
-    },
-    "quiet": {
-      "lemma": "quiet",
-      "stress": "ˈkwaɪət",
-      "pos": "adj",
-      "gloss": "शांत, खामोश",
-      "meanings": [
-        {
-          "en": "शांत, खामोश",
-          "note": "दो शब्दांशों में बोला जाता है (ˈkwaɪət); इसे quite (kwaɪt 'काफ़ी') से अलग रखें।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room eight is on the quiet garden side.",
-          "trans": "कमरा नंबर आठ बगीचे की शांत तरफ़ है।"
-        },
-        {
-          "text": "Mornings are peaceful and quiet here.",
-          "trans": "यहाँ सुबहें बड़ी सुकूनभरी और शांत होती हैं।"
-        }
-      ],
-      "related": []
-    },
-    "real": {
-      "lemma": "real",
-      "stress": "ɹil",
-      "pos": "adj",
-      "gloss": "असली, वास्तविक, सच्चा",
-      "meanings": [
-        {
-          "en": "असली, वास्तविक, सच्चा",
-          "note": "your real name में यह किसी छद्म नाम या गुमनाम पर्ची से अंतर दिखाता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You checked in under your real name?",
-          "trans": "क्या तुमने अपने असली नाम से चेक-इन किया था?"
-        },
-        {
-          "text": "Tessa uses real butter and fresh lemons.",
-          "trans": "टेसा असली मक्खन और ताज़े नींबू इस्तेमाल करती है।"
-        }
-      ],
-      "related": []
-    },
-    "red": {
-      "lemma": "red",
-      "stress": "ɹɛd",
-      "pos": "adj",
-      "gloss": "लाल",
-      "meanings": [
-        {
-          "en": "लाल",
-          "note": "संज्ञा से पहले बिना किसी रूप-परिवर्तन के लगने वाला मूल रंग।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look for the red brick building on the corner.",
-          "trans": "कोने पर लाल ईंटों वाली इमारत देखिए।"
-        },
-        {
-          "text": "Tessa brought a basket of sweet red apples.",
-          "trans": "टेसा मीठे लाल सेबों की एक टोकरी लाई।"
-        }
-      ],
-      "related": []
-    },
-    "ribbon": {
-      "lemma": "ribbon",
-      "stress": "ˈɹɪbən",
-      "pos": "noun",
-      "gloss": "रिबन, फ़ीता",
-      "meanings": [
-        {
-          "en": "रिबन, फ़ीता",
-          "note": "एक जैसे दिखने वाले सूटकेसों को पहचानने का आसान तरीका।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Evelyn tied a yellow ribbon to her handle.",
-          "trans": "एवेलिन ने अपने हैंडल पर पीला रिबन बाँध रखा था।"
-        },
-        {
-          "text": "A silk ribbon wrapped the bakery box.",
-          "trans": "बेकरी के डिब्बे पर रेशमी रिबन बँधा था।"
+          "text": "It rained hard, so we stayed indoors.",
+          "trans": "तेज़ बारिश हुई, इसलिए हम अंदर ही रहे।"
         }
       ],
       "related": []
@@ -7232,153 +5728,453 @@
       ],
       "related": []
     },
-    "ring": {
-      "lemma": "ring",
-      "stress": "ɹɪŋ",
-      "pos": "verb",
-      "gloss": "बजना, बजाना (घंटी/फ़ोन); अँगूठी",
+    "train": {
+      "lemma": "train",
+      "stress": "tɹeɪn",
+      "pos": "noun",
+      "gloss": "ट्रेन, रेलगाड़ी",
       "meanings": [
         {
-          "en": "बजना, बजाना (घंटी/फ़ोन); अँगूठी",
-          "note": "स्वर बदलने वाली अनियमित क्रिया: ring, rang, rung।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "ring"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "rings"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "rang"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "rung"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "ringing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ring the brass bell on the front desk.",
-          "trans": "सामने डेस्क पर रखी पीतल की घंटी बजाइए।"
-        },
-        {
-          "text": "The lobby phone rang twice.",
-          "trans": "लॉबी का फ़ोन दो बार बजा।"
-        }
-      ],
-      "related": []
-    },
-    "run": {
-      "lemma": "run",
-      "stress": "ɹʌn",
-      "pos": "verb",
-      "gloss": "दौड़ना; चलना; (सराय/दुकान) चलाना",
-      "meanings": [
-        {
-          "en": "दौड़ना; चलना; (सराय/दुकान) चलाना",
-          "note": "अनियमित रूप: run, ran, run; run an inn का अर्थ है 'सराय का संचालन करना'।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "run"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "runs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "ran"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "run"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "running"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Caleb ran back to the taxi with the bag.",
-          "trans": "केलेब बैग लेकर दौड़कर टैक्सी के पास वापस गया।"
-        },
-        {
-          "text": "Graham has run this guesthouse for years.",
-          "trans": "ग्राहम कई सालों से यह गेस्टहाउस चला रहा है।"
-        }
-      ],
-      "related": []
-    },
-    "same": {
-      "lemma": "same",
-      "stress": "seɪm",
-      "pos": "adj",
-      "gloss": "वही, एक जैसा",
-      "meanings": [
-        {
-          "en": "वही, एक जैसा",
-          "note": "लगभग हमेशा निश्चित आर्टिकल the के साथ आता है: the same।"
+          "en": "ट्रेन, रेलगाड़ी",
+          "note": "Take the train और catch a train इसके मुख्य प्रयोग हैं।"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "They carried the exact same blue suitcase.",
-          "trans": "उन दोनों के पास बिल्कुल एक जैसा नीला सूटकेस था।"
+          "text": "Both guests arrived on the nine o'clock train.",
+          "trans": "दोनों मेहमान नौ बजे वाली ट्रेन से आए।"
         },
         {
-          "text": "Have a lovely day! — You too, same to you!",
-          "trans": "आपका दिन शुभ हो! — आपको भी!"
+          "text": "The train station is ten minutes away by taxi.",
+          "trans": "रेलवे स्टेशन यहाँ से टैक्सी से दस मिनट की दूरी पर है।"
+        }
+      ],
+      "related": []
+    },
+    "on": {
+      "lemma": "on",
+      "stress": "ɑn",
+      "pos": "prep",
+      "gloss": "पर, के ऊपर; को (दिनों के साथ); चालू",
+      "meanings": [
+        {
+          "en": "पर, के ऊपर; को (दिनों के साथ); चालू",
+          "note": "सतह के स्पर्श (on the desk) और वार/तारीख (on Friday) के लिए आता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your key is on the wooden desk.",
+          "trans": "आपकी चाबी लकड़ी की डेस्क पर रखी है।"
+        },
+        {
+          "text": "Tessa bakes apple rolls on Fridays.",
+          "trans": "टेसा शुक्रवार को सेब वाले रोल बेक करती है।"
+        }
+      ],
+      "related": []
+    },
+    "monday": {
+      "lemma": "monday",
+      "stress": "ˈmʌndeɪ",
+      "pos": "noun",
+      "gloss": "सोमवार",
+      "meanings": [
+        {
+          "en": "सोमवार",
+          "note": "सप्ताह के सभी दिनों की तरह हमेशा बड़े अक्षर (Monday) से लिखा जाता है और इसके साथ on लगता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I arrived here on Monday evening.",
+          "trans": "मैं सोमवार शाम को यहाँ पहुँचा था।"
+        },
+        {
+          "text": "Monday was Hannah's first day.",
+          "trans": "सोमवार हैना का पहला दिन था।"
+        }
+      ],
+      "related": []
+    },
+    "and": {
+      "lemma": "and",
+      "stress": "ænd",
+      "pos": "conj",
+      "gloss": "और",
+      "meanings": [
+        {
+          "en": "और",
+          "note": "दो शब्दों या वाक्यों को जोड़ने वाला मुख्य समुच्चयबोधक।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bring bread and butter, please.",
+          "trans": "कृपया ब्रेड और मक्खन लाइए।"
+        },
+        {
+          "text": "Wash your hands and sit down.",
+          "trans": "हाथ धोइए और बैठ जाइए।"
+        }
+      ],
+      "related": []
+    },
+    "take": {
+      "lemma": "take",
+      "stress": "teɪk",
+      "pos": "verb",
+      "gloss": "लेना, ले जाना; (समय) लगना",
+      "meanings": [
+        {
+          "en": "लेना, ले जाना; (समय) लगना",
+          "note": "बेहद उपयोगी क्रिया: take a taxi, take your time, How do you take your coffee?।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "take"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "takes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "took"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "taken"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "taking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Take an umbrella before you walk to the harbor.",
+          "trans": "बंदरगाह तक पैदल जाने से पहले एक छाता ले लीजिए।"
+        },
+        {
+          "text": "Someone took the wrong blue bag from the taxi.",
+          "trans": "टैक्सी से कोई गलती से दूसरा नीला बैग ले गया।"
+        }
+      ],
+      "related": []
+    },
+    "her": {
+      "lemma": "her",
+      "stress": "hɝ",
+      "pos": "det",
+      "gloss": "उसका/उसकी (स्त्री.); उसे",
+      "meanings": [
+        {
+          "en": "उसका/उसकी (स्त्री.); उसे",
+          "note": "स्त्रीलिंग संबंधसूचक (her initials) और कर्म सर्वनाम (give her) दोनों।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa brought her basket of warm bread.",
+          "trans": "टेसा गरम ब्रेड की अपनी टोकरी लाई।"
+        },
+        {
+          "text": "Please give her a cup of mint tea.",
+          "trans": "कृपया उन्हें पुदीने की चाय का एक कप दीजिए।"
+        }
+      ],
+      "related": []
+    },
+    "suitcase": {
+      "lemma": "suitcase",
+      "stress": "ˈsutˌkeɪs",
+      "pos": "noun",
+      "gloss": "सूटकेस, अटैची",
+      "meanings": [
+        {
+          "en": "सूटकेस, अटैची",
+          "note": "गणनीय संज्ञा (two blue suitcases), जबकि luggage अगणनीय होता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Two guests brought the exact same blue suitcase.",
+          "trans": "दो मेहमान बिल्कुल एक जैसा नीला सूटकेस लेकर आए।"
+        },
+        {
+          "text": "Set your suitcase on the wooden luggage rack.",
+          "trans": "अपना सूटकेस लकड़ी के स्टैंड पर रख दीजिए।"
+        }
+      ],
+      "related": []
+    },
+    "by": {
+      "lemma": "by",
+      "stress": "baɪ",
+      "pos": "prep",
+      "gloss": "के द्वारा; के पास",
+      "meanings": [
+        {
+          "en": "के द्वारा; के पास",
+          "note": "by mistake ('गलती से'), by train ('ट्रेन से') और पास की स्थिति में प्रयुक्त।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "She traveled here by morning train.",
+          "trans": "वह सुबह की ट्रेन से यहाँ आई।"
+        },
+        {
+          "text": "I took your pen by mistake.",
+          "trans": "मैंने गलती से आपका पेन ले लिया।"
+        }
+      ],
+      "related": []
+    },
+    "complete": {
+      "lemma": "complete",
+      "stress": "kəmˈplit",
+      "pos": "adj",
+      "gloss": "पूरा, संपूर्ण",
+      "meanings": [
+        {
+          "en": "पूरा, संपूर्ण",
+          "note": "by complete accident में 'पूरी तरह संयोग से' पर ज़ोर देता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "It happened by complete accident.",
+          "trans": "यह पूरी तरह अनजाने में हुआ।"
+        },
+        {
+          "text": "Here is the complete guest list.",
+          "trans": "यह रही मेहमानों की पूरी सूची।"
+        }
+      ],
+      "related": []
+    },
+    "accident": {
+      "lemma": "accident",
+      "stress": "ˈæksɪdənt",
+      "pos": "noun",
+      "gloss": "दुर्घटना; संयोग",
+      "meanings": [
+        {
+          "en": "दुर्घटना; संयोग",
+          "note": "मुहावरे by accident का अर्थ होता है 'अनजाने में, इत्तेफ़ाक से'।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I took your bag by accident.",
+          "trans": "मैंने अनजाने में आपका बैग ले लिया।"
+        },
+        {
+          "text": "Nobody got hurt in the accident.",
+          "trans": "दुर्घटना में किसी को चोट नहीं लगी।"
+        }
+      ],
+      "related": []
+    },
+    "my": {
+      "lemma": "my",
+      "stress": "maɪ",
+      "pos": "det",
+      "gloss": "मेरा, मेरी, मेरे",
+      "meanings": [
+        {
+          "en": "मेरा, मेरी, मेरे",
+          "note": "अंग्रेज़ी में संज्ञा के लिंग या वचन से my कभी नहीं बदलता: my coat, my glasses।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Today is my first morning at the desk.",
+          "trans": "आज रिसेप्शन डेस्क पर मेरी पहली सुबह है।"
+        },
+        {
+          "text": "Where did I put my reading glasses?",
+          "trans": "मैंने अपना पढ़ने का चश्मा कहाँ रख दिया?"
+        }
+      ],
+      "related": []
+    },
+    "cousin": {
+      "lemma": "cousin",
+      "stress": "ˈkʌzən",
+      "pos": "noun",
+      "gloss": "चचेरा/ममेरा/मौसेरा/फुफेरा भाई या बहन",
+      "meanings": [
+        {
+          "en": "चचेरा/ममेरा/मौसेरा/फुफेरा भाई या बहन",
+          "note": "अंग्रेज़ी में लड़का और लड़की दोनों के लिए एक ही शब्द cousin चलता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I stayed at my cousin's apartment.",
+          "trans": "मैं अपने चचेरे भाई के अपार्टमेंट में रुका था।"
+        },
+        {
+          "text": "Her cousin lives near the harbor.",
+          "trans": "उसकी ममेरी बहन बंदरगाह के पास रहती है।"
+        }
+      ],
+      "related": []
+    },
+    "apartment": {
+      "lemma": "apartment",
+      "stress": "əˈpɑɹtmənt",
+      "pos": "noun",
+      "gloss": "अपार्टमेंट, फ़्लैट",
+      "meanings": [
+        {
+          "en": "अपार्टमेंट, फ़्लैट",
+          "note": "अमेरिकी अंग्रेज़ी में बहुमंज़िला इमारत के घर का मानक शब्द।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My cousin rents a small apartment.",
+          "trans": "मेरा चचेरा भाई एक छोटा अपार्टमेंट किराए पर लेता है।"
+        },
+        {
+          "text": "Her apartment is on the top floor.",
+          "trans": "उसका अपार्टमेंट सबसे ऊपरी मंज़िल पर है।"
+        }
+      ],
+      "related": []
+    },
+    "open": {
+      "lemma": "open",
+      "stress": "ˈoʊpən",
+      "pos": "verb",
+      "gloss": "खोलना, खुलना; खुला हुआ (विशेषण)",
+      "meanings": [
+        {
+          "en": "खोलना, खुलना; खुला हुआ (विशेषण)",
+          "note": "दुकान या दरवाज़ा 'खुला है' कहने के लिए विशेषण open लगता है, *opened* नहीं।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "open"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "opens"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "opened"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "opened"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "opening"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh, the door opens when you lift the handle!",
+          "trans": "अरे, हैंडल ऊपर उठाते ही दरवाज़ा खुल जाता है!"
+        },
+        {
+          "text": "Please open the window for fresh air.",
+          "trans": "ताज़ी हवा के लिए कृपया खिड़की खोल दीजिए।"
+        }
+      ],
+      "related": []
+    },
+    "it": {
+      "lemma": "it",
+      "stress": "ɪt",
+      "pos": "pron",
+      "gloss": "यह, वह (निर्जीव/मौसम)",
+      "meanings": [
+        {
+          "en": "यह, वह (निर्जीव/मौसम)",
+          "note": "वस्तुओं के अलावा मौसम और समय के वाक्यों में अनिवार्य कर्ता: It is raining।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle, and it opens easily.",
+          "trans": "हैंडल ऊपर उठाइए, यह आसानी से खुल जाता है।"
+        },
+        {
+          "text": "It is sunny and warm this afternoon.",
+          "trans": "आज दोपहर धूप खिली है और मौसम सुहावना है।"
         }
       ],
       "related": []
@@ -7471,15 +6267,140 @@
       ],
       "related": []
     },
-    "slip": {
-      "lemma": "slip",
-      "stress": "slɪp",
-      "pos": "verb",
-      "gloss": "चुपके से सरकाना या फँसाना; फिसलना",
+    "music": {
+      "lemma": "music",
+      "stress": "ˈmjuzɪk",
+      "pos": "noun",
+      "gloss": "संगीत",
       "meanings": [
         {
-          "en": "चुपके से सरकाना या फँसाना; फिसलना",
-          "note": "भूतकाल व -ing में p दोगुना होता है (slipped, slipping); slip a note का अर्थ 'चुपचाप पर्ची रख देना' है।"
+          "en": "संगीत",
+          "note": "sheet music का अर्थ है काग़ज़ पर छपी संगीत की स्वरलिपि।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Soft piano music played in the parlor.",
+          "trans": "बैठक में पियानो का मधुर संगीत बज रहा था।"
+        },
+        {
+          "text": "Do you listen to music while you bake?",
+          "trans": "क्या आप बेकिंग करते समय संगीत सुनते हैं?"
+        }
+      ],
+      "related": []
+    },
+    "a": {
+      "lemma": "a",
+      "stress": "ə",
+      "pos": "det",
+      "gloss": "एक, कोई",
+      "meanings": [
+        {
+          "en": "एक, कोई",
+          "note": "व्यंजन ध्वनि से शुरू होने वाले एकवचन संज्ञा शब्द से पहले आता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I have a blue pen.",
+          "trans": "मेरे पास एक नीला पेन है।"
+        },
+        {
+          "text": "She wants a cup of tea.",
+          "trans": "वह एक कप चाय चाहती है।"
+        }
+      ],
+      "related": []
+    },
+    "red": {
+      "lemma": "red",
+      "stress": "ɹɛd",
+      "pos": "adj",
+      "gloss": "लाल",
+      "meanings": [
+        {
+          "en": "लाल",
+          "note": "संज्ञा से पहले बिना किसी रूप-परिवर्तन के लगने वाला मूल रंग।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look for the red brick building on the corner.",
+          "trans": "कोने पर लाल ईंटों वाली इमारत देखिए।"
+        },
+        {
+          "text": "Tessa brought a basket of sweet red apples.",
+          "trans": "टेसा मीठे लाल सेबों की एक टोकरी लाई।"
+        }
+      ],
+      "related": []
+    },
+    "ribbon": {
+      "lemma": "ribbon",
+      "stress": "ˈɹɪbən",
+      "pos": "noun",
+      "gloss": "रिबन, फ़ीता",
+      "meanings": [
+        {
+          "en": "रिबन, फ़ीता",
+          "note": "एक जैसे दिखने वाले सूटकेसों को पहचानने का आसान तरीका।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Evelyn tied a yellow ribbon to her handle.",
+          "trans": "एवेलिन ने अपने हैंडल पर पीला रिबन बाँध रखा था।"
+        },
+        {
+          "text": "A silk ribbon wrapped the bakery box.",
+          "trans": "बेकरी के डिब्बे पर रेशमी रिबन बँधा था।"
+        }
+      ],
+      "related": []
+    },
+    "why": {
+      "lemma": "why",
+      "stress": "waɪ",
+      "pos": "adv",
+      "gloss": "क्यों, किसलिए",
+      "meanings": [
+        {
+          "en": "क्यों, किसलिए",
+          "note": "सुझाव देने में Why don't we...? ('क्यों न हम...?') बहुत दोस्ताना लगता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Why are there two identical blue bags here?",
+          "trans": "यहाँ हूबहू एक जैसे दो नीले बैग क्यों रखे हैं?"
+        },
+        {
+          "text": "That explains why the zipper felt different!",
+          "trans": "इसी से समझ आया कि ज़िप अलग क्यों लग रही थी!"
+        }
+      ],
+      "related": []
+    },
+    "do": {
+      "lemma": "do",
+      "stress": "du",
+      "pos": "verb",
+      "gloss": "करना; प्रश्न/नकार की सहायक क्रिया",
+      "meanings": [
+        {
+          "en": "करना; प्रश्न/नकार की सहायक क्रिया",
+          "note": "मुख्य क्रिया ('करना') के अलावा Do you...? और do not में सहायक क्रिया है।"
         }
       ],
       "forms": {
@@ -7492,31 +6413,31 @@
           {
             "cells": [
               "base",
-              "slip"
+              "do"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "slips"
+              "does"
             ]
           },
           {
             "cells": [
               "past",
-              "slipped"
+              "did"
             ]
           },
           {
             "cells": [
               "past participle",
-              "slipped"
+              "done"
             ]
           },
           {
             "cells": [
               "-ing",
-              "slipping"
+              "doing"
             ]
           }
         ]
@@ -7524,75 +6445,25 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "He slipped the note onto the handle.",
-          "trans": "उसने चुपके से पर्ची दरवाज़े के हैंडल में फँसा दी।"
+          "text": "Do you want sugar in your coffee?",
+          "trans": "क्या आप अपनी कॉफ़ी में चीनी चाहते हैं?"
         },
         {
-          "text": "Careful not to slip on the wet stone.",
-          "trans": "ध्यान रहे, गीले पत्थर पर पैर न फिसले।"
+          "text": "What should we do with this package?",
+          "trans": "हमें इस पैकेट का क्या करना चाहिए?"
         }
       ],
       "related": []
     },
-    "so": {
-      "lemma": "so",
-      "stress": "soʊ",
-      "pos": "adv",
-      "gloss": "इतना (+ विशेषण); इसलिए (संयोजक)",
-      "meanings": [
-        {
-          "en": "इतना (+ विशेषण); इसलिए (संयोजक)",
-          "note": "Thank you so much! और so warm में हर दिन सुनाई देता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Thank you so much for waiting!",
-          "trans": "इंतज़ार करने के लिए आपका बहुत-बहुत धन्यवाद!"
-        },
-        {
-          "text": "It rained hard, so we stayed indoors.",
-          "trans": "तेज़ बारिश हुई, इसलिए हम अंदर ही रहे।"
-        }
-      ],
-      "related": []
-    },
-    "soon": {
-      "lemma": "soon",
-      "stress": "sun",
-      "pos": "adv",
-      "gloss": "जल्दी ही, शीघ्र",
-      "meanings": [
-        {
-          "en": "जल्दी ही, शीघ्र",
-          "note": "See you soon! जल्द दोबारा मिलने के वादे के साथ विदा लेता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Coffee will be ready very soon.",
-          "trans": "कॉफ़ी बहुत जल्दी तैयार हो जाएगी।"
-        },
-        {
-          "text": "See you soon in the courtyard!",
-          "trans": "आँगन में जल्द मिलते हैं!"
-        }
-      ],
-      "related": []
-    },
-    "stay": {
-      "lemma": "stay",
-      "stress": "steɪ",
+    "leave": {
+      "lemma": "leave",
+      "stress": "liv",
       "pos": "verb",
-      "gloss": "ठहरना, रुकना; प्रवास",
+      "gloss": "छोड़ना, रख जाना; निकलना",
       "meanings": [
         {
-          "en": "ठहरना, रुकना; प्रवास",
-          "note": "होटल या सराय में रुकने के लिए मुख्य क्रिया: stay at an inn, Enjoy your stay!।"
+          "en": "छोड़ना, रख जाना; निकलना",
+          "note": "अनियमित भूतकाल और कृदंत रूप: left।"
         }
       ],
       "forms": {
@@ -7605,31 +6476,31 @@
           {
             "cells": [
               "base",
-              "stay"
+              "leave"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "stays"
+              "leaves"
             ]
           },
           {
             "cells": [
               "past",
-              "stayed"
+              "left"
             ]
           },
           {
             "cells": [
               "past participle",
-              "stayed"
+              "left"
             ]
           },
           {
             "cells": [
               "-ing",
-              "staying"
+              "leaving"
             ]
           }
         ]
@@ -7637,12 +6508,37 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "How many nights are you staying with us?",
-          "trans": "आप हमारे यहाँ कितनी रातें रुक रहे हैं?"
+          "text": "You can leave your bags by the desk.",
+          "trans": "आप अपने बैग डेस्क के पास छोड़ सकते हैं।"
         },
         {
-          "text": "Stay warm and dry out there!",
-          "trans": "बाहर गर्म और सूखे रहिए!"
+          "text": "Our bus leaves at nine fifteen.",
+          "trans": "हमारी बस सवा नौ बजे निकलती है।"
+        }
+      ],
+      "related": []
+    },
+    "bag": {
+      "lemma": "bag",
+      "stress": "bæɡ",
+      "pos": "noun",
+      "gloss": "बैग, थैला, सूटकेस",
+      "meanings": [
+        {
+          "en": "बैग, थैला, सूटकेस",
+          "note": "बाज़ार के थैले, हैंडबैग और सफ़र के सामान सबके लिए आम शब्द।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Can I help you with your bag?",
+          "trans": "क्या मैं आपके बैग में मदद करूँ?"
+        },
+        {
+          "text": "Bring a cloth bag to the market.",
+          "trans": "बाज़ार के लिए कपड़े का थैला ले आइए।"
         }
       ],
       "related": []
@@ -7672,478 +6568,165 @@
       ],
       "related": []
     },
-    "still": {
-      "lemma": "still",
-      "stress": "stɪl",
+    "night": {
+      "lemma": "night",
+      "stress": "naɪt",
+      "pos": "noun",
+      "gloss": "रात",
+      "meanings": [
+        {
+          "en": "रात",
+          "note": "रात में के लिए at night और विदा लेते या सोने जाते समय Good night कहते हैं।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did you book for one night or two?",
+          "trans": "क्या आपने एक रात के लिए बुकिंग की थी या दो?"
+        },
+        {
+          "text": "The courtyard is very quiet at night.",
+          "trans": "रात में आँगन बहुत शांत रहता है।"
+        }
+      ],
+      "related": []
+    },
+    "run": {
+      "lemma": "run",
+      "stress": "ɹʌn",
+      "pos": "verb",
+      "gloss": "दौड़ना; चलना; (सराय/दुकान) चलाना",
+      "meanings": [
+        {
+          "en": "दौड़ना; चलना; (सराय/दुकान) चलाना",
+          "note": "अनियमित रूप: run, ran, run; run an inn का अर्थ है 'सराय का संचालन करना'।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "run"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "runs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "ran"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "run"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "running"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Caleb ran back to the taxi with the bag.",
+          "trans": "केलेब बैग लेकर दौड़कर टैक्सी के पास वापस गया।"
+        },
+        {
+          "text": "Graham has run this guesthouse for years.",
+          "trans": "ग्राहम कई सालों से यह गेस्टहाउस चला रहा है।"
+        }
+      ],
+      "related": []
+    },
+    "away": {
+      "lemma": "away",
+      "stress": "əˈweɪ",
       "pos": "adv",
-      "gloss": "अब भी, अभी तक; सादा/शांत (विशेषण)",
+      "gloss": "दूर",
       "meanings": [
         {
-          "en": "अब भी, अभी तक; सादा/शांत (विशेषण)",
-          "note": "मुख्य क्रिया से पहले (still rains) और be के बाद (is still hot) आता है।"
+          "en": "दूर",
+          "note": "दूरी या समय के माप के बाद आता है, जैसे five minutes away।"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Do not worry; the coffee is still hot.",
-          "trans": "चिंता मत करो; कॉफ़ी अब भी गरम है।"
+          "text": "The station is ten minutes away.",
+          "trans": "स्टेशन यहाँ से दस मिनट दूर है।"
         },
         {
-          "text": "Is it still raining outside?",
-          "trans": "क्या बाहर अभी भी बारिश हो रही है?"
+          "text": "Put your coat away in the closet.",
+          "trans": "अपना कोट अलमारी में रख दीजिए।"
         }
       ],
       "related": []
     },
-    "street": {
-      "lemma": "street",
-      "stress": "stɹit",
-      "pos": "noun",
-      "gloss": "गली, सड़क",
-      "meanings": [
-        {
-          "en": "गली, सड़क",
-          "note": "अमेरिकी अंग्रेज़ी में सड़क के नाम से पहले on लगता है: on Linden Street।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our guesthouse stands on quiet Linden Street.",
-          "trans": "हमारा गेस्टहाउस शांत लिंडन स्ट्रीट पर है।"
-        },
-        {
-          "text": "Cross the street to reach the bakery.",
-          "trans": "बेकरी तक पहुँचने के लिए सड़क पार कीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "suitcase": {
-      "lemma": "suitcase",
-      "stress": "ˈsutˌkeɪs",
-      "pos": "noun",
-      "gloss": "सूटकेस, अटैची",
-      "meanings": [
-        {
-          "en": "सूटकेस, अटैची",
-          "note": "गणनीय संज्ञा (two blue suitcases), जबकि luggage अगणनीय होता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Two guests brought the exact same blue suitcase.",
-          "trans": "दो मेहमान बिल्कुल एक जैसा नीला सूटकेस लेकर आए।"
-        },
-        {
-          "text": "Set your suitcase on the wooden luggage rack.",
-          "trans": "अपना सूटकेस लकड़ी के स्टैंड पर रख दीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "take": {
-      "lemma": "take",
-      "stress": "teɪk",
-      "pos": "verb",
-      "gloss": "लेना, ले जाना; (समय) लगना",
-      "meanings": [
-        {
-          "en": "लेना, ले जाना; (समय) लगना",
-          "note": "बेहद उपयोगी क्रिया: take a taxi, take your time, How do you take your coffee?।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "take"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "takes"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "took"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "taken"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "taking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Take an umbrella before you walk to the harbor.",
-          "trans": "बंदरगाह तक पैदल जाने से पहले एक छाता ले लीजिए।"
-        },
-        {
-          "text": "Someone took the wrong blue bag from the taxi.",
-          "trans": "टैक्सी से कोई गलती से दूसरा नीला बैग ले गया।"
-        }
-      ],
-      "related": []
-    },
-    "tall": {
-      "lemma": "tall",
-      "stress": "tɔl",
-      "pos": "adj",
-      "gloss": "लंबा, ऊँचे क़द का",
-      "meanings": [
-        {
-          "en": "लंबा, ऊँचे क़द का",
-          "note": "व्यक्तियों, पेड़ों और खड़ी इमारतों की ऊँचाई बताने का मानक विशेषण।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Is there a tall man in a gray coat?",
-          "trans": "क्या बाहर स्लेटी कोट पहने कोई लंबा व्यक्ति खड़ा है?"
-        },
-        {
-          "text": "You grew taller than the piano!",
-          "trans": "तुम तो पियानो से भी ज़्यादा लंबे हो गए हो!"
-        }
-      ],
-      "related": []
-    },
-    "than": {
-      "lemma": "than",
-      "stress": "ðæn",
+    "because": {
+      "lemma": "because",
+      "stress": "bɪˈkɔz",
       "pos": "conj",
-      "gloss": "से, की तुलना में",
+      "gloss": "क्योंकि",
       "meanings": [
         {
-          "en": "से, की तुलना में",
-          "note": "तुलनात्मक विशेषणों के बाद दूसरा पक्ष जोड़ता है: lighter than, better than।"
+          "en": "क्योंकि",
+          "note": "कारण बताने वाला मुख्य संयोजक शब्द।"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "This suitcase feels lighter than mine.",
-          "trans": "यह सूटकेस मेरे सूटकेस से हल्का लग रहा है।"
+          "text": "Stay inside because it is raining.",
+          "trans": "अंदर ही रहिए क्योंकि बारिश हो रही है।"
         },
         {
-          "text": "Tea stays hot longer in ceramic than in glass.",
-          "trans": "काँच की तुलना में चीनी मिट्टी के कप में चाय ज़्यादा देर गरम रहती है।"
+          "text": "I smiled because the story was funny.",
+          "trans": "मैं मुस्कुराया क्योंकि कहानी मज़ेदार थी।"
         }
       ],
       "related": []
     },
-    "that": {
-      "lemma": "that",
-      "stress": "ðæt",
-      "pos": "pron",
-      "gloss": "वह; कि/जो (संयोजक)",
+    "when": {
+      "lemma": "when",
+      "stress": "wɛn",
+      "pos": "conj",
+      "gloss": "जब; कब (सवाल में)",
       "meanings": [
         {
-          "en": "वह; कि/जो (संयोजक)",
-          "note": "थोड़ी दूर की चीज़ की ओर इशारा करता है या उपवाक्य जोड़ता है।"
+          "en": "जब; कब (सवाल में)",
+          "note": "समय बताने वाले when उपवाक्य में will नहीं, सामान्य वर्तमान आता है: when it rains।"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "That blue suitcase by the door is Arthur's.",
-          "trans": "दरवाज़े के पास रखा वह नीला सूटकेस आर्थर का है।"
+          "text": "Paper never loses the list when it rains.",
+          "trans": "जब बारिश होती है तब भी काग़ज़ सूची नहीं खोता।"
         },
         {
-          "text": "That sounds like a great plan!",
-          "trans": "यह तो बहुत बढ़िया योजना लग रही है!"
-        }
-      ],
-      "related": []
-    },
-    "the": {
-      "lemma": "the",
-      "stress": "ðə",
-      "pos": "det",
-      "gloss": "निश्चित आर्टिकल (वह खास/परिचित)",
-      "meanings": [
-        {
-          "en": "निश्चित आर्टिकल (वह खास/परिचित)",
-          "note": "स्त्रीलिंग-पुल्लिंग और एकवचन-बहुवचन सबके साथ एक ही रूप; व्यंजन से पहले 'द' (ðə) और स्वर से पहले 'दी' (ði)।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle on the front door.",
-          "trans": "सामने के दरवाज़े का हैंडल ऊपर उठाइए।"
-        },
-        {
-          "text": "All the keys hang behind the desk.",
-          "trans": "सारी चाबियाँ डेस्क के पीछे टँगी हैं।"
-        }
-      ],
-      "related": []
-    },
-    "this": {
-      "lemma": "this",
-      "stress": "ðɪs",
-      "pos": "det",
-      "gloss": "यह, इस",
-      "meanings": [
-        {
-          "en": "यह, इस",
-          "note": "छोटा 'इ' स्वर और अंत में 'स' (ðɪs); पास की वस्तु या व्यक्ति का परिचय कराता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use this big paper book.",
-          "trans": "यहाँ हम काग़ज़ का यह बड़ा रजिस्टर इस्तेमाल करते हैं।"
-        },
-        {
-          "text": "Hello, this is Hannah at the front desk.",
-          "trans": "नमस्ते, मैं रिसेप्शन से हैना बोल रही हूँ।"
-        }
-      ],
-      "related": []
-    },
-    "to": {
-      "lemma": "to",
-      "stress": "tu",
-      "pos": "prep",
-      "gloss": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
-      "meanings": [
-        {
-          "en": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
-          "note": "मंज़िल दिखाता है (walk to the harbor) या दूसरी क्रिया को जोड़ता है (need to know)।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Welcome to Linden Courtyard Inn!",
-          "trans": "लिंडन कोर्टयार्ड इन में आपका स्वागत है!"
-        },
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "मुझे वह सब बताइए जो मुझे जानना ज़रूरी है।"
-        }
-      ],
-      "related": []
-    },
-    "train": {
-      "lemma": "train",
-      "stress": "tɹeɪn",
-      "pos": "noun",
-      "gloss": "ट्रेन, रेलगाड़ी",
-      "meanings": [
-        {
-          "en": "ट्रेन, रेलगाड़ी",
-          "note": "Take the train और catch a train इसके मुख्य प्रयोग हैं।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Both guests arrived on the nine o'clock train.",
-          "trans": "दोनों मेहमान नौ बजे वाली ट्रेन से आए।"
-        },
-        {
-          "text": "The train station is ten minutes away by taxi.",
-          "trans": "रेलवे स्टेशन यहाँ से टैक्सी से दस मिनट की दूरी पर है।"
-        }
-      ],
-      "related": []
-    },
-    "tuesday": {
-      "lemma": "tuesday",
-      "stress": "ˈtuzdeɪ",
-      "pos": "noun",
-      "gloss": "मंगलवार",
-      "meanings": [
-        {
-          "en": "मंगलवार",
-          "note": "हमेशा बड़े अक्षर T से लिखा जाता है: Tuesday; इसे Thursday ('गुरुवार') से न उलझाएँ।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh honey arrives from the farm on Tuesday.",
-          "trans": "फ़ार्म से ताज़ा शहद मंगलवार को आता है।"
-        },
-        {
-          "text": "Room two is booked through Tuesday.",
-          "trans": "कमरा नंबर दो मंगलवार तक बुक है।"
-        }
-      ],
-      "related": []
-    },
-    "under": {
-      "lemma": "under",
-      "stress": "ˈʌndɚ",
-      "pos": "prep",
-      "gloss": "के नीचे; के नाम से (under the name...)",
-      "meanings": [
-        {
-          "en": "के नीचे; के नाम से (under the name...)",
-          "note": "होटल की बुकिंग में under Arthur का अर्थ होता है 'आर्थर के नाम से'।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The reservation is under Evelyn.",
-          "trans": "बुकिंग एवेलिन के नाम से है।"
-        },
-        {
-          "text": "Dry shoes sit under the wooden bench.",
-          "trans": "सूखे जूते लकड़ी की बेंच के नीचे रखे हैं।"
-        }
-      ],
-      "related": []
-    },
-    "until": {
-      "lemma": "until",
-      "stress": "ʌnˈtɪl",
-      "pos": "prep",
-      "gloss": "जब तक... न, (समय) तक",
-      "meanings": [
-        {
-          "en": "जब तक... न, (समय) तक",
-          "note": "समय की अंतिम सीमा दिखाता है: open until ten (दूरी के लिए to लगता है)।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast is served until ten o'clock.",
-          "trans": "नाश्ता ठीक दस बजे तक परोसा जाता है।"
-        },
-        {
-          "text": "Wait under the porch until the taxi arrives.",
-          "trans": "टैक्सी आने तक बरामदे की छत के नीचे इंतज़ार कीजिए।"
-        }
-      ],
-      "related": []
-    },
-    "us": {
-      "lemma": "us",
-      "stress": "ʌs",
-      "pos": "pron",
-      "gloss": "हमें, हमको (या पूर्वसर्ग के बाद 'हम')",
-      "meanings": [
-        {
-          "en": "हमें, हमको (या पूर्वसर्ग के बाद 'हम')",
-          "note": "We ('हम') का कर्म रूप; सुझाव देने वाले Let us / Let's का आधार।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Join us for hot tea in the parlor!",
-          "trans": "बैठक में हमारे साथ गरम चाय पीने आइए!"
-        },
-        {
-          "text": "Tessa brought fresh rolls for all of us.",
-          "trans": "टेसा हम सबके लिए ताज़े रोल लाई।"
-        }
-      ],
-      "related": []
-    },
-    "wait": {
-      "lemma": "wait",
-      "stress": "weɪt",
-      "pos": "verb",
-      "gloss": "इंतज़ार करना, रुकना",
-      "meanings": [
-        {
-          "en": "इंतज़ार करना, रुकना",
-          "note": "जिस चीज़ का इंतज़ार हो उसके पहले for लगता है: wait for the taxi (*wait the taxi* नहीं)।"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "wait"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "waits"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "waited"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "waited"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "waiting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait right here while I grab the key.",
-          "trans": "यहीं रुकिए जब तक मैं चाबी ले आऊँ।"
-        },
-        {
-          "text": "Caleb waited for the yellow taxi at the curb.",
-          "trans": "केलेब ने फुटपाथ के किनारे पीली टैक्सी का इंतज़ार किया।"
+          "text": "When does the afternoon ferry leave?",
+          "trans": "दोपहर की फ़ेरी कब छूटती है?"
         }
       ],
       "related": []
@@ -8211,127 +6794,265 @@
       ],
       "related": []
     },
-    "we": {
-      "lemma": "we",
-      "stress": "wi",
-      "pos": "pron",
-      "gloss": "हम",
-      "meanings": [
-        {
-          "en": "हम",
-          "note": "उत्तम पुरुष बहुवचन कर्ता सर्वनाम, स्त्री-पुरुष दोनों के लिए समान।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use a paper book and a pencil.",
-          "trans": "यहाँ हम काग़ज़ का रजिस्टर और पेंसिल इस्तेमाल करते हैं।"
-        },
-        {
-          "text": "We solved the suitcase mix-up together!",
-          "trans": "हमने मिलकर सूटकेस की उलझन सुलझा ली!"
-        }
-      ],
-      "related": []
-    },
-    "wednesday": {
-      "lemma": "wednesday",
-      "stress": "ˈwɛnzdeɪ",
-      "pos": "noun",
-      "gloss": "बुधवार",
-      "meanings": [
-        {
-          "en": "बुधवार",
-          "note": "उच्चारण पर ध्यान दें: पहला d और दूसरा e मूक रहते हैं, इसलिए दो ही अक्षांशों में /ˈwɛnzdeɪ/ बोला जाता है।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You checked in here on Wednesday night?",
-          "trans": "तुमने बुधवार रात यहाँ चेक-इन किया था न?"
-        },
-        {
-          "text": "Market day is every Wednesday morning.",
-          "trans": "हर बुधवार सुबह बाज़ार लगता है।"
-        }
-      ],
-      "related": []
-    },
-    "when": {
-      "lemma": "when",
-      "stress": "wɛn",
-      "pos": "conj",
-      "gloss": "जब; कब (सवाल में)",
-      "meanings": [
-        {
-          "en": "जब; कब (सवाल में)",
-          "note": "समय बताने वाले when उपवाक्य में will नहीं, सामान्य वर्तमान आता है: when it rains।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Paper never loses the list when it rains.",
-          "trans": "जब बारिश होती है तब भी काग़ज़ सूची नहीं खोता।"
-        },
-        {
-          "text": "When does the afternoon ferry leave?",
-          "trans": "दोपहर की फ़ेरी कब छूटती है?"
-        }
-      ],
-      "related": []
-    },
-    "white": {
-      "lemma": "white",
-      "stress": "waɪt",
-      "pos": "adj",
-      "gloss": "सफ़ेद",
-      "meanings": [
-        {
-          "en": "सफ़ेद",
-          "note": "साफ़ चादरों, चीनी मिट्टी के बर्तनों या तटीय लकड़ी के घरों के लिए।"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh white linens hang in every closet.",
-          "trans": "हर अलमारी में साफ़ सफ़ेद चादरें और तौलिए रखे हैं।"
-        },
-        {
-          "text": "Look for the white lighthouse on the point.",
-          "trans": "तट की नोक पर बने सफ़ेद लाइटहाउस को देखिए।"
-        }
-      ],
-      "related": []
-    },
-    "why": {
-      "lemma": "why",
-      "stress": "waɪ",
+    "here": {
+      "lemma": "here",
+      "stress": "hɪɹ",
       "pos": "adv",
-      "gloss": "क्यों, किसलिए",
+      "gloss": "यहाँ; यह लीजिए",
       "meanings": [
         {
-          "en": "क्यों, किसलिए",
-          "note": "सुझाव देने में Why don't we...? ('क्यों न हम...?') बहुत दोस्ताना लगता है।"
+          "en": "यहाँ; यह लीजिए",
+          "note": "कोई चीज़ थमाते समय Here is... या Here you are ('यह लीजिए') कहते हैं।"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Why are there two identical blue bags here?",
-          "trans": "यहाँ हूबहू एक जैसे दो नीले बैग क्यों रखे हैं?"
+          "text": "Here is your brass key for room four.",
+          "trans": "यह लीजिए कमरा नंबर चार की पीतल की चाबी।"
         },
         {
-          "text": "That explains why the zipper felt different!",
-          "trans": "इसी से समझ आया कि ज़िप अलग क्यों लग रही थी!"
+          "text": "Sign your name right here, please.",
+          "trans": "कृपया ठीक यहाँ अपने हस्ताक्षर कीजिए।"
+        }
+      ],
+      "related": []
+    },
+    "evening": {
+      "lemma": "evening",
+      "stress": "ˈivnɪŋ",
+      "pos": "noun",
+      "gloss": "शाम",
+      "meanings": [
+        {
+          "en": "शाम",
+          "note": "मिलने पर Good evening! कहते हैं, और रात को विदा होते समय Good night!।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Good evening! Do you have a reservation?",
+          "trans": "शुभ संध्या! क्या आपकी बुकिंग है?"
+        },
+        {
+          "text": "We serve herbal tea every evening at eight.",
+          "trans": "हम हर शाम आठ बजे हर्बल चाय परोसते हैं।"
+        }
+      ],
+      "related": []
+    },
+    "old": {
+      "lemma": "old",
+      "stress": "oʊld",
+      "pos": "adj",
+      "gloss": "पुराना; बुज़ुर्ग; उम्र का (years old)",
+      "meanings": [
+        {
+          "en": "पुराना; बुज़ुर्ग; उम्र का (years old)",
+          "note": "उम्र बताने में years के साथ आता है: forty years old।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Portland has a charming old port district.",
+          "trans": "पोर्टलैंड में बंदरगाह वाला एक सुंदर पुराना इलाका है।"
+        },
+        {
+          "text": "This brass bell is eighty years old.",
+          "trans": "पीतल की यह घंटी अस्सी साल पुरानी है।"
+        }
+      ],
+      "related": []
+    },
+    "brother": {
+      "lemma": "brother",
+      "stress": "ˈbɹʌðɚ",
+      "pos": "noun",
+      "gloss": "भाई",
+      "meanings": [
+        {
+          "en": "भाई",
+          "note": "बड़े भाई को older/big brother और छोटे भाई को younger/little brother कहते हैं।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My older brother works in Portland.",
+          "trans": "मेरे बड़े भाई पोर्टलैंड में काम करते हैं।"
+        },
+        {
+          "text": "The two brothers hugged at the gate.",
+          "trans": "दोनों भाई फाटक पर गले मिले।"
+        }
+      ],
+      "related": []
+    },
+    "down": {
+      "lemma": "down",
+      "stress": "daʊn",
+      "pos": "adv",
+      "gloss": "नीचे",
+      "meanings": [
+        {
+          "en": "नीचे",
+          "note": "कई क्रियाओं के साथ जुड़ता है: sit down ('बैठ जाना'), write down ('लिख लेना')।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Please sit down and rest a moment.",
+          "trans": "कृपया बैठ जाइए और एक पल आराम कीजिए।"
+        },
+        {
+          "text": "Write down the phone number before you forget.",
+          "trans": "भूलने से पहले फ़ोन नंबर लिख लीजिए।"
+        }
+      ],
+      "related": []
+    },
+    "this": {
+      "lemma": "this",
+      "stress": "ðɪs",
+      "pos": "det",
+      "gloss": "यह, इस",
+      "meanings": [
+        {
+          "en": "यह, इस",
+          "note": "छोटा 'इ' स्वर और अंत में 'स' (ðɪs); पास की वस्तु या व्यक्ति का परिचय कराता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here we use this big paper book.",
+          "trans": "यहाँ हम काग़ज़ का यह बड़ा रजिस्टर इस्तेमाल करते हैं।"
+        },
+        {
+          "text": "Hello, this is Hannah at the front desk.",
+          "trans": "नमस्ते, मैं रिसेप्शन से हैना बोल रही हूँ।"
+        }
+      ],
+      "related": []
+    },
+    "street": {
+      "lemma": "street",
+      "stress": "stɹit",
+      "pos": "noun",
+      "gloss": "गली, सड़क",
+      "meanings": [
+        {
+          "en": "गली, सड़क",
+          "note": "अमेरिकी अंग्रेज़ी में सड़क के नाम से पहले on लगता है: on Linden Street।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our guesthouse stands on quiet Linden Street.",
+          "trans": "हमारा गेस्टहाउस शांत लिंडन स्ट्रीट पर है।"
+        },
+        {
+          "text": "Cross the street to reach the bakery.",
+          "trans": "बेकरी तक पहुँचने के लिए सड़क पार कीजिए।"
+        }
+      ],
+      "related": []
+    },
+    "your": {
+      "lemma": "your",
+      "stress": "jʊɹ",
+      "pos": "det",
+      "gloss": "आपका, आपकी, तुम्हारा, तुम्हारी",
+      "meanings": [
+        {
+          "en": "आपका, आपकी, तुम्हारा, तुम्हारी",
+          "note": "संज्ञा से पहले अधिकार दिखाता है; इसे you're (you are का संक्षेप) से अलग रखें।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is your room key, Evelyn.",
+          "trans": "यह लीजिए आपके कमरे की चाबी, एवेलिन।"
+        },
+        {
+          "text": "Enjoy your morning coffee!",
+          "trans": "अपनी सुबह की कॉफ़ी का आनंद लीजिए!"
+        }
+      ],
+      "related": []
+    },
+    "live": {
+      "lemma": "live",
+      "stress": "lɪv",
+      "pos": "verb",
+      "gloss": "रहना, निवास करना",
+      "meanings": [
+        {
+          "en": "रहना, निवास करना",
+          "note": "क्रिया रूप में ह्रस्व स्वर /lɪv/ बोला जाता है, जबकि विशेषण live ('सीधा प्रसारण') /laɪv/ होता है।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "live"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "lives"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "lived"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "lived"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "living"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Does your brother live in Portland?",
+          "trans": "क्या तुम्हारे भाई पोर्टलैंड में रहते हैं?"
+        },
+        {
+          "text": "Our family lived two streets away.",
+          "trans": "हमारा परिवार यहाँ से दो गली दूर रहता था।"
         }
       ],
       "related": []
@@ -8361,52 +7082,1319 @@
       ],
       "related": []
     },
-    "you": {
-      "lemma": "you",
-      "stress": "ju",
-      "pos": "pron",
-      "gloss": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
+    "panic": {
+      "lemma": "panic",
+      "stress": "ˈpænɪk",
+      "pos": "verb",
+      "gloss": "घबरा जाना, हड़बड़ा जाना",
       "meanings": [
         {
-          "en": "आप, तुम (एकवचन और बहुवचन दोनों); आपको, तुम्हें",
-          "note": "अंग्रेज़ी में 'तुम', 'आप' और 'आप सब' के लिए एक ही सर्वनाम you है, और इसके साथ हमेशा are लगता है।"
+          "en": "घबरा जाना, हड़बड़ा जाना",
+          "note": "-ed और -ing जोड़ते समय /k/ ध्वनि बनाए रखने के लिए वर्तनी में k जुड़ता है: panicked, panicking।"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "panic"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "panics"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "panicked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "panicked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "panicking"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "You are ten minutes early today!",
-          "trans": "आज तुम दस मिनट जल्दी आ गई हो!"
+          "text": "Arthur panicked over decibel numbers!",
+          "trans": "आर्थर डेसिबल की संख्याएँ देखकर ही घबरा गए!"
         },
         {
-          "text": "Thank you! See you next time!",
-          "trans": "धन्यवाद! अगली बार मिलते हैं!"
+          "text": "Stay calm and do not panic.",
+          "trans": "शांत रहिए और बिल्कुल मत घबराइए।"
         }
       ],
       "related": []
     },
-    "your": {
-      "lemma": "your",
-      "stress": "jʊɹ",
-      "pos": "det",
-      "gloss": "आपका, आपकी, तुम्हारा, तुम्हारी",
+    "ring": {
+      "lemma": "ring",
+      "stress": "ɹɪŋ",
+      "pos": "verb",
+      "gloss": "बजना, बजाना (घंटी/फ़ोन); अँगूठी",
       "meanings": [
         {
-          "en": "आपका, आपकी, तुम्हारा, तुम्हारी",
-          "note": "संज्ञा से पहले अधिकार दिखाता है; इसे you're (you are का संक्षेप) से अलग रखें।"
+          "en": "बजना, बजाना (घंटी/फ़ोन); अँगूठी",
+          "note": "स्वर बदलने वाली अनियमित क्रिया: ring, rang, rung।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "ring"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "rings"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "rang"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "rung"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "ringing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ring the brass bell on the front desk.",
+          "trans": "सामने डेस्क पर रखी पीतल की घंटी बजाइए।"
+        },
+        {
+          "text": "The lobby phone rang twice.",
+          "trans": "लॉबी का फ़ोन दो बार बजा।"
+        }
+      ],
+      "related": []
+    },
+    "bell": {
+      "lemma": "bell",
+      "stress": "bɛl",
+      "pos": "noun",
+      "gloss": "घंटी",
+      "meanings": [
+        {
+          "en": "घंटी",
+          "note": "काउंटर की घंटी या दरवाज़े की बेल दोनों के लिए प्रयुक्त।"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Here is your room key, Evelyn.",
-          "trans": "यह लीजिए आपके कमरे की चाबी, एवेलिन।"
+          "text": "Ring the bell at the front desk.",
+          "trans": "रिसेप्शन डेस्क पर घंटी बजाइए।"
         },
         {
-          "text": "Enjoy your morning coffee!",
-          "trans": "अपनी सुबह की कॉफ़ी का आनंद लीजिए!"
+          "text": "Did you hear the gate bell?",
+          "trans": "क्या आपने गेट की घंटी सुनी?"
+        }
+      ],
+      "related": []
+    },
+    "slip": {
+      "lemma": "slip",
+      "stress": "slɪp",
+      "pos": "verb",
+      "gloss": "चुपके से सरकाना या फँसाना; फिसलना",
+      "meanings": [
+        {
+          "en": "चुपके से सरकाना या फँसाना; फिसलना",
+          "note": "भूतकाल व -ing में p दोगुना होता है (slipped, slipping); slip a note का अर्थ 'चुपचाप पर्ची रख देना' है।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "slip"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "slips"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "slipped"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "slipped"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "slipping"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He slipped the note onto the handle.",
+          "trans": "उसने चुपके से पर्ची दरवाज़े के हैंडल में फँसा दी।"
+        },
+        {
+          "text": "Careful not to slip on the wet stone.",
+          "trans": "ध्यान रहे, गीले पत्थर पर पैर न फिसले।"
+        }
+      ],
+      "related": []
+    },
+    "friday": {
+      "lemma": "friday",
+      "stress": "ˈfɹaɪdeɪ",
+      "pos": "noun",
+      "gloss": "शुक्रवार",
+      "meanings": [
+        {
+          "en": "शुक्रवार",
+          "note": "अंग्रेज़ी में सप्ताह के दिनों के नाम बड़े अक्षर से लिखे जाते हैं और उनके साथ on लगता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our weekend guests arrive on Friday.",
+          "trans": "सप्ताहांत के हमारे मेहमान शुक्रवार को आते हैं।"
+        },
+        {
+          "text": "See you on Friday morning!",
+          "trans": "शुक्रवार सुबह मिलते हैं!"
+        }
+      ],
+      "related": []
+    },
+    "note": {
+      "lemma": "note",
+      "stress": "noʊt",
+      "pos": "noun",
+      "gloss": "नोट, छोटी चिट्ठी, टिप्पणी",
+      "meanings": [
+        {
+          "en": "नोट, छोटी चिट्ठी, टिप्पणी",
+          "note": "रिसेप्शन पर take a note ('नोट लिखना') और leave a note ('संदेश छोड़ना') बहुत आम हैं।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Evelyn left a kind note on the desk.",
+          "trans": "एवेलिन ने डेस्क पर एक प्यारा-सा नोट छोड़ा।"
+        },
+        {
+          "text": "Let me write a quick note in the ledger.",
+          "trans": "मुझे रजिस्टर में जल्दी-से एक नोट लिख लेने दीजिए।"
+        }
+      ],
+      "related": []
+    },
+    "onto": {
+      "lemma": "onto",
+      "stress": "ˈɔntu",
+      "pos": "prep",
+      "gloss": "के ऊपर (गति के साथ)",
+      "meanings": [
+        {
+          "en": "के ऊपर (गति के साथ)",
+          "note": "किसी सतह की ओर गति और उस पर टिकने दोनों का भाव दिखाता है (slip the note onto the handle)।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He slipped the note onto the door handle.",
+          "trans": "उसने पर्ची दरवाज़े के हैंडल पर फँसा दी।"
+        },
+        {
+          "text": "Step carefully onto the stone curb.",
+          "trans": "पत्थर के किनारे पर सावधानी से कदम रखिए।"
+        }
+      ],
+      "related": []
+    },
+    "handle": {
+      "lemma": "handle",
+      "stress": "ˈhændəl",
+      "pos": "noun",
+      "gloss": "हैंडल, मूठ, हत्था",
+      "meanings": [
+        {
+          "en": "हैंडल, मूठ, हत्था",
+          "note": "दरवाज़े के हैंडल, कप के कुंडे और सूटकेस की मूठ सबके लिए प्रयुक्त।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the brass handle before you push.",
+          "trans": "धक्का देने से पहले पीतल का हैंडल ऊपर उठाइए।"
+        },
+        {
+          "text": "A blue ribbon was tied to the suitcase handle.",
+          "trans": "सूटकेस के हैंडल पर नीला रिबन बँधा था।"
+        }
+      ],
+      "related": []
+    },
+    "wednesday": {
+      "lemma": "wednesday",
+      "stress": "ˈwɛnzdeɪ",
+      "pos": "noun",
+      "gloss": "बुधवार",
+      "meanings": [
+        {
+          "en": "बुधवार",
+          "note": "उच्चारण पर ध्यान दें: पहला d और दूसरा e मूक रहते हैं, इसलिए दो ही अक्षांशों में /ˈwɛnzdeɪ/ बोला जाता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You checked in here on Wednesday night?",
+          "trans": "तुमने बुधवार रात यहाँ चेक-इन किया था न?"
+        },
+        {
+          "text": "Market day is every Wednesday morning.",
+          "trans": "हर बुधवार सुबह बाज़ार लगता है।"
+        }
+      ],
+      "related": []
+    },
+    "check": {
+      "lemma": "check",
+      "stress": "tʃɛk",
+      "pos": "verb",
+      "gloss": "जाँचना, देख लेना",
+      "meanings": [
+        {
+          "en": "जाँचना, देख लेना",
+          "note": "होटल में नाम दर्ज कर प्रवेश करने को check into कहते हैं।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "check"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "checks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "checked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "checked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "checking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Check the room number on your key.",
+          "trans": "अपनी चाबी पर कमरे का नंबर जाँच लीजिए।"
+        },
+        {
+          "text": "Two travelers checked into room six.",
+          "trans": "दो यात्रियों ने कमरा नंबर छह में चेक-इन किया।"
+        }
+      ],
+      "related": []
+    },
+    "under": {
+      "lemma": "under",
+      "stress": "ˈʌndɚ",
+      "pos": "prep",
+      "gloss": "के नीचे; के नाम से (under the name...)",
+      "meanings": [
+        {
+          "en": "के नीचे; के नाम से (under the name...)",
+          "note": "होटल की बुकिंग में under Arthur का अर्थ होता है 'आर्थर के नाम से'।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The reservation is under Evelyn.",
+          "trans": "बुकिंग एवेलिन के नाम से है।"
+        },
+        {
+          "text": "Dry shoes sit under the wooden bench.",
+          "trans": "सूखे जूते लकड़ी की बेंच के नीचे रखे हैं।"
+        }
+      ],
+      "related": []
+    },
+    "real": {
+      "lemma": "real",
+      "stress": "ɹil",
+      "pos": "adj",
+      "gloss": "असली, वास्तविक, सच्चा",
+      "meanings": [
+        {
+          "en": "असली, वास्तविक, सच्चा",
+          "note": "your real name में यह किसी छद्म नाम या गुमनाम पर्ची से अंतर दिखाता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You checked in under your real name?",
+          "trans": "क्या तुमने अपने असली नाम से चेक-इन किया था?"
+        },
+        {
+          "text": "Tessa uses real butter and fresh lemons.",
+          "trans": "टेसा असली मक्खन और ताज़े नींबू इस्तेमाल करती है।"
+        }
+      ],
+      "related": []
+    },
+    "name": {
+      "lemma": "name",
+      "stress": "neɪm",
+      "pos": "noun",
+      "gloss": "नाम",
+      "meanings": [
+        {
+          "en": "नाम",
+          "note": "नाम पूछने का मानक वाक्य है: What is your name?"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My name is Hannah, and this is Graham.",
+          "trans": "मेरा नाम हैना है, और ये ग्राहम हैं।"
+        },
+        {
+          "text": "Both guests wrote their names in the ledger.",
+          "trans": "दोनों मेहमानों ने रजिस्टर में अपने नाम लिखे।"
+        }
+      ],
+      "related": []
+    },
+    "need": {
+      "lemma": "need",
+      "stress": "nid",
+      "pos": "verb",
+      "gloss": "ज़रूरत होना, चाहिए होना",
+      "meanings": [
+        {
+          "en": "ज़रूरत होना, चाहिए होना",
+          "note": "इसके बाद संज्ञा (need a key) या to + क्रिया (need to check) दोनों आते हैं।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "need"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "needs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "needed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "needed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "needing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "मुझे वह सब बताइए जो मुझे जानना ज़रूरी है।"
+        },
+        {
+          "text": "Do you need an extra towel for your room?",
+          "trans": "क्या आपको अपने कमरे के लिए एक अतिरिक्त तौलिया चाहिए?"
+        }
+      ],
+      "related": []
+    },
+    "quiet": {
+      "lemma": "quiet",
+      "stress": "ˈkwaɪət",
+      "pos": "adj",
+      "gloss": "शांत, खामोश",
+      "meanings": [
+        {
+          "en": "शांत, खामोश",
+          "note": "दो शब्दांशों में बोला जाता है (ˈkwaɪət); इसे quite (kwaɪt 'काफ़ी') से अलग रखें।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room eight is on the quiet garden side.",
+          "trans": "कमरा नंबर आठ बगीचे की शांत तरफ़ है।"
+        },
+        {
+          "text": "Mornings are peaceful and quiet here.",
+          "trans": "यहाँ सुबहें बड़ी सुकूनभरी और शांत होती हैं।"
+        }
+      ],
+      "related": []
+    },
+    "place": {
+      "lemma": "place",
+      "stress": "pleɪs",
+      "pos": "noun",
+      "gloss": "जगह, स्थान",
+      "meanings": [
+        {
+          "en": "जगह, स्थान",
+          "note": "This place ('यह जगह') और in place ('अपनी जगह पर') में बहुत प्रचलित।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This courtyard is a peaceful place to read.",
+          "trans": "पढ़ने के लिए यह आँगन एक शांत जगह है।"
+        },
+        {
+          "text": "Every brass key has its own place.",
+          "trans": "पीतल की हर चाबी की अपनी तय जगह है।"
+        }
+      ],
+      "related": []
+    },
+    "nearby": {
+      "lemma": "nearby",
+      "stress": "ˌnɪɹˈbaɪ",
+      "pos": "adv",
+      "gloss": "आस-पास, पास ही में",
+      "meanings": [
+        {
+          "en": "आस-पास, पास ही में",
+          "note": "near के विपरीत nearby के बाद कोई कर्म नहीं लगता (a dinner nearby)।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We booked a quiet table nearby.",
+          "trans": "हमने पास ही में एक शांत मेज़ बुक की है।"
+        },
+        {
+          "text": "Is there a pharmacy nearby?",
+          "trans": "क्या यहाँ आस-पास कोई दवा की दुकान है?"
+        }
+      ],
+      "related": []
+    },
+    "before": {
+      "lemma": "before",
+      "stress": "bɪˈfɔɹ",
+      "pos": "prep",
+      "gloss": "से पहले",
+      "meanings": [
+        {
+          "en": "से पहले",
+          "note": "समय में पहले या स्थान में सामने का अर्थ देता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wash these apples before breakfast.",
+          "trans": "नाश्ते से पहले ये सेब धो लीजिए।"
+        },
+        {
+          "text": "Check the lock before you sleep.",
+          "trans": "सोने से पहले ताला जाँच लीजिए।"
+        }
+      ],
+      "related": []
+    },
+    "honestly": {
+      "lemma": "honestly",
+      "stress": "ˈɑnɪstli",
+      "pos": "adv",
+      "gloss": "सच कहूँ तो, ईमानदारी से",
+      "meanings": [
+        {
+          "en": "सच कहूँ तो, ईमानदारी से",
+          "note": "शुरुआत का h मूक रहता है (ˈɑnɪstli); वाक्य के आरंभ में राय बताने के लिए आम।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Honestly, paper books never fail in a storm.",
+          "trans": "सच कहूँ तो, तूफ़ान में काग़ज़ के रजिस्टर कभी धोखा नहीं देते।"
+        },
+        {
+          "text": "Tell me honestly if the tea is too strong.",
+          "trans": "ईमानदारी से बताइए कि चाय ज़्यादा कड़क तो नहीं है।"
+        }
+      ],
+      "related": []
+    },
+    "feel": {
+      "lemma": "feel",
+      "stress": "fil",
+      "pos": "verb",
+      "gloss": "महसूस करना; (छूने/उठाने में) लगना",
+      "meanings": [
+        {
+          "en": "महसूस करना; (छूने/उठाने में) लगना",
+          "note": "विशेषण के साथ स्थिति बताता है: feels heavy ('भारी लग रहा है')।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "feel"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "feels"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "felt"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "felt"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "feeling"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This suitcase feels much lighter than mine.",
+          "trans": "यह सूटकेस मेरे सूटकेस से काफ़ी हल्का लग रहा है।"
+        },
+        {
+          "text": "I feel right at home here.",
+          "trans": "यहाँ मुझे बिल्कुल घर जैसा लगता है।"
+        }
+      ],
+      "related": []
+    },
+    "too": {
+      "lemma": "too",
+      "stress": "tu",
+      "pos": "adv",
+      "gloss": "भी (वाक्य के अंत में); ज़रूरत से ज़्यादा (+ विशेषण)",
+      "meanings": [
+        {
+          "en": "भी (वाक्य के अंत में); ज़रूरत से ज़्यादा (+ विशेषण)",
+          "note": "अंत में अल्पविराम के बाद 'भी' (Nice to meet you, too!) और विशेषण से पहले 'बहुत ज़्यादा' (too hot)।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Nice to meet you, too!",
+          "trans": "आपसे मिलकर मुझे भी खुशी हुई!"
+        },
+        {
+          "text": "Careful, the tea is still too hot to drink.",
+          "trans": "ध्यान से, चाय अभी पीने के लिए बहुत ज़्यादा गरम है।"
+        }
+      ],
+      "related": []
+    },
+    "shy": {
+      "lemma": "shy",
+      "pos": "adj",
+      "gloss": "शर्मीला, झिझकने वाला",
+      "stress": "ʃaɪ",
+      "meanings": [
+        {
+          "en": "शर्मीला, झिझकने वाला",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I was too shy to ask for my bag back.",
+          "trans": "मैं अपना बैग माँगने में बहुत झिझक रहा था।"
+        },
+        {
+          "text": "She is a bit shy around new guests.",
+          "trans": "वह नए मेहमानों के सामने थोड़ा शर्मीला है।"
+        }
+      ],
+      "related": []
+    },
+    "to": {
+      "lemma": "to",
+      "stress": "tu",
+      "pos": "prep",
+      "gloss": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
+      "meanings": [
+        {
+          "en": "को, तक, की ओर; क्रिया के मूल रूप से पहले (to know)",
+          "note": "मंज़िल दिखाता है (walk to the harbor) या दूसरी क्रिया को जोड़ता है (need to know)।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to Linden Courtyard Inn!",
+          "trans": "लिंडन कोर्टयार्ड इन में आपका स्वागत है!"
+        },
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "मुझे वह सब बताइए जो मुझे जानना ज़रूरी है।"
+        }
+      ],
+      "related": []
+    },
+    "ask": {
+      "lemma": "ask",
+      "stress": "æsk",
+      "pos": "verb",
+      "gloss": "पूछना; माँगना",
+      "meanings": [
+        {
+          "en": "पूछना; माँगना",
+          "note": "सीधे पूछने के लिए ask और कोई चीज़ माँगने के लिए ask for लगता है।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "ask"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "asks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "asked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "asked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "asking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ask the clerk for a receipt.",
+          "trans": "काउंटर पर कर्मचारी से रसीद माँगिए।"
+        },
+        {
+          "text": "May I ask a quick question?",
+          "trans": "क्या मैं एक छोटा-सा सवाल पूछ सकता हूँ?"
+        }
+      ],
+      "related": []
+    },
+    "for": {
+      "lemma": "for",
+      "stress": "fɔɹ",
+      "pos": "prep",
+      "gloss": "के लिए; तक (अवधि)",
+      "meanings": [
+        {
+          "en": "के लिए; तक (अवधि)",
+          "note": "उद्देश्य/पाने वाले (for Evelyn) और समय की अवधि दोनों के लिए आता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This package arrived for room two.",
+          "trans": "यह पार्सल कमरा नंबर दो के लिए आया है।"
+        },
+        {
+          "text": "Wait here for just a moment.",
+          "trans": "यहाँ बस एक पल के लिए रुकिए।"
+        }
+      ],
+      "related": []
+    },
+    "even": {
+      "lemma": "even",
+      "stress": "ˈivən",
+      "pos": "adv",
+      "gloss": "यहाँ तक कि, भी",
+      "meanings": [
+        {
+          "en": "यहाँ तक कि, भी",
+          "note": "किसी चौंकाने वाली बात पर ज़ोर देता है: Even when ('तब भी जब')।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Even the garden cat likes warm milk.",
+          "trans": "यहाँ तक कि बगीचे की बिल्ली को भी गुनगुना दूध पसंद है।"
+        },
+        {
+          "text": "He did not even look at his watch.",
+          "trans": "उसने अपनी घड़ी की तरफ़ देखा तक नहीं।"
+        }
+      ],
+      "related": []
+    },
+    "after": {
+      "lemma": "after",
+      "stress": "ˈæftɚ",
+      "pos": "prep",
+      "gloss": "के बाद",
+      "meanings": [
+        {
+          "en": "के बाद",
+          "note": "समय या क्रम में बाद की स्थिति बताता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let us walk after lunch.",
+          "trans": "चलो दोपहर के खाने के बाद टहलते हैं।"
+        },
+        {
+          "text": "Wednesday comes after Tuesday.",
+          "trans": "बुधवार मंगलवार के बाद आता है।"
+        }
+      ],
+      "related": []
+    },
+    "call": {
+      "lemma": "call",
+      "stress": "kɔl",
+      "pos": "verb",
+      "gloss": "फ़ोन करना; बुलाना",
+      "meanings": [
+        {
+          "en": "फ़ोन करना; बुलाना",
+          "note": "टेलीफ़ोन करने और आवाज़ देकर बुलाने या नाम रखने दोनों में आता है।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "call"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "calls"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "called"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "called"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "calling"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Call the front desk if you need help.",
+          "trans": "मदद चाहिए तो रिसेप्शन पर फ़ोन कीजिए।"
+        },
+        {
+          "text": "Friends call him by his nickname.",
+          "trans": "दोस्त उसे उसके उपनाम से बुलाते हैं।"
+        }
+      ],
+      "related": []
+    },
+    "us": {
+      "lemma": "us",
+      "stress": "ʌs",
+      "pos": "pron",
+      "gloss": "हमें, हमको (या पूर्वसर्ग के बाद 'हम')",
+      "meanings": [
+        {
+          "en": "हमें, हमको (या पूर्वसर्ग के बाद 'हम')",
+          "note": "We ('हम') का कर्म रूप; सुझाव देने वाले Let us / Let's का आधार।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Join us for hot tea in the parlor!",
+          "trans": "बैठक में हमारे साथ गरम चाय पीने आइए!"
+        },
+        {
+          "text": "Tessa brought fresh rolls for all of us.",
+          "trans": "टेसा हम सबके लिए ताज़े रोल लाई।"
+        }
+      ],
+      "related": []
+    },
+    "tuesday": {
+      "lemma": "tuesday",
+      "stress": "ˈtuzdeɪ",
+      "pos": "noun",
+      "gloss": "मंगलवार",
+      "meanings": [
+        {
+          "en": "मंगलवार",
+          "note": "हमेशा बड़े अक्षर T से लिखा जाता है: Tuesday; इसे Thursday ('गुरुवार') से न उलझाएँ।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fresh honey arrives from the farm on Tuesday.",
+          "trans": "फ़ार्म से ताज़ा शहद मंगलवार को आता है।"
+        },
+        {
+          "text": "Room two is booked through Tuesday.",
+          "trans": "कमरा नंबर दो मंगलवार तक बुक है।"
+        }
+      ],
+      "related": []
+    },
+    "about": {
+      "lemma": "about",
+      "stress": "əˈbaʊt",
+      "pos": "prep",
+      "gloss": "के बारे में; लगभग",
+      "meanings": [
+        {
+          "en": "के बारे में; लगभग",
+          "note": "विषय या अनुमानित संख्या-समय बताने के लिए प्रयुक्त।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell me about your trip.",
+          "trans": "मुझे अपनी यात्रा के बारे में बताइए।"
+        },
+        {
+          "text": "We talked about the menu.",
+          "trans": "हमने मेन्यू के बारे में बात की।"
+        }
+      ],
+      "related": []
+    },
+    "white": {
+      "lemma": "white",
+      "stress": "waɪt",
+      "pos": "adj",
+      "gloss": "सफ़ेद",
+      "meanings": [
+        {
+          "en": "सफ़ेद",
+          "note": "साफ़ चादरों, चीनी मिट्टी के बर्तनों या तटीय लकड़ी के घरों के लिए।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fresh white linens hang in every closet.",
+          "trans": "हर अलमारी में साफ़ सफ़ेद चादरें और तौलिए रखे हैं।"
+        },
+        {
+          "text": "Look for the white lighthouse on the point.",
+          "trans": "तट की नोक पर बने सफ़ेद लाइटहाउस को देखिए।"
+        }
+      ],
+      "related": []
+    },
+    "package": {
+      "lemma": "package",
+      "stress": "ˈpækɪdʒ",
+      "pos": "noun",
+      "gloss": "पार्सल, पैकेट",
+      "meanings": [
+        {
+          "en": "पार्सल, पैकेट",
+          "note": "डाक या कूरियर से आए डिब्बे के लिए अमेरिकी अंग्रेज़ी का सामान्य शब्द।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A small brown package arrived for Evelyn.",
+          "trans": "एवेलिन के नाम एक छोटा भूरा पार्सल आया है।"
+        },
+        {
+          "text": "Sign here to receive the package, please.",
+          "trans": "पार्सल लेने के लिए कृपया यहाँ हस्ताक्षर कीजिए।"
+        }
+      ],
+      "related": []
+    },
+    "everything": {
+      "lemma": "everything",
+      "stress": "ˈɛvɹiˌθɪŋ",
+      "pos": "pron",
+      "gloss": "सब कुछ, हर चीज़",
+      "meanings": [
+        {
+          "en": "सब कुछ, हर चीज़",
+          "note": "इसके साथ भी क्रिया हमेशा एकवचन (Everything is ready) आती है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "मुझे वह सब कुछ बताइए जो मुझे जानना चाहिए।"
+        },
+        {
+          "text": "Everything in the kitchen is clean and ready.",
+          "trans": "रसोई में सब कुछ साफ़ और तैयार है।"
+        }
+      ],
+      "related": []
+    },
+    "that": {
+      "lemma": "that",
+      "stress": "ðæt",
+      "pos": "pron",
+      "gloss": "वह; कि/जो (संयोजक)",
+      "meanings": [
+        {
+          "en": "वह; कि/जो (संयोजक)",
+          "note": "थोड़ी दूर की चीज़ की ओर इशारा करता है या उपवाक्य जोड़ता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "That blue suitcase by the door is Arthur's.",
+          "trans": "दरवाज़े के पास रखा वह नीला सूटकेस आर्थर का है।"
+        },
+        {
+          "text": "That sounds like a great plan!",
+          "trans": "यह तो बहुत बढ़िया योजना लग रही है!"
+        }
+      ],
+      "related": []
+    },
+    "paper": {
+      "lemma": "paper",
+      "stress": "ˈpeɪpɚ",
+      "pos": "noun",
+      "gloss": "काग़ज़; काग़ज़ का",
+      "meanings": [
+        {
+          "en": "काग़ज़; काग़ज़ का",
+          "note": "सामग्री के रूप में अगणनीय (some paper); संज्ञा से पहले विशेषता बताता है (paper book)।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here we use a big paper book and a pencil.",
+          "trans": "यहाँ हम काग़ज़ का एक बड़ा रजिस्टर और पेंसिल इस्तेमाल करते हैं।"
+        },
+        {
+          "text": "Write your address on this slip of paper.",
+          "trans": "काग़ज़ की इस पर्ची पर अपना पता लिख दीजिए।"
+        }
+      ],
+      "related": []
+    },
+    "belong": {
+      "lemma": "belong",
+      "stress": "bɪˈlɔŋ",
+      "pos": "verb",
+      "gloss": "का होना, से संबंधित होना",
+      "meanings": [
+        {
+          "en": "का होना, से संबंधित होना",
+          "note": "मालिक बताने से पहले हमेशा to लगता है (belong to me)।"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "belong"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "belongs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "belonged"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "belonged"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "belonging"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Does this notebook belong to you?",
+          "trans": "क्या यह डायरी आपकी है?"
+        },
+        {
+          "text": "Those keys belong to room four.",
+          "trans": "वे चाबियाँ कमरा नंबर चार की हैं।"
+        }
+      ],
+      "related": []
+    },
+    "not": {
+      "lemma": "not",
+      "stress": "nɑt",
+      "pos": "adv",
+      "gloss": "नहीं (क्रिया को नकारात्मक बनाने वाला शब्द)",
+      "meanings": [
+        {
+          "en": "नहीं (क्रिया को नकारात्मक बनाने वाला शब्द)",
+          "note": "सहायक क्रिया be, modal या do/does/did के बाद लगता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do not worry; your bag is safe here.",
+          "trans": "चिंता मत कीजिए; आपका बैग यहाँ सुरक्षित है।"
+        },
+        {
+          "text": "The tea is warm, not too hot.",
+          "trans": "चाय गुनगुनी है, ज़्यादा गरम नहीं।"
+        }
+      ],
+      "related": []
+    },
+    "soon": {
+      "lemma": "soon",
+      "stress": "sun",
+      "pos": "adv",
+      "gloss": "जल्दी ही, शीघ्र",
+      "meanings": [
+        {
+          "en": "जल्दी ही, शीघ्र",
+          "note": "See you soon! जल्द दोबारा मिलने के वादे के साथ विदा लेता है।"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Coffee will be ready very soon.",
+          "trans": "कॉफ़ी बहुत जल्दी तैयार हो जाएगी।"
+        },
+        {
+          "text": "See you soon in the courtyard!",
+          "trans": "आँगन में जल्द मिलते हैं!"
         }
       ],
       "related": []

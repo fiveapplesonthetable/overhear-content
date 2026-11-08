@@ -14,7 +14,7 @@ TRANSITION = '品味了这些充满诗意的句子，我们再完整听一遍整
 OUTRO = '儿时的木头火车头回到了哥哥手中，连当年的钢琴老师也同坐一桌。可与此同时，前厅里的亚瑟正对着那封挂号信发愁呢。待会儿见。'
 CLOSING = ('evelyn', 'See you later!')
 STORY = [
-    ('caleb', 'Before the movers cleared Linden Street, I saved this box from the attic shelf.', '在搬家工人清空菩提树街老宅之前，我从阁楼架子上把这只盒子抢救了下来。'),
+    ('caleb', 'Before the movers cleared the house, I saved this box from the attic shelf.', '在搬家工人清空房子之前，我从阁楼架子上把这只盒子抢救了下来。'),
     ('owen', "Open the white paper... no! Grandfather's carved wooden train engine!", '打开这层白纸……天哪！是爷爷亲手雕刻的木头火车头！'),
     ('caleb', 'Look underneath the wheels. Your name and mine are still penciled there.', '快看车轮底下。你的名字和我的名字还用铅笔写在上面呢。'),
     ('owen', 'I thought this was lost when we sold the house! Why keep it for me?', '我还以为卖房子的时候它早就丢了！为什么要替我留着它呢？'),
@@ -28,7 +28,7 @@ STORY = [
     ('owen', 'Please sit with us, Miss Evelyn! Tell me I am not twenty-five years late for my lesson!', '快请坐到我们这儿来吧，伊芙琳女士！快告诉我这堂课我没有迟到二十五年！'),
 ]
 WALK = [
-    (0, None, ["'在搬家工人清空菩提树街老宅之前，我从阁楼架子上把这只盒子抢救了下来。' 英语在移动一词后加上表示人的后缀并用复数", (None, 'the movers'), '专门指代搬家公司的工人。']),
+    (0, None, ["'在搬家工人清空房子之前，我从阁楼架子上把这只盒子抢救了下来。' 英语在移动一词后加上表示人的后缀并用复数", (None, 'the movers'), "专门指代搬家公司的工人。"]),
     (1, None, ["'打开这层白纸……天哪！是爷爷亲手雕刻的木头火车头！' 英语里的复合名词", (None, 'train engine'), '特指整列火车最前面牵引动力的火车头，正是第一集摇晃作响的神秘物件。']),
     (2, None, ["'快看车轮底下。你的名字和我的名字还用铅笔写在上面呢。' 表示正下方的介词", (None, 'underneath'), '强调物品底面的位置；并列主语', (None, 'Your name and mine'), '用独立物主代词避免重复名字一词。']),
     (3, None, ["'我还以为卖房子的时候它早就丢了！为什么要替我留着它呢？' 口语中疑问词直接加动词原形", (None, 'Why keep it'), '省去助动词与主语，急切又真挚地追问弟弟的心意。']),

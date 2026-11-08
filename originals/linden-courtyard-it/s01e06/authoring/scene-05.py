@@ -8,7 +8,7 @@ TITLE = "Page Two, Clause Fourteen  (Pagina due, clausola quattordici)"
 LEVEL = "A1 — principiante"
 PAIR = "en-it"
 LABELS = {"arthur": "Arthur", "caleb": "Caleb", "hannah": "Hannah"}
-INTRO = "Alla ricezione della Locanda del Cortile del Tiglio, Arthur porge l'avviso di due pagine a Caleb mentre Hannah trattiene il fiato accanto al registro delle prenotazioni. Caleb sfoglia subito il secondo foglio. Ascolta prima tutta la scena."
+INTRO = "Alla reception della Locanda del Cortile del Tiglio, Arthur porge l'avviso di due pagine a Caleb mentre Hannah trattiene il fiato accanto al registro delle prenotazioni. Caleb sfoglia subito il secondo foglio. Ascolta prima tutta la scena."
 OPENER = "Adesso analizziamo ogni battuta con calma, una per volta."
 TRANSITION = "Riascoltiamo ora tutta la scena di fila."
 OUTRO = "La seconda pagina ha ribaltato tutto: aprire i quattro tavoli della colazione agli abitanti del quartiere protegge la locanda per altri dieci anni. Nella prossima scena Arthur ha due grandi annunci nell'angolo caffetteria. Alla prossima."
@@ -18,7 +18,7 @@ STORY = [
     ("caleb", "Wait a moment, sir. Did you read page two clipped underneath?", "Aspetti un momento, signore. Ha letto la pagina due fermata sotto con la graffetta?"),
     ("arthur", "Only small gray numbers! My heart stopped at page one!", "Solo numeretti grigi! Il cuore mi si è fermato alla pagina uno!"),
     ("hannah", "Look where Caleb is pointing with his pencil, Arthur!", "Guarda dove sta indicando Caleb con la sua matita, Arthur!"),
-    ("caleb", "Clause fourteen of the Portland Old Quarter Act, and my brother outside just nodded!", "La clausola quattordici della Legge sul Quartiere Storico di Portland, e mio fratello là fuori ha appena annuito!"),
+    ("caleb", "Clause fourteen of the Portland Old Quarter Act, and my brother here just nodded!", "La clausola quattordici della Legge sul Quartiere Storico di Portland, e mio fratello qui ha appena annuito!"),
     ("arthur", "In plain words, please! What does Clause fourteen say?", "In parole povere, ti prego! Che cosa dice la clausola quattordici?"),
     ("caleb", "No courtyard building over eighty years old may become private offices if the first floor serves neighbors daily.", "Nessun edificio con cortile di oltre ottant'anni può diventare uffici privati se il piano terra serve quotidianamente gli abitanti del quartiere."),
     ("hannah", "'Serves neighbors daily'... like a public morning cafe?!", "«Serve quotidianamente gli abitanti del quartiere»... come una caffetteria mattutina aperta al pubblico?!"),
@@ -32,7 +32,7 @@ WALK = [
     (1, None, ["'Aspetti un momento, signore. Ha letto la pagina due fermata sotto con la graffetta?' Il foglio spillato sotto il primo è descritto con precisione da", (None, "clipped underneath"), "fissato sotto con una graffetta."]),
     (2, None, ["'Solo numeretti grigi! Il cuore mi si è fermato alla pagina uno!' Anche in inglese lo spavento improvviso usa l'immagine vivida", (None, "My heart stopped"), "il cuore si è fermato."]),
     (3, None, ["'Guarda dove sta indicando Caleb con la sua matita, Arthur!' L'imperativo guida subito lo sguardo sul punto esatto della carta tramite", (None, "Look where"), "guarda dove."]),
-    (4, None, ["'La clausola quattordici della Legge sul Quartiere Storico di Portland, e mio fratello là fuori ha appena annuito!' Per dire fare cenno di sì col capo basta un solo verbo:", (None, "just nodded"), "ha appena annuito."]),
+    (4, None, ["'La clausola quattordici della Legge sul Quartiere Storico di Portland, e mio fratello qui ha appena annuito!' Per dire fare cenno di sì col capo basta un solo verbo:", (None, "just nodded"), "ha appena annuito."]),
     (5, None, ["'In parole povere, ti prego! Che cosa dice la clausola quattordici?' Quando il linguaggio tecnico confonde, si chiede una spiegazione semplice con", (None, "In plain words"), "in parole chiare."]),
     (6, None, ["'Nessun edificio con cortile di oltre ottant'anni può diventare uffici privati se il piano terra serve quotidianamente gli abitanti del quartiere.' L'età dell'immobile sta in", (None, "over eighty years old"), "e ricorda che negli Stati Uniti", (None, "first floor"), "indica il piano terra."]),
     (7, None, ["'«Serve quotidianamente gli abitanti del quartiere»... come una caffetteria mattutina aperta al pubblico?!' Tre parole snelle dipingono l'idea vincente in", (None, "public morning cafe"), "caffetteria mattutina aperta a tutti."]),
