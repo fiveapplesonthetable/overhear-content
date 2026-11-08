@@ -20,7 +20,7 @@ STORY = [
     ('takashi', '中を見てはいけませんよ……あ、真ん中のページが開いています！', 'We must not peek inside... oh, it fell open to the middle page!'),
     ('mio', 'どうしてこの通りの旅館が三軒も、鉛筆できれいに描いてあるんでしょう？', 'Why are three inns on this street neatly sketched in pencil?'),
     ('yuka', 'うちの横に書いてある文字を見て！「中庭の幅、通りの音、静けさ十点満点中九点！」', "Look at the words beside ours: 'Courtyard width, street noise, quietness: nine points out of ten!'"),
-    ('takashi', '十点満点中九点ですって！？ロビーを測る人なんて、まさか……', 'Nine points out of ten?! Nobody measures lobbies unless...'),
+    ('takashi', '十点中九点だって？！中庭の寸法を測る人なんて、普通はいないぞ、もし…', 'Nine out of ten?! Nobody measures courtyards unless...'),
     ('yuka', '毎年出る『大阪旅行ガイド』の覆面調査員じゃない！？', 'Could he be a secret inspector for the annual Osaka Travel Guide?!'),
     ('mio', '早く閉じて！上へ届けましょう……えっ、今の大きな金属の音は何ですか？', "Close it quickly! Let's take it upstairs—wait, what was that loud metallic clank?"),
 ]
@@ -32,7 +32,7 @@ WALK = [
     (4, None, ["'Wait—whose small brown leather notebook is this on the counter?' Asking 'whose is it?' uses ", (None, '誰のですか'), ', after describing ', (None, '茶色い革の手帳'), ", 'brown leather pocket notebook'."]),
     (6, None, ["'We must not peek inside... oh, it fell open to the middle page!' Saying 'you must not look' uses ", (None, '見てはいけません'), ', right before Takashi spots ', (None, '真ん中'), ", 'the middle'."]),
     (8, None, ["'Look at the words beside ours: Courtyard width, street noise, quietness: nine points out of ten!' Test and review scores use ", (None, '十点満点中九点'), ", literally 'nine points out of a ten-point full score'."]),
-    (9, None, ["'Nine points out of ten?! Nobody measures lobbies unless...' Expressing sudden disbelief or 'surely not!' is the job of ", (None, 'まさか'), '.']),
+    (9, None, ["'Nine out of ten?! Nobody measures courtyards unless...' The phrase ", (None, '普通はいない'), " means 'normally nobody is there' or 'nobody usually does that'."]),
     (11, None, ["'Close it quickly! Let's take it upstairs—wait, what was that loud metallic clank?' Mio urges ", (None, '早く閉じて'), ", 'close it fast', right before hearing ", (None, '金属の音'), ", 'a metallic sound'."]),
 ]
 

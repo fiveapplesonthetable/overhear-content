@@ -9,7 +9,7 @@ LEVEL = 'A1 — beginner'
 PAIR = 'de-en'
 LABELS = {'lukas': 'Lukas', 'klara': 'Klara', 'helga': 'Helga'}
 SOURCE_NAME = 'Overhear Original'
-INTRO = "Still standing under the courtyard tree at the Pension Sonnenhof in Leipzig, Lukas sits down with Klara and Helga to explain Monday night's mystery from the very beginning. Listen first."
+INTRO = "Out under the courtyard tree at the Pension Sonnenhof in Leipzig, Lukas sits down with Klara and Helga to explain Monday night's mystery from the very beginning. Listen first."
 OPENER = "Now let's untangle Monday night's mix-up line by line."
 TRANSITION = "Now let's listen to the whole conversation again."
 OUTRO = 'All the puzzle pieces from Monday and Tuesday finally click together! Next time, Lukas explains why he has not spoken to his brother Moritz in three years.'
@@ -17,15 +17,15 @@ CLOSING = ('klara', 'Bis später!')
 STORY = [
     ('helga', 'Lass mich dich richtig anschauen, Lukas! Du bist größer als ein Klavier geworden!', 'Let me look at you properly, Lukas! You have grown taller than a piano!'),
     ('lukas', 'Ich fasse es nicht, dass Sie in genau derselben Pension wohnen, Frau Helga.', 'I cannot believe that you are staying in the exact same guesthouse, Madam Helga.'),
-    ('klara', 'Moment, Sie saßen am Montag im selben Zug und nahmen ihren Koffer mit?', 'Wait, you sat on the same train on Monday and took her suitcase along?'),
+    ('klara', 'Moment, Sie saßen am Montag im selben Zug und nahmen ihren Koffer mit?', 'Wait, so you rode the same train on Monday and took her suitcase?'),
     ('lukas', 'Völlig aus Versehen! Bei meinem Cousin öffnete ich ihn und sah Noten und ein rotes Band.', 'Completely by mistake! At my cousin place I opened it and saw sheet music and a red ribbon.'),
     ('helga', 'Warum hast du meinen Koffer abends auf die Stufe gestellt und bist weggelaufen?', 'Why did you set my suitcase on the step at night and run away?'),
     ('lukas', 'Weil ich am Montagabend genau hier meinen älteren Bruder auf der Straße sah!', 'Because on Monday evening right here I saw my older brother on the street!'),
     ('klara', 'Ihr älterer Bruder wohnt hier in Leipzig?', 'Your older brother lives here in Leipzig?'),
     ('lukas', 'Ja. Ich bekam Panik, klingelte am Tor und klebte den Freitagszettel an den Griff.', 'Yes. I panicked, rang the gate bell, and taped the Friday note to the handle.'),
     ('helga', 'Und am Mittwochabend hast du hier unter deinem echten Namen eingecheckt?', 'And on Wednesday night you checked in here under your real name?'),
-    ('lukas', 'Ich brauchte vor Freitag ein ruhiges Zimmer in der Nähe und vergaß im Regen den Koffer!', 'I needed a quiet room nearby before Friday and forgot about the suitcase in the rain!'),
-    ('klara', 'Und am Dienstag riefen Sie an, damit wir das weiße Paket nicht öffnen!', 'And on Tuesday you called so that we would not open the white parcel!'),
+    ('lukas', 'Ich brauchte vor Freitag ein ruhiges Zimmer in der Nähe und war ehrlich gesagt zu schüchtern, nach meinem Koffer zu fragen!', 'I needed a quiet room nearby before Friday, and honestly felt too shy to ask for my suitcase!'),
+    ('klara', 'Sogar nachdem Sie am Dienstag anriefen, damit wir das weiße Paket nicht öffnen!', 'Even after you called on Tuesday so that we would not open the white parcel!'),
     ('lukas', 'Alles in diesem weißen Papier gehört meinem Bruder Moritz, nicht mir.', 'Everything in that white paper belongs to my brother Moritz, not to me.'),
 ]
 WALK = [

@@ -19,7 +19,7 @@ STORY = [
     ('lukas', 'Einen Moment, haben Sie auch Seite zwei dahinter gelesen?', 'One moment, did you also read page two clipped behind it?'),
     ('martin', 'Nur kleine graue Zahlen! Bei Seite eins blieb mein Herz schon stehen!', 'Only small grey numbers! At page one my heart already stopped!'),
     ('klara', 'Schauen Sie, wohin Lukas mit seinem Bleistift zeigt, Martin!', 'Look where Lukas is pointing with his pencil, Martin!'),
-    ('lukas', 'Absatz vierzehn der Altstadtsatzung von Leipzig, und mein Bruder draußen nickt gerade!', 'Clause fourteen of the Leipzig Old Quarter bylaw, and my brother outside is nodding!'),
+    ('lukas', 'Absatz vierzehn der Altstadtsatzung von Leipzig, und mein Bruder hier nickt gerade!', 'Clause fourteen of the Leipzig Old Quarter bylaw, and my brother here is nodding!'),
     ('martin', 'Bitte in einfachen Worten! Was bedeutet Absatz vierzehn?', 'In plain words, please! What does Clause fourteen mean?'),
     ('lukas', 'Kein Hofhaus über achtzig Jahre darf privat werden, wenn unten täglich ein Nachbarschaftscafé öffnet.', 'No courtyard building over eighty years old may turn private if a neighbourhood café opens downstairs daily.'),
     ('klara', 'Täglich für Nachbarn geöffnet, wie ein öffentliches Morgencafé?!', 'Open daily for neighbours, like a public morning café?!'),

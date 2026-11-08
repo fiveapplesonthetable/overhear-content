@@ -20,12 +20,12 @@ STORY = [
     ('klara', 'Warum konnten Sie Moritz den Holzzug nicht einfach an der Haustür geben?', 'Why could you not simply hand Moritz the wooden train at his front door?'),
     ('lukas', 'Vor drei Jahren, nach Großvaters Tod, stritten Moritz und ich heftig um das alte Haus.', 'Three years ago, after Grandfather death, Moritz and I argued fiercely over the old house.'),
     ('werner', 'Alte Familienhäuser und Erinnerungen, solche Streite sitzen tief.', 'Old family houses and memories, arguments like that cut deep.'),
-    ('lukas', 'Seit jenem Sonntag herrscht Funkstille. Letzte Woche schickte ich ihm eine kurze Postkarte.', 'Since that Sunday there has been radio silence. Last week I sent him a short postcard.'),
+    ('lukas', 'Seit diesem Tag haben wir nicht mehr gesprochen. Letzte Woche habe ich ihm eine kurze Postkarte geschickt.', 'We have not spoken since that day. Last week I sent him one short postcard.'),
     ('klara', 'Und Sie haben ihn für Freitag um zwölf hierher eingeladen?', 'And you invited him here for Friday at noon?'),
     ('lukas', 'Ich schrieb nur: Etwas von Großvater wartet am Freitag um zwölf in der Pension Sonnenhof.', 'I only wrote: Something from Grandfather is waiting Friday at noon at the Pension Sonnenhof.'),
     ('werner', 'Aha! Mit Ihrem Namen darunter wäre der sture große Bruder zu Hause geblieben!', 'Aha! With your name underneath, stubborn big brother would have stayed at home!'),
     ('lukas', 'Sie kennen ältere Brüder wirklich gut, Werner.', 'You really know older brothers well, Werner.'),
-    ('klara', 'Wollten Sie etwa den Koffer abgeben und von gegenüber zuschauen?!', 'Were you planning to drop off the suitcase and watch from across the street?!'),
+    ('klara', 'Wollten Sie etwa den Rezeptionisten den Koffer übergeben lassen und von gegenüber zuschauen?!', 'Were you planning to let the receptionist hand over the suitcase and watch from across the street?!'),
     ('lukas', 'Das war mein feiger Plan am Montag... bevor ich Sie alle kennenlernte.', 'That was my cowardly Monday plan... before I got to know all of you.'),
 ]
 WALK = [
@@ -34,7 +34,7 @@ WALK = [
     (2, None, ["'Why could you not simply hand Moritz the wooden train at his front door?' Everyday compound:", (None, 'Haustür'), 'House plus door names the front entrance door.']),
     (3, None, "'Three years ago, after Grandfather death, Moritz and I argued fiercely over the old house.' In German you argue 'around' a disputed house or topic."),
     (4, None, ["'Old family houses and memories, arguments like that cut deep.' Notice how German pictures lingering hurt:", (None, 'sitzen tief.'), "Literally 'sit deep', where English says 'cut deep'."]),
-    (5, None, ["'Since that Sunday there has been radio silence. Last week I sent him a short postcard.' Vivid modern idiom:", (None, 'Funkstille.'), "Literally 'radio-silence', used whenever two friends or relatives stop speaking."]),
+    (5, None, ["'We have not spoken since that day. Last week I sent him one short postcard.' A common item:", (None, 'Postkarte'), "Literally 'post-card', easy to remember."]),
     (6, None, ["'And you invited him here for Friday at noon?' Look inside the word for 'invited':", (None, 'eingeladen?'), "Built from 'in' and 'load', welcoming guests in."]),
     (7, None, ["'I only wrote: Something from Grandfather is waiting Friday at noon at the Pension Sonnenhof.' Classic family word:", (None, 'Großvater'), "Great plus father matches English 'grandfather' piece for piece."]),
     (8, None, ["'Aha! With your name underneath, stubborn big brother would have stayed at home!' Great character word:", (None, 'sture'), "It means 'stubborn' or 'headstrong'."]),

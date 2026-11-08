@@ -106,7 +106,7 @@
     },
     {
       "seg": 2,
-      "trans": "Careful with it, Bruno—tomorrow at noon is Friday!",
+      "trans": "Careful with it, Bruno—Friday at noon is tomorrow!",
       "words": [
         {
           "t": "Attento,",
@@ -480,7 +480,7 @@
     },
     {
       "seg": 7,
-      "trans": "Wait a moment... Number twelve, Via dei Tigli, and two childhood initials carved on the corner!",
+      "trans": "Wait a moment... Number twelve, Via dei Tigli, and two childhood initials written in the corner!",
       "words": [
         {
           "t": "Un",
@@ -1226,7 +1226,7 @@
     },
     {
       "seg": 16,
-      "trans": "Careful with it, Bruno—tomorrow at noon is Friday!",
+      "trans": "Careful with it, Bruno—Friday at noon is tomorrow!",
       "words": [
         {
           "t": "Attento,",
@@ -1600,7 +1600,7 @@
     },
     {
       "seg": 26,
-      "trans": "Wait a moment... Number twelve, Via dei Tigli, and two childhood initials carved on the corner!",
+      "trans": "Wait a moment... Number twelve, Via dei Tigli, and two childhood initials written in the corner!",
       "words": [
         {
           "t": "Un",
@@ -2346,7 +2346,7 @@
     },
     {
       "seg": 40,
-      "trans": "Careful with it, Bruno—tomorrow at noon is Friday!",
+      "trans": "Careful with it, Bruno—Friday at noon is tomorrow!",
       "words": [
         {
           "t": "Attento,",
@@ -2720,7 +2720,7 @@
     },
     {
       "seg": 45,
-      "trans": "Wait a moment... Number twelve, Via dei Tigli, and two childhood initials carved on the corner!",
+      "trans": "Wait a moment... Number twelve, Via dei Tigli, and two childhood initials written in the corner!",
       "words": [
         {
           "t": "Un",
@@ -3386,65 +3386,15 @@
     }
   ],
   "lexicon": {
-    "a": {
-      "lemma": "a",
-      "stress": "a",
-      "pos": "prep",
-      "gloss": "to; at; in",
-      "meanings": [
-        {
-          "en": "to",
-          "note": "Core preposition of destination, time (alle otto), and city location (a Bologna); ad before vowels."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Buongiorno a tutti! Benvenuta, Chiara. È tutto pronto?",
-          "trans": "Good morning, everyone! Welcome, Chiara. Is everything ready?"
-        },
-        {
-          "text": "Non ditelo a nessuno! Ora un bel sorriso quando suona il campanello.",
-          "trans": "Do not tell anyone! Now, smile brightly when the bell rings."
-        }
-      ],
-      "related": []
-    },
-    "alla": {
-      "lemma": "alla",
-      "stress": "ˈalla",
-      "pos": "prep",
-      "gloss": "to the; at the (f. sg.)",
-      "meanings": [
-        {
-          "en": "to the",
-          "note": "Contraction of a + la; also builds food styles like alla cannella."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ah, si apre! Grazie. Sono Chiara, la nuova addetta alla reception.",
-          "trans": "Oh, it opens! Thank you. I am Chiara, the new receptionist."
-        },
-        {
-          "text": "Qualcuno alla stazione ha preso la mia valigia blu per sbaglio!",
-          "trans": "Someone at the train station took my blue suitcase by mistake!"
-        }
-      ],
-      "related": []
-    },
-    "amare": {
-      "lemma": "amare",
-      "stress": "aˈmare",
+    "mettere": {
+      "lemma": "mettere",
+      "stress": "ˈmettere",
       "pos": "verb",
-      "gloss": "to love",
+      "gloss": "to put; to place; to set",
       "meanings": [
         {
-          "en": "to love",
-          "note": "Love deeply or be very fond of."
+          "en": "to put",
+          "note": "Mettere giù on the phone means to hang up."
         }
       ],
       "forms": {
@@ -3458,22 +3408,22 @@
           {
             "cells": [
               "1st",
-              "io amo",
-              "noi amiamo"
+              "io metto",
+              "noi mettiamo"
             ]
           },
           {
             "cells": [
               "2nd",
-              "tu ami",
-              "voi amate"
+              "tu metti",
+              "voi mettete"
             ]
           },
           {
             "cells": [
               "3rd",
-              "lui/lei ama",
-              "loro amano"
+              "lui/lei mette",
+              "loro mettono"
             ]
           }
         ]
@@ -3490,22 +3440,22 @@
             {
               "cells": [
                 "1st",
-                "io ho amato",
-                "noi abbiamo amato"
+                "io ho messo",
+                "noi abbiamo messo"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu hai amato",
-                "voi avete amato"
+                "tu hai messo",
+                "voi avete messo"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "lui/lei ha amato",
-                "loro hanno amato"
+                "lui/lei ha messo",
+                "loro hanno messo"
               ]
             }
           ]
@@ -3513,223 +3463,50 @@
       ],
       "examples": [
         {
-          "text": "Possiamo amare adesso.",
-          "trans": "We can love now."
+          "text": "Metto qui questa valigia blu per cinque minuti mentre spazzo il ripostiglio.",
+          "trans": "Let me set this blue suitcase here for five minutes while I sweep the closet."
         },
         {
-          "text": "Io? Oh, amo semplicemente la puntualità! Le sette e quattordici sono un minuto bellissimo!",
-          "trans": "Me? Oh, I simply love punctuality! Seven fourteen is a beautiful minute!"
+          "text": "Bene. Metti queste erbe fresche sopra prima di servire.",
+          "trans": "Good. Put these fresh green herbs on top before you serve them."
         }
       ],
       "related": []
     },
-    "ancora": {
-      "lemma": "ancora",
-      "stress": "anˈkora",
+    "qui": {
+      "lemma": "qui",
+      "stress": "kwi",
       "pos": "adv",
-      "gloss": "still; yet; again; more",
+      "gloss": "here",
       "meanings": [
         {
-          "en": "still",
-          "note": "Ancora niente means still nothing; ancora due means two more."
+          "en": "here",
+          "note": "Close to the speaker."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Panini freschi del mattino! Prendine uno mentre è ancora caldo.",
-          "trans": "Fresh morning rolls! Take one while it is still warm."
+          "text": "Nel cassetto. Qui usiamo questo grande registro di carta e una matita.",
+          "trans": "In the drawer. Here we use this big paper book and a pencil."
         },
         {
-          "text": "Ancora niente? Prenda il nostro numero e l'indirizzo della locanda. Grazie!",
-          "trans": "Not yet? Please take our guesthouse number and address. Thank you!"
+          "text": "Grazie! Qui ci diamo del tu?",
+          "trans": "Thank you! Do we use first names here?"
         }
       ],
       "related": []
     },
-    "angolo": {
-      "lemma": "angolo",
-      "stress": "ˈangolo",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "angoli",
-      "gloss": "corner",
-      "meanings": [
-        {
-          "en": "corner",
-          "note": "An inside room corner, street corner, or corner piece; l'angolo."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'angolo",
-              "gli angoli"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Non si arrenda ancora! Continui a guardare verso l'angolo.",
-          "trans": "Do not sit down defeated yet! Keep looking toward the corner."
-        },
-        {
-          "text": "Ecco l'angolo.",
-          "trans": "Here is the corner."
-        }
-      ],
-      "related": []
-    },
-    "anno": {
-      "lemma": "anno",
-      "stress": "ˈanno",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "anni",
-      "gloss": "year",
-      "meanings": [
-        {
-          "en": "year",
-          "note": "Used for calendar years and with avere to state someone's age."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'anno",
-              "gli anni"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Venticinque anni fa insegnavo pianoforte qui vicino, ma i ricordi passano.",
-          "trans": "Twenty-five years ago I taught piano near here, though memories fade."
-        },
-        {
-          "text": "Voce bassa, gentile, forse trentacinque anni. Sembrava agitato, non arrabbiato.",
-          "trans": "Quiet, polite, maybe thirty-five. He sounded nervous, not angry."
-        }
-      ],
-      "related": []
-    },
-    "aspettare": {
-      "lemma": "aspettare",
-      "stress": "aspetˈtare",
-      "pos": "verb",
-      "gloss": "to wait; to wait for",
-      "meanings": [
-        {
-          "en": "to wait",
-          "note": "Takes a direct object without a separate word for 'for'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "io aspetto",
-              "noi aspettiamo"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu aspetti",
-              "voi aspettate"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "lui/lei aspetta",
-              "loro aspettano"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passato prossimo",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "io ho aspettato",
-                "noi abbiamo aspettato"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu hai aspettato",
-                "voi avete aspettato"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "lui/lei ha aspettato",
-                "loro hanno aspettato"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Hai ragione. Le carte possono aspettare: mettila accanto al registro per ora.",
-          "trans": "Right you are. Paperwork can wait—put it beside the ledger for now."
-        },
-        {
-          "text": "Aspetto ancora la tua scala di fa maggiore suonata piano, Paolo!",
-          "trans": "Still waiting for you to play your F-major scale slowly, Paolo!"
-        }
-      ],
-      "related": []
-    },
-    "attento": {
-      "lemma": "attento",
-      "stress": "atˈtɛnto",
+    "questo": {
+      "lemma": "questo",
+      "stress": "ˈkwesto",
       "pos": "adj",
-      "gloss": "careful; attentive",
+      "gloss": "this; these",
       "meanings": [
         {
-          "en": "careful",
-          "note": "Attento! / Attenta! warns someone to watch out!"
+          "en": "this",
+          "note": "Points to something near the speaker."
         }
       ],
       "forms": {
@@ -3743,15 +3520,15 @@
           {
             "cells": [
               "sg",
-              "attento",
-              "attenta"
+              "questo",
+              "questa"
             ]
           },
           {
             "cells": [
               "pl",
-              "attenti",
-              "attente"
+              "questi",
+              "queste"
             ]
           }
         ]
@@ -3759,12 +3536,55 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Attento, signor Cesare, il beccuccio della brocca è largo!",
-          "trans": "Careful, Cesare, the pitcher spout is wide!"
+          "text": "Nel cassetto. Qui usiamo questo grande registro di carta e una matita.",
+          "trans": "In the drawer. Here we use this big paper book and a pencil."
         },
         {
-          "text": "Eccoci, signore. Attento alla testa sotto questa trave bassa.",
-          "trans": "Here we are, sir. Watch your head on this low wooden beam."
+          "text": "E cos'è questo nella carta bianca? Un piccolo trenino di legno!",
+          "trans": "And what is this wrapped in white paper? A little wooden train!"
+        }
+      ],
+      "related": []
+    },
+    "valigia": {
+      "lemma": "valigia",
+      "stress": "vaˈlidʒa",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "valigie",
+      "gloss": "suitcase",
+      "meanings": [
+        {
+          "en": "suitcase",
+          "note": "Travel suitcase; plural spelled valigie in traditional Italian."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la valigia",
+              "le valigie"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tranquillo e piacevole, grazie, ma oggi questa valigia pesa molto.",
+          "trans": "Quiet and pleasant, thank you, though this suitcase feels very heavy today."
+        },
+        {
+          "text": "Proprio sotto quest'arco. Porto io su la valigia blu.",
+          "trans": "Right through this archway. I will carry the blue bag up for you."
         }
       ],
       "related": []
@@ -3817,131 +3637,27 @@
       ],
       "related": []
     },
-    "buio": {
-      "lemma": "buio",
-      "stress": "ˈbujo",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "bui",
-      "gloss": "dark; darkness",
+    "per": {
+      "lemma": "per",
+      "stress": "per",
+      "pos": "prep",
+      "gloss": "for; through; in order to",
       "meanings": [
         {
-          "en": "dark",
-          "note": "Al buio means in the dark."
+          "en": "for",
+          "note": "Marks recipient, duration, or purpose before an infinitive."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il buio",
-              "i bui"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Faccia pure, signora. Lunedì pomeriggio l'ingresso era buio.",
-          "trans": "Go right ahead, madam. Monday afternoon the lobby was dark."
+          "text": "Con me, sempre! Lascia il Lei formale per gli ospiti.",
+          "trans": "With me, always! Leave the stiff polite talk for the guests."
         },
         {
-          "text": "Ecco il buio.",
-          "trans": "Here is the dark."
-        }
-      ],
-      "related": []
-    },
-    "cartellino": {
-      "lemma": "cartellino",
-      "stress": "kartelˈlino",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "cartellini",
-      "gloss": "tag; label",
-      "meanings": [
-        {
-          "en": "tag",
-          "note": "Small luggage tag, name badge, or price label."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il cartellino",
-              "i cartellini"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Si sieda, signora. Non si preoccupi, controlliamo subito il cartellino.",
-          "trans": "Please sit down, madam. Do not worry, we will check the tag right now."
-        },
-        {
-          "text": "C'è un piccolo cartellino legato alla maniglia laterale.",
-          "trans": "There is a small paper card tied to the side handle."
-        }
-      ],
-      "related": []
-    },
-    "casa": {
-      "lemma": "casa",
-      "stress": "ˈkaza",
-      "pos": "noun",
-      "gender": "f",
-      "plural": "case",
-      "gloss": "house; home",
-      "meanings": [
-        {
-          "en": "house",
-          "note": "Both a physical house and one's home (a casa, at home)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la casa",
-              "le case"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Quindi la casa saluta da sola?",
-          "trans": "So the house says hello on its own?"
-        },
-        {
-          "text": "Sì, un buon letto di legno, una scrivania pulita e la vista migliore della casa.",
-          "trans": "Yes, a good wooden bed, a clean desk, and the best view in the house."
+          "text": "Qualcuno alla stazione ha preso la mia valigia blu per sbaglio!",
+          "trans": "Someone at the train station took my blue suitcase by mistake!"
         }
       ],
       "related": []
@@ -3971,40 +3687,83 @@
       ],
       "related": []
     },
-    "con": {
-      "lemma": "con",
-      "stress": "kon",
-      "pos": "prep",
-      "gloss": "with",
+    "minuto": {
+      "lemma": "minuto",
+      "stress": "miˈnuto",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "minuti",
+      "gloss": "minute",
       "meanings": [
         {
-          "en": "with",
-          "note": "Marks accompaniment, instrument, or weather condition (con questa pioggia)."
+          "en": "minute",
+          "note": "Unit of sixty seconds, or 'just a minute'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il minuto",
+              "i minuti"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh! Venite fuori in cortile un minuto: vi mostro il mio vero lavoro!",
+          "trans": "Oh! Come outside to the courtyard for a minute—let me show you what I really do!"
+        },
+        {
+          "text": "Dia qualche minuto, signor Davide. Il traffico in città a mezzogiorno è sempre lento.",
+          "trans": "Give it a few minutes, Davide. City traffic at noon is always slow."
+        }
+      ],
+      "related": []
+    },
+    "mentre": {
+      "lemma": "mentre",
+      "stress": "ˈmɛntre",
+      "pos": "conj",
+      "gloss": "while; whereas",
+      "meanings": [
+        {
+          "en": "while",
+          "note": "Marks simultaneous actions or gentle contrast."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Con me, sempre! Lascia il Lei formale per gli ospiti.",
-          "trans": "With me, always! Leave the stiff polite talk for the guests."
+          "text": "Panini freschi del mattino! Prendine uno mentre è ancora caldo.",
+          "trans": "Fresh morning rolls! Take one while it is still warm."
         },
         {
-          "text": "Giulia parla con tutti nella nostra via come vecchi amici.",
-          "trans": "Giulia talks to everyone on our street like old friends."
+          "text": "Oh no! Tutte le carte sembravano uguali mentre correvo!",
+          "trans": "Oh no! All the wrappers looked the same when I was running!"
         }
       ],
       "related": []
     },
-    "conoscere": {
-      "lemma": "conoscere",
-      "stress": "koˈnoʃʃere",
+    "spazzare": {
+      "lemma": "spazzare",
+      "stress": "spatˈtsare",
       "pos": "verb",
-      "gloss": "to know (a person or place); to meet",
+      "gloss": "to sweep",
       "meanings": [
         {
-          "en": "to know (a person or place)",
-          "note": "Used for familiarity with people, streets, and subjects."
+          "en": "to sweep",
+          "note": "Sweep a floor or courtyard with a broom."
         }
       ],
       "forms": {
@@ -4018,22 +3777,22 @@
           {
             "cells": [
               "1st",
-              "io conosco",
-              "noi conosciamo"
+              "io spazzo",
+              "noi spazziamo"
             ]
           },
           {
             "cells": [
               "2nd",
-              "tu conosci",
-              "voi conoscete"
+              "tu spazzi",
+              "voi spazzate"
             ]
           },
           {
             "cells": [
               "3rd",
-              "lui/lei conosce",
-              "loro conoscono"
+              "lui/lei spazza",
+              "loro spazzano"
             ]
           }
         ]
@@ -4050,22 +3809,22 @@
             {
               "cells": [
                 "1st",
-                "io ho conosciuto",
-                "noi abbiamo conosciuto"
+                "io ho spazzato",
+                "noi abbiamo spazzato"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu hai conosciuto",
-                "voi avete conosciuto"
+                "tu hai spazzato",
+                "voi avete spazzato"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "lui/lei ha conosciuto",
-                "loro hanno conosciuto"
+                "lui/lei ha spazzato",
+                "loro hanno spazzato"
               ]
             }
           ]
@@ -4073,137 +3832,128 @@
       ],
       "examples": [
         {
-          "text": "Davvero? Conosce qualcuno qui a Bologna?",
-          "trans": "Really? Do you know someone in Bologna?"
+          "text": "Metto qui questa valigia blu per cinque minuti mentre spazzo il ripostiglio.",
+          "trans": "Let me set this blue suitcase here for five minutes while I sweep the closet."
         },
         {
-          "text": "Signora Lucia, sembra stupita! Conosce Via dei Tigli numero dodici?",
-          "trans": "Madam Lucia, you look amazed! Do you know Number twelve, Via dei Tigli?"
+          "text": "Possiamo spazzare adesso.",
+          "trans": "We can sweep now."
         }
       ],
       "related": []
     },
-    "dei": {
-      "lemma": "dei",
-      "stress": "dei",
-      "pos": "prep",
-      "gloss": "of the; some (m. pl.)",
+    "il": {
+      "lemma": "il",
+      "stress": "il",
+      "pos": "det",
+      "gloss": "the (m. sg.)",
       "meanings": [
         {
-          "en": "of the",
-          "note": "Contraction of di + i."
+          "en": "the (m. sg.)",
+          "note": "Default masculine singular definite article before most consonants."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Esatto! Sei già dei nostri.",
-          "trans": "Exactly! You already fit right in."
+          "text": "Cammino sempre veloce il primo giorno. Dov'è il computer?",
+          "trans": "I always walk fast on my first day. Where is the computer?"
         },
         {
-          "text": "Prendi la seconda via, accanto al banco dei fiori, non il vicolo stretto.",
-          "trans": "Take the second street, beside the flower stall, not the narrow alley."
+          "text": "Prima regola: bevi il tè caldo, poi rispondi al campanello.",
+          "trans": "Rule one: drink hot tea first, then answer the bell."
         }
       ],
       "related": []
     },
-    "del": {
-      "lemma": "del",
-      "stress": "del",
-      "pos": "prep",
-      "gloss": "of the; some (m. sg.)",
+    "ripostiglio": {
+      "lemma": "ripostiglio",
+      "stress": "riposˈtiʎʎo",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "ripostigli",
+      "gloss": "storage closet; utility room",
       "meanings": [
         {
-          "en": "of the",
-          "note": "Contraction of di + il."
+          "en": "storage closet",
+          "note": "Small closet for brooms, linens, or luggage."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il ripostiglio",
+              "i ripostigli"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Panini freschi del mattino! Prendine uno mentre è ancora caldo.",
-          "trans": "Fresh morning rolls! Take one while it is still warm."
+          "text": "Ho chiuso l'altra valigia blu al sicuro nel ripostiglio.",
+          "trans": "I locked the other blue suitcase safely in our luggage closet."
         },
         {
-          "text": "Grazie! Qui ci diamo del tu?",
-          "trans": "Thank you! Do we use first names here?"
+          "text": "Sì, signore, la borsa è chiusa nel nostro ripostiglio. Come si chiama, per favore?",
+          "trans": "Yes, sir, we locked your bag safely in our closet. What is your name, please?"
         }
       ],
       "related": []
     },
-    "dentro": {
-      "lemma": "dentro",
-      "stress": "ˈdentro",
-      "pos": "adv",
-      "gloss": "inside; within",
+    "attento": {
+      "lemma": "attento",
+      "stress": "atˈtɛnto",
+      "pos": "adj",
+      "gloss": "careful; attentive",
       "meanings": [
         {
-          "en": "inside",
-          "note": "Used both as an adverb (guardi dentro) and before a noun (dentro la valigia)."
+          "en": "careful",
+          "note": "Attento! / Attenta! warns someone to watch out!"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "attento",
+              "attenta"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "attenti",
+              "attente"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Permette? Perbacco, ci sono pietre qui dentro?",
-          "trans": "Allow me. Goodness, did you pack stones in here?"
+          "text": "Attento, signor Cesare, il beccuccio della brocca è largo!",
+          "trans": "Careful, Cesare, the pitcher spout is wide!"
         },
         {
-          "text": "Guardi dentro questa valigia, Chiara! Non è la mia!",
-          "trans": "Look inside this suitcase, Chiara! This is not my bag!"
-        }
-      ],
-      "related": []
-    },
-    "di": {
-      "lemma": "di",
-      "stress": "di",
-      "pos": "prep",
-      "gloss": "of; from; than",
-      "meanings": [
-        {
-          "en": "of",
-          "note": "Links materials (di legno), possession, origin, and comparisons."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Io sono Bruno. Sei in anticipo di dieci minuti.",
-          "trans": "I am Bruno. You are ten minutes early."
-        },
-        {
-          "text": "Nel cassetto. Qui usiamo questo grande registro di carta e una matita.",
-          "trans": "In the drawer. Here we use this big paper book and a pencil."
-        }
-      ],
-      "related": []
-    },
-    "dodici": {
-      "lemma": "dodici",
-      "stress": "ˈdoditʃi",
-      "pos": "num",
-      "gloss": "twelve",
-      "meanings": [
-        {
-          "en": "twelve",
-          "note": "Cardinal number 12."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Proprio qui! Tutto costa trentotto euro, quindi ecco dodici di resto.",
-          "trans": "Right here! Everything cost thirty-eight, so here is twelve in change."
-        },
-        {
-          "text": "Dieci, undici, dodici. Preciso fino all'ultimo centesimo, grazie!",
-          "trans": "Ten, eleven, twelve. Exact to the last coin—thank you!"
+          "text": "Eccoci, signore. Attento alla testa sotto questa trave bassa.",
+          "trans": "Here we are, sir. Watch your head on this low wooden beam."
         }
       ],
       "related": []
@@ -4228,57 +3978,75 @@
         },
         {
           "text": "Domani mattina alle sette l'acqua della doccia sarà ghiacciata.",
-          "trans": "At seven tomorrow morning, the shower water will be ice-cold."
+          "trans": "By tomorrow morning, the shower water will be ice-cold."
         }
       ],
       "related": []
     },
-    "due": {
-      "lemma": "due",
-      "stress": "ˈdue",
-      "pos": "num",
-      "gloss": "two",
+    "a": {
+      "lemma": "a",
+      "stress": "a",
+      "pos": "prep",
+      "gloss": "to; at; in",
       "meanings": [
         {
-          "en": "two",
-          "note": "Invariable cardinal number 2; tutti e due means both."
+          "en": "to",
+          "note": "Core preposition of destination, time (alle otto), and city location (a Bologna); ad before vowels."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Cos'era quel campanello? Qualcuno ha suonato due volte!",
-          "trans": "What was that bell? Somebody rang twice!"
+          "text": "Buongiorno a tutti! Benvenuta, Chiara. È tutto pronto?",
+          "trans": "Good morning, everyone! Welcome, Chiara. Is everything ready?"
         },
         {
-          "text": "Anche quando la camera quattro è vuota, il vecchio filo suona due volte.",
-          "trans": "Even when room four is empty, the old wire rings twice."
+          "text": "Non ditelo a nessuno! Ora un bel sorriso quando suona il campanello.",
+          "trans": "Do not tell anyone! Now, smile brightly when the bell rings."
         }
       ],
       "related": []
     },
-    "e": {
-      "lemma": "e",
-      "stress": "e",
-      "pos": "conj",
-      "gloss": "and",
+    "mezzogiorno": {
+      "lemma": "mezzogiorno",
+      "stress": "meddzoˈdʒorno",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "mezzogiorni",
+      "gloss": "noon; midday",
       "meanings": [
         {
-          "en": "and",
-          "note": "Often adds euphonious d (ed) before another e."
+          "en": "noon",
+          "note": "Compound of mezzo + giorno; a mezzogiorno means at noon."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il mezzogiorno",
+              "i mezzogiorni"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Buongiorno. No, prima alza la maniglia e poi spingi.",
-          "trans": "Good morning. No, lift the handle first, then push."
+          "text": "Attento, Bruno: domani a mezzogiorno è venerdì!",
+          "trans": "Careful with it, Bruno—Friday at noon is tomorrow!"
         },
         {
-          "text": "Nel cassetto. Qui usiamo questo grande registro di carta e una matita.",
-          "trans": "In the drawer. Here we use this big paper book and a pencil."
+          "text": "Per chiedergli di vedersi qui venerdì a mezzogiorno?",
+          "trans": "Asking him to meet you here on Friday at noon?"
         }
       ],
       "related": []
@@ -4370,46 +4138,17 @@
       ],
       "related": []
     },
-    "fa": {
-      "lemma": "fa",
-      "stress": "fa",
-      "pos": "adv",
-      "gloss": "ago (after a time span)",
-      "meanings": [
-        {
-          "en": "ago (after a time span)",
-          "note": "Always follows the time expression: un'ora fa, venticinque anni fa."
-        },
-        {
-          "en": "F (musical note)",
-          "note": "Fourth note of the Italian solfège scale (scala di fa maggiore)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Venticinque anni fa insegnavo pianoforte qui vicino, ma i ricordi passano.",
-          "trans": "Twenty-five years ago I taught piano near here, though memories fade."
-        },
-        {
-          "text": "Venticinque anni fa? Proprio in quella casa?",
-          "trans": "Twenty-five years ago? In that same house?"
-        }
-      ],
-      "related": []
-    },
-    "falegname": {
-      "lemma": "falegname",
-      "stress": "faleɲˈɲame",
+    "venerdì": {
+      "lemma": "venerdì",
+      "stress": "venerˈdi",
       "pos": "noun",
       "gender": "m",
-      "plural": "falegnami",
-      "gloss": "carpenter; woodworker",
+      "plural": "venerdì",
+      "gloss": "Friday",
       "meanings": [
         {
-          "en": "carpenter",
-          "note": "Craftsperson who builds furniture and wooden fittings."
+          "en": "Friday",
+          "note": "Invariable masculine day of the week."
         }
       ],
       "forms": {
@@ -4423,8 +4162,8 @@
           {
             "cells": [
               "form",
-              "il falegname",
-              "i falegnami"
+              "il venerdì",
+              "i venerdì"
             ]
           }
         ]
@@ -4432,99 +4171,110 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Un falegname... e un piccolo trenino di legno dentro la valigia!",
-          "trans": "A carpenter... and a little wooden toy train inside the bag!"
+          "text": "Fino a venerdì? Nessun nome, nessuna firma!",
+          "trans": "Until Friday? No name, no signature!"
         },
         {
-          "text": "Ecco il falegname.",
-          "trans": "Here is the carpenter."
+          "text": "Perché lasciare scarpe e trenino di legno a sconosciuti fino a venerdì?",
+          "trans": "Why leave your own shoes and wooden train with strangers until Friday?"
         }
       ],
       "related": []
     },
-    "fare": {
-      "lemma": "fare",
-      "stress": "ˈfare",
-      "pos": "verb",
-      "gloss": "to do; to make",
+    "oh": {
+      "lemma": "oh",
+      "stress": "o",
+      "pos": "interj",
+      "gloss": "oh!",
       "meanings": [
         {
-          "en": "to do",
-          "note": "High-frequency irregular verb used in dozens of everyday expressions."
+          "en": "oh!",
+          "note": "Exclamation of surprise or emotion."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Perché nello specchio... oh! Sono sulla mia testa!",
+          "trans": "Why would my glasses be in the... oh! They are on my head!"
+        },
+        {
+          "text": "Oh, portiamola giù alla luce!",
+          "trans": "Oh, let us bring it downstairs to the light!"
+        }
+      ],
+      "related": []
+    },
+    "quello": {
+      "lemma": "quello",
+      "stress": "ˈkwello",
+      "pos": "adj",
+      "gloss": "that; those",
+      "meanings": [
+        {
+          "en": "that",
+          "note": "Patterns like bello before nouns: quel, quello, quell', quei, quegli."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Forms",
         "columns": [
           "",
-          "sg",
-          "pl"
+          "m",
+          "f"
         ],
         "rows": [
           {
             "cells": [
-              "1st",
-              "io faccio",
-              "noi facciamo"
+              "sg",
+              "quello",
+              "quella"
             ]
           },
           {
             "cells": [
-              "2nd",
-              "tu fai",
-              "voi fate"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "lui/lei fa",
-              "loro fanno"
+              "pl",
+              "quelli",
+              "quelle"
             ]
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Passato prossimo",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "io ho fatto",
-                "noi abbiamo fatto"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu hai fatto",
-                "voi avete fatto"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "lui/lei ha fatto",
-                "loro hanno fatto"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
-          "text": "Lasci fare a me. Scendiamo a dargli il benvenuto.",
-          "trans": "Leave it to me. Let us go down and welcome him."
+          "text": "Perfetto. Dimmi tutto quello che devo sapere.",
+          "trans": "Great. Tell me everything I need to know."
         },
         {
-          "text": "Cosa dice? Perché fai quella faccia?",
-          "trans": "What is he saying? Why are you frowning?"
+          "text": "Proprio quello che cerco. Dove sono le scale?",
+          "trans": "Just what I need. Where are the stairs?"
+        }
+      ],
+      "related": []
+    },
+    "la": {
+      "lemma": "la",
+      "stress": "la",
+      "pos": "det",
+      "gloss": "the (f. sg.); it / her",
+      "meanings": [
+        {
+          "en": "the (f. sg.)",
+          "note": "Feminine singular definite article; also feminine direct object pronoun (or polite Lei object La)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Buongiorno! Scusi, la porta è chiusa?",
+          "trans": "Good morning! Excuse me, is the door locked?"
+        },
+        {
+          "text": "Buongiorno. No, prima alza la maniglia e poi spingi.",
+          "trans": "Good morning. No, lift the handle first, then push."
         }
       ],
       "related": []
@@ -4577,67 +4327,46 @@
       ],
       "related": []
     },
-    "grande": {
-      "lemma": "grande",
-      "stress": "ˈgrande",
-      "pos": "adj",
-      "gloss": "big; large; great",
+    "del": {
+      "lemma": "del",
+      "stress": "del",
+      "pos": "prep",
+      "gloss": "of the; some (m. sg.)",
       "meanings": [
         {
-          "en": "big",
-          "note": "Two-ending adjective (-e / -i)."
+          "en": "of the",
+          "note": "Contraction of di + il."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "grande",
-              "grande"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "grandi",
-              "grandi"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Nel cassetto. Qui usiamo questo grande registro di carta e una matita.",
-          "trans": "In the drawer. Here we use this big paper book and a pencil."
+          "text": "Panini freschi del mattino! Prendine uno mentre è ancora caldo.",
+          "trans": "Fresh morning rolls! Take one while it is still warm."
         },
         {
-          "text": "Meraviglioso! Adesso sono pronta per una grande colazione.",
-          "trans": "Wonderful! Now I am ready for a big breakfast."
+          "text": "Grazie! Qui ci diamo del tu?",
+          "trans": "Thank you! Do we use first names here?"
         }
       ],
       "related": []
     },
-    "guardare": {
-      "lemma": "guardare",
-      "stress": "gwarˈdare",
-      "pos": "verb",
-      "gloss": "to look at; to watch",
+    "treno": {
+      "lemma": "treno",
+      "stress": "ˈtrɛno",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "treni",
+      "gloss": "train",
       "meanings": [
         {
-          "en": "to look at",
-          "note": "Takes a direct object with no separate word for 'at'."
+          "en": "train",
+          "note": "In treno means by train."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Forms",
         "columns": [
           "",
           "sg",
@@ -4646,131 +4375,35 @@
         "rows": [
           {
             "cells": [
-              "1st",
-              "io guardo",
-              "noi guardiamo"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu guardi",
-              "voi guardate"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "lui/lei guarda",
-              "loro guardano"
+              "form",
+              "il treno",
+              "i treni"
             ]
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Passato prossimo",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "io ho guardato",
-                "noi abbiamo guardato"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu hai guardato",
-                "voi avete guardato"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "lui/lei ha guardato",
-                "loro hanno guardato"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Posso guardare di nuovo il cartellino qui alla luce del sole?",
-          "trans": "May I look at the paper tag again here in the bright sunlight?"
-        },
-        {
-          "text": "Lasciati guardare bene, Davide! Sei diventato più alto del pianoforte!",
-          "trans": "Let me look at you properly, Davide! You grew taller than the piano!"
-        }
-      ],
-      "related": []
-    },
-    "i": {
-      "lemma": "i",
-      "stress": "i",
-      "pos": "det",
-      "gloss": "the (m. pl.)",
-      "meanings": [
-        {
-          "en": "the (m. pl.)",
-          "note": "Plural of il."
-        }
-      ],
-      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Devo leggere il registro, ma non trovo i miei occhiali!",
-          "trans": "I need to read the reservation book, but I cannot find my glasses!"
+          "text": "Sì, la camera quattro al secondo piano! Com'è andato il viaggio in treno?",
+          "trans": "Yes, room four on the second floor! How was your train trip?"
         },
         {
-          "text": "Venticinque anni fa insegnavo pianoforte qui vicino, ma i ricordi passano.",
-          "trans": "Twenty-five years ago I taught piano near here, though memories fade."
+          "text": "Che strano! Abbiamo preso lo stesso treno del mattino per lo stesso quartiere.",
+          "trans": "How strange! We rode the same morning train to the same district."
         }
       ],
       "related": []
     },
-    "il": {
-      "lemma": "il",
-      "stress": "il",
-      "pos": "det",
-      "gloss": "the (m. sg.)",
-      "meanings": [
-        {
-          "en": "the (m. sg.)",
-          "note": "Default masculine singular definite article before most consonants."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Cammino sempre veloce il primo giorno. Dov'è il computer?",
-          "trans": "I always walk fast on my first day. Where is the computer?"
-        },
-        {
-          "text": "Prima regola: bevi il tè caldo, poi rispondi al campanello.",
-          "trans": "Rule one: drink hot tea first, then answer the bell."
-        }
-      ],
-      "related": []
-    },
-    "in": {
-      "lemma": "in",
-      "stress": "in",
+    "di": {
+      "lemma": "di",
+      "stress": "di",
       "pos": "prep",
-      "gloss": "in; into; by (transport)",
+      "gloss": "of; from; than",
       "meanings": [
         {
-          "en": "in",
-          "note": "Marks country/region, room/shop type, and transport (in treno)."
+          "en": "of",
+          "note": "Links materials (di legno), possession, origin, and comparisons."
         }
       ],
       "forms": null,
@@ -4781,379 +4414,8 @@
           "trans": "I am Bruno. You are ten minutes early."
         },
         {
-          "text": "Sì, la camera quattro al secondo piano! Com'è andato il viaggio in treno?",
-          "trans": "Yes, room four on the second floor! How was your train trip?"
-        }
-      ],
-      "related": []
-    },
-    "incidere": {
-      "lemma": "incidere",
-      "stress": "intʃiˈdere",
-      "pos": "verb",
-      "gloss": "to engrave; to carve",
-      "meanings": [
-        {
-          "en": "to engrave",
-          "note": "Carve initials into wood or brass."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "io incido",
-              "noi incidiamo"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu incidi",
-              "voi incidete"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "lui/lei incide",
-              "loro incidono"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passato prossimo",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "io ho inciso",
-                "noi abbiamo inciso"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu hai inciso",
-                "voi avete inciso"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "lui/lei ha inciso",
-                "loro hanno inciso"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Un momento... Via dei Tigli numero dodici, e due iniziali incise nell'angolo!",
-          "trans": "Wait a moment... Number twelve, Via dei Tigli, and two childhood initials carved on the corner!"
-        },
-        {
-          "text": "Possiamo incidere adesso.",
-          "trans": "We can engrave now."
-        }
-      ],
-      "related": []
-    },
-    "ingresso": {
-      "lemma": "ingresso",
-      "stress": "inˈgrɛsso",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "ingressi",
-      "gloss": "entrance; front hall",
-      "meanings": [
-        {
-          "en": "entrance",
-          "note": "Entranceway or lobby just inside the front door."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'ingresso",
-              "gli ingressi"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Nove su dieci?! Nessuno misura gli ingressi a meno che...",
-          "trans": "Nine out of ten?! Nobody measures lobbies unless..."
-        },
-        {
-          "text": "Faccia pure, signora. Lunedì pomeriggio l'ingresso era buio.",
-          "trans": "Go right ahead, madam. Monday afternoon the lobby was dark."
-        }
-      ],
-      "related": []
-    },
-    "iniziale": {
-      "lemma": "iniziale",
-      "stress": "initˈtsjale",
-      "pos": "noun",
-      "gender": "f",
-      "plural": "iniziali",
-      "gloss": "initial (letter)",
-      "meanings": [
-        {
-          "en": "initial (letter)",
-          "note": "First letter of a person's given name or surname."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'iniziale",
-              "le iniziali"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Nessun numero di telefono, purtroppo. Solo due iniziali e il nome di una vecchia via.",
-          "trans": "No phone number, unfortunately. Only two initials and an old street name."
-        },
-        {
-          "text": "Controlla la cerniera... sì, ci sono le sue iniziali proprio qui!",
-          "trans": "Check the zipper... yes, her initials are right here!"
-        }
-      ],
-      "related": []
-    },
-    "insegnare": {
-      "lemma": "insegnare",
-      "stress": "inseɲˈɲare",
-      "pos": "verb",
-      "gloss": "to teach",
-      "meanings": [
-        {
-          "en": "to teach",
-          "note": "Teach music, a language, or a craft."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "io insegno",
-              "noi insegniamo"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu insegni",
-              "voi insegnate"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "lui/lei insegna",
-              "loro insegnano"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passato prossimo",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "io ho insegnato",
-                "noi abbiamo insegnato"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu hai insegnato",
-                "voi avete insegnato"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "lui/lei ha insegnato",
-                "loro hanno insegnato"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Il negozio ha una grande insegna fuori?",
-          "trans": "Does the shop have a big sign outside?"
-        },
-        {
-          "text": "Possiamo insegnare adesso.",
-          "trans": "We can teach now."
-        }
-      ],
-      "related": []
-    },
-    "la": {
-      "lemma": "la",
-      "stress": "la",
-      "pos": "det",
-      "gloss": "the (f. sg.); it / her",
-      "meanings": [
-        {
-          "en": "the (f. sg.)",
-          "note": "Feminine singular definite article; also feminine direct object pronoun (or polite Lei object La)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Buongiorno! Scusi, la porta è chiusa?",
-          "trans": "Good morning! Excuse me, is the door locked?"
-        },
-        {
-          "text": "Buongiorno. No, prima alza la maniglia e poi spingi.",
-          "trans": "Good morning. No, lift the handle first, then push."
-        }
-      ],
-      "related": []
-    },
-    "legno": {
-      "lemma": "legno",
-      "stress": "ˈleɲɲo",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "legni",
-      "gloss": "wood; timber",
-      "meanings": [
-        {
-          "en": "wood",
-          "note": "Di legno means wooden or made of wood."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il legno",
-              "i legni"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "E cos'è questo nella carta bianca? Un piccolo trenino di legno!",
-          "trans": "And what is this wrapped in white paper? A little wooden train!"
-        },
-        {
-          "text": "Ecco perché era così pesante. Legno e cuoio!",
-          "trans": "No wonder it was so heavy. Wood and leather!"
-        }
-      ],
-      "related": []
-    },
-    "luce": {
-      "lemma": "luce",
-      "stress": "ˈlutʃe",
-      "pos": "noun",
-      "gender": "f",
-      "plural": "luci",
-      "gloss": "light",
-      "meanings": [
-        {
-          "en": "light",
-          "note": "Daylight, electric light, or lamp."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la luce",
-              "le luci"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh, portiamola giù alla luce!",
-          "trans": "Oh, let us bring it downstairs to the light!"
-        },
-        {
-          "text": "E il piccolo bagno qui accanto? La luce funziona?",
-          "trans": "What about the small bathroom next door? Does the light work?"
+          "text": "Nel cassetto. Qui usiamo questo grande registro di carta e una matita.",
+          "trans": "In the drawer. Here we use this big paper book and a pencil."
         }
       ],
       "related": []
@@ -5201,65 +4463,83 @@
       ],
       "related": []
     },
-    "lì": {
-      "lemma": "lì",
-      "stress": "li",
-      "pos": "adv",
-      "gloss": "there",
+    "sì": {
+      "lemma": "sì",
+      "stress": "si",
+      "pos": "interj",
+      "gloss": "yes",
       "meanings": [
         {
-          "en": "there",
-          "note": "Written with an accent mark to distinguish it from pronoun li."
+          "en": "yes",
+          "note": "Always written with an accent mark to distinguish it from reflexive si."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Proprio lì sulla fronte, sani e salvi.",
-          "trans": "Right there on your forehead, safe and sound."
+          "text": "Sì, otto camere e otto chiavi di ottone. L'ospite della camera quattro arriva oggi.",
+          "trans": "Yes, eight rooms, eight brass keys. Room four's guest arrives today."
         },
         {
-          "text": "Perché le scale sono strette e Cesare tiene lì vecchie scatole di lampade.",
-          "trans": "Because the stairs are narrow and Cesare keeps old lamp boxes there."
+          "text": "Buongiorno! Sì, la reception è pulita e le chiavi sono pronte.",
+          "trans": "Good morning! Yes, the desk is clean and the keys are ready."
         }
       ],
       "related": []
     },
-    "mentre": {
-      "lemma": "mentre",
-      "stress": "ˈmɛntre",
-      "pos": "conj",
-      "gloss": "while; whereas",
+    "signora": {
+      "lemma": "signora",
+      "stress": "siɲˈɲora",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "signore",
+      "gloss": "madam; Mrs; lady",
       "meanings": [
         {
-          "en": "while",
-          "note": "Marks simultaneous actions or gentle contrast."
+          "en": "madam",
+          "note": "Respectful title and address for a woman."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la signora",
+              "le signore"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Panini freschi del mattino! Prendine uno mentre è ancora caldo.",
-          "trans": "Fresh morning rolls! Take one while it is still warm."
+          "text": "Benvenuta! Buongiorno, signora.",
+          "trans": "Welcome! Good morning, madam."
         },
         {
-          "text": "Oh no! Tutte le carte sembravano uguali mentre correvo!",
-          "trans": "Oh no! All the wrappers looked the same when I was running!"
+          "text": "Signora Lucia, va tutto bene? Ha suonato il campanello!",
+          "trans": "Madam Lucia, is everything alright? You rang the bell!"
         }
       ],
       "related": []
     },
-    "mettere": {
-      "lemma": "mettere",
-      "stress": "ˈmettere",
+    "aspettare": {
+      "lemma": "aspettare",
+      "stress": "aspetˈtare",
       "pos": "verb",
-      "gloss": "to put; to place; to set",
+      "gloss": "to wait; to wait for",
       "meanings": [
         {
-          "en": "to put",
-          "note": "Mettere giù on the phone means to hang up."
+          "en": "to wait",
+          "note": "Takes a direct object without a separate word for 'for'."
         }
       ],
       "forms": {
@@ -5273,22 +4553,22 @@
           {
             "cells": [
               "1st",
-              "io metto",
-              "noi mettiamo"
+              "io aspetto",
+              "noi aspettiamo"
             ]
           },
           {
             "cells": [
               "2nd",
-              "tu metti",
-              "voi mettete"
+              "tu aspetti",
+              "voi aspettate"
             ]
           },
           {
             "cells": [
               "3rd",
-              "lui/lei mette",
-              "loro mettono"
+              "lui/lei aspetta",
+              "loro aspettano"
             ]
           }
         ]
@@ -5305,22 +4585,22 @@
             {
               "cells": [
                 "1st",
-                "io ho messo",
-                "noi abbiamo messo"
+                "io ho aspettato",
+                "noi abbiamo aspettato"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu hai messo",
-                "voi avete messo"
+                "tu hai aspettato",
+                "voi avete aspettato"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "lui/lei ha messo",
-                "loro hanno messo"
+                "lui/lei ha aspettato",
+                "loro hanno aspettato"
               ]
             }
           ]
@@ -5328,240 +4608,50 @@
       ],
       "examples": [
         {
-          "text": "Metto qui questa valigia blu per cinque minuti mentre spazzo il ripostiglio.",
-          "trans": "Let me set this blue suitcase here for five minutes while I sweep the closet."
+          "text": "Hai ragione. Le carte possono aspettare: mettila accanto al registro per ora.",
+          "trans": "Right you are. Paperwork can wait—put it beside the ledger for now."
         },
         {
-          "text": "Bene. Metti queste erbe fresche sopra prima di servire.",
-          "trans": "Good. Put these fresh green herbs on top before you serve them."
+          "text": "Aspetto ancora la tua scala di fa maggiore suonata piano, Paolo!",
+          "trans": "Still waiting for you to play your F-major scale slowly, Paolo!"
         }
       ],
       "related": []
     },
-    "mezzogiorno": {
-      "lemma": "mezzogiorno",
-      "stress": "meddzoˈdʒorno",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "mezzogiorni",
-      "gloss": "noon; midday",
+    "ancora": {
+      "lemma": "ancora",
+      "stress": "anˈkora",
+      "pos": "adv",
+      "gloss": "still; yet; again; more",
       "meanings": [
         {
-          "en": "noon",
-          "note": "Compound of mezzo + giorno; a mezzogiorno means at noon."
+          "en": "still",
+          "note": "Ancora niente means still nothing; ancora due means two more."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il mezzogiorno",
-              "i mezzogiorni"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Attento, Bruno: domani a mezzogiorno è venerdì!",
-          "trans": "Careful with it, Bruno—tomorrow at noon is Friday!"
+          "text": "Panini freschi del mattino! Prendine uno mentre è ancora caldo.",
+          "trans": "Fresh morning rolls! Take one while it is still warm."
         },
         {
-          "text": "Per chiedergli di vedersi qui venerdì a mezzogiorno?",
-          "trans": "Asking him to meet you here on Friday at noon?"
+          "text": "Ancora niente? Prenda il nostro numero e l'indirizzo della locanda. Grazie!",
+          "trans": "Not yet? Please take our guesthouse number and address. Thank you!"
         }
       ],
       "related": []
     },
-    "minuto": {
-      "lemma": "minuto",
-      "stress": "miˈnuto",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "minuti",
-      "gloss": "minute",
-      "meanings": [
-        {
-          "en": "minute",
-          "note": "Unit of sixty seconds, or 'just a minute'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il minuto",
-              "i minuti"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh! Venite fuori in cortile un minuto: vi mostro il mio vero lavoro!",
-          "trans": "Oh! Come outside to the courtyard for a minute—let me show you what I really do!"
-        },
-        {
-          "text": "Dia qualche minuto, signor Davide. Il traffico in città a mezzogiorno è sempre lento.",
-          "trans": "Give it a few minutes, Davide. City traffic at noon is always slow."
-        }
-      ],
-      "related": []
-    },
-    "momento": {
-      "lemma": "momento",
-      "stress": "moˈmɛnto",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "momenti",
-      "gloss": "moment",
-      "meanings": [
-        {
-          "en": "moment",
-          "note": "Un momento means wait a moment."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il momento",
-              "i momenti"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Un momento: Giulia nel caffè mi fa segno con un'idea!",
-          "trans": "Wait one moment—Giulia in the café just waved to me with an idea!"
-        },
-        {
-          "text": "Salvi! Mi scusi un momento, signora, gusti pure il Suo tè caldo!",
-          "trans": "Saved! Excuse me one moment, madam, enjoy your hot tea!"
-        }
-      ],
-      "related": []
-    },
-    "nipote": {
-      "lemma": "nipote",
-      "stress": "niˈpote",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "nipoti",
-      "gloss": "grandchild; nephew/niece",
-      "meanings": [
-        {
-          "en": "grandchild",
-          "note": "Covers both grandchild and nephew/niece depending on context."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il nipote",
-              "i nipoti"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ecco il nipote.",
-          "trans": "Here is the grandchild."
-        },
-        {
-          "text": "Lì viveva un falegname con i suoi due nipoti: il grande suonava il piano e il piccolo amava i treni!",
-          "trans": "A carpenter lived there with his two grandsons—the older boy played piano, and the little one loved trains!"
-        }
-      ],
-      "related": []
-    },
-    "numero": {
-      "lemma": "numero",
-      "stress": "ˈnumero",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "numeri",
-      "gloss": "number; shoe size",
-      "meanings": [
-        {
-          "en": "number",
-          "note": "Room number, phone number, or shoe size."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il numero",
-              "i numeri"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ecco la Sua chiave, numero quattro. La colazione è dalle sette e mezza alle dieci.",
-          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
-        },
-        {
-          "text": "Io di certo non porto il numero quarantaquattro!",
-          "trans": "I certainly do not wear size forty-four shoes!"
-        }
-      ],
-      "related": []
-    },
-    "nuovo": {
-      "lemma": "nuovo",
-      "stress": "ˈnwɔvo",
+    "suo": {
+      "lemma": "suo",
+      "stress": "ˈsuo",
       "pos": "adj",
-      "gloss": "new",
+      "gloss": "his; her; its; your (polite)",
       "meanings": [
         {
-          "en": "new",
-          "note": "Di nuovo means again."
+          "en": "his",
+          "note": "Capitalised Suo/Sua/Suoi/Sue often marks polite formal 'your'."
         }
       ],
       "forms": {
@@ -5575,15 +4665,15 @@
           {
             "cells": [
               "sg",
-              "nuovo",
-              "nuova"
+              "suo",
+              "sua"
             ]
           },
           {
             "cells": [
               "pl",
-              "nuovi",
-              "nuove"
+              "suoi",
+              "sue"
             ]
           }
         ]
@@ -5591,106 +4681,27 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "E guardi: questo morbido cardigan di lana è pulito e nuovo. Lo provi.",
-          "trans": "And look—this soft wool cardigan is clean and never worn. Try it on."
+          "text": "Quattro tavoli, otto sedie, tutto al suo posto!",
+          "trans": "Four tables, eight chairs, everything in place!"
         },
         {
-          "text": "Meno male! Un'idea veloce salva di nuovo la colazione.",
-          "trans": "Phew! Quick thinking saves breakfast again."
+          "text": "Chiedi il suo nome! Scrivilo subito!",
+          "trans": "Ask him his name! Write it down!"
         }
       ],
       "related": []
     },
-    "ogni": {
-      "lemma": "ogni",
-      "stress": "ˈɔɲɲi",
-      "pos": "det",
-      "gloss": "every; each",
-      "meanings": [
-        {
-          "en": "every",
-          "note": "Invariable determiner always followed by a singular noun."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Metti un tovagliolo e un cucchiaino vicino a ogni tazza blu.",
-          "trans": "Put one napkin and one small spoon beside every blue cup."
-        },
-        {
-          "text": "Agitato per un trenino di legno? Questa storia diventa più strana ogni ora.",
-          "trans": "Nervous about a wooden toy train? This story gets stranger every hour."
-        }
-      ],
-      "related": []
-    },
-    "oh": {
-      "lemma": "oh",
-      "stress": "o",
-      "pos": "interj",
-      "gloss": "oh!",
-      "meanings": [
-        {
-          "en": "oh!",
-          "note": "Exclamation of surprise or emotion."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Perché nello specchio... oh! Sono sulla mia testa!",
-          "trans": "Why would my glasses be in the... oh! They are on my head!"
-        },
-        {
-          "text": "Oh, portiamola giù alla luce!",
-          "trans": "Oh, let us bring it downstairs to the light!"
-        }
-      ],
-      "related": []
-    },
-    "per": {
-      "lemma": "per",
-      "stress": "per",
-      "pos": "prep",
-      "gloss": "for; through; in order to",
-      "meanings": [
-        {
-          "en": "for",
-          "note": "Marks recipient, duration, or purpose before an infinitive."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Con me, sempre! Lascia il Lei formale per gli ospiti.",
-          "trans": "With me, always! Leave the stiff polite talk for the guests."
-        },
-        {
-          "text": "Qualcuno alla stazione ha preso la mia valigia blu per sbaglio!",
-          "trans": "Someone at the train station took my blue suitcase by mistake!"
-        }
-      ],
-      "related": []
-    },
-    "piano": {
-      "lemma": "piano",
-      "stress": "ˈpjano",
+    "proprietario": {
+      "lemma": "proprietario",
+      "stress": "proprjeˈtarjo",
       "pos": "noun",
       "gender": "m",
-      "plural": "piani",
-      "gloss": "floor (storey); plan; piano",
+      "plural": "proprietari",
+      "gloss": "owner; landlord",
       "meanings": [
         {
-          "en": "floor (storey)",
-          "note": "Il primo piano is the first floor upstairs; also a plan or short for pianoforte."
-        },
-        {
-          "en": "slowly; quietly; gently",
-          "note": "Giro piano means I turn slowly."
+          "en": "owner",
+          "note": "Building or guesthouse owner."
         }
       ],
       "forms": {
@@ -5704,8 +4715,8 @@
           {
             "cells": [
               "form",
-              "il piano",
-              "i piani"
+              "il proprietario",
+              "i proprietari"
             ]
           }
         ]
@@ -5713,146 +4724,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Sì, la camera quattro al secondo piano! Com'è andato il viaggio in treno?",
-          "trans": "Yes, room four on the second floor! How was your train trip?"
+          "text": "Il proprietario lo cercherà presto di sicuro.",
+          "trans": "Whoever owns it will surely look for it soon."
         },
         {
-          "text": "Un attimo: cosa c'è al terzo piano sopra le scale?",
-          "trans": "Wait—what is on the third floor above the stairs?"
-        }
-      ],
-      "related": []
-    },
-    "pianoforte": {
-      "lemma": "pianoforte",
-      "stress": "pjanoˈfɔrte",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "pianoforti",
-      "gloss": "piano",
-      "meanings": [
-        {
-          "en": "piano",
-          "note": "Literally soft-loud, an Italian invention and word."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il pianoforte",
-              "i pianoforti"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Venticinque anni fa insegnavo pianoforte qui vicino, ma i ricordi passano.",
-          "trans": "Twenty-five years ago I taught piano near here, though memories fade."
-        },
-        {
-          "text": "Signora Lucia?! La maestra di pianoforte del venerdì di mio fratello?!",
-          "trans": "Madam Lucia?! My brother's Friday piano teacher?!"
-        }
-      ],
-      "related": []
-    },
-    "piccolo": {
-      "lemma": "piccolo",
-      "stress": "ˈpikkolo",
-      "pos": "adj",
-      "gloss": "small; little; young",
-      "meanings": [
-        {
-          "en": "small",
-          "note": "Da piccolo / quando ero piccolo means when I was a child."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "piccolo",
-              "piccola"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "piccoli",
-              "piccole"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "E cos'è questo nella carta bianca? Un piccolo trenino di legno!",
-          "trans": "And what is this wrapped in white paper? A little wooden train!"
-        },
-        {
-          "text": "C'è un piccolo cartellino legato alla maniglia laterale.",
-          "trans": "There is a small paper card tied to the side handle."
-        }
-      ],
-      "related": []
-    },
-    "pomeriggio": {
-      "lemma": "pomeriggio",
-      "stress": "pomeˈriddʒo",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "pomeriggi",
-      "gloss": "afternoon",
-      "meanings": [
-        {
-          "en": "afternoon",
-          "note": "Di pomeriggio means in the afternoon."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il pomeriggio",
-              "i pomeriggi"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Faccia pure, signora. Lunedì pomeriggio l'ingresso era buio.",
-          "trans": "Go right ahead, madam. Monday afternoon the lobby was dark."
-        },
-        {
-          "text": "Ecco il pomeriggio.",
-          "trans": "Here is the afternoon."
+          "text": "Sì, signora, aspetta ancora il suo proprietario.",
+          "trans": "Yes, madam, still waiting for its owner."
         }
       ],
       "related": []
@@ -5944,46 +4821,19 @@
       ],
       "related": []
     },
-    "presto": {
-      "lemma": "presto",
-      "stress": "ˈprɛsto",
-      "pos": "adv",
-      "gloss": "soon; early; quickly",
+    "guardare": {
+      "lemma": "guardare",
+      "stress": "gwarˈdare",
+      "pos": "verb",
+      "gloss": "to look at; to watch",
       "meanings": [
         {
-          "en": "soon",
-          "note": "A presto! (See you soon!), fai presto! (hurry up!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il proprietario lo cercherà presto di sicuro.",
-          "trans": "Whoever owns it will surely look for it soon."
-        },
-        {
-          "text": "La vecchia mansarda luminosa... seguitemi, presto!",
-          "trans": "The old sunny attic study... follow me, quickly!"
-        }
-      ],
-      "related": []
-    },
-    "proprietario": {
-      "lemma": "proprietario",
-      "stress": "proprjeˈtarjo",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "proprietari",
-      "gloss": "owner; landlord",
-      "meanings": [
-        {
-          "en": "owner",
-          "note": "Building or guesthouse owner."
+          "en": "to look at",
+          "note": "Takes a direct object with no separate word for 'at'."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -5992,35 +4842,81 @@
         "rows": [
           {
             "cells": [
-              "form",
-              "il proprietario",
-              "i proprietari"
+              "1st",
+              "io guardo",
+              "noi guardiamo"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu guardi",
+              "voi guardate"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "lui/lei guarda",
+              "loro guardano"
             ]
           }
         ]
       },
-      "moreForms": [],
+      "moreForms": [
+        {
+          "title": "Passato prossimo",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "io ho guardato",
+                "noi abbiamo guardato"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu hai guardato",
+                "voi avete guardato"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "lui/lei ha guardato",
+                "loro hanno guardato"
+              ]
+            }
+          ]
+        }
+      ],
       "examples": [
         {
-          "text": "Il proprietario lo cercherà presto di sicuro.",
-          "trans": "Whoever owns it will surely look for it soon."
+          "text": "Posso guardare di nuovo il cartellino qui alla luce del sole?",
+          "trans": "May I look at the paper tag again here in the bright sunlight?"
         },
         {
-          "text": "Sì, signora, aspetta ancora il suo proprietario.",
-          "trans": "Yes, madam, still waiting for its owner."
+          "text": "Lasciati guardare bene, Davide! Sei diventato più alto del pianoforte!",
+          "trans": "Let me look at you properly, Davide! You grew taller than the piano!"
         }
       ],
       "related": []
     },
-    "proprio": {
-      "lemma": "proprio",
-      "stress": "ˈprɔprjo",
+    "nuovo": {
+      "lemma": "nuovo",
+      "stress": "ˈnwɔvo",
       "pos": "adj",
-      "gloss": "one's own; right / really",
+      "gloss": "new",
       "meanings": [
         {
-          "en": "one's own",
-          "note": "As an adjective means one's own; as an adverb means right / truly."
+          "en": "new",
+          "note": "Di nuovo means again."
         }
       ],
       "forms": {
@@ -6034,15 +4930,15 @@
           {
             "cells": [
               "sg",
-              "proprio",
-              "propria"
+              "nuovo",
+              "nuova"
             ]
           },
           {
             "cells": [
               "pl",
-              "propri",
-              "proprie"
+              "nuovi",
+              "nuove"
             ]
           }
         ]
@@ -6050,12 +4946,253 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Proprio lì sulla fronte, sani e salvi.",
-          "trans": "Right there on your forehead, safe and sound."
+          "text": "E guardi: questo morbido cardigan di lana è pulito e nuovo. Lo provi.",
+          "trans": "And look—this soft wool cardigan is clean and never worn. Try it on."
         },
         {
-          "text": "Ecco un taxi davanti al cancello proprio adesso.",
-          "trans": "Here comes a taxi at the gate right now."
+          "text": "Meno male! Un'idea veloce salva di nuovo la colazione.",
+          "trans": "Phew! Quick thinking saves breakfast again."
+        }
+      ],
+      "related": []
+    },
+    "cartellino": {
+      "lemma": "cartellino",
+      "stress": "kartelˈlino",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "cartellini",
+      "gloss": "tag; label",
+      "meanings": [
+        {
+          "en": "tag",
+          "note": "Small luggage tag, name badge, or price label."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il cartellino",
+              "i cartellini"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Si sieda, signora. Non si preoccupi, controlliamo subito il cartellino.",
+          "trans": "Please sit down, madam. Do not worry, we will check the tag right now."
+        },
+        {
+          "text": "C'è un piccolo cartellino legato alla maniglia laterale.",
+          "trans": "There is a small paper card tied to the side handle."
+        }
+      ],
+      "related": []
+    },
+    "alla": {
+      "lemma": "alla",
+      "stress": "ˈalla",
+      "pos": "prep",
+      "gloss": "to the; at the (f. sg.)",
+      "meanings": [
+        {
+          "en": "to the",
+          "note": "Contraction of a + la; also builds food styles like alla cannella."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ah, si apre! Grazie. Sono Chiara, la nuova addetta alla reception.",
+          "trans": "Oh, it opens! Thank you. I am Chiara, the new receptionist."
+        },
+        {
+          "text": "Qualcuno alla stazione ha preso la mia valigia blu per sbaglio!",
+          "trans": "Someone at the train station took my blue suitcase by mistake!"
+        }
+      ],
+      "related": []
+    },
+    "luce": {
+      "lemma": "luce",
+      "stress": "ˈlutʃe",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "luci",
+      "gloss": "light",
+      "meanings": [
+        {
+          "en": "light",
+          "note": "Daylight, electric light, or lamp."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la luce",
+              "le luci"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh, portiamola giù alla luce!",
+          "trans": "Oh, let us bring it downstairs to the light!"
+        },
+        {
+          "text": "E il piccolo bagno qui accanto? La luce funziona?",
+          "trans": "What about the small bathroom next door? Does the light work?"
+        }
+      ],
+      "related": []
+    },
+    "sole": {
+      "lemma": "sole",
+      "stress": "ˈsole",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "soli",
+      "gloss": "sun; sunlight",
+      "meanings": [
+        {
+          "en": "sun",
+          "note": "Alla luce del sole means out in broad daylight."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il sole",
+              "i soli"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Posso guardare di nuovo il cartellino qui alla luce del sole?",
+          "trans": "May I look at the paper tag again here in the bright sunlight?"
+        },
+        {
+          "text": "Ecco il sole.",
+          "trans": "Here is the sun."
+        }
+      ],
+      "related": []
+    },
+    "fare": {
+      "lemma": "fare",
+      "stress": "ˈfare",
+      "pos": "verb",
+      "gloss": "to do; to make",
+      "meanings": [
+        {
+          "en": "to do",
+          "note": "High-frequency irregular verb used in dozens of everyday expressions."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "io faccio",
+              "noi facciamo"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu fai",
+              "voi fate"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "lui/lei fa",
+              "loro fanno"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passato prossimo",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "io ho fatto",
+                "noi abbiamo fatto"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu hai fatto",
+                "voi avete fatto"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "lui/lei ha fatto",
+                "loro hanno fatto"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Lasci fare a me. Scendiamo a dargli il benvenuto.",
+          "trans": "Leave it to me. Let us go down and welcome him."
+        },
+        {
+          "text": "Cosa dice? Perché fai quella faccia?",
+          "trans": "What is he saying? Why are you frowning?"
         }
       ],
       "related": []
@@ -6085,138 +5222,17 @@
       ],
       "related": []
     },
-    "quello": {
-      "lemma": "quello",
-      "stress": "ˈkwello",
-      "pos": "adj",
-      "gloss": "that; those",
-      "meanings": [
-        {
-          "en": "that",
-          "note": "Patterns like bello before nouns: quel, quello, quell', quei, quegli."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "quello",
-              "quella"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "quelli",
-              "quelle"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Perfetto. Dimmi tutto quello che devo sapere.",
-          "trans": "Great. Tell me everything I need to know."
-        },
-        {
-          "text": "Proprio quello che cerco. Dove sono le scale?",
-          "trans": "Just what I need. Where are the stairs?"
-        }
-      ],
-      "related": []
-    },
-    "questo": {
-      "lemma": "questo",
-      "stress": "ˈkwesto",
-      "pos": "adj",
-      "gloss": "this; these",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "Points to something near the speaker."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "questo",
-              "questa"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "questi",
-              "queste"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Nel cassetto. Qui usiamo questo grande registro di carta e una matita.",
-          "trans": "In the drawer. Here we use this big paper book and a pencil."
-        },
-        {
-          "text": "E cos'è questo nella carta bianca? Un piccolo trenino di legno!",
-          "trans": "And what is this wrapped in white paper? A little wooden train!"
-        }
-      ],
-      "related": []
-    },
-    "qui": {
-      "lemma": "qui",
-      "stress": "kwi",
-      "pos": "adv",
-      "gloss": "here",
-      "meanings": [
-        {
-          "en": "here",
-          "note": "Close to the speaker."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Nel cassetto. Qui usiamo questo grande registro di carta e una matita.",
-          "trans": "In the drawer. Here we use this big paper book and a pencil."
-        },
-        {
-          "text": "Grazie! Qui ci diamo del tu?",
-          "trans": "Thank you! Do we use first names here?"
-        }
-      ],
-      "related": []
-    },
-    "ripostiglio": {
-      "lemma": "ripostiglio",
-      "stress": "riposˈtiʎʎo",
+    "pomeriggio": {
+      "lemma": "pomeriggio",
+      "stress": "pomeˈriddʒo",
       "pos": "noun",
       "gender": "m",
-      "plural": "ripostigli",
-      "gloss": "storage closet; utility room",
+      "plural": "pomeriggi",
+      "gloss": "afternoon",
       "meanings": [
         {
-          "en": "storage closet",
-          "note": "Small closet for brooms, linens, or luggage."
+          "en": "afternoon",
+          "note": "Di pomeriggio means in the afternoon."
         }
       ],
       "forms": {
@@ -6230,8 +5246,8 @@
           {
             "cells": [
               "form",
-              "il ripostiglio",
-              "i ripostigli"
+              "il pomeriggio",
+              "i pomeriggi"
             ]
           }
         ]
@@ -6239,12 +5255,913 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Ho chiuso l'altra valigia blu al sicuro nel ripostiglio.",
-          "trans": "I locked the other blue suitcase safely in our luggage closet."
+          "text": "Faccia pure, signora. Lunedì pomeriggio l'ingresso era buio.",
+          "trans": "Go right ahead, madam. Monday afternoon the lobby was dark."
         },
         {
-          "text": "Sì, signore, la borsa è chiusa nel nostro ripostiglio. Come si chiama, per favore?",
-          "trans": "Yes, sir, we locked your bag safely in our closet. What is your name, please?"
+          "text": "Ecco il pomeriggio.",
+          "trans": "Here is the afternoon."
+        }
+      ],
+      "related": []
+    },
+    "ingresso": {
+      "lemma": "ingresso",
+      "stress": "inˈgrɛsso",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "ingressi",
+      "gloss": "entrance; front hall",
+      "meanings": [
+        {
+          "en": "entrance",
+          "note": "Entranceway or lobby just inside the front door."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'ingresso",
+              "gli ingressi"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Nove su dieci?! Nessuno misura gli ingressi a meno che...",
+          "trans": "Nine out of ten?! Nobody measures courtyards unless..."
+        },
+        {
+          "text": "Faccia pure, signora. Lunedì pomeriggio l'ingresso era buio.",
+          "trans": "Go right ahead, madam. Monday afternoon the lobby was dark."
+        }
+      ],
+      "related": []
+    },
+    "buio": {
+      "lemma": "buio",
+      "stress": "ˈbujo",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "bui",
+      "gloss": "dark; darkness",
+      "meanings": [
+        {
+          "en": "dark",
+          "note": "Al buio means in the dark."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il buio",
+              "i bui"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Faccia pure, signora. Lunedì pomeriggio l'ingresso era buio.",
+          "trans": "Go right ahead, madam. Monday afternoon the lobby was dark."
+        },
+        {
+          "text": "Ecco il buio.",
+          "trans": "Here is the dark."
+        }
+      ],
+      "related": []
+    },
+    "uno": {
+      "lemma": "uno",
+      "stress": "ˈuno",
+      "pos": "adj",
+      "gloss": "a; an; one",
+      "meanings": [
+        {
+          "en": "a",
+          "note": "Shortens to un (m.) and elides to un' before feminine vowel-initial nouns."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "uno",
+              "una"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "uni",
+              "une"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Panini freschi del mattino! Prendine uno mentre è ancora caldo.",
+          "trans": "Fresh morning rolls! Take one while it is still warm."
+        },
+        {
+          "text": "Ogni chiave da uno a sette è occupata, e la camera otto ha la vernice fresca.",
+          "trans": "Every key from one to seven is taken, and room eight has wet paint."
+        }
+      ],
+      "related": []
+    },
+    "momento": {
+      "lemma": "momento",
+      "stress": "moˈmɛnto",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "momenti",
+      "gloss": "moment",
+      "meanings": [
+        {
+          "en": "moment",
+          "note": "Un momento means wait a moment."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il momento",
+              "i momenti"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Un momento: Giulia nel caffè mi fa segno con un'idea!",
+          "trans": "Wait one moment—Giulia in the café just waved to me with an idea!"
+        },
+        {
+          "text": "Salvi! Mi scusi un momento, signora, gusti pure il Suo tè caldo!",
+          "trans": "Saved! Excuse me one moment, madam, enjoy your hot tea!"
+        }
+      ],
+      "related": []
+    },
+    "via": {
+      "lemma": "via",
+      "stress": "ˈvia",
+      "pos": "adv",
+      "gloss": "away; street (la via)",
+      "meanings": [
+        {
+          "en": "away",
+          "note": "As an adverb means away (andare via); as a feminine noun (la via, le vie) means street."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Giulia parla con tutti nella nostra via come vecchi amici.",
+          "trans": "Giulia talks to everyone on our street like old friends."
+        },
+        {
+          "text": "Meraviglioso. La finestra dà sulla via o sul cortile?",
+          "trans": "Wonderful. Is the window facing the street or the courtyard?"
+        }
+      ],
+      "related": []
+    },
+    "dei": {
+      "lemma": "dei",
+      "stress": "dei",
+      "pos": "prep",
+      "gloss": "of the; some (m. pl.)",
+      "meanings": [
+        {
+          "en": "of the",
+          "note": "Contraction of di + i."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Esatto! Sei già dei nostri.",
+          "trans": "Exactly! You already fit right in."
+        },
+        {
+          "text": "Prendi la seconda via, accanto al banco dei fiori, non il vicolo stretto.",
+          "trans": "Take the second street, beside the flower stall, not the narrow alley."
+        }
+      ],
+      "related": []
+    },
+    "tiglio": {
+      "lemma": "tiglio",
+      "stress": "ˈtiʎʎo",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "tigli",
+      "gloss": "linden tree; lime tree",
+      "meanings": [
+        {
+          "en": "linden tree",
+          "note": "Fragrant courtyard shade tree that gives Locanda del Tiglio its name."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il tiglio",
+              "i tigli"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Sul cortile, proprio sopra il vecchio tiglio. È molto silenzioso.",
+          "trans": "The courtyard, right above the old tree. It is very quiet."
+        },
+        {
+          "text": "Benvenuta alla Locanda del Tiglio, Chiara. Il tuo secondo giorno non sarà noioso.",
+          "trans": "Welcome to the Locanda del Tiglio, Chiara. Your second day will not be boring."
+        }
+      ],
+      "related": []
+    },
+    "numero": {
+      "lemma": "numero",
+      "stress": "ˈnumero",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "numeri",
+      "gloss": "number; shoe size",
+      "meanings": [
+        {
+          "en": "number",
+          "note": "Room number, phone number, or shoe size."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il numero",
+              "i numeri"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ecco la Sua chiave, numero quattro. La colazione è dalle sette e mezza alle dieci.",
+          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
+        },
+        {
+          "text": "Io di certo non porto il numero quarantaquattro!",
+          "trans": "I certainly do not wear size forty-four shoes!"
+        }
+      ],
+      "related": []
+    },
+    "dodici": {
+      "lemma": "dodici",
+      "stress": "ˈdoditʃi",
+      "pos": "num",
+      "gloss": "twelve",
+      "meanings": [
+        {
+          "en": "twelve",
+          "note": "Cardinal number 12."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Proprio qui! Tutto costa trentotto euro, quindi ecco dodici di resto.",
+          "trans": "Right here! Everything cost thirty-eight, so here is twelve in change."
+        },
+        {
+          "text": "Dieci, undici, dodici. Preciso fino all'ultimo centesimo, grazie!",
+          "trans": "Ten, eleven, twelve. Exact to the last coin—thank you!"
+        }
+      ],
+      "related": []
+    },
+    "e": {
+      "lemma": "e",
+      "stress": "e",
+      "pos": "conj",
+      "gloss": "and",
+      "meanings": [
+        {
+          "en": "and",
+          "note": "Often adds euphonious d (ed) before another e."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Buongiorno. No, prima alza la maniglia e poi spingi.",
+          "trans": "Good morning. No, lift the handle first, then push."
+        },
+        {
+          "text": "Nel cassetto. Qui usiamo questo grande registro di carta e una matita.",
+          "trans": "In the drawer. Here we use this big paper book and a pencil."
+        }
+      ],
+      "related": []
+    },
+    "due": {
+      "lemma": "due",
+      "stress": "ˈdue",
+      "pos": "num",
+      "gloss": "two",
+      "meanings": [
+        {
+          "en": "two",
+          "note": "Invariable cardinal number 2; tutti e due means both."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Cos'era quel campanello? Qualcuno ha suonato due volte!",
+          "trans": "What was that bell? Somebody rang twice!"
+        },
+        {
+          "text": "Anche quando la camera quattro è vuota, il vecchio filo suona due volte.",
+          "trans": "Even when room four is empty, the old wire rings twice."
+        }
+      ],
+      "related": []
+    },
+    "iniziale": {
+      "lemma": "iniziale",
+      "stress": "initˈtsjale",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "iniziali",
+      "gloss": "initial (letter)",
+      "meanings": [
+        {
+          "en": "initial (letter)",
+          "note": "First letter of a person's given name or surname."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'iniziale",
+              "le iniziali"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Nessun numero di telefono, purtroppo. Solo due iniziali e il nome di una vecchia via.",
+          "trans": "No phone number, unfortunately. Only two initials and an old street name."
+        },
+        {
+          "text": "Controlla la cerniera... sì, ci sono le sue iniziali proprio qui!",
+          "trans": "Check the zipper... yes, her initials are right here!"
+        }
+      ],
+      "related": []
+    },
+    "incidere": {
+      "lemma": "incidere",
+      "stress": "intʃiˈdere",
+      "pos": "verb",
+      "gloss": "to engrave; to carve",
+      "meanings": [
+        {
+          "en": "to engrave",
+          "note": "Carve initials into wood or brass."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "io incido",
+              "noi incidiamo"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu incidi",
+              "voi incidete"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "lui/lei incide",
+              "loro incidono"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passato prossimo",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "io ho inciso",
+                "noi abbiamo inciso"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu hai inciso",
+                "voi avete inciso"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "lui/lei ha inciso",
+                "loro hanno inciso"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Un momento... Via dei Tigli numero dodici, e due iniziali incise nell'angolo!",
+          "trans": "Wait a moment... Number twelve, Via dei Tigli, and two childhood initials written in the corner!"
+        },
+        {
+          "text": "Possiamo incidere adesso.",
+          "trans": "We can engrave now."
+        }
+      ],
+      "related": []
+    },
+    "angolo": {
+      "lemma": "angolo",
+      "stress": "ˈangolo",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "angoli",
+      "gloss": "corner",
+      "meanings": [
+        {
+          "en": "corner",
+          "note": "An inside room corner, street corner, or corner piece; l'angolo."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'angolo",
+              "gli angoli"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Non si arrenda ancora! Continui a guardare verso l'angolo.",
+          "trans": "Do not sit down defeated yet! Keep looking toward the corner."
+        },
+        {
+          "text": "Ecco l'angolo.",
+          "trans": "Here is the corner."
+        }
+      ],
+      "related": []
+    },
+    "sembrare": {
+      "lemma": "sembrare",
+      "stress": "semˈbrare",
+      "pos": "verb",
+      "gloss": "to seem; to look; to sound",
+      "meanings": [
+        {
+          "en": "to seem",
+          "note": "Takes essere in the past."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "io sembro",
+              "noi sembriamo"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu sembri",
+              "voi sembrate"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "lui/lei sembra",
+              "loro sembrano"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passato prossimo",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "io sono sembrato/sembrata",
+                "noi siamo sembrati/sembrate"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu sei sembrato/sembrata",
+                "voi siete sembrati/sembrate"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "lui/lei è sembrato/sembrata",
+                "loro sono sembrati/sembrate"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "E i fratelli maggiori non arrivano mai in anticipo quando vogliono sembrare calmi.",
+          "trans": "And big brothers never arrive early when they want to look calm."
+        },
+        {
+          "text": "È sicura? Sembra così bello e caldo!",
+          "trans": "Are you sure? It looks lovely and warm!"
+        }
+      ],
+      "related": []
+    },
+    "stupito": {
+      "lemma": "stupito",
+      "stress": "stuˈpito",
+      "pos": "adj",
+      "gloss": "amazed; astonished",
+      "meanings": [
+        {
+          "en": "amazed",
+          "note": "Pleasantly surprised."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "stupito",
+              "stupita"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "stupiti",
+              "stupite"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Signora Lucia, sembra stupita! Conosce Via dei Tigli numero dodici?",
+          "trans": "Madam Lucia, you look amazed! Do you know Number twelve, Via dei Tigli?"
+        },
+        {
+          "text": "È molto stupito.",
+          "trans": "It is very amazed."
+        }
+      ],
+      "related": []
+    },
+    "conoscere": {
+      "lemma": "conoscere",
+      "stress": "koˈnoʃʃere",
+      "pos": "verb",
+      "gloss": "to know (a person or place); to meet",
+      "meanings": [
+        {
+          "en": "to know (a person or place)",
+          "note": "Used for familiarity with people, streets, and subjects."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "io conosco",
+              "noi conosciamo"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu conosci",
+              "voi conoscete"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "lui/lei conosce",
+              "loro conoscono"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passato prossimo",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "io ho conosciuto",
+                "noi abbiamo conosciuto"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu hai conosciuto",
+                "voi avete conosciuto"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "lui/lei ha conosciuto",
+                "loro hanno conosciuto"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Davvero? Conosce qualcuno qui a Bologna?",
+          "trans": "Really? Do you know someone in Bologna?"
+        },
+        {
+          "text": "Signora Lucia, sembra stupita! Conosce Via dei Tigli numero dodici?",
+          "trans": "Madam Lucia, you look amazed! Do you know Number twelve, Via dei Tigli?"
+        }
+      ],
+      "related": []
+    },
+    "se": {
+      "lemma": "se",
+      "stress": "se",
+      "pos": "conj",
+      "gloss": "if; whether",
+      "meanings": [
+        {
+          "en": "if",
+          "note": "Anche se means even if."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Riposi bene, signora. Suoni pure se ha bisogno di qualcosa.",
+          "trans": "Rest well, madam. Ring down if you need anything."
+        },
+        {
+          "text": "Sì, Giulia. Anche se si gira e torna subito fuori dal cancello.",
+          "trans": "Yes, Giulia. Even if he turns around and walks straight back out the gate."
+        }
+      ],
+      "related": []
+    },
+    "ogni": {
+      "lemma": "ogni",
+      "stress": "ˈɔɲɲi",
+      "pos": "det",
+      "gloss": "every; each",
+      "meanings": [
+        {
+          "en": "every",
+          "note": "Invariable determiner always followed by a singular noun."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Metti un tovagliolo e un cucchiaino vicino a ogni tazza blu.",
+          "trans": "Put one napkin and one small spoon beside every blue cup."
+        },
+        {
+          "text": "Agitato per un trenino di legno? Questa storia diventa più strana ogni ora.",
+          "trans": "Nervous about a wooden toy train? This story gets stranger every hour."
+        }
+      ],
+      "related": []
+    },
+    "sei": {
+      "lemma": "sei",
+      "stress": "ˈsɛi",
+      "pos": "num",
+      "gloss": "six",
+      "meanings": [
+        {
+          "en": "six",
+          "note": "Cardinal number 6 (spelled like tu sei, you are)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Io sono Bruno. Sei in anticipo di dieci minuti.",
+          "trans": "I am Bruno. You are ten minutes early."
+        },
+        {
+          "text": "Esatto! Sei già dei nostri.",
+          "trans": "Exactly! You already fit right in."
+        }
+      ],
+      "related": []
+    },
+    "anno": {
+      "lemma": "anno",
+      "stress": "ˈanno",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "anni",
+      "gloss": "year",
+      "meanings": [
+        {
+          "en": "year",
+          "note": "Used for calendar years and with avere to state someone's age."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'anno",
+              "gli anni"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Venticinque anni fa insegnavo pianoforte qui vicino, ma i ricordi passano.",
+          "trans": "Twenty-five years ago I taught piano near here, though memories fade."
+        },
+        {
+          "text": "Voce bassa, gentile, forse trentacinque anni. Sembrava agitato, non arrabbiato.",
+          "trans": "Quiet, polite, maybe thirty-five. He sounded nervous, not angry."
         }
       ],
       "related": []
@@ -6379,40 +6296,290 @@
       ],
       "related": []
     },
-    "se": {
-      "lemma": "se",
-      "stress": "se",
-      "pos": "conj",
-      "gloss": "if; whether",
+    "legno": {
+      "lemma": "legno",
+      "stress": "ˈleɲɲo",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "legni",
+      "gloss": "wood; timber",
       "meanings": [
         {
-          "en": "if",
-          "note": "Anche se means even if."
+          "en": "wood",
+          "note": "Di legno means wooden or made of wood."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il legno",
+              "i legni"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "E cos'è questo nella carta bianca? Un piccolo trenino di legno!",
+          "trans": "And what is this wrapped in white paper? A little wooden train!"
+        },
+        {
+          "text": "Ecco perché era così pesante. Legno e cuoio!",
+          "trans": "No wonder it was so heavy. Wood and leather!"
+        }
+      ],
+      "related": []
+    },
+    "insegnare": {
+      "lemma": "insegnare",
+      "stress": "inseɲˈɲare",
+      "pos": "verb",
+      "gloss": "to teach",
+      "meanings": [
+        {
+          "en": "to teach",
+          "note": "Teach music, a language, or a craft."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "io insegno",
+              "noi insegniamo"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu insegni",
+              "voi insegnate"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "lui/lei insegna",
+              "loro insegnano"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passato prossimo",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "io ho insegnato",
+                "noi abbiamo insegnato"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu hai insegnato",
+                "voi avete insegnato"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "lui/lei ha insegnato",
+                "loro hanno insegnato"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Il negozio ha una grande insegna fuori?",
+          "trans": "Does the shop have a big sign outside?"
+        },
+        {
+          "text": "Possiamo insegnare adesso.",
+          "trans": "We can teach now."
+        }
+      ],
+      "related": []
+    },
+    "pianoforte": {
+      "lemma": "pianoforte",
+      "stress": "pjanoˈfɔrte",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "pianoforti",
+      "gloss": "piano",
+      "meanings": [
+        {
+          "en": "piano",
+          "note": "Literally soft-loud, an Italian invention and word."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il pianoforte",
+              "i pianoforti"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Venticinque anni fa insegnavo pianoforte qui vicino, ma i ricordi passano.",
+          "trans": "Twenty-five years ago I taught piano near here, though memories fade."
+        },
+        {
+          "text": "Signora Lucia?! La maestra di pianoforte del venerdì di mio fratello?!",
+          "trans": "Madam Lucia?! My brother's Friday piano teacher?!"
+        }
+      ],
+      "related": []
+    },
+    "venticinque": {
+      "lemma": "venticinque",
+      "stress": "ventiˈtʃinkwe",
+      "pos": "num",
+      "gloss": "twenty-five",
+      "meanings": [
+        {
+          "en": "twenty-five",
+          "note": "Cardinal number 25."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Riposi bene, signora. Suoni pure se ha bisogno di qualcosa.",
-          "trans": "Rest well, madam. Ring down if you need anything."
+          "text": "Venticinque anni fa insegnavo pianoforte qui vicino, ma i ricordi passano.",
+          "trans": "Twenty-five years ago I taught piano near here, though memories fade."
         },
         {
-          "text": "Sì, Giulia. Anche se si gira e torna subito fuori dal cancello.",
-          "trans": "Yes, Giulia. Even if he turns around and walks straight back out the gate."
+          "text": "Venticinque anni fa? Proprio in quella casa?",
+          "trans": "Twenty-five years ago? In that same house?"
         }
       ],
       "related": []
     },
-    "sei": {
-      "lemma": "sei",
-      "stress": "ˈsɛi",
-      "pos": "num",
-      "gloss": "six",
+    "fa": {
+      "lemma": "fa",
+      "stress": "fa",
+      "pos": "adv",
+      "gloss": "ago (after a time span)",
       "meanings": [
         {
-          "en": "six",
-          "note": "Cardinal number 6 (spelled like tu sei, you are)."
+          "en": "ago (after a time span)",
+          "note": "Always follows the time expression: un'ora fa, venticinque anni fa."
+        },
+        {
+          "en": "F (musical note)",
+          "note": "Fourth note of the Italian solfège scale (scala di fa maggiore)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Venticinque anni fa insegnavo pianoforte qui vicino, ma i ricordi passano.",
+          "trans": "Twenty-five years ago I taught piano near here, though memories fade."
+        },
+        {
+          "text": "Venticinque anni fa? Proprio in quella casa?",
+          "trans": "Twenty-five years ago? In that same house?"
+        }
+      ],
+      "related": []
+    },
+    "proprio": {
+      "lemma": "proprio",
+      "stress": "ˈprɔprjo",
+      "pos": "adj",
+      "gloss": "one's own; right / really",
+      "meanings": [
+        {
+          "en": "one's own",
+          "note": "As an adjective means one's own; as an adverb means right / truly."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "proprio",
+              "propria"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "propri",
+              "proprie"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Proprio lì sulla fronte, sani e salvi.",
+          "trans": "Right there on your forehead, safe and sound."
+        },
+        {
+          "text": "Ecco un taxi davanti al cancello proprio adesso.",
+          "trans": "Here comes a taxi at the gate right now."
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "in",
+      "pos": "prep",
+      "gloss": "in; into; by (transport)",
+      "meanings": [
+        {
+          "en": "in",
+          "note": "Marks country/region, room/shop type, and transport (in treno)."
         }
       ],
       "forms": null,
@@ -6423,110 +6590,23 @@
           "trans": "I am Bruno. You are ten minutes early."
         },
         {
-          "text": "Esatto! Sei già dei nostri.",
-          "trans": "Exactly! You already fit right in."
+          "text": "Sì, la camera quattro al secondo piano! Com'è andato il viaggio in treno?",
+          "trans": "Yes, room four on the second floor! How was your train trip?"
         }
       ],
       "related": []
     },
-    "sembrare": {
-      "lemma": "sembrare",
-      "stress": "semˈbrare",
-      "pos": "verb",
-      "gloss": "to seem; to look; to sound",
-      "meanings": [
-        {
-          "en": "to seem",
-          "note": "Takes essere in the past."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "io sembro",
-              "noi sembriamo"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu sembri",
-              "voi sembrate"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "lui/lei sembra",
-              "loro sembrano"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passato prossimo",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "io sono sembrato/sembrata",
-                "noi siamo sembrati/sembrate"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu sei sembrato/sembrata",
-                "voi siete sembrati/sembrate"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "lui/lei è sembrato/sembrata",
-                "loro sono sembrati/sembrate"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "E i fratelli maggiori non arrivano mai in anticipo quando vogliono sembrare calmi.",
-          "trans": "And big brothers never arrive early when they want to look calm."
-        },
-        {
-          "text": "È sicura? Sembra così bello e caldo!",
-          "trans": "Are you sure? It looks lovely and warm!"
-        }
-      ],
-      "related": []
-    },
-    "signora": {
-      "lemma": "signora",
-      "stress": "siɲˈɲora",
+    "casa": {
+      "lemma": "casa",
+      "stress": "ˈkaza",
       "pos": "noun",
       "gender": "f",
-      "plural": "signore",
-      "gloss": "madam; Mrs; lady",
+      "plural": "case",
+      "gloss": "house; home",
       "meanings": [
         {
-          "en": "madam",
-          "note": "Respectful title and address for a woman."
+          "en": "house",
+          "note": "Both a physical house and one's home (a casa, at home)."
         }
       ],
       "forms": {
@@ -6540,8 +6620,8 @@
           {
             "cells": [
               "form",
-              "la signora",
-              "le signore"
+              "la casa",
+              "le case"
             ]
           }
         ]
@@ -6549,68 +6629,50 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Benvenuta! Buongiorno, signora.",
-          "trans": "Welcome! Good morning, madam."
+          "text": "Quindi la casa saluta da sola?",
+          "trans": "So the house says hello on its own?"
         },
         {
-          "text": "Signora Lucia, va tutto bene? Ha suonato il campanello!",
-          "trans": "Madam Lucia, is everything alright? You rang the bell!"
+          "text": "Sì, un buon letto di legno, una scrivania pulita e la vista migliore della casa.",
+          "trans": "Yes, a good wooden bed, a clean desk, and the best view in the house."
         }
       ],
       "related": []
     },
-    "sole": {
-      "lemma": "sole",
-      "stress": "ˈsole",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "soli",
-      "gloss": "sun; sunlight",
+    "lì": {
+      "lemma": "lì",
+      "stress": "li",
+      "pos": "adv",
+      "gloss": "there",
       "meanings": [
         {
-          "en": "sun",
-          "note": "Alla luce del sole means out in broad daylight."
+          "en": "there",
+          "note": "Written with an accent mark to distinguish it from pronoun li."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il sole",
-              "i soli"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Posso guardare di nuovo il cartellino qui alla luce del sole?",
-          "trans": "May I look at the paper tag again here in the bright sunlight?"
+          "text": "Proprio lì sulla fronte, sani e salvi.",
+          "trans": "Right there on your forehead, safe and sound."
         },
         {
-          "text": "Ecco il sole.",
-          "trans": "Here is the sun."
+          "text": "Perché le scale sono strette e Cesare tiene lì vecchie scatole di lampade.",
+          "trans": "Because the stairs are narrow and Cesare keeps old lamp boxes there."
         }
       ],
       "related": []
     },
-    "spazzare": {
-      "lemma": "spazzare",
-      "stress": "spatˈtsare",
+    "vivere": {
+      "lemma": "vivere",
+      "stress": "ˈvivere",
       "pos": "verb",
-      "gloss": "to sweep",
+      "gloss": "to live",
       "meanings": [
         {
-          "en": "to sweep",
-          "note": "Sweep a floor or courtyard with a broom."
+          "en": "to live",
+          "note": "Live in a place or live a life."
         }
       ],
       "forms": {
@@ -6624,22 +6686,22 @@
           {
             "cells": [
               "1st",
-              "io spazzo",
-              "noi spazziamo"
+              "io vivo",
+              "noi viviamo"
             ]
           },
           {
             "cells": [
               "2nd",
-              "tu spazzi",
-              "voi spazzate"
+              "tu vivi",
+              "voi vivete"
             ]
           },
           {
             "cells": [
               "3rd",
-              "lui/lei spazza",
-              "loro spazzano"
+              "lui/lei vive",
+              "loro vivono"
             ]
           }
         ]
@@ -6656,22 +6718,22 @@
             {
               "cells": [
                 "1st",
-                "io ho spazzato",
-                "noi abbiamo spazzato"
+                "io sono vissuto/vissuta",
+                "noi siamo vissuti/vissute"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu hai spazzato",
-                "voi avete spazzato"
+                "tu sei vissuto/vissuta",
+                "voi siete vissuti/vissute"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "lui/lei ha spazzato",
-                "loro hanno spazzato"
+                "lui/lei è vissuto/vissuta",
+                "loro sono vissuti/vissute"
               ]
             }
           ]
@@ -6679,25 +6741,161 @@
       ],
       "examples": [
         {
-          "text": "Metto qui questa valigia blu per cinque minuti mentre spazzo il ripostiglio.",
-          "trans": "Let me set this blue suitcase here for five minutes while I sweep the closet."
+          "text": "Possiamo vivere adesso.",
+          "trans": "We can live now."
         },
         {
-          "text": "Possiamo spazzare adesso.",
-          "trans": "We can sweep now."
+          "text": "Lì viveva un falegname con i suoi due nipoti: il grande suonava il piano e il piccolo amava i treni!",
+          "trans": "A carpenter lived there with his two grandsons—the older boy played piano, and the little one loved trains!"
         }
       ],
       "related": []
     },
-    "stupito": {
-      "lemma": "stupito",
-      "stress": "stuˈpito",
-      "pos": "adj",
-      "gloss": "amazed; astonished",
+    "falegname": {
+      "lemma": "falegname",
+      "stress": "faleɲˈɲame",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "falegnami",
+      "gloss": "carpenter; woodworker",
       "meanings": [
         {
-          "en": "amazed",
-          "note": "Pleasantly surprised."
+          "en": "carpenter",
+          "note": "Craftsperson who builds furniture and wooden fittings."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il falegname",
+              "i falegnami"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Un falegname... e un piccolo trenino di legno dentro la valigia!",
+          "trans": "A carpenter... and a little wooden toy train inside the bag!"
+        },
+        {
+          "text": "Ecco il falegname.",
+          "trans": "Here is the carpenter."
+        }
+      ],
+      "related": []
+    },
+    "con": {
+      "lemma": "con",
+      "stress": "kon",
+      "pos": "prep",
+      "gloss": "with",
+      "meanings": [
+        {
+          "en": "with",
+          "note": "Marks accompaniment, instrument, or weather condition (con questa pioggia)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Con me, sempre! Lascia il Lei formale per gli ospiti.",
+          "trans": "With me, always! Leave the stiff polite talk for the guests."
+        },
+        {
+          "text": "Giulia parla con tutti nella nostra via come vecchi amici.",
+          "trans": "Giulia talks to everyone on our street like old friends."
+        }
+      ],
+      "related": []
+    },
+    "i": {
+      "lemma": "i",
+      "stress": "i",
+      "pos": "det",
+      "gloss": "the (m. pl.)",
+      "meanings": [
+        {
+          "en": "the (m. pl.)",
+          "note": "Plural of il."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Devo leggere il registro, ma non trovo i miei occhiali!",
+          "trans": "I need to read the reservation book, but I cannot find my glasses!"
+        },
+        {
+          "text": "Venticinque anni fa insegnavo pianoforte qui vicino, ma i ricordi passano.",
+          "trans": "Twenty-five years ago I taught piano near here, though memories fade."
+        }
+      ],
+      "related": []
+    },
+    "nipote": {
+      "lemma": "nipote",
+      "stress": "niˈpote",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "nipoti",
+      "gloss": "grandchild; nephew/niece",
+      "meanings": [
+        {
+          "en": "grandchild",
+          "note": "Covers both grandchild and nephew/niece depending on context."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "il nipote",
+              "i nipoti"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ecco il nipote.",
+          "trans": "Here is the grandchild."
+        },
+        {
+          "text": "Lì viveva un falegname con i suoi due nipoti: il grande suonava il piano e il piccolo amava i treni!",
+          "trans": "A carpenter lived there with his two grandsons—the older boy played piano, and the little one loved trains!"
+        }
+      ],
+      "related": []
+    },
+    "grande": {
+      "lemma": "grande",
+      "stress": "ˈgrande",
+      "pos": "adj",
+      "gloss": "big; large; great",
+      "meanings": [
+        {
+          "en": "big",
+          "note": "Two-ending adjective (-e / -i)."
         }
       ],
       "forms": {
@@ -6711,15 +6909,15 @@
           {
             "cells": [
               "sg",
-              "stupito",
-              "stupita"
+              "grande",
+              "grande"
             ]
           },
           {
             "cells": [
               "pl",
-              "stupiti",
-              "stupite"
+              "grandi",
+              "grandi"
             ]
           }
         ]
@@ -6727,60 +6925,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Signora Lucia, sembra stupita! Conosce Via dei Tigli numero dodici?",
-          "trans": "Madam Lucia, you look amazed! Do you know Number twelve, Via dei Tigli?"
+          "text": "Nel cassetto. Qui usiamo questo grande registro di carta e una matita.",
+          "trans": "In the drawer. Here we use this big paper book and a pencil."
         },
         {
-          "text": "È molto stupito.",
-          "trans": "It is very amazed."
-        }
-      ],
-      "related": []
-    },
-    "suo": {
-      "lemma": "suo",
-      "stress": "ˈsuo",
-      "pos": "adj",
-      "gloss": "his; her; its; your (polite)",
-      "meanings": [
-        {
-          "en": "his",
-          "note": "Capitalised Suo/Sua/Suoi/Sue often marks polite formal 'your'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "suo",
-              "sua"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "suoi",
-              "sue"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Quattro tavoli, otto sedie, tutto al suo posto!",
-          "trans": "Four tables, eight chairs, everything in place!"
-        },
-        {
-          "text": "Chiedi il suo nome! Scrivilo subito!",
-          "trans": "Ask him his name! Write it down!"
+          "text": "Meraviglioso! Adesso sono pronta per una grande colazione.",
+          "trans": "Wonderful! Now I am ready for a big breakfast."
         }
       ],
       "related": []
@@ -6872,42 +7022,21 @@
       ],
       "related": []
     },
-    "sì": {
-      "lemma": "sì",
-      "stress": "si",
-      "pos": "interj",
-      "gloss": "yes",
-      "meanings": [
-        {
-          "en": "yes",
-          "note": "Always written with an accent mark to distinguish it from reflexive si."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Sì, otto camere e otto chiavi di ottone. Oggi arriva la camera quattro.",
-          "trans": "Yes, eight rooms, eight brass keys. Room four is arriving today."
-        },
-        {
-          "text": "Buongiorno! Sì, la reception è pulita e le chiavi sono pronte.",
-          "trans": "Good morning! Yes, the desk is clean and the keys are ready."
-        }
-      ],
-      "related": []
-    },
-    "tiglio": {
-      "lemma": "tiglio",
-      "stress": "ˈtiʎʎo",
+    "piano": {
+      "lemma": "piano",
+      "stress": "ˈpjano",
       "pos": "noun",
       "gender": "m",
-      "plural": "tigli",
-      "gloss": "linden tree; lime tree",
+      "plural": "piani",
+      "gloss": "floor (storey); plan; piano",
       "meanings": [
         {
-          "en": "linden tree",
-          "note": "Fragrant courtyard shade tree that gives Locanda del Tiglio its name."
+          "en": "floor (storey)",
+          "note": "Il primo piano is the first floor upstairs; also a plan or short for pianoforte."
+        },
+        {
+          "en": "slowly; quietly; gently",
+          "note": "Giro piano means I turn slowly."
         }
       ],
       "forms": {
@@ -6921,8 +7050,8 @@
           {
             "cells": [
               "form",
-              "il tiglio",
-              "i tigli"
+              "il piano",
+              "i piani"
             ]
           }
         ]
@@ -6930,12 +7059,147 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Sul cortile, proprio sopra il vecchio tiglio. È molto silenzioso.",
-          "trans": "The courtyard, right above the old tree. It is very quiet."
+          "text": "Sì, la camera quattro al secondo piano! Com'è andato il viaggio in treno?",
+          "trans": "Yes, room four on the second floor! How was your train trip?"
         },
         {
-          "text": "Benvenuta alla Locanda del Tiglio, Chiara. Il tuo secondo giorno non sarà noioso.",
-          "trans": "Welcome to the Locanda del Tiglio, Chiara. Your second day will not be boring."
+          "text": "Un attimo: cosa c'è al terzo piano sopra le scale?",
+          "trans": "Wait—what is on the third floor above the stairs?"
+        }
+      ],
+      "related": []
+    },
+    "piccolo": {
+      "lemma": "piccolo",
+      "stress": "ˈpikkolo",
+      "pos": "adj",
+      "gloss": "small; little; young",
+      "meanings": [
+        {
+          "en": "small",
+          "note": "Da piccolo / quando ero piccolo means when I was a child."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "piccolo",
+              "piccola"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "piccoli",
+              "piccole"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "E cos'è questo nella carta bianca? Un piccolo trenino di legno!",
+          "trans": "And what is this wrapped in white paper? A little wooden train!"
+        },
+        {
+          "text": "C'è un piccolo cartellino legato alla maniglia laterale.",
+          "trans": "There is a small paper card tied to the side handle."
+        }
+      ],
+      "related": []
+    },
+    "amare": {
+      "lemma": "amare",
+      "stress": "aˈmare",
+      "pos": "verb",
+      "gloss": "to love",
+      "meanings": [
+        {
+          "en": "to love",
+          "note": "Love deeply or be very fond of."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "io amo",
+              "noi amiamo"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu ami",
+              "voi amate"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "lui/lei ama",
+              "loro amano"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passato prossimo",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "io ho amato",
+                "noi abbiamo amato"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu hai amato",
+                "voi avete amato"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "lui/lei ha amato",
+                "loro hanno amato"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Possiamo amare adesso.",
+          "trans": "We can love now."
+        },
+        {
+          "text": "Io? Oh, amo semplicemente la puntualità! Le sette e quattordici sono un minuto bellissimo!",
+          "trans": "Me? Oh, I simply love punctuality! Seven fourteen is a beautiful minute!"
         }
       ],
       "related": []
@@ -6983,316 +7247,52 @@
       ],
       "related": []
     },
-    "treno": {
-      "lemma": "treno",
-      "stress": "ˈtrɛno",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "treni",
-      "gloss": "train",
-      "meanings": [
-        {
-          "en": "train",
-          "note": "In treno means by train."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il treno",
-              "i treni"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Sì, la camera quattro al secondo piano! Com'è andato il viaggio in treno?",
-          "trans": "Yes, room four on the second floor! How was your train trip?"
-        },
-        {
-          "text": "Che strano! Abbiamo preso lo stesso treno del mattino per lo stesso quartiere.",
-          "trans": "How strange! We rode the same morning train to the same district."
-        }
-      ],
-      "related": []
-    },
-    "uno": {
-      "lemma": "uno",
-      "stress": "ˈuno",
-      "pos": "adj",
-      "gloss": "a; an; one",
-      "meanings": [
-        {
-          "en": "a",
-          "note": "Shortens to un (m.) and elides to un' before feminine vowel-initial nouns."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "uno",
-              "una"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "uni",
-              "une"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Panini freschi del mattino! Prendine uno mentre è ancora caldo.",
-          "trans": "Fresh morning rolls! Take one while it is still warm."
-        },
-        {
-          "text": "Ogni chiave da uno a sette è occupata, e la camera otto ha la vernice fresca.",
-          "trans": "Every key from one to seven is taken, and room eight has wet paint."
-        }
-      ],
-      "related": []
-    },
-    "valigia": {
-      "lemma": "valigia",
-      "stress": "vaˈlidʒa",
-      "pos": "noun",
-      "gender": "f",
-      "plural": "valigie",
-      "gloss": "suitcase",
-      "meanings": [
-        {
-          "en": "suitcase",
-          "note": "Travel suitcase; plural spelled valigie in traditional Italian."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la valigia",
-              "le valigie"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tranquillo e piacevole, grazie, ma oggi questa valigia pesa molto.",
-          "trans": "Quiet and pleasant, thank you, though this suitcase feels very heavy today."
-        },
-        {
-          "text": "Proprio sotto quest'arco. Porto io su la valigia blu.",
-          "trans": "Right through this archway. I will carry the blue bag up for you."
-        }
-      ],
-      "related": []
-    },
-    "venerdì": {
-      "lemma": "venerdì",
-      "stress": "venerˈdi",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "venerdì",
-      "gloss": "Friday",
-      "meanings": [
-        {
-          "en": "Friday",
-          "note": "Invariable masculine day of the week."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "il venerdì",
-              "i venerdì"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fino a venerdì? Nessun nome, nessuna firma!",
-          "trans": "Until Friday? No name, no signature!"
-        },
-        {
-          "text": "Perché lasciare scarpe e trenino di legno a sconosciuti fino a venerdì?",
-          "trans": "Why leave your own shoes and wooden train with strangers until Friday?"
-        }
-      ],
-      "related": []
-    },
-    "venticinque": {
-      "lemma": "venticinque",
-      "stress": "ventiˈtʃinkwe",
-      "pos": "num",
-      "gloss": "twenty-five",
-      "meanings": [
-        {
-          "en": "twenty-five",
-          "note": "Cardinal number 25."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Venticinque anni fa insegnavo pianoforte qui vicino, ma i ricordi passano.",
-          "trans": "Twenty-five years ago I taught piano near here, though memories fade."
-        },
-        {
-          "text": "Venticinque anni fa? Proprio in quella casa?",
-          "trans": "Twenty-five years ago? In that same house?"
-        }
-      ],
-      "related": []
-    },
-    "via": {
-      "lemma": "via",
-      "stress": "ˈvia",
+    "dentro": {
+      "lemma": "dentro",
+      "stress": "ˈdentro",
       "pos": "adv",
-      "gloss": "away; street (la via)",
+      "gloss": "inside; within",
       "meanings": [
         {
-          "en": "away",
-          "note": "As an adverb means away (andare via); as a feminine noun (la via, le vie) means street."
+          "en": "inside",
+          "note": "Used both as an adverb (guardi dentro) and before a noun (dentro la valigia)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Giulia parla con tutti nella nostra via come vecchi amici.",
-          "trans": "Giulia talks to everyone on our street like old friends."
+          "text": "Permette? Perbacco, ci sono pietre qui dentro?",
+          "trans": "Allow me. Goodness, did you pack stones in here?"
         },
         {
-          "text": "Meraviglioso. La finestra dà sulla via o sul cortile?",
-          "trans": "Wonderful. Is the window facing the street or the courtyard?"
+          "text": "Guardi dentro questa valigia, Chiara! Non è la mia!",
+          "trans": "Look inside this suitcase, Chiara! This is not my bag!"
         }
       ],
       "related": []
     },
-    "vivere": {
-      "lemma": "vivere",
-      "stress": "ˈvivere",
-      "pos": "verb",
-      "gloss": "to live",
+    "presto": {
+      "lemma": "presto",
+      "stress": "ˈprɛsto",
+      "pos": "adv",
+      "gloss": "soon; early; quickly",
       "meanings": [
         {
-          "en": "to live",
-          "note": "Live in a place or live a life."
+          "en": "soon",
+          "note": "A presto! (See you soon!), fai presto! (hurry up!)."
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "io vivo",
-              "noi viviamo"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu vivi",
-              "voi vivete"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "lui/lei vive",
-              "loro vivono"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passato prossimo",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "io sono vissuto/vissuta",
-                "noi siamo vissuti/vissute"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu sei vissuto/vissuta",
-                "voi siete vissuti/vissute"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "lui/lei è vissuto/vissuta",
-                "loro sono vissuti/vissute"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
-          "text": "Possiamo vivere adesso.",
-          "trans": "We can live now."
+          "text": "Il proprietario lo cercherà presto di sicuro.",
+          "trans": "Whoever owns it will surely look for it soon."
         },
         {
-          "text": "Lì viveva un falegname con i suoi due nipoti: il grande suonava il piano e il piccolo amava i treni!",
-          "trans": "A carpenter lived there with his two grandsons—the older boy played piano, and the little one loved trains!"
+          "text": "La vecchia mansarda luminosa... seguitemi, presto!",
+          "trans": "The old sunny attic study... follow me, quickly!"
         }
       ],
       "related": []

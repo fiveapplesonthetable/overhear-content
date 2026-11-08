@@ -4815,68 +4815,554 @@
     }
   ],
   "lexicon": {
-    "一": {
-      "lemma": "一",
+    "哇": {
+      "lemma": "哇",
       "stress": null,
-      "pos": "num",
-      "gloss": "one",
+      "pos": "interj",
+      "gloss": "wow!",
       "meanings": [
         {
-          "en": "one",
-          "note": "Pinyin: yī. Changes tone to yí before 4th tone (一个 yí gè) and yì before 1st/2nd/3rd tones (一杯 yì bēi)."
+          "en": "wow!",
+          "note": "Pinyin: wā. Expresses admiration or delight."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "第一天上班，我走得快。电脑在哪里？",
-          "trans": "On my first day at work, I walk fast. Where is the computer?"
+          "text": "哇，看这间房！大木头房梁，窗户正对着院子！",
+          "trans": "Wow, look at this room! Big wooden beams, and a window facing the courtyard!"
         },
         {
-          "text": "第一条规矩：先喝热茶，再去开门。",
-          "trans": "Rule number one: drink hot tea first, then go answer the door."
+          "text": "插上老陈的铜台灯……哇，黄色灯光真暖和！",
+          "trans": "Plug in Chen's brass lamp... wow, how warm that yellow light is!"
+        }
+      ],
+      "related": []
+    },
+    "看": {
+      "lemma": "看",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "look",
+      "meanings": [
+        {
+          "en": "look; see; read; watch",
+          "note": "Pinyin: kàn. Covers looking at something, reading silently, or visiting someone; add 见/到 for 'catch sight of'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "我要看预订本子，可是找不到我的眼镜了！",
+          "trans": "I need to read the booking ledger, yet I cannot find my glasses!"
+        },
+        {
+          "text": "老板，看一下桌子后面的镜子。",
+          "trans": "Boss, take a look in the mirror behind the desk."
         }
       ],
       "related": [
         {
-          "word": "一下",
-          "gloss": "a bit"
+          "word": "好看",
+          "gloss": "good-looking"
         },
         {
-          "word": "一共",
-          "gloss": "altogether"
+          "word": "看看",
+          "gloss": "take a look"
         },
         {
-          "word": "一刻",
-          "gloss": "quarter of an hour (15 minutes)"
+          "word": "看管",
+          "gloss": "look after"
         }
       ]
     },
-    "七": {
-      "lemma": "七",
+    "这": {
+      "lemma": "这",
       "stress": null,
-      "pos": "num",
-      "gloss": "seven",
+      "pos": "det",
+      "gloss": "this",
       "meanings": [
         {
-          "en": "seven",
-          "note": "Pinyin: qī. Cardinal number 7; combines with 月 for July and 点 for seven o'clock."
+          "en": "this",
+          "note": "Pinyin: zhè. Proximal demonstrative; pairs with a measure word before nouns (这个 'this one', 这间房 'this room')."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "给您四号钥匙。早餐从七点半到十点。",
-          "trans": "Here is key number four for you. Breakfast is from seven thirty to ten."
+          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
+          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
         },
         {
-          "text": "七点半有八位饿肚子的客人下楼啊！",
-          "trans": "At seven thirty, eight hungry guests are coming downstairs!"
+          "text": "小美跟这条街上所有人说话都像老朋友。",
+          "trans": "Mei talks to everyone on this street like old friends."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "这么",
+          "gloss": "so"
+        },
+        {
+          "word": "这些",
+          "gloss": "these"
+        },
+        {
+          "word": "这儿",
+          "gloss": "here"
+        }
+      ]
+    },
+    "间": {
+      "lemma": "间",
+      "stress": null,
+      "pos": "part",
+      "gloss": "measure word for rooms",
+      "meanings": [
+        {
+          "en": "measure word for rooms",
+          "note": "Pinyin: jiān. Counts rooms of all kinds: bedrooms, guest rooms, studies, kitchens (一间客房 'a guest room')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "对，八间客房，八把铜钥匙。四号房的客人今天到。",
+          "trans": "Yes, eight rooms, eight brass keys. Room four's guest arrives today."
+        },
+        {
+          "text": "那间向阳的旧阁楼书房……快跟我来！",
+          "trans": "That sunny old attic study... follow me, quickly!"
+        }
+      ],
+      "related": [
+        {
+          "word": "中间",
+          "gloss": "middle"
+        },
+        {
+          "word": "房间",
+          "gloss": "room"
+        },
+        {
+          "word": "早间",
+          "gloss": "morning (schedule/service)"
+        }
+      ]
+    },
+    "房": {
+      "lemma": "房",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "room",
+      "meanings": [
+        {
+          "en": "room; house",
+          "note": "Pinyin: fáng. Measure word (量词): 间 (jiān), e.g. 一间房 ('a room')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "对，八间客房，八把铜钥匙。四号房的客人今天到。",
+          "trans": "Yes, eight rooms, eight brass keys. Room four's guest arrives today."
+        },
+        {
+          "text": "那里没人。那是四号房的门铃。",
+          "trans": "Nobody is there. That is the buzzer from room four."
+        }
+      ],
+      "related": [
+        {
+          "word": "一间房",
+          "gloss": "a room (measure word 间)"
+        },
+        {
+          "word": "书房",
+          "gloss": "study"
+        },
+        {
+          "word": "厨房",
+          "gloss": "kitchen"
+        }
+      ]
+    },
+    "大": {
+      "lemma": "大",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "big",
+      "meanings": [
+        {
+          "en": "big; large; heavy (rain/wind)",
+          "note": "Pinyin: dà. Everyday adjective for size, age, and strong wind or rain."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
+          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
+        },
+        {
+          "text": "两双棕色大男鞋，还有灰色毛衣。",
+          "trans": "Two pairs of big brown men's shoes, plus grey sweaters."
+        }
+      ],
+      "related": [
+        {
+          "word": "大哥",
+          "gloss": "eldest brother"
+        },
+        {
+          "word": "大堂",
+          "gloss": "lobby"
+        },
+        {
+          "word": "大家",
+          "gloss": "everyone"
+        }
+      ]
+    },
+    "木头": {
+      "lemma": "木头",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "wood",
+      "meanings": [
+        {
+          "en": "wood; timber",
+          "note": "Pinyin: mù tou. Measure word (量词): 块 (kuài), e.g. 一块木头 ('a piece of wood')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "白纸包着什么？一个木头小火车！",
+          "trans": "What is wrapped in white paper? A little wooden train!"
+        },
+        {
+          "text": "怪不得这么重，全是木头和皮鞋！",
+          "trans": "No wonder it was so heavy—all wood and leather shoes!"
+        }
+      ],
+      "related": [
+        {
+          "word": "一块木头",
+          "gloss": "a piece of wood (measure word 块)"
+        },
+        {
+          "word": "木匠",
+          "gloss": "carpenter"
+        },
+        {
+          "word": "木桌",
+          "gloss": "wooden table"
+        }
+      ]
+    },
+    "房梁": {
+      "lemma": "房梁",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "wooden roof beam",
+      "meanings": [
+        {
+          "en": "wooden roof beam; rafter",
+          "note": "Pinyin: fáng liáng. Measure word (量词): 根 (gēn), e.g. 一根房梁 ('a roof beam')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "哇，看这间房！大木头房梁，窗户正对着院子！",
+          "trans": "Wow, look at this room! Big wooden beams, and a window facing the courtyard!"
+        },
+        {
+          "text": "先生，到了。小心碰头，这根木房梁比较低。",
+          "trans": "Here we are, sir. Mind your head—this wooden beam is fairly low."
+        }
+      ],
+      "related": [
+        {
+          "word": "一根房梁",
+          "gloss": "a roof beam (measure word 根)"
+        },
+        {
+          "word": "书房",
+          "gloss": "study"
+        },
+        {
+          "word": "厨房",
+          "gloss": "kitchen"
+        }
+      ]
+    },
+    "窗户": {
+      "lemma": "窗户",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "window",
+      "meanings": [
+        {
+          "en": "window",
+          "note": "Pinyin: chuāng hu. Measure word (量词): 扇 (shàn), e.g. 一扇窗户 ('a window')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "太好了。窗户朝街上还是朝院子？",
+          "trans": "Wonderful. Does the window face the street or the courtyard?"
+        },
+        {
+          "text": "哇，看这间房！大木头房梁，窗户正对着院子！",
+          "trans": "Wow, look at this room! Big wooden beams, and a window facing the courtyard!"
+        }
+      ],
+      "related": [
+        {
+          "word": "一扇窗户",
+          "gloss": "a window (measure word 扇)"
+        },
+        {
+          "word": "木窗",
+          "gloss": "wooden window / shutter"
+        },
+        {
+          "word": "窗外",
+          "gloss": "outside the window"
+        }
+      ]
+    },
+    "正": {
+      "lemma": "正",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "right in the middle of",
+      "meanings": [
+        {
+          "en": "right in the middle of; squarely; right",
+          "note": "Pinyin: zhèng. Before a verb, marks an action in progress right now; before 对着, means 'directly/squarely'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "正合我心意。楼梯在哪儿？",
+          "trans": "Just what I wanted. Where are the stairs?"
+        },
+        {
+          "text": "等一下，咖啡厅的小美正朝我招手呢！",
+          "trans": "Wait a moment—Mei in the café is waving toward me right now!"
+        }
+      ],
+      "related": [
+        {
+          "word": "正在",
+          "gloss": "right in the middle of (doing)"
+        },
+        {
+          "word": "正好",
+          "gloss": "just right"
+        },
+        {
+          "word": "正常",
+          "gloss": "normal"
+        }
+      ]
+    },
+    "对": {
+      "lemma": "对",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "right",
+      "meanings": [
+        {
+          "en": "right; correct; toward",
+          "note": "Pinyin: duì. Means 'correct!' on its own, 'right' as a result complement (拿对), or 'to/toward' before a noun."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "对，八间客房，八把铜钥匙。四号房的客人今天到。",
+          "trans": "Yes, eight rooms, eight brass keys. Room four's guest arrives today."
+        },
+        {
+          "text": "看拉链旁边……对，有她的名字缩写！",
+          "trans": "Check beside the zipper... yes, her name initials are here!"
+        }
+      ],
+      "related": [
+        {
+          "word": "对面",
+          "gloss": "opposite side"
+        },
+        {
+          "word": "比对",
+          "gloss": "compare side by side"
+        },
+        {
+          "word": "绝对",
+          "gloss": "absolutely"
+        }
+      ]
+    },
+    "着": {
+      "lemma": "着",
+      "stress": null,
+      "pos": "part",
+      "gloss": "continuous-state aspect particle",
+      "meanings": [
+        {
+          "en": "continuous-state aspect particle",
+          "note": "Pinyin: zhe. Placed right after a verb to show a state or posture continues (门开着 'the door stands open')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "就算四号房空着，旧电线也会响两下。",
+          "trans": "Even when room four is empty, the old wire still rings twice."
+        },
+        {
+          "text": "白纸包着什么？一个木头小火车！",
+          "trans": "What is wrapped in white paper? A little wooden train!"
+        }
+      ],
+      "related": [
+        {
+          "word": "着急",
+          "gloss": "anxious"
+        }
+      ]
+    },
+    "院子": {
+      "lemma": "院子",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "courtyard",
+      "meanings": [
+        {
+          "en": "courtyard; yard",
+          "note": "Pinyin: yuàn zi. Measure word (量词): 个 (gè), e.g. 一个院子 ('a courtyard')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "太好了。窗户朝街上还是朝院子？",
+          "trans": "Wonderful. Does the window face the street or the courtyard?"
+        },
+        {
+          "text": "朝院子，就在老树上面，非常安静。",
+          "trans": "Toward the courtyard, right above the old tree; it is very quiet."
+        }
+      ],
+      "related": [
+        {
+          "word": "一个院子",
+          "gloss": "a courtyard (measure word 个)"
+        },
+        {
+          "word": "小院",
+          "gloss": "small courtyard"
+        },
+        {
+          "word": "院门",
+          "gloss": "courtyard gate"
+        }
+      ]
+    },
+    "听": {
+      "lemma": "听",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "listen",
+      "meanings": [
+        {
+          "en": "listen",
+          "note": "Pinyin: tīng. Focuses on the act of listening; add 见 or 到 (听见, 听到) for actually hearing."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "老陈，你听到了吗？有人按了大门门铃！",
+          "trans": "Chen, did you hear that? Someone rang the front gate bell!"
+        },
+        {
+          "text": "我在院子里老远就听到你们喊黄油了。",
+          "trans": "All the way out in the courtyard I heard you shouting about butter."
+        }
+      ],
+      "related": [
+        {
+          "word": "听听",
+          "gloss": "have a listen"
+        },
+        {
+          "word": "听见",
+          "gloss": "hear"
+        },
+        {
+          "word": "听说",
+          "gloss": "hear (it said) that"
+        }
+      ]
+    },
+    "屋顶": {
+      "lemma": "屋顶",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "roof",
+      "meanings": [
+        {
+          "en": "roof; rooftop",
+          "note": "Pinyin: wū dǐng. Measure word (量词): 个 (gè), e.g. 一个屋顶 ('a roof')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "听屋顶上的雨声，这儿真温馨！",
+          "trans": "Listen to the rain on the roof—it feels so cosy up here!"
+        },
+        {
+          "text": "哇……你们看这木头屋顶的比例！",
+          "trans": "Wow... look at the proportions of this timber roof!"
+        }
+      ],
+      "related": [
+        {
+          "word": "一个屋顶",
+          "gloss": "a roof (measure word 个)"
+        },
+        {
+          "word": "屋里",
+          "gloss": "inside the room"
+        },
+        {
+          "word": "顶楼",
+          "gloss": "top floor"
+        }
+      ]
     },
     "上": {
       "lemma": "上",
@@ -4916,117 +5402,1434 @@
         }
       ]
     },
-    "上周": {
-      "lemma": "上周",
+    "的": {
+      "lemma": "的",
       "stress": null,
-      "pos": "noun",
-      "gloss": "last week",
+      "pos": "part",
+      "gloss": "possessive / descriptive particle",
       "meanings": [
         {
-          "en": "last week",
-          "note": "Pinyin: shàng zhōu. Measure word (量词): 个 (gè), e.g. 上一周 ('the previous week')."
+          "en": "possessive / descriptive particle",
+          "note": "Pinyin: de. Links modifiers or owners to nouns (我的书 'my book', 安静的院子 'quiet courtyard')."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "上周刚换了新灯泡，有干净肥皂和热水。",
-          "trans": "Put in a new bulb last week, with clean soap and plenty of hot water."
+          "text": "啊，开了！谢谢。我是小晴，新来的前台。",
+          "trans": "Oh, it opened! Thank you. I am Qing, the new receptionist."
         },
         {
-          "text": "从那个星期天起我们再也没说话。上周我给他寄了一张明信片。",
-          "trans": "Since that Sunday we have not spoken again. Last week I mailed him a postcard."
+          "text": "纸本子？真的吗？",
+          "trans": "A paper notebook? Really?"
+        }
+      ],
+      "related": []
+    },
+    "雨声": {
+      "lemma": "雨声",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "sound of rain",
+      "meanings": [
+        {
+          "en": "sound of rain",
+          "note": "Pinyin: yǔ shēng. Measure word (量词): 阵, e.g. 一阵雨声 ('the sound of rain')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "听屋顶上的雨声，这儿真温馨！",
+          "trans": "Listen to the rain on the roof—it feels so cosy up here!"
+        },
+        {
+          "text": "只有院子里的老树和雨声。",
+          "trans": "Only the old tree in the courtyard and the sound of rain."
         }
       ],
       "related": [
         {
-          "word": "上一周",
-          "gloss": "the previous week (measure word 个)"
+          "word": "一阵雨声",
+          "gloss": "the sound of rain (measure word 阵)"
         },
         {
-          "word": "上去",
-          "gloss": "go up (away from speaker)"
+          "word": "下雨",
+          "gloss": "rain"
         },
         {
-          "word": "上方",
-          "gloss": "area directly above"
+          "word": "冒雨",
+          "gloss": "brave the rain"
         }
       ]
     },
-    "下楼": {
-      "lemma": "下楼",
+    "这儿": {
+      "lemma": "这儿",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "here",
+      "meanings": [
+        {
+          "en": "here",
+          "note": "Pinyin: zhèr. Spoken variant of 这里 ('here')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
+          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
+        },
+        {
+          "text": "没错！你已经很习惯这儿了。",
+          "trans": "Exactly! You already fit right in here."
+        }
+      ],
+      "related": [
+        {
+          "word": "这么",
+          "gloss": "so"
+        },
+        {
+          "word": "这些",
+          "gloss": "these"
+        },
+        {
+          "word": "这里",
+          "gloss": "here"
+        }
+      ]
+    },
+    "真": {
+      "lemma": "真",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "really",
+      "meanings": [
+        {
+          "en": "really; truly; real",
+          "note": "Pinyin: zhēn. Exclamatory adverb before adjectives (真好！ 'How nice!') or adjective 'genuine'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "纸本子？真的吗？",
+          "trans": "A paper notebook? Really?"
+        },
+        {
+          "text": "真奇怪！我们坐同一班早火车到同一个区。",
+          "trans": "How strange! We rode the very same morning train to the same district."
+        }
+      ],
+      "related": [
+        {
+          "word": "真名",
+          "gloss": "real name"
+        },
+        {
+          "word": "真正",
+          "gloss": "true"
+        },
+        {
+          "word": "真诚",
+          "gloss": "sincere"
+        }
+      ]
+    },
+    "温馨": {
+      "lemma": "温馨",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "warm and welcoming",
+      "meanings": [
+        {
+          "en": "warm and welcoming; cozy",
+          "note": "Pinyin: wēn xīn. Favorite praise for a homey inn or café."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "听屋顶上的雨声，这儿真温馨！",
+          "trans": "Listen to the rain on the roof—it feels so cosy up here!"
+        },
+        {
+          "text": "暖黄色的台灯让整间客房显得格外温馨。",
+          "trans": "Warm yellow lamps make the whole guest room feel extra cozy."
+        }
+      ],
+      "related": []
+    },
+    "干燥": {
+      "lemma": "干燥",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "dry",
+      "meanings": [
+        {
+          "en": "dry; free of dampness",
+          "note": "Pinyin: gān zào. Praises dry storage or a dry attic room."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "干燥、暖和、安静。快说还缺什么。",
+          "trans": "Dry, warm, and quiet. Tell me quickly what is still missing."
+        },
+        {
+          "text": "三楼向阳，冬天屋里也很干燥。",
+          "trans": "Because the third floor faces south, it stays dry even in winter."
+        }
+      ],
+      "related": [
+        {
+          "word": "干净",
+          "gloss": "clean"
+        },
+        {
+          "word": "干杯",
+          "gloss": "cheers!"
+        },
+        {
+          "word": "干脆",
+          "gloss": "simply"
+        }
+      ]
+    },
+    "暖和": {
+      "lemma": "暖和",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "warm and cozy",
+      "meanings": [
+        {
+          "en": "warm and cozy",
+          "note": "Pinyin: nuǎn huo. Note neutral-tone huo in spoken Mandarin ('cozy and warm')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "真的可以吗？看着又好看又暖和！",
+          "trans": "Is that really alright? It looks both lovely and warm!"
+        },
+        {
+          "text": "干燥、暖和、安静。快说还缺什么。",
+          "trans": "Dry, warm, and quiet. Tell me quickly what is still missing."
+        }
+      ],
+      "related": [
+        {
+          "word": "保暖",
+          "gloss": "keep warm"
+        },
+        {
+          "word": "暖暖",
+          "gloss": "warm up (hands, stomach, body)"
+        },
+        {
+          "word": "和好",
+          "gloss": "make up"
+        }
+      ]
+    },
+    "安静": {
+      "lemma": "安静",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "quiet",
+      "meanings": [
+        {
+          "en": "quiet; peaceful",
+          "note": "Pinyin: ān jìng. Core A1 adjective for quiet courtyards and rooms."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "很安静，谢谢，不过这个行李箱今天特别重。",
+          "trans": "Very quiet, thank you, though this suitcase feels especially heavy today."
+        },
+        {
+          "text": "朝院子，就在老树上面，非常安静。",
+          "trans": "Toward the courtyard, right above the old tree; it is very quiet."
+        }
+      ],
+      "related": [
+        {
+          "word": "安全",
+          "gloss": "safe"
+        },
+        {
+          "word": "安排",
+          "gloss": "arrange"
+        },
+        {
+          "word": "晚安",
+          "gloss": "good night!"
+        }
+      ]
+    },
+    "快": {
+      "lemma": "快",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "fast",
+      "meanings": [
+        {
+          "en": "fast; quick; soon",
+          "note": "Pinyin: kuài. As an adjective/adverb, 'fast/quickly'; in 快…了, 'about to'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "第一天上班，我走得快。电脑在哪里？",
+          "trans": "On my first day at work, I walk fast. Where is the computer?"
+        },
+        {
+          "text": "小晴，快看里面！这不是我的箱子！",
+          "trans": "Qing, look inside quickly! This is not my case!"
+        }
+      ],
+      "related": [
+        {
+          "word": "很快",
+          "gloss": "very soon"
+        },
+        {
+          "word": "快点",
+          "gloss": "hurry up"
+        }
+      ]
+    },
+    "说": {
+      "lemma": "说",
       "stress": null,
       "pos": "verb",
-      "gloss": "come/go downstairs",
+      "gloss": "say",
       "meanings": [
         {
-          "en": "come/go downstairs",
-          "note": "Pinyin: xià lóu. Verb-object compound for heading down to a lower floor."
+          "en": "say; speak",
+          "note": "Pinyin: shuō. Most common verb of speaking."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "七点半有八位饿肚子的客人下楼啊！",
-          "trans": "At seven thirty, eight hungry guests are coming downstairs!"
+          "text": "谁也别说出去！门铃响的时候要微笑。",
+          "trans": "Do not tell anyone! Smile warmly when the bell rings."
         },
         {
-          "text": "我手表七点二十九分。客人下楼了。",
-          "trans": "Seven twenty-nine on my watch. Guests are coming down the stairs."
+          "text": "我还没喝早咖啡呢，千万别说急事！",
+          "trans": "I have not had my morning coffee yet; please do not say emergency!"
         }
       ],
       "related": [
         {
-          "word": "一下",
-          "gloss": "a bit"
+          "word": "听说",
+          "gloss": "hear (it said) that"
         },
         {
-          "word": "下午",
-          "gloss": "afternoon"
+          "word": "说话",
+          "gloss": "speak"
         },
         {
-          "word": "下周",
-          "gloss": "next week"
+          "word": "实话实说",
+          "gloss": "to tell the plain truth"
         }
       ]
     },
-    "下次": {
-      "lemma": "下次",
+    "还": {
+      "lemma": "还",
       "stress": null,
-      "pos": "noun",
-      "gloss": "next time",
+      "pos": "adv",
+      "gloss": "still",
       "meanings": [
         {
-          "en": "next time",
-          "note": "Pinyin: xià cì. Measure word (量词): 个 (gè), e.g. 下一次 ('the next occasion')."
+          "en": "still; yet; also; even",
+          "note": "Pinyin: hái. Everyday adverb meaning 'still' (还在), 'not yet' (还没), or 'even more' after 比."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "下次来成都，一定再来住我们客栈！",
-          "trans": "Next time you come to Chengdu, be sure to stay at our inn again!"
+          "text": "还没有吗？请记下我们客栈的电话和地址，谢谢！",
+          "trans": "Not yet? Please write down our inn's phone number and address, thank you!"
         },
         {
-          "text": "今天聊得很开心，我们下次见！",
-          "trans": "It was lovely chatting today—see you next time!"
+          "text": "宋老师，真对不起，那边还没有消息。",
+          "trans": "Teacher Song, I am truly sorry; they have no news over there yet."
         }
       ],
       "related": [
         {
-          "word": "下一次",
-          "gloss": "the next occasion (measure word 个)"
+          "word": "交还",
+          "gloss": "hand back"
         },
+        {
+          "word": "还好",
+          "gloss": "luckily"
+        },
+        {
+          "word": "还是",
+          "gloss": "or (in questions)"
+        }
+      ]
+    },
+    "缺": {
+      "lemma": "缺",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "lack",
+      "meanings": [
+        {
+          "en": "lack; be short of; be missing",
+          "note": "Pinyin: quē. Describes what is still missing from a room or recipe (还缺什么 'what is still missing')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "干燥、暖和、安静。快说还缺什么。",
+          "trans": "Dry, warm, and quiet. Tell me quickly what is still missing."
+        },
+        {
+          "text": "做柠檬蛋糕还缺两个鸡蛋。",
+          "trans": "We are still two eggs short for making the lemon cake."
+        }
+      ],
+      "related": []
+    },
+    "什么": {
+      "lemma": "什么",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "what",
+      "meanings": [
+        {
+          "en": "what; anything",
+          "note": "Pinyin: shén me. Asks 'what?' on its own (什么？) or modifies a noun (什么茶 'what kind of tea')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "太好了。请告诉我需要知道什么。",
+          "trans": "Great. Please tell me what I need to know."
+        },
+        {
+          "text": "那是什么铃声？有人按了两下！",
+          "trans": "What was that bell sound? Somebody rang twice!"
+        }
+      ],
+      "related": [
+        {
+          "word": "为什么",
+          "gloss": "why"
+        },
+        {
+          "word": "怎么",
+          "gloss": "how"
+        },
+        {
+          "word": "这么",
+          "gloss": "so"
+        }
+      ]
+    },
+    "好": {
+      "lemma": "好",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "good",
+      "meanings": [
+        {
+          "en": "good; fine; ready; finished",
+          "note": "Pinyin: hǎo. Main adjective 'good'; as a result complement after a verb, means 'ready/completed properly' (修好, 准备好)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "早上好！请问，门锁了吗？",
+          "trans": "Good morning! Excuse me, is the door locked?"
+        },
+        {
+          "text": "早上好。没锁，先把把手往上提，再推。",
+          "trans": "Good morning. Not locked; lift the handle up first, then push."
+        }
+      ],
+      "related": [
+        {
+          "word": "和好",
+          "gloss": "make up"
+        },
+        {
+          "word": "好像",
+          "gloss": "seem to"
+        },
+        {
+          "word": "好吃",
+          "gloss": "delicious"
+        }
+      ]
+    },
+    "有": {
+      "lemma": "有",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "have",
+      "meanings": [
+        {
+          "en": "have; there is / there are",
+          "note": "Pinyin: yǒu. Expresses both possession ('I have') and existence ('there is'); ALWAYS negated with 没 (没有), never 不."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "有道理！这些是钥匙吗？",
+          "trans": "Fair enough! Are these the keys?"
+        },
+        {
+          "text": "那是什么铃声？有人按了两下！",
+          "trans": "What was that bell sound? Somebody rang twice!"
+        }
+      ],
+      "related": [
+        {
+          "word": "只有",
+          "gloss": "only have"
+        },
+        {
+          "word": "所有",
+          "gloss": "all"
+        },
+        {
+          "word": "有力",
+          "gloss": "strong"
+        }
+      ]
+    },
+    "床": {
+      "lemma": "床",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "bed",
+      "meanings": [
+        {
+          "en": "bed; measure word for quilts",
+          "note": "Pinyin: chuáng. Measure word (量词): 张 (zhāng), e.g. 一张床 ('a bed')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "阁楼里真的有像样的床吗？",
+          "trans": "Does the attic really have a proper bed?"
+        },
+        {
+          "text": "有，结实的木床、干净书桌，风景全院最好。",
+          "trans": "Yes, a solid wooden bed, a clean desk, and the best view in the courtyard."
+        }
+      ],
+      "related": [
+        {
+          "word": "一张床",
+          "gloss": "a bed (measure word 张)"
+        },
+        {
+          "word": "床单",
+          "gloss": "bedsheet"
+        },
+        {
+          "word": "床头",
+          "gloss": "bedside"
+        }
+      ]
+    },
+    "桌子": {
+      "lemma": "桌子",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "table",
+      "meanings": [
+        {
+          "en": "table",
+          "note": "Pinyin: zhuō zi. Measure word (量词): 张 (zhāng), e.g. 一张桌子 ('a table')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "周经理早！桌子很干净，钥匙也准备好了。",
+          "trans": "Morning, Manager Zhou! The desk is clean, and the keys are ready too."
+        },
+        {
+          "text": "老板，看一下桌子后面的镜子。",
+          "trans": "Boss, take a look in the mirror behind the desk."
+        }
+      ],
+      "related": [
+        {
+          "word": "一张桌子",
+          "gloss": "a table (measure word 张)"
+        },
+        {
+          "word": "书桌",
+          "gloss": "desk"
+        },
+        {
+          "word": "木桌",
+          "gloss": "wooden table"
+        }
+      ]
+    },
+    "和": {
+      "lemma": "和",
+      "stress": null,
+      "pos": "conj",
+      "gloss": "and",
+      "meanings": [
+        {
+          "en": "and; with",
+          "note": "Pinyin: hé. Joins nouns or pronouns ('A and B'), NEVER two whole clauses; also means 'with' (和你一样)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
+          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
+        },
+        {
+          "text": "因为好咖啡和热面包让人开心呀！",
+          "trans": "Because good coffee and warm bread make people happy!"
+        }
+      ],
+      "related": [
+        {
+          "word": "和好",
+          "gloss": "make up"
+        },
+        {
+          "word": "暖和",
+          "gloss": "warm and cozy"
+        }
+      ]
+    },
+    "椅子": {
+      "lemma": "椅子",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "chair",
+      "meanings": [
+        {
+          "en": "chair",
+          "note": "Pinyin: yǐ zi. Measure word (量词): 把 (bǎ), e.g. 一把椅子 ('a chair')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "四张桌子，八把椅子，全摆好了！",
+          "trans": "Four tables, eight chairs—everything is set in place!"
+        },
+        {
+          "text": "当心那把角落椅子，等十秒我拧紧螺丝。",
+          "trans": "Mind that corner chair—wait ten seconds while I tighten the screw."
+        }
+      ],
+      "related": [
+        {
+          "word": "一把椅子",
+          "gloss": "a chair (measure word 把)"
+        },
+        {
+          "word": "折叠椅",
+          "gloss": "folding chair"
+        },
+        {
+          "word": "个子",
+          "gloss": "height"
+        }
+      ]
+    },
+    "可是": {
+      "lemma": "可是",
+      "stress": null,
+      "pos": "conj",
+      "gloss": "but",
+      "meanings": [
+        {
+          "en": "but; however",
+          "note": "Pinyin: kě shì. Conversational 'but' introducing a contrast."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "我要看预订本子，可是找不到我的眼镜了！",
+          "trans": "I need to read the booking ledger, yet I cannot find my glasses!"
+        },
+        {
+          "text": "外面一模一样，可是你看里面！",
+          "trans": "The outside is identical, yet look inside!"
+        }
+      ],
+      "related": [
+        {
+          "word": "可以",
+          "gloss": "may"
+        },
+        {
+          "word": "可惜",
+          "gloss": "what a pity"
+        },
+        {
+          "word": "只是",
+          "gloss": "merely"
+        }
+      ]
+    },
+    "没有": {
+      "lemma": "没有",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "not have",
+      "meanings": [
+        {
+          "en": "not have; there is not; did not",
+          "note": "Pinyin: méi yǒu. Negates 有 ('have / there is') and past actions."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "可惜没有电话号码，只有两个字母和老街名字。",
+          "trans": "Unfortunately there is no phone number, only two letters and an old street name."
+        },
+        {
+          "text": "还没有吗？请记下我们客栈的电话和地址，谢谢！",
+          "trans": "Not yet? Please write down our inn's phone number and address, thank you!"
+        }
+      ],
+      "related": [
+        {
+          "word": "没空",
+          "gloss": "have no free time"
+        },
+        {
+          "word": "没错",
+          "gloss": "that's right!"
+        },
+        {
+          "word": "没关系",
+          "gloss": "it doesn't matter"
+        }
+      ]
+    },
+    "床头": {
+      "lemma": "床头",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "bedside",
+      "meanings": [
+        {
+          "en": "bedside; head of the bed",
+          "note": "Pinyin: chuáng tóu. Measure word (量词): 个 (gè), e.g. 一个床头 ('the head of a bed')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "好：有床、桌子和椅子，可是没有床头台灯。",
+          "trans": "Okay: there is a bed, a table, and a chair, yet no bedside lamp."
+        },
+        {
+          "text": "床头小桌上放着一盏暖光台灯。",
+          "trans": "A warm bedside lamp sits on the nightstand."
+        }
+      ],
+      "related": [
+        {
+          "word": "一个床头",
+          "gloss": "the head of a bed (measure word 个)"
+        },
+        {
+          "word": "床单",
+          "gloss": "bedsheet"
+        },
+        {
+          "word": "低头",
+          "gloss": "lower one's head"
+        }
+      ]
+    },
+    "台灯": {
+      "lemma": "台灯",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "desk lamp",
+      "meanings": [
+        {
+          "en": "desk lamp; bedside lamp",
+          "note": "Pinyin: tái dēng. Measure word (量词): 盏 (zhǎn), e.g. 一盏台灯 ('a desk lamp')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "好：有床、桌子和椅子，可是没有床头台灯。",
+          "trans": "Okay: there is a bed, a table, and a chair, yet no bedside lamp."
+        },
+        {
+          "text": "楼下我的工具房里有一盏铜台灯。",
+          "trans": "Downstairs in my workshop there is a brass desk lamp."
+        }
+      ],
+      "related": [
+        {
+          "word": "一盏台灯",
+          "gloss": "a desk lamp (measure word 盏)"
+        },
+        {
+          "word": "前台",
+          "gloss": "front desk"
+        },
+        {
+          "word": "台阶",
+          "gloss": "step"
+        }
+      ]
+    },
+    "墙上": {
+      "lemma": "墙上",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "on the wall",
+      "meanings": [
+        {
+          "en": "on the wall",
+          "note": "Pinyin: qiáng shang. Measure word (量词): 面 (miàn), e.g. 一面墙上 ('on a wall surface')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "墙上也没镜子，地上没铺地毯有点空。",
+          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
+        },
+        {
+          "text": "墙上挂着一幅成都老街的画。",
+          "trans": "A picture of an old Chengdu lane hangs on the wall."
+        }
+      ],
+      "related": [
+        {
+          "word": "一面墙上",
+          "gloss": "on a wall surface (measure word 面)"
+        },
+        {
+          "word": "石墙",
+          "gloss": "stone wall"
+        },
+        {
+          "word": "砖墙",
+          "gloss": "brick wall"
+        }
+      ]
+    },
+    "也": {
+      "lemma": "也",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "also",
+      "meanings": [
+        {
+          "en": "also; too; either",
+          "note": "Pinyin: yě. Always stands directly before the verb or adjective, never at the end of a clause."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "就算四号房空着，旧电线也会响两下。",
+          "trans": "Even when room four is empty, the old wire still rings twice."
+        },
+        {
+          "text": "周经理早！桌子很干净，钥匙也准备好了。",
+          "trans": "Morning, Manager Zhou! The desk is clean, and the keys are ready too."
+        }
+      ],
+      "related": [
+        {
+          "word": "也许",
+          "gloss": "perhaps"
+        }
+      ]
+    },
+    "没": {
+      "lemma": "没",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "not (have / did not)",
+      "meanings": [
+        {
+          "en": "not (have / did not)",
+          "note": "Pinyin: méi. Short form of 没有; negates 有 and past/completed actions (没锁 'isn't locked / didn't lock')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "早上好。没锁，先把把手往上提，再推。",
+          "trans": "Good morning. Not locked; lift the handle up first, then push."
+        },
+        {
+          "text": "那里没人。那是四号房的门铃。",
+          "trans": "Nobody is there. That is the buzzer from room four."
+        }
+      ],
+      "related": [
+        {
+          "word": "没有",
+          "gloss": "not have"
+        },
+        {
+          "word": "没空",
+          "gloss": "have no free time"
+        },
+        {
+          "word": "没错",
+          "gloss": "that's right!"
+        }
+      ]
+    },
+    "镜子": {
+      "lemma": "镜子",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "mirror",
+      "meanings": [
+        {
+          "en": "mirror",
+          "note": "Pinyin: jìng zi. Measure word (量词): 面 (miàn), e.g. 一面镜子 ('a mirror')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "老板，看一下桌子后面的镜子。",
+          "trans": "Boss, take a look in the mirror behind the desk."
+        },
+        {
+          "text": "墙上也没镜子，地上没铺地毯有点空。",
+          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
+        }
+      ],
+      "related": [
+        {
+          "word": "一面镜子",
+          "gloss": "a mirror (measure word 面)"
+        },
+        {
+          "word": "眼镜",
+          "gloss": "eyeglasses"
+        },
+        {
+          "word": "个子",
+          "gloss": "height"
+        }
+      ]
+    },
+    "地上": {
+      "lemma": "地上",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "on the floor",
+      "meanings": [
+        {
+          "en": "on the floor; on the ground",
+          "note": "Pinyin: dì shang. Measure word (量词): 块 (kuài), e.g. 一块地上 ('a patch of floor')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "墙上也没镜子，地上没铺地毯有点空。",
+          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
+        },
+        {
+          "text": "小心，刚拖过的地上还有点湿。",
+          "trans": "Careful—the freshly mopped floor is still a little damp."
+        }
+      ],
+      "related": [
+        {
+          "word": "一块地上",
+          "gloss": "a patch of floor (measure word 块)"
+        },
+        {
+          "word": "地址",
+          "gloss": "address"
+        },
+        {
+          "word": "地方",
+          "gloss": "place"
+        }
+      ]
+    },
+    "铺": {
+      "lemma": "铺",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "spread",
+      "meanings": [
+        {
+          "en": "spread; lay; make (a bed)",
+          "note": "Pinyin: pū. Read first tone pū when spreading a rug, tablecloth, or bedsheet (铺地毯)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "墙上也没镜子，地上没铺地毯有点空。",
+          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
+        },
+        {
+          "text": "她在木桌上铺了一块白桌布。",
+          "trans": "She spread a white tablecloth over the wooden table."
+        }
+      ],
+      "related": []
+    },
+    "地毯": {
+      "lemma": "地毯",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "rug",
+      "meanings": [
+        {
+          "en": "rug; carpet",
+          "note": "Pinyin: dì tǎn. Measure word (量词): 块 (kuài), e.g. 一块地毯 ('a rug')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "墙上也没镜子，地上没铺地毯有点空。",
+          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
+        },
+        {
+          "text": "储藏室里有两个软枕头和一块蓝地毯！",
+          "trans": "In the storeroom there are two soft pillows and a blue rug!"
+        }
+      ],
+      "related": [
+        {
+          "word": "一块地毯",
+          "gloss": "a rug (measure word 块)"
+        },
+        {
+          "word": "地上",
+          "gloss": "on the floor"
+        },
+        {
+          "word": "地址",
+          "gloss": "address"
+        }
+      ]
+    },
+    "有点": {
+      "lemma": "有点",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "a little",
+      "meanings": [
+        {
+          "en": "a little; somewhat (before adjectives)",
+          "note": "Pinyin: yóu diǎn. Placed BEFORE an adjective/feeling verb (有点冷 'a bit cold')—contrast 一点 after adjectives."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "声音轻，很有礼貌，大概三十多岁，有点紧张。",
+          "trans": "Soft-spoken, very polite, around thirty-something, and a bit nervous."
+        },
+        {
+          "text": "墙上也没镜子，地上没铺地毯有点空。",
+          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
+        }
+      ],
+      "related": [
+        {
+          "word": "只有",
+          "gloss": "only have"
+        },
+        {
+          "word": "所有",
+          "gloss": "all"
+        },
+        {
+          "word": "有力",
+          "gloss": "strong"
+        }
+      ]
+    },
+    "空": {
+      "lemma": "空",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "empty",
+      "meanings": [
+        {
+          "en": "empty; vacant; bare",
+          "note": "Pinyin: kōng. Describes an unoccupied room or bare floor."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "就算四号房空着，旧电线也会响两下。",
+          "trans": "Even when room four is empty, the old wire still rings twice."
+        },
+        {
+          "text": "老陈……小晴……快告诉我今晚六号房空着。",
+          "trans": "Chen... Qing... please tell me room six is free tonight."
+        }
+      ],
+      "related": [
+        {
+          "word": "夜空",
+          "gloss": "night sky"
+        },
+        {
+          "word": "没空",
+          "gloss": "have no free time"
+        },
+        {
+          "word": "清空",
+          "gloss": "empty out"
+        }
+      ]
+    },
+    "楼下": {
+      "lemma": "楼下",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "downstairs",
+      "meanings": [
+        {
+          "en": "downstairs",
+          "note": "Pinyin: lóu xià. Measure word (量词): 层 (céng), e.g. 楼下大堂 ('the floor downstairs')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "快拿到楼下灯光下面看看吧！",
+          "trans": "Let's bring it downstairs under the light and take a look!"
+        },
+        {
+          "text": "楼下我的工具房里有一盏铜台灯。",
+          "trans": "Downstairs in my workshop there is a brass desk lamp."
+        }
+      ],
+      "related": [
+        {
+          "word": "楼下大堂",
+          "gloss": "the floor downstairs (measure word 层)"
+        },
+        {
+          "word": "上楼",
+          "gloss": "go upstairs"
+        },
+        {
+          "word": "下楼",
+          "gloss": "come/go downstairs"
+        }
+      ]
+    },
+    "我": {
+      "lemma": "我",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "I",
+      "meanings": [
+        {
+          "en": "I; me",
+          "note": "Pinyin: wǒ. First-person singular pronoun; add 的 for 'my' (我的) and 们 for 'we/us' (我们)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "啊，开了！谢谢。我是小晴，新来的前台。",
+          "trans": "Oh, it opened! Thank you. I am Qing, the new receptionist."
+        },
+        {
+          "text": "我叫老陈。你早到了十分钟。",
+          "trans": "I'm called Chen. You arrived ten minutes early."
+        }
+      ],
+      "related": [
+        {
+          "word": "我们",
+          "gloss": "we"
+        }
+      ]
+    },
+    "工具房": {
+      "lemma": "工具房",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "tool room",
+      "meanings": [
+        {
+          "en": "tool room; workshop",
+          "note": "Pinyin: gōng jù fáng. Measure word (量词): 间 (jiān), e.g. 一间工具房 ('a tool room')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "楼下我的工具房里有一盏铜台灯。",
+          "trans": "Downstairs in my workshop there is a brass desk lamp."
+        },
+        {
+          "text": "扳手和螺丝刀都挂在后院的工具房墙上。",
+          "trans": "Wrenches and screwdrivers hang on the wall of the back-courtyard tool room."
+        }
+      ],
+      "related": [
+        {
+          "word": "一间工具房",
+          "gloss": "a tool room (measure word 间)"
+        },
+        {
+          "word": "工作",
+          "gloss": "job"
+        },
+        {
+          "word": "工具箱",
+          "gloss": "toolbox"
+        }
+      ]
+    },
+    "里": {
+      "lemma": "里",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "inside",
+      "meanings": [
+        {
+          "en": "inside; interior",
+          "note": "Pinyin: lǐ. Measure word (量词): 个 (gè), e.g. 里面 ('the inside')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
+          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
+        },
+        {
+          "text": "在您的外套口袋里吗？",
+          "trans": "Are they in your coat pocket?"
+        }
+      ],
+      "related": [
+        {
+          "word": "里面",
+          "gloss": "the inside (measure word 个)"
+        },
+        {
+          "word": "哪里",
+          "gloss": "where"
+        },
+        {
+          "word": "城里",
+          "gloss": "in town"
+        }
+      ]
+    },
+    "一": {
+      "lemma": "一",
+      "stress": null,
+      "pos": "num",
+      "gloss": "one",
+      "meanings": [
+        {
+          "en": "one",
+          "note": "Pinyin: yī. Changes tone to yí before 4th tone (一个 yí gè) and yì before 1st/2nd/3rd tones (一杯 yì bēi)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "第一天上班，我走得快。电脑在哪里？",
+          "trans": "On my first day at work, I walk fast. Where is the computer?"
+        },
+        {
+          "text": "第一条规矩：先喝热茶，再去开门。",
+          "trans": "Rule number one: drink hot tea first, then go answer the door."
+        }
+      ],
+      "related": [
         {
           "word": "一下",
           "gloss": "a bit"
         },
         {
-          "word": "下午",
-          "gloss": "afternoon"
+          "word": "一共",
+          "gloss": "altogether"
+        },
+        {
+          "word": "一刻",
+          "gloss": "quarter of an hour (15 minutes)"
+        }
+      ]
+    },
+    "盏": {
+      "lemma": "盏",
+      "stress": null,
+      "pos": "part",
+      "gloss": "measure word for lamps and lanterns",
+      "meanings": [
+        {
+          "en": "measure word for lamps and lanterns",
+          "note": "Pinyin: zhǎn. Counts lamps and lanterns (一盏台灯 'a desk lamp', 一盏灯笼 'a lantern')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "楼下我的工具房里有一盏铜台灯。",
+          "trans": "Downstairs in my workshop there is a brass desk lamp."
+        },
+        {
+          "text": "门口挂着两盏红灯笼。",
+          "trans": "Two red lanterns hang by the entrance."
+        }
+      ],
+      "related": []
+    },
+    "铜": {
+      "lemma": "铜",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "brass",
+      "meanings": [
+        {
+          "en": "brass; copper; bronze",
+          "note": "Pinyin: tóng. Measure word (量词): 块 (kuài), e.g. 一块铜 ('a piece of brass')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "对，八间客房，八把铜钥匙。四号房的客人今天到。",
+          "trans": "Yes, eight rooms, eight brass keys. Room four's guest arrives today."
+        },
+        {
+          "text": "楼下我的工具房里有一盏铜台灯。",
+          "trans": "Downstairs in my workshop there is a brass desk lamp."
+        }
+      ],
+      "related": [
+        {
+          "word": "一块铜",
+          "gloss": "a piece of brass (measure word 块)"
+        },
+        {
+          "word": "铜圈",
+          "gloss": "brass ring"
+        },
+        {
+          "word": "铜牌",
+          "gloss": "brass plaque"
+        }
+      ]
+    },
+    "储藏室": {
+      "lemma": "储藏室",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "storage room",
+      "meanings": [
+        {
+          "en": "storage room; storeroom",
+          "note": "Pinyin: chǔ cáng shì. Measure word (量词): 间 (jiān), e.g. 一间储藏室 ('a storage room')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "我把那个蓝色行李箱锁在储藏室里了。",
+          "trans": "I locked that blue suitcase safely inside the storeroom."
+        },
+        {
+          "text": "储藏室里有两个软枕头和一块蓝地毯！",
+          "trans": "In the storeroom there are two soft pillows and a blue rug!"
+        }
+      ],
+      "related": [
+        {
+          "word": "一间储藏室",
+          "gloss": "a storage room (measure word 间)"
+        },
+        {
+          "word": "办公室",
+          "gloss": "office (room)"
+        },
+        {
+          "word": "地下室",
+          "gloss": "basement"
         }
       ]
     },
@@ -5089,201 +6892,23 @@
         }
       ]
     },
-    "也": {
-      "lemma": "也",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "also",
-      "meanings": [
-        {
-          "en": "also; too; either",
-          "note": "Pinyin: yě. Always stands directly before the verb or adjective, never at the end of a clause."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "就算四号房空着，旧电线也会响两下。",
-          "trans": "Even when room four is empty, the old wire still rings twice."
-        },
-        {
-          "text": "周经理早！桌子很干净，钥匙也准备好了。",
-          "trans": "Morning, Manager Zhou! The desk is clean, and the keys are ready too."
-        }
-      ],
-      "related": [
-        {
-          "word": "也许",
-          "gloss": "perhaps"
-        }
-      ]
-    },
-    "了": {
-      "lemma": "了",
-      "stress": null,
-      "pos": "part",
-      "gloss": "completed-action / new-state particle",
-      "meanings": [
-        {
-          "en": "completed-action / new-state particle",
-          "note": "Pinyin: le. After a verb, marks completion; at the end of a sentence, signals a change of situation."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "早上好！请问，门锁了吗？",
-          "trans": "Good morning! Excuse me, is the door locked?"
-        },
-        {
-          "text": "啊，开了！谢谢。我是小晴，新来的前台。",
-          "trans": "Oh, it opened! Thank you. I am Qing, the new receptionist."
-        }
-      ],
-      "related": [
-        {
-          "word": "为了",
-          "gloss": "in order to"
-        },
-        {
-          "word": "完了",
-          "gloss": "oh no!"
-        },
-        {
-          "word": "极了",
-          "gloss": "extremely"
-        }
-      ]
-    },
-    "五": {
-      "lemma": "五",
-      "stress": null,
-      "pos": "num",
-      "gloss": "five",
-      "meanings": [
-        {
-          "en": "five",
-          "note": "Pinyin: wǔ. Cardinal number 5."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "等等，这条街就在附近，走过去只要五分钟！",
-          "trans": "Wait—that street is right nearby, only five minutes on foot!"
-        },
-        {
-          "text": "二十五年前我在附近教钢琴，不过记忆淡了。",
-          "trans": "Twenty-five years ago I taught piano nearby, though memories fade."
-        }
-      ],
-      "related": [
-        {
-          "word": "五星级",
-          "gloss": "five-star (hotel standard)"
-        },
-        {
-          "word": "五金店",
-          "gloss": "hardware store"
-        },
-        {
-          "word": "星期五",
-          "gloss": "Friday"
-        }
-      ]
-    },
-    "亮": {
-      "lemma": "亮",
+    "软": {
+      "lemma": "软",
       "stress": null,
       "pos": "adj",
-      "gloss": "bright",
+      "gloss": "soft",
       "meanings": [
         {
-          "en": "bright; shining; light",
-          "note": "Pinyin: liàng. Describes bright light or a surface polished clean (擦亮 'polish bright')."
+          "en": "soft",
+          "note": "Pinyin: ruǎn. Describes soft bread, cushions, or softened cardboard."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "隔壁的小洗手间呢？灯亮吗？",
-          "trans": "What about the small bathroom next door? Does the light work?"
-        },
-        {
-          "text": "火苗亮了——稳稳的蓝火，正合适。",
-          "trans": "The flame is lit—steady blue fire, right as it should be."
-        }
-      ],
-      "related": [
-        {
-          "word": "天亮",
-          "gloss": "dawn breaks"
-        },
-        {
-          "word": "漂亮",
-          "gloss": "pretty"
-        }
-      ]
-    },
-    "什么": {
-      "lemma": "什么",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "what",
-      "meanings": [
-        {
-          "en": "what; anything",
-          "note": "Pinyin: shén me. Asks 'what?' on its own (什么？) or modifies a noun (什么茶 'what kind of tea')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "太好了。请告诉我需要知道什么。",
-          "trans": "Great. Please tell me what I need to know."
-        },
-        {
-          "text": "那是什么铃声？有人按了两下！",
-          "trans": "What was that bell sound? Somebody rang twice!"
-        }
-      ],
-      "related": [
-        {
-          "word": "为什么",
-          "gloss": "why"
-        },
-        {
-          "word": "怎么",
-          "gloss": "how"
-        },
-        {
-          "word": "这么",
-          "gloss": "so"
-        }
-      ]
-    },
-    "储藏室": {
-      "lemma": "储藏室",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "storage room",
-      "meanings": [
-        {
-          "en": "storage room; storeroom",
-          "note": "Pinyin: chǔ cáng shì. Measure word (量词): 间 (jiān), e.g. 一间储藏室 ('a storage room')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "我把那个蓝色行李箱锁在储藏室里了。",
-          "trans": "I locked that blue suitcase safely inside the storeroom."
+          "text": "您看，这件软羊毛开衫是全新的，试试吧。",
+          "trans": "Look, this soft wool cardigan is brand-new; try it on."
         },
         {
           "text": "储藏室里有两个软枕头和一块蓝地毯！",
@@ -5292,1539 +6917,8 @@
       ],
       "related": [
         {
-          "word": "一间储藏室",
-          "gloss": "a storage room (measure word 间)"
-        },
-        {
-          "word": "办公室",
-          "gloss": "office (room)"
-        },
-        {
-          "word": "地下室",
-          "gloss": "basement"
-        }
-      ]
-    },
-    "分钟": {
-      "lemma": "分钟",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "minute (duration)",
-      "meanings": [
-        {
-          "en": "minute (duration)",
-          "note": "Pinyin: fēn zhōng. Measure word (量词): 个 (gè), e.g. 五分钟 ('five minutes')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "我叫老陈。你早到了十分钟。",
-          "trans": "I'm called Chen. You arrived ten minutes early."
-        },
-        {
-          "text": "等等，这条街就在附近，走过去只要五分钟！",
-          "trans": "Wait—that street is right nearby, only five minutes on foot!"
-        }
-      ],
-      "related": [
-        {
-          "word": "五分钟",
-          "gloss": "five minutes (measure word 个)"
-        },
-        {
-          "word": "分贝",
-          "gloss": "decibel (dB)"
-        },
-        {
-          "word": "满分",
-          "gloss": "full marks"
-        }
-      ]
-    },
-    "刚": {
-      "lemma": "刚",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "just",
-      "meanings": [
-        {
-          "en": "just; just now",
-          "note": "Pinyin: gāng. Placed right before a verb to show the action happened moments ago."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "刚烤好的面包卷！趁热拿一个吧。",
-          "trans": "Freshly baked bread rolls! Take one while it is hot."
-        },
-        {
-          "text": "一到七号钥匙全拿走了，八号房刚刷了油漆。",
-          "trans": "Every key from one to seven is taken, and room eight just got fresh paint."
-        }
-      ],
-      "related": [
-        {
-          "word": "刚才",
-          "gloss": "just now"
-        }
-      ]
-    },
-    "别": {
-      "lemma": "别",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "don't",
-      "meanings": [
-        {
-          "en": "don't; pin/fasten",
-          "note": "Pinyin: bié. Most commonly means 'do not' in polite commands (别担心 'don't worry'); as a verb, 'pin/clip on'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "谁也别说出去！门铃响的时候要微笑。",
-          "trans": "Do not tell anyone! Smile warmly when the bell rings."
-        },
-        {
-          "text": "您先坐下，别着急，我们马上看行李牌。",
-          "trans": "Please sit down first and do not worry; we will check the luggage tag right away."
-        }
-      ],
-      "related": [
-        {
-          "word": "别人",
-          "gloss": "other people"
-        },
-        {
-          "word": "特别",
-          "gloss": "especially"
-        }
-      ]
-    },
-    "到": {
-      "lemma": "到",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "arrive",
-      "meanings": [
-        {
-          "en": "arrive; reach; to",
-          "note": "Pinyin: dào. Works as main verb ('arrive') or result complement ('succeed in reaching/perceiving', 找到, 听到)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "我叫老陈。你早到了十分钟。",
-          "trans": "I'm called Chen. You arrived ten minutes early."
-        },
-        {
-          "text": "对，八间客房，八把铜钥匙。四号房今天到。",
-          "trans": "Right, eight guest rooms, eight brass keys. Room four arrives today."
-        }
-      ],
-      "related": [
-        {
-          "word": "到处",
-          "gloss": "everywhere"
-        },
-        {
-          "word": "到底",
-          "gloss": "on earth"
-        },
-        {
-          "word": "迟到",
-          "gloss": "arrive late"
-        }
-      ]
-    },
-    "十": {
-      "lemma": "十",
-      "stress": null,
-      "pos": "num",
-      "gloss": "ten",
-      "meanings": [
-        {
-          "en": "ten",
-          "note": "Pinyin: shí. Cardinal number 10; building block for 11–99."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "我叫老陈。你早到了十分钟。",
-          "trans": "I'm called Chen. You arrived ten minutes early."
-        },
-        {
-          "text": "给您四号钥匙。早餐从七点半到十点。",
-          "trans": "Here is key number four for you. Breakfast is from seven thirty to ten."
-        }
-      ],
-      "related": []
-    },
-    "可是": {
-      "lemma": "可是",
-      "stress": null,
-      "pos": "conj",
-      "gloss": "but",
-      "meanings": [
-        {
-          "en": "but; however",
-          "note": "Pinyin: kě shì. Conversational 'but' introducing a contrast."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "我要看预订本子，可是找不到我的眼镜了！",
-          "trans": "I need to read the booking ledger, yet I cannot find my glasses!"
-        },
-        {
-          "text": "外面一模一样，可是你看里面！",
-          "trans": "The outside is identical, yet look inside!"
-        }
-      ],
-      "related": [
-        {
-          "word": "可以",
-          "gloss": "may"
-        },
-        {
-          "word": "可惜",
-          "gloss": "what a pity"
-        },
-        {
-          "word": "只是",
-          "gloss": "merely"
-        }
-      ]
-    },
-    "台灯": {
-      "lemma": "台灯",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "desk lamp",
-      "meanings": [
-        {
-          "en": "desk lamp; bedside lamp",
-          "note": "Pinyin: tái dēng. Measure word (量词): 盏 (zhǎn), e.g. 一盏台灯 ('a desk lamp')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "好：有床、桌子和椅子，可是没有床头台灯。",
-          "trans": "Okay: there is a bed, a table, and a chair, yet no bedside lamp."
-        },
-        {
-          "text": "楼下我的工具房里有一盏铜台灯。",
-          "trans": "Downstairs in my workshop there is a brass desk lamp."
-        }
-      ],
-      "related": [
-        {
-          "word": "一盏台灯",
-          "gloss": "a desk lamp (measure word 盏)"
-        },
-        {
-          "word": "前台",
-          "gloss": "front desk"
-        },
-        {
-          "word": "台阶",
-          "gloss": "step"
-        }
-      ]
-    },
-    "号": {
-      "lemma": "号",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "number",
-      "meanings": [
-        {
-          "en": "number; date of month",
-          "note": "Pinyin: hào. Measure word (量词): 个 (gè), e.g. 一个号码 ('a number')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "对，八间客房，八把铜钥匙。四号房今天到。",
-          "trans": "Right, eight guest rooms, eight brass keys. Room four arrives today."
-        },
-        {
-          "text": "那里没人。那是四号房的门铃。",
-          "trans": "Nobody is there. That is the buzzer from room four."
-        }
-      ],
-      "related": [
-        {
-          "word": "一个号码",
-          "gloss": "a number (measure word 个)"
-        },
-        {
-          "word": "号码",
-          "gloss": "number (phone, room, code)"
-        },
-        {
-          "word": "挂号信",
-          "gloss": "registered letter"
-        }
-      ]
-    },
-    "吗": {
-      "lemma": "吗",
-      "stress": null,
-      "pos": "part",
-      "gloss": "yes/no question particle",
-      "meanings": [
-        {
-          "en": "yes/no question particle",
-          "note": "Pinyin: ma. Placed at the end of any statement to turn it into a neutral yes/no question."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "早上好！请问，门锁了吗？",
-          "trans": "Good morning! Excuse me, is the door locked?"
-        },
-        {
-          "text": "纸本子？真的吗？",
-          "trans": "A paper notebook? Really?"
-        }
-      ],
-      "related": []
-    },
-    "吧": {
-      "lemma": "吧",
-      "stress": null,
-      "pos": "part",
-      "gloss": "suggestion / soft-assumption particle",
-      "meanings": [
-        {
-          "en": "suggestion / soft-assumption particle",
-          "note": "Pinyin: ba. At the end of a sentence, softens commands into friendly suggestions ('let's…') or asks for confirmation."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "你好！你就是小晴吧？我是厨房的小美。",
-          "trans": "Hello! You must be Qing, right? I am Mei from the kitchen."
-        },
-        {
-          "text": "刚烤好的面包卷！趁热拿一个吧。",
-          "trans": "Freshly baked bread rolls! Take one while it is hot."
-        }
-      ],
-      "related": []
-    },
-    "听": {
-      "lemma": "听",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "listen",
-      "meanings": [
-        {
-          "en": "listen",
-          "note": "Pinyin: tīng. Focuses on the act of listening; add 见 or 到 (听见, 听到) for actually hearing."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "老陈，你听到了吗？有人按了大门门铃！",
-          "trans": "Chen, did you hear that? Someone rang the front gate bell!"
-        },
-        {
-          "text": "我在院子里老远就听到你们喊黄油了。",
-          "trans": "All the way out in the courtyard I heard you shouting about butter."
-        }
-      ],
-      "related": [
-        {
-          "word": "听听",
-          "gloss": "have a listen"
-        },
-        {
-          "word": "听见",
-          "gloss": "hear"
-        },
-        {
-          "word": "听说",
-          "gloss": "hear (it said) that"
-        }
-      ]
-    },
-    "呢": {
-      "lemma": "呢",
-      "stress": null,
-      "pos": "part",
-      "gloss": "follow-up question / ongoing-state particle",
-      "meanings": [
-        {
-          "en": "follow-up question / ongoing-state particle",
-          "note": "Pinyin: ne. After a noun, asks 'what about X?' (你呢？); at the end of a statement, highlights an ongoing situation."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "等一下，咖啡厅的小美正朝我招手呢！",
-          "trans": "Wait a moment—Mei in the café is waving toward me right now!"
-        },
-        {
-          "text": "来成都的第一个晚上，怎么能难过呢！",
-          "trans": "On your very first evening in Chengdu, how could you sit around sad!"
-        }
-      ],
-      "related": []
-    },
-    "和": {
-      "lemma": "和",
-      "stress": null,
-      "pos": "conj",
-      "gloss": "and",
-      "meanings": [
-        {
-          "en": "and; with",
-          "note": "Pinyin: hé. Joins nouns or pronouns ('A and B'), NEVER two whole clauses; also means 'with' (和你一样)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
-          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
-        },
-        {
-          "text": "因为好咖啡和热面包让人开心呀！",
-          "trans": "Because good coffee and warm bread make people happy!"
-        }
-      ],
-      "related": [
-        {
-          "word": "和好",
-          "gloss": "make up"
-        },
-        {
-          "word": "暖和",
-          "gloss": "warm and cozy"
-        }
-      ]
-    },
-    "哇": {
-      "lemma": "哇",
-      "stress": null,
-      "pos": "interj",
-      "gloss": "wow!",
-      "meanings": [
-        {
-          "en": "wow!",
-          "note": "Pinyin: wā. Expresses admiration or delight."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "哇，看这间房！大木头房梁，窗户正对着院子！",
-          "trans": "Wow, look at this room! Big wooden beams, and a window facing the courtyard!"
-        },
-        {
-          "text": "插上老陈的铜台灯……哇，黄色灯光真暖和！",
-          "trans": "Plug in Chen's brass lamp... wow, how warm that yellow light is!"
-        }
-      ],
-      "related": []
-    },
-    "地上": {
-      "lemma": "地上",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "on the floor",
-      "meanings": [
-        {
-          "en": "on the floor; on the ground",
-          "note": "Pinyin: dì shang. Measure word (量词): 块 (kuài), e.g. 一块地上 ('a patch of floor')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "墙上也没镜子，地上没铺地毯有点空。",
-          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
-        },
-        {
-          "text": "小心，刚拖过的地上还有点湿。",
-          "trans": "Careful—the freshly mopped floor is still a little damp."
-        }
-      ],
-      "related": [
-        {
-          "word": "一块地上",
-          "gloss": "a patch of floor (measure word 块)"
-        },
-        {
-          "word": "地址",
-          "gloss": "address"
-        },
-        {
-          "word": "地方",
-          "gloss": "place"
-        }
-      ]
-    },
-    "地毯": {
-      "lemma": "地毯",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "rug",
-      "meanings": [
-        {
-          "en": "rug; carpet",
-          "note": "Pinyin: dì tǎn. Measure word (量词): 块 (kuài), e.g. 一块地毯 ('a rug')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "墙上也没镜子，地上没铺地毯有点空。",
-          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
-        },
-        {
-          "text": "储藏室里有两个软枕头和一块蓝地毯！",
-          "trans": "In the storeroom there are two soft pillows and a blue rug!"
-        }
-      ],
-      "related": [
-        {
-          "word": "一块地毯",
-          "gloss": "a rug (measure word 块)"
-        },
-        {
-          "word": "地上",
-          "gloss": "on the floor"
-        },
-        {
-          "word": "地址",
-          "gloss": "address"
-        }
-      ]
-    },
-    "块": {
-      "lemma": "块",
-      "stress": null,
-      "pos": "part",
-      "gloss": "measure word for pieces and yuan",
-      "meanings": [
-        {
-          "en": "measure word for pieces and yuan",
-          "note": "Pinyin: kuài. Counts chunks/pieces (一块蛋糕 'a piece of cake') and spoken yuan of money (五块钱 'five yuan')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "钱箱里拿五十块，记得要收据！",
-          "trans": "Here is fifty yuan from the cash box; remember to get a receipt!"
-        },
-        {
-          "text": "在这儿！一共三十八块，找回十二块零钱。",
-          "trans": "Right here! Thirty-eight yuan in total, with twelve yuan back in change."
-        }
-      ],
-      "related": []
-    },
-    "墙": {
-      "lemma": "墙",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "wall",
-      "meanings": [
-        {
-          "en": "wall",
-          "note": "Pinyin: qiáng. Measure word (量词): 堵 (dǔ), e.g. 一堵墙 ('a wall')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "拐弯小心点，别碰到墙！",
-          "trans": "Careful on the turn—do not bump the wall!"
-        },
-        {
-          "text": "当然记得！每到星期五弹错一个音，他就对着墙皱眉头。",
-          "trans": "Of course I remember! Every Friday when he missed a note, he frowned at the wall."
-        }
-      ],
-      "related": [
-        {
-          "word": "一堵墙",
-          "gloss": "a wall (measure word 堵)"
-        },
-        {
-          "word": "墙上",
-          "gloss": "on the wall"
-        },
-        {
-          "word": "石墙",
-          "gloss": "stone wall"
-        }
-      ]
-    },
-    "墙上": {
-      "lemma": "墙上",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "on the wall",
-      "meanings": [
-        {
-          "en": "on the wall",
-          "note": "Pinyin: qiáng shang. Measure word (量词): 面 (miàn), e.g. 一面墙上 ('on a wall surface')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "墙上也没镜子，地上没铺地毯有点空。",
-          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
-        },
-        {
-          "text": "墙上挂着一幅成都老街的画。",
-          "trans": "A picture of an old Chengdu lane hangs on the wall."
-        }
-      ],
-      "related": [
-        {
-          "word": "一面墙上",
-          "gloss": "on a wall surface (measure word 面)"
-        },
-        {
-          "word": "石墙",
-          "gloss": "stone wall"
-        },
-        {
-          "word": "砖墙",
-          "gloss": "brick wall"
-        }
-      ]
-    },
-    "大": {
-      "lemma": "大",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "big",
-      "meanings": [
-        {
-          "en": "big; large; heavy (rain/wind)",
-          "note": "Pinyin: dà. Everyday adjective for size, age, and strong wind or rain."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
-          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
-        },
-        {
-          "text": "两双棕色大男鞋，还有灰色毛衣。",
-          "trans": "Two pairs of big brown men's shoes, plus grey sweaters."
-        }
-      ],
-      "related": [
-        {
-          "word": "大哥",
-          "gloss": "eldest brother"
-        },
-        {
-          "word": "大堂",
-          "gloss": "lobby"
-        },
-        {
-          "word": "大家",
-          "gloss": "everyone"
-        }
-      ]
-    },
-    "好": {
-      "lemma": "好",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "good",
-      "meanings": [
-        {
-          "en": "good; fine; ready; finished",
-          "note": "Pinyin: hǎo. Main adjective 'good'; as a result complement after a verb, means 'ready/completed properly' (修好, 准备好)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "早上好！请问，门锁了吗？",
-          "trans": "Good morning! Excuse me, is the door locked?"
-        },
-        {
-          "text": "早上好。没锁，先把把手往上提，再推。",
-          "trans": "Good morning. Not locked; lift the handle up first, then push."
-        }
-      ],
-      "related": [
-        {
-          "word": "和好",
-          "gloss": "make up"
-        },
-        {
-          "word": "好像",
-          "gloss": "seem to"
-        },
-        {
-          "word": "好吃",
-          "gloss": "delicious"
-        }
-      ]
-    },
-    "安静": {
-      "lemma": "安静",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "quiet",
-      "meanings": [
-        {
-          "en": "quiet; peaceful",
-          "note": "Pinyin: ān jìng. Core A1 adjective for quiet courtyards and rooms."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "很安静，谢谢，不过这个行李箱今天特别重。",
-          "trans": "Very quiet, thank you, though this suitcase feels especially heavy today."
-        },
-        {
-          "text": "朝院子，就在老树上面，非常安静。",
-          "trans": "Toward the courtyard, right above the old tree; it is very quiet."
-        }
-      ],
-      "related": [
-        {
-          "word": "安全",
-          "gloss": "safe"
-        },
-        {
-          "word": "安排",
-          "gloss": "arrange"
-        },
-        {
-          "word": "晚安",
-          "gloss": "good night!"
-        }
-      ]
-    },
-    "对": {
-      "lemma": "对",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "right",
-      "meanings": [
-        {
-          "en": "right; correct; toward",
-          "note": "Pinyin: duì. Means 'correct!' on its own, 'right' as a result complement (拿对), or 'to/toward' before a noun."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "对，八间客房，八把铜钥匙。四号房今天到。",
-          "trans": "Right, eight guest rooms, eight brass keys. Room four arrives today."
-        },
-        {
-          "text": "看拉链旁边……对，有她的名字缩写！",
-          "trans": "Check beside the zipper... yes, her name initials are here!"
-        }
-      ],
-      "related": [
-        {
-          "word": "对面",
-          "gloss": "opposite side"
-        },
-        {
-          "word": "比对",
-          "gloss": "compare side by side"
-        },
-        {
-          "word": "绝对",
-          "gloss": "absolutely"
-        }
-      ]
-    },
-    "小": {
-      "lemma": "小",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "small",
-      "meanings": [
-        {
-          "en": "small; little; young",
-          "note": "Pinyin: xiǎo. Everyday adjective for small size; also prefixes younger colleagues' names warmly (小晴, 小美)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "早上好，小姑娘。我订了房间，我姓宋。",
-          "trans": "Good morning, young lady. I booked a room; my surname is Song."
-        },
-        {
-          "text": "白纸包着什么？一个木头小火车！",
-          "trans": "What is wrapped in white paper? A little wooden train!"
-        }
-      ],
-      "related": [
-        {
-          "word": "小心",
-          "gloss": "be careful"
-        },
-        {
-          "word": "小时",
-          "gloss": "hour (duration)"
-        },
-        {
-          "word": "小路",
-          "gloss": "lane"
-        }
-      ]
-    },
-    "小心": {
-      "lemma": "小心",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "be careful",
-      "meanings": [
-        {
-          "en": "be careful; watch out",
-          "note": "Pinyin: xiǎo xīn. Literally 'small heart'—pay close attention."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "小心，周经理，壶嘴很宽！",
-          "trans": "Careful, Manager Zhou, the pitcher spout is wide!"
-        },
-        {
-          "text": "拐弯小心点，别碰到墙！",
-          "trans": "Careful on the turn—do not bump the wall!"
-        }
-      ],
-      "related": [
-        {
-          "word": "小时",
-          "gloss": "hour (duration)"
-        },
-        {
-          "word": "小路",
-          "gloss": "lane"
-        },
-        {
-          "word": "小院",
-          "gloss": "small courtyard"
-        }
-      ]
-    },
-    "屋顶": {
-      "lemma": "屋顶",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "roof",
-      "meanings": [
-        {
-          "en": "roof; rooftop",
-          "note": "Pinyin: wū dǐng. Measure word (量词): 个 (gè), e.g. 一个屋顶 ('a roof')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "听屋顶上的雨声，这儿真温馨！",
-          "trans": "Listen to the rain on the roof—it feels so cosy up here!"
-        },
-        {
-          "text": "哇……你们看这木头屋顶的比例！",
-          "trans": "Wow... look at the proportions of this timber roof!"
-        }
-      ],
-      "related": [
-        {
-          "word": "一个屋顶",
-          "gloss": "a roof (measure word 个)"
-        },
-        {
-          "word": "屋里",
-          "gloss": "inside the room"
-        },
-        {
-          "word": "顶楼",
-          "gloss": "top floor"
-        }
-      ]
-    },
-    "工具房": {
-      "lemma": "工具房",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "tool room",
-      "meanings": [
-        {
-          "en": "tool room; workshop",
-          "note": "Pinyin: gōng jù fáng. Measure word (量词): 间 (jiān), e.g. 一间工具房 ('a tool room')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "楼下我的工具房里有一盏铜台灯。",
-          "trans": "Downstairs in my workshop there is a brass desk lamp."
-        },
-        {
-          "text": "扳手和螺丝刀都挂在后院的工具房墙上。",
-          "trans": "Wrenches and screwdrivers hang on the wall of the back-courtyard tool room."
-        }
-      ],
-      "related": [
-        {
-          "word": "一间工具房",
-          "gloss": "a tool room (measure word 间)"
-        },
-        {
-          "word": "工作",
-          "gloss": "job"
-        },
-        {
-          "word": "工具箱",
-          "gloss": "toolbox"
-        }
-      ]
-    },
-    "干净": {
-      "lemma": "干净",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "clean",
-      "meanings": [
-        {
-          "en": "clean; neat",
-          "note": "Pinyin: gān jìng. Note first tone gān ('dry/clean'), never fourth tone."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "周经理早！桌子很干净，钥匙也准备好了。",
-          "trans": "Morning, Manager Zhou! The desk is clean, and the keys are ready too."
-        },
-        {
-          "text": "放心吧，周经理。房间干净，毛巾也是新的。",
-          "trans": "Relax, Manager Zhou. The room is clean, and the towels are fresh."
-        }
-      ],
-      "related": [
-        {
-          "word": "干杯",
-          "gloss": "cheers!"
-        },
-        {
-          "word": "干燥",
-          "gloss": "dry"
-        },
-        {
-          "word": "干脆",
-          "gloss": "simply"
-        }
-      ]
-    },
-    "干燥": {
-      "lemma": "干燥",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "dry",
-      "meanings": [
-        {
-          "en": "dry; free of dampness",
-          "note": "Pinyin: gān zào. Praises dry storage or a dry attic room."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "干燥、暖和、安静。快说还缺什么。",
-          "trans": "Dry, warm, and quiet. Tell me quickly what is still missing."
-        },
-        {
-          "text": "三楼向阳，冬天屋里也很干燥。",
-          "trans": "Because the third floor faces south, it stays dry even in winter."
-        }
-      ],
-      "related": [
-        {
-          "word": "干净",
-          "gloss": "clean"
-        },
-        {
-          "word": "干杯",
-          "gloss": "cheers!"
-        },
-        {
-          "word": "干脆",
-          "gloss": "simply"
-        }
-      ]
-    },
-    "床": {
-      "lemma": "床",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "bed",
-      "meanings": [
-        {
-          "en": "bed; measure word for quilts",
-          "note": "Pinyin: chuáng. Measure word (量词): 张 (zhāng), e.g. 一张床 ('a bed')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "阁楼里真的有像样的床吗？",
-          "trans": "Does the attic really have a proper bed?"
-        },
-        {
-          "text": "有，结实的木床、干净书桌，风景全院最好。",
-          "trans": "Yes, a solid wooden bed, a clean desk, and the best view in the courtyard."
-        }
-      ],
-      "related": [
-        {
-          "word": "一张床",
-          "gloss": "a bed (measure word 张)"
-        },
-        {
-          "word": "床单",
-          "gloss": "bedsheet"
-        },
-        {
-          "word": "床头",
-          "gloss": "bedside"
-        }
-      ]
-    },
-    "床头": {
-      "lemma": "床头",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "bedside",
-      "meanings": [
-        {
-          "en": "bedside; head of the bed",
-          "note": "Pinyin: chuáng tóu. Measure word (量词): 个 (gè), e.g. 一个床头 ('the head of a bed')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "好：有床、桌子和椅子，可是没有床头台灯。",
-          "trans": "Okay: there is a bed, a table, and a chair, yet no bedside lamp."
-        },
-        {
-          "text": "床头小桌上放着一盏暖光台灯。",
-          "trans": "A warm bedside lamp sits on the nightstand."
-        }
-      ],
-      "related": [
-        {
-          "word": "一个床头",
-          "gloss": "the head of a bed (measure word 个)"
-        },
-        {
-          "word": "床单",
-          "gloss": "bedsheet"
-        },
-        {
-          "word": "低头",
-          "gloss": "lower one's head"
-        }
-      ]
-    },
-    "快": {
-      "lemma": "快",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "fast",
-      "meanings": [
-        {
-          "en": "fast; quick; soon",
-          "note": "Pinyin: kuài. As an adjective/adverb, 'fast/quickly'; in 快…了, 'about to'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "第一天上班，我走得快。电脑在哪里？",
-          "trans": "On my first day at work, I walk fast. Where is the computer?"
-        },
-        {
-          "text": "小晴，快看里面！这不是我的箱子！",
-          "trans": "Qing, look inside quickly! This is not my case!"
-        }
-      ],
-      "related": [
-        {
-          "word": "很快",
-          "gloss": "very soon"
-        },
-        {
-          "word": "快点",
-          "gloss": "hurry up"
-        }
-      ]
-    },
-    "我": {
-      "lemma": "我",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "I",
-      "meanings": [
-        {
-          "en": "I; me",
-          "note": "Pinyin: wǒ. First-person singular pronoun; add 的 for 'my' (我的) and 们 for 'we/us' (我们)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "啊，开了！谢谢。我是小晴，新来的前台。",
-          "trans": "Oh, it opened! Thank you. I am Qing, the new receptionist."
-        },
-        {
-          "text": "我叫老陈。你早到了十分钟。",
-          "trans": "I'm called Chen. You arrived ten minutes early."
-        }
-      ],
-      "related": [
-        {
-          "word": "我们",
-          "gloss": "we"
-        }
-      ]
-    },
-    "我们": {
-      "lemma": "我们",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "we",
-      "meanings": [
-        {
-          "en": "we; us",
-          "note": "Pinyin: wǒ men. First-person plural pronoun; add 的 for 'our' (我们的)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
-          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
-        },
-        {
-          "text": "谢谢！我们平时都直接叫名字吗？",
-          "trans": "Thank you! Do we usually just call each other by name here?"
-        }
-      ],
-      "related": [
-        {
-          "word": "他们",
-          "gloss": "they"
-        },
-        {
-          "word": "你们",
-          "gloss": "you (plural)"
-        }
-      ]
-    },
-    "房": {
-      "lemma": "房",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "room",
-      "meanings": [
-        {
-          "en": "room; house",
-          "note": "Pinyin: fáng. Measure word (量词): 间 (jiān), e.g. 一间房 ('a room')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "对，八间客房，八把铜钥匙。四号房今天到。",
-          "trans": "Right, eight guest rooms, eight brass keys. Room four arrives today."
-        },
-        {
-          "text": "那里没人。那是四号房的门铃。",
-          "trans": "Nobody is there. That is the buzzer from room four."
-        }
-      ],
-      "related": [
-        {
-          "word": "一间房",
-          "gloss": "a room (measure word 间)"
-        },
-        {
-          "word": "书房",
-          "gloss": "study"
-        },
-        {
-          "word": "厨房",
-          "gloss": "kitchen"
-        }
-      ]
-    },
-    "房梁": {
-      "lemma": "房梁",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "wooden roof beam",
-      "meanings": [
-        {
-          "en": "wooden roof beam; rafter",
-          "note": "Pinyin: fáng liáng. Measure word (量词): 根 (gēn), e.g. 一根房梁 ('a roof beam')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "哇，看这间房！大木头房梁，窗户正对着院子！",
-          "trans": "Wow, look at this room! Big wooden beams, and a window facing the courtyard!"
-        },
-        {
-          "text": "先生，到了。小心碰头，这根木房梁比较低。",
-          "trans": "Here we are, sir. Mind your head—this wooden beam is fairly low."
-        }
-      ],
-      "related": [
-        {
-          "word": "一根房梁",
-          "gloss": "a roof beam (measure word 根)"
-        },
-        {
-          "word": "书房",
-          "gloss": "study"
-        },
-        {
-          "word": "厨房",
-          "gloss": "kitchen"
-        }
-      ]
-    },
-    "抱": {
-      "lemma": "抱",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "hold in one's arms",
-      "meanings": [
-        {
-          "en": "hold in one's arms; hug",
-          "note": "Pinyin: bào. Used for carrying a box, cushion, or child in both arms."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "老陈，抱起那些纸箱，我们下楼吧！",
-          "trans": "Chen, pick up those cardboard boxes—down the stairs we go!"
-        },
-        {
-          "text": "那抱着木头小火车的弟弟呢？",
-          "trans": "And what about the younger brother holding the wooden train?"
-        }
-      ],
-      "related": []
-    },
-    "拐弯": {
-      "lemma": "拐弯",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "turn a corner",
-      "meanings": [
-        {
-          "en": "turn a corner",
-          "note": "Pinyin: guǎi wān. Separable verb-object compound for street directions."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "拐弯小心点，别碰到墙！",
-          "trans": "Careful on the turn—do not bump the wall!"
-        },
-        {
-          "text": "走到前面那棵大树再往左拐弯。",
-          "trans": "Walk up to that big tree ahead and turn left."
-        }
-      ],
-      "related": []
-    },
-    "换": {
-      "lemma": "换",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "change",
-      "meanings": [
-        {
-          "en": "change; swap; replace",
-          "note": "Pinyin: huàn. Used for swapping suitcases, changing rooms, or replacing broken parts."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "上周刚换了新灯泡，有干净肥皂和热水。",
-          "trans": "Put in a new bulb last week, with clean soap and plenty of hot water."
-        },
-        {
-          "text": "等等，换房间我们给他打多少折？",
-          "trans": "Wait—what discount do we offer him for changing rooms?"
-        }
-      ],
-      "related": []
-    },
-    "新": {
-      "lemma": "新",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "new",
-      "meanings": [
-        {
-          "en": "new; fresh",
-          "note": "Pinyin: xīn. Everyday adjective for new people, items, or beginnings."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "啊，开了！谢谢。我是小晴，新来的前台。",
-          "trans": "Oh, it opened! Thank you. I am Qing, the new receptionist."
-        },
-        {
-          "text": "放心吧，周经理。房间干净，毛巾也是新的。",
-          "trans": "Relax, Manager Zhou. The room is clean, and the towels are fresh."
-        }
-      ],
-      "related": [
-        {
-          "word": "全新",
-          "gloss": "brand-new"
-        },
-        {
-          "word": "新手",
-          "gloss": "newcomer"
-        },
-        {
-          "word": "新鲜",
-          "gloss": "fresh"
-        }
-      ]
-    },
-    "暖和": {
-      "lemma": "暖和",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "warm and cozy",
-      "meanings": [
-        {
-          "en": "warm and cozy",
-          "note": "Pinyin: nuǎn huo. Note neutral-tone huo in spoken Mandarin ('cozy and warm')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "真的可以吗？看着又好看又暖和！",
-          "trans": "Is that really alright? It looks both lovely and warm!"
-        },
-        {
-          "text": "干燥、暖和、安静。快说还缺什么。",
-          "trans": "Dry, warm, and quiet. Tell me quickly what is still missing."
-        }
-      ],
-      "related": [
-        {
-          "word": "保暖",
-          "gloss": "keep warm"
-        },
-        {
-          "word": "暖暖",
-          "gloss": "warm up (hands, stomach, body)"
-        },
-        {
-          "word": "和好",
-          "gloss": "make up"
-        }
-      ]
-    },
-    "有": {
-      "lemma": "有",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "have",
-      "meanings": [
-        {
-          "en": "have; there is / there are",
-          "note": "Pinyin: yǒu. Expresses both possession ('I have') and existence ('there is'); ALWAYS negated with 没 (没有), never 不."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "有道理！这些是钥匙吗？",
-          "trans": "Fair enough! Are these the keys?"
-        },
-        {
-          "text": "那是什么铃声？有人按了两下！",
-          "trans": "What was that bell sound? Somebody rang twice!"
-        }
-      ],
-      "related": [
-        {
-          "word": "只有",
-          "gloss": "only have"
-        },
-        {
-          "word": "所有",
-          "gloss": "all"
-        },
-        {
-          "word": "有力",
-          "gloss": "strong"
-        }
-      ]
-    },
-    "有点": {
-      "lemma": "有点",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "a little",
-      "meanings": [
-        {
-          "en": "a little; somewhat (before adjectives)",
-          "note": "Pinyin: yóu diǎn. Placed BEFORE an adjective/feeling verb (有点冷 'a bit cold')—contrast 一点 after adjectives."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "声音轻，很有礼貌，大概三十多岁，有点紧张。",
-          "trans": "Soft-spoken, very polite, around thirty-something, and a bit nervous."
-        },
-        {
-          "text": "墙上也没镜子，地上没铺地毯有点空。",
-          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
-        }
-      ],
-      "related": [
-        {
-          "word": "只有",
-          "gloss": "only have"
-        },
-        {
-          "word": "所有",
-          "gloss": "all"
-        },
-        {
-          "word": "有力",
-          "gloss": "strong"
-        }
-      ]
-    },
-    "木头": {
-      "lemma": "木头",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "wood",
-      "meanings": [
-        {
-          "en": "wood; timber",
-          "note": "Pinyin: mù tou. Measure word (量词): 块 (kuài), e.g. 一块木头 ('a piece of wood')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "白纸包着什么？一个木头小火车！",
-          "trans": "What is wrapped in white paper? A little wooden train!"
-        },
-        {
-          "text": "怪不得这么重，全是木头和皮鞋！",
-          "trans": "No wonder it was so heavy—all wood and leather shoes!"
-        }
-      ],
-      "related": [
-        {
-          "word": "一块木头",
-          "gloss": "a piece of wood (measure word 块)"
-        },
-        {
-          "word": "木匠",
-          "gloss": "carpenter"
-        },
-        {
-          "word": "木桌",
-          "gloss": "wooden table"
+          "word": "发软",
+          "gloss": "go weak"
         }
       ]
     },
@@ -6866,269 +6960,126 @@
         }
       ]
     },
-    "桌子": {
-      "lemma": "桌子",
+    "块": {
+      "lemma": "块",
+      "stress": null,
+      "pos": "part",
+      "gloss": "measure word for pieces and yuan",
+      "meanings": [
+        {
+          "en": "measure word for pieces and yuan",
+          "note": "Pinyin: kuài. Counts chunks/pieces (一块蛋糕 'a piece of cake') and spoken yuan of money (五块钱 'five yuan')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "钱箱里拿五十块，记得要收据！",
+          "trans": "Here is fifty yuan from the cash box; remember to get a receipt!"
+        },
+        {
+          "text": "在这儿！一共三十八块，找回十二块零钱。",
+          "trans": "Right here! Thirty-eight yuan in total, with twelve yuan back in change."
+        }
+      ],
+      "related": []
+    },
+    "蓝": {
+      "lemma": "蓝",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "blue",
+      "meanings": [
+        {
+          "en": "blue",
+          "note": "Pinyin: lán. Describes blue suitcases, doors, or teacups."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "每个蓝杯子旁边放一张餐巾和一把小勺子。",
+          "trans": "Beside every blue cup, put one napkin and one small spoon."
+        },
+        {
+          "text": "储藏室里有两个软枕头和一块蓝地毯！",
+          "trans": "In the storeroom there are two soft pillows and a blue rug!"
+        }
+      ],
+      "related": [
+        {
+          "word": "蓝色",
+          "gloss": "blue (color)"
+        }
+      ]
+    },
+    "隔壁": {
+      "lemma": "隔壁",
       "stress": null,
       "pos": "noun",
-      "gloss": "table",
+      "gloss": "next door",
       "meanings": [
         {
-          "en": "table",
-          "note": "Pinyin: zhuō zi. Measure word (量词): 张 (zhāng), e.g. 一张桌子 ('a table')."
+          "en": "next door",
+          "note": "Pinyin: gé bì. Measure word (量词): 间 (jiān), e.g. 隔壁房间 ('the room next door')."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "周经理早！桌子很干净，钥匙也准备好了。",
-          "trans": "Morning, Manager Zhou! The desk is clean, and the keys are ready too."
+          "text": "隔壁的小洗手间呢？灯亮吗？",
+          "trans": "What about the small bathroom next door? Does the light work?"
         },
         {
-          "text": "老板，看一下桌子后面的镜子。",
-          "trans": "Boss, take a look in the mirror behind the desk."
+          "text": "听到了！好像是隔壁洗手间的热水管响了。",
+          "trans": "I heard it! It sounded like the hot-water pipe in the bathroom next door."
         }
       ],
       "related": [
         {
-          "word": "一张桌子",
-          "gloss": "a table (measure word 张)"
-        },
-        {
-          "word": "书桌",
-          "gloss": "desk"
-        },
-        {
-          "word": "木桌",
-          "gloss": "wooden table"
+          "word": "隔壁房间",
+          "gloss": "the room next door (measure word 间)"
         }
       ]
     },
-    "椅子": {
-      "lemma": "椅子",
+    "小": {
+      "lemma": "小",
       "stress": null,
-      "pos": "noun",
-      "gloss": "chair",
+      "pos": "adj",
+      "gloss": "small",
       "meanings": [
         {
-          "en": "chair",
-          "note": "Pinyin: yǐ zi. Measure word (量词): 把 (bǎ), e.g. 一把椅子 ('a chair')."
+          "en": "small; little; young",
+          "note": "Pinyin: xiǎo. Everyday adjective for small size; also prefixes younger colleagues' names warmly (小晴, 小美)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "四张桌子，八把椅子，全摆好了！",
-          "trans": "Four tables, eight chairs—everything is set in place!"
+          "text": "早上好，姑娘。我有一个宋名下的预订。",
+          "trans": "Good morning, young lady. I have a booking for Song."
         },
         {
-          "text": "当心那把角落椅子，等十秒我拧紧螺丝。",
-          "trans": "Mind that corner chair—wait ten seconds while I tighten the screw."
+          "text": "白纸包着什么？一个木头小火车！",
+          "trans": "What is wrapped in white paper? A little wooden train!"
         }
       ],
       "related": [
         {
-          "word": "一把椅子",
-          "gloss": "a chair (measure word 把)"
+          "word": "小心",
+          "gloss": "be careful"
         },
         {
-          "word": "折叠椅",
-          "gloss": "folding chair"
+          "word": "小时",
+          "gloss": "hour (duration)"
         },
         {
-          "word": "个子",
-          "gloss": "height"
-        }
-      ]
-    },
-    "楼下": {
-      "lemma": "楼下",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "downstairs",
-      "meanings": [
-        {
-          "en": "downstairs",
-          "note": "Pinyin: lóu xià. Measure word (量词): 层 (céng), e.g. 楼下大堂 ('the floor downstairs')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "快拿到楼下灯光下面看看吧！",
-          "trans": "Let's bring it downstairs under the light and take a look!"
-        },
-        {
-          "text": "楼下我的工具房里有一盏铜台灯。",
-          "trans": "Downstairs in my workshop there is a brass desk lamp."
-        }
-      ],
-      "related": [
-        {
-          "word": "楼下大堂",
-          "gloss": "the floor downstairs (measure word 层)"
-        },
-        {
-          "word": "上楼",
-          "gloss": "go upstairs"
-        },
-        {
-          "word": "下楼",
-          "gloss": "come/go downstairs"
-        }
-      ]
-    },
-    "正": {
-      "lemma": "正",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "right in the middle of",
-      "meanings": [
-        {
-          "en": "right in the middle of; squarely; right",
-          "note": "Pinyin: zhèng. Before a verb, marks an action in progress right now; before 对着, means 'directly/squarely'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "正合我心意。楼梯在哪儿？",
-          "trans": "Just what I wanted. Where are the stairs?"
-        },
-        {
-          "text": "等一下，咖啡厅的小美正朝我招手呢！",
-          "trans": "Wait a moment—Mei in the café is waving toward me right now!"
-        }
-      ],
-      "related": [
-        {
-          "word": "正在",
-          "gloss": "right in the middle of (doing)"
-        },
-        {
-          "word": "正好",
-          "gloss": "just right"
-        },
-        {
-          "word": "正常",
-          "gloss": "normal"
-        }
-      ]
-    },
-    "比": {
-      "lemma": "比",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "than",
-      "meanings": [
-        {
-          "en": "than; compared with",
-          "note": "Pinyin: bǐ. Forms comparisons in A 比 B + adj ('A is more adj than B')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "说实话，我比以前灰色办公室喜欢这儿多了。",
-          "trans": "Honestly, I like this place far better than my old grey office."
-        },
-        {
-          "text": "听听他说的！老陈比我们好奇两倍！",
-          "trans": "Listen to him! Chen is twice as curious as we are!"
-        }
-      ],
-      "related": [
-        {
-          "word": "比例",
-          "gloss": "proportion"
-        },
-        {
-          "word": "比对",
-          "gloss": "compare side by side"
-        },
-        {
-          "word": "比较",
-          "gloss": "fairly"
-        }
-      ]
-    },
-    "没": {
-      "lemma": "没",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "not (have / did not)",
-      "meanings": [
-        {
-          "en": "not (have / did not)",
-          "note": "Pinyin: méi. Short form of 没有; negates 有 and past/completed actions (没锁 'isn't locked / didn't lock')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "早上好。没锁，先把把手往上提，再推。",
-          "trans": "Good morning. Not locked; lift the handle up first, then push."
-        },
-        {
-          "text": "那里没人。那是四号房的门铃。",
-          "trans": "Nobody is there. That is the buzzer from room four."
-        }
-      ],
-      "related": [
-        {
-          "word": "没有",
-          "gloss": "not have"
-        },
-        {
-          "word": "没空",
-          "gloss": "have no free time"
-        },
-        {
-          "word": "没错",
-          "gloss": "that's right!"
-        }
-      ]
-    },
-    "没有": {
-      "lemma": "没有",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "not have",
-      "meanings": [
-        {
-          "en": "not have; there is not; did not",
-          "note": "Pinyin: méi yǒu. Negates 有 ('have / there is') and past actions."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "可惜没有电话号码，只有两个字母和老街名字。",
-          "trans": "Unfortunately there is no phone number, only two letters and an old street name."
-        },
-        {
-          "text": "还没有吗？请记下我们客栈的电话和地址，谢谢！",
-          "trans": "Not yet? Please write down our inn's phone number and address, thank you!"
-        }
-      ],
-      "related": [
-        {
-          "word": "没空",
-          "gloss": "have no free time"
-        },
-        {
-          "word": "没错",
-          "gloss": "that's right!"
-        },
-        {
-          "word": "没关系",
-          "gloss": "it doesn't matter"
+          "word": "小路",
+          "gloss": "lane"
         }
       ]
     },
@@ -7170,27 +7121,27 @@
         }
       ]
     },
-    "温馨": {
-      "lemma": "温馨",
+    "呢": {
+      "lemma": "呢",
       "stress": null,
-      "pos": "adj",
-      "gloss": "warm and welcoming",
+      "pos": "part",
+      "gloss": "follow-up question / ongoing-state particle",
       "meanings": [
         {
-          "en": "warm and welcoming; cozy",
-          "note": "Pinyin: wēn xīn. Favorite praise for a homey inn or café."
+          "en": "follow-up question / ongoing-state particle",
+          "note": "Pinyin: ne. After a noun, asks 'what about X?' (你呢？); at the end of a statement, highlights an ongoing situation."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "听屋顶上的雨声，这儿真温馨！",
-          "trans": "Listen to the rain on the roof—it feels so cosy up here!"
+          "text": "等一下，咖啡厅的小美正朝我招手呢！",
+          "trans": "Wait a moment—Mei in the café is waving toward me right now!"
         },
         {
-          "text": "暖黄色的台灯让整间客房显得格外温馨。",
-          "trans": "Warm yellow lamps make the whole guest room feel extra cozy."
+          "text": "来成都的第一个晚上，怎么能难过呢！",
+          "trans": "On your very first evening in Chengdu, how could you sit around sad!"
         }
       ],
       "related": []
@@ -7233,6 +7184,234 @@
         }
       ]
     },
+    "亮": {
+      "lemma": "亮",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "bright",
+      "meanings": [
+        {
+          "en": "bright; shining; light",
+          "note": "Pinyin: liàng. Describes bright light or a surface polished clean (擦亮 'polish bright')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "隔壁的小洗手间呢？灯亮吗？",
+          "trans": "What about the small bathroom next door? Does the light work?"
+        },
+        {
+          "text": "火苗亮了——稳稳的蓝火，正合适。",
+          "trans": "The flame is lit—steady blue fire, right as it should be."
+        }
+      ],
+      "related": [
+        {
+          "word": "天亮",
+          "gloss": "dawn breaks"
+        },
+        {
+          "word": "漂亮",
+          "gloss": "pretty"
+        }
+      ]
+    },
+    "吗": {
+      "lemma": "吗",
+      "stress": null,
+      "pos": "part",
+      "gloss": "yes/no question particle",
+      "meanings": [
+        {
+          "en": "yes/no question particle",
+          "note": "Pinyin: ma. Placed at the end of any statement to turn it into a neutral yes/no question."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "早上好！请问，门锁了吗？",
+          "trans": "Good morning! Excuse me, is the door locked?"
+        },
+        {
+          "text": "纸本子？真的吗？",
+          "trans": "A paper notebook? Really?"
+        }
+      ],
+      "related": []
+    },
+    "上周": {
+      "lemma": "上周",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "last week",
+      "meanings": [
+        {
+          "en": "last week",
+          "note": "Pinyin: shàng zhōu. Measure word (量词): 个 (gè), e.g. 上一周 ('the previous week')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "上周刚换了新灯泡，有干净肥皂和热水。",
+          "trans": "Put in a new bulb last week, with clean soap and plenty of hot water."
+        },
+        {
+          "text": "从那天起我们就再没说过话。上周我给他寄了一张明信片。",
+          "trans": "Since that day we have not spoken again. Last week I mailed him a postcard."
+        }
+      ],
+      "related": [
+        {
+          "word": "上一周",
+          "gloss": "the previous week (measure word 个)"
+        },
+        {
+          "word": "上去",
+          "gloss": "go up (away from speaker)"
+        },
+        {
+          "word": "上方",
+          "gloss": "area directly above"
+        }
+      ]
+    },
+    "刚": {
+      "lemma": "刚",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "just",
+      "meanings": [
+        {
+          "en": "just; just now",
+          "note": "Pinyin: gāng. Placed right before a verb to show the action happened moments ago."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "刚烤好的面包卷！趁热拿一个吧。",
+          "trans": "Freshly baked bread rolls! Take one while it is hot."
+        },
+        {
+          "text": "一到七号钥匙全拿走了，八号房刚刷了油漆。",
+          "trans": "Every key from one to seven is taken, and room eight just got fresh paint."
+        }
+      ],
+      "related": [
+        {
+          "word": "刚才",
+          "gloss": "just now"
+        }
+      ]
+    },
+    "换": {
+      "lemma": "换",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "change",
+      "meanings": [
+        {
+          "en": "change; swap; replace",
+          "note": "Pinyin: huàn. Used for swapping suitcases, changing rooms, or replacing broken parts."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "上周刚换了新灯泡，有干净肥皂和热水。",
+          "trans": "Put in a new bulb last week, with clean soap and plenty of hot water."
+        },
+        {
+          "text": "等等，换房间我们给他打多少折？",
+          "trans": "Wait—what discount do we offer him for changing rooms?"
+        }
+      ],
+      "related": []
+    },
+    "了": {
+      "lemma": "了",
+      "stress": null,
+      "pos": "part",
+      "gloss": "completed-action / new-state particle",
+      "meanings": [
+        {
+          "en": "completed-action / new-state particle",
+          "note": "Pinyin: le. After a verb, marks completion; at the end of a sentence, signals a change of situation."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "早上好！请问，门锁了吗？",
+          "trans": "Good morning! Excuse me, is the door locked?"
+        },
+        {
+          "text": "啊，开了！谢谢。我是小晴，新来的前台。",
+          "trans": "Oh, it opened! Thank you. I am Qing, the new receptionist."
+        }
+      ],
+      "related": [
+        {
+          "word": "为了",
+          "gloss": "in order to"
+        },
+        {
+          "word": "完了",
+          "gloss": "oh no!"
+        },
+        {
+          "word": "极了",
+          "gloss": "extremely"
+        }
+      ]
+    },
+    "新": {
+      "lemma": "新",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "new",
+      "meanings": [
+        {
+          "en": "new; fresh",
+          "note": "Pinyin: xīn. Everyday adjective for new people, items, or beginnings."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "啊，开了！谢谢。我是小晴，新来的前台。",
+          "trans": "Oh, it opened! Thank you. I am Qing, the new receptionist."
+        },
+        {
+          "text": "放心吧，周经理。房间干净，毛巾也是新的。",
+          "trans": "Relax, Manager Zhou. The room is clean, and the towels are fresh."
+        }
+      ],
+      "related": [
+        {
+          "word": "全新",
+          "gloss": "brand-new"
+        },
+        {
+          "word": "新手",
+          "gloss": "newcomer"
+        },
+        {
+          "word": "新鲜",
+          "gloss": "fresh"
+        }
+      ]
+    },
     "灯泡": {
       "lemma": "灯泡",
       "stress": null,
@@ -7271,41 +7450,71 @@
         }
       ]
     },
-    "点": {
-      "lemma": "点",
+    "干净": {
+      "lemma": "干净",
       "stress": null,
-      "pos": "part",
-      "gloss": "o'clock",
+      "pos": "adj",
+      "gloss": "clean",
       "meanings": [
         {
-          "en": "o'clock; a little; dot; order",
-          "note": "Pinyin: diǎn. Marks hours on the clock (八点 'eight o'clock') or 'a bit' (一点)."
+          "en": "clean; neat",
+          "note": "Pinyin: gān jìng. Note first tone gān ('dry/clean'), never fourth tone."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "给您四号钥匙。早餐从七点半到十点。",
-          "trans": "Here is key number four for you. Breakfast is from seven thirty to ten."
+          "text": "周经理早！桌子很干净，钥匙也准备好了。",
+          "trans": "Morning, Manager Zhou! The desk is clean, and the keys are ready too."
         },
         {
-          "text": "晚上九点？你站这儿，我们一起去开门。",
-          "trans": "Nine in the evening? Stay right here; let us go open the gate together."
+          "text": "放心吧，周经理。房间干净，毛巾也是新的。",
+          "trans": "Relax, Manager Zhou. The room is clean, and the towels are fresh."
         }
       ],
       "related": [
         {
-          "word": "一点",
-          "gloss": "a little"
+          "word": "干杯",
+          "gloss": "cheers!"
         },
         {
-          "word": "快点",
-          "gloss": "hurry up"
+          "word": "干燥",
+          "gloss": "dry"
         },
         {
-          "word": "有点",
-          "gloss": "a little"
+          "word": "干脆",
+          "gloss": "simply"
+        }
+      ]
+    },
+    "肥皂": {
+      "lemma": "肥皂",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "bar of soap",
+      "meanings": [
+        {
+          "en": "bar of soap",
+          "note": "Pinyin: féi zào. Measure word (量词): 块 (kuài), e.g. 一块肥皂 ('a bar of soap')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "上周刚换了新灯泡，有干净肥皂和热水。",
+          "trans": "Put in a new bulb last week, with clean soap and plenty of hot water."
+        },
+        {
+          "text": "洗手池旁边放着一块清香的白肥皂。",
+          "trans": "A bar of clean-scented white soap sits beside the washbasin."
+        }
+      ],
+      "related": [
+        {
+          "word": "一块肥皂",
+          "gloss": "a bar of soap (measure word 块)"
         }
       ]
     },
@@ -7347,306 +7556,6 @@
         }
       ]
     },
-    "的": {
-      "lemma": "的",
-      "stress": null,
-      "pos": "part",
-      "gloss": "possessive / descriptive particle",
-      "meanings": [
-        {
-          "en": "possessive / descriptive particle",
-          "note": "Pinyin: de. Links modifiers or owners to nouns (我的书 'my book', 安静的院子 'quiet courtyard')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "啊，开了！谢谢。我是小晴，新来的前台。",
-          "trans": "Oh, it opened! Thank you. I am Qing, the new receptionist."
-        },
-        {
-          "text": "纸本子？真的吗？",
-          "trans": "A paper notebook? Really?"
-        }
-      ],
-      "related": []
-    },
-    "盏": {
-      "lemma": "盏",
-      "stress": null,
-      "pos": "part",
-      "gloss": "measure word for lamps and lanterns",
-      "meanings": [
-        {
-          "en": "measure word for lamps and lanterns",
-          "note": "Pinyin: zhǎn. Counts lamps and lanterns (一盏台灯 'a desk lamp', 一盏灯笼 'a lantern')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "楼下我的工具房里有一盏铜台灯。",
-          "trans": "Downstairs in my workshop there is a brass desk lamp."
-        },
-        {
-          "text": "门口挂着两盏红灯笼。",
-          "trans": "Two red lanterns hang by the entrance."
-        }
-      ],
-      "related": []
-    },
-    "看": {
-      "lemma": "看",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "look",
-      "meanings": [
-        {
-          "en": "look; see; read; watch",
-          "note": "Pinyin: kàn. Covers looking at something, reading silently, or visiting someone; add 见/到 for 'catch sight of'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "我要看预订本子，可是找不到我的眼镜了！",
-          "trans": "I need to read the booking ledger, yet I cannot find my glasses!"
-        },
-        {
-          "text": "老板，看一下桌子后面的镜子。",
-          "trans": "Boss, take a look in the mirror behind the desk."
-        }
-      ],
-      "related": [
-        {
-          "word": "好看",
-          "gloss": "good-looking"
-        },
-        {
-          "word": "看看",
-          "gloss": "take a look"
-        },
-        {
-          "word": "看管",
-          "gloss": "look after"
-        }
-      ]
-    },
-    "真": {
-      "lemma": "真",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "really",
-      "meanings": [
-        {
-          "en": "really; truly; real",
-          "note": "Pinyin: zhēn. Exclamatory adverb before adjectives (真好！ 'How nice!') or adjective 'genuine'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "纸本子？真的吗？",
-          "trans": "A paper notebook? Really?"
-        },
-        {
-          "text": "真奇怪！我们坐同一班早火车到同一个区。",
-          "trans": "How strange! We rode the very same morning train to the same district."
-        }
-      ],
-      "related": [
-        {
-          "word": "真名",
-          "gloss": "real name"
-        },
-        {
-          "word": "真正",
-          "gloss": "true"
-        },
-        {
-          "word": "真诚",
-          "gloss": "sincere"
-        }
-      ]
-    },
-    "着": {
-      "lemma": "着",
-      "stress": null,
-      "pos": "part",
-      "gloss": "continuous-state aspect particle",
-      "meanings": [
-        {
-          "en": "continuous-state aspect particle",
-          "note": "Pinyin: zhe. Placed right after a verb to show a state or posture continues (门开着 'the door stands open')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "就算四号房空着，旧电线也会响两下。",
-          "trans": "Even when room four is empty, the old wire still rings twice."
-        },
-        {
-          "text": "白纸包着什么？一个木头小火车！",
-          "trans": "What is wrapped in white paper? A little wooden train!"
-        }
-      ],
-      "related": [
-        {
-          "word": "着急",
-          "gloss": "anxious"
-        }
-      ]
-    },
-    "碰": {
-      "lemma": "碰",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "bump",
-      "meanings": [
-        {
-          "en": "bump; touch; run into",
-          "note": "Pinyin: pèng. Used for touching objects or running into someone (碰到 'bump into')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "拐弯小心点，别碰到墙！",
-          "trans": "Careful on the turn—do not bump the wall!"
-        },
-        {
-          "text": "我在街口正好碰到了老邻居。",
-          "trans": "I happened to run into an old neighbor at the corner."
-        }
-      ],
-      "related": [
-        {
-          "word": "碰头",
-          "gloss": "meet up"
-        }
-      ]
-    },
-    "空": {
-      "lemma": "空",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "empty",
-      "meanings": [
-        {
-          "en": "empty; vacant; bare",
-          "note": "Pinyin: kōng. Describes an unoccupied room or bare floor."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "就算四号房空着，旧电线也会响两下。",
-          "trans": "Even when room four is empty, the old wire still rings twice."
-        },
-        {
-          "text": "老陈……小晴……快告诉我今晚六号房空着。",
-          "trans": "Chen... Qing... please tell me room six is free tonight."
-        }
-      ],
-      "related": [
-        {
-          "word": "夜空",
-          "gloss": "night sky"
-        },
-        {
-          "word": "没空",
-          "gloss": "have no free time"
-        },
-        {
-          "word": "清空",
-          "gloss": "empty out"
-        }
-      ]
-    },
-    "窗户": {
-      "lemma": "窗户",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "window",
-      "meanings": [
-        {
-          "en": "window",
-          "note": "Pinyin: chuāng hu. Measure word (量词): 扇 (shàn), e.g. 一扇窗户 ('a window')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "太好了。窗户朝街上还是朝院子？",
-          "trans": "Wonderful. Does the window face the street or the courtyard?"
-        },
-        {
-          "text": "哇，看这间房！大木头房梁，窗户正对着院子！",
-          "trans": "Wow, look at this room! Big wooden beams, and a window facing the courtyard!"
-        }
-      ],
-      "related": [
-        {
-          "word": "一扇窗户",
-          "gloss": "a window (measure word 扇)"
-        },
-        {
-          "word": "木窗",
-          "gloss": "wooden window / shutter"
-        },
-        {
-          "word": "窗外",
-          "gloss": "outside the window"
-        }
-      ]
-    },
-    "纸箱": {
-      "lemma": "纸箱",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "cardboard box",
-      "meanings": [
-        {
-          "en": "cardboard box; carton",
-          "note": "Pinyin: zhǐ xiāng. Measure word (量词): 个 (gè), e.g. 一个纸箱 ('a cardboard box')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "只有三个小纸箱！最多四个！",
-          "trans": "Only three small cardboard boxes! Four at most!"
-        },
-        {
-          "text": "四个纸箱五分钟就能搬走。现在就上去看！",
-          "trans": "We can move four boxes in five minutes. Let's go up and look right now!"
-        }
-      ],
-      "related": [
-        {
-          "word": "一个纸箱",
-          "gloss": "a cardboard box (measure word 个)"
-        },
-        {
-          "word": "图纸",
-          "gloss": "blueprint"
-        },
-        {
-          "word": "折纸",
-          "gloss": "folded paper"
-        }
-      ]
-    },
     "给": {
       "lemma": "给",
       "stress": null,
@@ -7672,40 +7581,49 @@
       ],
       "related": []
     },
-    "缺": {
-      "lemma": "缺",
+    "我们": {
+      "lemma": "我们",
       "stress": null,
-      "pos": "verb",
-      "gloss": "lack",
+      "pos": "pron",
+      "gloss": "we",
       "meanings": [
         {
-          "en": "lack; be short of; be missing",
-          "note": "Pinyin: quē. Describes what is still missing from a room or recipe (还缺什么 'what is still missing')."
+          "en": "we; us",
+          "note": "Pinyin: wǒ men. First-person plural pronoun; add 的 for 'our' (我们的)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "干燥、暖和、安静。快说还缺什么。",
-          "trans": "Dry, warm, and quiet. Tell me quickly what is still missing."
+          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
+          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
         },
         {
-          "text": "做柠檬蛋糕还缺两个鸡蛋。",
-          "trans": "We are still two eggs short for making the lemon cake."
+          "text": "谢谢！我们平时都直接叫名字吗？",
+          "trans": "Thank you! Do we usually just call each other by name here?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "他们",
+          "gloss": "they"
+        },
+        {
+          "word": "你们",
+          "gloss": "you (plural)"
+        }
+      ]
     },
-    "老陈": {
-      "lemma": "老陈",
+    "十": {
+      "lemma": "十",
       "stress": null,
-      "pos": "name",
-      "gloss": "Chen (Lao Chen, veteran handyman)",
+      "pos": "num",
+      "gloss": "ten",
       "meanings": [
         {
-          "en": "Chen (Lao Chen, veteran handyman)",
-          "note": "Pinyin: lǎo chén. Affectionate respectful name for Courtyard Inn's handyman."
+          "en": "ten",
+          "note": "Pinyin: shí. Cardinal number 10; building block for 11–99."
         }
       ],
       "forms": null,
@@ -7716,555 +7634,85 @@
           "trans": "I'm called Chen. You arrived ten minutes early."
         },
         {
-          "text": "谢谢老陈。里面的木头小火车看着很珍贵。",
-          "trans": "Thank you, Chen. The little wooden train inside looked very precious."
-        }
-      ],
-      "related": [
-        {
-          "word": "老人",
-          "gloss": "elderly person"
-        },
-        {
-          "word": "老师",
-          "gloss": "teacher"
-        },
-        {
-          "word": "老弟",
-          "gloss": "younger brother (affectionate)"
-        }
-      ]
-    },
-    "肥皂": {
-      "lemma": "肥皂",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "bar of soap",
-      "meanings": [
-        {
-          "en": "bar of soap",
-          "note": "Pinyin: féi zào. Measure word (量词): 块 (kuài), e.g. 一块肥皂 ('a bar of soap')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "上周刚换了新灯泡，有干净肥皂和热水。",
-          "trans": "Put in a new bulb last week, with clean soap and plenty of hot water."
-        },
-        {
-          "text": "洗手池旁边放着一块清香的白肥皂。",
-          "trans": "A bar of clean-scented white soap sits beside the washbasin."
-        }
-      ],
-      "related": [
-        {
-          "word": "一块肥皂",
-          "gloss": "a bar of soap (measure word 块)"
-        }
-      ]
-    },
-    "蓝": {
-      "lemma": "蓝",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "blue",
-      "meanings": [
-        {
-          "en": "blue",
-          "note": "Pinyin: lán. Describes blue suitcases, doors, or teacups."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "每个蓝杯子旁边放一张餐巾和一把小勺子。",
-          "trans": "Beside every blue cup, put one napkin and one small spoon."
-        },
-        {
-          "text": "储藏室里有两个软枕头和一块蓝地毯！",
-          "trans": "In the storeroom there are two soft pillows and a blue rug!"
-        }
-      ],
-      "related": [
-        {
-          "word": "蓝色",
-          "gloss": "blue (color)"
-        }
-      ]
-    },
-    "见": {
-      "lemma": "见",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "see",
-      "meanings": [
-        {
-          "en": "see; meet",
-          "note": "Pinyin: jiàn. Appears in farewells (再见, 明天见) and as result complement of perception (看见, 听见)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "晚安，小晴。明天早餐见。",
-          "trans": "Good night, Qing. See you at breakfast tomorrow."
-        },
-        {
-          "text": "老陈，听得见吗？我刚经过绿药店！",
-          "trans": "Chen, can you hear me? I just passed the green pharmacy!"
-        }
-      ],
-      "related": [
-        {
-          "word": "再见",
-          "gloss": "goodbye"
-        },
-        {
-          "word": "听见",
-          "gloss": "hear"
-        },
-        {
-          "word": "看见",
-          "gloss": "see"
-        }
-      ]
-    },
-    "说": {
-      "lemma": "说",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "say",
-      "meanings": [
-        {
-          "en": "say; speak",
-          "note": "Pinyin: shuō. Most common verb of speaking."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "谁也别说出去！门铃响的时候要微笑。",
-          "trans": "Do not tell anyone! Smile warmly when the bell rings."
-        },
-        {
-          "text": "我还没喝早咖啡呢，千万别说急事！",
-          "trans": "I have not had my morning coffee yet; please do not say emergency!"
-        }
-      ],
-      "related": [
-        {
-          "word": "听说",
-          "gloss": "hear (it said) that"
-        },
-        {
-          "word": "说话",
-          "gloss": "speak"
-        },
-        {
-          "word": "实话实说",
-          "gloss": "to tell the plain truth"
-        }
-      ]
-    },
-    "起": {
-      "lemma": "起",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "rise",
-      "meanings": [
-        {
-          "en": "rise; get up; upward",
-          "note": "Pinyin: qǐ. Used for rising or lifting upward (抱起 'pick up in arms')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "老陈，抱起那些纸箱，我们下楼吧！",
-          "trans": "Chen, pick up those cardboard boxes—down the stairs we go!"
-        },
-        {
-          "text": "从那个星期天起我们再也没说话。上周我给他寄了一张明信片。",
-          "trans": "Since that Sunday we have not spoken again. Last week I mailed him a postcard."
-        }
-      ],
-      "related": [
-        {
-          "word": "一起",
-          "gloss": "together"
-        },
-        {
-          "word": "起来",
-          "gloss": "get up"
-        },
-        {
-          "word": "对不起",
-          "gloss": "I'm sorry"
-        }
-      ]
-    },
-    "软": {
-      "lemma": "软",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "soft",
-      "meanings": [
-        {
-          "en": "soft",
-          "note": "Pinyin: ruǎn. Describes soft bread, cushions, or softened cardboard."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "您看，这件软羊毛开衫是全新的，试试吧。",
-          "trans": "Look, this soft wool cardigan is brand-new; try it on."
-        },
-        {
-          "text": "储藏室里有两个软枕头和一块蓝地毯！",
-          "trans": "In the storeroom there are two soft pillows and a blue rug!"
-        }
-      ],
-      "related": [
-        {
-          "word": "发软",
-          "gloss": "go weak"
-        }
-      ]
-    },
-    "还": {
-      "lemma": "还",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "still",
-      "meanings": [
-        {
-          "en": "still; yet; also; even",
-          "note": "Pinyin: hái. Everyday adverb meaning 'still' (还在), 'not yet' (还没), or 'even more' after 比."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "还没有吗？请记下我们客栈的电话和地址，谢谢！",
-          "trans": "Not yet? Please write down our inn's phone number and address, thank you!"
-        },
-        {
-          "text": "宋老师，真对不起，那边还没有消息。",
-          "trans": "Teacher Song, I am truly sorry; they have no news over there yet."
-        }
-      ],
-      "related": [
-        {
-          "word": "交还",
-          "gloss": "hand back"
-        },
-        {
-          "word": "还好",
-          "gloss": "luckily"
-        },
-        {
-          "word": "还是",
-          "gloss": "or (in questions)"
-        }
-      ]
-    },
-    "这": {
-      "lemma": "这",
-      "stress": null,
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "Pinyin: zhè. Proximal demonstrative; pairs with a measure word before nouns (这个 'this one', 这间房 'this room')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
-          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
-        },
-        {
-          "text": "小美跟这条街上所有人说话都像老朋友。",
-          "trans": "Mei talks to everyone on this street like old friends."
-        }
-      ],
-      "related": [
-        {
-          "word": "这么",
-          "gloss": "so"
-        },
-        {
-          "word": "这些",
-          "gloss": "these"
-        },
-        {
-          "word": "这儿",
-          "gloss": "here"
-        }
-      ]
-    },
-    "这儿": {
-      "lemma": "这儿",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "here",
-      "meanings": [
-        {
-          "en": "here",
-          "note": "Pinyin: zhèr. Spoken variant of 这里 ('here')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
-          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
-        },
-        {
-          "text": "没错！你已经很习惯这儿了。",
-          "trans": "Exactly! You already fit right in here."
-        }
-      ],
-      "related": [
-        {
-          "word": "这么",
-          "gloss": "so"
-        },
-        {
-          "word": "这些",
-          "gloss": "these"
-        },
-        {
-          "word": "这里",
-          "gloss": "here"
-        }
-      ]
-    },
-    "那些": {
-      "lemma": "那些",
-      "stress": null,
-      "pos": "det",
-      "gloss": "those",
-      "meanings": [
-        {
-          "en": "those",
-          "note": "Pinyin: nà xiē. Plural of 那个 ('those')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "老陈，抱起那些纸箱，我们下楼吧！",
-          "trans": "Chen, pick up those cardboard boxes—down the stairs we go!"
-        },
-        {
-          "text": "抬头看夜空下那些金色灯笼——真宁静啊！",
-          "trans": "Look up at those golden lanterns against the night sky—how peaceful!"
-        }
-      ],
-      "related": [
-        {
-          "word": "那儿",
-          "gloss": "there"
-        },
-        {
-          "word": "那边",
-          "gloss": "over there"
-        },
-        {
-          "word": "那里",
-          "gloss": "there"
-        }
-      ]
-    },
-    "里": {
-      "lemma": "里",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "inside",
-      "meanings": [
-        {
-          "en": "inside; interior",
-          "note": "Pinyin: lǐ. Measure word (量词): 个 (gè), e.g. 里面 ('the inside')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "在抽屉里。我们这儿用这个大纸本子和铅笔。",
-          "trans": "In the drawer. Here we use this big paper ledger and a pencil."
-        },
-        {
-          "text": "在您的外套口袋里吗？",
-          "trans": "Are they in your coat pocket?"
-        }
-      ],
-      "related": [
-        {
-          "word": "里面",
-          "gloss": "the inside (measure word 个)"
-        },
-        {
-          "word": "哪里",
-          "gloss": "where"
-        },
-        {
-          "word": "城里",
-          "gloss": "in town"
-        }
-      ]
-    },
-    "铜": {
-      "lemma": "铜",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "brass",
-      "meanings": [
-        {
-          "en": "brass; copper; bronze",
-          "note": "Pinyin: tóng. Measure word (量词): 块 (kuài), e.g. 一块铜 ('a piece of brass')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "对，八间客房，八把铜钥匙。四号房今天到。",
-          "trans": "Right, eight guest rooms, eight brass keys. Room four arrives today."
-        },
-        {
-          "text": "楼下我的工具房里有一盏铜台灯。",
-          "trans": "Downstairs in my workshop there is a brass desk lamp."
-        }
-      ],
-      "related": [
-        {
-          "word": "一块铜",
-          "gloss": "a piece of brass (measure word 块)"
-        },
-        {
-          "word": "铜圈",
-          "gloss": "brass ring"
-        },
-        {
-          "word": "铜牌",
-          "gloss": "brass plaque"
-        }
-      ]
-    },
-    "铺": {
-      "lemma": "铺",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "spread",
-      "meanings": [
-        {
-          "en": "spread; lay; make (a bed)",
-          "note": "Pinyin: pū. Read first tone pū when spreading a rug, tablecloth, or bedsheet (铺地毯)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "墙上也没镜子，地上没铺地毯有点空。",
-          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
-        },
-        {
-          "text": "她在木桌上铺了一块白桌布。",
-          "trans": "She spread a white tablecloth over the wooden table."
+          "text": "给您四号钥匙。早餐从七点半到十点。",
+          "trans": "Here is key number four for you. Breakfast is from seven thirty to ten."
         }
       ],
       "related": []
     },
-    "镜子": {
-      "lemma": "镜子",
+    "五": {
+      "lemma": "五",
       "stress": null,
-      "pos": "noun",
-      "gloss": "mirror",
+      "pos": "num",
+      "gloss": "five",
       "meanings": [
         {
-          "en": "mirror",
-          "note": "Pinyin: jìng zi. Measure word (量词): 面 (miàn), e.g. 一面镜子 ('a mirror')."
+          "en": "five",
+          "note": "Pinyin: wǔ. Cardinal number 5."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "老板，看一下桌子后面的镜子。",
-          "trans": "Boss, take a look in the mirror behind the desk."
+          "text": "等等，这条街就在附近，走过去只要五分钟！",
+          "trans": "Wait—that street is right nearby, only five minutes on foot!"
         },
         {
-          "text": "墙上也没镜子，地上没铺地毯有点空。",
-          "trans": "No mirror on the wall either, and the floor feels bare without a rug."
+          "text": "二十五年前我在附近教钢琴，不过记忆淡了。",
+          "trans": "Twenty-five years ago I taught piano nearby, though memories fade."
         }
       ],
       "related": [
         {
-          "word": "一面镜子",
-          "gloss": "a mirror (measure word 面)"
+          "word": "五星级",
+          "gloss": "five-star (hotel standard)"
         },
         {
-          "word": "眼镜",
-          "gloss": "eyeglasses"
+          "word": "五金店",
+          "gloss": "hardware store"
         },
         {
-          "word": "个子",
-          "gloss": "height"
+          "word": "星期五",
+          "gloss": "Friday"
         }
       ]
     },
-    "间": {
-      "lemma": "间",
+    "分钟": {
+      "lemma": "分钟",
       "stress": null,
-      "pos": "part",
-      "gloss": "measure word for rooms",
+      "pos": "noun",
+      "gloss": "minute (duration)",
       "meanings": [
         {
-          "en": "measure word for rooms",
-          "note": "Pinyin: jiān. Counts rooms of all kinds: bedrooms, guest rooms, studies, kitchens (一间客房 'a guest room')."
+          "en": "minute (duration)",
+          "note": "Pinyin: fēn zhōng. Measure word (量词): 个 (gè), e.g. 五分钟 ('five minutes')."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "对，八间客房，八把铜钥匙。四号房今天到。",
-          "trans": "Right, eight guest rooms, eight brass keys. Room four arrives today."
+          "text": "我叫老陈。你早到了十分钟。",
+          "trans": "I'm called Chen. You arrived ten minutes early."
         },
         {
-          "text": "那间向阳的旧阁楼书房……快跟我来！",
-          "trans": "That sunny old attic study... follow me, quickly!"
+          "text": "等等，这条街就在附近，走过去只要五分钟！",
+          "trans": "Wait—that street is right nearby, only five minutes on foot!"
         }
       ],
       "related": [
         {
-          "word": "中间",
-          "gloss": "middle"
+          "word": "五分钟",
+          "gloss": "five minutes (measure word 个)"
         },
         {
-          "word": "房间",
-          "gloss": "room"
+          "word": "分贝",
+          "gloss": "decibel (dB)"
         },
         {
-          "word": "早间",
-          "gloss": "morning (schedule/service)"
+          "word": "满分",
+          "gloss": "full marks"
         }
       ]
     },
@@ -8306,109 +7754,661 @@
         }
       ]
     },
-    "院子": {
-      "lemma": "院子",
+    "比": {
+      "lemma": "比",
       "stress": null,
-      "pos": "noun",
-      "gloss": "courtyard",
+      "pos": "prep",
+      "gloss": "than",
       "meanings": [
         {
-          "en": "courtyard; yard",
-          "note": "Pinyin: yuàn zi. Measure word (量词): 个 (gè), e.g. 一个院子 ('a courtyard')."
+          "en": "than; compared with",
+          "note": "Pinyin: bǐ. Forms comparisons in A 比 B + adj ('A is more adj than B')."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "太好了。窗户朝街上还是朝院子？",
-          "trans": "Wonderful. Does the window face the street or the courtyard?"
+          "text": "说实话，我比以前灰色办公室喜欢这儿多了。",
+          "trans": "Honestly, I like this place far better than my old grey office."
         },
         {
-          "text": "朝院子，就在老树上面，非常安静。",
-          "trans": "Toward the courtyard, right above the old tree; it is very quiet."
+          "text": "听听他说的！老陈比我们好奇两倍！",
+          "trans": "Listen to him! Chen is twice as curious as we are!"
         }
       ],
       "related": [
         {
-          "word": "一个院子",
-          "gloss": "a courtyard (measure word 个)"
+          "word": "比例",
+          "gloss": "proportion"
+        },
+        {
+          "word": "比对",
+          "gloss": "compare side by side"
+        },
+        {
+          "word": "比较",
+          "gloss": "fairly"
+        }
+      ]
+    },
+    "七": {
+      "lemma": "七",
+      "stress": null,
+      "pos": "num",
+      "gloss": "seven",
+      "meanings": [
+        {
+          "en": "seven",
+          "note": "Pinyin: qī. Cardinal number 7; combines with 月 for July and 点 for seven o'clock."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "给您四号钥匙。早餐从七点半到十点。",
+          "trans": "Here is key number four for you. Breakfast is from seven thirty to ten."
+        },
+        {
+          "text": "七点半有八位饿肚子的客人下楼啊！",
+          "trans": "At seven thirty, eight hungry guests are coming downstairs!"
+        }
+      ],
+      "related": []
+    },
+    "号": {
+      "lemma": "号",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "number",
+      "meanings": [
+        {
+          "en": "number; date of month",
+          "note": "Pinyin: hào. Measure word (量词): 个 (gè), e.g. 一个号码 ('a number')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "对，八间客房，八把铜钥匙。四号房的客人今天到。",
+          "trans": "Yes, eight rooms, eight brass keys. Room four's guest arrives today."
+        },
+        {
+          "text": "那里没人。那是四号房的门铃。",
+          "trans": "Nobody is there. That is the buzzer from room four."
+        }
+      ],
+      "related": [
+        {
+          "word": "一个号码",
+          "gloss": "a number (measure word 个)"
+        },
+        {
+          "word": "号码",
+          "gloss": "number (phone, room, code)"
+        },
+        {
+          "word": "挂号信",
+          "gloss": "registered letter"
+        }
+      ]
+    },
+    "老陈": {
+      "lemma": "老陈",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Chen (Lao Chen, veteran handyman)",
+      "meanings": [
+        {
+          "en": "Chen (Lao Chen, veteran handyman)",
+          "note": "Pinyin: lǎo chén. Affectionate respectful name for Courtyard Inn's handyman."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "我叫老陈。你早到了十分钟。",
+          "trans": "I'm called Chen. You arrived ten minutes early."
+        },
+        {
+          "text": "谢谢老陈。里面的木头小火车看着很珍贵。",
+          "trans": "Thank you, Chen. The little wooden train inside looked very precious."
+        }
+      ],
+      "related": [
+        {
+          "word": "老人",
+          "gloss": "elderly person"
+        },
+        {
+          "word": "老师",
+          "gloss": "teacher"
+        },
+        {
+          "word": "老弟",
+          "gloss": "younger brother (affectionate)"
+        }
+      ]
+    },
+    "抱": {
+      "lemma": "抱",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "hold in one's arms",
+      "meanings": [
+        {
+          "en": "hold in one's arms; hug",
+          "note": "Pinyin: bào. Used for carrying a box, cushion, or child in both arms."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "老陈，抱起那些纸箱，我们下楼吧！",
+          "trans": "Chen, pick up those cardboard boxes—down the stairs we go!"
+        },
+        {
+          "text": "那抱着木头小火车的弟弟呢？",
+          "trans": "And what about the younger brother holding the wooden train?"
+        }
+      ],
+      "related": []
+    },
+    "起": {
+      "lemma": "起",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "rise",
+      "meanings": [
+        {
+          "en": "rise; get up; upward",
+          "note": "Pinyin: qǐ. Used for rising or lifting upward (抱起 'pick up in arms')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "老陈，抱起那些纸箱，我们下楼吧！",
+          "trans": "Chen, pick up those cardboard boxes—down the stairs we go!"
+        },
+        {
+          "text": "从那天起我们就再没说过话。上周我给他寄了一张明信片。",
+          "trans": "Since that day we have not spoken again. Last week I mailed him a postcard."
+        }
+      ],
+      "related": [
+        {
+          "word": "一起",
+          "gloss": "together"
+        },
+        {
+          "word": "起来",
+          "gloss": "get up"
+        },
+        {
+          "word": "对不起",
+          "gloss": "I'm sorry"
+        }
+      ]
+    },
+    "那些": {
+      "lemma": "那些",
+      "stress": null,
+      "pos": "det",
+      "gloss": "those",
+      "meanings": [
+        {
+          "en": "those",
+          "note": "Pinyin: nà xiē. Plural of 那个 ('those')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "老陈，抱起那些纸箱，我们下楼吧！",
+          "trans": "Chen, pick up those cardboard boxes—down the stairs we go!"
+        },
+        {
+          "text": "抬头看夜空下那些金色灯笼——真宁静啊！",
+          "trans": "Look up at those golden lanterns against the night sky—how peaceful!"
+        }
+      ],
+      "related": [
+        {
+          "word": "那儿",
+          "gloss": "there"
+        },
+        {
+          "word": "那边",
+          "gloss": "over there"
+        },
+        {
+          "word": "那里",
+          "gloss": "there"
+        }
+      ]
+    },
+    "纸箱": {
+      "lemma": "纸箱",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "cardboard box",
+      "meanings": [
+        {
+          "en": "cardboard box; carton",
+          "note": "Pinyin: zhǐ xiāng. Measure word (量词): 个 (gè), e.g. 一个纸箱 ('a cardboard box')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "只有三个小纸箱！最多四个！",
+          "trans": "Only three small cardboard boxes! Four at most!"
+        },
+        {
+          "text": "四个纸箱五分钟就能搬走。现在就上去看！",
+          "trans": "We can move four boxes in five minutes. Let's go up and look right now!"
+        }
+      ],
+      "related": [
+        {
+          "word": "一个纸箱",
+          "gloss": "a cardboard box (measure word 个)"
+        },
+        {
+          "word": "图纸",
+          "gloss": "blueprint"
+        },
+        {
+          "word": "折纸",
+          "gloss": "folded paper"
+        }
+      ]
+    },
+    "下楼": {
+      "lemma": "下楼",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "come/go downstairs",
+      "meanings": [
+        {
+          "en": "come/go downstairs",
+          "note": "Pinyin: xià lóu. Verb-object compound for heading down to a lower floor."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "七点半有八位饿肚子的客人下楼啊！",
+          "trans": "At seven thirty, eight hungry guests are coming downstairs!"
+        },
+        {
+          "text": "我手表七点二十九分。客人下楼了。",
+          "trans": "Seven twenty-nine on my watch. Guests are coming down the stairs."
+        }
+      ],
+      "related": [
+        {
+          "word": "一下",
+          "gloss": "a bit"
+        },
+        {
+          "word": "下午",
+          "gloss": "afternoon"
+        },
+        {
+          "word": "下周",
+          "gloss": "next week"
+        }
+      ]
+    },
+    "吧": {
+      "lemma": "吧",
+      "stress": null,
+      "pos": "part",
+      "gloss": "suggestion / soft-assumption particle",
+      "meanings": [
+        {
+          "en": "suggestion / soft-assumption particle",
+          "note": "Pinyin: ba. At the end of a sentence, softens commands into friendly suggestions ('let's…') or asks for confirmation."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "你好！你就是小晴吧？我是厨房的小美。",
+          "trans": "Hello! You must be Qing, right? I am Mei from the kitchen."
+        },
+        {
+          "text": "刚烤好的面包卷！趁热拿一个吧。",
+          "trans": "Freshly baked bread rolls! Take one while it is hot."
+        }
+      ],
+      "related": []
+    },
+    "拐弯": {
+      "lemma": "拐弯",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "turn a corner",
+      "meanings": [
+        {
+          "en": "turn a corner",
+          "note": "Pinyin: guǎi wān. Separable verb-object compound for street directions."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "拐弯小心点，别碰到墙！",
+          "trans": "Careful on the turn—do not bump the wall!"
+        },
+        {
+          "text": "走到前面那棵大树再往左拐弯。",
+          "trans": "Walk up to that big tree ahead and turn left."
+        }
+      ],
+      "related": []
+    },
+    "小心": {
+      "lemma": "小心",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "be careful",
+      "meanings": [
+        {
+          "en": "be careful; watch out",
+          "note": "Pinyin: xiǎo xīn. Literally 'small heart'—pay close attention."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "小心，周经理，壶嘴很宽！",
+          "trans": "Careful, Manager Zhou, the pitcher spout is wide!"
+        },
+        {
+          "text": "拐弯小心点，别碰到墙！",
+          "trans": "Careful on the turn—do not bump the wall!"
+        }
+      ],
+      "related": [
+        {
+          "word": "小时",
+          "gloss": "hour (duration)"
+        },
+        {
+          "word": "小路",
+          "gloss": "lane"
         },
         {
           "word": "小院",
           "gloss": "small courtyard"
-        },
-        {
-          "word": "院门",
-          "gloss": "courtyard gate"
         }
       ]
     },
-    "隔壁": {
-      "lemma": "隔壁",
+    "点": {
+      "lemma": "点",
       "stress": null,
-      "pos": "noun",
-      "gloss": "next door",
+      "pos": "part",
+      "gloss": "o'clock",
       "meanings": [
         {
-          "en": "next door",
-          "note": "Pinyin: gé bì. Measure word (量词): 间 (jiān), e.g. 隔壁房间 ('the room next door')."
+          "en": "o'clock; a little; dot; order",
+          "note": "Pinyin: diǎn. Marks hours on the clock (八点 'eight o'clock') or 'a bit' (一点)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "隔壁的小洗手间呢？灯亮吗？",
-          "trans": "What about the small bathroom next door? Does the light work?"
+          "text": "给您四号钥匙。早餐从七点半到十点。",
+          "trans": "Here is key number four for you. Breakfast is from seven thirty to ten."
         },
         {
-          "text": "听到了！好像是隔壁洗手间的热水管响了。",
-          "trans": "I heard it! It sounded like the hot-water pipe in the bathroom next door."
+          "text": "晚上九点？等等，我们一起去开大门。",
+          "trans": "At nine o'clock? Wait, let us open the gate together."
         }
       ],
       "related": [
         {
-          "word": "隔壁房间",
-          "gloss": "the room next door (measure word 间)"
+          "word": "一点",
+          "gloss": "a little"
+        },
+        {
+          "word": "快点",
+          "gloss": "hurry up"
+        },
+        {
+          "word": "有点",
+          "gloss": "a little"
         }
       ]
     },
-    "雨声": {
-      "lemma": "雨声",
+    "别": {
+      "lemma": "别",
       "stress": null,
-      "pos": "noun",
-      "gloss": "sound of rain",
+      "pos": "adv",
+      "gloss": "don't",
       "meanings": [
         {
-          "en": "sound of rain",
-          "note": "Pinyin: yǔ shēng. Measure word (量词): 阵, e.g. 一阵雨声 ('the sound of rain')."
+          "en": "don't; pin/fasten",
+          "note": "Pinyin: bié. Most commonly means 'do not' in polite commands (别担心 'don't worry'); as a verb, 'pin/clip on'."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "听屋顶上的雨声，这儿真温馨！",
-          "trans": "Listen to the rain on the roof—it feels so cosy up here!"
+          "text": "谁也别说出去！门铃响的时候要微笑。",
+          "trans": "Do not tell anyone! Smile warmly when the bell rings."
         },
         {
-          "text": "只有院子里的老树和雨声。",
-          "trans": "Only the old tree in the courtyard and the sound of rain."
+          "text": "您先坐下，别着急，我们马上看行李牌。",
+          "trans": "Please sit down first and do not worry; we will check the luggage tag right away."
         }
       ],
       "related": [
         {
-          "word": "一阵雨声",
-          "gloss": "the sound of rain (measure word 阵)"
+          "word": "别人",
+          "gloss": "other people"
         },
         {
-          "word": "下雨",
-          "gloss": "rain"
+          "word": "特别",
+          "gloss": "especially"
+        }
+      ]
+    },
+    "碰": {
+      "lemma": "碰",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "bump",
+      "meanings": [
+        {
+          "en": "bump; touch; run into",
+          "note": "Pinyin: pèng. Used for touching objects or running into someone (碰到 'bump into')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "拐弯小心点，别碰到墙！",
+          "trans": "Careful on the turn—do not bump the wall!"
         },
         {
-          "word": "冒雨",
-          "gloss": "brave the rain"
+          "text": "我在街口正好碰到了老邻居。",
+          "trans": "I happened to run into an old neighbor at the corner."
+        }
+      ],
+      "related": [
+        {
+          "word": "碰头",
+          "gloss": "meet up"
+        }
+      ]
+    },
+    "到": {
+      "lemma": "到",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "arrive",
+      "meanings": [
+        {
+          "en": "arrive; reach; to",
+          "note": "Pinyin: dào. Works as main verb ('arrive') or result complement ('succeed in reaching/perceiving', 找到, 听到)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "我叫老陈。你早到了十分钟。",
+          "trans": "I'm called Chen. You arrived ten minutes early."
+        },
+        {
+          "text": "对，八间客房，八把铜钥匙。四号房的客人今天到。",
+          "trans": "Yes, eight rooms, eight brass keys. Room four's guest arrives today."
+        }
+      ],
+      "related": [
+        {
+          "word": "到处",
+          "gloss": "everywhere"
+        },
+        {
+          "word": "到底",
+          "gloss": "on earth"
+        },
+        {
+          "word": "迟到",
+          "gloss": "arrive late"
+        }
+      ]
+    },
+    "墙": {
+      "lemma": "墙",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "wall",
+      "meanings": [
+        {
+          "en": "wall",
+          "note": "Pinyin: qiáng. Measure word (量词): 堵 (dǔ), e.g. 一堵墙 ('a wall')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "拐弯小心点，别碰到墙！",
+          "trans": "Careful on the turn—do not bump the wall!"
+        },
+        {
+          "text": "当然记得！每到星期五弹错一个音，他就对着墙皱眉头。",
+          "trans": "Of course I remember! Every Friday when he missed a note, he frowned at the wall."
+        }
+      ],
+      "related": [
+        {
+          "word": "一堵墙",
+          "gloss": "a wall (measure word 堵)"
+        },
+        {
+          "word": "墙上",
+          "gloss": "on the wall"
+        },
+        {
+          "word": "石墙",
+          "gloss": "stone wall"
+        }
+      ]
+    },
+    "下次": {
+      "lemma": "下次",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "next time",
+      "meanings": [
+        {
+          "en": "next time",
+          "note": "Pinyin: xià cì. Measure word (量词): 个 (gè), e.g. 下一次 ('the next occasion')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "下次来成都，一定再来住我们客栈！",
+          "trans": "Next time you come to Chengdu, be sure to stay at our inn again!"
+        },
+        {
+          "text": "今天聊得很开心，我们下次见！",
+          "trans": "It was lovely chatting today—see you next time!"
+        }
+      ],
+      "related": [
+        {
+          "word": "下一次",
+          "gloss": "the next occasion (measure word 个)"
+        },
+        {
+          "word": "一下",
+          "gloss": "a bit"
+        },
+        {
+          "word": "下午",
+          "gloss": "afternoon"
+        }
+      ]
+    },
+    "见": {
+      "lemma": "见",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "see",
+      "meanings": [
+        {
+          "en": "see; meet",
+          "note": "Pinyin: jiàn. Appears in farewells (再见, 明天见) and as result complement of perception (看见, 听见)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "晚安，小晴。明天早餐见。",
+          "trans": "Good night, Qing. See you at breakfast tomorrow."
+        },
+        {
+          "text": "老陈，听得见吗？我刚经过绿药店！",
+          "trans": "Chen, can you hear me? I just passed the green pharmacy!"
+        }
+      ],
+      "related": [
+        {
+          "word": "再见",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "听见",
+          "gloss": "hear"
+        },
+        {
+          "word": "看见",
+          "gloss": "see"
         }
       ]
     }

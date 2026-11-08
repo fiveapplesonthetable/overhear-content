@@ -15,7 +15,7 @@ OUTRO = 'Clara handled her first check-in smoothly, though Mateo noticed that bl
 CLOSING = ('carmen', '¡Hasta pronto!')
 STORY = [
     ('clara', '¡Bienvenida! Buenos días, señora.', 'Welcome! Good morning, madam.'),
-    ('carmen', 'Buenos días, hija. Tengo una reserva a nombre de Carmen.', 'Good morning, my dear. I have a booking under the name Carmen.'),
+    ('carmen', 'Buenos días, querida. Tengo una reserva para Isabel.', 'Good morning, my dear. I have a booking for Isabel.'),
     ('clara', '¡Sí, la habitación cuatro en la segunda planta! ¿Qué tal el viaje en tren?', 'Yes, room four on the second floor! How was your train trip?'),
     ('carmen', 'Tranquilo y agradable, gracias, aunque esta maleta pesa mucho hoy.', 'Quiet and pleasant, thank you, though this suitcase weighs a lot today.'),
     ('mateo', 'Con permiso. ¡Madre mía! ¿Lleva piedras aquí dentro?', 'Allow me. Goodness! Are you carrying stones inside here?'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Welcome! Good morning, madam.' Adding", (None, 'señora'), 'sets a courteous hotel tone as soon as a guest walks in.']),
-    (1, None, ["'Good morning, my dear. I have a booking under the name Carmen.' Older women in Spain often call a younger woman", (None, 'hija'), "literally 'daughter', as an affectionate 'my dear'."]),
+    (1, None, ["'Good morning, my dear. I have a booking for Isabel.' Carmen confidently walks in with", (None, 'Tengo una reserva'), "using the everyday verb for 'I have'."]),
     (2, None, ["'Yes, room four on the second floor! How was your train trip?' Drop any topic right after", (None, 'Qué tal'), 'to ask how something went without changing a single ending.']),
     (3, None, ["'Quiet and pleasant, thank you, though this suitcase weighs a lot today.' Instead of saying 'is heavy', Spanish naturally says", (None, 'pesa mucho'), "literally 'weighs much'."]),
     (4, None, ["'Allow me. Goodness! Are you carrying stones inside here?' First Mateo steps in politely with", (None, 'Con permiso'), "literally 'with permission', and then", (None, 'Madre mía'), "exclaims 'my mother!' for 'goodness!'."]),

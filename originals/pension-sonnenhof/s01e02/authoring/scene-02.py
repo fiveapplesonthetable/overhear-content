@@ -20,7 +20,7 @@ STORY = [
     ('miriam', 'Der Lieferwagen hat eine Reifenpanne. Schauen Sie in den Kühlschrank!', 'The delivery van has a flat tyre. Look in the fridge!'),
     ('klara', 'Ein kleiner Rest Milch, zwei Eier und gar keine Butter!', 'A tiny bit of milk, two eggs, and no butter at all!'),
     ('martin', 'Um halb acht kommen acht hungrige Gäste die Treppe herunter!', 'At seven thirty, eight hungry guests will come down the stairs!'),
-    ('miriam', 'Zum Glück ist mein Brotteig im Ofen schon fertig.', 'Luckily my bread dough in the oven is already ready.'),
+    ('miriam', 'Zum Glück ist mein Brot schon im Ofen.', 'Luckily my bread is already in the oven.'),
     ('klara', 'Gib mir eine Tasche und Bargeld! Der Laden an der Ecke öffnet um sieben.', 'Give me a bag and cash! The shop on the corner opens at seven.'),
     ('martin', 'Schaffen Sie den Weg hin und zurück in zehn Minuten?', 'Can you manage the trip there and back in ten minutes?'),
     ('klara', 'Passen Sie auf! Sag mir genau, was ich kaufen soll.', 'Watch me! Tell me exactly what I should buy.'),

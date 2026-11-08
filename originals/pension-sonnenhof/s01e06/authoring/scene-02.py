@@ -15,7 +15,7 @@ TRANSITION = "Now let's hear the whole scene again from start to finish."
 OUTRO = "Grandfather's wooden train is home, and Moritz's astonishment at seeing Madam Helga filled the whole courtyard with laughter. Inside at the desk, however, Martin is still staring at that letter. See you next time."
 CLOSING = ('helga', 'Schönen Tag!')
 STORY = [
-    ('lukas', 'Vor dem Umzug in der Lindengasse habe ich dieses Paket vom Dachboden gerettet.', 'Before the move on Lindengasse, I saved this parcel from the attic.'),
+    ('lukas', 'Bevor die Möbelpacker das Haus ausgeräumt haben, habe ich dieses Paket vom Dachboden gerettet.', 'Before the movers cleared the house, I saved this parcel from the attic.'),
     ('moritz', 'Mach das weiße Papier auf... nein! Großvaters geschnitzte Holzlokomotive!', 'Open the white paper... no! Grandfather carved wooden locomotive!'),
     ('lukas', 'Schau mal unter die Räder: Dein Name und meiner stehen noch mit Bleistift dort.', 'Look underneath the wheels: your name and mine are still written there in pencil.'),
     ('moritz', 'Ich dachte, sie ging beim Hausverkauf verloren! Warum hast du sie für mich aufgehoben?', 'I thought it got lost during the house sale! Why did you save it for me?'),
@@ -29,7 +29,7 @@ STORY = [
     ('moritz', 'Bitte setzen Sie sich zu uns, Frau Helga! Hoffentlich bin ich nicht fünfundzwanzig Jahre zu spät!', 'Please sit down with us, Madam Helga! Hopefully I am not twenty-five years late!'),
 ]
 WALK = [
-    (0, None, ["'Before the move on Lindengasse, I saved this parcel from the attic.' Look at how German builds 'moving house':", (None, 'Umzug'), "Just like a train, 'pulling around' to a new address means moving house!"]),
+    (0, None, ["'Before the movers cleared the house, I saved this parcel from the attic.' A handy noun:", (None, 'Möbelpacker'), "It literally means 'furniture packers', used for movers."]),
     (1, None, ["'Open the white paper... no! Grandfather carved wooden locomotive!' Childhood treasure compound:", (None, 'Holzlokomotive!'), 'Wood plus locomotive names the carved train engine.']),
     (2, None, ["'Look underneath the wheels: your name and mine are still written there in pencil.' Everyday writing tool:", (None, 'Bleistift'), "Literally 'lead-pin', the standard word for a pencil."]),
     (3, None, ["'I thought it got lost during the house sale! Why did you save it for me?' Touching expression:", (None, 'ging beim Hausverkauf verloren!'), "Literally 'went lost at the house-sale'."]),

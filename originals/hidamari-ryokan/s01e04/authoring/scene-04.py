@@ -11,7 +11,7 @@ LABELS = {'kenji': '健二', 'mio': '美央'}
 INTRO = 'Down in the brick cellar beneath the courtyard, Mio hands Kenji the new brass valve while shining a bright flashlight onto the silent boiler. Listen first.'
 
 STORY = [
-    ('mio', '健二さん、真鍮バルブを二つとも持って来ました！息切れなんてしていませんよ！', 'Kenji, I brought both brass valves! Out of breath? Not me!'),
+    ('mio', '真鍮のバルブ、両方とも見つけたわよ、健二さん！息を整える？とんでもない！', 'Here are both brass valves, 健二! Catch my breath? Never!'),
     ('kenji', 'よし、この懐中電灯でパイプの継ぎ目をまっすぐ照らしてくれ。', 'Good, shine this flashlight steady right on the pipe joint.'),
     ('mio', 'わかりました！元栓の水はもう止めてありますか？', 'Got it! Have you already turned off the main water valve?'),
     ('kenji', '止めて水も抜いた。左にある重いレンチを取ってくれ。', 'Turned off and drained. Pass me the heavy wrench on your left.'),

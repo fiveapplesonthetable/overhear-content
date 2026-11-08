@@ -16,7 +16,7 @@ STORY = [
     ('yuka', '配達トラックのタイヤがパンクしたの。冷蔵庫の中を見て！', 'The delivery van got a flat tyre. Look inside the fridge!'),
     ('mio', '牛乳が少しと、卵が二つだけ！バターは全然ありません！', 'Just a tiny bit of milk, only two eggs, and no butter at all!'),
     ('takashi', 'お腹を空かせた八人のお客さまが、七時半に階段を下りて来ますよ！', 'Eight hungry guests will come down the stairs at seven thirty!'),
-    ('yuka', 'せめてパンの生地だけは、もうオーブンに入っているけど。', 'At least my bread dough is already inside the oven.'),
+    ('yuka', '少なくとも、私のパンはもうオーブンの中よ。', 'My bread is already in the oven, at least.'),
     ('mio', '買い物袋と現金をください！角の商店が七時に開きます。', 'Give me a shopping bag and cash! The corner shop opens at seven.'),
     ('takashi', '十分で往復できますか？', 'Can you run there and back in ten minutes?'),
     ('mio', '任せてください！買う物を正確に教えてください。', 'Leave it to me! Tell me exactly what to buy.'),

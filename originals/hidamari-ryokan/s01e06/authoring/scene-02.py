@@ -11,7 +11,7 @@ LABELS = {'haruto': '陽翔', 'daiki': '大輝', 'kazuko': '和子'}
 INTRO = 'Seated at the round table under the tree, Haruto opens the blue suitcase and lifts out the white-wrapped parcel for Daiki as Kazuko steps gently across the courtyard stones toward them. Listen first.'
 
 STORY = [
-    ('haruto', '引っ越し業者がけやき通りの家を片付ける前に、屋根裏の棚からこの箱を救い出したんだ。', 'Before the movers cleared the Keyaki Lane house, I rescued this box from the attic shelf.'),
+    ('haruto', '引っ越し業者が家を空っぽにする前に、屋根裏の棚からこの箱を救い出したんだ。', 'Before the movers cleared the house, I saved this box from the attic shelf.'),
     ('daiki', '白い紙を開けるぞ……うそだろ！おじいちゃんが彫った木の機関車だ！', 'Opening the white paper... no way! It is the wooden locomotive Grandpa carved!'),
     ('haruto', '車輪の裏を見て。兄さんと私の名前が、今も鉛筆で書いてあるよ。', 'Look underneath the wheels: your name and mine are still written there in pencil.'),
     ('daiki', '家を売った時に失くしたと思っていた！どうして俺のために取っておいたんだ？', 'I thought it was lost when we sold the house! Why keep it safe for me?'),

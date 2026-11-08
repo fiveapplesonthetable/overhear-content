@@ -16,7 +16,7 @@ OUTRO = 'Klara handled her first check-in smoothly, though Werner noticed that b
 CLOSING = ('helga', 'Auf Wiedersehen!')
 STORY = [
     ('klara', 'Willkommen! Guten Morgen, gnädige Frau.', 'Welcome! Good morning, madam.'),
-    ('helga', 'Guten Morgen, meine Liebe. Ich habe ein Zimmer auf den Namen Helga.', 'Good morning, my dear. I have a room under the name Helga.'),
+    ('helga', 'Guten Morgen, meine Liebe. Ich habe eine Reservierung auf den Namen Helga.', 'Good morning, my dear. I have a booking under the name Helga.'),
     ('klara', 'Ja, Zimmer vier im zweiten Stock! Wie war Ihre Zugfahrt?', 'Yes, room four on the second floor! How was your train trip?'),
     ('helga', 'Ruhig und angenehm, danke, nur dieser Koffer ist heute sehr schwer.', 'Quiet and pleasant, thank you, only this suitcase is very heavy today.'),
     ('werner', 'Darf ich mal? Meine Güte, haben Sie Steine eingepackt?', 'May I? Goodness, did you pack stones?'),

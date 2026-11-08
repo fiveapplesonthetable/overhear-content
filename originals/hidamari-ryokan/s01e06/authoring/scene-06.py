@@ -14,7 +14,7 @@ STORY = [
     ('takashi', '由香さん、そのオーブンでは毎朝いくつシナモンロールとレモンケーキが焼けますか？', 'Yuka, how many cinnamon rolls and lemon cakes can that oven bake each morning?'),
     ('yuka', '今の二倍は焼けるよ！本当に中庭カフェを通りのみんなに開くの？', 'Double what I bake now! Are we really opening the courtyard café to everyone on our street?'),
     ('takashi', '明日の朝八時からです！店内に四テーブル、木の下に三テーブルです！', 'Starting tomorrow morning at eight! Four tables inside, and three tables under the tree!'),
-    ('yuka', '夢だった自分たちのカフェが、この中庭に！市場のパン仲間に早く教えたい！', 'My dream café, right here in our own courtyard! I cannot wait to tell my baker friends at the market!'),
+    ('yuka', '夢のカフェが、私たちの中庭にできるなんて！通りのみんなに話したら驚くわ！', 'My dream café—right here in our own courtyard! Wait until I tell the whole street!'),
     ('takashi', 'そして美央さん、今日は金曜日……五日間の試用期間の最終日ですね。', 'And now, Mio, today is Friday—the final day of your five-day trial week.'),
     ('mio', 'あっ！スーツケースやボイラーや手紙の騒ぎで、すっかり忘れていました！', 'Oh! With all the commotion over suitcases, the boiler, and the letter, I completely forgot!'),
     ('takashi', '月曜日に固いドアを開けて以来、部屋もパイプも朝ごはんも、宿の契約まで救ってくれました。', 'Since opening our sticking door on Monday, you saved rooms, pipes, breakfast, and even our lease.'),

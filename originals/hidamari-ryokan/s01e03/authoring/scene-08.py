@@ -16,7 +16,7 @@ STORY = [
     ('mio', 'えっ、じゃあ今夜は暖房も、洗面所のお湯も出ないんですか？', 'Wait, does that mean no heating tonight and no hot water at the taps either?'),
     ('kenji', 'レンガの壁が熱を保つから、部屋は朝まで暖かいままだよ、美央。', 'The brick walls hold heat, so the rooms will stay warm until morning, Mio.'),
     ('takashi', 'ああ、よかった！それで、明日の朝のシャワーやお湯はどうなりますか？', "Thank goodness! And what about tomorrow morning's showers and hot water?"),
-    ('kenji', '明日の朝七時には、蛇口からもシャワーからも氷みたいに冷たい水しか出ない。', 'At seven tomorrow morning, only ice-cold water will come out of the taps and showers.'),
+    ('kenji', '明日の朝までには、シャワーの水は氷のように冷たくなる。', 'By tomorrow morning, the shower water will be ice-cold.'),
     ('takashi', '氷みたいに冷たいシャワー！？三階に『大阪旅行ガイド』の調査員がいるのに！？', 'Ice-cold showers?! With the Osaka Travel Guide inspector on the third floor?!'),
     ('mio', '道具箱の中に、予備の真鍮バルブはありませんか？', 'Is there no spare brass valve inside your toolbox?'),
     ('kenji', '最後の一個を冬に使ったんだ。橋の向こうの古い金物屋にしか、このサイズはない。', 'I used the last one in winter. Only the old hardware shop past the bridge carries this size.'),
@@ -29,7 +29,7 @@ OPENER = "Trouble with the boiler in the cellar brings time questions, cold wate
 
 WALK = [
     (1, None, ["'Bad news. The brass pressure valve on the old boiler finally gave out.' Kenji breaks it plainly with ", (None, '悪い知らせ'), ", meaning 'bad news', and ", (None, '壊れた'), " for 'broke down'."]),
-    (5, None, ["'At seven tomorrow morning, only ice-cold water will come out of the taps and showers.' Notice ", (None, '氷みたいに冷たい水'), ", literally 'water cold like ice'."]),
+    (5, None, ["'By tomorrow morning, the shower water will be ice-cold.' Notice ", (None, '氷のように冷たくなる'), ", meaning 'will become cold like ice'."]),
     (7, None, ["'Is there no spare brass valve inside your toolbox?' Keep ", (None, '道具箱'), ", literally 'tool box', alongside ", (None, '予備'), " for a 'spare' or backup part."]),
     (8, None, ["'I used the last one in winter. Only the old hardware shop past the bridge carries this size.' Across ", (None, '橋の向こう'), ", 'beyond the bridge', sits ", (None, '金物屋'), ", literally 'metal-things shop' for 'hardware store'."]),
     (9, None, ["'What time in the morning does that hardware shop open?' Asking opening hours anywhere uses ", (None, '何時に開きますか'), ", meaning 'at what time does it open?'."]),

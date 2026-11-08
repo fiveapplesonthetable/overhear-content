@@ -18,7 +18,7 @@ STORY = [
     ('mio', '待ってください。タブレットの画面と紙の帳面を一緒に見ましょう。', "Hold on. Let's look at the tablet screen and the paper ledger side by side."),
     ('kenji', '当ててやろうか。空いていない部屋を誰かに約束したんだな？', 'Let me guess. You promised somebody a room that is not free?'),
     ('mio', '隆さん！七号室はもう埋まっているのに、七号室にもう一人予約が入っています！', 'Takashi! Room seven is already occupied, and a second guest is booked into room seven!'),
-    ('takashi', 'しかもその方は、夜八時の電車で着きます。あと四十分です！', "And that guest arrives on the eight o'clock evening train—in forty minutes!"),
+    ('takashi', 'しかもその方は、今夜八時にここへ着きます。あと四十分です！', "And he arrives here at eight o'clock this evening—in forty minutes!"),
     ('kenji', 'だからあのタブレットは罠だと言ったんだ。', 'Told you that tablet is a trap.'),
     ('takashi', '外は雨ですし、この通りのホテルはどこも満室です！どうしましょう？', 'It is raining outside and every hotel on this street is full! What shall we do?'),
     ('mio', '待ってください！階段の上の三階には何があるんですか？', 'Wait a moment! What is up on the third floor above the stairs?'),

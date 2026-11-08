@@ -18,7 +18,7 @@ STORY = [
     ('mio', 'うちの中庭が、陽翔さんの……お仕事に静かでよかったです。', 'We are glad our courtyard is peaceful for your... work.'),
     ('haruto', '本当に静かですよ！……でも今、洗面所の方から変な金属の音がしませんでしたか？', 'Truly peaceful! ...Though did a strange metallic knock just come from the washroom?'),
     ('mio', 'はい！隅のお湯のパイプから聞こえたみたいです。', 'Yes! It sounded like it came from the hot-water pipe in the corner.'),
-    ('haruto', '蛇口のパイプを触ってみてください。上は温かいのに、下がぬるくなっています。', 'Touch the tap pipe: the top is warm, yet the bottom is turning lukewarm.'),
+    ('haruto', 'ラジエーターを触ってみてください。下は温かいのに、上が冷たくなっています。', 'Feel the radiator—the bottom is warm, while the top is turning cool.'),
     ('mio', 'あっ！古いパイプには、夜たまに空気が入ることがあるんです。', 'Oh! Sometimes a little air gets into old pipes at night.'),
     ('haruto', '暖かい毛布がありますし、今夜のお風呂はもう済ませたので大丈夫ですよ。', 'I have a warm blanket, and I already washed up tonight, so I am fine.'),
     ('mio', '優しいお言葉をありがとうございます！すぐ健二さんが地下室を見ますね。', 'Thank you for being so understanding! Kenji will check the basement right away.'),
@@ -31,7 +31,7 @@ WALK = [
     (0, None, ["'Excuse me, Haruto. Sorry to disturb you so late in the evening.' Knocking on someone's door politely uses ", (None, 'お邪魔して'), ", from the phrase meaning 'intruding on your space'."]),
     (1, None, ["'Oh, my leather notebook! Thank you! I was looking for it right now.' Looking for a misplaced item uses ", (None, '探していた'), ", meaning 'was searching for'."]),
     (3, None, ["'All my street notes from this week are inside here. You saved me.' Thank someone who rescues you from a jam with ", (None, '助かりました'), ", literally 'I was saved' or 'that really helped'."]),
-    (7, None, ["'Touch the tap pipe: the top is warm, yet the bottom is turning lukewarm.' Look at the water temperature words: ", (None, '蛇口'), " literally means 'snake mouth' for a water tap, and ", (None, 'ぬるく'), " comes from 'lukewarm'."]),
+    (7, None, ["'Feel the radiator—the bottom is warm, while the top is turning cool.' Contrast the temperature words here: ", (None, '温かい'), " means 'warm', while ", (None, '冷たく'), " means 'cold' or 'cooling'."]),
     (9, None, ["'I have a warm blanket, and I already washed up tonight, so I am fine.' Bedding adds ", (None, '毛布'), ", literally 'wool cloth' for 'blanket', alongside ", (None, 'お風呂'), " for 'bath'."]),
     (11, None, ["'Good night, Mio. See you at breakfast tomorrow morning.' End any evening politely with ", (None, 'おやすみなさい'), ", the standard Japanese 'good night'."]),
 ]

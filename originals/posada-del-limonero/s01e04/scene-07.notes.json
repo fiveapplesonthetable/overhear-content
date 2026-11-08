@@ -98,47 +98,63 @@
     },
     {
       "seg": 2,
-      "trans": "Careful with it, Mateo, tomorrow at noon is Friday already!",
+      "trans": "Careful with it, Mateo—Friday at noon is tomorrow!",
       "words": [
         {
-          "t": "¡Con",
           "lemma": "con",
           "pos": "prep",
           "stress": "kon",
           "gloss": "with",
-          "gram": "prep"
+          "gram": "prep",
+          "t": "Con"
         },
         {
-          "t": "cuidado,",
           "lemma": "cuidado",
           "pos": "noun",
           "stress": "kwiˈðaðo",
           "gloss": "care",
-          "gram": "m sg"
+          "gram": "m sg",
+          "t": "cuidado"
         },
         {
-          "t": "Mateo,",
+          "lemma": "con",
+          "pos": "prep",
+          "stress": "kon",
+          "gloss": "with",
+          "gram": "prep",
+          "t": "con"
+        },
+        {
+          "lemma": "ella",
+          "pos": "pron",
+          "stress": "ˈeʎa",
+          "gloss": "she",
+          "gram": "pron",
+          "t": "ella,"
+        },
+        {
           "lemma": "Mateo",
           "pos": "name",
           "stress": null,
           "gloss": "Mateo",
-          "gram": "proper name"
+          "gram": "proper name",
+          "t": "Mateo."
         },
         {
-          "t": "que",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "ke",
-          "gloss": "that",
-          "gram": "conj"
+          "lemma": "el",
+          "pos": "det",
+          "stress": "el",
+          "gloss": "the (masculine singular)",
+          "gram": "det",
+          "t": "¡El"
         },
         {
-          "t": "mañana",
-          "lemma": "mañana",
+          "lemma": "viernes",
           "pos": "noun",
-          "stress": "maˈɲana",
-          "gloss": "morning (la mañana)",
-          "gram": "f sg"
+          "stress": "ˈbjeɾnes",
+          "gloss": "Friday",
+          "gram": "m sg",
+          "t": "viernes"
         },
         {
           "t": "al",
@@ -157,14 +173,6 @@
           "gram": "m sg"
         },
         {
-          "t": "ya",
-          "lemma": "ya",
-          "pos": "adv",
-          "stress": "ʝa",
-          "gloss": "already",
-          "gram": "adv"
-        },
-        {
           "t": "es",
           "lemma": "ser",
           "pos": "verb",
@@ -173,12 +181,12 @@
           "gram": "3sg pres"
         },
         {
-          "t": "viernes!",
-          "lemma": "viernes",
+          "lemma": "mañana",
           "pos": "noun",
-          "stress": "ˈbjeɾnes",
-          "gloss": "Friday",
-          "gram": "m sg"
+          "stress": "maˈɲana",
+          "gloss": "morning (la mañana)",
+          "gram": "f sg",
+          "t": "mañana!"
         }
       ]
     },
@@ -544,7 +552,7 @@
     },
     {
       "seg": 7,
-      "trans": "Wait a moment... Number twelve Calle de los Tilos, and two childhood initials carved in the corner!",
+      "trans": "Wait a moment... Number twelve, Calle del Limonero, and two childhood initials written in the corner!",
       "words": [
         {
           "t": "Un",
@@ -563,12 +571,20 @@
           "gram": "m sg"
         },
         {
-          "t": "¡Calle",
-          "lemma": "calle",
+          "lemma": "número",
           "pos": "noun",
-          "stress": "ˈkaʎe",
-          "gloss": "street",
-          "gram": "f sg"
+          "stress": "ˈnumeɾo",
+          "gloss": "number",
+          "gram": "m sg",
+          "t": "¡Número"
+        },
+        {
+          "lemma": "doce",
+          "pos": "num",
+          "stress": "ˈdoθe",
+          "gloss": "twelve",
+          "gram": "num",
+          "t": "doce"
         },
         {
           "t": "de",
@@ -579,36 +595,36 @@
           "gram": "prep"
         },
         {
-          "t": "los",
-          "lemma": "los",
+          "t": "la",
+          "lemma": "la",
           "pos": "det",
-          "stress": "los",
-          "gloss": "the (masculine plural)",
+          "stress": "la",
+          "gloss": "the (feminine singular)",
           "gram": "det"
         },
         {
-          "t": "Tilos",
-          "lemma": "Tilos",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Linden Trees (street name)",
-          "gram": "proper name"
-        },
-        {
-          "t": "número",
-          "lemma": "número",
+          "lemma": "calle",
           "pos": "noun",
-          "stress": "ˈnumeɾo",
-          "gloss": "number",
-          "gram": "m sg"
+          "stress": "ˈkaʎe",
+          "gloss": "street",
+          "gram": "f sg",
+          "t": "calle"
         },
         {
-          "t": "doce,",
-          "lemma": "doce",
-          "pos": "num",
-          "stress": "ˈdoθe",
-          "gloss": "twelve",
-          "gram": "num"
+          "lemma": "del",
+          "pos": "prep",
+          "stress": "del",
+          "gloss": "of the",
+          "gram": "prep",
+          "t": "del"
+        },
+        {
+          "lemma": "limonero",
+          "pos": "noun",
+          "stress": "limoˈneɾo",
+          "gloss": "lemon tree",
+          "gram": "m sg",
+          "t": "Limonero,"
         },
         {
           "t": "y",
@@ -635,20 +651,28 @@
           "gram": "f pl"
         },
         {
-          "t": "infantiles",
-          "lemma": "infantil",
-          "pos": "adj",
-          "stress": "infanˈtiles",
-          "gloss": "childhood",
-          "gram": "pl"
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "de",
+          "gloss": "of",
+          "gram": "prep"
         },
         {
-          "t": "grabadas",
-          "lemma": "grabado",
-          "pos": "adj",
-          "stress": "ɡɾaˈβaðas",
-          "gloss": "carved",
-          "gram": "f pl"
+          "t": "infancia",
+          "lemma": "infancia",
+          "pos": "noun",
+          "stress": "inˈfanθja",
+          "gloss": "childhood",
+          "gram": "f sg"
+        },
+        {
+          "t": "escritas",
+          "lemma": "escritas",
+          "pos": "name",
+          "stress": "",
+          "gloss": "escritas",
+          "gram": "name"
         },
         {
           "t": "en",
@@ -678,7 +702,7 @@
     },
     {
       "seg": 8,
-      "trans": "Madam Carmen, you look amazed! Do you know Number twelve Calle de los Tilos?",
+      "trans": "Madam Carmen, you look amazed! Do you know Number twelve Calle del Limonero?",
       "words": [
         {
           "t": "¡Señora",
@@ -737,28 +761,20 @@
           "gram": "f sg"
         },
         {
-          "t": "de",
-          "lemma": "de",
+          "lemma": "del",
           "pos": "prep",
-          "stress": "de",
-          "gloss": "of",
-          "gram": "prep"
+          "stress": "del",
+          "gloss": "of the",
+          "gram": "prep",
+          "t": "del"
         },
         {
-          "t": "los",
-          "lemma": "los",
-          "pos": "det",
-          "stress": "los",
-          "gloss": "the (masculine plural)",
-          "gram": "det"
-        },
-        {
-          "t": "Tilos",
-          "lemma": "Tilos",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Linden Trees (street name)",
-          "gram": "proper name"
+          "lemma": "limonero",
+          "pos": "noun",
+          "stress": "limoˈneɾo",
+          "gloss": "lemon tree",
+          "gram": "m sg",
+          "t": "Limonero"
         },
         {
           "t": "número",
@@ -1354,47 +1370,63 @@
     },
     {
       "seg": 16,
-      "trans": "Careful with it, Mateo, tomorrow at noon is Friday already!",
+      "trans": "Careful with it, Mateo—Friday at noon is tomorrow!",
       "words": [
         {
-          "t": "¡Con",
           "lemma": "con",
           "pos": "prep",
           "stress": "kon",
           "gloss": "with",
-          "gram": "prep"
+          "gram": "prep",
+          "t": "Con"
         },
         {
-          "t": "cuidado,",
           "lemma": "cuidado",
           "pos": "noun",
           "stress": "kwiˈðaðo",
           "gloss": "care",
-          "gram": "m sg"
+          "gram": "m sg",
+          "t": "cuidado"
         },
         {
-          "t": "Mateo,",
+          "lemma": "con",
+          "pos": "prep",
+          "stress": "kon",
+          "gloss": "with",
+          "gram": "prep",
+          "t": "con"
+        },
+        {
+          "lemma": "ella",
+          "pos": "pron",
+          "stress": "ˈeʎa",
+          "gloss": "she",
+          "gram": "pron",
+          "t": "ella,"
+        },
+        {
           "lemma": "Mateo",
           "pos": "name",
           "stress": null,
           "gloss": "Mateo",
-          "gram": "proper name"
+          "gram": "proper name",
+          "t": "Mateo."
         },
         {
-          "t": "que",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "ke",
-          "gloss": "that",
-          "gram": "conj"
+          "lemma": "el",
+          "pos": "det",
+          "stress": "el",
+          "gloss": "the (masculine singular)",
+          "gram": "det",
+          "t": "¡El"
         },
         {
-          "t": "mañana",
-          "lemma": "mañana",
+          "lemma": "viernes",
           "pos": "noun",
-          "stress": "maˈɲana",
-          "gloss": "morning (la mañana)",
-          "gram": "f sg"
+          "stress": "ˈbjeɾnes",
+          "gloss": "Friday",
+          "gram": "m sg",
+          "t": "viernes"
         },
         {
           "t": "al",
@@ -1413,14 +1445,6 @@
           "gram": "m sg"
         },
         {
-          "t": "ya",
-          "lemma": "ya",
-          "pos": "adv",
-          "stress": "ʝa",
-          "gloss": "already",
-          "gram": "adv"
-        },
-        {
           "t": "es",
           "lemma": "ser",
           "pos": "verb",
@@ -1429,12 +1453,12 @@
           "gram": "3sg pres"
         },
         {
-          "t": "viernes!",
-          "lemma": "viernes",
+          "lemma": "mañana",
           "pos": "noun",
-          "stress": "ˈbjeɾnes",
-          "gloss": "Friday",
-          "gram": "m sg"
+          "stress": "maˈɲana",
+          "gloss": "morning (la mañana)",
+          "gram": "f sg",
+          "t": "mañana!"
         }
       ]
     },
@@ -1800,7 +1824,7 @@
     },
     {
       "seg": 26,
-      "trans": "Wait a moment... Number twelve Calle de los Tilos, and two childhood initials carved in the corner!",
+      "trans": "Wait a moment... Number twelve, Calle del Limonero, and two childhood initials written in the corner!",
       "words": [
         {
           "t": "Un",
@@ -1819,12 +1843,20 @@
           "gram": "m sg"
         },
         {
-          "t": "¡Calle",
-          "lemma": "calle",
+          "lemma": "número",
           "pos": "noun",
-          "stress": "ˈkaʎe",
-          "gloss": "street",
-          "gram": "f sg"
+          "stress": "ˈnumeɾo",
+          "gloss": "number",
+          "gram": "m sg",
+          "t": "¡Número"
+        },
+        {
+          "lemma": "doce",
+          "pos": "num",
+          "stress": "ˈdoθe",
+          "gloss": "twelve",
+          "gram": "num",
+          "t": "doce"
         },
         {
           "t": "de",
@@ -1835,36 +1867,36 @@
           "gram": "prep"
         },
         {
-          "t": "los",
-          "lemma": "los",
+          "t": "la",
+          "lemma": "la",
           "pos": "det",
-          "stress": "los",
-          "gloss": "the (masculine plural)",
+          "stress": "la",
+          "gloss": "the (feminine singular)",
           "gram": "det"
         },
         {
-          "t": "Tilos",
-          "lemma": "Tilos",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Linden Trees (street name)",
-          "gram": "proper name"
-        },
-        {
-          "t": "número",
-          "lemma": "número",
+          "lemma": "calle",
           "pos": "noun",
-          "stress": "ˈnumeɾo",
-          "gloss": "number",
-          "gram": "m sg"
+          "stress": "ˈkaʎe",
+          "gloss": "street",
+          "gram": "f sg",
+          "t": "calle"
         },
         {
-          "t": "doce,",
-          "lemma": "doce",
-          "pos": "num",
-          "stress": "ˈdoθe",
-          "gloss": "twelve",
-          "gram": "num"
+          "lemma": "del",
+          "pos": "prep",
+          "stress": "del",
+          "gloss": "of the",
+          "gram": "prep",
+          "t": "del"
+        },
+        {
+          "lemma": "limonero",
+          "pos": "noun",
+          "stress": "limoˈneɾo",
+          "gloss": "lemon tree",
+          "gram": "m sg",
+          "t": "Limonero,"
         },
         {
           "t": "y",
@@ -1891,20 +1923,28 @@
           "gram": "f pl"
         },
         {
-          "t": "infantiles",
-          "lemma": "infantil",
-          "pos": "adj",
-          "stress": "infanˈtiles",
-          "gloss": "childhood",
-          "gram": "pl"
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "de",
+          "gloss": "of",
+          "gram": "prep"
         },
         {
-          "t": "grabadas",
-          "lemma": "grabado",
-          "pos": "adj",
-          "stress": "ɡɾaˈβaðas",
-          "gloss": "carved",
-          "gram": "f pl"
+          "t": "infancia",
+          "lemma": "infancia",
+          "pos": "noun",
+          "stress": "inˈfanθja",
+          "gloss": "childhood",
+          "gram": "f sg"
+        },
+        {
+          "t": "escritas",
+          "lemma": "escritas",
+          "pos": "name",
+          "stress": "",
+          "gloss": "escritas",
+          "gram": "name"
         },
         {
           "t": "en",
@@ -1934,7 +1974,7 @@
     },
     {
       "seg": 28,
-      "trans": "Madam Carmen, you look amazed! Do you know Number twelve Calle de los Tilos?",
+      "trans": "Madam Carmen, you look amazed! Do you know Number twelve Calle del Limonero?",
       "words": [
         {
           "t": "¡Señora",
@@ -1993,28 +2033,20 @@
           "gram": "f sg"
         },
         {
-          "t": "de",
-          "lemma": "de",
+          "lemma": "del",
           "pos": "prep",
-          "stress": "de",
-          "gloss": "of",
-          "gram": "prep"
+          "stress": "del",
+          "gloss": "of the",
+          "gram": "prep",
+          "t": "del"
         },
         {
-          "t": "los",
-          "lemma": "los",
-          "pos": "det",
-          "stress": "los",
-          "gloss": "the (masculine plural)",
-          "gram": "det"
-        },
-        {
-          "t": "Tilos",
-          "lemma": "Tilos",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Linden Trees (street name)",
-          "gram": "proper name"
+          "lemma": "limonero",
+          "pos": "noun",
+          "stress": "limoˈneɾo",
+          "gloss": "lemon tree",
+          "gram": "m sg",
+          "t": "Limonero"
         },
         {
           "t": "número",
@@ -2610,47 +2642,63 @@
     },
     {
       "seg": 40,
-      "trans": "Careful with it, Mateo, tomorrow at noon is Friday already!",
+      "trans": "Careful with it, Mateo—Friday at noon is tomorrow!",
       "words": [
         {
-          "t": "¡Con",
           "lemma": "con",
           "pos": "prep",
           "stress": "kon",
           "gloss": "with",
-          "gram": "prep"
+          "gram": "prep",
+          "t": "Con"
         },
         {
-          "t": "cuidado,",
           "lemma": "cuidado",
           "pos": "noun",
           "stress": "kwiˈðaðo",
           "gloss": "care",
-          "gram": "m sg"
+          "gram": "m sg",
+          "t": "cuidado"
         },
         {
-          "t": "Mateo,",
+          "lemma": "con",
+          "pos": "prep",
+          "stress": "kon",
+          "gloss": "with",
+          "gram": "prep",
+          "t": "con"
+        },
+        {
+          "lemma": "ella",
+          "pos": "pron",
+          "stress": "ˈeʎa",
+          "gloss": "she",
+          "gram": "pron",
+          "t": "ella,"
+        },
+        {
           "lemma": "Mateo",
           "pos": "name",
           "stress": null,
           "gloss": "Mateo",
-          "gram": "proper name"
+          "gram": "proper name",
+          "t": "Mateo."
         },
         {
-          "t": "que",
-          "lemma": "que",
-          "pos": "conj",
-          "stress": "ke",
-          "gloss": "that",
-          "gram": "conj"
+          "lemma": "el",
+          "pos": "det",
+          "stress": "el",
+          "gloss": "the (masculine singular)",
+          "gram": "det",
+          "t": "¡El"
         },
         {
-          "t": "mañana",
-          "lemma": "mañana",
+          "lemma": "viernes",
           "pos": "noun",
-          "stress": "maˈɲana",
-          "gloss": "morning (la mañana)",
-          "gram": "f sg"
+          "stress": "ˈbjeɾnes",
+          "gloss": "Friday",
+          "gram": "m sg",
+          "t": "viernes"
         },
         {
           "t": "al",
@@ -2669,14 +2717,6 @@
           "gram": "m sg"
         },
         {
-          "t": "ya",
-          "lemma": "ya",
-          "pos": "adv",
-          "stress": "ʝa",
-          "gloss": "already",
-          "gram": "adv"
-        },
-        {
           "t": "es",
           "lemma": "ser",
           "pos": "verb",
@@ -2685,12 +2725,12 @@
           "gram": "3sg pres"
         },
         {
-          "t": "viernes!",
-          "lemma": "viernes",
+          "lemma": "mañana",
           "pos": "noun",
-          "stress": "ˈbjeɾnes",
-          "gloss": "Friday",
-          "gram": "m sg"
+          "stress": "maˈɲana",
+          "gloss": "morning (la mañana)",
+          "gram": "f sg",
+          "t": "mañana!"
         }
       ]
     },
@@ -3056,7 +3096,7 @@
     },
     {
       "seg": 45,
-      "trans": "Wait a moment... Number twelve Calle de los Tilos, and two childhood initials carved in the corner!",
+      "trans": "Wait a moment... Number twelve, Calle del Limonero, and two childhood initials written in the corner!",
       "words": [
         {
           "t": "Un",
@@ -3075,12 +3115,20 @@
           "gram": "m sg"
         },
         {
-          "t": "¡Calle",
-          "lemma": "calle",
+          "lemma": "número",
           "pos": "noun",
-          "stress": "ˈkaʎe",
-          "gloss": "street",
-          "gram": "f sg"
+          "stress": "ˈnumeɾo",
+          "gloss": "number",
+          "gram": "m sg",
+          "t": "¡Número"
+        },
+        {
+          "lemma": "doce",
+          "pos": "num",
+          "stress": "ˈdoθe",
+          "gloss": "twelve",
+          "gram": "num",
+          "t": "doce"
         },
         {
           "t": "de",
@@ -3091,36 +3139,36 @@
           "gram": "prep"
         },
         {
-          "t": "los",
-          "lemma": "los",
+          "t": "la",
+          "lemma": "la",
           "pos": "det",
-          "stress": "los",
-          "gloss": "the (masculine plural)",
+          "stress": "la",
+          "gloss": "the (feminine singular)",
           "gram": "det"
         },
         {
-          "t": "Tilos",
-          "lemma": "Tilos",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Linden Trees (street name)",
-          "gram": "proper name"
-        },
-        {
-          "t": "número",
-          "lemma": "número",
+          "lemma": "calle",
           "pos": "noun",
-          "stress": "ˈnumeɾo",
-          "gloss": "number",
-          "gram": "m sg"
+          "stress": "ˈkaʎe",
+          "gloss": "street",
+          "gram": "f sg",
+          "t": "calle"
         },
         {
-          "t": "doce,",
-          "lemma": "doce",
-          "pos": "num",
-          "stress": "ˈdoθe",
-          "gloss": "twelve",
-          "gram": "num"
+          "lemma": "del",
+          "pos": "prep",
+          "stress": "del",
+          "gloss": "of the",
+          "gram": "prep",
+          "t": "del"
+        },
+        {
+          "lemma": "limonero",
+          "pos": "noun",
+          "stress": "limoˈneɾo",
+          "gloss": "lemon tree",
+          "gram": "m sg",
+          "t": "Limonero,"
         },
         {
           "t": "y",
@@ -3147,20 +3195,28 @@
           "gram": "f pl"
         },
         {
-          "t": "infantiles",
-          "lemma": "infantil",
-          "pos": "adj",
-          "stress": "infanˈtiles",
-          "gloss": "childhood",
-          "gram": "pl"
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "de",
+          "gloss": "of",
+          "gram": "prep"
         },
         {
-          "t": "grabadas",
-          "lemma": "grabado",
-          "pos": "adj",
-          "stress": "ɡɾaˈβaðas",
-          "gloss": "carved",
-          "gram": "f pl"
+          "t": "infancia",
+          "lemma": "infancia",
+          "pos": "noun",
+          "stress": "inˈfanθja",
+          "gloss": "childhood",
+          "gram": "f sg"
+        },
+        {
+          "t": "escritas",
+          "lemma": "escritas",
+          "pos": "name",
+          "stress": "",
+          "gloss": "escritas",
+          "gram": "name"
         },
         {
           "t": "en",
@@ -3190,7 +3246,7 @@
     },
     {
       "seg": 46,
-      "trans": "Madam Carmen, you look amazed! Do you know Number twelve Calle de los Tilos?",
+      "trans": "Madam Carmen, you look amazed! Do you know Number twelve Calle del Limonero?",
       "words": [
         {
           "t": "¡Señora",
@@ -3249,28 +3305,20 @@
           "gram": "f sg"
         },
         {
-          "t": "de",
-          "lemma": "de",
+          "lemma": "del",
           "pos": "prep",
-          "stress": "de",
-          "gloss": "of",
-          "gram": "prep"
+          "stress": "del",
+          "gloss": "of the",
+          "gram": "prep",
+          "t": "del"
         },
         {
-          "t": "los",
-          "lemma": "los",
-          "pos": "det",
-          "stress": "los",
-          "gloss": "the (masculine plural)",
-          "gram": "det"
-        },
-        {
-          "t": "Tilos",
-          "lemma": "Tilos",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Linden Trees (street name)",
-          "gram": "proper name"
+          "lemma": "limonero",
+          "pos": "noun",
+          "stress": "limoˈneɾo",
+          "gloss": "lemon tree",
+          "gram": "m sg",
+          "t": "Limonero"
         },
         {
           "t": "número",
@@ -3794,102 +3842,89 @@
     }
   ],
   "lexicon": {
-    "a": {
-      "lemma": "a",
-      "stress": "a",
-      "pos": "prep",
-      "gloss": "to; at",
+    "dejar": {
+      "lemma": "dejar",
+      "stress": "deˈxaɾ",
+      "pos": "verb",
+      "gloss": "to leave (something); to let / allow",
       "meanings": [
         {
-          "en": "to; at",
-          "note": "Marks destination, clock time, and animate direct objects (personal a)."
+          "en": "to leave (something); to let / allow",
+          "note": "Dejar de + infinitive means 'to stop doing something'."
         }
       ],
-      "forms": null,
-      "moreForms": [],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "dejo",
+              "dejamos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "dejas",
+              "dejáis"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "deja",
+              "dejan"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "dejé",
+                "dejamos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "dejaste",
+                "dejasteis"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "dejó",
+                "dejaron"
+              ]
+            }
+          ]
+        }
+      ],
       "examples": [
         {
-          "text": "Vamos a la estación ahora.",
-          "trans": "We are going to the station now."
+          "text": "Dejo las llaves en el mostrador.",
+          "trans": "I leave the keys on the counter."
         },
         {
-          "text": "El desayuno empieza a las ocho.",
-          "trans": "Breakfast starts at eight o'clock."
-        }
-      ],
-      "related": []
-    },
-    "adelante": {
-      "lemma": "adelante",
-      "stress": "aðeˈlante",
-      "pos": "interj",
-      "gloss": "come in!; go right ahead!",
-      "meanings": [
-        {
-          "en": "come in!; go right ahead!",
-          "note": "Warm invitation to enter a room or proceed."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "¡Adelante, la puerta está abierta!",
-          "trans": "Come in, the door is open!"
-        },
-        {
-          "text": "Adelante, puede sentarse aquí.",
-          "trans": "Go right ahead, you may sit here."
-        }
-      ],
-      "related": []
-    },
-    "al": {
-      "lemma": "al",
-      "stress": "al",
-      "pos": "prep",
-      "gloss": "to the; at the (a + el)",
-      "meanings": [
-        {
-          "en": "to the; at the (a + el)",
-          "note": "Mandatory contraction of preposition a + masculine article el; al + infinitive means 'upon doing'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vamos al mercado por la mañana.",
-          "trans": "We go to the market in the morning."
-        },
-        {
-          "text": "Al abrir la puerta, sonó el timbre.",
-          "trans": "Upon opening the door, the bell rang."
-        }
-      ],
-      "related": []
-    },
-    "allí": {
-      "lemma": "allí",
-      "stress": "aˈʎi",
-      "pos": "adv",
-      "gloss": "over there; there",
-      "meanings": [
-        {
-          "en": "over there; there",
-          "note": "Points to a place farther away from both speakers."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La farmacia está allí en la esquina.",
-          "trans": "The pharmacy is over there on the corner."
-        },
-        {
-          "text": "Vivimos allí durante seis años.",
-          "trans": "We lived there for six years."
+          "text": "Déjame ayudarte con esa caja.",
+          "trans": "Let me help you with that box."
         }
       ],
       "related": []
@@ -3919,15 +3954,40 @@
       ],
       "related": []
     },
-    "armario": {
-      "lemma": "armario",
-      "stress": "aɾˈmaɾjo",
-      "pos": "noun",
-      "gloss": "wardrobe; closet; cupboard",
+    "este": {
+      "lemma": "este",
+      "stress": "ˈeste",
+      "pos": "det",
+      "gloss": "this",
       "meanings": [
         {
-          "en": "wardrobe; closet; cupboard",
-          "note": "Tall storage closet or bedroom wardrobe."
+          "en": "this",
+          "note": "Forms: este (m sg), esta (f sg), estos (m pl), estas (f pl)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Este patio es muy tranquilo.",
+          "trans": "This courtyard is very quiet."
+        },
+        {
+          "text": "Esta mañana hace mucho sol.",
+          "trans": "This morning it is very sunny."
+        }
+      ],
+      "related": []
+    },
+    "maleta": {
+      "lemma": "maleta",
+      "stress": "maˈleta",
+      "pos": "noun",
+      "gloss": "suitcase",
+      "meanings": [
+        {
+          "en": "suitcase",
+          "note": "Hacer la maleta = to pack one's suitcase."
         }
       ],
       "forms": {
@@ -3941,8 +4001,8 @@
           {
             "cells": [
               "form",
-              "el armario",
-              "los armarios"
+              "la maleta",
+              "las maletas"
             ]
           }
         ]
@@ -3950,61 +4010,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "El armario está aquí.",
-          "trans": "The wardrobe is here."
+          "text": "Esta maleta azul pesa mucho.",
+          "trans": "This blue suitcase is very heavy."
         },
         {
-          "text": "Vemos los armarios desde la puerta.",
-          "trans": "We see the wardrobes from the door."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "asombrado": {
-      "lemma": "asombrado",
-      "stress": "asomˈbɾaðo",
-      "pos": "adj",
-      "gloss": "amazed; astonished",
-      "meanings": [
-        {
-          "en": "amazed; astonished",
-          "note": "Describes surprised wonder."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "asombrado",
-              "asombrada"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "asombrados",
-              "asombradas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Es una pieza asombrada.",
-          "trans": "It is an amazed piece."
-        },
-        {
-          "text": "¡Señora Carmen, parece asombrada! ¿Conoce usted Calle de los Tilos número doce?",
-          "trans": "Madam Carmen, you look amazed! Do you know Number twelve Calle de los Tilos?"
+          "text": "Guardo las llaves en la maleta.",
+          "trans": "I keep the keys in the suitcase."
         }
       ],
       "related": []
@@ -4057,15 +4068,40 @@
       ],
       "related": []
     },
-    "año": {
-      "lemma": "año",
-      "stress": "ˈaɲo",
-      "pos": "noun",
-      "gloss": "year",
+    "cinco": {
+      "lemma": "cinco",
+      "stress": "ˈθinko",
+      "pos": "num",
+      "gloss": "five",
       "meanings": [
         {
-          "en": "year",
-          "note": "Tener ... años expresses age; hace ... años means '... years ago'."
+          "en": "five",
+          "note": "Invariable cardinal number."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Faltan cinco minutos para las doce.",
+          "trans": "It is five minutes to twelve."
+        },
+        {
+          "text": "Tenemos cinco mesas en el patio.",
+          "trans": "We have five tables in the courtyard."
+        }
+      ],
+      "related": []
+    },
+    "minuto": {
+      "lemma": "minuto",
+      "stress": "miˈnuto",
+      "pos": "noun",
+      "gloss": "minute",
+      "meanings": [
+        {
+          "en": "minute",
+          "note": "En cinco minutos = in five minutes."
         }
       ],
       "forms": {
@@ -4079,8 +4115,8 @@
           {
             "cells": [
               "form",
-              "el año",
-              "los años"
+              "el minuto",
+              "los minutos"
             ]
           }
         ]
@@ -4088,16 +4124,40 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "El año está aquí.",
-          "trans": "The year is here."
+          "text": "El minuto está aquí.",
+          "trans": "The minute is here."
         },
         {
-          "text": "Vemos los años desde la puerta.",
-          "trans": "We see the years from the door."
+          "text": "Vemos los minutos desde la puerta.",
+          "trans": "We see the minutes from the door."
         }
       ],
-      "related": [],
-      "gender": "m"
+      "related": []
+    },
+    "mientras": {
+      "lemma": "mientras",
+      "stress": "ˈmjentɾas",
+      "pos": "conj",
+      "gloss": "while",
+      "meanings": [
+        {
+          "en": "while",
+          "note": "Links two simultaneous actions."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Espera aquí mientras abro la puerta.",
+          "trans": "Wait here while I open the door."
+        },
+        {
+          "text": "Preparo el té mientras sale el pan.",
+          "trans": "I make the tea while the bread comes out."
+        }
+      ],
+      "related": []
     },
     "barrer": {
       "lemma": "barrer",
@@ -4186,40 +4246,40 @@
       ],
       "related": []
     },
-    "cada": {
-      "lemma": "cada",
-      "stress": "ˈkaða",
+    "el": {
+      "lemma": "el",
+      "stress": "el",
       "pos": "det",
-      "gloss": "each; every",
+      "gloss": "the (masculine singular)",
       "meanings": [
         {
-          "en": "each; every",
-          "note": "Invariable before masculine or feminine singular nouns (cada día, cada mañana)."
+          "en": "the (masculine singular)",
+          "note": "Definite article; also appears before feminine nouns starting with stressed /a/ (el agua, el asa)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Abro la cafetería cada mañana.",
-          "trans": "I open the cafe every morning."
+          "text": "El patio tiene mucha luz.",
+          "trans": "The courtyard has plenty of light."
         },
         {
-          "text": "Cada habitación tiene su llave.",
-          "trans": "Each room has its own key."
+          "text": "Pásame el libro de reservas.",
+          "trans": "Pass me the reservation book."
         }
       ],
       "related": []
     },
-    "calle": {
-      "lemma": "calle",
-      "stress": "ˈkaʎe",
+    "armario": {
+      "lemma": "armario",
+      "stress": "aɾˈmaɾjo",
       "pos": "noun",
-      "gloss": "street",
+      "gloss": "wardrobe; closet; cupboard",
       "meanings": [
         {
-          "en": "street",
-          "note": "Feminine noun: la calle."
+          "en": "wardrobe; closet; cupboard",
+          "note": "Tall storage closet or bedroom wardrobe."
         }
       ],
       "forms": {
@@ -4233,8 +4293,8 @@
           {
             "cells": [
               "form",
-              "la calle",
-              "las calles"
+              "el armario",
+              "los armarios"
             ]
           }
         ]
@@ -4242,209 +4302,15 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "La calle está aquí.",
-          "trans": "The street is here."
+          "text": "El armario está aquí.",
+          "trans": "The wardrobe is here."
         },
         {
-          "text": "Vemos las calles desde la puerta.",
-          "trans": "We see the streets from the door."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "carpintero": {
-      "lemma": "carpintero",
-      "stress": "kaɾpinˈteɾo",
-      "pos": "noun",
-      "gloss": "carpenter",
-      "meanings": [
-        {
-          "en": "carpenter",
-          "note": "Woodworker (feminine: la carpintera)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "el carpintero",
-              "los carpinteros"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El carpintero está aquí.",
-          "trans": "The carpenter is here."
-        },
-        {
-          "text": "Vemos los carpinteros desde la puerta.",
-          "trans": "We see the carpenters from the door."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "cartón": {
-      "lemma": "cartón",
-      "stress": "kaɾˈton",
-      "pos": "noun",
-      "gloss": "cardboard",
-      "meanings": [
-        {
-          "en": "cardboard",
-          "note": "Plural cartones."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "el cartón",
-              "los cartones"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El cartón es muy importante aquí.",
-          "trans": "The cardboard is very important here."
-        },
-        {
-          "text": "Hablamos sobre el cartón.",
-          "trans": "We talk about the cardboard."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "casa": {
-      "lemma": "casa",
-      "stress": "ˈkasa",
-      "pos": "noun",
-      "gloss": "house; home",
-      "meanings": [
-        {
-          "en": "house; home",
-          "note": "En casa = at home (without article)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la casa",
-              "las casas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La casa está aquí.",
-          "trans": "The house is here."
-        },
-        {
-          "text": "Vemos las casas desde la puerta.",
-          "trans": "We see the houses from the door."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "cinco": {
-      "lemma": "cinco",
-      "stress": "ˈθinko",
-      "pos": "num",
-      "gloss": "five",
-      "meanings": [
-        {
-          "en": "five",
-          "note": "Invariable cardinal number."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Faltan cinco minutos para las doce.",
-          "trans": "It is five minutes to twelve."
-        },
-        {
-          "text": "Tenemos cinco mesas en el patio.",
-          "trans": "We have five tables in the courtyard."
+          "text": "Vemos los armarios desde la puerta.",
+          "trans": "We see the wardrobes from the door."
         }
       ],
       "related": []
-    },
-    "clase": {
-      "lemma": "clase",
-      "stress": "ˈklase",
-      "pos": "noun",
-      "gloss": "lesson; class; kind",
-      "meanings": [
-        {
-          "en": "lesson; class; kind",
-          "note": "Dar clase de piano = to teach piano lessons."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la clase",
-              "las clases"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La clase está aquí.",
-          "trans": "The lesson is here."
-        },
-        {
-          "text": "Vemos las clases desde la puerta.",
-          "trans": "We see the lessons from the door."
-        }
-      ],
-      "related": [],
-      "gender": "f"
     },
     "con": {
       "lemma": "con",
@@ -4467,93 +4333,6 @@
         {
           "text": "Habla con calma, por favor.",
           "trans": "Speak calmly, please."
-        }
-      ],
-      "related": []
-    },
-    "conocer": {
-      "lemma": "conocer",
-      "stress": "konoˈθeɾ",
-      "pos": "verb",
-      "gloss": "to know (a person or place); to meet",
-      "meanings": [
-        {
-          "en": "to know (a person or place); to meet",
-          "note": "Irregular 1st sg conozco; preterite conocí often means 'met for the first time'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "conozco",
-              "conocemos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "conoces",
-              "conocéis"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "conoce",
-              "conocen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "conocí",
-                "conocimos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "conociste",
-                "conocisteis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "conoció",
-                "conocieron"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Conozco muy bien este barrio.",
-          "trans": "I know this neighbourhood very well."
-        },
-        {
-          "text": "Ayer conocimos al nuevo vecino.",
-          "trans": "Yesterday we met the new neighbour."
         }
       ],
       "related": []
@@ -4597,1492 +4376,98 @@
           "trans": "We talk about the care."
         }
       ],
-      "related": [],
-      "gender": "m"
-    },
-    "dar": {
-      "lemma": "dar",
-      "stress": "daɾ",
-      "pos": "verb",
-      "gloss": "to give; to face onto (dar a); to strike (the hour)",
-      "meanings": [
-        {
-          "en": "to give; to face onto (dar a); to strike (the hour)",
-          "note": "Irregular 1st sg doy and preterite di/dio; dar las doce = strike twelve."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "doy",
-              "damos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "das",
-              "dais"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "da",
-              "dan"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "di",
-                "dimos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "diste",
-                "disteis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "dio",
-                "dieron"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "La ventana da al patio soleado.",
-          "trans": "The window looks out onto the sunny courtyard."
-        },
-        {
-          "text": "El reloj acaba de dar las doce.",
-          "trans": "The clock has just struck twelve."
-        }
-      ],
       "related": []
     },
-    "de": {
-      "lemma": "de",
-      "stress": "de",
-      "pos": "prep",
-      "gloss": "of; from; made of; about",
-      "meanings": [
-        {
-          "en": "of; from; made of; about",
-          "note": "Links possession, origin, material (de madera), and contents (taza de té)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Es una mesa redonda de madera.",
-          "trans": "It is a round wooden table."
-        },
-        {
-          "text": "Vengo de la estación de tren.",
-          "trans": "I am coming from the train station."
-        }
-      ],
-      "related": []
-    },
-    "dejar": {
-      "lemma": "dejar",
-      "stress": "deˈxaɾ",
-      "pos": "verb",
-      "gloss": "to leave (something); to let / allow",
-      "meanings": [
-        {
-          "en": "to leave (something); to let / allow",
-          "note": "Dejar de + infinitive means 'to stop doing something'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "dejo",
-              "dejamos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "dejas",
-              "dejáis"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "deja",
-              "dejan"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "dejé",
-                "dejamos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "dejaste",
-                "dejasteis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "dejó",
-                "dejaron"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Dejo las llaves en el mostrador.",
-          "trans": "I leave the keys on the counter."
-        },
-        {
-          "text": "Déjame ayudarte con esa caja.",
-          "trans": "Let me help you with that box."
-        }
-      ],
-      "related": []
-    },
-    "del": {
-      "lemma": "del",
-      "stress": "del",
-      "pos": "prep",
-      "gloss": "of the; from the (de + el)",
-      "meanings": [
-        {
-          "en": "of the; from the (de + el)",
-          "note": "Mandatory contraction of preposition de + masculine article el."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El bizcocho acaba de salir del horno.",
-          "trans": "The cake just came out of the oven."
-        },
-        {
-          "text": "Soy vecino del barrio.",
-          "trans": "I am a neighbour from the quarter."
-        }
-      ],
-      "related": []
-    },
-    "dentro": {
-      "lemma": "dentro",
-      "stress": "ˈdentɾo",
-      "pos": "adv",
-      "gloss": "inside; within (dentro de)",
-      "meanings": [
-        {
-          "en": "inside; within (dentro de)",
-          "note": "Dentro de + time means 'in (after) a certain amount of time'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Hay cuatro mesas dentro.",
-          "trans": "There are four tables inside."
-        },
-        {
-          "text": "Vuelvo dentro de diez minutos.",
-          "trans": "I will be back in ten minutes."
-        }
-      ],
-      "related": []
-    },
-    "doce": {
-      "lemma": "doce",
-      "stress": "ˈdoθe",
-      "pos": "num",
-      "gloss": "twelve",
-      "meanings": [
-        {
-          "en": "twelve",
-          "note": "Las doce = twelve o'clock."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El reloj da las doce al mediodía.",
-          "trans": "The clock strikes twelve at noon."
-        },
-        {
-          "text": "Aquí tienes doce euros de cambio.",
-          "trans": "Here is twelve euros in change."
-        }
-      ],
-      "related": []
-    },
-    "dos": {
-      "lemma": "dos",
-      "stress": "dos",
-      "pos": "num",
-      "gloss": "two",
-      "meanings": [
-        {
-          "en": "two",
-          "note": "Los dos / las dos means 'both'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pongo dos tazas azules en la mesa.",
-          "trans": "I put two blue cups on the table."
-        },
-        {
-          "text": "Compra las dos válvulas por favor.",
-          "trans": "Buy both valves, please."
-        }
-      ],
-      "related": []
-    },
-    "dueño": {
-      "lemma": "dueño",
-      "stress": "ˈdweɲo",
-      "pos": "noun",
-      "gloss": "owner; landlord",
-      "meanings": [
-        {
-          "en": "owner; landlord",
-          "note": "Feminine: la dueña."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "el dueño",
-              "los dueños"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El dueño está aquí.",
-          "trans": "The owner is here."
-        },
-        {
-          "text": "Vemos los dueños desde la puerta.",
-          "trans": "We see the owners from the door."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "durante": {
-      "lemma": "durante",
-      "stress": "duˈɾante",
-      "pos": "prep",
-      "gloss": "for (a duration); during",
-      "meanings": [
-        {
-          "en": "for (a duration); during",
-          "note": "Marks how long an action lasted (durante seis años)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vivió aquí durante seis años.",
-          "trans": "She lived here for six years."
-        },
-        {
-          "text": "No sonó el teléfono durante la cena.",
-          "trans": "The phone did not ring during dinner."
-        }
-      ],
-      "related": []
-    },
-    "el": {
-      "lemma": "el",
-      "stress": "el",
-      "pos": "det",
-      "gloss": "the (masculine singular)",
-      "meanings": [
-        {
-          "en": "the (masculine singular)",
-          "note": "Definite article; also appears before feminine nouns starting with stressed /a/ (el agua, el asa)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El patio tiene mucha luz.",
-          "trans": "The courtyard has plenty of light."
-        },
-        {
-          "text": "Pásame el libro de reservas.",
-          "trans": "Pass me the reservation book."
-        }
-      ],
-      "related": []
-    },
-    "en": {
-      "lemma": "en",
-      "stress": "en",
-      "pos": "prep",
-      "gloss": "in; on; at; by",
-      "meanings": [
-        {
-          "en": "in; on; at; by",
-          "note": "Expresses location inside or on top of a surface (en la mesa = on the table)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Las tazas están en la mesa.",
-          "trans": "The cups are on the table."
-        },
-        {
-          "text": "Vivimos en Valencia todo el año.",
-          "trans": "We live in Valencia all year."
-        }
-      ],
-      "related": []
-    },
-    "encantar": {
-      "lemma": "encantar",
-      "stress": "enkanˈtaɾ",
-      "pos": "verb",
-      "gloss": "to love (something); to delight",
-      "meanings": [
-        {
-          "en": "to love (something); to delight",
-          "note": "Works like gustar: me encanta el té = I love tea (tea delights me)."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "encanto",
-              "encantamos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "encantas",
-              "encantáis"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "encanta",
-              "encantan"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "encanté",
-                "encantamos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "encantaste",
-                "encantasteis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "encantó",
-                "encantaron"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Me encanta el olor a pan caliente.",
-          "trans": "I love the smell of warm bread."
-        },
-        {
-          "text": "De niño le encantaban los trenes.",
-          "trans": "As a boy he loved trains."
-        }
-      ],
-      "related": []
-    },
-    "escalera": {
-      "lemma": "escalera",
-      "stress": "eskaˈleɾa",
-      "pos": "noun",
-      "gloss": "stairs; staircase; ladder",
-      "meanings": [
-        {
-          "en": "stairs; staircase; ladder",
-          "note": "Often singular (la escalera) or plural (las escaleras) for a staircase."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la escalera",
-              "las escaleras"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La escalera está aquí.",
-          "trans": "The stairs is here."
-        },
-        {
-          "text": "Vemos las escaleras desde la puerta.",
-          "trans": "We see the stairss from the door."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "ese": {
-      "lemma": "ese",
-      "stress": "ˈese",
-      "pos": "det",
-      "gloss": "that (near you / just mentioned)",
-      "meanings": [
-        {
-          "en": "that (near you / just mentioned)",
-          "note": "Forms: ese, esa, esos, esas."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pásame ese cuaderno azul.",
-          "trans": "Pass me that blue notebook."
-        },
-        {
-          "text": "Esa maleta pertenece a un cliente.",
-          "trans": "That suitcase belongs to a guest."
-        }
-      ],
-      "related": []
-    },
-    "esperar": {
-      "lemma": "esperar",
-      "stress": "espeˈɾaɾ",
-      "pos": "verb",
-      "gloss": "to wait; to wait for; to hope",
-      "meanings": [
-        {
-          "en": "to wait; to wait for; to hope",
-          "note": "Covers both 'wait (for)' and 'hope'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "espero",
-              "esperamos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "esperas",
-              "esperáis"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "espera",
-              "esperan"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "esperé",
-                "esperamos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "esperaste",
-                "esperasteis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "esperó",
-                "esperaron"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Espere un momento, por favor.",
-          "trans": "Wait a moment, please."
-        },
-        {
-          "text": "Esperamos que descanse muy bien.",
-          "trans": "We hope you rest very well."
-        }
-      ],
-      "related": []
-    },
-    "esquina": {
-      "lemma": "esquina",
-      "stress": "esˈkina",
-      "pos": "noun",
-      "gloss": "corner (outer street corner or cake corner)",
-      "meanings": [
-        {
-          "en": "corner (outer street corner or cake corner)",
-          "note": "Outer corner where two streets meet, or the crisp corner of a baking tray."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la esquina",
-              "las esquinas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La esquina está aquí.",
-          "trans": "The corner is here."
-        },
-        {
-          "text": "Vemos las esquinas desde la puerta.",
-          "trans": "We see the corners from the door."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "estar": {
-      "lemma": "estar",
-      "stress": "esˈtaɾ",
-      "pos": "verb",
-      "gloss": "to be (location, state, or condition)",
-      "meanings": [
-        {
-          "en": "to be (location, state, or condition)",
-          "note": "Pairs with locations (está en el patio) and temporary states (está caliente)."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "estoy",
-              "estamos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "estás",
-              "estáis"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "está",
-              "están"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "estuve",
-                "estuvimos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "estuviste",
-                "estuvisteis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "estuvo",
-                "estuvieron"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "El desayuno ya está listo.",
-          "trans": "Breakfast is ready now."
-        },
-        {
-          "text": "¿Dónde están las llaves de latón?",
-          "trans": "Where are the brass keys?"
-        }
-      ],
-      "related": []
-    },
-    "este": {
-      "lemma": "este",
-      "stress": "ˈeste",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "Forms: este (m sg), esta (f sg), estos (m pl), estas (f pl)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Este patio es muy tranquilo.",
-          "trans": "This courtyard is very quiet."
-        },
-        {
-          "text": "Esta mañana hace mucho sol.",
-          "trans": "This morning it is very sunny."
-        }
-      ],
-      "related": []
-    },
-    "etiqueta": {
-      "lemma": "etiqueta",
-      "stress": "etiˈketa",
-      "pos": "noun",
-      "gloss": "tag; label",
-      "meanings": [
-        {
-          "en": "tag; label",
-          "note": "Luggage tag or bottle label."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la etiqueta",
-              "las etiquetas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La etiqueta está aquí.",
-          "trans": "The tag is here."
-        },
-        {
-          "text": "Vemos las etiquetas desde la puerta.",
-          "trans": "We see the tags from the door."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "gemelo": {
-      "lemma": "gemelo",
-      "stress": "xeˈmelo",
-      "pos": "adj",
-      "gloss": "twin; identical",
-      "meanings": [
-        {
-          "en": "twin; identical",
-          "note": "La maleta gemela = the twin suitcase."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "gemelo",
-              "gemela"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "gemelos",
-              "gemelas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Es una pieza gemela.",
-          "trans": "It is a twin piece."
-        },
-        {
-          "text": "Oh, ¿esa es la maleta gemela del tren del lunes?",
-          "trans": "Oh, is that the twin suitcase from Monday's train?"
-        }
-      ],
-      "related": []
-    },
-    "grabado": {
-      "lemma": "grabado",
-      "stress": "ɡɾaˈβaðo",
-      "pos": "adj",
-      "gloss": "carved; engraved; recorded",
-      "meanings": [
-        {
-          "en": "carved; engraved; recorded",
-          "note": "Past-participle adjective from grabar."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "grabado",
-              "grabada"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "grabados",
-              "grabadas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Es una pieza grabada.",
-          "trans": "It is a carved piece."
-        },
-        {
-          "text": "Un momento... ¡Calle de los Tilos número doce, y dos iniciales infantiles grabadas en la esquina!",
-          "trans": "Wait a moment... Number twelve Calle de los Tilos, and two childhood initials carved in the corner!"
-        }
-      ],
-      "related": []
-    },
-    "hacer": {
-      "lemma": "hacer",
-      "stress": "aˈθeɾ",
-      "pos": "verb",
-      "gloss": "to do; to make; ago (hace + time)",
-      "meanings": [
-        {
-          "en": "to do; to make; ago (hace + time)",
-          "note": "Irregular: hago, hice, hecho; hace tres años = three years ago."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "hago",
-              "hacemos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "haces",
-              "hacéis"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "hace",
-              "hacen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "hice",
-                "hicimos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "hiciste",
-                "hicisteis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "hizo",
-                "hicieron"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "La panadera hace pan fresco cada mañana.",
-          "trans": "The baker bakes fresh bread every morning."
-        },
-        {
-          "text": "Llegó hace diez minutos.",
-          "trans": "She arrived ten minutes ago."
-        }
-      ],
-      "related": []
-    },
-    "hasta": {
-      "lemma": "hasta",
-      "stress": "ˈasta",
-      "pos": "prep",
-      "gloss": "until; as far as; even",
-      "meanings": [
-        {
-          "en": "until; as far as; even",
-          "note": "¡Hasta luego! = See you later!; ¡Hasta mañana! = See you tomorrow!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Sigue recto hasta el puente.",
-          "trans": "Walk straight ahead as far as the bridge."
-        },
-        {
-          "text": "Nos quedamos hasta el viernes.",
-          "trans": "We are staying until Friday."
-        }
-      ],
-      "related": []
-    },
-    "infantil": {
-      "lemma": "infantil",
-      "stress": "infanˈtil",
-      "pos": "adj",
-      "gloss": "childhood; children's",
-      "meanings": [
-        {
-          "en": "childhood; children's",
-          "note": "Plural infantiles."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "infantil",
-              "infantil"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "infantiles",
-              "infantiles"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Es una pieza infantil.",
-          "trans": "It is a childhood piece."
-        },
-        {
-          "text": "Un momento... ¡Calle de los Tilos número doce, y dos iniciales infantiles grabadas en la esquina!",
-          "trans": "Wait a moment... Number twelve Calle de los Tilos, and two childhood initials carved in the corner!"
-        }
-      ],
-      "related": []
-    },
-    "inicial": {
-      "lemma": "inicial",
-      "stress": "iniˈθjal",
-      "pos": "noun",
-      "gloss": "initial (first letter of a name)",
-      "meanings": [
-        {
-          "en": "initial (first letter of a name)",
-          "note": "Plural las iniciales."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la inicial",
-              "las iniciales"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La inicial está aquí.",
-          "trans": "The initial is here."
-        },
-        {
-          "text": "Vemos las iniciales desde la puerta.",
-          "trans": "We see the initials from the door."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "la": {
-      "lemma": "la",
-      "stress": "la",
-      "pos": "det",
-      "gloss": "the (feminine singular); her / it (as pron)",
-      "meanings": [
-        {
-          "en": "the (feminine singular); her / it (as pron)",
-          "note": "Definite feminine singular article before nouns; direct-object feminine pronoun before/attached to verbs."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La puerta del patio es azul.",
-          "trans": "The courtyard door is blue."
-        },
-        {
-          "text": "La habitación tiene mucha luz.",
-          "trans": "The room has plenty of light."
-        }
-      ],
-      "related": []
-    },
-    "le": {
-      "lemma": "le",
-      "stress": "le",
+    "ella": {
+      "lemma": "ella",
+      "stress": "ˈeʎa",
       "pos": "pron",
-      "gloss": "to him / her / you (polite)",
+      "gloss": "she; her (after preposition)",
       "meanings": [
         {
-          "en": "to him / her / you (polite)",
-          "note": "Third-person singular indirect object pronoun."
+          "en": "she; her (after preposition)",
+          "note": "Third-person feminine singular pronoun."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Le llevo una taza de té caliente.",
-          "trans": "I am bringing you/her a cup of hot tea."
+          "text": "Ella conoce muy bien esta calle.",
+          "trans": "She knows this street very well."
         },
         {
-          "text": "¿Le gusta la habitación del patio?",
-          "trans": "Do you like the courtyard room?"
+          "text": "Este regalo es para ella.",
+          "trans": "This gift is for her."
         }
       ],
       "related": []
     },
-    "los": {
-      "lemma": "los",
-      "stress": "los",
-      "pos": "det",
-      "gloss": "the (masculine plural); every (with weekdays)",
+    "viernes": {
+      "lemma": "viernes",
+      "stress": "ˈbjeɾnes",
+      "pos": "noun",
+      "gloss": "Friday",
       "meanings": [
         {
-          "en": "the (masculine plural); every (with weekdays)",
-          "note": "Los viernes means 'every Friday / on Fridays'."
+          "en": "Friday",
+          "note": "Invariable in plural: el viernes ('on Friday'), los viernes ('on Fridays')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el viernes",
+              "los viernes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El viernes está aquí.",
+          "trans": "The Friday is here."
+        },
+        {
+          "text": "Vemos los viernes desde la puerta.",
+          "trans": "We see the Fridays from the door."
+        }
+      ],
+      "related": []
+    },
+    "al": {
+      "lemma": "al",
+      "stress": "al",
+      "pos": "prep",
+      "gloss": "to the; at the (a + el)",
+      "meanings": [
+        {
+          "en": "to the; at the (a + el)",
+          "note": "Mandatory contraction of preposition a + masculine article el; al + infinitive means 'upon doing'."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Los vecinos vienen a desayunar.",
-          "trans": "The neighbours come for breakfast."
+          "text": "Vamos al mercado por la mañana.",
+          "trans": "We go to the market in the morning."
         },
         {
-          "text": "Daba clases de piano los viernes.",
-          "trans": "She taught piano lessons on Fridays."
+          "text": "Al abrir la puerta, sonó el timbre.",
+          "trans": "Upon opening the door, the bell rang."
         }
       ],
       "related": []
-    },
-    "lunes": {
-      "lemma": "lunes",
-      "stress": "ˈlunes",
-      "pos": "noun",
-      "gloss": "Monday",
-      "meanings": [
-        {
-          "en": "Monday",
-          "note": "Invariable in plural: el lunes, los lunes."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "el lunes",
-              "los lunes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El lunes está aquí.",
-          "trans": "The Monday is here."
-        },
-        {
-          "text": "Vemos los lunes desde la puerta.",
-          "trans": "We see the Mondays from the door."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "luz": {
-      "lemma": "luz",
-      "stress": "luθ",
-      "pos": "noun",
-      "gloss": "light; electricity",
-      "meanings": [
-        {
-          "en": "light; electricity",
-          "note": "Plural las luces; a plena luz del sol = in bright sunlight."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la luz",
-              "las luces"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La luz está aquí.",
-          "trans": "The light is here."
-        },
-        {
-          "text": "Vemos las luces desde la puerta.",
-          "trans": "We see the lights from the door."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "madera": {
-      "lemma": "madera",
-      "stress": "maˈðeɾa",
-      "pos": "noun",
-      "gloss": "wood; timber",
-      "meanings": [
-        {
-          "en": "wood; timber",
-          "note": "De madera = wooden."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la madera",
-              "las maderas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La madera está aquí.",
-          "trans": "The wood is here."
-        },
-        {
-          "text": "Vemos las maderas desde la puerta.",
-          "trans": "We see the woods from the door."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "maleta": {
-      "lemma": "maleta",
-      "stress": "maˈleta",
-      "pos": "noun",
-      "gloss": "suitcase",
-      "meanings": [
-        {
-          "en": "suitcase",
-          "note": "Hacer la maleta = to pack one's suitcase."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la maleta",
-              "las maletas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Esta maleta azul pesa mucho.",
-          "trans": "This blue suitcase is very heavy."
-        },
-        {
-          "text": "Guardo las llaves en la maleta.",
-          "trans": "I keep the keys in the suitcase."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "mayor": {
-      "lemma": "mayor",
-      "stress": "maˈʝoɾ",
-      "pos": "adj",
-      "gloss": "older; biggest; major (fa mayor)",
-      "meanings": [
-        {
-          "en": "older; biggest; major (fa mayor)",
-          "note": "Hermano mayor = older brother; plural mayores."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "mayor",
-              "mayor"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "mayores",
-              "mayores"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Es una pieza mayor.",
-          "trans": "It is an older piece."
-        },
-        {
-          "text": "Conoces bien a los hermanos mayores, Mateo.",
-          "trans": "You know older brothers well, Mateo."
-        }
-      ],
-      "related": []
-    },
-    "mañana": {
-      "lemma": "mañana",
-      "stress": "maˈɲana",
-      "pos": "noun",
-      "gloss": "morning (la mañana); tomorrow (as adv)",
-      "meanings": [
-        {
-          "en": "morning (la mañana); tomorrow (as adv)",
-          "note": "La mañana = the morning; mañana (without article) = tomorrow."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la mañana",
-              "las mañanas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Por la mañana servimos café caliente.",
-          "trans": "In the morning we serve hot coffee."
-        },
-        {
-          "text": "¡Hasta mañana a las ocho!",
-          "trans": "See you tomorrow at eight!"
-        }
-      ],
-      "related": [],
-      "gender": "f"
     },
     "mediodía": {
       "lemma": "mediodía",
@@ -6121,916 +4506,6 @@
         {
           "text": "Hablamos sobre el mediodía.",
           "trans": "We talk about the noon."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "mientras": {
-      "lemma": "mientras",
-      "stress": "ˈmjentɾas",
-      "pos": "conj",
-      "gloss": "while",
-      "meanings": [
-        {
-          "en": "while",
-          "note": "Links two simultaneous actions."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Espera aquí mientras abro la puerta.",
-          "trans": "Wait here while I open the door."
-        },
-        {
-          "text": "Preparo el té mientras sale el pan.",
-          "trans": "I make the tea while the bread comes out."
-        }
-      ],
-      "related": []
-    },
-    "minuto": {
-      "lemma": "minuto",
-      "stress": "miˈnuto",
-      "pos": "noun",
-      "gloss": "minute",
-      "meanings": [
-        {
-          "en": "minute",
-          "note": "En cinco minutos = in five minutes."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "el minuto",
-              "los minutos"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El minuto está aquí.",
-          "trans": "The minute is here."
-        },
-        {
-          "text": "Vemos los minutos desde la puerta.",
-          "trans": "We see the minutes from the door."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "mirar": {
-      "lemma": "mirar",
-      "stress": "miˈɾaɾ",
-      "pos": "verb",
-      "gloss": "to look; to look at; to watch",
-      "meanings": [
-        {
-          "en": "to look; to look at; to watch",
-          "note": "Needs no preposition for 'at' (mira el reloj = look at the clock)."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "miro",
-              "miramos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "miras",
-              "miráis"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "mira",
-              "miran"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "miré",
-                "miramos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "miraste",
-                "mirasteis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "miró",
-                "miraron"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Mira qué sol hace esta mañana.",
-          "trans": "Look how sunny it is this morning."
-        },
-        {
-          "text": "Miramos el mapa antes de salir.",
-          "trans": "We look at the map before going out."
-        }
-      ],
-      "related": []
-    },
-    "mismo": {
-      "lemma": "mismo",
-      "stress": "ˈmismo",
-      "pos": "adj",
-      "gloss": "same; emphatic right (in ahora mismo)",
-      "meanings": [
-        {
-          "en": "same",
-          "note": "Agrees with the noun it describes."
-        },
-        {
-          "en": "emphatic right; exactly",
-          "note": "In ahora mismo, meaning right now, mismo strengthens the time word ahora. Now comes from ahora; mismo supplies emphasis without agreeing with a person in this expression."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "mismo",
-              "misma"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "mismos",
-              "mismas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tenemos el mismo trabajo.",
-          "trans": "We have the same job."
-        },
-        {
-          "text": "Ahora mismo estoy ocupada.",
-          "trans": "I am busy right now."
-        }
-      ],
-      "related": []
-    },
-    "momento": {
-      "lemma": "momento",
-      "stress": "moˈmento",
-      "pos": "noun",
-      "gloss": "moment (un momento = wait a moment)",
-      "meanings": [
-        {
-          "en": "moment (un momento = wait a moment)",
-          "note": "De momento = for now."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "el momento",
-              "los momentos"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El momento está aquí.",
-          "trans": "The moment is here."
-        },
-        {
-          "text": "Vemos los momentos desde la puerta.",
-          "trans": "We see the moments from the door."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "nieto": {
-      "lemma": "nieto",
-      "stress": "ˈnjeto",
-      "pos": "noun",
-      "gloss": "grandson; grandchild (pl nietos)",
-      "meanings": [
-        {
-          "en": "grandson; grandchild (pl nietos)",
-          "note": "Feminine: la nieta; los nietos = grandchildren / grandsons."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "el nieto",
-              "los nietos"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El nieto está aquí.",
-          "trans": "The grandson is here."
-        },
-        {
-          "text": "Vemos los nietos desde la puerta.",
-          "trans": "We see the grandsons from the door."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "número": {
-      "lemma": "número",
-      "stress": "ˈnumeɾo",
-      "pos": "noun",
-      "gloss": "number; size (shoes)",
-      "meanings": [
-        {
-          "en": "number; size (shoes)",
-          "note": "Written after street names in Spanish addresses (Calle Mayor número ocho)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "el número",
-              "los números"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El número está aquí.",
-          "trans": "The number is here."
-        },
-        {
-          "text": "Vemos los números desde la puerta.",
-          "trans": "We see the numbers from the door."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "oh": {
-      "lemma": "oh",
-      "stress": "o",
-      "pos": "interj",
-      "gloss": "oh!",
-      "meanings": [
-        {
-          "en": "oh!",
-          "note": "Expresses surprise or realization."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "¡Oh, ahí está la puerta azul!",
-          "trans": "Oh, there is the blue door!"
-        },
-        {
-          "text": "Oh, perdona, no te había visto.",
-          "trans": "Oh, sorry, I had not seen you."
-        }
-      ],
-      "related": []
-    },
-    "oscuro": {
-      "lemma": "oscuro",
-      "stress": "osˈkuɾo",
-      "pos": "adj",
-      "gloss": "dark",
-      "meanings": [
-        {
-          "en": "dark",
-          "note": "Azul oscuro = dark blue; gris oscuro = dark grey."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "oscuro",
-              "oscura"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "oscuros",
-              "oscuras"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Es una pieza oscura.",
-          "trans": "It is a dark piece."
-        },
-        {
-          "text": "Espere, ¡es azul oscuro, igual que la suya!",
-          "trans": "Wait, it is dark blue, just like yours!"
-        }
-      ],
-      "related": []
-    },
-    "otro": {
-      "lemma": "otro",
-      "stress": "ˈotɾo",
-      "pos": "det",
-      "gloss": "other; another (never 'un otro'!)",
-      "meanings": [
-        {
-          "en": "other; another (never 'un otro'!)",
-          "note": "Spanish never puts un/una before otro (otra taza = another cup; otra vez = again)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "¿Quiere otra taza de café?",
-          "trans": "Would you like another cup of coffee?"
-        },
-        {
-          "text": "Míralo otra vez a la luz.",
-          "trans": "Look at it again in the light."
-        }
-      ],
-      "related": []
-    },
-    "para": {
-      "lemma": "para",
-      "stress": "ˈpaɾa",
-      "pos": "prep",
-      "gloss": "for (recipient/deadline/goal); in order to",
-      "meanings": [
-        {
-          "en": "for (recipient/deadline/goal); in order to",
-          "note": "Marks destination, recipient (para ti), deadline, and minutes to the hour (cinco para las doce)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Este paquete blanco es para mi hermano.",
-          "trans": "This white parcel is for my brother."
-        },
-        {
-          "text": "Faltan diez minutos para las doce.",
-          "trans": "It is ten minutes to twelve."
-        }
-      ],
-      "related": []
-    },
-    "parecer": {
-      "lemma": "parecer",
-      "stress": "paɾeˈθeɾ",
-      "pos": "verb",
-      "gloss": "to seem; to look (like)",
-      "meanings": [
-        {
-          "en": "to seem; to look (like)",
-          "note": "Irregular 1st sg parezco."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "parezco",
-              "parecemos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "pareces",
-              "parecéis"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "parece",
-              "parecen"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "parecí",
-                "parecimos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "pareciste",
-                "parecisteis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "pareció",
-                "parecieron"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Este rincón parece un jardín secreto.",
-          "trans": "This corner looks like a secret garden."
-        },
-        {
-          "text": "La idea nos pareció excelente.",
-          "trans": "The idea seemed excellent to us."
-        }
-      ],
-      "related": []
-    },
-    "pequeño": {
-      "lemma": "pequeño",
-      "stress": "peˈkeɲo",
-      "pos": "adj",
-      "gloss": "small; little; young",
-      "meanings": [
-        {
-          "en": "small; little; young",
-          "note": "Hermano pequeño = younger brother; de pequeño = as a child."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "pequeño",
-              "pequeña"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "pequeños",
-              "pequeñas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Es una pieza pequeña.",
-          "trans": "It is a small piece."
-        },
-        {
-          "text": "Hay una pequeña tarjeta de cartón atada al asa.",
-          "trans": "There is a small cardboard card tied to the handle."
-        }
-      ],
-      "related": []
-    },
-    "piano": {
-      "lemma": "piano",
-      "stress": "ˈpjano",
-      "pos": "noun",
-      "gloss": "piano",
-      "meanings": [
-        {
-          "en": "piano",
-          "note": "Tocar el piano = to play the piano."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "el piano",
-              "los pianos"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El piano está aquí.",
-          "trans": "The piano is here."
-        },
-        {
-          "text": "Vemos los pianos desde la puerta.",
-          "trans": "We see the pianos from the door."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "pleno": {
-      "lemma": "pleno",
-      "stress": "ˈpleno",
-      "pos": "adj",
-      "gloss": "full; bright (a plena luz del sol)",
-      "meanings": [
-        {
-          "en": "full; bright (a plena luz del sol)",
-          "note": "A plena luz del sol = in broad daylight."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "pleno",
-              "plena"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "plenos",
-              "plenas"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Es una pieza plena.",
-          "trans": "It is a full piece."
-        },
-        {
-          "text": "¿Puedo mirar otra vez la etiqueta de cartón aquí a plena luz del sol?",
-          "trans": "May I look at the cardboard tag again here in bright sunlight?"
-        }
-      ],
-      "related": []
-    },
-    "poder": {
-      "lemma": "poder",
-      "stress": "poˈðeɾ",
-      "pos": "verb",
-      "gloss": "can; to be able to; may",
-      "meanings": [
-        {
-          "en": "can; to be able to; may",
-          "note": "Irregular: puedo, pude, podría."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "puedo",
-              "podemos"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "puedes",
-              "podéis"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "puede",
-              "pueden"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Preterite",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "pude",
-                "pudimos"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "pudiste",
-                "pudisteis"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "pudo",
-                "pudieron"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "¿Puedo ver la etiqueta otra vez?",
-          "trans": "May I look at the tag again?"
-        },
-        {
-          "text": "Hoy podemos desayunar en el patio.",
-          "trans": "Today we can have breakfast in the courtyard."
-        }
-      ],
-      "related": []
-    },
-    "por": {
-      "lemma": "por",
-      "stress": "poɾ",
-      "pos": "prep",
-      "gloss": "through; along; by; because of; in (time of day)",
-      "meanings": [
-        {
-          "en": "through; along; by; because of; in (time of day)",
-          "note": "Por la mañana = in the morning; por favor = please; gracias por = thanks for."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Paseamos por el casco antiguo.",
-          "trans": "We stroll through the old quarter."
-        },
-        {
-          "text": "Por la mañana entra mucho sol.",
-          "trans": "In the morning plenty of sun comes in."
-        }
-      ],
-      "related": []
-    },
-    "pronto": {
-      "lemma": "pronto",
-      "stress": "ˈpɾonto",
-      "pos": "adv",
-      "gloss": "soon; early",
-      "meanings": [
-        {
-          "en": "soon; early",
-          "note": "¡Hasta pronto! = See you soon!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "¡Hasta pronto y buen viaje!",
-          "trans": "See you soon and safe travels!"
-        },
-        {
-          "text": "Esta mañana me desperté muy pronto.",
-          "trans": "This morning I woke up very early."
-        }
-      ],
-      "related": []
-    },
-    "que": {
-      "lemma": "que",
-      "stress": "ke",
-      "pos": "conj",
-      "gloss": "that; which; who; than",
-      "meanings": [
-        {
-          "en": "that; which; who; than",
-          "note": "Core connector and relative pronoun (unaccented, distinct from interrogative qué)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Espero que descanses muy bien.",
-          "trans": "I hope that you rest very well."
-        },
-        {
-          "text": "El pan de esta panadería huele genial.",
-          "trans": "The bread that The baker bakes smells great."
-        }
-      ],
-      "related": []
-    },
-    "recepción": {
-      "lemma": "recepción",
-      "stress": "reθepˈθjon",
-      "pos": "noun",
-      "gloss": "front desk; reception; check-in",
-      "meanings": [
-        {
-          "en": "front desk; reception; check-in",
-          "note": "En recepción = at the front desk."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la recepción",
-              "las recepciones"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "La recepción está aquí.",
-          "trans": "The front desk is here."
-        },
-        {
-          "text": "Vemos las recepciones desde la puerta.",
-          "trans": "We see the front desks from the door."
-        }
-      ],
-      "related": [],
-      "gender": "f"
-    },
-    "seis": {
-      "lemma": "seis",
-      "stress": "sejs",
-      "pos": "num",
-      "gloss": "six",
-      "meanings": [
-        {
-          "en": "six",
-          "note": "Las seis = six o'clock."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Me despierto a las seis y media.",
-          "trans": "I wake up at six thirty."
-        },
-        {
-          "text": "Tengo seis limones en la cesta.",
-          "trans": "I have six lemons in the basket."
         }
       ],
       "related": []
@@ -7122,6 +4597,302 @@
       ],
       "related": []
     },
+    "mañana": {
+      "lemma": "mañana",
+      "stress": "maˈɲana",
+      "pos": "noun",
+      "gloss": "morning (la mañana); tomorrow (as adv)",
+      "meanings": [
+        {
+          "en": "morning (la mañana); tomorrow (as adv)",
+          "note": "La mañana = the morning; mañana (without article) = tomorrow."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la mañana",
+              "las mañanas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Por la mañana servimos café caliente.",
+          "trans": "In the morning we serve hot coffee."
+        },
+        {
+          "text": "¡Hasta mañana a las ocho!",
+          "trans": "See you tomorrow at eight!"
+        }
+      ],
+      "related": []
+    },
+    "oh": {
+      "lemma": "oh",
+      "stress": "o",
+      "pos": "interj",
+      "gloss": "oh!",
+      "meanings": [
+        {
+          "en": "oh!",
+          "note": "Expresses surprise or realization."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "¡Oh, ahí está la puerta azul!",
+          "trans": "Oh, there is the blue door!"
+        },
+        {
+          "text": "Oh, perdona, no te había visto.",
+          "trans": "Oh, sorry, I had not seen you."
+        }
+      ],
+      "related": []
+    },
+    "ese": {
+      "lemma": "ese",
+      "stress": "ˈese",
+      "pos": "det",
+      "gloss": "that (near you / just mentioned)",
+      "meanings": [
+        {
+          "en": "that (near you / just mentioned)",
+          "note": "Forms: ese, esa, esos, esas."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pásame ese cuaderno azul.",
+          "trans": "Pass me that blue notebook."
+        },
+        {
+          "text": "Esa maleta pertenece a un cliente.",
+          "trans": "That suitcase belongs to a guest."
+        }
+      ],
+      "related": []
+    },
+    "la": {
+      "lemma": "la",
+      "stress": "la",
+      "pos": "det",
+      "gloss": "the (feminine singular); her / it (as pron)",
+      "meanings": [
+        {
+          "en": "the (feminine singular); her / it (as pron)",
+          "note": "Definite feminine singular article before nouns; direct-object feminine pronoun before/attached to verbs."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La puerta del patio es azul.",
+          "trans": "The courtyard door is blue."
+        },
+        {
+          "text": "La habitación tiene mucha luz.",
+          "trans": "The room has plenty of light."
+        }
+      ],
+      "related": []
+    },
+    "gemelo": {
+      "lemma": "gemelo",
+      "stress": "xeˈmelo",
+      "pos": "adj",
+      "gloss": "twin; identical",
+      "meanings": [
+        {
+          "en": "twin; identical",
+          "note": "La maleta gemela = the twin suitcase."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "gemelo",
+              "gemela"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "gemelos",
+              "gemelas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Es una pieza gemela.",
+          "trans": "It is a twin piece."
+        },
+        {
+          "text": "Oh, ¿esa es la maleta gemela del tren del lunes?",
+          "trans": "Oh, is that the twin suitcase from Monday's train?"
+        }
+      ],
+      "related": []
+    },
+    "del": {
+      "lemma": "del",
+      "stress": "del",
+      "pos": "prep",
+      "gloss": "of the; from the (de + el)",
+      "meanings": [
+        {
+          "en": "of the; from the (de + el)",
+          "note": "Mandatory contraction of preposition de + masculine article el."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El bizcocho acaba de salir del horno.",
+          "trans": "The cake just came out of the oven."
+        },
+        {
+          "text": "Soy vecino del barrio.",
+          "trans": "I am a neighbour from the quarter."
+        }
+      ],
+      "related": []
+    },
+    "tren": {
+      "lemma": "tren",
+      "stress": "tɾen",
+      "pos": "noun",
+      "gloss": "train",
+      "meanings": [
+        {
+          "en": "train",
+          "note": "Plural los trenes."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el tren",
+              "los trenes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El tren está aquí.",
+          "trans": "The train is here."
+        },
+        {
+          "text": "Vemos los trenes desde la puerta.",
+          "trans": "We see the trains from the door."
+        }
+      ],
+      "related": []
+    },
+    "lunes": {
+      "lemma": "lunes",
+      "stress": "ˈlunes",
+      "pos": "noun",
+      "gloss": "Monday",
+      "meanings": [
+        {
+          "en": "Monday",
+          "note": "Invariable in plural: el lunes, los lunes."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el lunes",
+              "los lunes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El lunes está aquí.",
+          "trans": "The Monday is here."
+        },
+        {
+          "text": "Vemos los lunes desde la puerta.",
+          "trans": "We see the Mondays from the door."
+        }
+      ],
+      "related": []
+    },
+    "sí": {
+      "lemma": "sí",
+      "stress": "si",
+      "pos": "adv",
+      "gloss": "yes",
+      "meanings": [
+        {
+          "en": "yes",
+          "note": "Accented sí means 'yes' (distinct from unaccented si = 'if')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Sí, la habitación está lista.",
+          "trans": "Yes, the room is ready."
+        },
+        {
+          "text": "¡Claro que sí, pase usted!",
+          "trans": "Of course, come right in!"
+        }
+      ],
+      "related": []
+    },
     "señora": {
       "lemma": "señora",
       "stress": "seˈɲoɾa",
@@ -7161,30 +4932,643 @@
           "trans": "We see the madams from the door."
         }
       ],
-      "related": [],
-      "gender": "f"
+      "related": []
     },
-    "si": {
-      "lemma": "si",
-      "stress": "si",
-      "pos": "conj",
-      "gloss": "if; whether",
+    "todavía": {
+      "lemma": "todavía",
+      "stress": "toðaˈβia",
+      "pos": "adv",
+      "gloss": "still; yet (todavía no = not yet)",
       "meanings": [
         {
-          "en": "if; whether",
-          "note": "Unaccented conjunction, distinct from accented sí ('yes')."
+          "en": "still; yet (todavía no = not yet)",
+          "note": "Everyday word for 'still' or 'not yet'."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Avísame si necesitas otra manta.",
-          "trans": "Let me know if you need another blanket."
+          "text": "El café todavía está caliente.",
+          "trans": "The coffee is still hot."
         },
         {
-          "text": "Mira si queda leche en la nevera.",
-          "trans": "Check whether any milk is left in the fridge."
+          "text": "Todavía no son las doce.",
+          "trans": "It is not twelve o'clock yet."
+        }
+      ],
+      "related": []
+    },
+    "esperar": {
+      "lemma": "esperar",
+      "stress": "espeˈɾaɾ",
+      "pos": "verb",
+      "gloss": "to wait; to wait for; to hope",
+      "meanings": [
+        {
+          "en": "to wait; to wait for; to hope",
+          "note": "Covers both 'wait (for)' and 'hope'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "espero",
+              "esperamos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "esperas",
+              "esperáis"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "espera",
+              "esperan"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "esperé",
+                "esperamos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "esperaste",
+                "esperasteis"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "esperó",
+                "esperaron"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Espere un momento, por favor.",
+          "trans": "Wait a moment, please."
+        },
+        {
+          "text": "Esperamos que descanse muy bien.",
+          "trans": "We hope you rest very well."
+        }
+      ],
+      "related": []
+    },
+    "a": {
+      "lemma": "a",
+      "stress": "a",
+      "pos": "prep",
+      "gloss": "to; at",
+      "meanings": [
+        {
+          "en": "to; at",
+          "note": "Marks destination, clock time, and animate direct objects (personal a)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vamos a la estación ahora.",
+          "trans": "We are going to the station now."
+        },
+        {
+          "text": "El desayuno empieza a las ocho.",
+          "trans": "Breakfast starts at eight o'clock."
+        }
+      ],
+      "related": []
+    },
+    "su": {
+      "lemma": "su",
+      "stress": "su",
+      "pos": "det",
+      "gloss": "his; her; its; their; your (polite usted/ustedes)",
+      "meanings": [
+        {
+          "en": "his; her; its; their; your (polite usted/ustedes)",
+          "note": "Plural sus (su maleta / sus maletas)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Aquí tiene su llave, señora.",
+          "trans": "Here is your key, madam."
+        },
+        {
+          "text": "Sus habitaciones están en la primera planta.",
+          "trans": "Your rooms are on the first floor."
+        }
+      ],
+      "related": []
+    },
+    "dueño": {
+      "lemma": "dueño",
+      "stress": "ˈdweɲo",
+      "pos": "noun",
+      "gloss": "owner; landlord",
+      "meanings": [
+        {
+          "en": "owner; landlord",
+          "note": "Feminine: la dueña."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el dueño",
+              "los dueños"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El dueño está aquí.",
+          "trans": "The owner is here."
+        },
+        {
+          "text": "Vemos los dueños desde la puerta.",
+          "trans": "We see the owners from the door."
+        }
+      ],
+      "related": []
+    },
+    "poder": {
+      "lemma": "poder",
+      "stress": "poˈðeɾ",
+      "pos": "verb",
+      "gloss": "can; to be able to; may",
+      "meanings": [
+        {
+          "en": "can; to be able to; may",
+          "note": "Irregular: puedo, pude, podría."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "puedo",
+              "podemos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "puedes",
+              "podéis"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "puede",
+              "pueden"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "pude",
+                "pudimos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "pudiste",
+                "pudisteis"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "pudo",
+                "pudieron"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Puedo ver la etiqueta otra vez?",
+          "trans": "May I look at the tag again?"
+        },
+        {
+          "text": "Hoy podemos desayunar en el patio.",
+          "trans": "Today we can have breakfast in the courtyard."
+        }
+      ],
+      "related": []
+    },
+    "mirar": {
+      "lemma": "mirar",
+      "stress": "miˈɾaɾ",
+      "pos": "verb",
+      "gloss": "to look; to look at; to watch",
+      "meanings": [
+        {
+          "en": "to look; to look at; to watch",
+          "note": "Needs no preposition for 'at' (mira el reloj = look at the clock)."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "miro",
+              "miramos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "miras",
+              "miráis"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "mira",
+              "miran"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "miré",
+                "miramos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "miraste",
+                "mirasteis"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "miró",
+                "miraron"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mira qué sol hace esta mañana.",
+          "trans": "Look how sunny it is this morning."
+        },
+        {
+          "text": "Miramos el mapa antes de salir.",
+          "trans": "We look at the map before going out."
+        }
+      ],
+      "related": []
+    },
+    "otro": {
+      "lemma": "otro",
+      "stress": "ˈotɾo",
+      "pos": "det",
+      "gloss": "other; another (never 'un otro'!)",
+      "meanings": [
+        {
+          "en": "other; another (never 'un otro'!)",
+          "note": "Spanish never puts un/una before otro (otra taza = another cup; otra vez = again)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "¿Quiere otra taza de café?",
+          "trans": "Would you like another cup of coffee?"
+        },
+        {
+          "text": "Míralo otra vez a la luz.",
+          "trans": "Look at it again in the light."
+        }
+      ],
+      "related": []
+    },
+    "vez": {
+      "lemma": "vez",
+      "stress": "beθ",
+      "pos": "noun",
+      "gloss": "time / occasion (dos veces = twice; en vez de = instead of)",
+      "meanings": [
+        {
+          "en": "time / occasion (dos veces = twice; en vez de = instead of)",
+          "note": "Plural las veces; a veces = sometimes; otra vez = again."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la vez",
+              "las veces"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La vez está aquí.",
+          "trans": "The time / occasion is here."
+        },
+        {
+          "text": "Vemos las veces desde la puerta.",
+          "trans": "We see the time / occasions from the door."
+        }
+      ],
+      "related": []
+    },
+    "etiqueta": {
+      "lemma": "etiqueta",
+      "stress": "etiˈketa",
+      "pos": "noun",
+      "gloss": "tag; label",
+      "meanings": [
+        {
+          "en": "tag; label",
+          "note": "Luggage tag or bottle label."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la etiqueta",
+              "las etiquetas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La etiqueta está aquí.",
+          "trans": "The tag is here."
+        },
+        {
+          "text": "Vemos las etiquetas desde la puerta.",
+          "trans": "We see the tags from the door."
+        }
+      ],
+      "related": []
+    },
+    "de": {
+      "lemma": "de",
+      "stress": "de",
+      "pos": "prep",
+      "gloss": "of; from; made of; about",
+      "meanings": [
+        {
+          "en": "of; from; made of; about",
+          "note": "Links possession, origin, material (de madera), and contents (taza de té)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Es una mesa redonda de madera.",
+          "trans": "It is a round wooden table."
+        },
+        {
+          "text": "Vengo de la estación de tren.",
+          "trans": "I am coming from the train station."
+        }
+      ],
+      "related": []
+    },
+    "cartón": {
+      "lemma": "cartón",
+      "stress": "kaɾˈton",
+      "pos": "noun",
+      "gloss": "cardboard",
+      "meanings": [
+        {
+          "en": "cardboard",
+          "note": "Plural cartones."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el cartón",
+              "los cartones"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El cartón es muy importante aquí.",
+          "trans": "The cardboard is very important here."
+        },
+        {
+          "text": "Hablamos sobre el cartón.",
+          "trans": "We talk about the cardboard."
+        }
+      ],
+      "related": []
+    },
+    "pleno": {
+      "lemma": "pleno",
+      "stress": "ˈpleno",
+      "pos": "adj",
+      "gloss": "full; bright (a plena luz del sol)",
+      "meanings": [
+        {
+          "en": "full; bright (a plena luz del sol)",
+          "note": "A plena luz del sol = in broad daylight."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "pleno",
+              "plena"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "plenos",
+              "plenas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Es una pieza plena.",
+          "trans": "It is a full piece."
+        },
+        {
+          "text": "¿Puedo mirar otra vez la etiqueta de cartón aquí a plena luz del sol?",
+          "trans": "May I look at the cardboard tag again here in bright sunlight?"
+        }
+      ],
+      "related": []
+    },
+    "luz": {
+      "lemma": "luz",
+      "stress": "luθ",
+      "pos": "noun",
+      "gloss": "light; electricity",
+      "meanings": [
+        {
+          "en": "light; electricity",
+          "note": "Plural las luces; a plena luz del sol = in bright sunlight."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la luz",
+              "las luces"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La luz está aquí.",
+          "trans": "The light is here."
+        },
+        {
+          "text": "Vemos las luces desde la puerta.",
+          "trans": "We see the lights from the door."
         }
       ],
       "related": []
@@ -7228,30 +5612,1096 @@
           "trans": "We talk about the sun."
         }
       ],
-      "related": [],
-      "gender": "m"
+      "related": []
     },
-    "su": {
-      "lemma": "su",
-      "stress": "su",
-      "pos": "det",
-      "gloss": "his; her; its; their; your (polite usted/ustedes)",
+    "adelante": {
+      "lemma": "adelante",
+      "stress": "aðeˈlante",
+      "pos": "interj",
+      "gloss": "come in!; go right ahead!",
       "meanings": [
         {
-          "en": "his; her; its; their; your (polite usted/ustedes)",
-          "note": "Plural sus (su maleta / sus maletas)."
+          "en": "come in!; go right ahead!",
+          "note": "Warm invitation to enter a room or proceed."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Aquí tiene su llave, señora.",
-          "trans": "Here is your key, madam."
+          "text": "¡Adelante, la puerta está abierta!",
+          "trans": "Come in, the door is open!"
         },
         {
-          "text": "Sus habitaciones están en la primera planta.",
-          "trans": "Your rooms are on the first floor."
+          "text": "Adelante, puede sentarse aquí.",
+          "trans": "Go right ahead, you may sit here."
+        }
+      ],
+      "related": []
+    },
+    "por": {
+      "lemma": "por",
+      "stress": "poɾ",
+      "pos": "prep",
+      "gloss": "through; along; by; because of; in (time of day)",
+      "meanings": [
+        {
+          "en": "through; along; by; because of; in (time of day)",
+          "note": "Por la mañana = in the morning; por favor = please; gracias por = thanks for."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Paseamos por el casco antiguo.",
+          "trans": "We stroll through the old quarter."
+        },
+        {
+          "text": "Por la mañana entra mucho sol.",
+          "trans": "In the morning plenty of sun comes in."
+        }
+      ],
+      "related": []
+    },
+    "tarde": {
+      "lemma": "tarde",
+      "stress": "ˈtaɾðe",
+      "pos": "noun",
+      "gloss": "afternoon / evening (la tarde); late (as adv)",
+      "meanings": [
+        {
+          "en": "afternoon / evening (la tarde); late (as adv)",
+          "note": "Por la tarde = in the afternoon; ¡Buenas tardes! = Good afternoon!; llegar tarde = arrive late."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la tarde",
+              "las tardes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "¡Buenas tardes! ¿Tienen una habitación libre?",
+          "trans": "Good afternoon! Do you have a room free?"
+        },
+        {
+          "text": "Perdón por llegar un poco tarde.",
+          "trans": "Sorry for arriving a little late."
+        }
+      ],
+      "related": []
+    },
+    "recepción": {
+      "lemma": "recepción",
+      "stress": "reθepˈθjon",
+      "pos": "noun",
+      "gloss": "front desk; reception; check-in",
+      "meanings": [
+        {
+          "en": "front desk; reception; check-in",
+          "note": "En recepción = at the front desk."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la recepción",
+              "las recepciones"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La recepción está aquí.",
+          "trans": "The front desk is here."
+        },
+        {
+          "text": "Vemos las recepciones desde la puerta.",
+          "trans": "We see the front desks from the door."
+        }
+      ],
+      "related": []
+    },
+    "estar": {
+      "lemma": "estar",
+      "stress": "esˈtaɾ",
+      "pos": "verb",
+      "gloss": "to be (location, state, or condition)",
+      "meanings": [
+        {
+          "en": "to be (location, state, or condition)",
+          "note": "Pairs with locations (está en el patio) and temporary states (está caliente)."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "estoy",
+              "estamos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "estás",
+              "estáis"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "está",
+              "están"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "estuve",
+                "estuvimos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "estuviste",
+                "estuvisteis"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "estuvo",
+                "estuvieron"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "El desayuno ya está listo.",
+          "trans": "Breakfast is ready now."
+        },
+        {
+          "text": "¿Dónde están las llaves de latón?",
+          "trans": "Where are the brass keys?"
+        }
+      ],
+      "related": []
+    },
+    "oscuro": {
+      "lemma": "oscuro",
+      "stress": "osˈkuɾo",
+      "pos": "adj",
+      "gloss": "dark",
+      "meanings": [
+        {
+          "en": "dark",
+          "note": "Azul oscuro = dark blue; gris oscuro = dark grey."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "oscuro",
+              "oscura"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "oscuros",
+              "oscuras"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Es una pieza oscura.",
+          "trans": "It is a dark piece."
+        },
+        {
+          "text": "Espere, ¡es azul oscuro, igual que la suya!",
+          "trans": "Wait, it is dark blue, just like yours!"
+        }
+      ],
+      "related": []
+    },
+    "un": {
+      "lemma": "un",
+      "stress": "un",
+      "pos": "det",
+      "gloss": "a; an; one",
+      "meanings": [
+        {
+          "en": "a; an; one",
+          "note": "Forms: un (m sg), una (f sg), unos (m pl 'some/about'), unas (f pl)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Quiero un café caliente, por favor.",
+          "trans": "I would like a hot coffee, please."
+        },
+        {
+          "text": "Hay una mesa libre en el patio.",
+          "trans": "There is a free table in the courtyard."
+        }
+      ],
+      "related": []
+    },
+    "momento": {
+      "lemma": "momento",
+      "stress": "moˈmento",
+      "pos": "noun",
+      "gloss": "moment (un momento = wait a moment)",
+      "meanings": [
+        {
+          "en": "moment (un momento = wait a moment)",
+          "note": "De momento = for now."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el momento",
+              "los momentos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El momento está aquí.",
+          "trans": "The moment is here."
+        },
+        {
+          "text": "Vemos los momentos desde la puerta.",
+          "trans": "We see the moments from the door."
+        }
+      ],
+      "related": []
+    },
+    "número": {
+      "lemma": "número",
+      "stress": "ˈnumeɾo",
+      "pos": "noun",
+      "gloss": "number; size (shoes)",
+      "meanings": [
+        {
+          "en": "number; size (shoes)",
+          "note": "Written after street names in Spanish addresses (Calle Mayor número ocho)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el número",
+              "los números"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El número está aquí.",
+          "trans": "The number is here."
+        },
+        {
+          "text": "Vemos los números desde la puerta.",
+          "trans": "We see the numbers from the door."
+        }
+      ],
+      "related": []
+    },
+    "doce": {
+      "lemma": "doce",
+      "stress": "ˈdoθe",
+      "pos": "num",
+      "gloss": "twelve",
+      "meanings": [
+        {
+          "en": "twelve",
+          "note": "Las doce = twelve o'clock."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El reloj da las doce al mediodía.",
+          "trans": "The clock strikes twelve at noon."
+        },
+        {
+          "text": "Aquí tienes doce euros de cambio.",
+          "trans": "Here is twelve euros in change."
+        }
+      ],
+      "related": []
+    },
+    "calle": {
+      "lemma": "calle",
+      "stress": "ˈkaʎe",
+      "pos": "noun",
+      "gloss": "street",
+      "meanings": [
+        {
+          "en": "street",
+          "note": "Feminine noun: la calle."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la calle",
+              "las calles"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La calle está aquí.",
+          "trans": "The street is here."
+        },
+        {
+          "text": "Vemos las calles desde la puerta.",
+          "trans": "We see the streets from the door."
+        }
+      ],
+      "related": []
+    },
+    "limonero": {
+      "lemma": "limonero",
+      "stress": "limoˈneɾo",
+      "pos": "noun",
+      "gloss": "lemon tree",
+      "meanings": [
+        {
+          "en": "lemon tree",
+          "note": "Fruit tree bearing lemons (el limón -> el limonero)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el limonero",
+              "los limoneros"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El limonero está aquí.",
+          "trans": "The lemon tree is here."
+        },
+        {
+          "text": "Vemos los limoneros desde la puerta.",
+          "trans": "We see the lemon trees from the door."
+        }
+      ],
+      "related": []
+    },
+    "y": {
+      "lemma": "y",
+      "stress": "i",
+      "pos": "conj",
+      "gloss": "and; past (in clock times)",
+      "meanings": [
+        {
+          "en": "and; past (in clock times)",
+          "note": "Changes to e before words starting with /i/ sound (i- or hi-)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Servimos café caliente y pan fresco.",
+          "trans": "We serve hot coffee and fresh bread."
+        },
+        {
+          "text": "Son las siete y cuarto.",
+          "trans": "It is quarter past seven."
+        }
+      ],
+      "related": []
+    },
+    "dos": {
+      "lemma": "dos",
+      "stress": "dos",
+      "pos": "num",
+      "gloss": "two",
+      "meanings": [
+        {
+          "en": "two",
+          "note": "Los dos / las dos means 'both'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pongo dos tazas azules en la mesa.",
+          "trans": "I put two blue cups on the table."
+        },
+        {
+          "text": "Compra las dos válvulas por favor.",
+          "trans": "Buy both valves, please."
+        }
+      ],
+      "related": []
+    },
+    "inicial": {
+      "lemma": "inicial",
+      "stress": "iniˈθjal",
+      "pos": "noun",
+      "gloss": "initial (first letter of a name)",
+      "meanings": [
+        {
+          "en": "initial (first letter of a name)",
+          "note": "Plural las iniciales."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la inicial",
+              "las iniciales"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La inicial está aquí.",
+          "trans": "The initial is here."
+        },
+        {
+          "text": "Vemos las iniciales desde la puerta.",
+          "trans": "We see the initials from the door."
+        }
+      ],
+      "related": []
+    },
+    "infancia": {
+      "lemma": "infancia",
+      "stress": "inˈfanθja",
+      "pos": "noun",
+      "gloss": "childhood",
+      "meanings": [
+        {
+          "en": "childhood",
+          "note": "The state or period of being a child."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "f",
+              "infancia",
+              "infancias"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fueron muy buenos amigos en la infancia.",
+          "trans": "They were very good friends in childhood."
+        },
+        {
+          "text": "Tuvo una infancia feliz.",
+          "trans": "She had a happy childhood."
+        }
+      ],
+      "related": []
+    },
+    "en": {
+      "lemma": "en",
+      "stress": "en",
+      "pos": "prep",
+      "gloss": "in; on; at; by",
+      "meanings": [
+        {
+          "en": "in; on; at; by",
+          "note": "Expresses location inside or on top of a surface (en la mesa = on the table)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Las tazas están en la mesa.",
+          "trans": "The cups are on the table."
+        },
+        {
+          "text": "Vivimos en Valencia todo el año.",
+          "trans": "We live in Valencia all year."
+        }
+      ],
+      "related": []
+    },
+    "esquina": {
+      "lemma": "esquina",
+      "stress": "esˈkina",
+      "pos": "noun",
+      "gloss": "corner (outer street corner or cake corner)",
+      "meanings": [
+        {
+          "en": "corner (outer street corner or cake corner)",
+          "note": "Outer corner where two streets meet, or the crisp corner of a baking tray."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la esquina",
+              "las esquinas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La esquina está aquí.",
+          "trans": "The corner is here."
+        },
+        {
+          "text": "Vemos las esquinas desde la puerta.",
+          "trans": "We see the corners from the door."
+        }
+      ],
+      "related": []
+    },
+    "parecer": {
+      "lemma": "parecer",
+      "stress": "paɾeˈθeɾ",
+      "pos": "verb",
+      "gloss": "to seem; to look (like)",
+      "meanings": [
+        {
+          "en": "to seem; to look (like)",
+          "note": "Irregular 1st sg parezco."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "parezco",
+              "parecemos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "pareces",
+              "parecéis"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "parece",
+              "parecen"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "parecí",
+                "parecimos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "pareciste",
+                "parecisteis"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "pareció",
+                "parecieron"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Este rincón parece un jardín secreto.",
+          "trans": "This corner looks like a secret garden."
+        },
+        {
+          "text": "La idea nos pareció excelente.",
+          "trans": "The idea seemed excellent to us."
+        }
+      ],
+      "related": []
+    },
+    "asombrado": {
+      "lemma": "asombrado",
+      "stress": "asomˈbɾaðo",
+      "pos": "adj",
+      "gloss": "amazed; astonished",
+      "meanings": [
+        {
+          "en": "amazed; astonished",
+          "note": "Describes surprised wonder."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "asombrado",
+              "asombrada"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "asombrados",
+              "asombradas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Es una pieza asombrada.",
+          "trans": "It is an amazed piece."
+        },
+        {
+          "text": "¡Señora Carmen, parece asombrada! ¿Conoce usted Calle del Limonero número doce?",
+          "trans": "Madam Carmen, you look amazed! Do you know Number twelve Calle del Limonero?"
+        }
+      ],
+      "related": []
+    },
+    "conocer": {
+      "lemma": "conocer",
+      "stress": "konoˈθeɾ",
+      "pos": "verb",
+      "gloss": "to know (a person or place); to meet",
+      "meanings": [
+        {
+          "en": "to know (a person or place); to meet",
+          "note": "Irregular 1st sg conozco; preterite conocí often means 'met for the first time'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "conozco",
+              "conocemos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "conoces",
+              "conocéis"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "conoce",
+              "conocen"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "conocí",
+                "conocimos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "conociste",
+                "conocisteis"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "conoció",
+                "conocieron"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Conozco muy bien este barrio.",
+          "trans": "I know this neighbourhood very well."
+        },
+        {
+          "text": "Ayer conocimos al nuevo vecino.",
+          "trans": "Yesterday we met the new neighbour."
+        }
+      ],
+      "related": []
+    },
+    "usted": {
+      "lemma": "usted",
+      "stress": "usˈteð",
+      "pos": "pron",
+      "gloss": "you (polite singular)",
+      "meanings": [
+        {
+          "en": "you (polite singular)",
+          "note": "Takes 3rd-person singular verbs (¿quiere usted...?)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "¿Cómo se llama usted?",
+          "trans": "What is your name?"
+        },
+        {
+          "text": "Pase usted por aquí, por favor.",
+          "trans": "Come this way, please."
+        }
+      ],
+      "related": []
+    },
+    "que": {
+      "lemma": "que",
+      "stress": "ke",
+      "pos": "conj",
+      "gloss": "that; which; who; than",
+      "meanings": [
+        {
+          "en": "that; which; who; than",
+          "note": "Core connector and relative pronoun (unaccented, distinct from interrogative qué)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Espero que descanses muy bien.",
+          "trans": "I hope that you rest very well."
+        },
+        {
+          "text": "El pan de esta panadería huele genial.",
+          "trans": "The bread that The baker bakes smells great."
+        }
+      ],
+      "related": []
+    },
+    "si": {
+      "lemma": "si",
+      "stress": "si",
+      "pos": "conj",
+      "gloss": "if; whether",
+      "meanings": [
+        {
+          "en": "if; whether",
+          "note": "Unaccented conjunction, distinct from accented sí ('yes')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Avísame si necesitas otra manta.",
+          "trans": "Let me know if you need another blanket."
+        },
+        {
+          "text": "Mira si queda leche en la nevera.",
+          "trans": "Check whether any milk is left in the fridge."
+        }
+      ],
+      "related": []
+    },
+    "cada": {
+      "lemma": "cada",
+      "stress": "ˈkaða",
+      "pos": "det",
+      "gloss": "each; every",
+      "meanings": [
+        {
+          "en": "each; every",
+          "note": "Invariable before masculine or feminine singular nouns (cada día, cada mañana)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Abro la cafetería cada mañana.",
+          "trans": "I open the cafe every morning."
+        },
+        {
+          "text": "Cada habitación tiene su llave.",
+          "trans": "Each room has its own key."
+        }
+      ],
+      "related": []
+    },
+    "durante": {
+      "lemma": "durante",
+      "stress": "duˈɾante",
+      "pos": "prep",
+      "gloss": "for (a duration); during",
+      "meanings": [
+        {
+          "en": "for (a duration); during",
+          "note": "Marks how long an action lasted (durante seis años)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vivió aquí durante seis años.",
+          "trans": "She lived here for six years."
+        },
+        {
+          "text": "No sonó el teléfono durante la cena.",
+          "trans": "The phone did not ring during dinner."
+        }
+      ],
+      "related": []
+    },
+    "seis": {
+      "lemma": "seis",
+      "stress": "sejs",
+      "pos": "num",
+      "gloss": "six",
+      "meanings": [
+        {
+          "en": "six",
+          "note": "Las seis = six o'clock."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Me despierto a las seis y media.",
+          "trans": "I wake up at six thirty."
+        },
+        {
+          "text": "Tengo seis limones en la cesta.",
+          "trans": "I have six lemons in the basket."
+        }
+      ],
+      "related": []
+    },
+    "año": {
+      "lemma": "año",
+      "stress": "ˈaɲo",
+      "pos": "noun",
+      "gloss": "year",
+      "meanings": [
+        {
+          "en": "year",
+          "note": "Tener ... años expresses age; hace ... años means '... years ago'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el año",
+              "los años"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El año está aquí.",
+          "trans": "The year is here."
+        },
+        {
+          "text": "Vemos los años desde la puerta.",
+          "trans": "We see the years from the door."
         }
       ],
       "related": []
@@ -7343,40 +6793,15 @@
       ],
       "related": []
     },
-    "sí": {
-      "lemma": "sí",
-      "stress": "si",
-      "pos": "adv",
-      "gloss": "yes",
-      "meanings": [
-        {
-          "en": "yes",
-          "note": "Accented sí means 'yes' (distinct from unaccented si = 'if')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Sí, la habitación está lista.",
-          "trans": "Yes, the room is ready."
-        },
-        {
-          "text": "¡Claro que sí, pase usted!",
-          "trans": "Of course, come right in!"
-        }
-      ],
-      "related": []
-    },
-    "tarde": {
-      "lemma": "tarde",
-      "stress": "ˈtaɾðe",
+    "escalera": {
+      "lemma": "escalera",
+      "stress": "eskaˈleɾa",
       "pos": "noun",
-      "gloss": "afternoon / evening (la tarde); late (as adv)",
+      "gloss": "stairs; staircase; ladder",
       "meanings": [
         {
-          "en": "afternoon / evening (la tarde); late (as adv)",
-          "note": "Por la tarde = in the afternoon; ¡Buenas tardes! = Good afternoon!; llegar tarde = arrive late."
+          "en": "stairs; staircase; ladder",
+          "note": "Often singular (la escalera) or plural (las escaleras) for a staircase."
         }
       ],
       "forms": {
@@ -7390,8 +6815,8 @@
           {
             "cells": [
               "form",
-              "la tarde",
-              "las tardes"
+              "la escalera",
+              "las escaleras"
             ]
           }
         ]
@@ -7399,26 +6824,91 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "¡Buenas tardes! ¿Tienen una habitación libre?",
-          "trans": "Good afternoon! Do you have a room free?"
+          "text": "La escalera está aquí.",
+          "trans": "The stairs is here."
         },
         {
-          "text": "Perdón por llegar un poco tarde.",
-          "trans": "Sorry for arriving a little late."
+          "text": "Vemos las escaleras desde la puerta.",
+          "trans": "We see the stairss from the door."
         }
       ],
-      "related": [],
-      "gender": "f"
+      "related": []
     },
-    "tocar": {
-      "lemma": "tocar",
-      "stress": "toˈkaɾ",
-      "pos": "verb",
-      "gloss": "to touch; to ring (a bell); to play (an instrument)",
+    "madera": {
+      "lemma": "madera",
+      "stress": "maˈðeɾa",
+      "pos": "noun",
+      "gloss": "wood; timber",
       "meanings": [
         {
-          "en": "to touch; to ring (a bell); to play (an instrument)",
-          "note": "Preterite 1st sg spells c -> qu: toqué."
+          "en": "wood; timber",
+          "note": "De madera = wooden."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la madera",
+              "las maderas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La madera está aquí.",
+          "trans": "The wood is here."
+        },
+        {
+          "text": "Vemos las maderas desde la puerta.",
+          "trans": "We see the woods from the door."
+        }
+      ],
+      "related": []
+    },
+    "para": {
+      "lemma": "para",
+      "stress": "ˈpaɾa",
+      "pos": "prep",
+      "gloss": "for (recipient/deadline/goal); in order to",
+      "meanings": [
+        {
+          "en": "for (recipient/deadline/goal); in order to",
+          "note": "Marks destination, recipient (para ti), deadline, and minutes to the hour (cinco para las doce)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Este paquete blanco es para mi hermano.",
+          "trans": "This white parcel is for my brother."
+        },
+        {
+          "text": "Faltan diez minutos para las doce.",
+          "trans": "It is ten minutes to twelve."
+        }
+      ],
+      "related": []
+    },
+    "dar": {
+      "lemma": "dar",
+      "stress": "daɾ",
+      "pos": "verb",
+      "gloss": "to give; to face onto (dar a); to strike (the hour)",
+      "meanings": [
+        {
+          "en": "to give; to face onto (dar a); to strike (the hour)",
+          "note": "Irregular 1st sg doy and preterite di/dio; dar las doce = strike twelve."
         }
       ],
       "forms": {
@@ -7432,22 +6922,22 @@
           {
             "cells": [
               "1st",
-              "toco",
-              "tocamos"
+              "doy",
+              "damos"
             ]
           },
           {
             "cells": [
               "2nd",
-              "tocas",
-              "tocáis"
+              "das",
+              "dais"
             ]
           },
           {
             "cells": [
               "3rd",
-              "toca",
-              "tocan"
+              "da",
+              "dan"
             ]
           }
         ]
@@ -7464,22 +6954,22 @@
             {
               "cells": [
                 "1st",
-                "toqué",
-                "tocamos"
+                "di",
+                "dimos"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tocaste",
-                "tocasteis"
+                "diste",
+                "disteis"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "tocó",
-                "tocaron"
+                "dio",
+                "dieron"
               ]
             }
           ]
@@ -7487,50 +6977,25 @@
       ],
       "examples": [
         {
-          "text": "Alguien acaba de tocar el timbre.",
-          "trans": "Someone just rang the bell."
+          "text": "La ventana da al patio soleado.",
+          "trans": "The window looks out onto the sunny courtyard."
         },
         {
-          "text": "De niño tocaba el piano los viernes.",
-          "trans": "As a boy he played the piano on Fridays."
+          "text": "El reloj acaba de dar las doce.",
+          "trans": "The clock has just struck twelve."
         }
       ],
       "related": []
     },
-    "todavía": {
-      "lemma": "todavía",
-      "stress": "toðaˈβia",
-      "pos": "adv",
-      "gloss": "still; yet (todavía no = not yet)",
-      "meanings": [
-        {
-          "en": "still; yet (todavía no = not yet)",
-          "note": "Everyday word for 'still' or 'not yet'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "El café todavía está caliente.",
-          "trans": "The coffee is still hot."
-        },
-        {
-          "text": "Todavía no son las doce.",
-          "trans": "It is not twelve o'clock yet."
-        }
-      ],
-      "related": []
-    },
-    "tren": {
-      "lemma": "tren",
-      "stress": "tɾen",
+    "clase": {
+      "lemma": "clase",
+      "stress": "ˈklase",
       "pos": "noun",
-      "gloss": "train",
+      "gloss": "lesson; class; kind",
       "meanings": [
         {
-          "en": "train",
-          "note": "Plural los trenes."
+          "en": "lesson; class; kind",
+          "note": "Dar clase de piano = to teach piano lessons."
         }
       ],
       "forms": {
@@ -7544,8 +7009,8 @@
           {
             "cells": [
               "form",
-              "el tren",
-              "los trenes"
+              "la clase",
+              "las clases"
             ]
           }
         ]
@@ -7553,26 +7018,25 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "El tren está aquí.",
-          "trans": "The train is here."
+          "text": "La clase está aquí.",
+          "trans": "The lesson is here."
         },
         {
-          "text": "Vemos los trenes desde la puerta.",
-          "trans": "We see the trains from the door."
+          "text": "Vemos las clases desde la puerta.",
+          "trans": "We see the lessons from the door."
         }
       ],
-      "related": [],
-      "gender": "m"
+      "related": []
     },
-    "trenecito": {
-      "lemma": "trenecito",
-      "stress": "tɾeneˈθito",
+    "piano": {
+      "lemma": "piano",
+      "stress": "ˈpjano",
       "pos": "noun",
-      "gloss": "little train; toy train",
+      "gloss": "piano",
       "meanings": [
         {
-          "en": "little train; toy train",
-          "note": "Diminutive of el tren."
+          "en": "piano",
+          "note": "Tocar el piano = to play the piano."
         }
       ],
       "forms": {
@@ -7586,8 +7050,8 @@
           {
             "cells": [
               "form",
-              "el trenecito",
-              "los trenecitos"
+              "el piano",
+              "los pianos"
             ]
           }
         ]
@@ -7595,63 +7059,99 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "El trenecito está aquí.",
-          "trans": "The little train is here."
+          "text": "El piano está aquí.",
+          "trans": "The piano is here."
         },
         {
-          "text": "Vemos los trenecitos desde la puerta.",
-          "trans": "We see the little trains from the door."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "un": {
-      "lemma": "un",
-      "stress": "un",
-      "pos": "det",
-      "gloss": "a; an; one",
-      "meanings": [
-        {
-          "en": "a; an; one",
-          "note": "Forms: un (m sg), una (f sg), unos (m pl 'some/about'), unas (f pl)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Quiero un café caliente, por favor.",
-          "trans": "I would like a hot coffee, please."
-        },
-        {
-          "text": "Hay una mesa libre en el patio.",
-          "trans": "There is a free table in the courtyard."
+          "text": "Vemos los pianos desde la puerta.",
+          "trans": "We see the pianos from the door."
         }
       ],
       "related": []
     },
-    "usted": {
-      "lemma": "usted",
-      "stress": "usˈteð",
-      "pos": "pron",
-      "gloss": "you (polite singular)",
+    "hacer": {
+      "lemma": "hacer",
+      "stress": "aˈθeɾ",
+      "pos": "verb",
+      "gloss": "to do; to make; ago (hace + time)",
       "meanings": [
         {
-          "en": "you (polite singular)",
-          "note": "Takes 3rd-person singular verbs (¿quiere usted...?)."
+          "en": "to do; to make; ago (hace + time)",
+          "note": "Irregular: hago, hice, hecho; hace tres años = three years ago."
         }
       ],
-      "forms": null,
-      "moreForms": [],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "hago",
+              "hacemos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "haces",
+              "hacéis"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "hace",
+              "hacen"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "hice",
+                "hicimos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "hiciste",
+                "hicisteis"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "hizo",
+                "hicieron"
+              ]
+            }
+          ]
+        }
+      ],
       "examples": [
         {
-          "text": "¿Cómo se llama usted?",
-          "trans": "What is your name?"
+          "text": "La panadera hace pan fresco cada mañana.",
+          "trans": "The baker bakes fresh bread every morning."
         },
         {
-          "text": "Pase usted por aquí, por favor.",
-          "trans": "Come this way, please."
+          "text": "Llegó hace diez minutos.",
+          "trans": "She arrived ten minutes ago."
         }
       ],
       "related": []
@@ -7681,30 +7181,41 @@
       ],
       "related": []
     },
-    "vez": {
-      "lemma": "vez",
-      "stress": "beθ",
-      "pos": "noun",
-      "gloss": "time / occasion (dos veces = twice; en vez de = instead of)",
+    "mismo": {
+      "lemma": "mismo",
+      "stress": "ˈmismo",
+      "pos": "adj",
+      "gloss": "same; emphatic right (in ahora mismo)",
       "meanings": [
         {
-          "en": "time / occasion (dos veces = twice; en vez de = instead of)",
-          "note": "Plural las veces; a veces = sometimes; otra vez = again."
+          "en": "same",
+          "note": "Agrees with the noun it describes."
+        },
+        {
+          "en": "emphatic right; exactly",
+          "note": "In ahora mismo, meaning right now, mismo strengthens the time word ahora. Now comes from ahora; mismo supplies emphasis without agreeing with a person in this expression."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "sg",
-          "pl"
+          "m",
+          "f"
         ],
         "rows": [
           {
             "cells": [
-              "form",
-              "la vez",
-              "las veces"
+              "sg",
+              "mismo",
+              "misma"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "mismos",
+              "mismas"
             ]
           }
         ]
@@ -7712,26 +7223,25 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "La vez está aquí.",
-          "trans": "The time / occasion is here."
+          "text": "Tenemos el mismo trabajo.",
+          "trans": "We have the same job."
         },
         {
-          "text": "Vemos las veces desde la puerta.",
-          "trans": "We see the time / occasions from the door."
+          "text": "Ahora mismo estoy ocupada.",
+          "trans": "I am busy right now."
         }
       ],
-      "related": [],
-      "gender": "f"
+      "related": []
     },
-    "viernes": {
-      "lemma": "viernes",
-      "stress": "ˈbjeɾnes",
+    "casa": {
+      "lemma": "casa",
+      "stress": "ˈkasa",
       "pos": "noun",
-      "gloss": "Friday",
+      "gloss": "house; home",
       "meanings": [
         {
-          "en": "Friday",
-          "note": "Invariable in plural: el viernes ('on Friday'), los viernes ('on Fridays')."
+          "en": "house; home",
+          "note": "En casa = at home (without article)."
         }
       ],
       "forms": {
@@ -7745,8 +7255,8 @@
           {
             "cells": [
               "form",
-              "el viernes",
-              "los viernes"
+              "la casa",
+              "las casas"
             ]
           }
         ]
@@ -7754,16 +7264,40 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "El viernes está aquí.",
-          "trans": "The Friday is here."
+          "text": "La casa está aquí.",
+          "trans": "The house is here."
         },
         {
-          "text": "Vemos los viernes desde la puerta.",
-          "trans": "We see the Fridays from the door."
+          "text": "Vemos las casas desde la puerta.",
+          "trans": "We see the houses from the door."
         }
       ],
-      "related": [],
-      "gender": "m"
+      "related": []
+    },
+    "allí": {
+      "lemma": "allí",
+      "stress": "aˈʎi",
+      "pos": "adv",
+      "gloss": "over there; there",
+      "meanings": [
+        {
+          "en": "over there; there",
+          "note": "Points to a place farther away from both speakers."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "La farmacia está allí en la esquina.",
+          "trans": "The pharmacy is over there on the corner."
+        },
+        {
+          "text": "Vivimos allí durante seis años.",
+          "trans": "We lived there for six years."
+        }
+      ],
+      "related": []
     },
     "vivir": {
       "lemma": "vivir",
@@ -7852,52 +7386,520 @@
       ],
       "related": []
     },
-    "y": {
-      "lemma": "y",
-      "stress": "i",
-      "pos": "conj",
-      "gloss": "and; past (in clock times)",
+    "carpintero": {
+      "lemma": "carpintero",
+      "stress": "kaɾpinˈteɾo",
+      "pos": "noun",
+      "gloss": "carpenter",
       "meanings": [
         {
-          "en": "and; past (in clock times)",
-          "note": "Changes to e before words starting with /i/ sound (i- or hi-)."
+          "en": "carpenter",
+          "note": "Woodworker (feminine: la carpintera)."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el carpintero",
+              "los carpinteros"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Servimos café caliente y pan fresco.",
-          "trans": "We serve hot coffee and fresh bread."
+          "text": "El carpintero está aquí.",
+          "trans": "The carpenter is here."
         },
         {
-          "text": "Son las siete y cuarto.",
-          "trans": "It is quarter past seven."
+          "text": "Vemos los carpinteros desde la puerta.",
+          "trans": "We see the carpenters from the door."
         }
       ],
       "related": []
     },
-    "ya": {
-      "lemma": "ya",
-      "stress": "ʝa",
-      "pos": "adv",
-      "gloss": "already; now; right away",
+    "nieto": {
+      "lemma": "nieto",
+      "stress": "ˈnjeto",
+      "pos": "noun",
+      "gloss": "grandson; grandchild (pl nietos)",
       "meanings": [
         {
-          "en": "already; now; right away",
-          "note": "¡Ya está! = All done!; ya no = no longer."
+          "en": "grandson; grandchild (pl nietos)",
+          "note": "Feminine: la nieta; los nietos = grandchildren / grandsons."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el nieto",
+              "los nietos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El nieto está aquí.",
+          "trans": "The grandson is here."
+        },
+        {
+          "text": "Vemos los nietos desde la puerta.",
+          "trans": "We see the grandsons from the door."
+        }
+      ],
+      "related": []
+    },
+    "mayor": {
+      "lemma": "mayor",
+      "stress": "maˈʝoɾ",
+      "pos": "adj",
+      "gloss": "older; biggest; major (fa mayor)",
+      "meanings": [
+        {
+          "en": "older; biggest; major (fa mayor)",
+          "note": "Hermano mayor = older brother; plural mayores."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "mayor",
+              "mayor"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "mayores",
+              "mayores"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Es una pieza mayor.",
+          "trans": "It is an older piece."
+        },
+        {
+          "text": "Conoces bien a los hermanos mayores, Mateo.",
+          "trans": "You know older brothers well, Mateo."
+        }
+      ],
+      "related": []
+    },
+    "tocar": {
+      "lemma": "tocar",
+      "stress": "toˈkaɾ",
+      "pos": "verb",
+      "gloss": "to touch; to ring (a bell); to play (an instrument)",
+      "meanings": [
+        {
+          "en": "to touch; to ring (a bell); to play (an instrument)",
+          "note": "Preterite 1st sg spells c -> qu: toqué."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "toco",
+              "tocamos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tocas",
+              "tocáis"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "toca",
+              "tocan"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "toqué",
+                "tocamos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tocaste",
+                "tocasteis"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "tocó",
+                "tocaron"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Alguien acaba de tocar el timbre.",
+          "trans": "Someone just rang the bell."
+        },
+        {
+          "text": "De niño tocaba el piano los viernes.",
+          "trans": "As a boy he played the piano on Fridays."
+        }
+      ],
+      "related": []
+    },
+    "pequeño": {
+      "lemma": "pequeño",
+      "stress": "peˈkeɲo",
+      "pos": "adj",
+      "gloss": "small; little; young",
+      "meanings": [
+        {
+          "en": "small; little; young",
+          "note": "Hermano pequeño = younger brother; de pequeño = as a child."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "pequeño",
+              "pequeña"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "pequeños",
+              "pequeñas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Es una pieza pequeña.",
+          "trans": "It is a small piece."
+        },
+        {
+          "text": "Hay una pequeña tarjeta de cartón atada al asa.",
+          "trans": "There is a small cardboard card tied to the handle."
+        }
+      ],
+      "related": []
+    },
+    "le": {
+      "lemma": "le",
+      "stress": "le",
+      "pos": "pron",
+      "gloss": "to him / her / you (polite)",
+      "meanings": [
+        {
+          "en": "to him / her / you (polite)",
+          "note": "Third-person singular indirect object pronoun."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "El desayuno ya está listo.",
-          "trans": "Breakfast is already ready."
+          "text": "Le llevo una taza de té caliente.",
+          "trans": "I am bringing you/her a cup of hot tea."
         },
         {
-          "text": "¡Ya voy con las llaves!",
-          "trans": "Coming right now with the keys!"
+          "text": "¿Le gusta la habitación del patio?",
+          "trans": "Do you like the courtyard room?"
+        }
+      ],
+      "related": []
+    },
+    "encantar": {
+      "lemma": "encantar",
+      "stress": "enkanˈtaɾ",
+      "pos": "verb",
+      "gloss": "to love (something); to delight",
+      "meanings": [
+        {
+          "en": "to love (something); to delight",
+          "note": "Works like gustar: me encanta el té = I love tea (tea delights me)."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "encanto",
+              "encantamos"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "encantas",
+              "encantáis"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "encanta",
+              "encantan"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Preterite",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "encanté",
+                "encantamos"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "encantaste",
+                "encantasteis"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "encantó",
+                "encantaron"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Me encanta el olor a pan caliente.",
+          "trans": "I love the smell of warm bread."
+        },
+        {
+          "text": "De niño le encantaban los trenes.",
+          "trans": "As a boy he loved trains."
+        }
+      ],
+      "related": []
+    },
+    "los": {
+      "lemma": "los",
+      "stress": "los",
+      "pos": "det",
+      "gloss": "the (masculine plural); every (with weekdays)",
+      "meanings": [
+        {
+          "en": "the (masculine plural); every (with weekdays)",
+          "note": "Los viernes means 'every Friday / on Fridays'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Los vecinos vienen a desayunar.",
+          "trans": "The neighbours come for breakfast."
+        },
+        {
+          "text": "Daba clases de piano los viernes.",
+          "trans": "She taught piano lessons on Fridays."
+        }
+      ],
+      "related": []
+    },
+    "trenecito": {
+      "lemma": "trenecito",
+      "stress": "tɾeneˈθito",
+      "pos": "noun",
+      "gloss": "little train; toy train",
+      "meanings": [
+        {
+          "en": "little train; toy train",
+          "note": "Diminutive of el tren."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "el trenecito",
+              "los trenecitos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "El trenecito está aquí.",
+          "trans": "The little train is here."
+        },
+        {
+          "text": "Vemos los trenecitos desde la puerta.",
+          "trans": "We see the little trains from the door."
+        }
+      ],
+      "related": []
+    },
+    "dentro": {
+      "lemma": "dentro",
+      "stress": "ˈdentɾo",
+      "pos": "adv",
+      "gloss": "inside; within (dentro de)",
+      "meanings": [
+        {
+          "en": "inside; within (dentro de)",
+          "note": "Dentro de + time means 'in (after) a certain amount of time'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hay cuatro mesas dentro.",
+          "trans": "There are four tables inside."
+        },
+        {
+          "text": "Vuelvo dentro de diez minutos.",
+          "trans": "I will be back in ten minutes."
+        }
+      ],
+      "related": []
+    },
+    "hasta": {
+      "lemma": "hasta",
+      "stress": "ˈasta",
+      "pos": "prep",
+      "gloss": "until; as far as; even",
+      "meanings": [
+        {
+          "en": "until; as far as; even",
+          "note": "¡Hasta luego! = See you later!; ¡Hasta mañana! = See you tomorrow!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Sigue recto hasta el puente.",
+          "trans": "Walk straight ahead as far as the bridge."
+        },
+        {
+          "text": "Nos quedamos hasta el viernes.",
+          "trans": "We are staying until Friday."
+        }
+      ],
+      "related": []
+    },
+    "pronto": {
+      "lemma": "pronto",
+      "stress": "ˈpɾonto",
+      "pos": "adv",
+      "gloss": "soon; early",
+      "meanings": [
+        {
+          "en": "soon; early",
+          "note": "¡Hasta pronto! = See you soon!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "¡Hasta pronto y buen viaje!",
+          "trans": "See you soon and safe travels!"
+        },
+        {
+          "text": "Esta mañana me desperté muy pronto.",
+          "trans": "This morning I woke up very early."
         }
       ],
       "related": []

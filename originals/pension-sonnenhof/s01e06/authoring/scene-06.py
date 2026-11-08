@@ -18,7 +18,7 @@ STORY = [
     ('martin', 'Miriam, wie viele Zimtschnecken und Zitronenkuchen schafft Ihr Ofen jeden Morgen?', 'Miriam, how many cinnamon rolls and lemon cakes can your oven bake each morning?'),
     ('miriam', 'Doppelt so viele wie jetzt! Öffnen wir das Hofcafé wirklich für unsere Straße?', 'Twice as many as now! Are we really opening the courtyard café for our street?'),
     ('martin', 'Ab morgen früh um acht! Vier Tische drinnen und drei Tische unterm Baum!', 'Starting tomorrow morning at eight! Four tables inside and three tables under the tree!'),
-    ('miriam', 'Mein Traumcafé, mitten in unserem eigenen Hof! Das erzähle ich auf dem Markt!', 'My dream café, right in our own courtyard! Wait until I tell the market!'),
+    ('miriam', 'Mein Traumcafé – direkt hier in unserem eigenen Innenhof! Wartet, bis ich das der ganzen Straße erzähle!', 'My dream café—right here in our own courtyard! Wait until I tell the whole street!'),
     ('martin', 'Und nun zu Ihnen, Klara: Heute ist Freitag, der letzte Tag Ihrer Probewoche.', 'And now to you, Klara: today is Friday, the last day of your trial week.'),
     ('klara', 'Oh! Zwischen Koffern, Kessel und Brief habe ich das völlig vergessen!', 'Oh! Between suitcases, boiler, and letter, I completely forgot that!'),
     ('martin', 'Am Montag öffneten Sie unsere Tür, seitdem retteten Sie Zimmer, Rohre, Frühstück und Haus.', 'On Monday you opened our door, since then you saved rooms, pipes, breakfast, and building.'),

@@ -16,8 +16,8 @@ OUTRO = "Madam Helga's suitcase is back, yet the mystery stranger vanished into 
 CLOSING = ('werner', 'Bis morgen!')
 STORY = [
     ('klara', 'Hast du das gehört, Werner? Jemand hat gerade am Tor geklingelt!', 'Did you hear that, Werner? Someone just rang the gate bell!'),
-    ('werner', 'Um neun Uhr abends? Bleib hier, wir machen die Tür zusammen auf.', 'At nine in the evening? Stay here, let us open the door together.'),
-    ('klara', 'Hallo? Guten Abend! Niemand steht im Hof!', 'Hello? Good evening! Nobody is standing in the courtyard!'),
+    ('werner', 'Um neun Uhr abends? Warte, wir machen das Tor zusammen auf.', 'At nine in the evening? Wait, let us open the gate together.'),
+    ('klara', 'Hallo? Guten Abend! Niemand steht am Tor!', 'Hello? Good evening! Nobody is standing at the gate!'),
     ('werner', 'Warte mal. Schau nach unten auf die Steinstufe.', 'Wait a second. Look down on the stone step.'),
     ('klara', 'Noch ein dunkelblauer Koffer! Ist das Frau Helgas Koffer?', 'Another dark-blue suitcase! Is this Madam Helga suitcase?'),
     ('werner', 'Prüf den Reißverschluss... ja, hier stehen ihre Buchstaben!', 'Check the zipper... yes, her initials are right here!'),

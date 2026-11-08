@@ -22,7 +22,7 @@ STORY = [
     ('klara', 'Wir freuen uns, dass unser Hof ruhig genug für Ihre... Arbeit ist.', 'We are glad that our courtyard is quiet enough for your... work.'),
     ('lukas', 'Sehr ruhig! Aber haben Sie gerade ein metallisches Klopfen gehört?', 'Very quiet! Though did you just hear a metallic knocking?'),
     ('klara', 'Ja! Es klang wie das Heizungsrohr dort in der Ecke.', 'Yes! It sounded like the heating pipe there in the corner.'),
-    ('lukas', 'Fühlen Sie mal am Heizkörper: Oben ist er warm, unten wird er schon kühl.', 'Feel the radiator: at the top it is warm, at the bottom it is turning cool.'),
+    ('lukas', 'Fühlen Sie mal am Heizkörper: Unten ist er warm, oben wird er schon kühl.', 'Feel the radiator: at the bottom it is warm, at the top it is turning cool.'),
     ('klara', 'Oh! Manchmal haben alte Rohre abends eine kleine Luftblase.', 'Oh! Sometimes old pipes have a little air bubble in the evening.'),
     ('lukas', 'Ich habe eine warme Decke, mir geht es heute Nacht bestens.', 'I have a warm blanket, I am completely fine tonight.'),
     ('klara', 'Danke für Ihre Geduld! Werner prüft sofort unten den Keller.', 'Thank you for your patience! Werner will check the cellar downstairs right away.'),

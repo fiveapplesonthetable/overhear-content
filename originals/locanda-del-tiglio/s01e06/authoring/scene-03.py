@@ -25,7 +25,7 @@ STORY = [
     ('bruno', 'Ben pensato, Chiara. Davide legge i regolamenti edilizi della città ogni settimana.', 'Smart thinking, Chiara. Davide reads city building rules every single week.'),
     ('cesare', 'Oh, non potrei mai disturbare un ospite con i nostri problemi di affitto!', 'Oh, I could never bother a paying guest with our landlord troubles!'),
     ('chiara', 'Dopo che abbiamo custodito la sua valigia blu tutta la settimana? Vorrà aiutarci di sicuro!', 'After we guarded his blue suitcase all week? He will want to help!'),
-    ('bruno', 'Fermi: ecco Giulia che torna dal loro tavolo proprio adesso.', 'Wait—here comes Giulia back from their table right now.'),
+    ('bruno', 'Fermi: Giulia sta portando la torta al loro tavolo proprio adesso.', 'Wait—Giulia is taking the cake out to their table right now.'),
 ]
 WALK = [
     (0, None, "'Fifteen years of polishing brass keys and straightening ties... gone in thirty days!' Notice the masculine plural ending on finished matching Cesare's fifteen years."),
@@ -39,5 +39,5 @@ WALK = [
     (8, None, ["'Smart thinking, Chiara. Davide reads city building rules every single week.' Bruno offers a crisp two-word phrase of praise.", (None, 'Ben pensato, Chiara.'), 'Literally well thought!']),
     (9, None, ["'Oh, I could never bother a paying guest with our landlord troubles!' Could never uses the soft polite form of can.", (None, 'Non potrei mai disturbare'), 'I could never disturb—classic old-school hotelier pride.']),
     (10, None, ["'After we guarded his blue suitcase all week? He will want to help!' Will want + help + us hooks us onto the end.", (None, 'Vorrà aiutarci di sicuro!'), 'He will want to help-us for sure!']),
-    (11, None, "'Wait—here comes Giulia back from their table right now.' And help is already walking through the courtyard door before they even have to ask."),
+    (11, None, "'Wait—Giulia is taking the cake out to their table right now.' And help is already walking through the courtyard door before they even have to ask."),
 ]

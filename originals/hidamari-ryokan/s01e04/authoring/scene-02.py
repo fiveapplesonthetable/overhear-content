@@ -17,7 +17,7 @@ STORY = [
     ('kenji', '狭い路地じゃなくて、花屋の横の二番目の道を行け。', 'Not the cramped alley—take the second street beside the flower shop.'),
     ('mio', '今歩いています……あっ、金色の鍵の看板と青いドアが見えました！', 'Walking now... oh, I can see the golden key sign and the blue door!'),
     ('kenji', 'よし！シャッターは開いているか？', 'Good! Is the shutter open?'),
-    ('mio', '店主さんがちょうど今、鍵を開けています！一秒だけ電話を切らないで。', 'The shopkeeper is unlocking it right now! Stay on the line one second.'),
+    ('mio', '店員さんがちょうど今、鍵を開けてるところ！ちょっとだけ電話を切らずに待ってて。', 'The clerk is unlocking it right now! Stay on the phone one second.'),
     ('kenji', '中の真鍮の輪が幅二十ミリか、必ず確かめろよ。', 'Make sure the brass ring inside is twenty millimetres wide.'),
     ('mio', '古いバルブと合わせてくれました！棚に残り二つだけあります！', 'He matched it against the old valve! There are two left on the shelf!'),
     ('kenji', '両方買え！予備があれば来年の冬も安心だ。', 'Buy both! Having a spare keeps us safe next winter too.'),

@@ -15,8 +15,8 @@ OUTRO = "Madam Lucia's suitcase is back, yet the mystery stranger vanished into 
 CLOSING = ('bruno', 'A domani!')
 STORY = [
     ('chiara', 'Hai sentito, Bruno? Qualcuno ha suonato al cancello!', 'Did you hear that, Bruno? Someone just rang the gate bell!'),
-    ('bruno', 'Alle nove di sera? Resta qui, apriamo la porta insieme.', "At nine o'clock? Stay here, let us open the door together."),
-    ('chiara', "Permesso? Buonasera! Non c'è nessuno nel cortile!", 'Hello? Good evening! Nobody is standing in the courtyard!'),
+    ('bruno', 'Alle nove di sera? Aspetta, apriamo il cancello insieme.', "At nine o'clock? Wait, let us open the gate together."),
+    ('chiara', "Permesso? Buonasera! Non c'è nessuno al cancello!", 'Hello? Good evening! Nobody is standing at the gate!'),
     ('bruno', 'Aspetta. Guarda giù sul gradino di pietra.', 'Wait. Look down on the stone step.'),
     ('chiara', "Un'altra valigia blu scuro! È la borsa della signora Lucia?", "Another dark-blue suitcase! Is this Madam Lucia's bag?"),
     ('bruno', 'Controlla la cerniera... sì, ci sono le sue iniziali proprio qui!', 'Check the zipper... yes, her initials are right here!'),
@@ -29,8 +29,8 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Did you hear that, Bruno? Someone just rang the gate bell!' Chiara asks using the everyday two-part past.", (None, 'Hai sentito'), 'Literally have you heard or felt, that same word covers hearing a sound and feeling a touch.']),
-    (1, None, ["'At nine o'clock? Stay here, let us open the door together.' Notice how Italian specifies nine in the evening.", (None, 'Alle nove di sera?'), 'Instead of a.m. or p.m., spoken Italian adds of the morning, of the afternoon, or of the evening.']),
-    (2, None, ["'Hello? Good evening! Nobody is standing in the courtyard!' Stepping through a doorway, Italian speakers call out a polite word rather than hello.", (None, 'Permesso?'), 'Literally permission, it is what you say whenever you peek into a room or step out through a gate.']),
+    (1, None, ["'At nine o'clock? Wait, let us open the gate together.' Notice how Italian specifies nine in the evening.", (None, 'Alle nove di sera?'), 'Instead of a.m. or p.m., spoken Italian adds of the morning, of the afternoon, or of the evening.']),
+    (2, None, ["'Hello? Good evening! Nobody is standing at the gate!' Stepping through a doorway, Italian speakers call out a polite word rather than hello.", (None, 'Permesso?'), 'Literally permission, it is what you say whenever you peek into a room or step out through a gate.']),
     (3, None, ["'Wait. Look down on the stone step.' Compare this casual wait with the polite one Chiara used earlier for guests.", (None, 'Aspetta.'), 'Ending in a, this is the informal command among friends and coworkers.']),
     (4, None, ["'Another dark-blue suitcase! Is this Madam Lucia's bag?' Italian does not use apostrophe-s to show who owns something.", (None, 'Della signora Lucia?'), 'Instead, it always builds possession in reverse order: the bag of the Madam Lucia.']),
     (5, None, ["'Check the zipper... yes, her initials are right here!' For plural things, there is flips to there are.", (None, 'Ci sono'), 'While singular uses there is, plural items like initials always take there are.']),

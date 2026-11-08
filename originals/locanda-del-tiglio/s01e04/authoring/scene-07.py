@@ -15,12 +15,12 @@ OUTRO = "Bright daylight on an old luggage tag just unlocked twenty-five years o
 CLOSING = ('lucia', 'A presto!')
 STORY = [
     ('bruno', 'Metto qui questa valigia blu per cinque minuti mentre spazzo il ripostiglio.', 'Let me set this blue suitcase here for five minutes while I sweep the closet.'),
-    ('chiara', 'Attento, Bruno: domani a mezzogiorno è venerdì!', 'Careful with it, Bruno—tomorrow at noon is Friday!'),
+    ('chiara', 'Attento, Bruno: domani a mezzogiorno è venerdì!', 'Careful with it, Bruno—Friday at noon is tomorrow!'),
     ('lucia', 'Oh, quella è la valigia gemella del treno di lunedì?', "Oh, is that the twin suitcase from Monday's train?"),
     ('chiara', 'Sì, signora, aspetta ancora il suo proprietario.', 'Yes, madam, still waiting for its owner.'),
     ('lucia', 'Posso guardare di nuovo il cartellino qui alla luce del sole?', 'May I look at the paper tag again here in the bright sunlight?'),
     ('bruno', "Faccia pure, signora. Lunedì pomeriggio l'ingresso era buio.", 'Go right ahead, madam. Monday afternoon the lobby was dark.'),
-    ('lucia', "Un momento... Via dei Tigli numero dodici, e due iniziali incise nell'angolo!", 'Wait a moment... Number twelve, Via dei Tigli, and two childhood initials carved on the corner!'),
+    ('lucia', "Un momento... Via dei Tigli numero dodici, e due iniziali incise nell'angolo!", 'Wait a moment... Number twelve, Via dei Tigli, and two childhood initials written in the corner!'),
     ('chiara', 'Signora Lucia, sembra stupita! Conosce Via dei Tigli numero dodici?', 'Madam Lucia, you look amazed! Do you know Number twelve, Via dei Tigli?'),
     ('lucia', 'Se la conosco? Ogni venerdì per sei anni salivo quelle scale di legno per insegnare pianoforte!', 'Know it? Every Friday for six years I climbed those wooden stairs to teach piano!'),
     ('bruno', 'Venticinque anni fa? Proprio in quella casa?', 'Twenty-five years ago? In that same house?'),
@@ -29,12 +29,12 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Let me set this blue suitcase here for five minutes while I sweep the closet.' Italian uses the present tense for an immediate action right as Bruno sets the bag down."),
-    (1, None, ["'Careful with it, Bruno—tomorrow at noon is Friday!' Two everyday time words pair cleanly in Italian.", (None, 'Domani a mezzogiorno'), 'Literally tomorrow at midday, built from half plus day.']),
+    (1, None, ["'Careful with it, Bruno—Friday at noon is tomorrow!' Two everyday time words pair cleanly in Italian.", (None, 'Domani a mezzogiorno'), 'Literally tomorrow at midday, built from half plus day.']),
     (2, None, ["'Oh, is that the twin suitcase from Monday's train?' Twin works as a vivid describing word right after suitcase.", (None, 'La valigia gemella'), 'Matching suitcase in its feminine ending.']),
     (3, None, "'Yes, madam, still waiting for its owner.' Notice how waits needs no extra word for for before its owner."),
     (4, None, ["'May I look at the paper tag again here in the bright sunlight?' Sunlight is literally light of the sun.", (None, 'Alla luce del sole?'), 'Clear, warm, and easy to build.']),
     (5, None, ["'Go right ahead, madam. Monday afternoon the lobby was dark.' Save Bruno's two-word polite go right ahead.", (None, 'Faccia pure, signora.'), 'Literally do please—the universal polite green light whenever someone asks may I.']),
-    (6, None, "'Wait a moment... Number twelve, Via dei Tigli, and two childhood initials carved on the corner!' Unlike English, Italian addresses always put the street name first and the number after."),
+    (6, None, "'Wait a moment... Number twelve, Via dei Tigli, and two childhood initials written in the corner!' Unlike English, Italian addresses always put the street name first and the number after."),
     (7, None, ["'Madam Lucia, you look amazed! Do you know Number twelve, Via dei Tigli?' Because street is feminine, the house address counts as feminine too.", (None, 'Sembra stupita!'), 'And amazed ends in a to match Lucia.']),
     (8, None, ["'Know it? Every Friday for six years I climbed those wooden stairs to teach piano!' Hear how Italian echoes a question with lively emotion!", (None, 'Se la conosco?'), 'Literally if I know it?—meaning do I ever know it!']),
     (9, None, "'Twenty-five years ago? In that same house?' Placing the Italian word for right or exactly in front of in that house sharpens Bruno's amazement."),

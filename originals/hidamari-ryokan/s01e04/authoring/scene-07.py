@@ -12,12 +12,12 @@ INTRO = "At midday, Kenji airs out the hallway storage room after last night's r
 
 STORY = [
     ('kenji', '荷物室を掃除する五分だけ、この青いスーツケースをここに置かせてくれ。', 'Let me set this blue suitcase here for five minutes while I sweep the luggage room.'),
-    ('mio', '気をつけて扱ってくださいね、健二さん。明日の正午は金曜日ですから！', 'Handle it carefully, Kenji. Tomorrow at noon is Friday!'),
+    ('mio', '気をつけて扱ってね、健二さん。金曜の正午って明日のことよ！', 'Careful with it, 健二—Friday at noon is tomorrow!'),
     ('kazuko', 'あら、それが月曜日の電車で入れ替わった双子のスーツケースですか？', "Oh, is that the twin suitcase swapped on Monday's train?"),
     ('mio', 'はい、和子さん。まだ持ち主の方を待っているんです。', 'Yes, Kazuko. It is still waiting for its owner.'),
     ('kazuko', '明るい日差しの中で、もう一度あの紙の名札を見てもいいかしら？', 'May I look at that paper tag once more here in the bright sunlight?'),
     ('kenji', 'どうぞ見てください、和子さん。月曜日の午後はロビーが暗かったですからね。', 'Please go right ahead, Kazuko. Monday afternoon the lobby was dim.'),
-    ('kazuko', 'ちょっと待って……「けやき通り十二番地」、それに角に彫られた子供の頃のイニシャル！', "Wait a moment... 'Number twelve, Keyaki Lane', and childhood initials carved in the corner!"),
+    ('kazuko', 'ちょっと待って…大阪通り十二番地、それに角には子どもの頭文字がふたつ書かれているわ！', 'Wait a moment... Number twelve, ひだまり通り, and two childhood initials written in the corner!'),
     ('mio', '和子さん、すごく驚いていますね！「けやき通り十二番地」をご存じなんですか？', 'Kazuko, you look amazed! Do you know Number twelve, Keyaki Lane?'),
     ('kazuko', '知っているどころか！六年間、毎週金曜日にあの木の階段を上ってピアノを教えました！', 'Know it? Every Friday for six years I climbed those wooden stairs to teach piano!'),
     ('kenji', '二十五年前にですか？その同じ家で？', 'Twenty-five years ago? In that exact same house?'),

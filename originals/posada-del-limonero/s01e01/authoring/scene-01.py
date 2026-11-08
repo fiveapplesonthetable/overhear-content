@@ -21,9 +21,9 @@ STORY = [
     ('clara', 'Mi primer día siempre camino rápido. ¿Dónde está el ordenador?', 'On my first day I always walk fast. Where is the computer?'),
     ('mateo', 'En el cajón. Aquí usamos este cuaderno grande de papel y un lápiz.', 'In the drawer. Here we use this big paper notebook and a pencil.'),
     ('clara', '¿Un cuaderno de papel? ¿De verdad?', 'A paper notebook? Really?'),
-    ('mateo', 'El papel nunca pierde la lista de habitaciones cuando llueve.', 'Paper never loses the room list when it rains.'),
+    ('mateo', 'El papel sigue funcionando cuando se va la luz.', 'Paper still works when the power goes out.'),
     ('clara', '¡Tiene razón! ¿Y estas son las llaves?', 'Fair point! And these are the keys?'),
-    ('mateo', 'Sí, ocho habitaciones y ocho llaves de latón. Hoy llega la cuatro.', 'Yes, eight rooms and eight brass keys. Number four arrives today.'),
+    ('mateo', 'Sí, ocho habitaciones y ocho llaves de latón. El huésped de la cuatro llega hoy.', "Yes, eight rooms and eight brass keys. Room four's guest arrives today."),
     ('clara', 'Genial. Dime todo lo que necesito saber.', 'Great. Tell me everything I need to know.'),
     ('mateo', 'Primera regla: primero bebe té caliente y después abre la puerta.', 'Rule one: drink hot tea first, then answer the door.'),
 ]
@@ -35,9 +35,9 @@ WALK = [
     (4, None, ["'On my first day I always walk fast. Where is the computer?' Across Spain, people call a computer", (None, 'el ordenador'), 'built from the idea of putting data in order.']),
     (5, None, ["'In the drawer. Here we use this big paper notebook and a pencil.' Describing words sit after the item in Spanish, so", (None, 'cuaderno grande de papel'), 'runs notebook big of paper.']),
     (6, None, ["'A paper notebook? Really?' That crisp two-word reaction,", (None, 'De verdad'), "literally asks 'of truth?' and fits anywhere English says 'really?'."]),
-    (7, None, "'Paper never loses the room list when it rains.' Notice how Spanish needs just a single word at the end for 'it rains', with no separate word for 'it'."),
+    (7, None, "'Paper still works when the power goes out.' Notice how Spanish uses the reflexive phrase 'se va la luz' for the power going out."),
     (8, None, ["'Fair point! And these are the keys?' Clara agrees using", (None, 'Tiene razón'), "literally 'you have reason', the natural Spanish way to tell someone they are right."]),
-    (9, None, ["'Yes, eight rooms and eight brass keys. Number four arrives today.' At the end,", (None, 'la cuatro'), "keeps the feminine word for 'the' because the unspoken word for room is feminine."]),
+    (9, None, ["'Yes, eight rooms and eight brass keys. Room four's guest arrives today.' At the end, Spanish specifies the guest of room four:", (None, 'El huésped de la cuatro'), "where 'cuatro' stays feminine for the unspoken room."]),
     (10, None, ["'Great. Tell me everything I need to know.' Now Clara matches Mateo's casual colleague tone:", (None, 'Dime'), "packs 'tell' and 'me' into one punchy word."]),
     (11, None, "'Rule one: drink hot tea first, then answer the door.' Mateo's house rule puts hot tea ahead of work, ordering the words as 'tea hot'."),
 ]

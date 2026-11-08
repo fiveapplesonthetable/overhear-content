@@ -12,8 +12,8 @@ INTRO = 'It is nearly nine at night, and the courtyard lanterns glow softly as M
 
 STORY = [
     ('mio', '健二さん、今の聞こえましたか？門のベルが鳴りました！', 'Kenji, did you hear that just now? The gate bell rang!'),
-    ('kenji', '夜の九時に？ここにいて、一緒にドアを開けよう。', "At nine at night? Stay close, let's open the door together."),
-    ('mio', 'すみません！こんばんは！……中庭には誰も立っていませんよ！', 'Hello? Good evening! ...Nobody is standing in the courtyard!'),
+    ('kenji', '夜の九時に？待って、一緒に門を開けよう。', "At nine o'clock? Wait, let us open the gate together."),
+    ('mio', 'もしもし？こんばんは！門のところには誰も立っていませんよ！', 'Hello? Good evening! Nobody is standing at the gate!'),
     ('kenji', '待てよ。足元の石段を見てごらん。', 'Hold on. Look down at the stone step.'),
     ('mio', 'もう一つの濃い青いスーツケース！これ、和子さんの鞄ですか？', "Another dark-blue suitcase! Is this Kazuko's bag?"),
     ('kenji', 'ファスナーを見よう……ああ、和子さんのイニシャルがここにある！', "Let's check the zipper... yes, Kazuko's initials are right here!"),
@@ -29,7 +29,7 @@ OPENER = "Evening greetings, a mystery envelope, and a Friday deadline close Epi
 
 WALK = [
     (0, None, ["'Kenji, did you hear that just now? The gate bell rang!' Mio asks ", (None, '聞こえましたか'), ", meaning 'could you hear it?' — Japanese distinguishes hearing a sound naturally from actively listening."]),
-    (2, None, ["'Hello? Good evening! ...Nobody is standing in the courtyard!' After dark, the standard greeting switches to ", (None, 'こんばんは'), " for 'good evening', while ", (None, '中庭'), " literally joins 'middle' and 'garden' for 'courtyard'."]),
+    (2, None, ["'Hello? Good evening! Nobody is standing at the gate!' After dark, the standard greeting switches to ", (None, 'こんばんは'), " for 'good evening', while ", (None, '門のところ'), " points specifically to the gate area."]),
     (7, None, ["'Look, a white envelope is taped onto the handle.' Listen for ", (None, '白い封筒'), ", meaning 'white envelope', attached to ", (None, '持ち手'), ", literally the 'holding hand' or 'handle'."]),
     (8, None, ["'Let me read it: Sorry for the mistake. Please keep my blue bag until Friday.' The mystery writer asks ", (None, '金曜日まで'), ", 'until Friday', using ", (None, '預かってください'), " for 'please keep safe in your care'."]),
     (9, None, ["'Until Friday? There is no name and no signature!' Pairing two missing things uses ", (None, 'も'), ' twice in a row — neither ', (None, '名前'), ', a name, nor ', (None, '署名'), ', a signature.']),
