@@ -114,5 +114,6 @@ Following strict 3-2-1 cycle priority (`3 RU -> 2 FR -> 1 ES -> 1 IT -> 1 PT -> 
 - `bayt-al-yasmin-s01e02` (`ar-en`) — In progress (all 8 scenes + `clips` + 3/4 `forms` chunks done; finishing final `458` forms)
 
 ### Cycle 3 (In Progress on A100)
-- `hotel-du-tilleul-s01e05` (`fr-en`) — In progress (all 8 scenes done, synthesizing `clips`)
-- `hotel-du-tilleul-s01e06` (`fr-en`) — In progress (synthesizing scenes 1–8)
+26. `original-hotel-du-tilleul-s01e05` (`fr-en`) — Released (`8 scenes, 6,929 files, 90.4 MB`)
+- `hotel-du-tilleul-s01e06` (`fr-en`) — In progress (all 8 scenes + `clips` done, synthesizing `forms`)
+- `posada-del-limonero-s01e03` (`es-en`) — In progress (synthesizing scenes 1–8)
