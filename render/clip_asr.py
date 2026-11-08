@@ -151,17 +151,21 @@ def main():
                     return " ".join(t.text for t in segs).strip()
                 except RuntimeError as e:
                     if attempt < 2:
+                        import gc
+                        m = None
+                        gc.collect()
                         time.sleep(2.5 * (attempt + 1))
                         try:
                             m = WhisperModel("large-v3-turbo", device="cuda", compute_type="float16")
                         except Exception:
                             pass
-                        continue
+                        if m is not None:
+                            continue
                     print(f"clip_asr cuda error ({e}); switching to cpu WhisperModel", file=sys.stderr, flush=True)
                     m = None
                     break
         if cpu_m is None:
-            cpu_m = WhisperModel("large-v3-turbo", device="cpu", compute_type="int8")
+            cpu_m = WhisperModel("large-v3-turbo", device="cpu", compute_type="int8", cpu_threads=12)
         segs, _ = cpu_m.transcribe(audio_arr, language=lang, beam_size=5, condition_on_previous_text=False, vad_filter=False)
         return " ".join(t.text for t in segs).strip()
 
