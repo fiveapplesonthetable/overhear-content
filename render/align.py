@@ -54,7 +54,7 @@ class Aligner:
                 if edge.start >= edge.end:
                     continue
                 for ch in edge.txt.lower():
-                    if ch in self.dict:
+                    if ch in native_text._ALPHABET and ch in self.dict:
                         toks.append(self.dict[ch])
                         owner.append(edge.start)
         else:
