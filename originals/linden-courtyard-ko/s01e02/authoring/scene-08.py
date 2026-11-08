@@ -1,0 +1,43 @@
+# Authoring module for linden-courtyard-ko-s01e02-scene-08.
+ID = 'linden-courtyard-ko-s01e02-scene-08'
+SHOW = 'linden-courtyard-ko'
+SEASON = 1
+EPISODE = 2
+SCENE = 8
+TITLE = 'Two Names, One Room  (방 하나에 예약된 두 이름)'
+LEVEL = 'A1 — 입문'
+PAIR = 'en-ko'
+LABELS = {'arthur': 'Arthur', 'hannah': 'Hannah', 'graham': 'Graham'}
+INTRO = '저녁 장부를 점검하던 아서가 사색이 되어 데스크로 달려옵니다. 어제 안경을 쓰지 않은 채 태블릿으로 전화 예약을 받다가 이미 손님이 묵고 있는 칠 호실에 또 다른 손님을 중복 예약해 버렸거든요. 비 내리는 저녁의 마지막 장면을 들어 보세요.'
+OPENER = '이제 두 번째 에피소드의 마지막 대화를 한 문장씩 살펴볼까요.'
+TRANSITION = '긴박하게 펼쳐지는 마지막 장면을 처음부터 다시 들어 보세요.'
+OUTRO = '여덟 시 저녁 기차로 새 손님이 도착하기까지 남은 시간은 단 사십 분뿐이에요. 삼 층 계단 위 햇살 잘 드는 오래된 다락 서재가 과연 멋진 아홉 번째 방으로 변신할 수 있을까요. 내일 다음 이야기에서 만나요.'
+CLOSING = ('arthur', 'See you tomorrow!')
+STORY = [
+    ('arthur', 'Graham... Hannah... please tell me room six is free tonight.', '그레이엄... 해나... 제발 오늘 밤 육 호실이 비어 있다고 말해 줘요.'),
+    ('hannah', 'No, Arthur, the couple from the south checked into room six an hour ago.', '아니요, 아서, 한 시간 전에 남부에서 오신 부부가 육 호실에 체크인하셨어요.'),
+    ('graham', 'Every key from one to seven is taken, and room eight has wet paint.', '일 호실부터 칠 호실까지 열쇠가 모두 나갔고, 팔 호실은 페인트칠이 아직 안 말랐어요.'),
+    ('arthur', 'Oh, disaster! Yesterday I took a phone booking on the tablet without my glasses!', '아, 큰일 났네요! 어제 안경도 안 쓰고 태블릿으로 전화 예약을 받았거든요!'),
+    ('hannah', 'Wait, let me look at the tablet screen and the paper book together.', '잠깐만요, 태블릿 화면하고 종이 장부를 같이 대조해 볼게요.'),
+    ('graham', 'Let me guess. You promised somebody a room we do not have?', '어디 맞혀 볼까요. 우리한테 없는 방을 누군가에게 약속해 버리셨군요?'),
+    ('hannah', 'Arthur! Room seven is already occupied, and you booked a second guest into room seven!', '아서! 칠 호실은 이미 투숙 중인데 칠 호실에 두 번째 손님을 또 예약하셨어요!'),
+    ('arthur', "And he arrives on the eight o'clock evening train, in forty minutes!", '게다가 그 손님은 사십 분 뒤인 여덟 시 저녁 기차를 타고 도착해요!'),
+    ('graham', 'Told you that tablet is a trap.', '그 태블릿은 함정이라고 제가 말씀드렸잖아요.'),
+    ('arthur', 'It is raining outside and every hotel on our street is full! What do we do?', '밖에는 비가 내리고 우리 거리의 호텔은 전부 만실이에요! 이제 우리 어쩌면 좋죠?'),
+    ('hannah', 'Wait, what is on the third floor above the stairs?', '잠깐만요, 계단 위 삼 층에는 무엇이 있나요?'),
+    ('graham', 'The old sunny attic study... follow me, quickly!', '햇살 잘 드는 오래된 다락 서재가 있죠... 저를 따라오세요, 서둘러요!'),
+]
+WALK = [
+    (0, None, ["'그레이엄... 해나... 제발 오늘 밤 육 호실이 비어 있다고 말해 줘요.' 오늘 밤 객실에 예약 손님이 없어 쓸 수 있는 상태인지 물을 때는", (None, 'is free tonight'), '이렇게 비어 있다는 뜻의 형용사를 써요.']),
+    (1, None, ["'아니요, 아서, 한 시간 전에 남부에서 오신 부부가 육 호실에 체크인하셨어요.' 수속을 마치고 특정 객실로 입실했다는 표현은 전치사를 결합한", (None, 'checked into room six'), '여기서 이 구절로 정확히 알려 줘요.']),
+    (2, None, ["'일 호실부터 칠 호실까지 열쇠가 모두 나갔고, 팔 호실은 페인트칠이 아직 안 말랐어요.' 칠한 지 얼마 되지 않아 아직 축축한 페인트 상태는", (None, 'wet paint'), '여기서 이 두 단어로 간단히 표현해요.']),
+    (3, None, ["'아, 큰일 났네요! 어제 안경도 안 쓰고 태블릿으로 전화 예약을 받았거든요!' 화면이나 전자 기기를 통해 작업했다고 할 때는 접촉의 전치사를 써서", (None, 'on the tablet'), '이렇게 말해요.']),
+    (4, None, ["'잠깐만요, 태블릿 화면하고 종이 장부를 같이 대조해 볼게요.' 두 가지 기록을 한자리에 나란히 놓고 함께 비교해 볼 때는 문장 끝에", (None, 'together'), '여기서 이 부사를 놓아 의미를 모아 줘요.']),
+    (5, None, ["'어디 맞혀 볼까요. 우리한테 없는 방을 누군가에게 약속해 버리셨군요?' 상대가 차마 말 못 하는 실수를 눈치채고 먼저 짚어 볼 때는", (None, 'Let me guess'), '여기서 이 한마디로 운을 떼면 아주 자연스러워요.']),
+    (6, None, ["'아서! 칠 호실은 이미 투숙 중인데 칠 호실에 두 번째 손님을 또 예약하셨어요!' 명사 책과 철자가 똑같은 단어를 동사로 써서 과거에 예약을 잡았다는 뜻으로", (None, 'you booked'), '이렇게 말해요.']),
+    (7, None, ["'게다가 그 손님은 사십 분 뒤인 여덟 시 저녁 기차를 타고 도착해요!' 기차 시간표처럼 정해진 시각에 맞춰 도착하는 일정은 단순현재형인", (None, 'he arrives'), '여기서 이 형태로도 또렷하게 나타내요.']),
+    (8, None, ["'그 태블릿은 함정이라고 제가 말씀드렸잖아요.' 일상 회화에서는 내가 분명히 미리 말했잖냐고 할 때 주어를 슬쩍 줄인", (None, 'Told you'), '여기서 이 짧은 표현을 친근하게 자주 써요.']),
+    (9, None, ["'밖에는 비가 내리고 우리 거리의 호텔은 전부 만실이에요! 이제 우리 어쩌면 좋죠?' 당장 어떻게 대처해야 할지 해결책을 다급히 구할 때는 조동사를 넣은", (None, 'What do we do'), '여기서 이 네 단어로 대책을 상의해요.']),
+    (10, None, ["'잠깐만요, 계단 위 삼 층에는 무엇이 있나요?' 건물의 몇 층에 있는지를 말할 때는 바닥 표면에 발을 딛고 서 있으므로 전치사를 붙여", (None, 'on the third floor'), '이렇게 서수로 층수를 나타내요.']),
+    (11, None, ["'햇살 잘 드는 오래된 다락 서재가 있죠... 저를 따라오세요, 서둘러요!' 앞장서며 상대방에게 자신을 따라오라고 이끌 때는", (None, 'follow me'), '여기서 이 간결한 명령문이 언제나 힘차게 쓰인답니다.']),
+]
