@@ -109,10 +109,10 @@ def unallocated_pending(by_pid):
                 pass
             continue
         decl = int(slot["mib"])
-        if decl >= 5000:
-            heavy += 1
         age = now - float(slot.get("t", now - 30.0))
         actual = sum(by_pid.get(p, 0) for p in tree_pids(pid, children))
+        if (actual if actual >= 1500 else decl) >= 5600:
+            heavy += 1
         cmd_s = slot.get("cmd", "")
         if actual >= 1500:
             is_qwen = "venv-qwen" in cmd_s and decl >= 6000
@@ -172,11 +172,14 @@ def main():
         sys.exit(__doc__)
     mib = min(int(sys.argv[1]), BUDGET)
     cmd = sys.argv[2:]
+    cmd_str = " ".join(cmd)[:200]
+    if "stage.py clips" in cmd_str or "stage.py forms" in cmd_str:
+        mib = min(mib, 5400)
     os.makedirs(QUEUE, exist_ok=True)
     slot = os.path.join(SLOTS, f"{os.getpid()}.json")
     ticket = os.path.join(QUEUE, f"{os.getpid()}.json")
     me = {"pid": os.getpid(), "mib": mib, "t": time.time(),
-          "prio": int(os.environ.get("GPURUN_PRIO", "0")), "cmd": " ".join(cmd)[:200]}
+          "prio": int(os.environ.get("GPURUN_PRIO", "0")), "cmd": cmd_str}
     with open(ticket, "w") as f:
         json.dump(me, f)
     waited = False
