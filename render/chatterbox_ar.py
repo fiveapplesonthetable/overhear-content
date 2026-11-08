@@ -102,6 +102,8 @@ def checkpoint(settings):
 
 class ChatterboxArEngine(QwenEngine):
     """Same per-sentence cache/retry interface as other engines; no synthesized reference padding."""
+    single_candidate_per_attempt = True
+
     def __init__(self, settings, voices, log=print):
         import torch
         os.environ.setdefault("HF_HUB_OFFLINE", "1")
