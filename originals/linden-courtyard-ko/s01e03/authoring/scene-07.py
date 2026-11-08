@@ -1,0 +1,43 @@
+# Authoring module for linden-courtyard-ko-s01e03-scene-07.
+ID = 'linden-courtyard-ko-s01e03-scene-07'
+SHOW = 'linden-courtyard-ko'
+SEASON = 1
+EPISODE = 3
+SCENE = 7
+TITLE = 'Returning the Notebook  (수첩 돌려드리기)'
+LEVEL = 'A1 — 입문'
+PAIR = 'en-ko'
+LABELS = {'hannah': 'Hannah', 'caleb': 'Caleb'}
+INTRO = '해나가 삼 층 다락방으로 올라가 케일럽에게 가죽 수첩을 무사히 돌려드려요. 바로 그때 구석의 난방 배관에서 이상한 금속 소리가 나더니 라디에이터 아랫부분이 차츰 식기 시작합니다. 두 사람의 대화를 들어 보세요.'
+OPENER = '수첩을 건네며 나눈 다락방 대화를 한 문장씩 차근차근 살펴볼까요.'
+TRANSITION = '그럼 차분한 밤공기가 느껴지는 장면 전체를 다시 한번 들어 보세요.'
+OUTRO = '따뜻한 담요 덕분에 괜찮다며 배려해 주는 케일럽의 말에 해나는 고마움을 느꼈어요. 하지만 지하실 난방 배관에 무슨 일이 생겼는지 어서 확인해 봐야겠네요. 이어지는 여덟 번째 장면에서 만나요.'
+CLOSING = ('caleb', 'Have a good night!')
+STORY = [
+    ('hannah', 'Excuse me, Caleb? Sorry to disturb you.', '실례합니다, 케일럽 씨? 방해해서 죄송해요.'),
+    ('caleb', 'Oh, my leather notebook! Thank you! I was just looking for it.', '아, 제 가죽 수첩이네요! 감사합니다! 마침 찾고 있던 참이었어요.'),
+    ('hannah', 'You left it by the soup cup on the front counter.', '프런트 카운터의 수프 컵 옆에 두고 가셨더라고요.'),
+    ('caleb', 'All my street notes from this week are in here. You saved me.', '이번 주에 적은 제 거리 기록이 전부 이 안에 들어 있거든요. 저를 살리셨네요.'),
+    ('hannah', 'We are glad you find our courtyard peaceful for your... work.', '저희 안뜰이 손님의 그 작업에 평화롭게 느껴지신다니 기쁘네요.'),
+    ('caleb', 'Very peaceful! Though did you hear a funny metal knock just now?', '정말 평화롭죠! 그런데 방금 좀 이상한 금속 두드리는 소리 들으셨나요?'),
+    ('hannah', 'Yes! It sounded like it came from the heating pipe in the corner.', '네! 구석에 있는 난방 배관에서 난 소리 같았어요.'),
+    ('caleb', 'Feel the radiator. The top is warm, while the bottom is turning cool.', '라디에이터를 만져 보세요. 위쪽은 따뜻한데 아래쪽은 차가워지고 있어요.'),
+    ('hannah', 'Oh! Sometimes old pipes have a little air bubble at night.', '어머! 가끔 오래된 배관에 밤이면 작은 공기 방울이 차곤 하거든요.'),
+    ('caleb', 'I have a warm blanket, so I am quite comfortable tonight.', '따뜻한 담요가 있으니 저는 오늘 밤 꽤 편안합니다.'),
+    ('hannah', 'Thank you for being so patient! Graham will check the basement right away.', '그렇게 너그럽게 이해해 주셔서 감사해요! 그레이엄이 당장 지하실을 확인해 볼 거예요.'),
+    ('caleb', 'Good night, Hannah. See you at breakfast.', '안녕히 주무세요, 해나. 아침 식사 때 봬요.'),
+]
+WALK = [
+    (0, None, ["'실례합니다, 케일럽 씨? 방해해서 죄송해요.' 쉬거나 일하는 사람에게 조심스럽게 말을 걸며 양해를 구할 때는", (None, 'Sorry to disturb you'), '형용사 뒤에 부정사를 이어 예의 바른 첫인사를 건네요.']),
+    (1, None, ["'아, 제 가죽 수첩이네요! 감사합니다! 마침 찾고 있던 참이었어요.' 잃어버린 물건을 두리번거리며 찾고 있었다고 말할 때는 구동사", (None, 'looking for it'), '진행형 시제와 결합해 바로 직전까지 이어진 동작을 나타내요.']),
+    (2, None, ["'프런트 카운터의 수프 컵 옆에 두고 가셨더라고요.' 어떤 물건 바로 곁이라는 위치를 가볍고 간결하게 짚어 줄 때는", (None, 'by the soup cup'), '짧은 전치사 하나를 써서 물건이 놓여 있던 자리를 알려 줘요.']),
+    (3, None, ["'이번 주에 적은 제 거리 기록이 전부 이 안에 들어 있거든요. 저를 살리셨네요.' 손에 든 수첩이나 가방 속이라는 공간을 가리켜 말할 때는", (None, 'in here'), '전치사와 부사를 나란히 붙여 바로 이 안쪽임을 생생히 가리켜요.']),
+    (4, None, ["'저희 안뜰이 손님의 그 작업에 평화롭게 느껴지신다니 기쁘네요.' 직접 경험해 보고 어떤 대상이 어떠하다고 느끼는 상태를 말할 때는", (None, 'you find our courtyard peaceful'), '목적어 뒤에 형용사를 나란히 두는 오형식 구문으로 세련되게 표현해요.']),
+    (5, None, ["'정말 평화롭죠! 그런데 방금 좀 이상한 금속 두드리는 소리 들으셨나요?' 웃기다는 뜻 말고도 평소와 달리 묘하거나 낯설다는 느낌을 전할 때는", (None, 'funny'), '친숙한 이 형용사를 써서 어딘가 수상쩍은 소리를 묘사해요.']),
+    (6, None, ["'네! 구석에 있는 난방 배관에서 난 소리 같았어요.' 귀로 들은 인상을 바탕으로 추측을 조심스럽게 덧붙일 때는", (None, 'It sounded like'), '절 전체를 자연스럽게 이끌 수 있도록 접속사처럼 활용해요.']),
+    (7, None, ["'라디에이터를 만져 보세요. 위쪽은 따뜻한데 아래쪽은 차가워지고 있어요.' 온도가 서서히 변해 가는 진행 중인 변화를 나타낼 때는", (None, 'turning cool'), '변화 동사의 진행형 뒤에 형용사를 붙여 식어 가는 과정을 보여 줘요.']),
+    (8, None, ["'어머! 가끔 오래된 배관에 밤이면 작은 공기 방울이 차곤 하거든요.' 하루 중 밤이라는 시간대를 관사 없이 깔끔하게 말할 때는", (None, 'at night'), '아침이나 저녁과 달리 짧은 전치사를 짝지어 쓰는 점을 눈여겨보세요.']),
+    (9, None, ["'따뜻한 담요가 있으니 저는 오늘 밤 꽤 편안합니다.' 상당히 만족스럽고 아늑한 상태임을 차분하고 품위 있게 말할 때는", (None, 'quite comfortable'), '정도를 나타내는 부사를 앞에 두어 넉넉한 여유를 전해 줘요.']),
+    (10, None, ["'그렇게 너그럽게 이해해 주셔서 감사해요! 그레이엄이 당장 지하실을 확인해 볼 거예요.' 상대가 보인 태도나 성품에 고마움을 구체적으로 표현할 때는", (None, 'for being so patient'), '전치사 뒤에 동명사와 형용사를 이어 참을성 있는 배려에 인사해요.']),
+    (11, None, ["'안녕히 주무세요, 해나. 아침 식사 때 봬요.' 식사 자리를 하나의 시간이나 모임 지점처럼 가리켜 인사할 때는", (None, 'at breakfast'), '관사 없이 전치사와 식사 명사만 붙여 깔끔한 작별 인사를 완성해요.']),
+]
