@@ -140,16 +140,20 @@ def main():
     cpu_m = None
 
     def run_transcribe(audio_arr, lang):
-        nonlocal cpu_m
-        for attempt in range(4):
-            try:
-                segs, _ = m.transcribe(audio_arr, language=lang, beam_size=5, condition_on_previous_text=False, vad_filter=False)
-                return " ".join(t.text for t in segs).strip()
-            except RuntimeError as e:
-                if "out of memory" in str(e).lower():
-                    time.sleep(2.0 * (attempt + 1))
-                    continue
-                raise
+        nonlocal cpu_m, m
+        if m is not None:
+            for attempt in range(3):
+                try:
+                    segs, _ = m.transcribe(audio_arr, language=lang, beam_size=5, condition_on_previous_text=False, vad_filter=False)
+                    return " ".join(t.text for t in segs).strip()
+                except RuntimeError as e:
+                    err_s = str(e).lower()
+                    if "out of memory" in err_s and attempt < 2:
+                        time.sleep(2.0 * (attempt + 1))
+                        continue
+                    print(f"clip_asr cuda error ({e}); switching to cpu WhisperModel", file=sys.stderr, flush=True)
+                    m = None
+                    break
         if cpu_m is None:
             cpu_m = WhisperModel("large-v3-turbo", device="cpu", compute_type="int8")
         segs, _ = cpu_m.transcribe(audio_arr, language=lang, beam_size=5, condition_on_previous_text=False, vad_filter=False)
