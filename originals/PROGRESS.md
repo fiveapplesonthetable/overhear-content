@@ -98,7 +98,7 @@ Following strict 3-2-1 cycle priority (`3 RU -> 2 FR -> 1 ES -> 1 IT -> 1 PT -> 
 12. `original-haessal-guesthouse-s01e01` (`ko-en`)
 13. `original-xiaoyuan-kezhan-s01e01` (`zh-en`)
 
-### Cycle 2 (12 / 13 Released, 1 Finishing Final `forms` Chunk on A100)
+### Cycle 2 (13 / 13 Released — All 10 Languages Complete!)
 14. `original-dvorik-u-mosta-s01e04` (`ru-en`) — Released
 15. `original-dvorik-u-mosta-s01e05` (`ru-en`) — Released
 16. `original-dvorik-u-mosta-s01e06` (`ru-en`) — Released (completes RU Season 1!)
@@ -111,9 +111,11 @@ Following strict 3-2-1 cycle priority (`3 RU -> 2 FR -> 1 ES -> 1 IT -> 1 PT -> 
 23. `original-hidamari-ryokan-s01e02` (`ja-en`) — Released (`8 scenes, 3,492 files, 64.2 MB`)
 24. `original-xiaoyuan-kezhan-s01e02` (`zh-en`) — Released (`8 scenes, 742 files, 36.1 MB`)
 25. `original-haessal-guesthouse-s01e02` (`ko-en`) — Released (`8 scenes, 3,770 files, 70.2 MB`)
-- `bayt-al-yasmin-s01e02` (`ar-en`) — In progress (all 8 scenes + `clips` + 3/4 `forms` chunks done; finishing final `458` forms)
+26. `original-bayt-al-yasmin-s01e02` (`ar-en`) — Released (`8 scenes, 3,880 files, 61.7 MB`)
 
 ### Cycle 3 (In Progress on A100)
-26. `original-hotel-du-tilleul-s01e05` (`fr-en`) — Released (`8 scenes, 6,929 files, 90.4 MB`)
-- `hotel-du-tilleul-s01e06` (`fr-en`) — In progress (all 8 scenes + `clips` done, synthesizing `forms`)
-- `posada-del-limonero-s01e03` (`es-en`) — In progress (synthesizing scenes 1–8)
+27. `original-hotel-du-tilleul-s01e05` (`fr-en`) — Released (`8 scenes, 6,929 files, 90.4 MB`)
+28. `original-hotel-du-tilleul-s01e06` (`fr-en`) — Released (`8 scenes, 6,851 files, 91.8 MB` — completes FR Season 1!)
+- `posada-del-limonero-s01e03` (`es-en`) — In progress
+- `locanda-del-tiglio-s01e03` (`it-en`) — In progress
+- `pousada-do-cajueiro-s01e03` (`pt-en`) — In progress
