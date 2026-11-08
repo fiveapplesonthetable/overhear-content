@@ -4,6 +4,7 @@ import json
 
 import config
 from voices import Voices, VoiceError
+import retakes
 
 
 def check_voices(scene, voices: Voices):
@@ -24,7 +25,9 @@ def render_key(scene, voices: Voices, settings, roles=None) -> str:
     if scene.lang in ("ja", "zh", "ko", "ar"):
         from native_text import VERSION
         native = {"nativeAlignment": VERSION}
+    takes = retakes.for_scene(scene)
     return config.sha({
+        **({"retakes": takes} if takes else {}),
         "contentHash": scene.content_hash,
         "tts": config.tts_signature(settings),
         "assembly": config.assembly_signature(settings),
@@ -41,9 +44,12 @@ def estimate_seconds(scene, cps=None):
     return chars / cps + gaps
 
 
-def cache_key(settings, voice, ref_version, lang, text):
+def cache_key(settings, voice, ref_version, lang, text, retake=0):
     sig = config.sentence_signature(settings, lang)
-    blob = json.dumps({"sig": sig, "voice": voice, "ref": ref_version, "lang": lang, "text": text}, sort_keys=True, ensure_ascii=False)
+    if not isinstance(retake, int) or isinstance(retake, bool) or retake < 0:
+        raise ValueError("retake must be a non-negative integer")
+    blob = json.dumps({"sig": sig, "voice": voice, "ref": ref_version, "lang": lang, "text": text,
+                       **({"retake": retake} if retake else {})}, sort_keys=True, ensure_ascii=False)
     return hashlib.sha256(blob.encode("utf-8")).hexdigest()
 
 
