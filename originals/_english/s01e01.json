@@ -18,9 +18,9 @@
         ["F1", "I always walk fast on my first day. Where is the computer?"],
         ["M1", "In the drawer. Here we use this big paper book and a pencil."],
         ["F1", "A paper book? Really?"],
-        ["M1", "Paper never loses the room list when it rains."],
+        ["M1", "Paper still works when the power goes out."],
         ["F1", "Fair enough! And these are the keys?"],
-        ["M1", "Yes, eight rooms, eight brass keys. Room four is arriving today."],
+        ["M1", "Yes, eight rooms, eight brass keys. Room four's guest arrives today."],
         ["F1", "Great. Tell me everything I need to know."],
         ["M1", "Rule one: drink hot tea first, then answer the bell."]
       ],
@@ -84,7 +84,7 @@
       "intro": "At the front desk, retired music teacher {F3} steps inside from her taxi pulling a large dark-blue suitcase. {F1} greets her first real guest while {M1} stands ready to help with the bag. Let's hear how it goes.",
       "story": [
         ["F1", "Welcome! Good morning, madam."],
-        ["F3", "Good morning, my dear. I have a room for {F3}."],
+        ["F3", "Good morning, my dear. I have a booking for {F3}."],
         ["F1", "Yes, room four on the second floor! How was your train trip?"],
         ["F3", "Quiet and pleasant, thank you, though this suitcase feels very heavy today."],
         ["M1", "Allow me. Goodness, did you pack stones in here?"],
@@ -180,8 +180,8 @@
       "intro": "It is almost nine in the evening, and the courtyard lamps are glowing softly as {F1} finishes her first day with {M1}. Suddenly, the front gate bell rings once in the quiet night. Listen first.",
       "story": [
         ["F1", "Did you hear that, {M1}? Someone just rang the gate bell!"],
-        ["M1", "At nine o'clock? Stay here, let us open the door together."],
-        ["F1", "Hello? Good evening! Nobody is standing in the courtyard!"],
+        ["M1", "At nine o'clock? Wait, let us open the gate together."],
+        ["F1", "Hello? Good evening! Nobody is standing at the gate!"],
         ["M1", "Wait. Look down on the stone step."],
         ["F1", "Another dark-blue suitcase! Is this Madam {F3}'s bag?"],
         ["M1", "Check the zipper... yes, her initials are right here!"],
