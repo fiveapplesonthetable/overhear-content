@@ -15,8 +15,8 @@ SLOTS = os.path.join(_HOME, "gpu-slots")
 QUEUE = os.path.join(SLOTS, "queue")
 LEDGER = os.path.join(_HOME, "gpu-slots.lock")
 OLD_LOCK = os.path.join(_HOME, "gpu.lock")
-BUDGET = int(os.environ.get("GPURUN_BUDGET_MIB", "37800"))  # A100 40 GB minus ctranslate2/driver headroom
-MARGIN = int(os.environ.get("GPURUN_MARGIN_MIB", "2200"))
+BUDGET = int(os.environ.get("GPURUN_BUDGET_MIB", "38800"))  # A100 40 GB minus ctranslate2/driver headroom
+MARGIN = int(os.environ.get("GPURUN_MARGIN_MIB", "1500"))
 POLL_SEC = float(os.environ.get("GPURUN_POLL_SEC", "1.0"))
 
 
@@ -110,11 +110,17 @@ def unallocated_pending(by_pid):
         decl = int(slot["mib"])
         age = now - float(slot.get("t", now - 30.0))
         actual = sum(by_pid.get(p, 0) for p in tree_pids(pid, children))
+        cmd_s = slot.get("cmd", "")
         if actual >= 1500:
-            # Qwen weights sit at ~4.6 GiB during talker token gen, then spike to ~13 GiB in speech_tokenizer.decode.
-            is_qwen = "venv-qwen" in slot.get("cmd", "") and decl >= 7000
-            peak = max(decl, 13000) if is_qwen else max(decl, 3200)
-            pending += max(800, peak - actual)
+            is_qwen = "venv-qwen" in cmd_s and decl >= 7000
+            is_retake = "--attempt 1" in cmd_s or "--attempt 2" in cmd_s or "--attempt 3" in cmd_s or " stage.py retake " in cmd_s
+            if is_qwen:
+                peak = 10800 if is_retake else 15800
+            elif "venv-asr" in cmd_s and decl >= 7000:
+                peak = 6200
+            else:
+                peak = max(decl, 3200)
+            pending += max(400, peak - actual)
         elif actual > 0:
             pending += max(2200, min(decl, 6000))
         elif age < 22.0:
