@@ -8,21 +8,22 @@ import retakes
 
 
 def check_voices(scene, voices: Voices):
-    """role -> voice key, or raises VoiceError. A target-language voice must speak the scene's language."""
+    """role -> voice key, or raises VoiceError. Characters speak scene.lang; narrator speaks the pair's native language."""
     roles = voices.resolve(scene)
+    narr_lang = scene.pair.split("-")[1]
     for role, key in roles.items():
         vl = voices.lang_of(key)
-        if vl not in (scene.lang, "en"):
-            raise VoiceError(f"role {role!r} -> voice {key!r} speaks {vl}, scene is {scene.lang}")
-        if role == "narrator" and vl != "en":
-            raise VoiceError(f"narrator voice {key!r} is not English")
+        if vl not in (scene.lang, narr_lang):
+            raise VoiceError(f"role {role!r} -> voice {key!r} speaks {vl}, scene is {scene.lang} (narrator {narr_lang})")
+        if role == "narrator" and vl != narr_lang:
+            raise VoiceError(f"narrator voice {key!r} speaks {vl}, expected {narr_lang}")
     return roles
 
 
 def render_key(scene, voices: Voices, settings, roles=None) -> str:
     roles = roles or check_voices(scene, voices)
     native = {}
-    if scene.lang in ("ja", "zh", "ko", "ar"):
+    if scene.lang in ("ja", "zh", "ko", "ar", "hi"):
         from native_text import VERSION
         native = {"nativeAlignment": VERSION}
     takes = retakes.for_scene(scene)

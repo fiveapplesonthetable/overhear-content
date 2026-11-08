@@ -87,7 +87,7 @@ def plan_scene(scene, settings, voices, ruaccent=None):
     synth_settings = {k: v for k, v in settings.items() if k not in ("ttsRu", "ttsEn")}
     policy = config.stress_policy(settings)
     asig = config.sha(assembly_signature(settings))
-    gap = settings["audio"]["interSentenceGap"][scene.lang]
+    gap = settings["audio"]["interSentenceGap"].get(scene.lang, settings["audio"]["interSentenceGap"].get("en", 0.35))
     items = []
     for text in examples(scene):
         sents = textprep.prepare_segment(0, "clip", text, scene.lang, None, policy, 0.0, gap,

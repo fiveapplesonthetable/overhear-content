@@ -190,7 +190,14 @@ class AudioGates:
                 segs, info = self.whisper.transcribe(wav_16k, language=lang, beam_size=1, word_timestamps=False, condition_on_previous_text=False)
                 hyp_text = " ".join(s.text for s in segs).strip()
                 break
-        words = re.findall(r"\w+", hyp_text.lower())
+        def _word_tokens(s):
+            import unicodedata
+            if lang == "hi":
+                cleaned = "".join(ch if unicodedata.category(ch)[0] in ("L", "M", "N") else " " for ch in unicodedata.normalize("NFC", s.lower()))
+                return cleaned.split()
+            return re.findall(r"\w+", s.lower())
+
+        words = _word_tokens(hyp_text)
                     
         # Repeat check
         for i in range(len(words)-1):
@@ -202,7 +209,10 @@ class AudioGates:
         # CER calculation using JiWER
         import jiwer
         def norm(s):
-            import re
+            import re, unicodedata
+            if lang == "hi":
+                cleaned = "".join(ch if unicodedata.category(ch)[0] in ("L", "M", "N") else " " for ch in unicodedata.normalize("NFC", s.lower()))
+                return re.sub(r"\s+", " ", cleaned).strip()
             return re.sub(r'[\W_]+', ' ', s.lower()).strip()
         ref_norm = norm(text)
         hyp_norm = norm(hyp_text)

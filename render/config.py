@@ -16,6 +16,7 @@ GPURUN = os.environ.get("OVERHEAR_GPURUN", str(HERE / "gpurun"))
 VENV_QWEN = os.environ.get("OVERHEAR_VENV_QWEN", str(HOME / "venv-qwen"))
 VENV_F5 = os.environ.get("OVERHEAR_VENV_F5", str(HOME / "venv-f5"))
 VENV_AR = os.environ.get("OVERHEAR_VENV_AR", str(HOME / "venv-asr"))
+VENV_HI = os.environ.get("OVERHEAR_VENV_HI", str(HOME / "venv-f5"))
 VENV_ASR = os.environ.get("OVERHEAR_VENV_ASR", str(HOME / "venv-asr"))
 HF_TOKEN_FILE = Path(os.environ.get("OVERHEAR_HF_TOKEN_FILE", HOME / "hf-token.txt"))   # optional; never commit it
 # Machine paths that settings.json names but that never change the audio's render key:
@@ -40,6 +41,8 @@ def load_settings(path=None):
         s["forms"]["dictionary"] = FORMS_DICTIONARY
     if "ttsAr" in s:
         s["ttsAr"]["modelLocal"] = CHATTERBOX_LOCAL
+    if "ttsHi" in s and s["ttsHi"].get("engine") == "chatterbox":
+        s["ttsHi"].setdefault("modelLocal", CHATTERBOX_LOCAL)
     return s
 
 
@@ -50,7 +53,7 @@ def stress_policy(s):
     return p
 
 
-def tts_signature(s, with_en=True, with_ar=True):
+def tts_signature(s, with_en=True, with_ar=True, with_hi=True):
     """The part of the settings that changes what the model says (not how it is assembled)."""
     t = s["tts"]
     lora = s["lora"]
@@ -63,12 +66,13 @@ def tts_signature(s, with_en=True, with_ar=True):
         **({"ru": _public(ru_engine(s))} if ru_engine(s) else {}),
         **({"en": _public(en_engine(s))} if with_en and en_engine(s) else {}),
         **({"ar": _public(ar_engine(s))} if with_ar and ar_engine(s) else {}),
+        **({"hi": _public(hi_engine(s))} if with_hi and hi_engine(s) else {}),
     }
 
 
 def _public(block):
     """The block minus notes and machine paths (a path never changes the audio, so it never enters a render key)."""
-    return {k: v for k, v in block.items() if not k.startswith("_") and k != "modelLocal"}
+    return {k: v for k, v in block.items() if not k.startswith("_") and k not in ("modelLocal", "venv")}
 
 
 def ru_engine(s):
@@ -85,24 +89,46 @@ def ar_engine(s):
     return s.get("ttsAr")
 
 
+def hi_engine(s):
+    return s.get("ttsHi")
+
+
+def hi_venv(s):
+    h = hi_engine(s) or {}
+    v = h.get("venv")
+    if v == "asr" or h.get("engine") == "chatterbox":
+        return VENV_AR
+    if v == "f5" or h.get("engine") in ("f5", "f5-hi"):
+        return VENV_F5
+    if v and Path(str(v)).exists():
+        return str(v)
+    if v:
+        return str(HOME / str(v))
+    return VENV_HI
+
+
 def sentence_signature(s, lang):
     """What the sentence cache key depends on: ttsRu for Russian / ttsEn for English when configured, else the full tts
     signature. (voice, reference version and text are added by plan.cache_key.)"""
-    ru, en, ar = ru_engine(s), en_engine(s), ar_engine(s)
+    ru, en, ar, hi = ru_engine(s), en_engine(s), ar_engine(s), hi_engine(s)
     if lang == "ru" and ru:
         return {"ru": _public(ru), "takeGates": "v3"}
     if lang == "en" and en:
         return {"en": _public(en), "takeGates": "v2"}
     if lang == "ar" and ar:
         return {"ar": _public(ar), "takeGates": "v4-ar-fullsent"}
-    d = tts_signature(s, with_en=False, with_ar=False)
+    if lang == "hi" and hi:
+        return {"hi": _public(hi), "takeGates": "v1-hi"}
+    d = tts_signature(s, with_en=False, with_ar=False, with_hi=False)
     d["takeGates"] = "v5-sky-pure" if lang == "en" else "v2"
-    return d    # Other languages' sentence caches do not depend on Arabic/narrator engines.
+    return d    # Other languages' sentence caches do not depend on Arabic/Hindi/narrator engines.
 
 
 def engine_label(s, lang):
     if lang == "ar" and ar_engine(s):
         return "chatterbox-multilingual-v2"
+    if lang == "hi" and hi_engine(s):
+        return hi_engine(s).get("label", hi_engine(s).get("engine", "hindi-tts"))
     if lang == "en" and en_engine(s):
         return "f5-tts"
     return "qwen3-tts"

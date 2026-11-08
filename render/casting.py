@@ -42,7 +42,9 @@ def cooccurrence(scenes):
 
 def extend(show, cast, scenes, voices, lang):
     """Return (casting_doc, [new keys]). Does not write."""
-    doc = load(show) or {"schemaVersion": 1, "show": show, "narrator": "sky", "characters": {}}
+    narr_lang = scenes[0].pair.split("-")[1] if scenes else "en"
+    default_narr = "sky" if narr_lang == "en" else (f"{narr_lang}-narr" if f"{narr_lang}-narr" in voices.refs else next((v for v, r in voices.refs.items() if r["lang"] == narr_lang), "sky"))
+    doc = load(show) or {"schemaVersion": 1, "show": show, "narrator": default_narr, "characters": {}}
     chars = doc["characters"]
     count, co = cooccurrence(scenes)
     new = []

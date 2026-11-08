@@ -106,6 +106,9 @@ def comparison_cer(record, kind, hyp, fold_vowels=False):
         if record["lang"] == "ar":
             text = re.sub(r"[\u0640\u064b-\u065f\u0670]", "", text)
             text = re.sub(r"[أإآٱ]", "ا", text)
+        if record["lang"] == "hi":
+            cleaned = "".join(ch if unicodedata.category(ch)[0] in ("L", "M", "N") else " " for ch in text)
+            return re.sub(r"\s+", " ", cleaned).strip()
         if record["lang"] in ("ja", "zh"):
             return re.sub(r"[^\w]", "", text)
         return re.sub(r"\s+", " ", re.sub(r"[^\w\s]", " ", text)).strip()

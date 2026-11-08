@@ -123,12 +123,17 @@ class ChatterboxArEngine(QwenEngine):
         self.log("cached Arabic Chatterbox multilingual V2 ready (punc_norm + alignment_stream patched)")
 
     def _activate_voice(self, voice: str, reference: Path, exaggeration: float):
+        if not hasattr(self.q, "prepare_conditionals"):
+            return str(reference)
+        if not hasattr(self, "prompts"):
+            self.prompts = {}
         key = (voice, round(float(exaggeration), 4))
         if key not in self.prompts:
             self.q.prepare_conditionals(str(reference), exaggeration=exaggeration)
             self.prompts[key] = self.q.conds
         else:
             self.q.conds = self.prompts[key]
+        return None
 
     def generate(self, batch, seed, temperature=None, repetition_penalty=None):
         cfg = self.s["ttsAr"]
@@ -150,7 +155,7 @@ class ChatterboxArEngine(QwenEngine):
                 t_in = t_in + "َ."
             elif len(t_in) <= 3 and t_in[-1] not in ".!؟?…":
                 t_in = t_in + "."
-            self._activate_voice(voice, reference, exag)
+            prompt_arg = self._activate_voice(voice, reference, exag)
             wav = None
             for sub_try in range(4):
                 try:
@@ -158,7 +163,7 @@ class ChatterboxArEngine(QwenEngine):
                         self.torch.manual_seed(seed + sub_try * 997)
                     t_try = t_in if sub_try < 2 else (text.strip() + "َ.")
                     wav = self.q.generate(
-                        text=t_try, language_id="ar", audio_prompt_path=None,
+                        text=t_try, language_id="ar", audio_prompt_path=prompt_arg,
                         exaggeration=exag, cfg_weight=cfg.get("cfg_weight", 0.5),
                         temperature=temperature if temperature is not None else cfg.get("temperature", 0.8),
                         repetition_penalty=repetition_penalty if repetition_penalty is not None else cfg.get("repetition_penalty", 2.0),

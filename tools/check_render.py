@@ -21,7 +21,7 @@ _spec = importlib.util.spec_from_file_location("overhear_word_spans", Path(__fil
 _word_spans = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(_word_spans)
 
-NATIVE = ("ja", "zh", "ko", "ar")                 # languages whose word timing must be native MMS + uroman spans
+NATIVE = ("ja", "zh", "ko", "ar", "hi")           # languages whose word timing must be native MMS + uroman spans
 NATIVE_PREFIX = "mms-uroman-wordspans/1;"
 SCENE_FILES = ("audio.mp3", "spans.json", "timing.json", "meta.json", "report.json")
 META_REQUIRED = ("sceneId", "contentHash", "contentCommit", "tts", "voicesVersion", "align", "pipelineVersion", "renderVersion",
@@ -75,7 +75,7 @@ def token_spans(text, tokens):
 
 def annotated_units(text, words, lang):
     """(tokens, character spans) the publisher aligns words to (tokens.annotated_units)."""
-    spans = _word_spans.annotation_spans(text, words or [], required=lang in ("ja", "zh"))
+    spans = _word_spans.annotation_spans(text, words or [], required=lang in ("ja", "zh", "hi"))
     if spans is not None:
         return [text[a:b] for a, b in spans], spans
     toks = tokenize(text)
@@ -146,7 +146,7 @@ def check_scene(render, sid, script_path, notes_path, rep):
     script = json.loads(script_path.read_text(encoding="utf-8"))
     notes = json.loads(notes_path.read_text(encoding="utf-8"))
     segs = script["segments"]
-    lang = script["pair"].split("-")[0]
+    lang, narr_lang = script["pair"].split("-")
     if any("sourceAudio" in s for s in segs):
         rep.err(str(script_path), "a segment carries sourceAudio: original show audio is never published")
     meta = load_json(d / "meta.json", rep, w) if (d / "meta.json").is_file() else None
@@ -221,7 +221,7 @@ def check_scene(render, sid, script_path, notes_path, rep):
         rep.err(w, f"{lang}: meta.nativeAlignment must start with {NATIVE_PREFIX!r}")
     for i, seg in enumerate(segs):
         fine = timing.get(str(i), [])
-        if seg["v"] == "narrator" and not native:
+        if seg["v"] == "narrator" and not native and narr_lang not in NATIVE:
             toks = tokenize(seg["t"])
         elif seg["v"] == "narrator":
             continue

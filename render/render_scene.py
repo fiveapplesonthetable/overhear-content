@@ -203,17 +203,18 @@ class Renderer:
         chain_by_seg = {}
         narr_voice = roles["narrator"]
         narr_lang = self.voices.lang_of(narr_voice)
-        for a, b in _find_inline_chains(segments):
-            c_text, c_maps, g_over = _build_carrier_spec(segments, a, b)
-            if c_text and c_maps:
-                affected = {str(i): takes[str(i)] for i in range(a, b + 1) if str(i) in takes}
-                # A carrier is one cached utterance spanning several authored segments.
-                counter = int(config.sha(affected)[:16], 16) if affected else 0
-                c_key = tts.cache_key(self.s, narr_voice, self.voices.ref_version(narr_voice), narr_lang, c_text, retake=counter)
-                ch_obj = CarrierChain(a, b, c_key, c_text, c_maps, g_over)
-                carriers.append(ch_obj)
-                for k in range(a, b + 1):
-                    chain_by_seg[k] = ch_obj
+        if narr_lang == "en":
+            for a, b in _find_inline_chains(segments):
+                c_text, c_maps, g_over = _build_carrier_spec(segments, a, b)
+                if c_text and c_maps:
+                    affected = {str(i): takes[str(i)] for i in range(a, b + 1) if str(i) in takes}
+                    # A carrier is one cached utterance spanning several authored segments.
+                    counter = int(config.sha(affected)[:16], 16) if affected else 0
+                    c_key = tts.cache_key(self.s, narr_voice, self.voices.ref_version(narr_voice), narr_lang, c_text, retake=counter)
+                    ch_obj = CarrierChain(a, b, c_key, c_text, c_maps, g_over)
+                    carriers.append(ch_obj)
+                    for k in range(a, b + 1):
+                        chain_by_seg[k] = ch_obj
 
         for i, g in enumerate(segments):
             voice = roles[g["v"]]
@@ -228,9 +229,10 @@ class Renderer:
                 continue
 
             eff_gap = ch_obj.gaps_override[i] if ch_obj is not None else float(g.get("gap", 0.35) or 0)
-            native_words = native_text.words_for_segment(g["t"], notes_by_seg.get(i), lang) if lang in native_text.LANGUAGES else ()
+            native_words = native_text.words_for_segment(g["t"], notes_by_seg.get(i), lang) if (g["v"] != "narrator" and lang in native_text.LANGUAGES) else ()
             ru_cfg = config.ru_engine(self.s)
             ar_cfg = config.ar_engine(self.s)
+            hi_cfg = config.hi_engine(self.s)
             seg_policy = self.policy
             turn_max = int(self.s["audio"].get("turnMaxChars", 240))
             if lang == "ru" and ru_cfg:
@@ -241,6 +243,8 @@ class Renderer:
                     turn_max = min(turn_max, 90)
             elif lang == "ar" and ar_cfg:
                 turn_max = int(ar_cfg.get("turnMaxChars", 0))
+            elif lang == "hi" and hi_cfg:
+                turn_max = int(hi_cfg.get("turnMaxChars", 0))
             elif lang == "en" and turn_max > 145:
                 # Preserve existing 240-char cached English takes on already-rendered scenes;
                 # use <=145-char chunks for any uncached English turns so 8s sky.flac + gen stays inside Qwen's 20s window.
@@ -319,7 +323,7 @@ class Renderer:
 
         def evaluate(st, wav):
             clip = audio.prepare_sentence(wav, sr, s["audio"])
-            if st.lang in native_text.LANGUAGES:
+            if st.role != "narrator" and st.lang in native_text.LANGUAGES:
                 ct, x16 = aligner.word_times(clip, sr, st.plain, st.lang, st.alignment_words)
                 if st.lang == "ar" and ct:
                     valid_ends = [w["e"] for w in ct if isinstance(w, dict) and w.get("e") is not None]
@@ -528,7 +532,7 @@ class Renderer:
         for si, g in enumerate(scene.script["segments"]):
             start, end, nxt, sent_spans = lay[si]
             ids = by_seg[si]
-            native = sents[ids[0]].lang in native_text.LANGUAGES
+            native = (g["v"] != "narrator") and (sents[ids[0]].lang in native_text.LANGUAGES)
             units = native_text.words_for_segment(g["t"], notes_by_seg.get(si), sents[ids[0]].lang) if native else ()
             toks = [word.text for word in units] if native else seg_tokens(g["t"], notes_by_seg.get(si))
             tspans = [(word.start, word.end) for word in units] if native else textprep.token_spans(g["t"], toks)
@@ -631,7 +635,9 @@ class Renderer:
             "sceneId": scene.id, "renderKey": ctx.rkey, "contentHash": scene.content_hash, "contentCommit": content_commit,
             **({"nativeAlignment": native_text.VERSION} if scene.lang in native_text.LANGUAGES else {}),
             "pipelineVersion": config.PIPELINE_VERSION, "renderVersion": s["renderVersion"],
-            "tts": {"model": (f"{config.engine_label(s, 'ar')}+{config.engine_label(s, 'en')}" if scene.lang == "ar" and config.ar_engine(s) else s["tts"]["model"]),
+            "tts": {"model": (f"{config.engine_label(s, 'ar')}+{config.engine_label(s, 'en')}" if scene.lang == "ar" and config.ar_engine(s)
+                              else f"{config.engine_label(s, 'hi')}+{config.engine_label(s, scene.native_lang)}" if scene.lang == "hi" and config.hi_engine(s)
+                              else s["tts"]["model"]),
                     "lora": (s["lora"]["tag"] if s["lora"]["enabled"] else None), "stressPolicy": self.policy, "gen": config.tts_signature(s)["gen"],
                     **({"nativeEngine": config.engine_label(s, scene.lang)} if scene.lang in native_text.LANGUAGES else {}),
                     **({"nativeGen": {key: value for key, value in config.ar_engine(s).items() if key in ("temperature", "cfg_weight", "exaggeration", "repetition_penalty", "min_p", "top_p")}} if scene.lang == "ar" and config.ar_engine(s) else {})},
