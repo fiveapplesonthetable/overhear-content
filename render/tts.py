@@ -213,7 +213,8 @@ class QwenCustomEngine:
         todo = [it for it in items if not store.tts_path(it["key"]).exists()]
         todo.sort(key=lambda it: len(it["text_tts"]))
         stats = {"n": 0, "audio_s": 0.0, "wall_s": 0.0, "retries": 0, "cached": len(items) - len(todo)}
-        bs = max(1, int(t["batch"]))
+        init_bs = max(1, int(os.environ.get("OVERHEAR_TTS_BATCH", t["batch"])))
+        bs = init_bs
         pending = list(todo)
         attempt = 0
         t0 = time.time()
@@ -236,6 +237,7 @@ class QwenCustomEngine:
                 wavs_en = []
                 if chunk_en:
                     try:
+                        torch.cuda.empty_cache()
                         wavs_en = self.generate(
                             [(c["voice"], langs[c["lang"]], c["text_tts"]) for c in chunk_en],
                             seed, temperature=0.54, repetition_penalty=1.08, top_k=25, top_p=0.85,
@@ -245,6 +247,7 @@ class QwenCustomEngine:
                         if bs == 1: raise
                         bs = max(1, bs // 2)
                         self.log(f"OOM: batch size -> {bs}")
+                        time.sleep(1.5)
                         continue
 
 
@@ -261,16 +264,20 @@ class QwenCustomEngine:
                             for c in ct_slice:
                                 for cand_idx in range(n_cands):
                                     expanded_target.append(c)
+                            torch.cuda.empty_cache()
                             wavs_target.extend(self.generate([(c["voice"], langs[c["lang"]], c["text_tts"]) for c in expanded_target], seed, temperature=temp, repetition_penalty=rep))
                     except torch.cuda.OutOfMemoryError:
                         torch.cuda.empty_cache()
                         if bs == 1: raise
                         bs = max(1, bs // 2)
                         self.log(f"OOM: batch size -> {bs}")
+                        time.sleep(1.5)
                         continue
 
                 
                 i += len(chunk)
+                if bs < init_bs:
+                    bs = min(init_bs, bs * 2)
                 torch.cuda.empty_cache()
                 
                 # process en
