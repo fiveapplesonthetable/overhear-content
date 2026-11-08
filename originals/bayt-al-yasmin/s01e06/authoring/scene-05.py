@@ -18,7 +18,7 @@ STORY = [
     ('rami', 'طول بالك يا أستاذ، قرأت الصفحة التانية المشبوكة تحتها؟', 'Be patient, sir, did you read the second page clipped underneath it?'),
     ('mazen', 'بس أرقام رمادية صغيرة! قلبي وقف عند الصفحة الأولى!', 'Only small grey numbers! My heart stopped at page one!'),
     ('nour', 'طلع وين رامي عم يأشر بقلم الرصاص يا أستاذ مازن!', 'Look where Rami is pointing with the pencil, Mr Mazen!'),
-    ('rami', 'البند أربعطعش من قانون الحي القديم بعمان، وأخوي برا هز راسه بالموافقة!', 'Clause fourteen of the Amman Old Quarter law, and my brother outside just nodded in agreement!'),
+    ('rami', 'البند الرابع عشر من قانون عمان القديمة، وأخوي اللي هون هز براسه إي!', 'Clause fourteen of the Amman Old Quarter Act, and my brother here just nodded!'),
     ('mazen', 'بكلام بسيط أرجوك! شو بيقول البند أربعطعش؟', 'In plain words, please! What does Clause fourteen say?'),
     ('rami', 'ممنوع تحويل أي بناية ساحة عمرها فوق تمانين سنة لمكاتب خاصة إذا الطابق الأرضي بيخدم الجيران يوميا.', 'No courtyard building over eighty years old may become private offices if the ground floor serves neighbours daily.'),
     ('nour', 'بيخدم الجيران يوميا... متل كافيه صباحي مفتوح للناس؟', 'Serves neighbours daily... like a morning café open to the public?!'),

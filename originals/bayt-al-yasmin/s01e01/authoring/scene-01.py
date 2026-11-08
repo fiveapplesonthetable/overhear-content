@@ -21,9 +21,9 @@ STORY = [
     ('nour', 'دايما بمشي بسرعة بأول يوم. وين الكمبيوتر؟', 'I always walk fast on my first day. Where is the computer?'),
     ('tariq', 'بالدرج. هون بنستعمل هاد الدفتر الكبير وقلم رصاص.', 'In the drawer. Here we use this big notebook and a pencil.'),
     ('nour', 'دفتر ورق؟ عن جد؟', 'A paper notebook? Really?'),
-    ('tariq', 'الورق ما بيضيع أسماء الغرف وقت المطر.', 'Paper never loses the room names when it rains.'),
+    ('tariq', 'الورق لسه بيشتغل لما بتنقطع الكهربا.', 'Paper still works when the power goes out.'),
     ('nour', 'معك حق! وهدول المفاتيح؟', 'You have a point! And these are the keys?'),
-    ('tariq', 'آه، تمن غرف وتمن مفاتيح نحاس. غرفة أربعة جاية اليوم.', 'Yes, eight rooms and eight brass keys. Room four is arriving today.'),
+    ('tariq', 'آه، تمن غرف وتمن مفاتيح نحاس. ضيف غرفة أربعة جاي اليوم.', "Yes, eight rooms and eight brass keys. Room four's guest arrives today."),
     ('nour', 'ممتاز. احكيلي كل شي لازم أعرفه.', 'Great. Tell me everything I need to know.'),
     ('tariq', 'أول قاعدة: اشربي شاي سخن أول، وبعدين ردي عالجرس.', 'Rule one: drink hot tea first, then answer the bell.'),
 ]

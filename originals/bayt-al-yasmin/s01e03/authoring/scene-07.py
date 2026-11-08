@@ -21,7 +21,7 @@ STORY = [
     ('nour', 'مبسوطين إنه ساحتنا هادية ومناسبة... لشغلك.', 'We are glad that our courtyard is quiet and suitable... for your work.'),
     ('rami', 'هادية كتير! بس سمعتي دقة حديد غريبة قبل شوي؟', 'Very quiet! Though did you hear a strange iron knock a moment ago?'),
     ('nour', 'آه! كأنها طلعت من ماسورة التدفئة بالزاوية.', 'Yes! As if it came from the heating pipe in the corner.'),
-    ('rami', 'المسي الدفاية، من فوق دافية، بس من تحت عم تبرد.', 'Touch the radiator, on top it is warm, while on the bottom it is turning cold.'),
+    ('rami', 'المسي الدفاية، من تحت دافية، بس من فوق عم تبرد.', 'Feel the radiator—the bottom is warm, while the top is turning cool.'),
     ('nour', 'أوه! أحيانا المواسير القديمة بيدخلها شوية هوا بالليل.', 'Oh! Sometimes old pipes get a little air in them at night.'),
     ('rami', 'عندي حرام صوف دافي، فأنا مرتاح كتير الليلة.', 'I have a warm wool blanket, so I am very comfortable tonight.'),
     ('nour', 'شكرا على صبرك! طارق رح يفحص القبو فورا.', 'Thank you for your patience! Tariq will check the cellar right away.'),
@@ -33,7 +33,7 @@ WALK = [
     (2, None, ["'You forgot it beside the soup cup on the reception desk.' One neat word, ", (None, 'نسيته'), ", packs 'you forgot it' together."]),
     (4, None, ["'We are glad that our courtyard is quiet and suitable... for your work.' Everyday Jordanian says ", (None, 'مبسوطين'), " for 'happy' or 'glad' when speaking for the team."]),
     (5, None, ["'Very quiet! Though did you hear a strange iron knock a moment ago?' For 'just now' in Arabic, you can say ", (None, 'قبل شوي'), '.']),
-    (7, None, ["'Touch the radiator, on top it is warm, while on the bottom it is turning cold.' In Arabic, contrast ", (None, 'من فوق'), " for 'on top' with ", (None, 'من تحت'), " for 'underneath' or 'at the bottom'."]),
+    (7, None, ["'Feel the radiator—the bottom is warm, while the top is turning cool.' In Arabic, contrast ", (None, 'من فوق'), " for 'on top' with ", (None, 'من تحت'), " for 'underneath' or 'at the bottom'."]),
     (9, None, ["'I have a warm wool blanket, so I am very comfortable tonight.' In Amman, a heavy bed blanket is called a ", (None, 'حرام'), ', while ', (None, 'مرتاح'), ' means comfortable.']),
     (11, None, ["'Good night, Nour. See you at breakfast.' Speaking to a woman at bedtime adds the feminine ee-ending in ", (None, 'تصبحي على خير'), '.']),
 ]

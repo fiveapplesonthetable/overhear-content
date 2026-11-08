@@ -14,7 +14,7 @@ TRANSITION = "Now let's hear the wooden-train reunion again from start to finish
 OUTRO = "Grandfather's wooden train is home, and Ziad's astonishment at seeing Madam Suad filled the whole courtyard with laughter. Inside at the desk, however, Mazen is still staring at that letter. See you next time."
 CLOSING = ('suad', 'أشوفك!')
 STORY = [
-    ('rami', 'قبل ما العمال يفضوا بيت شارع الياسمين، أنقذت هادي العلبة من رف العلية.', 'Before the movers cleared the Jasmine Street house, I saved this box from the attic shelf.'),
+    ('rami', 'قبل ما العمال يفضوا البيت، خبيت هاد الصندوق من رف السدة.', 'Before the movers cleared the house, I saved this box from the attic shelf.'),
     ('ziad', 'افتح الورق الأبيض... معقول! قطار جدي الخشب المحفور!', "Open the white paper... no way! Grandfather's carved wooden train!"),
     ('rami', 'شوف تحت العجلات، اسمك واسمي لسا مكتوبين بقلم الرصاص.', 'Look underneath the wheels, your name and my name are still written in pencil.'),
     ('ziad', 'فكرته ضاع لما بعنا البيت! ليش خبيته عشاني؟', 'I thought it was lost when we sold the house! Why did you keep it for me?'),

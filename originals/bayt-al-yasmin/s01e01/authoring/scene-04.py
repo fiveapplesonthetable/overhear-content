@@ -15,7 +15,7 @@ OUTRO = 'Nour handled her first check-in smoothly, though Tariq noticed that blu
 CLOSING = ('suad', 'مع السلامة!')
 STORY = [
     ('nour', 'أهلا وسهلا! صباح الخير مدام.', 'Welcome! Good morning, madam.'),
-    ('suad', 'صباح النور يا حبيبتي. عندي حجز باسم سعاد.', 'Good morning, my dear. I have a booking under the name Suad.'),
+    ('suad', 'صباح النور يا حبيبتي. عندي حجز باسم سعاد.', 'Good morning, my dear. I have a booking for Suad.'),
     ('nour', 'نعم، غرفة أربعة بالطابق التاني! كيف كانت رحلة الباص؟', 'Yes, room four on the second floor! How was the bus trip?'),
     ('suad', 'هادية ومريحة، شكرا، بس هادي الشنتة تقيلة كتير اليوم.', 'Quiet and comfortable, thank you, though this suitcase is very heavy today.'),
     ('tariq', 'عن إذنك. يا لطيف، حاطة حجار جوا؟', 'Allow me. Goodness, did you pack stones inside?'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Welcome! Good morning, madam.' The classic Arabic hospitality greeting ", (None, 'أهلا وسهلا'), ' wishes a guest friendly family and smooth ground underfoot.']),
-    (1, None, ["'Good morning, my dear. I have a booking under the name Suad.' Arabic has no separate word for 'have', so ", (None, 'عندي حجز'), " literally says 'at me is a booking'."]),
+    (1, None, ["'Good morning, my dear. I have a booking for Suad.' Arabic has no separate word for 'have', so ", (None, 'عندي حجز'), " literally says 'at me is a booking'."]),
     (2, None, ["'Yes, room four on the second floor! How was the bus trip?' Asking how something went uses ", (None, 'كيف كانت'), ", 'how was she', matching the feminine word for trip."]),
     (3, None, ["'Quiet and comfortable, thank you, though this suitcase is very heavy today.' Place ", (None, 'كتير'), ' after a describing word like ', (None, 'تقيلة كتير'), " to mean 'very heavy'."]),
     (4, None, ["'Allow me. Goodness, did you pack stones inside?' In Arabic, before lifting a bag or stepping past someone, ", (None, 'عن إذنك'), " politely asks 'by your permission'."]),

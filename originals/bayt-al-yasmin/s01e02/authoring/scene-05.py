@@ -24,7 +24,7 @@ STORY = [
     ('suad', 'ولا يهمك! المي الغازية الباردة بتشيل عصير البرتقال فورا.', 'Do not worry! Cold sparkling water takes orange juice out right away.'),
     ('nour', 'تفضل فوطة نظيفة ومي باردة يا أستاذ مازن.', 'Here is a clean cloth and cold water, Mr Mazen.'),
     ('mazen', 'عن إذنك يا مدام، رح أنسحب لمكتبي بكرامة!', 'Excuse me, madam, I will retreat to my office with dignity!'),
-    ('suad', 'البيض المقلي زاكي كتير يا نور. سلميلي على سلمى!', 'The scrambled eggs are delicious, Nour. Give my regards to Salma!'),
+    ('suad', 'البيض المقلي زاكي كتير يا نور. وصلي سلامي لسلمى!', 'The scrambled eggs are delicious, Nour. Tell Salma my compliments!'),
     ('nour', 'يوصل! يومك سعيد.', 'Will do! Have a happy day.'),
 ]
 WALK = [
@@ -34,6 +34,6 @@ WALK = [
     (5, None, ["'Careful, Mr Mazen, the pitcher spout is wide!' Arabic charmingly calls a pitcher's pouring spout ", (None, 'تم الإبريق'), ", 'the mouth of the pitcher'."]),
     (7, None, ["'Do not worry! Cold sparkling water takes orange juice out right away.' To reassure someone after a spill, you will hear ", (None, 'ولا يهمك'), ", 'don't let it trouble you'."]),
     (9, None, ["'Excuse me, madam, I will retreat to my office with dignity!' Even in defeat, Mazen uses the polite expression ", (None, 'عن إذنك'), ", 'excuse me'."]),
-    (10, None, ["'The scrambled eggs are delicious, Nour. Give my regards to Salma!' Clearly Jordanian ", (None, 'زاكي'), " means 'delicious', and ", (None, 'سلميلي على'), ' sends warm regards.']),
+    (10, None, ["'The scrambled eggs are delicious, Nour. Tell Salma my compliments!' Clearly Jordanian ", (None, 'زاكي'), " means 'delicious', and ", (None, 'سلامي لسلمى'), ' sends warm regards.']),
     (11, None, ["'Will do! Have a happy day.' When someone asks you to pass along a greeting, reply with one crisp word: ", (None, 'يوصل'), ", 'it will arrive!'."]),
 ]

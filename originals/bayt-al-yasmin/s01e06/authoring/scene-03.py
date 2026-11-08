@@ -25,7 +25,7 @@ STORY = [
     ('tariq', 'تفكير ذكي يا نور. رامي بيقرأ قوانين الأبنية بالبلد كل أسبوع.', 'Smart thinking, Nour. Rami reads municipal building rules every week.'),
     ('mazen', 'مستحيل أزعج ضيف دافع مصاري بمشاكل صاحب البناية!', 'I could never bother a paying guest with landlord troubles!'),
     ('nour', 'بعد ما حفظنا شنتته الزرقا طول الأسبوع؟ رح يحب يساعدنا!', 'After we guarded his blue suitcase all week? He will love to help us!'),
-    ('tariq', 'استنوا، هي سلمى راجعة من عند طاولتهم هلا.', 'Wait, here comes Salma back from their table right now.'),
+    ('tariq', 'لحظة، سلمى عم تاخد الكيكة لطاولتهم هلا.', 'Wait, Salma is taking the cake out to their table right now.'),
 ]
 WALK = [
     (0, None, ["'Fifteen years polishing brass keys and straightening ties... gone in thirty days!' Mourning lost effort uses ", (None, 'راحت'), ", literally 'it went away'."]),
@@ -35,5 +35,5 @@ WALK = [
     (5, None, ["'Wait, who is sitting ten metres away in our courtyard right now?' In Arabic, expressing short distance uses ", (None, 'على بعد'), ", 'at a distance of'."]),
     (7, None, ["'An architect who works with heritage buildings all over Amman!' Built from the word for heritage, historic houses are ", (None, 'المباني التراثية'), ", 'heritage buildings'."]),
     (10, None, ["'After we guarded his blue suitcase all week? He will love to help us!' In Arabic, link ", (None, 'بعد ما'), " to a past action for 'after we guarded'."]),
-    (11, None, ["'Wait, here comes Salma back from their table right now.' In Arabic, notice ", (None, 'من عند'), ", 'from beside' or 'from someone's place', a staple Jordanian pair."]),
+    (11, None, ["'Wait—Salma is taking the cake out to their table right now.' In Arabic, notice ", (None, 'من عند'), ", 'from beside' or 'from someone's place', a staple Jordanian pair."]),
 ]

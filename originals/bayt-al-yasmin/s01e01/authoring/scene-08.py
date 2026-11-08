@@ -15,8 +15,8 @@ OUTRO = "Madam Suad's suitcase is back, yet the mystery stranger vanished into t
 CLOSING = ('tariq', 'مع السلامة!')
 STORY = [
     ('nour', 'سمعت هاد الصوت يا طارق؟ في حدا رن جرس البوابة!', 'Did you hear that sound, Tariq? Someone rang the gate bell!'),
-    ('tariq', 'الساعة تسعة؟ خليكي هون، خلينا نفتح الباب سوا.', "At nine o'clock? Stay here, let us open the door together."),
-    ('nour', 'مرحبا؟ مساء الخير! ما في حدا واقف بالساحة!', 'Hello? Good evening! Nobody is standing in the courtyard!'),
+    ('tariq', 'الساعة تسعة؟ استني، خلينا نفتح البوابة سوا.', "At nine o'clock? Wait, let us open the gate together."),
+    ('nour', 'ألو؟ مساء الخير! ما في حد واقف عند البوابة!', 'Hello? Good evening! Nobody is standing at the gate!'),
     ('tariq', 'استني. طلعي تحت على درجة الحجر.', 'Wait. Look down on the stone step.'),
     ('nour', 'شنتة زرقا تانية! هادي شنتة مدام سعاد؟', "Another blue suitcase! Is this Madam Suad's bag?"),
     ('tariq', 'شوفي السحاب... آه، حروف اسمها موجودة هون!', 'Check the zipper... yes, the letters of her name are right here!'),
@@ -28,8 +28,8 @@ STORY = [
     ('tariq', 'أهلا فيكي ببيت الياسمين يا نور. تاني يوم ما رح يكون ممل.', 'Welcome to Jasmine Courtyard House, Nour. Day two will not be boring.'),
 ]
 WALK = [
-    (1, None, ["'At nine o'clock? Stay here, let us open the door together.' In Arabic, notice ", (None, 'سوا'), " at the end, the crisp everyday Jordanian word for 'together'."]),
-    (2, None, ["'Hello? Good evening! Nobody is standing in the courtyard!' In Arabic after sunset, switch your greeting to ", (None, 'مساء الخير'), ', wishing an evening of goodness.']),
+    (1, None, ["'At nine o'clock? Wait, let us open the gate together.' In Arabic, notice ", (None, 'سوا'), " at the end, the crisp everyday Jordanian word for 'together'."]),
+    (2, None, ["'Hello? Good evening! Nobody is standing at the gate!' In Arabic after sunset, switch your greeting to ", (None, 'مساء الخير'), ', wishing an evening of goodness.']),
     (4, None, ["'Another blue suitcase! Is this Madam Suad's bag?' In Arabic, putting two nouns side by side in ", (None, 'شنتة مدام سعاد'), " builds possession directly without needing 'of'."]),
     (6, None, ["'Why did the person run away without taking his suitcase?' In Arabic, link ", (None, 'بدون ما'), " to an action word whenever you want to say 'without doing something'."]),
     (8, None, ["'Let me read: Sorry for the mistake, keep my bag with you until Friday.' Built from the short prefix l- plus Friday, ", (None, 'ليوم الجمعة'), " expresses 'until Friday'."]),
