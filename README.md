@@ -12,6 +12,10 @@ The public app now plays only **Overhear Originals**: new stories you create fro
 the owner's testing. Originals come before all other work below, in the episode cycle that ORIGINALS.md sets out (3 ru,
 2 fr, then 1 each of the other eight languages, repeating).
 
+**Word histories are part of every episode.** Read "Learning notes, dictionary and word histories" below: a new episode
+ships with a sourced history for every word it uses, and the backlog of words already served without one is worked down
+after every episode.
+
 ## The one rule that matters most: file formats and groupings
 
 The app reads exactly the files the pipeline writes, in exactly the layout it writes them. Read
@@ -182,5 +186,15 @@ every listed season is; each pilot language is done when every episode it has in
 gives written dictionary entries. `word-origins/<pair>.json` holds etymology with a source link per entry (see
 `word-origins/README.md`). None of these affect rendering. After changing only these folders, run
 `python3 -I tools/validate.py . --metadata-only`. Add a history only after checking it against a specific authoritative
-entry, and link that entry. Never publish an unsourced history. The publishing machine reports missing histories per
-season (`tools/origin_coverage.py` runs on its serving build); fill the gaps it reports when the owner passes them on.
+entry, and link that entry. Never publish an unsourced history.
+
+**Every served word gets a history, and every new episode ships with them.** Most words in the app have no history today
+(for example 22 of 4,107 Russian TV-adaptation words, 110 of 1,750 Russian Originals words). Two rules close that gap:
+
+1. **New work:** an episode is not finished until every lemma in its lexicon has a sourced entry in
+   `word-origins/<pair>.json`. Check this before you package it, as you check the audio. Add the check to
+   `tools/check_render.py` (fail on any lexicon lemma of the episode with no sourced history) so it cannot be skipped.
+2. **Backfill:** `word-origins/backlog/` lists every served word still missing a history, per tier and pair, most
+   frequent first (see `word-origins/backlog/README.md`). After each episode you package, clear at least 100 backlog
+   words: Originals first, Russian first, then the other languages in the episode-cycle order. Grammar words, names and
+   phrases count too.

@@ -138,8 +138,9 @@ several languages have gaps; Originals close them.
 4. **Dictionary** (`dictionary/<pair>.json`): an entry for every lemma that Originals use, for all ten pairs. Japanese, Korean
    and Russian have no file today and the others are thin.
 5. **Word histories** (`word-origins/<pair>.json`): a sourced history for the words Originals use, by the existing rules: check
-   each against an authoritative entry, link it, and never publish an unsourced one. Run `tools/origin_coverage.py` per season
-   and fill the gaps.
+   each against an authoritative entry, link it, and never publish an unsourced one. Every lemma in the episode's lexicon
+   needs one before you package the episode (`tools/check_render.py` enforces it; see README). Words already published without
+   a history are listed in `word-origins/backlog/originals.json`; work them down as README says.
 6. **Learning notes** (`learn/<pair>/`): today only Russian and French have them. Write notes for all ten pairs, about 10 per
    pair to start, covering what the season teaches (greetings, polite address, numbers and money, the main verb patterns, the
    particles or cases a learner meets first), with examples that point at Originals scenes.
