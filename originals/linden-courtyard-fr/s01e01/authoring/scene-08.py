@@ -1,0 +1,106 @@
+# Authoring module for linden-courtyard-fr-s01e01-scene-08.
+ID = 'linden-courtyard-fr-s01e01-scene-08'
+SHOW = 'linden-courtyard-fr'
+SEASON = 1
+EPISODE = 1
+SCENE = 8
+TITLE = 'Left on the Step  (Déposée sur la marche)'
+LEVEL = 'A1 — débutant'
+PAIR = 'en-fr'
+LABELS = {'hannah': 'Hannah', 'graham': 'Graham'}
+INTRO = "Il est presque neuf heures du soir et les lanternes de la cour diffusent une lueur douce tandis que Hannah achève sa première journée auprès de Graham. Soudain, la cloche du portail tinte une fois dans le calme nocturne. Écoutez d'abord."
+OPENER = "Reprenons ensemble chaque phrase de ce final d'épisode."
+TRANSITION = 'Réécoutons une dernière fois toute la scène à allure naturelle.'
+OUTRO = "La valise d'Evelyn est revenue, mais l'inconnu s'est volatilisé dans la nuit en demandant qu'on garde la sienne jusqu'à vendredi. Ainsi s'achève le premier épisode; rendez-vous au deuxième épisode! À très bientôt!"
+CLOSING = ('graham', 'Have a good night!')
+STORY = [('hannah',
+  'Did you hear that, Graham? Someone just rang the gate bell!',
+  "Tu as entendu ça, Graham? Quelqu'un vient de sonner au portail!"),
+ ('graham', "At nine o'clock? Stay here, let us open the door together.", 'À neuf heures du soir? Reste ici, ouvrons la porte ensemble.'),
+ ('hannah', 'Hello? Good evening! Nobody is standing in the courtyard!', "Allô? Bonsoir! Il n'y a personne dans la cour!"),
+ ('graham', 'Wait. Look down on the stone step.', 'Attends. Regarde en bas sur la marche en pierre.'),
+ ('hannah',
+  "Another dark blue suitcase! Is this Miss Evelyn's bag?",
+  'Encore une valise bleu marine! Est-ce le sac de Mademoiselle Evelyn?'),
+ ('graham', 'Check the zipper... yes, her initials are right here!', 'Vérifie la fermeture éclair... oui, ses initiales sont juste là!'),
+ ('hannah',
+  'Why did the person run away without taking his own suitcase back?',
+  "Pourquoi cette personne s'est-elle enfuie sans reprendre sa propre valise?"),
+ ('graham',
+  'Look, there is a folded white envelope taped to the handle.',
+  'Regarde, il y a une enveloppe blanche pliée scotchée à la poignée.'),
+ ('hannah',
+  "Let me read it: 'Sorry for the mistake. Please keep my blue bag until Friday.'",
+  'Laisse-moi la lire: "Désolé pour l\'erreur. Veuillez garder mon sac bleu jusqu\'à vendredi."'),
+ ('graham', 'Until Friday? No name, no signature!', "Jusqu'à vendredi? Ni nom, ni signature!"),
+ ('hannah',
+  'Why leave your own shoes and wooden train with strangers until Friday?',
+  "Pourquoi laisser ses propres chaussures et son train en bois chez des inconnus jusqu'à vendredi?"),
+ ('graham',
+  'Welcome to the Linden Courtyard Inn, Hannah. Your second day will not be boring.',
+  "Bienvenue à l'Auberge de la Cour du Tilleul, Hannah. Ta deuxième journée ne sera pas ennuyeuse.")]
+WALK = [(0,
+  None,
+  ["'Tu as entendu ça, Graham? Quelqu'un vient de sonner au portail!' Question très vive au passé:",
+   (None, 'Did you hear that'),
+   "place l'auxiliaire en tête et laisse le verbe entendre à sa forme de base."]),
+ (1,
+  None,
+  ["'À neuf heures du soir? Reste ici, ouvrons la porte ensemble.' L'indication",
+   (None, "nine o'clock"),
+   "s'emploie uniquement pour les heures rondes du cadran."]),
+ (2,
+  None,
+  ["'Allô? Bonsoir! Il n'y a personne dans la cour!' Distinction essentielle: quand on accueille ou appelle quelqu'un le soir, on dit",
+   (None, 'Good evening'),
+   "tandis que l'autre souhait nocturne est réservé au moment de se quitter."]),
+ (3,
+  None,
+  ["'Attends. Regarde en bas sur la marche en pierre.' En mariant le regard et la direction verticale,",
+   (None, 'Look down'),
+   'invite aussitôt à baisser les yeux vers le sol.']),
+ (4,
+  None,
+  ["'Encore une valise bleu marine! Est-ce le sac de Mademoiselle Evelyn?' Au singulier, l'anglais soude l'article et l'idée d'ajout dans "
+   'le mot unique',
+   (None, 'Another'),
+   'pour dire "une autre de plus".']),
+ (5,
+  None,
+  ["'Vérifie la fermeture éclair... oui, ses initiales sont juste là!' Comme ces initiales appartiennent à une femme, l'anglais choisit",
+   (None, 'her initials'),
+   'en accordant le possessif avec la propriétaire.']),
+ (6,
+  None,
+  ['\'Pourquoi cette personne s\'est-elle enfuie sans reprendre sa propre valise?\' Après une préposition telle que "sans" dans',
+   (None, 'without taking'),
+   'le verbe anglais prend obligatoirement la terminaison en -ing.']),
+ (7,
+  None,
+  ["'Regarde, il y a une enveloppe blanche pliée scotchée à la poignée.' Formé directement sur le nom du ruban adhésif, le participe",
+   (None, 'taped'),
+   "décrit en un mot l'enveloppe collée au scotch."]),
+ (8,
+  None,
+  ['\'Laisse-moi la lire: "Désolé pour l\'erreur. Veuillez garder mon sac bleu jusqu\'à vendredi."\' Pour s\'excuser d\'une bévue précise, '
+   'le billet enchaîne simplement',
+   (None, 'Sorry for the mistake'),
+   'au tout début du message.']),
+ (9,
+  None,
+  ["'Jusqu'à vendredi? Ni nom, ni signature!' Les jours de la semaine comme",
+   (None, 'Friday'),
+   'prennent toujours une majuscule en anglais, précédés ici de',
+   (None, 'Until'),
+   'qui fixe la limite dans le temps.']),
+ (10,
+  None,
+  ["'Pourquoi laisser ses propres chaussures et son train en bois chez des inconnus jusqu'à vendredi?' Gare au faux-ami majeur:",
+   (None, 'strangers'),
+   "désigne des inconnus que l'on ne connaît pas, et non des ressortissants étrangers!"]),
+ (11,
+  None,
+  ["'Bienvenue à l'Auberge de la Cour du Tilleul, Hannah. Ta deuxième journée ne sera pas ennuyeuse.' Pour annoncer l'avenir à la forme "
+   'négative, Graham promet avec',
+   (None, 'will not be boring'),
+   "qu'on ne risque pas de s'ennuyer."])]
