@@ -1422,6 +1422,259 @@
           "note": "synthetic, no show audio"
         }
       ]
+    },
+    "fr-narr": {
+      "file": "refs/fr-narr.flac",
+      "lang": "fr",
+      "gender": "f",
+      "text": "Bonjour madame, installez-vous tranquillement dans la cour pendant que je prépare une bonne infusion chaude à la menthe.",
+      "desc": "Narrator for en-fr (reuses reviewed synthetic voice fr-f3): VoiceDesign: A warm, composed French woman in her early sixties, rich contralto timbre, calm and gentle delivery, clear standard French diction.",
+      "seconds": 6.13,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 210,
+          "note": "synthetic, no show audio"
+        }
+      ]
+    },
+    "de-narr": {
+      "file": "refs/de-narr.flac",
+      "lang": "de",
+      "gender": "f",
+      "text": "Guten Morgen! Ich gehe kurz in den Supermarkt an der Ecke, um frisches Brot, Milch und Äpfel für unser Frühstück zu kaufen.",
+      "desc": "Narrator for en-de (reuses reviewed synthetic voice de-f1): VoiceDesign: A calm, clear Standard German woman in her late twenties, warm natural studio voice, steady pace, crisp pronunciation for dictionary examples.",
+      "seconds": 8.79,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 0,
+          "note": "synthetic, VoiceDesign regen"
+        }
+      ]
+    },
+    "it-narr": {
+      "file": "refs/it-narr.flac",
+      "lang": "it",
+      "gender": "f",
+      "text": "Ascolta, prima di cominciare le riprese sul set, controlliamo insieme il programma di oggi con calma.",
+      "desc": "Narrator for en-it (reuses reviewed synthetic voice it-f1): VoiceDesign: A calm, clear Standard Italian woman in her late twenties, warm natural timbre, steady conversational pace, crisp studio diction.",
+      "seconds": 8.16,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 0,
+          "note": "synthetic, VoiceDesign regen"
+        }
+      ],
+      "version": "v4"
+    },
+    "ru-narr": {
+      "file": "refs/ru-narr.flac",
+      "lang": "ru",
+      "gender": "f",
+      "text": "Добрый вечер, ваш столик уже готов. Пожалуйста, следуйте за мной, я покажу вам лучшее место в нашем зале.",
+      "desc": "Narrator for en-ru (reuses reviewed synthetic voice ru-f1): voice-lab VoiceDesign: A Russian woman of about 27. Clear, poised mezzo-soprano, crisp and precise diction, composed, confident and professional with a slightly cool, ambitious edge.",
+      "seconds": 7.84,
+      "source": [
+        {
+          "lab": "voice-lab exp1 vika_t3.wav",
+          "text": "Добрый вечер, ваш столик уже готов. Пожалуйста, следуйте за мной, я покажу вам лучшее место в нашем зале.",
+          "note": "synthetic, no show audio"
+        }
+      ]
+    },
+    "ja-narr": {
+      "file": "refs/ja-narr.flac",
+      "lang": "ja",
+      "gender": "f",
+      "text": "おはようございます。今日も一日いいお天気になりそうですね。午後の打ち合わせの前に、新しい資料を一緒に確認しておきましょう。",
+      "desc": "Narrator for en-ja (reuses reviewed synthetic voice ja-f1): VoiceDesign: A calm, clear Tokyo Standard Japanese woman in her late twenties, warm polite voice, steady conversational pace, crisp studio diction.",
+      "seconds": 9.15,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 23,
+          "note": "synthetic, no show audio"
+        }
+      ]
+    },
+    "ko-narr": {
+      "file": "refs/ko-narr.flac",
+      "lang": "ko",
+      "gender": "f",
+      "text": "안녕하세요, 오늘 아침 날씨가 참 맑고 선선하네요. 회의 시작하기 전에 따뜻한 커피 한 잔 마시면서 오늘 일정을 같이 확인해 볼까요?",
+      "desc": "Narrator for en-ko (reuses reviewed synthetic voice ko-f1): VoiceDesign: A calm, clear Seoul Standard Korean woman in her late twenties, warm studio voice, steady natural pace, crisp diction.",
+      "seconds": 9.28,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 2,
+          "note": "synthetic, VoiceDesign regen"
+        }
+      ]
+    },
+    "zh-narr": {
+      "file": "refs/zh-narr.flac",
+      "lang": "zh",
+      "gender": "f",
+      "text": "大家早上好，今天我们的录制时间比较紧，请先喝杯热茶休息一下，然后我们一起核对今天的节目流程。",
+      "desc": "Narrator for en-zh (reuses reviewed synthetic voice zh-f1): VoiceDesign: A calm, clear Standard Mandarin woman in her late twenties, warm natural broadcast-quality voice, steady pace, crisp tones.",
+      "seconds": 8.57,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 11,
+          "note": "synthetic, no show audio"
+        }
+      ]
+    },
+    "ar-narr": {
+      "file": "refs/ar-narr.flac",
+      "lang": "ar",
+      "gender": "f",
+      "text": "صباح الخير، أهلا وسهلا فيكم في بيت الياسمين، الشاي السخن والفطور جاهزين على الطاولة.",
+      "desc": "Narrator for en-ar (reuses reviewed synthetic voice ar-f1): VoiceDesign+Chatterbox: A calm, warm Jordanian Arabic woman in her late twenties, natural mid-low studio voice, clear everyday articulation (neutral reader).",
+      "seconds": 6.62,
+      "source": [
+        {
+          "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "seed": 505,
+          "note": "synthetic, no show audio"
+        },
+        {
+          "model": "ResembleAI/chatterbox",
+          "seed": 505,
+          "note": "synthetic Arabic reference"
+        }
+      ]
+    },
+    "hi-f1": {
+      "file": "refs/hi-f1.flac",
+      "lang": "hi",
+      "gender": "f",
+      "text": "नमस्ते, सुबह का मौसम आज बहुत सुहाना है। आइए, पहले आराम से बैठकर गरम चाय पीते हैं और आज का काम देख लेते हैं।",
+      "desc": "VoiceDesign: A calm 28-year-old Indian woman speaking natural everyday Hindi in a quiet studio, warm mid-low alto voice, relaxed steady pace, clear crisp pronunciation, never shrill.",
+      "seconds": 8.51,
+      "source": [
+        {
+          "model": "openbmb/VoxCPM2",
+          "seed": 307,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "kavya"
+    },
+    "hi-f2": {
+      "file": "refs/hi-f2.flac",
+      "lang": "hi",
+      "gender": "f",
+      "text": "नमस्ते, रसोई में सुबह की गरम चाय और ताज़ा खाना तैयार है, आप आराम से मेज़ पर बैठ कर खा सकते हैं।",
+      "desc": "VoiceDesign: A calm, friendly 32-year-old Indian woman speaking natural everyday Hindi in a quiet studio, warm smooth mezzo voice, steady relaxed pace, moderate low-mid pitch, never shrill.",
+      "seconds": 11.35,
+      "source": [
+        {
+          "model": "openbmb/VoxCPM2",
+          "seed": 1009,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "diya"
+    },
+    "hi-f3": {
+      "file": "refs/hi-f3.flac",
+      "lang": "hi",
+      "gender": "f",
+      "text": "शाम के समय इस बगीचे में बहुत शांति रहती है। आओ बेटा, पास में आराम से बैठ कर थोड़ी देर बात करते हैं।",
+      "desc": "VoiceDesign: A composed, gentle 60-year-old Indian woman speaking Hindi in a quiet studio, rich warm contralto voice, unhurried calm pace, clear studio diction.",
+      "seconds": 14.3,
+      "source": [
+        {
+          "model": "openbmb/VoxCPM2",
+          "seed": 1607,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "sudha"
+    },
+    "hi-m1": {
+      "file": "refs/hi-m1.flac",
+      "lang": "hi",
+      "gender": "m",
+      "text": "सुबह ही मैंने दरवाज़े का पुराना ताला ठीक कर दिया था, अब आँगन और कमरों में सब कुछ बिल्कुल ठीक चल रहा है।",
+      "desc": "VoiceDesign: A grounded 48-year-old Indian man speaking natural everyday Hindi, warm steady baritone voice, practical calm delivery, clean studio recording.",
+      "seconds": 6.56,
+      "source": [
+        {
+          "model": "openbmb/VoxCPM2",
+          "seed": 307,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "pratap"
+    },
+    "hi-m2": {
+      "file": "refs/hi-m2.flac",
+      "lang": "hi",
+      "gender": "m",
+      "text": "माफ़ कीजिए, मेरा चश्मा फिर कहीं रखकर भूल गया हूँ, पर चिंता मत कीजिए, मेहमानों के सारे कमरे साफ़ और तैयार हैं।",
+      "desc": "VoiceDesign: A polite 56-year-old Indian man speaking clear standard Hindi, smooth articulate mid-baritone voice, courteous measured pace, studio microphone clarity.",
+      "seconds": 7.38,
+      "source": [
+        {
+          "model": "openbmb/VoxCPM2",
+          "seed": 709,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "mohan"
+    },
+    "hi-m3": {
+      "file": "refs/hi-m3.flac",
+      "lang": "hi",
+      "gender": "m",
+      "text": "बहुत धन्यवाद आपका, ऊपर वाला कमरा सचमुच शांत और हवादार है, और खिड़की से बाहर का बगीचा साफ़ दिखता है।",
+      "desc": "VoiceDesign: A calm, soft-spoken 32-year-old Indian man speaking everyday Hindi in a quiet studio, warm deep baritone voice, low steady pitch, relaxed conversational pace.",
+      "seconds": 6.75,
+      "source": [
+        {
+          "model": "openbmb/VoxCPM2",
+          "seed": 907,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "kabir"
+    },
+    "hi-m4": {
+      "file": "refs/hi-m4.flac",
+      "lang": "hi",
+      "gender": "m",
+      "text": "तीन साल बाद इस गली में वापस आकर सच में बहुत अच्छा लग रहा है, चलो बैठकर आराम से बात करते हैं।",
+      "desc": "VoiceDesign: A sincere 38-year-old Indian man speaking natural Hindi, deep resonant baritone voice, warm steady conversational delivery, clean studio recording.",
+      "seconds": 7.11,
+      "source": [
+        {
+          "model": "openbmb/VoxCPM2",
+          "seed": 409,
+          "note": "synthetic, no show audio"
+        }
+      ],
+      "designedFor": "dev"
+    },
+    "hi-narr": {
+      "file": "refs/hi-narr.flac",
+      "lang": "hi",
+      "gender": "f",
+      "text": "इस अगले दृश्य में ध्यान से सुनिए कि मेहमान कमरे की चाबी के बारे में कैसे पूछती हैं, और रिसेप्शन पर उन्हें क्या जवाब मिलता है।",
+      "desc": "VoiceDesign: A warm, relaxed 34-year-old Indian female podcast storyteller speaking clear standard Hindi, calm mid-low studio contralto-mezzo voice, gentle conversational pacing.",
+      "seconds": 8.93,
+      "source": [
+        {
+          "model": "openbmb/VoxCPM2",
+          "seed": 101,
+          "note": "synthetic, no show audio"
+        }
+      ]
     }
   }
 }

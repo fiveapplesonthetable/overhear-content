@@ -1,0 +1,155 @@
+{
+  "_note": "en-hi: Qwen3-TTS speaks General American English dialogue/clips/forms; Chatterbox multilingual V2 (ttsHi, language_id='hi') speaks the Hindi narrator.",
+  "renderVersion": "r2",
+  "tts": {
+    "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+    "dtype": "bfloat16",
+    "attn": "sdpa",
+    "batch": 16,
+    "batchEn": 16,
+    "temperature": 0.9,
+    "top_k": 50,
+    "top_p": 1.0,
+    "repetition_penalty": 1.05,
+    "max_new_tokens": 1024,
+    "sentence_retries": 3,
+    "languages": {
+      "en": "English",
+      "es": "Spanish",
+      "pt": "Portuguese",
+      "fr": "French",
+      "de": "German",
+      "it": "Italian",
+      "ru": "Russian",
+      "ja": "Japanese",
+      "ko": "Korean",
+      "zh": "Chinese",
+      "hi": "Hindi"
+    }
+  },
+  "lora": {
+    "enabled": false,
+    "hf": "zimuzostanley/qwen3-tts-ru-stress-lora",
+    "revision": null,
+    "local": "(set by config.LORA_LOCAL / OVERHEAR_LORA_LOCAL)",
+    "tag": "run3"
+  },
+  "stress": {
+    "policy": "none",
+    "ruaccentFallback": false,
+    "ruaccentPython": "(set by config.RUACCENT_PYTHON)"
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "segLufs": -20.0,
+    "programLufs": -16.0,
+    "mp3Kbps": 96,
+    "fadeMs": 15,
+    "trimDb": -50,
+    "interSentenceGap": {
+      "en": 0.36,
+      "es": 0.45,
+      "pt": 0.45,
+      "fr": 0.45,
+      "de": 0.45,
+      "it": 0.45,
+      "ru": 0.45,
+      "ja": 0.45,
+      "ko": 0.45,
+      "zh": 0.45,
+      "ar": 0.4,
+      "hi": 0.4
+    },
+    "edgeMs": 20
+  },
+  "align": {
+    "aligner": "mms_fa",
+    "snapMaxMs": 120,
+    "version": "a1"
+  },
+  "stressCheck": {
+    "scope": "none",
+    "ratio": 1.25
+  },
+  "priority": [
+    [
+      "linden-courtyard-hi",
+      1
+    ]
+  ],
+  "stressRetry": {
+    "attempts": 4,
+    "temperatures": [
+      0.9,
+      0.75,
+      1.0,
+      0.6
+    ]
+  },
+  "clips": {
+    "voices": {
+      "en": "en-f1"
+    },
+    "programLufs": -16.0,
+    "padMs": 80,
+    "cerMax": 0.15,
+    "retakes": 2,
+    "temperatures": [
+      0.75,
+      0.6
+    ],
+    "batch": 16,
+    "prio": -1,
+    "gpu": {
+      "ttsMiB": 7800,
+      "asrMiB": 2500
+    },
+    "scenesPerRun": 2
+  },
+  "forms": {
+    "voices": {
+      "en": "en-f1"
+    },
+    "lora": false,
+    "dictionary": null,
+    "programLufs": -16.0,
+    "padMs": 80,
+    "cerMax": 0.15,
+    "asrPadSec": 0.3,
+    "retakes": 2,
+    "extraRetakes": 1,
+    "temperatures": [
+      0.75,
+      0.6
+    ],
+    "batch": 32,
+    "chunk": 400,
+    "prio": -1,
+    "gpu": {
+      "ttsMiB": 9000,
+      "asrMiB": 2500
+    }
+  },
+  "gpu": {
+    "ttsMiB": 7800,
+    "ruMiB": 3400,
+    "enMiB": 2400,
+    "alignMiB": 1500,
+    "hiMiB": 7800
+  },
+  "ttsHi": {
+    "model": "chatterbox-multilingual-v2",
+    "language": "hi",
+    "temperature": 0.68,
+    "cfg_weight": 0.6,
+    "exaggeration": 0.28,
+    "repetition_penalty": 2.0,
+    "min_p": 0.05,
+    "top_p": 0.95,
+    "sentence_retries": 2,
+    "batch": 1,
+    "engine": "chatterbox",
+    "label": "chatterbox-multilingual-v2-hi",
+    "turnMaxChars": 160
+  }
+}
