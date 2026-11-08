@@ -34,7 +34,7 @@ def _patch_chatterbox_arabic():
         ):
             text = text.replace(old_seq, new_ch)
         text = text.rstrip(" ")
-        sentence_enders = {".", "!", "?", "؟", "-", ",", "،", "、", "，", "。", "？", "！"}
+        sentence_enders = {".", "!", "?", "؟", "-", ",", "،", "、", "，", "。", "？", "！", "।", "॥"}
         if not any(text.endswith(p) for p in sentence_enders):
             text += "."
         return text
@@ -116,7 +116,12 @@ class ChatterboxArEngine(QwenEngine):
         self.torch, self.voices, self.log = torch, voices, log
         self.s = copy.deepcopy(settings)
         cfg = self.s["ttsAr"]
-        self.s["tts"].update(batch=1, sentence_retries=cfg.get("sentence_retries", settings["tts"]["sentence_retries"]))
+        self.s["tts"].update(
+            batch=1,
+            sentence_retries=cfg.get("sentence_retries", settings["tts"]["sentence_retries"]),
+            temperature=cfg.get("temperature", 0.8),
+            repetition_penalty=cfg.get("repetition_penalty", 2.0),
+        )
         self.s["tts"]["languages"]["ar"] = "ar"
         self.q = ChatterboxMultilingualTTS.from_local(checkpoint(settings), device="cuda")
         self.prompts = {}

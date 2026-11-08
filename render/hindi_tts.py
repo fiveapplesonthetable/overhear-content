@@ -29,7 +29,12 @@ class HindiEngine(ChatterboxArEngine):
         self.torch, self.voices, self.log = torch, voices, log
         self.s = copy.deepcopy(settings)
         cfg = self.s["ttsHi"]
-        self.s["tts"].update(batch=1, sentence_retries=cfg.get("sentence_retries", settings["tts"]["sentence_retries"]))
+        self.s["tts"].update(
+            batch=1,
+            sentence_retries=cfg.get("sentence_retries", settings["tts"]["sentence_retries"]),
+            temperature=cfg.get("temperature", 0.8),
+            repetition_penalty=cfg.get("repetition_penalty", 2.0),
+        )
         self.s["tts"]["languages"]["hi"] = "hi"
         self.q = ChatterboxMultilingualTTS.from_local(checkpoint({"ttsAr": cfg}), device="cuda")
         self.prompts = {}
