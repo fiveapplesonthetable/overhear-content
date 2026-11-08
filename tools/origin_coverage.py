@@ -163,7 +163,7 @@ def inventory(out, content):
                 words = re.findall(r'[А-Яа-яЁё]+(?:[-\u0301][А-Яа-яЁё]+)*', body)
             else:
                 runs = re.findall(r'(?<!\*)\*([^*]+)\*(?!\*)', body)
-                words = [w for run in runs for w in re.findall(r"[^\W_]+(?:[-'’][^\W_]+)*", run)]
+                words = [w for run in runs for w in re.findall(r"(?:[^\W_]|[\u0900-\u0963\u0971-\u097f])+(?:[-'’](?:[^\W_]|[\u0900-\u0963\u0971-\u097f])+)*", run)]
             for season in seasons:
                 article_counts[season] += 1
                 for word in words:

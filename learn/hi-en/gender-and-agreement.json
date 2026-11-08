@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gender-and-agreement",
+  "pair": "hi-en",
+  "section": "articles",
+  "order": 3,
+  "title": {
+    "en": "Grammatical gender and -आ / -ई / -ए agreement"
+  },
+  "summary": {
+    "en": "Hindi has no word for 'the', splits every noun into masculine or feminine, and echoes that gender across -आ adjectives and verb endings."
+  },
+  "body": {
+    "en": "From *आँगन हवेली*, season 1.\n\nFirst, a welcome piece of news: Hindi has **no definite article** ('the'). Context and word order tell you whether *दरवाज़ा* (`darvāzā`) means 'a door' or 'the door'; when you explicitly mean 'one / a certain', you put *एक* (`ek`) in front (*एक छोटा कार्ड* 'a small card').\n\nEvery Hindi noun is either **masculine** or **feminine**. Sound endings give you a strong head start:\n\n- Nouns ending in `-आ` (`-ā`) are usually **masculine**: *कमरा* (`kamrā`, 'room'), *दरवाज़ा* (`darvāzā`, 'door'), *नाश्ता* (`nāshtā`, 'breakfast'), *तौलिया* (`tauliyā`, 'towel').\n- Nouns ending in `-ई` (`-ī`) are overwhelmingly **feminine**: *चाबी* (`chābī`, 'key'), *घंटी* (`ghanṭī`, 'bell'), *सीढ़ी* (`sīṛhī`, 'stair'), *खिड़की* (`khiṛkī`, 'window'), *हवेली* (`havelī`, 'courtyard mansion')—with classic everyday exceptions for liquids and professions like *पानी* (`pānī`, 'water', m.) and *आदमी* (`ādmī`, 'man', m.).\n- Consonant-ending nouns have to be learned in small pairs as you meet them: *आँगन* ('courtyard') and *दूध* ('milk') are masculine, while *चाय* ('tea'), *मेज़* ('table'), *किताब* / *डायरी* ('notebook'), and *बारिश* ('rain') are feminine.\n\nAdjectives that end in `-आ` change their ending to match the noun—`-आ` (`-ā`) for masculine singular, `-ए` (`-e`) for masculine plural or oblique, and `-ई` (`-ī`) for **all** feminine nouns, singular or plural: *नीला बैग* ('blue bag', m.sg), *ताज़े अंडे* ('fresh eggs', m.pl), *छोटी घंटी* ('small bell', f.sg), and *हरी पत्तियाँ* ('green leaves', f.pl). Consonant and `-ई` adjectives like *गरम* ('hot'), *साफ़* ('clean'), *शांत* ('quiet'), and *भारी* ('heavy') never change form at all!"
+  },
+  "related": [
+    "postpositions-and-oblique-case",
+    "ka-ke-ki-and-ke-paas"
+  ],
+  "examples": [
+    {
+      "sceneId": "aangan-haveli-s01e01-scene-01",
+      "seg": 3
+    },
+    {
+      "sceneId": "aangan-haveli-s01e01-scene-05",
+      "seg": 6
+    },
+    {
+      "sceneId": "aangan-haveli-s01e02-scene-04",
+      "seg": 6
+    },
+    {
+      "sceneId": "aangan-haveli-s01e03-scene-03",
+      "seg": 5
+    }
+  ],
+  "tags": [
+    "कमरा",
+    "चाबी",
+    "दरवाज़ा",
+    "चाय",
+    "पानी",
+    "नीला",
+    "नीली",
+    "छोटा",
+    "छोटी"
+  ]
+}

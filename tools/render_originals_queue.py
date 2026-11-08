@@ -35,6 +35,8 @@ SHOWS = [
     ("ja", "hidamari-ryokan", "render/settings.ja-qwen-en.json"),
     ("ko", "haessal-guesthouse", "render/settings.ko-qwen-en.json"),
     ("zh", "xiaoyuan-kezhan", "render/settings.zh-qwen-en.json"),
+    ("en", "linden-courtyard-es", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-pt", "render/settings.en-qwen.json"),
 ]
 QUOTA = {"ru": 3, "fr": 2}
 
@@ -49,16 +51,16 @@ def build_order(root: Path):
             for p in (sdir.iterdir() if sdir.is_dir() else [])
             if (m := re.match(r"^s01e(\d\d)$", p.name)) and (p / "scene-01.json").is_file()
         ]
-        max_s1[lang] = max(eps) if eps else 0
-    nxt = {lang: 1 for lang, _, _ in SHOWS}
-    while any(nxt[lang] <= max_s1[lang] for lang, _, _ in SHOWS):
+        max_s1[show] = max(eps) if eps else 0
+    nxt = {show: 1 for _, show, _ in SHOWS}
+    while any(nxt[show] <= max_s1[show] for _, show, _ in SHOWS):
         for lang, show, st in SHOWS:
-            for _ in range(QUOTA.get(lang, 1)):
-                if nxt[lang] <= max_s1[lang]:
-                    ep_dir = root / "originals" / show / f"s01e{nxt[lang]:02d}"
+            for _ in range(QUOTA.get(show, QUOTA.get(lang, 1))):
+                if nxt[show] <= max_s1[show]:
+                    ep_dir = root / "originals" / show / f"s01e{nxt[show]:02d}"
                     if (ep_dir / "scene-01.json").is_file():
-                        q.append((lang, f"{show}-s01e{nxt[lang]:02d}", st))
-                    nxt[lang] += 1
+                        q.append((lang, f"{show}-s01e{nxt[show]:02d}", st))
+                    nxt[show] += 1
 
     streams = {}
     for lang, show, st in SHOWS:
@@ -70,15 +72,15 @@ def build_order(root: Path):
                 if m and int(m.group(1)) >= 2 and (p / "scene-01.json").is_file():
                     eps.append((int(m.group(1)), int(m.group(2)), f"{show}-{p.name}", st))
         eps.sort()
-        streams[lang] = eps
-    idx = {lang: 0 for lang, _, _ in SHOWS}
-    while any(idx[lang] < len(streams[lang]) for lang, _, _ in SHOWS):
-        for lang, _show, _st in SHOWS:
-            for _ in range(QUOTA.get(lang, 1)):
-                if idx[lang] < len(streams[lang]):
-                    _s, _e, ep_slug, st = streams[lang][idx[lang]]
+        streams[show] = eps
+    idx = {show: 0 for _, show, _ in SHOWS}
+    while any(idx[show] < len(streams[show]) for _, show, _ in SHOWS):
+        for lang, show, _st in SHOWS:
+            for _ in range(QUOTA.get(show, QUOTA.get(lang, 1))):
+                if idx[show] < len(streams[show]):
+                    _s, _e, ep_slug, st = streams[show][idx[show]]
                     q.append((lang, ep_slug, st))
-                    idx[lang] += 1
+                    idx[show] += 1
     return q
 
 
