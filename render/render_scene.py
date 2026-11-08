@@ -67,6 +67,7 @@ _CARRIER_PLACEHOLDERS = {
     "fr": ("Terme", "terme"),
     "de": ("Wort", "wort"),
     "it": ("Voce", "voce"),
+    "ru": ("Слово", "слово"),
 }
 
 
