@@ -62,8 +62,8 @@ def _patch_chatterbox_arabic():
         self.complete = self.complete or self.text_position >= S - 3
         if self.complete and self.completed_at is None:
             self.completed_at = T
-        long_tail = self.complete and (A[self.completed_at:, -3:].sum(dim=0).max() >= 5)
-        alignment_repetition = self.complete and (A[self.completed_at:, :-5].max(dim=1).values.sum() > 5)
+        long_tail = bool(self.complete and T > self.completed_at and S > 0 and (A[self.completed_at:, -3:].sum(dim=0).max() >= 5))
+        alignment_repetition = bool(self.complete and T > self.completed_at and S > 5 and (A[self.completed_at:, :-5].max(dim=1).values.sum() > 5))
         if next_token is not None:
             token_id = next_token.item() if isinstance(next_token, torch.Tensor) and next_token.numel() == 1 else (
                 next_token.view(-1)[0].item() if isinstance(next_token, torch.Tensor) else next_token
