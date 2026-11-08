@@ -8,8 +8,7 @@ TITLE = 'La vérité dans la cour  (Truth in the Courtyard)'
 LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
 LABELS = {'antoine': 'Antoine', 'claire': 'Claire', 'odette': 'Odette'}
-INTRO = ('Still standing under the courtyard tree at the Hotel du Tilleul in Lyon, Antoine sits down with '
- "Claire and Odette to explain Monday night's mystery from the very beginning. Listen first.")
+INTRO = ("Out under the courtyard tree at the Hôtel du Tilleul in Lyon, Antoine sits down with Camille and Colette to explain Monday night's mystery from the very beginning. Listen first.")
 OPENER = "Let's hear how every piece of Monday night's suitcase swap clicks into place."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = ('All the puzzle pieces from Monday and Tuesday finally click together! Next time, Antoine '
@@ -22,8 +21,8 @@ STORY = [('odette',
   "Je n'arrive pas à croire que vous logez dans le même hôtel, Madame Odette.",
   'I cannot believe you are staying in the exact same hotel, Madam Odette.'),
  ('claire',
-  'Attendez: donc vous étiez dans le même train lundi, et vous avez pris sa valise?',
-  'Wait: so you were on the same train Monday, and you took her suitcase?'),
+  'Attendez — donc vous étiez dans le même train lundi, et vous avez pris sa valise?',
+  'Wait—so you rode the same train on Monday and took her suitcase?'),
  ('antoine',
   "Complètement par accident! Chez mon cousin, je l'ai ouverte et j'ai vu des partitions et un "
   'ruban rouge.',
@@ -43,12 +42,11 @@ STORY = [('odette',
   'Attends: et mercredi soir, tu as réservé ici sous ton vrai nom?',
   'Wait: and Wednesday night, you booked in here under your real name?'),
  ('antoine',
-  "Je cherchais un endroit calme près d'ici avant vendredi, et j'avais oublié que mon sac était "
-  'encore chez vous!',
-  'I needed a quiet place nearby before Friday, and I had forgotten my bag was still with you!'),
+  "Je cherchais un endroit calme près d'ici avant vendredi, et j'étais trop gêné pour demander mon sac!",
+  'I needed a quiet place nearby before Friday, and honestly felt too shy to ask for my bag!'),
  ('claire',
-  "Et c'est vous qui avez appelé mardi pour demander de ne pas ouvrir le paquet blanc!",
-  'And it was you who called Tuesday asking us not to open the white parcel!'),
+  'Même après que vous nous ayez appelés mardi à propos du colis blanc!',
+  'Even after you called us on Tuesday about the white parcel!'),
  ('antoine',
   'Tout ce qui est dans ce papier blanc appartient à mon frère Thibault, pas à moi.',
   'Everything inside that white paper belongs to my brother Thibault, not me.')]

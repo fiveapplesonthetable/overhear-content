@@ -21,7 +21,7 @@ STORY = [
     ('kira', 'Мы очень рады, что наш тихий дворик подходит для вашей... работы.', 'We are very glad that our quiet courtyard suits your... work.'),
     ('roman', 'Очень подходит! Только вы слышали сейчас странный звон металла?', 'Suits it very well! Though did you just hear a strange metallic ring?'),
     ('kira', 'Да! Звук шёл как будто из трубы отопления в углу.', 'Yes! The sound seemed to come from the heating pipe in the corner.'),
-    ('roman', 'Потрогайте батарею — сверху она тёплая, а снизу становится холодной.', 'Touch the radiator — on top it is warm, while at the bottom it is turning cold.'),
+    ('roman', 'Потрогайте батарею — снизу она тёплая, а сверху становится холодной.', 'Touch the radiator — at the bottom it is warm, while on top it is turning cold.'),
     ('kira', 'Ой! Иногда в старых трубах вечером собирается воздух.', 'Oh! Sometimes air collects in old pipes in the evening.'),
     ('roman', 'У меня тёплое одеяло, так что мне сегодня вполне уютно.', 'I have a warm blanket, so I am quite cosy tonight.'),
     ('kira', 'Спасибо за терпение! Матвей сейчас же проверит подвал.', 'Thank you for your patience! Matvey will check the cellar right away.'),

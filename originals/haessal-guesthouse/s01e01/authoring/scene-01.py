@@ -21,7 +21,7 @@ STORY = [
     ('mina', '첫날에는 항상 빨리 걸어요. 컴퓨터는 어디에 있어요?', 'On my first day I always walk fast. Where is the computer?'),
     ('junho', '서랍 안에 있어요. 여기서는 큰 종이 장부하고 연필을 써요.', 'It is inside the drawer. Here we use a big paper ledger and a pencil.'),
     ('mina', '종이 장부요? 정말요?', 'A paper ledger? Really?'),
-    ('junho', '종이는 비가 와도 방 목록을 안 잃어버려요.', 'Paper does not lose the room list even when it rains.'),
+    ('junho', '정전이 되어도 종이는 쓸 수 있거든요.', 'Paper still works when the power goes out.'),
     ('mina', '맞아요! 그럼 이건 열쇠예요?', "That's true! Then are these the keys?"),
     ('junho', '네, 방 여덟 개에 황동 열쇠 여덟 개예요. 오늘 사호실 손님이 와요.', 'Yes, eight rooms and eight brass keys. Today the Room 4 guest arrives.'),
     ('mina', '좋아요. 꼭 알아야 할 것을 다 알려 주세요.', 'Great. Please tell me everything I must know.'),

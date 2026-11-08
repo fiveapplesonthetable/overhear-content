@@ -17,7 +17,7 @@ STORY = [
     ('kira', 'Поставим маленький деревянный стол вот здесь под деревом, подальше от двери.', "Let's put the small wooden table right here under the tree, away from the door."),
     ('matvey', 'Хорошее место. Два крепких стула лицом к зелени, а не к окну холла.', 'Good spot. Two solid chairs facing the greenery, not the lobby window.'),
     ('zoya', 'Вот чистая белая скатерть и две синие чашки.', 'Here is a clean white tablecloth and two blue teacups.'),
-    ('kira', 'Матвей, ты протираешь бумажные фонарики к полудню?', 'Matvey, are you wiping off the paper lanterns for noon?'),
+    ('kira', 'Матвей, ты вешаешь бумажные фонарики к полудню?', 'Matvey, are you hanging those paper lanterns for noon?'),
     ('matvey', 'Провод всё равно нужно было поправить. Просто обычный порядок.', 'The wire needed straightening anyway. Just ordinary maintenance.'),
     ('zoya', 'Ой, послушайте его! Вчера ты чинил котёл, а сегодня миришь двух братьев!', 'Oh, listen to him! Yesterday you fixed the boiler, and today you reconcile two brothers!'),
     ('matvey', 'Я чиню трубы и стулья. А слова люди должны чинить сами.', 'I fix pipes and chairs. Words, people have to fix themselves.'),

@@ -15,12 +15,12 @@ OUTRO = "Bright daylight on an old luggage tag just unlocked twenty-five years o
 CLOSING = ('larisa', 'До скорого!')
 STORY = [
     ('matvey', 'Поставлю этот синий чемодан здесь на пять минут, пока подмету кладовку.', 'I will set this blue suitcase here for five minutes while I sweep the closet.'),
-    ('kira', 'Осторожнее с ним, Матвей — завтра в полдень уже пятница!', 'Careful with it, Matvey — tomorrow at noon is Friday already!'),
+    ('kira', 'Поаккуратнее с ним, Матвей. Пятница, полдень — это уже завтра!', 'Careful with it, Matvey. Friday at noon is tomorrow!'),
     ('larisa', 'Ой, это тот самый чемодан-близнец с утреннего поезда?', 'Oh, is that the very twin suitcase from the morning train?'),
     ('kira', 'Да, Лариса Борисовна, он всё ещё ждёт своего хозяина.', 'Yes, Larisa Borisovna, it is still waiting for its owner.'),
     ('larisa', 'Можно я ещё раз посмотрю на бумажную бирку при ярком дневном свете?', 'May I look at the paper tag once more in the bright daylight?'),
     ('matvey', 'Пожалуйста, смотрите. В понедельник днём в холле было темно.', 'Go right ahead and look. On Monday afternoon it was dark in the lobby.'),
-    ('larisa', 'Подождите секунду... Липовый переулок, дом двенадцать, и две детские буквы в углу!', 'Wait a second... Lipovy Lane, house twelve, and two childhood initials in the corner!'),
+    ('larisa', 'Подождите секунду... Садовая улица, дом двенадцать, и два детских инициала, написанных в уголке!', 'Wait a moment... Number twelve, Sadovaya Street, and two childhood initials written in the corner!'),
     ('kira', 'Лариса Борисовна, вы так удивились! Вы знаете дом двенадцать в Липовом переулке?', 'Larisa Borisovna, you look so amazed! Do you know house twelve on Lipovy Lane?'),
     ('larisa', 'Знаю ли я?! Шесть лет каждую пятницу я поднималась по той деревянной лестнице!', 'Do I know it?! For six years every Friday I climbed those wooden stairs!'),
     ('matvey', 'Двадцать пять лет назад? В этом самом доме?', 'Twenty-five years ago? In that very house?'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'I will set this blue suitcase here for five minutes while I sweep the closet.' Cleaning a floor with a broom is ", (None, 'подмету'), " — 'I will sweep'."]),
-    (1, None, ["'Careful with it, Matvey — tomorrow at noon is Friday already!' Softer and more specific than plain 'careful', ", (None, 'Осторожнее'), " means 'a bit more careful'."]),
+    (1, None, ["'Careful with it, Matvey — tomorrow at noon is Friday already!' Softer and more specific than plain 'careful', ", (None, 'Поаккуратнее'), " means 'a bit more careful'."]),
     (2, None, ["'Oh, is that the very twin suitcase from the morning train?' Emphasizing 'that exact one' uses ", (None, 'тот самый'), " — 'the very same'."]),
     (3, None, ["'Yes, Larisa Borisovna, it is still waiting for its owner.' Combining ", (None, 'всё ещё ждёт'), " makes ongoing patience vivid: 'is still waiting'."]),
     (4, None, ["'May I look at the paper tag once more in the bright daylight?' Under sunlight or lamplight uses ", (None, 'при ярком дневном свете?'), " — 'in the presence of bright daylight'."]),

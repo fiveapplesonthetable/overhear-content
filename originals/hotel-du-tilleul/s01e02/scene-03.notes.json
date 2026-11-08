@@ -3434,57 +3434,412 @@
     }
   ],
   "lexicon": {
-    "alors": {
-      "lemma": "alors",
-      "stress": "alɔʁ",
-      "pos": "adv",
-      "gloss": "then, so",
+    "neuf": {
+      "lemma": "neuf",
+      "stress": "nœf",
+      "pos": "num",
+      "gloss": "nine; brand-new",
       "meanings": [
         {
-          "en": "then, in that case",
-          "note": "Jeudi, alors."
+          "en": "nine (9)",
+          "note": "Final f sounds like /v/ before ans and heures."
         },
         {
-          "en": "so",
-          "note": ""
+          "en": "brand-new (adj., f. neuve)",
+          "note": "Un gilet neuf, une ampoule neuve."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Alors, tu viens?",
-          "trans": "So, are you coming?"
+          "text": "C'est à neuf heures.",
+          "trans": "It's at nine o'clock."
         },
         {
-          "text": "Alors pourquoi on ne la loue jamais aux clients?",
-          "trans": "Then why do we never rent it to guests?"
+          "text": "J'ai neuf pages à lire.",
+          "trans": "I have nine pages to read."
+        },
+        {
+          "text": "Vous pouvez? C'est à neuf heures.",
+          "trans": "Can you make it? It's at nine o'clock."
         }
       ],
       "related": [
         {
-          "word": "alors que",
-          "gloss": "whereas, while"
-        },
-        {
-          "word": "donc",
-          "gloss": "so, therefore"
+          "word": "à neuf heures",
+          "gloss": "at nine o'clock"
         }
       ]
     },
-    "attendre": {
-      "lemma": "attendre",
-      "stress": "atɑ̃dʁ",
-      "pos": "verb",
-      "gloss": "to wait (for); to expect",
+    "minute": {
+      "lemma": "minute",
+      "stress": "minyt",
+      "pos": "noun",
+      "gloss": "minute (of time)",
+      "gender": "f",
+      "plural": "minutes",
       "meanings": [
         {
-          "en": "to wait for",
-          "note": "No preposition: attendre quelqu'un."
+          "en": "minute",
+          "note": "Cinq minutes = five minutes."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la minute",
+              "les minutes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Attendez cinq minutes.",
+          "trans": "Wait five minutes."
         },
         {
-          "en": "to expect (a visitor)",
-          "note": "Il vous attend?."
+          "text": "J'arrive dans une minute.",
+          "trans": "I'll be there in a minute."
+        }
+      ],
+      "related": [
+        {
+          "word": "minuit",
+          "gloss": "midnight"
+        }
+      ]
+    },
+    "voici": {
+      "lemma": "voici",
+      "stress": "vwasi",
+      "pos": "adv",
+      "gloss": "here is, here are",
+      "meanings": [
+        {
+          "en": "here is, here are",
+          "note": "to present something or someone near you"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'est vrai! Et voici les clés?",
+          "trans": "Fair enough! And here are the keys?"
+        },
+        {
+          "text": "Voici votre clé, numéro quatre. Le petit-déjeuner est de sept heures trente à dix heures.",
+          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
+        },
+        {
+          "text": "Voici cinquante euros de la caisse. Rapportez le ticket!",
+          "trans": "Here is fifty euros from the cash box. Bring back the receipt!"
+        }
+      ],
+      "related": [
+        {
+          "word": "voilà",
+          "gloss": "there is, here is"
+        },
+        {
+          "word": "ici",
+          "gloss": "here"
+        }
+      ]
+    },
+    "le": {
+      "lemma": "le",
+      "stress": "lə",
+      "pos": "det",
+      "gloss": "the",
+      "meanings": [
+        {
+          "en": "the",
+          "note": "definite article; l' before a vowel"
+        },
+        {
+          "en": "him; it; her",
+          "note": "As a direct-object pronoun: le is masculine, la feminine; both become l' before a vowel sound."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "le",
+              "la"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "les",
+              "les"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Le film est fantastique.",
+          "trans": "The film is fantastic."
+        },
+        {
+          "text": "La pièce de Koltès.",
+          "trans": "The Koltès play."
+        }
+      ],
+      "related": [
+        {
+          "word": "le",
+          "gloss": "the"
+        }
+      ]
+    },
+    "lait": {
+      "lemma": "lait",
+      "stress": "lɛ",
+      "pos": "noun",
+      "gloss": "milk",
+      "gender": "m",
+      "plural": "laits",
+      "meanings": [
+        {
+          "en": "milk",
+          "note": "Du lait d'amande = almond milk."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le lait",
+              "les laits"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Un café au lait.",
+          "trans": "A coffee with milk."
+        },
+        {
+          "text": "Avec une goutte de lait d'amande.",
+          "trans": "With a drop of almond milk."
+        }
+      ],
+      "related": [
+        {
+          "word": "du lait d'amande",
+          "gloss": "almond milk"
+        }
+      ]
+    },
+    "œuf": {
+      "lemma": "œuf",
+      "stress": "œf",
+      "pos": "noun",
+      "gloss": "egg",
+      "gender": "m",
+      "plural": "œufs",
+      "meanings": [
+        {
+          "en": "egg",
+          "note": "Plural pronounced /ø/. Masculine noun ('le œuf', plural 'les œufs') inherited through Romance vocabulary, used in everyday and professional French for 'egg'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "un œuf",
+              "des œufs"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Un œuf d'or.",
+          "trans": "A golden egg."
+        },
+        {
+          "text": "Neuf minutes! Voici le lait, les œufs et les pommes!",
+          "trans": "Nine minutes! Here are the milk, the eggs, and the apples!"
+        }
+      ],
+      "related": [
+        {
+          "word": "un œuf / des œufs",
+          "gloss": "a egg / eggs"
+        }
+      ]
+    },
+    "et": {
+      "lemma": "et",
+      "stress": "e",
+      "pos": "conj",
+      "gloss": "and",
+      "meanings": [
+        {
+          "en": "and",
+          "note": "The t is never pronounced."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Et vous?",
+          "trans": "And you?"
+        },
+        {
+          "text": "Et demain?",
+          "trans": "And tomorrow?"
+        }
+      ],
+      "related": [
+        {
+          "word": "et",
+          "gloss": "and"
+        }
+      ]
+    },
+    "pomme": {
+      "lemma": "pomme",
+      "stress": "pɔm",
+      "pos": "noun",
+      "gloss": "apple",
+      "meanings": [
+        {
+          "en": "apple",
+          "note": "Confiture de pommes = apple jam."
+        }
+      ],
+      "gender": "f",
+      "plural": "pommes",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la pomme",
+              "les pommes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Trois bouteilles de lait, vingt œufs, du beurre, du fromage et des pommes rouges!",
+          "trans": "Three bottles of milk, twenty eggs, butter, cheese, and red apples!"
+        },
+        {
+          "text": "Neuf minutes! Voici le lait, les œufs et les pommes!",
+          "trans": "Nine minutes! Here are the milk, the eggs, and the apples!"
+        },
+        {
+          "text": "Excellent choix! Vous voulez du miel ou de la confiture de pommes à côté?",
+          "trans": "Wonderful choice! Would you like honey or apple jam on the side?"
+        }
+      ],
+      "related": [
+        {
+          "word": "citron",
+          "gloss": "lemon"
+        },
+        {
+          "word": "fraise",
+          "gloss": "strawberry"
+        }
+      ]
+    },
+    "tu": {
+      "lemma": "tu",
+      "stress": "ty",
+      "pos": "pron",
+      "gloss": "you (casual)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "one person you know well: friends, family, close colleagues"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tu es pénible.",
+          "trans": "You're a pain."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        }
+      ],
+      "related": [
+        {
+          "word": "vous",
+          "gloss": "you (polite or plural)"
+        }
+      ]
+    },
+    "être": {
+      "lemma": "être",
+      "stress": "ɛtʁ",
+      "pos": "verb",
+      "gloss": "to be",
+      "meanings": [
+        {
+          "en": "to be",
+          "note": "The most common verb."
+        },
+        {
+          "en": "c'est = it is, this is",
+          "note": "Ce + est."
         }
       ],
       "forms": {
@@ -3498,22 +3853,22 @@
           {
             "cells": [
               "1st",
-              "j'attends",
-              "nous attendons"
+              "je suis",
+              "nous sommes"
             ]
           },
           {
             "cells": [
               "2nd",
-              "tu attends",
-              "vous attendez"
+              "tu es",
+              "vous êtes"
             ]
           },
           {
             "cells": [
               "3rd",
-              "il/elle attend",
-              "ils/elles attendent"
+              "il/elle est",
+              "ils/elles sont"
             ]
           }
         ]
@@ -3530,22 +3885,22 @@
             {
               "cells": [
                 "1st",
-                "j'ai attendu",
-                "nous avons attendu"
+                "j'ai été",
+                "nous avons été"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu as attendu",
-                "vous avez attendu"
+                "tu as été",
+                "vous avez été"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle a attendu",
-                "ils/elles ont attendu"
+                "il/elle a été",
+                "ils/elles ont été"
               ]
             }
           ]
@@ -3561,22 +3916,22 @@
             {
               "cells": [
                 "1st",
-                "j'attendais",
-                "nous attendions"
+                "j'étais",
+                "nous étions"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu attendais",
-                "vous attendiez"
+                "tu étais",
+                "vous étiez"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle attendait",
-                "ils/elles attendaient"
+                "il/elle était",
+                "ils/elles étaient"
               ]
             }
           ]
@@ -3592,22 +3947,22 @@
             {
               "cells": [
                 "1st",
-                "j'attendrai",
-                "nous attendrons"
+                "je serai",
+                "nous serons"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu attendras",
-                "vous attendrez"
+                "tu seras",
+                "vous serez"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle attendra",
-                "ils/elles attendront"
+                "il/elle sera",
+                "ils/elles seront"
               ]
             }
           ]
@@ -3624,14 +3979,14 @@
               "cells": [
                 "1st",
                 "—",
-                "attendons"
+                "soyons"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "attends",
-                "attendez"
+                "sois",
+                "soyez"
               ]
             }
           ]
@@ -3639,63 +3994,304 @@
       ],
       "examples": [
         {
-          "text": "Attendez, elle est bleu foncé, exactement comme la vôtre!",
-          "trans": "Wait, it is dark blue, just like yours!"
+          "text": "Je suis à Paris.",
+          "trans": "I'm in Paris."
         },
         {
-          "text": "Attendez, cette rue est juste ici dans notre quartier, à cinq minutes!",
-          "trans": "Wait, that street is right here in our neighbourhood, five minutes away!"
-        },
-        {
-          "text": "Attendez. Regardez en bas sur la marche en pierre.",
-          "trans": "Wait. Look down on the stone step."
+          "text": "C'est important.",
+          "trans": "It's important."
         }
       ],
       "related": [
         {
-          "word": "attention",
-          "gloss": "attention"
+          "word": "un être",
+          "gloss": "a being, person"
+        },
+        {
+          "word": "peut-être",
+          "gloss": "maybe, perhaps"
         }
       ]
     },
-    "au": {
-      "lemma": "au",
-      "stress": "o",
-      "pos": "prep",
-      "gloss": "at the, to the",
+    "un": {
+      "lemma": "un",
+      "stress": "œ̃",
+      "pos": "det",
+      "gloss": "a, an; one",
       "meanings": [
         {
-          "en": "at the, to the",
-          "note": "à + le contracted: au boulot, au téléphone"
+          "en": "a, an",
+          "note": "indefinite article; des in the plural"
+        },
+        {
+          "en": "one",
+          "note": "Number; l'un = one of them."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "un",
+              "une"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "des",
+              "des"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Je suis au boulot.",
-          "trans": "I'm at work."
+          "text": "Et voilà la cloche du portail. Un coup franc.",
+          "trans": "There goes the gate bell. One firm ring."
         },
         {
-          "text": "Elle est au téléphone.",
-          "trans": "She's on the phone."
+          "text": "Voilà un taxi devant le portail à l'instant.",
+          "trans": "Here comes a taxi in front of the gate right now."
         }
       ],
       "related": [
         {
-          "word": "au",
-          "gloss": "at the"
+          "word": "un",
+          "gloss": "a"
         }
       ]
     },
-    "avec": {
-      "lemma": "avec",
-      "stress": "avɛk",
-      "pos": "prep",
-      "gloss": "with",
+    "héroïne": {
+      "lemma": "héroïne",
+      "stress": "eʁɔin",
+      "pos": "noun",
+      "gloss": "heroine, female hero",
+      "gender": "f",
+      "plural": "héroïnes",
       "meanings": [
         {
-          "en": "with",
+          "en": "heroine (in a film or novel)",
+          "note": "Comme une héroïne."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'héroïne",
+              "les héroïnes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Comme une héroïne.",
+          "trans": "Like a heroine."
+        },
+        {
+          "text": "C'est la véritable héroïne de l'histoire.",
+          "trans": "She is the true heroine of the story."
+        },
+        {
+          "text": "Tu es une héroïne, Claire! Donne-moi le lait d'abord pour la machine à café.",
+          "trans": "You are a hero, Claire! Give me the milk first for the coffee machine."
+        }
+      ],
+      "related": [
+        {
+          "word": "une héroïne / des héroïnes",
+          "gloss": "a heroine / heroines"
+        }
+      ]
+    },
+    "donner": {
+      "lemma": "donner",
+      "stress": "dɔne",
+      "pos": "verb",
+      "gloss": "to give",
+      "meanings": [
+        {
+          "en": "to give",
+          "note": "Donner quelque chose à quelqu'un."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je donne",
+              "nous donnons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu donnes",
+              "vous donnez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle donne",
+              "ils/elles donnent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai donné",
+                "nous avons donné"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as donné",
+                "vous avez donné"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a donné",
+                "ils/elles ont donné"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je donnais",
+                "nous donnions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu donnais",
+                "vous donniez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle donnait",
+                "ils/elles donnaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je donnerai",
+                "nous donnerons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu donneras",
+                "vous donnerez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle donnera",
+                "ils/elles donneront"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ça donne des forces.",
+          "trans": "It gives you energy."
+        },
+        {
+          "text": "Je te donne mon numéro.",
+          "trans": "I'll give you my number."
+        }
+      ],
+      "related": [
+        {
+          "word": "donneur",
+          "gloss": "donor"
+        },
+        {
+          "word": "donne",
+          "gloss": "deal"
+        }
+      ]
+    },
+    "d'abord": {
+      "lemma": "d'abord",
+      "stress": "dabɔʁ",
+      "pos": "adv",
+      "gloss": "first, at first",
+      "meanings": [
+        {
+          "en": "first, first of all",
+          "note": ""
+        },
+        {
+          "en": "at first",
           "note": ""
         }
       ],
@@ -3703,18 +4299,417 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Tu déjeunes avec Audiard.",
-          "trans": "You're having lunch with Audiard."
+          "text": "Bonjour. Non, soulevez d'abord la poignée, puis poussez.",
+          "trans": "Good morning. No, lift the handle first, then push."
         },
         {
-          "text": "Avec plaisir!",
-          "trans": "With pleasure!"
+          "text": "Règle numéro un: buvez d'abord du thé chaud, puis répondez à la sonnette.",
+          "trans": "Rule number one: drink hot tea first, then answer the bell."
+        },
+        {
+          "text": "Tu es une héroïne, Claire! Donne-moi le lait d'abord pour la machine à café.",
+          "trans": "You are a hero, Claire! Give me the milk first for the coffee machine."
         }
       ],
       "related": [
         {
-          "word": "avec",
-          "gloss": "with"
+          "word": "abord",
+          "gloss": "approach, manner"
+        },
+        {
+          "word": "ensuite",
+          "gloss": "next, then"
+        }
+      ]
+    },
+    "pour": {
+      "lemma": "pour",
+      "stress": "puʁ",
+      "pos": "prep",
+      "gloss": "for; (in order) to",
+      "meanings": [
+        {
+          "en": "for",
+          "note": "before an infinitive: pour faire plaisir"
+        },
+        {
+          "en": "to, in order to",
+          "note": "+ infinitive: pour voir."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Avec moi, toujours! Garde le vous poli pour les clients.",
+          "trans": "With me, always! Save the polite 'you' for the guests."
+        },
+        {
+          "text": "Juste sous cette arche. Je vais monter la valise bleue pour vous.",
+          "trans": "Right under this archway. I will carry the blue suitcase up for you."
+        },
+        {
+          "text": "Deux paires de grandes chaussures marron pour homme et des pulls gris.",
+          "trans": "Two pairs of big brown men's shoes and grey sweaters."
+        }
+      ],
+      "related": [
+        {
+          "word": "pourquoi",
+          "gloss": "why"
+        },
+        {
+          "word": "pour cent",
+          "gloss": "percent"
+        },
+        {
+          "word": "pour de vrai",
+          "gloss": "for real"
+        }
+      ]
+    },
+    "machine": {
+      "lemma": "machine",
+      "stress": "maʃin",
+      "pos": "noun",
+      "gloss": "machine, equipment",
+      "gender": "f",
+      "plural": "machines",
+      "meanings": [
+        {
+          "en": "machine, piece of equipment",
+          "note": "Une machine de sport. Feminine noun ('la machine', plural 'les machines') inherited through Romance vocabulary, used in everyday and professional French for 'machine'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la machine",
+              "les machines"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Une machine à laver.",
+          "trans": "A washing machine."
+        },
+        {
+          "text": "Donne-moi le lait d'abord pour la machine à café.",
+          "trans": "Give me the milk first for the coffee machine."
+        },
+        {
+          "text": "Tu es une héroïne, Claire! Donne-moi le lait d'abord pour la machine à café.",
+          "trans": "You are a hero, Claire! Give me the milk first for the coffee machine."
+        }
+      ],
+      "related": [
+        {
+          "word": "machin",
+          "gloss": "thing"
+        }
+      ]
+    },
+    "à": {
+      "lemma": "à",
+      "stress": "a",
+      "pos": "prep",
+      "gloss": "at, in, to",
+      "meanings": [
+        {
+          "en": "at, in",
+          "note": "Place: à Paris, à mon cours."
+        },
+        {
+          "en": "at",
+          "note": "Time: à midi."
+        },
+        {
+          "en": "au = à + le, aux = à + les",
+          "note": "Contractions."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je suis à Paris.",
+          "trans": "I'm in Paris."
+        },
+        {
+          "text": "À quatorze heures.",
+          "trans": "At two pm."
+        }
+      ],
+      "related": [
+        {
+          "word": "à",
+          "gloss": "at"
+        }
+      ]
+    },
+    "café": {
+      "lemma": "café",
+      "stress": "kafe",
+      "pos": "noun",
+      "gloss": "coffee; café",
+      "gender": "m",
+      "plural": "cafés",
+      "meanings": [
+        {
+          "en": "coffee",
+          "note": "Un café = an espresso."
+        },
+        {
+          "en": "café",
+          "note": "The place."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le café",
+              "les cafés"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "comme un café du matin ouvert au quartier?!",
+          "trans": "like a morning cafe open to the neighbourhood?!"
+        },
+        {
+          "text": "Donne-moi le lait d'abord pour la machine à café.",
+          "trans": "Give me the milk first for the coffee machine."
+        }
+      ],
+      "related": [
+        {
+          "word": "un café",
+          "gloss": "an espresso"
+        }
+      ]
+    },
+    "quel": {
+      "lemma": "quel",
+      "stress": "kɛl",
+      "pos": "det",
+      "gloss": "what, which",
+      "meanings": [
+        {
+          "en": "what, which (question)",
+          "note": "Agrees with the noun."
+        },
+        {
+          "en": "what a ...! (exclamation)",
+          "note": "Quelle surprise!."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "quel",
+              "quelle"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "quels",
+              "quelles"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Quelle heure est-il? Neuf heures trente-cinq!",
+          "trans": "What time is it? Nine thirty-five!"
+        },
+        {
+          "text": "Quelle vitesse! L'épicier vous a donné un ticket?",
+          "trans": "What speed! Did the grocer give you a receipt?"
+        }
+      ],
+      "related": [
+        {
+          "word": "quelque chose",
+          "gloss": "something"
+        },
+        {
+          "word": "quelque",
+          "gloss": "some"
+        },
+        {
+          "word": "quelqu'un",
+          "gloss": "someone"
+        }
+      ]
+    },
+    "vitesse": {
+      "lemma": "vitesse",
+      "stress": "vitɛs",
+      "pos": "noun",
+      "gloss": "speed",
+      "gender": "f",
+      "plural": "vitesses",
+      "meanings": [
+        {
+          "en": "speed, velocity, rate",
+          "note": "Feminine noun ('la vitesse', plural 'les vitesses') inherited through Romance vocabulary, used in everyday and professional French for 'speed'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la vitesse",
+              "les vitesses"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Quelle vitesse! L'épicier vous a donné un ticket?",
+          "trans": "What speed! Did the grocer give you a receipt?"
+        },
+        {
+          "text": "Il roulait à grande vitesse.",
+          "trans": "He was driving at high speed."
+        }
+      ],
+      "related": [
+        {
+          "word": "vite",
+          "gloss": "quickly"
+        },
+        {
+          "word": "vite fait",
+          "gloss": "quickly"
+        }
+      ]
+    },
+    "épicier": {
+      "lemma": "épicier",
+      "stress": "episje",
+      "pos": "noun",
+      "gloss": "grocer",
+      "meanings": [
+        {
+          "en": "grocer",
+          "note": "Feminine: épicière."
+        }
+      ],
+      "gender": "m",
+      "plural": "épiciers",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'épicier",
+              "les épiciers"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Quelle vitesse! L'épicier vous a donné un ticket?",
+          "trans": "What speed! Did the grocer give you a receipt?"
+        },
+        {
+          "text": "Voici l'épicier sur la table.",
+          "trans": "Here is the grocer on the table."
+        }
+      ],
+      "related": [
+        {
+          "word": "épicerie",
+          "gloss": "grocery shop"
+        }
+      ]
+    },
+    "vous": {
+      "lemma": "vous",
+      "stress": "vu",
+      "pos": "pron",
+      "gloss": "you (polite or plural)",
+      "meanings": [
+        {
+          "en": "you (polite)",
+          "note": "One person, formal."
+        },
+        {
+          "en": "you (plural)",
+          "note": "Several people."
+        },
+        {
+          "en": "you (object)",
+          "note": "je vous rappelle = I'll call you back"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
+        },
+        {
+          "text": "Madame Odette, tout va bien? Vous avez sonné!",
+          "trans": "Madam Odette, is everything alright? You rang the bell!"
+        }
+      ],
+      "related": [
+        {
+          "word": "tu",
+          "gloss": "you (informal)"
         }
       ]
     },
@@ -3904,19 +4899,19 @@
         }
       ]
     },
-    "besoin": {
-      "lemma": "besoin",
-      "stress": "bəzwɛ̃",
+    "ticket": {
+      "lemma": "ticket",
+      "stress": "tikɛ",
       "pos": "noun",
-      "gloss": "need",
-      "gender": "m",
-      "plural": "besoins",
+      "gloss": "receipt; bus/metro ticket",
       "meanings": [
         {
-          "en": "need",
-          "note": "Avoir besoin de = to need."
+          "en": "receipt; bus/metro ticket",
+          "note": "Ticket de caisse = shop receipt."
         }
       ],
+      "gender": "m",
+      "plural": "tickets",
       "forms": {
         "title": "Forms",
         "columns": [
@@ -3928,8 +4923,8 @@
           {
             "cells": [
               "form",
-              "un besoin",
-              "des besoins"
+              "le ticket",
+              "les tickets"
             ]
           }
         ]
@@ -3937,714 +4932,118 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "J'ai besoin d'un petit cours.",
-          "trans": "I need a little lesson."
+          "text": "Non, seulement mon stylo et trois vieux tickets!",
+          "trans": "No, only my pen and three old receipts!"
         },
         {
-          "text": "Tu as besoin d'aide?",
-          "trans": "Do you need help?"
+          "text": "Voici cinquante euros de la caisse. Rapportez le ticket!",
+          "trans": "Here is fifty euros from the cash box. Bring back the receipt!"
+        },
+        {
+          "text": "Quelle vitesse! L'épicier vous a donné un ticket?",
+          "trans": "What speed! Did the grocer give you a receipt?"
         }
       ],
       "related": [
         {
-          "word": "avoir besoin de",
-          "gloss": "to need"
+          "word": "caisse",
+          "gloss": "till"
         }
       ]
     },
-    "beurre": {
-      "lemma": "beurre",
-      "stress": "bœʁ",
-      "pos": "noun",
-      "gloss": "butter",
-      "gender": "m",
-      "plural": "beurres",
-      "meanings": [
-        {
-          "en": "butter",
-          "note": "Masculine noun ('le beurre', plural 'les beurres') inherited through Romance vocabulary, used in everyday and professional French for 'butter'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le beurre",
-              "les beurres"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Un tout petit peu de lait, deux œufs, et plus de beurre du tout!",
-          "trans": "A tiny splash of milk, two eggs, and no butter at all!"
-        },
-        {
-          "text": "Trois bouteilles de lait, vingt œufs, du beurre, du fromage et des pommes rouges!",
-          "trans": "Three bottles of milk, twenty eggs, butter, cheese, and red apples!"
-        },
-        {
-          "text": "Attends une seconde, Claire... tu as pris quelle plaquette de beurre?",
-          "trans": "Wait a second, Claire... which packet of butter did you grab?"
-        }
-      ],
-      "related": [
-        {
-          "word": "un beurre / des beurres",
-          "gloss": "a butter / butters"
-        }
-      ]
-    },
-    "bientôt": {
-      "lemma": "bientôt",
-      "stress": "bjɛ̃to",
+    "juste": {
+      "lemma": "juste",
+      "stress": "ʒyst",
       "pos": "adv",
-      "gloss": "soon",
+      "gloss": "just, only",
       "meanings": [
         {
-          "en": "soon",
-          "note": "À bientôt = see you soon."
+          "en": "just, only",
+          "note": "Adverb: je veux juste."
+        },
+        {
+          "en": "fair, right",
+          "note": "Adjective."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "À bientôt!",
-          "trans": "See you soon!"
+          "text": "Juste là sur votre front, bien au chaud.",
+          "trans": "Right there on your forehead, safe and sound."
         },
         {
-          "text": "Il arrive bientôt.",
-          "trans": "He's arriving soon."
+          "text": "Sur la cour, juste au-dessus du vieux tilleul. C'est très calme.",
+          "trans": "The courtyard, right above the old linden tree. It is very quiet."
+        },
+        {
+          "text": "Juste sous cette arche. Je vais monter la valise bleue pour vous.",
+          "trans": "Right under this archway. I will carry the blue suitcase up for you."
         }
       ],
       "related": [
         {
-          "word": "bien",
-          "gloss": "well"
-        },
-        {
-          "word": "bien sûr",
-          "gloss": "of course"
+          "word": "justement",
+          "gloss": "just now"
         }
       ]
     },
-    "bon": {
-      "lemma": "bon",
-      "stress": "bɔ̃",
-      "pos": "adj",
-      "gloss": "good",
+    "ici": {
+      "lemma": "ici",
+      "stress": "isi",
+      "pos": "adv",
+      "gloss": "here",
       "meanings": [
         {
-          "en": "good",
-          "note": "as an interjection: bon, alors... = right, so..."
-        },
-        {
-          "en": "well, okay, right",
-          "note": "as an interjection: bon, alors... = right, so..."
-        },
-        {
-          "en": "bonne journée = have a nice day",
+          "en": "here",
           "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "bon",
-              "bonne"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "bons",
-              "bonnes"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Bon. Alors, je vais attendre.",
-          "trans": "Fine. Then I'll wait."
+          "text": "C'est sympa ici.",
+          "trans": "It's nice here."
         },
         {
-          "text": "Ah bon? Il y a un problème avec ma réservation?",
-          "trans": "Oh really? Is there a problem with my booking?"
+          "text": "Laissez vos photos ici.",
+          "trans": "Leave your photos here."
         }
       ],
       "related": [
         {
-          "word": "as an interjection: bon, alors...",
-          "gloss": "right, so..."
+          "word": "là",
+          "gloss": "there, here"
+        },
+        {
+          "word": "par ici",
+          "gloss": "this way"
         }
       ]
     },
-    "brouiller": {
-      "lemma": "brouiller",
-      "stress": "bʁuje",
-      "pos": "verb",
-      "gloss": "to mix up, fall out (se brouiller)",
+    "tout": {
+      "lemma": "tout",
+      "stress": "tu",
+      "pos": "det",
+      "gloss": "all; every",
       "meanings": [
         {
-          "en": "to scramble, blur",
-          "note": "se brouiller avec qqn = to fall out with someone"
-        },
-        {
-          "en": "to fall out, quarrel (se brouiller avec)",
-          "note": "se brouiller avec qqn = to fall out with someone"
+          "en": "all; every",
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je brouille",
-              "nous brouillons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu brouilles",
-              "vous brouillez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle brouille",
-              "ils/elles brouillent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai brouillé",
-                "nous avons brouillé"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as brouillé",
-                "vous avez brouillé"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a brouillé",
-                "ils/elles ont brouillé"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je brouillais",
-                "nous brouillions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu brouillais",
-                "vous brouilliez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle brouillait",
-                "ils/elles brouillaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je brouillerai",
-                "nous brouillerons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu brouilleras",
-                "vous brouillerez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle brouillera",
-                "ils/elles brouilleront"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "brouillons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "brouille",
-                "brouillez"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Attendez: le beurre salé est mauvais pour la confiture, mais génial pour les œufs brouillés!",
-          "trans": "Wait: salted butter is bad for jam, but amazing for scrambled eggs!"
-        },
-        {
-          "text": "Claire a acheté du beurre salé, alors ce matin on fait de bons œufs brouillés!",
-          "trans": "Claire bought salted butter, so this morning we are making good scrambled eggs!"
-        },
-        {
-          "text": "Vos œufs brouillés sont délicieux, Claire. Félicitez Nadia de ma part!",
-          "trans": "Your scrambled eggs are delicious, Claire. Compliment Nadia for me!"
-        }
-      ],
-      "related": [
-        {
-          "word": "brouillon",
-          "gloss": "draft"
-        }
-      ]
-    },
-    "café": {
-      "lemma": "café",
-      "stress": "kafe",
-      "pos": "noun",
-      "gloss": "coffee; café",
-      "gender": "m",
-      "plural": "cafés",
-      "meanings": [
-        {
-          "en": "coffee",
-          "note": "Un café = an espresso."
-        },
-        {
-          "en": "café",
-          "note": "The place."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le café",
-              "les cafés"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "comme un café du matin ouvert au quartier?!",
-          "trans": "like a morning cafe open to the neighbourhood?!"
+          "text": "Tout va bien.",
+          "trans": "Everything is going well."
         },
         {
-          "text": "Donne-moi le lait d'abord pour la machine à café.",
-          "trans": "Give me the milk first for the coffee machine."
-        }
-      ],
-      "related": [
-        {
-          "word": "un café",
-          "gloss": "an espresso"
-        }
-      ]
-    },
-    "centime": {
-      "lemma": "centime",
-      "stress": "sɑ̃tim",
-      "pos": "noun",
-      "gloss": "cent (1/100 of a euro)",
-      "meanings": [
-        {
-          "en": "cent (1/100 of a euro)",
-          "note": "Au centime près = down to the last cent."
-        }
-      ],
-      "gender": "m",
-      "plural": "centimes",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le centime",
-              "les centimes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Dix, onze, douze. Le compte est bon au centime près, merci!",
-          "trans": "Ten, eleven, twelve. Exact to the last cent, thank you!"
-        },
-        {
-          "text": "Voici le centime sur la table.",
-          "trans": "Here is the cent on the table."
-        }
-      ],
-      "related": [
-        {
-          "word": "euro",
-          "gloss": "euro"
-        },
-        {
-          "word": "monnaie",
-          "gloss": "change"
-        }
-      ]
-    },
-    "compte": {
-      "lemma": "compte",
-      "stress": "kɔ̃t",
-      "pos": "noun",
-      "gloss": "account",
-      "gender": "m",
-      "plural": "comptes",
-      "meanings": [
-        {
-          "en": "account",
-          "note": "An account, including a bank account."
-        },
-        {
-          "en": "faire ses comptes = to do one's accounts",
-          "note": "Faire ses comptes means work out one's finances."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le compte",
-              "les comptes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "J'ai fait mes comptes.",
-          "trans": "I did my accounts."
-        },
-        {
-          "text": "Mon compte est vide.",
-          "trans": "My account is empty."
-        },
-        {
-          "text": "Dix, onze, douze. Le compte est bon au centime près, merci!",
-          "trans": "Ten, eleven, twelve. Exact to the last cent, thank you!"
-        }
-      ],
-      "related": []
-    },
-    "confiture": {
-      "lemma": "confiture",
-      "stress": "kɔ̃fityʁ",
-      "pos": "noun",
-      "gloss": "jam, preserve",
-      "meanings": [
-        {
-          "en": "jam, preserve",
-          "note": "Confiture de fraises / de pommes."
-        }
-      ],
-      "gender": "f",
-      "plural": "confitures",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la confiture",
-              "les confitures"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "On peut servir du beurre salé avec de la confiture de fraises?",
-          "trans": "Can we serve salted butter with strawberry jam?"
-        },
-        {
-          "text": "Attendez: le beurre salé est mauvais pour la confiture, mais génial pour les œufs brouillés!",
-          "trans": "Wait: salted butter is bad for jam, but amazing for scrambled eggs!"
-        },
-        {
-          "text": "Excellent choix! Vous voulez du miel ou de la confiture de pommes à côté?",
-          "trans": "Wonderful choice! Would you like honey or apple jam on the side?"
-        }
-      ],
-      "related": [
-        {
-          "word": "beurre",
-          "gloss": "butter"
-        },
-        {
-          "word": "miel",
-          "gloss": "honey"
-        }
-      ]
-    },
-    "courir": {
-      "lemma": "courir",
-      "stress": "kuʁiʁ",
-      "pos": "verb",
-      "gloss": "to run",
-      "meanings": [
-        {
-          "en": "to run",
-          "note": "Run; past participle couru."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je cours",
-              "nous courons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu cours",
-              "vous courez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il court",
-              "ils courent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai couru",
-                "nous avons couru"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as couru",
-                "vous avez couru"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il a couru",
-                "ils ont couru"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je courais",
-                "nous courions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu courais",
-                "vous couriez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il courait",
-                "ils couraient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je courrai",
-                "nous courrons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu courras",
-                "vous courrez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il courra",
-                "ils courront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "J'ai couru dans le cimetière.",
-          "trans": "I ran in the cemetery."
-        },
-        {
-          "text": "Il court vite.",
-          "trans": "He runs fast."
-        },
-        {
-          "text": "Oh non! Tous les paquets se ressemblaient quand je courais!",
-          "trans": "Oh no! All the packets looked alike when I was running!"
+          "text": "Madame Odette, tout va bien? Vous avez sonné!",
+          "trans": "Madam Odette, is everything alright? You rang the bell!"
         }
       ],
       "related": []
@@ -4803,462 +5202,15 @@
         }
       ]
     },
-    "d'abord": {
-      "lemma": "d'abord",
-      "stress": "dabɔʁ",
-      "pos": "adv",
-      "gloss": "first, at first",
-      "meanings": [
-        {
-          "en": "first, first of all",
-          "note": ""
-        },
-        {
-          "en": "at first",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bonjour. Non, soulevez d'abord la poignée, puis poussez.",
-          "trans": "Good morning. No, lift the handle first, then push."
-        },
-        {
-          "text": "Règle numéro un: buvez d'abord du thé chaud, puis répondez à la sonnette.",
-          "trans": "Rule number one: drink hot tea first, then answer the bell."
-        },
-        {
-          "text": "Tu es une héroïne, Claire! Donne-moi le lait d'abord pour la machine à café.",
-          "trans": "You are a hero, Claire! Give me the milk first for the coffee machine."
-        }
-      ],
-      "related": [
-        {
-          "word": "abord",
-          "gloss": "approach, manner"
-        },
-        {
-          "word": "ensuite",
-          "gloss": "next, then"
-        }
-      ]
-    },
-    "de": {
-      "lemma": "de",
-      "stress": "də",
-      "pos": "prep",
-      "gloss": "of, from; some",
-      "meanings": [
-        {
-          "en": "of, from",
-          "note": "D' before a vowel."
-        },
-        {
-          "en": "'s (possession)",
-          "note": ""
-        },
-        {
-          "en": "du = de + le",
-          "note": "Also 'some': du sucre."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Le film de Kechiche.",
-          "trans": "The Kechiche film."
-        },
-        {
-          "text": "C'est du sucre.",
-          "trans": "It's sugar."
-        }
-      ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "de + le"
-        },
-        {
-          "word": "des",
-          "gloss": "de + les"
-        }
-      ]
-    },
-    "demi-sel": {
-      "lemma": "demi-sel",
-      "stress": "dəmisɛl",
-      "pos": "adj",
-      "gloss": "lightly salted",
-      "meanings": [
-        {
-          "en": "lightly salted",
-          "note": "Invariable adjective: du beurre demi-sel."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "demi-sel",
-              "demi-sel"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "demi-sel",
-              "demi-sel"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est du beurre demi-sel! Mes petits pains sucrés ont besoin de beurre doux!",
-          "trans": "That is salted butter! My sweet rolls need unsalted butter!"
-        },
-        {
-          "text": "Cet endroit est vraiment demi-sel.",
-          "trans": "This place is really lightly salted."
-        }
-      ],
-      "related": [
-        {
-          "word": "salé",
-          "gloss": "salted"
-        },
-        {
-          "word": "beurre",
-          "gloss": "butter"
-        }
-      ]
-    },
-    "dix": {
-      "lemma": "dix",
-      "stress": "dis",
+    "trente-huit": {
+      "lemma": "trente-huit",
+      "stress": "tʁɑ̃tɥit",
       "pos": "num",
-      "gloss": "ten",
+      "gloss": "thirty-eight",
       "meanings": [
         {
-          "en": "ten",
-          "note": "pronounced dis alone, di before a consonant, diz before a vowel"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Moi, c'est Henri. Vous êtes en avance de dix minutes.",
-          "trans": "I am Henri. You are ten minutes early."
-        },
-        {
-          "text": "Voici votre clé, numéro quatre. Le petit-déjeuner est de sept heures trente à dix heures.",
-          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
-        },
-        {
-          "text": "Vous pouvez faire l'aller-retour en dix minutes?",
-          "trans": "Can you run there and back in ten minutes?"
-        }
-      ],
-      "related": [
-        {
-          "word": "dix",
-          "gloss": "ten"
-        }
-      ]
-    },
-    "donner": {
-      "lemma": "donner",
-      "stress": "dɔne",
-      "pos": "verb",
-      "gloss": "to give",
-      "meanings": [
-        {
-          "en": "to give",
-          "note": "Donner quelque chose à quelqu'un."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je donne",
-              "nous donnons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu donnes",
-              "vous donnez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle donne",
-              "ils/elles donnent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai donné",
-                "nous avons donné"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as donné",
-                "vous avez donné"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a donné",
-                "ils/elles ont donné"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je donnais",
-                "nous donnions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu donnais",
-                "vous donniez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle donnait",
-                "ils/elles donnaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je donnerai",
-                "nous donnerons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu donneras",
-                "vous donnerez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle donnera",
-                "ils/elles donneront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ça donne des forces.",
-          "trans": "It gives you energy."
-        },
-        {
-          "text": "Je te donne mon numéro.",
-          "trans": "I'll give you my number."
-        }
-      ],
-      "related": [
-        {
-          "word": "donneur",
-          "gloss": "donor"
-        },
-        {
-          "word": "donne",
-          "gloss": "deal"
-        }
-      ]
-    },
-    "doré": {
-      "lemma": "doré",
-      "stress": "dɔʁe",
-      "pos": "adj",
-      "gloss": "golden / gilded",
-      "meanings": [
-        {
-          "en": "golden, gold-colored, gilded",
-          "note": "Descriptive French adjective meaning 'golden'; agrees in gender and number with the noun it modifies."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "doré",
-              "dorée"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "dorés",
-              "dorées"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Elle préfère la tour dorée.",
-          "trans": "She prefers the golden tower."
-        },
-        {
-          "text": "Le papier doré sur l'étagère du haut. Pourquoi?",
-          "trans": "The gold wrapper on the top shelf. Why?"
-        },
-        {
-          "text": "J'avance... oh, je vois la clé dorée et la porte bleue!",
-          "trans": "I am walking forward... oh, I see the golden key and the blue door!"
-        }
-      ],
-      "related": [
-        {
-          "word": "adoré",
-          "gloss": "adored"
-        }
-      ]
-    },
-    "doux": {
-      "lemma": "doux",
-      "stress": "du",
-      "pos": "adj",
-      "gloss": "sweet, gentle, soft",
-      "meanings": [
-        {
-          "en": "sweet, gentle, soft, mild",
-          "note": "Sois douce = be gentle. Descriptive French adjective meaning 'sweet'; agrees in gender and number with the noun it modifies."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "doux",
-              "douce"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "doux",
-              "douces"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Une voix douce.",
-          "trans": "A soft voice."
-        },
-        {
-          "text": "Et regardez, ce gilet doux en laine est propre et neuf. Essayez-le.",
-          "trans": "And look, this soft wool cardigan is clean and new. Try it on."
-        },
-        {
-          "text": "Et j'ai deux oreillers doux et un tapis bleu tissé dans la réserve!",
-          "trans": "And I have two soft pillows and a woven blue rug in the storeroom!"
-        }
-      ],
-      "related": [
-        {
-          "word": "sois douce",
-          "gloss": "be gentle"
-        }
-      ]
-    },
-    "douze": {
-      "lemma": "douze",
-      "stress": "duz",
-      "pos": "num",
-      "gloss": "twelve, number 12",
-      "meanings": [
-        {
-          "en": "twelve",
-          "note": "douze heures = twelve o'clock / twelve hours"
+          "en": "thirty-eight",
+          "note": "Compound number 30 + 8."
         }
       ],
       "forms": null,
@@ -5269,139 +5221,18 @@
           "trans": "Right here! Everything cost thirty-eight euros, so here is twelve euros in change."
         },
         {
-          "text": "Dix, onze, douze. Le compte est bon au centime près, merci!",
-          "trans": "Ten, eleven, twelve. Exact to the last cent, thank you!"
-        },
-        {
-          "text": "Attendez un instant... Numéro douze, rue des Tilleuls, et deux initiales d'enfant gravées au coin!",
-          "trans": "Wait a moment... Number twelve, Rue des Tilleuls, and two childhood initials carved in the corner!"
+          "text": "Tout a coûté trente-huit euros, alors voici douze euros de monnaie.",
+          "trans": "Everything cost thirty-eight euros, so here is twelve euros in change."
         }
       ],
       "related": [
         {
-          "word": "douze heures",
-          "gloss": "twelve o'clock / twelve hours"
-        }
-      ]
-    },
-    "du": {
-      "lemma": "du",
-      "stress": "dy",
-      "pos": "det",
-      "gloss": "de + le; some",
-      "meanings": [
-        {
-          "en": "of the, from the",
-          "note": "Contraction of de + le. In la cause du décès it connects the cause with the death being discussed."
+          "word": "trente",
+          "gloss": "thirty"
         },
         {
-          "en": "some",
-          "note": "for things you can't count; de la (feminine)"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "du (de l')",
-              "de la (de l')"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "des",
-              "des"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est du compost.",
-          "trans": "It's compost."
-        },
-        {
-          "text": "Je veux du pain.",
-          "trans": "I want some bread."
-        }
-      ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "some"
-        }
-      ]
-    },
-    "encore": {
-      "lemma": "encore",
-      "stress": "ɑ̃kɔʁ",
-      "pos": "adv",
-      "gloss": "still; again",
-      "meanings": [
-        {
-          "en": "still",
-          "note": "j'ai encore un agent? = do I still have an agent?"
-        },
-        {
-          "en": "again; more",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Encore un café?",
-          "trans": "Another coffee?"
-        },
-        {
-          "text": "Ouf! Une bonne idée sauve encore le petit-déjeuner.",
-          "trans": "Phew! A good idea saves breakfast again."
-        }
-      ],
-      "related": [
-        {
-          "word": "encourager",
-          "gloss": "to encourage"
-        }
-      ]
-    },
-    "et": {
-      "lemma": "et",
-      "stress": "e",
-      "pos": "conj",
-      "gloss": "and",
-      "meanings": [
-        {
-          "en": "and",
-          "note": "The t is never pronounced."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Et vous?",
-          "trans": "And you?"
-        },
-        {
-          "text": "Et demain?",
-          "trans": "And tomorrow?"
-        }
-      ],
-      "related": [
-        {
-          "word": "et",
-          "gloss": "and"
+          "word": "huit",
+          "gloss": "eight"
         }
       ]
     },
@@ -5457,236 +5288,18 @@
         }
       ]
     },
-    "fraise": {
-      "lemma": "fraise",
-      "stress": "fʁɛz",
-      "pos": "noun",
-      "gloss": "strawberry",
-      "gender": "f",
-      "plural": "fraises",
-      "meanings": [
-        {
-          "en": "strawberry, fresh fruit",
-          "note": "Feminine noun ('la fraise', plural 'les fraises') inherited through Romance vocabulary, used in everyday and professional French for 'strawberry'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la fraise",
-              "les fraises"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ces belles fraises sont délicieuses.",
-          "trans": "These lovely strawberries are delicious."
-        },
-        {
-          "text": "Manger des fraises.",
-          "trans": "To eat strawberries."
-        },
-        {
-          "text": "On peut servir du beurre salé avec de la confiture de fraises?",
-          "trans": "Can we serve salted butter with strawberry jam?"
-        }
-      ],
-      "related": [
-        {
-          "word": "frais",
-          "gloss": "expenses"
-        }
-      ]
-    },
-    "génial": {
-      "lemma": "génial",
-      "stress": "ʒenjal",
-      "pos": "adj",
-      "gloss": "brilliant, great",
-      "meanings": [
-        {
-          "en": "brilliant, great",
-          "note": "Informal praise."
-        },
-        {
-          "en": "of genius",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "génial",
-              "géniale"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "géniaux",
-              "géniales"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est une idée géniale.",
-          "trans": "It's a brilliant idea."
-        },
-        {
-          "text": "Attendez: le beurre salé est mauvais pour la confiture, mais génial pour les œufs brouillés!",
-          "trans": "Wait: salted butter is bad for jam, but amazing for scrambled eggs!"
-        }
-      ],
-      "related": [
-        {
-          "word": "génie",
-          "gloss": "genius"
-        }
-      ]
-    },
-    "haut": {
-      "lemma": "haut",
-      "stress": "o",
-      "pos": "adj",
-      "gloss": "high, tall",
-      "meanings": [
-        {
-          "en": "high, tall",
-          "note": "Aspirate h: no liaison (les hauts)."
-        },
-        {
-          "en": "high up (adverb)",
-          "note": "Haut placé = high-ranking, high up."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "haut",
-              "haute"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "hauts",
-              "hautes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Une haute montagne.",
-          "trans": "A high mountain."
-        },
-        {
-          "text": "Le papier doré sur l'étagère du haut. Pourquoi?",
-          "trans": "The gold wrapper on the top shelf. Why?"
-        }
-      ],
-      "related": [
-        {
-          "word": "haut-parleur",
-          "gloss": "loudspeaker"
-        },
-        {
-          "word": "hauteur",
-          "gloss": "height"
-        }
-      ]
-    },
-    "héroïne": {
-      "lemma": "héroïne",
-      "stress": "eʁɔin",
-      "pos": "noun",
-      "gloss": "heroine, female hero",
-      "gender": "f",
-      "plural": "héroïnes",
-      "meanings": [
-        {
-          "en": "heroine (in a film or novel)",
-          "note": "Comme une héroïne."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'héroïne",
-              "les héroïnes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Comme une héroïne.",
-          "trans": "Like a heroine."
-        },
-        {
-          "text": "C'est la véritable héroïne de l'histoire.",
-          "trans": "She is the true heroine of the story."
-        },
-        {
-          "text": "Tu es une héroïne, Claire! Donne-moi le lait d'abord pour la machine à café.",
-          "trans": "You are a hero, Claire! Give me the milk first for the coffee machine."
-        }
-      ],
-      "related": [
-        {
-          "word": "une héroïne / des héroïnes",
-          "gloss": "a heroine / heroines"
-        }
-      ]
-    },
-    "ici": {
-      "lemma": "ici",
-      "stress": "isi",
+    "alors": {
+      "lemma": "alors",
+      "stress": "alɔʁ",
       "pos": "adv",
-      "gloss": "here",
+      "gloss": "then, so",
       "meanings": [
         {
-          "en": "here",
+          "en": "then, in that case",
+          "note": "Jeudi, alors."
+        },
+        {
+          "en": "so",
           "note": ""
         }
       ],
@@ -5694,512 +5307,98 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "C'est sympa ici.",
-          "trans": "It's nice here."
+          "text": "Alors, tu viens?",
+          "trans": "So, are you coming?"
         },
         {
-          "text": "Laissez vos photos ici.",
-          "trans": "Leave your photos here."
+          "text": "Alors pourquoi on ne la loue jamais aux clients?",
+          "trans": "Then why do we never rent it to guests?"
         }
       ],
       "related": [
         {
-          "word": "là",
-          "gloss": "there, here"
+          "word": "alors que",
+          "gloss": "whereas, while"
         },
         {
-          "word": "par ici",
-          "gloss": "this way"
+          "word": "donc",
+          "gloss": "so, therefore"
         }
       ]
     },
-    "idée": {
-      "lemma": "idée",
-      "stress": "ide",
-      "pos": "noun",
-      "gloss": "idea",
+    "douze": {
+      "lemma": "douze",
+      "stress": "duz",
+      "pos": "num",
+      "gloss": "twelve, number 12",
       "meanings": [
         {
-          "en": "idea",
+          "en": "twelve",
+          "note": "douze heures = twelve o'clock / twelve hours"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Juste ici! Tout a coûté trente-huit euros, alors voici douze euros de monnaie.",
+          "trans": "Right here! Everything cost thirty-eight euros, so here is twelve euros in change."
+        },
+        {
+          "text": "Dix, onze, douze. Le compte est bon au centime près, merci!",
+          "trans": "Ten, eleven, twelve. Exact to the last cent, thank you!"
+        },
+        {
+          "text": "Attendez une minute... Numéro douze, {STREET}, et deux initiales d'enfance écrites dans le coin!",
+          "trans": "Wait a moment... Number twelve, {STREET}, and two childhood initials written in the corner!"
+        }
+      ],
+      "related": [
+        {
+          "word": "douze heures",
+          "gloss": "twelve o'clock / twelve hours"
+        }
+      ]
+    },
+    "de": {
+      "lemma": "de",
+      "stress": "də",
+      "pos": "prep",
+      "gloss": "of, from; some",
+      "meanings": [
+        {
+          "en": "of, from",
+          "note": "D' before a vowel."
+        },
+        {
+          "en": "'s (possession)",
           "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'idée",
-              "les idées"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'était mon idée.",
-          "trans": "It was my idea."
         },
         {
-          "text": "J'ai une idée.",
-          "trans": "I have an idea."
-        }
-      ],
-      "related": [],
-      "gender": "f",
-      "plural": "idées"
-    },
-    "je": {
-      "lemma": "je",
-      "stress": "ʒə",
-      "pos": "pron",
-      "gloss": "I",
-      "meanings": [
-        {
-          "en": "I",
-          "note": "J' before a vowel."
+          "en": "du = de + le",
+          "note": "Also 'some': du sucre."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "J'ai un loft.",
-          "trans": "I've got a loft."
+          "text": "Le film de Kechiche.",
+          "trans": "The Kechiche film."
         },
         {
-          "text": "Je n'ai jamais vu cette boîte en quinze ans!",
-          "trans": "I have never seen that box in fifteen years!"
+          "text": "C'est du sucre.",
+          "trans": "It's sugar."
         }
       ],
       "related": [
         {
-          "word": "je",
-          "gloss": "I"
-        }
-      ]
-    },
-    "juste": {
-      "lemma": "juste",
-      "stress": "ʒyst",
-      "pos": "adv",
-      "gloss": "just, only",
-      "meanings": [
-        {
-          "en": "just, only",
-          "note": "Adverb: je veux juste."
+          "word": "du",
+          "gloss": "de + le"
         },
         {
-          "en": "fair, right",
-          "note": "Adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Juste là sur votre front, bien au chaud.",
-          "trans": "Right there on your forehead, safe and sound."
-        },
-        {
-          "text": "Sur la cour, juste au-dessus du vieux tilleul. C'est très calme.",
-          "trans": "The courtyard, right above the old linden tree. It is very quiet."
-        },
-        {
-          "text": "Juste sous cette arche. Je vais monter la valise bleue pour vous.",
-          "trans": "Right under this archway. I will carry the blue suitcase up for you."
-        }
-      ],
-      "related": [
-        {
-          "word": "justement",
-          "gloss": "just now"
-        }
-      ]
-    },
-    "lait": {
-      "lemma": "lait",
-      "stress": "lɛ",
-      "pos": "noun",
-      "gloss": "milk",
-      "gender": "m",
-      "plural": "laits",
-      "meanings": [
-        {
-          "en": "milk",
-          "note": "Du lait d'amande = almond milk."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le lait",
-              "les laits"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Un café au lait.",
-          "trans": "A coffee with milk."
-        },
-        {
-          "text": "Avec une goutte de lait d'amande.",
-          "trans": "With a drop of almond milk."
-        }
-      ],
-      "related": [
-        {
-          "word": "du lait d'amande",
-          "gloss": "almond milk"
-        }
-      ]
-    },
-    "le": {
-      "lemma": "le",
-      "stress": "lə",
-      "pos": "det",
-      "gloss": "the",
-      "meanings": [
-        {
-          "en": "the",
-          "note": "definite article; l' before a vowel"
-        },
-        {
-          "en": "him; it; her",
-          "note": "As a direct-object pronoun: le is masculine, la feminine; both become l' before a vowel sound."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "le",
-              "la"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "les",
-              "les"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Le film est fantastique.",
-          "trans": "The film is fantastic."
-        },
-        {
-          "text": "La pièce de Koltès.",
-          "trans": "The Koltès play."
-        }
-      ],
-      "related": [
-        {
-          "word": "le",
-          "gloss": "the"
-        }
-      ]
-    },
-    "machine": {
-      "lemma": "machine",
-      "stress": "maʃin",
-      "pos": "noun",
-      "gloss": "machine, equipment",
-      "gender": "f",
-      "plural": "machines",
-      "meanings": [
-        {
-          "en": "machine, piece of equipment",
-          "note": "Une machine de sport. Feminine noun ('la machine', plural 'les machines') inherited through Romance vocabulary, used in everyday and professional French for 'machine'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la machine",
-              "les machines"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Une machine à laver.",
-          "trans": "A washing machine."
-        },
-        {
-          "text": "Donne-moi le lait d'abord pour la machine à café.",
-          "trans": "Give me the milk first for the coffee machine."
-        },
-        {
-          "text": "Tu es une héroïne, Claire! Donne-moi le lait d'abord pour la machine à café.",
-          "trans": "You are a hero, Claire! Give me the milk first for the coffee machine."
-        }
-      ],
-      "related": [
-        {
-          "word": "machin",
-          "gloss": "thing"
-        }
-      ]
-    },
-    "mais": {
-      "lemma": "mais",
-      "stress": "mɛ",
-      "pos": "conj",
-      "gloss": "but",
-      "meanings": [
-        {
-          "en": "but",
-          "note": "Mais oui! = of course!."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "L'extérieur est identique, oui! Mais regardez à l'intérieur!",
-          "trans": "The outside is identical, yes! But look inside!"
-        },
-        {
-          "text": "Ce n'est pas votre faute. Mais je n'ai que le manteau sur mon dos!",
-          "trans": "It is not your fault. Still, I only have the coat on my back!"
-        }
-      ],
-      "related": [
-        {
-          "word": "maison",
-          "gloss": "house"
-        }
-      ]
-    },
-    "mauvais": {
-      "lemma": "mauvais",
-      "stress": "movɛ",
-      "pos": "adj",
-      "gloss": "bad",
-      "meanings": [
-        {
-          "en": "bad",
-          "note": "usually before the noun: une mauvaise nouvelle"
-        },
-        {
-          "en": "poor (at something)",
-          "note": "Être mauvais en sport."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "mauvais",
-              "mauvaise"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "mauvais",
-              "mauvaises"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est une mauvaise idée.",
-          "trans": "It's a bad idea."
-        },
-        {
-          "text": "Je suis mauvaise en maths.",
-          "trans": "I'm bad at maths."
-        }
-      ],
-      "related": [
-        {
-          "word": "très mauvais",
-          "gloss": "very bad"
-        },
-        {
-          "word": "plus mauvais",
-          "gloss": "more bad"
-        }
-      ]
-    },
-    "merci": {
-      "lemma": "merci",
-      "stress": "mɛʁsi",
-      "pos": "interj",
-      "gloss": "thank you",
-      "meanings": [
-        {
-          "en": "thank you, thanks",
-          "note": "merci beaucoup = thank you very much"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Merci beaucoup pour votre aide précieuse aujourd'hui.",
-          "trans": "Thank you very much for your valuable help today."
-        },
-        {
-          "text": "Je te dis mille fois merci pour ce beau rôle!",
-          "trans": "I thank you a thousand times for this great role!"
-        }
-      ],
-      "related": [
-        {
-          "word": "merci beaucoup",
-          "gloss": "thank you very much"
-        }
-      ]
-    },
-    "minute": {
-      "lemma": "minute",
-      "stress": "minyt",
-      "pos": "noun",
-      "gloss": "minute (of time)",
-      "gender": "f",
-      "plural": "minutes",
-      "meanings": [
-        {
-          "en": "minute",
-          "note": "Cinq minutes = five minutes."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la minute",
-              "les minutes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Attendez cinq minutes.",
-          "trans": "Wait five minutes."
-        },
-        {
-          "text": "J'arrive dans une minute.",
-          "trans": "I'll be there in a minute."
-        }
-      ],
-      "related": [
-        {
-          "word": "minuit",
-          "gloss": "midnight"
-        }
-      ]
-    },
-    "mon": {
-      "lemma": "mon",
-      "stress": "mɔ̃",
-      "pos": "det",
-      "gloss": "my",
-      "meanings": [
-        {
-          "en": "my",
-          "note": "Ma before a feminine noun; mon before a feminine noun beginning with a vowel sound or mute h."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "mon",
-              "ma"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "mes",
-              "mes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je suis à mon cours.",
-          "trans": "I'm at my lesson."
-        },
-        {
-          "text": "C'est ma place.",
-          "trans": "It's my seat."
-        }
-      ],
-      "related": [
-        {
-          "word": "mon",
-          "gloss": "my"
+          "word": "des",
+          "gloss": "de + les"
         }
       ]
     },
@@ -6255,147 +5454,37 @@
         }
       ]
     },
-    "neuf": {
-      "lemma": "neuf",
-      "stress": "nœf",
+    "dix": {
+      "lemma": "dix",
+      "stress": "dis",
       "pos": "num",
-      "gloss": "nine; brand-new",
+      "gloss": "ten",
       "meanings": [
         {
-          "en": "nine (9)",
-          "note": "Final f sounds like /v/ before ans and heures."
-        },
-        {
-          "en": "brand-new (adj., f. neuve)",
-          "note": "Un gilet neuf, une ampoule neuve."
+          "en": "ten",
+          "note": "pronounced dis alone, di before a consonant, diz before a vowel"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "C'est à neuf heures.",
-          "trans": "It's at nine o'clock."
+          "text": "Moi, c'est Henri. Vous êtes en avance de dix minutes.",
+          "trans": "I am Henri. You are ten minutes early."
         },
         {
-          "text": "J'ai neuf pages à lire.",
-          "trans": "I have nine pages to read."
+          "text": "Voici votre clé, numéro quatre. Le petit-déjeuner est de sept heures trente à dix heures.",
+          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
         },
         {
-          "text": "Vous pouvez? C'est à neuf heures.",
-          "trans": "Can you make it? It's at nine o'clock."
+          "text": "Vous pouvez faire l'aller-retour en dix minutes?",
+          "trans": "Can you run there and back in ten minutes?"
         }
       ],
       "related": [
         {
-          "word": "à neuf heures",
-          "gloss": "at nine o'clock"
-        }
-      ]
-    },
-    "non": {
-      "lemma": "non",
-      "stress": "nɔ̃",
-      "pos": "adv",
-      "gloss": "no",
-      "meanings": [
-        {
-          "en": "no",
-          "note": "at the end of a sentence: super, non?"
-        },
-        {
-          "en": "..., non? = ..., don't you? / isn't it?",
-          "note": "Tag at the end of a question."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vous savez monter, non?",
-          "trans": "You can ride, can't you?"
-        },
-        {
-          "text": "Non, soulevez d'abord la poignée, puis poussez.",
-          "trans": "No, lift the handle first, then push."
-        }
-      ],
-      "related": [
-        {
-          "word": "oui",
-          "gloss": "yes"
-        },
-        {
-          "word": "non plus",
-          "gloss": "neither, either"
-        }
-      ]
-    },
-    "oh": {
-      "lemma": "oh",
-      "stress": "o",
-      "pos": "interj",
-      "gloss": "oh (surprise, dismay)",
-      "meanings": [
-        {
-          "en": "oh",
-          "note": "Surprise or dismay."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh non!",
-          "trans": "Oh no!"
-        },
-        {
-          "text": "Oh, merci!",
-          "trans": "Oh, thank you!"
-        }
-      ],
-      "related": [
-        {
-          "word": "oh",
-          "gloss": "oh"
-        }
-      ]
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɔ̃",
-      "pos": "pron",
-      "gloss": "we; one, people",
-      "meanings": [
-        {
-          "en": "we",
-          "note": "everyday speech, with a he/she verb form"
-        },
-        {
-          "en": "one, people",
-          "note": "General."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Dans le tiroir. Ici, on utilise ce grand cahier en papier et un crayon.",
-          "trans": "In the drawer. Here we use this big paper notebook and a pencil."
-        },
-        {
-          "text": "Merci! On se tutoie ici?",
-          "trans": "Thank you! Do we use casual 'you' here?"
-        },
-        {
-          "text": "Asseyez-vous, madame. Ne vous inquiétez pas, on va regarder l'étiquette tout de suite.",
-          "trans": "Please sit down, madam. Do not worry, we will check the tag right now."
-        }
-      ],
-      "related": [
-        {
-          "word": "on",
-          "gloss": "we"
+          "word": "dix",
+          "gloss": "ten"
         }
       ]
     },
@@ -6429,208 +5518,74 @@
         }
       ]
     },
-    "ouf": {
-      "lemma": "ouf",
-      "stress": "uf",
-      "pos": "interj",
-      "gloss": "phew",
+    "compte": {
+      "lemma": "compte",
+      "stress": "kɔ̃t",
+      "pos": "noun",
+      "gloss": "account",
+      "gender": "m",
+      "plural": "comptes",
       "meanings": [
         {
-          "en": "phew (relief)",
-          "note": "Exclamation of relief, phew."
+          "en": "account",
+          "note": "An account, including a bank account."
+        },
+        {
+          "en": "faire ses comptes = to do one's accounts",
+          "note": "Faire ses comptes means work out one's finances."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le compte",
+              "les comptes"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Ouf! C'est fini.",
-          "trans": "Phew! It's over."
+          "text": "J'ai fait mes comptes.",
+          "trans": "I did my accounts."
         },
         {
-          "text": "Ouf, merci!",
-          "trans": "Phew, thanks!"
+          "text": "Mon compte est vide.",
+          "trans": "My account is empty."
         },
         {
-          "text": "Ouf! Une bonne idée sauve encore le petit-déjeuner.",
-          "trans": "Phew! A good idea saves breakfast again."
+          "text": "Dix, onze, douze. Le compte est bon au centime près, merci!",
+          "trans": "Ten, eleven, twelve. Exact to the last cent, thank you!"
         }
       ],
       "related": []
     },
-    "pain": {
-      "lemma": "pain",
-      "stress": "pɛ̃",
-      "pos": "noun",
-      "gloss": "bread; roll ('petit pain')",
-      "meanings": [
-        {
-          "en": "bread; roll ('petit pain')",
-          "note": "Un petit pain = a bread roll."
-        }
-      ],
-      "gender": "m",
-      "plural": "pains",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le pain",
-              "les pains"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ce sont les petits pains du matin! Prends-en un pendant qu'il est chaud.",
-          "trans": "They are the morning rolls! Take one while it is warm."
-        },
-        {
-          "text": "Parce que le bon café et le pain chaud rendent les gens sympas!",
-          "trans": "Because good coffee and warm bread make people friendly!"
-        },
-        {
-          "text": "Ma pâte à pain est déjà prête dans le four, au moins.",
-          "trans": "My bread dough is already ready in the oven, at least."
-        }
-      ],
-      "related": [
-        {
-          "word": "beurre",
-          "gloss": "butter"
-        },
-        {
-          "word": "brioche",
-          "gloss": "brioche"
-        }
-      ]
-    },
-    "papier": {
-      "lemma": "papier",
-      "stress": "papje",
-      "pos": "noun",
-      "gloss": "paper; document",
-      "gender": "m",
-      "plural": "papiers",
-      "meanings": [
-        {
-          "en": "paper, sheet of paper",
-          "note": "Mes papiers = my papers."
-        },
-        {
-          "en": "les papiers = documents, papers, ID",
-          "note": "Mes papiers = my papers."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le papier",
-              "les papiers"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est écrit sur un papier.",
-          "trans": "It's written on a piece of paper."
-        },
-        {
-          "text": "Le papier doré sur l'étagère du haut. Pourquoi?",
-          "trans": "The gold wrapper on the top shelf. Why?"
-        }
-      ],
-      "related": [
-        {
-          "word": "mes papiers",
-          "gloss": "my papers"
-        }
-      ]
-    },
-    "paquet": {
-      "lemma": "paquet",
-      "stress": "pakɛ",
-      "pos": "noun",
-      "gloss": "parcel, package, pack",
-      "meanings": [
-        {
-          "en": "parcel, package, pack",
-          "note": "Wrapped parcel or packet."
-        }
-      ],
-      "gender": "m",
-      "plural": "paquets",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le paquet",
-              "les paquets"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh non! Tous les paquets se ressemblaient quand je courais!",
-          "trans": "Oh no! All the packets looked alike when I was running!"
-        },
-        {
-          "text": "Monsieur? Il dit: N'ouvrez pas le paquet en papier blanc. Je viens vendredi à midi.",
-          "trans": "Sir? He says: Do not open the white paper parcel. I am coming Friday at noon."
-        },
-        {
-          "text": "Et c'est vous qui avez appelé mardi pour demander de ne pas ouvrir le paquet blanc!",
-          "trans": "And it was you who called Tuesday asking us not to open the white parcel!"
-        }
-      ],
-      "related": [
-        {
-          "word": "papier",
-          "gloss": "paper"
-        }
-      ]
-    },
-    "petit": {
-      "lemma": "petit",
-      "stress": "pəti",
+    "bon": {
+      "lemma": "bon",
+      "stress": "bɔ̃",
       "pos": "adj",
-      "gloss": "small, little",
+      "gloss": "good",
       "meanings": [
         {
-          "en": "small, little",
-          "note": "Affectionate, a bit condescending."
+          "en": "good",
+          "note": "as an interjection: bon, alors... = right, so..."
         },
         {
-          "en": "a little, a bit of (affectionate)",
-          "note": "Un petit cours."
+          "en": "well, okay, right",
+          "note": "as an interjection: bon, alors... = right, so..."
+        },
+        {
+          "en": "bonne journée = have a nice day",
+          "note": ""
         }
       ],
       "forms": {
@@ -6644,15 +5599,15 @@
           {
             "cells": [
               "sg",
-              "petit",
-              "petite"
+              "bon",
+              "bonne"
             ]
           },
           {
             "cells": [
               "pl",
-              "petits",
-              "petites"
+              "bons",
+              "bonnes"
             ]
           }
         ]
@@ -6660,290 +5615,175 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "J'ai un petit loft.",
-          "trans": "I've got a little loft."
+          "text": "Bon. Alors, je vais attendre.",
+          "trans": "Fine. Then I'll wait."
         },
         {
-          "text": "C'est une petite agence.",
-          "trans": "It's a small agency."
+          "text": "Ah bon? Il y a un problème avec ma réservation?",
+          "trans": "Oh really? Is there a problem with my booking?"
         }
       ],
       "related": [
         {
-          "word": "petit-déjeuner",
-          "gloss": "morning meal"
-        },
-        {
-          "word": "petit-bourgeois",
-          "gloss": "petty-bourgeois"
-        },
-        {
-          "word": "petit-fils",
-          "gloss": "grandson"
+          "word": "as an interjection: bon, alors...",
+          "gloss": "right, so..."
         }
       ]
     },
-    "petit-déjeuner": {
-      "lemma": "petit-déjeuner",
-      "stress": "pətididʒøn",
-      "pos": "noun",
-      "gloss": "morning meal, breakfast",
-      "gender": "m",
-      "plural": "petits-déjeuners",
-      "meanings": [
-        {
-          "en": "breakfast",
-          "note": "Masculine noun ('le petit-déjeuner', plural 'les petits-déjeuners') inherited through Romance vocabulary, used in everyday and professional French for 'morning meal'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "petit-déjeuner",
-              "petits-déjeuners"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je prends toujours un café au petit-déjeuner.",
-          "trans": "I always have a coffee at breakfast."
-        },
-        {
-          "text": "On a organisé un petit-déjeuner avec le réalisateur.",
-          "trans": "We organized a breakfast meeting with the director."
-        },
-        {
-          "text": "Bonne nuit, Claire. À demain au petit-déjeuner.",
-          "trans": "Good night, Claire. See you tomorrow at breakfast."
-        }
-      ],
-      "related": [
-        {
-          "word": "petit",
-          "gloss": "small"
-        },
-        {
-          "word": "petit-bourgeois",
-          "gloss": "petty-bourgeois"
-        },
-        {
-          "word": "petit-fils",
-          "gloss": "grandson"
-        }
-      ]
-    },
-    "plaquette": {
-      "lemma": "plaquette",
-      "stress": "plakɛt",
-      "pos": "noun",
-      "gloss": "block, slab ('plaquette de beurre')",
-      "meanings": [
-        {
-          "en": "block, slab ('plaquette de beurre')",
-          "note": "Standard French block of butter."
-        }
-      ],
-      "gender": "f",
-      "plural": "plaquettes",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la plaquette",
-              "les plaquettes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Attends une seconde, Claire... tu as pris quelle plaquette de beurre?",
-          "trans": "Wait a second, Claire... which packet of butter did you grab?"
-        },
-        {
-          "text": "Voici la plaquette sur la table.",
-          "trans": "Here is the block, slab on the table."
-        }
-      ],
-      "related": [
-        {
-          "word": "beurre",
-          "gloss": "butter"
-        }
-      ]
-    },
-    "pomme": {
-      "lemma": "pomme",
-      "stress": "pɔm",
-      "pos": "noun",
-      "gloss": "apple",
-      "meanings": [
-        {
-          "en": "apple",
-          "note": "Confiture de pommes = apple jam."
-        }
-      ],
-      "gender": "f",
-      "plural": "pommes",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la pomme",
-              "les pommes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Trois bouteilles de lait, vingt œufs, du beurre, du fromage et des pommes rouges!",
-          "trans": "Three bottles of milk, twenty eggs, butter, cheese, and red apples!"
-        },
-        {
-          "text": "Neuf minutes! Voici le lait, les œufs et les pommes!",
-          "trans": "Nine minutes! Here are the milk, the eggs, and the apples!"
-        },
-        {
-          "text": "Excellent choix! Vous voulez du miel ou de la confiture de pommes à côté?",
-          "trans": "Wonderful choice! Would you like honey or apple jam on the side?"
-        }
-      ],
-      "related": [
-        {
-          "word": "citron",
-          "gloss": "lemon"
-        },
-        {
-          "word": "fraise",
-          "gloss": "strawberry"
-        }
-      ]
-    },
-    "pour": {
-      "lemma": "pour",
-      "stress": "puʁ",
+    "au": {
+      "lemma": "au",
+      "stress": "o",
       "pos": "prep",
-      "gloss": "for; (in order) to",
+      "gloss": "at the, to the",
       "meanings": [
         {
-          "en": "for",
-          "note": "before an infinitive: pour faire plaisir"
-        },
-        {
-          "en": "to, in order to",
-          "note": "+ infinitive: pour voir."
+          "en": "at the, to the",
+          "note": "à + le contracted: au boulot, au téléphone"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Avec moi, toujours! Garde le vous poli pour les clients.",
-          "trans": "With me, always! Save the polite 'you' for the guests."
+          "text": "Je suis au boulot.",
+          "trans": "I'm at work."
         },
         {
-          "text": "Juste sous cette arche. Je vais monter la valise bleue pour vous.",
-          "trans": "Right under this archway. I will carry the blue suitcase up for you."
-        },
-        {
-          "text": "Deux paires de grandes chaussures marron pour homme et des pulls gris.",
-          "trans": "Two pairs of big brown men's shoes and grey sweaters."
+          "text": "Elle est au téléphone.",
+          "trans": "She's on the phone."
         }
       ],
       "related": [
         {
-          "word": "pourquoi",
-          "gloss": "why"
-        },
-        {
-          "word": "pour cent",
-          "gloss": "percent"
-        },
-        {
-          "word": "pour de vrai",
-          "gloss": "for real"
+          "word": "au",
+          "gloss": "at the"
         }
       ]
     },
-    "pourquoi": {
-      "lemma": "pourquoi",
-      "stress": "puʁkwa",
+    "centime": {
+      "lemma": "centime",
+      "stress": "sɑ̃tim",
+      "pos": "noun",
+      "gloss": "cent (1/100 of a euro)",
+      "meanings": [
+        {
+          "en": "cent (1/100 of a euro)",
+          "note": "Au centime près = down to the last cent."
+        }
+      ],
+      "gender": "m",
+      "plural": "centimes",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le centime",
+              "les centimes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Dix, onze, douze. Le compte est bon au centime près, merci!",
+          "trans": "Ten, eleven, twelve. Exact to the last cent, thank you!"
+        },
+        {
+          "text": "Voici le centime sur la table.",
+          "trans": "Here is the cent on the table."
+        }
+      ],
+      "related": [
+        {
+          "word": "euro",
+          "gloss": "euro"
+        },
+        {
+          "word": "monnaie",
+          "gloss": "change"
+        }
+      ]
+    },
+    "près": {
+      "lemma": "près",
+      "stress": "pʁɛ",
       "pos": "adv",
-      "gloss": "why",
+      "gloss": "near",
       "meanings": [
         {
-          "en": "why",
-          "note": "in questions and after verbs like comprendre, savoir"
+          "en": "near, close",
+          "note": "Près de = near."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Pourquoi est-ce que tu ne m'as rien dit hier?",
-          "trans": "Why didn't you tell me anything yesterday?"
+          "text": "Il y a vingt-cinq ans, je donnais des cours de piano près d'ici.",
+          "trans": "Twenty-five years ago, I taught piano lessons near here."
         },
         {
-          "text": "Je comprends enfin pourquoi elle a refusé ce film.",
-          "trans": "I finally understand why she turned down that film."
+          "text": "Dix, onze, douze. Le compte est bon au centime près, merci!",
+          "trans": "Ten, eleven, twelve. Exact to the last cent, thank you!"
+        },
+        {
+          "text": "À droite, près du bureau, là où la lumière est bonne.",
+          "trans": "On the right, near the desk, where the light is good."
+        }
+      ],
+      "related": []
+    },
+    "merci": {
+      "lemma": "merci",
+      "stress": "mɛʁsi",
+      "pos": "interj",
+      "gloss": "thank you",
+      "meanings": [
+        {
+          "en": "thank you, thanks",
+          "note": "merci beaucoup = thank you very much"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Merci beaucoup pour votre aide précieuse aujourd'hui.",
+          "trans": "Thank you very much for your valuable help today."
+        },
+        {
+          "text": "Je te dis mille fois merci pour ce beau rôle!",
+          "trans": "I thank you a thousand times for this great role!"
         }
       ],
       "related": [
         {
-          "word": "pour",
-          "gloss": "for"
-        },
-        {
-          "word": "pour cent",
-          "gloss": "percent"
-        },
-        {
-          "word": "pour de vrai",
-          "gloss": "for real"
+          "word": "merci beaucoup",
+          "gloss": "thank you very much"
         }
       ]
     },
-    "pouvoir": {
-      "lemma": "pouvoir",
-      "stress": "puvwaʁ",
+    "attendre": {
+      "lemma": "attendre",
+      "stress": "atɑ̃dʁ",
       "pos": "verb",
-      "gloss": "can, to be able to",
+      "gloss": "to wait (for); to expect",
       "meanings": [
         {
-          "en": "can, to be able to",
-          "note": "+ infinitive."
+          "en": "to wait for",
+          "note": "No preposition: attendre quelqu'un."
         },
         {
-          "en": "could (polite)",
-          "note": "conditional: tu pourrais, vous pourriez"
+          "en": "to expect (a visitor)",
+          "note": "Il vous attend?."
         }
       ],
       "forms": {
@@ -6957,22 +5797,22 @@
           {
             "cells": [
               "1st",
-              "je peux",
-              "nous pouvons"
+              "j'attends",
+              "nous attendons"
             ]
           },
           {
             "cells": [
               "2nd",
-              "tu peux",
-              "vous pouvez"
+              "tu attends",
+              "vous attendez"
             ]
           },
           {
             "cells": [
               "3rd",
-              "il/elle peut",
-              "ils/elles peuvent"
+              "il/elle attend",
+              "ils/elles attendent"
             ]
           }
         ]
@@ -6989,22 +5829,22 @@
             {
               "cells": [
                 "1st",
-                "j'ai pu",
-                "nous avons pu"
+                "j'ai attendu",
+                "nous avons attendu"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu as pu",
-                "vous avez pu"
+                "tu as attendu",
+                "vous avez attendu"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle a pu",
-                "ils/elles ont pu"
+                "il/elle a attendu",
+                "ils/elles ont attendu"
               ]
             }
           ]
@@ -7020,22 +5860,22 @@
             {
               "cells": [
                 "1st",
-                "je pouvais",
-                "nous pouvions"
+                "j'attendais",
+                "nous attendions"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu pouvais",
-                "vous pouviez"
+                "tu attendais",
+                "vous attendiez"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle pouvait",
-                "ils/elles pouvaient"
+                "il/elle attendait",
+                "ils/elles attendaient"
               ]
             }
           ]
@@ -7051,22 +5891,46 @@
             {
               "cells": [
                 "1st",
-                "je pourrai",
-                "nous pourrons"
+                "j'attendrai",
+                "nous attendrons"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu pourras",
-                "vous pourrez"
+                "tu attendras",
+                "vous attendrez"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle pourra",
-                "ils/elles pourront"
+                "il/elle attendra",
+                "ils/elles attendront"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "attendons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "attends",
+                "attendez"
               ]
             }
           ]
@@ -7074,20 +5938,75 @@
       ],
       "examples": [
         {
-          "text": "Je ne peux pas venir.",
-          "trans": "I can't come."
+          "text": "Attendez, elle est bleu foncé, exactement comme la vôtre!",
+          "trans": "Wait, it is dark blue, just like yours!"
         },
         {
-          "text": "Vous pouvez faire l'aller-retour en dix minutes?",
-          "trans": "Can you run there and back in ten minutes?"
+          "text": "Attendez, cette rue est juste ici dans notre quartier, à cinq minutes!",
+          "trans": "Wait, that street is right here in our neighbourhood, five minutes away!"
+        },
+        {
+          "text": "Attendez. Regardez en bas sur la marche en pierre.",
+          "trans": "Wait. Look down on the stone step."
         }
       ],
       "related": [
         {
-          "word": "pu",
-          "gloss": "past participle of 'pouvoir' (can)"
+          "word": "attention",
+          "gloss": "attention"
         }
       ]
+    },
+    "seconde": {
+      "lemma": "seconde",
+      "stress": "səɡɔ̃d",
+      "pos": "noun",
+      "gloss": "second (time)",
+      "gender": "f",
+      "plural": "secondes",
+      "meanings": [
+        {
+          "en": "second (unit of time)",
+          "note": "A second, the unit of time; the c sounds like g."
+        },
+        {
+          "en": "une seconde!: just a second!",
+          "note": "As an adjective, feminine form of second."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la seconde",
+              "les secondes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "En deux secondes.",
+          "trans": "In two seconds."
+        },
+        {
+          "text": "Une seconde, s'il vous plaît.",
+          "trans": "One second, please."
+        },
+        {
+          "text": "Écouter le son de la pièce... attendez une seconde!",
+          "trans": "Listening to the sound of the room... wait a second!"
+        }
+      ],
+      "related": []
     },
     "prendre": {
       "lemma": "prendre",
@@ -7279,78 +6198,167 @@
         }
       ]
     },
-    "près": {
-      "lemma": "près",
-      "stress": "pʁɛ",
-      "pos": "adv",
-      "gloss": "near",
+    "plaquette": {
+      "lemma": "plaquette",
+      "stress": "plakɛt",
+      "pos": "noun",
+      "gloss": "block, slab ('plaquette de beurre')",
       "meanings": [
         {
-          "en": "near, close",
-          "note": "Près de = near."
+          "en": "block, slab ('plaquette de beurre')",
+          "note": "Standard French block of butter."
         }
       ],
-      "forms": null,
+      "gender": "f",
+      "plural": "plaquettes",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la plaquette",
+              "les plaquettes"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Il y a vingt-cinq ans, je donnais des cours de piano près d'ici.",
-          "trans": "Twenty-five years ago, I taught piano lessons near here."
+          "text": "Attends une seconde, Claire... tu as pris quelle plaquette de beurre?",
+          "trans": "Wait a second, Claire... which packet of butter did you grab?"
         },
         {
-          "text": "Dix, onze, douze. Le compte est bon au centime près, merci!",
-          "trans": "Ten, eleven, twelve. Exact to the last cent, thank you!"
-        },
-        {
-          "text": "À droite, près du bureau, là où la lumière est bonne.",
-          "trans": "On the right, near the desk, where the light is good."
-        }
-      ],
-      "related": []
-    },
-    "quand": {
-      "lemma": "quand",
-      "stress": "kɑ̃",
-      "pos": "adv",
-      "gloss": "when",
-      "meanings": [
-        {
-          "en": "when",
-          "note": "Question word or conjunction."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vous serez là quand?",
-          "trans": "When will you be here?"
-        },
-        {
-          "text": "Quand tu veux.",
-          "trans": "Whenever you like."
+          "text": "Voici la plaquette sur la table.",
+          "trans": "Here is the block, slab on the table."
         }
       ],
       "related": [
         {
-          "word": "quand même",
-          "gloss": "still"
+          "word": "beurre",
+          "gloss": "butter"
         }
       ]
     },
-    "quel": {
-      "lemma": "quel",
-      "stress": "kɛl",
-      "pos": "det",
-      "gloss": "what, which",
+    "beurre": {
+      "lemma": "beurre",
+      "stress": "bœʁ",
+      "pos": "noun",
+      "gloss": "butter",
+      "gender": "m",
+      "plural": "beurres",
       "meanings": [
         {
-          "en": "what, which (question)",
-          "note": "Agrees with the noun."
+          "en": "butter",
+          "note": "Masculine noun ('le beurre', plural 'les beurres') inherited through Romance vocabulary, used in everyday and professional French for 'butter'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le beurre",
+              "les beurres"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Un tout petit peu de lait, deux œufs, et plus de beurre du tout!",
+          "trans": "A tiny splash of milk, two eggs, and no butter at all!"
         },
         {
-          "en": "what a ...! (exclamation)",
-          "note": "Quelle surprise!."
+          "text": "Trois bouteilles de lait, vingt œufs, du beurre, du fromage et des pommes rouges!",
+          "trans": "Three bottles of milk, twenty eggs, butter, cheese, and red apples!"
+        },
+        {
+          "text": "Attends une seconde, Claire... tu as pris quelle plaquette de beurre?",
+          "trans": "Wait a second, Claire... which packet of butter did you grab?"
+        }
+      ],
+      "related": [
+        {
+          "word": "un beurre / des beurres",
+          "gloss": "a butter / butters"
+        }
+      ]
+    },
+    "papier": {
+      "lemma": "papier",
+      "stress": "papje",
+      "pos": "noun",
+      "gloss": "paper; document",
+      "gender": "m",
+      "plural": "papiers",
+      "meanings": [
+        {
+          "en": "paper, sheet of paper",
+          "note": "Mes papiers = my papers."
+        },
+        {
+          "en": "les papiers = documents, papers, ID",
+          "note": "Mes papiers = my papers."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le papier",
+              "les papiers"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'est écrit sur un papier.",
+          "trans": "It's written on a piece of paper."
+        },
+        {
+          "text": "Le papier doré sur l'étagère du haut. Pourquoi?",
+          "trans": "The gold wrapper on the top shelf. Why?"
+        }
+      ],
+      "related": [
+        {
+          "word": "mes papiers",
+          "gloss": "my papers"
+        }
+      ]
+    },
+    "doré": {
+      "lemma": "doré",
+      "stress": "dɔʁe",
+      "pos": "adj",
+      "gloss": "golden / gilded",
+      "meanings": [
+        {
+          "en": "golden, gold-colored, gilded",
+          "note": "Descriptive French adjective meaning 'golden'; agrees in gender and number with the noun it modifies."
         }
       ],
       "forms": {
@@ -7364,15 +6372,15 @@
           {
             "cells": [
               "sg",
-              "quel",
-              "quelle"
+              "doré",
+              "dorée"
             ]
           },
           {
             "cells": [
               "pl",
-              "quels",
-              "quelles"
+              "dorés",
+              "dorées"
             ]
           }
         ]
@@ -7380,28 +6388,804 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Quelle heure est-il? Neuf heures trente-cinq!",
-          "trans": "What time is it? Nine thirty-five!"
+          "text": "Elle préfère la tour dorée.",
+          "trans": "She prefers the golden tower."
         },
         {
-          "text": "Quelle vitesse! L'épicier vous a donné un ticket?",
-          "trans": "What speed! Did the grocer give you a receipt?"
+          "text": "Le papier doré sur l'étagère du haut. Pourquoi?",
+          "trans": "The gold wrapper on the top shelf. Why?"
+        },
+        {
+          "text": "J'avance... oh, je vois la clé dorée et la porte bleue!",
+          "trans": "I am walking forward... oh, I see the golden key and the blue door!"
         }
       ],
       "related": [
         {
-          "word": "quelque chose",
-          "gloss": "something"
-        },
-        {
-          "word": "quelque",
-          "gloss": "some"
-        },
-        {
-          "word": "quelqu'un",
-          "gloss": "someone"
+          "word": "adoré",
+          "gloss": "adored"
         }
       ]
+    },
+    "sur": {
+      "lemma": "sur",
+      "stress": "syʁ",
+      "pos": "prep",
+      "gloss": "on, onto",
+      "meanings": [
+        {
+          "en": "on, onto",
+          "note": "Sur la table, sur la route."
+        },
+        {
+          "en": "on (a device)",
+          "note": "Sur haut-parleur = on speaker."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Le livre est sur la table.",
+          "trans": "The book is on the table."
+        },
+        {
+          "text": "Tu es sur haut-parleur.",
+          "trans": "You're on speaker."
+        }
+      ],
+      "related": [
+        {
+          "word": "sur",
+          "gloss": "on"
+        }
+      ]
+    },
+    "étagère": {
+      "lemma": "étagère",
+      "stress": "etaʒɛʁ",
+      "pos": "noun",
+      "gloss": "shelf",
+      "meanings": [
+        {
+          "en": "shelf",
+          "note": "Wall or cupboard shelf."
+        }
+      ],
+      "gender": "f",
+      "plural": "étagères",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'étagère",
+              "les étagères"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Le papier doré sur l'étagère du haut. Pourquoi?",
+          "trans": "The gold wrapper on the top shelf. Why?"
+        },
+        {
+          "text": "Il vient de mesurer avec l'ancienne: il lui en reste deux sur l'étagère!",
+          "trans": "He just measured it against the old one: he has two left on the shelf!"
+        },
+        {
+          "text": "Avant que les déménageurs ne vident la maison, j'ai sauvé cette boîte de l'étagère du grenier.",
+          "trans": "Before the movers cleared the house, I saved this box from the attic shelf."
+        }
+      ],
+      "related": [
+        {
+          "word": "armoire",
+          "gloss": "cupboard"
+        }
+      ]
+    },
+    "du": {
+      "lemma": "du",
+      "stress": "dy",
+      "pos": "det",
+      "gloss": "de + le; some",
+      "meanings": [
+        {
+          "en": "of the, from the",
+          "note": "Contraction of de + le. In la cause du décès it connects the cause with the death being discussed."
+        },
+        {
+          "en": "some",
+          "note": "for things you can't count; de la (feminine)"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "du (de l')",
+              "de la (de l')"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "des",
+              "des"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'est du compost.",
+          "trans": "It's compost."
+        },
+        {
+          "text": "Je veux du pain.",
+          "trans": "I want some bread."
+        }
+      ],
+      "related": [
+        {
+          "word": "du",
+          "gloss": "some"
+        }
+      ]
+    },
+    "haut": {
+      "lemma": "haut",
+      "stress": "o",
+      "pos": "adj",
+      "gloss": "high, tall",
+      "meanings": [
+        {
+          "en": "high, tall",
+          "note": "Aspirate h: no liaison (les hauts)."
+        },
+        {
+          "en": "high up (adverb)",
+          "note": "Haut placé = high-ranking, high up."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "haut",
+              "haute"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "hauts",
+              "hautes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Une haute montagne.",
+          "trans": "A high mountain."
+        },
+        {
+          "text": "Le papier doré sur l'étagère du haut. Pourquoi?",
+          "trans": "The gold wrapper on the top shelf. Why?"
+        }
+      ],
+      "related": [
+        {
+          "word": "haut-parleur",
+          "gloss": "loudspeaker"
+        },
+        {
+          "word": "hauteur",
+          "gloss": "height"
+        }
+      ]
+    },
+    "pourquoi": {
+      "lemma": "pourquoi",
+      "stress": "puʁkwa",
+      "pos": "adv",
+      "gloss": "why",
+      "meanings": [
+        {
+          "en": "why",
+          "note": "in questions and after verbs like comprendre, savoir"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pourquoi est-ce que tu ne m'as rien dit hier?",
+          "trans": "Why didn't you tell me anything yesterday?"
+        },
+        {
+          "text": "Je comprends enfin pourquoi elle a refusé ce film.",
+          "trans": "I finally understand why she turned down that film."
+        }
+      ],
+      "related": [
+        {
+          "word": "pour",
+          "gloss": "for"
+        },
+        {
+          "word": "pour cent",
+          "gloss": "percent"
+        },
+        {
+          "word": "pour de vrai",
+          "gloss": "for real"
+        }
+      ]
+    },
+    "demi-sel": {
+      "lemma": "demi-sel",
+      "stress": "dəmisɛl",
+      "pos": "adj",
+      "gloss": "lightly salted",
+      "meanings": [
+        {
+          "en": "lightly salted",
+          "note": "Invariable adjective: du beurre demi-sel."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "demi-sel",
+              "demi-sel"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "demi-sel",
+              "demi-sel"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'est du beurre demi-sel! Mes petits pains sucrés ont besoin de beurre doux!",
+          "trans": "That is salted butter! My sweet rolls need unsalted butter!"
+        },
+        {
+          "text": "Cet endroit est vraiment demi-sel.",
+          "trans": "This place is really lightly salted."
+        }
+      ],
+      "related": [
+        {
+          "word": "salé",
+          "gloss": "salted"
+        },
+        {
+          "word": "beurre",
+          "gloss": "butter"
+        }
+      ]
+    },
+    "mon": {
+      "lemma": "mon",
+      "stress": "mɔ̃",
+      "pos": "det",
+      "gloss": "my",
+      "meanings": [
+        {
+          "en": "my",
+          "note": "Ma before a feminine noun; mon before a feminine noun beginning with a vowel sound or mute h."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "mon",
+              "ma"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "mes",
+              "mes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je suis à mon cours.",
+          "trans": "I'm at my lesson."
+        },
+        {
+          "text": "C'est ma place.",
+          "trans": "It's my seat."
+        }
+      ],
+      "related": [
+        {
+          "word": "mon",
+          "gloss": "my"
+        }
+      ]
+    },
+    "petit": {
+      "lemma": "petit",
+      "stress": "pəti",
+      "pos": "adj",
+      "gloss": "small, little",
+      "meanings": [
+        {
+          "en": "small, little",
+          "note": "Affectionate, a bit condescending."
+        },
+        {
+          "en": "a little, a bit of (affectionate)",
+          "note": "Un petit cours."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "petit",
+              "petite"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "petits",
+              "petites"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "J'ai un petit loft.",
+          "trans": "I've got a little loft."
+        },
+        {
+          "text": "C'est une petite agence.",
+          "trans": "It's a small agency."
+        }
+      ],
+      "related": [
+        {
+          "word": "petit-déjeuner",
+          "gloss": "morning meal"
+        },
+        {
+          "word": "petit-bourgeois",
+          "gloss": "petty-bourgeois"
+        },
+        {
+          "word": "petit-fils",
+          "gloss": "grandson"
+        }
+      ]
+    },
+    "pain": {
+      "lemma": "pain",
+      "stress": "pɛ̃",
+      "pos": "noun",
+      "gloss": "bread; roll ('petit pain')",
+      "meanings": [
+        {
+          "en": "bread; roll ('petit pain')",
+          "note": "Un petit pain = a bread roll."
+        }
+      ],
+      "gender": "m",
+      "plural": "pains",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le pain",
+              "les pains"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ce sont les petits pains du matin! Prends-en un pendant qu'il est chaud.",
+          "trans": "They are the morning rolls! Take one while it is warm."
+        },
+        {
+          "text": "Parce que le bon café et le pain chaud rendent les gens sympas!",
+          "trans": "Because good coffee and warm bread make people friendly!"
+        },
+        {
+          "text": "Mon pain est déjà dans le four, au moins.",
+          "trans": "My bread is already in the oven, at least."
+        }
+      ],
+      "related": [
+        {
+          "word": "beurre",
+          "gloss": "butter"
+        },
+        {
+          "word": "brioche",
+          "gloss": "brioche"
+        }
+      ]
+    },
+    "sucré": {
+      "lemma": "sucré",
+      "stress": "sykʁe",
+      "pos": "adj",
+      "gloss": "sweet, sugared",
+      "meanings": [
+        {
+          "en": "sweet, sugared",
+          "note": "Built from sucre ('sugar')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "sucré",
+              "sucrée"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "sucrés",
+              "sucrées"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'est du beurre demi-sel! Mes petits pains sucrés ont besoin de beurre doux!",
+          "trans": "That is salted butter! My sweet rolls need unsalted butter!"
+        },
+        {
+          "text": "Cet endroit est vraiment sucré.",
+          "trans": "This place is really sweet, sugared."
+        }
+      ],
+      "related": [
+        {
+          "word": "sucre",
+          "gloss": "sugar"
+        },
+        {
+          "word": "salé",
+          "gloss": "salted"
+        }
+      ]
+    },
+    "besoin": {
+      "lemma": "besoin",
+      "stress": "bəzwɛ̃",
+      "pos": "noun",
+      "gloss": "need",
+      "gender": "m",
+      "plural": "besoins",
+      "meanings": [
+        {
+          "en": "need",
+          "note": "Avoir besoin de = to need."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "un besoin",
+              "des besoins"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "J'ai besoin d'un petit cours.",
+          "trans": "I need a little lesson."
+        },
+        {
+          "text": "Tu as besoin d'aide?",
+          "trans": "Do you need help?"
+        }
+      ],
+      "related": [
+        {
+          "word": "avoir besoin de",
+          "gloss": "to need"
+        }
+      ]
+    },
+    "doux": {
+      "lemma": "doux",
+      "stress": "du",
+      "pos": "adj",
+      "gloss": "sweet, gentle, soft",
+      "meanings": [
+        {
+          "en": "sweet, gentle, soft, mild",
+          "note": "Sois douce = be gentle. Descriptive French adjective meaning 'sweet'; agrees in gender and number with the noun it modifies."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "doux",
+              "douce"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "doux",
+              "douces"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Une voix douce.",
+          "trans": "A soft voice."
+        },
+        {
+          "text": "Et regardez, ce gilet doux en laine est propre et neuf. Essayez-le.",
+          "trans": "And look, this soft wool cardigan is clean and new. Try it on."
+        },
+        {
+          "text": "Et j'ai deux oreillers doux et un tapis bleu tissé dans la réserve!",
+          "trans": "And I have two soft pillows and a woven blue rug in the storeroom!"
+        }
+      ],
+      "related": [
+        {
+          "word": "sois douce",
+          "gloss": "be gentle"
+        }
+      ]
+    },
+    "oh": {
+      "lemma": "oh",
+      "stress": "o",
+      "pos": "interj",
+      "gloss": "oh (surprise, dismay)",
+      "meanings": [
+        {
+          "en": "oh",
+          "note": "Surprise or dismay."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh non!",
+          "trans": "Oh no!"
+        },
+        {
+          "text": "Oh, merci!",
+          "trans": "Oh, thank you!"
+        }
+      ],
+      "related": [
+        {
+          "word": "oh",
+          "gloss": "oh"
+        }
+      ]
+    },
+    "non": {
+      "lemma": "non",
+      "stress": "nɔ̃",
+      "pos": "adv",
+      "gloss": "no",
+      "meanings": [
+        {
+          "en": "no",
+          "note": "at the end of a sentence: super, non?"
+        },
+        {
+          "en": "..., non? = ..., don't you? / isn't it?",
+          "note": "Tag at the end of a question."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vous savez monter, non?",
+          "trans": "You can ride, can't you?"
+        },
+        {
+          "text": "Non, soulevez d'abord la poignée, puis poussez.",
+          "trans": "No, lift the handle first, then push."
+        }
+      ],
+      "related": [
+        {
+          "word": "oui",
+          "gloss": "yes"
+        },
+        {
+          "word": "non plus",
+          "gloss": "neither, either"
+        }
+      ]
+    },
+    "paquet": {
+      "lemma": "paquet",
+      "stress": "pakɛ",
+      "pos": "noun",
+      "gloss": "parcel, package, pack",
+      "meanings": [
+        {
+          "en": "parcel, package, pack",
+          "note": "Wrapped parcel or packet."
+        }
+      ],
+      "gender": "m",
+      "plural": "paquets",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le paquet",
+              "les paquets"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh non! Tous les paquets se ressemblaient quand je courais!",
+          "trans": "Oh no! All the packets looked alike when I was running!"
+        },
+        {
+          "text": "Monsieur? Il dit: N'ouvrez pas le paquet en papier blanc. Je viens vendredi à midi.",
+          "trans": "Sir? He says: Do not open the white paper parcel. I am coming Friday at noon."
+        },
+        {
+          "text": "Même après que vous nous ayez appelés mardi à propos du colis blanc!",
+          "trans": "Even after you called us on Tuesday about the white parcel!"
+        }
+      ],
+      "related": [
+        {
+          "word": "papier",
+          "gloss": "paper"
+        }
+      ]
+    },
+    "se": {
+      "lemma": "se",
+      "stress": "sə",
+      "pos": "pron",
+      "gloss": "himself; herself; itself; themselves",
+      "meanings": [
+        {
+          "en": "himself; herself; itself; themselves",
+          "note": "Reflexive clitic used with third-person subjects; s' before a suitable vowel sound."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Il se réveille.",
+          "trans": "He wakes up."
+        },
+        {
+          "text": "Elle se prépare.",
+          "trans": "She gets ready."
+        }
+      ],
+      "related": []
     },
     "ressembler": {
       "lemma": "ressembler",
@@ -7557,76 +7341,75 @@
         }
       ]
     },
-    "salé": {
-      "lemma": "salé",
-      "stress": "sale",
-      "pos": "adj",
-      "gloss": "salted, savoury",
+    "quand": {
+      "lemma": "quand",
+      "stress": "kɑ̃",
+      "pos": "adv",
+      "gloss": "when",
       "meanings": [
         {
-          "en": "salted, savoury",
-          "note": "Beurre salé = salted butter; opposite of doux / sucré."
+          "en": "when",
+          "note": "Question word or conjunction."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "salé",
-              "salée"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "salés",
-              "salées"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "On peut servir du beurre salé avec de la confiture de fraises?",
-          "trans": "Can we serve salted butter with strawberry jam?"
+          "text": "Vous serez là quand?",
+          "trans": "When will you be here?"
         },
         {
-          "text": "Attendez: le beurre salé est mauvais pour la confiture, mais génial pour les œufs brouillés!",
-          "trans": "Wait: salted butter is bad for jam, but amazing for scrambled eggs!"
-        },
-        {
-          "text": "Claire a acheté du beurre salé, alors ce matin on fait de bons œufs brouillés!",
-          "trans": "Claire bought salted butter, so this morning we are making good scrambled eggs!"
+          "text": "Quand tu veux.",
+          "trans": "Whenever you like."
         }
       ],
       "related": [
         {
-          "word": "demi-sel",
-          "gloss": "lightly salted"
-        },
-        {
-          "word": "sucré",
-          "gloss": "sweet"
+          "word": "quand même",
+          "gloss": "still"
         }
       ]
     },
-    "sauver": {
-      "lemma": "sauver",
-      "stress": "sove",
-      "pos": "verb",
-      "gloss": "to save, rescue",
+    "je": {
+      "lemma": "je",
+      "stress": "ʒə",
+      "pos": "pron",
+      "gloss": "I",
       "meanings": [
         {
-          "en": "to save, rescue",
-          "note": ""
+          "en": "I",
+          "note": "J' before a vowel."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "J'ai un loft.",
+          "trans": "I've got a loft."
+        },
+        {
+          "text": "Je n'ai jamais vu cette boîte en quinze ans!",
+          "trans": "I have never seen that box in fifteen years!"
+        }
+      ],
+      "related": [
+        {
+          "word": "je",
+          "gloss": "I"
+        }
+      ]
+    },
+    "courir": {
+      "lemma": "courir",
+      "stress": "kuʁiʁ",
+      "pos": "verb",
+      "gloss": "to run",
+      "meanings": [
+        {
+          "en": "to run",
+          "note": "Run; past participle couru."
         }
       ],
       "forms": {
@@ -7640,22 +7423,22 @@
           {
             "cells": [
               "1st",
-              "je sauve",
-              "nous sauvons"
+              "je cours",
+              "nous courons"
             ]
           },
           {
             "cells": [
               "2nd",
-              "tu sauves",
-              "vous sauvez"
+              "tu cours",
+              "vous courez"
             ]
           },
           {
             "cells": [
               "3rd",
-              "il/elle sauve",
-              "ils/elles sauvent"
+              "il court",
+              "ils courent"
             ]
           }
         ]
@@ -7672,22 +7455,22 @@
             {
               "cells": [
                 "1st",
-                "j'ai sauvé",
-                "nous avons sauvé"
+                "j'ai couru",
+                "nous avons couru"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu as sauvé",
-                "vous avez sauvé"
+                "tu as couru",
+                "vous avez couru"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle a sauvé",
-                "ils/elles ont sauvé"
+                "il a couru",
+                "ils ont couru"
               ]
             }
           ]
@@ -7703,22 +7486,22 @@
             {
               "cells": [
                 "1st",
-                "je sauvais",
-                "nous sauvions"
+                "je courais",
+                "nous courions"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu sauvais",
-                "vous sauviez"
+                "tu courais",
+                "vous couriez"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle sauvait",
-                "ils/elles sauvaient"
+                "il courait",
+                "ils couraient"
               ]
             }
           ]
@@ -7734,22 +7517,22 @@
             {
               "cells": [
                 "1st",
-                "je sauverai",
-                "nous sauverons"
+                "je courrai",
+                "nous courrons"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu sauveras",
-                "vous sauverez"
+                "tu courras",
+                "vous courrez"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle sauvera",
-                "ils/elles sauveront"
+                "il courra",
+                "ils courront"
               ]
             }
           ]
@@ -7757,73 +7540,75 @@
       ],
       "examples": [
         {
-          "text": "Il a sauvé le contrat.",
-          "trans": "He saved the contract."
+          "text": "J'ai couru dans le cimetière.",
+          "trans": "I ran in the cemetery."
         },
         {
-          "text": "Tu m'as sauvé!",
-          "trans": "You saved me!"
+          "text": "Il court vite.",
+          "trans": "He runs fast."
+        },
+        {
+          "text": "Oh non! Tous les paquets se ressemblaient quand je courais!",
+          "trans": "Oh no! All the packets looked alike when I was running!"
         }
       ],
-      "related": [
-        {
-          "word": "sauvage",
-          "gloss": "savage"
-        },
-        {
-          "word": "sauver la mise",
-          "gloss": "save the day"
-        },
-        {
-          "word": "sauveur",
-          "gloss": "savior"
-        }
-      ]
+      "related": []
     },
-    "se": {
-      "lemma": "se",
-      "stress": "sə",
+    "on": {
+      "lemma": "on",
+      "stress": "ɔ̃",
       "pos": "pron",
-      "gloss": "himself; herself; itself; themselves",
+      "gloss": "we; one, people",
       "meanings": [
         {
-          "en": "himself; herself; itself; themselves",
-          "note": "Reflexive clitic used with third-person subjects; s' before a suitable vowel sound."
+          "en": "we",
+          "note": "everyday speech, with a he/she verb form"
+        },
+        {
+          "en": "one, people",
+          "note": "General."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Il se réveille.",
-          "trans": "He wakes up."
+          "text": "Dans le tiroir. Ici, on utilise ce grand cahier en papier et un crayon.",
+          "trans": "In the drawer. Here we use this big paper notebook and a pencil."
         },
         {
-          "text": "Elle se prépare.",
-          "trans": "She gets ready."
+          "text": "Merci! On se tutoie ici?",
+          "trans": "Thank you! Do we use casual 'you' here?"
+        },
+        {
+          "text": "Asseyez-vous, madame. Ne vous inquiétez pas, on va regarder l'étiquette tout de suite.",
+          "trans": "Please sit down, madam. Do not worry, we will check the tag right now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "on",
+          "gloss": "we"
+        }
+      ]
     },
-    "seconde": {
-      "lemma": "seconde",
-      "stress": "səɡɔ̃d",
-      "pos": "noun",
-      "gloss": "second (time)",
-      "gender": "f",
-      "plural": "secondes",
+    "pouvoir": {
+      "lemma": "pouvoir",
+      "stress": "puvwaʁ",
+      "pos": "verb",
+      "gloss": "can, to be able to",
       "meanings": [
         {
-          "en": "second (unit of time)",
-          "note": "A second, the unit of time; the c sounds like g."
+          "en": "can, to be able to",
+          "note": "+ infinitive."
         },
         {
-          "en": "une seconde!: just a second!",
-          "note": "As an adjective, feminine form of second."
+          "en": "could (polite)",
+          "note": "conditional: tu pourrais, vous pourriez"
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -7832,29 +7617,138 @@
         "rows": [
           {
             "cells": [
-              "form",
-              "la seconde",
-              "les secondes"
+              "1st",
+              "je peux",
+              "nous pouvons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu peux",
+              "vous pouvez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle peut",
+              "ils/elles peuvent"
             ]
           }
         ]
       },
-      "moreForms": [],
-      "examples": [
+      "moreForms": [
         {
-          "text": "En deux secondes.",
-          "trans": "In two seconds."
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai pu",
+                "nous avons pu"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as pu",
+                "vous avez pu"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a pu",
+                "ils/elles ont pu"
+              ]
+            }
+          ]
         },
         {
-          "text": "Une seconde, s'il vous plaît.",
-          "trans": "One second, please."
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je pouvais",
+                "nous pouvions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu pouvais",
+                "vous pouviez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle pouvait",
+                "ils/elles pouvaient"
+              ]
+            }
+          ]
         },
         {
-          "text": "Écouter le son de la pièce... attendez une seconde!",
-          "trans": "Listening to the sound of the room... wait a second!"
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je pourrai",
+                "nous pourrons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu pourras",
+                "vous pourrez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle pourra",
+                "ils/elles pourront"
+              ]
+            }
+          ]
         }
       ],
-      "related": []
+      "examples": [
+        {
+          "text": "Je ne peux pas venir.",
+          "trans": "I can't come."
+        },
+        {
+          "text": "Vous pouvez faire l'aller-retour en dix minutes?",
+          "trans": "Can you run there and back in ten minutes?"
+        }
+      ],
+      "related": [
+        {
+          "word": "pu",
+          "gloss": "past participle of 'pouvoir' (can)"
+        }
+      ]
     },
     "servir": {
       "lemma": "servir",
@@ -8018,15 +7912,15 @@
         }
       ]
     },
-    "sucré": {
-      "lemma": "sucré",
-      "stress": "sykʁe",
+    "salé": {
+      "lemma": "salé",
+      "stress": "sale",
       "pos": "adj",
-      "gloss": "sweet, sugared",
+      "gloss": "salted, savoury",
       "meanings": [
         {
-          "en": "sweet, sugared",
-          "note": "Built from sucre ('sugar')."
+          "en": "salted, savoury",
+          "note": "Beurre salé = salted butter; opposite of doux / sucré."
         }
       ],
       "forms": {
@@ -8040,15 +7934,15 @@
           {
             "cells": [
               "sg",
-              "sucré",
-              "sucrée"
+              "salé",
+              "salée"
             ]
           },
           {
             "cells": [
               "pl",
-              "sucrés",
-              "sucrées"
+              "salés",
+              "salées"
             ]
           }
         ]
@@ -8056,119 +7950,37 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "C'est du beurre demi-sel! Mes petits pains sucrés ont besoin de beurre doux!",
-          "trans": "That is salted butter! My sweet rolls need unsalted butter!"
+          "text": "On peut servir du beurre salé avec de la confiture de fraises?",
+          "trans": "Can we serve salted butter with strawberry jam?"
         },
         {
-          "text": "Cet endroit est vraiment sucré.",
-          "trans": "This place is really sweet, sugared."
+          "text": "Attendez: le beurre salé est mauvais pour la confiture, mais génial pour les œufs brouillés!",
+          "trans": "Wait: salted butter is bad for jam, but amazing for scrambled eggs!"
+        },
+        {
+          "text": "Claire a acheté du beurre salé, alors ce matin on fait de bons œufs brouillés!",
+          "trans": "Claire bought salted butter, so this morning we are making good scrambled eggs!"
         }
       ],
       "related": [
         {
-          "word": "sucre",
-          "gloss": "sugar"
+          "word": "demi-sel",
+          "gloss": "lightly salted"
         },
         {
-          "word": "salé",
-          "gloss": "salted"
+          "word": "sucré",
+          "gloss": "sweet"
         }
       ]
     },
-    "sur": {
-      "lemma": "sur",
-      "stress": "syʁ",
+    "avec": {
+      "lemma": "avec",
+      "stress": "avɛk",
       "pos": "prep",
-      "gloss": "on, onto",
+      "gloss": "with",
       "meanings": [
         {
-          "en": "on, onto",
-          "note": "Sur la table, sur la route."
-        },
-        {
-          "en": "on (a device)",
-          "note": "Sur haut-parleur = on speaker."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Le livre est sur la table.",
-          "trans": "The book is on the table."
-        },
-        {
-          "text": "Tu es sur haut-parleur.",
-          "trans": "You're on speaker."
-        }
-      ],
-      "related": [
-        {
-          "word": "sur",
-          "gloss": "on"
-        }
-      ]
-    },
-    "ticket": {
-      "lemma": "ticket",
-      "stress": "tikɛ",
-      "pos": "noun",
-      "gloss": "receipt; bus/metro ticket",
-      "meanings": [
-        {
-          "en": "receipt; bus/metro ticket",
-          "note": "Ticket de caisse = shop receipt."
-        }
-      ],
-      "gender": "m",
-      "plural": "tickets",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le ticket",
-              "les tickets"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Non, seulement mon stylo et trois vieux tickets!",
-          "trans": "No, only my pen and three old receipts!"
-        },
-        {
-          "text": "Voici cinquante euros de la caisse. Rapportez le ticket!",
-          "trans": "Here is fifty euros from the cash box. Bring back the receipt!"
-        },
-        {
-          "text": "Quelle vitesse! L'épicier vous a donné un ticket?",
-          "trans": "What speed! Did the grocer give you a receipt?"
-        }
-      ],
-      "related": [
-        {
-          "word": "caisse",
-          "gloss": "till"
-        }
-      ]
-    },
-    "tout": {
-      "lemma": "tout",
-      "stress": "tu",
-      "pos": "det",
-      "gloss": "all; every",
-      "meanings": [
-        {
-          "en": "all; every",
+          "en": "with",
           "note": ""
         }
       ],
@@ -8176,93 +7988,142 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Tout va bien.",
-          "trans": "Everything is going well."
+          "text": "Tu déjeunes avec Audiard.",
+          "trans": "You're having lunch with Audiard."
         },
         {
-          "text": "Madame Odette, tout va bien? Vous avez sonné!",
-          "trans": "Madam Odette, is everything alright? You rang the bell!"
-        }
-      ],
-      "related": []
-    },
-    "trente-huit": {
-      "lemma": "trente-huit",
-      "stress": "tʁɑ̃tɥit",
-      "pos": "num",
-      "gloss": "thirty-eight",
-      "meanings": [
-        {
-          "en": "thirty-eight",
-          "note": "Compound number 30 + 8."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Juste ici! Tout a coûté trente-huit euros, alors voici douze euros de monnaie.",
-          "trans": "Right here! Everything cost thirty-eight euros, so here is twelve euros in change."
-        },
-        {
-          "text": "Tout a coûté trente-huit euros, alors voici douze euros de monnaie.",
-          "trans": "Everything cost thirty-eight euros, so here is twelve euros in change."
+          "text": "Avec plaisir!",
+          "trans": "With pleasure!"
         }
       ],
       "related": [
         {
-          "word": "trente",
-          "gloss": "thirty"
-        },
-        {
-          "word": "huit",
-          "gloss": "eight"
+          "word": "avec",
+          "gloss": "with"
         }
       ]
     },
-    "tu": {
-      "lemma": "tu",
-      "stress": "ty",
-      "pos": "pron",
-      "gloss": "you (casual)",
+    "confiture": {
+      "lemma": "confiture",
+      "stress": "kɔ̃fityʁ",
+      "pos": "noun",
+      "gloss": "jam, preserve",
       "meanings": [
         {
-          "en": "you",
-          "note": "one person you know well: friends, family, close colleagues"
+          "en": "jam, preserve",
+          "note": "Confiture de fraises / de pommes."
         }
       ],
-      "forms": null,
+      "gender": "f",
+      "plural": "confitures",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la confiture",
+              "les confitures"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Tu es pénible.",
-          "trans": "You're a pain."
+          "text": "On peut servir du beurre salé avec de la confiture de fraises?",
+          "trans": "Can we serve salted butter with strawberry jam?"
         },
         {
-          "text": "Tu es en vacances?",
-          "trans": "Are you on holiday?"
+          "text": "Attendez: le beurre salé est mauvais pour la confiture, mais génial pour les œufs brouillés!",
+          "trans": "Wait: salted butter is bad for jam, but amazing for scrambled eggs!"
+        },
+        {
+          "text": "Excellent choix! Vous voulez du miel ou de la confiture de pommes à côté?",
+          "trans": "Wonderful choice! Would you like honey or apple jam on the side?"
         }
       ],
       "related": [
         {
-          "word": "vous",
-          "gloss": "you (polite or plural)"
+          "word": "beurre",
+          "gloss": "butter"
+        },
+        {
+          "word": "miel",
+          "gloss": "honey"
         }
       ]
     },
-    "un": {
-      "lemma": "un",
-      "stress": "œ̃",
-      "pos": "det",
-      "gloss": "a, an; one",
+    "fraise": {
+      "lemma": "fraise",
+      "stress": "fʁɛz",
+      "pos": "noun",
+      "gloss": "strawberry",
+      "gender": "f",
+      "plural": "fraises",
       "meanings": [
         {
-          "en": "a, an",
-          "note": "indefinite article; des in the plural"
+          "en": "strawberry, fresh fruit",
+          "note": "Feminine noun ('la fraise', plural 'les fraises') inherited through Romance vocabulary, used in everyday and professional French for 'strawberry'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la fraise",
+              "les fraises"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ces belles fraises sont délicieuses.",
+          "trans": "These lovely strawberries are delicious."
         },
         {
-          "en": "one",
-          "note": "Number; l'un = one of them."
+          "text": "Manger des fraises.",
+          "trans": "To eat strawberries."
+        },
+        {
+          "text": "On peut servir du beurre salé avec de la confiture de fraises?",
+          "trans": "Can we serve salted butter with strawberry jam?"
+        }
+      ],
+      "related": [
+        {
+          "word": "frais",
+          "gloss": "expenses"
+        }
+      ]
+    },
+    "mauvais": {
+      "lemma": "mauvais",
+      "stress": "movɛ",
+      "pos": "adj",
+      "gloss": "bad",
+      "meanings": [
+        {
+          "en": "bad",
+          "note": "usually before the noun: une mauvaise nouvelle"
+        },
+        {
+          "en": "poor (at something)",
+          "note": "Être mauvais en sport."
         }
       ],
       "forms": {
@@ -8276,15 +8137,15 @@
           {
             "cells": [
               "sg",
-              "un",
-              "une"
+              "mauvais",
+              "mauvaise"
             ]
           },
           {
             "cells": [
               "pl",
-              "des",
-              "des"
+              "mauvais",
+              "mauvaises"
             ]
           }
         ]
@@ -8292,213 +8153,90 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Et voilà la cloche du portail. Un coup franc.",
-          "trans": "There goes the gate bell. One firm ring."
+          "text": "C'est une mauvaise idée.",
+          "trans": "It's a bad idea."
         },
         {
-          "text": "Voilà un taxi devant le portail à l'instant.",
-          "trans": "Here comes a taxi in front of the gate right now."
+          "text": "Je suis mauvaise en maths.",
+          "trans": "I'm bad at maths."
         }
       ],
       "related": [
         {
-          "word": "un",
-          "gloss": "a"
+          "word": "très mauvais",
+          "gloss": "very bad"
+        },
+        {
+          "word": "plus mauvais",
+          "gloss": "more bad"
         }
       ]
     },
-    "vitesse": {
-      "lemma": "vitesse",
-      "stress": "vitɛs",
-      "pos": "noun",
-      "gloss": "speed",
-      "gender": "f",
-      "plural": "vitesses",
+    "mais": {
+      "lemma": "mais",
+      "stress": "mɛ",
+      "pos": "conj",
+      "gloss": "but",
       "meanings": [
         {
-          "en": "speed, velocity, rate",
-          "note": "Feminine noun ('la vitesse', plural 'les vitesses') inherited through Romance vocabulary, used in everyday and professional French for 'speed'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la vitesse",
-              "les vitesses"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Quelle vitesse! L'épicier vous a donné un ticket?",
-          "trans": "What speed! Did the grocer give you a receipt?"
-        },
-        {
-          "text": "Il roulait à grande vitesse.",
-          "trans": "He was driving at high speed."
-        }
-      ],
-      "related": [
-        {
-          "word": "vite",
-          "gloss": "quickly"
-        },
-        {
-          "word": "vite fait",
-          "gloss": "quickly"
-        }
-      ]
-    },
-    "voici": {
-      "lemma": "voici",
-      "stress": "vwasi",
-      "pos": "adv",
-      "gloss": "here is, here are",
-      "meanings": [
-        {
-          "en": "here is, here are",
-          "note": "to present something or someone near you"
+          "en": "but",
+          "note": "Mais oui! = of course!."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "C'est vrai! Et voici les clés?",
-          "trans": "Fair enough! And here are the keys?"
+          "text": "L'extérieur est identique, oui! Mais regardez à l'intérieur!",
+          "trans": "The outside is identical, yes! But look inside!"
         },
         {
-          "text": "Voici votre clé, numéro quatre. Le petit-déjeuner est de sept heures trente à dix heures.",
-          "trans": "Here is your key, number four. Breakfast is from seven thirty to ten."
-        },
-        {
-          "text": "Voici cinquante euros de la caisse. Rapportez le ticket!",
-          "trans": "Here is fifty euros from the cash box. Bring back the receipt!"
+          "text": "Ce n'est pas votre faute. Mais je n'ai que le manteau sur mon dos!",
+          "trans": "It is not your fault. Still, I only have the coat on my back!"
         }
       ],
       "related": [
         {
-          "word": "voilà",
-          "gloss": "there is, here is"
-        },
-        {
-          "word": "ici",
-          "gloss": "here"
+          "word": "maison",
+          "gloss": "house"
         }
       ]
     },
-    "vous": {
-      "lemma": "vous",
-      "stress": "vu",
-      "pos": "pron",
-      "gloss": "you (polite or plural)",
+    "génial": {
+      "lemma": "génial",
+      "stress": "ʒenjal",
+      "pos": "adj",
+      "gloss": "brilliant, great",
       "meanings": [
         {
-          "en": "you (polite)",
-          "note": "One person, formal."
+          "en": "brilliant, great",
+          "note": "Informal praise."
         },
         {
-          "en": "you (plural)",
-          "note": "Several people."
-        },
-        {
-          "en": "you (object)",
-          "note": "je vous rappelle = I'll call you back"
+          "en": "of genius",
+          "note": ""
         }
       ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vous êtes où?",
-          "trans": "Where are you?"
-        },
-        {
-          "text": "Madame Odette, tout va bien? Vous avez sonné!",
-          "trans": "Madam Odette, is everything alright? You rang the bell!"
-        }
-      ],
-      "related": [
-        {
-          "word": "tu",
-          "gloss": "you (informal)"
-        }
-      ]
-    },
-    "à": {
-      "lemma": "à",
-      "stress": "a",
-      "pos": "prep",
-      "gloss": "at, in, to",
-      "meanings": [
-        {
-          "en": "at, in",
-          "note": "Place: à Paris, à mon cours."
-        },
-        {
-          "en": "at",
-          "note": "Time: à midi."
-        },
-        {
-          "en": "au = à + le, aux = à + les",
-          "note": "Contractions."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je suis à Paris.",
-          "trans": "I'm in Paris."
-        },
-        {
-          "text": "À quatorze heures.",
-          "trans": "At two pm."
-        }
-      ],
-      "related": [
-        {
-          "word": "à",
-          "gloss": "at"
-        }
-      ]
-    },
-    "épicier": {
-      "lemma": "épicier",
-      "stress": "episje",
-      "pos": "noun",
-      "gloss": "grocer",
-      "meanings": [
-        {
-          "en": "grocer",
-          "note": "Feminine: épicière."
-        }
-      ],
-      "gender": "m",
-      "plural": "épiciers",
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "sg",
-          "pl"
+          "m",
+          "f"
         ],
         "rows": [
           {
             "cells": [
-              "form",
-              "l'épicier",
-              "les épiciers"
+              "sg",
+              "génial",
+              "géniale"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "géniaux",
+              "géniales"
             ]
           }
         ]
@@ -8506,86 +8244,34 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Quelle vitesse! L'épicier vous a donné un ticket?",
-          "trans": "What speed! Did the grocer give you a receipt?"
+          "text": "C'est une idée géniale.",
+          "trans": "It's a brilliant idea."
         },
         {
-          "text": "Voici l'épicier sur la table.",
-          "trans": "Here is the grocer on the table."
+          "text": "Attendez: le beurre salé est mauvais pour la confiture, mais génial pour les œufs brouillés!",
+          "trans": "Wait: salted butter is bad for jam, but amazing for scrambled eggs!"
         }
       ],
       "related": [
         {
-          "word": "épicerie",
-          "gloss": "grocery shop"
+          "word": "génie",
+          "gloss": "genius"
         }
       ]
     },
-    "étagère": {
-      "lemma": "étagère",
-      "stress": "etaʒɛʁ",
-      "pos": "noun",
-      "gloss": "shelf",
-      "meanings": [
-        {
-          "en": "shelf",
-          "note": "Wall or cupboard shelf."
-        }
-      ],
-      "gender": "f",
-      "plural": "étagères",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'étagère",
-              "les étagères"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Le papier doré sur l'étagère du haut. Pourquoi?",
-          "trans": "The gold wrapper on the top shelf. Why?"
-        },
-        {
-          "text": "Il vient de mesurer avec l'ancienne: il lui en reste deux sur l'étagère!",
-          "trans": "He just measured it against the old one: he has two left on the shelf!"
-        },
-        {
-          "text": "Avant le départ des déménageurs rue des Tilleuls, j'ai sauvé ce paquet sur l'étagère du grenier.",
-          "trans": "Before the movers left Rue des Tilleuls, I saved this parcel from the attic shelf."
-        }
-      ],
-      "related": [
-        {
-          "word": "armoire",
-          "gloss": "cupboard"
-        }
-      ]
-    },
-    "être": {
-      "lemma": "être",
-      "stress": "ɛtʁ",
+    "brouiller": {
+      "lemma": "brouiller",
+      "stress": "bʁuje",
       "pos": "verb",
-      "gloss": "to be",
+      "gloss": "to mix up, fall out (se brouiller)",
       "meanings": [
         {
-          "en": "to be",
-          "note": "The most common verb."
+          "en": "to scramble, blur",
+          "note": "se brouiller avec qqn = to fall out with someone"
         },
         {
-          "en": "c'est = it is, this is",
-          "note": "Ce + est."
+          "en": "to fall out, quarrel (se brouiller avec)",
+          "note": "se brouiller avec qqn = to fall out with someone"
         }
       ],
       "forms": {
@@ -8599,22 +8285,22 @@
           {
             "cells": [
               "1st",
-              "je suis",
-              "nous sommes"
+              "je brouille",
+              "nous brouillons"
             ]
           },
           {
             "cells": [
               "2nd",
-              "tu es",
-              "vous êtes"
+              "tu brouilles",
+              "vous brouillez"
             ]
           },
           {
             "cells": [
               "3rd",
-              "il/elle est",
-              "ils/elles sont"
+              "il/elle brouille",
+              "ils/elles brouillent"
             ]
           }
         ]
@@ -8631,22 +8317,22 @@
             {
               "cells": [
                 "1st",
-                "j'ai été",
-                "nous avons été"
+                "j'ai brouillé",
+                "nous avons brouillé"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu as été",
-                "vous avez été"
+                "tu as brouillé",
+                "vous avez brouillé"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle a été",
-                "ils/elles ont été"
+                "il/elle a brouillé",
+                "ils/elles ont brouillé"
               ]
             }
           ]
@@ -8662,22 +8348,22 @@
             {
               "cells": [
                 "1st",
-                "j'étais",
-                "nous étions"
+                "je brouillais",
+                "nous brouillions"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu étais",
-                "vous étiez"
+                "tu brouillais",
+                "vous brouilliez"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle était",
-                "ils/elles étaient"
+                "il/elle brouillait",
+                "ils/elles brouillaient"
               ]
             }
           ]
@@ -8693,22 +8379,22 @@
             {
               "cells": [
                 "1st",
-                "je serai",
-                "nous serons"
+                "je brouillerai",
+                "nous brouillerons"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "tu seras",
-                "vous serez"
+                "tu brouilleras",
+                "vous brouillerez"
               ]
             },
             {
               "cells": [
                 "3rd",
-                "il/elle sera",
-                "ils/elles seront"
+                "il/elle brouillera",
+                "ils/elles brouilleront"
               ]
             }
           ]
@@ -8725,14 +8411,14 @@
               "cells": [
                 "1st",
                 "—",
-                "soyons"
+                "brouillons"
               ]
             },
             {
               "cells": [
                 "2nd",
-                "sois",
-                "soyez"
+                "brouille",
+                "brouillez"
               ]
             }
           ]
@@ -8740,36 +8426,63 @@
       ],
       "examples": [
         {
-          "text": "Je suis à Paris.",
-          "trans": "I'm in Paris."
+          "text": "Attendez: le beurre salé est mauvais pour la confiture, mais génial pour les œufs brouillés!",
+          "trans": "Wait: salted butter is bad for jam, but amazing for scrambled eggs!"
         },
         {
-          "text": "C'est important.",
-          "trans": "It's important."
+          "text": "Claire a acheté du beurre salé, alors ce matin on fait de bons œufs brouillés!",
+          "trans": "Claire bought salted butter, so this morning we are making good scrambled eggs!"
+        },
+        {
+          "text": "Les œufs brouillés sont délicieux, {F1}. Fais mes compliments à {F2}!",
+          "trans": "The scrambled eggs are delicious, {F1}. Tell {F2} my compliments!"
         }
       ],
       "related": [
         {
-          "word": "un être",
-          "gloss": "a being, person"
-        },
-        {
-          "word": "peut-être",
-          "gloss": "maybe, perhaps"
+          "word": "brouillon",
+          "gloss": "draft"
         }
       ]
     },
-    "œuf": {
-      "lemma": "œuf",
-      "stress": "œf",
-      "pos": "noun",
-      "gloss": "egg",
-      "gender": "m",
-      "plural": "œufs",
+    "ouf": {
+      "lemma": "ouf",
+      "stress": "uf",
+      "pos": "interj",
+      "gloss": "phew",
       "meanings": [
         {
-          "en": "egg",
-          "note": "Plural pronounced /ø/. Masculine noun ('le œuf', plural 'les œufs') inherited through Romance vocabulary, used in everyday and professional French for 'egg'."
+          "en": "phew (relief)",
+          "note": "Exclamation of relief, phew."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ouf! C'est fini.",
+          "trans": "Phew! It's over."
+        },
+        {
+          "text": "Ouf, merci!",
+          "trans": "Phew, thanks!"
+        },
+        {
+          "text": "Ouf! Une bonne idée sauve encore le petit-déjeuner.",
+          "trans": "Phew! A good idea saves breakfast again."
+        }
+      ],
+      "related": []
+    },
+    "idée": {
+      "lemma": "idée",
+      "stress": "ide",
+      "pos": "noun",
+      "gloss": "idea",
+      "meanings": [
+        {
+          "en": "idea",
+          "note": ""
         }
       ],
       "forms": {
@@ -8783,8 +8496,8 @@
           {
             "cells": [
               "form",
-              "un œuf",
-              "des œufs"
+              "l'idée",
+              "les idées"
             ]
           }
         ]
@@ -8792,18 +8505,305 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Un œuf d'or.",
-          "trans": "A golden egg."
+          "text": "C'était mon idée.",
+          "trans": "It was my idea."
         },
         {
-          "text": "Neuf minutes! Voici le lait, les œufs et les pommes!",
-          "trans": "Nine minutes! Here are the milk, the eggs, and the apples!"
+          "text": "J'ai une idée.",
+          "trans": "I have an idea."
+        }
+      ],
+      "related": [],
+      "gender": "f",
+      "plural": "idées"
+    },
+    "sauver": {
+      "lemma": "sauver",
+      "stress": "sove",
+      "pos": "verb",
+      "gloss": "to save, rescue",
+      "meanings": [
+        {
+          "en": "to save, rescue",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je sauve",
+              "nous sauvons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu sauves",
+              "vous sauvez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle sauve",
+              "ils/elles sauvent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai sauvé",
+                "nous avons sauvé"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as sauvé",
+                "vous avez sauvé"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a sauvé",
+                "ils/elles ont sauvé"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je sauvais",
+                "nous sauvions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu sauvais",
+                "vous sauviez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle sauvait",
+                "ils/elles sauvaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je sauverai",
+                "nous sauverons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu sauveras",
+                "vous sauverez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle sauvera",
+                "ils/elles sauveront"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Il a sauvé le contrat.",
+          "trans": "He saved the contract."
+        },
+        {
+          "text": "Tu m'as sauvé!",
+          "trans": "You saved me!"
         }
       ],
       "related": [
         {
-          "word": "un œuf / des œufs",
-          "gloss": "a egg / eggs"
+          "word": "sauvage",
+          "gloss": "savage"
+        },
+        {
+          "word": "sauver la mise",
+          "gloss": "save the day"
+        },
+        {
+          "word": "sauveur",
+          "gloss": "savior"
+        }
+      ]
+    },
+    "encore": {
+      "lemma": "encore",
+      "stress": "ɑ̃kɔʁ",
+      "pos": "adv",
+      "gloss": "still; again",
+      "meanings": [
+        {
+          "en": "still",
+          "note": "j'ai encore un agent? = do I still have an agent?"
+        },
+        {
+          "en": "again; more",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Encore un café?",
+          "trans": "Another coffee?"
+        },
+        {
+          "text": "Ouf! Une bonne idée sauve encore le petit-déjeuner.",
+          "trans": "Phew! A good idea saves breakfast again."
+        }
+      ],
+      "related": [
+        {
+          "word": "encourager",
+          "gloss": "to encourage"
+        }
+      ]
+    },
+    "petit-déjeuner": {
+      "lemma": "petit-déjeuner",
+      "stress": "pətididʒøn",
+      "pos": "noun",
+      "gloss": "morning meal, breakfast",
+      "gender": "m",
+      "plural": "petits-déjeuners",
+      "meanings": [
+        {
+          "en": "breakfast",
+          "note": "Masculine noun ('le petit-déjeuner', plural 'les petits-déjeuners') inherited through Romance vocabulary, used in everyday and professional French for 'morning meal'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "petit-déjeuner",
+              "petits-déjeuners"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je prends toujours un café au petit-déjeuner.",
+          "trans": "I always have a coffee at breakfast."
+        },
+        {
+          "text": "On a organisé un petit-déjeuner avec le réalisateur.",
+          "trans": "We organized a breakfast meeting with the director."
+        },
+        {
+          "text": "Bonne nuit, Claire. À demain au petit-déjeuner.",
+          "trans": "Good night, Claire. See you tomorrow at breakfast."
+        }
+      ],
+      "related": [
+        {
+          "word": "petit",
+          "gloss": "small"
+        },
+        {
+          "word": "petit-bourgeois",
+          "gloss": "petty-bourgeois"
+        },
+        {
+          "word": "petit-fils",
+          "gloss": "grandson"
+        }
+      ]
+    },
+    "bientôt": {
+      "lemma": "bientôt",
+      "stress": "bjɛ̃to",
+      "pos": "adv",
+      "gloss": "soon",
+      "meanings": [
+        {
+          "en": "soon",
+          "note": "À bientôt = see you soon."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "À bientôt!",
+          "trans": "See you soon!"
+        },
+        {
+          "text": "Il arrive bientôt.",
+          "trans": "He's arriving soon."
+        }
+      ],
+      "related": [
+        {
+          "word": "bien",
+          "gloss": "well"
+        },
+        {
+          "word": "bien sûr",
+          "gloss": "of course"
         }
       ]
     }

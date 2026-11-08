@@ -47,8 +47,8 @@ STORY = [('etienne',
   'Après avoir gardé sa valise bleue toute la semaine? Il voudra sûrement nous aider!',
   'After guarding his blue suitcase all week? He will surely want to help us!'),
  ('henri',
-  "Attendez: voilà Nadia qui revient de leur table à l'instant.",
-  'Wait: here comes Nadia back from their table right now.')]
+  'Attendez — Léa apporte le gâteau à leur table en ce moment même.',
+  'Wait—Léa is taking the cake out to their table right now.')]
 WALK = [(2,
   "Tout à l'heure, j'ai vu une deuxième page attachée derrière le courrier.",
   "'Earlier, I spotted a second page clipped behind the letter.' Neat quirk in French: the exact "

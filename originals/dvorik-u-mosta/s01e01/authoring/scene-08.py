@@ -15,8 +15,8 @@ OUTRO = "Larisa's suitcase is back, yet the mystery stranger vanished into the n
 CLOSING = ('matvey', 'Спокойной ночи!')
 STORY = [
     ('kira', 'Матвей, вы слышали? Кто-то только что позвонил у ворот!', 'Matvey, did you hear that? Someone just rang at the gate!'),
-    ('matvey', 'В девять вечера? Стой здесь, давай откроем дверь вместе.', 'At nine in the evening? Stay here, let us open the door together.'),
-    ('kira', 'Алло? Добрый вечер! Во дворе никто не стоит!', 'Hello? Good evening! Nobody is standing in the courtyard!'),
+    ('matvey', 'В девять вечера? Подожди, давай откроем ворота вместе.', 'At nine in the evening? Wait, let us open the gate together.'),
+    ('kira', 'Алло? Добрый вечер! У ворот никого нет!', 'Hello? Good evening! Nobody is standing at the gate!'),
     ('matvey', 'Подожди. Посмотри вниз на каменную ступеньку.', 'Wait. Look down on the stone step.'),
     ('kira', 'Ещё один тёмно-синий чемодан! Это сумка Ларисы Борисовны?', "Another dark-blue suitcase! Is this Larisa Borisovna's bag?"),
     ('matvey', 'Проверь молнию... да, вот её буквы прямо здесь!', 'Check the zipper... yes, here are her initials right here!'),
@@ -30,7 +30,7 @@ STORY = [
 WALK = [
     (0, None, ["'Matvey, did you hear that? Someone just rang at the gate!' Two small words, ", (None, 'только что'), " team up to mean 'just now', seconds ago."]),
     (1, None, ["'At nine in the evening? Stay here, let us open the door together.' With one friend, 'let us' drops its polite tail and becomes casual ", (None, 'давай откроем'), " — 'let's open'."]),
-    (2, None, ["'Hello? Good evening! Nobody is standing in the courtyard!' Again both negatives work together in ", (None, 'никто не стоит!'), " — literally 'nobody not stands'."]),
+    (2, None, ["'Hello? Good evening! Nobody is standing at the gate!' Again both negatives work together in ", (None, 'У ворот никого нет!'), " — literally 'nobody not stands'."]),
     (3, None, ["'Wait. Look down on the stone step.' Built from the word for stone, ", (None, 'каменную'), ' describes the old St Petersburg doorstep.']),
     (4, None, ["'Another dark-blue suitcase! Is this Larisa Borisovna's bag?' Combining ", (None, 'Ещё один'), " literally says 'still one' and means 'another one'."]),
     (5, None, ["'Check the zipper... yes, here are her initials right here!' Interestingly, a zipper on clothes or luggage is called ", (None, 'молнию...'), ' — the exact Russian word for a bolt of lightning!']),

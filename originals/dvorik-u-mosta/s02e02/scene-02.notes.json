@@ -2810,14 +2810,98 @@
     }
   ],
   "lexicon": {
-    "а": {
-      "lemma": "а",
-      "stress": "а",
-      "pos": "conj",
-      "gloss": "and / whereas",
+    "понюхать": {
+      "lemma": "понюхать",
+      "stress": "поню́хать",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "нюхать",
+      "gloss": "to smell, sniff",
       "meanings": [
         {
-          "en": "and / whereas",
+          "en": "to smell, sniff",
+          "note": "perfective verb; aspectual pair: нюхать"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "понюхаю",
+              "понюхаем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "понюхаешь",
+              "понюхаете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "понюхает",
+              "понюхают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "понюхал",
+                "понюхала",
+                "понюхало",
+                "понюхали"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Понюхайте! Тёплый хлеб, горячий омлет и свежая зелень.",
+          "trans": "Smell that! Warm bread, hot omelette, and fresh herbs."
+        },
+        {
+          "text": "Понюхайте, как чудесно пахнет свежая мята.",
+          "trans": "Smell how wonderfully the fresh mint smells."
+        }
+      ],
+      "related": [
+        {
+          "word": "нюхать",
+          "gloss": "to smell, sniff"
+        }
+      ]
+    },
+    "этот": {
+      "lemma": "этот",
+      "stress": "э́тот",
+      "pos": "det",
+      "gloss": "this / that",
+      "meanings": [
+        {
+          "en": "this / that",
           "note": ""
         }
       ],
@@ -2829,1630 +2913,8 @@
           "trans": "Fair enough! And these are the keys?"
         },
         {
-          "text": "Спасибо! А мы здесь на ты?",
-          "trans": "Thank you! Are we on casual 'you' terms here?"
-        }
-      ],
-      "related": []
-    },
-    "банка": {
-      "lemma": "банка",
-      "stress": "ба́нка",
-      "pos": "noun",
-      "gender": "f",
-      "animacy": "inan",
-      "gloss": "can, jar",
-      "meanings": [
-        {
-          "en": "can, jar",
-          "note": "feminine noun"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "банка",
-              "банки"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "банки",
-              "банок"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "банке",
-              "банкам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "банку",
-              "банки"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "банкой",
-              "банками"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "банке",
-              "банках"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Доброе утро! Вам помочь с тяжёлыми банками?",
-          "trans": "Good morning! Can I help you with the heavy jars?"
-        },
-        {
-          "text": "Купи, пожалуйста, банку варенья.",
-          "trans": "Please buy a jar of jam."
-        }
-      ],
-      "related": []
-    },
-    "белый": {
-      "lemma": "белый",
-      "stress": "бе́лый",
-      "pos": "adj",
-      "gloss": "white",
-      "meanings": [
-        {
-          "en": "white",
-          "note": "agrees in gender, number, and case"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "белый",
-              "белая",
-              "белое",
-              "белые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "белого",
-              "белой",
-              "белого",
-              "белых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "белому",
-              "белой",
-              "белому",
-              "белым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "белый",
-              "белую",
-              "белое",
-              "белые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "белым",
-              "белой",
-              "белым",
-              "белыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "белом",
-              "белой",
-              "белом",
-              "белых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Смотри, на ручке приклеен белый конверт.",
-          "trans": "Look, a white envelope is taped on the handle."
-        },
-        {
-          "text": "А я принесу чистые белые простыни из шкафа!",
-          "trans": "And I will bring clean white sheets from the cupboard!"
-        }
-      ],
-      "related": []
-    },
-    "большой": {
-      "lemma": "большой",
-      "stress": "большо́й",
-      "pos": "adj",
-      "gloss": "big, large",
-      "meanings": [
-        {
-          "en": "big, large",
-          "note": "agrees in gender, number, and case"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "большой",
-              "большая",
-              "большое",
-              "большие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "большого",
-              "большой",
-              "большого",
-              "больших"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "большому",
-              "большой",
-              "большому",
-              "большим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "большой",
-              "большую",
-              "большое",
-              "большие"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "большим",
-              "большой",
-              "большим",
-              "большими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "большом",
-              "большой",
-              "большом",
-              "больших"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Большое спасибо вам обоим.",
-          "trans": "Thank you both very much."
-        },
-        {
-          "text": "Снаружи есть большая вывеска?",
-          "trans": "Is there a big sign outside?"
-        }
-      ],
-      "related": []
-    },
-    "в": {
-      "lemma": "в",
-      "stress": "в",
-      "pos": "prep",
-      "governs": "+ prepositional (location) / + accusative (direction)",
-      "gloss": "in / into / at",
-      "meanings": [
-        {
-          "en": "in / into / at",
-          "note": "+ prepositional (location) / + accusative (direction)"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "В бумажной книге? Правда?",
-          "trans": "In a paper book? Really?"
-        },
-        {
-          "text": "Может, они в кармане пальто?",
-          "trans": "Maybe they are in your coat pocket?"
-        }
-      ],
-      "related": []
-    },
-    "вести": {
-      "lemma": "вести",
-      "stress": "вести́",
-      "pos": "verb",
-      "aspect": "impf",
-      "pair": null,
-      "gloss": "to lead; to run (an event)",
-      "meanings": [
-        {
-          "en": "to lead; to run (an event)",
-          "note": "imperfective verb"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "веду",
-              "ведём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "ведёшь",
-              "ведёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ведёт",
-              "ведут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "вёл",
-                "вела",
-                "вело",
-                "вели"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ваша тётя играла на пианино и вела пятничный чай?!",
-          "trans": "Your aunt played the piano and ran the Friday tea?!"
-        },
-        {
-          "text": "Кто ведёт сегодня урок?",
-          "trans": "Who is leading the class today?"
-        }
-      ],
-      "related": []
-    },
-    "взять": {
-      "lemma": "взять",
-      "stress": "взять",
-      "pos": "verb",
-      "aspect": "pf",
-      "pair": "брать",
-      "gloss": "to take, pick up",
-      "meanings": [
-        {
-          "en": "to take, pick up",
-          "note": "perfective verb; aspectual pair: брать"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "возьму",
-              "возьмём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "возьмёшь",
-              "возьмёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "возьмёт",
-              "возьмут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "взял",
-                "взяла",
-                "взяло",
-                "взяли"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Подождите — вы ехали на одном поезде в понедельник и взяли её чемодан?",
-          "trans": "Wait — you rode the same train on Monday and took her suitcase?"
-        },
-        {
-          "text": "Если бы он взял свой чемодан, никто из нас не стоял бы здесь сегодня вечером!",
-          "trans": "If he had picked up his own suitcase, none of us would be standing here tonight!"
-        }
-      ],
-      "related": [
-        {
-          "word": "брать",
-          "gloss": "to take"
-        }
-      ]
-    },
-    "вы": {
-      "lemma": "вы",
-      "stress": "вы",
-      "pos": "pron",
-      "gloss": "you (polite/plural)",
-      "meanings": [
-        {
-          "en": "you (polite/plural)",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Большое спасибо вам обоим.",
-          "trans": "Thank you both very much."
-        },
-        {
-          "text": "Вы помните это спустя столько лет?",
-          "trans": "Do you remember that after so many years?"
-        }
-      ],
-      "related": []
-    },
-    "вырасти": {
-      "lemma": "вырасти",
-      "stress": "вы́расти",
-      "pos": "verb",
-      "aspect": "pf",
-      "pair": "расти",
-      "gloss": "to grow up",
-      "meanings": [
-        {
-          "en": "to grow up",
-          "note": "perfective verb; aspectual pair: расти"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "вырасту",
-              "вырастем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "вырастешь",
-              "вырастете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "вырастет",
-              "вырастут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "вырос",
-                "выросла",
-                "выросло",
-                "выросли"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Дай я посмотрю на тебя, Рома! Ты вырос выше пианино!",
-          "trans": "Let me look at you, Roma! You grew taller than the piano!"
-        },
-        {
-          "text": "Дети наших соседей так быстро выросли.",
-          "trans": "Our neighbours' children grew up so fast."
-        }
-      ],
-      "related": [
-        {
-          "word": "расти",
-          "gloss": "to grow up"
-        }
-      ]
-    },
-    "глеб": {
-      "lemma": "глеб",
-      "stress": "глеб",
-      "pos": "name",
-      "gloss": "Gleb",
-      "meanings": [
-        {
-          "en": "Gleb",
-          "note": "proper name"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Здравствуй, Глеб. Спасибо, что ты сегодня пришёл.",
-          "trans": "Hello, Gleb. Thank you for coming today."
-        },
-        {
-          "text": "Привет, Глеб, спасибо, что пришёл. Хорошо, это я запомню.",
-          "trans": "Hi, Gleb, thank you for coming. Okay, I will remember that."
-        }
-      ],
-      "related": []
-    },
-    "густой": {
-      "lemma": "густой",
-      "stress": "густо́й",
-      "pos": "adj",
-      "gloss": "thick (of liquids), dense",
-      "meanings": [
-        {
-          "en": "thick (of liquids), dense",
-          "note": "agrees in gender, number, and case"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "густой",
-              "густая",
-              "густое",
-              "густые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "густого",
-              "густой",
-              "густого",
-              "густых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "густому",
-              "густой",
-              "густому",
-              "густым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "густой",
-              "густую",
-              "густое",
-              "густые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "густым",
-              "густой",
-              "густым",
-              "густыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "густом",
-              "густой",
-              "густом",
-              "густых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Густой, тёплый и отлично с хлебом в дождливый день!",
-          "trans": "Thick, warm, and great with bread on a rainy day!"
-        },
-        {
-          "text": "Утром над рекой стоял густой туман.",
-          "trans": "In the morning a thick fog hung over the river."
-        }
-      ],
-      "related": []
-    },
-    "дальше": {
-      "lemma": "дальше",
-      "stress": "да́льше",
-      "pos": "adv",
-      "gloss": "further / next",
-      "meanings": [
-        {
-          "en": "further / next",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мост, потом зелёная аптека справа. А дальше куда?",
-          "trans": "Bridge, then the green pharmacy on the right. And where next?"
-        },
-        {
-          "text": "Скажите, пожалуйста, куда нам идти дальше?",
-          "trans": "Please tell us where we should walk next."
-        }
-      ],
-      "related": []
-    },
-    "дать": {
-      "lemma": "дать",
-      "stress": "дать",
-      "pos": "verb",
-      "aspect": "pf",
-      "pair": "давать",
-      "gloss": "to give",
-      "meanings": [
-        {
-          "en": "to give",
-          "note": "perfective verb; aspectual pair: давать"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "дам",
-              "дадим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "дашь",
-              "дадите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "даст",
-              "дадут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "дал",
-                "дала",
-                "дало",
-                "дали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Дай мне трубку — я сам спрошу как следует!",
-          "trans": "Give me the receiver — I will ask him properly myself!"
-        },
-        {
-          "text": "Какая скорость! А продавец дал вам кассовый чек?",
-          "trans": "What speed! And did the shopkeeper give you a till receipt?"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give"
-        }
-      ]
-    },
-    "два": {
-      "lemma": "два",
-      "stress": "два",
-      "pos": "num",
-      "gloss": "two",
-      "meanings": [
-        {
-          "en": "two",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Два брата с лимонным пирогом?",
-          "trans": "Two brothers with lemon cake?"
-        },
-        {
-          "text": "Что это за звонок? Кто-то позвонил два раза!",
-          "trans": "What was that bell? Somebody rang twice!"
-        }
-      ],
-      "related": []
-    },
-    "двенадцать": {
-      "lemma": "двенадцать",
-      "stress": "двена́дцать",
-      "pos": "num",
-      "gloss": "twelve",
-      "meanings": [
-        {
-          "en": "twelve",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Двенадцать ударов... а улица за воротами совершенно пустая.",
-          "trans": "Twelve chimes... and the street outside the gate is completely empty."
-        },
-        {
-          "text": "Откройте после двенадцати, шеф! Смотрите на часы: без пяти полдень!",
-          "trans": "Open it after twelve, boss! Look at the clock: five to noon!"
-        }
-      ],
-      "related": []
-    },
-    "для": {
-      "lemma": "для",
-      "stress": "для",
-      "pos": "prep",
-      "governs": "+ genitive",
-      "gloss": "for",
-      "meanings": [
-        {
-          "en": "for",
-          "note": "+ genitive"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Неплохо для второго дня, новичок.",
-          "trans": "Not bad for day two, rookie."
-        },
-        {
-          "text": "Слава богу! А утренний душ для гостей?",
-          "trans": "Thank goodness! And the morning shower for the guests?"
-        }
-      ],
-      "related": []
-    },
-    "до": {
-      "lemma": "до",
-      "stress": "до",
-      "pos": "prep",
-      "governs": "+ genitive",
-      "gloss": "until / before / up to",
-      "meanings": [
-        {
-          "en": "until / before / up to",
-          "note": "+ genitive"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До пятницы? Ни имени, ни подписи!",
-          "trans": "Until Friday? Neither a name nor a signature!"
-        },
-        {
-          "text": "Ровно в семь — за полчаса до завтрака.",
-          "trans": "At seven sharp — half an hour before breakfast."
-        }
-      ],
-      "related": []
-    },
-    "добрый": {
-      "lemma": "добрый",
-      "stress": "до́брый",
-      "pos": "adj",
-      "gloss": "kind, good",
-      "meanings": [
-        {
-          "en": "kind, good",
-          "note": "agrees in gender, number, and case"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "добрый",
-              "добрая",
-              "доброе",
-              "добрые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "доброго",
-              "доброй",
-              "доброго",
-              "добрых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "доброму",
-              "доброй",
-              "доброму",
-              "добрым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "добрый",
-              "добрую",
-              "доброе",
-              "добрые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "добрым",
-              "доброй",
-              "добрым",
-              "добрыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "добром",
-              "доброй",
-              "добром",
-              "добрых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Доброе утро! Извините, дверь закрыта?",
-          "trans": "Good morning! Excuse me, is the door locked?"
-        },
-        {
-          "text": "Добрые вы люди, просто спасаете мою поездку.",
-          "trans": "You kind people are simply saving my trip."
-        }
-      ],
-      "related": []
-    },
-    "дождь": {
-      "lemma": "дождь",
-      "stress": "дождь",
-      "pos": "noun",
-      "gender": "m",
-      "animacy": "inan",
-      "gloss": "rain",
-      "meanings": [
-        {
-          "en": "rain",
-          "note": "masculine noun"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дождь",
-              "дожди"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "дождя",
-              "дождей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "дождю",
-              "дождям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "дождь",
-              "дожди"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "дождём",
-              "дождями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "дожде",
-              "дождях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Только дерево во дворе и тихий дождь.",
-          "trans": "Only the tree in the courtyard and the quiet rain."
-        },
-        {
-          "text": "Бумага никогда не теряет список комнат в дождь.",
-          "trans": "Paper never loses the room list in the rain."
-        }
-      ],
-      "related": []
-    },
-    "ещё": {
-      "lemma": "ещё",
-      "stress": "ещё",
-      "pos": "adv",
-      "gloss": "still / more / another",
-      "meanings": [
-        {
-          "en": "still / more / another",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Кто это? Ещё одна бронь на выходные?",
-          "trans": "Who is it? Another booking for the weekend?"
-        },
-        {
-          "text": "Свежие утренние булочки! Бери одну, пока она ещё тёплая.",
-          "trans": "Fresh morning rolls! Take one while it is still warm."
-        }
-      ],
-      "related": []
-    },
-    "за": {
-      "lemma": "за",
-      "stress": "за",
-      "pos": "prep",
-      "governs": "+ instrumental (behind) / + accusative (for, behind)",
-      "gloss": "behind / for / to",
-      "meanings": [
-        {
-          "en": "behind / for / to",
-          "note": "+ instrumental (behind) / + accusative (for, behind)"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ждите меня — я уже бегу за дверь!",
-          "trans": "Wait for me — I am already running out the door!"
-        },
-        {
-          "text": "Посмотрите в зеркало за стойкой, шеф.",
-          "trans": "Look in the mirror behind the desk, boss."
-        }
-      ],
-      "related": []
-    },
-    "заплатить": {
-      "lemma": "заплатить",
-      "stress": "заплати́ть",
-      "pos": "verb",
-      "aspect": "pf",
-      "pair": "платить",
-      "gloss": "to pay",
-      "meanings": [
-        {
-          "en": "to pay",
-          "note": "perfective verb; aspectual pair: платить"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "заплачу",
-              "заплатим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "заплатишь",
-              "заплатите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "заплатит",
-              "заплатят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "заплатил",
-                "заплатила",
-                "заплатило",
-                "заплатили"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Заплатила наличными! Открывай ящик с инструментами, я бегу назад через мост!",
-          "trans": "Paid in cash! Open your toolbox, I am running back across the bridge!"
-        },
-        {
-          "text": "Можно заплатить за кофе наличными или картой.",
-          "trans": "You can pay for the coffee in cash or by card."
-        }
-      ],
-      "related": [
-        {
-          "word": "платить",
-          "gloss": "to pay"
-        }
-      ]
-    },
-    "здесь": {
-      "lemma": "здесь",
-      "stress": "здесь",
-      "pos": "adv",
-      "gloss": "here",
-      "meanings": [
-        {
-          "en": "here",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Спасибо! А мы здесь на ты?",
-          "trans": "Thank you! Are we on casual 'you' terms here?"
-        },
-        {
-          "text": "Ваш старший брат живёт здесь в Петербурге?",
-          "trans": "Does your older brother live here in St Petersburg?"
-        }
-      ],
-      "related": []
-    },
-    "зелень": {
-      "lemma": "зелень",
-      "stress": "зе́лень",
-      "pos": "noun",
-      "gender": "f",
-      "animacy": "inan",
-      "gloss": "fresh herbs, greenery",
-      "meanings": [
-        {
-          "en": "fresh herbs, greenery",
-          "note": "feminine noun, singularia tantum"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "зелень",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "зелени",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "зелени",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "зелень",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "зеленью",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "зелени",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Хорошо. Посыпь сверху эту свежую зелень перед подачей.",
-          "trans": "Good. Sprinkle these fresh herbs on top before serving."
-        },
-        {
-          "text": "Понюхайте! Тёплый хлеб, горячий омлет и свежая зелень.",
-          "trans": "Smell that! Warm bread, hot omelette, and fresh herbs."
-        }
-      ],
-      "related": []
-    },
-    "зоя": {
-      "lemma": "зоя",
-      "stress": "зо́я",
-      "pos": "name",
-      "gloss": "Zoya",
-      "meanings": [
-        {
-          "en": "Zoya",
-          "note": "proper name"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "На следующей неделе мы приведём к столикам Зои половину мэрии, обещаю.",
-          "trans": "Next week we will bring half of City Hall to Zoya's tables, I promise."
-        },
-        {
-          "text": "Очень приятно, Зоя. Как чудесно пахнет!",
-          "trans": "Nice to meet you, Zoya. It smells wonderful!"
-        }
-      ],
-      "related": []
-    },
-    "и": {
-      "lemma": "и",
-      "stress": "и",
-      "pos": "conj",
-      "gloss": "and / too",
-      "meanings": [
-        {
-          "en": "and / too",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Только дерево во дворе и тихий дождь.",
-          "trans": "Only the tree in the courtyard and the quiet rain."
-        },
-        {
-          "text": "Прямо у вас на лбу, целые и невредимые.",
-          "trans": "Right there on your forehead, safe and sound."
-        }
-      ],
-      "related": []
-    },
-    "как": {
-      "lemma": "как",
-      "stress": "как",
-      "pos": "adv",
-      "gloss": "how / like / as",
-      "meanings": [
-        {
-          "en": "how / like / as",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вот как раз такси подъехало к воротам.",
-          "trans": "Right on cue, a taxi just pulled up to the gate."
-        },
-        {
-          "text": "Как раз то, что мне нужно. А где лестница?",
-          "trans": "Just what I need. And where are the stairs?"
-        }
-      ],
-      "related": []
-    },
-    "квартал": {
-      "lemma": "квартал",
-      "stress": "кварта́л",
-      "pos": "noun",
-      "gender": "m",
-      "animacy": "inan",
-      "gloss": "city block, quarter",
-      "meanings": [
-        {
-          "en": "city block, quarter",
-          "note": "masculine noun"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "квартал",
-              "кварталы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "квартала",
-              "кварталов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "кварталу",
-              "кварталам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "квартал",
-              "кварталы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "кварталом",
-              "кварталами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "квартале",
-              "кварталах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пункт четырнадцать закона о Старом квартале Петербурга — и мой брат за окном только что кивнул!",
-          "trans": "Clause fourteen of the St Petersburg Old Quarter Act — and my brother outside the window just nodded!"
-        },
-        {
-          "text": "За соседним кварталом начинается тихий парк.",
-          "trans": "Beyond the next block a quiet park begins."
-        }
-      ],
-      "related": []
-    },
-    "килограмм": {
-      "lemma": "килограмм",
-      "stress": "килогра́мм",
-      "pos": "noun",
-      "gender": "m",
-      "animacy": "inan",
-      "gloss": "kilogram, kilo",
-      "meanings": [
-        {
-          "en": "kilogram, kilo",
-          "note": "masculine noun"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "килограмм",
-              "килограммы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "килограмма",
-              "килограммов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "килограмму",
-              "килограммам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "килограмм",
-              "килограммы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "килограммом",
-              "килограммами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "килограмме",
-              "килограммах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Сколько килограммов нам нужно для пятничных пирогов и чая?",
-          "trans": "How many kilos do we need for the Friday pies and tea?"
-        },
-        {
-          "text": "Дайте, пожалуйста, килограмм яблок.",
-          "trans": "A kilo of apples, please."
-        }
-      ],
-      "related": []
-    },
-    "кира": {
-      "lemma": "кира",
-      "stress": "ки́ра",
-      "pos": "name",
-      "gloss": "Kira",
-      "meanings": [
-        {
-          "en": "Kira",
-          "note": "proper name"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Привет! Ты, наверное, Кира? Я Зоя с кухни.",
-          "trans": "Hi! You must be Kira? I am Zoya from the kitchen."
-        },
-        {
-          "text": "Секунду, Кира... какую пачку масла ты взяла?",
-          "trans": "Wait a second, Kira... which packet of butter did you grab?"
-        }
-      ],
-      "related": []
-    },
-    "корзина": {
-      "lemma": "корзина",
-      "stress": "корзи́на",
-      "pos": "noun",
-      "gender": "f",
-      "animacy": "inan",
-      "gloss": "basket",
-      "meanings": [
-        {
-          "en": "basket",
-          "note": "feminine noun"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "корзина",
-              "корзины"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "корзины",
-              "корзин"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "корзине",
-              "корзинам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "корзину",
-              "корзины"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "корзиной",
-              "корзинами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "корзине",
-              "корзинах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "У меня в корзине лежат шесть жёлтых лимонов — моя кухня ждала этого дня!",
-          "trans": "Six yellow lemons are sitting in my basket — my kitchen was waiting for this day!"
-        },
-        {
-          "text": "На столе стоит плетёная корзина с яблоками.",
-          "trans": "A woven basket of apples sits on the table."
+          "text": "Во сколько открывается эта лавка?",
+          "trans": "What time does that shop open?"
         }
       ],
       "related": []
@@ -4535,21 +2997,21 @@
       ],
       "related": []
     },
-    "ложка": {
-      "lemma": "ложка",
-      "stress": "ло́жка",
-      "pos": "noun",
-      "gender": "f",
-      "animacy": "inan",
-      "gloss": "spoon",
+    "пахнуть": {
+      "lemma": "пахнуть",
+      "stress": "па́хнуть",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "запахнуть",
+      "gloss": "to smell",
       "meanings": [
         {
-          "en": "spoon",
-          "note": "feminine noun"
+          "en": "to smell",
+          "note": "imperfective verb; aspectual pair: запахнуть"
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -4558,238 +3020,373 @@
         "rows": [
           {
             "cells": [
-              "nominative",
-              "ложка",
-              "ложки"
+              "1st",
+              "пахну",
+              "пахнем"
             ]
           },
           {
             "cells": [
-              "genitive",
-              "ложки",
-              "ложек"
+              "2nd",
+              "пахнешь",
+              "пахнете"
             ]
           },
           {
             "cells": [
-              "dative",
-              "ложке",
-              "ложкам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "ложку",
-              "ложки"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "ложкой",
-              "ложками"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "ложке",
-              "ложках"
+              "3rd",
+              "пахнет",
+              "пахнут"
             ]
           }
         ]
       },
-      "moreForms": [],
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "пах",
+                "пахла",
+                "пахло",
+                "пахли"
+              ]
+            }
+          ]
+        }
+      ],
       "examples": [
         {
-          "text": "А куда класть маленькие ложки и салфетки?",
-          "trans": "And where do I put the small spoons and napkins?"
+          "text": "Доброе утро! Наверху так вкусно пахнет тёплой корицей!",
+          "trans": "Good morning! Upstairs it smells so deliciously of warm cinnamon!"
         },
         {
-          "text": "Он даже доел весь овощной суп до последней ложки.",
-          "trans": "He even finished all the vegetable soup down to the last spoonful."
+          "text": "Очень приятно, Зоя. Как чудесно пахнет!",
+          "trans": "Nice to meet you, Zoya. It smells wonderful!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "запахнуть",
+          "gloss": "to smell"
+        }
+      ]
     },
-    "мама": {
-      "lemma": "мама",
-      "stress": "ма́ма",
-      "pos": "noun",
-      "gender": "f",
-      "animacy": "anim",
-      "gloss": "mum, mother",
-      "meanings": [
-        {
-          "en": "mum, mother",
-          "note": "feminine noun"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "мама",
-              "мамы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "мамы",
-              "мам"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "маме",
-              "мамам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "маму",
-              "мам"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "мамой",
-              "мамами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "маме",
-              "мамах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Совсем нет! Тёплый и густой, как мама покупала осенью.",
-          "trans": "Not at all! Warm and thick, like the honey my mother bought in autumn."
-        },
-        {
-          "text": "Мама звонит мне каждый вечер.",
-          "trans": "Mum calls me every evening."
-        }
-      ],
-      "related": []
-    },
-    "мелочь": {
-      "lemma": "мелочь",
-      "stress": "ме́лочь",
-      "pos": "noun",
-      "gender": "f",
-      "animacy": "inan",
-      "gloss": "small change; trifle",
-      "meanings": [
-        {
-          "en": "small change; trifle",
-          "note": "feminine noun, singularia tantum"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "мелочь",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "мелочи",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "мелочи",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "мелочь",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "мелочью",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "мелочи",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Две банки и три килограмма лимонов. Заплатили наличными, и ещё осталась мелочь!",
-          "trans": "Two jars and three kilos of lemons. We paid cash, and there is even change left!"
-        },
-        {
-          "text": "У вас есть мелочь для автобуса?",
-          "trans": "Do you have small change for the bus?"
-        }
-      ],
-      "related": []
-    },
-    "меньше": {
-      "lemma": "меньше",
-      "stress": "ме́ньше",
+    "как": {
+      "lemma": "как",
+      "stress": "как",
       "pos": "adv",
-      "gloss": "less, smaller",
+      "gloss": "how / like / as",
       "meanings": [
         {
-          "en": "less, smaller",
-          "note": "comparative of мало / маленький"
+          "en": "how / like / as",
+          "note": ""
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Веди, Зоя! Мы пока тратим меньше, чем планировали!",
-          "trans": "Lead the way, Zoya! So far we are spending less than we planned!"
+          "text": "Вот как раз такси подъехало к воротам.",
+          "trans": "Right on cue, a taxi just pulled up to the gate."
         },
         {
-          "text": "Сегодня на улице меньше людей, чем вчера.",
-          "trans": "There are fewer people outside today than yesterday."
+          "text": "Как раз то, что мне нужно. А где лестница?",
+          "trans": "Just what I need. And where are the stairs?"
+        }
+      ],
+      "related": []
+    },
+    "солнце": {
+      "lemma": "солнце",
+      "stress": "со́лнце",
+      "pos": "noun",
+      "gender": "n",
+      "animacy": "inan",
+      "gloss": "sun",
+      "meanings": [
+        {
+          "en": "sun",
+          "note": "neuter noun, singularia tantum"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "солнце",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "солнця",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "солнцю",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "солнце",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "солнцем",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "солнце",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Тёплый хлеб, горячий чай, утреннее солнце и никакого ветра!",
+          "trans": "Warm bread, hot tea, morning sun and no wind at all!"
+        },
+        {
+          "text": "Утром солнце светит в окно кухни.",
+          "trans": "In the morning the sun shines into the kitchen window."
+        }
+      ],
+      "related": []
+    },
+    "после": {
+      "lemma": "после",
+      "stress": "по́сле",
+      "pos": "prep",
+      "governs": "+ genitive",
+      "gloss": "after",
+      "meanings": [
+        {
+          "en": "after",
+          "note": "+ genitive"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Горячий суп? После той холодной прогулки под дождём это звучит чудесно.",
+          "trans": "Hot soup? After that cold walk in the rain, that sounds wonderful."
+        },
+        {
+          "text": "Откройте после двенадцати, шеф! Смотрите на часы: без пяти полдень!",
+          "trans": "Open it after twelve, boss! Look at the clock: five to noon!"
+        }
+      ],
+      "related": []
+    },
+    "дождь": {
+      "lemma": "дождь",
+      "stress": "дождь",
+      "pos": "noun",
+      "gender": "m",
+      "animacy": "inan",
+      "gloss": "rain",
+      "meanings": [
+        {
+          "en": "rain",
+          "note": "masculine noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "дождь",
+              "дожди"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "дождя",
+              "дождей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "дождю",
+              "дождям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "дождь",
+              "дожди"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "дождём",
+              "дождями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "дожде",
+              "дождях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Только дерево во дворе и тихий дождь.",
+          "trans": "Only the tree in the courtyard and the quiet rain."
+        },
+        {
+          "text": "Бумага работает, даже когда отключают электричество.",
+          "trans": "Paper still works when the power goes out."
+        }
+      ],
+      "related": []
+    },
+    "сколько": {
+      "lemma": "сколько",
+      "stress": "ско́лько",
+      "pos": "adv",
+      "gloss": "how much / how many",
+      "meanings": [
+        {
+          "en": "how much / how many",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Во сколько открывается эта лавка?",
+          "trans": "What time does that shop open?"
+        },
+        {
+          "text": "Стоп! Сколько сейчас времени? Девять тридцать пять!",
+          "trans": "Stop! What time is it right now? Nine thirty-five!"
+        }
+      ],
+      "related": []
+    },
+    "килограмм": {
+      "lemma": "килограмм",
+      "stress": "килогра́мм",
+      "pos": "noun",
+      "gender": "m",
+      "animacy": "inan",
+      "gloss": "kilogram, kilo",
+      "meanings": [
+        {
+          "en": "kilogram, kilo",
+          "note": "masculine noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "килограмм",
+              "килограммы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "килограмма",
+              "килограммов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "килограмму",
+              "килограммам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "килограмм",
+              "килограммы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "килограммом",
+              "килограммами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "килограмме",
+              "килограммах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Сколько килограммов нам нужно для пятничных пирогов и чая?",
+          "trans": "How many kilos do we need for the Friday pies and tea?"
+        },
+        {
+          "text": "Дайте, пожалуйста, килограмм яблок.",
+          "trans": "A kilo of apples, please."
         }
       ],
       "related": []
@@ -4815,347 +3412,6 @@
         {
           "text": "Значит, дом сам говорит нам привет?",
           "trans": "So the house says hello to us on its own?"
-        }
-      ],
-      "related": []
-    },
-    "мёд": {
-      "lemma": "мёд",
-      "stress": "мёд",
-      "pos": "noun",
-      "gender": "m",
-      "animacy": "inan",
-      "gloss": "honey",
-      "meanings": [
-        {
-          "en": "honey",
-          "note": "masculine noun, singularia tantum"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "мёд",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "мёда",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "мёду",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "мёд",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "мёдом",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "мёде",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Прекрасный выбор! Вам положить рядом мёд или яблочное варенье?",
-          "trans": "Wonderful choice! Shall I put honey or apple jam beside it for you?"
-        },
-        {
-          "text": "Пожалуйста, Лариса Борисовна: горячий мятный чай и мёд.",
-          "trans": "Here you are, Larisa Borisovna: hot mint tea and honey."
-        }
-      ],
-      "related": []
-    },
-    "на": {
-      "lemma": "на",
-      "stress": "на",
-      "pos": "prep",
-      "governs": "+ prepositional (location) / + accusative (direction)",
-      "gloss": "on / at / for",
-      "meanings": [
-        {
-          "en": "on / at / for",
-          "note": "+ prepositional (location) / + accusative (direction)"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Спасибо! А мы здесь на ты?",
-          "trans": "Thank you! Are we on casual 'you' terms here?"
-        },
-        {
-          "text": "Кто это? Ещё одна бронь на выходные?",
-          "trans": "Who is it? Another booking for the weekend?"
-        }
-      ],
-      "related": []
-    },
-    "найти": {
-      "lemma": "найти",
-      "stress": "найти́",
-      "pos": "verb",
-      "aspect": "pf",
-      "pair": "находить",
-      "gloss": "to find",
-      "meanings": [
-        {
-          "en": "to find",
-          "note": "perfective verb; aspectual pair: находить"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "найду",
-              "найдём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "найдёшь",
-              "найдёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "найдёт",
-              "найдут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "нашёл",
-                "нашла",
-                "нашло",
-                "нашли"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Положила. А теперь скажи, как мне найти эту лавку.",
-          "trans": "Put it in. And now tell me how I find that shop."
-        },
-        {
-          "text": "Стулья нашёл — а за старой кирпичной стенкой нашёл вот это.",
-          "trans": "Found the chairs — and behind an old brick partition wall I found this."
-        }
-      ],
-      "related": [
-        {
-          "word": "находить",
-          "gloss": "to find"
-        }
-      ]
-    },
-    "наличные": {
-      "lemma": "наличные",
-      "stress": "нали́чные",
-      "pos": "noun",
-      "number": "pl",
-      "animacy": "inan",
-      "gloss": "cash",
-      "meanings": [
-        {
-          "en": "cash",
-          "note": "plural-only noun"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "—",
-              "наличные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "—",
-              "наличных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "—",
-              "наличным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "—",
-              "наличные"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "—",
-              "наличными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "—",
-              "наличных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Дайте мне сумку и наличные деньги! Магазин на углу открывается в семь.",
-          "trans": "Give me a bag and cash! The corner shop opens at seven."
-        },
-        {
-          "text": "Заплатила наличными! Открывай ящик с инструментами, я бегу назад через мост!",
-          "trans": "Paid in cash! Open your toolbox, I am running back across the bridge!"
-        }
-      ],
-      "related": []
-    },
-    "наш": {
-      "lemma": "наш",
-      "stress": "наш",
-      "pos": "det",
-      "gloss": "our",
-      "meanings": [
-        {
-          "en": "our",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ровно восемь часов! Наш гость приехал!",
-          "trans": "Eight o'clock sharp! Our guest has arrived!"
-        },
-        {
-          "text": "В нашем доме сервис на пять звёзд — ой!",
-          "trans": "In our house, five-star service comes naturally — oops!"
-        }
-      ],
-      "related": []
-    },
-    "не": {
-      "lemma": "не",
-      "stress": "не",
-      "pos": "part",
-      "gloss": "not",
-      "meanings": [
-        {
-          "en": "not",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Осторожно на повороте, не задень стену!",
-          "trans": "Careful on the turn, do not graze the wall!"
-        },
-        {
-          "text": "Правда? Вас не смущает лишняя лестница?",
-          "trans": "Really? You do not mind the extra stairs?"
-        }
-      ],
-      "related": []
-    },
-    "нет": {
-      "lemma": "нет",
-      "stress": "нет",
-      "pos": "part",
-      "gloss": "no / there is no",
-      "meanings": [
-        {
-          "en": "no / there is no",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Нет, тут только ручка и три старых чека!",
-          "trans": "No, only a pen and three old receipts are here!"
-        },
-        {
-          "text": "Там никого нет. Это звонок из четвёртого номера.",
-          "trans": "Nobody is there. That is the buzzer from room four."
         }
       ],
       "related": []
@@ -5250,835 +3506,15 @@
       ],
       "related": []
     },
-    "осень": {
-      "lemma": "осень",
-      "stress": "о́сень",
-      "pos": "noun",
-      "gender": "f",
-      "animacy": "inan",
-      "gloss": "autumn",
-      "meanings": [
-        {
-          "en": "autumn",
-          "note": "feminine noun, singularia tantum"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "осень",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "осени",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "осени",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "осень",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "осенью",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "осени",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Совсем нет! Тёплый и густой, как мама покупала осенью.",
-          "trans": "Not at all! Warm and thick, like the honey my mother bought in autumn."
-        },
-        {
-          "text": "Осенью в парке очень красиво.",
-          "trans": "The park is very beautiful in autumn."
-        }
-      ],
-      "related": []
-    },
-    "остаться": {
-      "lemma": "остаться",
-      "stress": "оста́ться",
-      "pos": "verb",
-      "aspect": "pf",
-      "pair": "оставаться",
-      "gloss": "to stay, remain",
-      "meanings": [
-        {
-          "en": "to stay, remain",
-          "note": "perfective verb; aspectual pair: оставаться"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "останусь",
-              "останемся"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "останешься",
-              "останетесь"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "останется",
-              "останутся"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "остался",
-                "осталась",
-                "осталось",
-                "остались"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Остаться здесь со всеми вами? Да — сто раз да!",
-          "trans": "Stay here with all of you? Yes — a hundred times yes!"
-        },
-        {
-          "text": "Он приложил его к старому — на полке осталось две штуки!",
-          "trans": "He held it against the old one — two pieces are left on the shelf!"
-        }
-      ],
-      "related": [
-        {
-          "word": "оставаться",
-          "gloss": "to stay, remain"
-        }
-      ]
-    },
-    "отсюда": {
-      "lemma": "отсюда",
-      "stress": "отсю́да",
-      "pos": "adv",
-      "gloss": "from here",
-      "meanings": [
-        {
-          "en": "from here",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Через две улицы отсюда, когда я был маленьким. А пятница для меня — важный день.",
-          "trans": "Two streets away from here, when I was little. And Friday is an important day for me."
-        },
-        {
-          "text": "Отсюда отлично виден весь противоположный берег.",
-          "trans": "From here you can see the whole opposite bank clearly."
-        }
-      ],
-      "related": []
-    },
-    "пахнуть": {
-      "lemma": "пахнуть",
-      "stress": "па́хнуть",
-      "pos": "verb",
-      "aspect": "impf",
-      "pair": "запахнуть",
-      "gloss": "to smell",
-      "meanings": [
-        {
-          "en": "to smell",
-          "note": "imperfective verb; aspectual pair: запахнуть"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "пахну",
-              "пахнем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "пахнешь",
-              "пахнете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "пахнет",
-              "пахнут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "пах",
-                "пахла",
-                "пахло",
-                "пахли"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Доброе утро! Наверху так вкусно пахнет тёплой корицей!",
-          "trans": "Good morning! Upstairs it smells so deliciously of warm cinnamon!"
-        },
-        {
-          "text": "Очень приятно, Зоя. Как чудесно пахнет!",
-          "trans": "Nice to meet you, Zoya. It smells wonderful!"
-        }
-      ],
-      "related": [
-        {
-          "word": "запахнуть",
-          "gloss": "to smell"
-        }
-      ]
-    },
-    "пирог": {
-      "lemma": "пирог",
-      "stress": "пиро́г",
-      "pos": "noun",
-      "gender": "m",
-      "animacy": "inan",
-      "gloss": "pie, cake",
-      "meanings": [
-        {
-          "en": "pie, cake",
-          "note": "masculine noun"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "пирог",
-              "пироги"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "пирога",
-              "пирогов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "пирогу",
-              "пирогам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "пирог",
-              "пироги"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "пирогом",
-              "пирогами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "пироге",
-              "пирогах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Два брата с лимонным пирогом?",
-          "trans": "Two brothers with lemon cake?"
-        },
-        {
-          "text": "Садись за стол — у нас горячий чай и пятничный лимонный пирог.",
-          "trans": "Sit down at the table — we have hot tea and Friday lemon cake."
-        }
-      ],
-      "related": []
-    },
-    "планировать": {
-      "lemma": "планировать",
-      "stress": "плани́ровать",
-      "pos": "verb",
-      "aspect": "impf",
-      "pair": "запланировать",
-      "gloss": "to plan",
-      "meanings": [
-        {
-          "en": "to plan",
-          "note": "imperfective verb; aspectual pair: запланировать"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "планирую",
-              "планируем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "планируешь",
-              "планируете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "планирует",
-              "планируют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "планировал",
-                "планировала",
-                "планировало",
-                "планировали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Веди, Зоя! Мы пока тратим меньше, чем планировали!",
-          "trans": "Lead the way, Zoya! So far we are spending less than we planned!"
-        },
-        {
-          "text": "Что вы планируете на выходные?",
-          "trans": "What are you planning for the weekend?"
-        }
-      ],
-      "related": [
-        {
-          "word": "запланировать",
-          "gloss": "to plan"
-        }
-      ]
-    },
-    "по": {
-      "lemma": "по",
-      "stress": "по",
-      "pos": "prep",
-      "governs": "+ dative / + accusative",
-      "gloss": "along / on / by / for",
-      "meanings": [
-        {
-          "en": "along / on / by / for",
-          "note": "+ dative / + accusative"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вторая: я очень скучал по тебе эти три года.",
-          "trans": "Second: I missed you very much these three years."
-        },
-        {
-          "text": "Да! Слева две узкие улицы — по какой мне идти?",
-          "trans": "Yes! On the left are two narrow streets — which one should I walk down?"
-        }
-      ],
-      "related": []
-    },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye! / for now / while",
-      "meanings": [
-        {
-          "en": "bye! / for now / while",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока его сумка лежит в кладовке под замком.",
-          "trans": "For now, his bag is sitting in the closet under lock and key."
-        },
-        {
-          "text": "Свежие утренние булочки! Бери одну, пока она ещё тёплая.",
-          "trans": "Fresh morning rolls! Take one while it is still warm."
-        }
-      ],
-      "related": []
-    },
-    "покупать": {
-      "lemma": "покупать",
-      "stress": "покупа́ть",
-      "pos": "verb",
-      "aspect": "impf",
-      "pair": "купить",
-      "gloss": "to buy",
-      "meanings": [
-        {
-          "en": "to buy",
-          "note": "imperfective verb; aspectual pair: купить"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "покупаю",
-              "покупаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "покупаешь",
-              "покупаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "покупает",
-              "покупают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "покупал",
-                "покупала",
-                "покупало",
-                "покупали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Совсем нет! Тёплый и густой, как мама покупала осенью.",
-          "trans": "Not at all! Warm and thick, like the honey my mother bought in autumn."
-        },
-        {
-          "text": "Где вы покупаете хлеб?",
-          "trans": "Where do you buy bread?"
-        }
-      ],
-      "related": [
-        {
-          "word": "купить",
-          "gloss": "to buy"
-        }
-      ]
-    },
-    "помочь": {
-      "lemma": "помочь",
-      "stress": "помо́чь",
-      "pos": "verb",
-      "aspect": "pf",
-      "pair": "помогать",
-      "gloss": "to help",
-      "meanings": [
-        {
-          "en": "to help",
-          "note": "perfective verb; aspectual pair: помогать"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "помогу",
-              "поможем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "поможешь",
-              "поможете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "поможет",
-              "помогут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "помог",
-                "помогла",
-                "помогло",
-                "помогли"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "После того как мы берегли его синий чемодан всю неделю? Он сам захочет помочь!",
-          "trans": "After we guarded his blue suitcase all week? He will want to help himself!"
-        },
-        {
-          "text": "Я всегда рада помочь новым соседям.",
-          "trans": "I am always glad to help new neighbours."
-        }
-      ],
-      "related": [
-        {
-          "word": "помогать",
-          "gloss": "to help"
-        }
-      ]
-    },
-    "понюхать": {
-      "lemma": "понюхать",
-      "stress": "поню́хать",
-      "pos": "verb",
-      "aspect": "pf",
-      "pair": "нюхать",
-      "gloss": "to smell, sniff",
-      "meanings": [
-        {
-          "en": "to smell, sniff",
-          "note": "perfective verb; aspectual pair: нюхать"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "понюхаю",
-              "понюхаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "понюхаешь",
-              "понюхаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "понюхает",
-              "понюхают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "понюхал",
-                "понюхала",
-                "понюхало",
-                "понюхали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Понюхайте! Тёплый хлеб, горячий омлет и свежая зелень.",
-          "trans": "Smell that! Warm bread, hot omelette, and fresh herbs."
-        },
-        {
-          "text": "Понюхайте, как чудесно пахнет свежая мята.",
-          "trans": "Smell how wonderfully the fresh mint smells."
-        }
-      ],
-      "related": [
-        {
-          "word": "нюхать",
-          "gloss": "to smell, sniff"
-        }
-      ]
-    },
-    "попробовать": {
-      "lemma": "попробовать",
-      "stress": "попро́бовать",
-      "pos": "verb",
-      "aspect": "pf",
-      "pair": "пробовать",
-      "gloss": "to try; to taste",
-      "meanings": [
-        {
-          "en": "to try; to taste",
-          "note": "perfective verb; aspectual pair: пробовать"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "попробую",
-              "попробуем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "попробуешь",
-              "попробуете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "попробует",
-              "попробуют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "попробовал",
-                "попробовала",
-                "попробовало",
-                "попробовали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Давайте попробуем большой ключ из кедрового ящика.",
-          "trans": "Let's try the big key from the cedar box."
-        },
-        {
-          "text": "Попробуйте этот суп, он очень вкусный.",
-          "trans": "Try this soup, it is very tasty."
-        }
-      ],
-      "related": [
-        {
-          "word": "пробовать",
-          "gloss": "to try, taste"
-        }
-      ]
-    },
-    "после": {
-      "lemma": "после",
-      "stress": "по́сле",
+    "для": {
+      "lemma": "для",
+      "stress": "для",
       "pos": "prep",
       "governs": "+ genitive",
-      "gloss": "after",
+      "gloss": "for",
       "meanings": [
         {
-          "en": "after",
+          "en": "for",
           "note": "+ genitive"
         }
       ],
@@ -6086,90 +3522,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Горячий суп? После холодной платформы это звучит чудесно.",
-          "trans": "Hot soup? After that cold platform, that sounds wonderful."
+          "text": "Неплохо для второго дня, новичок.",
+          "trans": "Not bad for day two, rookie."
         },
         {
-          "text": "Откройте после двенадцати, шеф! Смотрите на часы: без пяти полдень!",
-          "trans": "Open it after twelve, boss! Look at the clock: five to noon!"
-        }
-      ],
-      "related": []
-    },
-    "посуда": {
-      "lemma": "посуда",
-      "stress": "посу́да",
-      "pos": "noun",
-      "gender": "f",
-      "animacy": "inan",
-      "gloss": "dishes, crockery",
-      "meanings": [
-        {
-          "en": "dishes, crockery",
-          "note": "feminine noun, singularia tantum"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "посуда",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "посуды",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "посуде",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "посуду",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "посудой",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "посуде",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Дальше — посуда на углу, за двенадцатью белыми чашками!",
-          "trans": "Next — the dishes on the corner, for twelve white cups!"
-        },
-        {
-          "text": "После ужина я мою посуду.",
-          "trans": "After dinner I wash the dishes."
+          "text": "Слава богу! А утренний душ для гостей?",
+          "trans": "Thank goodness! And the morning shower for the guests?"
         }
       ],
       "related": []
@@ -6264,16 +3622,16 @@
       ],
       "related": []
     },
-    "рынок": {
-      "lemma": "рынок",
-      "stress": "ры́нок",
+    "пирог": {
+      "lemma": "пирог",
+      "stress": "пиро́г",
       "pos": "noun",
       "gender": "m",
       "animacy": "inan",
-      "gloss": "market",
+      "gloss": "pie, cake",
       "meanings": [
         {
-          "en": "market",
+          "en": "pie, cake",
           "note": "masculine noun"
         }
       ],
@@ -6288,73 +3646,47 @@
           {
             "cells": [
               "nominative",
-              "рынок",
-              "рынки"
+              "пирог",
+              "пироги"
             ]
           },
           {
             "cells": [
               "genitive",
-              "рынка",
-              "рынков"
+              "пирога",
+              "пирогов"
             ]
           },
           {
             "cells": [
               "dative",
-              "рынку",
-              "рынкам"
+              "пирогу",
+              "пирогам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "рынок",
-              "рынки"
+              "пирог",
+              "пироги"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "рынком",
-              "рынками"
+              "пирогом",
+              "пирогами"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "рынке",
-              "рынках"
+              "пироге",
+              "пирогах"
             ]
           }
         ]
       },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Кафе моей мечты — прямо в нашем родном дворике! Вот обрадуются на рынке!",
-          "trans": "The café of my dreams — right in our own dear courtyard! How thrilled everyone at the market will be!"
-        },
-        {
-          "text": "Городской рынок открывается в семь утра.",
-          "trans": "The city market opens at seven in the morning."
-        }
-      ],
-      "related": []
-    },
-    "с": {
-      "lemma": "с",
-      "stress": "с",
-      "pos": "prep",
-      "governs": "+ instrumental (with) / + genitive (from)",
-      "gloss": "with / from / since",
-      "meanings": [
-        {
-          "en": "with / from / since",
-          "note": "+ instrumental (with) / + genitive (from)"
-        }
-      ],
-      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -6362,20 +3694,20 @@
           "trans": "Two brothers with lemon cake?"
         },
         {
-          "text": "Ой? С моей бронью какая-то проблема?",
-          "trans": "Oh? Is there some problem with my booking?"
+          "text": "Садись за стол — у нас горячий чай и пятничный лимонный пирог.",
+          "trans": "Sit down at the table — we have hot tea and Friday lemon cake."
         }
       ],
       "related": []
     },
-    "сколько": {
-      "lemma": "сколько",
-      "stress": "ско́лько",
-      "pos": "adv",
-      "gloss": "how much / how many",
+    "и": {
+      "lemma": "и",
+      "stress": "и",
+      "pos": "conj",
+      "gloss": "and / too",
       "meanings": [
         {
-          "en": "how much / how many",
+          "en": "and / too",
           "note": ""
         }
       ],
@@ -6383,257 +3715,27 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Во сколько открывается эта лавка?",
-          "trans": "What time does that shop open?"
+          "text": "Только дерево во дворе и тихий дождь.",
+          "trans": "Only the tree in the courtyard and the quiet rain."
         },
         {
-          "text": "Стоп! Сколько сейчас времени? Девять тридцать пять!",
-          "trans": "Stop! What time is it right now? Nine thirty-five!"
+          "text": "Прямо у вас на лбу, целые и невредимые.",
+          "trans": "Right there on your forehead, safe and sound."
         }
       ],
       "related": []
     },
-    "скорый": {
-      "lemma": "скорый",
-      "stress": "ско́рый",
-      "pos": "adj",
-      "gloss": "quick, soon",
-      "meanings": [
-        {
-          "en": "quick, soon",
-          "note": "agrees in gender, number, and case"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "скорый",
-              "скорая",
-              "скорое",
-              "скорые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "скорого",
-              "скорой",
-              "скорого",
-              "скорых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "скорому",
-              "скорой",
-              "скорому",
-              "скорым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "скорый",
-              "скорую",
-              "скорое",
-              "скорые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "скорым",
-              "скорой",
-              "скорым",
-              "скорыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "скором",
-              "скорой",
-              "скором",
-              "скорых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До скорой встречи в нашем тихом дворике!",
-          "trans": "See you again soon in our quiet courtyard!"
-        },
-        {
-          "text": "Скорый поезд доезжает туда за четыре часа.",
-          "trans": "The express train gets there in four hours."
-        }
-      ],
-      "related": []
-    },
-    "сладкий": {
-      "lemma": "сладкий",
-      "stress": "сла́дкий",
-      "pos": "adj",
-      "gloss": "sweet",
-      "meanings": [
-        {
-          "en": "sweet",
-          "note": "agrees in gender, number, and case"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "сладкий",
-              "сладкая",
-              "сладкое",
-              "сладкие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "сладкого",
-              "сладкой",
-              "сладкого",
-              "сладких"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "сладкому",
-              "сладкой",
-              "сладкому",
-              "сладким"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "сладкий",
-              "сладкую",
-              "сладкое",
-              "сладкие"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "сладким",
-              "сладкой",
-              "сладким",
-              "сладкими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "сладком",
-              "сладкой",
-              "сладком",
-              "сладких"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Остывает на решётке — золотая корочка и сладкая лимонная глазурь!",
-          "trans": "Cooling on the rack — a golden crust and sweet lemon glaze!"
-        },
-        {
-          "text": "Разве можно подавать солёное масло к сладкому клубничному варенью?",
-          "trans": "Can we really serve salty butter with sweet strawberry jam?"
-        }
-      ],
-      "related": []
-    },
-    "слишком": {
-      "lemma": "слишком",
-      "stress": "сли́шком",
-      "pos": "adv",
-      "gloss": "too",
-      "meanings": [
-        {
-          "en": "too",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Медленно крути синее колесо влево — только не слишком быстро.",
-          "trans": "Turn the blue wheel slowly to the left — just not too fast."
-        },
-        {
-          "text": "Три года — это слишком долго, Кира. Мне надо было позвонить ему ещё позапрошлой зимой.",
-          "trans": "Three years is too long, Kira. I should have called him two winters ago."
-        }
-      ],
-      "related": []
-    },
-    "совсем": {
-      "lemma": "совсем",
-      "stress": "совсе́м",
-      "pos": "adv",
-      "gloss": "completely / at all",
-      "meanings": [
-        {
-          "en": "completely / at all",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Точно! Ты уже совсем своя.",
-          "trans": "Exactly! You already fit right in."
-        },
-        {
-          "text": "Подождите — снаружи он тёмно-синий, совсем как ваш!",
-          "trans": "Wait — outside it is dark blue, just like yours!"
-        }
-      ],
-      "related": []
-    },
-    "солнце": {
-      "lemma": "солнце",
-      "stress": "со́лнце",
+    "чай": {
+      "lemma": "чай",
+      "stress": "чай",
       "pos": "noun",
-      "gender": "n",
+      "gender": "m",
       "animacy": "inan",
-      "gloss": "sun",
+      "gloss": "tea",
       "meanings": [
         {
-          "en": "sun",
-          "note": "neuter noun, singularia tantum"
+          "en": "tea",
+          "note": "masculine noun, singularia tantum"
         }
       ],
       "forms": {
@@ -6647,42 +3749,42 @@
           {
             "cells": [
               "nominative",
-              "солнце",
+              "чай",
               "—"
             ]
           },
           {
             "cells": [
               "genitive",
-              "солнця",
+              "чая",
               "—"
             ]
           },
           {
             "cells": [
               "dative",
-              "солнцю",
+              "чаю",
               "—"
             ]
           },
           {
             "cells": [
               "accusative",
-              "солнце",
+              "чай",
               "—"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "солнцем",
+              "чаем",
               "—"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "солнце",
+              "чае",
               "—"
             ]
           }
@@ -6691,177 +3793,15 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тёплый хлеб, горячий чай, утреннее солнце и никакого ветра!",
-          "trans": "Warm bread, hot tea, morning sun and no wind at all!"
+          "text": "Выпейте сначала горячий чай с булочкой минут десять!",
+          "trans": "Have hot tea with a roll for about ten minutes first!"
         },
         {
-          "text": "Утром солнце светит в окно кухни.",
-          "trans": "In the morning the sun shines into the kitchen window."
+          "text": "Садись за стол — у нас горячий чай и пятничный лимонный пирог.",
+          "trans": "Sit down at the table — we have hot tea and Friday lemon cake."
         }
       ],
       "related": []
-    },
-    "суббота": {
-      "lemma": "суббота",
-      "stress": "суббо́та",
-      "pos": "noun",
-      "gender": "f",
-      "animacy": "inan",
-      "gloss": "Saturday",
-      "meanings": [
-        {
-          "en": "Saturday",
-          "note": "feminine noun"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "суббота",
-              "субботы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "субботы",
-              "суббот"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "субботе",
-              "субботам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "субботу",
-              "субботы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "субботой",
-              "субботами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "субботе",
-              "субботах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Дайте блокнот... шеф, вы обвели «суббота, два часа»!",
-          "trans": "Give me the notepad... boss, you circled \"Saturday, two o'clock\"!"
-        },
-        {
-          "text": "В субботу мы едем на дачу.",
-          "trans": "On Saturday we are going to the dacha."
-        }
-      ],
-      "related": []
-    },
-    "тратить": {
-      "lemma": "тратить",
-      "stress": "тра́тить",
-      "pos": "verb",
-      "aspect": "impf",
-      "pair": "потратить",
-      "gloss": "to spend",
-      "meanings": [
-        {
-          "en": "to spend",
-          "note": "imperfective verb; aspectual pair: потратить"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "трачу",
-              "тратим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "тратишь",
-              "тратите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "тратит",
-              "тратят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "тратил",
-                "тратила",
-                "тратило",
-                "тратили"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Веди, Зоя! Мы пока тратим меньше, чем планировали!",
-          "trans": "Lead the way, Zoya! So far we are spending less than we planned!"
-        },
-        {
-          "text": "Я не люблю тратить время в очереди.",
-          "trans": "I don't like wasting time in queues."
-        }
-      ],
-      "related": [
-        {
-          "word": "потратить",
-          "gloss": "to spend"
-        }
-      ]
     },
     "три": {
       "lemma": "три",
@@ -6888,362 +3828,14 @@
       ],
       "related": []
     },
-    "тяжёлый": {
-      "lemma": "тяжёлый",
-      "stress": "тяжёлый",
-      "pos": "adj",
-      "gloss": "heavy",
+    "два": {
+      "lemma": "два",
+      "stress": "два",
+      "pos": "num",
+      "gloss": "two",
       "meanings": [
         {
-          "en": "heavy",
-          "note": "agrees in gender, number, and case"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "тяжёлый",
-              "тяжёлая",
-              "тяжёлое",
-              "тяжёлые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "тяжёлого",
-              "тяжёлой",
-              "тяжёлого",
-              "тяжёлых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тяжёлому",
-              "тяжёлой",
-              "тяжёлому",
-              "тяжёлым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "тяжёлый",
-              "тяжёлую",
-              "тяжёлое",
-              "тяжёлые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "тяжёлым",
-              "тяжёлой",
-              "тяжёлым",
-              "тяжёлыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "тяжёлом",
-              "тяжёлой",
-              "тяжёлом",
-              "тяжёлых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Понятно, почему он такой тяжёлый. Дерево и кожа!",
-          "trans": "No wonder it is so heavy. Wood and leather!"
-        },
-        {
-          "text": "Перекрыл и слил воду. Подай мне тяжёлый ключ слева.",
-          "trans": "Turned it off and drained the water. Hand me the heavy wrench on the left."
-        }
-      ],
-      "related": []
-    },
-    "тёмный": {
-      "lemma": "тёмный",
-      "stress": "тёмный",
-      "pos": "adj",
-      "gloss": "dark",
-      "meanings": [
-        {
-          "en": "dark",
-          "note": "agrees in gender, number, and case"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "тёмный",
-              "тёмная",
-              "тёмное",
-              "тёмные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "тёмного",
-              "тёмной",
-              "тёмного",
-              "тёмных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тёмному",
-              "тёмной",
-              "тёмному",
-              "тёмным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "тёмный",
-              "тёмную",
-              "тёмное",
-              "тёмные"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "тёмным",
-              "тёмной",
-              "тёмным",
-              "тёмными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "тёмном",
-              "тёмной",
-              "тёмном",
-              "тёмных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Иди по второй улице у цветочного киоска, а не по тёмному переулку.",
-          "trans": "Walk down the second street by the flower stall, not down the dark lane."
-        },
-        {
-          "text": "Вечером он надел тёмный шерстяной плащ.",
-          "trans": "In the evening he put on a dark woollen coat."
-        }
-      ],
-      "related": []
-    },
-    "тёплый": {
-      "lemma": "тёплый",
-      "stress": "тёплый",
-      "pos": "adj",
-      "gloss": "warm",
-      "meanings": [
-        {
-          "en": "warm",
-          "note": "agrees in gender, number, and case"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "тёплый",
-              "тёплая",
-              "тёплое",
-              "тёплые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "тёплого",
-              "тёплой",
-              "тёплого",
-              "тёплых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тёплому",
-              "тёплой",
-              "тёплому",
-              "тёплым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "тёплый",
-              "тёплую",
-              "тёплое",
-              "тёплые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "тёплым",
-              "тёплой",
-              "тёплым",
-              "тёплыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "тёплом",
-              "тёплой",
-              "тёплом",
-              "тёплых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вы уверены? Он такой красивый и тёплый!",
-          "trans": "Are you sure? It is so lovely and warm!"
-        },
-        {
-          "text": "За добрых соседей, тёплый хлеб и открытые ворота!",
-          "trans": "To good neighbours, warm bread, and open gates!"
-        }
-      ],
-      "related": []
-    },
-    "угол": {
-      "lemma": "угол",
-      "stress": "у́гол",
-      "pos": "noun",
-      "gender": "m",
-      "animacy": "inan",
-      "gloss": "corner",
-      "meanings": [
-        {
-          "en": "corner",
-          "note": "masculine noun"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "угол",
-              "углы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "угла",
-              "углов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "углу",
-              "углам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "угол",
-              "углы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "углом",
-              "углами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "угле",
-              "углах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Да! Звук шёл как будто из трубы отопления в углу.",
-          "trans": "Yes! The sound seemed to come from the heating pipe in the corner."
-        },
-        {
-          "text": "Не сдавайтесь раньше времени! Смотрите вон туда, на угол.",
-          "trans": "Do not give up ahead of time! Look over there at the corner."
-        }
-      ],
-      "related": []
-    },
-    "уже": {
-      "lemma": "уже",
-      "stress": "уже́",
-      "pos": "adv",
-      "gloss": "already",
-      "meanings": [
-        {
-          "en": "already",
+          "en": "two",
           "note": ""
         }
       ],
@@ -7251,27 +3843,117 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Точно! Ты уже совсем своя.",
-          "trans": "Exactly! You already fit right in."
+          "text": "Два брата с лимонным пирогом?",
+          "trans": "Two brothers with lemon cake?"
         },
         {
-          "text": "Отлично! Лавка уже открыта?",
-          "trans": "Great! Is the shop open already?"
+          "text": "Что это за звонок? Кто-то позвонил два раза!",
+          "trans": "What was that bell? Somebody rang twice!"
         }
       ],
       "related": []
     },
-    "утро": {
-      "lemma": "утро",
-      "stress": "у́тро",
-      "pos": "noun",
-      "gender": "n",
-      "animacy": "inan",
-      "gloss": "morning",
+    "большой": {
+      "lemma": "большой",
+      "stress": "большо́й",
+      "pos": "adj",
+      "gloss": "big, large",
       "meanings": [
         {
-          "en": "morning",
-          "note": "neuter noun"
+          "en": "big, large",
+          "note": "agrees in gender, number, and case"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "большой",
+              "большая",
+              "большое",
+              "большие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "большого",
+              "большой",
+              "большого",
+              "больших"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "большому",
+              "большой",
+              "большому",
+              "большим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "большой",
+              "большую",
+              "большое",
+              "большие"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "большим",
+              "большой",
+              "большим",
+              "большими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "большом",
+              "большой",
+              "большом",
+              "больших"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Большое спасибо вам обоим.",
+          "trans": "Thank you both very much."
+        },
+        {
+          "text": "Снаружи есть большая вывеска?",
+          "trans": "Is there a big sign outside?"
+        }
+      ],
+      "related": []
+    },
+    "банка": {
+      "lemma": "банка",
+      "stress": "ба́нка",
+      "pos": "noun",
+      "gender": "f",
+      "animacy": "inan",
+      "gloss": "can, jar",
+      "meanings": [
+        {
+          "en": "can, jar",
+          "note": "feminine noun"
         }
       ],
       "forms": {
@@ -7285,43 +3967,43 @@
           {
             "cells": [
               "nominative",
-              "утро",
-              "утра"
+              "банка",
+              "банки"
             ]
           },
           {
             "cells": [
               "genitive",
-              "утра",
-              "утр"
+              "банки",
+              "банок"
             ]
           },
           {
             "cells": [
               "dative",
-              "утру",
-              "утрам"
+              "банке",
+              "банкам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "утро",
-              "утра"
+              "банку",
+              "банки"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "утром",
-              "утрами"
+              "банкой",
+              "банками"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "утре",
-              "утрах"
+              "банке",
+              "банках"
             ]
           }
         ]
@@ -7329,12 +4011,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Доброе утро! Извините, дверь закрыта?",
-          "trans": "Good morning! Excuse me, is the door locked?"
+          "text": "Доброе утро! Вам помочь с тяжёлыми банками?",
+          "trans": "Good morning! Can I help you with the heavy jars?"
         },
         {
-          "text": "Завтра в семь утра вода в душе будет ледяной.",
-          "trans": "Tomorrow at seven in the morning the shower water will be ice-cold."
+          "text": "Купи, пожалуйста, банку варенья.",
+          "trans": "Please buy a jar of jam."
         }
       ],
       "related": []
@@ -7429,16 +4111,16 @@
       ],
       "related": []
     },
-    "чай": {
-      "lemma": "чай",
-      "stress": "чай",
+    "мёд": {
+      "lemma": "мёд",
+      "stress": "мёд",
       "pos": "noun",
       "gender": "m",
       "animacy": "inan",
-      "gloss": "tea",
+      "gloss": "honey",
       "meanings": [
         {
-          "en": "tea",
+          "en": "honey",
           "note": "masculine noun, singularia tantum"
         }
       ],
@@ -7453,42 +4135,42 @@
           {
             "cells": [
               "nominative",
-              "чай",
+              "мёд",
               "—"
             ]
           },
           {
             "cells": [
               "genitive",
-              "чая",
+              "мёда",
               "—"
             ]
           },
           {
             "cells": [
               "dative",
-              "чаю",
+              "мёду",
               "—"
             ]
           },
           {
             "cells": [
               "accusative",
-              "чай",
+              "мёд",
               "—"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "чаем",
+              "мёдом",
               "—"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "чае",
+              "мёде",
               "—"
             ]
           }
@@ -7497,12 +4179,2917 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Выпейте сначала горячий чай с булочкой минут десять!",
-          "trans": "Have hot tea with a roll for about ten minutes first!"
+          "text": "Прекрасный выбор! Вам положить рядом мёд или яблочное варенье?",
+          "trans": "Wonderful choice! Shall I put honey or apple jam beside it for you?"
         },
         {
-          "text": "Садись за стол — у нас горячий чай и пятничный лимонный пирог.",
-          "trans": "Sit down at the table — we have hot tea and Friday lemon cake."
+          "text": "Пожалуйста, Лариса Борисовна: горячий мятный чай и мёд.",
+          "trans": "Here you are, Larisa Borisovna: hot mint tea and honey."
+        }
+      ],
+      "related": []
+    },
+    "добрый": {
+      "lemma": "добрый",
+      "stress": "до́брый",
+      "pos": "adj",
+      "gloss": "kind, good",
+      "meanings": [
+        {
+          "en": "kind, good",
+          "note": "agrees in gender, number, and case"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "добрый",
+              "добрая",
+              "доброе",
+              "добрые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "доброго",
+              "доброй",
+              "доброго",
+              "добрых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "доброму",
+              "доброй",
+              "доброму",
+              "добрым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "добрый",
+              "добрую",
+              "доброе",
+              "добрые"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "добрым",
+              "доброй",
+              "добрым",
+              "добрыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "добром",
+              "доброй",
+              "добром",
+              "добрых"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Доброе утро! Извините, дверь закрыта?",
+          "trans": "Good morning! Excuse me, is the door locked?"
+        },
+        {
+          "text": "Добрые вы люди, просто спасаете мою поездку.",
+          "trans": "You kind people are simply saving my trip."
+        }
+      ],
+      "related": []
+    },
+    "утро": {
+      "lemma": "утро",
+      "stress": "у́тро",
+      "pos": "noun",
+      "gender": "n",
+      "animacy": "inan",
+      "gloss": "morning",
+      "meanings": [
+        {
+          "en": "morning",
+          "note": "neuter noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "утро",
+              "утра"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "утра",
+              "утр"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "утру",
+              "утрам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "утро",
+              "утра"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "утром",
+              "утрами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "утре",
+              "утрах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Доброе утро! Извините, дверь закрыта?",
+          "trans": "Good morning! Excuse me, is the door locked?"
+        },
+        {
+          "text": "К завтрашнему утру вода в душе будет ледяной.",
+          "trans": "By tomorrow morning, the shower water will be ice cold."
+        }
+      ],
+      "related": []
+    },
+    "вы": {
+      "lemma": "вы",
+      "stress": "вы",
+      "pos": "pron",
+      "gloss": "you (polite/plural)",
+      "meanings": [
+        {
+          "en": "you (polite/plural)",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Большое спасибо вам обоим.",
+          "trans": "Thank you both very much."
+        },
+        {
+          "text": "Вы помните это спустя столько лет?",
+          "trans": "Do you remember that after so many years?"
+        }
+      ],
+      "related": []
+    },
+    "помочь": {
+      "lemma": "помочь",
+      "stress": "помо́чь",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "помогать",
+      "gloss": "to help",
+      "meanings": [
+        {
+          "en": "to help",
+          "note": "perfective verb; aspectual pair: помогать"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "помогу",
+              "поможем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "поможешь",
+              "поможете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "поможет",
+              "помогут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "помог",
+                "помогла",
+                "помогло",
+                "помогли"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "После того как мы берегли его синий чемодан всю неделю? Он сам захочет помочь!",
+          "trans": "After we guarded his blue suitcase all week? He will want to help himself!"
+        },
+        {
+          "text": "Я всегда рада помочь новым соседям.",
+          "trans": "I am always glad to help new neighbours."
+        }
+      ],
+      "related": [
+        {
+          "word": "помогать",
+          "gloss": "to help"
+        }
+      ]
+    },
+    "с": {
+      "lemma": "с",
+      "stress": "с",
+      "pos": "prep",
+      "governs": "+ instrumental (with) / + genitive (from)",
+      "gloss": "with / from / since",
+      "meanings": [
+        {
+          "en": "with / from / since",
+          "note": "+ instrumental (with) / + genitive (from)"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Два брата с лимонным пирогом?",
+          "trans": "Two brothers with lemon cake?"
+        },
+        {
+          "text": "Ой? С моей бронью какая-то проблема?",
+          "trans": "Oh? Is there some problem with my booking?"
+        }
+      ],
+      "related": []
+    },
+    "тяжёлый": {
+      "lemma": "тяжёлый",
+      "stress": "тяжёлый",
+      "pos": "adj",
+      "gloss": "heavy",
+      "meanings": [
+        {
+          "en": "heavy",
+          "note": "agrees in gender, number, and case"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "тяжёлый",
+              "тяжёлая",
+              "тяжёлое",
+              "тяжёлые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тяжёлого",
+              "тяжёлой",
+              "тяжёлого",
+              "тяжёлых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тяжёлому",
+              "тяжёлой",
+              "тяжёлому",
+              "тяжёлым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тяжёлый",
+              "тяжёлую",
+              "тяжёлое",
+              "тяжёлые"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тяжёлым",
+              "тяжёлой",
+              "тяжёлым",
+              "тяжёлыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тяжёлом",
+              "тяжёлой",
+              "тяжёлом",
+              "тяжёлых"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Понятно, почему он такой тяжёлый. Дерево и кожа!",
+          "trans": "No wonder it is so heavy. Wood and leather!"
+        },
+        {
+          "text": "Перекрыл и слил воду. Подай мне тяжёлый ключ слева.",
+          "trans": "Turned it off and drained the water. Hand me the heavy wrench on the left."
+        }
+      ],
+      "related": []
+    },
+    "уже": {
+      "lemma": "уже",
+      "stress": "уже́",
+      "pos": "adv",
+      "gloss": "already",
+      "meanings": [
+        {
+          "en": "already",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Точно! Ты уже совсем своя.",
+          "trans": "Exactly! You already fit right in."
+        },
+        {
+          "text": "Отлично! Лавка уже открыта?",
+          "trans": "Great! Is the shop open already?"
+        }
+      ],
+      "related": []
+    },
+    "найти": {
+      "lemma": "найти",
+      "stress": "найти́",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "находить",
+      "gloss": "to find",
+      "meanings": [
+        {
+          "en": "to find",
+          "note": "perfective verb; aspectual pair: находить"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "найду",
+              "найдём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "найдёшь",
+              "найдёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "найдёт",
+              "найдут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "нашёл",
+                "нашла",
+                "нашло",
+                "нашли"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Положила. А теперь скажи, как мне найти эту лавку.",
+          "trans": "Put it in. And now tell me how I find that shop."
+        },
+        {
+          "text": "Стулья нашёл — а за старой кирпичной стенкой нашёл вот это.",
+          "trans": "Found the chairs — and behind an old brick partition wall I found this."
+        }
+      ],
+      "related": [
+        {
+          "word": "находить",
+          "gloss": "to find"
+        }
+      ]
+    },
+    "наш": {
+      "lemma": "наш",
+      "stress": "наш",
+      "pos": "det",
+      "gloss": "our",
+      "meanings": [
+        {
+          "en": "our",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ровно восемь часов! Наш гость приехал!",
+          "trans": "Eight o'clock sharp! Our guest has arrived!"
+        },
+        {
+          "text": "В нашем доме сервис на пять звёзд — ой!",
+          "trans": "In our house, five-star service comes naturally — oops!"
+        }
+      ],
+      "related": []
+    },
+    "рынок": {
+      "lemma": "рынок",
+      "stress": "ры́нок",
+      "pos": "noun",
+      "gender": "m",
+      "animacy": "inan",
+      "gloss": "market",
+      "meanings": [
+        {
+          "en": "market",
+          "note": "masculine noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "рынок",
+              "рынки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "рынка",
+              "рынков"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "рынку",
+              "рынкам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "рынок",
+              "рынки"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "рынком",
+              "рынками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "рынке",
+              "рынках"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Кафе моей мечты — прямо здесь, в нашем собственном дворике! Вот уж я расскажу об этом всей улице!",
+          "trans": "My dream cafe, right here in our own courtyard! Wait until I tell the whole street!"
+        },
+        {
+          "text": "Городской рынок открывается в семь утра.",
+          "trans": "The city market opens at seven in the morning."
+        }
+      ],
+      "related": []
+    },
+    "я": {
+      "lemma": "я",
+      "stress": "я",
+      "pos": "pron",
+      "gloss": "I",
+      "meanings": [
+        {
+          "en": "I",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ждите меня — я уже бегу за дверь!",
+          "trans": "Wait for me — I am already running out the door!"
+        },
+        {
+          "text": "Я слышал крики про масло даже во дворе.",
+          "trans": "I heard shouting about butter even out in the courtyard."
+        }
+      ],
+      "related": []
+    },
+    "вырасти": {
+      "lemma": "вырасти",
+      "stress": "вы́расти",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "расти",
+      "gloss": "to grow up",
+      "meanings": [
+        {
+          "en": "to grow up",
+          "note": "perfective verb; aspectual pair: расти"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "вырасту",
+              "вырастем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "вырастешь",
+              "вырастете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "вырастет",
+              "вырастут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "вырос",
+                "выросла",
+                "выросло",
+                "выросли"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Дай я посмотрю на тебя, Рома! Ты вырос выше пианино!",
+          "trans": "Let me look at you, Roma! You grew taller than the piano!"
+        },
+        {
+          "text": "Дети наших соседей так быстро выросли.",
+          "trans": "Our neighbours' children grew up so fast."
+        }
+      ],
+      "related": [
+        {
+          "word": "расти",
+          "gloss": "to grow up"
+        }
+      ]
+    },
+    "в": {
+      "lemma": "в",
+      "stress": "в",
+      "pos": "prep",
+      "governs": "+ prepositional (location) / + accusative (direction)",
+      "gloss": "in / into / at",
+      "meanings": [
+        {
+          "en": "in / into / at",
+          "note": "+ prepositional (location) / + accusative (direction)"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "В бумажной книге? Правда?",
+          "trans": "In a paper book? Really?"
+        },
+        {
+          "text": "Может, они в кармане пальто?",
+          "trans": "Maybe they are in your coat pocket?"
+        }
+      ],
+      "related": []
+    },
+    "квартал": {
+      "lemma": "квартал",
+      "stress": "кварта́л",
+      "pos": "noun",
+      "gender": "m",
+      "animacy": "inan",
+      "gloss": "city block, quarter",
+      "meanings": [
+        {
+          "en": "city block, quarter",
+          "note": "masculine noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "квартал",
+              "кварталы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "квартала",
+              "кварталов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "кварталу",
+              "кварталам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "квартал",
+              "кварталы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "кварталом",
+              "кварталами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "квартале",
+              "кварталах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пункт четырнадцать закона о Старом квартале Петербурга — и мой брат здесь только что кивнул!",
+          "trans": "Clause fourteen of the St Petersburg Old Quarter Act — and my brother here just nodded!"
+        },
+        {
+          "text": "За соседним кварталом начинается тихий парк.",
+          "trans": "Beyond the next block a quiet park begins."
+        }
+      ],
+      "related": []
+    },
+    "отсюда": {
+      "lemma": "отсюда",
+      "stress": "отсю́да",
+      "pos": "adv",
+      "gloss": "from here",
+      "meanings": [
+        {
+          "en": "from here",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Через две улицы отсюда, когда я был маленьким. А пятница для меня — важный день.",
+          "trans": "Two streets away from here, when I was little. And Friday is an important day for me."
+        },
+        {
+          "text": "Отсюда отлично виден весь противоположный берег.",
+          "trans": "From here you can see the whole opposite bank clearly."
+        }
+      ],
+      "related": []
+    },
+    "по": {
+      "lemma": "по",
+      "stress": "по",
+      "pos": "prep",
+      "governs": "+ dative / + accusative",
+      "gloss": "along / on / by / for",
+      "meanings": [
+        {
+          "en": "along / on / by / for",
+          "note": "+ dative / + accusative"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Вторая: я очень скучал по тебе эти три года.",
+          "trans": "Second: I missed you very much these three years."
+        },
+        {
+          "text": "Да! Слева две узкие улицы — по какой мне идти?",
+          "trans": "Yes! On the left are two narrow streets — which one should I walk down?"
+        }
+      ],
+      "related": []
+    },
+    "суббота": {
+      "lemma": "суббота",
+      "stress": "суббо́та",
+      "pos": "noun",
+      "gender": "f",
+      "animacy": "inan",
+      "gloss": "Saturday",
+      "meanings": [
+        {
+          "en": "Saturday",
+          "note": "feminine noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "суббота",
+              "субботы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "субботы",
+              "суббот"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "субботе",
+              "субботам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "субботу",
+              "субботы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "субботой",
+              "субботами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "субботе",
+              "субботах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Дайте блокнот... шеф, вы обвели «суббота, два часа»!",
+          "trans": "Give me the notepad... boss, you circled \"Saturday, two o'clock\"!"
+        },
+        {
+          "text": "В субботу мы едем на дачу.",
+          "trans": "On Saturday we are going to the dacha."
+        }
+      ],
+      "related": []
+    },
+    "здесь": {
+      "lemma": "здесь",
+      "stress": "здесь",
+      "pos": "adv",
+      "gloss": "here",
+      "meanings": [
+        {
+          "en": "here",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Спасибо! А мы здесь на ты?",
+          "trans": "Thank you! Are we on casual 'you' terms here?"
+        },
+        {
+          "text": "Ваш старший брат живёт здесь в Петербурге?",
+          "trans": "Does your older brother live here in St Petersburg?"
+        }
+      ],
+      "related": []
+    },
+    "чудесно": {
+      "lemma": "чудесно",
+      "stress": "чуде́сно",
+      "pos": "adv",
+      "gloss": "wonderful / marvellous",
+      "meanings": [
+        {
+          "en": "wonderful / marvellous",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Чудесно. А окно выходит на улицу или во двор?",
+          "trans": "Wonderful. Does the window face the street or the courtyard?"
+        },
+        {
+          "text": "Чудесно! А теперь я готова к большому завтраку.",
+          "trans": "Wonderful! And now I am ready for a big breakfast."
+        }
+      ],
+      "related": []
+    },
+    "попробовать": {
+      "lemma": "попробовать",
+      "stress": "попро́бовать",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "пробовать",
+      "gloss": "to try; to taste",
+      "meanings": [
+        {
+          "en": "to try; to taste",
+          "note": "perfective verb; aspectual pair: пробовать"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "попробую",
+              "попробуем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "попробуешь",
+              "попробуете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "попробует",
+              "попробуют"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "попробовал",
+                "попробовала",
+                "попробовало",
+                "попробовали"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Давайте попробуем большой ключ из кедрового ящика.",
+          "trans": "Let's try the big key from the cedar box."
+        },
+        {
+          "text": "Попробуйте этот суп, он очень вкусный.",
+          "trans": "Try this soup, it is very tasty."
+        }
+      ],
+      "related": [
+        {
+          "word": "пробовать",
+          "gloss": "to try, taste"
+        }
+      ]
+    },
+    "ложка": {
+      "lemma": "ложка",
+      "stress": "ло́жка",
+      "pos": "noun",
+      "gender": "f",
+      "animacy": "inan",
+      "gloss": "spoon",
+      "meanings": [
+        {
+          "en": "spoon",
+          "note": "feminine noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ложка",
+              "ложки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ложки",
+              "ложек"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ложке",
+              "ложкам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ложку",
+              "ложки"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ложкой",
+              "ложками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ложке",
+              "ложках"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "А куда класть маленькие ложки и салфетки?",
+          "trans": "And where do I put the small spoons and napkins?"
+        },
+        {
+          "text": "Он даже доел весь овощной суп до последней ложки.",
+          "trans": "He even finished all the vegetable soup down to the last spoonful."
+        }
+      ],
+      "related": []
+    },
+    "тёмный": {
+      "lemma": "тёмный",
+      "stress": "тёмный",
+      "pos": "adj",
+      "gloss": "dark",
+      "meanings": [
+        {
+          "en": "dark",
+          "note": "agrees in gender, number, and case"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "тёмный",
+              "тёмная",
+              "тёмное",
+              "тёмные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тёмного",
+              "тёмной",
+              "тёмного",
+              "тёмных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тёмному",
+              "тёмной",
+              "тёмному",
+              "тёмным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тёмный",
+              "тёмную",
+              "тёмное",
+              "тёмные"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тёмным",
+              "тёмной",
+              "тёмным",
+              "тёмными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тёмном",
+              "тёмной",
+              "тёмном",
+              "тёмных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Иди по второй улице у цветочного киоска, а не по тёмному переулку.",
+          "trans": "Walk down the second street by the flower stall, not down the dark lane."
+        },
+        {
+          "text": "Вечером он надел тёмный шерстяной плащ.",
+          "trans": "In the evening he put on a dark woollen coat."
+        }
+      ],
+      "related": []
+    },
+    "не": {
+      "lemma": "не",
+      "stress": "не",
+      "pos": "part",
+      "gloss": "not",
+      "meanings": [
+        {
+          "en": "not",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Осторожно на повороте, не задень стену!",
+          "trans": "Careful on the turn, do not graze the wall!"
+        },
+        {
+          "text": "Правда? Вас не смущает лишняя лестница?",
+          "trans": "Really? You do not mind the extra stairs?"
+        }
+      ],
+      "related": []
+    },
+    "слишком": {
+      "lemma": "слишком",
+      "stress": "сли́шком",
+      "pos": "adv",
+      "gloss": "too",
+      "meanings": [
+        {
+          "en": "too",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Медленно крути синее колесо влево — только не слишком быстро.",
+          "trans": "Turn the blue wheel slowly to the left — just not too fast."
+        },
+        {
+          "text": "Три года — это слишком долго, Кира. Мне надо было позвонить ему ещё позапрошлой зимой.",
+          "trans": "Three years is too long, Kira. I should have called him two winters ago."
+        }
+      ],
+      "related": []
+    },
+    "сладкий": {
+      "lemma": "сладкий",
+      "stress": "сла́дкий",
+      "pos": "adj",
+      "gloss": "sweet",
+      "meanings": [
+        {
+          "en": "sweet",
+          "note": "agrees in gender, number, and case"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "сладкий",
+              "сладкая",
+              "сладкое",
+              "сладкие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "сладкого",
+              "сладкой",
+              "сладкого",
+              "сладких"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "сладкому",
+              "сладкой",
+              "сладкому",
+              "сладким"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "сладкий",
+              "сладкую",
+              "сладкое",
+              "сладкие"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "сладким",
+              "сладкой",
+              "сладким",
+              "сладкими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "сладком",
+              "сладкой",
+              "сладком",
+              "сладких"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Остывает на решётке — золотая корочка и сладкая лимонная глазурь!",
+          "trans": "Cooling on the rack — a golden crust and sweet lemon glaze!"
+        },
+        {
+          "text": "Разве можно подавать солёное масло к сладкому клубничному варенью?",
+          "trans": "Can we really serve salty butter with sweet strawberry jam?"
+        }
+      ],
+      "related": []
+    },
+    "совсем": {
+      "lemma": "совсем",
+      "stress": "совсе́м",
+      "pos": "adv",
+      "gloss": "completely / at all",
+      "meanings": [
+        {
+          "en": "completely / at all",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Точно! Ты уже совсем своя.",
+          "trans": "Exactly! You already fit right in."
+        },
+        {
+          "text": "Подождите — снаружи он тёмно-синий, совсем как ваш!",
+          "trans": "Wait — outside it is dark blue, just like yours!"
+        }
+      ],
+      "related": []
+    },
+    "нет": {
+      "lemma": "нет",
+      "stress": "нет",
+      "pos": "part",
+      "gloss": "no / there is no",
+      "meanings": [
+        {
+          "en": "no / there is no",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Нет, тут только ручка и три старых чека!",
+          "trans": "No, only a pen and three old receipts are here!"
+        },
+        {
+          "text": "Там никого нет. Это звонок из четвёртого номера.",
+          "trans": "Nobody is there. That is the buzzer from room four."
+        }
+      ],
+      "related": []
+    },
+    "тёплый": {
+      "lemma": "тёплый",
+      "stress": "тёплый",
+      "pos": "adj",
+      "gloss": "warm",
+      "meanings": [
+        {
+          "en": "warm",
+          "note": "agrees in gender, number, and case"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "тёплый",
+              "тёплая",
+              "тёплое",
+              "тёплые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тёплого",
+              "тёплой",
+              "тёплого",
+              "тёплых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тёплому",
+              "тёплой",
+              "тёплому",
+              "тёплым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тёплый",
+              "тёплую",
+              "тёплое",
+              "тёплые"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тёплым",
+              "тёплой",
+              "тёплым",
+              "тёплыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тёплом",
+              "тёплой",
+              "тёплом",
+              "тёплых"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Вы уверены? Он такой красивый и тёплый!",
+          "trans": "Are you sure? It is so lovely and warm!"
+        },
+        {
+          "text": "За добрых соседей, тёплый хлеб и открытые ворота!",
+          "trans": "To good neighbours, warm bread, and open gates!"
+        }
+      ],
+      "related": []
+    },
+    "густой": {
+      "lemma": "густой",
+      "stress": "густо́й",
+      "pos": "adj",
+      "gloss": "thick (of liquids), dense",
+      "meanings": [
+        {
+          "en": "thick (of liquids), dense",
+          "note": "agrees in gender, number, and case"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "густой",
+              "густая",
+              "густое",
+              "густые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "густого",
+              "густой",
+              "густого",
+              "густых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "густому",
+              "густой",
+              "густому",
+              "густым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "густой",
+              "густую",
+              "густое",
+              "густые"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "густым",
+              "густой",
+              "густым",
+              "густыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "густом",
+              "густой",
+              "густом",
+              "густых"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Густой, тёплый и отлично с хлебом в дождливый день!",
+          "trans": "Thick, warm, and great with bread on a rainy day!"
+        },
+        {
+          "text": "Утром над рекой стоял густой туман.",
+          "trans": "In the morning a thick fog hung over the river."
+        }
+      ],
+      "related": []
+    },
+    "мама": {
+      "lemma": "мама",
+      "stress": "ма́ма",
+      "pos": "noun",
+      "gender": "f",
+      "animacy": "anim",
+      "gloss": "mum, mother",
+      "meanings": [
+        {
+          "en": "mum, mother",
+          "note": "feminine noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мама",
+              "мамы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "мамы",
+              "мам"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "маме",
+              "мамам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "маму",
+              "мам"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мамой",
+              "мамами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "маме",
+              "мамах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Совсем нет! Тёплый и густой, как мама покупала осенью.",
+          "trans": "Not at all! Warm and thick, like the honey my mother bought in autumn."
+        },
+        {
+          "text": "Мама звонит мне каждый вечер.",
+          "trans": "Mum calls me every evening."
+        }
+      ],
+      "related": []
+    },
+    "покупать": {
+      "lemma": "покупать",
+      "stress": "покупа́ть",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "купить",
+      "gloss": "to buy",
+      "meanings": [
+        {
+          "en": "to buy",
+          "note": "imperfective verb; aspectual pair: купить"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "покупаю",
+              "покупаем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "покупаешь",
+              "покупаете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "покупает",
+              "покупают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "покупал",
+                "покупала",
+                "покупало",
+                "покупали"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Совсем нет! Тёплый и густой, как мама покупала осенью.",
+          "trans": "Not at all! Warm and thick, like the honey my mother bought in autumn."
+        },
+        {
+          "text": "Где вы покупаете хлеб?",
+          "trans": "Where do you buy bread?"
+        }
+      ],
+      "related": [
+        {
+          "word": "купить",
+          "gloss": "to buy"
+        }
+      ]
+    },
+    "осень": {
+      "lemma": "осень",
+      "stress": "о́сень",
+      "pos": "noun",
+      "gender": "f",
+      "animacy": "inan",
+      "gloss": "autumn",
+      "meanings": [
+        {
+          "en": "autumn",
+          "note": "feminine noun, singularia tantum"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "осень",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "осени",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "осени",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "осень",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "осенью",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "осени",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Совсем нет! Тёплый и густой, как мама покупала осенью.",
+          "trans": "Not at all! Warm and thick, like the honey my mother bought in autumn."
+        },
+        {
+          "text": "Осенью в парке очень красиво.",
+          "trans": "The park is very beautiful in autumn."
+        }
+      ],
+      "related": []
+    },
+    "заплатить": {
+      "lemma": "заплатить",
+      "stress": "заплати́ть",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "платить",
+      "gloss": "to pay",
+      "meanings": [
+        {
+          "en": "to pay",
+          "note": "perfective verb; aspectual pair: платить"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "заплачу",
+              "заплатим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "заплатишь",
+              "заплатите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "заплатит",
+              "заплатят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "заплатил",
+                "заплатила",
+                "заплатило",
+                "заплатили"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Заплатила наличными! Открывай ящик с инструментами, я бегу назад через мост!",
+          "trans": "Paid in cash! Open your toolbox, I am running back across the bridge!"
+        },
+        {
+          "text": "Можно заплатить за кофе наличными или картой.",
+          "trans": "You can pay for the coffee in cash or by card."
+        }
+      ],
+      "related": [
+        {
+          "word": "платить",
+          "gloss": "to pay"
+        }
+      ]
+    },
+    "наличные": {
+      "lemma": "наличные",
+      "stress": "нали́чные",
+      "pos": "noun",
+      "number": "pl",
+      "animacy": "inan",
+      "gloss": "cash",
+      "meanings": [
+        {
+          "en": "cash",
+          "note": "plural-only noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "—",
+              "наличные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "—",
+              "наличных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "—",
+              "наличным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "—",
+              "наличные"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "—",
+              "наличными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "—",
+              "наличных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Дайте мне сумку и наличные деньги! Магазин на углу открывается в семь.",
+          "trans": "Give me a bag and cash! The corner shop opens at seven."
+        },
+        {
+          "text": "Заплатила наличными! Открывай ящик с инструментами, я бегу назад через мост!",
+          "trans": "Paid in cash! Open your toolbox, I am running back across the bridge!"
+        }
+      ],
+      "related": []
+    },
+    "ещё": {
+      "lemma": "ещё",
+      "stress": "ещё",
+      "pos": "adv",
+      "gloss": "still / more / another",
+      "meanings": [
+        {
+          "en": "still / more / another",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Кто это? Ещё одна бронь на выходные?",
+          "trans": "Who is it? Another booking for the weekend?"
+        },
+        {
+          "text": "Свежие утренние булочки! Бери одну, пока она ещё тёплая.",
+          "trans": "Fresh morning rolls! Take one while it is still warm."
+        }
+      ],
+      "related": []
+    },
+    "остаться": {
+      "lemma": "остаться",
+      "stress": "оста́ться",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "оставаться",
+      "gloss": "to stay, remain",
+      "meanings": [
+        {
+          "en": "to stay, remain",
+          "note": "perfective verb; aspectual pair: оставаться"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "останусь",
+              "останемся"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "останешься",
+              "останетесь"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "останется",
+              "останутся"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "остался",
+                "осталась",
+                "осталось",
+                "остались"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Остаться здесь со всеми вами? Да — сто раз да!",
+          "trans": "Stay here with all of you? Yes — a hundred times yes!"
+        },
+        {
+          "text": "Он приложил его к старому — на полке осталось две штуки!",
+          "trans": "He held it against the old one — two pieces are left on the shelf!"
+        }
+      ],
+      "related": [
+        {
+          "word": "оставаться",
+          "gloss": "to stay, remain"
+        }
+      ]
+    },
+    "мелочь": {
+      "lemma": "мелочь",
+      "stress": "ме́лочь",
+      "pos": "noun",
+      "gender": "f",
+      "animacy": "inan",
+      "gloss": "small change; trifle",
+      "meanings": [
+        {
+          "en": "small change; trifle",
+          "note": "feminine noun, singularia tantum"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мелочь",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "мелочи",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мелочи",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "мелочь",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мелочью",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мелочи",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Две банки и три килограмма лимонов. Заплатили наличными, и ещё осталась мелочь!",
+          "trans": "Two jars and three kilos of lemons. We paid cash, and there is even change left!"
+        },
+        {
+          "text": "У вас есть мелочь для автобуса?",
+          "trans": "Do you have small change for the bus?"
+        }
+      ],
+      "related": []
+    },
+    "дать": {
+      "lemma": "дать",
+      "stress": "дать",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "давать",
+      "gloss": "to give",
+      "meanings": [
+        {
+          "en": "to give",
+          "note": "perfective verb; aspectual pair: давать"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "дам",
+              "дадим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "дашь",
+              "дадите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "даст",
+              "дадут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "дал",
+                "дала",
+                "дало",
+                "дали"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Дай мне трубку — я сам спрошу как следует!",
+          "trans": "Give me the receiver — I will ask him properly myself!"
+        },
+        {
+          "text": "Какая скорость! А продавец дал вам кассовый чек?",
+          "trans": "What speed! And did the shopkeeper give you a till receipt?"
+        }
+      ],
+      "related": [
+        {
+          "word": "давать",
+          "gloss": "to give"
+        }
+      ]
+    },
+    "корзина": {
+      "lemma": "корзина",
+      "stress": "корзи́на",
+      "pos": "noun",
+      "gender": "f",
+      "animacy": "inan",
+      "gloss": "basket",
+      "meanings": [
+        {
+          "en": "basket",
+          "note": "feminine noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "корзина",
+              "корзины"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "корзины",
+              "корзин"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "корзине",
+              "корзинам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "корзину",
+              "корзины"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "корзиной",
+              "корзинами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "корзине",
+              "корзинах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "У меня в корзине лежат шесть жёлтых лимонов — моя кухня ждала этого дня!",
+          "trans": "Six yellow lemons are sitting in my basket — my kitchen was waiting for this day!"
+        },
+        {
+          "text": "На столе стоит плетёная корзина с яблоками.",
+          "trans": "A woven basket of apples sits on the table."
+        }
+      ],
+      "related": []
+    },
+    "а": {
+      "lemma": "а",
+      "stress": "а",
+      "pos": "conj",
+      "gloss": "and / whereas",
+      "meanings": [
+        {
+          "en": "and / whereas",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Логично! А это ключи?",
+          "trans": "Fair enough! And these are the keys?"
+        },
+        {
+          "text": "Спасибо! А мы здесь на ты?",
+          "trans": "Thank you! Are we on casual 'you' terms here?"
+        }
+      ],
+      "related": []
+    },
+    "взять": {
+      "lemma": "взять",
+      "stress": "взять",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "брать",
+      "gloss": "to take, pick up",
+      "meanings": [
+        {
+          "en": "to take, pick up",
+          "note": "perfective verb; aspectual pair: брать"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "возьму",
+              "возьмём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "возьмёшь",
+              "возьмёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "возьмёт",
+              "возьмут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "взял",
+                "взяла",
+                "взяло",
+                "взяли"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Подождите — вы ехали на одном поезде в понедельник и взяли её чемодан?",
+          "trans": "Wait — you rode the same train on Monday and took her suitcase?"
+        },
+        {
+          "text": "Если бы он взял свой чемодан, никто из нас не стоял бы здесь сегодня вечером!",
+          "trans": "If he had picked up his own suitcase, none of us would be standing here tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "брать",
+          "gloss": "to take"
+        }
+      ]
+    },
+    "зелень": {
+      "lemma": "зелень",
+      "stress": "зе́лень",
+      "pos": "noun",
+      "gender": "f",
+      "animacy": "inan",
+      "gloss": "fresh herbs, greenery",
+      "meanings": [
+        {
+          "en": "fresh herbs, greenery",
+          "note": "feminine noun, singularia tantum"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "зелень",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "зелени",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "зелени",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "зелень",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "зеленью",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "зелени",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хорошо. Посыпь сверху эту свежую зелень перед подачей.",
+          "trans": "Good. Sprinkle these fresh herbs on top before serving."
+        },
+        {
+          "text": "Понюхайте! Тёплый хлеб, горячий омлет и свежая зелень.",
+          "trans": "Smell that! Warm bread, hot omelette, and fresh herbs."
+        }
+      ],
+      "related": []
+    },
+    "дальше": {
+      "lemma": "дальше",
+      "stress": "да́льше",
+      "pos": "adv",
+      "gloss": "further / next",
+      "meanings": [
+        {
+          "en": "further / next",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Мост, потом зелёная аптека справа. А дальше куда?",
+          "trans": "Bridge, then the green pharmacy on the right. And where next?"
+        },
+        {
+          "text": "Скажите, пожалуйста, куда нам идти дальше?",
+          "trans": "Please tell us where we should walk next."
+        }
+      ],
+      "related": []
+    },
+    "посуда": {
+      "lemma": "посуда",
+      "stress": "посу́да",
+      "pos": "noun",
+      "gender": "f",
+      "animacy": "inan",
+      "gloss": "dishes, crockery",
+      "meanings": [
+        {
+          "en": "dishes, crockery",
+          "note": "feminine noun, singularia tantum"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "посуда",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "посуды",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "посуде",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "посуду",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "посудой",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "посуде",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Дальше — посуда на углу, за двенадцатью белыми чашками!",
+          "trans": "Next — the dishes on the corner, for twelve white cups!"
+        },
+        {
+          "text": "После ужина я мою посуду.",
+          "trans": "After dinner I wash the dishes."
+        }
+      ],
+      "related": []
+    },
+    "на": {
+      "lemma": "на",
+      "stress": "на",
+      "pos": "prep",
+      "governs": "+ prepositional (location) / + accusative (direction)",
+      "gloss": "on / at / for",
+      "meanings": [
+        {
+          "en": "on / at / for",
+          "note": "+ prepositional (location) / + accusative (direction)"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Спасибо! А мы здесь на ты?",
+          "trans": "Thank you! Are we on casual 'you' terms here?"
+        },
+        {
+          "text": "Кто это? Ещё одна бронь на выходные?",
+          "trans": "Who is it? Another booking for the weekend?"
+        }
+      ],
+      "related": []
+    },
+    "угол": {
+      "lemma": "угол",
+      "stress": "у́гол",
+      "pos": "noun",
+      "gender": "m",
+      "animacy": "inan",
+      "gloss": "corner",
+      "meanings": [
+        {
+          "en": "corner",
+          "note": "masculine noun"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "угол",
+              "углы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "угла",
+              "углов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "углу",
+              "углам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "угол",
+              "углы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "углом",
+              "углами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "угле",
+              "углах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Да! Звук шёл как будто из трубы отопления в углу.",
+          "trans": "Yes! The sound seemed to come from the heating pipe in the corner."
+        },
+        {
+          "text": "Не сдавайтесь раньше времени! Смотрите вон туда, на угол.",
+          "trans": "Do not give up ahead of time! Look over there at the corner."
+        }
+      ],
+      "related": []
+    },
+    "за": {
+      "lemma": "за",
+      "stress": "за",
+      "pos": "prep",
+      "governs": "+ instrumental (behind) / + accusative (for, behind)",
+      "gloss": "behind / for / to",
+      "meanings": [
+        {
+          "en": "behind / for / to",
+          "note": "+ instrumental (behind) / + accusative (for, behind)"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ждите меня — я уже бегу за дверь!",
+          "trans": "Wait for me — I am already running out the door!"
+        },
+        {
+          "text": "Посмотрите в зеркало за стойкой, шеф.",
+          "trans": "Look in the mirror behind the desk, boss."
+        }
+      ],
+      "related": []
+    },
+    "двенадцать": {
+      "lemma": "двенадцать",
+      "stress": "двена́дцать",
+      "pos": "num",
+      "gloss": "twelve",
+      "meanings": [
+        {
+          "en": "twelve",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Двенадцать ударов... а улица за воротами совершенно пустая.",
+          "trans": "Twelve chimes... and the street outside the gate is completely empty."
+        },
+        {
+          "text": "Откройте после двенадцати, шеф! Смотрите на часы: без пяти полдень!",
+          "trans": "Open it after twelve, boss! Look at the clock: five to noon!"
+        }
+      ],
+      "related": []
+    },
+    "белый": {
+      "lemma": "белый",
+      "stress": "бе́лый",
+      "pos": "adj",
+      "gloss": "white",
+      "meanings": [
+        {
+          "en": "white",
+          "note": "agrees in gender, number, and case"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "белый",
+              "белая",
+              "белое",
+              "белые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "белого",
+              "белой",
+              "белого",
+              "белых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "белому",
+              "белой",
+              "белому",
+              "белым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "белый",
+              "белую",
+              "белое",
+              "белые"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "белым",
+              "белой",
+              "белым",
+              "белыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "белом",
+              "белой",
+              "белом",
+              "белых"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Смотри, на ручке приклеен белый конверт.",
+          "trans": "Look, a white envelope is taped on the handle."
+        },
+        {
+          "text": "А я принесу чистые белые простыни из шкафа!",
+          "trans": "And I will bring clean white sheets from the cupboard!"
         }
       ],
       "related": []
@@ -7585,6 +7172,219 @@
       ],
       "related": []
     },
+    "вести": {
+      "lemma": "вести",
+      "stress": "вести́",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": null,
+      "gloss": "to lead; to run (an event)",
+      "meanings": [
+        {
+          "en": "to lead; to run (an event)",
+          "note": "imperfective verb"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "веду",
+              "ведём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ведёшь",
+              "ведёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ведёт",
+              "ведут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "вёл",
+                "вела",
+                "вело",
+                "вели"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ваша тётя играла на пианино и вела пятничный чай?!",
+          "trans": "Your aunt played the piano and ran the Friday tea?!"
+        },
+        {
+          "text": "Кто ведёт сегодня урок?",
+          "trans": "Who is leading the class today?"
+        }
+      ],
+      "related": []
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye! / for now / while",
+      "meanings": [
+        {
+          "en": "bye! / for now / while",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока его сумка лежит в кладовке под замком.",
+          "trans": "For now, his bag is sitting in the closet under lock and key."
+        },
+        {
+          "text": "Свежие утренние булочки! Бери одну, пока она ещё тёплая.",
+          "trans": "Fresh morning rolls! Take one while it is still warm."
+        }
+      ],
+      "related": []
+    },
+    "тратить": {
+      "lemma": "тратить",
+      "stress": "тра́тить",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "потратить",
+      "gloss": "to spend",
+      "meanings": [
+        {
+          "en": "to spend",
+          "note": "imperfective verb; aspectual pair: потратить"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "трачу",
+              "тратим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "тратишь",
+              "тратите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "тратит",
+              "тратят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "тратил",
+                "тратила",
+                "тратило",
+                "тратили"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Веди, Зоя! Мы пока тратим меньше, чем планировали!",
+          "trans": "Lead the way, Zoya! So far we are spending less than we planned!"
+        },
+        {
+          "text": "Я не люблю тратить время в очереди.",
+          "trans": "I don't like wasting time in queues."
+        }
+      ],
+      "related": [
+        {
+          "word": "потратить",
+          "gloss": "to spend"
+        }
+      ]
+    },
+    "меньше": {
+      "lemma": "меньше",
+      "stress": "ме́ньше",
+      "pos": "adv",
+      "gloss": "less, smaller",
+      "meanings": [
+        {
+          "en": "less, smaller",
+          "note": "comparative of мало / маленький"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Веди, Зоя! Мы пока тратим меньше, чем планировали!",
+          "trans": "Lead the way, Zoya! So far we are spending less than we planned!"
+        },
+        {
+          "text": "Сегодня на улице меньше людей, чем вчера.",
+          "trans": "There are fewer people outside today than yesterday."
+        }
+      ],
+      "related": []
+    },
     "чем": {
       "lemma": "чем",
       "stress": "чем",
@@ -7610,77 +7410,277 @@
       ],
       "related": []
     },
-    "чудесно": {
-      "lemma": "чудесно",
-      "stress": "чуде́сно",
-      "pos": "adv",
-      "gloss": "wonderful / marvellous",
+    "планировать": {
+      "lemma": "планировать",
+      "stress": "плани́ровать",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "запланировать",
+      "gloss": "to plan",
       "meanings": [
         {
-          "en": "wonderful / marvellous",
-          "note": ""
+          "en": "to plan",
+          "note": "imperfective verb; aspectual pair: запланировать"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "планирую",
+              "планируем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "планируешь",
+              "планируете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "планирует",
+              "планируют"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "планировал",
+                "планировала",
+                "планировало",
+                "планировали"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Веди, Зоя! Мы пока тратим меньше, чем планировали!",
+          "trans": "Lead the way, Zoya! So far we are spending less than we planned!"
+        },
+        {
+          "text": "Что вы планируете на выходные?",
+          "trans": "What are you planning for the weekend?"
+        }
+      ],
+      "related": [
+        {
+          "word": "запланировать",
+          "gloss": "to plan"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "governs": "+ genitive",
+      "gloss": "until / before / up to",
+      "meanings": [
+        {
+          "en": "until / before / up to",
+          "note": "+ genitive"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Чудесно. А окно выходит на улицу или во двор?",
-          "trans": "Wonderful. Does the window face the street or the courtyard?"
+          "text": "До пятницы? Ни имени, ни подписи!",
+          "trans": "Until Friday? Neither a name nor a signature!"
         },
         {
-          "text": "Чудесно! А теперь я готова к большому завтраку.",
-          "trans": "Wonderful! And now I am ready for a big breakfast."
+          "text": "Ровно в семь — за полчаса до завтрака.",
+          "trans": "At seven sharp — half an hour before breakfast."
         }
       ],
       "related": []
     },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this / that",
+    "скорый": {
+      "lemma": "скорый",
+      "stress": "ско́рый",
+      "pos": "adj",
+      "gloss": "quick, soon",
       "meanings": [
         {
-          "en": "this / that",
-          "note": ""
+          "en": "quick, soon",
+          "note": "agrees in gender, number, and case"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "скорый",
+              "скорая",
+              "скорое",
+              "скорые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "скорого",
+              "скорой",
+              "скорого",
+              "скорых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "скорому",
+              "скорой",
+              "скорому",
+              "скорым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "скорый",
+              "скорую",
+              "скорое",
+              "скорые"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "скорым",
+              "скорой",
+              "скорым",
+              "скорыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "скором",
+              "скорой",
+              "скором",
+              "скорых"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Логично! А это ключи?",
-          "trans": "Fair enough! And these are the keys?"
+          "text": "До скорой встречи в нашем тихом дворике!",
+          "trans": "See you again soon in our quiet courtyard!"
         },
         {
-          "text": "Во сколько открывается эта лавка?",
-          "trans": "What time does that shop open?"
+          "text": "Скорый поезд доезжает туда за четыре часа.",
+          "trans": "The express train gets there in four hours."
         }
       ],
       "related": []
     },
-    "я": {
-      "lemma": "я",
-      "stress": "я",
-      "pos": "pron",
-      "gloss": "I",
+    "кира": {
+      "lemma": "кира",
+      "stress": "ки́ра",
+      "pos": "name",
+      "gloss": "Kira",
       "meanings": [
         {
-          "en": "I",
-          "note": ""
+          "en": "Kira",
+          "note": "proper name"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Ждите меня — я уже бегу за дверь!",
-          "trans": "Wait for me — I am already running out the door!"
+          "text": "Привет! Ты, наверное, Кира? Я Зоя с кухни.",
+          "trans": "Hi! You must be Kira? I am Zoya from the kitchen."
         },
         {
-          "text": "Я слышал крики про масло даже во дворе.",
-          "trans": "I heard shouting about butter even out in the courtyard."
+          "text": "Секунду, Кира... какую пачку масла ты взяла?",
+          "trans": "Wait a second, Kira... which packet of butter did you grab?"
+        }
+      ],
+      "related": []
+    },
+    "глеб": {
+      "lemma": "глеб",
+      "stress": "глеб",
+      "pos": "name",
+      "gloss": "Gleb",
+      "meanings": [
+        {
+          "en": "Gleb",
+          "note": "proper name"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Здравствуй, Глеб. Спасибо, что ты сегодня пришёл.",
+          "trans": "Hello, Gleb. Thank you for coming today."
+        },
+        {
+          "text": "Привет, Глеб, спасибо, что пришёл. Хорошо, это я запомню.",
+          "trans": "Hi, Gleb, thank you for coming. Okay, I will remember that."
+        }
+      ],
+      "related": []
+    },
+    "зоя": {
+      "lemma": "зоя",
+      "stress": "зо́я",
+      "pos": "name",
+      "gloss": "Zoya",
+      "meanings": [
+        {
+          "en": "Zoya",
+          "note": "proper name"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "На следующей неделе мы приведём к столикам Зои половину мэрии, обещаю.",
+          "trans": "Next week we will bring half of City Hall to Zoya's tables, I promise."
+        },
+        {
+          "text": "Очень приятно, Зоя. Как чудесно пахнет!",
+          "trans": "Nice to meet you, Zoya. It smells wonderful!"
         }
       ],
       "related": []

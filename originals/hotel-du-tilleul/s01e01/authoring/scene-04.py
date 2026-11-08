@@ -18,8 +18,8 @@ OUTRO = ('Claire handled her first check-in smoothly, though Henri noticed that 
 CLOSING = ('odette', 'À bientôt!')
 STORY = [('claire', 'Bienvenue! Bonjour, madame.', 'Welcome! Good morning, madam.'),
  ('odette',
-  "Bonjour, ma chère. J'ai une réservation au nom d'Odette.",
-  'Good morning, my dear. I have a reservation under the name Odette.'),
+  "Bonjour, ma chère. J'ai une réservation pour Colette.",
+  'Good morning, my dear. I have a booking for Colette.'),
  ('claire',
   'Oui, la chambre quatre au deuxième étage! Comment était votre voyage en train?',
   'Yes, room four on the second floor! How was your train trip?'),
@@ -49,7 +49,7 @@ STORY = [('claire', 'Bienvenue! Bonjour, madame.', 'Welcome! Good morning, madam
   'Right under this archway. I will carry the blue suitcase up for you.'),
  ('odette', 'Merci beaucoup à vous deux.', 'Thank you both very much.')]
 WALK = [(1,
-  "J'ai une réservation au nom d'Odette.",
+  "J'ai une réservation pour Colette.",
   "'I have a reservation under the name Odette.' At French hotels and restaurants, you give a "
   "booking 'at the name of' rather than 'under the name'."),
  (2,

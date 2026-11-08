@@ -14,7 +14,7 @@ TRANSITION = "Now let's hear the whole courtyard reunion scene again."
 OUTRO = "Grandfather's wooden train is home, and Minsu's amazement at seeing Miss Youngmi filled the whole courtyard with laughter. Inside at the desk, however, Sungmin is still staring at that letter. See you next time."
 CLOSING = ('youngmi', '또 봐요!')
 STORY = [
-    ('jihoon', '이삿짐센터가 은행길 집을 비우기 전에 다락방 선반에서 이 상자를 챙겼어요.', 'Before the movers cleared the Eunhaeng Lane house, I saved this box from the attic shelf.'),
+    ('jihoon', '이삿짐센터가 집을 비우기 전에 다락방 선반에서 이 상자를 챙겼어요.', 'Before the movers cleared the house, I saved this box from the attic shelf.'),
     ('minsu', '하얀 종이를 열어 볼게... 세상에! 할아버지가 직접 깎으신 나무 기관차잖아!', 'Let me open the white paper... my goodness! It is the wooden locomotive Grandfather carved himself!'),
     ('jihoon', '바퀴 아래쪽을 봐요. 형 이름하고 제 이름이 아직 연필로 적혀 있어요.', 'Look underneath the wheels. Your name and my name are still written there in pencil.'),
     ('minsu', '집을 팔았을 때 잃어버린 줄 알았어! 왜 날 위해 보관했어?', 'I thought it was lost when we sold the house! Why did you save it for me?'),

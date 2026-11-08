@@ -16,7 +16,7 @@ CLOSING = ('larisa', 'Всего доброго!')
 STORY = [
     ('roman', 'До переезда в Липовом переулке я спас эту коробку с полки на чердаке.', 'Before the move on Lipovy Lane, I saved this box from the shelf in the attic.'),
     ('gleb', 'Открой белую бумагу... нет! Деревянный резной паровозик дедушки!', "Open the white paper... no! Grandfather's carved wooden toy locomotive!"),
-    ('roman', 'Посмотри снизу под колёсами — твоё имя и моё ещё написаны там карандашом.', 'Look underneath under the wheels — your name and mine are still written there in pencil.'),
+    ('roman', 'До того, как грузчики освободили дом, я спас эту коробку с полки на чердаке.', 'Before the movers cleared the house, I saved this box from the attic shelf.'),
     ('gleb', 'Я думал, он пропал, когда мы продали дом! Зачем ты берёг его для меня?', 'I thought it was lost when we sold the house! Why did you keep it safe for me?'),
     ('roman', 'Потому что дом — это кирпич и брёвна, Глеб, а семья — это то, что мы бережём.', 'Because a house is brick and logs, Gleb, while family is what we treasure.'),
     ('larisa', 'И вы оба сохранили лучшую часть двенадцатого дома прямо здесь.', 'And the two of you preserved the best part of house number twelve right here.'),

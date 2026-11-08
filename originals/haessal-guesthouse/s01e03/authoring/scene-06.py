@@ -23,7 +23,7 @@ STORY = [
     ('sungmin', '물론 남의 수첩을 몰래 보면 안 되지만... 어, 가운데 페이지가 펼쳐져 있네요!', "Of course we must not peek at someone else's notebook... oh, the middle page fell right open!"),
     ('mina', '왜 우리 골목 게스트하우스 세 곳이 연필로 깔끔하게 그려져 있죠?', 'Why are three guesthouses on our lane neatly drawn in pencil?'),
     ('sora', "우리 집 옆에 적힌 글씨 좀 봐. '안마당 너비, 거리 소음, 정숙도 십 점 만점에 구 점!'", "Look at the writing beside our house: 'Courtyard width, street noise, quietness score: nine out of ten!'"),
-    ('sungmin', '십 점 만점에 구 점이라고요?! 보통 손님은 로비를 재지 않는데 설마...', 'Nine out of ten?! Ordinary guests do not measure lobbies unless...'),
+    ('sungmin', '십 점 만점에 구 점이라고요? 아무도 안마당 길이를 재지는 않아요, 혹시 이게 아니라면 말이죠!', 'Nine out of ten?! Nobody measures courtyards unless...'),
     ('sora', '설마 매년 나오는 서울 여행 가이드북 작가님 아니에요?!', 'Could he write for the annual Seoul travel guidebook?!'),
     ('mina', '얼른 덮어요! 위층에 가져다드릴게요... 어, 방금 저 큰 쇠 소리는 뭐예요?', 'Close it quickly! Let me take it upstairs... wait, what was that loud metal sound just now?'),
 ]
@@ -34,6 +34,6 @@ WALK = [
     (4, None, ["'Wait—whose small brown leather notebook is this on the counter?' Pocket notebooks are called ", (None, '수첩은'), ', and ', (None, '누구 거예요'), " asks 'whose is it?'."]),
     (6, None, ["'Of course we must not peek at someone else's notebook... oh, the middle page fell right open!' Doing something secretly on the sly uses ", (None, '몰래'), '.']),
     (8, None, ["'Look at the writing beside our house: Courtyard width, street noise, quietness score: nine out of ten!' Korean states 'out of ten points' first—", (None, '십 점 만점에'), '—and puts the earned score second.']),
-    (9, None, ["'Nine out of ten?! Ordinary guests do not measure lobbies unless...' When a wild suspicion suddenly dawns on you, ", (None, '설마'), " expresses 'surely not... could it be?'."]),
+    (9, None, ["'Nine out of ten?! Nobody measures courtyards unless...' When a wild suspicion suddenly dawns on you, ", (None, '혹시'), " expresses 'by any chance... could it be?'."]),
     (11, None, ["'Close it quickly! Let me take it upstairs... wait, what was that loud metal sound just now?' Closing a book or lid uses ", (None, '덮어요'), ', distinct from shutting a door.']),
 ]

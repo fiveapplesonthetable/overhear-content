@@ -19,7 +19,7 @@ STORY = [
     ('mina', '그럼 오늘 밤 난방도 안 되고 온수도 안 나와요?', 'Then is there neither heating nor hot water tonight?'),
     ('junho', '벽돌 벽이 열기를 품고 있어서 아침까지는 방이 따뜻할 거예요, 미나 씨.', 'Because the brick walls hold heat, the rooms will stay warm until morning, Mina.'),
     ('sungmin', '천만다행이네요! 그럼 내일 아침 샤워는요?', "Thank goodness! What about tomorrow morning's showers?"),
-    ('junho', '내일 아침 일곱 시에는 샤워기 물이 얼음장처럼 차가울 거예요.', 'At seven tomorrow morning, the shower water will be ice-cold.'),
+    ('junho', '내일 아침이면 샤워기 물이 얼음장처럼 찰 거예요.', 'By tomorrow morning, the shower water will be ice-cold.'),
     ('sungmin', '얼음물 샤워라고요?! 삼층에 서울 여행 가이드북 작가가 주무시는데요?!', 'Ice-water showers?! While the Seoul travel guidebook writer is sleeping on the third floor?!'),
     ('mina', '공구함에 여분 황동 밸브는 없어요?', 'Is there no spare brass valve in your toolbox?'),
     ('junho', '지난겨울에 마지막 하나를 썼어요. 다리 건너 오래된 철물점에만 이 치수가 있어요.', 'I used the last one this past winter. Only the old hardware shop across the bridge has this size.'),
@@ -30,7 +30,7 @@ STORY = [
 WALK = [
     (1, None, ["'Bad news. The brass pressure valve on the old boiler just broke down.' Machines, phones, and boilers fail with ", (None, '고장 났어요'), ", 'broke down'."]),
     (4, None, ["'Thank goodness! What about tomorrow morning's showers?' Big sighs of relief reach for ", (None, '천만다행이네요'), ", literally 'fortunate ten million times over'."]),
-    (5, None, ["'At seven tomorrow morning, the shower water will be ice-cold.' Comparing freezing water to a sheet of river ice uses ", (None, '얼음장처럼'), ", 'like a slab of ice'."]),
+    (5, None, ["'By tomorrow morning, the shower water will be ice-cold.' Comparing freezing water to a sheet of river ice uses ", (None, '얼음장처럼'), ", 'like a slab of ice'."]),
     (7, None, ["'Is there no spare brass valve in your toolbox?' Extra parts, towels, or keys kept in reserve are ", (None, '여분'), ", 'spare'."]),
     (8, None, ["'I used the last one this past winter. Only the old hardware shop across the bridge has this size.' Neighbourhood tool and pipe shops are called ", (None, '철물점에만'), ", literally 'iron-goods store'."]),
     (9, None, ["'What time does that hardware shop open its doors?' Asking what hour anything opens or starts uses ", (None, '몇 시에'), ", 'at what time?'."]),

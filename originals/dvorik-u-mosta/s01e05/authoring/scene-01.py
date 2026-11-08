@@ -23,8 +23,8 @@ STORY = [
     ('kira', 'Ваш старший брат живёт здесь в Петербурге?', 'Does your older brother live here in St Petersburg?'),
     ('roman', 'Да, он живёт здесь уже пять лет. Я испугался, позвонил в звонок и приклеил записку.', 'Yes, he has been living here for five years now. I panicked, rang the bell, and taped on the note.'),
     ('larisa', 'Стойте — а в среду вечером ты заселился сюда под своим настоящим именем?', 'Hold on — and on Wednesday night you checked in here under your real name?'),
-    ('roman', 'Мне было нужно тихое место рядом до пятницы, и я забыл, что мой чемодан всё ещё у вас!', 'I needed a quiet place nearby until Friday, and I forgot my suitcase was still with you!'),
-    ('kira', 'А во вторник вы позвонили и попросили не открывать белый свёрток!', 'And on Tuesday you called and asked us not to open the white parcel!'),
+    ('roman', 'Мне было нужно тихое место рядом до пятницы, и, честно говоря, я слишком стеснялся попросить вернуть мой чемодан!', 'I needed a quiet place nearby before Friday, and honestly felt too shy to ask for my bag!'),
+    ('kira', 'Даже после того, как во вторник вы позвонили нам насчёт белого свёртка!', 'Even after you called us on Tuesday about the white parcel!'),
     ('roman', 'Всё внутри этой белой бумаги принадлежит моему брату Глебу, а не мне.', 'Everything inside that white paper belongs to my brother Gleb, not to me.'),
 ]
 WALK = [
@@ -38,6 +38,6 @@ WALK = [
     (7, None, ["'Yes, he has been living here for five years now. I panicked, rang the bell, and taped on the note.' Ongoing life from past into present stays present in Russian: ", (None, 'живёт здесь уже пять лет.'), " literally says 'lives here already five years'."]),
     (8, None, ["'Hold on — and on Wednesday night you checked in here under your real name?' Genuine or real is ", (None, 'настоящим'), " — 'under his real name'."]),
     (9, None, ["'I needed a quiet place nearby until Friday, and I forgot my suitcase was still with you!' Past need uses neuter ", (None, 'Мне было нужно'), " matching neuter 'quiet place'."]),
-    (10, None, ["'And on Tuesday you called and asked us not to open the white parcel!' Something neatly wrapped up is ", (None, 'свёрток!'), ' — built from the action of rolling or wrapping paper.']),
+    (10, None, ["'Even after you called us on Tuesday about the white parcel!' Something neatly wrapped up is ", (None, 'свёртка!'), ' — here in the genitive case.']),
     (11, None, ["'Everything inside that white paper belongs to my brother Gleb, not to me.' Ownership by right uses ", (None, 'принадлежит'), " — 'belongs to'."]),
 ]

@@ -17,7 +17,7 @@ STORY = [
     ('yaroslav', 'Зоя, сколько булочек с корицей и лимонных пирогов ваша печь может печь каждое утро?', 'Zoya, how many cinnamon rolls and lemon cakes can your oven bake every morning?'),
     ('zoya', 'Вдвое больше, чем сейчас! Мы правда открываем кафе во дворике для нашей улицы?', 'Twice as much as now! Are we really opening the courtyard café for our street?'),
     ('yaroslav', 'С завтрашнего утра в восемь! Четыре столика внутри и три столика под деревом!', 'Starting tomorrow morning at eight! Four tables inside and three tables under the tree!'),
-    ('zoya', 'Кафе моей мечты — прямо в нашем родном дворике! Вот обрадуются на рынке!', 'The café of my dreams — right in our own dear courtyard! How thrilled everyone at the market will be!'),
+    ('zoya', 'Кафе моей мечты — прямо здесь, в нашем собственном дворике! Вот уж я расскажу об этом всей улице!', 'My dream cafe, right here in our own courtyard! Wait until I tell the whole street!'),
     ('yaroslav', 'А теперь, Кира: сегодня пятница — последний день вашей пробной недели.', 'And now, Kira: today is Friday — the last day of your trial week.'),
     ('kira', 'Ой! С чемоданами, котлом и письмом я совсем про это забыла!', 'Oh! With the suitcases, the boiler, and the letter, I completely forgot about that!'),
     ('yaroslav', 'В понедельник вы открыли нашу упрямую дверь, а потом спасли номера, трубы, завтрак и наш дом.', 'On Monday you opened our stubborn door, and since then you saved rooms, pipes, breakfast, and our house.'),

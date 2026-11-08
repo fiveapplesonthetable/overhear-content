@@ -17,7 +17,7 @@ STORY = [
     ('mina', '출입문에서 떨어진 여기 나무 아래에 작은 나무 탁자를 놓아요.', "Let's place the small wooden table right here under the tree, away from the doorway."),
     ('junho', '좋은 자리네요. 로비 창문 말고 정원 허브 쪽을 보게 튼튼한 의자 두 개를 두죠.', "Good spot. Let's set two sturdy chairs facing the garden herbs instead of the lobby window."),
     ('sora', '여기 깨끗한 하얀 식탁보하고 파란 찻잔 두 개야.', 'Here are a clean white tablecloth and two blue teacups.'),
-    ('mina', '준호 씨, 정오에 맞춰서 저기 매달린 종이 등불을 닦고 계세요?', 'Junho, are you polishing those hanging paper lanterns for noon?'),
+    ('mina', '준호 씨, 정오에 맞춰서 저 종이 등불을 달고 계세요?', 'Junho, are you hanging those paper lanterns for noon?'),
     ('junho', '원래 철사를 똑바로 펴야 했어요. 시설 관리에 감상적인 뜻은 없어요.', 'The wire needed straightening originally. There is nothing sentimental about maintenance.'),
     ('sora', '아이고, 우리 시설 과장님 말씀 좀 들어 봐! 어제는 보일러를 고치더니 오늘은 형제를 고치시네!', 'Oh my, listen to our maintenance chief talk! Yesterday you fixed the boiler, and today you fix two brothers!'),
     ('junho', '저는 배관하고 의자만 고쳐요. 사람 말은 사람이 직접 고쳐야죠.', 'I only fix pipes and chairs. People have to fix their own words themselves.'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (1, None, ["'Good spot. Let's set two sturdy chairs facing the garden herbs instead of the lobby window.' Strong wooden furniture and solid bridges earn the praise ", (None, '튼튼한'), ", 'sturdy'."]),
-    (3, None, ["'Junho, are you polishing those hanging paper lanterns for noon?' Glowing courtyard lamps are ", (None, '등불을'), ", joining 'lamp' with 'fire'."]),
+    (3, None, ["'Junho, are you hanging those paper lanterns for noon?' Glowing courtyard lamps are ", (None, '등불을'), ", joining 'lamp' with 'fire'."]),
     (4, None, ["'The wire needed straightening originally. There is nothing sentimental about maintenance.' Explaining what was planned from the start uses ", (None, '원래'), ", 'originally'."]),
     (5, None, ["'Oh my, listen to our maintenance chief talk! Yesterday you fixed the boiler, and today you fix two brothers!' Repairing broken things—or playfully mending relationships—uses ", (None, '고치더니'), ", from 'gochida', 'to fix'."]),
     (9, None, ["'Cooling on the rack right now. Golden-brown crust and sweet lemon sugar—it's spot on!' Freshly toasted bread and pastries get the mouth-watering Korean word ", (None, '노릇노릇한'), ", 'golden brown'."]),

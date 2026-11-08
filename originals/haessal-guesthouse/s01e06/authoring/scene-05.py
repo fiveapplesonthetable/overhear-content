@@ -18,7 +18,7 @@ STORY = [
     ('jihoon', '잠시만요, 사장님. 아래에 클립으로 묶인 두 번째 장은 읽어 보셨어요?', 'One moment, sir. Did you read the second page clipped underneath?'),
     ('sungmin', '작은 회색 숫자뿐이잖아요! 첫 장에서 제 심장이 멎었다고요!', 'It is nothing except tiny grey numbers! My heart stopped on page one!'),
     ('mina', '사장님, 지훈 님이 연필로 가리키는 곳을 보세요!', 'Boss, look where Mr Jihoon is pointing with his pencil!'),
-    ('jihoon', '서울 구도심 보존법 십사 조예요. 창밖에서 보던 우리 형도 방금 고개를 끄덕였어요!', 'Clause 14 of the Seoul Old Quarter Preservation Act. My brother watching outside the window just nodded too!'),
+    ('jihoon', '서울 구도심 보존법 십사 조예요. 여기 있는 우리 형도 방금 고개를 끄덕였어요!', 'Clause fourteen of the Seoul Old Quarter Act—and my brother here just nodded!'),
     ('sungmin', '쉬운 말로 설명해 주세요! 십사 조가 무슨 뜻이에요?', 'Please explain it in plain words! What does Clause 14 mean?'),
     ('jihoon', '팔십 년 넘은 안마당 건물은 일층을 매일 동네 주민에게 개방하면 개인 사무실로 못 바꿔요.', 'Any courtyard building over eighty years old cannot be turned into private offices if the ground floor is open daily to neighbourhood residents.'),
     ('mina', "'매일 동네 주민에게 개방'이라면... 누구나 오는 아침 카페처럼요?!", "'Open daily to neighbourhood residents'... like a morning café anyone can visit?!"),
@@ -28,7 +28,7 @@ STORY = [
     ('mina', '사장님! 이번에는 기쁜 일 때문에 코에서 안경이 미끄러졌어요!', 'Boss! This time your glasses slid down your nose for a happy reason!'),
 ]
 WALK = [
-    (4, None, ["'Clause 14 of the Seoul Old Quarter Preservation Act. My brother watching outside the window just nodded too!' Nodding your head in agreement uses the Korean expression ", (None, '고개를 끄덕였어요'), '.']),
+    (4, None, ["'Clause fourteen of the Seoul Old Quarter Act—and my brother here just nodded!' Nodding your head in agreement uses the Korean expression ", (None, '고개를 끄덕였어요'), '.']),
     (5, None, ["'Please explain it in plain words! What does Clause 14 mean?' Asking someone to drop jargon uses the handy phrase ", (None, '쉬운 말로'), ", literally 'in easy words'."]),
     (6, None, ["'Any courtyard building over eighty years old cannot be turned into private offices if the ground floor is open daily to neighbourhood residents.' Local people living on your street are ", (None, '주민에게'), ", 'to residents'."]),
     (8, None, ["'Exactly! Right now you only open your four tables to overnight guests.' Exact answers get a crisp ", (None, '정확해요'), ", 'that is exact'."]),
