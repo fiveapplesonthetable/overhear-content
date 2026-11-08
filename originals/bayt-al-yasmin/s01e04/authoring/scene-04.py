@@ -14,7 +14,7 @@ TRANSITION = "Let's hear the cellar repair scene again without pauses."
 OUTRO = "A steady blue flame and hot copper pipes—and Tariq even called Nour 'partner' instead of 'newcomer'! Let's go upstairs next time as Rami comes down from the attic. See you next time."
 CLOSING = ('nour', 'أشوفك!')
 STORY = [
-    ('nour', 'هي الصمامين النحاس يا طارق! آخد نفس؟ مستحيل!', 'Here are both brass valves, Tariq! Catch my breath? Impossible!'),
+    ('nour', 'هي الصمامين النحاس يا طارق! آخد نفس؟ مستحيل!', 'Here are both brass valves, Tariq! Catch my breath? Never!'),
     ('tariq', 'امسكي هاد الكشاف ثابت على وصلة الماسورة هون.', 'Hold this flashlight steady on the pipe joint right here.'),
     ('nour', 'ماسكيته! سكرت محبس المي الرئيسي؟', 'Holding it! Did you turn off the main water tap?'),
     ('tariq', 'مسكر ومصفى. ناوليني المفتاح الحديد التقيل على شمالك.', 'Turned off and drained. Pass me the heavy iron wrench on your left.'),
@@ -28,7 +28,7 @@ STORY = [
     ('tariq', 'تلات دقايق وبتوصل للطابق التالت. ركضة ممتازة اليوم يا شريكة.', 'Three minutes and it reaches the third floor. Great run today, partner.'),
 ]
 WALK = [
-    (0, None, ["'Here are both brass valves, Tariq! Catch my breath? Impossible!' Dramatic and punchy, ", (None, 'مستحيل!'), " means 'impossible!' or 'never!'."]),
+    (0, None, ["'Here are both brass valves, Tariq! Catch my breath? Never!' Dramatic and punchy, ", (None, 'مستحيل!'), " means 'impossible!' or 'never!'."]),
     (3, None, ["'Turned off and drained. Pass me the heavy iron wrench on your left.' At the table or in a workshop, ", (None, 'ناوليني'), " politely asks a woman 'hand me' or 'pass me'."]),
     (5, None, ["'One turn, two turns... look how cleanly the new brass thread fit in.' Counting 'one turn, two turns' naturally pairs singular ", (None, 'لفة'), ' with dual ', (None, 'لفتين'), '.']),
     (6, None, ["'Not a single drop of water! Can we start the boiler now?' Stress 'not even one' by placing ", (None, 'ولا'), ' before a singular noun like ', (None, 'ولا نقطة'), '.']),

@@ -17,7 +17,7 @@ STORY = [
     ('nour', 'خلينا نحط الطاولة الخشب الصغيرة هون تحت الشجرة، بعيد عن الباب.', 'Let us put the small wooden table right here under the tree, away from the door.'),
     ('tariq', 'مكان ممتاز. كرسيين قوايا، قبال زرع الساحة مش شباك المدخل.', 'Great spot. Two sturdy chairs, facing the courtyard plants rather than the lobby window.'),
     ('salma', 'وهي شرشف أبيض نظيف وفنجانين شاي زرق.', 'And here is a clean white cloth and two blue teacups.'),
-    ('nour', 'يا طارق، عم تلمع الفوانيس الورق المعلقة عشان الظهر؟', 'Tariq, are you polishing the hanging paper lanterns for noon?'),
+    ('nour', 'يا طارق، عم تعلق هدول الفوانيس الورق عشان الظهر؟', 'Tariq, are you hanging those paper lanterns for noon?'),
     ('tariq', 'السلك كان بده تعديل أصلا. الصيانة المنيحة ما فيها عواطف.', 'The wire needed straightening anyway. Good maintenance has nothing sentimental about it.'),
     ('salma', 'اسمعوا أستاذ صيانة! مبارح صلحت السخان، واليوم بتصلح بين أخوين!', 'Listen to Mr Maintenance! Yesterday you fixed the boiler, and today you fix things between two brothers!'),
     ('tariq', 'أنا بصلح مواسير وكراسي. الناس لازم تصلح حكيها لحالها.', 'I fix pipes and chairs. People have to fix their own words by themselves.'),

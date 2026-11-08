@@ -15,12 +15,12 @@ OUTRO = "Bright daylight on an old luggage tag just unlocked twenty-five years o
 CLOSING = ('suad', 'مع السلامة!')
 STORY = [
     ('tariq', 'خليني أحط الشنتة الزرقا هون خمس دقايق وأنا بكنس الخزانة.', 'Let me set the blue suitcase here for five minutes while I sweep the closet.'),
-    ('nour', 'انتبه عليها يا طارق، بكرا الظهر يوم الجمعة!', 'Be careful with it, Tariq, tomorrow at noon is Friday!'),
+    ('nour', 'دير بالك عليه يا طارق، الجمعة الظهر بيكون بكرة!', 'Careful with it, Tariq—Friday at noon is tomorrow!'),
     ('suad', 'أوه، هادي الشنتة التوأم من باص يوم التنين؟', "Oh, is that the twin suitcase from Monday's bus?"),
     ('nour', 'نعم يا مدام، لسا بتستنى صاحبها.', 'Yes, madam, still waiting for its owner.'),
     ('suad', 'ممكن أشوف البطاقة الورق كمان مرة هون بنور الشمس؟', 'May I look at the paper tag once again here in the sunlight?'),
     ('tariq', 'تفضلي يا مدام. يوم التنين العصر كان المدخل معتم.', 'Go right ahead, madam. On Monday afternoon the entrance was dim.'),
-    ('suad', 'لحظة شوي... رقم اطنعش، شارع الياسمين، وحرفين محفورين عالزاوية!', 'Wait a moment... Number twelve, Jasmine Street, and two initials carved on the corner!'),
+    ('suad', 'لحظة شوي... رقم اطنعش، شارع الياسمين، وحرفين مكتوبين عالزاوية!', 'Wait a moment... Number twelve, Jasmine Street, and two initials written in the corner!'),
     ('nour', 'مدام سعاد، شكلك مندهشة! بتعرفي رقم اطنعش بشارع الياسمين؟', 'Madam Suad, you look amazed! Do you know Number twelve on Jasmine Street?'),
     ('suad', 'بعرفه؟ كل جمعة لست سنين طلعت هاد الدرج الخشب أعلم بيانو!', 'Know it? Every Friday for six years I climbed those wooden stairs to teach piano!'),
     ('tariq', 'قبل خمسة وعشرين سنة؟ بنفس هاد البيت؟', 'Twenty-five years ago? In that very same house?'),
