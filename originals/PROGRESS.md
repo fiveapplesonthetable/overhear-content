@@ -63,3 +63,52 @@ All voices are synthetic (Qwen3-TTS VoiceDesign; Arabic through Chatterbox). Eve
 | ar-f3 | 0.0 | 166 Hz | ar-m3 | 0.0 | 112 Hz |
 
 Portuguese is now designed directly in Brazilian Portuguese. Arabic references use vocalized Jordanian text. Both sets replace the earlier shrill or English-speaking references that the owner complained about.
+
+## 5. Multi-Season Authoring Summary (108 Complete Episodes / 864 Scenes)
+
+- **English Master (`originals/_english/`):** Seasons 1–5 complete (`s01e01`–`s05e06`, 30 episodes / 240 master scenes).
+- **Localized & Validated Episodes in `originals/<show>/` (108 episodes / 864 scenes):**
+  - `ru-en` (`dvorik-u-mosta`): S1 (`s01e01`–`s01e06`), S2 (`s02e01`–`s02e06`), S3 (`s03e01`–`s03e03`) — **15 episodes (120 scenes)**
+  - `fr-en` (`hotel-du-tilleul`): S1 (`s01e01`–`s01e06`), S2 (`s02e01`–`s02e06`), S3 (`s03e01`–`s03e02`) — **14 episodes (112 scenes)**
+  - `es-en` (`posada-del-limonero`): S1 (`s01e01`–`s01e06`), S2 (`s02e01`–`s02e04`) — **10 episodes (80 scenes)**
+  - `it-en` (`locanda-del-tiglio`): S1 (`s01e01`–`s01e06`), S2 (`s02e01`–`s02e04`) — **10 episodes (80 scenes)**
+  - `pt-en` (`pousada-do-cajueiro`): S1 (`s01e01`–`s01e06`), S2 (`s02e01`–`s02e04`) — **10 episodes (80 scenes)**
+  - `de-en` (`pension-sonnenhof`): S1 (`s01e01`–`s01e06`), S2 (`s02e01`–`s02e04`) — **10 episodes (80 scenes)**
+  - `ar-en` (`bayt-al-yasmin`): S1 (`s01e01`–`s01e06`), S2 (`s02e01`–`s02e04`) — **10 episodes (80 scenes)**
+  - `ja-en` (`hidamari-ryokan`): S1 (`s01e01`–`s01e06`), S2 (`s02e01`–`s02e04`) — **10 episodes (80 scenes)**
+  - `ko-en` (`haessal-guesthouse`): S1 (`s01e01`–`s01e06`), S2 (`s02e01`–`s02e04`) — **10 episodes (80 scenes)**
+  - `zh-en` (`xiaoyuan-kezhan`): S1 (`s01e01`–`s01e06`), S2 (`s02e01`–`s02e03`) — **9 episodes (72 scenes)**
+
+## 6. Rendered & Released Audio Packages (`original-<episode>` on GitHub Releases)
+
+Following strict 3-2-1 cycle priority (`3 RU -> 2 FR -> 1 ES -> 1 IT -> 1 PT -> 1 DE -> 1 AR -> 1 JA -> 1 KO -> 1 ZH`):
+
+### Cycle 1 (13 / 13 Released — All 10 Languages Live)
+1. `original-dvorik-u-mosta-s01e01` (`ru-en`)
+2. `original-dvorik-u-mosta-s01e02` (`ru-en`)
+3. `original-dvorik-u-mosta-s01e03` (`ru-en`)
+4. `original-hotel-du-tilleul-s01e01` (`fr-en`)
+5. `original-hotel-du-tilleul-s01e02` (`fr-en`)
+6. `original-posada-del-limonero-s01e01` (`es-en`)
+7. `original-locanda-del-tiglio-s01e01` (`it-en`)
+8. `original-pousada-do-cajueiro-s01e01` (`pt-en`)
+9. `original-pension-sonnenhof-s01e01` (`de-en`)
+10. `original-bayt-al-yasmin-s01e01` (`ar-en`)
+11. `original-hidamari-ryokan-s01e01` (`ja-en`)
+12. `original-haessal-guesthouse-s01e01` (`ko-en`)
+13. `original-xiaoyuan-kezhan-s01e01` (`zh-en`)
+
+### Cycle 2 (8 / 13 Released, 3 Actively Rendering on A100, 2 Queued Next)
+14. `original-dvorik-u-mosta-s01e04` (`ru-en`) — Released
+15. `original-dvorik-u-mosta-s01e05` (`ru-en`) — Released
+16. `original-dvorik-u-mosta-s01e06` (`ru-en`) — Released (completes RU Season 1!)
+17. `original-hotel-du-tilleul-s01e03` (`fr-en`) — Released
+18. `original-hotel-du-tilleul-s01e04` (`fr-en`) — Released
+19. `original-posada-del-limonero-s01e02` (`es-en`) — Released
+20. `original-locanda-del-tiglio-s01e02` (`it-en`) — Released
+21. `original-pousada-do-cajueiro-s01e02` (`pt-en`) — Released
+- `pension-sonnenhof-s01e02` (`de-en`) — In progress (all 8 scenes rendered, finishing clips/forms)
+- `bayt-al-yasmin-s01e02` (`ar-en`) — In progress (6/8 scenes rendered, finishing scenes 7–8 + clips/forms)
+- `hidamari-ryokan-s01e02` (`ja-en`) — In progress (all 8 scenes rendered, finishing clips/forms)
+- `haessal-guesthouse-s01e02` (`ko-en`) — Queued next in Cycle 2
+- `xiaoyuan-kezhan-s01e02` (`zh-en`) — Queued next in Cycle 2
