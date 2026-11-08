@@ -1,0 +1,111 @@
+# Authoring module for linden-courtyard-de-s01e02-scene-08.
+ID = 'linden-courtyard-de-s01e02-scene-08'
+SHOW = 'linden-courtyard-de'
+SEASON = 1
+EPISODE = 2
+SCENE = 8
+TITLE = 'Two Names, One Room  (Zwei Namen, ein Zimmer)'
+LEVEL = 'A1 — Anfänger'
+PAIR = 'en-de'
+LABELS = {'arthur': 'Arthur', 'hannah': 'Hannah', 'graham': 'Graham'}
+INTRO = 'Am späten Mittwochnachmittag senkt sich die Dämmerung über Portland, als Arthur blass aus seinem Büro tritt — in der einen Hand das Tablet, in der anderen Grahams großes Papierbuch. Hannah und Graham schauen sofort auf. Hören Sie zuerst die ganze Szene.'
+OPENER = 'Nehmen wir dieses spannende Staffelfinale von Folge zwei nun Satz für Satz unter die Lupe.'
+TRANSITION = 'Hören wir uns die gesamte Schlussszene jetzt noch einmal im natürlichen Tempo an.'
+OUTRO = 'Zwei Gäste auf Zimmer sieben gebucht, strömender Regen vor der Tür und nur noch vierzig Minuten bis zum Acht-Uhr-Zug! Damit endet Folge zwei — seien Sie auch in Folge drei wieder dabei, wenn sich zeigt, ob das alte Dachzimmer den Abend retten kann!'
+CLOSING = ('arthur', 'See you tomorrow!')
+STORY = [('arthur',
+  'Graham... Hannah... please tell me room six is free tonight.',
+  'Graham... Hannah... bitte sagt mir, dass Zimmer sechs heute Nacht frei ist.'),
+ ('hannah',
+  'No, Arthur, the couple from the south checked into room six an hour ago.',
+  'Nein, Arthur, das Paar aus dem Süden hat vor einer Stunde in Zimmer sechs eingecheckt.'),
+ ('graham',
+  'Every key from one to seven is taken, and room eight has wet paint.',
+  'Jeder Schlüssel von eins bis sieben ist vergeben, und in Zimmer acht ist die Farbe noch nass.'),
+ ('arthur',
+  'Oh, disaster! Yesterday I took a phone booking on the tablet without my glasses!',
+  'Oje, eine Katastrophe! Gestern habe ich ohne Brille eine telefonische Buchung auf dem Tablet angenommen!'),
+ ('hannah',
+  'Wait, let me look at the tablet screen and the paper book together.',
+  'Warte mal, lass mich gemeinsam auf den Tablet-Bildschirm und ins Papierbuch schauen.'),
+ ('graham',
+  'Let me guess. You promised somebody a room we do not have?',
+  'Lass mich raten. Du hast jemandem ein Zimmer versprochen, das wir gar nicht haben?'),
+ ('hannah',
+  'Arthur! Room seven is already occupied, and you booked a second guest into room seven!',
+  'Arthur! Zimmer sieben ist schon belegt, und du hast einen zweiten Gast auf Zimmer sieben gebucht!'),
+ ('arthur',
+  "And he arrives on the eight o'clock evening train, in forty minutes!",
+  'Und er kommt mit dem Abendzug um acht Uhr an, in vierzig Minuten!'),
+ ('graham', 'Told you that tablet is a trap.', 'Hab dir doch gesagt, dass dieses Tablet eine Falle ist.'),
+ ('arthur',
+  'It is raining outside and every hotel on our street is full! What do we do?',
+  'Draußen regnet es, und jedes Hotel in unserer Straße ist ausgebucht! Was machen wir jetzt?'),
+ ('hannah',
+  'Wait, what is on the third floor above the stairs?',
+  'Moment mal, was liegt eigentlich im zweiten Stock oben über der Treppe?'),
+ ('graham', 'The old sunny attic study... follow me, quickly!', 'Das alte sonnige Arbeitszimmer unterm Dach... folgt mir, schnell!')]
+WALK = [(0,
+  None,
+  ["'Graham... Hannah... bitte sagt mir, dass Zimmer sechs heute Nacht frei ist.' In",
+   (None, 'is free tonight'),
+   'fasst ein einziges englisches Zeitwort den gesamten heutigen Abend und die kommende Nacht zusammen.']),
+ (1,
+  None,
+  ["'Nein, Arthur, das Paar aus dem Süden hat vor einer Stunde in Zimmer sechs eingecheckt.' Beim Beziehen eines Hotelzimmers verbindet",
+   (None, 'checked into room six'),
+   'das Verb mit dem Verhältniswort der Bewegung nach innen.']),
+ (2,
+  None,
+  ["'Jeder Schlüssel von eins bis sieben ist vergeben, und in Zimmer acht ist die Farbe noch nass.' Was auf Schildern bei uns frisch "
+   'gestrichen heißt, nennt das Englische knapp',
+   (None, 'wet paint'),
+   'also feuchte Farbe.']),
+ (3,
+  None,
+  ["'Oje, eine Katastrophe! Gestern habe ich ohne Brille eine telefonische Buchung auf dem Tablet angenommen!' Bei elektronischen Geräten "
+   'und Bildschirmen wählt das Englische regelmäßig die Wendung',
+   (None, 'on the tablet'),
+   'wie auf einer Oberfläche.']),
+ (4,
+  None,
+  ["'Warte mal, lass mich gemeinsam auf den Tablet-Bildschirm und ins Papierbuch schauen.' Ganz ans Satzende gerückt, bedeutet",
+   (None, 'together'),
+   'hier beide Quellen nebeneinander abgleichen.']),
+ (5,
+  None,
+  ["'Lass mich raten. Du hast jemandem ein Zimmer versprochen, das wir gar nicht haben?' Die trockene Einleitung",
+   (None, 'Let me guess'),
+   'deckt sich Wort für Wort mit unserem deutschen Lass mich raten.']),
+ (6,
+  None,
+  ["'Arthur! Zimmer sieben ist schon belegt, und du hast einen zweiten Gast auf Zimmer sieben gebucht!' Aus dem Hauptwort für Buch wird in",
+   (None, 'you booked'),
+   'ganz regelmäßig das Verb für reservieren.']),
+ (7,
+  None,
+  ["'Und er kommt mit dem Abendzug um acht Uhr an, in vierzig Minuten!' Für feste Fahrpläne reicht im Englischen die einfache "
+   'Gegenwartsform',
+   (None, 'he arrives'),
+   'auch wenn der Zug erst in vierzig Minuten eintrifft.']),
+ (8,
+  None,
+  ["'Hab dir doch gesagt, dass dieses Tablet eine Falle ist.' In der lässigen Alltagskurzform",
+   (None, 'Told you'),
+   'lässt Graham am Anfang das eigene Fürwort weg, genau wie unser Hab ich dir doch gesagt.']),
+ (9,
+  None,
+  ["'Draußen regnet es, und jedes Hotel in unserer Straße ist ausgebucht! Was machen wir jetzt?' Ratlose Entscheidungsfragen im Team "
+   'bildet das Englische lebendig mit',
+   (None, 'What do we do'),
+   'in der Gegenwart.']),
+ (10,
+  None,
+  ["'Moment mal, was liegt eigentlich im zweiten Stock oben über der Treppe?' Weil ab dem Erdgeschoss gezählt wird, meint",
+   (None, 'on the third floor'),
+   'das zweite Obergeschoss direkt unterm Dach.']),
+ (11,
+  None,
+  ["'Das alte sonnige Arbeitszimmer unterm Dach... folgt mir, schnell!' Anders als im Deutschen verlangt",
+   (None, 'follow me'),
+   'keinen Wemfall, sondern nimmt die Person direkt als Objekt zu sich.'])]

@@ -1,0 +1,108 @@
+# Authoring module for linden-courtyard-de-s01e02-scene-01.
+ID = 'linden-courtyard-de-s01e02-scene-01'
+SHOW = 'linden-courtyard-de'
+SEASON = 1
+EPISODE = 2
+SCENE = 1
+TITLE = 'The Red Ribbon  (Das rote Band)'
+LEVEL = 'A1 — Anfänger'
+PAIR = 'en-de'
+LABELS = {'hannah': 'Hannah', 'evelyn': 'Evelyn', 'graham': 'Graham'}
+INTRO = 'Der Dienstagmorgen bricht klar und sonnig über dem Gasthof Lindenhof an. Evelyn kommt rasch hinunter an die Rezeption, wo Hannah und Graham sie bereits mit ihrem wiedergefundenen Koffer erwarten. Hören Sie sich zuerst die gesamte Szene im Zusammenhang an.'
+OPENER = 'Schauen wir uns dieses freudige Wiedersehen nun Satz für Satz genauer an.'
+TRANSITION = 'Hören wir uns die ganze Szene jetzt noch einmal im natürlichen Gesprächsrhythmus an.'
+OUTRO = 'Evelyn hat ihre geliebte Teetasse und ihre Kleidung wieder, und zugleich erwacht eine leise Erinnerung an die Zeit vor fünfundzwanzig Jahren. Doch nebenan in der Frühstücksküche bahnt sich schon die nächste Aufregung an. Bis gleich!'
+CLOSING = ('evelyn', 'See you soon!')
+STORY = [('hannah',
+  'Good morning, Miss Evelyn! Look what arrived at our gate last night.',
+  'Guten Morgen, Frau Evelyn! Schauen Sie mal, was gestern Abend an unserem Tor stand.'),
+ ('evelyn',
+  'My suitcase! Let me open the top pocket... yes, my red ribbon!',
+  'Mein Koffer! Lassen Sie mich das obere Fach öffnen... ja, mein rotes Band!'),
+ ('graham', 'And your teacup inside? Is it still in one piece?', 'Und Ihre Teetasse darin? Ist sie noch ganz?'),
+ ('evelyn', 'Not a single crack! Who brought it back?', 'Kein einziger Sprung! Wer hat ihn zurückgebracht?'),
+ ('hannah',
+  'We do not know. Someone left it on the step and rang the bell.',
+  'Wir wissen es nicht. Jemand hat ihn auf die Stufe gestellt und geklingelt.'),
+ ('evelyn',
+  'And he did not ask for his own suitcase with the wooden train?',
+  'Und er hat gar nicht nach seinem eigenen Koffer mit der Holzeisenbahn gefragt?'),
+ ('graham',
+  'He left a short note asking us to keep it until Friday.',
+  'Er hat eine kurze Notiz hinterlassen und uns gebeten, ihn bis Freitag aufzubewahren.'),
+ ('evelyn',
+  'How curious! The handwriting on that tag felt oddly familiar to me.',
+  'Wie merkwürdig! Die Handschrift auf dem Anhänger kam mir seltsam vertraut vor.'),
+ ('hannah', 'Really? Do you know someone in Portland?', 'Wirklich? Kennen Sie jemanden in Portland?'),
+ ('evelyn',
+  'Twenty-five years ago I taught piano near here, though memories fade.',
+  'Vor fünfundzwanzig Jahren habe ich hier in der Nähe Klavier unterrichtet, auch wenn Erinnerungen verblassen.'),
+ ('graham', 'For now, his bag stays safe under lock and key.', 'Vorerst bleibt seine Tasche sicher hinter Schloss und Riegel.'),
+ ('evelyn', 'Wonderful! Now I am ready for a big breakfast.', 'Wunderbar! Jetzt bin ich bereit für ein großes Frühstück.')]
+WALK = [(0,
+  None,
+  ["'Guten Morgen, Frau Evelyn! Schauen Sie mal, was gestern Abend an unserem Tor stand.' Im Englischen meint",
+   (None, 'last night'),
+   'ohne Artikel meistens schon den gestrigen späten Abend und nicht erst die tiefe Nacht.']),
+ (1,
+  None,
+  ["'Mein Koffer! Lassen Sie mich das obere Fach öffnen... ja, mein rotes Band!' Nach der höflichen Einleitung",
+   (None, 'Let me open'),
+   'steht das folgende Verb stets in der reinen Grundform.']),
+ (2,
+  None,
+  ["'Und Ihre Teetasse darin? Ist sie noch ganz?' Die bildhafte Wendung",
+   (None, 'in one piece'),
+   'fragt wörtlich, ob ein zerbrechlicher Gegenstand noch in einem einzigen Stück erhalten ist.']),
+ (3,
+  None,
+  ["'Kein einziger Sprung! Wer hat ihn zurückgebracht?' Ist das Fragewort selbst das handelnde Subjekt wie in",
+   (None, 'Who brought it back'),
+   'entfällt im Englischen jedes zusätzliche Fragehilfsverb.']),
+ (4,
+  None,
+  ["'Wir wissen es nicht. Jemand hat ihn auf die Stufe gestellt und geklingelt.' Während wir im Deutschen ein kurzes es einfügen, genügt "
+   'auf Englisch das knappe',
+   (None, 'We do not know'),
+   'ohne jedes Objekt.']),
+ (5,
+  None,
+  ["'Und er hat gar nicht nach seinem eigenen Koffer mit der Holzeisenbahn gefragt?' Allein bedeutet das Verb fragen, doch in der "
+   'Verbindung',
+   (None, 'ask for'),
+   'bekommt es den Sinn um etwas bitten oder nach etwas verlangen.']),
+ (6,
+  None,
+  ["'Er hat eine kurze Notiz hinterlassen und uns gebeten, ihn bis Freitag aufzubewahren.' Statt eines langen Nebensatzes knüpft",
+   (None, 'asking us to keep'),
+   'die Bitte auf der Notiz elegant und verkürzt direkt an.']),
+ (7,
+  None,
+  ["'Wie merkwürdig! Die Handschrift auf dem Anhänger kam mir seltsam vertraut vor.' Das zusammengesetzte Hauptwort",
+   (None, 'handwriting'),
+   'wird im Englischen als unzählbarer Begriff für das persönliche Schriftbild gebraucht.']),
+ (8,
+  None,
+  ["'Wirklich? Kennen Sie jemanden in Portland?' Ein und dasselbe Verb deckt im Englischen sowohl Tatsachen wissen als auch Personen "
+   'kennen ab, wie hier in',
+   (None, 'know someone'),
+   'sehr schön hörbar wird.']),
+ (9,
+  None,
+  ["'Vor fünfundzwanzig Jahren habe ich hier in der Nähe Klavier unterrichtet, auch wenn Erinnerungen verblassen.' Das kleine Wort",
+   (None, 'ago'),
+   'steht in',
+   (None, 'Twenty-five years ago'),
+   'immer hinter der Zeitspanne und verlangt die abgeschlossene Vergangenheit wie',
+   (None, 'taught'),
+   'mit stummem Reibelaut.']),
+ (10,
+  None,
+  ["'Vorerst bleibt seine Tasche sicher hinter Schloss und Riegel.' Die feste Redewendung",
+   (None, 'under lock and key'),
+   'entspricht fast Bild für Bild unserem deutschen Ausdruck hinter Schloss und Riegel.']),
+ (11,
+  None,
+  ["'Wunderbar! Jetzt bin ich bereit für ein großes Frühstück.' Wer für etwas startklar ist, verbindet das Eigenschaftswort über",
+   (None, 'ready for'),
+   'direkt mit der folgenden Mahlzeit oder Aufgabe.'])]

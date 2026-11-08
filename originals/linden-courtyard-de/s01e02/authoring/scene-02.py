@@ -1,0 +1,106 @@
+# Authoring module for linden-courtyard-de-s01e02-scene-02.
+ID = 'linden-courtyard-de-s01e02-scene-02'
+SHOW = 'linden-courtyard-de'
+SEASON = 1
+EPISODE = 2
+SCENE = 2
+TITLE = 'No Milk in the Fridge  (Keine Milch im Kühlschrank)'
+LEVEL = 'A1 — Anfänger'
+PAIR = 'en-de'
+LABELS = {'tessa': 'Tessa', 'hannah': 'Hannah', 'arthur': 'Arthur'}
+INTRO = 'Drüben in der Café-Küche reißt Tessa den Kühlschrank auf und stößt einen Seufzer aus, gerade als Hannah und Arthur hereinkommen. Oben wachen acht hungrige Gäste auf, und in zwanzig Minuten beginnt das Frühstück. Hören Sie zuerst zu.'
+OPENER = 'Gehen wir diesen turbulenten Küchenmorgen nun Satz für Satz gemeinsam durch.'
+TRANSITION = 'Hören wir uns den gesamten Küchennotfall jetzt noch einmal in voller Fahrt an.'
+OUTRO = 'Mit Einkaufsliste und Bargeld aus der Kasse spurtet Hannah los zum Eckladen. In der nächsten Szene sehen wir, womit sie nach neun Minuten zurückkehrt!'
+CLOSING = ('hannah', 'See you later!')
+STORY = [('tessa', 'Oh no! Arthur, Hannah, we have a kitchen emergency!', 'Oh nein! Arthur, Hannah, wir haben einen Küchennotfall!'),
+ ('arthur',
+  'Please do not say the word emergency before my morning coffee!',
+  'Bitte nimm vor meinem Morgenkaffee nicht das Wort Notfall in den Mund!'),
+ ('tessa',
+  'The dairy van has a flat tire outside town. Look in the fridge!',
+  'Der Milchwagen hat außerhalb der Stadt eine Reifenpanne. Schaut mal in den Kühlschrank!'),
+ ('hannah', 'One tiny splash of milk, two eggs, and no butter at all!', 'Ein winziger Schuss Milch, zwei Eier und überhaupt keine Butter!'),
+ ('arthur',
+  'Eight hungry guests will come down the stairs at seven thirty!',
+  'Um halb acht kommen acht hungrige Gäste die Treppe herunter!'),
+ ('tessa', 'My bread dough is ready in the oven, at least.', 'Mein Brotteig im Ofen ist wenigstens fertig.'),
+ ('hannah',
+  'Give me a bag and some cash! The corner market opens at seven.',
+  'Gebt mir eine Tasche und etwas Bargeld! Der Eckladen macht um sieben auf.'),
+ ('arthur', 'Can you run there and back in ten minutes?', 'Schaffst du es im Laufschritt in zehn Minuten hin und zurück?'),
+ ('hannah', 'Watch me! Tell me exactly what to buy.', 'Schau mir zu! Sag mir genau, was ich kaufen soll.'),
+ ('tessa',
+  'Three bottles of milk, twenty eggs, butter, cheese, and red apples!',
+  'Drei Flaschen Milch, zwanzig Eier, Butter, Käse und rote Äpfel!'),
+ ('arthur',
+  'Here is fifty from the cash box. Bring back the receipt!',
+  'Hier sind fünfzig aus der Geldkassette. Bring die Quittung mit zurück!'),
+ ('hannah', 'Hold the fort, I am already out the door!', 'Haltet hier die Stellung, ich bin schon zur Tür hinaus!')]
+WALK = [(0,
+  None,
+  ["'Oh nein! Arthur, Hannah, wir haben einen Küchennotfall!' Im Englischen stellt man einfach zwei Hauptwörter nebeneinander, sodass",
+   (None, 'kitchen emergency'),
+   'sofort als griffiger Küchennotfall funktioniert.']),
+ (1,
+  None,
+  ["'Bitte nimm vor meinem Morgenkaffee nicht das Wort Notfall in den Mund!' Auch vor einem höflichen Bitte-Wort bleibt die verneinte "
+   'Befehlsform in',
+   (None, 'Please do not say'),
+   'fest an das Hilfsverb gebunden.']),
+ (2,
+  None,
+  ["'Der Milchwagen hat außerhalb der Stadt eine Reifenpanne. Schaut mal in den Kühlschrank!' Eine Reifenpanne beschreibt das "
+   'amerikanische Englisch anschaulich mit',
+   (None, 'a flat tire'),
+   'also wörtlich einem platten Reifen.']),
+ (3,
+  None,
+  ["'Ein winziger Schuss Milch, zwei Eier und überhaupt keine Butter!' Der Nachsatz",
+   (None, 'at all'),
+   'verstärkt die Verneinung in',
+   (None, 'no butter'),
+   'am Satzende zu überhaupt keine Butter.']),
+ (4,
+  None,
+  ["'Um halb acht kommen acht hungrige Gäste die Treppe herunter!' Vor dem Hauptwort bleibt das Eigenschaftswort in",
+   (None, 'hungry guests'),
+   'wie gewohnt ohne jede Mehrzahlendung.']),
+ (5,
+  None,
+  ["'Mein Brotteig im Ofen ist wenigstens fertig.' Flexibel an das Satzende gestellt, spendet",
+   (None, 'at least'),
+   'einen kleinen Trost mitten in der Aufregung.']),
+ (6,
+  None,
+  ["'Gebt mir eine Tasche und etwas Bargeld! Der Eckladen macht um sieben auf.' Da Bargeld im Englischen unzählbar ist, greift Hannah mit",
+   (None, 'some cash'),
+   'zu dem Begleiter für unbestimmte Mengen.']),
+ (7,
+  None,
+  ["'Schaffst du es im Laufschritt in zehn Minuten hin und zurück?' Das kurze Paar",
+   (None, 'there and back'),
+   'entspricht Wort für Wort unserem deutschen hin und zurück.']),
+ (8,
+  None,
+  ["'Schau mir zu! Sag mir genau, was ich kaufen soll.' Nach dem selbstbewussten Ausruf",
+   (None, 'Watch me'),
+   'erspart die verkürzte Frageformel',
+   (None, 'what to buy'),
+   'einen ganzen Nebensatz mit sollen.']),
+ (9,
+  None,
+  ["'Drei Flaschen Milch, zwanzig Eier, Butter, Käse und rote Äpfel!' Mengenangaben bei Flüssigkeiten verlangen im Englischen ein "
+   'Bindewort, wie',
+   (None, 'Three bottles of milk'),
+   'deutlich zeigt.']),
+ (10,
+  None,
+  ["'Hier sind fünfzig aus der Geldkassette. Bring die Quittung mit zurück!' Die Verbindung",
+   (None, 'Bring back'),
+   'kombiniert das Grundverb mit der Rückrichtung genau wie unser mitbringen.']),
+ (11,
+  None,
+  ["'Haltet hier die Stellung, ich bin schon zur Tür hinaus!' Genau wie im Deutschen sagt man augenzwinkernd",
+   (None, 'Hold the fort'),
+   'wenn die anderen inzwischen das Haus hüten sollen.'])]

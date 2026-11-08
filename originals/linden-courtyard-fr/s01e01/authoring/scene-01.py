@@ -1,0 +1,103 @@
+# Authoring module for linden-courtyard-fr-s01e01-scene-01.
+ID = 'linden-courtyard-fr-s01e01-scene-01'
+SHOW = 'linden-courtyard-fr'
+SEASON = 1
+EPISODE = 1
+SCENE = 1
+TITLE = 'Lift the Handle  (Soulevez la poignée)'
+LEVEL = 'A1 — débutant'
+PAIR = 'en-fr'
+LABELS = {'hannah': 'Hannah', 'graham': 'Graham'}
+INTRO = "Hannah arrive en avance pour sa toute première matinée à l'Auberge de la Cour du Tilleul, à Portland. Derrière le comptoir de la réception, Graham, le fidèle responsable de l'entretien, se sert déjà un thé bien chaud. Écoutez d'abord toute la scène sans chercher à comprendre chaque mot."
+OPENER = 'Reprenons maintenant cet échange tranquillement, réplique après réplique.'
+TRANSITION = 'Écoutons à nouveau toute la scène à vitesse naturelle.'
+OUTRO = 'Hannah est entrée, les huit clés en laiton pendent au tableau et sa première matinée vient tout juste de commencer. Ne vous inquiétez pas si certains mots ont filé vite; vous les réentendrez tout au long de la semaine. À très vite!'
+CLOSING = ('hannah', 'See you soon!')
+STORY = [('hannah', 'Good morning! Excuse me, is the door locked?', 'Bonjour! Excusez-moi, la porte est-elle fermée à clé?'),
+ ('graham', 'Good morning. No, lift the handle first, then push.', "Bonjour. Non, soulevez d'abord la poignée, puis poussez."),
+ ('hannah',
+  'Oh, it opens! Thank you. I am Hannah, the new receptionist.',
+  "Ah, elle s'ouvre! Merci. Je suis Hannah, la nouvelle réceptionniste."),
+ ('graham', 'I am Graham. You are ten minutes early.', 'Je suis Graham. Vous êtes dix minutes en avance.'),
+ ('hannah', 'I always walk fast on my first day. Where is the computer?', "Je marche toujours vite le premier jour. Où est l'ordinateur?"),
+ ('graham',
+  'In the drawer. Here we use this big paper book and a pencil.',
+  'Dans le tiroir. Ici, nous utilisons ce grand registre en papier et un crayon.'),
+ ('hannah', 'A paper book? Really?', 'Un registre en papier? Vraiment?'),
+ ('graham', 'Paper never loses the room list when it rains.', 'Le papier ne perd jamais la liste des chambres quand il pleut.'),
+ ('hannah', 'Fair enough! And these are the keys?', "C'est logique! Et ce sont les clés?"),
+ ('graham',
+  'Yes, eight rooms, eight brass keys. Room four is arriving today.',
+  "Oui, huit chambres, huit clés en laiton. La chambre quatre arrive aujourd'hui."),
+ ('hannah', 'Great. Tell me everything I need to know.', "Parfait. Dites-moi tout ce que j'ai besoin de savoir."),
+ ('graham',
+  'Rule one: drink hot tea first, then answer the bell.',
+  "Règle numéro un: buvez d'abord du thé chaud, puis répondez à la sonnette.")]
+WALK = [(0,
+  None,
+  ["'Bonjour! Excusez-moi, la porte est-elle fermée à clé?' Le matin jusqu'à midi, les anglophones saluent avec",
+   (None, 'Good morning'),
+   'et inversent simplement le verbe',
+   (None, 'is'),
+   'devant le sujet pour poser une question.']),
+ (1,
+  None,
+  ["'Bonjour. Non, soulevez d'abord la poignée, puis poussez.' Pour donner une consigne directe en anglais, on pose le verbe nu sans "
+   'pronom:',
+   (None, 'lift'),
+   "d'abord, puis",
+   (None, 'push'),
+   'tout simplement.']),
+ (2,
+  None,
+  ["'Ah, elle s'ouvre! Merci. Je suis Hannah, la nouvelle réceptionniste.' Remarquez",
+   (None, 'it opens'),
+   "car l'anglais désigne tout objet inanimé par le pronom neutre, même une porte féminine en français."]),
+ (3,
+  None,
+  ['\'Je suis Graham. Vous êtes dix minutes en avance.\' Là où nous disons "avoir de l\'avance" ou "arriver en avance", l\'anglais '
+   'construit',
+   (None, 'You are ten minutes early'),
+   'avec le verbe être.']),
+ (4,
+  None,
+  ["'Je marche toujours vite le premier jour. Où est l'ordinateur?' Devant un jour précis du calendrier, l'anglais choisit la préposition",
+   (None, 'on my first day'),
+   "comme si l'action reposait sur cette journée."]),
+ (5,
+  None,
+  ["'Dans le tiroir. Ici, nous utilisons ce grand registre en papier et un crayon.' Observez l'ordre des mots dans",
+   (None, 'big paper book'),
+   'où la taille et la matière se placent directement devant le nom sans préposition.']),
+ (6,
+  None,
+  ["'Un registre en papier? Vraiment?' Cette réaction très brève,",
+   (None, 'Really'),
+   'suffit avec une intonation montante pour marquer un étonnement poli.']),
+ (7,
+  None,
+  ["'Le papier ne perd jamais la liste des chambres quand il pleut.' Écoutez la finale",
+   (None, 'when it rains'),
+   'qui garde exactement comme en français un petit sujet impersonnel pour la météo.']),
+ (8,
+  None,
+  ["'C'est logique! Et ce sont les clés?' Quand un argument plein de bon sens vous convainc, l'expression",
+   (None, 'Fair enough'),
+   "reconnaît avec sourire que l'autre a raison."]),
+ (9,
+  None,
+  ["'Oui, huit chambres, huit clés en laiton. La chambre quatre arrive aujourd'hui.' La tournure progressive",
+   (None, 'is arriving today'),
+   'annonce un événement déjà prévu au programme de la journée.']),
+ (10,
+  None,
+  ["'Parfait. Dites-moi tout ce que j'ai besoin de savoir.' Juste après",
+   (None, 'everything'),
+   "l'anglais enchaîne sans mot de liaison vers",
+   (None, 'I need to know'),
+   'ce qui rend la phrase très fluide.']),
+ (11,
+  None,
+  ["'Règle numéro un: buvez d'abord du thé chaud, puis répondez à la sonnette.' On n'utilise pas seulement ce verbe pour le téléphone:",
+   (None, 'answer the bell'),
+   'veut dire aller ouvrir ou répondre au comptoir quand on sonne.'])]

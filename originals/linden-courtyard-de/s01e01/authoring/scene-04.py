@@ -1,0 +1,106 @@
+# Authoring module for linden-courtyard-de-s01e01-scene-04.
+ID = 'linden-courtyard-de-s01e01-scene-04'
+SHOW = 'linden-courtyard-de'
+SEASON = 1
+EPISODE = 1
+SCENE = 4
+TITLE = 'Room Four on the Second Floor  (Zimmer vier im ersten Stock)'
+LEVEL = 'A1 — Anfänger'
+PAIR = 'en-de'
+LABELS = {'hannah': 'Hannah', 'evelyn': 'Evelyn', 'graham': 'Graham'}
+INTRO = 'An der Rezeption tritt die pensionierte Klavierlehrerin Evelyn aus dem Taxi herein und zieht einen großen dunkelblauen Koffer hinter sich her. Hannah begrüßt ihren ersten echten Hotelgast, während Graham schon hilfsbereit für das Gepäck bereitsteht. Hören wir zu, wie das Einchecken verläuft.'
+OPENER = 'Gehen wir nun gemeinsam Zeile für Zeile durch dieses Gespräch an der Rezeption.'
+TRANSITION = 'Hören Sie sich die komplette Szene jetzt noch einmal ohne Unterbrechung an.'
+OUTRO = 'Hannah hat ihren ersten Empfang souverän gemeistert, doch Graham ist sofort aufgefallen, wie ungewöhnlich schwer dieser blaue Koffer wiegt. In der nächsten Szene erfahren wir, was dahintersteckt — bis gleich!'
+CLOSING = ('evelyn', 'Take care!')
+STORY = [('hannah', "Welcome! Good morning, ma'am.", 'Herzlich willkommen! Guten Morgen.'),
+ ('evelyn',
+  'Good morning, my dear. I have a room for Evelyn.',
+  'Guten Morgen, meine Liebe. Ich habe ein Zimmer auf den Namen Evelyn reserviert.'),
+ ('hannah', 'Yes, room four on the second floor! How was your train trip?', 'Ja, Zimmer vier im ersten Stock! Wie war Ihre Zugfahrt?'),
+ ('evelyn',
+  'Quiet and pleasant, thank you, though this suitcase feels very heavy today.',
+  'Ruhig und angenehm, vielen Dank, obwohl sich dieser Koffer heute sehr schwer anfühlt.'),
+ ('graham', 'Allow me. Goodness, did you pack stones in here?', 'Gestatten Sie mir. Meine Güte, haben Sie hier Steine eingepackt?'),
+ ('evelyn', 'Only dresses, sheet music, and my favorite teacup!', 'Nur Kleider, Notenblätter und meine Lieblingsteetasse!'),
+ ('hannah',
+  'Here is your key, number four. Breakfast is from seven thirty to ten.',
+  'Hier ist Ihr Schlüssel, Nummer vier. Frühstück gibt es von halb acht bis zehn.'),
+ ('evelyn',
+  'Wonderful. Is the window facing the street or the courtyard?',
+  'Wunderbar. Geht das Fenster zur Straße oder zum Innenhof hinaus?'),
+ ('hannah', 'The courtyard, right above the old tree. It is very quiet.', 'Zum Innenhof, direkt über dem alten Baum. Es ist sehr ruhig.'),
+ ('evelyn', 'Just what I need. Where are the stairs?', 'Genau das, was ich brauche. Wo ist die Treppe?'),
+ ('graham',
+  'Right through this archway. I will carry the blue bag up for you.',
+  'Gleich durch diesen Torbogen. Ich trage Ihnen den blauen Koffer hinauf.'),
+ ('evelyn', 'Thank you both very much.', 'Vielen herzlichen Dank Ihnen beiden.')]
+WALK = [(0,
+  None,
+  ["'Herzlich willkommen! Guten Morgen.' Im amerikanischen Alltag rundet die höfliche Anrede",
+   (None, "ma'am"),
+   'einen Gruß gegenüber einer Kundin oder einem weiblichen Gast respektvoll ab.']),
+ (1,
+  None,
+  ["'Guten Morgen, meine Liebe. Ich habe ein Zimmer auf den Namen Evelyn reserviert.' Beim Einchecken genügt die schlichte Formel",
+   (None, 'I have a room for'),
+   'gefolgt vom eigenen Namen.']),
+ (2,
+  None,
+  ["'Ja, Zimmer vier im ersten Stock! Wie war Ihre Zugfahrt?' Denken Sie daran, dass in Amerika das Erdgeschoss als erste Etage zählt, und "
+   'merken Sie sich die freundliche Reisefrage',
+   (None, 'How was your train trip'),
+   'für Gespräche mit Gästen.']),
+ (3,
+  None,
+  ["'Ruhig und angenehm, vielen Dank, obwohl sich dieser Koffer heute sehr schwer anfühlt.' In",
+   (None, 'feels very heavy'),
+   'braucht das Verb kein rückbezügliches Fürwort wie unser deutsches sich.']),
+ (4,
+  None,
+  ["'Gestatten Sie mir. Meine Güte, haben Sie hier Steine eingepackt?' Mit dem zuvorkommenden",
+   (None, 'Allow me'),
+   'bietet man sofort tatkräftige Hilfe an, während',
+   (None, 'Goodness'),
+   'höfliches Erstaunen ausdrückt.']),
+ (5,
+  None,
+  ["'Nur Kleider, Notenblätter und meine Lieblingsteetasse!' Gedruckte Musiknoten heißen im Englischen bildhaft",
+   (None, 'sheet music'),
+   'und werden ohne Mehrzahlendung als Sammelbegriff verwendet.']),
+ (6,
+  None,
+  ["'Hier ist Ihr Schlüssel, Nummer vier. Frühstück gibt es von halb acht bis zehn.' Uhrzeiten mit halben Stunden bildet das Englische "
+   'einfach aus Stunde plus dreißig wie in',
+   (None, 'seven thirty'),
+   'für halb acht.']),
+ (7,
+  None,
+  ["'Wunderbar. Geht das Fenster zur Straße oder zum Innenhof hinaus?' Statt einer umständlichen Richtungsangabe nutzt das Englische in",
+   (None, 'facing the street'),
+   'ein Verb, das wörtlich der Straße zugewandt sein bedeutet.']),
+ (8,
+  None,
+  ["'Zum Innenhof, direkt über dem alten Baum. Es ist sehr ruhig.' Die Verbindung",
+   (None, 'right above'),
+   'beschreibt eine Lage senkrecht darüber ohne direkte Berührung.']),
+ (9,
+  None,
+  ["'Genau das, was ich brauche. Wo ist die Treppe?' Mit dem kompakten Ausruf",
+   (None, 'Just what I need'),
+   'bringt Evelyn auf den Punkt, dass die ruhige Hoflage perfekt zu ihrem Wunsch passt.']),
+ (10,
+  None,
+  ["'Gleich durch diesen Torbogen. Ich trage Ihnen den blauen Koffer hinauf.' Für spontane Hilfsangebote im selben Moment greift man immer "
+   'zu',
+   (None, 'I will carry'),
+   'und ergänzt am Ende',
+   (None, 'up'),
+   'für die Richtung nach oben.']),
+ (11,
+  None,
+  ["'Vielen herzlichen Dank Ihnen beiden.' Das kleine Wort",
+   (None, 'both'),
+   'tritt in',
+   (None, 'Thank you both'),
+   'direkt hinter das angesprochene Fürwort und bezieht Hannah und Graham gleichermaßen in den Dank ein.'])]
