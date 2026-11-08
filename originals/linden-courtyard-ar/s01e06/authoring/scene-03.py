@@ -25,7 +25,7 @@ STORY = [
     ('graham', 'Smart thinking, Hannah. Caleb reads city building rules every single week.', 'تفكير ذكي يا هانا. يقرأ كاليب لوائح البناء في المدينة كل أسبوع.'),
     ('arthur', 'Oh, I could never bother a paying guest with our landlord troubles!', 'أوه، لا يمكنني أبداً أن أزعج ضيفاً يدفع أجرة إقامته بمشكلات مالك العقار!'),
     ('hannah', 'After we guarded his blue suitcase all week? He will want to help!', 'بعد أن حرسنا حقيبته الزرقاء طوال الأسبوع؟ سيرغب هو نفسه في المساعدة!'),
-    ('graham', 'Wait, here comes Tessa back from their table right now.', 'انتظروا، ها هي تيسا عائدة من طاولتهما في هذه اللحظة.'),
+    ('graham', 'Wait, Tessa is taking the cake out to their table right now.', 'انتظر، تيسا تأخذ الكعكة إلى طاولتهما الآن.'),
 ]
 WALK = [
     (0, None, ["'خمسة عشر عاماً من تلميع المفاتيح النحاسية وتسوية ربطات العنق... تضيع في ثلاثين يوماً!' يأتي بعد حرف الجر اسما الفعل في", (None, 'polishing brass keys and straightening ties'), 'لتلخيص رحلة العمر.']),
@@ -39,5 +39,5 @@ WALK = [
     (8, None, ["'تفكير ذكي يا هانا. يقرأ كاليب لوائح البناء في المدينة كل أسبوع.' الإشادة السريعة", (None, 'Smart thinking'), 'تُقال لتثمين الاقتراح الموفق.']),
     (9, None, ["'أوه، لا يمكنني أبداً أن أزعج ضيفاً يدفع أجرة إقامته بمشكلات مالك العقار!' يصف المركب", (None, 'a paying guest'), 'أخلاقيات آرثر الفندقية الرفيعة.']),
     (10, None, ["'بعد أن حرسنا حقيبته الزرقاء طوال الأسبوع؟ سيرغب هو نفسه في المساعدة!' يؤكد المستقبل في", (None, 'He will want to help'), 'ثقة هانا برد الجميل.']),
-    (11, None, ["'انتظروا، ها هي تيسا عائدة من طاولتهما في هذه اللحظة.' يقدم التركيب الإشاري", (None, 'here comes Tessa'), 'الشخص المقترب أمام الأنظار.']),
+    (11, None, ["'انتظروا، تيسا تأخذ الكعكة إلى طاولتهما الآن.' يقدم التركيب الإشاري", (None, 'Tessa is taking'), 'الشخص المقترب أمام الأنظار.']),
 ]

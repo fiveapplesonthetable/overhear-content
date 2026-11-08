@@ -3462,127 +3462,128 @@
     }
   ],
   "lexicon": {
-    "a": {
-      "lemma": "a",
-      "stress": "ə",
-      "pos": "det",
-      "gloss": "一个（不定冠词）",
+    "good": {
+      "lemma": "good",
+      "stress": "ɡʊd",
+      "pos": "adj",
+      "gloss": "好的；善良的",
       "meanings": [
         {
-          "en": "一个（不定冠词）",
-          "note": "用于以辅音音素开头的可数名词单数前。"
+          "en": "好的；善良的",
+          "note": "问候语常用 Good morning / Good evening；比较级与最高级不规则：better、best。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "good"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "better"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "best"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Good morning! Did you sleep well?",
+          "trans": "早上好！您昨晚睡得好吗？"
+        },
+        {
+          "text": "Fresh bread smells even better with butter.",
+          "trans": "刚出炉的面包抹上黄油闻起来更香。"
+        }
+      ],
+      "related": []
+    },
+    "morning": {
+      "lemma": "morning",
+      "stress": "ˈmɔɹnɪŋ",
+      "pos": "noun",
+      "gloss": "早晨，上午",
+      "meanings": [
+        {
+          "en": "早晨，上午",
+          "note": "指从清晨到正午十二点之间的时段；也可作定语如 morning train（早班火车）、morning coffee（晨间咖啡）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "I have a blue pen.",
-          "trans": "我有一支蓝色的钢笔。"
+          "text": "Good morning! Coffee is hot and ready.",
+          "trans": "早上好！咖啡已经热腾腾地煮好了。"
         },
         {
-          "text": "She wants a cup of tea.",
-          "trans": "她想要一杯茶。"
+          "text": "Rain fell softly all morning.",
+          "trans": "细雨柔和地下了一整上午。"
         }
       ],
       "related": []
     },
-    "all": {
-      "lemma": "all",
-      "stress": "ɔl",
-      "pos": "det",
-      "gloss": "所有的，全部",
-      "meanings": [
-        {
-          "en": "所有的，全部",
-          "note": "指整体中的全部成员或整个时间段。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "All the windows are open.",
-          "trans": "所有的窗户都开着。"
-        },
-        {
-          "text": "She worked all morning.",
-          "trans": "她忙了一整上午。"
-        }
-      ],
-      "related": []
-    },
-    "and": {
-      "lemma": "and",
-      "stress": "ænd",
-      "pos": "conj",
-      "gloss": "和，与，然后",
-      "meanings": [
-        {
-          "en": "和，与，然后",
-          "note": "最基本的并列连词，连接词、短语或分句。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bring bread and butter, please.",
-          "trans": "请拿些面包和黄油来。"
-        },
-        {
-          "text": "Wash your hands and sit down.",
-          "trans": "洗洗手然后坐下吧。"
-        }
-      ],
-      "related": []
-    },
-    "anyone": {
-      "lemma": "anyone",
-      "stress": "ˈɛniˌwʌn",
+    "everyone": {
+      "lemma": "everyone",
+      "stress": "ˈɛvɹiˌwʌn",
       "pos": "pron",
-      "gloss": "任何人；有人吗",
+      "gloss": "每个人，大家",
       "meanings": [
         {
-          "en": "任何人；有人吗",
-          "note": "多用于疑问句、否定句或条件句中，作主语时按单数处理。"
+          "en": "每个人，大家",
+          "note": "不定代词，虽然指所有人，但作主语时谓语动词必须用单数。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Did anyone call this morning?",
-          "trans": "今天上午有人打电话来吗？"
+          "text": "Everyone loves fresh rolls at breakfast.",
+          "trans": "早餐时人人都爱吃刚出炉的小餐包。"
         },
         {
-          "text": "Do not tell anyone my secret.",
-          "trans": "别把我的秘密告诉任何人。"
+          "text": "Is everyone ready to go?",
+          "trans": "大家都准备好出发了吗？"
         }
       ],
       "related": []
     },
-    "at": {
-      "lemma": "at",
-      "stress": "æt",
-      "pos": "prep",
-      "gloss": "在（某处或某时刻）",
+    "welcome": {
+      "lemma": "welcome",
+      "stress": "ˈwɛlkəm",
+      "pos": "interj",
+      "gloss": "欢迎；不用谢",
       "meanings": [
         {
-          "en": "在（某处或某时刻）",
-          "note": "用于具体钟点（at seven）和具体地点（at the desk）。"
+          "en": "欢迎；不用谢",
+          "note": "单独说 Welcome! 或 Welcome to the Linden Courtyard Inn! 用于热情迎客；You are welcome 则回应道谢。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Breakfast starts at seven thirty.",
-          "trans": "早餐七点半开始。"
+          "text": "Welcome to Linden Courtyard Inn!",
+          "trans": "欢迎光临菩提树庭院客栈！"
         },
         {
-          "text": "Someone is waiting at the gate.",
-          "trans": "有人在大门口等着。"
+          "text": "You are very welcome! Enjoy your tea.",
+          "trans": "不客气！请慢用热茶。"
         }
       ],
       "related": []
@@ -3650,52 +3651,842 @@
       ],
       "related": []
     },
-    "behind": {
-      "lemma": "behind",
-      "stress": "bɪˈhaɪnd",
-      "pos": "prep",
-      "gloss": "在……后面",
+    "everything": {
+      "lemma": "everything",
+      "stress": "ˈɛvɹiˌθɪŋ",
+      "pos": "pron",
+      "gloss": "一切，所有事物",
       "meanings": [
         {
-          "en": "在……后面",
-          "note": "表示空间位置处于某物的背面或后方。"
+          "en": "一切，所有事物",
+          "note": "作主语时谓语动词一律用第三人称单数（如 Everything is ready）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Hang your coat behind the door.",
-          "trans": "把你的外套挂在门后吧。"
+          "text": "Tell me everything I need to know.",
+          "trans": "把所有我需要知道的事都告诉我吧。"
         },
         {
-          "text": "A small garden sits behind the house.",
-          "trans": "房子后面有一座小花园。"
+          "text": "Everything in the kitchen is clean and ready.",
+          "trans": "厨房里的一切都干净妥当了。"
         }
       ],
       "related": []
     },
-    "bell": {
-      "lemma": "bell",
-      "stress": "bɛl",
-      "pos": "noun",
-      "gloss": "铃，门铃，按铃",
+    "ready": {
+      "lemma": "ready",
+      "stress": "ˈɹɛdi",
+      "pos": "adj",
+      "gloss": "准备好的，就绪的",
       "meanings": [
         {
-          "en": "铃，门铃，按铃",
-          "note": "既指前台柜台的按铃，也指大门门铃或钟。"
+          "en": "准备好的，就绪的",
+          "note": "be ready 表示人或物品准备妥当；ready for a big breakfast 意为“准备好享用一顿丰盛早餐了”。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Ring the bell at the front desk.",
-          "trans": "按一下前台的铃吧。"
+          "text": "Your room is clean and ready upstairs.",
+          "trans": "您在楼上的房间已经打扫干净准备好了。"
         },
         {
-          "text": "Did you hear the gate bell?",
-          "trans": "你听见大门口的门铃响了吗？"
+          "text": "Are you ready to order coffee?",
+          "trans": "您准备好点咖啡了吗？"
+        }
+      ],
+      "related": []
+    },
+    "yes": {
+      "lemma": "yes",
+      "stress": "jɛs",
+      "pos": "interj",
+      "gloss": "是的，对，好",
+      "meanings": [
+        {
+          "en": "是的，对，好",
+          "note": "最基本的肯定答语，可用于回答问句或确认信息。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Yes, eight rooms and eight brass keys.",
+          "trans": "对，八间客房，八把黄铜钥匙。"
+        },
+        {
+          "text": "Yes, please! I would love some coffee.",
+          "trans": "好的，谢谢！我很想来点咖啡。"
+        }
+      ],
+      "related": []
+    },
+    "the": {
+      "lemma": "the",
+      "stress": "ðə",
+      "pos": "det",
+      "gloss": "这，那（定冠词）",
+      "meanings": [
+        {
+          "en": "这，那（定冠词）",
+          "note": "用于双方已知或特指的人或事物前（the door、the kitchen），单复数通用。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle on the front door.",
+          "trans": "把前门上的把手往上提。"
+        },
+        {
+          "text": "All the keys hang behind the desk.",
+          "trans": "所有的钥匙都挂在前台后面。"
+        }
+      ],
+      "related": []
+    },
+    "desk": {
+      "lemma": "desk",
+      "stress": "dɛsk",
+      "pos": "noun",
+      "gloss": "书桌，办公桌；服务台",
+      "meanings": [
+        {
+          "en": "书桌，办公桌；服务台",
+          "note": "在旅馆里 front desk 专指接待客人的“前台”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Leave your room key at the front desk.",
+          "trans": "请把房间钥匙留在前台。"
+        },
+        {
+          "text": "A brass bell sits on the wooden desk.",
+          "trans": "木书桌上放着一只黄铜按铃。"
+        }
+      ],
+      "related": []
+    },
+    "clean": {
+      "lemma": "clean",
+      "stress": "klin",
+      "pos": "adj",
+      "gloss": "干净的；打扫",
+      "meanings": [
+        {
+          "en": "干净的；打扫",
+          "note": "既可作形容词表示“整洁干净的”，也可作规则动词表示“清洁”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fresh clean sheets are on the bed.",
+          "trans": "床上铺着干净清爽的床单。"
+        },
+        {
+          "text": "Keep a clean cloth behind the counter.",
+          "trans": "柜台后面常备一块干净抹布。"
+        }
+      ],
+      "related": []
+    },
+    "and": {
+      "lemma": "and",
+      "stress": "ænd",
+      "pos": "conj",
+      "gloss": "和，与，然后",
+      "meanings": [
+        {
+          "en": "和，与，然后",
+          "note": "最基本的并列连词，连接词、短语或分句。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bring bread and butter, please.",
+          "trans": "请拿些面包和黄油来。"
+        },
+        {
+          "text": "Wash your hands and sit down.",
+          "trans": "洗洗手然后坐下吧。"
+        }
+      ],
+      "related": []
+    },
+    "key": {
+      "lemma": "key",
+      "stress": "ki",
+      "pos": "noun",
+      "gloss": "钥匙；关键；琴键",
+      "meanings": [
+        {
+          "en": "钥匙；关键；琴键",
+          "note": "可数名词，注意发音为长音 /ki/；习语 under lock and key 意为“妥善锁好保管”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is the brass key to room four.",
+          "trans": "这是四号房的黄铜钥匙。"
+        },
+        {
+          "text": "Eight keys hang neatly behind the desk.",
+          "trans": "八把钥匙整整齐齐挂在前台后面。"
+        }
+      ],
+      "related": []
+    },
+    "today": {
+      "lemma": "today",
+      "stress": "təˈdeɪ",
+      "pos": "adv",
+      "gloss": "今天",
+      "meanings": [
+        {
+          "en": "今天",
+          "note": "时间副词，直接作状语不加介词；还可加所有格词尾构成 Today's guest（今天入住的客人）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four is arriving today.",
+          "trans": "四号房的客人今天抵达。"
+        },
+        {
+          "text": "Today's soup is warm tomato basil.",
+          "trans": "今天的例汤是热番茄罗勒汤。"
+        }
+      ],
+      "related": []
+    },
+    "guest": {
+      "lemma": "guest",
+      "stress": "ɡɛst",
+      "pos": "noun",
+      "gloss": "住客，客人，宾客",
+      "meanings": [
+        {
+          "en": "住客，客人，宾客",
+          "note": "可指旅馆入住的旅客，也可指家中邀请的客人。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our new guest arrives at noon.",
+          "trans": "我们的新住客中午十二点抵达。"
+        },
+        {
+          "text": "Six guests joined us for breakfast.",
+          "trans": "六位客人和我们一起用早餐。"
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "在……里面；在……之后（接时间段）",
+      "meanings": [
+        {
+          "en": "在……里面；在……之后（接时间段）",
+          "note": "除表示空间内部（in the drawer）外，in forty minutes 表示“四十分钟后”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait in the warm dining room.",
+          "trans": "请在温暖的餐厅里稍候。"
+        },
+        {
+          "text": "Coffee will be ready in three minutes.",
+          "trans": "咖啡三分钟后就好。"
+        }
+      ],
+      "related": []
+    },
+    "room": {
+      "lemma": "room",
+      "stress": "ɹum",
+      "pos": "noun",
+      "gloss": "房间，客房；空间",
+      "meanings": [
+        {
+          "en": "房间，客房；空间",
+          "note": "指具体客房时可数（eight rooms 八间房）；编号直接置后（room four 四号房，口语中亦可代指四号房的客人）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four overlooks the sunny courtyard.",
+          "trans": "四号房俯瞰着阳光充足的庭院。"
+        },
+        {
+          "text": "All eight rooms are clean and ready.",
+          "trans": "八间客房全都打扫干净准备就绪了。"
+        }
+      ],
+      "related": []
+    },
+    "four": {
+      "lemma": "four",
+      "stress": "fɔɹ",
+      "pos": "num",
+      "gloss": "四",
+      "meanings": [
+        {
+          "en": "四",
+          "note": "基础数词；放在名词 room 后（room four）表示编号“四号房”，无需加冠词。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four looks out on the courtyard.",
+          "trans": "四号房朝向庭院。"
+        },
+        {
+          "text": "Please bring four spoons for the table.",
+          "trans": "请给餐桌拿四把勺子来。"
+        }
+      ],
+      "related": []
+    },
+    "stay": {
+      "lemma": "stay",
+      "stress": "steɪ",
+      "pos": "verb",
+      "gloss": "入住，逗留；保持（某种状态）",
+      "meanings": [
+        {
+          "en": "入住，逗留；保持（某种状态）",
+          "note": "一词两用：作不及物动词指在旅馆住宿（is staying all week 住一整周；Stay here 待在这儿），作系动词指保持状态（stays safe 保持安全）。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "stay"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "stays"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "stayed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "stayed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "staying"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How many nights are you staying with us?",
+          "trans": "您打算在我们这儿住几晚？"
+        },
+        {
+          "text": "Stay warm and dry out there!",
+          "trans": "在外面注意保暖、别淋湿了！"
+        }
+      ],
+      "related": []
+    },
+    "all": {
+      "lemma": "all",
+      "stress": "ɔl",
+      "pos": "det",
+      "gloss": "所有的，全部",
+      "meanings": [
+        {
+          "en": "所有的，全部",
+          "note": "指整体中的全部成员或整个时间段。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "All the windows are open.",
+          "trans": "所有的窗户都开着。"
+        },
+        {
+          "text": "She worked all morning.",
+          "trans": "她忙了一整上午。"
+        }
+      ],
+      "related": []
+    },
+    "week": {
+      "lemma": "week",
+      "stress": "wik",
+      "pos": "noun",
+      "gloss": "星期，周",
+      "meanings": [
+        {
+          "en": "星期，周",
+          "note": "all week 意为“整整一周”（前面不加介词）；读音与 weak（虚弱的）相同。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Evelyn is staying with us all week.",
+          "trans": "伊芙琳这整周都住在我们这里。"
+        },
+        {
+          "text": "Have a wonderful week!",
+          "trans": "祝您度过美好的一周！"
+        }
+      ],
+      "related": []
+    },
+    "must": {
+      "lemma": "must",
+      "stress": "mʌst",
+      "pos": "verb",
+      "gloss": "一定（推测）；必须",
+      "meanings": [
+        {
+          "en": "一定（推测）；必须",
+          "note": "情态动词，后接动词原形：既表示有把握的推测（You must be Hannah 你一定是汉娜），也表示必须做某事（Everything must be perfect）。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "must"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "must"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You must try Tessa's warm apple bread!",
+          "trans": "你一定要尝尝泰莎烤的热苹果面包！"
+        },
+        {
+          "text": "That blue bag must belong to Arthur.",
+          "trans": "那只蓝色旅行包一定属于亚瑟。"
+        }
+      ],
+      "related": []
+    },
+    "perfect": {
+      "lemma": "perfect",
+      "stress": "ˈpɝfɪkt",
+      "pos": "adj",
+      "gloss": "完美的，十全十美的",
+      "meanings": [
+        {
+          "en": "完美的，十全十美的",
+          "note": "作形容词时重音在第一音节；单独说 Perfect! 常表示“太完美了！正好！”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four has a perfect view of the trees.",
+          "trans": "四号房能看到完美的树林景致。"
+        },
+        {
+          "text": "Perfect! Everything is back in order.",
+          "trans": "太好了！一切都恢复井井有条了。"
+        }
+      ],
+      "related": []
+    },
+    "relax": {
+      "lemma": "relax",
+      "stress": "ɹɪˈlæks",
+      "pos": "verb",
+      "gloss": "放轻松，别紧张，休息",
+      "meanings": [
+        {
+          "en": "放轻松，别紧张，休息",
+          "note": "直接作祈使句 Relax! 用于安抚焦急的人（“放轻松！别慌！”），无需加宾语。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "relax"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "relaxes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "relaxed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "relaxed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "relaxing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Sit by the window and relax.",
+          "trans": "坐在窗边放松一下吧。"
+        },
+        {
+          "text": "Relax, your train does not leave until two.",
+          "trans": "放轻松，您的火车两点才开呢。"
+        }
+      ],
+      "related": []
+    },
+    "towel": {
+      "lemma": "towel",
+      "stress": "ˈtaʊəl",
+      "pos": "noun",
+      "gloss": "毛巾，浴巾",
+      "meanings": [
+        {
+          "en": "毛巾，浴巾",
+          "note": "可数名词：the towels are fresh 指客房里的“毛巾干净清爽”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fresh white towels hang in the bathroom.",
+          "trans": "浴室里挂着洁白干净的毛巾。"
+        },
+        {
+          "text": "Dry your hands on this cotton towel.",
+          "trans": "用这条棉毛巾擦干手吧。"
+        }
+      ],
+      "related": []
+    },
+    "fresh": {
+      "lemma": "fresh",
+      "stress": "fɹɛʃ",
+      "pos": "adj",
+      "gloss": "新鲜的；刚做好的；清爽的",
+      "meanings": [
+        {
+          "en": "新鲜的；刚做好的；清爽的",
+          "note": "可形容刚出炉的面包、现煮咖啡、刚采摘的香草或干净清爽的毛巾。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa brought fresh bread from the bakery.",
+          "trans": "泰莎从面包房带来了刚出炉的面包。"
+        },
+        {
+          "text": "Open the window for some fresh air.",
+          "trans": "打开窗户透透新鲜空气吧。"
+        }
+      ],
+      "related": []
+    },
+    "i": {
+      "lemma": "i",
+      "stress": "aɪ",
+      "pos": "pron",
+      "gloss": "我",
+      "meanings": [
+        {
+          "en": "我",
+          "note": "第一人称单数主格代词，在句中任何位置永远大写为 I，与 am 连用。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I am Hannah, the new receptionist.",
+          "trans": "我是汉娜，新来的前台接待员。"
+        },
+        {
+          "text": "May I help you with your luggage?",
+          "trans": "我可以帮您拿行李吗？"
+        }
+      ],
+      "related": []
+    },
+    "need": {
+      "lemma": "need",
+      "stress": "nid",
+      "pos": "verb",
+      "gloss": "需要",
+      "meanings": [
+        {
+          "en": "需要",
+          "note": "实义动词，后接名词（what I need）或带 to 的不定式（I need to read 我需要看……）。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "need"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "needs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "needed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "needed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "needing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "把所有我需要知道的事都告诉我吧。"
+        },
+        {
+          "text": "Do you need an extra towel for your room?",
+          "trans": "您的房间需要多备一条毛巾吗？"
+        }
+      ],
+      "related": []
+    },
+    "to": {
+      "lemma": "to",
+      "stress": "tu",
+      "pos": "prep",
+      "gloss": "向，到；至；（不定式标志）",
+      "meanings": [
+        {
+          "en": "向，到；至；（不定式标志）",
+          "note": "既作介词表方向或时间跨度（from seven thirty to ten 从七点半到十点；talks to everyone），也置于动词原形前构成不定式（need to know）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to Linden Courtyard Inn!",
+          "trans": "欢迎光临菩提树庭院客栈！"
+        },
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "把所有我需要知道的事都告诉我吧。"
+        }
+      ],
+      "related": []
+    },
+    "read": {
+      "lemma": "read",
+      "stress": "ɹid",
+      "pos": "verb",
+      "gloss": "阅读，看懂，念出",
+      "meanings": [
+        {
+          "en": "阅读，看懂，念出",
+          "note": "注意不规则读音：原形和现在时读长音 /ɹid/，过去式和过去分词拼写不变但改读短音 /ɹɛd/。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "read"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "reads"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "read"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "read"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "reading"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Read the small print on the luggage tag.",
+          "trans": "读一读行李牌上的小字。"
+        },
+        {
+          "text": "Evelyn likes to read in the sunny parlor.",
+          "trans": "伊芙琳喜欢在阳光充足的会客厅里看书。"
+        }
+      ],
+      "related": []
+    },
+    "reservation": {
+      "lemma": "reservation",
+      "stress": "ˌɹɛzɚˈveɪʃən",
+      "pos": "noun",
+      "gloss": "预订，预约",
+      "meanings": [
+        {
+          "en": "预订，预约",
+          "note": "美式英语中旅馆订房与餐厅订位最标准的词，reservation book 指“客房预订登记簿”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hello! I have a reservation under Arthur.",
+          "trans": "您好！我有预订，登记在亚瑟名下。"
+        },
+        {
+          "text": "Let me check your reservation in our book.",
+          "trans": "让我在登记簿里查一下您的预订。"
         }
       ],
       "related": []
@@ -3725,56 +4516,6 @@
       ],
       "related": []
     },
-    "boss": {
-      "lemma": "boss",
-      "stress": "bɔs",
-      "pos": "noun",
-      "gloss": "老板，上司",
-      "meanings": [
-        {
-          "en": "老板，上司",
-          "note": "日常口语中对主管或店主的亲切称呼。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ask the boss before changing the schedule.",
-          "trans": "更改排班表前先问问老板。"
-        },
-        {
-          "text": "Our boss always loses his pen.",
-          "trans": "我们老板总是丢钢笔。"
-        }
-      ],
-      "related": []
-    },
-    "brightly": {
-      "lemma": "brightly",
-      "stress": "ˈbɹaɪtli",
-      "pos": "adv",
-      "gloss": "灿烂地，明亮地",
-      "meanings": [
-        {
-          "en": "灿烂地，明亮地",
-          "note": "由形容词 bright 加副词后缀构成，常修饰阳光照耀或微笑。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The morning sun shone brightly.",
-          "trans": "清晨的阳光灿烂地照耀着。"
-        },
-        {
-          "text": "She smiled brightly at the new guests.",
-          "trans": "她向新来的客人们灿烂一笑。"
-        }
-      ],
-      "related": []
-    },
     "but": {
       "lemma": "but",
       "stress": "bʌt",
@@ -3796,31 +4537,6 @@
         {
           "text": "I looked everywhere, but found nothing.",
           "trans": "我到处都找过了，但什么也没找到。"
-        }
-      ],
-      "related": []
-    },
-    "bye": {
-      "lemma": "bye",
-      "stress": "baɪ",
-      "pos": "interj",
-      "gloss": "再见，拜拜",
-      "meanings": [
-        {
-          "en": "再见，拜拜",
-          "note": "轻松自然的日常告别语，如 Bye for now（先再见啦）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bye! Have a safe trip.",
-          "trans": "再见！祝你一路平安。"
-        },
-        {
-          "text": "She waved and said bye.",
-          "trans": "她挥了挥手说再见。"
         }
       ],
       "related": []
@@ -3888,257 +4604,6 @@
       ],
       "related": []
     },
-    "clean": {
-      "lemma": "clean",
-      "stress": "klin",
-      "pos": "adj",
-      "gloss": "干净的；打扫",
-      "meanings": [
-        {
-          "en": "干净的；打扫",
-          "note": "既可作形容词表示“整洁干净的”，也可作规则动词表示“清洁”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh clean sheets are on the bed.",
-          "trans": "床上铺着干净清爽的床单。"
-        },
-        {
-          "text": "Keep a clean cloth behind the counter.",
-          "trans": "柜台后面常备一块干净抹布。"
-        }
-      ],
-      "related": []
-    },
-    "coat": {
-      "lemma": "coat",
-      "stress": "koʊt",
-      "pos": "noun",
-      "gloss": "大衣，外套",
-      "meanings": [
-        {
-          "en": "大衣，外套",
-          "note": "指天冷或下雨时穿在最外面的长外套或夹克。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Button your coat before going outside.",
-          "trans": "出门前把外套扣好。"
-        },
-        {
-          "text": "My keys are in my coat pocket.",
-          "trans": "我的钥匙在大衣口袋里。"
-        }
-      ],
-      "related": []
-    },
-    "come": {
-      "lemma": "come",
-      "stress": "kʌm",
-      "pos": "verb",
-      "gloss": "来，过来",
-      "meanings": [
-        {
-          "en": "来，过来",
-          "note": "不规则动词：过去式 came，过去分词又回到 come。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "come"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "comes"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "came"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "come"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "coming"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Come inside out of the rain!",
-          "trans": "快进屋避避雨吧！"
-        },
-        {
-          "text": "Guests come down for coffee at eight.",
-          "trans": "客人们八点钟下楼喝咖啡。"
-        }
-      ],
-      "related": []
-    },
-    "desk": {
-      "lemma": "desk",
-      "stress": "dɛsk",
-      "pos": "noun",
-      "gloss": "书桌，办公桌；服务台",
-      "meanings": [
-        {
-          "en": "书桌，办公桌；服务台",
-          "note": "在旅馆里 front desk 专指接待客人的“前台”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Leave your room key at the front desk.",
-          "trans": "请把房间钥匙留在前台。"
-        },
-        {
-          "text": "A brass bell sits on the wooden desk.",
-          "trans": "木书桌上放着一只黄铜按铃。"
-        }
-      ],
-      "related": []
-    },
-    "do": {
-      "lemma": "do",
-      "stress": "du",
-      "pos": "verb",
-      "gloss": "做，干；（助动词）",
-      "meanings": [
-        {
-          "en": "做，干；（助动词）",
-          "note": "既可作实义动词“做”，也可在一般现在时疑问句和否定句中充当助动词。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "do"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "does"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "did"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "done"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "doing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you want sugar in your coffee?",
-          "trans": "你的咖啡里要加糖吗？"
-        },
-        {
-          "text": "What should we do with this package?",
-          "trans": "我们该怎么处理这个包裹？"
-        }
-      ],
-      "related": []
-    },
-    "everyone": {
-      "lemma": "everyone",
-      "stress": "ˈɛvɹiˌwʌn",
-      "pos": "pron",
-      "gloss": "每个人，大家",
-      "meanings": [
-        {
-          "en": "每个人，大家",
-          "note": "不定代词，虽然指所有人，但作主语时谓语动词必须用单数。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Everyone loves fresh rolls at breakfast.",
-          "trans": "早餐时人人都爱吃刚出炉的小餐包。"
-        },
-        {
-          "text": "Is everyone ready to go?",
-          "trans": "大家都准备好出发了吗？"
-        }
-      ],
-      "related": []
-    },
-    "everything": {
-      "lemma": "everything",
-      "stress": "ˈɛvɹiˌθɪŋ",
-      "pos": "pron",
-      "gloss": "一切，所有事物",
-      "meanings": [
-        {
-          "en": "一切，所有事物",
-          "note": "作主语时谓语动词一律用第三人称单数（如 Everything is ready）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "把所有我需要知道的事都告诉我吧。"
-        },
-        {
-          "text": "Everything in the kitchen is clean and ready.",
-          "trans": "厨房里的一切都干净妥当了。"
-        }
-      ],
-      "related": []
-    },
     "find": {
       "lemma": "find",
       "stress": "faɪnd",
@@ -4202,127 +4667,27 @@
       ],
       "related": []
     },
-    "for": {
-      "lemma": "for",
-      "stress": "fɔɹ",
-      "pos": "prep",
-      "gloss": "给，为了；持续（一段时间）",
+    "my": {
+      "lemma": "my",
+      "stress": "maɪ",
+      "pos": "det",
+      "gloss": "我的",
       "meanings": [
         {
-          "en": "给，为了；持续（一段时间）",
-          "note": "用途极广的介词，表示对象（a room for Evelyn）、用途（for breakfast）或时长。"
+          "en": "我的",
+          "note": "形容词性物主代词，后面必须接名词（my bag、my head），单复数通用。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "This package arrived for room two.",
-          "trans": "这个包裹是寄给二号房的。"
+          "text": "Today is my first morning at the desk.",
+          "trans": "今天是我第一天在前台当班。"
         },
         {
-          "text": "Wait here for just a moment.",
-          "trans": "请在这里稍等片刻。"
-        }
-      ],
-      "related": []
-    },
-    "forehead": {
-      "lemma": "forehead",
-      "stress": "ˈfɔɹˌhɛd",
-      "pos": "noun",
-      "gloss": "额头，前额",
-      "meanings": [
-        {
-          "en": "额头，前额",
-          "note": "指眉毛上方的额部；说眼镜架在额头上用介词 on your forehead。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "He wiped rain from his forehead.",
-          "trans": "他擦去了额头上的雨水。"
-        },
-        {
-          "text": "Her glasses rested high on her forehead.",
-          "trans": "她的眼镜高高架在额头上。"
-        }
-      ],
-      "related": []
-    },
-    "four": {
-      "lemma": "four",
-      "stress": "fɔɹ",
-      "pos": "num",
-      "gloss": "四",
-      "meanings": [
-        {
-          "en": "四",
-          "note": "基础数词；放在名词 room 后（room four）表示编号“四号房”，无需加冠词。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four looks out on the courtyard.",
-          "trans": "四号房朝向庭院。"
-        },
-        {
-          "text": "Please bring four spoons for the table.",
-          "trans": "请给餐桌拿四把勺子来。"
-        }
-      ],
-      "related": []
-    },
-    "fresh": {
-      "lemma": "fresh",
-      "stress": "fɹɛʃ",
-      "pos": "adj",
-      "gloss": "新鲜的；刚做好的；清爽的",
-      "meanings": [
-        {
-          "en": "新鲜的；刚做好的；清爽的",
-          "note": "可形容刚出炉的面包、现煮咖啡、刚采摘的香草或干净清爽的毛巾。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tessa brought fresh bread from the bakery.",
-          "trans": "泰莎从面包房带来了刚出炉的面包。"
-        },
-        {
-          "text": "Open the window for some fresh air.",
-          "trans": "打开窗户透透新鲜空气吧。"
-        }
-      ],
-      "related": []
-    },
-    "gate": {
-      "lemma": "gate",
-      "stress": "ɡeɪt",
-      "pos": "noun",
-      "gloss": "大门，院门",
-      "meanings": [
-        {
-          "en": "大门，院门",
-          "note": "通常指庭院、花园围墙或车站检票口的外门（室内房门则用 door）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Close the iron gate behind you.",
-          "trans": "进出后请随手关上铁院门。"
-        },
-        {
-          "text": "Tessa waited by the courtyard gate.",
-          "trans": "泰莎在庭院大门口等着。"
+          "text": "Where did I put my reading glasses?",
+          "trans": "我把老花镜放哪儿去了？"
         }
       ],
       "related": []
@@ -4353,203 +4718,252 @@
       "related": [],
       "number": "pl"
     },
-    "good": {
-      "lemma": "good",
-      "stress": "ɡʊd",
-      "pos": "adj",
-      "gloss": "好的；善良的",
-      "meanings": [
-        {
-          "en": "好的；善良的",
-          "note": "问候语常用 Good morning / Good evening；比较级与最高级不规则：better、best。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "good"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "better"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "best"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Did you sleep well?",
-          "trans": "早上好！您昨晚睡得好吗？"
-        },
-        {
-          "text": "Fresh bread smells even better with butter.",
-          "trans": "刚出炉的面包抹上黄油闻起来更香。"
-        }
-      ],
-      "related": []
-    },
-    "guest": {
-      "lemma": "guest",
-      "stress": "ɡɛst",
-      "pos": "noun",
-      "gloss": "住客，客人，宾客",
-      "meanings": [
-        {
-          "en": "住客，客人，宾客",
-          "note": "可指旅馆入住的旅客，也可指家中邀请的客人。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our new guest arrives at noon.",
-          "trans": "我们的新住客中午十二点抵达。"
-        },
-        {
-          "text": "Six guests joined us for breakfast.",
-          "trans": "六位客人和我们一起用早餐。"
-        }
-      ],
-      "related": []
-    },
-    "head": {
-      "lemma": "head",
-      "stress": "hɛd",
-      "pos": "noun",
-      "gloss": "头，脑袋",
-      "meanings": [
-        {
-          "en": "头，脑袋",
-          "note": "on my head 表示“在我的头上（比如把眼镜推到头顶）”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "He nodded his head and smiled.",
-          "trans": "他点点头微笑了。"
-        },
-        {
-          "text": "Wear a warm hat on your head.",
-          "trans": "头上戴顶暖和的帽子吧。"
-        }
-      ],
-      "related": []
-    },
-    "here": {
-      "lemma": "here",
-      "stress": "hɪɹ",
-      "pos": "adv",
-      "gloss": "这里，在这儿",
-      "meanings": [
-        {
-          "en": "这里，在这儿",
-          "note": "倒装句式 Here is... / Here are... 常用于递东西给别人时说“给您……”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is your brass key for room four.",
-          "trans": "这是您四号房的黄铜钥匙。"
-        },
-        {
-          "text": "Sign your name right here, please.",
-          "trans": "请就在这里签上您的名字。"
-        }
-      ],
-      "related": []
-    },
-    "i": {
-      "lemma": "i",
-      "stress": "aɪ",
+    "they": {
+      "lemma": "they",
+      "stress": "ðeɪ",
       "pos": "pron",
-      "gloss": "我",
+      "gloss": "他们，她们，它们",
       "meanings": [
         {
-          "en": "我",
-          "note": "第一人称单数主格代词，在句中任何位置永远大写为 I，与 am 连用。"
+          "en": "他们，她们，它们",
+          "note": "英语中复数物品也必须用 they 指代，绝不可省略（如指代眼镜：They are on my head! 它们就在我头上呢！）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "I am Hannah, the new receptionist.",
-          "trans": "我是汉娜，新来的前台接待员。"
+          "text": "They arrived together on the morning train.",
+          "trans": "他们乘早班火车一起抵达。"
         },
         {
-          "text": "May I help you with your luggage?",
-          "trans": "我可以帮您拿行李吗？"
+          "text": "Try the apples—they are crisp and sweet.",
+          "trans": "尝尝这些苹果吧——又脆又甜。"
         }
       ],
       "related": []
     },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "在……里面；在……之后（接时间段）",
+    "your": {
+      "lemma": "your",
+      "stress": "jʊɹ",
+      "pos": "det",
+      "gloss": "你的，您的，你们的",
       "meanings": [
         {
-          "en": "在……里面；在……之后（接时间段）",
-          "note": "除表示空间内部（in the drawer）外，in forty minutes 表示“四十分钟后”。"
+          "en": "你的，您的，你们的",
+          "note": "形容词性物主代词，后面必须接名词（your train trip、your forehead）；注意与缩写词 you're（你是）区分。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Wait in the warm dining room.",
-          "trans": "请在温暖的餐厅里稍候。"
+          "text": "Here is your room key, Evelyn.",
+          "trans": "伊芙琳，这是您的房间钥匙。"
         },
         {
-          "text": "Coffee will be ready in three minutes.",
-          "trans": "咖啡三分钟后就好。"
+          "text": "Enjoy your morning coffee!",
+          "trans": "请慢用您的晨间咖啡！"
         }
       ],
       "related": []
     },
-    "key": {
-      "lemma": "key",
-      "stress": "ki",
+    "coat": {
+      "lemma": "coat",
+      "stress": "koʊt",
       "pos": "noun",
-      "gloss": "钥匙；关键；琴键",
+      "gloss": "大衣，外套",
       "meanings": [
         {
-          "en": "钥匙；关键；琴键",
-          "note": "可数名词，注意发音为长音 /ki/；习语 under lock and key 意为“妥善锁好保管”。"
+          "en": "大衣，外套",
+          "note": "指天冷或下雨时穿在最外面的长外套或夹克。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Here is the brass key to room four.",
-          "trans": "这是四号房的黄铜钥匙。"
+          "text": "Button your coat before going outside.",
+          "trans": "出门前把外套扣好。"
         },
         {
-          "text": "Eight keys hang neatly behind the desk.",
-          "trans": "八把钥匙整整齐齐挂在前台后面。"
+          "text": "My keys are in my coat pocket.",
+          "trans": "我的钥匙在大衣口袋里。"
+        }
+      ],
+      "related": []
+    },
+    "pocket": {
+      "lemma": "pocket",
+      "stress": "ˈpɑkɪt",
+      "pos": "noun",
+      "gloss": "衣袋，口袋，夹层袋",
+      "meanings": [
+        {
+          "en": "衣袋，口袋，夹层袋",
+          "note": "coat pocket 指大衣口袋，top pocket 指行李箱顶部的拉链外袋。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Check your coat pocket for the brass key.",
+          "trans": "摸摸您的大衣口袋里有没有黄铜钥匙。"
+        },
+        {
+          "text": "He slipped the receipt into his pocket.",
+          "trans": "他把收据塞进了口袋。"
+        }
+      ],
+      "related": []
+    },
+    "no": {
+      "lemma": "no",
+      "stress": "noʊ",
+      "pos": "interj",
+      "gloss": "不，不是；没有（置于名词前）",
+      "meanings": [
+        {
+          "en": "不，不是；没有（置于名词前）",
+          "note": "单独回答问题意为“不”；直接放在名词前意为“没有一点……”（如 no phone number、no butter at all、No wonder 难怪）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "No, the door is not locked—just lift the handle.",
+          "trans": "不，门没锁——先把把手往上提就行。"
+        },
+        {
+          "text": "No problem at all! Take your time.",
+          "trans": "一点问题也没有！您慢慢来。"
+        }
+      ],
+      "related": []
+    },
+    "only": {
+      "lemma": "only",
+      "stress": "ˈoʊnli",
+      "pos": "adv",
+      "gloss": "只有，仅仅；唯一的",
+      "meanings": [
+        {
+          "en": "只有，仅仅；唯一的",
+          "note": "副词修饰数量或范围（Only dresses 只有连衣裙），形容词作定语意为“唯一的”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We have only eight rooms at the inn.",
+          "trans": "我们这家客栈只有八间客房。"
+        },
+        {
+          "text": "This is the only key to the garden shed.",
+          "trans": "这是花园小棚唯一的钥匙。"
+        }
+      ],
+      "related": []
+    },
+    "pen": {
+      "lemma": "pen",
+      "stress": "pɛn",
+      "pos": "noun",
+      "gloss": "钢笔，圆珠笔，水笔",
+      "meanings": [
+        {
+          "en": "钢笔，圆珠笔，水笔",
+          "note": "泛指用墨水书写的笔（石墨铅笔则是 pencil）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "May I borrow your blue pen for a moment?",
+          "trans": "我可以借用一下您的蓝水笔吗？"
+        },
+        {
+          "text": "Keep a working pen beside the guest book.",
+          "trans": "在旅客登记簿旁常备一支好用的笔。"
+        }
+      ],
+      "related": []
+    },
+    "three": {
+      "lemma": "three",
+      "stress": "θɹi",
+      "pos": "num",
+      "gloss": "三",
+      "meanings": [
+        {
+          "en": "三",
+          "note": "基础数词：three old receipts（三张旧收据）、Three bottles of milk（三瓶牛奶）；注意词首咬舌清音 /θ/。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room three gets bright morning sun.",
+          "trans": "三号房清晨阳光充足。"
+        },
+        {
+          "text": "Give the tea three minutes to steep.",
+          "trans": "让茶叶泡三分钟吧。"
+        }
+      ],
+      "related": []
+    },
+    "old": {
+      "lemma": "old",
+      "stress": "oʊld",
+      "pos": "adj",
+      "gloss": "老的，旧的；……岁的",
+      "meanings": [
+        {
+          "en": "老的，旧的；……岁的",
+          "note": "old friends 指“老朋友”；放在年龄数字后（forty years old）表示岁数。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Portland has a charming old port district.",
+          "trans": "波特兰有一片迷人的老港区。"
+        },
+        {
+          "text": "This brass bell is eighty years old.",
+          "trans": "这只黄铜铃已经有八十年历史了。"
+        }
+      ],
+      "related": []
+    },
+    "receipt": {
+      "lemma": "receipt",
+      "stress": "ɹɪˈsit",
+      "pos": "noun",
+      "gloss": "收据，小票",
+      "meanings": [
+        {
+          "en": "收据，小票",
+          "note": "可数名词；特别注意词尾字母 p 完全不发音（读如 re-SEET）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Would you like a printed receipt?",
+          "trans": "您需要打印一张收据吗？"
+        },
+        {
+          "text": "Keep your taxi receipt in your wallet.",
+          "trans": "把出租车小票收在钱包里吧。"
         }
       ],
       "related": []
@@ -4642,1256 +5056,52 @@
       ],
       "related": []
     },
-    "morning": {
-      "lemma": "morning",
-      "stress": "ˈmɔɹnɪŋ",
-      "pos": "noun",
-      "gloss": "早晨，上午",
-      "meanings": [
-        {
-          "en": "早晨，上午",
-          "note": "指从清晨到正午十二点之间的时段；也可作定语如 morning train（早班火车）、morning coffee（晨间咖啡）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Coffee is hot and ready.",
-          "trans": "早上好！咖啡已经热腾腾地煮好了。"
-        },
-        {
-          "text": "Rain fell softly all morning.",
-          "trans": "细雨柔和地下了一整上午。"
-        }
-      ],
-      "related": []
-    },
-    "must": {
-      "lemma": "must",
-      "stress": "mʌst",
-      "pos": "verb",
-      "gloss": "一定（推测）；必须",
-      "meanings": [
-        {
-          "en": "一定（推测）；必须",
-          "note": "情态动词，后接动词原形：既表示有把握的推测（You must be Hannah 你一定是汉娜），也表示必须做某事（Everything must be perfect）。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "must"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "must"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You must try Tessa's warm apple bread!",
-          "trans": "你一定要尝尝泰莎烤的热苹果面包！"
-        },
-        {
-          "text": "That blue bag must belong to Arthur.",
-          "trans": "那只蓝色旅行包一定属于亚瑟。"
-        }
-      ],
-      "related": []
-    },
-    "my": {
-      "lemma": "my",
-      "stress": "maɪ",
-      "pos": "det",
-      "gloss": "我的",
-      "meanings": [
-        {
-          "en": "我的",
-          "note": "形容词性物主代词，后面必须接名词（my bag、my head），单复数通用。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Today is my first morning at the desk.",
-          "trans": "今天是我第一天在前台当班。"
-        },
-        {
-          "text": "Where did I put my reading glasses?",
-          "trans": "我把老花镜放哪儿去了？"
-        }
-      ],
-      "related": []
-    },
-    "need": {
-      "lemma": "need",
-      "stress": "nid",
-      "pos": "verb",
-      "gloss": "需要",
-      "meanings": [
-        {
-          "en": "需要",
-          "note": "实义动词，后接名词（what I need）或带 to 的不定式（I need to read 我需要看……）。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "need"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "needs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "needed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "needed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "needing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "把所有我需要知道的事都告诉我吧。"
-        },
-        {
-          "text": "Do you need an extra towel for your room?",
-          "trans": "您的房间需要多备一条毛巾吗？"
-        }
-      ],
-      "related": []
-    },
-    "no": {
-      "lemma": "no",
-      "stress": "noʊ",
-      "pos": "interj",
-      "gloss": "不，不是；没有（置于名词前）",
-      "meanings": [
-        {
-          "en": "不，不是；没有（置于名词前）",
-          "note": "单独回答问题意为“不”；直接放在名词前意为“没有一点……”（如 no phone number、no butter at all、No wonder 难怪）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "No, the door is not locked—just lift the handle.",
-          "trans": "不，门没锁——先把把手往上提就行。"
-        },
-        {
-          "text": "No problem at all! Take your time.",
-          "trans": "一点问题也没有！您慢慢来。"
-        }
-      ],
-      "related": []
-    },
-    "not": {
-      "lemma": "not",
-      "stress": "nɑt",
-      "pos": "adv",
-      "gloss": "不，没有（否定副词）",
-      "meanings": [
-        {
-          "en": "不，没有（否定副词）",
-          "note": "置于 be 动词、情态动词或助动词 do/does/did/will 之后构成否定句；Not yet 意为“还没有”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do not worry; your bag is safe here.",
-          "trans": "别担心，您的包放在这里很安全。"
-        },
-        {
-          "text": "The tea is warm, not too hot.",
-          "trans": "这茶温温的，不太烫。"
-        }
-      ],
-      "related": []
-    },
-    "now": {
-      "lemma": "now",
-      "stress": "naʊ",
-      "pos": "adv",
-      "gloss": "现在，眼下",
-      "meanings": [
-        {
-          "en": "现在，眼下",
-          "note": "right now 意为“此时此刻、马上”；for now 意为“眼下暂时”，Bye for now! 意为“先再见啦！”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four is clean and ready now.",
-          "trans": "四号房现在已经打扫干净准备好了。"
-        },
-        {
-          "text": "What should we do right now?",
-          "trans": "我们眼下该怎么办？"
-        }
-      ],
-      "related": []
-    },
-    "oh": {
-      "lemma": "oh",
-      "stress": "oʊ",
-      "pos": "interj",
-      "gloss": "哦，噢，哎呀",
-      "meanings": [
-        {
-          "en": "哦，噢，哎呀",
-          "note": "自然流露惊讶、恍然大悟或着急的感叹词：Oh, it opens!（噢，门开了！）、Oh no!（糟糕！）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh, it opens! Thank you so much.",
-          "trans": "噢，它开了！太感谢您了。"
-        },
-        {
-          "text": "Oh, I nearly forgot my scarf!",
-          "trans": "哎呀，我差点忘了拿围巾！"
-        }
-      ],
-      "related": []
-    },
-    "old": {
-      "lemma": "old",
-      "stress": "oʊld",
-      "pos": "adj",
-      "gloss": "老的，旧的；……岁的",
-      "meanings": [
-        {
-          "en": "老的，旧的；……岁的",
-          "note": "old friends 指“老朋友”；放在年龄数字后（forty years old）表示岁数。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Portland has a charming old port district.",
-          "trans": "波特兰有一片迷人的老港区。"
-        },
-        {
-          "text": "This brass bell is eighty years old.",
-          "trans": "这只黄铜铃已经有八十年历史了。"
-        }
-      ],
-      "related": []
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɑn",
+    "behind": {
+      "lemma": "behind",
+      "stress": "bɪˈhaɪnd",
       "pos": "prep",
-      "gloss": "在……上面（接触表面）；在（某天或某层楼）",
+      "gloss": "在……后面",
       "meanings": [
         {
-          "en": "在……上面（接触表面）；在（某天或某层楼）",
-          "note": "表面接触用 on（on my head、on the step），楼层和具体某一天也用 on（on the second floor、on my first day）。"
+          "en": "在……后面",
+          "note": "表示空间位置处于某物的背面或后方。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Your key is on the wooden desk.",
-          "trans": "您的钥匙在木书桌上。"
+          "text": "Hang your coat behind the door.",
+          "trans": "把你的外套挂在门后吧。"
         },
         {
-          "text": "Tessa bakes apple rolls on Fridays.",
-          "trans": "泰莎每逢周五会烤苹果卷。"
+          "text": "A small garden sits behind the house.",
+          "trans": "房子后面有一座小花园。"
         }
       ],
       "related": []
     },
-    "only": {
-      "lemma": "only",
-      "stress": "ˈoʊnli",
-      "pos": "adv",
-      "gloss": "只有，仅仅；唯一的",
-      "meanings": [
-        {
-          "en": "只有，仅仅；唯一的",
-          "note": "副词修饰数量或范围（Only dresses 只有连衣裙），形容词作定语意为“唯一的”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "We have only eight rooms at the inn.",
-          "trans": "我们这家客栈只有八间客房。"
-        },
-        {
-          "text": "This is the only key to the garden shed.",
-          "trans": "这是花园小棚唯一的钥匙。"
-        }
-      ],
-      "related": []
-    },
-    "pen": {
-      "lemma": "pen",
-      "stress": "pɛn",
+    "boss": {
+      "lemma": "boss",
+      "stress": "bɔs",
       "pos": "noun",
-      "gloss": "钢笔，圆珠笔，水笔",
+      "gloss": "老板，上司",
       "meanings": [
         {
-          "en": "钢笔，圆珠笔，水笔",
-          "note": "泛指用墨水书写的笔（石墨铅笔则是 pencil）。"
+          "en": "老板，上司",
+          "note": "日常口语中对主管或店主的亲切称呼。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "May I borrow your blue pen for a moment?",
-          "trans": "我可以借用一下您的蓝水笔吗？"
+          "text": "Ask the boss before changing the schedule.",
+          "trans": "更改排班表前先问问老板。"
         },
         {
-          "text": "Keep a working pen beside the guest book.",
-          "trans": "在旅客登记簿旁常备一支好用的笔。"
-        }
-      ],
-      "related": []
-    },
-    "perfect": {
-      "lemma": "perfect",
-      "stress": "ˈpɝfɪkt",
-      "pos": "adj",
-      "gloss": "完美的，十全十美的",
-      "meanings": [
-        {
-          "en": "完美的，十全十美的",
-          "note": "作形容词时重音在第一音节；单独说 Perfect! 常表示“太完美了！正好！”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four has a perfect view of the trees.",
-          "trans": "四号房能看到完美的树林景致。"
-        },
-        {
-          "text": "Perfect! Everything is back in order.",
-          "trans": "太好了！一切都恢复井井有条了。"
-        }
-      ],
-      "related": []
-    },
-    "pocket": {
-      "lemma": "pocket",
-      "stress": "ˈpɑkɪt",
-      "pos": "noun",
-      "gloss": "衣袋，口袋，夹层袋",
-      "meanings": [
-        {
-          "en": "衣袋，口袋，夹层袋",
-          "note": "coat pocket 指大衣口袋，top pocket 指行李箱顶部的拉链外袋。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Check your coat pocket for the brass key.",
-          "trans": "摸摸您的大衣口袋里有没有黄铜钥匙。"
-        },
-        {
-          "text": "He slipped the receipt into his pocket.",
-          "trans": "他把收据塞进了口袋。"
-        }
-      ],
-      "related": []
-    },
-    "read": {
-      "lemma": "read",
-      "stress": "ɹid",
-      "pos": "verb",
-      "gloss": "阅读，看懂，念出",
-      "meanings": [
-        {
-          "en": "阅读，看懂，念出",
-          "note": "注意不规则读音：原形和现在时读长音 /ɹid/，过去式和过去分词拼写不变但改读短音 /ɹɛd/。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "read"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "reads"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "read"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "read"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "reading"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Read the small print on the luggage tag.",
-          "trans": "读一读行李牌上的小字。"
-        },
-        {
-          "text": "Evelyn likes to read in the sunny parlor.",
-          "trans": "伊芙琳喜欢在阳光充足的会客厅里看书。"
-        }
-      ],
-      "related": []
-    },
-    "ready": {
-      "lemma": "ready",
-      "stress": "ˈɹɛdi",
-      "pos": "adj",
-      "gloss": "准备好的，就绪的",
-      "meanings": [
-        {
-          "en": "准备好的，就绪的",
-          "note": "be ready 表示人或物品准备妥当；ready for a big breakfast 意为“准备好享用一顿丰盛早餐了”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Your room is clean and ready upstairs.",
-          "trans": "您在楼上的房间已经打扫干净准备好了。"
-        },
-        {
-          "text": "Are you ready to order coffee?",
-          "trans": "您准备好点咖啡了吗？"
-        }
-      ],
-      "related": []
-    },
-    "receipt": {
-      "lemma": "receipt",
-      "stress": "ɹɪˈsit",
-      "pos": "noun",
-      "gloss": "收据，小票",
-      "meanings": [
-        {
-          "en": "收据，小票",
-          "note": "可数名词；特别注意词尾字母 p 完全不发音（读如 re-SEET）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Would you like a printed receipt?",
-          "trans": "您需要打印一张收据吗？"
-        },
-        {
-          "text": "Keep your taxi receipt in your wallet.",
-          "trans": "把出租车小票收在钱包里吧。"
-        }
-      ],
-      "related": []
-    },
-    "relax": {
-      "lemma": "relax",
-      "stress": "ɹɪˈlæks",
-      "pos": "verb",
-      "gloss": "放轻松，别紧张，休息",
-      "meanings": [
-        {
-          "en": "放轻松，别紧张，休息",
-          "note": "直接作祈使句 Relax! 用于安抚焦急的人（“放轻松！别慌！”），无需加宾语。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "relax"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "relaxes"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "relaxed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "relaxed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "relaxing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Sit by the window and relax.",
-          "trans": "坐在窗边放松一下吧。"
-        },
-        {
-          "text": "Relax, your train does not leave until two.",
-          "trans": "放轻松，您的火车两点才开呢。"
-        }
-      ],
-      "related": []
-    },
-    "reservation": {
-      "lemma": "reservation",
-      "stress": "ˌɹɛzɚˈveɪʃən",
-      "pos": "noun",
-      "gloss": "预订，预约",
-      "meanings": [
-        {
-          "en": "预订，预约",
-          "note": "美式英语中旅馆订房与餐厅订位最标准的词，reservation book 指“客房预订登记簿”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Hello! I have a reservation under Arthur.",
-          "trans": "您好！我有预订，登记在亚瑟名下。"
-        },
-        {
-          "text": "Let me check your reservation in our book.",
-          "trans": "让我在登记簿里查一下您的预订。"
-        }
-      ],
-      "related": []
-    },
-    "right": {
-      "lemma": "right",
-      "stress": "ɹaɪt",
-      "pos": "adj",
-      "gloss": "正确的；正好，就（副词）；右边",
-      "meanings": [
-        {
-          "en": "正确的；正好，就（副词）；右边",
-          "note": "作副词加强精确感：right above（正上方）、right here（就在这儿）、right now（马上）、fit right in（完全融入）；all right 意为“一切妥当”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You have the right room key now.",
-          "trans": "您现在拿到正确的房间钥匙了。"
-        },
-        {
-          "text": "Your room is the second door on the right.",
-          "trans": "您的房间是右手边第二扇门。"
-        }
-      ],
-      "related": []
-    },
-    "ring": {
-      "lemma": "ring",
-      "stress": "ɹɪŋ",
-      "pos": "verb",
-      "gloss": "按铃，响铃；给……打电话",
-      "meanings": [
-        {
-          "en": "按铃，响铃；给……打电话",
-          "note": "不规则变化：ring、rang、rung；ring down 在旅馆中指楼上住客“按铃或打电话呼叫楼下前台”。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "ring"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "rings"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "rang"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "rung"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "ringing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ring the brass bell on the front desk.",
-          "trans": "按一下前台桌上的黄铜铃。"
-        },
-        {
-          "text": "The lobby phone rang twice.",
-          "trans": "大堂电话响了两声。"
-        }
-      ],
-      "related": []
-    },
-    "room": {
-      "lemma": "room",
-      "stress": "ɹum",
-      "pos": "noun",
-      "gloss": "房间，客房；空间",
-      "meanings": [
-        {
-          "en": "房间，客房；空间",
-          "note": "指具体客房时可数（eight rooms 八间房）；编号直接置后（room four 四号房，口语中亦可代指四号房的客人）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four overlooks the sunny courtyard.",
-          "trans": "四号房俯瞰着阳光充足的庭院。"
-        },
-        {
-          "text": "All eight rooms are clean and ready.",
-          "trans": "八间客房全都打扫干净准备就绪了。"
-        }
-      ],
-      "related": []
-    },
-    "safe": {
-      "lemma": "safe",
-      "stress": "seɪf",
-      "pos": "adj",
-      "gloss": "安全的，稳妥的",
-      "meanings": [
-        {
-          "en": "安全的，稳妥的",
-          "note": "固定习语 safe and sound 意为“安然无恙、稳稳当当”；your secret is safe with us 意为“我们会替你保守秘密”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Your luggage is safe behind the desk.",
-          "trans": "您的行李放在前台后面很安全。"
-        },
-        {
-          "text": "Have a safe trip back home!",
-          "trans": "祝您返程一路平安！"
-        }
-      ],
-      "related": []
-    },
-    "smile": {
-      "lemma": "smile",
-      "stress": "smaɪl",
-      "pos": "noun",
-      "gloss": "微笑（动词或名词）",
-      "meanings": [
-        {
-          "en": "微笑（动词或名词）",
-          "note": "smile brightly 意为“露出灿烂的微笑”；注意词首辅音丛 sm 连读，中间不要加元音。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Hannah greeted every guest with a warm smile.",
-          "trans": "汉娜用温暖的微笑迎接每一位住客。"
-        },
-        {
-          "text": "Even grumpy travelers smile after hot tea.",
-          "trans": "就连疲惫烦躁的旅人喝上热茶也会展露笑容。"
-        }
-      ],
-      "related": []
-    },
-    "sound": {
-      "lemma": "sound",
-      "stress": "saʊnd",
-      "pos": "verb",
-      "gloss": "听起来（动词）；声音；安然完好的",
-      "meanings": [
-        {
-          "en": "听起来（动词）；声音；安然完好的",
-          "note": "作连系动词后接形容词（He sounded nervous 他听起来很紧张）；习语 safe and sound 中作形容词意为“安然无恙”。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "sound"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "sounds"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "sounded"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "sounded"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "sounding"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Hot tea and apple bread? That sounds wonderful!",
-          "trans": "热茶配苹果面包？听起来棒极了！"
-        },
-        {
-          "text": "Her voice sounded calm on the phone.",
-          "trans": "她在电话里的声音听起来很平静。"
-        }
-      ],
-      "related": []
-    },
-    "stay": {
-      "lemma": "stay",
-      "stress": "steɪ",
-      "pos": "verb",
-      "gloss": "入住，逗留；保持（某种状态）",
-      "meanings": [
-        {
-          "en": "入住，逗留；保持（某种状态）",
-          "note": "一词两用：作不及物动词指在旅馆住宿（is staying all week 住一整周；Stay here 待在这儿），作系动词指保持状态（stays safe 保持安全）。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "stay"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "stays"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "stayed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "stayed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "staying"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "How many nights are you staying with us?",
-          "trans": "您打算在我们这儿住几晚？"
-        },
-        {
-          "text": "Stay warm and dry out there!",
-          "trans": "在外面注意保暖、别淋湿了！"
-        }
-      ],
-      "related": []
-    },
-    "taxi": {
-      "lemma": "taxi",
-      "stress": "ˈtæksi",
-      "pos": "noun",
-      "gloss": "出租车，计程车",
-      "meanings": [
-        {
-          "en": "出租车，计程车",
-          "note": "可数名词，复数直接加 s 为 taxis。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A yellow taxi stopped outside the front gate.",
-          "trans": "一辆黄色出租车停在前院大门外。"
-        },
-        {
-          "text": "Shall I call a taxi for your noon train?",
-          "trans": "需要我为您中午十二点的火车叫辆出租车吗？"
-        }
-      ],
-      "related": []
-    },
-    "tell": {
-      "lemma": "tell",
-      "stress": "tɛl",
-      "pos": "verb",
-      "gloss": "告诉，转告，吩咐",
-      "meanings": [
-        {
-          "en": "告诉，转告，吩咐",
-          "note": "后面直接跟人作间接宾语（不加 to）：Tell me everything（告诉我一切）、Do not tell anyone!（千万别告诉任何人！）、Tell Tessa my compliments!。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "tell"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "tells"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "told"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "told"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "telling"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "把所有我需要知道的事都告诉我吧。"
-        },
-        {
-          "text": "Caleb told us a funny story about the taxi.",
-          "trans": "凯勒布给我们讲了一段关于出租车的趣事。"
-        }
-      ],
-      "related": []
-    },
-    "the": {
-      "lemma": "the",
-      "stress": "ðə",
-      "pos": "det",
-      "gloss": "这，那（定冠词）",
-      "meanings": [
-        {
-          "en": "这，那（定冠词）",
-          "note": "用于双方已知或特指的人或事物前（the door、the kitchen），单复数通用。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle on the front door.",
-          "trans": "把前门上的把手往上提。"
-        },
-        {
-          "text": "All the keys hang behind the desk.",
-          "trans": "所有的钥匙都挂在前台后面。"
-        }
-      ],
-      "related": []
-    },
-    "there": {
-      "lemma": "there",
-      "stress": "ðɛɹ",
-      "pos": "adv",
-      "gloss": "那里；（引导存在句“有”）",
-      "meanings": [
-        {
-          "en": "那里；（引导存在句“有”）",
-          "note": "两类核心用法：作地点副词（Nobody is there 没人；there and back 去一趟再回来）；与 be 构成存在句 There is / Is there（有/有没有……）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "There is fresh coffee in the kitchen.",
-          "trans": "厨房里有现煮的新鲜咖啡。"
-        },
-        {
-          "text": "Hang your coat right over there.",
-          "trans": "把您的大衣就挂在那边吧。"
-        }
-      ],
-      "related": []
-    },
-    "they": {
-      "lemma": "they",
-      "stress": "ðeɪ",
-      "pos": "pron",
-      "gloss": "他们，她们，它们",
-      "meanings": [
-        {
-          "en": "他们，她们，它们",
-          "note": "英语中复数物品也必须用 they 指代，绝不可省略（如指代眼镜：They are on my head! 它们就在我头上呢！）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "They arrived together on the morning train.",
-          "trans": "他们乘早班火车一起抵达。"
-        },
-        {
-          "text": "Try the apples—they are crisp and sweet.",
-          "trans": "尝尝这些苹果吧——又脆又甜。"
-        }
-      ],
-      "related": []
-    },
-    "three": {
-      "lemma": "three",
-      "stress": "θɹi",
-      "pos": "num",
-      "gloss": "三",
-      "meanings": [
-        {
-          "en": "三",
-          "note": "基础数词：three old receipts（三张旧收据）、Three bottles of milk（三瓶牛奶）；注意词首咬舌清音 /θ/。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room three gets bright morning sun.",
-          "trans": "三号房清晨阳光充足。"
-        },
-        {
-          "text": "Give the tea three minutes to steep.",
-          "trans": "让茶叶泡三分钟吧。"
-        }
-      ],
-      "related": []
-    },
-    "to": {
-      "lemma": "to",
-      "stress": "tu",
-      "pos": "prep",
-      "gloss": "向，到；至；（不定式标志）",
-      "meanings": [
-        {
-          "en": "向，到；至；（不定式标志）",
-          "note": "既作介词表方向或时间跨度（from seven thirty to ten 从七点半到十点；talks to everyone），也置于动词原形前构成不定式（need to know）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Welcome to Linden Courtyard Inn!",
-          "trans": "欢迎光临菩提树庭院客栈！"
-        },
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "把所有我需要知道的事都告诉我吧。"
-        }
-      ],
-      "related": []
-    },
-    "today": {
-      "lemma": "today",
-      "stress": "təˈdeɪ",
-      "pos": "adv",
-      "gloss": "今天",
-      "meanings": [
-        {
-          "en": "今天",
-          "note": "时间副词，直接作状语不加介词；还可加所有格词尾构成 Today's guest（今天入住的客人）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four is arriving today.",
-          "trans": "四号房的客人今天抵达。"
-        },
-        {
-          "text": "Today's soup is warm tomato basil.",
-          "trans": "今天的例汤是热番茄罗勒汤。"
-        }
-      ],
-      "related": []
-    },
-    "towel": {
-      "lemma": "towel",
-      "stress": "ˈtaʊəl",
-      "pos": "noun",
-      "gloss": "毛巾，浴巾",
-      "meanings": [
-        {
-          "en": "毛巾，浴巾",
-          "note": "可数名词：the towels are fresh 指客房里的“毛巾干净清爽”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh white towels hang in the bathroom.",
-          "trans": "浴室里挂着洁白干净的毛巾。"
-        },
-        {
-          "text": "Dry your hands on this cotton towel.",
-          "trans": "用这条棉毛巾擦干手吧。"
-        }
-      ],
-      "related": []
-    },
-    "week": {
-      "lemma": "week",
-      "stress": "wik",
-      "pos": "noun",
-      "gloss": "星期，周",
-      "meanings": [
-        {
-          "en": "星期，周",
-          "note": "all week 意为“整整一周”（前面不加介词）；读音与 weak（虚弱的）相同。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Evelyn is staying with us all week.",
-          "trans": "伊芙琳这整周都住在我们这里。"
-        },
-        {
-          "text": "Have a wonderful week!",
-          "trans": "祝您度过美好的一周！"
-        }
-      ],
-      "related": []
-    },
-    "welcome": {
-      "lemma": "welcome",
-      "stress": "ˈwɛlkəm",
-      "pos": "interj",
-      "gloss": "欢迎；不用谢",
-      "meanings": [
-        {
-          "en": "欢迎；不用谢",
-          "note": "单独说 Welcome! 或 Welcome to the Linden Courtyard Inn! 用于热情迎客；You are welcome 则回应道谢。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Welcome to Linden Courtyard Inn!",
-          "trans": "欢迎光临菩提树庭院客栈！"
-        },
-        {
-          "text": "You are very welcome! Enjoy your tea.",
-          "trans": "不客气！请慢用热茶。"
-        }
-      ],
-      "related": []
-    },
-    "when": {
-      "lemma": "when",
-      "stress": "wɛn",
-      "pos": "conj",
-      "gloss": "当……时候（连词）；什么时候（疑问词）",
-      "meanings": [
-        {
-          "en": "当……时候（连词）；什么时候（疑问词）",
-          "note": "在时间状语从句中用一般现在时表示习惯或将来：when it rains（每当下雨时）、when the bell rings（当门铃响起时）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Paper never loses the list when it rains.",
-          "trans": "每逢下雨，纸质账本也绝不会弄丢名单。"
-        },
-        {
-          "text": "When does the afternoon ferry leave?",
-          "trans": "下午那班渡轮几点开？"
+          "text": "Our boss always loses his pen.",
+          "trans": "我们老板总是丢钢笔。"
         }
       ],
       "related": []
@@ -5984,52 +5194,842 @@
       ],
       "related": []
     },
-    "yes": {
-      "lemma": "yes",
-      "stress": "jɛs",
+    "oh": {
+      "lemma": "oh",
+      "stress": "oʊ",
       "pos": "interj",
-      "gloss": "是的，对，好",
+      "gloss": "哦，噢，哎呀",
       "meanings": [
         {
-          "en": "是的，对，好",
-          "note": "最基本的肯定答语，可用于回答问句或确认信息。"
+          "en": "哦，噢，哎呀",
+          "note": "自然流露惊讶、恍然大悟或着急的感叹词：Oh, it opens!（噢，门开了！）、Oh no!（糟糕！）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Yes, eight rooms and eight brass keys.",
-          "trans": "对，八间客房，八把黄铜钥匙。"
+          "text": "Oh, it opens! Thank you so much.",
+          "trans": "噢，它开了！太感谢您了。"
         },
         {
-          "text": "Yes, please! I would love some coffee.",
-          "trans": "好的，谢谢！我很想来点咖啡。"
+          "text": "Oh, I nearly forgot my scarf!",
+          "trans": "哎呀，我差点忘了拿围巾！"
         }
       ],
       "related": []
     },
-    "your": {
-      "lemma": "your",
-      "stress": "jʊɹ",
-      "pos": "det",
-      "gloss": "你的，您的，你们的",
+    "on": {
+      "lemma": "on",
+      "stress": "ɑn",
+      "pos": "prep",
+      "gloss": "在……上面（接触表面）；在（某天或某层楼）",
       "meanings": [
         {
-          "en": "你的，您的，你们的",
-          "note": "形容词性物主代词，后面必须接名词（your train trip、your forehead）；注意与缩写词 you're（你是）区分。"
+          "en": "在……上面（接触表面）；在（某天或某层楼）",
+          "note": "表面接触用 on（on my head、on the step），楼层和具体某一天也用 on（on the second floor、on my first day）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Here is your room key, Evelyn.",
-          "trans": "伊芙琳，这是您的房间钥匙。"
+          "text": "Your key is on the wooden desk.",
+          "trans": "您的钥匙在木书桌上。"
         },
         {
-          "text": "Enjoy your morning coffee!",
-          "trans": "请慢用您的晨间咖啡！"
+          "text": "Tessa bakes apple rolls on Fridays.",
+          "trans": "泰莎每逢周五会烤苹果卷。"
+        }
+      ],
+      "related": []
+    },
+    "head": {
+      "lemma": "head",
+      "stress": "hɛd",
+      "pos": "noun",
+      "gloss": "头，脑袋",
+      "meanings": [
+        {
+          "en": "头，脑袋",
+          "note": "on my head 表示“在我的头上（比如把眼镜推到头顶）”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He nodded his head and smiled.",
+          "trans": "他点点头微笑了。"
+        },
+        {
+          "text": "Wear a warm hat on your head.",
+          "trans": "头上戴顶暖和的帽子吧。"
+        }
+      ],
+      "related": []
+    },
+    "right": {
+      "lemma": "right",
+      "stress": "ɹaɪt",
+      "pos": "adj",
+      "gloss": "正确的；正好，就（副词）；右边",
+      "meanings": [
+        {
+          "en": "正确的；正好，就（副词）；右边",
+          "note": "作副词加强精确感：right above（正上方）、right here（就在这儿）、right now（马上）、fit right in（完全融入）；all right 意为“一切妥当”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You have the right room key now.",
+          "trans": "您现在拿到正确的房间钥匙了。"
+        },
+        {
+          "text": "Your room is the second door on the right.",
+          "trans": "您的房间是右手边第二扇门。"
+        }
+      ],
+      "related": []
+    },
+    "there": {
+      "lemma": "there",
+      "stress": "ðɛɹ",
+      "pos": "adv",
+      "gloss": "那里；（引导存在句“有”）",
+      "meanings": [
+        {
+          "en": "那里；（引导存在句“有”）",
+          "note": "两类核心用法：作地点副词（Nobody is there 没人；there and back 去一趟再回来）；与 be 构成存在句 There is / Is there（有/有没有……）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "There is fresh coffee in the kitchen.",
+          "trans": "厨房里有现煮的新鲜咖啡。"
+        },
+        {
+          "text": "Hang your coat right over there.",
+          "trans": "把您的大衣就挂在那边吧。"
+        }
+      ],
+      "related": []
+    },
+    "forehead": {
+      "lemma": "forehead",
+      "stress": "ˈfɔɹˌhɛd",
+      "pos": "noun",
+      "gloss": "额头，前额",
+      "meanings": [
+        {
+          "en": "额头，前额",
+          "note": "指眉毛上方的额部；说眼镜架在额头上用介词 on your forehead。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He wiped rain from his forehead.",
+          "trans": "他擦去了额头上的雨水。"
+        },
+        {
+          "text": "Her glasses rested high on her forehead.",
+          "trans": "她的眼镜高高架在额头上。"
+        }
+      ],
+      "related": []
+    },
+    "safe": {
+      "lemma": "safe",
+      "stress": "seɪf",
+      "pos": "adj",
+      "gloss": "安全的，稳妥的",
+      "meanings": [
+        {
+          "en": "安全的，稳妥的",
+          "note": "固定习语 safe and sound 意为“安然无恙、稳稳当当”；your secret is safe with us 意为“我们会替你保守秘密”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your luggage is safe behind the desk.",
+          "trans": "您的行李放在前台后面很安全。"
+        },
+        {
+          "text": "Have a safe trip back home!",
+          "trans": "祝您返程一路平安！"
+        }
+      ],
+      "related": []
+    },
+    "sound": {
+      "lemma": "sound",
+      "stress": "saʊnd",
+      "pos": "verb",
+      "gloss": "听起来（动词）；声音；安然完好的",
+      "meanings": [
+        {
+          "en": "听起来（动词）；声音；安然完好的",
+          "note": "作连系动词后接形容词（He sounded nervous 他听起来很紧张）；习语 safe and sound 中作形容词意为“安然无恙”。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sound"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sounds"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "sounded"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "sounded"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "sounding"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hot tea and apple bread? That sounds wonderful!",
+          "trans": "热茶配苹果面包？听起来棒极了！"
+        },
+        {
+          "text": "Her voice sounded calm on the phone.",
+          "trans": "她在电话里的声音听起来很平静。"
+        }
+      ],
+      "related": []
+    },
+    "do": {
+      "lemma": "do",
+      "stress": "du",
+      "pos": "verb",
+      "gloss": "做，干；（助动词）",
+      "meanings": [
+        {
+          "en": "做，干；（助动词）",
+          "note": "既可作实义动词“做”，也可在一般现在时疑问句和否定句中充当助动词。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "do"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "does"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "did"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "done"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "doing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do you want sugar in your coffee?",
+          "trans": "你的咖啡里要加糖吗？"
+        },
+        {
+          "text": "What should we do with this package?",
+          "trans": "我们该怎么处理这个包裹？"
+        }
+      ],
+      "related": []
+    },
+    "not": {
+      "lemma": "not",
+      "stress": "nɑt",
+      "pos": "adv",
+      "gloss": "不，没有（否定副词）",
+      "meanings": [
+        {
+          "en": "不，没有（否定副词）",
+          "note": "置于 be 动词、情态动词或助动词 do/does/did/will 之后构成否定句；Not yet 意为“还没有”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do not worry; your bag is safe here.",
+          "trans": "别担心，您的包放在这里很安全。"
+        },
+        {
+          "text": "The tea is warm, not too hot.",
+          "trans": "这茶温温的，不太烫。"
+        }
+      ],
+      "related": []
+    },
+    "tell": {
+      "lemma": "tell",
+      "stress": "tɛl",
+      "pos": "verb",
+      "gloss": "告诉，转告，吩咐",
+      "meanings": [
+        {
+          "en": "告诉，转告，吩咐",
+          "note": "后面直接跟人作间接宾语（不加 to）：Tell me everything（告诉我一切）、Do not tell anyone!（千万别告诉任何人！）、Tell Tessa my compliments!。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "tell"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "tells"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "told"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "told"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "telling"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "把所有我需要知道的事都告诉我吧。"
+        },
+        {
+          "text": "Caleb told us a funny story about the taxi.",
+          "trans": "凯勒布给我们讲了一段关于出租车的趣事。"
+        }
+      ],
+      "related": []
+    },
+    "anyone": {
+      "lemma": "anyone",
+      "stress": "ˈɛniˌwʌn",
+      "pos": "pron",
+      "gloss": "任何人；有人吗",
+      "meanings": [
+        {
+          "en": "任何人；有人吗",
+          "note": "多用于疑问句、否定句或条件句中，作主语时按单数处理。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did anyone call this morning?",
+          "trans": "今天上午有人打电话来吗？"
+        },
+        {
+          "text": "Do not tell anyone my secret.",
+          "trans": "别把我的秘密告诉任何人。"
+        }
+      ],
+      "related": []
+    },
+    "now": {
+      "lemma": "now",
+      "stress": "naʊ",
+      "pos": "adv",
+      "gloss": "现在，眼下",
+      "meanings": [
+        {
+          "en": "现在，眼下",
+          "note": "right now 意为“此时此刻、马上”；for now 意为“眼下暂时”，Bye for now! 意为“先再见啦！”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four is clean and ready now.",
+          "trans": "四号房现在已经打扫干净准备好了。"
+        },
+        {
+          "text": "What should we do right now?",
+          "trans": "我们眼下该怎么办？"
+        }
+      ],
+      "related": []
+    },
+    "smile": {
+      "lemma": "smile",
+      "stress": "smaɪl",
+      "pos": "noun",
+      "gloss": "微笑（动词或名词）",
+      "meanings": [
+        {
+          "en": "微笑（动词或名词）",
+          "note": "smile brightly 意为“露出灿烂的微笑”；注意词首辅音丛 sm 连读，中间不要加元音。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hannah greeted every guest with a warm smile.",
+          "trans": "汉娜用温暖的微笑迎接每一位住客。"
+        },
+        {
+          "text": "Even grumpy travelers smile after hot tea.",
+          "trans": "就连疲惫烦躁的旅人喝上热茶也会展露笑容。"
+        }
+      ],
+      "related": []
+    },
+    "brightly": {
+      "lemma": "brightly",
+      "stress": "ˈbɹaɪtli",
+      "pos": "adv",
+      "gloss": "灿烂地，明亮地",
+      "meanings": [
+        {
+          "en": "灿烂地，明亮地",
+          "note": "由形容词 bright 加副词后缀构成，常修饰阳光照耀或微笑。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The morning sun shone brightly.",
+          "trans": "清晨的阳光灿烂地照耀着。"
+        },
+        {
+          "text": "She smiled brightly at the new guests.",
+          "trans": "她向新来的客人们灿烂一笑。"
+        }
+      ],
+      "related": []
+    },
+    "when": {
+      "lemma": "when",
+      "stress": "wɛn",
+      "pos": "conj",
+      "gloss": "当……时候（连词）；什么时候（疑问词）",
+      "meanings": [
+        {
+          "en": "当……时候（连词）；什么时候（疑问词）",
+          "note": "在时间状语从句中用一般现在时表示习惯或将来：when it rains（每当下雨时）、when the bell rings（当门铃响起时）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Paper never loses the list when it rains.",
+          "trans": "每逢下雨，纸质账本也绝不会弄丢名单。"
+        },
+        {
+          "text": "When does the afternoon ferry leave?",
+          "trans": "下午那班渡轮几点开？"
+        }
+      ],
+      "related": []
+    },
+    "bell": {
+      "lemma": "bell",
+      "stress": "bɛl",
+      "pos": "noun",
+      "gloss": "铃，门铃，按铃",
+      "meanings": [
+        {
+          "en": "铃，门铃，按铃",
+          "note": "既指前台柜台的按铃，也指大门门铃或钟。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ring the bell at the front desk.",
+          "trans": "按一下前台的铃吧。"
+        },
+        {
+          "text": "Did you hear the gate bell?",
+          "trans": "你听见大门口的门铃响了吗？"
+        }
+      ],
+      "related": []
+    },
+    "ring": {
+      "lemma": "ring",
+      "stress": "ɹɪŋ",
+      "pos": "verb",
+      "gloss": "按铃，响铃；给……打电话",
+      "meanings": [
+        {
+          "en": "按铃，响铃；给……打电话",
+          "note": "不规则变化：ring、rang、rung；ring down 在旅馆中指楼上住客“按铃或打电话呼叫楼下前台”。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "ring"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "rings"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "rang"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "rung"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "ringing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ring the brass bell on the front desk.",
+          "trans": "按一下前台桌上的黄铜铃。"
+        },
+        {
+          "text": "The lobby phone rang twice.",
+          "trans": "大堂电话响了两声。"
+        }
+      ],
+      "related": []
+    },
+    "here": {
+      "lemma": "here",
+      "stress": "hɪɹ",
+      "pos": "adv",
+      "gloss": "这里，在这儿",
+      "meanings": [
+        {
+          "en": "这里，在这儿",
+          "note": "倒装句式 Here is... / Here are... 常用于递东西给别人时说“给您……”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is your brass key for room four.",
+          "trans": "这是您四号房的黄铜钥匙。"
+        },
+        {
+          "text": "Sign your name right here, please.",
+          "trans": "请就在这里签上您的名字。"
+        }
+      ],
+      "related": []
+    },
+    "come": {
+      "lemma": "come",
+      "stress": "kʌm",
+      "pos": "verb",
+      "gloss": "来，过来",
+      "meanings": [
+        {
+          "en": "来，过来",
+          "note": "不规则动词：过去式 came，过去分词又回到 come。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "come"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "comes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "came"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "come"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "coming"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Come inside out of the rain!",
+          "trans": "快进屋避避雨吧！"
+        },
+        {
+          "text": "Guests come down for coffee at eight.",
+          "trans": "客人们八点钟下楼喝咖啡。"
+        }
+      ],
+      "related": []
+    },
+    "a": {
+      "lemma": "a",
+      "stress": "ə",
+      "pos": "det",
+      "gloss": "一个（不定冠词）",
+      "meanings": [
+        {
+          "en": "一个（不定冠词）",
+          "note": "用于以辅音音素开头的可数名词单数前。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I have a blue pen.",
+          "trans": "我有一支蓝色的钢笔。"
+        },
+        {
+          "text": "She wants a cup of tea.",
+          "trans": "她想要一杯茶。"
+        }
+      ],
+      "related": []
+    },
+    "taxi": {
+      "lemma": "taxi",
+      "stress": "ˈtæksi",
+      "pos": "noun",
+      "gloss": "出租车，计程车",
+      "meanings": [
+        {
+          "en": "出租车，计程车",
+          "note": "可数名词，复数直接加 s 为 taxis。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A yellow taxi stopped outside the front gate.",
+          "trans": "一辆黄色出租车停在前院大门外。"
+        },
+        {
+          "text": "Shall I call a taxi for your noon train?",
+          "trans": "需要我为您中午十二点的火车叫辆出租车吗？"
+        }
+      ],
+      "related": []
+    },
+    "at": {
+      "lemma": "at",
+      "stress": "æt",
+      "pos": "prep",
+      "gloss": "在（某处或某时刻）",
+      "meanings": [
+        {
+          "en": "在（某处或某时刻）",
+          "note": "用于具体钟点（at seven）和具体地点（at the desk）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast starts at seven thirty.",
+          "trans": "早餐七点半开始。"
+        },
+        {
+          "text": "Someone is waiting at the gate.",
+          "trans": "有人在大门口等着。"
+        }
+      ],
+      "related": []
+    },
+    "gate": {
+      "lemma": "gate",
+      "stress": "ɡeɪt",
+      "pos": "noun",
+      "gloss": "大门，院门",
+      "meanings": [
+        {
+          "en": "大门，院门",
+          "note": "通常指庭院、花园围墙或车站检票口的外门（室内房门则用 door）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Close the iron gate behind you.",
+          "trans": "进出后请随手关上铁院门。"
+        },
+        {
+          "text": "Tessa waited by the courtyard gate.",
+          "trans": "泰莎在庭院大门口等着。"
+        }
+      ],
+      "related": []
+    },
+    "bye": {
+      "lemma": "bye",
+      "stress": "baɪ",
+      "pos": "interj",
+      "gloss": "再见，拜拜",
+      "meanings": [
+        {
+          "en": "再见，拜拜",
+          "note": "轻松自然的日常告别语，如 Bye for now（先再见啦）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bye! Have a safe trip.",
+          "trans": "再见！祝你一路平安。"
+        },
+        {
+          "text": "She waved and said bye.",
+          "trans": "她挥了挥手说再见。"
+        }
+      ],
+      "related": []
+    },
+    "for": {
+      "lemma": "for",
+      "stress": "fɔɹ",
+      "pos": "prep",
+      "gloss": "给，为了；持续（一段时间）",
+      "meanings": [
+        {
+          "en": "给，为了；持续（一段时间）",
+          "note": "用途极广的介词，表示对象（a room for Evelyn）、用途（for breakfast）或时长。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This package arrived for room two.",
+          "trans": "这个包裹是寄给二号房的。"
+        },
+        {
+          "text": "Wait here for just a moment.",
+          "trans": "请在这里稍等片刻。"
         }
       ],
       "related": []

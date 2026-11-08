@@ -21,7 +21,7 @@ STORY = [
     ('hannah', 'Wait, let me look at the tablet screen and the paper book together.', 'Подождите, дайте я сверю экран планшета с бумажной книгой.'),
     ('graham', 'Let me guess. You promised somebody a room we do not have?', 'Дай угадаю. Ты пообещал кому-то номер, которого у нас нет?'),
     ('hannah', 'Arthur! Room seven is already occupied, and you booked a second guest into room seven!', 'Артур! Седьмой номер уже занят, а вы записали в седьмой номер второго гостя!'),
-    ('arthur', "And he arrives on the eight o'clock evening train, in forty minutes!", 'И он приезжает восьмичасовым вечерним поездом — через сорок минут!'),
+    ('arthur', "And he arrives here at eight o'clock this evening, in forty minutes!", 'И он приезжает сюда сегодня в восемь часов вечера — через сорок минут!'),
     ('graham', 'Told you that tablet is a trap.', 'Говорил же я тебе, что этот планшет — настоящая ловушка.'),
     ('arthur', 'It is raining outside and every hotel on our street is full! What do we do?', 'На улице идёт дождь, и все отели на нашей улице переполнены! Что же нам делать?'),
     ('hannah', 'Wait, what is on the third floor above the stairs?', 'Постойте, а что находится на третьем этаже над лестницей?'),

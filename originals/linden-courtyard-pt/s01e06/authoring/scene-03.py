@@ -25,7 +25,7 @@ STORY = [
     ('graham', 'Smart thinking, Hannah. Caleb reads city building rules every single week.', 'Bem pensado, Hannah. O Caleb lê regras municipais de construção toda santa semana.'),
     ('arthur', 'Oh, I could never bother a paying guest with our landlord troubles!', 'Ah, eu jamais poderia incomodar um hóspede pagante com nossos problemas de aluguel!'),
     ('hannah', 'After we guarded his blue suitcase all week? He will want to help!', 'Depois de guardarmos a mala azul dele a semana toda? Ele vai querer ajudar!'),
-    ('graham', 'Wait, here comes Tessa back from their table right now.', 'Esperem, lá vem a Tessa voltando da mesa deles agora mesmo.'),
+    ('graham', 'Wait, Tessa is taking the cake out to their table right now.', 'Esperem, a Tessa está levando o bolo para a mesa deles agora mesmo.'),
 ]
 WALK = [
     (0, None, ["'Quinze anos lustrando chaves de latão e alinhando gravatas... perdidos em trinta dias!' Depois de 'of' os verbos vêm com '-ing', e", (None, 'gone in thirty days'), "resume 'acabados em trinta dias'."]),
@@ -39,5 +39,5 @@ WALK = [
     (8, None, ["'Bem pensado, Hannah. O Caleb lê regras municipais de construção toda santa semana.' O elogio curto", (None, 'Smart thinking'), 'valoriza um raciocínio rápido na hora.']),
     (9, None, ["'Ah, eu jamais poderia incomodar um hóspede pagante com nossos problemas de aluguel!' Juntar 'could' e 'never' em", (None, 'I could never bother'), 'demonstra grande delicadeza.']),
     (10, None, ["'Depois de guardarmos a mala azul dele a semana toda? Ele vai querer ajudar!' Cheia de confiança,", (None, 'He will want to help'), 'garante que ele terá prazer em ajudar.']),
-    (11, None, ["'Esperem, lá vem a Tessa voltando da mesa deles agora mesmo.' Com nomes próprios em", (None, 'here comes Tessa'), 'o verbo vem antes do nome para anunciar quem está chegando.']),
+    (11, None, ["'Esperem, a Tessa está levando o bolo para a mesa deles agora mesmo.' A ação acontecendo neste exato momento pede o sufixo -ing em", (None, 'is taking'), 'está levando.']),
 ]

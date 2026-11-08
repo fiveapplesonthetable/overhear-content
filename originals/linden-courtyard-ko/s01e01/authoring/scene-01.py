@@ -21,9 +21,9 @@ STORY = [
     ('hannah', 'I always walk fast on my first day. Where is the computer?', '첫 출근 날에는 늘 걸음이 빨라져서요. 컴퓨터는 어디에 있나요?'),
     ('graham', 'In the drawer. Here we use this big paper book and a pencil.', '서랍 안에요. 여기서는 이 커다란 종이 장부와 연필을 씁니다.'),
     ('hannah', 'A paper book? Really?', '종이 장부라고요? 정말요?'),
-    ('graham', 'Paper never loses the room list when it rains.', '종이는 비가 와도 객실 명단을 잃어버리는 법이 없거든요.'),
+    ('graham', 'Paper still works when the power goes out.', '정전이 되어도 종이는 쓸 수 있거든요.'),
     ('hannah', 'Fair enough! And these are the keys?', '그 말씀도 일리 있네요! 그리고 이것들이 열쇠인가요?'),
-    ('graham', 'Yes, eight rooms, eight brass keys. Room four is arriving today.', '네, 객실 여덟 개에 황동 열쇠 여덟 개죠. 사 호실 손님은 오늘 도착합니다.'),
+    ('graham', 'Yes, eight rooms, eight brass keys. Room four\'s guest arrives today.', '네, 객실 여덟 개에 황동 열쇠 여덟 개죠. 사 호실 손님은 오늘 도착합니다.'),
     ('hannah', 'Great. Tell me everything I need to know.', '좋아요. 제가 알아야 할 모든 걸 알려 주세요.'),
     ('graham', 'Rule one: drink hot tea first, then answer the bell.', '첫째 규칙, 먼저 뜨거운 차를 마시고 그다음에 벨을 받으세요.'),
 ]
@@ -35,9 +35,9 @@ WALK = [
     (4, None, ["'첫 출근 날에는 늘 걸음이 빨라져서요. 컴퓨터는 어디에 있나요?' 달력 위의 특정한 하루를 콕 집어 말할 때는", (None, 'on my first day'), '여기처럼 접촉을 뜻하는 전치사를 앞에 붙여요.']),
     (5, None, ["'서랍 안에요. 여기서는 이 커다란 종이 장부와 연필을 씁니다.' 크기와 재질을 나란히 덧붙일 때는", (None, 'big paper book'), '바로 이 순서로 명사 바로 앞에서 깔끔하게 꾸며 줘요.']),
     (6, None, ["'종이 장부라고요? 정말요?' 상대방 말에 가볍게 놀라며 되물을 때는", (None, 'Really'), '바로 이 한마디의 끝소리만 살짝 올려 주면 자연스러워요.']),
-    (7, None, ["'종이는 비가 와도 객실 명단을 잃어버리는 법이 없거든요.' 날씨를 말할 때는 특별한 뜻이 없는 빈자리의 주어와 함께", (None, 'when it rains'), '이렇게 현재시제로 늘 그러한 사실을 나타내요.']),
+    (7, None, ["'정전이 되어도 종이는 쓸 수 있거든요.' 날씨를 말할 때는 특별한 뜻이 없는 빈자리의 주어와 함께", (None, 'when the power goes out'), '정전이 일어날 때를 말해요.']),
     (8, None, ["'그 말씀도 일리 있네요! 그리고 이것들이 열쇠인가요?' 상대의 설명이 납득되어 흔쾌히 수긍할 때는", (None, 'Fair enough'), '바로 이 짧은 맞장구 표현이 아주 요긴하게 쓰여요.']),
-    (9, None, ["'네, 객실 여덟 개에 황동 열쇠 여덟 개죠. 사 호실 손님은 오늘 도착합니다.' 이미 확정된 오늘의 방문 일정을 말할 때는", (None, 'is arriving today'), '이런 진행형 표현으로 생생하게 전할 수 있어요.']),
+    (9, None, ["'네, 객실 여덟 개에 황동 열쇠 여덟 개죠. 사 호실 손님은 오늘 도착합니다.' 이미 확정된 오늘의 방문 일정을 말할 때는", (None, 'arrives today'), '이렇게 현재시제로 간결하게 나타낼 수 있어요.']),
     (10, None, ["'좋아요. 제가 알아야 할 모든 걸 알려 주세요.' 전체를 뜻하는 대명사", (None, 'everything'), '바로 그 뒤에 관계사 없이', (None, 'I need to know'), '바로 이 절을 곧바로 붙여 무엇을 알아야 하는지 설명해요.']),
     (11, None, ["'첫째 규칙, 먼저 뜨거운 차를 마시고 그다음에 벨을 받으세요.' 영어에서는 전화를 받을 때뿐 아니라 데스크 종소리에 응대할 때도", (None, 'answer the bell'), '바로 이 동사를 써서 손님을 맞이해요.']),
 ]

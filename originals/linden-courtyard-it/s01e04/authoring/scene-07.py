@@ -15,12 +15,12 @@ OUTRO = "La luce del giorno su una vecchia targhetta da viaggio ha appena riaper
 CLOSING = ("evelyn", "Bye for now!")
 STORY = [
     ("graham", "Let me set this blue suitcase here for five minutes while I sweep the closet.", "Lasciami appoggiare qui questa valigia blu per cinque minuti mentre spazzo il ripostiglio."),
-    ("hannah", "Careful with it, Graham. Tomorrow at noon is Friday!", "Con cautela, Graham. Domani a mezzogiorno è venerdì!"),
+    ("hannah", "Careful with it, Graham. Friday at noon is tomorrow!", "Con cautela, Graham. Venerdì a mezzogiorno è domani!"),
     ("evelyn", "Oh, is that the twin suitcase from Monday's train?", "Oh, quella è la valigia gemella del treno di lunedì?"),
     ("hannah", "Yes, ma'am, still waiting for its owner.", "Sì, signora, sta ancora aspettando il suo proprietario."),
     ("evelyn", "May I look at the paper tag again here in the bright sunlight?", "Posso guardare di nuovo l'etichetta di carta qui alla luce viva del sole?"),
     ("graham", "Go right ahead, ma'am. Monday afternoon the lobby was dark.", "Faccia pure con comodo, signora. Lunedì pomeriggio l'atrio era buio."),
-    ("evelyn", "Wait a moment... Number twelve, Linden Street, and two childhood initials carved on the corner!", "Aspetti un momento... Numero dodici di via Linden, e due iniziali d'infanzia incise sull'angolo!"),
+    ("evelyn", "Wait a moment... Number twelve, Linden Street, and two childhood initials written in the corner!", "Aspetti un momento... Numero dodici di via Linden, e due iniziali d'infanzia scritte nell'angolo!"),
     ("hannah", "Miss Evelyn, you look amazed! Do you know Number twelve, Linden Street?", "Signorina Evelyn, sembra stupita! Conosce il numero dodici di via Linden?"),
     ("evelyn", "Know it? Every Friday for six years I climbed those wooden stairs to teach piano!", "Se lo conosco? Ogni venerdì per sei anni ho salito quelle scale di legno per insegnare pianoforte!"),
     ("graham", "Twenty-five years ago? In that same house?", "Venticinque anni fa? In quella stessa casa?"),
@@ -29,12 +29,12 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Lasciami appoggiare qui questa valigia blu per cinque minuti mentre spazzo il ripostiglio.' Appoggiare delicatamente un oggetto si rende con", (None, "set this blue suitcase here"), "mentre", (None, "sweep"), "significa spazzare con la scopa."]),
-    (1, None, ["'Con cautela, Graham. Domani a mezzogiorno è venerdì!' Per raccomandare attenzione nel maneggiare qualcosa basta", (None, "Careful with it"), "e mezzogiorno esatto si dice", (None, "at noon"), "a mezzogiorno."]),
+    (1, None, ["'Con cautela, Graham. Venerdì a mezzogiorno è domani!' Per raccomandare attenzione nel maneggiare qualcosa basta", (None, "Careful with it"), "e mezzogiorno esatto si dice", (None, "at noon"), "a mezzogiorno."]),
     (2, None, ["'Oh, quella è la valigia gemella del treno di lunedì?' Due oggetti identici si definiscono con", (None, "twin suitcase"), "e anche i giorni della settimana prendono il genitivo sassone in", (None, "Monday's train"), "il treno di lunedì."]),
     (3, None, ["'Sì, signora, sta ancora aspettando il suo proprietario.' Poiché la valigia è un oggetto inanimato, il possessivo neutro senza apostrofo compare in", (None, "its owner"), "il suo proprietario."]),
     (4, None, ["'Posso guardare di nuovo l'etichetta di carta qui alla luce viva del sole?' Per chiedere un permesso con molta eleganza si apre con", (None, "May I look at"), "e sotto il sole si costruisce con", (None, "in the bright sunlight"), "nella luce intensa del sole."]),
     (5, None, ["'Faccia pure con comodo, signora. Lunedì pomeriggio l'atrio era buio.' Per dare il via libera con calore e cortesia la risposta ideale è", (None, "Go right ahead"), "faccia pure."]),
-    (6, None, ["'Aspetti un momento... Numero dodici di via Linden, e due iniziali d'infanzia incise sull'angolo!' Nota il composto", (None, "childhood initials"), "iniziali d'infanzia, seguite dal participio", (None, "carved"), "incise nel legno o nel cuoio."]),
+    (6, None, ["'Aspetti un momento... Numero dodici di via Linden, e due iniziali d'infanzia scritte nell'angolo!' Nota il composto", (None, "childhood initials"), "iniziali d'infanzia, seguite dal participio", (None, "written"), "incise nel legno o nel cuoio."]),
     (7, None, ["'Signorina Evelyn, sembra stupita! Conosce il numero dodici di via Linden?' Con i verbi d'aspetto visivo l'aggettivo segue direttamente il verbo in", (None, "you look amazed"), "lei ha l'aria meravigliata."]),
     (8, None, ["'Se lo conosco? Ogni venerdì per sei anni ho salito quelle scale di legno per insegnare pianoforte!' Nota la durata continuativa espressa da", (None, "for six years"), "e", (None, "teach piano"), "senza articolo davanti allo strumento."]),
     (9, None, ["'Venticinque anni fa? In quella stessa casa?' L'avverbio che corrisponde al nostro fa si colloca sempre in fondo all'espressione temporale come in", (None, "Twenty-five years ago"), "venticinque anni fa."]),
@@ -53,7 +53,7 @@ CALLOUT_TRANS = {
     "in the bright sunlight": "alla luce viva del sole",
     "Go right ahead": "faccia pure",
     "childhood initials": "iniziali d'infanzia",
-    "carved": "incise, intagliate",
+    "written": "incise, intagliate",
     "you look amazed": "sembra stupita",
     "for six years": "per sei anni",
     "teach piano": "insegnare pianoforte",

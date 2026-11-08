@@ -45,8 +45,8 @@ STORY = [('arthur',
   'After we guarded his blue suitcase all week? He will want to help!',
   'Après que nous avons veillé sur sa valise bleue toute la semaine? Il voudra nous aider!'),
  ('graham',
-  'Wait, here comes Tessa back from their table right now.',
-  "Attendez, voilà justement Tessa qui revient de leur table à l'instant.")]
+  'Wait, Tessa is taking the cake out to their table right now.',
+  'Attendez, Tessa apporte le gâteau à leur table en ce moment même.')]
 WALK = [(0,
   None,
   ["'Quinze ans à astiquer des clés en laiton et à redresser mes cravates... envolés en trente jours!' Employé comme adjectif de "
@@ -113,5 +113,5 @@ WALK = [(0,
  (11,
   None,
   ["'Attendez, voilà justement Tessa qui revient de leur table à l'instant.' Avec un nom propre plutôt qu'un pronom, l'inversion vivante",
-   (None, 'here comes Tessa'),
+   (None, 'Tessa is taking the cake out to their table right now'),
    'annonce son retour immédiat.'])]

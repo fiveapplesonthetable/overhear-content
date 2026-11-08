@@ -14,8 +14,8 @@ TRANSITION = 'Écoutons de nouveau toute la scène dans son mouvement naturel.'
 OUTRO = "La locomotive en bois sculpté a retrouvé sa famille et l'ébahissement d'Owen devant Mademoiselle Evelyn a empli la cour de rires! À l'intérieur, pourtant, Arthur fixe toujours la fameuse lettre. À la prochaine scène!"
 CLOSING = ('evelyn', 'See you later!')
 STORY = [('caleb',
-  'Before the movers cleared Linden Street, I saved this box from the attic shelf.',
-  "Avant que les déménageurs ne vident la rue du Tilleul, j'ai sauvé cette boîte sur l'étagère du grenier."),
+  'Before the movers cleared the house, I saved this box from the attic shelf.',
+  "Avant que les déménageurs ne vident la maison, j'ai sauvé cette boîte de l'étagère du grenier."),
  ('owen',
   "Open the white paper... no! Grandfather's carved wooden train engine!",
   'Ouvre le papier blanc... non! La locomotive en bois sculpté de Grand-père!'),

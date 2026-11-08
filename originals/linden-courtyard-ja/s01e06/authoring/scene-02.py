@@ -14,7 +14,7 @@ TRANSITION = '今度は場面全体を、登場人物の気持ちを想像しな
 OUTRO = '木の機関車とピアノの先生が、兄弟を子どものころへ連れ戻してくれました。一方そのころ、フロントでは別の心配ごとが持ち上がっています。それではまた次の場面で。'
 CLOSING = ('evelyn', 'See you later!')
 STORY = [
-    ('caleb', 'Before the movers cleared Linden Street, I saved this box from the attic shelf.', '引っ越し業者がリンデン通りの家を空にする前に、屋根裏の棚からこの箱を救い出しておいたんだ。'),
+    ('caleb', 'Before the movers cleared the house, I saved this box from the attic shelf.', '引っ越し業者が家を空っぽにする前に、屋根裏の棚からこの箱を救い出したんだ。'),
     ('owen', "Open the white paper... no! Grandfather's carved wooden train engine!", '白い紙を開けて…まさか！祖父が彫った木の機関車じゃないか！'),
     ('caleb', 'Look underneath the wheels. Your name and mine are still penciled there.', '車輪の下を見て。兄さんの名前と僕の名前が、まだ鉛筆で書いてあるよ。'),
     ('owen', 'I thought this was lost when we sold the house! Why keep it for me?', '家を売ったときになくなったと思ってた！どうして俺のために取っておいたんだ？'),
@@ -28,7 +28,7 @@ STORY = [
     ('owen', 'Please sit with us, Miss Evelyn! Tell me I am not twenty-five years late for my lesson!', 'どうぞご一緒に座ってください、イヴリン先生！レッスンに二十五年遅刻したわけじゃないと言ってください！'),
 ]
 WALK = [
-    (0, None, ["'引っ越し業者がリンデン通りの家を空にする前に、屋根裏の棚からこの箱を救い出しておいたんだ。' 時を表す接続詞で始まる", (None, 'Before the movers cleared Linden Street'), 'に注目しましょう。ここでの動詞は「片付けて空にする」という意味で、業者を表す名詞は動詞に語尾を付けて作られています。']),
+    (0, None, ["'引っ越し業者が家を空っぽにする前に、屋根裏の棚からこの箱を救い出したんだ。' 時を表す接続詞で始まる", (None, 'Before the movers cleared the house'), 'に注目しましょう。ここでの動詞は「片付けて空にする」という意味で、業者を表す名詞は動詞に語尾を付けて作られています。']),
     (1, None, ["'白い紙を開けて…まさか！祖父が彫った木の機関車じゃないか！' 名詞の前に形容詞を三つ重ねた", (None, 'carved wooden train engine'), 'では、過去分詞が「彫られた」、次の語が「木製の」を表します。英語では状態、材質、種類の順に並べるのが自然です。']),
     (2, None, ["'車輪の下を見て。兄さんの名前と僕の名前が、まだ鉛筆で書いてあるよ。' 「真下に」を表す前置詞を使った", (None, 'Look underneath the wheels'), 'では、上に何かがかぶさっている下側という感じが出ます。単純な「下」よりも、隠れた場所を指す語です。']),
     (3, None, ["'家を売ったときになくなったと思ってた！どうして俺のために取っておいたんだ？' すでにそうなっていたと思い込んでいた内容を", (None, 'I thought this was lost'), 'と言っています。受け身の形で「失われた状態だった」と表すのが英語らしい言い方です。']),

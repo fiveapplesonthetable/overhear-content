@@ -17,7 +17,7 @@ STORY = [
     ('arthur', 'Tessa, how many cinnamon rolls and lemon cakes can your oven bake each morning?', 'टेसा, तुम्हारा ओवन हर सुबह कितने दालचीनी रोल और नींबू केक बेक कर सकता है?'),
     ('tessa', 'Double what I make now! Are we really opening the courtyard cafe to our street?', 'अभी जितना बनाती हूँ उसका दोगुना! क्या हम सचमुच अपनी गली के लोगों हेतु आँगन कैफ़े खोल रहे हैं?'),
     ('arthur', 'Starting tomorrow at eight! Four tables inside, three tables under the tree!', 'कल सुबह आठ बजे से शुरू! चार मेज़ें अंदर, तीन मेज़ें पेड़ के नीचे!'),
-    ('tessa', "My dream cafe, right here in our own courtyard! Wait until I tell the baker's market!", 'मेरे सपनों का कैफ़े, ठीक हमारे अपने आँगन में! रुकिए जब मैं बेकर बाज़ार में यह खबर सुनाऊँगी!'),
+    ('tessa', 'My dream cafe, right here in our own courtyard! Wait until I tell the whole street!', 'मेरे सपनों का कैफ़े, ठीक हमारे अपने आँगन में! रुकिए जब मैं पूरी गली को बताऊँगी!'),
     ('arthur', 'And now, Hannah, today is Friday, the last day of your five day trial week.', 'और अब, हैना, आज शुक्रवार है, तुम्हारे पाँच दिन वाले परख-सप्ताह का आख़िरी दिन।'),
     ('hannah', 'Oh! With the suitcases, the boiler, and the letter, I completely forgot!', 'ओह! सूटकेसों, बॉयलर और खत के चक्कर में मैं तो पूरी तरह भूल ही गई थी!'),
     ('arthur', 'On Monday you opened our tricky door; since then you saved rooms, pipes, breakfast, and our lease.', 'सोमवार को तुमने हमारा पेचीदा दरवाज़ा खोला था; तब से तुमने कमरे, पाइप, नाश्ता और हमारा पट्टा सब बचाया है।'),

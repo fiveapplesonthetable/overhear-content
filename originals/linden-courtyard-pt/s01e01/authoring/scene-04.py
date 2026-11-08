@@ -15,7 +15,7 @@ OUTRO = 'Hannah conduziu seu primeiro check-in com tranquilidade, mas Graham rep
 CLOSING = ('evelyn', 'Take care!')
 STORY = [
     ('hannah', "Welcome! Good morning, ma'am.", 'Bem-vinda! Bom dia, senhora.'),
-    ('evelyn', 'Good morning, my dear. I have a room for Evelyn.', 'Bom dia, minha querida. Tenho um quarto reservado para Evelyn.'),
+    ('evelyn', 'Good morning, my dear. I have a booking for Evelyn.', 'Bom dia, minha querida. Tenho uma reserva para Evelyn.'),
     ('hannah', 'Yes, room four on the second floor! How was your train trip?', 'Sim, quarto quatro no segundo andar! Como foi sua viagem de trem?'),
     ('evelyn', 'Quiet and pleasant, thank you, though this suitcase feels very heavy today.', 'Tranquila e agradável, obrigada, embora esta mala pareça muito pesada hoje.'),
     ('graham', 'Allow me. Goodness, did you pack stones in here?', 'Permita-me. Minha nossa, a senhora colocou pedras aqui dentro?'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Bem-vinda! Bom dia, senhora.' No inglês americano, a forma mais natural e cortês de tratar uma cliente é", (None, "ma'am"), 'abreviação simpática e respeitosa.']),
-    (1, None, ["'Bom dia, minha querida. Tenho um quarto reservado para Evelyn.' Ao chegar à recepção de um hotel, basta dizer", (None, 'I have a room for'), 'seguido do seu nome.']),
+    (1, None, ["'Bom dia, minha querida. Tenho uma reserva para Evelyn.' A palavra", (None, 'booking'), 'é muito usada para reservas de hotel ou passagens.']),
     (2, None, ["'Sim, quarto quatro no segundo andar! Como foi sua viagem de trem?' Para perguntar sobre um trajeto que acabou de acontecer, use", (None, 'How was your train trip'), 'direto e gentil.']),
     (3, None, ["'Tranquila e agradável, obrigada, embora esta mala pareça muito pesada hoje.' Aqui", (None, 'feels very heavy'), 'descreve a sensação física de peso nas mãos.']),
     (4, None, ["'Permita-me. Minha nossa, a senhora colocou pedras aqui dentro?' Ao oferecer ajuda com peso,", (None, 'Allow me'), 'soa muito educado, e', (None, 'Goodness'), "é uma exclamação leve como 'minha nossa!'."]),

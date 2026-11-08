@@ -13,9 +13,8 @@ OPENER = 'Schauen wir uns diese flotte Reparatur im Keller nun Schritt für Schr
 TRANSITION = 'Hören wir uns den Einsatz am Heizkessel jetzt noch einmal im vollen Tempo an.'
 OUTRO = 'Eine ruhige blaue Flamme brennt, das Kupferrohr wird warm, und Graham adelt Hannah vom Neuling zur echten Kollegin! Gleich in der nächsten Szene geht es hinauf zum Frühstück.'
 CLOSING = ('hannah', 'See you soon!')
-STORY = [('hannah',
-  'Here are both brass valves, Graham! Catch my breath? Never!',
-  'Hier sind beide Messingventile, Graham! Erst mal verschnaufen? Niemals!'),
+STORY = [
+('hannah', 'Here are both brass valves, Graham! Catch my breath? Never!', 'Hier sind beide Messingventile, Graham! Verschnaufen? Niemals!'),
  ('graham', 'Hold this flashlight steady on the pipe joint right here.', 'Halt diese Taschenlampe ruhig genau hier auf das Rohrgewinde.'),
  ('hannah', 'Got it! Did you turn off the main water tap already?', 'Mach ich! Hast du den Hauptwasserhahn schon zugedreht?'),
  ('graham',

@@ -19,7 +19,7 @@ STORY = [
     ('tessa', 'The dairy van has a flat tire outside town. Look in the fridge!', 'शहर के बाहर डेयरी वैन का टायर पंचर हो गया है। फ़्रिज के अंदर देखो!'),
     ('hannah', 'One tiny splash of milk, two eggs, and no butter at all!', 'दूध की बस एक नन्ही-सी धार, दो अंडे, और मक्खन तो बिल्कुल भी नहीं!'),
     ('arthur', 'Eight hungry guests will come down the stairs at seven thirty!', 'साढ़े सात बजे आठ भूखे मेहमान सीढ़ियों से नीचे आ जाएँगे!'),
-    ('tessa', 'My bread dough is ready in the oven, at least.', 'कम से कम मेरी ब्रेड का आटा तो ओवन में तैयार है।'),
+    ('tessa', 'My bread is already in the oven, at least.', 'कम से कम मेरी ब्रेड ओवन में तैयार है।'),
     ('hannah', 'Give me a bag and some cash! The corner market opens at seven.', 'मुझे एक थैला और थोड़े नक़द पैसे दीजिए! कोने वाला बाज़ार सात बजे खुलता है।'),
     ('arthur', 'Can you run there and back in ten minutes?', 'क्या तुम दस मिनट में दौड़कर वहाँ जा और वापस आ सकती हो?'),
     ('hannah', 'Watch me! Tell me exactly what to buy.', 'बस देखते जाइए! मुझे ठीक-ठीक बताइए कि क्या खरीदना है।'),

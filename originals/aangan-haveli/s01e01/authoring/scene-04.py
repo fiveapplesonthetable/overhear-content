@@ -16,7 +16,7 @@ CLOSING = ('sudha', 'शुभ दिन!')
 STORY = [('kavya', 'स्वागत है! नमस्ते, मैडम।', 'Welcome! Good morning, madam.'),
  ('sudha',
   'नमस्ते, बेटा। सुधा के नाम से एक कमरा बुक है।',
-  'Good morning, dear. There is a room booked under the name Sudha.'),
+  'Good morning, my dear. I have a booking for Sudha.'),
  ('kavya',
   'जी हाँ, दूसरी मंज़िल पर कमरा चार! आपकी ट्रेन की यात्रा कैसी रही?',
   'Yes, room four on the second floor! How was your train journey?'),

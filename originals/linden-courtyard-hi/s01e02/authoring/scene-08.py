@@ -21,7 +21,7 @@ STORY = [
     ('hannah', 'Wait, let me look at the tablet screen and the paper book together.', 'रुकिए, मुझे टैबलेट की स्क्रीन और काग़ज़ का रजिस्टर एक साथ देखने दीजिए।'),
     ('graham', 'Let me guess. You promised somebody a room we do not have?', 'मुझे अंदाज़ा लगाने दो। तुमने किसी से ऐसे कमरे का वादा कर लिया जो हमारे पास है ही नहीं?'),
     ('hannah', 'Arthur! Room seven is already occupied, and you booked a second guest into room seven!', 'आर्थर! कमरा नंबर सात पहले से भरा हुआ है, और आपने कमरा नंबर सात में एक दूसरा मेहमान भी बुक कर दिया!'),
-    ('arthur', "And he arrives on the eight o'clock evening train, in forty minutes!", 'और वह शाम की आठ बजे वाली ट्रेन से आ रहा है, चालीस मिनट में!'),
+    ('arthur', "And he arrives here at eight o'clock this evening, in forty minutes!", 'और वह आज शाम आठ बजे यहाँ आ रहा है—बस चालीस मिनट में!'),
     ('graham', 'Told you that tablet is a trap.', 'कहा था न कि वह टैबलेट एक फंदा है।'),
     ('arthur', 'It is raining outside and every hotel on our street is full! What do we do?', 'बाहर बारिश हो रही है और हमारी गली का हर होटल भरा हुआ है! अब हम क्या करें?'),
     ('hannah', 'Wait, what is on the third floor above the stairs?', 'रुकिए, सीढ़ियों के ऊपर तीसरी मंज़िल पर क्या है?'),

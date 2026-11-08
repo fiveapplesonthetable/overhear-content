@@ -15,13 +15,13 @@ OUTRO = '市役所の契約係と、歴史的建造物の法律にくわしい�
 CLOSING = ('tessa', 'See you soon!')
 STORY = [
     ('tessa', 'Fresh from the oven: Friday lemon cake with extra corner pieces!', '焼きたてですよ。金曜日のレモンケーキ、角の部分を多めにしておきました！'),
-    ('owen', 'One bite... Caleb, close your eyes! That tastes exactly like Linden Street!', '一口食べて…ケイレブ、目を閉じてみろ！リンデン通りの味そのものだ！'),
+    ('owen', "One bite... Caleb, close your eyes! That tastes exactly like Grandfather's cake!", '一口食べるぞ……カレブ、目を閉じろ！おじいさんのケーキの味と全く同じだ！'),
     ('caleb', 'Tessa baked it this morning when Miss Evelyn told her our Friday story.', 'イヴリン先生が僕たちの金曜日の話をしたら、テッサが今朝焼いてくれたんだ。'),
     ('owen', 'What kind of magical guesthouse did you walk into, little brother?', 'いったいどんな魔法みたいな宿に入り込んだんだ、弟よ？'),
     ('caleb', "The kind that fixes attic lamps in the rain and guards a stranger's bag.", '雨の中で屋根裏のランプを直してくれて、見知らぬ人の鞄を守ってくれるような宿さ。'),
     ('owen', 'Then tell me why the poor gentleman behind the front desk looks ready to cry.', 'じゃあ教えてくれ。どうしてフロントの奥のあの気の毒な紳士は、今にも泣きそうな顔をしているんだ？'),
     ('tessa', 'Oh! Did you see Arthur through the window? I tried to smile twice as wide!', 'あら！窓越しにアーサーが見えましたか？私、いつもの倍の笑顔を作ろうとしたんですけど！'),
-    ('caleb', 'Tessa, is something wrong inside? Did the boiler pipe leak again?', 'テッサ、中で何かあったの？またボイラーの管から水が漏れた？'),
+    ('caleb', 'Tessa, is something wrong inside? Did the boiler break again?', 'テッサ、中で何かあったの？またボイラーが壊れた？'),
     ('tessa', 'Worse than a pipe... a registered letter came from the building owner at noon.', '管よりもっと悪いんです…お昼に建物の持ち主から書留の手紙が届いて。'),
     ('owen', 'A property letter? Let Caleb and me see it. I work in city contracts, and he knows heritage law!', '不動産の手紙？ケイレブと俺に見せてくれ。俺は市の契約の仕事をしているし、こいつは文化財の法律にくわしいんだ！'),
     ('caleb', "Wait, Owen, you still work at City Hall's contract desk?!", '待って、オーウェン、まだ市役所の契約係で働いてるの？！'),
@@ -29,13 +29,13 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'焼きたてですよ。金曜日のレモンケーキ、角の部分を多めにしておきました！' オーブンから出したばかりだと伝える", (None, 'Fresh from the oven'), 'は、パン屋やケーキ屋でよく聞く決まり文句です。形容詞と前置詞だけで「焼きたて」をいきいきと表します。']),
-    (1, None, ["'一口食べて…ケイレブ、目を閉じてみろ！リンデン通りの味そのものだ！' 味の感想を言う", (None, 'That tastes exactly like Linden Street'), 'では、感覚を表す動詞の後ろに前置詞を続けて「…のような味がする」となります。副詞が「まさにそっくり」と強めています。']),
+    (1, None, ["'一口食べるぞ……カレブ、目を閉じろ！おじいさんのケーキの味と全く同じだ！' 味の感想を言う", (None, "That tastes exactly like Grandfather's cake"), 'では、感覚を表す動詞の後ろに前置詞を続けて「…のような味がする」となります。副詞が「まさにそっくり」と強めています。']),
     (2, None, ["'イヴリン先生が僕たちの金曜日の話をしたら、テッサが今朝焼いてくれたんだ。' 時を表す節を導く", (None, 'when Miss Evelyn told her our Friday story'), 'では、動詞の後ろに人と物を順に並べる二重目的語の形が使われています。']),
     (3, None, ["'いったいどんな魔法みたいな宿に入り込んだんだ、弟よ？' 種類を尋ねる疑問詞の", (None, 'What kind of magical guesthouse'), 'に注目しましょう。前置詞の後ろの名詞は冠詞なしで使い、驚きや感心を込めた問いかけになります。']),
     (4, None, ["'雨の中で屋根裏のランプを直してくれて、見知らぬ人の鞄を守ってくれるような宿さ。' 前の質問をそのまま受けて答える", (None, 'The kind that fixes attic lamps in the rain'), 'では、関係代名詞以下が宿の特徴を説明します。問いの名詞を繰り返さずに済む、会話らしい答え方です。']),
     (5, None, ["'じゃあ教えてくれ。どうしてフロントの奥のあの気の毒な紳士は、今にも泣きそうな顔をしているんだ？' 様子を描写する", (None, 'looks ready to cry'), 'では、見た目を表す動詞の後ろに形容詞と不定詞を続けます。「泣く準備ができている」から「今にも泣き出しそう」になる発想です。']),
     (6, None, ["'あら！窓越しにアーサーが見えましたか？私、いつもの倍の笑顔を作ろうとしたんですけど！' 倍数を表す", (None, 'twice as wide'), 'では、回数を表す語を比較の形の前に置いて「…の二倍」と言います。心配を隠そうとしたテッサの健気さが伝わります。']),
-    (7, None, ["'テッサ、中で何かあったの？またボイラーの管から水が漏れた？' 不定代名詞の後ろに形容詞を置く", (None, 'is something wrong'), 'に注目しましょう。この種の代名詞を修飾するときは、形容詞が前ではなく後ろに来るのが英語の決まりです。']),
+    (7, None, ["'テッサ、中で何かあったの？またボイラーが壊れた？' 不定代名詞の後ろに形容詞を置く", (None, 'is something wrong'), 'に注目しましょう。この種の代名詞を修飾するときは、形容詞が前ではなく後ろに来るのが英語の決まりです。']),
     (8, None, ["'管よりもっと悪いんです…お昼に建物の持ち主から書留の手紙が届いて。' 正式な郵便を表す", (None, 'a registered letter'), 'では、過去分詞が「登録された」という意味で、配達の記録が残る郵便を指します。法的な通知によく使われる語です。']),
     (9, None, ["'不動産の手紙？ケイレブと俺に見せてくれ。俺は市の契約の仕事をしているし、こいつは文化財の法律にくわしいんだ！' 許可を表す動詞の後ろに", (None, 'Let Caleb and me see it'), 'と続けます。動詞の目的語なので、主格ではなく目的格の代名詞を使うのが正しい形です。']),
     (10, None, ["'待って、オーウェン、まだ市役所の契約係で働いてるの？！' 所有を表す形で組織と部署をつないだ", (None, "City Hall's contract desk"), 'では、机を表す名詞が「窓口、係」という意味で使われています。フロントを表す語と同じ発想です。']),

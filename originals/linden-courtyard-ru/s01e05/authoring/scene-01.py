@@ -16,15 +16,15 @@ CLOSING = ('hannah', 'See you soon!')
 STORY = [
     ('evelyn', 'Let me look at you properly, Caleb! You grew taller than the piano!', 'Дай мне хорошенько на тебя взглянуть, Калеб! Ты вырос выше пианино!'),
     ('caleb', 'I cannot believe you are staying in the exact same guesthouse, Miss Evelyn.', 'Не могу поверить, что вы остановились в этой же самой гостинице, мисс Эвелин.'),
-    ('hannah', 'Wait, so we rode the same train on Monday, and you took her suitcase?', 'Погоди, так мы ехали в одном поезде в понедельник, и ты забрал её чемодан?'),
+    ('hannah', 'Wait, so you rode the same train on Monday and took her suitcase?', 'Подождите — вы ехали на одном поезде в понедельник и взяли её чемодан?'),
     ('caleb', "By complete accident! At my cousin's apartment I opened it and saw sheet music and a red ribbon.", 'Совершенно случайно! В квартире двоюродного брата я открыл его и увидел ноты и красную ленточку.'),
     ('evelyn', 'Why did you leave my bag on the step at night and run away?', 'Почему же ты оставил мой чемодан ночью на ступеньке и убежал?'),
     ('caleb', 'Because when I walked here on Monday evening, I saw my older brother walking down this street!', 'Потому что, когда я шёл сюда в понедельник вечером, я увидел, как по этой улице идёт мой старший брат!'),
     ('hannah', 'Your older brother lives here in Portland?', 'Твой старший брат живёт здесь, в Портленде?'),
     ('caleb', 'Yes. I panicked, rang your bell, and slipped the Friday note onto the handle.', 'Да. Я растерялся, позвонил в ваш колокольчик и просунул пятничную записку под ручку.'),
     ('evelyn', 'Wait, and Wednesday night you checked in here under your real name?', 'Постой, а в среду вечером ты заселился сюда под своим настоящим именем?'),
-    ('caleb', 'I needed a quiet place nearby before Friday, and honestly forgot you still had my bag!', 'Мне нужно было тихое место поблизости до пятницы, и я честно забыл, что мой чемодан всё ещё у вас!'),
-    ('hannah', 'Until you called us on Tuesday asking us not to open the white package!', 'Пока во вторник ты не позвонил нам с просьбой не открывать белый свёрток!'),
+    ('caleb', 'I needed a quiet place nearby before Friday, and honestly felt too shy to ask for my bag!', 'Мне было нужно тихое место рядом до пятницы, и, честно говоря, я слишком стеснялся попросить вернуть мой чемодан!'),
+    ('hannah', 'Even after you called us on Tuesday about the white package!', 'Даже после того, как во вторник вы позвонили нам насчёт белого свёртка!'),
     ('caleb', 'Everything in that white paper belongs to my brother Owen, not me.', 'Всё, что завёрнуто в ту белую бумагу, принадлежит моему брату Оуэну, а не мне.'),
 ]
 WALK = [
@@ -37,8 +37,8 @@ WALK = [
     (6, None, ["'Твой старший брат живёт здесь, в Портленде?' Удивлённый переспрос сохраняет прямой порядок слов и окончание третьего лица в", (None, 'lives here in Portland'), 'полагаясь только на восходящую интонацию голоса.']),
     (7, None, ["'Да. Я растерялся, позвонил в ваш колокольчик и просунул пятничную записку под ручку.' Три последовательных шага в прошлом завершает точный предлог направления на поверхность в", (None, 'slipped the Friday note onto the handle'), 'рисующий быстрое аккуратное движение.']),
     (8, None, ["'Постой, а в среду вечером ты заселился сюда под своим настоящим именем?' Регистрацию в гостинице передаёт фразовый глагол", (None, 'checked in'), 'а запись на своё имя оформляется предлогом в', (None, 'under your real name'), 'совпадая с русским образом «под именем».']),
-    (9, None, ["'Мне нужно было тихое место поблизости до пятницы, и я честно забыл, что мой чемодан всё ещё у вас!' Ёмкое наречие", (None, 'nearby'), 'означает «поблизости, неподалёку» само по себе, а обладание в прошлом передаёт', (None, 'you still had my bag'), 'с прямым подлежащим.']),
-    (10, None, ["'Пока во вторник ты не позвонил нам с просьбой не открывать белый свёрток!' В косвенной просьбе частица отрицания всегда встаёт строго перед инфинитивом:", (None, 'asking us not to open'), 'а не после него.']),
+    (9, None, ["'Мне нужно было тихое место поблизости до пятницы, и я честно забыл, что мой чемодан всё ещё у вас!' Ёмкое наречие", (None, 'nearby'), 'означает «поблизости, неподалёку» само по себе, а обладание в прошлом передаёт', (None, 'ask for my bag'), 'с прямым подлежащим.']),
+    (10, None, ["'Даже после того, как во вторник вы позвонили нам насчёт белого свёртка!' Предлог 'about' в фразе", (None, 'about the white package'), 'означает «по поводу, насчёт».']),
     (11, None, ["'Всё, что завёрнуто в ту белую бумагу, принадлежит моему брату Оуэну, а не мне.' Глагол принадлежности в английском неизменно требует предлога направления в", (None, 'belongs to my brother Owen'), 'где по-русски стоит просто дательный падеж.']),
 ]
 CALLOUT_TRANS = {
@@ -58,7 +58,7 @@ CALLOUT_TRANS = {
     'checked in': 'заселился / зарегистрировался',
     'under your real name': 'под своим настоящим именем',
     'nearby': 'поблизости',
-    'you still had my bag': 'мой чемодан всё ещё был у вас',
-    'asking us not to open': 'с просьбой не открывать',
+    'ask for my bag': 'мой чемодан всё ещё был у вас',
+    'about the white package': 'насчёт белого свёртка',
     'belongs to my brother Owen': 'принадлежит моему брату Оуэну',
 }

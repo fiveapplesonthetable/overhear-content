@@ -23,7 +23,7 @@ STORY = [
     ('arthur', 'Do not snoop, of course... wait, it fell open to the middle page!', 'ज़ाहिर है ताक-झाँक मत करना... रुको, यह तो खुद ही बीच वाले पन्ने पर खुलकर गिरी है!'),
     ('hannah', 'Why are there neat pencil drawings of three guesthouses on our street?', 'हमारी गली के तीन गेस्टहाउसों के साफ़ पेंसिल वाले नक़्शे यहाँ क्यों बने हैं?'),
     ('tessa', "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'", 'हमारे नाम के बगल वाले शब्द देखो: “आँगन की चौड़ाई, सड़क का शोर, शांति अंक: दस में से नौ!”'),
-    ('arthur', 'Nine out of ten?! Nobody measures lobbies unless...', 'दस में से नौ?! कोई भी लॉबी का नाप नहीं लेता जब तक कि...'),
+    ('arthur', 'Nine out of ten?! Nobody measures courtyards unless...', 'दस में से नौ?! कोई भी आँगन का नाप नहीं लेता जब तक कि...'),
     ('tessa', 'Unless he writes for the annual Portland Travel Guide!', 'जब तक कि वह वार्षिक पोर्टलैंड ट्रैवल गाइड में न लिखता हो!'),
     ('hannah', 'Quick, close it! Let us take it upstairs... wait, what is that loud clanking sound?', 'जल्दी बंद करो! चलो इसे ऊपर ले चलें... रुको, वह ज़ोर की टनटनाती आवाज़ कैसी है?'),
 ]

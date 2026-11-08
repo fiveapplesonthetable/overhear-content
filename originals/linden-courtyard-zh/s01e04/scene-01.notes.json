@@ -3896,202 +3896,78 @@
     }
   ],
   "lexicon": {
-    "a": {
-      "lemma": "a",
-      "stress": "ə",
-      "pos": "det",
-      "gloss": "一个（不定冠词）",
+    "good": {
+      "lemma": "good",
+      "stress": "ɡʊd",
+      "pos": "adj",
+      "gloss": "好的；善良的",
       "meanings": [
         {
-          "en": "一个（不定冠词）",
-          "note": "用于以辅音音素开头的可数名词单数前。"
+          "en": "好的；善良的",
+          "note": "问候语常用 Good morning / Good evening；比较级与最高级不规则：better、best。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "good"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "better"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "best"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "I have a blue pen.",
-          "trans": "我有一支蓝色的钢笔。"
+          "text": "Good morning! Did you sleep well?",
+          "trans": "早上好！您昨晚睡得好吗？"
         },
         {
-          "text": "She wants a cup of tea.",
-          "trans": "她想要一杯茶。"
+          "text": "Fresh bread smells even better with butter.",
+          "trans": "刚出炉的面包抹上黄油闻起来更香。"
         }
       ],
       "related": []
     },
-    "above": {
-      "lemma": "above",
-      "stress": "əˈbʌv",
-      "pos": "prep",
-      "gloss": "在……上方",
+    "morning": {
+      "lemma": "morning",
+      "stress": "ˈmɔɹnɪŋ",
+      "pos": "noun",
+      "gloss": "早晨，上午",
       "meanings": [
         {
-          "en": "在……上方",
-          "note": "表示位置高于某物但通常不直接接触。"
+          "en": "早晨，上午",
+          "note": "指从清晨到正午十二点之间的时段；也可作定语如 morning train（早班火车）、morning coffee（晨间咖啡）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "A lamp hangs above the table.",
-          "trans": "一盏灯挂在餐桌上方。"
+          "text": "Good morning! Coffee is hot and ready.",
+          "trans": "早上好！咖啡已经热腾腾地煮好了。"
         },
         {
-          "text": "Our room is above the garden.",
-          "trans": "我们的房间在花园上方。"
-        }
-      ],
-      "related": []
-    },
-    "after": {
-      "lemma": "after",
-      "stress": "ˈæftɚ",
-      "pos": "prep",
-      "gloss": "在……之后",
-      "meanings": [
-        {
-          "en": "在……之后",
-          "note": "表示时间上的先后或空间上的跟随。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let us walk after lunch.",
-          "trans": "午饭后我们去散步吧。"
-        },
-        {
-          "text": "Wednesday comes after Tuesday.",
-          "trans": "星期三在星期二之后。"
-        }
-      ],
-      "related": []
-    },
-    "all": {
-      "lemma": "all",
-      "stress": "ɔl",
-      "pos": "det",
-      "gloss": "所有的，全部",
-      "meanings": [
-        {
-          "en": "所有的，全部",
-          "note": "指整体中的全部成员或整个时间段。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "All the windows are open.",
-          "trans": "所有的窗户都开着。"
-        },
-        {
-          "text": "She worked all morning.",
-          "trans": "她忙了一整上午。"
-        }
-      ],
-      "related": []
-    },
-    "already": {
-      "lemma": "already",
-      "stress": "ɔlˈɹɛdi",
-      "pos": "adv",
-      "gloss": "已经",
-      "meanings": [
-        {
-          "en": "已经",
-          "note": "表示事情比预期更早发生或已经完成。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast is already on the table.",
-          "trans": "早餐已经摆在桌上了。"
-        },
-        {
-          "text": "Are you leaving already?",
-          "trans": "你这么快就要走了吗？"
-        }
-      ],
-      "related": []
-    },
-    "and": {
-      "lemma": "and",
-      "stress": "ænd",
-      "pos": "conj",
-      "gloss": "和，与，然后",
-      "meanings": [
-        {
-          "en": "和，与，然后",
-          "note": "最基本的并列连词，连接词、短语或分句。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bring bread and butter, please.",
-          "trans": "请拿些面包和黄油来。"
-        },
-        {
-          "text": "Wash your hands and sit down.",
-          "trans": "洗洗手然后坐下吧。"
-        }
-      ],
-      "related": []
-    },
-    "as": {
-      "lemma": "as",
-      "stress": "æz",
-      "pos": "adv",
-      "gloss": "像……一样；当……时",
-      "meanings": [
-        {
-          "en": "像……一样；当……时",
-          "note": "常用于原级比较结构 as ... as（和……一样）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My bag is as heavy as yours.",
-          "trans": "我的包和你的包一样重。"
-        },
-        {
-          "text": "Come as soon as you can.",
-          "trans": "请尽快过来。"
-        }
-      ],
-      "related": []
-    },
-    "at": {
-      "lemma": "at",
-      "stress": "æt",
-      "pos": "prep",
-      "gloss": "在（某处或某时刻）",
-      "meanings": [
-        {
-          "en": "在（某处或某时刻）",
-          "note": "用于具体钟点（at seven）和具体地点（at the desk）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast starts at seven thirty.",
-          "trans": "早餐七点半开始。"
-        },
-        {
-          "text": "Someone is waiting at the gate.",
-          "trans": "有人在大门口等着。"
+          "text": "Rain fell softly all morning.",
+          "trans": "细雨柔和地下了一整上午。"
         }
       ],
       "related": []
@@ -4159,1872 +4035,27 @@
       ],
       "related": []
     },
-    "big": {
-      "lemma": "big",
-      "stress": "bɪɡ",
-      "pos": "adj",
-      "gloss": "大的",
-      "meanings": [
-        {
-          "en": "大的",
-          "note": "口语中最常用的描述体积或规模大的形容词。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "They live in a big brick house.",
-          "trans": "他们住在一栋大砖房里。"
-        },
-        {
-          "text": "We need a big pot for the soup.",
-          "trans": "我们需要一口大锅来煮汤。"
-        }
-      ],
-      "related": []
-    },
-    "blue": {
-      "lemma": "blue",
-      "stress": "blu",
-      "pos": "adj",
-      "gloss": "蓝色的",
-      "meanings": [
-        {
-          "en": "蓝色的",
-          "note": "颜色形容词，修饰单复数名词形式不变。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at that clear blue sky.",
-          "trans": "看那片晴朗的蓝天。"
-        },
-        {
-          "text": "My suitcase has a blue handle.",
-          "trans": "我的行李箱有一个蓝色的提手。"
-        }
-      ],
-      "related": []
-    },
-    "boiler": {
-      "lemma": "boiler",
-      "stress": "ˈbɔɪlɚ",
-      "pos": "noun",
-      "gloss": "锅炉，热水炉",
-      "meanings": [
-        {
-          "en": "锅炉，热水炉",
-          "note": "指安装在地下室为全楼提供热水和暖气的锅炉。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Graham repaired the basement boiler.",
-          "trans": "格雷厄姆修好了地下室的锅炉。"
-        },
-        {
-          "text": "The old boiler makes a clanking sound.",
-          "trans": "那台老锅炉发出咔嗒咔嗒的金属声。"
-        }
-      ],
-      "related": []
-    },
-    "brass": {
-      "lemma": "brass",
-      "stress": "bɹæs",
-      "pos": "noun",
-      "gloss": "黄铜；黄铜制的",
-      "meanings": [
-        {
-          "en": "黄铜；黄铜制的",
-          "note": "不可数物质名词，常直接放在名词前表示材质（如 brass keys）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Polish the brass handle on the door.",
-          "trans": "把门上的黄铜把手擦亮。"
-        },
-        {
-          "text": "Eight brass keys hang behind the desk.",
-          "trans": "前台后面挂着八把黄铜钥匙。"
-        }
-      ],
-      "related": []
-    },
-    "break": {
-      "lemma": "break",
-      "stress": "bɹeɪk",
-      "pos": "verb",
-      "gloss": "打破，弄坏；损坏",
-      "meanings": [
-        {
-          "en": "打破，弄坏；损坏",
-          "note": "不规则动词：原形 break，过去式 broke，过去分词 broken。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "break"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "breaks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "broke"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "broken"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "breaking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Be careful not to break the cup.",
-          "trans": "小心别把杯子摔破了。"
-        },
-        {
-          "text": "Did the old valve break again?",
-          "trans": "那个老阀门又坏了吗？"
-        }
-      ],
-      "related": []
-    },
-    "bridge": {
-      "lemma": "bridge",
-      "stress": "bɹɪdʒ",
-      "pos": "noun",
-      "gloss": "桥，桥梁",
-      "meanings": [
-        {
-          "en": "桥，桥梁",
-          "note": "规则可数名词，常与动词 cross（过桥）搭配。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Cross the old stone bridge.",
-          "trans": "穿过那座古老的石桥。"
-        },
-        {
-          "text": "The shop is just past the bridge.",
-          "trans": "那家铺子就在过了桥不远处。"
-        }
-      ],
-      "related": []
-    },
-    "clerk": {
-      "lemma": "clerk",
-      "stress": "klɝk",
-      "pos": "noun",
-      "gloss": "店员，前台接待员，办事员",
-      "meanings": [
-        {
-          "en": "店员，前台接待员，办事员",
-          "note": "指商店柜台营业员、旅馆值班接待员或市政文员。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Show this valve to the shop clerk.",
-          "trans": "把这个阀门拿给五金店店员看。"
-        },
-        {
-          "text": "Graham works as the night clerk.",
-          "trans": "格雷厄姆担任夜班前台接待员。"
-        }
-      ],
-      "related": []
-    },
-    "coat": {
-      "lemma": "coat",
-      "stress": "koʊt",
-      "pos": "noun",
-      "gloss": "大衣，外套",
-      "meanings": [
-        {
-          "en": "大衣，外套",
-          "note": "指天冷或下雨时穿在最外面的长外套或夹克。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Button your coat before going outside.",
-          "trans": "出门前把外套扣好。"
-        },
-        {
-          "text": "My keys are in my coat pocket.",
-          "trans": "我的钥匙在大衣口袋里。"
-        }
-      ],
-      "related": []
-    },
-    "cold": {
-      "lemma": "cold",
-      "stress": "koʊld",
-      "pos": "adj",
-      "gloss": "冷的，凉的",
-      "meanings": [
-        {
-          "en": "冷的，凉的",
-          "note": "既可形容冷水、冷风，也可形容人感到寒冷（be/feel cold）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pour a glass of cold water, please.",
-          "trans": "请倒一杯冷水。"
-        },
-        {
-          "text": "My hands feel cold this morning.",
-          "trans": "今天早上我的手觉得很凉。"
-        }
-      ],
-      "related": []
-    },
-    "cross": {
-      "lemma": "cross",
-      "stress": "kɹɔs",
-      "pos": "verb",
-      "gloss": "穿过，横渡，越过",
-      "meanings": [
-        {
-          "en": "穿过，横渡，越过",
-          "note": "及物动词，直接接桥、马路或河流，无需加介词 across。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "cross"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "crosses"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "crossed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "crossed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "crossing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Cross the stone bridge carefully.",
-          "trans": "小心地走过那座石桥。"
-        },
-        {
-          "text": "Do I cross the river here?",
-          "trans": "我从这儿过河吗？"
-        }
-      ],
-      "related": []
-    },
-    "do": {
-      "lemma": "do",
-      "stress": "du",
-      "pos": "verb",
-      "gloss": "做，干；（助动词）",
-      "meanings": [
-        {
-          "en": "做，干；（助动词）",
-          "note": "既可作实义动词“做”，也可在一般现在时疑问句和否定句中充当助动词。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "do"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "does"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "did"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "done"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "doing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you want sugar in your coffee?",
-          "trans": "你的咖啡里要加糖吗？"
-        },
-        {
-          "text": "What should we do with this package?",
-          "trans": "我们该怎么处理这个包裹？"
-        }
-      ],
-      "related": []
-    },
-    "door": {
-      "lemma": "door",
-      "stress": "dɔɹ",
-      "pos": "noun",
-      "gloss": "门",
-      "meanings": [
-        {
-          "en": "门",
-          "note": "指房屋、房间、壁橱或车辆的门；out the door 意为“出门”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Please close the front door gently.",
-          "trans": "请轻轻关上前门。"
-        },
-        {
-          "text": "Someone knocked on the kitchen door.",
-          "trans": "有人敲了敲厨房的门。"
-        }
-      ],
-      "related": []
-    },
-    "fast": {
-      "lemma": "fast",
-      "stress": "fæst",
-      "pos": "adv",
-      "gloss": "快地；快速的",
-      "meanings": [
-        {
-          "en": "快地；快速的",
-          "note": "形容词与副词同形，修饰动作“走得快”直接说 walk fast（绝不加 -ly）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I always walk fast in cool weather.",
-          "trans": "天凉时我走路总是很快。"
-        },
-        {
-          "text": "Do not speak too fast on the phone.",
-          "trans": "在电话里说话别太快。"
-        }
-      ],
-      "related": []
-    },
-    "fifteen": {
-      "lemma": "fifteen",
-      "stress": "ˌfɪfˈtin",
-      "pos": "num",
-      "gloss": "十五",
-      "meanings": [
-        {
-          "en": "十五",
-          "note": "由五加十构成的基数词；注意拼写是 fif- 而非 five-。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Give us fifteen minutes to prepare.",
-          "trans": "给我们十五分钟准备时间。"
-        },
-        {
-          "text": "Arthur worked here for fifteen years.",
-          "trans": "亚瑟在这里工作了十五年。"
-        }
-      ],
-      "related": []
-    },
-    "find": {
-      "lemma": "find",
-      "stress": "faɪnd",
-      "pos": "verb",
-      "gloss": "找到，发现",
-      "meanings": [
-        {
-          "en": "找到，发现",
-          "note": "高频不规则动词，过去式和过去分词均为 found；lost and found 指“失物招领处”。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "find"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "finds"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "found"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "found"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "finding"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Did you find your reading glasses?",
-          "trans": "你找到你的老花镜了吗？"
-        },
-        {
-          "text": "We will find the right suitcase soon.",
-          "trans": "我们很快就能找到正确的行李箱。"
-        }
-      ],
-      "related": []
-    },
-    "for": {
-      "lemma": "for",
-      "stress": "fɔɹ",
-      "pos": "prep",
-      "gloss": "给，为了；持续（一段时间）",
-      "meanings": [
-        {
-          "en": "给，为了；持续（一段时间）",
-          "note": "用途极广的介词，表示对象（a room for Evelyn）、用途（for breakfast）或时长。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This package arrived for room two.",
-          "trans": "这个包裹是寄给二号房的。"
-        },
-        {
-          "text": "Wait here for just a moment.",
-          "trans": "请在这里稍等片刻。"
-        }
-      ],
-      "related": []
-    },
-    "four": {
-      "lemma": "four",
-      "stress": "fɔɹ",
-      "pos": "num",
-      "gloss": "四",
-      "meanings": [
-        {
-          "en": "四",
-          "note": "基础数词；放在名词 room 后（room four）表示编号“四号房”，无需加冠词。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four looks out on the courtyard.",
-          "trans": "四号房朝向庭院。"
-        },
-        {
-          "text": "Please bring four spoons for the table.",
-          "trans": "请给餐桌拿四把勺子来。"
-        }
-      ],
-      "related": []
-    },
-    "gate": {
-      "lemma": "gate",
-      "stress": "ɡeɪt",
-      "pos": "noun",
-      "gloss": "大门，院门",
-      "meanings": [
-        {
-          "en": "大门，院门",
-          "note": "通常指庭院、花园围墙或车站检票口的外门（室内房门则用 door）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Close the iron gate behind you.",
-          "trans": "进出后请随手关上铁院门。"
-        },
-        {
-          "text": "Tessa waited by the courtyard gate.",
-          "trans": "泰莎在庭院大门口等着。"
-        }
-      ],
-      "related": []
-    },
-    "get": {
-      "lemma": "get",
-      "stress": "ɡɛt",
-      "pos": "verb",
-      "gloss": "得到；变得（加形容词）；到达",
-      "meanings": [
-        {
-          "en": "得到；变得（加形容词）；到达",
-          "note": "万能动词，后接形容词或比较级时意为“变得……”（如 gets stranger 变得更离奇）。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "get"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "gets"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "got"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "gotten"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "getting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me get you a warm cup of tea.",
-          "trans": "让我给您倒杯热茶吧。"
-        },
-        {
-          "text": "This mystery gets stranger every minute.",
-          "trans": "这桩谜团每一分钟都变得更离奇了。"
-        }
-      ],
-      "related": []
-    },
-    "golden": {
-      "lemma": "golden",
-      "stress": "ˈɡoʊldən",
-      "pos": "adj",
-      "gloss": "金黄色的，金色的",
-      "meanings": [
-        {
-          "en": "金黄色的，金色的",
-          "note": "常用来形容纸灯笼的暖光或烤得恰到好处的金黄面包皮。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at those golden paper lanterns.",
-          "trans": "看看那些金黄色的纸灯笼。"
-        },
-        {
-          "text": "Bake the rolls until the crust is golden.",
-          "trans": "把小餐包烤到外皮金黄即可。"
-        }
-      ],
-      "related": []
-    },
-    "good": {
-      "lemma": "good",
-      "stress": "ɡʊd",
-      "pos": "adj",
-      "gloss": "好的；善良的",
-      "meanings": [
-        {
-          "en": "好的；善良的",
-          "note": "问候语常用 Good morning / Good evening；比较级与最高级不规则：better、best。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "good"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "better"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "best"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Did you sleep well?",
-          "trans": "早上好！您昨晚睡得好吗？"
-        },
-        {
-          "text": "Fresh bread smells even better with butter.",
-          "trans": "刚出炉的面包抹上黄油闻起来更香。"
-        }
-      ],
-      "related": []
-    },
-    "green": {
-      "lemma": "green",
-      "stress": "ɡɹin",
-      "pos": "adj",
-      "gloss": "绿色的",
-      "meanings": [
-        {
-          "en": "绿色的",
-          "note": "既指草木的翠绿色（fresh green herbs），也用于 green tea（绿茶）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look for the house with green shutters.",
-          "trans": "找那栋带绿色百叶窗的房子。"
-        },
-        {
-          "text": "Would you prefer black tea or green tea?",
-          "trans": "您更喜欢红茶还是绿茶？"
-        }
-      ],
-      "related": []
-    },
-    "hardware": {
-      "lemma": "hardware",
-      "stress": "ˈhɑɹdˌwɛɹ",
-      "pos": "noun",
-      "gloss": "五金制品，金属配件",
-      "meanings": [
-        {
-          "en": "五金制品，金属配件",
-          "note": "不可数名词；hardware shop / store 即“五金店”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Find the old hardware shop past the bridge.",
-          "trans": "去找过桥之后的那家老五金店。"
-        },
-        {
-          "text": "Brass hinges are sold at the hardware shop.",
-          "trans": "五金店里有卖黄铜合页。"
-        }
-      ],
-      "related": []
-    },
-    "have": {
-      "lemma": "have",
-      "stress": "hæv",
-      "pos": "verb",
-      "gloss": "有；吃，喝",
-      "meanings": [
-        {
-          "en": "有；吃，喝",
-          "note": "第三人称单数现在时为不规则形式 has，过去式为 had。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "have"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "has"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "had"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "had"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "having"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you have a reservation for tonight?",
-          "trans": "请问您今晚有预订吗？"
-        },
-        {
-          "text": "Let us have coffee in the courtyard.",
-          "trans": "我们在庭院里喝杯咖啡吧。"
-        }
-      ],
-      "related": []
-    },
-    "how": {
-      "lemma": "how",
-      "stress": "haʊ",
-      "pos": "adv",
-      "gloss": "怎样，如何；多么",
-      "meanings": [
-        {
-          "en": "怎样，如何；多么",
-          "note": "既引导特殊疑问句（How was your trip?），也引导感叹句（How strange! 真奇怪！）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "How do you take your coffee?",
-          "trans": "您喝咖啡喜欢怎么加料？"
-        },
-        {
-          "text": "How nice to see you again!",
-          "trans": "再次见到你真高兴！"
-        }
-      ],
-      "related": []
-    },
-    "i": {
-      "lemma": "i",
-      "stress": "aɪ",
-      "pos": "pron",
-      "gloss": "我",
-      "meanings": [
-        {
-          "en": "我",
-          "note": "第一人称单数主格代词，在句中任何位置永远大写为 I，与 am 连用。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I am Hannah, the new receptionist.",
-          "trans": "我是汉娜，新来的前台接待员。"
-        },
-        {
-          "text": "May I help you with your luggage?",
-          "trans": "我可以帮您拿行李吗？"
-        }
-      ],
-      "related": []
-    },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "在……里面；在……之后（接时间段）",
-      "meanings": [
-        {
-          "en": "在……里面；在……之后（接时间段）",
-          "note": "除表示空间内部（in the drawer）外，in forty minutes 表示“四十分钟后”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait in the warm dining room.",
-          "trans": "请在温暖的餐厅里稍候。"
-        },
-        {
-          "text": "Coffee will be ready in three minutes.",
-          "trans": "咖啡三分钟后就好。"
-        }
-      ],
-      "related": []
-    },
-    "into": {
-      "lemma": "into",
-      "stress": "ˈɪntu",
-      "pos": "prep",
-      "gloss": "进入……里面，到……里",
-      "meanings": [
-        {
-          "en": "进入……里面，到……里",
-          "note": "强调从外部进入内部的动态方向（如 pour water into the teapot、check into room six）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pour hot water into the teapot.",
-          "trans": "把热水倒进茶壶里。"
-        },
-        {
-          "text": "She stepped into the sunny courtyard.",
-          "trans": "她走进了阳光明媚的庭院。"
-        }
-      ],
-      "related": []
-    },
-    "it": {
-      "lemma": "it",
-      "stress": "ɪt",
-      "pos": "pron",
-      "gloss": "它；（指代天气、时间或情况）",
-      "meanings": [
-        {
-          "en": "它；（指代天气、时间或情况）",
-          "note": "英语从不省略单数物主语（门开了说 it opens），说下雨也必须加虚主语 It is raining。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle, and it opens easily.",
-          "trans": "先把把手提起来，它就轻松打开了。"
-        },
-        {
-          "text": "It is sunny and warm this afternoon.",
-          "trans": "今天下午阳光明媚又暖和。"
-        }
-      ],
-      "related": []
-    },
-    "key": {
-      "lemma": "key",
-      "stress": "ki",
-      "pos": "noun",
-      "gloss": "钥匙；关键；琴键",
-      "meanings": [
-        {
-          "en": "钥匙；关键；琴键",
-          "note": "可数名词，注意发音为长音 /ki/；习语 under lock and key 意为“妥善锁好保管”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is the brass key to room four.",
-          "trans": "这是四号房的黄铜钥匙。"
-        },
-        {
-          "text": "Eight keys hang neatly behind the desk.",
-          "trans": "八把钥匙整整齐齐挂在前台后面。"
-        }
-      ],
-      "related": []
-    },
-    "leave": {
-      "lemma": "leave",
-      "stress": "liv",
-      "pos": "verb",
-      "gloss": "留下，落下；离开",
-      "meanings": [
-        {
-          "en": "留下，落下；离开",
-          "note": "不规则过去式与过去分词均为 left；既指“离开某地”，也指“把某物留在某处”。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "leave"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "leaves"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "leaving"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You can leave your bags by the desk.",
-          "trans": "您可以把包留在前台旁边。"
-        },
-        {
-          "text": "Our bus leaves at nine fifteen.",
-          "trans": "我们的巴士九点十五分发车。"
-        }
-      ],
-      "related": []
-    },
-    "look": {
-      "lemma": "look",
-      "stress": "lʊk",
-      "pos": "verb",
-      "gloss": "看；看起来",
-      "meanings": [
-        {
-          "en": "看；看起来",
-          "note": "接宾语看某物用 look at，寻找某物用 look for，往下看用 look down；直接加形容词表示“看起来……”。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "look"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "looks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "looked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "looked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "looking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at the brass tag on the handle.",
-          "trans": "看看提手上的黄铜吊牌。"
-        },
-        {
-          "text": "Those cinnamon rolls look delicious!",
-          "trans": "那些肉桂卷看起来真诱人！"
-        }
-      ],
-      "related": []
-    },
-    "me": {
-      "lemma": "me",
-      "stress": "mi",
-      "pos": "pron",
-      "gloss": "我（宾格）",
-      "meanings": [
-        {
-          "en": "我（宾格）",
-          "note": "第一人称单数宾格代词，用于动词或介词后：Tell me（告诉我）、Allow me（让我来）、Dear me!（哎呀天哪！）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Excuse me, where is the dining room?",
-          "trans": "打扰一下，请问餐厅在哪里？"
-        },
-        {
-          "text": "Save a cup of coffee for me.",
-          "trans": "给我留一杯咖啡吧。"
-        }
-      ],
-      "related": []
-    },
-    "millimeter": {
-      "lemma": "millimeter",
-      "stress": "ˈmɪləˌmitɚ",
-      "pos": "noun",
-      "gloss": "毫米（长度单位）",
-      "meanings": [
-        {
-          "en": "毫米（长度单位）",
-          "note": "一米的千分之一，美式拼写为 millimeter，精密工程图纸常用。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The brass ring is twenty millimeters wide.",
-          "trans": "这个黄铜垫圈宽二十毫米。"
-        },
-        {
-          "text": "Check every millimeter on the blueprint.",
-          "trans": "仔细核对蓝图上的每一毫米。"
-        }
-      ],
-      "related": []
-    },
-    "morning": {
-      "lemma": "morning",
-      "stress": "ˈmɔɹnɪŋ",
-      "pos": "noun",
-      "gloss": "早晨，上午",
-      "meanings": [
-        {
-          "en": "早晨，上午",
-          "note": "指从清晨到正午十二点之间的时段；也可作定语如 morning train（早班火车）、morning coffee（晨间咖啡）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Coffee is hot and ready.",
-          "trans": "早上好！咖啡已经热腾腾地煮好了。"
-        },
-        {
-          "text": "Rain fell softly all morning.",
-          "trans": "细雨柔和地下了一整上午。"
-        }
-      ],
-      "related": []
-    },
-    "now": {
-      "lemma": "now",
-      "stress": "naʊ",
-      "pos": "adv",
-      "gloss": "现在，眼下",
-      "meanings": [
-        {
-          "en": "现在，眼下",
-          "note": "right now 意为“此时此刻、马上”；for now 意为“眼下暂时”，Bye for now! 意为“先再见啦！”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four is clean and ready now.",
-          "trans": "四号房现在已经打扫干净准备好了。"
-        },
-        {
-          "text": "What should we do right now?",
-          "trans": "我们眼下该怎么办？"
-        }
-      ],
-      "related": []
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɑn",
-      "pos": "prep",
-      "gloss": "在……上面（接触表面）；在（某天或某层楼）",
-      "meanings": [
-        {
-          "en": "在……上面（接触表面）；在（某天或某层楼）",
-          "note": "表面接触用 on（on my head、on the step），楼层和具体某一天也用 on（on the second floor、on my first day）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Your key is on the wooden desk.",
-          "trans": "您的钥匙在木书桌上。"
-        },
-        {
-          "text": "Tessa bakes apple rolls on Fridays.",
-          "trans": "泰莎每逢周五会烤苹果卷。"
-        }
-      ],
-      "related": []
-    },
-    "only": {
-      "lemma": "only",
-      "stress": "ˈoʊnli",
-      "pos": "adv",
-      "gloss": "只有，仅仅；唯一的",
-      "meanings": [
-        {
-          "en": "只有，仅仅；唯一的",
-          "note": "副词修饰数量或范围（Only dresses 只有连衣裙），形容词作定语意为“唯一的”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "We have only eight rooms at the inn.",
-          "trans": "我们这家客栈只有八间客房。"
-        },
-        {
-          "text": "This is the only key to the garden shed.",
-          "trans": "这是花园小棚唯一的钥匙。"
-        }
-      ],
-      "related": []
-    },
-    "our": {
-      "lemma": "our",
-      "stress": "ˈaʊɚ",
+    "the": {
+      "lemma": "the",
+      "stress": "ðə",
       "pos": "det",
-      "gloss": "我们的",
+      "gloss": "这，那（定冠词）",
       "meanings": [
         {
-          "en": "我们的",
-          "note": "第一人称复数形容词性物主代词，置于名词前（our street、our guesthouse）。"
+          "en": "这，那（定冠词）",
+          "note": "用于双方已知或特指的人或事物前（the door、the kitchen），单复数通用。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Welcome to our courtyard guesthouse.",
-          "trans": "欢迎光临我们的庭院客栈。"
+          "text": "Lift the handle on the front door.",
+          "trans": "把前门上的把手往上提。"
         },
         {
-          "text": "All our bread comes from Tessa's oven.",
-          "trans": "我们所有的面包都出自泰莎的烤箱。"
-        }
-      ],
-      "related": []
-    },
-    "outside": {
-      "lemma": "outside",
-      "stress": "ˌaʊtˈsaɪd",
-      "pos": "adv",
-      "gloss": "在外面；外部，外表",
-      "meanings": [
-        {
-          "en": "在外面；外部，外表",
-          "note": "一词兼三类：副词（It is raining outside 外面在下雨）、名词（The outside 外表）、介词（outside town 城外）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A yellow taxi is waiting outside.",
-          "trans": "一辆黄色出租车正在外面等候。"
-        },
-        {
-          "text": "Shall we drink our coffee outside?",
-          "trans": "我们到外面喝咖啡好吗？"
-        }
-      ],
-      "related": []
-    },
-    "paint": {
-      "lemma": "paint",
-      "stress": "peɪnt",
-      "pos": "noun",
-      "gloss": "油漆；颜料；粉刷",
-      "meanings": [
-        {
-          "en": "油漆；颜料；粉刷",
-          "note": "不可数名词；wet paint 是常见的警示语“油漆未干”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Careful, there is fresh green paint on the gate.",
-          "trans": "当心，院门上有刚刷的绿油漆。"
-        },
-        {
-          "text": "She loves watercolor paint and sketchbooks.",
-          "trans": "她喜欢水彩颜料和速写本。"
-        }
-      ],
-      "related": []
-    },
-    "pass": {
-      "lemma": "pass",
-      "stress": "pæs",
-      "pos": "verb",
-      "gloss": "递给；走过，经过",
-      "meanings": [
-        {
-          "en": "递给；走过，经过",
-          "note": "既可接双宾语表示把工具递给某人（Pass me...），也可指路过某家店铺。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "pass"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "passes"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "passed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "passed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "passing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pass me the heavy wrench, please.",
-          "trans": "请把那把重扳手递给我。"
-        },
-        {
-          "text": "I just passed the green pharmacy!",
-          "trans": "我刚刚路过那家绿招牌的药店！"
-        }
-      ],
-      "related": []
-    },
-    "pharmacy": {
-      "lemma": "pharmacy",
-      "stress": "ˈfɑɹməsi",
-      "pos": "noun",
-      "gloss": "药店，药房",
-      "meanings": [
-        {
-          "en": "药店，药房",
-          "note": "词首字母组合 ph 发 /f/ 音，美式英语中与 drugstore 同义常用。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pass the green pharmacy on the right.",
-          "trans": "从右手边路过那家绿色门面的药店。"
-        },
-        {
-          "text": "Is the corner pharmacy still open?",
-          "trans": "街角那家药店还开着门吗？"
-        }
-      ],
-      "related": []
-    },
-    "pocket": {
-      "lemma": "pocket",
-      "stress": "ˈpɑkɪt",
-      "pos": "noun",
-      "gloss": "衣袋，口袋，夹层袋",
-      "meanings": [
-        {
-          "en": "衣袋，口袋，夹层袋",
-          "note": "coat pocket 指大衣口袋，top pocket 指行李箱顶部的拉链外袋。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Check your coat pocket for the brass key.",
-          "trans": "摸摸您的大衣口袋里有没有黄铜钥匙。"
-        },
-        {
-          "text": "He slipped the receipt into his pocket.",
-          "trans": "他把收据塞进了口袋。"
-        }
-      ],
-      "related": []
-    },
-    "really": {
-      "lemma": "really",
-      "stress": "ˈɹɪli",
-      "pos": "adv",
-      "gloss": "真的吗；真正地，非常",
-      "meanings": [
-        {
-          "en": "真的吗；真正地，非常",
-          "note": "单独升调发问 Really? 是口语中表达惊讶或确认的常用语“真的吗？是吗？”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A paper book? Really?",
-          "trans": "用纸质账本？真的吗？"
-        },
-        {
-          "text": "These cinnamon rolls are really good.",
-          "trans": "这些肉桂卷真是太好吃了。"
-        }
-      ],
-      "related": []
-    },
-    "repeat": {
-      "lemma": "repeat",
-      "stress": "ɹɪˈpit",
-      "pos": "verb",
-      "gloss": "重复，重说一遍，反复默念",
-      "meanings": [
-        {
-          "en": "重复，重说一遍，反复默念",
-          "note": "可指一路反复念叨免得忘词，或礼貌请求对方再说一遍。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "repeat"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "repeats"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "repeated"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "repeated"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "repeating"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I will repeat the valve size all the way!",
-          "trans": "我一路上都会反复默念这个阀门尺寸的！"
-        },
-        {
-          "text": "Could you repeat that address slowly?",
-          "trans": "您能把那个地址慢点儿再说一遍吗？"
-        }
-      ],
-      "related": []
-    },
-    "right": {
-      "lemma": "right",
-      "stress": "ɹaɪt",
-      "pos": "adj",
-      "gloss": "正确的；正好，就（副词）；右边",
-      "meanings": [
-        {
-          "en": "正确的；正好，就（副词）；右边",
-          "note": "作副词加强精确感：right above（正上方）、right here（就在这儿）、right now（马上）、fit right in（完全融入）；all right 意为“一切妥当”。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You have the right room key now.",
-          "trans": "您现在拿到正确的房间钥匙了。"
-        },
-        {
-          "text": "Your room is the second door on the right.",
-          "trans": "您的房间是右手边第二扇门。"
-        }
-      ],
-      "related": []
-    },
-    "river": {
-      "lemma": "river",
-      "stress": "ˈɹɪvɚ",
-      "pos": "noun",
-      "gloss": "河，江，河流",
-      "meanings": [
-        {
-          "en": "河，江，河流",
-          "note": "置于另一名词前可作定语（如 river water 冰凉的河水）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Cross the bridge over the river.",
-          "trans": "走过横跨河面的那座桥。"
-        },
-        {
-          "text": "The tap water felt cold as river water!",
-          "trans": "水龙头里的水凉得简直像冰河水一样！"
-        }
-      ],
-      "related": []
-    },
-    "room": {
-      "lemma": "room",
-      "stress": "ɹum",
-      "pos": "noun",
-      "gloss": "房间，客房；空间",
-      "meanings": [
-        {
-          "en": "房间，客房；空间",
-          "note": "指具体客房时可数（eight rooms 八间房）；编号直接置后（room four 四号房，口语中亦可代指四号房的客人）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four overlooks the sunny courtyard.",
-          "trans": "四号房俯瞰着阳光充足的庭院。"
-        },
-        {
-          "text": "All eight rooms are clean and ready.",
-          "trans": "八间客房全都打扫干净准备就绪了。"
-        }
-      ],
-      "related": []
-    },
-    "run": {
-      "lemma": "run",
-      "stress": "ɹʌn",
-      "pos": "verb",
-      "gloss": "跑，奔跑；经营，运转",
-      "meanings": [
-        {
-          "en": "跑，奔跑；经营，运转",
-          "note": "不规则变化：run、ran、run（现在分词双写 n 为 running）；run there and back 意为“跑个来回”。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "run"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "runs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "ran"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "run"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "running"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Caleb ran back to the taxi with the bag.",
-          "trans": "凯勒布拎着包跑回出租车旁。"
-        },
-        {
-          "text": "Graham has run this guesthouse for years.",
-          "trans": "格雷厄姆打理这家客栈好些年了。"
-        }
-      ],
-      "related": []
-    },
-    "see": {
-      "lemma": "see",
-      "stress": "si",
-      "pos": "verb",
-      "gloss": "看见；明白；见面",
-      "meanings": [
-        {
-          "en": "看见；明白；见面",
-          "note": "日常道别三大高频句：See you soon!（回头见！）、See you later!（待会儿见！）、See you tomorrow!（明天见！）。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "see"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "sees"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "saw"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "seen"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "seeing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "See you next time!",
-          "trans": "下次见！"
-        },
-        {
-          "text": "Oh, I see what happened with the keys!",
-          "trans": "噢，我明白钥匙是怎么回事了！"
-        }
-      ],
-      "related": []
-    },
-    "seven": {
-      "lemma": "seven",
-      "stress": "ˈsɛvən",
-      "pos": "num",
-      "gloss": "七",
-      "meanings": [
-        {
-          "en": "七",
-          "note": "基础数词；seven thirty 指七点半，seven twenty-nine 指七点二十九分。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tessa opens her bakery at seven sharp.",
-          "trans": "泰莎七点整准时打开面包店大门。"
-        },
-        {
-          "text": "Room seven faces the linden tree.",
-          "trans": "七号房朝向那棵菩提树。"
-        }
-      ],
-      "related": []
-    },
-    "shop": {
-      "lemma": "shop",
-      "stress": "ʃɑp",
-      "pos": "noun",
-      "gloss": "小商店，店铺；工坊",
-      "meanings": [
-        {
-          "en": "小商店，店铺；工坊",
-          "note": "常与商品类别连用（如 hardware shop 五金店、coffee shop 咖啡店）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Find the old hardware shop past the bridge.",
-          "trans": "去找过桥之后的那家老五金店。"
-        },
-        {
-          "text": "Does the shop have a sign outside?",
-          "trans": "那家铺子门外挂招牌了吗？"
-        }
-      ],
-      "related": []
-    },
-    "show": {
-      "lemma": "show",
-      "stress": "ʃoʊ",
-      "pos": "verb",
-      "gloss": "展示，给……看；领着参观",
-      "meanings": [
-        {
-          "en": "展示，给……看；领着参观",
-          "note": "过去式为 showed，过去分词为 shown；可接双宾语（show someone something）。"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "show"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "shows"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "showed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "shown"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "showing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me show you our attic study.",
-          "trans": "让我带您看看我们的阁楼书房。"
-        },
-        {
-          "text": "Show the clerk this brass valve.",
-          "trans": "把这个黄铜阀门拿给店员看。"
+          "text": "All the keys hang behind the desk.",
+          "trans": "所有的钥匙都挂在前台后面。"
         }
       ],
       "related": []
@@ -6054,190 +4085,177 @@
       ],
       "related": []
     },
-    "sign": {
-      "lemma": "sign",
-      "stress": "saɪn",
-      "pos": "noun",
-      "gloss": "招牌，指示牌；签名（动词）",
+    "upstairs": {
+      "lemma": "upstairs",
+      "stress": "ˌʌpˈstɛɹz",
+      "pos": "adv",
+      "gloss": "在楼上，往楼上",
       "meanings": [
         {
-          "en": "招牌，指示牌；签名（动词）",
-          "note": "无论作名词“招牌”还是作动词“签字”，字母 g 均不发音（读如 /saɪn/）。"
+          "en": "在楼上，往楼上",
+          "note": "本身是地点副词，前面不加介词 in 或 to（sit upstairs 坐在楼上）。"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "sign"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "signs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "signed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "signed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "signing"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Does the shop have a sign outside?",
-          "trans": "那家店门外挂招牌了吗？"
+          "text": "Let me help carry your bag upstairs.",
+          "trans": "让我帮您把包提上楼吧。"
         },
         {
-          "text": "The mailman asked me to sign here.",
-          "trans": "邮递员请我在这里签字。"
+          "text": "All guest bedrooms are upstairs.",
+          "trans": "所有住客卧室都在楼上。"
         }
       ],
       "related": []
     },
-    "small": {
-      "lemma": "small",
-      "stress": "smɔl",
+    "really": {
+      "lemma": "really",
+      "stress": "ˈɹɪli",
+      "pos": "adv",
+      "gloss": "真的吗；真正地，非常",
+      "meanings": [
+        {
+          "en": "真的吗；真正地，非常",
+          "note": "单独升调发问 Really? 是口语中表达惊讶或确认的常用语“真的吗？是吗？”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A paper book? Really?",
+          "trans": "用纸质账本？真的吗？"
+        },
+        {
+          "text": "These cinnamon rolls are really good.",
+          "trans": "这些肉桂卷真是太好吃了。"
+        }
+      ],
+      "related": []
+    },
+    "cold": {
+      "lemma": "cold",
+      "stress": "koʊld",
       "pos": "adj",
-      "gloss": "小的，小号的",
+      "gloss": "冷的，凉的",
       "meanings": [
         {
-          "en": "小的，小号的",
-          "note": "常指尺寸、体积小巧（small spoons 小茶匙、a small paper card 一张小纸卡）。"
+          "en": "冷的，凉的",
+          "note": "既可形容冷水、冷风，也可形容人感到寒冷（be/feel cold）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "We run a small eight-room guesthouse.",
-          "trans": "我们经营着一家八间客房的小客栈。"
+          "text": "Pour a glass of cold water, please.",
+          "trans": "请倒一杯冷水。"
         },
         {
-          "text": "Look for a small brass tag on the zipper.",
-          "trans": "找一找拉链上的小黄铜牌。"
+          "text": "My hands feel cold this morning.",
+          "trans": "今天早上我的手觉得很凉。"
         }
       ],
       "related": []
     },
-    "soon": {
-      "lemma": "soon",
-      "stress": "sun",
+    "already": {
+      "lemma": "already",
+      "stress": "ɔlˈɹɛdi",
       "pos": "adv",
-      "gloss": "很快，不久",
+      "gloss": "已经",
       "meanings": [
         {
-          "en": "很快，不久",
-          "note": "告别高频句 See you soon! 意为“回头见！一会儿见！”。"
+          "en": "已经",
+          "note": "表示事情比预期更早发生或已经完成。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Coffee will be ready very soon.",
-          "trans": "咖啡马上就好。"
+          "text": "Breakfast is already on the table.",
+          "trans": "早餐已经摆在桌上了。"
         },
         {
-          "text": "See you soon in the courtyard!",
-          "trans": "一会儿庭院里见！"
+          "text": "Are you leaving already?",
+          "trans": "你这么快就要走了吗？"
         }
       ],
       "related": []
     },
-    "square": {
-      "lemma": "square",
-      "stress": "skwɛɹ",
-      "pos": "noun",
-      "gloss": "广场；正方形",
-      "meanings": [
-        {
-          "en": "广场；正方形",
-          "note": "城市指路常用语，指街道交汇处开阔的小广场（stone square）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Turn left into the small stone square.",
-          "trans": "往左拐进那个铺着石板的小广场。"
-        },
-        {
-          "text": "A fountain stands in the town square.",
-          "trans": "城镇广场中央立着一座喷泉。"
-        }
-      ],
-      "related": []
-    },
-    "stone": {
-      "lemma": "stone",
-      "stress": "stoʊn",
-      "pos": "noun",
-      "gloss": "石头；石砌的",
-      "meanings": [
-        {
-          "en": "石头；石砌的",
-          "note": "可数名词指石块（pack stones 装了石头）；放另一名词前作定语表示材质（stone step 石阶）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Warm sunlight dried the wet courtyard stones.",
-          "trans": "温暖的阳光晒干了潮湿的庭院石板。"
-        },
-        {
-          "text": "They sat by the low stone wall.",
-          "trans": "他们坐在低矮的石墙旁。"
-        }
-      ],
-      "related": []
-    },
-    "straight": {
-      "lemma": "straight",
-      "stress": "stɹeɪt",
+    "as": {
+      "lemma": "as",
+      "stress": "æz",
       "pos": "adv",
-      "gloss": "笔直地，径直；直的",
+      "gloss": "像……一样；当……时",
       "meanings": [
         {
-          "en": "笔直地，径直；直的",
-          "note": "字母组合 gh 不发音；指路常用 walk straight to...（一直往前走到……）。"
+          "en": "像……一样；当……时",
+          "note": "常用于原级比较结构 as ... as（和……一样）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Walk straight to the stone bridge.",
-          "trans": "笔直朝那座石桥走过去。"
+          "text": "My bag is as heavy as yours.",
+          "trans": "我的包和你的包一样重。"
         },
         {
-          "text": "Come straight inside out of the rain.",
-          "trans": "别在外面淋雨了，快直接进屋来吧。"
+          "text": "Come as soon as you can.",
+          "trans": "请尽快过来。"
+        }
+      ],
+      "related": []
+    },
+    "river": {
+      "lemma": "river",
+      "stress": "ˈɹɪvɚ",
+      "pos": "noun",
+      "gloss": "河，江，河流",
+      "meanings": [
+        {
+          "en": "河，江，河流",
+          "note": "置于另一名词前可作定语（如 river water 冰凉的河水）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Cross the bridge over the river.",
+          "trans": "走过横跨河面的那座桥。"
+        },
+        {
+          "text": "The tap water felt cold as river water!",
+          "trans": "水龙头里的水凉得简直像冰河水一样！"
+        }
+      ],
+      "related": []
+    },
+    "water": {
+      "lemma": "water",
+      "stress": "ˈwɔtɚ",
+      "pos": "noun",
+      "gloss": "水，清水",
+      "meanings": [
+        {
+          "en": "水，清水",
+          "note": "不可数名词：hot water（热水）、cold water（冷水）、sparkling water（气泡水）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "May I have a glass of cold water?",
+          "trans": "我可以要一杯冷水吗？"
+        },
+        {
+          "text": "Pour boiling water into the ceramic teapot.",
+          "trans": "把沸水倒进陶瓷茶壶里。"
         }
       ],
       "related": []
@@ -6305,6 +4323,357 @@
       ],
       "related": []
     },
+    "this": {
+      "lemma": "this",
+      "stress": "ðɪs",
+      "pos": "det",
+      "gloss": "这，这个",
+      "meanings": [
+        {
+          "en": "这，这个",
+          "note": "指代手边、眼前或当下正在发生的事物（this big paper book、This story）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here we use this big paper book.",
+          "trans": "在这里我们用这本大纸质登记簿。"
+        },
+        {
+          "text": "Hello, this is Hannah at the front desk.",
+          "trans": "您好，我是前台的汉娜。"
+        }
+      ],
+      "related": []
+    },
+    "break": {
+      "lemma": "break",
+      "stress": "bɹeɪk",
+      "pos": "verb",
+      "gloss": "打破，弄坏；损坏",
+      "meanings": [
+        {
+          "en": "打破，弄坏；损坏",
+          "note": "不规则动词：原形 break，过去式 broke，过去分词 broken。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "break"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "breaks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "broke"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "broken"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "breaking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Be careful not to break the cup.",
+          "trans": "小心别把杯子摔破了。"
+        },
+        {
+          "text": "Did the old valve break again?",
+          "trans": "那个老阀门又坏了吗？"
+        }
+      ],
+      "related": []
+    },
+    "brass": {
+      "lemma": "brass",
+      "stress": "bɹæs",
+      "pos": "noun",
+      "gloss": "黄铜；黄铜制的",
+      "meanings": [
+        {
+          "en": "黄铜；黄铜制的",
+          "note": "不可数物质名词，常直接放在名词前表示材质（如 brass keys）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Polish the brass handle on the door.",
+          "trans": "把门上的黄铜把手擦亮。"
+        },
+        {
+          "text": "Eight brass keys hang behind the desk.",
+          "trans": "前台后面挂着八把黄铜钥匙。"
+        }
+      ],
+      "related": []
+    },
+    "valve": {
+      "lemma": "valve",
+      "stress": "vælv",
+      "pos": "noun",
+      "gloss": "阀门，活门",
+      "meanings": [
+        {
+          "en": "阀门，活门",
+          "note": "指控制锅炉或水管水流与压力的金属开关部件（brass valve 黄铜阀门）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Buy a new brass boiler valve.",
+          "trans": "去买一个新的黄铜锅炉阀门吧。"
+        },
+        {
+          "text": "A spare valve saves next winter too.",
+          "trans": "备好一个备用阀门，明年冬天也能省心。"
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "在……里面；在……之后（接时间段）",
+      "meanings": [
+        {
+          "en": "在……里面；在……之后（接时间段）",
+          "note": "除表示空间内部（in the drawer）外，in forty minutes 表示“四十分钟后”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait in the warm dining room.",
+          "trans": "请在温暖的餐厅里稍候。"
+        },
+        {
+          "text": "Coffee will be ready in three minutes.",
+          "trans": "咖啡三分钟后就好。"
+        }
+      ],
+      "related": []
+    },
+    "your": {
+      "lemma": "your",
+      "stress": "jʊɹ",
+      "pos": "det",
+      "gloss": "你的，您的，你们的",
+      "meanings": [
+        {
+          "en": "你的，您的，你们的",
+          "note": "形容词性物主代词，后面必须接名词（your train trip、your forehead）；注意与缩写词 you're（你是）区分。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is your room key, Evelyn.",
+          "trans": "伊芙琳，这是您的房间钥匙。"
+        },
+        {
+          "text": "Enjoy your morning coffee!",
+          "trans": "请慢用您的晨间咖啡！"
+        }
+      ],
+      "related": []
+    },
+    "coat": {
+      "lemma": "coat",
+      "stress": "koʊt",
+      "pos": "noun",
+      "gloss": "大衣，外套",
+      "meanings": [
+        {
+          "en": "大衣，外套",
+          "note": "指天冷或下雨时穿在最外面的长外套或夹克。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Button your coat before going outside.",
+          "trans": "出门前把外套扣好。"
+        },
+        {
+          "text": "My keys are in my coat pocket.",
+          "trans": "我的钥匙在大衣口袋里。"
+        }
+      ],
+      "related": []
+    },
+    "pocket": {
+      "lemma": "pocket",
+      "stress": "ˈpɑkɪt",
+      "pos": "noun",
+      "gloss": "衣袋，口袋，夹层袋",
+      "meanings": [
+        {
+          "en": "衣袋，口袋，夹层袋",
+          "note": "coat pocket 指大衣口袋，top pocket 指行李箱顶部的拉链外袋。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Check your coat pocket for the brass key.",
+          "trans": "摸摸您的大衣口袋里有没有黄铜钥匙。"
+        },
+        {
+          "text": "He slipped the receipt into his pocket.",
+          "trans": "他把收据塞进了口袋。"
+        }
+      ],
+      "related": []
+    },
+    "get": {
+      "lemma": "get",
+      "stress": "ɡɛt",
+      "pos": "verb",
+      "gloss": "得到；变得（加形容词）；到达",
+      "meanings": [
+        {
+          "en": "得到；变得（加形容词）；到达",
+          "note": "万能动词，后接形容词或比较级时意为“变得……”（如 gets stranger 变得更离奇）。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "get"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "gets"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "got"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "gotten"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "getting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let me get you a warm cup of tea.",
+          "trans": "让我给您倒杯热茶吧。"
+        },
+        {
+          "text": "This mystery gets stranger every minute.",
+          "trans": "这桩谜团每一分钟都变得更离奇了。"
+        }
+      ],
+      "related": []
+    },
+    "it": {
+      "lemma": "it",
+      "stress": "ɪt",
+      "pos": "pron",
+      "gloss": "它；（指代天气、时间或情况）",
+      "meanings": [
+        {
+          "en": "它；（指代天气、时间或情况）",
+          "note": "英语从不省略单数物主语（门开了说 it opens），说下雨也必须加虚主语 It is raining。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle, and it opens easily.",
+          "trans": "先把把手提起来，它就轻松打开了。"
+        },
+        {
+          "text": "It is sunny and warm this afternoon.",
+          "trans": "今天下午阳光明媚又暖和。"
+        }
+      ],
+      "related": []
+    },
+    "now": {
+      "lemma": "now",
+      "stress": "naʊ",
+      "pos": "adv",
+      "gloss": "现在，眼下",
+      "meanings": [
+        {
+          "en": "现在，眼下",
+          "note": "right now 意为“此时此刻、马上”；for now 意为“眼下暂时”，Bye for now! 意为“先再见啦！”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four is clean and ready now.",
+          "trans": "四号房现在已经打扫干净准备好了。"
+        },
+        {
+          "text": "What should we do right now?",
+          "trans": "我们眼下该怎么办？"
+        }
+      ],
+      "related": []
+    },
     "tell": {
       "lemma": "tell",
       "stress": "tɛl",
@@ -6368,102 +4737,52 @@
       ],
       "related": []
     },
-    "that": {
-      "lemma": "that",
-      "stress": "ðæt",
+    "me": {
+      "lemma": "me",
+      "stress": "mi",
       "pos": "pron",
-      "gloss": "那个，那（指示词）；（引导从句）",
+      "gloss": "我（宾格）",
       "meanings": [
         {
-          "en": "那个，那（指示词）；（引导从句）",
-          "note": "指代稍远处或刚提到的事物（What was that bell? 刚才那是什么铃声？；Smell that! 你闻闻！）。"
+          "en": "我（宾格）",
+          "note": "第一人称单数宾格代词，用于动词或介词后：Tell me（告诉我）、Allow me（让我来）、Dear me!（哎呀天哪！）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "That blue suitcase by the door is Arthur's.",
-          "trans": "门边那只蓝色行李箱是亚瑟的。"
+          "text": "Excuse me, where is the dining room?",
+          "trans": "打扰一下，请问餐厅在哪里？"
         },
         {
-          "text": "That sounds like a great plan!",
-          "trans": "那听起来是个好计划！"
+          "text": "Save a cup of coffee for me.",
+          "trans": "给我留一杯咖啡吧。"
         }
       ],
       "related": []
     },
-    "the": {
-      "lemma": "the",
-      "stress": "ðə",
-      "pos": "det",
-      "gloss": "这，那（定冠词）",
-      "meanings": [
-        {
-          "en": "这，那（定冠词）",
-          "note": "用于双方已知或特指的人或事物前（the door、the kitchen），单复数通用。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle on the front door.",
-          "trans": "把前门上的把手往上提。"
-        },
-        {
-          "text": "All the keys hang behind the desk.",
-          "trans": "所有的钥匙都挂在前台后面。"
-        }
-      ],
-      "related": []
-    },
-    "then": {
-      "lemma": "then",
-      "stress": "ðɛn",
+    "how": {
+      "lemma": "how",
+      "stress": "haʊ",
       "pos": "adv",
-      "gloss": "然后，接着；那么",
+      "gloss": "怎样，如何；多么",
       "meanings": [
         {
-          "en": "然后，接着；那么",
-          "note": "用于按先后顺序交代动作步骤：lift the handle first, then push（先提把手，然后再推）。"
+          "en": "怎样，如何；多么",
+          "note": "既引导特殊疑问句（How was your trip?），也引导感叹句（How strange! 真奇怪！）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Drink hot tea first, then answer the bell.",
-          "trans": "先喝热茶，然后再去应门铃。"
+          "text": "How do you take your coffee?",
+          "trans": "您喝咖啡喜欢怎么加料？"
         },
         {
-          "text": "All right then, let us call the taxi company.",
-          "trans": "那好吧，咱们给出租车公司打个电话。"
-        }
-      ],
-      "related": []
-    },
-    "this": {
-      "lemma": "this",
-      "stress": "ðɪs",
-      "pos": "det",
-      "gloss": "这，这个",
-      "meanings": [
-        {
-          "en": "这，这个",
-          "note": "指代手边、眼前或当下正在发生的事物（this big paper book、This story）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use this big paper book.",
-          "trans": "在这里我们用这本大纸质登记簿。"
-        },
-        {
-          "text": "Hello, this is Hannah at the front desk.",
-          "trans": "您好，我是前台的汉娜。"
+          "text": "How nice to see you again!",
+          "trans": "再次见到你真高兴！"
         }
       ],
       "related": []
@@ -6489,6 +4808,119 @@
         {
           "text": "Tell me everything I need to know.",
           "trans": "把所有我需要知道的事都告诉我吧。"
+        }
+      ],
+      "related": []
+    },
+    "find": {
+      "lemma": "find",
+      "stress": "faɪnd",
+      "pos": "verb",
+      "gloss": "找到，发现",
+      "meanings": [
+        {
+          "en": "找到，发现",
+          "note": "高频不规则动词，过去式和过去分词均为 found；lost and found 指“失物招领处”。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "find"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "finds"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "found"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "found"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "finding"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did you find your reading glasses?",
+          "trans": "你找到你的老花镜了吗？"
+        },
+        {
+          "text": "We will find the right suitcase soon.",
+          "trans": "我们很快就能找到正确的行李箱。"
+        }
+      ],
+      "related": []
+    },
+    "hardware": {
+      "lemma": "hardware",
+      "stress": "ˈhɑɹdˌwɛɹ",
+      "pos": "noun",
+      "gloss": "五金制品，金属配件",
+      "meanings": [
+        {
+          "en": "五金制品，金属配件",
+          "note": "不可数名词；hardware shop / store 即“五金店”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Find the old hardware shop past the bridge.",
+          "trans": "去找过桥之后的那家老五金店。"
+        },
+        {
+          "text": "Brass hinges are sold at the hardware shop.",
+          "trans": "五金店里有卖黄铜合页。"
+        }
+      ],
+      "related": []
+    },
+    "shop": {
+      "lemma": "shop",
+      "stress": "ʃɑp",
+      "pos": "noun",
+      "gloss": "小商店，店铺；工坊",
+      "meanings": [
+        {
+          "en": "小商店，店铺；工坊",
+          "note": "常与商品类别连用（如 hardware shop 五金店、coffee shop 咖啡店）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Find the old hardware shop past the bridge.",
+          "trans": "去找过桥之后的那家老五金店。"
+        },
+        {
+          "text": "Does the shop have a sign outside?",
+          "trans": "那家铺子门外挂招牌了吗？"
         }
       ],
       "related": []
@@ -6556,115 +4988,15 @@
       ],
       "related": []
     },
-    "twenty": {
-      "lemma": "twenty",
-      "stress": "ˈtwɛnti",
-      "pos": "num",
-      "gloss": "二十",
-      "meanings": [
-        {
-          "en": "二十",
-          "note": "整十数词：twenty eggs（二十个鸡蛋），也是二十一至二十九复合数词的前半部分。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The bakery is twenty steps down the street.",
-          "trans": "面包房顺着街走二十步就到。"
-        },
-        {
-          "text": "Give the rolls twenty minutes in the oven.",
-          "trans": "让面包卷在烤箱里烤二十分钟。"
-        }
-      ],
-      "related": []
-    },
-    "up": {
-      "lemma": "up",
-      "stress": "ʌp",
-      "pos": "adv",
-      "gloss": "向上，上楼；完全，结束",
-      "meanings": [
-        {
-          "en": "向上，上楼；完全，结束",
-          "note": "既表示往楼上去（carry the blue bag up 把蓝包提上楼），也构成高频短语动词 hung up（挂断了电话）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pick up the brass key from the tray.",
-          "trans": "从托盘上拿起那把黄铜钥匙。"
-        },
-        {
-          "text": "Look up at the painted wooden sign.",
-          "trans": "抬头看看那块彩绘木招牌。"
-        }
-      ],
-      "related": []
-    },
-    "upstairs": {
-      "lemma": "upstairs",
-      "stress": "ˌʌpˈstɛɹz",
-      "pos": "adv",
-      "gloss": "在楼上，往楼上",
-      "meanings": [
-        {
-          "en": "在楼上，往楼上",
-          "note": "本身是地点副词，前面不加介词 in 或 to（sit upstairs 坐在楼上）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me help carry your bag upstairs.",
-          "trans": "让我帮您把包提上楼吧。"
-        },
-        {
-          "text": "All guest bedrooms are upstairs.",
-          "trans": "所有住客卧室都在楼上。"
-        }
-      ],
-      "related": []
-    },
-    "valve": {
-      "lemma": "valve",
-      "stress": "vælv",
-      "pos": "noun",
-      "gloss": "阀门，活门",
-      "meanings": [
-        {
-          "en": "阀门，活门",
-          "note": "指控制锅炉或水管水流与压力的金属开关部件（brass valve 黄铜阀门）。"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Buy a new brass boiler valve.",
-          "trans": "去买一个新的黄铜锅炉阀门吧。"
-        },
-        {
-          "text": "A spare valve saves next winter too.",
-          "trans": "备好一个备用阀门，明年冬天也能省心。"
-        }
-      ],
-      "related": []
-    },
-    "wake": {
-      "lemma": "wake",
-      "stress": "weɪk",
+    "leave": {
+      "lemma": "leave",
+      "stress": "liv",
       "pos": "verb",
-      "gloss": "醒来（wake up）；叫醒",
+      "gloss": "留下，落下；离开",
       "meanings": [
         {
-          "en": "醒来（wake up）；叫醒",
-          "note": "不规则动词：原形 wake，过去式 woke，过去分词 woken；常与副词 up 连用。"
+          "en": "留下，落下；离开",
+          "note": "不规则过去式与过去分词均为 left；既指“离开某地”，也指“把某物留在某处”。"
         }
       ],
       "forms": {
@@ -6677,31 +5009,31 @@
           {
             "cells": [
               "base",
-              "wake"
+              "leave"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "wakes"
+              "leaves"
             ]
           },
           {
             "cells": [
               "past",
-              "woke"
+              "left"
             ]
           },
           {
             "cells": [
               "past participle",
-              "woken"
+              "left"
             ]
           },
           {
             "cells": [
               "-ing",
-              "waking"
+              "leaving"
             ]
           }
         ]
@@ -6709,12 +5041,112 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Room four wakes up at seven fifteen!",
-          "trans": "四号房间的客人在七点十五分起床！"
+          "text": "You can leave your bags by the desk.",
+          "trans": "您可以把包留在前台旁边。"
         },
         {
-          "text": "Morning birds woke us gently.",
-          "trans": "清晨的小鸟轻柔地把我们唤醒了。"
+          "text": "Our bus leaves at nine fifteen.",
+          "trans": "我们的巴士九点十五分发车。"
+        }
+      ],
+      "related": []
+    },
+    "outside": {
+      "lemma": "outside",
+      "stress": "ˌaʊtˈsaɪd",
+      "pos": "adv",
+      "gloss": "在外面；外部，外表",
+      "meanings": [
+        {
+          "en": "在外面；外部，外表",
+          "note": "一词兼三类：副词（It is raining outside 外面在下雨）、名词（The outside 外表）、介词（outside town 城外）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A yellow taxi is waiting outside.",
+          "trans": "一辆黄色出租车正在外面等候。"
+        },
+        {
+          "text": "Shall we drink our coffee outside?",
+          "trans": "我们到外面喝咖啡好吗？"
+        }
+      ],
+      "related": []
+    },
+    "our": {
+      "lemma": "our",
+      "stress": "ˈaʊɚ",
+      "pos": "det",
+      "gloss": "我们的",
+      "meanings": [
+        {
+          "en": "我们的",
+          "note": "第一人称复数形容词性物主代词，置于名词前（our street、our guesthouse）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to our courtyard guesthouse.",
+          "trans": "欢迎光临我们的庭院客栈。"
+        },
+        {
+          "text": "All our bread comes from Tessa's oven.",
+          "trans": "我们所有的面包都出自泰莎的烤箱。"
+        }
+      ],
+      "related": []
+    },
+    "gate": {
+      "lemma": "gate",
+      "stress": "ɡeɪt",
+      "pos": "noun",
+      "gloss": "大门，院门",
+      "meanings": [
+        {
+          "en": "大门，院门",
+          "note": "通常指庭院、花园围墙或车站检票口的外门（室内房门则用 door）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Close the iron gate behind you.",
+          "trans": "进出后请随手关上铁院门。"
+        },
+        {
+          "text": "Tessa waited by the courtyard gate.",
+          "trans": "泰莎在庭院大门口等着。"
+        }
+      ],
+      "related": []
+    },
+    "and": {
+      "lemma": "and",
+      "stress": "ænd",
+      "pos": "conj",
+      "gloss": "和，与，然后",
+      "meanings": [
+        {
+          "en": "和，与，然后",
+          "note": "最基本的并列连词，连接词、短语或分句。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bring bread and butter, please.",
+          "trans": "请拿些面包和黄油来。"
+        },
+        {
+          "text": "Wash your hands and sit down.",
+          "trans": "洗洗手然后坐下吧。"
         }
       ],
       "related": []
@@ -6782,52 +5214,1218 @@
       ],
       "related": []
     },
-    "water": {
-      "lemma": "water",
-      "stress": "ˈwɔtɚ",
-      "pos": "noun",
-      "gloss": "水，清水",
+    "straight": {
+      "lemma": "straight",
+      "stress": "stɹeɪt",
+      "pos": "adv",
+      "gloss": "笔直地，径直；直的",
       "meanings": [
         {
-          "en": "水，清水",
-          "note": "不可数名词：hot water（热水）、cold water（冷水）、sparkling water（气泡水）。"
+          "en": "笔直地，径直；直的",
+          "note": "字母组合 gh 不发音；指路常用 walk straight to...（一直往前走到……）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "May I have a glass of cold water?",
-          "trans": "我可以要一杯冷水吗？"
+          "text": "Walk straight to the stone bridge.",
+          "trans": "笔直朝那座石桥走过去。"
         },
         {
-          "text": "Pour boiling water into the ceramic teapot.",
-          "trans": "把沸水倒进陶瓷茶壶里。"
+          "text": "Come straight inside out of the rain.",
+          "trans": "别在外面淋雨了，快直接进屋来吧。"
         }
       ],
       "related": []
     },
-    "way": {
-      "lemma": "way",
-      "stress": "weɪ",
+    "stone": {
+      "lemma": "stone",
+      "stress": "stoʊn",
       "pos": "noun",
-      "gloss": "路，方向；方式",
+      "gloss": "石头；石砌的",
       "meanings": [
         {
-          "en": "路，方向；方式",
-          "note": "all the way out in the courtyard 意为“大老远在外面的庭院里”；Right this way 则是礼貌领路用语“这边请”。"
+          "en": "石头；石砌的",
+          "note": "可数名词指石块（pack stones 装了石头）；放另一名词前作定语表示材质（stone step 石阶）。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Right this way to the dining room, please.",
-          "trans": "去餐厅请往这边走。"
+          "text": "Warm sunlight dried the wet courtyard stones.",
+          "trans": "温暖的阳光晒干了潮湿的庭院石板。"
         },
         {
-          "text": "On my way to work, I passed the harbor.",
-          "trans": "上班路上我经过了海港。"
+          "text": "They sat by the low stone wall.",
+          "trans": "他们坐在低矮的石墙旁。"
+        }
+      ],
+      "related": []
+    },
+    "bridge": {
+      "lemma": "bridge",
+      "stress": "bɹɪdʒ",
+      "pos": "noun",
+      "gloss": "桥，桥梁",
+      "meanings": [
+        {
+          "en": "桥，桥梁",
+          "note": "规则可数名词，常与动词 cross（过桥）搭配。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Cross the old stone bridge.",
+          "trans": "穿过那座古老的石桥。"
+        },
+        {
+          "text": "The shop is just past the bridge.",
+          "trans": "那家铺子就在过了桥不远处。"
+        }
+      ],
+      "related": []
+    },
+    "at": {
+      "lemma": "at",
+      "stress": "æt",
+      "pos": "prep",
+      "gloss": "在（某处或某时刻）",
+      "meanings": [
+        {
+          "en": "在（某处或某时刻）",
+          "note": "用于具体钟点（at seven）和具体地点（at the desk）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast starts at seven thirty.",
+          "trans": "早餐七点半开始。"
+        },
+        {
+          "text": "Someone is waiting at the gate.",
+          "trans": "有人在大门口等着。"
+        }
+      ],
+      "related": []
+    },
+    "do": {
+      "lemma": "do",
+      "stress": "du",
+      "pos": "verb",
+      "gloss": "做，干；（助动词）",
+      "meanings": [
+        {
+          "en": "做，干；（助动词）",
+          "note": "既可作实义动词“做”，也可在一般现在时疑问句和否定句中充当助动词。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "do"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "does"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "did"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "done"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "doing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do you want sugar in your coffee?",
+          "trans": "你的咖啡里要加糖吗？"
+        },
+        {
+          "text": "What should we do with this package?",
+          "trans": "我们该怎么处理这个包裹？"
+        }
+      ],
+      "related": []
+    },
+    "i": {
+      "lemma": "i",
+      "stress": "aɪ",
+      "pos": "pron",
+      "gloss": "我",
+      "meanings": [
+        {
+          "en": "我",
+          "note": "第一人称单数主格代词，在句中任何位置永远大写为 I，与 am 连用。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I am Hannah, the new receptionist.",
+          "trans": "我是汉娜，新来的前台接待员。"
+        },
+        {
+          "text": "May I help you with your luggage?",
+          "trans": "我可以帮您拿行李吗？"
+        }
+      ],
+      "related": []
+    },
+    "cross": {
+      "lemma": "cross",
+      "stress": "kɹɔs",
+      "pos": "verb",
+      "gloss": "穿过，横渡，越过",
+      "meanings": [
+        {
+          "en": "穿过，横渡，越过",
+          "note": "及物动词，直接接桥、马路或河流，无需加介词 across。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "cross"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "crosses"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "crossed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "crossed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "crossing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Cross the stone bridge carefully.",
+          "trans": "小心地走过那座石桥。"
+        },
+        {
+          "text": "Do I cross the river here?",
+          "trans": "我从这儿过河吗？"
+        }
+      ],
+      "related": []
+    },
+    "yes": {
+      "lemma": "yes",
+      "stress": "jɛs",
+      "pos": "interj",
+      "gloss": "是的，对，好",
+      "meanings": [
+        {
+          "en": "是的，对，好",
+          "note": "最基本的肯定答语，可用于回答问句或确认信息。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Yes, eight rooms and eight brass keys.",
+          "trans": "对，八间客房，八把黄铜钥匙。"
+        },
+        {
+          "text": "Yes, please! I would love some coffee.",
+          "trans": "好的，谢谢！我很想来点咖啡。"
+        }
+      ],
+      "related": []
+    },
+    "then": {
+      "lemma": "then",
+      "stress": "ðɛn",
+      "pos": "adv",
+      "gloss": "然后，接着；那么",
+      "meanings": [
+        {
+          "en": "然后，接着；那么",
+          "note": "用于按先后顺序交代动作步骤：lift the handle first, then push（先提把手，然后再推）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Drink hot tea first, then answer the bell.",
+          "trans": "先喝热茶，然后再去应门铃。"
+        },
+        {
+          "text": "All right then, let us call the taxi company.",
+          "trans": "那好吧，咱们给出租车公司打个电话。"
+        }
+      ],
+      "related": []
+    },
+    "pass": {
+      "lemma": "pass",
+      "stress": "pæs",
+      "pos": "verb",
+      "gloss": "递给；走过，经过",
+      "meanings": [
+        {
+          "en": "递给；走过，经过",
+          "note": "既可接双宾语表示把工具递给某人（Pass me...），也可指路过某家店铺。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "pass"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "passes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "passed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "passed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "passing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pass me the heavy wrench, please.",
+          "trans": "请把那把重扳手递给我。"
+        },
+        {
+          "text": "I just passed the green pharmacy!",
+          "trans": "我刚刚路过那家绿招牌的药店！"
+        }
+      ],
+      "related": []
+    },
+    "green": {
+      "lemma": "green",
+      "stress": "ɡɹin",
+      "pos": "adj",
+      "gloss": "绿色的",
+      "meanings": [
+        {
+          "en": "绿色的",
+          "note": "既指草木的翠绿色（fresh green herbs），也用于 green tea（绿茶）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look for the house with green shutters.",
+          "trans": "找那栋带绿色百叶窗的房子。"
+        },
+        {
+          "text": "Would you prefer black tea or green tea?",
+          "trans": "您更喜欢红茶还是绿茶？"
+        }
+      ],
+      "related": []
+    },
+    "pharmacy": {
+      "lemma": "pharmacy",
+      "stress": "ˈfɑɹməsi",
+      "pos": "noun",
+      "gloss": "药店，药房",
+      "meanings": [
+        {
+          "en": "药店，药房",
+          "note": "词首字母组合 ph 发 /f/ 音，美式英语中与 drugstore 同义常用。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pass the green pharmacy on the right.",
+          "trans": "从右手边路过那家绿色门面的药店。"
+        },
+        {
+          "text": "Is the corner pharmacy still open?",
+          "trans": "街角那家药店还开着门吗？"
+        }
+      ],
+      "related": []
+    },
+    "on": {
+      "lemma": "on",
+      "stress": "ɑn",
+      "pos": "prep",
+      "gloss": "在……上面（接触表面）；在（某天或某层楼）",
+      "meanings": [
+        {
+          "en": "在……上面（接触表面）；在（某天或某层楼）",
+          "note": "表面接触用 on（on my head、on the step），楼层和具体某一天也用 on（on the second floor、on my first day）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your key is on the wooden desk.",
+          "trans": "您的钥匙在木书桌上。"
+        },
+        {
+          "text": "Tessa bakes apple rolls on Fridays.",
+          "trans": "泰莎每逢周五会烤苹果卷。"
+        }
+      ],
+      "related": []
+    },
+    "right": {
+      "lemma": "right",
+      "stress": "ɹaɪt",
+      "pos": "adj",
+      "gloss": "正确的；正好，就（副词）；右边",
+      "meanings": [
+        {
+          "en": "正确的；正好，就（副词）；右边",
+          "note": "作副词加强精确感：right above（正上方）、right here（就在这儿）、right now（马上）、fit right in（完全融入）；all right 意为“一切妥当”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You have the right room key now.",
+          "trans": "您现在拿到正确的房间钥匙了。"
+        },
+        {
+          "text": "Your room is the second door on the right.",
+          "trans": "您的房间是右手边第二扇门。"
+        }
+      ],
+      "related": []
+    },
+    "after": {
+      "lemma": "after",
+      "stress": "ˈæftɚ",
+      "pos": "prep",
+      "gloss": "在……之后",
+      "meanings": [
+        {
+          "en": "在……之后",
+          "note": "表示时间上的先后或空间上的跟随。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let us walk after lunch.",
+          "trans": "午饭后我们去散步吧。"
+        },
+        {
+          "text": "Wednesday comes after Tuesday.",
+          "trans": "星期三在星期二之后。"
+        }
+      ],
+      "related": []
+    },
+    "that": {
+      "lemma": "that",
+      "stress": "ðæt",
+      "pos": "pron",
+      "gloss": "那个，那（指示词）；（引导从句）",
+      "meanings": [
+        {
+          "en": "那个，那（指示词）；（引导从句）",
+          "note": "指代稍远处或刚提到的事物（What was that bell? 刚才那是什么铃声？；Smell that! 你闻闻！）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "That blue suitcase by the door is Arthur's.",
+          "trans": "门边那只蓝色行李箱是亚瑟的。"
+        },
+        {
+          "text": "That sounds like a great plan!",
+          "trans": "那听起来是个好计划！"
+        }
+      ],
+      "related": []
+    },
+    "into": {
+      "lemma": "into",
+      "stress": "ˈɪntu",
+      "pos": "prep",
+      "gloss": "进入……里面，到……里",
+      "meanings": [
+        {
+          "en": "进入……里面，到……里",
+          "note": "强调从外部进入内部的动态方向（如 pour water into the teapot、check into room six）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pour hot water into the teapot.",
+          "trans": "把热水倒进茶壶里。"
+        },
+        {
+          "text": "She stepped into the sunny courtyard.",
+          "trans": "她走进了阳光明媚的庭院。"
+        }
+      ],
+      "related": []
+    },
+    "small": {
+      "lemma": "small",
+      "stress": "smɔl",
+      "pos": "adj",
+      "gloss": "小的，小号的",
+      "meanings": [
+        {
+          "en": "小的，小号的",
+          "note": "常指尺寸、体积小巧（small spoons 小茶匙、a small paper card 一张小纸卡）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We run a small eight-room guesthouse.",
+          "trans": "我们经营着一家八间客房的小客栈。"
+        },
+        {
+          "text": "Look for a small brass tag on the zipper.",
+          "trans": "找一找拉链上的小黄铜牌。"
+        }
+      ],
+      "related": []
+    },
+    "square": {
+      "lemma": "square",
+      "stress": "skwɛɹ",
+      "pos": "noun",
+      "gloss": "广场；正方形",
+      "meanings": [
+        {
+          "en": "广场；正方形",
+          "note": "城市指路常用语，指街道交汇处开阔的小广场（stone square）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Turn left into the small stone square.",
+          "trans": "往左拐进那个铺着石板的小广场。"
+        },
+        {
+          "text": "A fountain stands in the town square.",
+          "trans": "城镇广场中央立着一座喷泉。"
+        }
+      ],
+      "related": []
+    },
+    "look": {
+      "lemma": "look",
+      "stress": "lʊk",
+      "pos": "verb",
+      "gloss": "看；看起来",
+      "meanings": [
+        {
+          "en": "看；看起来",
+          "note": "接宾语看某物用 look at，寻找某物用 look for，往下看用 look down；直接加形容词表示“看起来……”。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "look"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "looks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "looked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "looked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "looking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at the brass tag on the handle.",
+          "trans": "看看提手上的黄铜吊牌。"
+        },
+        {
+          "text": "Those cinnamon rolls look delicious!",
+          "trans": "那些肉桂卷看起来真诱人！"
+        }
+      ],
+      "related": []
+    },
+    "for": {
+      "lemma": "for",
+      "stress": "fɔɹ",
+      "pos": "prep",
+      "gloss": "给，为了；持续（一段时间）",
+      "meanings": [
+        {
+          "en": "给，为了；持续（一段时间）",
+          "note": "用途极广的介词，表示对象（a room for Evelyn）、用途（for breakfast）或时长。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This package arrived for room two.",
+          "trans": "这个包裹是寄给二号房的。"
+        },
+        {
+          "text": "Wait here for just a moment.",
+          "trans": "请在这里稍等片刻。"
+        }
+      ],
+      "related": []
+    },
+    "a": {
+      "lemma": "a",
+      "stress": "ə",
+      "pos": "det",
+      "gloss": "一个（不定冠词）",
+      "meanings": [
+        {
+          "en": "一个（不定冠词）",
+          "note": "用于以辅音音素开头的可数名词单数前。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I have a blue pen.",
+          "trans": "我有一支蓝色的钢笔。"
+        },
+        {
+          "text": "She wants a cup of tea.",
+          "trans": "她想要一杯茶。"
+        }
+      ],
+      "related": []
+    },
+    "blue": {
+      "lemma": "blue",
+      "stress": "blu",
+      "pos": "adj",
+      "gloss": "蓝色的",
+      "meanings": [
+        {
+          "en": "蓝色的",
+          "note": "颜色形容词，修饰单复数名词形式不变。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at that clear blue sky.",
+          "trans": "看那片晴朗的蓝天。"
+        },
+        {
+          "text": "My suitcase has a blue handle.",
+          "trans": "我的行李箱有一个蓝色的提手。"
+        }
+      ],
+      "related": []
+    },
+    "wooden": {
+      "lemma": "wooden",
+      "stress": "ˈwʊdən",
+      "pos": "adj",
+      "gloss": "木制的，木头的",
+      "meanings": [
+        {
+          "en": "木制的，木头的",
+          "note": "由 wood 加材质后缀 -en 构成的定语形容词：a little wooden train（一列小木头火车）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Set the tray on the long wooden table.",
+          "trans": "把托盘放在长木桌上吧。"
+        },
+        {
+          "text": "Eight keys hang on a wooden board.",
+          "trans": "八把钥匙挂在一块木牌上。"
+        }
+      ],
+      "related": []
+    },
+    "door": {
+      "lemma": "door",
+      "stress": "dɔɹ",
+      "pos": "noun",
+      "gloss": "门",
+      "meanings": [
+        {
+          "en": "门",
+          "note": "指房屋、房间、壁橱或车辆的门；out the door 意为“出门”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Please close the front door gently.",
+          "trans": "请轻轻关上前门。"
+        },
+        {
+          "text": "Someone knocked on the kitchen door.",
+          "trans": "有人敲了敲厨房的门。"
+        }
+      ],
+      "related": []
+    },
+    "have": {
+      "lemma": "have",
+      "stress": "hæv",
+      "pos": "verb",
+      "gloss": "有；吃，喝",
+      "meanings": [
+        {
+          "en": "有；吃，喝",
+          "note": "第三人称单数现在时为不规则形式 has，过去式为 had。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "have"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "has"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "had"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "had"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "having"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do you have a reservation for tonight?",
+          "trans": "请问您今晚有预订吗？"
+        },
+        {
+          "text": "Let us have coffee in the courtyard.",
+          "trans": "我们在庭院里喝杯咖啡吧。"
+        }
+      ],
+      "related": []
+    },
+    "big": {
+      "lemma": "big",
+      "stress": "bɪɡ",
+      "pos": "adj",
+      "gloss": "大的",
+      "meanings": [
+        {
+          "en": "大的",
+          "note": "口语中最常用的描述体积或规模大的形容词。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "They live in a big brick house.",
+          "trans": "他们住在一栋大砖房里。"
+        },
+        {
+          "text": "We need a big pot for the soup.",
+          "trans": "我们需要一口大锅来煮汤。"
+        }
+      ],
+      "related": []
+    },
+    "sign": {
+      "lemma": "sign",
+      "stress": "saɪn",
+      "pos": "noun",
+      "gloss": "招牌，指示牌；签名（动词）",
+      "meanings": [
+        {
+          "en": "招牌，指示牌；签名（动词）",
+          "note": "无论作名词“招牌”还是作动词“签字”，字母 g 均不发音（读如 /saɪn/）。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sign"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "signs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "signed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "signed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "signing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Does the shop have a sign outside?",
+          "trans": "那家店门外挂招牌了吗？"
+        },
+        {
+          "text": "The mailman asked me to sign here.",
+          "trans": "邮递员请我在这里签字。"
+        }
+      ],
+      "related": []
+    },
+    "only": {
+      "lemma": "only",
+      "stress": "ˈoʊnli",
+      "pos": "adv",
+      "gloss": "只有，仅仅；唯一的",
+      "meanings": [
+        {
+          "en": "只有，仅仅；唯一的",
+          "note": "副词修饰数量或范围（Only dresses 只有连衣裙），形容词作定语意为“唯一的”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We have only eight rooms at the inn.",
+          "trans": "我们这家客栈只有八间客房。"
+        },
+        {
+          "text": "This is the only key to the garden shed.",
+          "trans": "这是花园小棚唯一的钥匙。"
+        }
+      ],
+      "related": []
+    },
+    "paint": {
+      "lemma": "paint",
+      "stress": "peɪnt",
+      "pos": "noun",
+      "gloss": "油漆；颜料；粉刷",
+      "meanings": [
+        {
+          "en": "油漆；颜料；粉刷",
+          "note": "不可数名词；wet paint 是常见的警示语“油漆未干”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Careful, there is fresh green paint on the gate.",
+          "trans": "当心，院门上有刚刷的绿油漆。"
+        },
+        {
+          "text": "She loves watercolor paint and sketchbooks.",
+          "trans": "她喜欢水彩颜料和速写本。"
+        }
+      ],
+      "related": []
+    },
+    "golden": {
+      "lemma": "golden",
+      "stress": "ˈɡoʊldən",
+      "pos": "adj",
+      "gloss": "金黄色的，金色的",
+      "meanings": [
+        {
+          "en": "金黄色的，金色的",
+          "note": "常用来形容纸灯笼的暖光或烤得恰到好处的金黄面包皮。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at those golden paper lanterns.",
+          "trans": "看看那些金黄色的纸灯笼。"
+        },
+        {
+          "text": "Bake the rolls until the crust is golden.",
+          "trans": "把小餐包烤到外皮金黄即可。"
+        }
+      ],
+      "related": []
+    },
+    "key": {
+      "lemma": "key",
+      "stress": "ki",
+      "pos": "noun",
+      "gloss": "钥匙；关键；琴键",
+      "meanings": [
+        {
+          "en": "钥匙；关键；琴键",
+          "note": "可数名词，注意发音为长音 /ki/；习语 under lock and key 意为“妥善锁好保管”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is the brass key to room four.",
+          "trans": "这是四号房的黄铜钥匙。"
+        },
+        {
+          "text": "Eight keys hang neatly behind the desk.",
+          "trans": "八把钥匙整整齐齐挂在前台后面。"
+        }
+      ],
+      "related": []
+    },
+    "above": {
+      "lemma": "above",
+      "stress": "əˈbʌv",
+      "pos": "prep",
+      "gloss": "在……上方",
+      "meanings": [
+        {
+          "en": "在……上方",
+          "note": "表示位置高于某物但通常不直接接触。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A lamp hangs above the table.",
+          "trans": "一盏灯挂在餐桌上方。"
+        },
+        {
+          "text": "Our room is above the garden.",
+          "trans": "我们的房间在花园上方。"
+        }
+      ],
+      "related": []
+    },
+    "show": {
+      "lemma": "show",
+      "stress": "ʃoʊ",
+      "pos": "verb",
+      "gloss": "展示，给……看；领着参观",
+      "meanings": [
+        {
+          "en": "展示，给……看；领着参观",
+          "note": "过去式为 showed，过去分词为 shown；可接双宾语（show someone something）。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "show"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "shows"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "showed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "shown"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "showing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let me show you our attic study.",
+          "trans": "让我带您看看我们的阁楼书房。"
+        },
+        {
+          "text": "Show the clerk this brass valve.",
+          "trans": "把这个黄铜阀门拿给店员看。"
+        }
+      ],
+      "related": []
+    },
+    "clerk": {
+      "lemma": "clerk",
+      "stress": "klɝk",
+      "pos": "noun",
+      "gloss": "店员，前台接待员，办事员",
+      "meanings": [
+        {
+          "en": "店员，前台接待员，办事员",
+          "note": "指商店柜台营业员、旅馆值班接待员或市政文员。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Show this valve to the shop clerk.",
+          "trans": "把这个阀门拿给五金店店员看。"
+        },
+        {
+          "text": "Graham works as the night clerk.",
+          "trans": "格雷厄姆担任夜班前台接待员。"
+        }
+      ],
+      "related": []
+    },
+    "twenty": {
+      "lemma": "twenty",
+      "stress": "ˈtwɛnti",
+      "pos": "num",
+      "gloss": "二十",
+      "meanings": [
+        {
+          "en": "二十",
+          "note": "整十数词：twenty eggs（二十个鸡蛋），也是二十一至二十九复合数词的前半部分。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The bakery is twenty steps down the street.",
+          "trans": "面包房顺着街走二十步就到。"
+        },
+        {
+          "text": "Give the rolls twenty minutes in the oven.",
+          "trans": "让面包卷在烤箱里烤二十分钟。"
+        }
+      ],
+      "related": []
+    },
+    "millimeter": {
+      "lemma": "millimeter",
+      "stress": "ˈmɪləˌmitɚ",
+      "pos": "noun",
+      "gloss": "毫米（长度单位）",
+      "meanings": [
+        {
+          "en": "毫米（长度单位）",
+          "note": "一米的千分之一，美式拼写为 millimeter，精密工程图纸常用。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The brass ring is twenty millimeters wide.",
+          "trans": "这个黄铜垫圈宽二十毫米。"
+        },
+        {
+          "text": "Check every millimeter on the blueprint.",
+          "trans": "仔细核对蓝图上的每一毫米。"
+        }
+      ],
+      "related": []
+    },
+    "boiler": {
+      "lemma": "boiler",
+      "stress": "ˈbɔɪlɚ",
+      "pos": "noun",
+      "gloss": "锅炉，热水炉",
+      "meanings": [
+        {
+          "en": "锅炉，热水炉",
+          "note": "指安装在地下室为全楼提供热水和暖气的锅炉。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Graham repaired the basement boiler.",
+          "trans": "格雷厄姆修好了地下室的锅炉。"
+        },
+        {
+          "text": "The old boiler makes a clanking sound.",
+          "trans": "那台老锅炉发出咔嗒咔嗒的金属声。"
         }
       ],
       "related": []
@@ -6895,52 +6493,454 @@
       ],
       "related": []
     },
-    "wooden": {
-      "lemma": "wooden",
-      "stress": "ˈwʊdən",
-      "pos": "adj",
-      "gloss": "木制的，木头的",
+    "repeat": {
+      "lemma": "repeat",
+      "stress": "ɹɪˈpit",
+      "pos": "verb",
+      "gloss": "重复，重说一遍，反复默念",
       "meanings": [
         {
-          "en": "木制的，木头的",
-          "note": "由 wood 加材质后缀 -en 构成的定语形容词：a little wooden train（一列小木头火车）。"
+          "en": "重复，重说一遍，反复默念",
+          "note": "可指一路反复念叨免得忘词，或礼貌请求对方再说一遍。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "repeat"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "repeats"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "repeated"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "repeated"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "repeating"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Set the tray on the long wooden table.",
-          "trans": "把托盘放在长木桌上吧。"
+          "text": "I will repeat the valve size all the way!",
+          "trans": "我一路上都会反复默念这个阀门尺寸的！"
         },
         {
-          "text": "Eight keys hang on a wooden board.",
-          "trans": "八把钥匙挂在一块木牌上。"
+          "text": "Could you repeat that address slowly?",
+          "trans": "您能把那个地址慢点儿再说一遍吗？"
         }
       ],
       "related": []
     },
-    "yes": {
-      "lemma": "yes",
-      "stress": "jɛs",
-      "pos": "interj",
-      "gloss": "是的，对，好",
+    "all": {
+      "lemma": "all",
+      "stress": "ɔl",
+      "pos": "det",
+      "gloss": "所有的，全部",
       "meanings": [
         {
-          "en": "是的，对，好",
-          "note": "最基本的肯定答语，可用于回答问句或确认信息。"
+          "en": "所有的，全部",
+          "note": "指整体中的全部成员或整个时间段。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Yes, eight rooms and eight brass keys.",
-          "trans": "对，八间客房，八把黄铜钥匙。"
+          "text": "All the windows are open.",
+          "trans": "所有的窗户都开着。"
         },
         {
-          "text": "Yes, please! I would love some coffee.",
-          "trans": "好的，谢谢！我很想来点咖啡。"
+          "text": "She worked all morning.",
+          "trans": "她忙了一整上午。"
+        }
+      ],
+      "related": []
+    },
+    "way": {
+      "lemma": "way",
+      "stress": "weɪ",
+      "pos": "noun",
+      "gloss": "路，方向；方式",
+      "meanings": [
+        {
+          "en": "路，方向；方式",
+          "note": "all the way out in the courtyard 意为“大老远在外面的庭院里”；Right this way 则是礼貌领路用语“这边请”。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Right this way to the dining room, please.",
+          "trans": "去餐厅请往这边走。"
+        },
+        {
+          "text": "On my way to work, I passed the harbor.",
+          "trans": "上班路上我经过了海港。"
+        }
+      ],
+      "related": []
+    },
+    "run": {
+      "lemma": "run",
+      "stress": "ɹʌn",
+      "pos": "verb",
+      "gloss": "跑，奔跑；经营，运转",
+      "meanings": [
+        {
+          "en": "跑，奔跑；经营，运转",
+          "note": "不规则变化：run、ran、run（现在分词双写 n 为 running）；run there and back 意为“跑个来回”。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "run"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "runs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "ran"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "run"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "running"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Caleb ran back to the taxi with the bag.",
+          "trans": "凯勒布拎着包跑回出租车旁。"
+        },
+        {
+          "text": "Graham has run this guesthouse for years.",
+          "trans": "格雷厄姆打理这家客栈好些年了。"
+        }
+      ],
+      "related": []
+    },
+    "fast": {
+      "lemma": "fast",
+      "stress": "fæst",
+      "pos": "adv",
+      "gloss": "快地；快速的",
+      "meanings": [
+        {
+          "en": "快地；快速的",
+          "note": "形容词与副词同形，修饰动作“走得快”直接说 walk fast（绝不加 -ly）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I always walk fast in cool weather.",
+          "trans": "天凉时我走路总是很快。"
+        },
+        {
+          "text": "Do not speak too fast on the phone.",
+          "trans": "在电话里说话别太快。"
+        }
+      ],
+      "related": []
+    },
+    "room": {
+      "lemma": "room",
+      "stress": "ɹum",
+      "pos": "noun",
+      "gloss": "房间，客房；空间",
+      "meanings": [
+        {
+          "en": "房间，客房；空间",
+          "note": "指具体客房时可数（eight rooms 八间房）；编号直接置后（room four 四号房，口语中亦可代指四号房的客人）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four overlooks the sunny courtyard.",
+          "trans": "四号房俯瞰着阳光充足的庭院。"
+        },
+        {
+          "text": "All eight rooms are clean and ready.",
+          "trans": "八间客房全都打扫干净准备就绪了。"
+        }
+      ],
+      "related": []
+    },
+    "four": {
+      "lemma": "four",
+      "stress": "fɔɹ",
+      "pos": "num",
+      "gloss": "四",
+      "meanings": [
+        {
+          "en": "四",
+          "note": "基础数词；放在名词 room 后（room four）表示编号“四号房”，无需加冠词。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four looks out on the courtyard.",
+          "trans": "四号房朝向庭院。"
+        },
+        {
+          "text": "Please bring four spoons for the table.",
+          "trans": "请给餐桌拿四把勺子来。"
+        }
+      ],
+      "related": []
+    },
+    "wake": {
+      "lemma": "wake",
+      "stress": "weɪk",
+      "pos": "verb",
+      "gloss": "醒来（wake up）；叫醒",
+      "meanings": [
+        {
+          "en": "醒来（wake up）；叫醒",
+          "note": "不规则动词：原形 wake，过去式 woke，过去分词 woken；常与副词 up 连用。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "wake"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "wakes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "woke"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "woken"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "waking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four wakes up at seven fifteen!",
+          "trans": "四号房间的客人在七点十五分起床！"
+        },
+        {
+          "text": "Morning birds woke us gently.",
+          "trans": "清晨的小鸟轻柔地把我们唤醒了。"
+        }
+      ],
+      "related": []
+    },
+    "up": {
+      "lemma": "up",
+      "stress": "ʌp",
+      "pos": "adv",
+      "gloss": "向上，上楼；完全，结束",
+      "meanings": [
+        {
+          "en": "向上，上楼；完全，结束",
+          "note": "既表示往楼上去（carry the blue bag up 把蓝包提上楼），也构成高频短语动词 hung up（挂断了电话）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pick up the brass key from the tray.",
+          "trans": "从托盘上拿起那把黄铜钥匙。"
+        },
+        {
+          "text": "Look up at the painted wooden sign.",
+          "trans": "抬头看看那块彩绘木招牌。"
+        }
+      ],
+      "related": []
+    },
+    "seven": {
+      "lemma": "seven",
+      "stress": "ˈsɛvən",
+      "pos": "num",
+      "gloss": "七",
+      "meanings": [
+        {
+          "en": "七",
+          "note": "基础数词；seven thirty 指七点半，seven twenty-nine 指七点二十九分。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa opens her bakery at seven sharp.",
+          "trans": "泰莎七点整准时打开面包店大门。"
+        },
+        {
+          "text": "Room seven faces the linden tree.",
+          "trans": "七号房朝向那棵菩提树。"
+        }
+      ],
+      "related": []
+    },
+    "fifteen": {
+      "lemma": "fifteen",
+      "stress": "ˌfɪfˈtin",
+      "pos": "num",
+      "gloss": "十五",
+      "meanings": [
+        {
+          "en": "十五",
+          "note": "由五加十构成的基数词；注意拼写是 fif- 而非 five-。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Give us fifteen minutes to prepare.",
+          "trans": "给我们十五分钟准备时间。"
+        },
+        {
+          "text": "Arthur worked here for fifteen years.",
+          "trans": "亚瑟在这里工作了十五年。"
+        }
+      ],
+      "related": []
+    },
+    "see": {
+      "lemma": "see",
+      "stress": "si",
+      "pos": "verb",
+      "gloss": "看见；明白；见面",
+      "meanings": [
+        {
+          "en": "看见；明白；见面",
+          "note": "日常道别三大高频句：See you soon!（回头见！）、See you later!（待会儿见！）、See you tomorrow!（明天见！）。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "see"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sees"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "saw"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "seen"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "seeing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "See you next time!",
+          "trans": "下次见！"
+        },
+        {
+          "text": "Oh, I see what happened with the keys!",
+          "trans": "噢，我明白钥匙是怎么回事了！"
         }
       ],
       "related": []
@@ -6970,27 +6970,27 @@
       ],
       "related": []
     },
-    "your": {
-      "lemma": "your",
-      "stress": "jʊɹ",
-      "pos": "det",
-      "gloss": "你的，您的，你们的",
+    "soon": {
+      "lemma": "soon",
+      "stress": "sun",
+      "pos": "adv",
+      "gloss": "很快，不久",
       "meanings": [
         {
-          "en": "你的，您的，你们的",
-          "note": "形容词性物主代词，后面必须接名词（your train trip、your forehead）；注意与缩写词 you're（你是）区分。"
+          "en": "很快，不久",
+          "note": "告别高频句 See you soon! 意为“回头见！一会儿见！”。"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Here is your room key, Evelyn.",
-          "trans": "伊芙琳，这是您的房间钥匙。"
+          "text": "Coffee will be ready very soon.",
+          "trans": "咖啡马上就好。"
         },
         {
-          "text": "Enjoy your morning coffee!",
-          "trans": "请慢用您的晨间咖啡！"
+          "text": "See you soon in the courtyard!",
+          "trans": "一会儿庭院里见！"
         }
       ],
       "related": []

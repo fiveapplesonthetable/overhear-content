@@ -21,7 +21,7 @@ STORY = [
     ('hannah', 'Wait, let me look at the tablet screen and the paper book together.', 'انتظر، دعني أنظر إلى شاشة الجهاز اللوحي والدفتر الورقي معاً.'),
     ('graham', 'Let me guess. You promised somebody a room we do not have?', 'دعني أخمن. هل وعدتَ شخصاً ما بغرفة لا نملكها؟'),
     ('hannah', 'Arthur! Room seven is already occupied, and you booked a second guest into room seven!', 'يا آرثر! الغرفة السابعة مشغولة بالفعل، وقد حجزتَ لضيف ثانٍ في الغرفة السابعة نفسها!'),
-    ('arthur', "And he arrives on the eight o'clock evening train, in forty minutes!", 'وهو سيصل في قطار الثامنة مساءً، بعد أربعين دقيقة!'),
+    ('arthur', "And he arrives here at eight o'clock this evening, in forty minutes!", 'وسيصل إلى هنا في الثامنة من مساء اليوم، في غضون أربعين دقيقة!'),
     ('graham', 'Told you that tablet is a trap.', 'لقد قلت لك إن ذلك الجهاز اللوحي فخ ومصيدة.'),
     ('arthur', 'It is raining outside and every hotel on our street is full! What do we do?', 'السماء تمطر في الخارج وكل فندق في شارعنا ممتلئ! ماذا نفعل؟'),
     ('hannah', 'Wait, what is on the third floor above the stairs?', 'انتظروا، ماذا يوجد في الطابق الثالث فوق الدرج؟'),

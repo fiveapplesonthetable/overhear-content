@@ -15,8 +15,8 @@ OUTRO = 'Чемодан Эвелин вернулся, но незнакомец
 CLOSING = ('graham', 'Have a good night!')
 STORY = [
     ('hannah', 'Did you hear that, Graham? Someone just rang the gate bell!', 'Ты слышал это, Грэм? Кто-то только что позвонил в колокольчик у ворот!'),
-    ('graham', "At nine o'clock? Stay here, let us open the door together.", 'В девять часов? Побудь здесь, давай откроем дверь вместе.'),
-    ('hannah', 'Hello? Good evening! Nobody is standing in the courtyard!', 'Алло? Добрый вечер! Во дворике никого нет!'),
+    ('graham', "At nine o'clock? Wait, let us open the gate together.", 'В девять часов? Подождите, давайте откроем ворота вместе.'),
+    ('hannah', 'Hello? Good evening! Nobody is standing at the gate!', 'Алло? Добрый вечер! У ворот никого нет!'),
     ('graham', 'Wait. Look down on the stone step.', 'Погоди. Посмотри вниз, на каменную ступеньку.'),
     ('hannah', "Another dark blue suitcase! Is this Miss Evelyn's bag?", 'Ещё один тёмно-синий чемодан! Это сумка мисс Эвелин?'),
     ('graham', 'Check the zipper... yes, her initials are right here!', 'Проверь молнию... да, вот же её инициалы!'),

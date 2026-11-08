@@ -14,7 +14,7 @@ TRANSITION = 'Vamos escutar toda a cena mais uma vez no ritmo natural.'
 OUTRO = 'O trenzinho de madeira do avô voltou para as mãos certas, e a surpresa de Owen ao rever a senhorita Evelyn encheu o pátio de alegria. Lá dentro, porém, Arthur continua olhando aquela carta. Até logo.'
 CLOSING = ('evelyn', 'See you later!')
 STORY = [
-    ('caleb', 'Before the movers cleared Linden Street, I saved this box from the attic shelf.', 'Antes que o pessoal da mudança esvaziasse a rua Linden, salvei esta caixa da prateleira do sótão.'),
+    ('caleb', 'Before the movers cleared the house, I saved this box from the attic shelf.', 'Antes que o pessoal da mudança esvaziasse a casa, salvei esta caixa da prateleira do sótão.'),
     ('owen', "Open the white paper... no! Grandfather's carved wooden train engine!", 'Abra o papel branco... não acredito! A locomotiva de madeira entalhada do vovô!'),
     ('caleb', 'Look underneath the wheels. Your name and mine are still penciled there.', 'Olhe embaixo das rodas. O seu nome e o meu ainda estão escritos a lápis ali.'),
     ('owen', 'I thought this was lost when we sold the house! Why keep it for me?', 'Achei que isso tinha se perdido quando vendemos a casa! Por que guardar para mim?'),
@@ -28,7 +28,7 @@ STORY = [
     ('owen', 'Please sit with us, Miss Evelyn! Tell me I am not twenty-five years late for my lesson!', 'Por favor sente-se conosco, senhorita Evelyn! Me diga que não estou vinte e cinco anos atrasado para a minha aula!'),
 ]
 WALK = [
-    (0, None, ["'Antes que o pessoal da mudança esvaziasse a rua Linden, salvei esta caixa da prateleira do sótão.' Nos Estados Unidos, a equipe de mudança é chamada de", (None, 'the movers'), 'quem faz a mudança.']),
+    (0, None, ["'Antes que o pessoal da mudança esvaziasse a casa, salvei esta caixa da prateleira do sótão.' Nos Estados Unidos, a equipe de mudança é chamada de", (None, 'the movers'), 'quem faz a mudança.']),
     (1, None, ["'Abra o papel branco... não acredito! A locomotiva de madeira entalhada do vovô!' Em", (None, 'train engine'), 'a palavra para motor indica a locomotiva que puxa os vagões.']),
     (2, None, ["'Olhe embaixo das rodas. O seu nome e o meu ainda estão escritos a lápis ali.' Veja o par", (None, 'Your name and mine'), "onde 'mine' evita repetir a palavra nome."]),
     (3, None, ["'Achei que isso tinha se perdido quando vendemos a casa! Por que guardar para mim?' Em perguntas rápidas sobre o motivo de uma atitude, basta", (None, 'Why keep it'), 'com o verbo puro.']),

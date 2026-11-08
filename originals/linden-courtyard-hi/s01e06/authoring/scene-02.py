@@ -14,7 +14,7 @@ TRANSITION = 'चलिए पूरा दृश्य एक बार फि�
 OUTRO = 'एक बदले हुए नीले सूटकेस ने पच्चीस साल पुरानी संगीत कक्षा को फिर से एक मेज़ पर जोड़ दिया है! अगले दृश्य में देखते हैं स्वागत डेस्क के पीछे चल रही चिंता।'
 CLOSING = ('evelyn', 'See you later!')
 STORY = [
-    ('caleb', 'Before the movers cleared Linden Street, I saved this box from the attic shelf.', 'सामान ढोने वालों के लिंडन स्ट्रीट खाली करने से पहले मैंने अटारी की शेल्फ़ से यह डिब्बा बचा लिया था।'),
+    ('caleb', 'Before the movers cleared the house, I saved this box from the attic shelf.', 'मूवर्स के लिंडन स्ट्रीट खाली करने से पहले, मैंने इस बक्से को अटारी से बचा लिया था।'),
     ('owen', "Open the white paper... no! Grandfather's carved wooden train engine!", 'सफ़ेद काग़ज़ खोलो... अरे नहीं! दादाजी का तराशा हुआ लकड़ी का रेल-इंजन!'),
     ('caleb', 'Look underneath the wheels. Your name and mine are still penciled there.', 'पहियों के नीचे देखो। तुम्हारा और मेरा नाम आज भी वहाँ पेंसिल से लिखा है।'),
     ('owen', 'I thought this was lost when we sold the house! Why keep it for me?', 'मुझे लगा था जब हमने घर बेचा तब यह खो गया! इसे मेरे वास्ते क्यों सँभालकर रखा?'),

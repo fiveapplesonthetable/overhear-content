@@ -25,7 +25,7 @@ STORY = [
     ('graham', 'Smart thinking, Hannah. Caleb reads city building rules every single week.', '기막힌 생각이군, 해나. 케일럽은 매주 시 건축 법규를 읽는 사람이니까요.'),
     ('arthur', 'Oh, I could never bother a paying guest with our landlord troubles!', '오, 숙박비를 내는 손님에게 우리 건물주 문제로 폐를 끼칠 수는 절대 없어요!'),
     ('hannah', 'After we guarded his blue suitcase all week? He will want to help!', '우리가 일주일 내내 그분 파란 가방을 지켜 드렸는걸요? 분명 돕고 싶어 하실 거예요!'),
-    ('graham', 'Wait, here comes Tessa back from their table right now.', '잠깐, 지금 막 테사가 두 사람 탁자에서 이리로 돌아오고 있군요.'),
+    ('graham', 'Wait, Tessa is taking the cake out to their table right now.', '잠깐, 지금 막 테사가 두 사람 탁자로 케이크를 가져가고 있군요.'),
 ]
 WALK = [
     (0, None, ["'십오 년 동안 황동 열쇠를 닦고 넥타이를 고쳐 매던 세월이... 삼십 일 만에 사라지게 생겼어요!' 얼마의 기간이 지나면 흔적도 없이 끝나 버린다는 뜻은 기간의 전치사를 쓴", (None, 'gone in thirty days'), '구절로 허망한 심정을 토로해요.']),
@@ -39,5 +39,5 @@ WALK = [
     (8, None, ["'기막힌 생각이군, 해나. 케일럽은 매주 시 건축 법규를 읽는 사람이니까요.' 상대가 떠올린 명쾌한 아이디어에 감탄하며 칭찬할 때는 명사구", (None, 'Smart thinking'), '두 단어만으로도 훌륭한 호응이 돼요.']),
     (9, None, ["'오, 숙박비를 내는 손님에게 우리 건물주 문제로 폐를 끼칠 수는 절대 없어요!' 예의상 차마 남을 번거롭게 성가시게 할 수 없다고 손사래 칠 때는", (None, 'I could never bother'), '조동사와 부정부사를 결합해 조심스러운 성품을 드러내요.']),
     (10, None, ["'우리가 일주일 내내 그분 파란 가방을 지켜 드렸는걸요? 분명 돕고 싶어 하실 거예요!' 상대가 기꺼이 발 벗고 나서려 할 것이라는 밝은 확신은 미래 조동사를 쓴", (None, 'He will want to help'), '문장으로 망설이는 마음을 움직여요.']),
-    (11, None, ["'잠깐, 지금 막 테사가 두 사람 탁자에서 이리로 돌아오고 있군요.' 누군가 이쪽으로 걸어 다가오는 모습을 발견해 알릴 때는 부사로 문을 여는", (None, 'here comes Tessa'), '현재시제 도치 구문으로 시선을 모아요.']),
+    (11, None, ["'잠깐, 지금 막 테사가 두 사람 탁자로 케이크를 가져가고 있군요.' 누군가 이쪽으로 걸어 다가오는 모습을 발견해 알릴 때는 부사로 문을 여는", (None, 'Tessa is taking the cake'), '현재시제 도치 구문으로 시선을 모아요.']),
 ]

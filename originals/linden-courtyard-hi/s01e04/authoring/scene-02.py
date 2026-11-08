@@ -20,7 +20,7 @@ STORY = [
     ('graham', 'Take the second street, beside the flower stand, not the narrow alley.', 'फूलों की दुकान के बगल वाली दूसरी गली पकड़ो, संकरी गली मत लेना।'),
     ('hannah', 'Walking now... oh, I see the golden key sign and the blue door!', 'अभी चल रही हूँ... ओह, मुझे सुनहरी चाबी का निशान और नीला दरवाज़ा दिख गया!'),
     ('graham', 'Good! Is the shutter open?', 'बहुत बढ़िया! क्या दुकान का शटर खुला है?'),
-    ('hannah', 'He is unlocking it right now! Stay on the phone one second.', 'वे अभी उसे खोल ही रहे हैं! एक सेकंड फ़ोन पर बने रहना।'),
+    ('hannah', 'The clerk is unlocking it right now! Stay on the phone one second.', 'क्लर्क अभी उसे खोल रहा है! एक सेकंड फ़ोन पर बने रहना।'),
     ('graham', 'Make sure the brass ring inside is twenty millimeters wide.', 'पक्का देख लेना कि अंदर का पीतल वाला छल्ला बीस मिलीमीटर चौड़ा हो।'),
     ('hannah', 'He matched it against the old one. He has two left on the shelf!', 'उन्होंने पुराने वाले से मिलाकर देख लिया। शेल्फ़ पर उनके पास दो बचे हैं!'),
     ('graham', 'Buy both! A spare valve saves next winter too.', 'दोनों खरीद लो! एक अतिरिक्त वाल्व अगली सर्दी भी बचा लेगा।'),

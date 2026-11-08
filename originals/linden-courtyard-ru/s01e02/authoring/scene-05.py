@@ -24,7 +24,7 @@ STORY = [
     ('evelyn', 'Do not worry! Cold sparkling water takes orange juice right out.', 'Не переживайте! Холодная газированная вода моментально выводит апельсиновый сок.'),
     ('hannah', 'Here is a clean cloth and cold water, Arthur.', 'Вот чистая салфетка и холодная вода, Артур.'),
     ('arthur', "Excuse me, ma'am, I shall retreat to my office with dignity!", 'Прошу прощения, мэм, я удалюсь в свой кабинет с достоинством!'),
-    ('evelyn', 'Your scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'Ваша яичница-болтунья восхитительна, Ханна. Передайте Тессе мои комплименты!'),
+    ('evelyn', 'The scrambled eggs are delicious, Hannah. Tell Tessa my compliments!', 'Омлет сегодня просто восхитительный, Ханна. Передайте Хлое мою благодарность!'),
     ('hannah', 'I will! Enjoy your morning.', 'Обязательно передам! Приятного вам утра.'),
 ]
 WALK = [

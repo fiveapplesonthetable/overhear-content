@@ -23,7 +23,7 @@ STORY = [
     ('arthur', 'Do not snoop, of course... wait, it fell open to the middle page!', 'Подглядывать нехорошо, конечно... погодите, он сам раскрылся на середине!'),
     ('hannah', 'Why are there neat pencil drawings of three guesthouses on our street?', 'Откуда здесь аккуратные рисунки карандашом трёх гостевых домов с нашей улицы?'),
     ('tessa', "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'", 'Взгляните на надпись рядом с нашим: «Ширина дворика, уличный шум, оценка тишины: девять из десяти!»'),
-    ('arthur', 'Nine out of ten?! Nobody measures lobbies unless...', 'Девять из десяти?! Никто не замеряет холлы, если только...'),
+    ('arthur', 'Nine out of ten?! Nobody measures courtyards unless...', 'Девять из десяти?! Никто не замеряет дворики, если только...'),
     ('tessa', 'Unless he writes for the annual Portland Travel Guide!', 'Если только он не пишет для ежегодного «Путеводителя по Портленду»!'),
     ('hannah', 'Quick, close it! Let us take it upstairs... wait, what is that loud clanking sound?', 'Скорее закройте его! Отнесём его наверх... стойте, что это за громкий металлический лязг?'),
 ]

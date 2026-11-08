@@ -26,7 +26,7 @@ STORY = [('tessa', 'Oh no! Arthur, Hannah, we have a kitchen emergency!', 'Oh no
  ('arthur',
   'Eight hungry guests will come down the stairs at seven thirty!',
   "Huit clients affamés vont descendre l'escalier à sept heures trente!"),
- ('tessa', 'My bread dough is ready in the oven, at least.', 'Ma pâte à pain est prête dans le four, au moins.'),
+ ('tessa', 'My bread is already in the oven, at least.', 'Mon pain est déjà dans le four, au moins.'),
  ('hannah',
   'Give me a bag and some cash! The corner market opens at seven.',
   "Donnez-moi un sac et un peu d'espèces! L'épicerie du coin ouvre à sept heures."),

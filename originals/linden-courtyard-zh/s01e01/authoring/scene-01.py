@@ -21,9 +21,9 @@ STORY = [
     ('hannah', 'I always walk fast on my first day. Where is the computer?', '我第一天上班走路总是很快。请问电脑在哪里？'),
     ('graham', 'In the drawer. Here we use this big paper book and a pencil.', '在抽屉里。在这里我们用这本大纸质登记簿和一支铅笔。'),
     ('hannah', 'A paper book? Really?', '纸质登记簿？真的吗？'),
-    ('graham', 'Paper never loses the room list when it rains.', '下雨的时候，纸质账本可绝不会弄丢客房名单。'),
+    ('graham', 'Paper still works when the power goes out.', '停电的时候，纸还能用。'),
     ('hannah', 'Fair enough! And these are the keys?', '说得有理！那这些就是客房钥匙吗？'),
-    ('graham', 'Yes, eight rooms, eight brass keys. Room four is arriving today.', '对，八间客房，八把黄铜钥匙。四号房的客人今天抵达。'),
+    ('graham', "Yes, eight rooms, eight brass keys. Room four's guest arrives today.", '对，八间客房，八把黄铜钥匙。四号房的客人今天抵达。'),
     ('hannah', 'Great. Tell me everything I need to know.', '太好了。把所有我需要知道的事都告诉我吧。'),
     ('graham', 'Rule one: drink hot tea first, then answer the bell.', '第一条规矩：先喝热茶，再去接门铃。'),
 ]
@@ -35,9 +35,9 @@ WALK = [
     (4, None, ["'我第一天上班走路总是很快。请问电脑在哪里？' 谈到具体的某一天，比如入职第一天，英语固定选用介词", (None, 'on my first day'), '就像把这件大事稳稳落在日历的那一格上。']),
     (5, None, ["'在抽屉里。在这里我们用这本大纸质登记簿和一支铅笔。' 留意名词前的排列顺序：", (None, 'big paper book'), '先说大小，再把表示材质的纸直接放在书的前面，中间不用加任何连接词。']),
     (6, None, ["'纸质登记簿？真的吗？' 日常聊天里听到意想不到的新鲜事，只要把语调轻轻往上一扬，单说一个词", (None, 'Really'), '就能地道传达出“真的吗、不会吧”的惊讶语气。']),
-    (7, None, ["'下雨的时候，纸质账本可绝不会弄丢客房名单。' 汉语说“下雨时”不需要主语，英语谈论天气却必须补上形式主语，说成", (None, 'when it rains'), '用这个中性代词来充当句子的语法支柱。']),
+    (7, None, ["'停电的时候，纸还能用。' 英语常用动词短语 go out 来表示供电中断，说成", (None, 'the power goes out'), "形象地描绘出电力忽然消失的过程。"]),
     (8, None, ["'说得有理！那这些就是客房钥匙吗？' 当对方的解释合情合理、让你心服口服时，口语里回一句", (None, 'Fair enough'), '既随和又自然，相当于汉语的“有道理、说得也是”。']),
-    (9, None, ["'对，八间客房，八把黄铜钥匙。四号房的客人今天抵达。' 这里用现在进行时结构", (None, 'is arriving today'), '来表示今天早已排定好的入住行程，在旅馆前台尤为地道常见。']),
+    (9, None, ["'对，八间客房，八把黄铜钥匙。四号房的客人今天抵达。' 英语常直接用一般现在时", (None, 'arrives today'), "来表示早已排定好的入住行程，在旅馆前台尤为地道常见。"]),
     (10, None, ["'太好了。把所有我需要知道的事都告诉我吧。' 英语在不定代词", (None, 'everything'), '后面直接紧跟修饰分句', (None, 'I need to know'), '中间省去了引导词，读起来一气呵成。']),
     (11, None, ["'第一条规矩：先喝热茶，再去接门铃。' 英语里的回应一词用途很广，不仅能接电话，前台听见铃响去接待客人也叫", (None, 'answer the bell'), '一句小幽默道出了客栈从容不迫的脾气。']),
 ]

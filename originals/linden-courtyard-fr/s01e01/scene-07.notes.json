@@ -3408,127 +3408,52 @@
     }
   ],
   "lexicon": {
-    "a": {
-      "lemma": "a",
-      "stress": "ə",
-      "pos": "det",
-      "gloss": "un, une",
+    "here": {
+      "lemma": "here",
+      "stress": "hɪɹ",
+      "pos": "adv",
+      "gloss": "ici; voici (Here is / Here are)",
       "meanings": [
         {
-          "en": "un, une",
-          "note": "Article indéfini placé devant un son consonantique (a pen, mais aussi a university)."
+          "en": "ici; voici (Here is / Here are)",
+          "note": "Here is (singulier) et Here are (pluriel) correspondent à \"Voici...\", et Here you are à \"Voilà pour vous!\"."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "I have a blue pen.",
-          "trans": "J'ai un stylo bleu."
+          "text": "Here is your brass key for room four.",
+          "trans": "Voici votre clé en laiton pour la chambre quatre."
         },
         {
-          "text": "She wants a cup of tea.",
-          "trans": "Elle veut une tasse de thé."
+          "text": "Sign your name right here, please.",
+          "trans": "Signez juste ici, s'il vous plaît."
         }
       ],
       "related": []
     },
-    "after": {
-      "lemma": "after",
-      "stress": "ˈæftɚ",
-      "pos": "prep",
-      "gloss": "après",
-      "meanings": [
-        {
-          "en": "après",
-          "note": "Exprime la postériorité dans le temps ou dans l'espace."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let us walk after lunch.",
-          "trans": "Marchons un peu après le déjeuner."
-        },
-        {
-          "text": "Wednesday comes after Tuesday.",
-          "trans": "Mercredi vient après mardi."
-        }
-      ],
-      "related": []
-    },
-    "all": {
-      "lemma": "all",
-      "stress": "ɔl",
-      "pos": "det",
-      "gloss": "tout, tous, toutes",
-      "meanings": [
-        {
-          "en": "tout, tous, toutes",
-          "note": "Invariable en genre et en nombre devant le nom ou l'article."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "All the windows are open.",
-          "trans": "Toutes les fenêtres sont ouvertes."
-        },
-        {
-          "text": "She worked all morning.",
-          "trans": "Elle a travaillé toute la matinée."
-        }
-      ],
-      "related": []
-    },
-    "and": {
-      "lemma": "and",
-      "stress": "ænd",
-      "pos": "conj",
-      "gloss": "et",
-      "meanings": [
-        {
-          "en": "et",
-          "note": "Relie deux mots ou propositions; souvent réduit à l'oral dans des paires figées."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bring bread and butter, please.",
-          "trans": "Apportez du pain et du beurre, s'il vous plaît."
-        },
-        {
-          "text": "Wash your hands and sit down.",
-          "trans": "Lavez-vous les mains et asseyez-vous."
-        }
-      ],
-      "related": []
-    },
-    "anything": {
-      "lemma": "anything",
-      "stress": "ˈɛniˌθɪŋ",
+    "you": {
+      "lemma": "you",
+      "stress": "ju",
       "pos": "pron",
-      "gloss": "quelque chose, quoi que ce soit; rien",
+      "gloss": "tu, vous (singulier poli ou pluriel); te, toi",
       "meanings": [
         {
-          "en": "quelque chose, quoi que ce soit; rien",
-          "note": "Dans les offres et conditions (if you need anything), signifie \"quoi que ce soit\"."
+          "en": "tu, vous (singulier poli ou pluriel); te, toi",
+          "note": "Un SEUL pronom couvre le tutoiement (\"tu\"), le vouvoiement (\"vous\") et le pluriel, et il prend TOUJOURS la forme plurielle du verbe (you are)!"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Call me if you need anything.",
-          "trans": "Appelez-moi si vous avez besoin de quoi que ce soit."
+          "text": "You are ten minutes early today!",
+          "trans": "Vous êtes dix minutes en avance aujourd'hui!"
         },
         {
-          "text": "Did you buy anything at the market?",
-          "trans": "As-tu acheté quelque chose au marché?"
+          "text": "Thank you! See you next time!",
+          "trans": "Merci! À la prochaine fois!"
         }
       ],
       "related": []
@@ -3596,529 +3521,27 @@
       ],
       "related": []
     },
-    "blue": {
-      "lemma": "blue",
-      "stress": "blu",
-      "pos": "adj",
-      "gloss": "bleu",
-      "meanings": [
-        {
-          "en": "bleu",
-          "note": "Comme tous les adjectifs anglais, reste invariable au pluriel (two blue suitcases)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at that clear blue sky.",
-          "trans": "Regarde ce beau ciel bleu dégagé."
-        },
-        {
-          "text": "My suitcase has a blue handle.",
-          "trans": "Ma valise a une poignée bleue."
-        }
-      ],
-      "related": []
-    },
-    "cannot": {
-      "lemma": "cannot",
-      "stress": "ˈkænɑt",
-      "pos": "verb",
-      "gloss": "ne pas pouvoir",
-      "meanings": [
-        {
-          "en": "ne pas pouvoir",
-          "note": "À l'écrit soigné, la forme négative pleine de can s'écrit toujours en un seul mot: cannot."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "cannot"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "cannot"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "could not"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I cannot read tiny print without glasses.",
-          "trans": "Je ne peux pas lire les petits caractères sans lunettes."
-        },
-        {
-          "text": "You cannot park in front of the gate.",
-          "trans": "Vous ne pouvez pas vous garer devant le portail."
-        }
-      ],
-      "related": []
-    },
-    "cardigan": {
-      "lemma": "cardigan",
-      "stress": "ˈkɑɹdɪɡən",
+    "ma'am": {
+      "lemma": "ma'am",
+      "stress": "mæm",
       "pos": "noun",
-      "gloss": "cardigan, gilet en maille",
+      "gloss": "madame",
       "meanings": [
         {
-          "en": "cardigan, gilet en maille",
-          "note": "Gilet boutonné sur le devant, exactement comme en français."
+          "en": "madame",
+          "note": "Formule de politesse très courante et chaleureuse aux États-Unis quand on s'adresse à une cliente sans dire son nom."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Take a warm cardigan for the evening.",
-          "trans": "Prends un gilet chaud pour la soirée."
+          "text": "Right this way, ma'am.",
+          "trans": "Par ici, madame."
         },
         {
-          "text": "She buttoned her cream wool cardigan.",
-          "trans": "Elle a boutonné son cardigan en laine crème."
-        }
-      ],
-      "related": []
-    },
-    "clean": {
-      "lemma": "clean",
-      "stress": "klin",
-      "pos": "adj",
-      "gloss": "propre; nettoyer (verbe)",
-      "meanings": [
-        {
-          "en": "propre; nettoyer (verbe)",
-          "note": "Sert à la fois d'adjectif (\"propre\", voyelle longue /klin/) et de verbe régulier (\"nettoyer\")."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh clean sheets are on the bed.",
-          "trans": "Des draps propres et frais sont sur le lit."
-        },
-        {
-          "text": "Keep a clean cloth behind the counter.",
-          "trans": "Garde un chiffon propre derrière le comptoir."
-        }
-      ],
-      "related": []
-    },
-    "closet": {
-      "lemma": "closet",
-      "stress": "ˈklɑzɪt",
-      "pos": "noun",
-      "gloss": "placard, penderie",
-      "meanings": [
-        {
-          "en": "placard, penderie",
-          "note": "En anglais américain, désigne un grand placard mural ou une penderie (et non les toilettes!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Extra blankets are in the hall closet.",
-          "trans": "Les couvertures supplémentaires sont dans le placard du couloir."
-        },
-        {
-          "text": "Lock the suitcase inside the luggage closet.",
-          "trans": "Enferme la valise à clé dans la consigne à bagages."
-        }
-      ],
-      "related": []
-    },
-    "cold": {
-      "lemma": "cold",
-      "stress": "koʊld",
-      "pos": "adj",
-      "gloss": "froid; avoir froid (be cold)",
-      "meanings": [
-        {
-          "en": "froid; avoir froid (be cold)",
-          "note": "Avec une personne, I am cold veut dire \"j'ai froid\" (avec be, jamais have)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pour a glass of cold water, please.",
-          "trans": "Versez un verre d'eau froide, s'il vous plaît."
-        },
-        {
-          "text": "My hands feel cold this morning.",
-          "trans": "J'ai les mains froides ce matin."
-        }
-      ],
-      "related": []
-    },
-    "down": {
-      "lemma": "down",
-      "stress": "daʊn",
-      "pos": "adv",
-      "gloss": "en bas, vers le bas",
-      "meanings": [
-        {
-          "en": "en bas, vers le bas",
-          "note": "Accompagne de nombreux verbes courants: sit down (\"s'asseoir\"), write down (\"noter\"), look down (\"baisser les yeux\")."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Please sit down and rest a moment.",
-          "trans": "Asseyez-vous donc et reposez-vous un instant."
-        },
-        {
-          "text": "Write down the phone number before you forget.",
-          "trans": "Notez le numéro de téléphone avant de l'oublier."
-        }
-      ],
-      "related": []
-    },
-    "evening": {
-      "lemma": "evening",
-      "stress": "ˈivnɪŋ",
-      "pos": "noun",
-      "gloss": "soir, soirée",
-      "meanings": [
-        {
-          "en": "soir, soirée",
-          "note": "Good evening sert à dire \"Bonsoir\" quand on arrive; Good night ne s'emploie qu'en prenant congé!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good evening! Do you have a reservation?",
-          "trans": "Bonsoir! Avez-vous une réservation?"
-        },
-        {
-          "text": "We serve herbal tea every evening at eight.",
-          "trans": "Nous servons une tisane chaque soir à huit heures."
-        }
-      ],
-      "related": []
-    },
-    "first": {
-      "lemma": "first",
-      "stress": "fɝst",
-      "pos": "adj",
-      "gloss": "premier; d'abord (adverbe)",
-      "meanings": [
-        {
-          "en": "premier; d'abord (adverbe)",
-          "note": "Sert d'adjectif ordinal (first day, first name \"prénom\") et d'adverbe (lift the handle first, \"d'abord\")."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle first, then push.",
-          "trans": "Soulevez d'abord la poignée, puis poussez."
-        },
-        {
-          "text": "Today is her first morning at the inn.",
-          "trans": "C'est sa première matinée à l'auberge aujourd'hui."
-        }
-      ],
-      "related": []
-    },
-    "fit": {
-      "lemma": "fit",
-      "stress": "fɪt",
-      "pos": "verb",
-      "gloss": "aller bien (taille), tenir dans; s'intégrer (fit in)",
-      "meanings": [
-        {
-          "en": "aller bien (taille), tenir dans; s'intégrer (fit in)",
-          "note": "It fits you well signifie \"Cela vous va bien\" (pour la taille), et fit right in veut dire \"trouver tout de suite sa place\"."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "fit"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "fits"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "fit"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "fit"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "fitting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Does this brass key fit room four?",
-          "trans": "Cette clé en laiton va-t-elle dans la serrure de la chambre quatre?"
-        },
-        {
-          "text": "All four cups fit neatly on the tray.",
-          "trans": "Les quatre tasses tiennent parfaitement sur le plateau."
-        }
-      ],
-      "related": []
-    },
-    "for": {
-      "lemma": "for",
-      "stress": "fɔɹ",
-      "pos": "prep",
-      "gloss": "pour; pendant (durée)",
-      "meanings": [
-        {
-          "en": "pour; pendant (durée)",
-          "note": "Indique le destinataire (for Evelyn), le repas (for breakfast) ou une durée complète."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This package arrived for room two.",
-          "trans": "Ce colis est arrivé pour la chambre deux."
-        },
-        {
-          "text": "Wait here for just a moment.",
-          "trans": "Attendez ici un tout petit instant."
-        }
-      ],
-      "related": []
-    },
-    "from": {
-      "lemma": "from",
-      "stress": "fɹʌm",
-      "pos": "prep",
-      "gloss": "de, depuis (provenance, point de départ)",
-      "meanings": [
-        {
-          "en": "de, depuis (provenance, point de départ)",
-          "note": "Indique l'origine spatiale (from the kitchen) ou le début d'un horaire (from seven thirty to ten)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Warm rolls came straight from the oven.",
-          "trans": "Les petits pains chauds sortaient tout droit du four."
-        },
-        {
-          "text": "How far is the station from here?",
-          "trans": "À quelle distance est la gare d'ici?"
-        }
-      ],
-      "related": []
-    },
-    "good": {
-      "lemma": "good",
-      "stress": "ɡʊd",
-      "pos": "adj",
-      "gloss": "bon, bien",
-      "meanings": [
-        {
-          "en": "bon, bien",
-          "note": "Ouvre la plupart des salutations de la journée: Good morning, Good afternoon, Good evening, Good night."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "good"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "better"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "best"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Did you sleep well?",
-          "trans": "Bonjour! Avez-vous bien dormi?"
-        },
-        {
-          "text": "Fresh bread smells even better with butter.",
-          "trans": "Le pain frais sent encore meilleur avec du beurre."
-        }
-      ],
-      "related": []
-    },
-    "hand": {
-      "lemma": "hand",
-      "stress": "hænd",
-      "pos": "noun",
-      "gloss": "main; remettre (hand over)",
-      "meanings": [
-        {
-          "en": "main; remettre (hand over)",
-          "note": "Comme verbe à particule, hand over signifie \"remettre en main propre\" (hand over the bag)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Warm your hands around the teacup.",
-          "trans": "Réchauffez vos mains autour de la tasse à thé."
-        },
-        {
-          "text": "Give me a hand with these trays.",
-          "trans": "Donne-moi un coup de main avec ces plateaux."
-        }
-      ],
-      "related": []
-    },
-    "her": {
-      "lemma": "her",
-      "stress": "hɝ",
-      "pos": "det",
-      "gloss": "son, sa, ses (à elle); la, lui, elle",
-      "meanings": [
-        {
-          "en": "son, sa, ses (à elle); la, lui, elle",
-          "note": "En anglais, le possessif s'accorde avec le POSSESSEUR et non l'objet: her initials = \"ses initiales (à elle)\"!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tessa brought her basket of warm bread.",
-          "trans": "Tessa a apporté sa corbeille de pain chaud."
-        },
-        {
-          "text": "Please give her a cup of mint tea.",
-          "trans": "Donnez-lui une tasse de thé à la menthe, s'il vous plaît."
-        }
-      ],
-      "related": []
-    },
-    "here": {
-      "lemma": "here",
-      "stress": "hɪɹ",
-      "pos": "adv",
-      "gloss": "ici; voici (Here is / Here are)",
-      "meanings": [
-        {
-          "en": "ici; voici (Here is / Here are)",
-          "note": "Here is (singulier) et Here are (pluriel) correspondent à \"Voici...\", et Here you are à \"Voilà pour vous!\"."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is your brass key for room four.",
-          "trans": "Voici votre clé en laiton pour la chambre quatre."
-        },
-        {
-          "text": "Sign your name right here, please.",
-          "trans": "Signez juste ici, s'il vous plaît."
-        }
-      ],
-      "related": []
-    },
-    "honey": {
-      "lemma": "honey",
-      "stress": "ˈhʌni",
-      "pos": "noun",
-      "gloss": "miel; chéri(e)",
-      "meanings": [
-        {
-          "en": "miel; chéri(e)",
-          "note": "Nom indénombrable pour l'aliment (some honey); sert aussi de petit nom affectueux en famille."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Stir a little honey into your hot tea.",
-          "trans": "Mélangez un peu de miel dans votre thé chaud."
-        },
-        {
-          "text": "Local wildflower honey sits on every table.",
-          "trans": "Du miel local de fleurs sauvages est posé sur chaque table."
+          "text": "May I take your coat, ma'am?",
+          "trans": "Puis-je prendre votre manteau, madame?"
         }
       ],
       "related": []
@@ -4148,165 +3571,140 @@
       ],
       "related": []
     },
-    "i": {
-      "lemma": "i",
-      "stress": "aɪ",
-      "pos": "pron",
-      "gloss": "je, moi",
+    "mint": {
+      "lemma": "mint",
+      "stress": "mɪnt",
+      "pos": "noun",
+      "gloss": "menthe",
       "meanings": [
         {
-          "en": "je, moi",
-          "note": "Le pronom sujet de première personne s'écrit TOUJOURS avec un I majuscule en anglais, même au milieu d'une phrase!"
+          "en": "menthe",
+          "note": "Devant tea, forme le composé mint tea (\"thé à la menthe\") sans préposition."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "I am Hannah, the new receptionist.",
-          "trans": "Je suis Hannah, la nouvelle réceptionniste."
+          "text": "Fresh mint tea calms the nerves.",
+          "trans": "Le thé à la menthe fraîche apaise les nerfs."
         },
         {
-          "text": "May I help you with your luggage?",
-          "trans": "Puis-je vous aider avec vos bagages?"
+          "text": "Pick three mint leaves from the garden pot.",
+          "trans": "Cueille trois feuilles de menthe dans le pot du jardin."
         }
       ],
       "related": []
     },
-    "if": {
-      "lemma": "if",
-      "stress": "ɪf",
+    "tea": {
+      "lemma": "tea",
+      "stress": "ti",
+      "pos": "noun",
+      "gloss": "thé",
+      "meanings": [
+        {
+          "en": "thé",
+          "note": "Indénombrable: hot tea (\"du thé chaud\", sans article partitif), mint tea, black tea."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Rule one: drink hot tea first.",
+          "trans": "Règle numéro un: boire d'abord du thé chaud."
+        },
+        {
+          "text": "Would you like lemon or honey in your tea?",
+          "trans": "Voulez-vous du citron ou du miel dans votre thé?"
+        }
+      ],
+      "related": []
+    },
+    "and": {
+      "lemma": "and",
+      "stress": "ænd",
       "pos": "conj",
-      "gloss": "si (condition ou question indirecte)",
+      "gloss": "et",
       "meanings": [
         {
-          "en": "si (condition ou question indirecte)",
-          "note": "Après if conditionnel tourné vers l'avenir, l'anglais emploie le présent simple (comme en français: if you need anything)."
+          "en": "et",
+          "note": "Relie deux mots ou propositions; souvent réduit à l'oral dans des paires figées."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Ring the bell if you need anything.",
-          "trans": "Sonnez la clochette si vous avez besoin de quoi que ce soit."
+          "text": "Bring bread and butter, please.",
+          "trans": "Apportez du pain et du beurre, s'il vous plaît."
         },
         {
-          "text": "Let me check if room two is ready.",
-          "trans": "Laissez-moi vérifier si la chambre deux est prête."
+          "text": "Wash your hands and sit down.",
+          "trans": "Lavez-vous les mains et asseyez-vous."
         }
       ],
       "related": []
     },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "dans, en",
+    "honey": {
+      "lemma": "honey",
+      "stress": "ˈhʌni",
+      "pos": "noun",
+      "gloss": "miel; chéri(e)",
       "meanings": [
         {
-          "en": "dans, en",
-          "note": "Indique l'intérieur d'un espace (in the drawer, in the fridge) ou le délai avant un événement: in forty minutes (\"dans quarante minutes\")!"
+          "en": "miel; chéri(e)",
+          "note": "Nom indénombrable pour l'aliment (some honey); sert aussi de petit nom affectueux en famille."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Wait in the warm dining room.",
-          "trans": "Patientez dans la salle à manger bien chaude."
+          "text": "Stir a little honey into your hot tea.",
+          "trans": "Mélangez un peu de miel dans votre thé chaud."
         },
         {
-          "text": "Coffee will be ready in three minutes.",
-          "trans": "Le café sera prêt dans trois minutes."
+          "text": "Local wildflower honey sits on every table.",
+          "trans": "Du miel local de fleurs sauvages est posé sur chaque table."
         }
       ],
       "related": []
     },
-    "inside": {
-      "lemma": "inside",
-      "stress": "ɪnˈsaɪd",
-      "pos": "prep",
-      "gloss": "à l'intérieur (de), dedans",
+    "oh": {
+      "lemma": "oh",
+      "stress": "oʊ",
+      "pos": "interj",
+      "gloss": "oh, ah",
       "meanings": [
         {
-          "en": "à l'intérieur (de), dedans",
-          "note": "Sert aussi bien d'adverbe (look inside!, \"regarde dedans!\") que de préposition (inside this suitcase)."
+          "en": "oh, ah",
+          "note": "Marque une petite prise de conscience soudaine (Oh, it opens!) ou la surprise (Oh no!, Oh dear!)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Come inside out of the rain!",
-          "trans": "Entrez vous mettre à l'abri de la pluie!"
+          "text": "Oh, it opens! Thank you so much.",
+          "trans": "Ah, elle s'ouvre! Merci beaucoup."
         },
         {
-          "text": "A handwritten card was inside the box.",
-          "trans": "Une carte écrite à la main se trouvait à l'intérieur de la boîte."
+          "text": "Oh, I nearly forgot my scarf!",
+          "trans": "Oh, j'ai failli oublier mon écharpe!"
         }
       ],
       "related": []
     },
-    "it": {
-      "lemma": "it",
-      "stress": "ɪt",
-      "pos": "pron",
-      "gloss": "il, elle (chose); ce, ça; il impersonnel",
-      "meanings": [
-        {
-          "en": "il, elle (chose); ce, ça; il impersonnel",
-          "note": "Obligatoire pour reprendre un objet neutre (it opens, \"elle s'ouvre\" pour une porte) et pour la météo (when it rains)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle, and it opens easily.",
-          "trans": "Soulevez la poignée, et elle s'ouvre facilement."
-        },
-        {
-          "text": "It is sunny and warm this afternoon.",
-          "trans": "Il fait beau et doux cet après-midi."
-        }
-      ],
-      "related": []
-    },
-    "little": {
-      "lemma": "little",
-      "stress": "ˈlɪtəl",
-      "pos": "adj",
-      "gloss": "petit; un peu de (a little + indénombrable)",
-      "meanings": [
-        {
-          "en": "petit; un peu de (a little + indénombrable)",
-          "note": "A little sugar signifie \"un peu de sucre\", tandis que devant un nom comptable a little train veut dire \"un petit train\"."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "There is a little bakery down the street.",
-          "trans": "Il y a une petite boulangerie un peu plus bas dans la rue."
-        },
-        {
-          "text": "Add just a little honey to the cup.",
-          "trans": "Ajoute juste un peu de miel dans la tasse."
-        }
-      ],
-      "related": []
-    },
-    "lock": {
-      "lemma": "lock",
-      "stress": "lɑk",
+    "thank": {
+      "lemma": "thank",
+      "stress": "θæŋk",
       "pos": "verb",
-      "gloss": "fermer à clé (verbe); serrure (nom)",
+      "gloss": "remercier; merci (Thank you)",
       "meanings": [
         {
-          "en": "fermer à clé (verbe); serrure (nom)",
-          "note": "Is the door locked? signifie \"La porte est-elle fermée à clé?\" (pour simplement \"fermée\", on dit closed)."
+          "en": "remercier; merci (Thank you)",
+          "note": "Toujours suivi d'un complément (Thank you!, Thank you both, thank goodness), jamais *Thank!* tout seul (sinon au pluriel: Thanks!)!"
         }
       ],
       "forms": {
@@ -4319,31 +3717,31 @@
           {
             "cells": [
               "base",
-              "lock"
+              "thank"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "locks"
+              "thanks"
             ]
           },
           {
             "cells": [
               "past",
-              "locked"
+              "thanked"
             ]
           },
           {
             "cells": [
               "past participle",
-              "locked"
+              "thanked"
             ]
           },
           {
             "cells": [
               "-ing",
-              "locking"
+              "thanking"
             ]
           }
         ]
@@ -4351,12 +3749,162 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Excuse me, is the front door locked?",
-          "trans": "Excusez-moi, la porte d'entrée est-elle fermée à clé?"
+          "text": "Oh, it opens! Thank you!",
+          "trans": "Ah, elle s'ouvre! Merci!"
         },
         {
-          "text": "Always lock the office drawer at night.",
-          "trans": "Ferme toujours le tiroir du bureau à clé le soir."
+          "text": "Thank you for keeping my luggage safe.",
+          "trans": "Merci d'avoir gardé mes bagages en sécurité."
+        }
+      ],
+      "related": []
+    },
+    "my": {
+      "lemma": "my",
+      "stress": "maɪ",
+      "pos": "det",
+      "gloss": "mon, ma, mes",
+      "meanings": [
+        {
+          "en": "mon, ma, mes",
+          "note": "Un seul déterminant invariable quel que soit le genre ou le nombre du nom qui suit (my key, my glasses)!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Today is my first morning at the desk.",
+          "trans": "C'est ma première matinée à la réception aujourd'hui."
+        },
+        {
+          "text": "Where did I put my reading glasses?",
+          "trans": "Où ai-je posé mes lunettes de lecture?"
+        }
+      ],
+      "related": []
+    },
+    "hand": {
+      "lemma": "hand",
+      "stress": "hænd",
+      "pos": "noun",
+      "gloss": "main; remettre (hand over)",
+      "meanings": [
+        {
+          "en": "main; remettre (hand over)",
+          "note": "Comme verbe à particule, hand over signifie \"remettre en main propre\" (hand over the bag)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm your hands around the teacup.",
+          "trans": "Réchauffez vos mains autour de la tasse à thé."
+        },
+        {
+          "text": "Give me a hand with these trays.",
+          "trans": "Donne-moi un coup de main avec ces plateaux."
+        }
+      ],
+      "related": []
+    },
+    "cold": {
+      "lemma": "cold",
+      "stress": "koʊld",
+      "pos": "adj",
+      "gloss": "froid; avoir froid (be cold)",
+      "meanings": [
+        {
+          "en": "froid; avoir froid (be cold)",
+          "note": "Avec une personne, I am cold veut dire \"j'ai froid\" (avec be, jamais have)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pour a glass of cold water, please.",
+          "trans": "Versez un verre d'eau froide, s'il vous plaît."
+        },
+        {
+          "text": "My hands feel cold this morning.",
+          "trans": "J'ai les mains froides ce matin."
+        }
+      ],
+      "related": []
+    },
+    "from": {
+      "lemma": "from",
+      "stress": "fɹʌm",
+      "pos": "prep",
+      "gloss": "de, depuis (provenance, point de départ)",
+      "meanings": [
+        {
+          "en": "de, depuis (provenance, point de départ)",
+          "note": "Indique l'origine spatiale (from the kitchen) ou le début d'un horaire (from seven thirty to ten)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm rolls came straight from the oven.",
+          "trans": "Les petits pains chauds sortaient tout droit du four."
+        },
+        {
+          "text": "How far is the station from here?",
+          "trans": "À quelle distance est la gare d'ici?"
+        }
+      ],
+      "related": []
+    },
+    "the": {
+      "lemma": "the",
+      "stress": "ðə",
+      "pos": "det",
+      "gloss": "le, la, les, l'",
+      "meanings": [
+        {
+          "en": "le, la, les, l'",
+          "note": "Un seul article défini invariable pour le masculin, le féminin et le pluriel! Prononcé /ðə/ devant consonne et /ði/ devant voyelle."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle on the front door.",
+          "trans": "Soulevez la poignée de la porte d'entrée."
+        },
+        {
+          "text": "All the keys hang behind the desk.",
+          "trans": "Toutes les clés pendent derrière le bureau."
+        }
+      ],
+      "related": []
+    },
+    "shock": {
+      "lemma": "shock",
+      "stress": "ʃɑk",
+      "pos": "noun",
+      "gloss": "choc, saisissement",
+      "meanings": [
+        {
+          "en": "choc, saisissement",
+          "note": "From the shock (\"sous le coup de l'émotion / du choc\") s'emploie volontiers pour une grosse surprise sans gravité."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Opening the wrong suitcase was quite a shock!",
+          "trans": "Ouvrir la mauvaise valise a été un fameux choc!"
+        },
+        {
+          "text": "After the first shock, everyone laughed.",
+          "trans": "Une fois la première surprise passée, tout le monde a ri."
         }
       ],
       "related": []
@@ -4424,190 +3972,127 @@
       ],
       "related": []
     },
-    "lovely": {
-      "lemma": "lovely",
-      "stress": "ˈlʌvli",
-      "pos": "adj",
-      "gloss": "ravissant, charmant, très agréable",
-      "meanings": [
-        {
-          "en": "ravissant, charmant, très agréable",
-          "note": "Autre adjectif en -ly (comme friendly): It looks lovely signifie \"Il a l'air ravissant / tout doux\"."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "What a lovely courtyard garden!",
-          "trans": "Quel ravissant jardin dans la cour!"
-        },
-        {
-          "text": "Thank you for a lovely morning.",
-          "trans": "Merci pour cette charmante matinée."
-        }
-      ],
-      "related": []
-    },
-    "luggage": {
-      "lemma": "luggage",
-      "stress": "ˈlʌɡɪdʒ",
-      "pos": "noun",
-      "gloss": "bagages",
-      "meanings": [
-        {
-          "en": "bagages",
-          "note": "Piège majeur pour les francophones: luggage est TOUJOURS indénombrable au singulier (jamais *luggages*!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Leave your luggage beside the front desk.",
-          "trans": "Laissez vos bagages à côté de la réception."
-        },
-        {
-          "text": "All the luggage arrived dry and safe.",
-          "trans": "Tous les bagages sont arrivés au sec et intacts."
-        }
-      ],
-      "related": []
-    },
-    "ma'am": {
-      "lemma": "ma'am",
-      "stress": "mæm",
-      "pos": "noun",
-      "gloss": "madame",
-      "meanings": [
-        {
-          "en": "madame",
-          "note": "Formule de politesse très courante et chaleureuse aux États-Unis quand on s'adresse à une cliente sans dire son nom."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Right this way, ma'am.",
-          "trans": "Par ici, madame."
-        },
-        {
-          "text": "May I take your coat, ma'am?",
-          "trans": "Puis-je prendre votre manteau, madame?"
-        }
-      ],
-      "related": []
-    },
-    "mint": {
-      "lemma": "mint",
-      "stress": "mɪnt",
-      "pos": "noun",
-      "gloss": "menthe",
-      "meanings": [
-        {
-          "en": "menthe",
-          "note": "Devant tea, forme le composé mint tea (\"thé à la menthe\") sans préposition."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh mint tea calms the nerves.",
-          "trans": "Le thé à la menthe fraîche apaise les nerfs."
-        },
-        {
-          "text": "Pick three mint leaves from the garden pot.",
-          "trans": "Cueille trois feuilles de menthe dans le pot du jardin."
-        }
-      ],
-      "related": []
-    },
-    "my": {
-      "lemma": "my",
-      "stress": "maɪ",
+    "this": {
+      "lemma": "this",
+      "stress": "ðɪs",
       "pos": "det",
-      "gloss": "mon, ma, mes",
+      "gloss": "ce, cet, cette; ceci, c'est (singulier proche)",
       "meanings": [
         {
-          "en": "mon, ma, mes",
-          "note": "Un seul déterminant invariable quel que soit le genre ou le nombre du nom qui suit (my key, my glasses)!"
+          "en": "ce, cet, cette; ceci, c'est (singulier proche)",
+          "note": "Voyelle courte /ɪ/ et /s/ sourd final (/ðɪs/); This is not my bag! (\"Ce n'est pas mon sac!\") désigne la valise ouverte juste devant soi."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Today is my first morning at the desk.",
-          "trans": "C'est ma première matinée à la réception aujourd'hui."
+          "text": "Here we use this big paper book.",
+          "trans": "Ici, nous utilisons ce grand registre en papier."
         },
         {
-          "text": "Where did I put my reading glasses?",
-          "trans": "Où ai-je posé mes lunettes de lecture?"
+          "text": "Hello, this is Hannah at the front desk.",
+          "trans": "Allô, c'est Hannah à la réception."
         }
       ],
       "related": []
     },
-    "need": {
-      "lemma": "need",
-      "stress": "nid",
-      "pos": "verb",
-      "gloss": "avoir besoin de; falloir",
+    "soft": {
+      "lemma": "soft",
+      "stress": "sɔft",
+      "pos": "adj",
+      "gloss": "doux (au toucher ou à l'oreille), moelleux, tendre",
       "meanings": [
         {
-          "en": "avoir besoin de; falloir",
-          "note": "Suivi d'un nom (need anything) ou de to + verbe: I need to read (\"j'ai besoin de lire / il faut que je lise\")."
+          "en": "doux (au toucher ou à l'oreille), moelleux, tendre",
+          "note": "Qualifie une laine toute douce (soft wool cardigan), un pain moelleux ou une voix feutrée."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "need"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "needs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "needed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "needed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "needing"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Tell me everything I need to know.",
-          "trans": "Dis-moi tout ce que j'ai besoin de savoir."
+          "text": "This gray wool sweater is very soft.",
+          "trans": "Ce pull en laine grise est très doux."
         },
         {
-          "text": "Do you need an extra towel for your room?",
-          "trans": "Avez-vous besoin d'une serviette supplémentaire pour votre chambre?"
+          "text": "Soft morning light entered the room.",
+          "trans": "Une douce lumière matinale entrait dans la pièce."
+        }
+      ],
+      "related": []
+    },
+    "wool": {
+      "lemma": "wool",
+      "stress": "wʊl",
+      "pos": "noun",
+      "gloss": "laine; en laine (modificateur)",
+      "meanings": [
+        {
+          "en": "laine; en laine (modificateur)",
+          "note": "Voyelle courte /ʊ/ (/wʊl/, comme wood et book); soft wool cardigan (\"cardigan en laine douce\") emploie directement le nom wool comme modificateur!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Arthur packed two soft wool sweaters.",
+          "trans": "Arthur a emporté deux pulls en laine toute douce."
+        },
+        {
+          "text": "Maine winters call for thick wool socks.",
+          "trans": "Les hivers du Maine réclament d'épaisses chaussettes de laine."
+        }
+      ],
+      "related": []
+    },
+    "cardigan": {
+      "lemma": "cardigan",
+      "stress": "ˈkɑɹdɪɡən",
+      "pos": "noun",
+      "gloss": "cardigan, gilet en maille",
+      "meanings": [
+        {
+          "en": "cardigan, gilet en maille",
+          "note": "Gilet boutonné sur le devant, exactement comme en français."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Take a warm cardigan for the evening.",
+          "trans": "Prends un gilet chaud pour la soirée."
+        },
+        {
+          "text": "She buttoned her cream wool cardigan.",
+          "trans": "Elle a boutonné son cardigan en laine crème."
+        }
+      ],
+      "related": []
+    },
+    "clean": {
+      "lemma": "clean",
+      "stress": "klin",
+      "pos": "adj",
+      "gloss": "propre; nettoyer (verbe)",
+      "meanings": [
+        {
+          "en": "propre; nettoyer (verbe)",
+          "note": "Sert à la fois d'adjectif (\"propre\", voyelle longue /klin/) et de verbe régulier (\"nettoyer\")."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fresh clean sheets are on the bed.",
+          "trans": "Des draps propres et frais sont sur le lit."
+        },
+        {
+          "text": "Keep a clean cloth behind the counter.",
+          "trans": "Garde un chiffon propre derrière le comptoir."
         }
       ],
       "related": []
@@ -4627,8 +4112,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Paper never loses the room list when it rains.",
-          "trans": "Le papier ne perd jamais la liste des chambres quand il pleut."
+          "text": "Paper still works when the power goes out.",
+          "trans": "Le papier marche toujours quand le courant est coupé."
         },
         {
           "text": "I have never tasted better apple bread.",
@@ -4637,77 +4122,153 @@
       ],
       "related": []
     },
-    "night": {
-      "lemma": "night",
-      "stress": "naɪt",
-      "pos": "noun",
-      "gloss": "nuit, soir",
+    "wear": {
+      "lemma": "wear",
+      "stress": "wɛɹ",
+      "pos": "verb",
+      "gloss": "porter (un vêtement, des chaussures, des lunettes); usé (worn)",
       "meanings": [
         {
-          "en": "nuit, soir",
-          "note": "Le gh est muet (/naɪt/); Good night! dit \"Bonne nuit!\" au départ, mais \"hier soir\" se dit last night!"
+          "en": "porter (un vêtement, des chaussures, des lunettes); usé (worn)",
+          "note": "Rime avec care et where (/wɛɹ/), irrégulier: wear, wore, worn! Pour un vêtement sur soi on dit TOUJOURS wear (jamais carry!): never worn = \"jamais porté\"."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "wear"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "wears"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "wore"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "worn"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "wearing"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Did you book for one night or two?",
-          "trans": "Avez-vous réservé pour une nuit ou pour deux?"
+          "text": "Wear a warm coat; the sea breeze is cool.",
+          "trans": "Portez un manteau chaud; la brise marine est fraîche."
         },
         {
-          "text": "The courtyard is very quiet at night.",
-          "trans": "La cour est très calme la nuit."
+          "text": "The brass handle is smooth and worn with age.",
+          "trans": "La poignée en laiton est lisse et patinée par le temps."
         }
       ],
       "related": []
     },
-    "oh": {
-      "lemma": "oh",
-      "stress": "oʊ",
-      "pos": "interj",
-      "gloss": "oh, ah",
+    "try": {
+      "lemma": "try",
+      "stress": "tɹaɪ",
+      "pos": "verb",
+      "gloss": "essayer, goûter",
       "meanings": [
         {
-          "en": "oh, ah",
-          "note": "Marque une petite prise de conscience soudaine (Oh, it opens!) ou la surprise (Oh no!, Oh dear!)."
+          "en": "essayer, goûter",
+          "note": "Try it on! (avec la particule on!) est l'expression exacte pour dire \"Essayez-le!\" en parlant d'un vêtement (comme le cardigan)!"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "try"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "tries"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "tried"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "tried"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "trying"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Oh, it opens! Thank you so much.",
-          "trans": "Ah, elle s'ouvre! Merci beaucoup."
+          "text": "Try one of Tessa's warm cinnamon rolls!",
+          "trans": "Goûtez l'un des roulés chauds à la cannelle de Tessa!"
         },
         {
-          "text": "Oh, I nearly forgot my scarf!",
-          "trans": "Oh, j'ai failli oublier mon écharpe!"
+          "text": "Try lifting the handle before you push.",
+          "trans": "Essayez de soulever la poignée avant de pousser."
         }
       ],
       "related": []
     },
-    "old": {
-      "lemma": "old",
-      "stress": "oʊld",
-      "pos": "adj",
-      "gloss": "vieux, ancien; âgé",
+    "it": {
+      "lemma": "it",
+      "stress": "ɪt",
+      "pos": "pron",
+      "gloss": "il, elle (chose); ce, ça; il impersonnel",
       "meanings": [
         {
-          "en": "vieux, ancien; âgé",
-          "note": "Devant friends (old friends), signifie affectueusement \"amis de longue date\" sans aucune idée d'âge avancé!"
+          "en": "il, elle (chose); ce, ça; il impersonnel",
+          "note": "Obligatoire pour reprendre un objet neutre (it opens, \"elle s'ouvre\" pour une porte) et pour la météo (when it rains)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Portland has a charming old port district.",
-          "trans": "Portland possède un charmant vieux quartier portuaire."
+          "text": "Lift the handle, and it opens easily.",
+          "trans": "Soulevez la poignée, et elle s'ouvre facilement."
         },
         {
-          "text": "This brass bell is eighty years old.",
-          "trans": "Cette clochette en laiton a quatre-vingts ans."
+          "text": "It is sunny and warm this afternoon.",
+          "trans": "Il fait beau et doux cet après-midi."
         }
       ],
       "related": []
@@ -4737,6 +4298,817 @@
       ],
       "related": []
     },
+    "sure": {
+      "lemma": "sure",
+      "stress": "ʃʊɹ",
+      "pos": "adj",
+      "gloss": "sûr, certain; bien sûr! (adverbe)",
+      "meanings": [
+        {
+          "en": "sûr, certain; bien sûr! (adverbe)",
+          "note": "Commence par /ʃ/ (/ʃʊɹ/)! Are you sure? = \"Vous êtes sûre?\", et Sure, Graham! = \"Bien sûr, Graham!\" (parfois avec un clin d'œil complice!)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Sure! Let me grab an extra towel for you.",
+          "trans": "Bien sûr! Laissez-moi vous chercher une serviette supplémentaire."
+        },
+        {
+          "text": "Are you sure this is your blue bag?",
+          "trans": "Êtes-vous sûr que c'est votre sac bleu?"
+        }
+      ],
+      "related": []
+    },
+    "lovely": {
+      "lemma": "lovely",
+      "stress": "ˈlʌvli",
+      "pos": "adj",
+      "gloss": "ravissant, charmant, très agréable",
+      "meanings": [
+        {
+          "en": "ravissant, charmant, très agréable",
+          "note": "Autre adjectif en -ly (comme friendly): It looks lovely signifie \"Il a l'air ravissant / tout doux\"."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "What a lovely courtyard garden!",
+          "trans": "Quel ravissant jardin dans la cour!"
+        },
+        {
+          "text": "Thank you for a lovely morning.",
+          "trans": "Merci pour cette charmante matinée."
+        }
+      ],
+      "related": []
+    },
+    "warm": {
+      "lemma": "warm",
+      "stress": "wɔɹm",
+      "pos": "adj",
+      "gloss": "tiède, chaud (agréablement), chaleureux",
+      "meanings": [
+        {
+          "en": "tiède, chaud (agréablement), chaleureux",
+          "note": "Nuance précieuse: warm décrit une chaleur douce et réconfortante (warm rolls, warm bread, warm cardigan), moins brûlante que hot!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa brought a basket of warm bread.",
+          "trans": "Tessa a apporté une corbeille de pain tiède."
+        },
+        {
+          "text": "Thank you for such a warm welcome!",
+          "trans": "Merci pour cet accueil si chaleureux!"
+        }
+      ],
+      "related": []
+    },
+    "fit": {
+      "lemma": "fit",
+      "stress": "fɪt",
+      "pos": "verb",
+      "gloss": "aller bien (taille), tenir dans; s'intégrer (fit in)",
+      "meanings": [
+        {
+          "en": "aller bien (taille), tenir dans; s'intégrer (fit in)",
+          "note": "It fits you well signifie \"Cela vous va bien\" (pour la taille), et fit right in veut dire \"trouver tout de suite sa place\"."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "fit"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "fits"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "fit"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "fit"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "fitting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Does this brass key fit room four?",
+          "trans": "Cette clé en laiton va-t-elle dans la serrure de la chambre quatre?"
+        },
+        {
+          "text": "All four cups fit neatly on the tray.",
+          "trans": "Les quatre tasses tiennent parfaitement sur le plateau."
+        }
+      ],
+      "related": []
+    },
+    "very": {
+      "lemma": "very",
+      "stress": "ˈvɛɹi",
+      "pos": "adv",
+      "gloss": "très; beaucoup (dans Thank you very much)",
+      "meanings": [
+        {
+          "en": "très; beaucoup (dans Thank you very much)",
+          "note": "Se place devant un adjectif ou adverbe (very heavy, very quiet, very well), mais devant un verbe seul on ajoute much: Thank you very much!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Thank you very much for your patience!",
+          "trans": "Merci beaucoup pour votre patience!"
+        },
+        {
+          "text": "Portland is very peaceful in the morning.",
+          "trans": "Portland est très paisible le matin."
+        }
+      ],
+      "related": []
+    },
+    "well": {
+      "lemma": "well",
+      "stress": "wɛl",
+      "pos": "adv",
+      "gloss": "bien (adverbe); eh bien (interjection)",
+      "meanings": [
+        {
+          "en": "bien (adverbe); eh bien (interjection)",
+          "note": "Adverbe correspondant à good: It fits you very well (\"Il vous va très bien\"), sleep well, rest well!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did you sleep well last night?",
+          "trans": "Avez-vous bien dormi la nuit dernière?"
+        },
+        {
+          "text": "Well, let us check both tags side by side.",
+          "trans": "Eh bien, comparons les deux étiquettes côte à côte."
+        }
+      ],
+      "related": []
+    },
+    "good": {
+      "lemma": "good",
+      "stress": "ɡʊd",
+      "pos": "adj",
+      "gloss": "bon, bien",
+      "meanings": [
+        {
+          "en": "bon, bien",
+          "note": "Ouvre la plupart des salutations de la journée: Good morning, Good afternoon, Good evening, Good night."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "good"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "better"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "best"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Good morning! Did you sleep well?",
+          "trans": "Bonjour! Avez-vous bien dormi?"
+        },
+        {
+          "text": "Fresh bread smells even better with butter.",
+          "trans": "Le pain frais sent encore meilleur avec du beurre."
+        }
+      ],
+      "related": []
+    },
+    "people": {
+      "lemma": "people",
+      "stress": "ˈpipəl",
+      "pos": "noun",
+      "gloss": "les gens, des personnes",
+      "meanings": [
+        {
+          "en": "les gens, des personnes",
+          "note": "Piège fondamental: people (\"les gens\") est TOUJOURS pluriel en anglais (people are, you good people)!"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "person"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "people"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Three people arrived on the morning train.",
+          "trans": "Trois personnes sont arrivées par le train du matin."
+        },
+        {
+          "text": "People in this town love warm bakeries.",
+          "trans": "Les gens de cette ville adorent les boulangeries chaleureuses."
+        }
+      ],
+      "related": []
+    },
+    "save": {
+      "lemma": "save",
+      "stress": "seɪv",
+      "pos": "verb",
+      "gloss": "sauver; garder de côté; économiser",
+      "meanings": [
+        {
+          "en": "sauver; garder de côté; économiser",
+          "note": "You are saving my whole trip (\"Vous sauvez tout mon séjour\") et saves breakfast again (\"sauve encore le petit-déjeuner\")."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "save"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "saves"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "saved"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "saved"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "saving"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I saved a warm cinnamon roll for you.",
+          "trans": "J'ai gardé un roulé chaud à la cannelle de côté pour toi."
+        },
+        {
+          "text": "Quick thinking saved the morning breakfast!",
+          "trans": "De bons réflexes ont sauvé le petit-déjeuner du matin!"
+        }
+      ],
+      "related": []
+    },
+    "whole": {
+      "lemma": "whole",
+      "stress": "hoʊl",
+      "pos": "adj",
+      "gloss": "entier, tout (le)",
+      "meanings": [
+        {
+          "en": "entier, tout (le)",
+          "note": "Le w initial est totalement muet (/hoʊl/, homophone de hole!) et whole se place APRÈS le déterminant: my whole trip (\"tout mon voyage\")!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm cinnamon scented the whole house.",
+          "trans": "Une odeur de cannelle chaude parfumait toute la maison."
+        },
+        {
+          "text": "We spent the whole morning solving the mix-up.",
+          "trans": "Nous avons passé toute la matinée à démêler ce quiproquo."
+        }
+      ],
+      "related": []
+    },
+    "trip": {
+      "lemma": "trip",
+      "stress": "tɹɪp",
+      "pos": "noun",
+      "gloss": "voyage, trajet, séjour",
+      "meanings": [
+        {
+          "en": "voyage, trajet, séjour",
+          "note": "Nom comptable courant pour un voyage précis: How was your train trip? (\"Comment s'est passé votre trajet en train?\"), my whole trip (\"tout mon voyage\")."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How was your train trip from Boston?",
+          "trans": "Comment s'est passé votre voyage en train depuis Boston?"
+        },
+        {
+          "text": "Have a wonderful trip!",
+          "trans": "Bon voyage!"
+        }
+      ],
+      "related": []
+    },
+    "a": {
+      "lemma": "a",
+      "stress": "ə",
+      "pos": "det",
+      "gloss": "un, une",
+      "meanings": [
+        {
+          "en": "un, une",
+          "note": "Article indéfini placé devant un son consonantique (a pen, mais aussi a university)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I have a blue pen.",
+          "trans": "J'ai un stylo bleu."
+        },
+        {
+          "text": "She wants a cup of tea.",
+          "trans": "Elle veut une tasse de thé."
+        }
+      ],
+      "related": []
+    },
+    "traveler": {
+      "lemma": "traveler",
+      "stress": "ˈtɹævəlɚ",
+      "pos": "noun",
+      "gloss": "voyageur, voyageuse",
+      "meanings": [
+        {
+          "en": "voyageur, voyageuse",
+          "note": "Orthographe américaine avec un seul l: traveler (au Royaume-Uni: traveller)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tired travelers appreciate a quiet courtyard.",
+          "trans": "Les voyageurs fatigués apprécient une cour paisible."
+        },
+        {
+          "text": "Every traveler has a story to share at breakfast.",
+          "trans": "Chaque voyageur a une histoire à partager au petit-déjeuner."
+        }
+      ],
+      "related": []
+    },
+    "cannot": {
+      "lemma": "cannot",
+      "stress": "ˈkænɑt",
+      "pos": "verb",
+      "gloss": "ne pas pouvoir",
+      "meanings": [
+        {
+          "en": "ne pas pouvoir",
+          "note": "À l'écrit soigné, la forme négative pleine de can s'écrit toujours en un seul mot: cannot."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "cannot"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "cannot"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "could not"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I cannot read tiny print without glasses.",
+          "trans": "Je ne peux pas lire les petits caractères sans lunettes."
+        },
+        {
+          "text": "You cannot park in front of the gate.",
+          "trans": "Vous ne pouvez pas vous garer devant le portail."
+        }
+      ],
+      "related": []
+    },
+    "sit": {
+      "lemma": "sit",
+      "stress": "sɪt",
+      "pos": "verb",
+      "gloss": "s'asseoir, être assis",
+      "meanings": [
+        {
+          "en": "s'asseoir, être assis",
+          "note": "Voyelle courte relâchée /ɪ/ (/sɪt/, bien distincte de seat /sit/!); Now sit ou Sit down signifient \"Assieds-toi / Asseyez-vous\"."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sit"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sits"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "sat"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "sat"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "sitting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Come sit in the sunny courtyard.",
+          "trans": "Venez vous asseoir dans la cour ensoleillée."
+        },
+        {
+          "text": "A brass bell sits on the wooden counter.",
+          "trans": "Une clochette en laiton trône sur le comptoir en bois."
+        }
+      ],
+      "related": []
+    },
+    "upstairs": {
+      "lemma": "upstairs",
+      "stress": "ˌʌpˈstɛɹz",
+      "pos": "adv",
+      "gloss": "en haut, à l'étage",
+      "meanings": [
+        {
+          "en": "en haut, à l'étage",
+          "note": "Adverbe de lieu complet sans préposition: sit upstairs (\"rester assise là-haut à l'étage\")."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let me help carry your bag upstairs.",
+          "trans": "Laissez-moi vous aider à monter votre valise à l'étage."
+        },
+        {
+          "text": "All guest bedrooms are upstairs.",
+          "trans": "Toutes les chambres d'hôtes se trouvent à l'étage."
+        }
+      ],
+      "related": []
+    },
+    "sad": {
+      "lemma": "sad",
+      "stress": "sæd",
+      "pos": "adj",
+      "gloss": "triste",
+      "meanings": [
+        {
+          "en": "triste",
+          "note": "Sit upstairs sad (\"rester assise là-haut toute triste\") place l'adjectif attribut directement après le verbe d'attitude."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do not look sad; we found your scarf.",
+          "trans": "Ne fais pas cette tête triste; nous avons retrouvé ton écharpe."
+        },
+        {
+          "text": "We always feel a little sad on checkout day.",
+          "trans": "Nous sommes toujours un peu tristes le jour du départ des clients."
+        }
+      ],
+      "related": []
+    },
+    "her": {
+      "lemma": "her",
+      "stress": "hɝ",
+      "pos": "det",
+      "gloss": "son, sa, ses (à elle); la, lui, elle",
+      "meanings": [
+        {
+          "en": "son, sa, ses (à elle); la, lui, elle",
+          "note": "En anglais, le possessif s'accorde avec le POSSESSEUR et non l'objet: her initials = \"ses initiales (à elle)\"!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa brought her basket of warm bread.",
+          "trans": "Tessa a apporté sa corbeille de pain chaud."
+        },
+        {
+          "text": "Please give her a cup of mint tea.",
+          "trans": "Donnez-lui une tasse de thé à la menthe, s'il vous plaît."
+        }
+      ],
+      "related": []
+    },
+    "first": {
+      "lemma": "first",
+      "stress": "fɝst",
+      "pos": "adj",
+      "gloss": "premier; d'abord (adverbe)",
+      "meanings": [
+        {
+          "en": "premier; d'abord (adverbe)",
+          "note": "Sert d'adjectif ordinal (first day, first name \"prénom\") et d'adverbe (lift the handle first, \"d'abord\")."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle first, then push.",
+          "trans": "Soulevez d'abord la poignée, puis poussez."
+        },
+        {
+          "text": "Today is her first morning at the inn.",
+          "trans": "C'est sa première matinée à l'auberge aujourd'hui."
+        }
+      ],
+      "related": []
+    },
+    "evening": {
+      "lemma": "evening",
+      "stress": "ˈivnɪŋ",
+      "pos": "noun",
+      "gloss": "soir, soirée",
+      "meanings": [
+        {
+          "en": "soir, soirée",
+          "note": "Good evening sert à dire \"Bonsoir\" quand on arrive; Good night ne s'emploie qu'en prenant congé!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Good evening! Do you have a reservation?",
+          "trans": "Bonsoir! Avez-vous une réservation?"
+        },
+        {
+          "text": "We serve herbal tea every evening at eight.",
+          "trans": "Nous servons une tisane chaque soir à huit heures."
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "dans, en",
+      "meanings": [
+        {
+          "en": "dans, en",
+          "note": "Indique l'intérieur d'un espace (in the drawer, in the fridge) ou le délai avant un événement: in forty minutes (\"dans quarante minutes\")!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait in the warm dining room.",
+          "trans": "Patientez dans la salle à manger bien chaude."
+        },
+        {
+          "text": "Coffee will be ready in three minutes.",
+          "trans": "Le café sera prêt dans trois minutes."
+        }
+      ],
+      "related": []
+    },
+    "i": {
+      "lemma": "i",
+      "stress": "aɪ",
+      "pos": "pron",
+      "gloss": "je, moi",
+      "meanings": [
+        {
+          "en": "je, moi",
+          "note": "Le pronom sujet de première personne s'écrit TOUJOURS avec un I majuscule en anglais, même au milieu d'une phrase!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I am Hannah, the new receptionist.",
+          "trans": "Je suis Hannah, la nouvelle réceptionniste."
+        },
+        {
+          "text": "May I help you with your luggage?",
+          "trans": "Puis-je vous aider avec vos bagages?"
+        }
+      ],
+      "related": []
+    },
+    "lock": {
+      "lemma": "lock",
+      "stress": "lɑk",
+      "pos": "verb",
+      "gloss": "fermer à clé (verbe); serrure (nom)",
+      "meanings": [
+        {
+          "en": "fermer à clé (verbe); serrure (nom)",
+          "note": "Is the door locked? signifie \"La porte est-elle fermée à clé?\" (pour simplement \"fermée\", on dit closed)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "lock"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "locks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "locked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "locked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "locking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Excuse me, is the front door locked?",
+          "trans": "Excusez-moi, la porte d'entrée est-elle fermée à clé?"
+        },
+        {
+          "text": "Always lock the office drawer at night.",
+          "trans": "Ferme toujours le tiroir du bureau à clé le soir."
+        }
+      ],
+      "related": []
+    },
     "other": {
       "lemma": "other",
       "stress": "ˈʌðɚ",
@@ -4762,6 +5134,81 @@
       ],
       "related": []
     },
+    "blue": {
+      "lemma": "blue",
+      "stress": "blu",
+      "pos": "adj",
+      "gloss": "bleu",
+      "meanings": [
+        {
+          "en": "bleu",
+          "note": "Comme tous les adjectifs anglais, reste invariable au pluriel (two blue suitcases)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at that clear blue sky.",
+          "trans": "Regarde ce beau ciel bleu dégagé."
+        },
+        {
+          "text": "My suitcase has a blue handle.",
+          "trans": "Ma valise a une poignée bleue."
+        }
+      ],
+      "related": []
+    },
+    "suitcase": {
+      "lemma": "suitcase",
+      "stress": "ˈsutˌkeɪs",
+      "pos": "noun",
+      "gloss": "valise",
+      "meanings": [
+        {
+          "en": "valise",
+          "note": "Nom comptable standard (my blue suitcase, another suitcase), contrairement à luggage qui est indénombrable!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Two guests brought the exact same blue suitcase.",
+          "trans": "Deux clients ont apporté exactement la même valise bleue."
+        },
+        {
+          "text": "Set your suitcase on the wooden luggage rack.",
+          "trans": "Posez votre valise sur le porte-bagages en bois."
+        }
+      ],
+      "related": []
+    },
+    "safely": {
+      "lemma": "safely",
+      "stress": "ˈseɪfli",
+      "pos": "adv",
+      "gloss": "en sécurité, soigneusement, sans encombre",
+      "meanings": [
+        {
+          "en": "en sécurité, soigneusement, sans encombre",
+          "note": "Locked safely in our closet signifie \"enfermée bien en sécurité dans notre placard\"."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Glad you arrived safely in the rain.",
+          "trans": "Heureux que vous soyez arrivé sans encombre sous la pluie."
+        },
+        {
+          "text": "Both bags returned safely to their owners.",
+          "trans": "Les deux sacs sont revenus sains et saufs à leurs propriétaires."
+        }
+      ],
+      "related": []
+    },
     "our": {
       "lemma": "our",
       "stress": "ˈaʊɚ",
@@ -4783,6 +5230,256 @@
         {
           "text": "All our bread comes from Tessa's oven.",
           "trans": "Tout notre pain sort du four de Tessa."
+        }
+      ],
+      "related": []
+    },
+    "luggage": {
+      "lemma": "luggage",
+      "stress": "ˈlʌɡɪdʒ",
+      "pos": "noun",
+      "gloss": "bagages",
+      "meanings": [
+        {
+          "en": "bagages",
+          "note": "Piège majeur pour les francophones: luggage est TOUJOURS indénombrable au singulier (jamais *luggages*!)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Leave your luggage beside the front desk.",
+          "trans": "Laissez vos bagages à côté de la réception."
+        },
+        {
+          "text": "All the luggage arrived dry and safe.",
+          "trans": "Tous les bagages sont arrivés au sec et intacts."
+        }
+      ],
+      "related": []
+    },
+    "closet": {
+      "lemma": "closet",
+      "stress": "ˈklɑzɪt",
+      "pos": "noun",
+      "gloss": "placard, penderie",
+      "meanings": [
+        {
+          "en": "placard, penderie",
+          "note": "En anglais américain, désigne un grand placard mural ou une penderie (et non les toilettes!)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Extra blankets are in the hall closet.",
+          "trans": "Les couvertures supplémentaires sont dans le placard du couloir."
+        },
+        {
+          "text": "Lock the suitcase inside the luggage closet.",
+          "trans": "Enferme la valise à clé dans la consigne à bagages."
+        }
+      ],
+      "related": []
+    },
+    "that": {
+      "lemma": "that",
+      "stress": "ðæt",
+      "pos": "pron",
+      "gloss": "ce, cet, cette, ça (là-bas ou déjà mentionné); que (conjonction)",
+      "meanings": [
+        {
+          "en": "ce, cet, cette, ça (là-bas ou déjà mentionné); que (conjonction)",
+          "note": "Pointe ce dont on vient de parler ou ce qui est un peu plus loin: What was that bell? (\"C'était quoi, cette sonnerie?\"), Did you hear that? (\"Tu as entendu ça?\")."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "That blue suitcase by the door is Arthur's.",
+          "trans": "Cette valise bleue près de la porte est celle d'Arthur."
+        },
+        {
+          "text": "That sounds like a great plan!",
+          "trans": "Cela m'a l'air d'être un excellent programme!"
+        }
+      ],
+      "related": []
+    },
+    "little": {
+      "lemma": "little",
+      "stress": "ˈlɪtəl",
+      "pos": "adj",
+      "gloss": "petit; un peu de (a little + indénombrable)",
+      "meanings": [
+        {
+          "en": "petit; un peu de (a little + indénombrable)",
+          "note": "A little sugar signifie \"un peu de sucre\", tandis que devant un nom comptable a little train veut dire \"un petit train\"."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "There is a little bakery down the street.",
+          "trans": "Il y a une petite boulangerie un peu plus bas dans la rue."
+        },
+        {
+          "text": "Add just a little honey to the cup.",
+          "trans": "Ajoute juste un peu de miel dans la tasse."
+        }
+      ],
+      "related": []
+    },
+    "wooden": {
+      "lemma": "wooden",
+      "stress": "ˈwʊdən",
+      "pos": "adj",
+      "gloss": "en bois",
+      "meanings": [
+        {
+          "en": "en bois",
+          "note": "A little wooden train (\"un petit train en bois\"): le suffixe -en forme l'adjectif de matière sur wood!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Set the tray on the long wooden table.",
+          "trans": "Pose le plateau sur la longue table en bois."
+        },
+        {
+          "text": "Eight keys hang on a wooden board.",
+          "trans": "Huit clés pendent à un tableau en bois."
+        }
+      ],
+      "related": []
+    },
+    "train": {
+      "lemma": "train",
+      "stress": "tɹeɪn",
+      "pos": "noun",
+      "gloss": "train",
+      "meanings": [
+        {
+          "en": "train",
+          "note": "Sert de nom principal (a wooden train) et de modificateur devant un autre nom: train trip (\"voyage en train\"), train station (\"gare\")!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Both guests arrived on the nine o'clock train.",
+          "trans": "Les deux clients sont arrivés par le train de neuf heures."
+        },
+        {
+          "text": "The train station is ten minutes away by taxi.",
+          "trans": "La gare est à dix minutes en taxi."
+        }
+      ],
+      "related": []
+    },
+    "inside": {
+      "lemma": "inside",
+      "stress": "ɪnˈsaɪd",
+      "pos": "prep",
+      "gloss": "à l'intérieur (de), dedans",
+      "meanings": [
+        {
+          "en": "à l'intérieur (de), dedans",
+          "note": "Sert aussi bien d'adverbe (look inside!, \"regarde dedans!\") que de préposition (inside this suitcase)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Come inside out of the rain!",
+          "trans": "Entrez vous mettre à l'abri de la pluie!"
+        },
+        {
+          "text": "A handwritten card was inside the box.",
+          "trans": "Une carte écrite à la main se trouvait à l'intérieur de la boîte."
+        }
+      ],
+      "related": []
+    },
+    "old": {
+      "lemma": "old",
+      "stress": "oʊld",
+      "pos": "adj",
+      "gloss": "vieux, ancien; âgé",
+      "meanings": [
+        {
+          "en": "vieux, ancien; âgé",
+          "note": "Devant friends (old friends), signifie affectueusement \"amis de longue date\" sans aucune idée d'âge avancé!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Portland has a charming old port district.",
+          "trans": "Portland possède un charmant vieux quartier portuaire."
+        },
+        {
+          "text": "This brass bell is eighty years old.",
+          "trans": "Cette clochette en laiton a quatre-vingts ans."
+        }
+      ],
+      "related": []
+    },
+    "precious": {
+      "lemma": "precious",
+      "stress": "ˈpɹɛʃəs",
+      "pos": "adj",
+      "gloss": "précieux, cher (à quelqu'un)",
+      "meanings": [
+        {
+          "en": "précieux, cher (à quelqu'un)",
+          "note": "Décrit un objet ayant une grande valeur affective ou sentimentale (old and precious)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Family photos inside the bag are precious.",
+          "trans": "Les photos de famille dans ce sac sont précieuses."
+        },
+        {
+          "text": "Never waste precious morning coffee!",
+          "trans": "Ne gaspillez jamais le précieux café du matin!"
+        }
+      ],
+      "related": []
+    },
+    "whoever": {
+      "lemma": "whoever",
+      "stress": "huˈɛvɚ",
+      "pos": "pron",
+      "gloss": "quiconque, celui ou celle qui",
+      "meanings": [
+        {
+          "en": "quiconque, celui ou celle qui",
+          "note": "Whoever owns it (\"Celui ou celle à qui il appartient / Son propriétaire, quel qu'il soit\") désigne une personne encore inconnue!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Whoever owns this bag loves classical music!",
+          "trans": "Celui à qui appartient ce sac adore la musique classique!"
+        },
+        {
+          "text": "Whoever arrives first gets the freshest roll.",
+          "trans": "Le premier arrivé aura le petit pain le plus frais."
         }
       ],
       "related": []
@@ -4850,15 +5547,15 @@
       ],
       "related": []
     },
-    "people": {
-      "lemma": "people",
-      "stress": "ˈpipəl",
-      "pos": "noun",
-      "gloss": "les gens, des personnes",
+    "will": {
+      "lemma": "will",
+      "stress": "wɪl",
+      "pos": "verb",
+      "gloss": "auxiliaire du futur et de la décision immédiate",
       "meanings": [
         {
-          "en": "les gens, des personnes",
-          "note": "Piège fondamental: people (\"les gens\") est TOUJOURS pluriel en anglais (people are, you good people)!"
+          "en": "auxiliaire du futur et de la décision immédiate",
+          "note": "Exprime aussi bien l'avenir (will not be boring) qu'une offre ou promesse prise sur l'instant: I will carry the bag up (\"Je vais vous monter la valise\"), I will! (\"Promis / Je n'y manquerai pas!\")!"
         }
       ],
       "forms": {
@@ -4870,14 +5567,32 @@
         "rows": [
           {
             "cells": [
-              "singular",
-              "person"
+              "base",
+              "will"
             ]
           },
           {
             "cells": [
-              "plural",
-              "people"
+              "3rd sg",
+              "will"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "would"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "—"
             ]
           }
         ]
@@ -4885,37 +5600,288 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Three people arrived on the morning train.",
-          "trans": "Trois personnes sont arrivées par le train du matin."
+          "text": "I will call the taxi company right away.",
+          "trans": "J'appelle tout de suite la compagnie de taxis."
         },
         {
-          "text": "People in this town love warm bakeries.",
-          "trans": "Les gens de cette ville adorent les boulangeries chaleureuses."
+          "text": "Tessa will bring fresh bread at eight.",
+          "trans": "Tessa apportera du pain frais à huit heures."
         }
       ],
       "related": []
     },
-    "precious": {
-      "lemma": "precious",
-      "stress": "ˈpɹɛʃəs",
-      "pos": "adj",
-      "gloss": "précieux, cher (à quelqu'un)",
+    "surely": {
+      "lemma": "surely",
+      "stress": "ˈʃʊɹli",
+      "pos": "adv",
+      "gloss": "sûrement, certainement, à coup sûr",
       "meanings": [
         {
-          "en": "précieux, cher (à quelqu'un)",
-          "note": "Décrit un objet ayant une grande valeur affective ou sentimentale (old and precious)."
+          "en": "sûrement, certainement, à coup sûr",
+          "note": "Whoever owns it will surely look for it (\"Celui à qui il appartient va sûrement le chercher\")."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Family photos inside the bag are precious.",
-          "trans": "Les photos de famille dans ce sac sont précieuses."
+          "text": "Surely someone wrote a name inside the lid.",
+          "trans": "Quelqu'un a sûrement inscrit un nom à l'intérieur du couvercle."
         },
         {
-          "text": "Never waste precious morning coffee!",
-          "trans": "Ne gaspillez jamais le précieux café du matin!"
+          "text": "Slowly but surely, Hannah learned every key.",
+          "trans": "Lentement mais sûrement, Hannah a appris chaque clé."
+        }
+      ],
+      "related": []
+    },
+    "for": {
+      "lemma": "for",
+      "stress": "fɔɹ",
+      "pos": "prep",
+      "gloss": "pour; pendant (durée)",
+      "meanings": [
+        {
+          "en": "pour; pendant (durée)",
+          "note": "Indique le destinataire (for Evelyn), le repas (for breakfast) ou une durée complète."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This package arrived for room two.",
+          "trans": "Ce colis est arrivé pour la chambre deux."
+        },
+        {
+          "text": "Wait here for just a moment.",
+          "trans": "Attendez ici un tout petit instant."
+        }
+      ],
+      "related": []
+    },
+    "soon": {
+      "lemma": "soon",
+      "stress": "sun",
+      "pos": "adv",
+      "gloss": "bientôt",
+      "meanings": [
+        {
+          "en": "bientôt",
+          "note": "See you soon! (\"À bientôt! / À très vite!\") est la salutation finale la plus chaleureuse entre deux scènes."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Coffee will be ready very soon.",
+          "trans": "Le café sera prêt très bientôt."
+        },
+        {
+          "text": "See you soon in the courtyard!",
+          "trans": "À bientôt dans la cour!"
+        }
+      ],
+      "related": []
+    },
+    "think": {
+      "lemma": "think",
+      "stress": "θɪŋk",
+      "pos": "verb",
+      "gloss": "penser, croire",
+      "meanings": [
+        {
+          "en": "penser, croire",
+          "note": "Irrégulier: think, thought, thought (/θɔt/); Quick thinking (\"une réaction vive / présence d'esprit\") est le nom verbal en -ing!"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "think"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "thinks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "thought"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "thought"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "thinking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I think both bags rode in the same taxi.",
+          "trans": "Je pense que les deux sacs ont voyagé dans le même taxi."
+        },
+        {
+          "text": "Quick thinking saved our morning!",
+          "trans": "De bons réflexes ont sauvé notre matinée!"
+        }
+      ],
+      "related": []
+    },
+    "sleep": {
+      "lemma": "sleep",
+      "stress": "slip",
+      "pos": "verb",
+      "gloss": "dormir",
+      "meanings": [
+        {
+          "en": "dormir",
+          "note": "Irrégulier: sleep, slept, slept; I will sleep well tonight équivaut exactement à \"Je vais bien dormir cette nuit\"."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sleep"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sleeps"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "slept"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "slept"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "sleeping"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Good morning! Did you sleep well?",
+          "trans": "Bonjour! Avez-vous bien dormi?"
+        },
+        {
+          "text": "Everyone sleeps soundly after sea air.",
+          "trans": "Tout le monde dort profondément après l'air marin."
+        }
+      ],
+      "related": []
+    },
+    "tonight": {
+      "lemma": "tonight",
+      "stress": "təˈnaɪt",
+      "pos": "adv",
+      "gloss": "ce soir, cette nuit",
+      "meanings": [
+        {
+          "en": "ce soir, cette nuit",
+          "note": "Couvre à la fois \"ce soir\" (is room six free tonight?) et \"cette nuit\" (I will sleep well tonight); ne dites jamais *this evening/night* là où tonight suffit!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "All eight rooms are full tonight.",
+          "trans": "Les huit chambres sont complètes ce soir."
+        },
+        {
+          "text": "Sleep well tonight!",
+          "trans": "Dormez bien cette nuit!"
+        }
+      ],
+      "related": []
+    },
+    "after": {
+      "lemma": "after",
+      "stress": "ˈæftɚ",
+      "pos": "prep",
+      "gloss": "après",
+      "meanings": [
+        {
+          "en": "après",
+          "note": "Exprime la postériorité dans le temps ou dans l'espace."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let us walk after lunch.",
+          "trans": "Marchons un peu après le déjeuner."
+        },
+        {
+          "text": "Wednesday comes after Tuesday.",
+          "trans": "Mercredi vient après mardi."
+        }
+      ],
+      "related": []
+    },
+    "all": {
+      "lemma": "all",
+      "stress": "ɔl",
+      "pos": "det",
+      "gloss": "tout, tous, toutes",
+      "meanings": [
+        {
+          "en": "tout, tous, toutes",
+          "note": "Invariable en genre et en nombre devant le nom ou l'article."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "All the windows are open.",
+          "trans": "Toutes les fenêtres sont ouvertes."
+        },
+        {
+          "text": "She worked all morning.",
+          "trans": "Elle a travaillé toute la matinée."
         }
       ],
       "related": []
@@ -5008,65 +5974,65 @@
       ],
       "related": []
     },
-    "sad": {
-      "lemma": "sad",
-      "stress": "sæd",
-      "pos": "adj",
-      "gloss": "triste",
-      "meanings": [
-        {
-          "en": "triste",
-          "note": "Sit upstairs sad (\"rester assise là-haut toute triste\") place l'adjectif attribut directement après le verbe d'attitude."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do not look sad; we found your scarf.",
-          "trans": "Ne fais pas cette tête triste; nous avons retrouvé ton écharpe."
-        },
-        {
-          "text": "We always feel a little sad on checkout day.",
-          "trans": "Nous sommes toujours un peu tristes le jour du départ des clients."
-        }
-      ],
-      "related": []
-    },
-    "safely": {
-      "lemma": "safely",
-      "stress": "ˈseɪfli",
+    "down": {
+      "lemma": "down",
+      "stress": "daʊn",
       "pos": "adv",
-      "gloss": "en sécurité, soigneusement, sans encombre",
+      "gloss": "en bas, vers le bas",
       "meanings": [
         {
-          "en": "en sécurité, soigneusement, sans encombre",
-          "note": "Locked safely in our closet signifie \"enfermée bien en sécurité dans notre placard\"."
+          "en": "en bas, vers le bas",
+          "note": "Accompagne de nombreux verbes courants: sit down (\"s'asseoir\"), write down (\"noter\"), look down (\"baisser les yeux\")."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Glad you arrived safely in the rain.",
-          "trans": "Heureux que vous soyez arrivé sans encombre sous la pluie."
+          "text": "Please sit down and rest a moment.",
+          "trans": "Asseyez-vous donc et reposez-vous un instant."
         },
         {
-          "text": "Both bags returned safely to their owners.",
-          "trans": "Les deux sacs sont revenus sains et saufs à leurs propriétaires."
+          "text": "Write down the phone number before you forget.",
+          "trans": "Notez le numéro de téléphone avant de l'oublier."
         }
       ],
       "related": []
     },
-    "save": {
-      "lemma": "save",
-      "stress": "seɪv",
-      "pos": "verb",
-      "gloss": "sauver; garder de côté; économiser",
+    "if": {
+      "lemma": "if",
+      "stress": "ɪf",
+      "pos": "conj",
+      "gloss": "si (condition ou question indirecte)",
       "meanings": [
         {
-          "en": "sauver; garder de côté; économiser",
-          "note": "You are saving my whole trip (\"Vous sauvez tout mon séjour\") et saves breakfast again (\"sauve encore le petit-déjeuner\")."
+          "en": "si (condition ou question indirecte)",
+          "note": "Après if conditionnel tourné vers l'avenir, l'anglais emploie le présent simple (comme en français: if you need anything)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ring the bell if you need anything.",
+          "trans": "Sonnez la clochette si vous avez besoin de quoi que ce soit."
+        },
+        {
+          "text": "Let me check if room two is ready.",
+          "trans": "Laissez-moi vérifier si la chambre deux est prête."
+        }
+      ],
+      "related": []
+    },
+    "need": {
+      "lemma": "need",
+      "stress": "nid",
+      "pos": "verb",
+      "gloss": "avoir besoin de; falloir",
+      "meanings": [
+        {
+          "en": "avoir besoin de; falloir",
+          "note": "Suivi d'un nom (need anything) ou de to + verbe: I need to read (\"j'ai besoin de lire / il faut que je lise\")."
         }
       ],
       "forms": {
@@ -5079,31 +6045,31 @@
           {
             "cells": [
               "base",
-              "save"
+              "need"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "saves"
+              "needs"
             ]
           },
           {
             "cells": [
               "past",
-              "saved"
+              "needed"
             ]
           },
           {
             "cells": [
               "past participle",
-              "saved"
+              "needed"
             ]
           },
           {
             "cells": [
               "-ing",
-              "saving"
+              "needing"
             ]
           }
         ]
@@ -5111,1028 +6077,62 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "I saved a warm cinnamon roll for you.",
-          "trans": "J'ai gardé un roulé chaud à la cannelle de côté pour toi."
+          "text": "Tell me everything I need to know.",
+          "trans": "Dis-moi tout ce que j'ai besoin de savoir."
         },
         {
-          "text": "Quick thinking saved the morning breakfast!",
-          "trans": "De bons réflexes ont sauvé le petit-déjeuner du matin!"
+          "text": "Do you need an extra towel for your room?",
+          "trans": "Avez-vous besoin d'une serviette supplémentaire pour votre chambre?"
         }
       ],
       "related": []
     },
-    "shock": {
-      "lemma": "shock",
-      "stress": "ʃɑk",
-      "pos": "noun",
-      "gloss": "choc, saisissement",
-      "meanings": [
-        {
-          "en": "choc, saisissement",
-          "note": "From the shock (\"sous le coup de l'émotion / du choc\") s'emploie volontiers pour une grosse surprise sans gravité."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Opening the wrong suitcase was quite a shock!",
-          "trans": "Ouvrir la mauvaise valise a été un fameux choc!"
-        },
-        {
-          "text": "After the first shock, everyone laughed.",
-          "trans": "Une fois la première surprise passée, tout le monde a ri."
-        }
-      ],
-      "related": []
-    },
-    "sit": {
-      "lemma": "sit",
-      "stress": "sɪt",
-      "pos": "verb",
-      "gloss": "s'asseoir, être assis",
-      "meanings": [
-        {
-          "en": "s'asseoir, être assis",
-          "note": "Voyelle courte relâchée /ɪ/ (/sɪt/, bien distincte de seat /sit/!); Now sit ou Sit down signifient \"Assieds-toi / Asseyez-vous\"."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "sit"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "sits"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "sat"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "sat"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "sitting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Come sit in the sunny courtyard.",
-          "trans": "Venez vous asseoir dans la cour ensoleillée."
-        },
-        {
-          "text": "A brass bell sits on the wooden counter.",
-          "trans": "Une clochette en laiton trône sur le comptoir en bois."
-        }
-      ],
-      "related": []
-    },
-    "sleep": {
-      "lemma": "sleep",
-      "stress": "slip",
-      "pos": "verb",
-      "gloss": "dormir",
-      "meanings": [
-        {
-          "en": "dormir",
-          "note": "Irrégulier: sleep, slept, slept; I will sleep well tonight équivaut exactement à \"Je vais bien dormir cette nuit\"."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "sleep"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "sleeps"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "slept"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "slept"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "sleeping"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Did you sleep well?",
-          "trans": "Bonjour! Avez-vous bien dormi?"
-        },
-        {
-          "text": "Everyone sleeps soundly after sea air.",
-          "trans": "Tout le monde dort profondément après l'air marin."
-        }
-      ],
-      "related": []
-    },
-    "soft": {
-      "lemma": "soft",
-      "stress": "sɔft",
-      "pos": "adj",
-      "gloss": "doux (au toucher ou à l'oreille), moelleux, tendre",
-      "meanings": [
-        {
-          "en": "doux (au toucher ou à l'oreille), moelleux, tendre",
-          "note": "Qualifie une laine toute douce (soft wool cardigan), un pain moelleux ou une voix feutrée."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This gray wool sweater is very soft.",
-          "trans": "Ce pull en laine grise est très doux."
-        },
-        {
-          "text": "Soft morning light entered the room.",
-          "trans": "Une douce lumière matinale entrait dans la pièce."
-        }
-      ],
-      "related": []
-    },
-    "soon": {
-      "lemma": "soon",
-      "stress": "sun",
-      "pos": "adv",
-      "gloss": "bientôt",
-      "meanings": [
-        {
-          "en": "bientôt",
-          "note": "See you soon! (\"À bientôt! / À très vite!\") est la salutation finale la plus chaleureuse entre deux scènes."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Coffee will be ready very soon.",
-          "trans": "Le café sera prêt très bientôt."
-        },
-        {
-          "text": "See you soon in the courtyard!",
-          "trans": "À bientôt dans la cour!"
-        }
-      ],
-      "related": []
-    },
-    "suitcase": {
-      "lemma": "suitcase",
-      "stress": "ˈsutˌkeɪs",
-      "pos": "noun",
-      "gloss": "valise",
-      "meanings": [
-        {
-          "en": "valise",
-          "note": "Nom comptable standard (my blue suitcase, another suitcase), contrairement à luggage qui est indénombrable!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Two guests brought the exact same blue suitcase.",
-          "trans": "Deux clients ont apporté exactement la même valise bleue."
-        },
-        {
-          "text": "Set your suitcase on the wooden luggage rack.",
-          "trans": "Posez votre valise sur le porte-bagages en bois."
-        }
-      ],
-      "related": []
-    },
-    "sure": {
-      "lemma": "sure",
-      "stress": "ʃʊɹ",
-      "pos": "adj",
-      "gloss": "sûr, certain; bien sûr! (adverbe)",
-      "meanings": [
-        {
-          "en": "sûr, certain; bien sûr! (adverbe)",
-          "note": "Commence par /ʃ/ (/ʃʊɹ/)! Are you sure? = \"Vous êtes sûre?\", et Sure, Graham! = \"Bien sûr, Graham!\" (parfois avec un clin d'œil complice!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Sure! Let me grab an extra towel for you.",
-          "trans": "Bien sûr! Laissez-moi vous chercher une serviette supplémentaire."
-        },
-        {
-          "text": "Are you sure this is your blue bag?",
-          "trans": "Êtes-vous sûr que c'est votre sac bleu?"
-        }
-      ],
-      "related": []
-    },
-    "surely": {
-      "lemma": "surely",
-      "stress": "ˈʃʊɹli",
-      "pos": "adv",
-      "gloss": "sûrement, certainement, à coup sûr",
-      "meanings": [
-        {
-          "en": "sûrement, certainement, à coup sûr",
-          "note": "Whoever owns it will surely look for it (\"Celui à qui il appartient va sûrement le chercher\")."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Surely someone wrote a name inside the lid.",
-          "trans": "Quelqu'un a sûrement inscrit un nom à l'intérieur du couvercle."
-        },
-        {
-          "text": "Slowly but surely, Hannah learned every key.",
-          "trans": "Lentement mais sûrement, Hannah a appris chaque clé."
-        }
-      ],
-      "related": []
-    },
-    "tea": {
-      "lemma": "tea",
-      "stress": "ti",
-      "pos": "noun",
-      "gloss": "thé",
-      "meanings": [
-        {
-          "en": "thé",
-          "note": "Indénombrable: hot tea (\"du thé chaud\", sans article partitif), mint tea, black tea."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Rule one: drink hot tea first.",
-          "trans": "Règle numéro un: boire d'abord du thé chaud."
-        },
-        {
-          "text": "Would you like lemon or honey in your tea?",
-          "trans": "Voulez-vous du citron ou du miel dans votre thé?"
-        }
-      ],
-      "related": []
-    },
-    "thank": {
-      "lemma": "thank",
-      "stress": "θæŋk",
-      "pos": "verb",
-      "gloss": "remercier; merci (Thank you)",
-      "meanings": [
-        {
-          "en": "remercier; merci (Thank you)",
-          "note": "Toujours suivi d'un complément (Thank you!, Thank you both, thank goodness), jamais *Thank!* tout seul (sinon au pluriel: Thanks!)!"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "thank"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "thanks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "thanked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "thanked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "thanking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh, it opens! Thank you!",
-          "trans": "Ah, elle s'ouvre! Merci!"
-        },
-        {
-          "text": "Thank you for keeping my luggage safe.",
-          "trans": "Merci d'avoir gardé mes bagages en sécurité."
-        }
-      ],
-      "related": []
-    },
-    "that": {
-      "lemma": "that",
-      "stress": "ðæt",
+    "anything": {
+      "lemma": "anything",
+      "stress": "ˈɛniˌθɪŋ",
       "pos": "pron",
-      "gloss": "ce, cet, cette, ça (là-bas ou déjà mentionné); que (conjonction)",
+      "gloss": "quelque chose, quoi que ce soit; rien",
       "meanings": [
         {
-          "en": "ce, cet, cette, ça (là-bas ou déjà mentionné); que (conjonction)",
-          "note": "Pointe ce dont on vient de parler ou ce qui est un peu plus loin: What was that bell? (\"C'était quoi, cette sonnerie?\"), Did you hear that? (\"Tu as entendu ça?\")."
+          "en": "quelque chose, quoi que ce soit; rien",
+          "note": "Dans les offres et conditions (if you need anything), signifie \"quoi que ce soit\"."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "That blue suitcase by the door is Arthur's.",
-          "trans": "Cette valise bleue près de la porte est celle d'Arthur."
+          "text": "Call me if you need anything.",
+          "trans": "Appelez-moi si vous avez besoin de quoi que ce soit."
         },
         {
-          "text": "That sounds like a great plan!",
-          "trans": "Cela m'a l'air d'être un excellent programme!"
+          "text": "Did you buy anything at the market?",
+          "trans": "As-tu acheté quelque chose au marché?"
         }
       ],
       "related": []
     },
-    "the": {
-      "lemma": "the",
-      "stress": "ðə",
-      "pos": "det",
-      "gloss": "le, la, les, l'",
-      "meanings": [
-        {
-          "en": "le, la, les, l'",
-          "note": "Un seul article défini invariable pour le masculin, le féminin et le pluriel! Prononcé /ðə/ devant consonne et /ði/ devant voyelle."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle on the front door.",
-          "trans": "Soulevez la poignée de la porte d'entrée."
-        },
-        {
-          "text": "All the keys hang behind the desk.",
-          "trans": "Toutes les clés pendent derrière le bureau."
-        }
-      ],
-      "related": []
-    },
-    "think": {
-      "lemma": "think",
-      "stress": "θɪŋk",
-      "pos": "verb",
-      "gloss": "penser, croire",
-      "meanings": [
-        {
-          "en": "penser, croire",
-          "note": "Irrégulier: think, thought, thought (/θɔt/); Quick thinking (\"une réaction vive / présence d'esprit\") est le nom verbal en -ing!"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "think"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "thinks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "thought"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "thought"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "thinking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I think both bags rode in the same taxi.",
-          "trans": "Je pense que les deux sacs ont voyagé dans le même taxi."
-        },
-        {
-          "text": "Quick thinking saved our morning!",
-          "trans": "De bons réflexes ont sauvé notre matinée!"
-        }
-      ],
-      "related": []
-    },
-    "this": {
-      "lemma": "this",
-      "stress": "ðɪs",
-      "pos": "det",
-      "gloss": "ce, cet, cette; ceci, c'est (singulier proche)",
-      "meanings": [
-        {
-          "en": "ce, cet, cette; ceci, c'est (singulier proche)",
-          "note": "Voyelle courte /ɪ/ et /s/ sourd final (/ðɪs/); This is not my bag! (\"Ce n'est pas mon sac!\") désigne la valise ouverte juste devant soi."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use this big paper book.",
-          "trans": "Ici, nous utilisons ce grand registre en papier."
-        },
-        {
-          "text": "Hello, this is Hannah at the front desk.",
-          "trans": "Allô, c'est Hannah à la réception."
-        }
-      ],
-      "related": []
-    },
-    "tonight": {
-      "lemma": "tonight",
-      "stress": "təˈnaɪt",
-      "pos": "adv",
-      "gloss": "ce soir, cette nuit",
-      "meanings": [
-        {
-          "en": "ce soir, cette nuit",
-          "note": "Couvre à la fois \"ce soir\" (is room six free tonight?) et \"cette nuit\" (I will sleep well tonight); ne dites jamais *this evening/night* là où tonight suffit!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "All eight rooms are full tonight.",
-          "trans": "Les huit chambres sont complètes ce soir."
-        },
-        {
-          "text": "Sleep well tonight!",
-          "trans": "Dormez bien cette nuit!"
-        }
-      ],
-      "related": []
-    },
-    "train": {
-      "lemma": "train",
-      "stress": "tɹeɪn",
+    "night": {
+      "lemma": "night",
+      "stress": "naɪt",
       "pos": "noun",
-      "gloss": "train",
+      "gloss": "nuit, soir",
       "meanings": [
         {
-          "en": "train",
-          "note": "Sert de nom principal (a wooden train) et de modificateur devant un autre nom: train trip (\"voyage en train\"), train station (\"gare\")!"
+          "en": "nuit, soir",
+          "note": "Le gh est muet (/naɪt/); Good night! dit \"Bonne nuit!\" au départ, mais \"hier soir\" se dit last night!"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Both guests arrived on the nine o'clock train.",
-          "trans": "Les deux clients sont arrivés par le train de neuf heures."
+          "text": "Did you book for one night or two?",
+          "trans": "Avez-vous réservé pour une nuit ou pour deux?"
         },
         {
-          "text": "The train station is ten minutes away by taxi.",
-          "trans": "La gare est à dix minutes en taxi."
-        }
-      ],
-      "related": []
-    },
-    "traveler": {
-      "lemma": "traveler",
-      "stress": "ˈtɹævəlɚ",
-      "pos": "noun",
-      "gloss": "voyageur, voyageuse",
-      "meanings": [
-        {
-          "en": "voyageur, voyageuse",
-          "note": "Orthographe américaine avec un seul l: traveler (au Royaume-Uni: traveller)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tired travelers appreciate a quiet courtyard.",
-          "trans": "Les voyageurs fatigués apprécient une cour paisible."
-        },
-        {
-          "text": "Every traveler has a story to share at breakfast.",
-          "trans": "Chaque voyageur a une histoire à partager au petit-déjeuner."
-        }
-      ],
-      "related": []
-    },
-    "trip": {
-      "lemma": "trip",
-      "stress": "tɹɪp",
-      "pos": "noun",
-      "gloss": "voyage, trajet, séjour",
-      "meanings": [
-        {
-          "en": "voyage, trajet, séjour",
-          "note": "Nom comptable courant pour un voyage précis: How was your train trip? (\"Comment s'est passé votre trajet en train?\"), my whole trip (\"tout mon voyage\")."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "How was your train trip from Boston?",
-          "trans": "Comment s'est passé votre voyage en train depuis Boston?"
-        },
-        {
-          "text": "Have a wonderful trip!",
-          "trans": "Bon voyage!"
-        }
-      ],
-      "related": []
-    },
-    "try": {
-      "lemma": "try",
-      "stress": "tɹaɪ",
-      "pos": "verb",
-      "gloss": "essayer, goûter",
-      "meanings": [
-        {
-          "en": "essayer, goûter",
-          "note": "Try it on! (avec la particule on!) est l'expression exacte pour dire \"Essayez-le!\" en parlant d'un vêtement (comme le cardigan)!"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "try"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "tries"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "tried"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "tried"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "trying"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Try one of Tessa's warm cinnamon rolls!",
-          "trans": "Goûtez l'un des roulés chauds à la cannelle de Tessa!"
-        },
-        {
-          "text": "Try lifting the handle before you push.",
-          "trans": "Essayez de soulever la poignée avant de pousser."
-        }
-      ],
-      "related": []
-    },
-    "upstairs": {
-      "lemma": "upstairs",
-      "stress": "ˌʌpˈstɛɹz",
-      "pos": "adv",
-      "gloss": "en haut, à l'étage",
-      "meanings": [
-        {
-          "en": "en haut, à l'étage",
-          "note": "Adverbe de lieu complet sans préposition: sit upstairs (\"rester assise là-haut à l'étage\")."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me help carry your bag upstairs.",
-          "trans": "Laissez-moi vous aider à monter votre valise à l'étage."
-        },
-        {
-          "text": "All guest bedrooms are upstairs.",
-          "trans": "Toutes les chambres d'hôtes se trouvent à l'étage."
-        }
-      ],
-      "related": []
-    },
-    "very": {
-      "lemma": "very",
-      "stress": "ˈvɛɹi",
-      "pos": "adv",
-      "gloss": "très; beaucoup (dans Thank you very much)",
-      "meanings": [
-        {
-          "en": "très; beaucoup (dans Thank you very much)",
-          "note": "Se place devant un adjectif ou adverbe (very heavy, very quiet, very well), mais devant un verbe seul on ajoute much: Thank you very much!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Thank you very much for your patience!",
-          "trans": "Merci beaucoup pour votre patience!"
-        },
-        {
-          "text": "Portland is very peaceful in the morning.",
-          "trans": "Portland est très paisible le matin."
-        }
-      ],
-      "related": []
-    },
-    "warm": {
-      "lemma": "warm",
-      "stress": "wɔɹm",
-      "pos": "adj",
-      "gloss": "tiède, chaud (agréablement), chaleureux",
-      "meanings": [
-        {
-          "en": "tiède, chaud (agréablement), chaleureux",
-          "note": "Nuance précieuse: warm décrit une chaleur douce et réconfortante (warm rolls, warm bread, warm cardigan), moins brûlante que hot!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tessa brought a basket of warm bread.",
-          "trans": "Tessa a apporté une corbeille de pain tiède."
-        },
-        {
-          "text": "Thank you for such a warm welcome!",
-          "trans": "Merci pour cet accueil si chaleureux!"
-        }
-      ],
-      "related": []
-    },
-    "wear": {
-      "lemma": "wear",
-      "stress": "wɛɹ",
-      "pos": "verb",
-      "gloss": "porter (un vêtement, des chaussures, des lunettes); usé (worn)",
-      "meanings": [
-        {
-          "en": "porter (un vêtement, des chaussures, des lunettes); usé (worn)",
-          "note": "Rime avec care et where (/wɛɹ/), irrégulier: wear, wore, worn! Pour un vêtement sur soi on dit TOUJOURS wear (jamais carry!): never worn = \"jamais porté\"."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "wear"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "wears"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "wore"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "worn"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "wearing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wear a warm coat; the sea breeze is cool.",
-          "trans": "Portez un manteau chaud; la brise marine est fraîche."
-        },
-        {
-          "text": "The brass handle is smooth and worn with age.",
-          "trans": "La poignée en laiton est lisse et patinée par le temps."
-        }
-      ],
-      "related": []
-    },
-    "well": {
-      "lemma": "well",
-      "stress": "wɛl",
-      "pos": "adv",
-      "gloss": "bien (adverbe); eh bien (interjection)",
-      "meanings": [
-        {
-          "en": "bien (adverbe); eh bien (interjection)",
-          "note": "Adverbe correspondant à good: It fits you very well (\"Il vous va très bien\"), sleep well, rest well!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Did you sleep well last night?",
-          "trans": "Avez-vous bien dormi la nuit dernière?"
-        },
-        {
-          "text": "Well, let us check both tags side by side.",
-          "trans": "Eh bien, comparons les deux étiquettes côte à côte."
-        }
-      ],
-      "related": []
-    },
-    "whoever": {
-      "lemma": "whoever",
-      "stress": "huˈɛvɚ",
-      "pos": "pron",
-      "gloss": "quiconque, celui ou celle qui",
-      "meanings": [
-        {
-          "en": "quiconque, celui ou celle qui",
-          "note": "Whoever owns it (\"Celui ou celle à qui il appartient / Son propriétaire, quel qu'il soit\") désigne une personne encore inconnue!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Whoever owns this bag loves classical music!",
-          "trans": "Celui à qui appartient ce sac adore la musique classique!"
-        },
-        {
-          "text": "Whoever arrives first gets the freshest roll.",
-          "trans": "Le premier arrivé aura le petit pain le plus frais."
-        }
-      ],
-      "related": []
-    },
-    "whole": {
-      "lemma": "whole",
-      "stress": "hoʊl",
-      "pos": "adj",
-      "gloss": "entier, tout (le)",
-      "meanings": [
-        {
-          "en": "entier, tout (le)",
-          "note": "Le w initial est totalement muet (/hoʊl/, homophone de hole!) et whole se place APRÈS le déterminant: my whole trip (\"tout mon voyage\")!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Warm cinnamon scented the whole house.",
-          "trans": "Une odeur de cannelle chaude parfumait toute la maison."
-        },
-        {
-          "text": "We spent the whole morning solving the mix-up.",
-          "trans": "Nous avons passé toute la matinée à démêler ce quiproquo."
-        }
-      ],
-      "related": []
-    },
-    "will": {
-      "lemma": "will",
-      "stress": "wɪl",
-      "pos": "verb",
-      "gloss": "auxiliaire du futur et de la décision immédiate",
-      "meanings": [
-        {
-          "en": "auxiliaire du futur et de la décision immédiate",
-          "note": "Exprime aussi bien l'avenir (will not be boring) qu'une offre ou promesse prise sur l'instant: I will carry the bag up (\"Je vais vous monter la valise\"), I will! (\"Promis / Je n'y manquerai pas!\")!"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "will"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "will"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "would"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I will call the taxi company right away.",
-          "trans": "J'appelle tout de suite la compagnie de taxis."
-        },
-        {
-          "text": "Tessa will bring fresh bread at eight.",
-          "trans": "Tessa apportera du pain frais à huit heures."
-        }
-      ],
-      "related": []
-    },
-    "wooden": {
-      "lemma": "wooden",
-      "stress": "ˈwʊdən",
-      "pos": "adj",
-      "gloss": "en bois",
-      "meanings": [
-        {
-          "en": "en bois",
-          "note": "A little wooden train (\"un petit train en bois\"): le suffixe -en forme l'adjectif de matière sur wood!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Set the tray on the long wooden table.",
-          "trans": "Pose le plateau sur la longue table en bois."
-        },
-        {
-          "text": "Eight keys hang on a wooden board.",
-          "trans": "Huit clés pendent à un tableau en bois."
-        }
-      ],
-      "related": []
-    },
-    "wool": {
-      "lemma": "wool",
-      "stress": "wʊl",
-      "pos": "noun",
-      "gloss": "laine; en laine (modificateur)",
-      "meanings": [
-        {
-          "en": "laine; en laine (modificateur)",
-          "note": "Voyelle courte /ʊ/ (/wʊl/, comme wood et book); soft wool cardigan (\"cardigan en laine douce\") emploie directement le nom wool comme modificateur!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Arthur packed two soft wool sweaters.",
-          "trans": "Arthur a emporté deux pulls en laine toute douce."
-        },
-        {
-          "text": "Maine winters call for thick wool socks.",
-          "trans": "Les hivers du Maine réclament d'épaisses chaussettes de laine."
-        }
-      ],
-      "related": []
-    },
-    "you": {
-      "lemma": "you",
-      "stress": "ju",
-      "pos": "pron",
-      "gloss": "tu, vous (singulier poli ou pluriel); te, toi",
-      "meanings": [
-        {
-          "en": "tu, vous (singulier poli ou pluriel); te, toi",
-          "note": "Un SEUL pronom couvre le tutoiement (\"tu\"), le vouvoiement (\"vous\") et le pluriel, et il prend TOUJOURS la forme plurielle du verbe (you are)!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You are ten minutes early today!",
-          "trans": "Vous êtes dix minutes en avance aujourd'hui!"
-        },
-        {
-          "text": "Thank you! See you next time!",
-          "trans": "Merci! À la prochaine fois!"
+          "text": "The courtyard is very quiet at night.",
+          "trans": "La cour est très calme la nuit."
         }
       ],
       "related": []

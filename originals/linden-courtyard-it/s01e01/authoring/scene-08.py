@@ -15,8 +15,8 @@ OUTRO = "La valigia di Evelyn è tornata, ma lo sconosciuto è svanito nel buio 
 CLOSING = ("graham", "Have a good night!")
 STORY = [
     ("hannah", "Did you hear that, Graham? Someone just rang the gate bell!", "Hai sentito, Graham? Qualcuno ha appena suonato la campanella del cancello!"),
-    ("graham", "At nine o'clock? Stay here, let us open the door together.", "Alle nove in punto? Resta qui, apriamo la porta insieme."),
-    ("hannah", "Hello? Good evening! Nobody is standing in the courtyard!", "C'è nessuno? Buonasera! Non c'è nessuno in piedi nel cortile!"),
+    ("graham", "At nine o'clock? Wait, let us open the gate together.", "Alle nove in punto? Resta qui, apriamo la porta insieme."),
+    ("hannah", "Hello? Good evening! Nobody is standing at the gate!", "C'è nessuno? Buonasera! Non c'è nessuno al cancello!"),
     ("graham", "Wait. Look down on the stone step.", "Aspetta. Guarda giù sul gradino di pietra."),
     ("hannah", "Another dark blue suitcase! Is this Miss Evelyn's bag?", "Un'altra valigia blu scuro! È il bagaglio della signorina Evelyn?"),
     ("graham", "Check the zipper... yes, her initials are right here!", "Controlla la cerniera... sì, le sue iniziali sono proprio qui!"),
@@ -30,7 +30,7 @@ STORY = [
 WALK = [
     (0, None, ["'Hai sentito, Graham? Qualcuno ha appena suonato la campanella del cancello!' Ecco una domanda nitida al passato:", (None, "Did you hear that"), "mette l'ausiliare davanti e lascia il verbo sentire invariato."]),
     (1, None, ["'Alle nove in punto? Resta qui, apriamo la porta insieme.' L'espressione tradizionale", (None, "nine o'clock"), "indica sempre un'ora spaccata, senza minuti aggiunti."]),
-    (2, None, ["'C'è nessuno? Buonasera! Non c'è nessuno in piedi nel cortile!' Distingui bene i saluti serali: quando incontri o accogli qualcuno di sera dici", (None, "Good evening"), "mentre l'augurio della buonanotte si usa solo al congedo."]),
+    (2, None, ["'C'è nessuno? Buonasera! Non c'è nessuno al cancello!' Distingui bene i saluti serali: quando incontri o accogli qualcuno di sera dici", (None, "Good evening"), "mentre l'augurio della buonanotte si usa solo al congedo."]),
     (3, None, ["'Aspetta. Guarda giù sul gradino di pietra.' Accostando sguardo e direzione verso il basso,", (None, "Look down"), "invita subito ad abbassare gli occhi a terra."]),
     (4, None, ["'Un'altra valigia blu scuro! È il bagaglio della signorina Evelyn?' Al singolare l'inglese fonde articolo indeterminativo e aggettivo in una parola sola:", (None, "Another"), "un'altra."]),
     (5, None, ["'Controlla la cerniera... sì, le sue iniziali sono proprio qui!' In inglese il possessivo di terza persona concorda col possessore e non con la cosa posseduta, quindi per una donna si usa", (None, "her initials"), "le sue iniziali."]),

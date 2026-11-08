@@ -38,7 +38,7 @@ STORY = [('arthur', 'Well? Did he shout? Did he ask for his money back?', 'Na? H
  ('tessa',
   "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'",
   'Schaut mal auf die Wörter neben unserem: "Hofbreite, Straßenlärm, Ruhewert: neun von zehn!"'),
- ('arthur', 'Nine out of ten?! Nobody measures lobbies unless...', 'Neun von zehn?! Niemand vermisst Empfangshallen, es sei denn...'),
+ ('arthur', 'Nine out of ten?! Nobody measures courtyards unless...', 'Neun von zehn?! Niemand vermisst Innenhöfe, es sei denn...'),
  ('tessa',
   'Unless he writes for the annual Portland Travel Guide!',
   'Es sei denn, er schreibt für den jährlichen Reiseführer von Portland!'),

@@ -3896,202 +3896,78 @@
     }
   ],
   "lexicon": {
-    "a": {
-      "lemma": "a",
-      "stress": "ə",
-      "pos": "det",
-      "gloss": "ein, eine",
+    "good": {
+      "lemma": "good",
+      "stress": "ɡʊd",
+      "pos": "adj",
+      "gloss": "gut",
       "meanings": [
         {
-          "en": "ein, eine",
-          "note": "Unbestimmter Artikel vor gesprochenem Konsonanten (z. B. a pen, aber auch a hotel)."
+          "en": "gut",
+          "note": "Unregelmäßige Steigerung wie im Deutschen: good – better – best (gut – besser – am besten)."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "good"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "better"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "best"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "I have a blue pen.",
-          "trans": "Ich habe einen blauen Stift."
+          "text": "Good morning! Did you sleep well?",
+          "trans": "Guten Morgen! Haben Sie gut geschlafen?"
         },
         {
-          "text": "She wants a cup of tea.",
-          "trans": "Sie möchte eine Tasse Tee."
+          "text": "Fresh bread smells even better with butter.",
+          "trans": "Frisches Brot schmeckt mit Butter noch besser."
         }
       ],
       "related": []
     },
-    "above": {
-      "lemma": "above",
-      "stress": "əˈbʌv",
-      "pos": "prep",
-      "gloss": "über, oberhalb von",
+    "morning": {
+      "lemma": "morning",
+      "stress": "ˈmɔɹnɪŋ",
+      "pos": "noun",
+      "gloss": "Morgen, Vormittag",
       "meanings": [
         {
-          "en": "über, oberhalb von",
-          "note": "Bezeichnet eine höhere Lage ohne direkte Berührung (im Gegensatz zu on)."
+          "en": "Morgen, Vormittag",
+          "note": "Deckt im Englischen die gesamte Zeit bis 12 Uhr mittags (noon) ab — also sowohl Morgen als auch Vormittag!"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "A lamp hangs above the table.",
-          "trans": "Eine Lampe hängt über dem Tisch."
+          "text": "Good morning! Coffee is hot and ready.",
+          "trans": "Guten Morgen! Der Kaffee ist heiß und fertig."
         },
         {
-          "text": "Our room is above the garden.",
-          "trans": "Unser Zimmer liegt über dem Garten."
-        }
-      ],
-      "related": []
-    },
-    "after": {
-      "lemma": "after",
-      "stress": "ˈæftɚ",
-      "pos": "prep",
-      "gloss": "nach, hinter",
-      "meanings": [
-        {
-          "en": "nach, hinter",
-          "note": "Drückt zeitliche oder räumliche Nachfolge aus und steht auch als Konjunktion (nachdem)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let us walk after lunch.",
-          "trans": "Gehen wir nach dem Mittagessen spazieren."
-        },
-        {
-          "text": "Wednesday comes after Tuesday.",
-          "trans": "Mittwoch kommt nach Dienstag."
-        }
-      ],
-      "related": []
-    },
-    "all": {
-      "lemma": "all",
-      "stress": "ɔl",
-      "pos": "det",
-      "gloss": "alle, alles, ganz",
-      "meanings": [
-        {
-          "en": "alle, alles, ganz",
-          "note": "Steht vor dem Artikel (all the windows) oder vor Zeitangaben ohne Artikel (all morning = den ganzen Morgen)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "All the windows are open.",
-          "trans": "Alle Fenster sind offen."
-        },
-        {
-          "text": "She worked all morning.",
-          "trans": "Sie hat den ganzen Vormittag gearbeitet."
-        }
-      ],
-      "related": []
-    },
-    "already": {
-      "lemma": "already",
-      "stress": "ɔlˈɹɛdi",
-      "pos": "adv",
-      "gloss": "schon, bereits",
-      "meanings": [
-        {
-          "en": "schon, bereits",
-          "note": "Steht vor dem Vollverb, aber nach Formen von be (is already here)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast is already on the table.",
-          "trans": "Das Frühstück steht schon auf dem Tisch."
-        },
-        {
-          "text": "Are you leaving already?",
-          "trans": "Gehst du schon?"
-        }
-      ],
-      "related": []
-    },
-    "and": {
-      "lemma": "and",
-      "stress": "ænd",
-      "pos": "conj",
-      "gloss": "und",
-      "meanings": [
-        {
-          "en": "und",
-          "note": "Grundlegende nebenordnende Konjunktion; im natürlichen Sprechfluss oft schwach als 'n gesprochen."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bring bread and butter, please.",
-          "trans": "Bring bitte Brot und Butter mit."
-        },
-        {
-          "text": "Wash your hands and sit down.",
-          "trans": "Wasch dir die Hände und setz dich."
-        }
-      ],
-      "related": []
-    },
-    "as": {
-      "lemma": "as",
-      "stress": "æz",
-      "pos": "adv",
-      "gloss": "so; als, wie",
-      "meanings": [
-        {
-          "en": "so; als, wie",
-          "note": "In Vergleichen der Gleichheit steht as ... as (so ... wie, nicht *so ... as* in positiven Sätzen)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My bag is as heavy as yours.",
-          "trans": "Meine Tasche ist genauso schwer wie deine."
-        },
-        {
-          "text": "Come as soon as you can.",
-          "trans": "Komm so bald du kannst."
-        }
-      ],
-      "related": []
-    },
-    "at": {
-      "lemma": "at",
-      "stress": "æt",
-      "pos": "prep",
-      "gloss": "um (Uhrzeit); an, bei",
-      "meanings": [
-        {
-          "en": "um (Uhrzeit); an, bei",
-          "note": "Steht vor genauen Uhrzeiten (at seven) und konkreten Treffpunkten (at the gate, at the desk)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast starts at seven thirty.",
-          "trans": "Das Frühstück beginnt um halb acht."
-        },
-        {
-          "text": "Someone is waiting at the gate.",
-          "trans": "Jemand wartet am Tor."
+          "text": "Rain fell softly all morning.",
+          "trans": "Den ganzen Vormittag fiel leise Regen."
         }
       ],
       "related": []
@@ -4159,1872 +4035,27 @@
       ],
       "related": []
     },
-    "big": {
-      "lemma": "big",
-      "stress": "bɪɡ",
-      "pos": "adj",
-      "gloss": "groß",
-      "meanings": [
-        {
-          "en": "groß",
-          "note": "Häufigstes Alltagswort für räumliche Größe und Umfang."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "They live in a big brick house.",
-          "trans": "Sie wohnen in einem großen Backsteinhaus."
-        },
-        {
-          "text": "We need a big pot for the soup.",
-          "trans": "Wir brauchen einen großen Topf für die Suppe."
-        }
-      ],
-      "related": []
-    },
-    "blue": {
-      "lemma": "blue",
-      "stress": "blu",
-      "pos": "adj",
-      "gloss": "blau",
-      "meanings": [
-        {
-          "en": "blau",
-          "note": "Bleibt wie alle englischen Adjektive vor dem Nomen endungslos (a blue sky, blue bags)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at that clear blue sky.",
-          "trans": "Schau dir diesen klaren blauen Himmel an."
-        },
-        {
-          "text": "My suitcase has a blue handle.",
-          "trans": "Mein Koffer hat einen blauen Griff."
-        }
-      ],
-      "related": []
-    },
-    "boiler": {
-      "lemma": "boiler",
-      "stress": "ˈbɔɪlɚ",
-      "pos": "noun",
-      "gloss": "Heizkessel, Boiler",
-      "meanings": [
-        {
-          "en": "Heizkessel, Boiler",
-          "note": "Bezeichnet die zentrale Heizungs- und Warmwasseranlage im Keller eines Hauses."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Graham repaired the basement boiler.",
-          "trans": "Graham hat den Heizkessel im Keller repariert."
-        },
-        {
-          "text": "The old boiler makes a clanking sound.",
-          "trans": "Der alte Heizkessel macht ein metallisches Klopfgeräusch."
-        }
-      ],
-      "related": []
-    },
-    "brass": {
-      "lemma": "brass",
-      "stress": "bɹæs",
-      "pos": "noun",
-      "gloss": "Messing",
-      "meanings": [
-        {
-          "en": "Messing",
-          "note": "Unzählbares Materialwort für die goldglänzende Kupfer-Zink-Legierung alter Schlüssel und Griffe."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Polish the brass handle on the door.",
-          "trans": "Polier die Messingklinke an der Tür."
-        },
-        {
-          "text": "Eight brass keys hang behind the desk.",
-          "trans": "Acht Messingschlüssel hängen hinter dem Tresen."
-        }
-      ],
-      "related": []
-    },
-    "break": {
-      "lemma": "break",
-      "stress": "bɹeɪk",
-      "pos": "verb",
-      "gloss": "zerbrechen, kaputtgehen; brechen",
-      "meanings": [
-        {
-          "en": "zerbrechen, kaputtgehen; brechen",
-          "note": "Starkes Verb: break /bɹeɪk/ – broke – broken; funktioniert transitiv (zerbrechen) und intransitiv (kaputtgehen)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "break"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "breaks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "broke"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "broken"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "breaking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Be careful not to break the cup.",
-          "trans": "Pass auf, dass du die Tasse nicht zerbrichst."
-        },
-        {
-          "text": "Did the old valve break again?",
-          "trans": "Ist das alte Ventil schon wieder kaputtgegangen?"
-        }
-      ],
-      "related": []
-    },
-    "bridge": {
-      "lemma": "bridge",
-      "stress": "bɹɪdʒ",
-      "pos": "noun",
-      "gloss": "Brücke",
-      "meanings": [
-        {
-          "en": "Brücke",
-          "note": "Bezeichnet Straßen-, Fußgänger- und Eisenbahnbrücken; wird mit stimmhaftem /dʒ/ am Ende gesprochen."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Cross the old stone bridge.",
-          "trans": "Geh über die alte Steinbrücke."
-        },
-        {
-          "text": "The shop is just past the bridge.",
-          "trans": "Der Laden kommt gleich hinter der Brücke."
-        }
-      ],
-      "related": []
-    },
-    "clerk": {
-      "lemma": "clerk",
-      "stress": "klɝk",
-      "pos": "noun",
-      "gloss": "Angestellter, Empfangskraft, Verkäufer",
-      "meanings": [
-        {
-          "en": "Angestellter, Empfangskraft, Verkäufer",
-          "note": "Wird im US-Englisch /klɝk/ gesprochen (im Britischen /klɑːk/) und meint Laden- oder Hotelangestellte."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Show this valve to the shop clerk.",
-          "trans": "Zeig dieses Ventil dem Verkäufer im Laden."
-        },
-        {
-          "text": "Graham works as the night clerk.",
-          "trans": "Graham arbeitet als Nachtportier am Empfang."
-        }
-      ],
-      "related": []
-    },
-    "coat": {
-      "lemma": "coat",
-      "stress": "koʊt",
-      "pos": "noun",
-      "gloss": "Mantel, Jacke",
-      "meanings": [
-        {
-          "en": "Mantel, Jacke",
-          "note": "Bezeichnet den Übermantel für draußen; die Manteltasche heißt coat pocket."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Button your coat before going outside.",
-          "trans": "Knöpf deinen Mantel zu, bevor du nach draußen gehst."
-        },
-        {
-          "text": "My keys are in my coat pocket.",
-          "trans": "Meine Schlüssel sind in meiner Manteltasche."
-        }
-      ],
-      "related": []
-    },
-    "cold": {
-      "lemma": "cold",
-      "stress": "koʊld",
-      "pos": "adj",
-      "gloss": "kalt",
-      "meanings": [
-        {
-          "en": "kalt",
-          "note": "Bei Personen sagt man im Englischen I am cold (mir ist kalt); I feel cold geht ebenfalls."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pour a glass of cold water, please.",
-          "trans": "Schenken Sie bitte ein Glas kaltes Wasser ein."
-        },
-        {
-          "text": "My hands feel cold this morning.",
-          "trans": "Meine Hände fühlen sich heute Morgen kalt an."
-        }
-      ],
-      "related": []
-    },
-    "cross": {
-      "lemma": "cross",
-      "stress": "kɹɔs",
-      "pos": "verb",
-      "gloss": "überqueren",
-      "meanings": [
-        {
-          "en": "überqueren",
-          "note": "Steht als transitives Verb direkt mit dem Objekt ohne Präposition: cross the bridge (die Brücke überqueren)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "cross"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "crosses"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "crossed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "crossed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "crossing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Cross the stone bridge carefully.",
-          "trans": "Überquere vorsichtig die Steinbrücke."
-        },
-        {
-          "text": "Do I cross the river here?",
-          "trans": "Überquere ich hier den Fluss?"
-        }
-      ],
-      "related": []
-    },
-    "do": {
-      "lemma": "do",
-      "stress": "du",
-      "pos": "verb",
-      "gloss": "tun, machen; Hilfsverb für Fragen und Verneinung",
-      "meanings": [
-        {
-          "en": "tun, machen; Hilfsverb für Fragen und Verneinung",
-          "note": "Unentbehrlich als Hilfsverb in Fragen (Do you know?) und Verneinungen (I do not know)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "do"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "does"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "did"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "done"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "doing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you want sugar in your coffee?",
-          "trans": "Möchten Sie Zucker in Ihren Kaffee?"
-        },
-        {
-          "text": "What should we do with this package?",
-          "trans": "Was sollen wir mit diesem Paket machen?"
-        }
-      ],
-      "related": []
-    },
-    "door": {
-      "lemma": "door",
-      "stress": "dɔɹ",
-      "pos": "noun",
-      "gloss": "Tür",
-      "meanings": [
-        {
-          "en": "Tür",
-          "note": "Steht für Haus-, Zimmer- und Schranktüren; out the door heißt zur Tür hinaus."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Please close the front door gently.",
-          "trans": "Schließen Sie die Haustür bitte leise."
-        },
-        {
-          "text": "Someone knocked on the kitchen door.",
-          "trans": "Jemand klopfte an die Küchentür."
-        }
-      ],
-      "related": []
-    },
-    "fast": {
-      "lemma": "fast",
-      "stress": "fæst",
-      "pos": "adv",
-      "gloss": "schnell, rasch",
-      "meanings": [
-        {
-          "en": "schnell, rasch",
-          "note": "Dient unverändert als Adjektiv (a fast train) UND als Adverb (walk fast — es gibt kein *fastly*!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I always walk fast in cool weather.",
-          "trans": "Bei kühlem Wetter gehe ich immer schnell."
-        },
-        {
-          "text": "Do not speak too fast on the phone.",
-          "trans": "Sprich am Telefon nicht zu schnell."
-        }
-      ],
-      "related": []
-    },
-    "fifteen": {
-      "lemma": "fifteen",
-      "stress": "ˌfɪfˈtin",
-      "pos": "num",
-      "gloss": "fünfzehn",
-      "meanings": [
-        {
-          "en": "fünfzehn",
-          "note": "Verlagert vor einem Nomen die Hauptbetonung nach vorn (FIFteen minutes), um sich klar von fifty zu unterscheiden."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Give us fifteen minutes to prepare.",
-          "trans": "Geben Sie uns fünfzehn Minuten zur Vorbereitung."
-        },
-        {
-          "text": "Arthur worked here for fifteen years.",
-          "trans": "Arthur hat fünfzehn Jahre lang hier gearbeitet."
-        }
-      ],
-      "related": []
-    },
-    "find": {
-      "lemma": "find",
-      "stress": "faɪnd",
-      "pos": "verb",
-      "gloss": "finden",
-      "meanings": [
-        {
-          "en": "finden",
-          "note": "Unregelmäßiges Verb: find – found – found; find out heißt herausfinden."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "find"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "finds"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "found"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "found"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "finding"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Did you find your reading glasses?",
-          "trans": "Haben Sie Ihre Lesebrille gefunden?"
-        },
-        {
-          "text": "We will find the right suitcase soon.",
-          "trans": "Wir werden bald den richtigen Koffer finden."
-        }
-      ],
-      "related": []
-    },
-    "for": {
-      "lemma": "for",
-      "stress": "fɔɹ",
-      "pos": "prep",
-      "gloss": "für; seit, lang (Zeitdauer)",
-      "meanings": [
-        {
-          "en": "für; seit, lang (Zeitdauer)",
-          "note": "Steht für Empfänger und Zweck (ready for breakfast) sowie Zeitspannen (for ten minutes)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This package arrived for room two.",
-          "trans": "Dieses Paket ist für Zimmer zwei angekommen."
-        },
-        {
-          "text": "Wait here for just a moment.",
-          "trans": "Warten Sie hier bitte nur einen Moment."
-        }
-      ],
-      "related": []
-    },
-    "four": {
-      "lemma": "four",
-      "stress": "fɔɹ",
-      "pos": "num",
-      "gloss": "vier",
-      "meanings": [
-        {
-          "en": "vier",
-          "note": "Klingt im amerikanischen Englisch genauso wie betontes for (/fɔɹ/)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four looks out on the courtyard.",
-          "trans": "Zimmer vier blickt auf den Innenhof."
-        },
-        {
-          "text": "Please bring four spoons for the table.",
-          "trans": "Bring bitte vier Löffel für den Tisch mit."
-        }
-      ],
-      "related": []
-    },
-    "gate": {
-      "lemma": "gate",
-      "stress": "ɡeɪt",
-      "pos": "noun",
-      "gloss": "Tor, Gartentor, Hoftor",
-      "meanings": [
-        {
-          "en": "Tor, Gartentor, Hoftor",
-          "note": "Bezeichnet den äußeren Durchgang in einem Zaun oder einer Hofmauer (die Haustür selbst heißt door)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Close the iron gate behind you.",
-          "trans": "Schließ das Eisentor hinter dir."
-        },
-        {
-          "text": "Tessa waited by the courtyard gate.",
-          "trans": "Tessa wartete am Hoftor."
-        }
-      ],
-      "related": []
-    },
-    "get": {
-      "lemma": "get",
-      "stress": "ɡɛt",
-      "pos": "verb",
-      "gloss": "bekommen; holen; werden (+ Adjektiv)",
-      "meanings": [
-        {
-          "en": "bekommen; holen; werden (+ Adjektiv)",
-          "note": "Vielseitigstes Verb des Alltags: vor Komparativen/Adjektiven heißt es werden (gets stranger = wird immer seltsamer)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "get"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "gets"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "got"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "gotten"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "getting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me get you a warm cup of tea.",
-          "trans": "Lass mich dir eine warme Tasse Tee holen."
-        },
-        {
-          "text": "This mystery gets stranger every minute.",
-          "trans": "Dieses Rätsel wird mit jeder Minute seltsamer."
-        }
-      ],
-      "related": []
-    },
-    "golden": {
-      "lemma": "golden",
-      "stress": "ˈɡoʊldən",
-      "pos": "adj",
-      "gloss": "golden, goldbraun",
-      "meanings": [
-        {
-          "en": "golden, goldbraun",
-          "note": "Wird für warmes Lampenlicht, glänzendes Messing und frisch gebackene Krusten verwendet."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at those golden paper lanterns.",
-          "trans": "Schau dir diese goldenen Papierlaternen an."
-        },
-        {
-          "text": "Bake the rolls until the crust is golden.",
-          "trans": "Back die Brötchen, bis die Kruste goldbraun ist."
-        }
-      ],
-      "related": []
-    },
-    "good": {
-      "lemma": "good",
-      "stress": "ɡʊd",
-      "pos": "adj",
-      "gloss": "gut",
-      "meanings": [
-        {
-          "en": "gut",
-          "note": "Unregelmäßige Steigerung wie im Deutschen: good – better – best (gut – besser – am besten)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "positive",
-              "good"
-            ]
-          },
-          {
-            "cells": [
-              "comparative",
-              "better"
-            ]
-          },
-          {
-            "cells": [
-              "superlative",
-              "best"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Did you sleep well?",
-          "trans": "Guten Morgen! Haben Sie gut geschlafen?"
-        },
-        {
-          "text": "Fresh bread smells even better with butter.",
-          "trans": "Frisches Brot schmeckt mit Butter noch besser."
-        }
-      ],
-      "related": []
-    },
-    "green": {
-      "lemma": "green",
-      "stress": "ɡɹin",
-      "pos": "adj",
-      "gloss": "grün",
-      "meanings": [
-        {
-          "en": "grün",
-          "note": "Für Pflanzen, frische Kräuter (fresh green herbs) oder grünen Tee."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look for the house with green shutters.",
-          "trans": "Achten Sie auf das Haus mit den grünen Fensterläden."
-        },
-        {
-          "text": "Would you prefer black tea or green tea?",
-          "trans": "Möchten Sie lieber schwarzen oder grünen Tee?"
-        }
-      ],
-      "related": []
-    },
-    "hardware": {
-      "lemma": "hardware",
-      "stress": "ˈhɑɹdˌwɛɹ",
-      "pos": "noun",
-      "gloss": "Eisenwaren, Beschläge (hardware shop: Baumarkt / Eisenwarenladen)",
-      "meanings": [
-        {
-          "en": "Eisenwaren, Beschläge (hardware shop: Baumarkt / Eisenwarenladen)",
-          "note": "Im traditionellen Sinn bezeichnet hardware Metallteile wie Scharniere, Schrauben und Werkzeuge."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Find the old hardware shop past the bridge.",
-          "trans": "Such hinter der Brücke nach dem alten Eisenwarenladen."
-        },
-        {
-          "text": "Brass hinges are sold at the hardware shop.",
-          "trans": "Messingscharniere gibt es im Eisenwarenladen zu kaufen."
-        }
-      ],
-      "related": []
-    },
-    "have": {
-      "lemma": "have",
-      "stress": "hæv",
-      "pos": "verb",
-      "gloss": "haben; nehmen (Essen/Trinken)",
-      "meanings": [
-        {
-          "en": "haben; nehmen (Essen/Trinken)",
-          "note": "Unregelmäßige 3. Person Singular: has (/hæz/) und Präteritum had; have tea heißt Tee trinken."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "have"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "has"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "had"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "had"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "having"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you have a reservation for tonight?",
-          "trans": "Haben Sie eine Reservierung für heute Abend?"
-        },
-        {
-          "text": "Let us have coffee in the courtyard.",
-          "trans": "Trinken wir im Innenhof einen Kaffee."
-        }
-      ],
-      "related": []
-    },
-    "how": {
-      "lemma": "how",
-      "stress": "haʊ",
-      "pos": "adv",
-      "gloss": "wie",
-      "meanings": [
-        {
-          "en": "wie",
-          "note": "Fragt nach Art und Weise (How was your trip?) und leitet Ausrufe vor Adjektiven ein: How strange! (Wie seltsam!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "How do you take your coffee?",
-          "trans": "Wie trinken Sie Ihren Kaffee?"
-        },
-        {
-          "text": "How nice to see you again!",
-          "trans": "Wie schön, Sie wiederzusehen!"
-        }
-      ],
-      "related": []
-    },
-    "i": {
-      "lemma": "i",
-      "stress": "aɪ",
-      "pos": "pron",
-      "gloss": "ich",
-      "meanings": [
-        {
-          "en": "ich",
-          "note": "Einziges Fürwort, das im Englischen mitten im Satz IMMER großgeschrieben wird: I."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I am Hannah, the new receptionist.",
-          "trans": "Ich bin Hannah, die neue Rezeptionistin."
-        },
-        {
-          "text": "May I help you with your luggage?",
-          "trans": "Darf ich Ihnen mit Ihrem Gepäck helfen?"
-        }
-      ],
-      "related": []
-    },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "in",
-      "meanings": [
-        {
-          "en": "in",
-          "note": "Steht für Räume, Städte, Tageszeiten (in the morning) und zukünftige Zeitspannen (in ten minutes = in zehn Minuten)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait in the warm dining room.",
-          "trans": "Warten Sie im warmen Speiseraum."
-        },
-        {
-          "text": "Coffee will be ready in three minutes.",
-          "trans": "Der Kaffee ist in drei Minuten fertig."
-        }
-      ],
-      "related": []
-    },
-    "into": {
-      "lemma": "into",
-      "stress": "ˈɪntu",
-      "pos": "prep",
-      "gloss": "in ... hinein",
-      "meanings": [
-        {
-          "en": "in ... hinein",
-          "note": "Drückt im Gegensatz zu bloßem in (wo?) gezielt die Bewegung nach innen (wohin?) aus: pour into the teapot."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pour hot water into the teapot.",
-          "trans": "Gieß heißes Wasser in die Teekanne."
-        },
-        {
-          "text": "She stepped into the sunny courtyard.",
-          "trans": "Sie trat in den sonnigen Innenhof hinaus."
-        }
-      ],
-      "related": []
-    },
-    "it": {
-      "lemma": "it",
-      "stress": "ɪt",
-      "pos": "pron",
-      "gloss": "es; er/sie (bei Gegenständen!)",
-      "meanings": [
-        {
-          "en": "es; er/sie (bei Gegenständen!)",
-          "note": "Pflichtsubjekt bei Wetter (it rains) UND Fürwort für jedes einzelne Ding (die Tür -> it opens, der Koffer -> it is heavy)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle, and it opens easily.",
-          "trans": "Heb die Klinke an, dann geht sie leicht auf."
-        },
-        {
-          "text": "It is sunny and warm this afternoon.",
-          "trans": "Heute Nachmittag ist es sonnig und warm."
-        }
-      ],
-      "related": []
-    },
-    "key": {
-      "lemma": "key",
-      "stress": "ki",
-      "pos": "noun",
-      "gloss": "Schlüssel; Taste",
-      "meanings": [
-        {
-          "en": "Schlüssel; Taste",
-          "note": "Aussprachefalle: Trotz ey klingt key mit langem /i/ genau wie see und tea (/ki/, niemals /keɪ/!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is the brass key to room four.",
-          "trans": "Hier ist der Messingschlüssel zu Zimmer vier."
-        },
-        {
-          "text": "Eight keys hang neatly behind the desk.",
-          "trans": "Acht Schlüssel hängen ordentlich hinter dem Tresen."
-        }
-      ],
-      "related": []
-    },
-    "leave": {
-      "lemma": "leave",
-      "stress": "liv",
-      "pos": "verb",
-      "gloss": "lassen, zurücklassen; weggehen, abreisen",
-      "meanings": [
-        {
-          "en": "lassen, zurücklassen; weggehen, abreisen",
-          "note": "Unregelmäßig: leave – left – left; heißt sowohl etwas irgendwo lassen (leave a note) als auch aufbrechen."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "leave"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "leaves"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "leaving"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You can leave your bags by the desk.",
-          "trans": "Sie können Ihre Taschen neben dem Empfang stehen lassen."
-        },
-        {
-          "text": "Our bus leaves at nine fifteen.",
-          "trans": "Unser Bus fährt um Viertel nach neun ab."
-        }
-      ],
-      "related": []
-    },
-    "look": {
-      "lemma": "look",
-      "stress": "lʊk",
-      "pos": "verb",
-      "gloss": "schauen, blicken; aussehen (+ Adjektiv)",
-      "meanings": [
-        {
-          "en": "schauen, blicken; aussehen (+ Adjektiv)",
-          "note": "Präposition entscheidet den Sinn: look at = anschauen, look for = suchen, look down = hinunterschauen; look lovely = schön aussehen!"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "look"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "looks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "looked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "looked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "looking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at the brass tag on the handle.",
-          "trans": "Schau dir den Messinganhänger am Griff an."
-        },
-        {
-          "text": "Those cinnamon rolls look delicious!",
-          "trans": "Diese Zimtschnecken sehen köstlich aus!"
-        }
-      ],
-      "related": []
-    },
-    "me": {
-      "lemma": "me",
-      "stress": "mi",
-      "pos": "pron",
-      "gloss": "mich, mir",
-      "meanings": [
-        {
-          "en": "mich, mir",
-          "note": "Deckt Dativ UND Akkusativ der 1. Person Singular ab: Tell me (sag mir), Watch me (schau mich an / schau mir zu)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Excuse me, where is the dining room?",
-          "trans": "Entschuldigung, wo ist der Speiseraum?"
-        },
-        {
-          "text": "Save a cup of coffee for me.",
-          "trans": "Heb eine Tasse Kaffee für mich auf."
-        }
-      ],
-      "related": []
-    },
-    "millimeter": {
-      "lemma": "millimeter",
-      "stress": "ˈmɪləˌmitɚ",
-      "pos": "noun",
-      "gloss": "Millimeter",
-      "meanings": [
-        {
-          "en": "Millimeter",
-          "note": "Tausendstel Meter für feine Handwerks- und Architekturmaße; amerikanisch auf -er geschrieben."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The brass ring is twenty millimeters wide.",
-          "trans": "Der Messingring ist zwanzig Millimeter breit."
-        },
-        {
-          "text": "Check every millimeter on the blueprint.",
-          "trans": "Prüf jeden Millimeter auf dem Bauplan."
-        }
-      ],
-      "related": []
-    },
-    "morning": {
-      "lemma": "morning",
-      "stress": "ˈmɔɹnɪŋ",
-      "pos": "noun",
-      "gloss": "Morgen, Vormittag",
-      "meanings": [
-        {
-          "en": "Morgen, Vormittag",
-          "note": "Deckt im Englischen die gesamte Zeit bis 12 Uhr mittags (noon) ab — also sowohl Morgen als auch Vormittag!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Coffee is hot and ready.",
-          "trans": "Guten Morgen! Der Kaffee ist heiß und fertig."
-        },
-        {
-          "text": "Rain fell softly all morning.",
-          "trans": "Den ganzen Vormittag fiel leise Regen."
-        }
-      ],
-      "related": []
-    },
-    "now": {
-      "lemma": "now",
-      "stress": "naʊ",
-      "pos": "adv",
-      "gloss": "jetzt, nun",
-      "meanings": [
-        {
-          "en": "jetzt, nun",
-          "note": "Verstärktes right now bedeutet genau jetzt / sofort."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four is clean and ready now.",
-          "trans": "Zimmer vier ist jetzt sauber und bezugsfertig."
-        },
-        {
-          "text": "What should we do right now?",
-          "trans": "Was sollen wir jetzt gleich tun?"
-        }
-      ],
-      "related": []
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɑn",
-      "pos": "prep",
-      "gloss": "auf, an; am (+ Tag)",
-      "meanings": [
-        {
-          "en": "auf, an; am (+ Tag)",
-          "note": "Für Flächen mit Berührung (on the step, on my head), Geräte (on the tablet) und Tage (on my first day, on Friday)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Your key is on the wooden desk.",
-          "trans": "Ihr Schlüssel liegt auf dem hölzernen Empfangstisch."
-        },
-        {
-          "text": "Tessa bakes apple rolls on Fridays.",
-          "trans": "Freitags backt Tessa Apfelbrötchen."
-        }
-      ],
-      "related": []
-    },
-    "only": {
-      "lemma": "only",
-      "stress": "ˈoʊnli",
-      "pos": "adv",
-      "gloss": "nur, bloß; einziger (Adjektiv)",
-      "meanings": [
-        {
-          "en": "nur, bloß; einziger (Adjektiv)",
-          "note": "Als Adverb steht only möglichst nah vor dem betonten Satzteil (I only have the coat on my back)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "We have only eight rooms at the inn.",
-          "trans": "Wir haben im Gasthof nur acht Zimmer."
-        },
-        {
-          "text": "This is the only key to the garden shed.",
-          "trans": "Das ist der einzige Schlüssel zum Gartenschuppen."
-        }
-      ],
-      "related": []
-    },
-    "our": {
-      "lemma": "our",
-      "stress": "ˈaʊɚ",
+    "the": {
+      "lemma": "the",
+      "stress": "ðə",
       "pos": "det",
-      "gloss": "unser, unsere",
+      "gloss": "der, die, das, den, dem, des (bestimmter Artikel)",
       "meanings": [
         {
-          "en": "unser, unsere",
-          "note": "Bleibt vor jedem Singular- und Pluralnomen völlig unverändert: our street, our neighborhood, our closet."
+          "en": "der, die, das, den, dem, des (bestimmter Artikel)",
+          "note": "EIN EINZIGES WORT für alle Geschlechter, Fälle und den Plural! Klingt vor Konsonant /ðə/ (the door) und vor Vokal /ði/ (the old tree)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Welcome to our courtyard guesthouse.",
-          "trans": "Willkommen in unserem Gästehaus mit Innenhof."
+          "text": "Lift the handle on the front door.",
+          "trans": "Heb die Klinke an der Haustür an."
         },
         {
-          "text": "All our bread comes from Tessa's oven.",
-          "trans": "Unser gesamtes Brot kommt aus Tessas Ofen."
-        }
-      ],
-      "related": []
-    },
-    "outside": {
-      "lemma": "outside",
-      "stress": "ˌaʊtˈsaɪd",
-      "pos": "adv",
-      "gloss": "draußen; außerhalb von; Außenseite",
-      "meanings": [
-        {
-          "en": "draußen; außerhalb von; Außenseite",
-          "note": "Drei Rollen in einem Wort: Adverb (raining outside = draußen), Präposition (outside town = außerhalb der Stadt) und Nomen (the outside = das Äußere)!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A yellow taxi is waiting outside.",
-          "trans": "Draußen wartet ein gelbes Taxi."
-        },
-        {
-          "text": "Shall we drink our coffee outside?",
-          "trans": "Wollen wir unseren Kaffee draußen trinken?"
-        }
-      ],
-      "related": []
-    },
-    "paint": {
-      "lemma": "paint",
-      "stress": "peɪnt",
-      "pos": "noun",
-      "gloss": "Farbe, Anstrich; streichen, malen",
-      "meanings": [
-        {
-          "en": "Farbe, Anstrich; streichen, malen",
-          "note": "Bezeichnet flüssige Wand- oder Lackfarbe: wet paint heißt frisch gestrichen (wörtlich nasse Farbe; der Farbton selbst heißt color)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Careful, there is fresh green paint on the gate.",
-          "trans": "Vorsicht, am Tor ist frische grüne Farbe."
-        },
-        {
-          "text": "She loves watercolor paint and sketchbooks.",
-          "trans": "Sie liebt Wasserfarben und Skizzenbücher."
-        }
-      ],
-      "related": []
-    },
-    "pass": {
-      "lemma": "pass",
-      "stress": "pæs",
-      "pos": "verb",
-      "gloss": "reichen (am Tisch/bei der Arbeit); vorbeigehen an",
-      "meanings": [
-        {
-          "en": "reichen (am Tisch/bei der Arbeit); vorbeigehen an",
-          "note": "Sehr nützlich in zwei Alltagssituationen: Pass me the wrench! (Reich mir den Schraubenschlüssel!) und pass a shop (an einem Laden vorbeikommen)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "pass"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "passes"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "passed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "passed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "passing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pass me the heavy wrench, please.",
-          "trans": "Reich mir bitte den schweren Schraubenschlüssel."
-        },
-        {
-          "text": "I just passed the green pharmacy!",
-          "trans": "Ich bin gerade an der grünen Apotheke vorbeigekommen!"
-        }
-      ],
-      "related": []
-    },
-    "pharmacy": {
-      "lemma": "pharmacy",
-      "stress": "ˈfɑɹməsi",
-      "pos": "noun",
-      "gloss": "Apotheke",
-      "meanings": [
-        {
-          "en": "Apotheke",
-          "note": "Anlautendes ph spricht man /f/ (/ˈfɑɹməsi/); in den USA das übliche Wort für Apotheke (neben drugstore)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pass the green pharmacy on the right.",
-          "trans": "Geh rechts an der grünen Apotheke vorbei."
-        },
-        {
-          "text": "Is the corner pharmacy still open?",
-          "trans": "Hat die Apotheke an der Ecke noch geöffnet?"
-        }
-      ],
-      "related": []
-    },
-    "pocket": {
-      "lemma": "pocket",
-      "stress": "ˈpɑkɪt",
-      "pos": "noun",
-      "gloss": "Tasche (in Kleidung oder am Koffer)",
-      "meanings": [
-        {
-          "en": "Tasche (in Kleidung oder am Koffer)",
-          "note": "Wichtige Unterscheidung: Eine Tragetasche in der Hand heißt bag, eine eingenähte Tasche an Mantel oder Koffer heißt IMMER pocket!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Check your coat pocket for the brass key.",
-          "trans": "Schau in deiner Manteltasche nach dem Messingschlüssel."
-        },
-        {
-          "text": "He slipped the receipt into his pocket.",
-          "trans": "Er steckte den Kassenbon in die Tasche."
-        }
-      ],
-      "related": []
-    },
-    "really": {
-      "lemma": "really",
-      "stress": "ˈɹɪli",
-      "pos": "adv",
-      "gloss": "wirklich, echt; Wirklich?",
-      "meanings": [
-        {
-          "en": "wirklich, echt; Wirklich?",
-          "note": "Als erstaunte Rückfrage Really? mit steigender Melodie entspricht es unserem Echt? / Im Ernst? / Wirklich?."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A paper book? Really?",
-          "trans": "Ein Papierbuch? Im Ernst?"
-        },
-        {
-          "text": "These cinnamon rolls are really good.",
-          "trans": "Diese Zimtschnecken sind wirklich gut."
-        }
-      ],
-      "related": []
-    },
-    "repeat": {
-      "lemma": "repeat",
-      "stress": "ɹɪˈpit",
-      "pos": "verb",
-      "gloss": "wiederholen, nachsprechen",
-      "meanings": [
-        {
-          "en": "wiederholen, nachsprechen",
-          "note": "Vorsicht: man sagt niemals *repeat again* (da re- schon wieder bedeutet), sondern einfach repeat that!"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "repeat"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "repeats"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "repeated"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "repeated"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "repeating"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I will repeat the valve size all the way!",
-          "trans": "Ich werde die Ventilgröße den ganzen Weg vor mich hin aufsagen!"
-        },
-        {
-          "text": "Could you repeat that address slowly?",
-          "trans": "Könnten Sie diese Adresse bitte langsam wiederholen?"
-        }
-      ],
-      "related": []
-    },
-    "right": {
-      "lemma": "right",
-      "stress": "ɹaɪt",
-      "pos": "adj",
-      "gloss": "genau, direkt (Adverb); richtig; rechts",
-      "meanings": [
-        {
-          "en": "genau, direkt (Adverb); richtig; rechts",
-          "note": "Extrem vielseitig: right here (genau hier), right above (direkt über), right now / right away (sofort), all right (in Ordnung)!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You have the right room key now.",
-          "trans": "Sie haben jetzt den richtigen Zimmerschlüssel."
-        },
-        {
-          "text": "Your room is the second door on the right.",
-          "trans": "Ihr Zimmer ist die zweite Tür rechts."
-        }
-      ],
-      "related": []
-    },
-    "river": {
-      "lemma": "river",
-      "stress": "ˈɹɪvɚ",
-      "pos": "noun",
-      "gloss": "Fluss",
-      "meanings": [
-        {
-          "en": "Fluss",
-          "note": "Steht vor anderen Nomen direkt als Bestimmungswort: river water (Flusswasser)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Cross the bridge over the river.",
-          "trans": "Überquere die Brücke über den Fluss."
-        },
-        {
-          "text": "The tap water felt cold as river water!",
-          "trans": "Das Leitungswasser fühlte sich kalt wie Flusswasser an!"
-        }
-      ],
-      "related": []
-    },
-    "room": {
-      "lemma": "room",
-      "stress": "ɹum",
-      "pos": "noun",
-      "gloss": "Zimmer, Raum; Platz",
-      "meanings": [
-        {
-          "en": "Zimmer, Raum; Platz",
-          "note": "Zählbar für Hotelzimmer (eight rooms, room four ohne Artikel!), unzählbar für freien Platz (plenty of room)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four overlooks the sunny courtyard.",
-          "trans": "Zimmer vier blickt auf den sonnigen Innenhof."
-        },
-        {
-          "text": "All eight rooms are clean and ready.",
-          "trans": "Alle acht Zimmer sind sauber und bereit."
-        }
-      ],
-      "related": []
-    },
-    "run": {
-      "lemma": "run",
-      "stress": "ɹʌn",
-      "pos": "verb",
-      "gloss": "rennen, laufen; führen (Betrieb)",
-      "meanings": [
-        {
-          "en": "rennen, laufen; führen (Betrieb)",
-          "note": "Unregelmäßig: run – ran – run; run away heißt weglaufen, run there and back schnell hin- und zurücklaufen."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "run"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "runs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "ran"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "run"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "running"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Caleb ran back to the taxi with the bag.",
-          "trans": "Caleb rannte mit der Tasche zum Taxi zurück."
-        },
-        {
-          "text": "Graham has run this guesthouse for years.",
-          "trans": "Graham führt dieses Gästehaus seit Jahren."
-        }
-      ],
-      "related": []
-    },
-    "see": {
-      "lemma": "see",
-      "stress": "si",
-      "pos": "verb",
-      "gloss": "sehen; verstehen",
-      "meanings": [
-        {
-          "en": "sehen; verstehen",
-          "note": "Unregelmäßig: see – saw – seen; unverzichtbar in allen Abschiedsgrüßen wie See you soon!, See you later!, See you tomorrow!."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "see"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "sees"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "saw"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "seen"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "seeing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "See you next time!",
-          "trans": "Bis zum nächsten Mal!"
-        },
-        {
-          "text": "Oh, I see what happened with the keys!",
-          "trans": "Ach, ich verstehe schon, was mit den Schlüsseln passiert ist!"
-        }
-      ],
-      "related": []
-    },
-    "seven": {
-      "lemma": "seven",
-      "stress": "ˈsɛvən",
-      "pos": "num",
-      "gloss": "sieben",
-      "meanings": [
-        {
-          "en": "sieben",
-          "note": "Zweisilbig /ˈsɛvən/; halb acht heißt im Englischen seven thirty (sieben dreißig — Achtung, nicht mit deutsch halb sieben = 6:30 verwechseln!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tessa opens her bakery at seven sharp.",
-          "trans": "Tessa öffnet ihre Bäckerei Punkt sieben Uhr."
-        },
-        {
-          "text": "Room seven faces the linden tree.",
-          "trans": "Zimmer sieben geht zur Linde hinaus."
-        }
-      ],
-      "related": []
-    },
-    "shop": {
-      "lemma": "shop",
-      "stress": "ʃɑp",
-      "pos": "noun",
-      "gloss": "Laden, Geschäft; Werkstatt",
-      "meanings": [
-        {
-          "en": "Laden, Geschäft; Werkstatt",
-          "note": "Bezeichnet kleinere Fachgeschäfte wie hardware shop (Eisenwarenladen) oder coffee shop."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Find the old hardware shop past the bridge.",
-          "trans": "Such hinter der Brücke nach dem alten Eisenwarenladen."
-        },
-        {
-          "text": "Does the shop have a sign outside?",
-          "trans": "Hängt draußen vor dem Laden ein Schild?"
-        }
-      ],
-      "related": []
-    },
-    "show": {
-      "lemma": "show",
-      "stress": "ʃoʊ",
-      "pos": "verb",
-      "gloss": "zeigen",
-      "meanings": [
-        {
-          "en": "zeigen",
-          "note": "Unregelmäßiges Partizip: show – showed – shown; steht wie im Deutschen mit Personen- und Sachobjekt (Show him the room)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "show"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "shows"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "showed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "shown"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "showing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me show you our attic study.",
-          "trans": "Lass mich dir unser Arbeitszimmer unterm Dach zeigen."
-        },
-        {
-          "text": "Show the clerk this brass valve.",
-          "trans": "Zeig dem Verkäufer dieses Messingventil."
+          "text": "All the keys hang behind the desk.",
+          "trans": "Alle Schlüssel hängen hinter dem Tresen."
         }
       ],
       "related": []
@@ -6054,190 +4085,177 @@
       ],
       "related": []
     },
-    "sign": {
-      "lemma": "sign",
-      "stress": "saɪn",
-      "pos": "noun",
-      "gloss": "Schild; unterschreiben (als Verb)",
+    "upstairs": {
+      "lemma": "upstairs",
+      "stress": "ˌʌpˈstɛɹz",
+      "pos": "adv",
+      "gloss": "oben, nach oben (im Obergeschoss)",
       "meanings": [
         {
-          "en": "Schild; unterschreiben (als Verb)",
-          "note": "Das g vor dem n ist sowohl im Nomen sign (Schild) als auch im Verb sign (unterschreiben) völlig stumm (/saɪn/)!"
+          "en": "oben, nach oben (im Obergeschoss)",
+          "note": "Steht ohne Präposition: sit upstairs (oben auf dem Zimmer sitzen), go upstairs (nach oben gehen)."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "sign"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "signs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "signed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "signed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "signing"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Does the shop have a sign outside?",
-          "trans": "Hängt draußen vor dem Laden ein Schild?"
+          "text": "Let me help carry your bag upstairs.",
+          "trans": "Lassen Sie mich helfen, Ihre Tasche nach oben zu tragen."
         },
         {
-          "text": "The mailman asked me to sign here.",
-          "trans": "Der Briefträger bat mich, hier zu unterschreiben."
+          "text": "All guest bedrooms are upstairs.",
+          "trans": "Alle Gästezimmer liegen im Obergeschoss."
         }
       ],
       "related": []
     },
-    "small": {
-      "lemma": "small",
-      "stress": "smɔl",
+    "really": {
+      "lemma": "really",
+      "stress": "ˈɹɪli",
+      "pos": "adv",
+      "gloss": "wirklich, echt; Wirklich?",
+      "meanings": [
+        {
+          "en": "wirklich, echt; Wirklich?",
+          "note": "Als erstaunte Rückfrage Really? mit steigender Melodie entspricht es unserem Echt? / Im Ernst? / Wirklich?."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A paper book? Really?",
+          "trans": "Ein Papierbuch? Im Ernst?"
+        },
+        {
+          "text": "These cinnamon rolls are really good.",
+          "trans": "Diese Zimtschnecken sind wirklich gut."
+        }
+      ],
+      "related": []
+    },
+    "cold": {
+      "lemma": "cold",
+      "stress": "koʊld",
       "pos": "adj",
-      "gloss": "klein",
+      "gloss": "kalt",
       "meanings": [
         {
-          "en": "klein",
-          "note": "Beschreibt sachlich geringe Maße und Formate (small paper card, small spoons), während little oft emotionaler klingt."
+          "en": "kalt",
+          "note": "Bei Personen sagt man im Englischen I am cold (mir ist kalt); I feel cold geht ebenfalls."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "We run a small eight-room guesthouse.",
-          "trans": "Wir führen ein kleines Gästehaus mit acht Zimmern."
+          "text": "Pour a glass of cold water, please.",
+          "trans": "Schenken Sie bitte ein Glas kaltes Wasser ein."
         },
         {
-          "text": "Look for a small brass tag on the zipper.",
-          "trans": "Achte auf einen kleinen Messinganhänger am Reißverschluss."
+          "text": "My hands feel cold this morning.",
+          "trans": "Meine Hände fühlen sich heute Morgen kalt an."
         }
       ],
       "related": []
     },
-    "soon": {
-      "lemma": "soon",
-      "stress": "sun",
+    "already": {
+      "lemma": "already",
+      "stress": "ɔlˈɹɛdi",
       "pos": "adv",
-      "gloss": "bald; See you soon! = Bis bald!",
+      "gloss": "schon, bereits",
       "meanings": [
         {
-          "en": "bald; See you soon! = Bis bald!",
-          "note": "See you soon! ist der herzliche Abschied, wenn man sich noch am selben Tag oder sehr bald wiedersieht."
+          "en": "schon, bereits",
+          "note": "Steht vor dem Vollverb, aber nach Formen von be (is already here)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Coffee will be ready very soon.",
-          "trans": "Der Kaffee ist ganz bald fertig."
+          "text": "Breakfast is already on the table.",
+          "trans": "Das Frühstück steht schon auf dem Tisch."
         },
         {
-          "text": "See you soon in the courtyard!",
-          "trans": "Bis bald im Innenhof!"
+          "text": "Are you leaving already?",
+          "trans": "Gehst du schon?"
         }
       ],
       "related": []
     },
-    "square": {
-      "lemma": "square",
-      "stress": "skwɛɹ",
-      "pos": "noun",
-      "gloss": "Platz (Stadtplatz); Quadrat; quadratisch",
-      "meanings": [
-        {
-          "en": "Platz (Stadtplatz); Quadrat; quadratisch",
-          "note": "In Städten bezeichnet square einen offenen Platz zwischen Straßen (town square = Markt-/Rathausplatz)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Turn left into the small stone square.",
-          "trans": "Biegen Sie links auf den kleinen steinernen Platz ab."
-        },
-        {
-          "text": "A fountain stands in the town square.",
-          "trans": "Auf dem Stadtplatz steht ein Brunnen."
-        }
-      ],
-      "related": []
-    },
-    "stone": {
-      "lemma": "stone",
-      "stress": "stoʊn",
-      "pos": "noun",
-      "gloss": "Stein; steinern, Stein-",
-      "meanings": [
-        {
-          "en": "Stein; steinern, Stein-",
-          "note": "Zählbar für einzelne Steine (did you pack stones?), direkt vor einem Nomen wie ein Adjektiv steinern: stone step (Steinstufe)!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Warm sunlight dried the wet courtyard stones.",
-          "trans": "Warmes Sonnenlicht trocknete die nassen Hofsteine."
-        },
-        {
-          "text": "They sat by the low stone wall.",
-          "trans": "Sie saßen an der niedrigen Steinmauer."
-        }
-      ],
-      "related": []
-    },
-    "straight": {
-      "lemma": "straight",
-      "stress": "stɹeɪt",
+    "as": {
+      "lemma": "as",
+      "stress": "æz",
       "pos": "adv",
-      "gloss": "geradeaus, direkt; gerade",
+      "gloss": "so; als, wie",
       "meanings": [
         {
-          "en": "geradeaus, direkt; gerade",
-          "note": "Das gh ist stumm (/stɹeɪt/); unverzichtbar bei Wegbeschreibungen: walk straight to ... (geh geradeaus bis ...)."
+          "en": "so; als, wie",
+          "note": "In Vergleichen der Gleichheit steht as ... as (so ... wie, nicht *so ... as* in positiven Sätzen)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Walk straight to the stone bridge.",
-          "trans": "Gehen Sie geradeaus bis zur Steinbrücke."
+          "text": "My bag is as heavy as yours.",
+          "trans": "Meine Tasche ist genauso schwer wie deine."
         },
         {
-          "text": "Come straight inside out of the rain.",
-          "trans": "Kommt direkt aus dem Regen herein."
+          "text": "Come as soon as you can.",
+          "trans": "Komm so bald du kannst."
+        }
+      ],
+      "related": []
+    },
+    "river": {
+      "lemma": "river",
+      "stress": "ˈɹɪvɚ",
+      "pos": "noun",
+      "gloss": "Fluss",
+      "meanings": [
+        {
+          "en": "Fluss",
+          "note": "Steht vor anderen Nomen direkt als Bestimmungswort: river water (Flusswasser)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Cross the bridge over the river.",
+          "trans": "Überquere die Brücke über den Fluss."
+        },
+        {
+          "text": "The tap water felt cold as river water!",
+          "trans": "Das Leitungswasser fühlte sich kalt wie Flusswasser an!"
+        }
+      ],
+      "related": []
+    },
+    "water": {
+      "lemma": "water",
+      "stress": "ˈwɔtɚ",
+      "pos": "noun",
+      "gloss": "Wasser; gießen (Pflanzen)",
+      "meanings": [
+        {
+          "en": "Wasser; gießen (Pflanzen)",
+          "note": "Unzählbares Nomen (cold water, hot water, sparkling water); im US-Englischen klingt das t zwischen Vokalen weich (/ˈwɔtɚ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "May I have a glass of cold water?",
+          "trans": "Darf ich ein Glas kaltes Wasser bekommen?"
+        },
+        {
+          "text": "Pour boiling water into the ceramic teapot.",
+          "trans": "Gieß kochendes Wasser in die Keramikteekanne."
         }
       ],
       "related": []
@@ -6305,6 +4323,357 @@
       ],
       "related": []
     },
+    "this": {
+      "lemma": "this",
+      "stress": "ðɪs",
+      "pos": "det",
+      "gloss": "dieser, diese, dieses; das hier",
+      "meanings": [
+        {
+          "en": "dieser, diese, dieses; das hier",
+          "note": "Kurzes /ɪ/ und scharfes /s/ am Ende (/ðɪs/); bezeichnet Dinge direkt vor uns: this big paper book, this suitcase."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here we use this big paper book.",
+          "trans": "Hier benutzen wir dieses große Papierbuch."
+        },
+        {
+          "text": "Hello, this is Hannah at the front desk.",
+          "trans": "Guten Tag, hier ist Hannah an der Rezeption."
+        }
+      ],
+      "related": []
+    },
+    "break": {
+      "lemma": "break",
+      "stress": "bɹeɪk",
+      "pos": "verb",
+      "gloss": "zerbrechen, kaputtgehen; brechen",
+      "meanings": [
+        {
+          "en": "zerbrechen, kaputtgehen; brechen",
+          "note": "Starkes Verb: break /bɹeɪk/ – broke – broken; funktioniert transitiv (zerbrechen) und intransitiv (kaputtgehen)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "break"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "breaks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "broke"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "broken"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "breaking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Be careful not to break the cup.",
+          "trans": "Pass auf, dass du die Tasse nicht zerbrichst."
+        },
+        {
+          "text": "Did the old valve break again?",
+          "trans": "Ist das alte Ventil schon wieder kaputtgegangen?"
+        }
+      ],
+      "related": []
+    },
+    "brass": {
+      "lemma": "brass",
+      "stress": "bɹæs",
+      "pos": "noun",
+      "gloss": "Messing",
+      "meanings": [
+        {
+          "en": "Messing",
+          "note": "Unzählbares Materialwort für die goldglänzende Kupfer-Zink-Legierung alter Schlüssel und Griffe."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Polish the brass handle on the door.",
+          "trans": "Polier die Messingklinke an der Tür."
+        },
+        {
+          "text": "Eight brass keys hang behind the desk.",
+          "trans": "Acht Messingschlüssel hängen hinter dem Tresen."
+        }
+      ],
+      "related": []
+    },
+    "valve": {
+      "lemma": "valve",
+      "stress": "vælv",
+      "pos": "noun",
+      "gloss": "Ventil",
+      "meanings": [
+        {
+          "en": "Ventil",
+          "note": "Technisches Bauteil, das an Heizkesseln, Heizkörpern und Rohren den Wasser- oder Dampfdurchfluss regelt."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Buy a new brass boiler valve.",
+          "trans": "Kauf ein neues Kesselventil aus Messing."
+        },
+        {
+          "text": "A spare valve saves next winter too.",
+          "trans": "Ein Ersatzventil rettet auch gleich den nächsten Winter."
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "in",
+      "meanings": [
+        {
+          "en": "in",
+          "note": "Steht für Räume, Städte, Tageszeiten (in the morning) und zukünftige Zeitspannen (in ten minutes = in zehn Minuten)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait in the warm dining room.",
+          "trans": "Warten Sie im warmen Speiseraum."
+        },
+        {
+          "text": "Coffee will be ready in three minutes.",
+          "trans": "Der Kaffee ist in drei Minuten fertig."
+        }
+      ],
+      "related": []
+    },
+    "your": {
+      "lemma": "your",
+      "stress": "jʊɹ",
+      "pos": "det",
+      "gloss": "dein, euer, Ihr",
+      "meanings": [
+        {
+          "en": "dein, euer, Ihr",
+          "note": "Gilt unverändert für vertrauliches dein/euer UND höfliches Ihr (How was your train trip?); nicht mit you're (= you are) verwechseln!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is your room key, Evelyn.",
+          "trans": "Hier ist Ihr Zimmerschlüssel, Evelyn."
+        },
+        {
+          "text": "Enjoy your morning coffee!",
+          "trans": "Lassen Sie sich Ihren Morgenkaffee schmecken!"
+        }
+      ],
+      "related": []
+    },
+    "coat": {
+      "lemma": "coat",
+      "stress": "koʊt",
+      "pos": "noun",
+      "gloss": "Mantel, Jacke",
+      "meanings": [
+        {
+          "en": "Mantel, Jacke",
+          "note": "Bezeichnet den Übermantel für draußen; die Manteltasche heißt coat pocket."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Button your coat before going outside.",
+          "trans": "Knöpf deinen Mantel zu, bevor du nach draußen gehst."
+        },
+        {
+          "text": "My keys are in my coat pocket.",
+          "trans": "Meine Schlüssel sind in meiner Manteltasche."
+        }
+      ],
+      "related": []
+    },
+    "pocket": {
+      "lemma": "pocket",
+      "stress": "ˈpɑkɪt",
+      "pos": "noun",
+      "gloss": "Tasche (in Kleidung oder am Koffer)",
+      "meanings": [
+        {
+          "en": "Tasche (in Kleidung oder am Koffer)",
+          "note": "Wichtige Unterscheidung: Eine Tragetasche in der Hand heißt bag, eine eingenähte Tasche an Mantel oder Koffer heißt IMMER pocket!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Check your coat pocket for the brass key.",
+          "trans": "Schau in deiner Manteltasche nach dem Messingschlüssel."
+        },
+        {
+          "text": "He slipped the receipt into his pocket.",
+          "trans": "Er steckte den Kassenbon in die Tasche."
+        }
+      ],
+      "related": []
+    },
+    "get": {
+      "lemma": "get",
+      "stress": "ɡɛt",
+      "pos": "verb",
+      "gloss": "bekommen; holen; werden (+ Adjektiv)",
+      "meanings": [
+        {
+          "en": "bekommen; holen; werden (+ Adjektiv)",
+          "note": "Vielseitigstes Verb des Alltags: vor Komparativen/Adjektiven heißt es werden (gets stranger = wird immer seltsamer)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "get"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "gets"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "got"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "gotten"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "getting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let me get you a warm cup of tea.",
+          "trans": "Lass mich dir eine warme Tasse Tee holen."
+        },
+        {
+          "text": "This mystery gets stranger every minute.",
+          "trans": "Dieses Rätsel wird mit jeder Minute seltsamer."
+        }
+      ],
+      "related": []
+    },
+    "it": {
+      "lemma": "it",
+      "stress": "ɪt",
+      "pos": "pron",
+      "gloss": "es; er/sie (bei Gegenständen!)",
+      "meanings": [
+        {
+          "en": "es; er/sie (bei Gegenständen!)",
+          "note": "Pflichtsubjekt bei Wetter (it rains) UND Fürwort für jedes einzelne Ding (die Tür -> it opens, der Koffer -> it is heavy)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle, and it opens easily.",
+          "trans": "Heb die Klinke an, dann geht sie leicht auf."
+        },
+        {
+          "text": "It is sunny and warm this afternoon.",
+          "trans": "Heute Nachmittag ist es sonnig und warm."
+        }
+      ],
+      "related": []
+    },
+    "now": {
+      "lemma": "now",
+      "stress": "naʊ",
+      "pos": "adv",
+      "gloss": "jetzt, nun",
+      "meanings": [
+        {
+          "en": "jetzt, nun",
+          "note": "Verstärktes right now bedeutet genau jetzt / sofort."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four is clean and ready now.",
+          "trans": "Zimmer vier ist jetzt sauber und bezugsfertig."
+        },
+        {
+          "text": "What should we do right now?",
+          "trans": "Was sollen wir jetzt gleich tun?"
+        }
+      ],
+      "related": []
+    },
     "tell": {
       "lemma": "tell",
       "stress": "tɛl",
@@ -6368,102 +4737,52 @@
       ],
       "related": []
     },
-    "that": {
-      "lemma": "that",
-      "stress": "ðæt",
+    "me": {
+      "lemma": "me",
+      "stress": "mi",
       "pos": "pron",
-      "gloss": "das, jener, dieser; dass",
+      "gloss": "mich, mir",
       "meanings": [
         {
-          "en": "das, jener, dieser; dass",
-          "note": "Deckt gleich drei deutsche Wörter ab: Demonstrativpronomen (Did you hear that?), jener/dieser vor Nomen (that bell) und Konjunktion dass!"
+          "en": "mich, mir",
+          "note": "Deckt Dativ UND Akkusativ der 1. Person Singular ab: Tell me (sag mir), Watch me (schau mich an / schau mir zu)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "That blue suitcase by the door is Arthur's.",
-          "trans": "Jener blaue Koffer an der Tür gehört Arthur."
+          "text": "Excuse me, where is the dining room?",
+          "trans": "Entschuldigung, wo ist der Speiseraum?"
         },
         {
-          "text": "That sounds like a great plan!",
-          "trans": "Das klingt nach einem großartigen Plan!"
+          "text": "Save a cup of coffee for me.",
+          "trans": "Heb eine Tasse Kaffee für mich auf."
         }
       ],
       "related": []
     },
-    "the": {
-      "lemma": "the",
-      "stress": "ðə",
-      "pos": "det",
-      "gloss": "der, die, das, den, dem, des (bestimmter Artikel)",
-      "meanings": [
-        {
-          "en": "der, die, das, den, dem, des (bestimmter Artikel)",
-          "note": "EIN EINZIGES WORT für alle Geschlechter, Fälle und den Plural! Klingt vor Konsonant /ðə/ (the door) und vor Vokal /ði/ (the old tree)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle on the front door.",
-          "trans": "Heb die Klinke an der Haustür an."
-        },
-        {
-          "text": "All the keys hang behind the desk.",
-          "trans": "Alle Schlüssel hängen hinter dem Tresen."
-        }
-      ],
-      "related": []
-    },
-    "then": {
-      "lemma": "then",
-      "stress": "ðɛn",
+    "how": {
+      "lemma": "how",
+      "stress": "haʊ",
       "pos": "adv",
-      "gloss": "dann, danach",
+      "gloss": "wie",
       "meanings": [
         {
-          "en": "dann, danach",
-          "note": "Mit e geschrieben für zeitliche Abfolge: lift first, then push (erst anheben, dann drücken); nicht mit than (als) verwechseln!"
+          "en": "wie",
+          "note": "Fragt nach Art und Weise (How was your trip?) und leitet Ausrufe vor Adjektiven ein: How strange! (Wie seltsam!)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Drink hot tea first, then answer the bell.",
-          "trans": "Trink zuerst heißen Tee und geh dann an die Klingel."
+          "text": "How do you take your coffee?",
+          "trans": "Wie trinken Sie Ihren Kaffee?"
         },
         {
-          "text": "All right then, let us call the taxi company.",
-          "trans": "Also gut, rufen wir das Taxiunternehmen an."
-        }
-      ],
-      "related": []
-    },
-    "this": {
-      "lemma": "this",
-      "stress": "ðɪs",
-      "pos": "det",
-      "gloss": "dieser, diese, dieses; das hier",
-      "meanings": [
-        {
-          "en": "dieser, diese, dieses; das hier",
-          "note": "Kurzes /ɪ/ und scharfes /s/ am Ende (/ðɪs/); bezeichnet Dinge direkt vor uns: this big paper book, this suitcase."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use this big paper book.",
-          "trans": "Hier benutzen wir dieses große Papierbuch."
-        },
-        {
-          "text": "Hello, this is Hannah at the front desk.",
-          "trans": "Guten Tag, hier ist Hannah an der Rezeption."
+          "text": "How nice to see you again!",
+          "trans": "Wie schön, Sie wiederzusehen!"
         }
       ],
       "related": []
@@ -6489,6 +4808,119 @@
         {
           "text": "Tell me everything I need to know.",
           "trans": "Sag mir alles, was ich wissen muss."
+        }
+      ],
+      "related": []
+    },
+    "find": {
+      "lemma": "find",
+      "stress": "faɪnd",
+      "pos": "verb",
+      "gloss": "finden",
+      "meanings": [
+        {
+          "en": "finden",
+          "note": "Unregelmäßiges Verb: find – found – found; find out heißt herausfinden."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "find"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "finds"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "found"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "found"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "finding"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did you find your reading glasses?",
+          "trans": "Haben Sie Ihre Lesebrille gefunden?"
+        },
+        {
+          "text": "We will find the right suitcase soon.",
+          "trans": "Wir werden bald den richtigen Koffer finden."
+        }
+      ],
+      "related": []
+    },
+    "hardware": {
+      "lemma": "hardware",
+      "stress": "ˈhɑɹdˌwɛɹ",
+      "pos": "noun",
+      "gloss": "Eisenwaren, Beschläge (hardware shop: Baumarkt / Eisenwarenladen)",
+      "meanings": [
+        {
+          "en": "Eisenwaren, Beschläge (hardware shop: Baumarkt / Eisenwarenladen)",
+          "note": "Im traditionellen Sinn bezeichnet hardware Metallteile wie Scharniere, Schrauben und Werkzeuge."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Find the old hardware shop past the bridge.",
+          "trans": "Such hinter der Brücke nach dem alten Eisenwarenladen."
+        },
+        {
+          "text": "Brass hinges are sold at the hardware shop.",
+          "trans": "Messingscharniere gibt es im Eisenwarenladen zu kaufen."
+        }
+      ],
+      "related": []
+    },
+    "shop": {
+      "lemma": "shop",
+      "stress": "ʃɑp",
+      "pos": "noun",
+      "gloss": "Laden, Geschäft; Werkstatt",
+      "meanings": [
+        {
+          "en": "Laden, Geschäft; Werkstatt",
+          "note": "Bezeichnet kleinere Fachgeschäfte wie hardware shop (Eisenwarenladen) oder coffee shop."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Find the old hardware shop past the bridge.",
+          "trans": "Such hinter der Brücke nach dem alten Eisenwarenladen."
+        },
+        {
+          "text": "Does the shop have a sign outside?",
+          "trans": "Hängt draußen vor dem Laden ein Schild?"
         }
       ],
       "related": []
@@ -6556,115 +4988,15 @@
       ],
       "related": []
     },
-    "twenty": {
-      "lemma": "twenty",
-      "stress": "ˈtwɛnti",
-      "pos": "num",
-      "gloss": "zwanzig",
-      "meanings": [
-        {
-          "en": "zwanzig",
-          "note": "Zwanzig Eier heißen twenty eggs; Grundwort für 21 bis 29."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The bakery is twenty steps down the street.",
-          "trans": "Die Bäckerei liegt zwanzig Schritte die Straße hinunter."
-        },
-        {
-          "text": "Give the rolls twenty minutes in the oven.",
-          "trans": "Lass die Brötchen zwanzig Minuten im Ofen."
-        }
-      ],
-      "related": []
-    },
-    "up": {
-      "lemma": "up",
-      "stress": "ʌp",
-      "pos": "adv",
-      "gloss": "hinauf, nach oben; auf-",
-      "meanings": [
-        {
-          "en": "hinauf, nach oben; auf-",
-          "note": "I will carry the blue bag up = Ich trage die blaue Tasche hinauf; hung up = legte (am Telefon) auf."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pick up the brass key from the tray.",
-          "trans": "Nimm den Messingschlüssel vom Tablett auf."
-        },
-        {
-          "text": "Look up at the painted wooden sign.",
-          "trans": "Schau hinauf zum bemalten Holzschild."
-        }
-      ],
-      "related": []
-    },
-    "upstairs": {
-      "lemma": "upstairs",
-      "stress": "ˌʌpˈstɛɹz",
-      "pos": "adv",
-      "gloss": "oben, nach oben (im Obergeschoss)",
-      "meanings": [
-        {
-          "en": "oben, nach oben (im Obergeschoss)",
-          "note": "Steht ohne Präposition: sit upstairs (oben auf dem Zimmer sitzen), go upstairs (nach oben gehen)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me help carry your bag upstairs.",
-          "trans": "Lassen Sie mich helfen, Ihre Tasche nach oben zu tragen."
-        },
-        {
-          "text": "All guest bedrooms are upstairs.",
-          "trans": "Alle Gästezimmer liegen im Obergeschoss."
-        }
-      ],
-      "related": []
-    },
-    "valve": {
-      "lemma": "valve",
-      "stress": "vælv",
-      "pos": "noun",
-      "gloss": "Ventil",
-      "meanings": [
-        {
-          "en": "Ventil",
-          "note": "Technisches Bauteil, das an Heizkesseln, Heizkörpern und Rohren den Wasser- oder Dampfdurchfluss regelt."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Buy a new brass boiler valve.",
-          "trans": "Kauf ein neues Kesselventil aus Messing."
-        },
-        {
-          "text": "A spare valve saves next winter too.",
-          "trans": "Ein Ersatzventil rettet auch gleich den nächsten Winter."
-        }
-      ],
-      "related": []
-    },
-    "wake": {
-      "lemma": "wake",
-      "stress": "weɪk",
+    "leave": {
+      "lemma": "leave",
+      "stress": "liv",
       "pos": "verb",
-      "gloss": "aufwachen (wake up); wecken",
+      "gloss": "lassen, zurücklassen; weggehen, abreisen",
       "meanings": [
         {
-          "en": "aufwachen (wake up); wecken",
-          "note": "Starkes Verb: wake – woke – woken; allein oder mit up bedeutet es sowohl selbst aufwachen als auch jemanden aufwecken."
+          "en": "lassen, zurücklassen; weggehen, abreisen",
+          "note": "Unregelmäßig: leave – left – left; heißt sowohl etwas irgendwo lassen (leave a note) als auch aufbrechen."
         }
       ],
       "forms": {
@@ -6677,31 +5009,31 @@
           {
             "cells": [
               "base",
-              "wake"
+              "leave"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "wakes"
+              "leaves"
             ]
           },
           {
             "cells": [
               "past",
-              "woke"
+              "left"
             ]
           },
           {
             "cells": [
               "past participle",
-              "woken"
+              "left"
             ]
           },
           {
             "cells": [
               "-ing",
-              "waking"
+              "leaving"
             ]
           }
         ]
@@ -6709,12 +5041,112 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Room four wakes up at seven fifteen!",
-          "trans": "Zimmer vier wacht um Viertel nach sieben auf!"
+          "text": "You can leave your bags by the desk.",
+          "trans": "Sie können Ihre Taschen neben dem Empfang stehen lassen."
         },
         {
-          "text": "Morning birds woke us gently.",
-          "trans": "Die Vögel am Morgen haben uns sanft geweckt."
+          "text": "Our bus leaves at nine fifteen.",
+          "trans": "Unser Bus fährt um Viertel nach neun ab."
+        }
+      ],
+      "related": []
+    },
+    "outside": {
+      "lemma": "outside",
+      "stress": "ˌaʊtˈsaɪd",
+      "pos": "adv",
+      "gloss": "draußen; außerhalb von; Außenseite",
+      "meanings": [
+        {
+          "en": "draußen; außerhalb von; Außenseite",
+          "note": "Drei Rollen in einem Wort: Adverb (raining outside = draußen), Präposition (outside town = außerhalb der Stadt) und Nomen (the outside = das Äußere)!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A yellow taxi is waiting outside.",
+          "trans": "Draußen wartet ein gelbes Taxi."
+        },
+        {
+          "text": "Shall we drink our coffee outside?",
+          "trans": "Wollen wir unseren Kaffee draußen trinken?"
+        }
+      ],
+      "related": []
+    },
+    "our": {
+      "lemma": "our",
+      "stress": "ˈaʊɚ",
+      "pos": "det",
+      "gloss": "unser, unsere",
+      "meanings": [
+        {
+          "en": "unser, unsere",
+          "note": "Bleibt vor jedem Singular- und Pluralnomen völlig unverändert: our street, our neighborhood, our closet."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to our courtyard guesthouse.",
+          "trans": "Willkommen in unserem Gästehaus mit Innenhof."
+        },
+        {
+          "text": "All our bread comes from Tessa's oven.",
+          "trans": "Unser gesamtes Brot kommt aus Tessas Ofen."
+        }
+      ],
+      "related": []
+    },
+    "gate": {
+      "lemma": "gate",
+      "stress": "ɡeɪt",
+      "pos": "noun",
+      "gloss": "Tor, Gartentor, Hoftor",
+      "meanings": [
+        {
+          "en": "Tor, Gartentor, Hoftor",
+          "note": "Bezeichnet den äußeren Durchgang in einem Zaun oder einer Hofmauer (die Haustür selbst heißt door)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Close the iron gate behind you.",
+          "trans": "Schließ das Eisentor hinter dir."
+        },
+        {
+          "text": "Tessa waited by the courtyard gate.",
+          "trans": "Tessa wartete am Hoftor."
+        }
+      ],
+      "related": []
+    },
+    "and": {
+      "lemma": "and",
+      "stress": "ænd",
+      "pos": "conj",
+      "gloss": "und",
+      "meanings": [
+        {
+          "en": "und",
+          "note": "Grundlegende nebenordnende Konjunktion; im natürlichen Sprechfluss oft schwach als 'n gesprochen."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bring bread and butter, please.",
+          "trans": "Bring bitte Brot und Butter mit."
+        },
+        {
+          "text": "Wash your hands and sit down.",
+          "trans": "Wasch dir die Hände und setz dich."
         }
       ],
       "related": []
@@ -6782,52 +5214,1218 @@
       ],
       "related": []
     },
-    "water": {
-      "lemma": "water",
-      "stress": "ˈwɔtɚ",
-      "pos": "noun",
-      "gloss": "Wasser; gießen (Pflanzen)",
+    "straight": {
+      "lemma": "straight",
+      "stress": "stɹeɪt",
+      "pos": "adv",
+      "gloss": "geradeaus, direkt; gerade",
       "meanings": [
         {
-          "en": "Wasser; gießen (Pflanzen)",
-          "note": "Unzählbares Nomen (cold water, hot water, sparkling water); im US-Englischen klingt das t zwischen Vokalen weich (/ˈwɔtɚ/)."
+          "en": "geradeaus, direkt; gerade",
+          "note": "Das gh ist stumm (/stɹeɪt/); unverzichtbar bei Wegbeschreibungen: walk straight to ... (geh geradeaus bis ...)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "May I have a glass of cold water?",
-          "trans": "Darf ich ein Glas kaltes Wasser bekommen?"
+          "text": "Walk straight to the stone bridge.",
+          "trans": "Gehen Sie geradeaus bis zur Steinbrücke."
         },
         {
-          "text": "Pour boiling water into the ceramic teapot.",
-          "trans": "Gieß kochendes Wasser in die Keramikteekanne."
+          "text": "Come straight inside out of the rain.",
+          "trans": "Kommt direkt aus dem Regen herein."
         }
       ],
       "related": []
     },
-    "way": {
-      "lemma": "way",
-      "stress": "weɪ",
+    "stone": {
+      "lemma": "stone",
+      "stress": "stoʊn",
       "pos": "noun",
-      "gloss": "Weg; Weise, Art",
+      "gloss": "Stein; steinern, Stein-",
       "meanings": [
         {
-          "en": "Weg; Weise, Art",
-          "note": "All the way out in the courtyard verstärkt die Entfernung: bis ganz draußen im Innenhof!"
+          "en": "Stein; steinern, Stein-",
+          "note": "Zählbar für einzelne Steine (did you pack stones?), direkt vor einem Nomen wie ein Adjektiv steinern: stone step (Steinstufe)!"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Right this way to the dining room, please.",
-          "trans": "Hier entlang zum Speiseraum, bitte."
+          "text": "Warm sunlight dried the wet courtyard stones.",
+          "trans": "Warmes Sonnenlicht trocknete die nassen Hofsteine."
         },
         {
-          "text": "On my way to work, I passed the harbor.",
-          "trans": "Auf dem Weg zur Arbeit kam ich am Hafen vorbei."
+          "text": "They sat by the low stone wall.",
+          "trans": "Sie saßen an der niedrigen Steinmauer."
+        }
+      ],
+      "related": []
+    },
+    "bridge": {
+      "lemma": "bridge",
+      "stress": "bɹɪdʒ",
+      "pos": "noun",
+      "gloss": "Brücke",
+      "meanings": [
+        {
+          "en": "Brücke",
+          "note": "Bezeichnet Straßen-, Fußgänger- und Eisenbahnbrücken; wird mit stimmhaftem /dʒ/ am Ende gesprochen."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Cross the old stone bridge.",
+          "trans": "Geh über die alte Steinbrücke."
+        },
+        {
+          "text": "The shop is just past the bridge.",
+          "trans": "Der Laden kommt gleich hinter der Brücke."
+        }
+      ],
+      "related": []
+    },
+    "at": {
+      "lemma": "at",
+      "stress": "æt",
+      "pos": "prep",
+      "gloss": "um (Uhrzeit); an, bei",
+      "meanings": [
+        {
+          "en": "um (Uhrzeit); an, bei",
+          "note": "Steht vor genauen Uhrzeiten (at seven) und konkreten Treffpunkten (at the gate, at the desk)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast starts at seven thirty.",
+          "trans": "Das Frühstück beginnt um halb acht."
+        },
+        {
+          "text": "Someone is waiting at the gate.",
+          "trans": "Jemand wartet am Tor."
+        }
+      ],
+      "related": []
+    },
+    "do": {
+      "lemma": "do",
+      "stress": "du",
+      "pos": "verb",
+      "gloss": "tun, machen; Hilfsverb für Fragen und Verneinung",
+      "meanings": [
+        {
+          "en": "tun, machen; Hilfsverb für Fragen und Verneinung",
+          "note": "Unentbehrlich als Hilfsverb in Fragen (Do you know?) und Verneinungen (I do not know)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "do"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "does"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "did"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "done"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "doing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do you want sugar in your coffee?",
+          "trans": "Möchten Sie Zucker in Ihren Kaffee?"
+        },
+        {
+          "text": "What should we do with this package?",
+          "trans": "Was sollen wir mit diesem Paket machen?"
+        }
+      ],
+      "related": []
+    },
+    "i": {
+      "lemma": "i",
+      "stress": "aɪ",
+      "pos": "pron",
+      "gloss": "ich",
+      "meanings": [
+        {
+          "en": "ich",
+          "note": "Einziges Fürwort, das im Englischen mitten im Satz IMMER großgeschrieben wird: I."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I am Hannah, the new receptionist.",
+          "trans": "Ich bin Hannah, die neue Rezeptionistin."
+        },
+        {
+          "text": "May I help you with your luggage?",
+          "trans": "Darf ich Ihnen mit Ihrem Gepäck helfen?"
+        }
+      ],
+      "related": []
+    },
+    "cross": {
+      "lemma": "cross",
+      "stress": "kɹɔs",
+      "pos": "verb",
+      "gloss": "überqueren",
+      "meanings": [
+        {
+          "en": "überqueren",
+          "note": "Steht als transitives Verb direkt mit dem Objekt ohne Präposition: cross the bridge (die Brücke überqueren)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "cross"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "crosses"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "crossed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "crossed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "crossing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Cross the stone bridge carefully.",
+          "trans": "Überquere vorsichtig die Steinbrücke."
+        },
+        {
+          "text": "Do I cross the river here?",
+          "trans": "Überquere ich hier den Fluss?"
+        }
+      ],
+      "related": []
+    },
+    "yes": {
+      "lemma": "yes",
+      "stress": "jɛs",
+      "pos": "interj",
+      "gloss": "ja",
+      "meanings": [
+        {
+          "en": "ja",
+          "note": "Freundliche Grundbejahung in jedem Register."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Yes, eight rooms and eight brass keys.",
+          "trans": "Ja, acht Zimmer und acht Messingschlüssel."
+        },
+        {
+          "text": "Yes, please! I would love some coffee.",
+          "trans": "Ja, bitte! Ich hätte sehr gern einen Kaffee."
+        }
+      ],
+      "related": []
+    },
+    "then": {
+      "lemma": "then",
+      "stress": "ðɛn",
+      "pos": "adv",
+      "gloss": "dann, danach",
+      "meanings": [
+        {
+          "en": "dann, danach",
+          "note": "Mit e geschrieben für zeitliche Abfolge: lift first, then push (erst anheben, dann drücken); nicht mit than (als) verwechseln!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Drink hot tea first, then answer the bell.",
+          "trans": "Trink zuerst heißen Tee und geh dann an die Klingel."
+        },
+        {
+          "text": "All right then, let us call the taxi company.",
+          "trans": "Also gut, rufen wir das Taxiunternehmen an."
+        }
+      ],
+      "related": []
+    },
+    "pass": {
+      "lemma": "pass",
+      "stress": "pæs",
+      "pos": "verb",
+      "gloss": "reichen (am Tisch/bei der Arbeit); vorbeigehen an",
+      "meanings": [
+        {
+          "en": "reichen (am Tisch/bei der Arbeit); vorbeigehen an",
+          "note": "Sehr nützlich in zwei Alltagssituationen: Pass me the wrench! (Reich mir den Schraubenschlüssel!) und pass a shop (an einem Laden vorbeikommen)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "pass"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "passes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "passed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "passed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "passing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pass me the heavy wrench, please.",
+          "trans": "Reich mir bitte den schweren Schraubenschlüssel."
+        },
+        {
+          "text": "I just passed the green pharmacy!",
+          "trans": "Ich bin gerade an der grünen Apotheke vorbeigekommen!"
+        }
+      ],
+      "related": []
+    },
+    "green": {
+      "lemma": "green",
+      "stress": "ɡɹin",
+      "pos": "adj",
+      "gloss": "grün",
+      "meanings": [
+        {
+          "en": "grün",
+          "note": "Für Pflanzen, frische Kräuter (fresh green herbs) oder grünen Tee."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look for the house with green shutters.",
+          "trans": "Achten Sie auf das Haus mit den grünen Fensterläden."
+        },
+        {
+          "text": "Would you prefer black tea or green tea?",
+          "trans": "Möchten Sie lieber schwarzen oder grünen Tee?"
+        }
+      ],
+      "related": []
+    },
+    "pharmacy": {
+      "lemma": "pharmacy",
+      "stress": "ˈfɑɹməsi",
+      "pos": "noun",
+      "gloss": "Apotheke",
+      "meanings": [
+        {
+          "en": "Apotheke",
+          "note": "Anlautendes ph spricht man /f/ (/ˈfɑɹməsi/); in den USA das übliche Wort für Apotheke (neben drugstore)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pass the green pharmacy on the right.",
+          "trans": "Geh rechts an der grünen Apotheke vorbei."
+        },
+        {
+          "text": "Is the corner pharmacy still open?",
+          "trans": "Hat die Apotheke an der Ecke noch geöffnet?"
+        }
+      ],
+      "related": []
+    },
+    "on": {
+      "lemma": "on",
+      "stress": "ɑn",
+      "pos": "prep",
+      "gloss": "auf, an; am (+ Tag)",
+      "meanings": [
+        {
+          "en": "auf, an; am (+ Tag)",
+          "note": "Für Flächen mit Berührung (on the step, on my head), Geräte (on the tablet) und Tage (on my first day, on Friday)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your key is on the wooden desk.",
+          "trans": "Ihr Schlüssel liegt auf dem hölzernen Empfangstisch."
+        },
+        {
+          "text": "Tessa bakes apple rolls on Fridays.",
+          "trans": "Freitags backt Tessa Apfelbrötchen."
+        }
+      ],
+      "related": []
+    },
+    "right": {
+      "lemma": "right",
+      "stress": "ɹaɪt",
+      "pos": "adj",
+      "gloss": "genau, direkt (Adverb); richtig; rechts",
+      "meanings": [
+        {
+          "en": "genau, direkt (Adverb); richtig; rechts",
+          "note": "Extrem vielseitig: right here (genau hier), right above (direkt über), right now / right away (sofort), all right (in Ordnung)!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You have the right room key now.",
+          "trans": "Sie haben jetzt den richtigen Zimmerschlüssel."
+        },
+        {
+          "text": "Your room is the second door on the right.",
+          "trans": "Ihr Zimmer ist die zweite Tür rechts."
+        }
+      ],
+      "related": []
+    },
+    "after": {
+      "lemma": "after",
+      "stress": "ˈæftɚ",
+      "pos": "prep",
+      "gloss": "nach, hinter",
+      "meanings": [
+        {
+          "en": "nach, hinter",
+          "note": "Drückt zeitliche oder räumliche Nachfolge aus und steht auch als Konjunktion (nachdem)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let us walk after lunch.",
+          "trans": "Gehen wir nach dem Mittagessen spazieren."
+        },
+        {
+          "text": "Wednesday comes after Tuesday.",
+          "trans": "Mittwoch kommt nach Dienstag."
+        }
+      ],
+      "related": []
+    },
+    "that": {
+      "lemma": "that",
+      "stress": "ðæt",
+      "pos": "pron",
+      "gloss": "das, jener, dieser; dass",
+      "meanings": [
+        {
+          "en": "das, jener, dieser; dass",
+          "note": "Deckt gleich drei deutsche Wörter ab: Demonstrativpronomen (Did you hear that?), jener/dieser vor Nomen (that bell) und Konjunktion dass!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "That blue suitcase by the door is Arthur's.",
+          "trans": "Jener blaue Koffer an der Tür gehört Arthur."
+        },
+        {
+          "text": "That sounds like a great plan!",
+          "trans": "Das klingt nach einem großartigen Plan!"
+        }
+      ],
+      "related": []
+    },
+    "into": {
+      "lemma": "into",
+      "stress": "ˈɪntu",
+      "pos": "prep",
+      "gloss": "in ... hinein",
+      "meanings": [
+        {
+          "en": "in ... hinein",
+          "note": "Drückt im Gegensatz zu bloßem in (wo?) gezielt die Bewegung nach innen (wohin?) aus: pour into the teapot."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pour hot water into the teapot.",
+          "trans": "Gieß heißes Wasser in die Teekanne."
+        },
+        {
+          "text": "She stepped into the sunny courtyard.",
+          "trans": "Sie trat in den sonnigen Innenhof hinaus."
+        }
+      ],
+      "related": []
+    },
+    "small": {
+      "lemma": "small",
+      "stress": "smɔl",
+      "pos": "adj",
+      "gloss": "klein",
+      "meanings": [
+        {
+          "en": "klein",
+          "note": "Beschreibt sachlich geringe Maße und Formate (small paper card, small spoons), während little oft emotionaler klingt."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We run a small eight-room guesthouse.",
+          "trans": "Wir führen ein kleines Gästehaus mit acht Zimmern."
+        },
+        {
+          "text": "Look for a small brass tag on the zipper.",
+          "trans": "Achte auf einen kleinen Messinganhänger am Reißverschluss."
+        }
+      ],
+      "related": []
+    },
+    "square": {
+      "lemma": "square",
+      "stress": "skwɛɹ",
+      "pos": "noun",
+      "gloss": "Platz (Stadtplatz); Quadrat; quadratisch",
+      "meanings": [
+        {
+          "en": "Platz (Stadtplatz); Quadrat; quadratisch",
+          "note": "In Städten bezeichnet square einen offenen Platz zwischen Straßen (town square = Markt-/Rathausplatz)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Turn left into the small stone square.",
+          "trans": "Biegen Sie links auf den kleinen steinernen Platz ab."
+        },
+        {
+          "text": "A fountain stands in the town square.",
+          "trans": "Auf dem Stadtplatz steht ein Brunnen."
+        }
+      ],
+      "related": []
+    },
+    "look": {
+      "lemma": "look",
+      "stress": "lʊk",
+      "pos": "verb",
+      "gloss": "schauen, blicken; aussehen (+ Adjektiv)",
+      "meanings": [
+        {
+          "en": "schauen, blicken; aussehen (+ Adjektiv)",
+          "note": "Präposition entscheidet den Sinn: look at = anschauen, look for = suchen, look down = hinunterschauen; look lovely = schön aussehen!"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "look"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "looks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "looked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "looked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "looking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at the brass tag on the handle.",
+          "trans": "Schau dir den Messinganhänger am Griff an."
+        },
+        {
+          "text": "Those cinnamon rolls look delicious!",
+          "trans": "Diese Zimtschnecken sehen köstlich aus!"
+        }
+      ],
+      "related": []
+    },
+    "for": {
+      "lemma": "for",
+      "stress": "fɔɹ",
+      "pos": "prep",
+      "gloss": "für; seit, lang (Zeitdauer)",
+      "meanings": [
+        {
+          "en": "für; seit, lang (Zeitdauer)",
+          "note": "Steht für Empfänger und Zweck (ready for breakfast) sowie Zeitspannen (for ten minutes)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This package arrived for room two.",
+          "trans": "Dieses Paket ist für Zimmer zwei angekommen."
+        },
+        {
+          "text": "Wait here for just a moment.",
+          "trans": "Warten Sie hier bitte nur einen Moment."
+        }
+      ],
+      "related": []
+    },
+    "a": {
+      "lemma": "a",
+      "stress": "ə",
+      "pos": "det",
+      "gloss": "ein, eine",
+      "meanings": [
+        {
+          "en": "ein, eine",
+          "note": "Unbestimmter Artikel vor gesprochenem Konsonanten (z. B. a pen, aber auch a hotel)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I have a blue pen.",
+          "trans": "Ich habe einen blauen Stift."
+        },
+        {
+          "text": "She wants a cup of tea.",
+          "trans": "Sie möchte eine Tasse Tee."
+        }
+      ],
+      "related": []
+    },
+    "blue": {
+      "lemma": "blue",
+      "stress": "blu",
+      "pos": "adj",
+      "gloss": "blau",
+      "meanings": [
+        {
+          "en": "blau",
+          "note": "Bleibt wie alle englischen Adjektive vor dem Nomen endungslos (a blue sky, blue bags)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at that clear blue sky.",
+          "trans": "Schau dir diesen klaren blauen Himmel an."
+        },
+        {
+          "text": "My suitcase has a blue handle.",
+          "trans": "Mein Koffer hat einen blauen Griff."
+        }
+      ],
+      "related": []
+    },
+    "wooden": {
+      "lemma": "wooden",
+      "stress": "ˈwʊdən",
+      "pos": "adj",
+      "gloss": "hölzern, aus Holz, Holz-",
+      "meanings": [
+        {
+          "en": "hölzern, aus Holz, Holz-",
+          "note": "Das klassische Materialadjektiv aus wood + -en vor Nomen: a little wooden train (eine kleine Holzeisenbahn)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Set the tray on the long wooden table.",
+          "trans": "Stell das Tablett auf den langen Holztisch."
+        },
+        {
+          "text": "Eight keys hang on a wooden board.",
+          "trans": "Acht Schlüssel hängen an einem Holzbrett."
+        }
+      ],
+      "related": []
+    },
+    "door": {
+      "lemma": "door",
+      "stress": "dɔɹ",
+      "pos": "noun",
+      "gloss": "Tür",
+      "meanings": [
+        {
+          "en": "Tür",
+          "note": "Steht für Haus-, Zimmer- und Schranktüren; out the door heißt zur Tür hinaus."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Please close the front door gently.",
+          "trans": "Schließen Sie die Haustür bitte leise."
+        },
+        {
+          "text": "Someone knocked on the kitchen door.",
+          "trans": "Jemand klopfte an die Küchentür."
+        }
+      ],
+      "related": []
+    },
+    "have": {
+      "lemma": "have",
+      "stress": "hæv",
+      "pos": "verb",
+      "gloss": "haben; nehmen (Essen/Trinken)",
+      "meanings": [
+        {
+          "en": "haben; nehmen (Essen/Trinken)",
+          "note": "Unregelmäßige 3. Person Singular: has (/hæz/) und Präteritum had; have tea heißt Tee trinken."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "have"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "has"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "had"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "had"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "having"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do you have a reservation for tonight?",
+          "trans": "Haben Sie eine Reservierung für heute Abend?"
+        },
+        {
+          "text": "Let us have coffee in the courtyard.",
+          "trans": "Trinken wir im Innenhof einen Kaffee."
+        }
+      ],
+      "related": []
+    },
+    "big": {
+      "lemma": "big",
+      "stress": "bɪɡ",
+      "pos": "adj",
+      "gloss": "groß",
+      "meanings": [
+        {
+          "en": "groß",
+          "note": "Häufigstes Alltagswort für räumliche Größe und Umfang."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "They live in a big brick house.",
+          "trans": "Sie wohnen in einem großen Backsteinhaus."
+        },
+        {
+          "text": "We need a big pot for the soup.",
+          "trans": "Wir brauchen einen großen Topf für die Suppe."
+        }
+      ],
+      "related": []
+    },
+    "sign": {
+      "lemma": "sign",
+      "stress": "saɪn",
+      "pos": "noun",
+      "gloss": "Schild; unterschreiben (als Verb)",
+      "meanings": [
+        {
+          "en": "Schild; unterschreiben (als Verb)",
+          "note": "Das g vor dem n ist sowohl im Nomen sign (Schild) als auch im Verb sign (unterschreiben) völlig stumm (/saɪn/)!"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sign"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "signs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "signed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "signed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "signing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Does the shop have a sign outside?",
+          "trans": "Hängt draußen vor dem Laden ein Schild?"
+        },
+        {
+          "text": "The mailman asked me to sign here.",
+          "trans": "Der Briefträger bat mich, hier zu unterschreiben."
+        }
+      ],
+      "related": []
+    },
+    "only": {
+      "lemma": "only",
+      "stress": "ˈoʊnli",
+      "pos": "adv",
+      "gloss": "nur, bloß; einziger (Adjektiv)",
+      "meanings": [
+        {
+          "en": "nur, bloß; einziger (Adjektiv)",
+          "note": "Als Adverb steht only möglichst nah vor dem betonten Satzteil (I only have the coat on my back)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We have only eight rooms at the inn.",
+          "trans": "Wir haben im Gasthof nur acht Zimmer."
+        },
+        {
+          "text": "This is the only key to the garden shed.",
+          "trans": "Das ist der einzige Schlüssel zum Gartenschuppen."
+        }
+      ],
+      "related": []
+    },
+    "paint": {
+      "lemma": "paint",
+      "stress": "peɪnt",
+      "pos": "noun",
+      "gloss": "Farbe, Anstrich; streichen, malen",
+      "meanings": [
+        {
+          "en": "Farbe, Anstrich; streichen, malen",
+          "note": "Bezeichnet flüssige Wand- oder Lackfarbe: wet paint heißt frisch gestrichen (wörtlich nasse Farbe; der Farbton selbst heißt color)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Careful, there is fresh green paint on the gate.",
+          "trans": "Vorsicht, am Tor ist frische grüne Farbe."
+        },
+        {
+          "text": "She loves watercolor paint and sketchbooks.",
+          "trans": "Sie liebt Wasserfarben und Skizzenbücher."
+        }
+      ],
+      "related": []
+    },
+    "golden": {
+      "lemma": "golden",
+      "stress": "ˈɡoʊldən",
+      "pos": "adj",
+      "gloss": "golden, goldbraun",
+      "meanings": [
+        {
+          "en": "golden, goldbraun",
+          "note": "Wird für warmes Lampenlicht, glänzendes Messing und frisch gebackene Krusten verwendet."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at those golden paper lanterns.",
+          "trans": "Schau dir diese goldenen Papierlaternen an."
+        },
+        {
+          "text": "Bake the rolls until the crust is golden.",
+          "trans": "Back die Brötchen, bis die Kruste goldbraun ist."
+        }
+      ],
+      "related": []
+    },
+    "key": {
+      "lemma": "key",
+      "stress": "ki",
+      "pos": "noun",
+      "gloss": "Schlüssel; Taste",
+      "meanings": [
+        {
+          "en": "Schlüssel; Taste",
+          "note": "Aussprachefalle: Trotz ey klingt key mit langem /i/ genau wie see und tea (/ki/, niemals /keɪ/!)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is the brass key to room four.",
+          "trans": "Hier ist der Messingschlüssel zu Zimmer vier."
+        },
+        {
+          "text": "Eight keys hang neatly behind the desk.",
+          "trans": "Acht Schlüssel hängen ordentlich hinter dem Tresen."
+        }
+      ],
+      "related": []
+    },
+    "above": {
+      "lemma": "above",
+      "stress": "əˈbʌv",
+      "pos": "prep",
+      "gloss": "über, oberhalb von",
+      "meanings": [
+        {
+          "en": "über, oberhalb von",
+          "note": "Bezeichnet eine höhere Lage ohne direkte Berührung (im Gegensatz zu on)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A lamp hangs above the table.",
+          "trans": "Eine Lampe hängt über dem Tisch."
+        },
+        {
+          "text": "Our room is above the garden.",
+          "trans": "Unser Zimmer liegt über dem Garten."
+        }
+      ],
+      "related": []
+    },
+    "show": {
+      "lemma": "show",
+      "stress": "ʃoʊ",
+      "pos": "verb",
+      "gloss": "zeigen",
+      "meanings": [
+        {
+          "en": "zeigen",
+          "note": "Unregelmäßiges Partizip: show – showed – shown; steht wie im Deutschen mit Personen- und Sachobjekt (Show him the room)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "show"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "shows"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "showed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "shown"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "showing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let me show you our attic study.",
+          "trans": "Lass mich dir unser Arbeitszimmer unterm Dach zeigen."
+        },
+        {
+          "text": "Show the clerk this brass valve.",
+          "trans": "Zeig dem Verkäufer dieses Messingventil."
+        }
+      ],
+      "related": []
+    },
+    "clerk": {
+      "lemma": "clerk",
+      "stress": "klɝk",
+      "pos": "noun",
+      "gloss": "Angestellter, Empfangskraft, Verkäufer",
+      "meanings": [
+        {
+          "en": "Angestellter, Empfangskraft, Verkäufer",
+          "note": "Wird im US-Englisch /klɝk/ gesprochen (im Britischen /klɑːk/) und meint Laden- oder Hotelangestellte."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Show this valve to the shop clerk.",
+          "trans": "Zeig dieses Ventil dem Verkäufer im Laden."
+        },
+        {
+          "text": "Graham works as the night clerk.",
+          "trans": "Graham arbeitet als Nachtportier am Empfang."
+        }
+      ],
+      "related": []
+    },
+    "twenty": {
+      "lemma": "twenty",
+      "stress": "ˈtwɛnti",
+      "pos": "num",
+      "gloss": "zwanzig",
+      "meanings": [
+        {
+          "en": "zwanzig",
+          "note": "Zwanzig Eier heißen twenty eggs; Grundwort für 21 bis 29."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The bakery is twenty steps down the street.",
+          "trans": "Die Bäckerei liegt zwanzig Schritte die Straße hinunter."
+        },
+        {
+          "text": "Give the rolls twenty minutes in the oven.",
+          "trans": "Lass die Brötchen zwanzig Minuten im Ofen."
+        }
+      ],
+      "related": []
+    },
+    "millimeter": {
+      "lemma": "millimeter",
+      "stress": "ˈmɪləˌmitɚ",
+      "pos": "noun",
+      "gloss": "Millimeter",
+      "meanings": [
+        {
+          "en": "Millimeter",
+          "note": "Tausendstel Meter für feine Handwerks- und Architekturmaße; amerikanisch auf -er geschrieben."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The brass ring is twenty millimeters wide.",
+          "trans": "Der Messingring ist zwanzig Millimeter breit."
+        },
+        {
+          "text": "Check every millimeter on the blueprint.",
+          "trans": "Prüf jeden Millimeter auf dem Bauplan."
+        }
+      ],
+      "related": []
+    },
+    "boiler": {
+      "lemma": "boiler",
+      "stress": "ˈbɔɪlɚ",
+      "pos": "noun",
+      "gloss": "Heizkessel, Boiler",
+      "meanings": [
+        {
+          "en": "Heizkessel, Boiler",
+          "note": "Bezeichnet die zentrale Heizungs- und Warmwasseranlage im Keller eines Hauses."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Graham repaired the basement boiler.",
+          "trans": "Graham hat den Heizkessel im Keller repariert."
+        },
+        {
+          "text": "The old boiler makes a clanking sound.",
+          "trans": "Der alte Heizkessel macht ein metallisches Klopfgeräusch."
         }
       ],
       "related": []
@@ -6895,52 +6493,454 @@
       ],
       "related": []
     },
-    "wooden": {
-      "lemma": "wooden",
-      "stress": "ˈwʊdən",
-      "pos": "adj",
-      "gloss": "hölzern, aus Holz, Holz-",
+    "repeat": {
+      "lemma": "repeat",
+      "stress": "ɹɪˈpit",
+      "pos": "verb",
+      "gloss": "wiederholen, nachsprechen",
       "meanings": [
         {
-          "en": "hölzern, aus Holz, Holz-",
-          "note": "Das klassische Materialadjektiv aus wood + -en vor Nomen: a little wooden train (eine kleine Holzeisenbahn)."
+          "en": "wiederholen, nachsprechen",
+          "note": "Vorsicht: man sagt niemals *repeat again* (da re- schon wieder bedeutet), sondern einfach repeat that!"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "repeat"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "repeats"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "repeated"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "repeated"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "repeating"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Set the tray on the long wooden table.",
-          "trans": "Stell das Tablett auf den langen Holztisch."
+          "text": "I will repeat the valve size all the way!",
+          "trans": "Ich werde die Ventilgröße den ganzen Weg vor mich hin aufsagen!"
         },
         {
-          "text": "Eight keys hang on a wooden board.",
-          "trans": "Acht Schlüssel hängen an einem Holzbrett."
+          "text": "Could you repeat that address slowly?",
+          "trans": "Könnten Sie diese Adresse bitte langsam wiederholen?"
         }
       ],
       "related": []
     },
-    "yes": {
-      "lemma": "yes",
-      "stress": "jɛs",
-      "pos": "interj",
-      "gloss": "ja",
+    "all": {
+      "lemma": "all",
+      "stress": "ɔl",
+      "pos": "det",
+      "gloss": "alle, alles, ganz",
       "meanings": [
         {
-          "en": "ja",
-          "note": "Freundliche Grundbejahung in jedem Register."
+          "en": "alle, alles, ganz",
+          "note": "Steht vor dem Artikel (all the windows) oder vor Zeitangaben ohne Artikel (all morning = den ganzen Morgen)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Yes, eight rooms and eight brass keys.",
-          "trans": "Ja, acht Zimmer und acht Messingschlüssel."
+          "text": "All the windows are open.",
+          "trans": "Alle Fenster sind offen."
         },
         {
-          "text": "Yes, please! I would love some coffee.",
-          "trans": "Ja, bitte! Ich hätte sehr gern einen Kaffee."
+          "text": "She worked all morning.",
+          "trans": "Sie hat den ganzen Vormittag gearbeitet."
+        }
+      ],
+      "related": []
+    },
+    "way": {
+      "lemma": "way",
+      "stress": "weɪ",
+      "pos": "noun",
+      "gloss": "Weg; Weise, Art",
+      "meanings": [
+        {
+          "en": "Weg; Weise, Art",
+          "note": "All the way out in the courtyard verstärkt die Entfernung: bis ganz draußen im Innenhof!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Right this way to the dining room, please.",
+          "trans": "Hier entlang zum Speiseraum, bitte."
+        },
+        {
+          "text": "On my way to work, I passed the harbor.",
+          "trans": "Auf dem Weg zur Arbeit kam ich am Hafen vorbei."
+        }
+      ],
+      "related": []
+    },
+    "run": {
+      "lemma": "run",
+      "stress": "ɹʌn",
+      "pos": "verb",
+      "gloss": "rennen, laufen; führen (Betrieb)",
+      "meanings": [
+        {
+          "en": "rennen, laufen; führen (Betrieb)",
+          "note": "Unregelmäßig: run – ran – run; run away heißt weglaufen, run there and back schnell hin- und zurücklaufen."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "run"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "runs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "ran"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "run"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "running"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Caleb ran back to the taxi with the bag.",
+          "trans": "Caleb rannte mit der Tasche zum Taxi zurück."
+        },
+        {
+          "text": "Graham has run this guesthouse for years.",
+          "trans": "Graham führt dieses Gästehaus seit Jahren."
+        }
+      ],
+      "related": []
+    },
+    "fast": {
+      "lemma": "fast",
+      "stress": "fæst",
+      "pos": "adv",
+      "gloss": "schnell, rasch",
+      "meanings": [
+        {
+          "en": "schnell, rasch",
+          "note": "Dient unverändert als Adjektiv (a fast train) UND als Adverb (walk fast — es gibt kein *fastly*!)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I always walk fast in cool weather.",
+          "trans": "Bei kühlem Wetter gehe ich immer schnell."
+        },
+        {
+          "text": "Do not speak too fast on the phone.",
+          "trans": "Sprich am Telefon nicht zu schnell."
+        }
+      ],
+      "related": []
+    },
+    "room": {
+      "lemma": "room",
+      "stress": "ɹum",
+      "pos": "noun",
+      "gloss": "Zimmer, Raum; Platz",
+      "meanings": [
+        {
+          "en": "Zimmer, Raum; Platz",
+          "note": "Zählbar für Hotelzimmer (eight rooms, room four ohne Artikel!), unzählbar für freien Platz (plenty of room)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four overlooks the sunny courtyard.",
+          "trans": "Zimmer vier blickt auf den sonnigen Innenhof."
+        },
+        {
+          "text": "All eight rooms are clean and ready.",
+          "trans": "Alle acht Zimmer sind sauber und bereit."
+        }
+      ],
+      "related": []
+    },
+    "four": {
+      "lemma": "four",
+      "stress": "fɔɹ",
+      "pos": "num",
+      "gloss": "vier",
+      "meanings": [
+        {
+          "en": "vier",
+          "note": "Klingt im amerikanischen Englisch genauso wie betontes for (/fɔɹ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four looks out on the courtyard.",
+          "trans": "Zimmer vier blickt auf den Innenhof."
+        },
+        {
+          "text": "Please bring four spoons for the table.",
+          "trans": "Bring bitte vier Löffel für den Tisch mit."
+        }
+      ],
+      "related": []
+    },
+    "wake": {
+      "lemma": "wake",
+      "stress": "weɪk",
+      "pos": "verb",
+      "gloss": "aufwachen (wake up); wecken",
+      "meanings": [
+        {
+          "en": "aufwachen (wake up); wecken",
+          "note": "Starkes Verb: wake – woke – woken; allein oder mit up bedeutet es sowohl selbst aufwachen als auch jemanden aufwecken."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "wake"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "wakes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "woke"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "woken"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "waking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four wakes up at seven fifteen!",
+          "trans": "Zimmer vier wacht um Viertel nach sieben auf!"
+        },
+        {
+          "text": "Morning birds woke us gently.",
+          "trans": "Die Vögel am Morgen haben uns sanft geweckt."
+        }
+      ],
+      "related": []
+    },
+    "up": {
+      "lemma": "up",
+      "stress": "ʌp",
+      "pos": "adv",
+      "gloss": "hinauf, nach oben; auf-",
+      "meanings": [
+        {
+          "en": "hinauf, nach oben; auf-",
+          "note": "I will carry the blue bag up = Ich trage die blaue Tasche hinauf; hung up = legte (am Telefon) auf."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pick up the brass key from the tray.",
+          "trans": "Nimm den Messingschlüssel vom Tablett auf."
+        },
+        {
+          "text": "Look up at the painted wooden sign.",
+          "trans": "Schau hinauf zum bemalten Holzschild."
+        }
+      ],
+      "related": []
+    },
+    "seven": {
+      "lemma": "seven",
+      "stress": "ˈsɛvən",
+      "pos": "num",
+      "gloss": "sieben",
+      "meanings": [
+        {
+          "en": "sieben",
+          "note": "Zweisilbig /ˈsɛvən/; halb acht heißt im Englischen seven thirty (sieben dreißig — Achtung, nicht mit deutsch halb sieben = 6:30 verwechseln!)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa opens her bakery at seven sharp.",
+          "trans": "Tessa öffnet ihre Bäckerei Punkt sieben Uhr."
+        },
+        {
+          "text": "Room seven faces the linden tree.",
+          "trans": "Zimmer sieben geht zur Linde hinaus."
+        }
+      ],
+      "related": []
+    },
+    "fifteen": {
+      "lemma": "fifteen",
+      "stress": "ˌfɪfˈtin",
+      "pos": "num",
+      "gloss": "fünfzehn",
+      "meanings": [
+        {
+          "en": "fünfzehn",
+          "note": "Verlagert vor einem Nomen die Hauptbetonung nach vorn (FIFteen minutes), um sich klar von fifty zu unterscheiden."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Give us fifteen minutes to prepare.",
+          "trans": "Geben Sie uns fünfzehn Minuten zur Vorbereitung."
+        },
+        {
+          "text": "Arthur worked here for fifteen years.",
+          "trans": "Arthur hat fünfzehn Jahre lang hier gearbeitet."
+        }
+      ],
+      "related": []
+    },
+    "see": {
+      "lemma": "see",
+      "stress": "si",
+      "pos": "verb",
+      "gloss": "sehen; verstehen",
+      "meanings": [
+        {
+          "en": "sehen; verstehen",
+          "note": "Unregelmäßig: see – saw – seen; unverzichtbar in allen Abschiedsgrüßen wie See you soon!, See you later!, See you tomorrow!."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "see"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sees"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "saw"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "seen"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "seeing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "See you next time!",
+          "trans": "Bis zum nächsten Mal!"
+        },
+        {
+          "text": "Oh, I see what happened with the keys!",
+          "trans": "Ach, ich verstehe schon, was mit den Schlüsseln passiert ist!"
         }
       ],
       "related": []
@@ -6970,27 +6970,27 @@
       ],
       "related": []
     },
-    "your": {
-      "lemma": "your",
-      "stress": "jʊɹ",
-      "pos": "det",
-      "gloss": "dein, euer, Ihr",
+    "soon": {
+      "lemma": "soon",
+      "stress": "sun",
+      "pos": "adv",
+      "gloss": "bald; See you soon! = Bis bald!",
       "meanings": [
         {
-          "en": "dein, euer, Ihr",
-          "note": "Gilt unverändert für vertrauliches dein/euer UND höfliches Ihr (How was your train trip?); nicht mit you're (= you are) verwechseln!"
+          "en": "bald; See you soon! = Bis bald!",
+          "note": "See you soon! ist der herzliche Abschied, wenn man sich noch am selben Tag oder sehr bald wiedersieht."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Here is your room key, Evelyn.",
-          "trans": "Hier ist Ihr Zimmerschlüssel, Evelyn."
+          "text": "Coffee will be ready very soon.",
+          "trans": "Der Kaffee ist ganz bald fertig."
         },
         {
-          "text": "Enjoy your morning coffee!",
-          "trans": "Lassen Sie sich Ihren Morgenkaffee schmecken!"
+          "text": "See you soon in the courtyard!",
+          "trans": "Bis bald im Innenhof!"
         }
       ],
       "related": []

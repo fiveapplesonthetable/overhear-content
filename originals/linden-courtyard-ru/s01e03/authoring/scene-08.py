@@ -19,7 +19,7 @@ STORY = [
     ('hannah', 'Does that mean no radiators tonight, or no hot water too?', 'Это значит, что ночью не будет отопления или горячей воды тоже?'),
     ('graham', 'The rooms will stay warm until morning, Hannah, because the brick walls hold heat.', 'До утра комнаты останутся тёплыми, Ханна, потому что кирпичные стены держат тепло.'),
     ('arthur', 'Thank heavens! And the morning showers?', 'Слава небесам! А утренний душ?'),
-    ('graham', 'At seven tomorrow morning, the shower water will be ice cold.', 'Завтра в семь утра вода в душе будет ледяной.'),
+    ('graham', 'By tomorrow morning, the shower water will be ice cold.', 'К завтрашнему утру вода в душе будет ледяной.'),
     ('arthur', 'Ice cold showers?! With the Portland Travel Guide inspector on the third floor?!', 'Ледяной душ?! Когда на третьем этаже ночует ревизор «Путеводителя по Портленду»?!'),
     ('hannah', 'Do you have a spare brass valve in your toolbox?', 'У тебя в ящике с инструментами есть запасной латунный клапан?'),
     ('graham', 'Used my last one in winter. Only the old hardware shop past the bridge sells this size.', 'Последний я истратил зимой. Такой размер продаёт только старый хозяйственный магазин за мостом.'),

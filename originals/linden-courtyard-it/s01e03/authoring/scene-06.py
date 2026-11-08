@@ -23,7 +23,7 @@ STORY = [
     ("arthur", "Do not snoop, of course... wait, it fell open to the middle page!", "Non curiosate, mi raccomando... fermi, si è aperto da solo alla pagina centrale!"),
     ("hannah", "Why are there neat pencil drawings of three guesthouses on our street?", "Perché ci sono precisi disegni a matita di tre locande della nostra via?"),
     ("tessa", "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'", "Guardate le parole accanto alla nostra: «Larghezza del cortile, rumore della strada, punteggio di silenzio: nove su dieci!»"),
-    ("arthur", "Nine out of ten?! Nobody measures lobbies unless...", "Nove su dieci?! Nessuno misura gli ingressi a meno che..."),
+    ("arthur", "Nine out of ten?! Nobody measures courtyards unless...", "Nove su dieci?! Nessuno misura i cortili a meno che..."),
     ("tessa", "Unless he writes for the annual Portland Travel Guide!", "A meno che non scriva per la Guida Turistica Annuale di Portland!"),
     ("hannah", "Quick, close it! Let us take it upstairs... wait, what is that loud clanking sound?", "Presto, chiudetelo! Portiamolo di sopra... aspettate, che cos'è questo forte rumore di ferraglia?"),
 ]
@@ -37,7 +37,7 @@ WALK = [
     (6, None, ["'Non curiosate, mi raccomando... fermi, si è aperto da solo alla pagina centrale!' Ficcare il naso negli affari altrui si dice col verbo colloquiale", (None, "Do not snoop"), "mentre", (None, "fell open"), "indica un libro che cade aprendosi da solo."]),
     (7, None, ["'Perché ci sono precisi disegni a matita di tre locande della nostra via?' Invertendo ordine affermativo e verbo al plurale,", (None, "Why are there"), "chiede perché ci sono."]),
     (8, None, ["'Guardate le parole accanto alla nostra: «Larghezza del cortile, rumore della strada, punteggio di silenzio: nove su dieci!»' Nei voti e nei punteggi dove noi diciamo nove su dieci, l'inglese dice", (None, "nine out of ten"), "nove fuori da dieci."]),
-    (9, None, ["'Nove su dieci?! Nessuno misura gli ingressi a meno che...' Una sola congiunzione compatta,", (None, "unless"), "traduce tutto il nostro a meno che non, senza aggiungere alcuna negazione."]),
+    (9, None, ["'Nove su dieci?! Nessuno misura i cortili a meno che...' Una sola congiunzione compatta,", (None, "unless"), "traduce tutto il nostro a meno che non, senza aggiungere alcuna negazione."]),
     (10, None, ["'A meno che non scriva per la Guida Turistica Annuale di Portland!' Mentre l'italiano richiede il congiuntivo dopo a meno che non, l'inglese usa il semplice indicativo affermativo in", (None, "Unless he writes"), "a meno che scriva."]),
     (11, None, ["'Presto, chiudetelo! Portiamolo di sopra... aspettate, che cos'è questo forte rumore di ferraglia?' Il suono onomatopeico", (None, "clanking sound"), "imita alla perfezione lo sbattere sordo di tubi metallici."]),
 ]

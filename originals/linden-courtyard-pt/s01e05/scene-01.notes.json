@@ -224,7 +224,7 @@
     },
     {
       "seg": 3,
-      "trans": "Espere, então nós viajamos no mesmo trem na segunda-feira, e você levou a mala dela?",
+      "trans": "Espere, então você viajou no mesmo trem na segunda-feira, e levou a mala dela?",
       "words": [
         {
           "t": "Wait,",
@@ -243,18 +243,18 @@
           "gram": "advérbio"
         },
         {
-          "t": "we",
-          "lemma": "we",
+          "t": "you",
+          "lemma": "you",
           "pos": "pron",
-          "stress": "wi",
-          "gloss": "nós, a gente",
+          "stress": "ju",
+          "gloss": "você, vocês; te, lhe, os/as",
           "gram": "pronome"
         },
         {
           "t": "rode",
           "lemma": "ride",
           "pos": "verb",
-          "stress": "ɹoʊd",
+          "stress": "ɹaɪd",
           "gloss": "viajou (em transporte)",
           "gram": "passado irregular"
         },
@@ -291,7 +291,7 @@
           "gram": "preposição"
         },
         {
-          "t": "Monday,",
+          "t": "Monday",
           "lemma": "monday",
           "pos": "noun",
           "stress": "ˈmʌndeɪ",
@@ -307,18 +307,10 @@
           "gram": "conjunção"
         },
         {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "você, vocês; te, lhe, os/as",
-          "gram": "pronome"
-        },
-        {
           "t": "took",
           "lemma": "take",
           "pos": "verb",
-          "stress": "tʊk",
+          "stress": "teɪk",
           "gloss": "pegou / levou",
           "gram": "passado irregular"
         },
@@ -1034,7 +1026,7 @@
     },
     {
       "seg": 10,
-      "trans": "Eu precisava de um lugar silencioso aqui perto antes de sexta, e sinceramente esqueci que vocês ainda estavam com a minha mala!",
+      "trans": "Eu precisava de um lugar silencioso aqui perto antes de sexta, e sinceramente fiquei com vergonha de pedir minha mala!",
       "words": [
         {
           "t": "I",
@@ -1048,7 +1040,7 @@
           "t": "needed",
           "lemma": "need",
           "pos": "verb",
-          "stress": "ˈnidɪd",
+          "stress": "nid",
           "gloss": "precisava",
           "gram": "passado"
         },
@@ -1117,36 +1109,52 @@
           "gram": "advérbio"
         },
         {
-          "t": "forgot",
-          "lemma": "forget",
+          "t": "felt",
+          "lemma": "feel",
           "pos": "verb",
-          "stress": "fɚˈɡɑt",
-          "gloss": "esqueci",
+          "stress": "fil",
+          "gloss": "sentiu / pareceu",
           "gram": "passado irregular"
         },
         {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "você, vocês; te, lhe, os/as",
-          "gram": "pronome"
-        },
-        {
-          "t": "still",
-          "lemma": "still",
+          "t": "too",
+          "lemma": "too",
           "pos": "adv",
-          "stress": "stɪl",
-          "gloss": "ainda; sem gás / parado (adj.)",
+          "stress": "tu",
+          "gloss": "também (no fim); demais (+ adj./adv.)",
           "gram": "advérbio"
         },
         {
-          "t": "had",
-          "lemma": "have",
+          "t": "shy",
+          "lemma": "shy",
+          "pos": "adj",
+          "stress": "ʃaɪ",
+          "gloss": "tímido",
+          "gram": "adjetivo"
+        },
+        {
+          "t": "to",
+          "lemma": "to",
+          "pos": "prep",
+          "stress": "tu",
+          "gloss": "para, a; marca de infinitivo (to know)",
+          "gram": "preposição"
+        },
+        {
+          "t": "ask",
+          "lemma": "ask",
           "pos": "verb",
-          "stress": "hæd",
-          "gloss": "tido / tinha",
-          "gram": "passado / particípio"
+          "stress": "æsk",
+          "gloss": "perguntar; pedir",
+          "gram": "forma base"
+        },
+        {
+          "t": "for",
+          "lemma": "for",
+          "pos": "prep",
+          "stress": "fɔɹ",
+          "gloss": "para; por, durante",
+          "gram": "preposição"
         },
         {
           "t": "my",
@@ -1168,14 +1176,22 @@
     },
     {
       "seg": 11,
-      "trans": "Até você ligar para nós na terça pedindo para não abrirmos o pacote branco!",
+      "trans": "Mesmo depois de você nos ligar na terça sobre o pacote branco!",
       "words": [
         {
-          "t": "Until",
-          "lemma": "until",
+          "t": "Even",
+          "lemma": "even",
+          "pos": "adv",
+          "stress": "ˈivən",
+          "gloss": "até, mesmo, sequer",
+          "gram": "advérbio"
+        },
+        {
+          "t": "after",
+          "lemma": "after",
           "pos": "prep",
-          "stress": "ʌnˈtɪl",
-          "gloss": "até (no tempo)",
+          "stress": "ˈæftɚ",
+          "gloss": "depois de, após",
           "gram": "preposição"
         },
         {
@@ -1190,7 +1206,7 @@
           "t": "called",
           "lemma": "call",
           "pos": "verb",
-          "stress": "kɔld",
+          "stress": "kɔl",
           "gloss": "ligou / ligado",
           "gram": "passado / particípio"
         },
@@ -1219,44 +1235,12 @@
           "gram": "subst. sg."
         },
         {
-          "t": "asking",
-          "lemma": "ask",
-          "pos": "verb",
-          "stress": "ˈæskɪŋ",
-          "gloss": "pedindo / perguntando",
-          "gram": "forma em -ing"
-        },
-        {
-          "t": "us",
-          "lemma": "us",
-          "pos": "pron",
-          "stress": "ʌs",
-          "gloss": "nos, nós / a gente (após prep.)",
-          "gram": "pronome"
-        },
-        {
-          "t": "not",
-          "lemma": "not",
-          "pos": "adv",
-          "stress": "nɑt",
-          "gloss": "não (negação verbal)",
-          "gram": "advérbio"
-        },
-        {
-          "t": "to",
-          "lemma": "to",
+          "t": "about",
+          "lemma": "about",
           "pos": "prep",
-          "stress": "tu",
-          "gloss": "para, a; marca de infinitivo (to know)",
+          "stress": "əˈbaʊt",
+          "gloss": "sobre, a respeito de",
           "gram": "preposição"
-        },
-        {
-          "t": "open",
-          "lemma": "open",
-          "pos": "verb",
-          "stress": "ˈoʊpən",
-          "gloss": "abrir, abrir-se; aberto (adj.)",
-          "gram": "forma base"
         },
         {
           "t": "the",
@@ -1676,7 +1660,7 @@
     },
     {
       "seg": 22,
-      "trans": "Espere, então nós viajamos no mesmo trem na segunda-feira, e você levou a mala dela?",
+      "trans": "Espere, então você viajou no mesmo trem na segunda-feira, e levou a mala dela?",
       "words": [
         {
           "t": "Wait,",
@@ -1695,18 +1679,18 @@
           "gram": "advérbio"
         },
         {
-          "t": "we",
-          "lemma": "we",
+          "t": "you",
+          "lemma": "you",
           "pos": "pron",
-          "stress": "wi",
-          "gloss": "nós, a gente",
+          "stress": "ju",
+          "gloss": "você, vocês; te, lhe, os/as",
           "gram": "pronome"
         },
         {
           "t": "rode",
           "lemma": "ride",
           "pos": "verb",
-          "stress": "ɹoʊd",
+          "stress": "ɹaɪd",
           "gloss": "viajou (em transporte)",
           "gram": "passado irregular"
         },
@@ -1743,7 +1727,7 @@
           "gram": "preposição"
         },
         {
-          "t": "Monday,",
+          "t": "Monday",
           "lemma": "monday",
           "pos": "noun",
           "stress": "ˈmʌndeɪ",
@@ -1759,18 +1743,10 @@
           "gram": "conjunção"
         },
         {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "você, vocês; te, lhe, os/as",
-          "gram": "pronome"
-        },
-        {
           "t": "took",
           "lemma": "take",
           "pos": "verb",
-          "stress": "tʊk",
+          "stress": "teɪk",
           "gloss": "pegou / levou",
           "gram": "passado irregular"
         },
@@ -1794,13 +1770,13 @@
     },
     {
       "seg": 24,
-      "trans": "viajou (em transporte) o mesmo trem",
+      "trans": "viajou (em transporte) o, a, os, as mesmo, igual trem",
       "words": [
         {
           "t": "rode",
           "lemma": "ride",
           "pos": "verb",
-          "stress": "ɹoʊd",
+          "stress": "ɹaɪd",
           "gloss": "viajou (em transporte)",
           "gram": "passado irregular"
         },
@@ -2756,7 +2732,7 @@
     },
     {
       "seg": 54,
-      "trans": "Eu precisava de um lugar silencioso aqui perto antes de sexta, e sinceramente esqueci que vocês ainda estavam com a minha mala!",
+      "trans": "Eu precisava de um lugar silencioso aqui perto antes de sexta, e sinceramente fiquei com vergonha de pedir minha mala!",
       "words": [
         {
           "t": "I",
@@ -2770,7 +2746,7 @@
           "t": "needed",
           "lemma": "need",
           "pos": "verb",
-          "stress": "ˈnidɪd",
+          "stress": "nid",
           "gloss": "precisava",
           "gram": "passado"
         },
@@ -2839,36 +2815,52 @@
           "gram": "advérbio"
         },
         {
-          "t": "forgot",
-          "lemma": "forget",
+          "t": "felt",
+          "lemma": "feel",
           "pos": "verb",
-          "stress": "fɚˈɡɑt",
-          "gloss": "esqueci",
+          "stress": "fil",
+          "gloss": "sentiu / pareceu",
           "gram": "passado irregular"
         },
         {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "você, vocês; te, lhe, os/as",
-          "gram": "pronome"
-        },
-        {
-          "t": "still",
-          "lemma": "still",
+          "t": "too",
+          "lemma": "too",
           "pos": "adv",
-          "stress": "stɪl",
-          "gloss": "ainda; sem gás / parado (adj.)",
+          "stress": "tu",
+          "gloss": "também (no fim); demais (+ adj./adv.)",
           "gram": "advérbio"
         },
         {
-          "t": "had",
-          "lemma": "have",
+          "t": "shy",
+          "lemma": "shy",
+          "pos": "adj",
+          "stress": "ʃaɪ",
+          "gloss": "tímido",
+          "gram": "adjetivo"
+        },
+        {
+          "t": "to",
+          "lemma": "to",
+          "pos": "prep",
+          "stress": "tu",
+          "gloss": "para, a; marca de infinitivo (to know)",
+          "gram": "preposição"
+        },
+        {
+          "t": "ask",
+          "lemma": "ask",
           "pos": "verb",
-          "stress": "hæd",
-          "gloss": "tido / tinha",
-          "gram": "passado / particípio"
+          "stress": "æsk",
+          "gloss": "perguntar; pedir",
+          "gram": "forma base"
+        },
+        {
+          "t": "for",
+          "lemma": "for",
+          "pos": "prep",
+          "stress": "fɔɹ",
+          "gloss": "para; por, durante",
+          "gram": "preposição"
         },
         {
           "t": "my",
@@ -2890,28 +2882,52 @@
     },
     {
       "seg": 56,
-      "trans": "por perto",
+      "trans": "sentiu / pareceu também (no fim); demais (+ adj./adv.) tímido",
       "words": [
         {
-          "t": "nearby",
-          "lemma": "nearby",
+          "t": "felt",
+          "lemma": "feel",
+          "pos": "verb",
+          "stress": "fil",
+          "gloss": "sentiu / pareceu",
+          "gram": "passado irregular"
+        },
+        {
+          "t": "too",
+          "lemma": "too",
           "pos": "adv",
-          "stress": "ˌnɪɹˈbaɪ",
-          "gloss": "por perto, aqui perto",
+          "stress": "tu",
+          "gloss": "também (no fim); demais (+ adj./adv.)",
           "gram": "advérbio"
+        },
+        {
+          "t": "shy",
+          "lemma": "shy",
+          "pos": "adj",
+          "stress": "ʃaɪ",
+          "gloss": "tímido",
+          "gram": "adjetivo"
         }
       ]
     },
     {
       "seg": 58,
-      "trans": "Até você ligar para nós na terça pedindo para não abrirmos o pacote branco!",
+      "trans": "Mesmo depois de você nos ligar na terça sobre o pacote branco!",
       "words": [
         {
-          "t": "Until",
-          "lemma": "until",
+          "t": "Even",
+          "lemma": "even",
+          "pos": "adv",
+          "stress": "ˈivən",
+          "gloss": "até, mesmo, sequer",
+          "gram": "advérbio"
+        },
+        {
+          "t": "after",
+          "lemma": "after",
           "pos": "prep",
-          "stress": "ʌnˈtɪl",
-          "gloss": "até (no tempo)",
+          "stress": "ˈæftɚ",
+          "gloss": "depois de, após",
           "gram": "preposição"
         },
         {
@@ -2926,7 +2942,7 @@
           "t": "called",
           "lemma": "call",
           "pos": "verb",
-          "stress": "kɔld",
+          "stress": "kɔl",
           "gloss": "ligou / ligado",
           "gram": "passado / particípio"
         },
@@ -2955,44 +2971,12 @@
           "gram": "subst. sg."
         },
         {
-          "t": "asking",
-          "lemma": "ask",
-          "pos": "verb",
-          "stress": "ˈæskɪŋ",
-          "gloss": "pedindo / perguntando",
-          "gram": "forma em -ing"
-        },
-        {
-          "t": "us",
-          "lemma": "us",
-          "pos": "pron",
-          "stress": "ʌs",
-          "gloss": "nos, nós / a gente (após prep.)",
-          "gram": "pronome"
-        },
-        {
-          "t": "not",
-          "lemma": "not",
-          "pos": "adv",
-          "stress": "nɑt",
-          "gloss": "não (negação verbal)",
-          "gram": "advérbio"
-        },
-        {
-          "t": "to",
-          "lemma": "to",
+          "t": "about",
+          "lemma": "about",
           "pos": "prep",
-          "stress": "tu",
-          "gloss": "para, a; marca de infinitivo (to know)",
+          "stress": "əˈbaʊt",
+          "gloss": "sobre, a respeito de",
           "gram": "preposição"
-        },
-        {
-          "t": "open",
-          "lemma": "open",
-          "pos": "verb",
-          "stress": "ˈoʊpən",
-          "gloss": "abrir, abrir-se; aberto (adj.)",
-          "gram": "forma base"
         },
         {
           "t": "the",
@@ -3022,31 +3006,15 @@
     },
     {
       "seg": 60,
-      "trans": "não (negação verbal) para abrir",
+      "trans": "sobre, a respeito de",
       "words": [
         {
-          "t": "not",
-          "lemma": "not",
-          "pos": "adv",
-          "stress": "nɑt",
-          "gloss": "não (negação verbal)",
-          "gram": "advérbio"
-        },
-        {
-          "t": "to",
-          "lemma": "to",
+          "t": "about",
+          "lemma": "about",
           "pos": "prep",
-          "stress": "tu",
-          "gloss": "para, a; marca de infinitivo (to know)",
+          "stress": "əˈbaʊt",
+          "gloss": "sobre, a respeito de",
           "gram": "preposição"
-        },
-        {
-          "t": "open",
-          "lemma": "open",
-          "pos": "verb",
-          "stress": "ˈoʊpən",
-          "gloss": "abrir, abrir-se; aberto (adj.)",
-          "gram": "forma base"
         }
       ]
     },
@@ -3412,7 +3380,7 @@
     },
     {
       "seg": 68,
-      "trans": "Espere, então nós viajamos no mesmo trem na segunda-feira, e você levou a mala dela?",
+      "trans": "Espere, então você viajou no mesmo trem na segunda-feira, e levou a mala dela?",
       "words": [
         {
           "t": "Wait,",
@@ -3431,18 +3399,18 @@
           "gram": "advérbio"
         },
         {
-          "t": "we",
-          "lemma": "we",
+          "t": "you",
+          "lemma": "you",
           "pos": "pron",
-          "stress": "wi",
-          "gloss": "nós, a gente",
+          "stress": "ju",
+          "gloss": "você, vocês; te, lhe, os/as",
           "gram": "pronome"
         },
         {
           "t": "rode",
           "lemma": "ride",
           "pos": "verb",
-          "stress": "ɹoʊd",
+          "stress": "ɹaɪd",
           "gloss": "viajou (em transporte)",
           "gram": "passado irregular"
         },
@@ -3479,7 +3447,7 @@
           "gram": "preposição"
         },
         {
-          "t": "Monday,",
+          "t": "Monday",
           "lemma": "monday",
           "pos": "noun",
           "stress": "ˈmʌndeɪ",
@@ -3495,18 +3463,10 @@
           "gram": "conjunção"
         },
         {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "você, vocês; te, lhe, os/as",
-          "gram": "pronome"
-        },
-        {
           "t": "took",
           "lemma": "take",
           "pos": "verb",
-          "stress": "tʊk",
+          "stress": "teɪk",
           "gloss": "pegou / levou",
           "gram": "passado irregular"
         },
@@ -4222,7 +4182,7 @@
     },
     {
       "seg": 75,
-      "trans": "Eu precisava de um lugar silencioso aqui perto antes de sexta, e sinceramente esqueci que vocês ainda estavam com a minha mala!",
+      "trans": "Eu precisava de um lugar silencioso aqui perto antes de sexta, e sinceramente fiquei com vergonha de pedir minha mala!",
       "words": [
         {
           "t": "I",
@@ -4236,7 +4196,7 @@
           "t": "needed",
           "lemma": "need",
           "pos": "verb",
-          "stress": "ˈnidɪd",
+          "stress": "nid",
           "gloss": "precisava",
           "gram": "passado"
         },
@@ -4305,36 +4265,52 @@
           "gram": "advérbio"
         },
         {
-          "t": "forgot",
-          "lemma": "forget",
+          "t": "felt",
+          "lemma": "feel",
           "pos": "verb",
-          "stress": "fɚˈɡɑt",
-          "gloss": "esqueci",
+          "stress": "fil",
+          "gloss": "sentiu / pareceu",
           "gram": "passado irregular"
         },
         {
-          "t": "you",
-          "lemma": "you",
-          "pos": "pron",
-          "stress": "ju",
-          "gloss": "você, vocês; te, lhe, os/as",
-          "gram": "pronome"
-        },
-        {
-          "t": "still",
-          "lemma": "still",
+          "t": "too",
+          "lemma": "too",
           "pos": "adv",
-          "stress": "stɪl",
-          "gloss": "ainda; sem gás / parado (adj.)",
+          "stress": "tu",
+          "gloss": "também (no fim); demais (+ adj./adv.)",
           "gram": "advérbio"
         },
         {
-          "t": "had",
-          "lemma": "have",
+          "t": "shy",
+          "lemma": "shy",
+          "pos": "adj",
+          "stress": "ʃaɪ",
+          "gloss": "tímido",
+          "gram": "adjetivo"
+        },
+        {
+          "t": "to",
+          "lemma": "to",
+          "pos": "prep",
+          "stress": "tu",
+          "gloss": "para, a; marca de infinitivo (to know)",
+          "gram": "preposição"
+        },
+        {
+          "t": "ask",
+          "lemma": "ask",
           "pos": "verb",
-          "stress": "hæd",
-          "gloss": "tido / tinha",
-          "gram": "passado / particípio"
+          "stress": "æsk",
+          "gloss": "perguntar; pedir",
+          "gram": "forma base"
+        },
+        {
+          "t": "for",
+          "lemma": "for",
+          "pos": "prep",
+          "stress": "fɔɹ",
+          "gloss": "para; por, durante",
+          "gram": "preposição"
         },
         {
           "t": "my",
@@ -4356,14 +4332,22 @@
     },
     {
       "seg": 76,
-      "trans": "Até você ligar para nós na terça pedindo para não abrirmos o pacote branco!",
+      "trans": "Mesmo depois de você nos ligar na terça sobre o pacote branco!",
       "words": [
         {
-          "t": "Until",
-          "lemma": "until",
+          "t": "Even",
+          "lemma": "even",
+          "pos": "adv",
+          "stress": "ˈivən",
+          "gloss": "até, mesmo, sequer",
+          "gram": "advérbio"
+        },
+        {
+          "t": "after",
+          "lemma": "after",
           "pos": "prep",
-          "stress": "ʌnˈtɪl",
-          "gloss": "até (no tempo)",
+          "stress": "ˈæftɚ",
+          "gloss": "depois de, após",
           "gram": "preposição"
         },
         {
@@ -4378,7 +4362,7 @@
           "t": "called",
           "lemma": "call",
           "pos": "verb",
-          "stress": "kɔld",
+          "stress": "kɔl",
           "gloss": "ligou / ligado",
           "gram": "passado / particípio"
         },
@@ -4407,44 +4391,12 @@
           "gram": "subst. sg."
         },
         {
-          "t": "asking",
-          "lemma": "ask",
-          "pos": "verb",
-          "stress": "ˈæskɪŋ",
-          "gloss": "pedindo / perguntando",
-          "gram": "forma em -ing"
-        },
-        {
-          "t": "us",
-          "lemma": "us",
-          "pos": "pron",
-          "stress": "ʌs",
-          "gloss": "nos, nós / a gente (após prep.)",
-          "gram": "pronome"
-        },
-        {
-          "t": "not",
-          "lemma": "not",
-          "pos": "adv",
-          "stress": "nɑt",
-          "gloss": "não (negação verbal)",
-          "gram": "advérbio"
-        },
-        {
-          "t": "to",
-          "lemma": "to",
+          "t": "about",
+          "lemma": "about",
           "pos": "prep",
-          "stress": "tu",
-          "gloss": "para, a; marca de infinitivo (to know)",
+          "stress": "əˈbaʊt",
+          "gloss": "sobre, a respeito de",
           "gram": "preposição"
-        },
-        {
-          "t": "open",
-          "lemma": "open",
-          "pos": "verb",
-          "stress": "ˈoʊpən",
-          "gloss": "abrir, abrir-se; aberto (adj.)",
-          "gram": "forma base"
         },
         {
           "t": "the",
@@ -4606,1437 +4558,6 @@
     }
   ],
   "lexicon": {
-    "a": {
-      "lemma": "a",
-      "stress": "ə",
-      "pos": "det",
-      "gloss": "um, uma",
-      "meanings": [
-        {
-          "en": "um, uma",
-          "note": "Artigo indefinido antes de som consonantal."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I have a blue pen.",
-          "trans": "Eu tenho uma caneta azul."
-        },
-        {
-          "text": "She wants a cup of tea.",
-          "trans": "Ela quer uma xícara de chá."
-        }
-      ],
-      "related": []
-    },
-    "accident": {
-      "lemma": "accident",
-      "stress": "ˈæksɪdənt",
-      "pos": "noun",
-      "gloss": "acidente, acaso",
-      "meanings": [
-        {
-          "en": "acidente, acaso",
-          "note": "Em by accident significa 'por acaso, sem querer'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I took your bag by accident.",
-          "trans": "Peguei sua bolsa por acidente."
-        },
-        {
-          "text": "Nobody got hurt in the accident.",
-          "trans": "Ninguém se machucou no acidente."
-        }
-      ],
-      "related": []
-    },
-    "and": {
-      "lemma": "and",
-      "stress": "ænd",
-      "pos": "conj",
-      "gloss": "e",
-      "meanings": [
-        {
-          "en": "e",
-          "note": "Conjunção aditiva básica."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bring bread and butter, please.",
-          "trans": "Traga pão e manteiga, por favor."
-        },
-        {
-          "text": "Wash your hands and sit down.",
-          "trans": "Lave as mãos e sente-se."
-        }
-      ],
-      "related": []
-    },
-    "apartment": {
-      "lemma": "apartment",
-      "stress": "əˈpɑɹtmənt",
-      "pos": "noun",
-      "gloss": "apartamento",
-      "meanings": [
-        {
-          "en": "apartamento",
-          "note": "Termo padrão no inglês americano (equivalente ao britânico flat)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My cousin rents a small apartment.",
-          "trans": "Meu primo aluga um apartamento pequeno."
-        },
-        {
-          "text": "Her apartment is on the top floor.",
-          "trans": "O apartamento dela fica no último andar."
-        }
-      ],
-      "related": []
-    },
-    "ask": {
-      "lemma": "ask",
-      "stress": "æsk",
-      "pos": "verb",
-      "gloss": "perguntar; pedir",
-      "meanings": [
-        {
-          "en": "perguntar; pedir",
-          "note": "Seguido de 'for', significa pedir algo (ask for help)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "ask"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "asks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "asked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "asked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "asking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ask the clerk for a receipt.",
-          "trans": "Peça um recibo ao atendente."
-        },
-        {
-          "text": "May I ask a quick question?",
-          "trans": "Posso fazer uma pergunta rápida?"
-        }
-      ],
-      "related": []
-    },
-    "at": {
-      "lemma": "at",
-      "stress": "æt",
-      "pos": "prep",
-      "gloss": "em; às (horas)",
-      "meanings": [
-        {
-          "en": "em; às (horas)",
-          "note": "Marca horas exatas e locais pontuais (at seven, at the gate)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast starts at seven thirty.",
-          "trans": "O café da manhã começa às sete e meia."
-        },
-        {
-          "text": "Someone is waiting at the gate.",
-          "trans": "Alguém está esperando no portão."
-        }
-      ],
-      "related": []
-    },
-    "away": {
-      "lemma": "away",
-      "stress": "əˈweɪ",
-      "pos": "adv",
-      "gloss": "longe, de distância",
-      "meanings": [
-        {
-          "en": "longe, de distância",
-          "note": "Após medidas indica distância (five minutes away)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The station is ten minutes away.",
-          "trans": "A estação fica a dez minutos daqui."
-        },
-        {
-          "text": "Put your coat away in the closet.",
-          "trans": "Guarde seu casaco no armário."
-        }
-      ],
-      "related": []
-    },
-    "bag": {
-      "lemma": "bag",
-      "stress": "bæɡ",
-      "pos": "noun",
-      "gloss": "sacola, bolsa, mala",
-      "meanings": [
-        {
-          "en": "sacola, bolsa, mala",
-          "note": "Palavra versátil para sacolas, bolsas e malas."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Can I help you with your bag?",
-          "trans": "Posso ajudar você com a sua mala?"
-        },
-        {
-          "text": "Bring a cloth bag to the market.",
-          "trans": "Leve uma sacola de pano ao mercado."
-        }
-      ],
-      "related": []
-    },
-    "be": {
-      "lemma": "be",
-      "stress": "bi",
-      "pos": "verb",
-      "gloss": "ser, estar",
-      "meanings": [
-        {
-          "en": "ser, estar",
-          "note": "Equivale tanto a ser quanto a estar (am, is, are / was, were)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "be"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "is"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "was, were"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "been"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "being"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The keys are on the desk.",
-          "trans": "As chaves estão sobre o balcão."
-        },
-        {
-          "text": "She wants to be a teacher.",
-          "trans": "Ela quer ser professora."
-        }
-      ],
-      "related": []
-    },
-    "because": {
-      "lemma": "because",
-      "stress": "bɪˈkɔz",
-      "pos": "conj",
-      "gloss": "porque",
-      "meanings": [
-        {
-          "en": "porque",
-          "note": "Introduz a causa ou explicação."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Stay inside because it is raining.",
-          "trans": "Fique lá dentro porque está chovendo."
-        },
-        {
-          "text": "I smiled because the story was funny.",
-          "trans": "Sorri porque a história era engraçada."
-        }
-      ],
-      "related": []
-    },
-    "before": {
-      "lemma": "before",
-      "stress": "bɪˈfɔɹ",
-      "pos": "prep",
-      "gloss": "antes de",
-      "meanings": [
-        {
-          "en": "antes de",
-          "note": "Anterioridade no tempo ou posição à frente."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wash these apples before breakfast.",
-          "trans": "Lave estas maçãs antes do café da manhã."
-        },
-        {
-          "text": "Check the lock before you sleep.",
-          "trans": "Confira a fechadura antes de dormir."
-        }
-      ],
-      "related": []
-    },
-    "believe": {
-      "lemma": "believe",
-      "stress": "bɪˈliv",
-      "pos": "verb",
-      "gloss": "acreditar, crer",
-      "meanings": [
-        {
-          "en": "acreditar, crer",
-          "note": "Verbo de estado mental: raramente aparece na forma com -ing."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "believe"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "believes"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "believed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "believed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "believing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I cannot believe this good luck!",
-          "trans": "Não consigo acreditar nessa sorte!"
-        },
-        {
-          "text": "Do you believe his story?",
-          "trans": "Você acredita na história dele?"
-        }
-      ],
-      "related": []
-    },
-    "bell": {
-      "lemma": "bell",
-      "stress": "bɛl",
-      "pos": "noun",
-      "gloss": "campainha, sino",
-      "meanings": [
-        {
-          "en": "campainha, sino",
-          "note": "Serve tanto para sineta de balcão quanto para campainha."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ring the bell at the front desk.",
-          "trans": "Toque a campainha da recepção."
-        },
-        {
-          "text": "Did you hear the gate bell?",
-          "trans": "Você ouviu o sino do portão?"
-        }
-      ],
-      "related": []
-    },
-    "belong": {
-      "lemma": "belong",
-      "stress": "bɪˈlɔŋ",
-      "pos": "verb",
-      "gloss": "pertencer",
-      "meanings": [
-        {
-          "en": "pertencer",
-          "note": "Pede sempre a preposição to antes do dono (belong to me)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "belong"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "belongs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "belonged"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "belonged"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "belonging"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Does this notebook belong to you?",
-          "trans": "Este caderno pertence a você?"
-        },
-        {
-          "text": "Those keys belong to room four.",
-          "trans": "Essas chaves pertencem ao quarto quatro."
-        }
-      ],
-      "related": []
-    },
-    "brother": {
-      "lemma": "brother",
-      "stress": "ˈbɹʌðɚ",
-      "pos": "noun",
-      "gloss": "irmão",
-      "meanings": [
-        {
-          "en": "irmão",
-          "note": "Com big brother ou older brother significa 'irmão mais velho'; little brother é 'irmão caçula'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My older brother works in Portland.",
-          "trans": "Meu irmão mais velho trabalha em Portland."
-        },
-        {
-          "text": "The two brothers hugged at the gate.",
-          "trans": "Os dois irmãos se abraçaram no portão."
-        }
-      ],
-      "related": []
-    },
-    "by": {
-      "lemma": "by",
-      "stress": "baɪ",
-      "pos": "prep",
-      "gloss": "por; perto de",
-      "meanings": [
-        {
-          "en": "por; perto de",
-          "note": "Usado em by mistake ('por engano'), by train ('de trem') e proximidade."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "She traveled here by morning train.",
-          "trans": "Ela viajou para cá no trem da manhã."
-        },
-        {
-          "text": "I took your pen by mistake.",
-          "trans": "Peguei sua caneta por engano."
-        }
-      ],
-      "related": []
-    },
-    "call": {
-      "lemma": "call",
-      "stress": "kɔl",
-      "pos": "verb",
-      "gloss": "ligar, chamar",
-      "meanings": [
-        {
-          "en": "ligar, chamar",
-          "note": "Serve tanto para telefonar quanto para chamar em voz alta."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "call"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "calls"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "called"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "called"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "calling"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Call the front desk if you need help.",
-          "trans": "Ligue para a recepção se precisar de ajuda."
-        },
-        {
-          "text": "Friends call him by his nickname.",
-          "trans": "Os amigos o chamam pelo apelido."
-        }
-      ],
-      "related": []
-    },
-    "cannot": {
-      "lemma": "cannot",
-      "stress": "ˈkænɑt",
-      "pos": "verb",
-      "gloss": "não poder, não conseguir",
-      "meanings": [
-        {
-          "en": "não poder, não conseguir",
-          "note": "Negativa de can; escreve-se sempre junta numa única palavra."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "cannot"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "cannot"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "could not"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I cannot read tiny print without glasses.",
-          "trans": "Não consigo ler letra miúda sem óculos."
-        },
-        {
-          "text": "You cannot park in front of the gate.",
-          "trans": "Você não pode estacionar em frente ao portão."
-        }
-      ],
-      "related": []
-    },
-    "check": {
-      "lemma": "check",
-      "stress": "tʃɛk",
-      "pos": "verb",
-      "gloss": "conferir, verificar",
-      "meanings": [
-        {
-          "en": "conferir, verificar",
-          "note": "Check into significa registrar-se e entrar num hotel."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "check"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "checks"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "checked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "checked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "checking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Check the room number on your key.",
-          "trans": "Confira o número do quarto na sua chave."
-        },
-        {
-          "text": "Two travelers checked into room six.",
-          "trans": "Dois viajantes deram entrada no quarto seis."
-        }
-      ],
-      "related": []
-    },
-    "complete": {
-      "lemma": "complete",
-      "stress": "kəmˈplit",
-      "pos": "adj",
-      "gloss": "completo, total",
-      "meanings": [
-        {
-          "en": "completo, total",
-          "note": "Em by complete accident reforça que foi puro acaso."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "It happened by complete accident.",
-          "trans": "Aconteceu completamente por acaso."
-        },
-        {
-          "text": "Here is the complete guest list.",
-          "trans": "Aqui está a lista completa de hóspedes."
-        }
-      ],
-      "related": []
-    },
-    "cousin": {
-      "lemma": "cousin",
-      "stress": "ˈkʌzən",
-      "pos": "noun",
-      "gloss": "primo, prima",
-      "meanings": [
-        {
-          "en": "primo, prima",
-          "note": "Serve igualmente para o masculino ('primo') e o feminino ('prima')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I stayed at my cousin's apartment.",
-          "trans": "Fiquei no apartamento do meu primo."
-        },
-        {
-          "text": "Her cousin lives near the harbor.",
-          "trans": "A prima dela mora perto do porto."
-        }
-      ],
-      "related": []
-    },
-    "do": {
-      "lemma": "do",
-      "stress": "du",
-      "pos": "verb",
-      "gloss": "fazer; auxiliar de pergunta/negação",
-      "meanings": [
-        {
-          "en": "fazer; auxiliar de pergunta/negação",
-          "note": "Funciona como verbo pleno ('fazer') e auxiliar de presente/passado."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "do"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "does"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "did"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "done"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "doing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you want sugar in your coffee?",
-          "trans": "Você quer açúcar no café?"
-        },
-        {
-          "text": "What should we do with this package?",
-          "trans": "O que devemos fazer com este pacote?"
-        }
-      ],
-      "related": []
-    },
-    "down": {
-      "lemma": "down",
-      "stress": "daʊn",
-      "pos": "adv",
-      "gloss": "para baixo, embaixo",
-      "meanings": [
-        {
-          "en": "para baixo, embaixo",
-          "note": "Combina-se com muitos verbos: sit down, write down, calm down."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Please sit down and rest a moment.",
-          "trans": "Por favor sente-se e descanse um instante."
-        },
-        {
-          "text": "Write down the phone number before you forget.",
-          "trans": "Anote o número de telefone antes que esqueça."
-        }
-      ],
-      "related": []
-    },
-    "evening": {
-      "lemma": "evening",
-      "stress": "ˈivnɪŋ",
-      "pos": "noun",
-      "gloss": "noite (início da noite)",
-      "meanings": [
-        {
-          "en": "noite (início da noite)",
-          "note": "Good evening cumprimenta ao chegar; good night despede ao sair."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good evening! Do you have a reservation?",
-          "trans": "Boa noite! Você tem reserva?"
-        },
-        {
-          "text": "We serve herbal tea every evening at eight.",
-          "trans": "Servimos chá de ervas toda noite às oito."
-        }
-      ],
-      "related": []
-    },
-    "everything": {
-      "lemma": "everything",
-      "stress": "ˈɛvɹiˌθɪŋ",
-      "pos": "pron",
-      "gloss": "tudo",
-      "meanings": [
-        {
-          "en": "tudo",
-          "note": "Concorda sempre com verbo na terceira pessoa do singular."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "Conte-me tudo o que preciso saber."
-        },
-        {
-          "text": "Everything in the kitchen is clean and ready.",
-          "trans": "Tudo na cozinha está limpo e pronto."
-        }
-      ],
-      "related": []
-    },
-    "exact": {
-      "lemma": "exact",
-      "stress": "ɪɡˈzækt",
-      "pos": "adj",
-      "gloss": "exato, preciso",
-      "meanings": [
-        {
-          "en": "exato, preciso",
-          "note": "Muito usado em the exact same ('exatamente o mesmo')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "They carried the exact same blue suitcase.",
-          "trans": "Eles carregavam exatamente a mesma mala azul."
-        },
-        {
-          "text": "Do you have the exact address?",
-          "trans": "Você tem o endereço exato?"
-        }
-      ],
-      "related": []
-    },
-    "forget": {
-      "lemma": "forget",
-      "stress": "fɚˈɡɛt",
-      "pos": "verb",
-      "gloss": "esquecer, esquecer-se de",
-      "meanings": [
-        {
-          "en": "esquecer, esquecer-se de",
-          "note": "Verbo irregular: forget, passado forgot, particípio forgotten."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "forget"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "forgets"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "forgot"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "forgotten"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "forgetting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do not forget your umbrella.",
-          "trans": "Não esqueça seu guarda-chuva."
-        },
-        {
-          "text": "I completely forgot the room number!",
-          "trans": "Esqueci completamente o número do quarto!"
-        }
-      ],
-      "related": []
-    },
-    "friday": {
-      "lemma": "friday",
-      "stress": "ˈfɹaɪdeɪ",
-      "pos": "noun",
-      "gloss": "sexta-feira",
-      "meanings": [
-        {
-          "en": "sexta-feira",
-          "note": "Dias da semana usam sempre letra maiúscula e preposição on."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our weekend guests arrive on Friday.",
-          "trans": "Nossos hóspedes de fim de semana chegam na sexta-feira."
-        },
-        {
-          "text": "See you on Friday morning!",
-          "trans": "Até sexta-feira de manhã!"
-        }
-      ],
-      "related": []
-    },
-    "grow": {
-      "lemma": "grow",
-      "stress": "ɡɹoʊ",
-      "pos": "verb",
-      "gloss": "crescer; cultivar",
-      "meanings": [
-        {
-          "en": "crescer; cultivar",
-          "note": "Verbo irregular: grow, grew, grown."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "grow"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "grows"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "grew"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "grown"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "growing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh mint grows beside the kitchen steps.",
-          "trans": "Hortelã fresca cresce ao lado da escada da cozinha."
-        },
-        {
-          "text": "They grow herbs in wooden boxes.",
-          "trans": "Eles cultivam ervas em caixas de madeira."
-        }
-      ],
-      "related": []
-    },
-    "guesthouse": {
-      "lemma": "guesthouse",
-      "stress": "ˈɡɛstˌhaʊs",
-      "pos": "noun",
-      "gloss": "pousada, casa de hóspedes",
-      "meanings": [
-        {
-          "en": "pousada, casa de hóspedes",
-          "note": "Hospedagem pequena e acolhedora de ambiente familiar."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "They run a quiet guesthouse near the harbor.",
-          "trans": "Eles administram uma pousada tranquila perto do porto."
-        },
-        {
-          "text": "Every room in the guesthouse is unique.",
-          "trans": "Cada quarto da pousada é único."
-        }
-      ],
-      "related": []
-    },
-    "handle": {
-      "lemma": "handle",
-      "stress": "ˈhændəl",
-      "pos": "noun",
-      "gloss": "maçaneta, alça, cabo",
-      "meanings": [
-        {
-          "en": "maçaneta, alça, cabo",
-          "note": "Serve para portas (door handle), xícaras e malas."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the brass handle before you push.",
-          "trans": "Levante a maçaneta de latão antes de empurrar."
-        },
-        {
-          "text": "A blue ribbon was tied to the suitcase handle.",
-          "trans": "Havia uma fita azul amarrada na alça da mala."
-        }
-      ],
-      "related": []
-    },
-    "have": {
-      "lemma": "have",
-      "stress": "hæv",
-      "pos": "verb",
-      "gloss": "ter; tomar (refeição/bebida); haver",
-      "meanings": [
-        {
-          "en": "ter; tomar (refeição/bebida); haver",
-          "note": "Terceira pessoa do singular irregular: has (/hæz/)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "have"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "has"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "had"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "had"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "having"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you have a reservation for tonight?",
-          "trans": "Você tem reserva para esta noite?"
-        },
-        {
-          "text": "Let us have coffee in the courtyard.",
-          "trans": "Vamos tomar café no pátio."
-        }
-      ],
-      "related": []
-    },
-    "her": {
-      "lemma": "her",
-      "stress": "hɝ",
-      "pos": "det",
-      "gloss": "dela, seu/sua; a, lhe (pron. oblíquo)",
-      "meanings": [
-        {
-          "en": "dela, seu/sua; a, lhe (pron. oblíquo)",
-          "note": "Serve como possessivo feminino (her bag) e pronome objeto (ask her)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tessa brought her basket of warm bread.",
-          "trans": "Tessa trouxe sua cesta de pão quente."
-        },
-        {
-          "text": "Please give her a cup of mint tea.",
-          "trans": "Por favor dê a ela uma xícara de chá de hortelã."
-        }
-      ],
-      "related": []
-    },
-    "here": {
-      "lemma": "here",
-      "stress": "hɪɹ",
-      "pos": "adv",
-      "gloss": "aqui, cá",
-      "meanings": [
-        {
-          "en": "aqui, cá",
-          "note": "Em Here you are / Here is acompanha a entrega de algo."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is your brass key for room four.",
-          "trans": "Aqui está sua chave de latão do quarto quatro."
-        },
-        {
-          "text": "Sign your name right here, please.",
-          "trans": "Assine seu nome bem aqui, por favor."
-        }
-      ],
-      "related": []
-    },
-    "honestly": {
-      "lemma": "honestly",
-      "stress": "ˈɑnɪstli",
-      "pos": "adv",
-      "gloss": "sinceramente, para falar a verdade",
-      "meanings": [
-        {
-          "en": "sinceramente, para falar a verdade",
-          "note": "O h inicial é totalmente mudo (/ˈɑnɪstli/)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Honestly, paper books never fail in a storm.",
-          "trans": "Sinceramente, livros de papel nunca falham na tempestade."
-        },
-        {
-          "text": "Tell me honestly if the tea is too strong.",
-          "trans": "Diga-me sinceramente se o chá está forte demais."
-        }
-      ],
-      "related": []
-    },
-    "i": {
-      "lemma": "i",
-      "stress": "aɪ",
-      "pos": "pron",
-      "gloss": "eu",
-      "meanings": [
-        {
-          "en": "eu",
-          "note": "Na ortografia inglesa escreve-se sempre com letra maiúscula: I."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I am Hannah, the new receptionist.",
-          "trans": "Eu sou Hannah, a nova recepcionista."
-        },
-        {
-          "text": "May I help you with your luggage?",
-          "trans": "Posso ajudar com a sua bagagem?"
-        }
-      ],
-      "related": []
-    },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "em, dentro de",
-      "meanings": [
-        {
-          "en": "em, dentro de",
-          "note": "Para espaços fechados, cidades, meses, partes do dia e prazos (in five minutes)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait in the warm dining room.",
-          "trans": "Aguarde na sala de jantar aquecida."
-        },
-        {
-          "text": "Coffee will be ready in three minutes.",
-          "trans": "O café ficará pronto em três minutos."
-        }
-      ],
-      "related": []
-    },
-    "it": {
-      "lemma": "it",
-      "stress": "ɪt",
-      "pos": "pron",
-      "gloss": "ele/ela (coisa); sujeito impessoal",
-      "meanings": [
-        {
-          "en": "ele/ela (coisa); sujeito impessoal",
-          "note": "Obrigatório para coisas no singular e clima/hora (It is raining)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle, and it opens easily.",
-          "trans": "Levante a maçaneta e ela abre facilmente."
-        },
-        {
-          "text": "It is sunny and warm this afternoon.",
-          "trans": "Está ensolarado e agradável nesta tarde."
-        }
-      ],
-      "related": []
-    },
-    "leave": {
-      "lemma": "leave",
-      "stress": "liv",
-      "pos": "verb",
-      "gloss": "deixar; sair, partir",
-      "meanings": [
-        {
-          "en": "deixar; sair, partir",
-          "note": "Passado e particípio irregulares left (/lɛft/)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "leave"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "leaves"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "left"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "leaving"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You can leave your bags by the desk.",
-          "trans": "Você pode deixar suas malas perto do balcão."
-        },
-        {
-          "text": "Our bus leaves at nine fifteen.",
-          "trans": "Nosso ônibus parte às nove e quinze."
-        }
-      ],
-      "related": []
-    },
     "let": {
       "lemma": "let",
       "stress": "lɛt",
@@ -6100,65 +4621,27 @@
       ],
       "related": []
     },
-    "live": {
-      "lemma": "live",
-      "stress": "lɪv",
-      "pos": "verb",
-      "gloss": "morar, viver",
+    "me": {
+      "lemma": "me",
+      "stress": "mi",
+      "pos": "pron",
+      "gloss": "me, mim",
       "meanings": [
         {
-          "en": "morar, viver",
-          "note": "Como verbo pronuncia-se com vogal curta /lɪv/ (o adjetivo 'ao vivo' é /laɪv/)."
+          "en": "me, mim",
+          "note": "Pronome oblíquo de primeira pessoa após verbo ou preposição."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "live"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "lives"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "lived"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "lived"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "living"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Does your brother live in Portland?",
-          "trans": "Seu irmão mora em Portland?"
+          "text": "Excuse me, where is the dining room?",
+          "trans": "Com licença, onde fica a sala de jantar?"
         },
         {
-          "text": "Our family lived two streets away.",
-          "trans": "Nossa família morava a duas ruas daqui."
+          "text": "Save a cup of coffee for me.",
+          "trans": "Guarde uma xícara de café para mim."
         }
       ],
       "related": []
@@ -6226,27 +4709,617 @@
       ],
       "related": []
     },
-    "me": {
-      "lemma": "me",
-      "stress": "mi",
-      "pos": "pron",
-      "gloss": "me, mim",
+    "at": {
+      "lemma": "at",
+      "stress": "æt",
+      "pos": "prep",
+      "gloss": "em; às (horas)",
       "meanings": [
         {
-          "en": "me, mim",
-          "note": "Pronome oblíquo de primeira pessoa após verbo ou preposição."
+          "en": "em; às (horas)",
+          "note": "Marca horas exatas e locais pontuais (at seven, at the gate)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Excuse me, where is the dining room?",
-          "trans": "Com licença, onde fica a sala de jantar?"
+          "text": "Breakfast starts at seven thirty.",
+          "trans": "O café da manhã começa às sete e meia."
         },
         {
-          "text": "Save a cup of coffee for me.",
-          "trans": "Guarde uma xícara de café para mim."
+          "text": "Someone is waiting at the gate.",
+          "trans": "Alguém está esperando no portão."
+        }
+      ],
+      "related": []
+    },
+    "you": {
+      "lemma": "you",
+      "stress": "ju",
+      "pos": "pron",
+      "gloss": "você, vocês; te, lhe, os/as",
+      "meanings": [
+        {
+          "en": "você, vocês; te, lhe, os/as",
+          "note": "Um único pronome para singular e plural, formal e informal; pede sempre are."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You are ten minutes early today!",
+          "trans": "Você chegou dez minutos mais cedo hoje!"
+        },
+        {
+          "text": "Thank you! See you next time!",
+          "trans": "Obrigado! Até a próxima!"
+        }
+      ],
+      "related": []
+    },
+    "properly": {
+      "lemma": "properly",
+      "stress": "ˈpɹɑpɚli",
+      "pos": "adv",
+      "gloss": "direito, corretamente, adequadamente",
+      "meanings": [
+        {
+          "en": "direito, corretamente, adequadamente",
+          "note": "Muito comum para portas, fechos ou aparelhos funcionando direito."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle so the latch closes properly.",
+          "trans": "Levante a maçaneta para que o trinco feche direito."
+        },
+        {
+          "text": "Now the espresso machine works properly.",
+          "trans": "Agora a máquina de café funciona perfeitamente."
+        }
+      ],
+      "related": []
+    },
+    "grow": {
+      "lemma": "grow",
+      "stress": "ɡɹoʊ",
+      "pos": "verb",
+      "gloss": "crescer; cultivar",
+      "meanings": [
+        {
+          "en": "crescer; cultivar",
+          "note": "Verbo irregular: grow, grew, grown."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "grow"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "grows"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "grew"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "grown"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "growing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fresh mint grows beside the kitchen steps.",
+          "trans": "Hortelã fresca cresce ao lado da escada da cozinha."
+        },
+        {
+          "text": "They grow herbs in wooden boxes.",
+          "trans": "Eles cultivam ervas em caixas de madeira."
+        }
+      ],
+      "related": []
+    },
+    "tall": {
+      "lemma": "tall",
+      "stress": "tɔl",
+      "pos": "adj",
+      "gloss": "alto (pessoas, árvores, prédios)",
+      "meanings": [
+        {
+          "en": "alto (pessoas, árvores, prédios)",
+          "note": "Usa-se para a estatura de pessoas, árvores e edifícios esguios."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Is there a tall man in a gray coat?",
+          "trans": "Tem um homem alto de casaco cinza?"
+        },
+        {
+          "text": "You grew taller than the piano!",
+          "trans": "Você ficou mais alto do que o piano!"
+        }
+      ],
+      "related": []
+    },
+    "than": {
+      "lemma": "than",
+      "stress": "ðæn",
+      "pos": "conj",
+      "gloss": "do que (em comparações)",
+      "meanings": [
+        {
+          "en": "do que (em comparações)",
+          "note": "Introduz o segundo termo após comparativos: lighter than, better than."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This suitcase feels lighter than mine.",
+          "trans": "Esta mala parece mais leve do que a minha."
+        },
+        {
+          "text": "Tea stays hot longer in ceramic than in glass.",
+          "trans": "O chá fica quente por mais tempo na cerâmica do que no vidro."
+        }
+      ],
+      "related": []
+    },
+    "the": {
+      "lemma": "the",
+      "stress": "ðə",
+      "pos": "det",
+      "gloss": "o, a, os, as",
+      "meanings": [
+        {
+          "en": "o, a, os, as",
+          "note": "Invariável em gênero e número; soa /ðə/ antes de consoante e /ði/ antes de vogal."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle on the front door.",
+          "trans": "Levante a maçaneta da porta da frente."
+        },
+        {
+          "text": "All the keys hang behind the desk.",
+          "trans": "Todas as chaves ficam atrás do balcão."
+        }
+      ],
+      "related": []
+    },
+    "piano": {
+      "lemma": "piano",
+      "stress": "piˈænoʊ",
+      "pos": "noun",
+      "gloss": "piano",
+      "meanings": [
+        {
+          "en": "piano",
+          "note": "Três sílabas em inglês: pi-A-no (/piˈænoʊ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Evelyn plays the old parlor piano beautifully.",
+          "trans": "Evelyn toca lindamente o velho piano da sala."
+        },
+        {
+          "text": "A brass lamp stands beside the piano.",
+          "trans": "Há um abajur de latão ao lado do piano."
+        }
+      ],
+      "related": []
+    },
+    "i": {
+      "lemma": "i",
+      "stress": "aɪ",
+      "pos": "pron",
+      "gloss": "eu",
+      "meanings": [
+        {
+          "en": "eu",
+          "note": "Na ortografia inglesa escreve-se sempre com letra maiúscula: I."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I am Hannah, the new receptionist.",
+          "trans": "Eu sou Hannah, a nova recepcionista."
+        },
+        {
+          "text": "May I help you with your luggage?",
+          "trans": "Posso ajudar com a sua bagagem?"
+        }
+      ],
+      "related": []
+    },
+    "cannot": {
+      "lemma": "cannot",
+      "stress": "ˈkænɑt",
+      "pos": "verb",
+      "gloss": "não poder, não conseguir",
+      "meanings": [
+        {
+          "en": "não poder, não conseguir",
+          "note": "Negativa de can; escreve-se sempre junta numa única palavra."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "cannot"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "cannot"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "could not"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I cannot read tiny print without glasses.",
+          "trans": "Não consigo ler letra miúda sem óculos."
+        },
+        {
+          "text": "You cannot park in front of the gate.",
+          "trans": "Você não pode estacionar em frente ao portão."
+        }
+      ],
+      "related": []
+    },
+    "believe": {
+      "lemma": "believe",
+      "stress": "bɪˈliv",
+      "pos": "verb",
+      "gloss": "acreditar, crer",
+      "meanings": [
+        {
+          "en": "acreditar, crer",
+          "note": "Verbo de estado mental: raramente aparece na forma com -ing."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "believe"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "believes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "believed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "believed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "believing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I cannot believe this good luck!",
+          "trans": "Não consigo acreditar nessa sorte!"
+        },
+        {
+          "text": "Do you believe his story?",
+          "trans": "Você acredita na história dele?"
+        }
+      ],
+      "related": []
+    },
+    "be": {
+      "lemma": "be",
+      "stress": "bi",
+      "pos": "verb",
+      "gloss": "ser, estar",
+      "meanings": [
+        {
+          "en": "ser, estar",
+          "note": "Equivale tanto a ser quanto a estar (am, is, are / was, were)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "be"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "is"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "was, were"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "been"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "being"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The keys are on the desk.",
+          "trans": "As chaves estão sobre o balcão."
+        },
+        {
+          "text": "She wants to be a teacher.",
+          "trans": "Ela quer ser professora."
+        }
+      ],
+      "related": []
+    },
+    "stay": {
+      "lemma": "stay",
+      "stress": "steɪ",
+      "pos": "verb",
+      "gloss": "ficar, hospedar-se; estadia (subst.)",
+      "meanings": [
+        {
+          "en": "ficar, hospedar-se; estadia (subst.)",
+          "note": "Em hotéis é o verbo essencial: stay at an inn, Enjoy your stay!"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "stay"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "stays"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "stayed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "stayed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "staying"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How many nights are you staying with us?",
+          "trans": "Quantas noites você vai ficar conosco?"
+        },
+        {
+          "text": "Stay warm and dry out there!",
+          "trans": "Mantenha-se aquecido e seco lá fora!"
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "em, dentro de",
+      "meanings": [
+        {
+          "en": "em, dentro de",
+          "note": "Para espaços fechados, cidades, meses, partes do dia e prazos (in five minutes)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait in the warm dining room.",
+          "trans": "Aguarde na sala de jantar aquecida."
+        },
+        {
+          "text": "Coffee will be ready in three minutes.",
+          "trans": "O café ficará pronto em três minutos."
+        }
+      ],
+      "related": []
+    },
+    "exact": {
+      "lemma": "exact",
+      "stress": "ɪɡˈzækt",
+      "pos": "adj",
+      "gloss": "exato, preciso",
+      "meanings": [
+        {
+          "en": "exato, preciso",
+          "note": "Muito usado em the exact same ('exatamente o mesmo')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "They carried the exact same blue suitcase.",
+          "trans": "Eles carregavam exatamente a mesma mala azul."
+        },
+        {
+          "text": "Do you have the exact address?",
+          "trans": "Você tem o endereço exato?"
+        }
+      ],
+      "related": []
+    },
+    "same": {
+      "lemma": "same",
+      "stress": "seɪm",
+      "pos": "adj",
+      "gloss": "mesmo, igual",
+      "meanings": [
+        {
+          "en": "mesmo, igual",
+          "note": "Quase sempre precedido do artigo definido: the same."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "They carried the exact same blue suitcase.",
+          "trans": "Eles carregavam exatamente a mesma mala azul."
+        },
+        {
+          "text": "Have a lovely day! — You too, same to you!",
+          "trans": "Tenha um ótimo dia! — Igualmente para você!"
+        }
+      ],
+      "related": []
+    },
+    "guesthouse": {
+      "lemma": "guesthouse",
+      "stress": "ˈɡɛstˌhaʊs",
+      "pos": "noun",
+      "gloss": "pousada, casa de hóspedes",
+      "meanings": [
+        {
+          "en": "pousada, casa de hóspedes",
+          "note": "Hospedagem pequena e acolhedora de ambiente familiar."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "They run a quiet guesthouse near the harbor.",
+          "trans": "Eles administram uma pousada tranquila perto do porto."
+        },
+        {
+          "text": "Every room in the guesthouse is unique.",
+          "trans": "Cada quarto da pousada é único."
         }
       ],
       "related": []
@@ -6314,140 +5387,15 @@
       ],
       "related": []
     },
-    "monday": {
-      "lemma": "monday",
-      "stress": "ˈmʌndeɪ",
-      "pos": "noun",
-      "gloss": "segunda-feira",
-      "meanings": [
-        {
-          "en": "segunda-feira",
-          "note": "Escreve-se sempre com letra maiúscula (Monday) e usa a preposição on."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I arrived here on Monday evening.",
-          "trans": "Cheguei aqui na segunda-feira à noite."
-        },
-        {
-          "text": "Monday was Hannah's first day.",
-          "trans": "Segunda-feira foi o primeiro dia da Hannah."
-        }
-      ],
-      "related": []
-    },
-    "music": {
-      "lemma": "music",
-      "stress": "ˈmjuzɪk",
-      "pos": "noun",
-      "gloss": "música",
-      "meanings": [
-        {
-          "en": "música",
-          "note": "Incontável; pronuncia-se com /j/ na primeira sílaba (/ˈmjuzɪk/)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Soft piano music played in the parlor.",
-          "trans": "Música suave de piano tocava na sala."
-        },
-        {
-          "text": "Do you listen to music while you bake?",
-          "trans": "Você ouve música enquanto assa pães?"
-        }
-      ],
-      "related": []
-    },
-    "my": {
-      "lemma": "my",
-      "stress": "maɪ",
-      "pos": "det",
-      "gloss": "meu, minha, meus, minhas",
-      "meanings": [
-        {
-          "en": "meu, minha, meus, minhas",
-          "note": "Invariável em gênero e número: my key, my keys."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Today is my first morning at the desk.",
-          "trans": "Hoje é minha primeira manhã na recepção."
-        },
-        {
-          "text": "Where did I put my reading glasses?",
-          "trans": "Onde coloquei meus óculos de leitura?"
-        }
-      ],
-      "related": []
-    },
-    "name": {
-      "lemma": "name",
-      "stress": "neɪm",
-      "pos": "noun",
-      "gloss": "nome",
-      "meanings": [
-        {
-          "en": "nome",
-          "note": "Para perguntar o nome usa-se What is your name?"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My name is Hannah, and this is Graham.",
-          "trans": "Meu nome é Hannah, e este é o Graham."
-        },
-        {
-          "text": "Both guests wrote their names in the ledger.",
-          "trans": "Os dois hóspedes escreveram seus nomes no livro de registro."
-        }
-      ],
-      "related": []
-    },
-    "nearby": {
-      "lemma": "nearby",
-      "stress": "ˌnɪɹˈbaɪ",
-      "pos": "adv",
-      "gloss": "por perto, aqui perto",
-      "meanings": [
-        {
-          "en": "por perto, aqui perto",
-          "note": "Diferente de near, nearby NÃO exige complemento depois (a dinner nearby)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "We booked a quiet table nearby.",
-          "trans": "Reservamos uma mesa tranquila aqui perto."
-        },
-        {
-          "text": "Is there a pharmacy nearby?",
-          "trans": "Tem alguma farmácia aqui perto?"
-        }
-      ],
-      "related": []
-    },
-    "need": {
-      "lemma": "need",
-      "stress": "nid",
+    "wait": {
+      "lemma": "wait",
+      "stress": "weɪt",
       "pos": "verb",
-      "gloss": "precisar de",
+      "gloss": "esperar, aguardar",
       "meanings": [
         {
-          "en": "precisar de",
-          "note": "Seguido de substantivo (need a key) ou infinitivo com to (need to check)."
+          "en": "esperar, aguardar",
+          "note": "Pede for antes do que se espera: wait for the taxi (nunca *wait the taxi*)."
         }
       ],
       "forms": {
@@ -6460,31 +5408,31 @@
           {
             "cells": [
               "base",
-              "need"
+              "wait"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "needs"
+              "waits"
             ]
           },
           {
             "cells": [
               "past",
-              "needed"
+              "waited"
             ]
           },
           {
             "cells": [
               "past participle",
-              "needed"
+              "waited"
             ]
           },
           {
             "cells": [
               "-ing",
-              "needing"
+              "waiting"
             ]
           }
         ]
@@ -6492,513 +5440,37 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Tell me everything I need to know.",
-          "trans": "Conte-me tudo o que preciso saber."
+          "text": "Wait right here while I grab the key.",
+          "trans": "Espere bem aqui enquanto pego a chave."
         },
         {
-          "text": "Do you need an extra towel for your room?",
-          "trans": "Você precisa de uma toalha extra para o quarto?"
+          "text": "Caleb waited for the yellow taxi at the curb.",
+          "trans": "Caleb esperou pelo táxi amarelo na calçada."
         }
       ],
       "related": []
     },
-    "night": {
-      "lemma": "night",
-      "stress": "naɪt",
-      "pos": "noun",
-      "gloss": "noite",
-      "meanings": [
-        {
-          "en": "noite",
-          "note": "Usa-se at night ('à noite') e Good night (ao despedir-se ou ir dormir)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Did you book for one night or two?",
-          "trans": "Você reservou por uma noite ou duas?"
-        },
-        {
-          "text": "The courtyard is very quiet at night.",
-          "trans": "O pátio é muito silencioso à noite."
-        }
-      ],
-      "related": []
-    },
-    "not": {
-      "lemma": "not",
-      "stress": "nɑt",
+    "so": {
+      "lemma": "so",
+      "stress": "soʊ",
       "pos": "adv",
-      "gloss": "não (negação verbal)",
+      "gloss": "tão (+ adj./adv.); então, por isso (conj.)",
       "meanings": [
         {
-          "en": "não (negação verbal)",
-          "note": "Posiciona-se após be, modais ou o auxiliar do/does/did."
+          "en": "tão (+ adj./adv.); então, por isso (conj.)",
+          "note": "Thank you so much! e so warm são usos diários."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Do not worry; your bag is safe here.",
-          "trans": "Não se preocupe; sua mala está segura aqui."
+          "text": "Thank you so much for waiting!",
+          "trans": "Muito obrigado por aguardar!"
         },
         {
-          "text": "The tea is warm, not too hot.",
-          "trans": "O chá está morno, não quente demais."
-        }
-      ],
-      "related": []
-    },
-    "note": {
-      "lemma": "note",
-      "stress": "noʊt",
-      "pos": "noun",
-      "gloss": "bilhete, anotação; nota",
-      "meanings": [
-        {
-          "en": "bilhete, anotação; nota",
-          "note": "Take a note e leave a note são expressões diárias na recepção."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Evelyn left a kind note on the desk.",
-          "trans": "Evelyn deixou um bilhete gentil no balcão."
-        },
-        {
-          "text": "Let me write a quick note in the ledger.",
-          "trans": "Deixe-me escrever uma anotação rápida no livro."
-        }
-      ],
-      "related": []
-    },
-    "old": {
-      "lemma": "old",
-      "stress": "oʊld",
-      "pos": "adj",
-      "gloss": "velho, antigo; de idade (years old)",
-      "meanings": [
-        {
-          "en": "velho, antigo; de idade (years old)",
-          "note": "Para idade acompanha years: forty years old."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Portland has a charming old port district.",
-          "trans": "Portland tem um charmoso distrito portuário antigo."
-        },
-        {
-          "text": "This brass bell is eighty years old.",
-          "trans": "Esta campainha de latão tem oitenta anos."
-        }
-      ],
-      "related": []
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɑn",
-      "pos": "prep",
-      "gloss": "sobre, em cima de; na/no (+ dia); ligado",
-      "meanings": [
-        {
-          "en": "sobre, em cima de; na/no (+ dia); ligado",
-          "note": "Indica contato com superfície (on the desk) e dias (on Friday)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Your key is on the wooden desk.",
-          "trans": "Sua chave está em cima do balcão de madeira."
-        },
-        {
-          "text": "Tessa bakes apple rolls on Fridays.",
-          "trans": "Tessa assa pãezinhos de maçã às sextas-feiras."
-        }
-      ],
-      "related": []
-    },
-    "onto": {
-      "lemma": "onto",
-      "stress": "ˈɔntu",
-      "pos": "prep",
-      "gloss": "para cima de, em (com movimento)",
-      "meanings": [
-        {
-          "en": "para cima de, em (com movimento)",
-          "note": "Indica movimento em direção a uma superfície onde o objeto fica apoiado."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "He slipped the note onto the door handle.",
-          "trans": "Ele encaixou o bilhete na maçaneta da porta."
-        },
-        {
-          "text": "Step carefully onto the stone curb.",
-          "trans": "Suba com cuidado no meio-fio de pedra."
-        }
-      ],
-      "related": []
-    },
-    "open": {
-      "lemma": "open",
-      "stress": "ˈoʊpən",
-      "pos": "verb",
-      "gloss": "abrir, abrir-se; aberto (adj.)",
-      "meanings": [
-        {
-          "en": "abrir, abrir-se; aberto (adj.)",
-          "note": "Como adjetivo de estado usa-se open ('aberto'), e não *opened*."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "open"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "opens"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "opened"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "opened"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "opening"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh, the door opens when you lift the handle!",
-          "trans": "Ah, a porta abre quando você levanta a maçaneta!"
-        },
-        {
-          "text": "Please open the window for fresh air.",
-          "trans": "Por favor abra a janela para entrar ar fresco."
-        }
-      ],
-      "related": []
-    },
-    "package": {
-      "lemma": "package",
-      "stress": "ˈpækɪdʒ",
-      "pos": "noun",
-      "gloss": "pacote, encomenda",
-      "meanings": [
-        {
-          "en": "pacote, encomenda",
-          "note": "Termo padrão nos EUA para encomendas entregues pelo correio."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A small brown package arrived for Evelyn.",
-          "trans": "Chegou um pequeno pacote marrom para a Evelyn."
-        },
-        {
-          "text": "Sign here to receive the package, please.",
-          "trans": "Assine aqui para receber a encomenda, por favor."
-        }
-      ],
-      "related": []
-    },
-    "panic": {
-      "lemma": "panic",
-      "stress": "ˈpænɪk",
-      "pos": "verb",
-      "gloss": "entrar em pânico, apavorar-se",
-      "meanings": [
-        {
-          "en": "entrar em pânico, apavorar-se",
-          "note": "Ganha um k na escrita antes de -ed e -ing para manter o som /k/: panicked, panicking."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "panic"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "panics"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "panicked"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "panicked"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "panicking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Arthur panicked over decibel numbers!",
-          "trans": "Arthur entrou em pânico por causa de decibéis!"
-        },
-        {
-          "text": "Stay calm and do not panic.",
-          "trans": "Mantenha a calma e não entre em pânico."
-        }
-      ],
-      "related": []
-    },
-    "paper": {
-      "lemma": "paper",
-      "stress": "ˈpeɪpɚ",
-      "pos": "noun",
-      "gloss": "papel; de papel (modificador)",
-      "meanings": [
-        {
-          "en": "papel; de papel (modificador)",
-          "note": "Incontável como material (some paper); antes de outro nome indica de que é feito (paper book)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use a big paper book and a pencil.",
-          "trans": "Aqui usamos um grande livro de papel e um lápis."
-        },
-        {
-          "text": "Write your address on this slip of paper.",
-          "trans": "Escreva seu endereço neste pedaço de papel."
-        }
-      ],
-      "related": []
-    },
-    "piano": {
-      "lemma": "piano",
-      "stress": "piˈænoʊ",
-      "pos": "noun",
-      "gloss": "piano",
-      "meanings": [
-        {
-          "en": "piano",
-          "note": "Três sílabas em inglês: pi-A-no (/piˈænoʊ/)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Evelyn plays the old parlor piano beautifully.",
-          "trans": "Evelyn toca lindamente o velho piano da sala."
-        },
-        {
-          "text": "A brass lamp stands beside the piano.",
-          "trans": "Há um abajur de latão ao lado do piano."
-        }
-      ],
-      "related": []
-    },
-    "place": {
-      "lemma": "place",
-      "stress": "pleɪs",
-      "pos": "noun",
-      "gloss": "lugar",
-      "meanings": [
-        {
-          "en": "lugar",
-          "note": "Muito frequente em this place ('este lugar') e in place ('no lugar')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This courtyard is a peaceful place to read.",
-          "trans": "Este pátio é um lugar tranquilo para ler."
-        },
-        {
-          "text": "Every brass key has its own place.",
-          "trans": "Cada chave de latão tem seu próprio lugar."
-        }
-      ],
-      "related": []
-    },
-    "properly": {
-      "lemma": "properly",
-      "stress": "ˈpɹɑpɚli",
-      "pos": "adv",
-      "gloss": "direito, corretamente, adequadamente",
-      "meanings": [
-        {
-          "en": "direito, corretamente, adequadamente",
-          "note": "Muito comum para portas, fechos ou aparelhos funcionando direito."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle so the latch closes properly.",
-          "trans": "Levante a maçaneta para que o trinco feche direito."
-        },
-        {
-          "text": "Now the espresso machine works properly.",
-          "trans": "Agora a máquina de café funciona perfeitamente."
-        }
-      ],
-      "related": []
-    },
-    "quiet": {
-      "lemma": "quiet",
-      "stress": "ˈkwaɪət",
-      "pos": "adj",
-      "gloss": "tranquilo, silencioso, calmo",
-      "meanings": [
-        {
-          "en": "tranquilo, silencioso, calmo",
-          "note": "Duas sílabas (/ˈkwaɪət/), não confundir com quite (/kwaɪt/)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room eight is on the quiet garden side.",
-          "trans": "O quarto oito fica do lado silencioso do jardim."
-        },
-        {
-          "text": "Mornings are peaceful and quiet here.",
-          "trans": "As manhãs são calmas e silenciosas aqui."
-        }
-      ],
-      "related": []
-    },
-    "real": {
-      "lemma": "real",
-      "stress": "ɹil",
-      "pos": "adj",
-      "gloss": "verdadeiro, real",
-      "meanings": [
-        {
-          "en": "verdadeiro, real",
-          "note": "Em your real name contrasta com um nome fictício ou bilhete anônimo."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You checked in under your real name?",
-          "trans": "Você fez o registro com seu nome verdadeiro?"
-        },
-        {
-          "text": "Tessa uses real butter and fresh lemons.",
-          "trans": "Tessa usa manteiga de verdade e limões frescos."
-        }
-      ],
-      "related": []
-    },
-    "red": {
-      "lemma": "red",
-      "stress": "ɹɛd",
-      "pos": "adj",
-      "gloss": "vermelho",
-      "meanings": [
-        {
-          "en": "vermelho",
-          "note": "Cor básica invariável antes do substantivo."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look for the red brick building on the corner.",
-          "trans": "Procure o prédio de tijolos vermelhos na esquina."
-        },
-        {
-          "text": "Tessa brought a basket of sweet red apples.",
-          "trans": "Tessa trouxe uma cesta de maçãs vermelhas doces."
-        }
-      ],
-      "related": []
-    },
-    "ribbon": {
-      "lemma": "ribbon",
-      "stress": "ˈɹɪbən",
-      "pos": "noun",
-      "gloss": "fita, laço",
-      "meanings": [
-        {
-          "en": "fita, laço",
-          "note": "Muito útil para identificar malas parecidas."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Evelyn tied a yellow ribbon to her handle.",
-          "trans": "Evelyn amarrou uma fita amarela na alça da mala."
-        },
-        {
-          "text": "A silk ribbon wrapped the bakery box.",
-          "trans": "Uma fita de seda envolvia a caixa da padaria."
+          "text": "It rained hard, so we stayed indoors.",
+          "trans": "Choveu forte, então ficamos lá dentro."
         }
       ],
       "related": []
@@ -7066,153 +5538,453 @@
       ],
       "related": []
     },
-    "ring": {
-      "lemma": "ring",
-      "stress": "ɹɪŋ",
-      "pos": "verb",
-      "gloss": "tocar, soar; anel (subst.)",
+    "train": {
+      "lemma": "train",
+      "stress": "tɹeɪn",
+      "pos": "noun",
+      "gloss": "trem",
       "meanings": [
         {
-          "en": "tocar, soar; anel (subst.)",
-          "note": "Verbo irregular com alternância vocálica: ring, rang, rung."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "ring"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "rings"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "rang"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "rung"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "ringing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ring the brass bell on the front desk.",
-          "trans": "Toque a campainha de latão na recepção."
-        },
-        {
-          "text": "The lobby phone rang twice.",
-          "trans": "O telefone da recepção tocou duas vezes."
-        }
-      ],
-      "related": []
-    },
-    "run": {
-      "lemma": "run",
-      "stress": "ɹʌn",
-      "pos": "verb",
-      "gloss": "correr; funcionar; administrar",
-      "meanings": [
-        {
-          "en": "correr; funcionar; administrar",
-          "note": "Irregular: run, ran, run. Run an inn significa 'administrar uma pousada'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "run"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "runs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "ran"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "run"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "running"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Caleb ran back to the taxi with the bag.",
-          "trans": "Caleb correu de volta até o táxi com a mala."
-        },
-        {
-          "text": "Graham has run this guesthouse for years.",
-          "trans": "Graham administra esta pousada há anos."
-        }
-      ],
-      "related": []
-    },
-    "same": {
-      "lemma": "same",
-      "stress": "seɪm",
-      "pos": "adj",
-      "gloss": "mesmo, igual",
-      "meanings": [
-        {
-          "en": "mesmo, igual",
-          "note": "Quase sempre precedido do artigo definido: the same."
+          "en": "trem",
+          "note": "Take the train / catch a train são as combinações principais."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "They carried the exact same blue suitcase.",
-          "trans": "Eles carregavam exatamente a mesma mala azul."
+          "text": "Both guests arrived on the nine o'clock train.",
+          "trans": "Os dois hóspedes chegaram no trem das nove."
         },
         {
-          "text": "Have a lovely day! — You too, same to you!",
-          "trans": "Tenha um ótimo dia! — Igualmente para você!"
+          "text": "The train station is ten minutes away by taxi.",
+          "trans": "A estação de trem fica a dez minutos de táxi."
+        }
+      ],
+      "related": []
+    },
+    "on": {
+      "lemma": "on",
+      "stress": "ɑn",
+      "pos": "prep",
+      "gloss": "sobre, em cima de; na/no (+ dia); ligado",
+      "meanings": [
+        {
+          "en": "sobre, em cima de; na/no (+ dia); ligado",
+          "note": "Indica contato com superfície (on the desk) e dias (on Friday)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your key is on the wooden desk.",
+          "trans": "Sua chave está em cima do balcão de madeira."
+        },
+        {
+          "text": "Tessa bakes apple rolls on Fridays.",
+          "trans": "Tessa assa pãezinhos de maçã às sextas-feiras."
+        }
+      ],
+      "related": []
+    },
+    "monday": {
+      "lemma": "monday",
+      "stress": "ˈmʌndeɪ",
+      "pos": "noun",
+      "gloss": "segunda-feira",
+      "meanings": [
+        {
+          "en": "segunda-feira",
+          "note": "Escreve-se sempre com letra maiúscula (Monday) e usa a preposição on."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I arrived here on Monday evening.",
+          "trans": "Cheguei aqui na segunda-feira à noite."
+        },
+        {
+          "text": "Monday was Hannah's first day.",
+          "trans": "Segunda-feira foi o primeiro dia da Hannah."
+        }
+      ],
+      "related": []
+    },
+    "and": {
+      "lemma": "and",
+      "stress": "ænd",
+      "pos": "conj",
+      "gloss": "e",
+      "meanings": [
+        {
+          "en": "e",
+          "note": "Conjunção aditiva básica."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bring bread and butter, please.",
+          "trans": "Traga pão e manteiga, por favor."
+        },
+        {
+          "text": "Wash your hands and sit down.",
+          "trans": "Lave as mãos e sente-se."
+        }
+      ],
+      "related": []
+    },
+    "take": {
+      "lemma": "take",
+      "stress": "teɪk",
+      "pos": "verb",
+      "gloss": "pegar, levar; tomar (transporte/café)",
+      "meanings": [
+        {
+          "en": "pegar, levar; tomar (transporte/café)",
+          "note": "Verbo essencial: take a taxi, take your time, How do you take your coffee?"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "take"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "takes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "took"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "taken"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "taking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Take an umbrella before you walk to the harbor.",
+          "trans": "Leve um guarda-chuva antes de caminhar até o porto."
+        },
+        {
+          "text": "Someone took the wrong blue bag from the taxi.",
+          "trans": "Alguém pegou a mala azul errada no táxi."
+        }
+      ],
+      "related": []
+    },
+    "her": {
+      "lemma": "her",
+      "stress": "hɝ",
+      "pos": "det",
+      "gloss": "dela, seu/sua; a, lhe (pron. oblíquo)",
+      "meanings": [
+        {
+          "en": "dela, seu/sua; a, lhe (pron. oblíquo)",
+          "note": "Serve como possessivo feminino (her bag) e pronome objeto (ask her)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa brought her basket of warm bread.",
+          "trans": "Tessa trouxe sua cesta de pão quente."
+        },
+        {
+          "text": "Please give her a cup of mint tea.",
+          "trans": "Por favor dê a ela uma xícara de chá de hortelã."
+        }
+      ],
+      "related": []
+    },
+    "suitcase": {
+      "lemma": "suitcase",
+      "stress": "ˈsutˌkeɪs",
+      "pos": "noun",
+      "gloss": "mala de viagem",
+      "meanings": [
+        {
+          "en": "mala de viagem",
+          "note": "Contável (two blue suitcases), ao contrário do incontável luggage."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Two guests brought the exact same blue suitcase.",
+          "trans": "Dois hóspedes trouxeram exatamente a mesma mala azul."
+        },
+        {
+          "text": "Set your suitcase on the wooden luggage rack.",
+          "trans": "Coloque sua mala no suporte de madeira."
+        }
+      ],
+      "related": []
+    },
+    "by": {
+      "lemma": "by",
+      "stress": "baɪ",
+      "pos": "prep",
+      "gloss": "por; perto de",
+      "meanings": [
+        {
+          "en": "por; perto de",
+          "note": "Usado em by mistake ('por engano'), by train ('de trem') e proximidade."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "She traveled here by morning train.",
+          "trans": "Ela viajou para cá no trem da manhã."
+        },
+        {
+          "text": "I took your pen by mistake.",
+          "trans": "Peguei sua caneta por engano."
+        }
+      ],
+      "related": []
+    },
+    "complete": {
+      "lemma": "complete",
+      "stress": "kəmˈplit",
+      "pos": "adj",
+      "gloss": "completo, total",
+      "meanings": [
+        {
+          "en": "completo, total",
+          "note": "Em by complete accident reforça que foi puro acaso."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "It happened by complete accident.",
+          "trans": "Aconteceu completamente por acaso."
+        },
+        {
+          "text": "Here is the complete guest list.",
+          "trans": "Aqui está a lista completa de hóspedes."
+        }
+      ],
+      "related": []
+    },
+    "accident": {
+      "lemma": "accident",
+      "stress": "ˈæksɪdənt",
+      "pos": "noun",
+      "gloss": "acidente, acaso",
+      "meanings": [
+        {
+          "en": "acidente, acaso",
+          "note": "Em by accident significa 'por acaso, sem querer'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I took your bag by accident.",
+          "trans": "Peguei sua bolsa por acidente."
+        },
+        {
+          "text": "Nobody got hurt in the accident.",
+          "trans": "Ninguém se machucou no acidente."
+        }
+      ],
+      "related": []
+    },
+    "my": {
+      "lemma": "my",
+      "stress": "maɪ",
+      "pos": "det",
+      "gloss": "meu, minha, meus, minhas",
+      "meanings": [
+        {
+          "en": "meu, minha, meus, minhas",
+          "note": "Invariável em gênero e número: my key, my keys."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Today is my first morning at the desk.",
+          "trans": "Hoje é minha primeira manhã na recepção."
+        },
+        {
+          "text": "Where did I put my reading glasses?",
+          "trans": "Onde coloquei meus óculos de leitura?"
+        }
+      ],
+      "related": []
+    },
+    "cousin": {
+      "lemma": "cousin",
+      "stress": "ˈkʌzən",
+      "pos": "noun",
+      "gloss": "primo, prima",
+      "meanings": [
+        {
+          "en": "primo, prima",
+          "note": "Serve igualmente para o masculino ('primo') e o feminino ('prima')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I stayed at my cousin's apartment.",
+          "trans": "Fiquei no apartamento do meu primo."
+        },
+        {
+          "text": "Her cousin lives near the harbor.",
+          "trans": "A prima dela mora perto do porto."
+        }
+      ],
+      "related": []
+    },
+    "apartment": {
+      "lemma": "apartment",
+      "stress": "əˈpɑɹtmənt",
+      "pos": "noun",
+      "gloss": "apartamento",
+      "meanings": [
+        {
+          "en": "apartamento",
+          "note": "Termo padrão no inglês americano (equivalente ao britânico flat)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My cousin rents a small apartment.",
+          "trans": "Meu primo aluga um apartamento pequeno."
+        },
+        {
+          "text": "Her apartment is on the top floor.",
+          "trans": "O apartamento dela fica no último andar."
+        }
+      ],
+      "related": []
+    },
+    "open": {
+      "lemma": "open",
+      "stress": "ˈoʊpən",
+      "pos": "verb",
+      "gloss": "abrir, abrir-se; aberto (adj.)",
+      "meanings": [
+        {
+          "en": "abrir, abrir-se; aberto (adj.)",
+          "note": "Como adjetivo de estado usa-se open ('aberto'), e não *opened*."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "open"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "opens"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "opened"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "opened"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "opening"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh, the door opens when you lift the handle!",
+          "trans": "Ah, a porta abre quando você levanta a maçaneta!"
+        },
+        {
+          "text": "Please open the window for fresh air.",
+          "trans": "Por favor abra a janela para entrar ar fresco."
+        }
+      ],
+      "related": []
+    },
+    "it": {
+      "lemma": "it",
+      "stress": "ɪt",
+      "pos": "pron",
+      "gloss": "ele/ela (coisa); sujeito impessoal",
+      "meanings": [
+        {
+          "en": "ele/ela (coisa); sujeito impessoal",
+          "note": "Obrigatório para coisas no singular e clima/hora (It is raining)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle, and it opens easily.",
+          "trans": "Levante a maçaneta e ela abre facilmente."
+        },
+        {
+          "text": "It is sunny and warm this afternoon.",
+          "trans": "Está ensolarado e agradável nesta tarde."
         }
       ],
       "related": []
@@ -7305,15 +6077,140 @@
       ],
       "related": []
     },
-    "slip": {
-      "lemma": "slip",
-      "stress": "slɪp",
-      "pos": "verb",
-      "gloss": "deslizar discretamente, enfiar; escorregar",
+    "music": {
+      "lemma": "music",
+      "stress": "ˈmjuzɪk",
+      "pos": "noun",
+      "gloss": "música",
       "meanings": [
         {
-          "en": "deslizar discretamente, enfiar; escorregar",
-          "note": "Dobra o p no passado e na forma em -ing: slipped, slipping; slip a note é 'deixar um bilhete discretamente'."
+          "en": "música",
+          "note": "Incontável; pronuncia-se com /j/ na primeira sílaba (/ˈmjuzɪk/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Soft piano music played in the parlor.",
+          "trans": "Música suave de piano tocava na sala."
+        },
+        {
+          "text": "Do you listen to music while you bake?",
+          "trans": "Você ouve música enquanto assa pães?"
+        }
+      ],
+      "related": []
+    },
+    "a": {
+      "lemma": "a",
+      "stress": "ə",
+      "pos": "det",
+      "gloss": "um, uma",
+      "meanings": [
+        {
+          "en": "um, uma",
+          "note": "Artigo indefinido antes de som consonantal."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I have a blue pen.",
+          "trans": "Eu tenho uma caneta azul."
+        },
+        {
+          "text": "She wants a cup of tea.",
+          "trans": "Ela quer uma xícara de chá."
+        }
+      ],
+      "related": []
+    },
+    "red": {
+      "lemma": "red",
+      "stress": "ɹɛd",
+      "pos": "adj",
+      "gloss": "vermelho",
+      "meanings": [
+        {
+          "en": "vermelho",
+          "note": "Cor básica invariável antes do substantivo."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look for the red brick building on the corner.",
+          "trans": "Procure o prédio de tijolos vermelhos na esquina."
+        },
+        {
+          "text": "Tessa brought a basket of sweet red apples.",
+          "trans": "Tessa trouxe uma cesta de maçãs vermelhas doces."
+        }
+      ],
+      "related": []
+    },
+    "ribbon": {
+      "lemma": "ribbon",
+      "stress": "ˈɹɪbən",
+      "pos": "noun",
+      "gloss": "fita, laço",
+      "meanings": [
+        {
+          "en": "fita, laço",
+          "note": "Muito útil para identificar malas parecidas."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Evelyn tied a yellow ribbon to her handle.",
+          "trans": "Evelyn amarrou uma fita amarela na alça da mala."
+        },
+        {
+          "text": "A silk ribbon wrapped the bakery box.",
+          "trans": "Uma fita de seda envolvia a caixa da padaria."
+        }
+      ],
+      "related": []
+    },
+    "why": {
+      "lemma": "why",
+      "stress": "waɪ",
+      "pos": "adv",
+      "gloss": "por que",
+      "meanings": [
+        {
+          "en": "por que",
+          "note": "Em Why don't we...? faz um convite simpático ('Por que não...?')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Why are there two identical blue bags here?",
+          "trans": "Por que há duas malas azuis idênticas aqui?"
+        },
+        {
+          "text": "That explains why the zipper felt different!",
+          "trans": "Isso explica por que o zíper parecia diferente!"
+        }
+      ],
+      "related": []
+    },
+    "do": {
+      "lemma": "do",
+      "stress": "du",
+      "pos": "verb",
+      "gloss": "fazer; auxiliar de pergunta/negação",
+      "meanings": [
+        {
+          "en": "fazer; auxiliar de pergunta/negação",
+          "note": "Funciona como verbo pleno ('fazer') e auxiliar de presente/passado."
         }
       ],
       "forms": {
@@ -7326,31 +6223,31 @@
           {
             "cells": [
               "base",
-              "slip"
+              "do"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "slips"
+              "does"
             ]
           },
           {
             "cells": [
               "past",
-              "slipped"
+              "did"
             ]
           },
           {
             "cells": [
               "past participle",
-              "slipped"
+              "done"
             ]
           },
           {
             "cells": [
               "-ing",
-              "slipping"
+              "doing"
             ]
           }
         ]
@@ -7358,75 +6255,25 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "He slipped the note onto the handle.",
-          "trans": "Ele prendeu discretamente o bilhete na maçaneta."
+          "text": "Do you want sugar in your coffee?",
+          "trans": "Você quer açúcar no café?"
         },
         {
-          "text": "Careful not to slip on the wet stone.",
-          "trans": "Cuidado para não escorregar na pedra molhada."
+          "text": "What should we do with this package?",
+          "trans": "O que devemos fazer com este pacote?"
         }
       ],
       "related": []
     },
-    "so": {
-      "lemma": "so",
-      "stress": "soʊ",
-      "pos": "adv",
-      "gloss": "tão (+ adj./adv.); então, por isso (conj.)",
-      "meanings": [
-        {
-          "en": "tão (+ adj./adv.); então, por isso (conj.)",
-          "note": "Thank you so much! e so warm são usos diários."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Thank you so much for waiting!",
-          "trans": "Muito obrigado por aguardar!"
-        },
-        {
-          "text": "It rained hard, so we stayed indoors.",
-          "trans": "Choveu forte, então ficamos lá dentro."
-        }
-      ],
-      "related": []
-    },
-    "soon": {
-      "lemma": "soon",
-      "stress": "sun",
-      "pos": "adv",
-      "gloss": "logo, em breve",
-      "meanings": [
-        {
-          "en": "logo, em breve",
-          "note": "See you soon! despede-se prometendo novo encontro em breve."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Coffee will be ready very soon.",
-          "trans": "O café ficará pronto logo, logo."
-        },
-        {
-          "text": "See you soon in the courtyard!",
-          "trans": "Até breve no pátio!"
-        }
-      ],
-      "related": []
-    },
-    "stay": {
-      "lemma": "stay",
-      "stress": "steɪ",
+    "leave": {
+      "lemma": "leave",
+      "stress": "liv",
       "pos": "verb",
-      "gloss": "ficar, hospedar-se; estadia (subst.)",
+      "gloss": "deixar; sair, partir",
       "meanings": [
         {
-          "en": "ficar, hospedar-se; estadia (subst.)",
-          "note": "Em hotéis é o verbo essencial: stay at an inn, Enjoy your stay!"
+          "en": "deixar; sair, partir",
+          "note": "Passado e particípio irregulares left (/lɛft/)."
         }
       ],
       "forms": {
@@ -7439,31 +6286,31 @@
           {
             "cells": [
               "base",
-              "stay"
+              "leave"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "stays"
+              "leaves"
             ]
           },
           {
             "cells": [
               "past",
-              "stayed"
+              "left"
             ]
           },
           {
             "cells": [
               "past participle",
-              "stayed"
+              "left"
             ]
           },
           {
             "cells": [
               "-ing",
-              "staying"
+              "leaving"
             ]
           }
         ]
@@ -7471,12 +6318,37 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "How many nights are you staying with us?",
-          "trans": "Quantas noites você vai ficar conosco?"
+          "text": "You can leave your bags by the desk.",
+          "trans": "Você pode deixar suas malas perto do balcão."
         },
         {
-          "text": "Stay warm and dry out there!",
-          "trans": "Mantenha-se aquecido e seco lá fora!"
+          "text": "Our bus leaves at nine fifteen.",
+          "trans": "Nosso ônibus parte às nove e quinze."
+        }
+      ],
+      "related": []
+    },
+    "bag": {
+      "lemma": "bag",
+      "stress": "bæɡ",
+      "pos": "noun",
+      "gloss": "sacola, bolsa, mala",
+      "meanings": [
+        {
+          "en": "sacola, bolsa, mala",
+          "note": "Palavra versátil para sacolas, bolsas e malas."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Can I help you with your bag?",
+          "trans": "Posso ajudar você com a sua mala?"
+        },
+        {
+          "text": "Bring a cloth bag to the market.",
+          "trans": "Leve uma sacola de pano ao mercado."
         }
       ],
       "related": []
@@ -7506,478 +6378,165 @@
       ],
       "related": []
     },
-    "still": {
-      "lemma": "still",
-      "stress": "stɪl",
+    "night": {
+      "lemma": "night",
+      "stress": "naɪt",
+      "pos": "noun",
+      "gloss": "noite",
+      "meanings": [
+        {
+          "en": "noite",
+          "note": "Usa-se at night ('à noite') e Good night (ao despedir-se ou ir dormir)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did you book for one night or two?",
+          "trans": "Você reservou por uma noite ou duas?"
+        },
+        {
+          "text": "The courtyard is very quiet at night.",
+          "trans": "O pátio é muito silencioso à noite."
+        }
+      ],
+      "related": []
+    },
+    "run": {
+      "lemma": "run",
+      "stress": "ɹʌn",
+      "pos": "verb",
+      "gloss": "correr; funcionar; administrar",
+      "meanings": [
+        {
+          "en": "correr; funcionar; administrar",
+          "note": "Irregular: run, ran, run. Run an inn significa 'administrar uma pousada'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "run"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "runs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "ran"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "run"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "running"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Caleb ran back to the taxi with the bag.",
+          "trans": "Caleb correu de volta até o táxi com a mala."
+        },
+        {
+          "text": "Graham has run this guesthouse for years.",
+          "trans": "Graham administra esta pousada há anos."
+        }
+      ],
+      "related": []
+    },
+    "away": {
+      "lemma": "away",
+      "stress": "əˈweɪ",
       "pos": "adv",
-      "gloss": "ainda; sem gás / parado (adj.)",
+      "gloss": "longe, de distância",
       "meanings": [
         {
-          "en": "ainda; sem gás / parado (adj.)",
-          "note": "Vem antes do verbo principal (still rains), mas depois de be (is still hot)."
+          "en": "longe, de distância",
+          "note": "Após medidas indica distância (five minutes away)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Do not worry; the coffee is still hot.",
-          "trans": "Não se preocupe; o café ainda está quente."
+          "text": "The station is ten minutes away.",
+          "trans": "A estação fica a dez minutos daqui."
         },
         {
-          "text": "Is it still raining outside?",
-          "trans": "Ainda está chovendo lá fora?"
+          "text": "Put your coat away in the closet.",
+          "trans": "Guarde seu casaco no armário."
         }
       ],
       "related": []
     },
-    "street": {
-      "lemma": "street",
-      "stress": "stɹit",
-      "pos": "noun",
-      "gloss": "rua",
-      "meanings": [
-        {
-          "en": "rua",
-          "note": "Para nomes de ruas nos EUA usa-se on: on Linden Street."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our guesthouse stands on quiet Linden Street.",
-          "trans": "Nossa pousada fica na tranquila Linden Street."
-        },
-        {
-          "text": "Cross the street to reach the bakery.",
-          "trans": "Atravesse a rua para chegar à padaria."
-        }
-      ],
-      "related": []
-    },
-    "suitcase": {
-      "lemma": "suitcase",
-      "stress": "ˈsutˌkeɪs",
-      "pos": "noun",
-      "gloss": "mala de viagem",
-      "meanings": [
-        {
-          "en": "mala de viagem",
-          "note": "Contável (two blue suitcases), ao contrário do incontável luggage."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Two guests brought the exact same blue suitcase.",
-          "trans": "Dois hóspedes trouxeram exatamente a mesma mala azul."
-        },
-        {
-          "text": "Set your suitcase on the wooden luggage rack.",
-          "trans": "Coloque sua mala no suporte de madeira."
-        }
-      ],
-      "related": []
-    },
-    "take": {
-      "lemma": "take",
-      "stress": "teɪk",
-      "pos": "verb",
-      "gloss": "pegar, levar; tomar (transporte/café)",
-      "meanings": [
-        {
-          "en": "pegar, levar; tomar (transporte/café)",
-          "note": "Verbo essencial: take a taxi, take your time, How do you take your coffee?"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "take"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "takes"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "took"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "taken"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "taking"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Take an umbrella before you walk to the harbor.",
-          "trans": "Leve um guarda-chuva antes de caminhar até o porto."
-        },
-        {
-          "text": "Someone took the wrong blue bag from the taxi.",
-          "trans": "Alguém pegou a mala azul errada no táxi."
-        }
-      ],
-      "related": []
-    },
-    "tall": {
-      "lemma": "tall",
-      "stress": "tɔl",
-      "pos": "adj",
-      "gloss": "alto (pessoas, árvores, prédios)",
-      "meanings": [
-        {
-          "en": "alto (pessoas, árvores, prédios)",
-          "note": "Usa-se para a estatura de pessoas, árvores e edifícios esguios."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Is there a tall man in a gray coat?",
-          "trans": "Tem um homem alto de casaco cinza?"
-        },
-        {
-          "text": "You grew taller than the piano!",
-          "trans": "Você ficou mais alto do que o piano!"
-        }
-      ],
-      "related": []
-    },
-    "than": {
-      "lemma": "than",
-      "stress": "ðæn",
+    "because": {
+      "lemma": "because",
+      "stress": "bɪˈkɔz",
       "pos": "conj",
-      "gloss": "do que (em comparações)",
+      "gloss": "porque",
       "meanings": [
         {
-          "en": "do que (em comparações)",
-          "note": "Introduz o segundo termo após comparativos: lighter than, better than."
+          "en": "porque",
+          "note": "Introduz a causa ou explicação."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "This suitcase feels lighter than mine.",
-          "trans": "Esta mala parece mais leve do que a minha."
+          "text": "Stay inside because it is raining.",
+          "trans": "Fique lá dentro porque está chovendo."
         },
         {
-          "text": "Tea stays hot longer in ceramic than in glass.",
-          "trans": "O chá fica quente por mais tempo na cerâmica do que no vidro."
+          "text": "I smiled because the story was funny.",
+          "trans": "Sorri porque a história era engraçada."
         }
       ],
       "related": []
     },
-    "that": {
-      "lemma": "that",
-      "stress": "ðæt",
-      "pos": "pron",
-      "gloss": "esse, essa, isso, aquele; que (conj.)",
+    "when": {
+      "lemma": "when",
+      "stress": "wɛn",
+      "pos": "conj",
+      "gloss": "quando",
       "meanings": [
         {
-          "en": "esse, essa, isso, aquele; que (conj.)",
-          "note": "Aponta algo menos próximo que this ou introduz oração subordinada."
+          "en": "quando",
+          "note": "Usa presente simples em cláusulas temporais: when it rains ('quando chove/chover')."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "That blue suitcase by the door is Arthur's.",
-          "trans": "Aquela mala azul perto da porta é do Arthur."
+          "text": "Paper never loses the list when it rains.",
+          "trans": "O papel nunca perde a lista quando chove."
         },
         {
-          "text": "That sounds like a great plan!",
-          "trans": "Isso parece um ótimo plano!"
-        }
-      ],
-      "related": []
-    },
-    "the": {
-      "lemma": "the",
-      "stress": "ðə",
-      "pos": "det",
-      "gloss": "o, a, os, as",
-      "meanings": [
-        {
-          "en": "o, a, os, as",
-          "note": "Invariável em gênero e número; soa /ðə/ antes de consoante e /ði/ antes de vogal."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle on the front door.",
-          "trans": "Levante a maçaneta da porta da frente."
-        },
-        {
-          "text": "All the keys hang behind the desk.",
-          "trans": "Todas as chaves ficam atrás do balcão."
-        }
-      ],
-      "related": []
-    },
-    "this": {
-      "lemma": "this",
-      "stress": "ðɪs",
-      "pos": "det",
-      "gloss": "este, esta, isto",
-      "meanings": [
-        {
-          "en": "este, esta, isto",
-          "note": "Vogal curta /ɪ/ e /s/ surdo no final (/ðɪs/); apresenta pessoas ou objetos próximos."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use this big paper book.",
-          "trans": "Aqui nós usamos este grande livro de papel."
-        },
-        {
-          "text": "Hello, this is Hannah at the front desk.",
-          "trans": "Alô, aqui é a Hannah da recepção."
-        }
-      ],
-      "related": []
-    },
-    "to": {
-      "lemma": "to",
-      "stress": "tu",
-      "pos": "prep",
-      "gloss": "para, a; marca de infinitivo (to know)",
-      "meanings": [
-        {
-          "en": "para, a; marca de infinitivo (to know)",
-          "note": "Indica destino (walk to the harbor) ou antecede o verbo no infinitivo."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Welcome to Linden Courtyard Inn!",
-          "trans": "Bem-vindo à Linden Courtyard Inn!"
-        },
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "Conte-me tudo o que preciso saber."
-        }
-      ],
-      "related": []
-    },
-    "train": {
-      "lemma": "train",
-      "stress": "tɹeɪn",
-      "pos": "noun",
-      "gloss": "trem",
-      "meanings": [
-        {
-          "en": "trem",
-          "note": "Take the train / catch a train são as combinações principais."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Both guests arrived on the nine o'clock train.",
-          "trans": "Os dois hóspedes chegaram no trem das nove."
-        },
-        {
-          "text": "The train station is ten minutes away by taxi.",
-          "trans": "A estação de trem fica a dez minutos de táxi."
-        }
-      ],
-      "related": []
-    },
-    "tuesday": {
-      "lemma": "tuesday",
-      "stress": "ˈtuzdeɪ",
-      "pos": "noun",
-      "gloss": "terça-feira",
-      "meanings": [
-        {
-          "en": "terça-feira",
-          "note": "Escreve-se sempre com maiúscula: Tuesday; não confundir com Thursday ('quinta-feira')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh honey arrives from the farm on Tuesday.",
-          "trans": "O mel fresco chega da fazenda na terça-feira."
-        },
-        {
-          "text": "Room two is booked through Tuesday.",
-          "trans": "O quarto dois está reservado até terça-feira."
-        }
-      ],
-      "related": []
-    },
-    "under": {
-      "lemma": "under",
-      "stress": "ˈʌndɚ",
-      "pos": "prep",
-      "gloss": "debaixo de; em nome de (under the name...)",
-      "meanings": [
-        {
-          "en": "debaixo de; em nome de (under the name...)",
-          "note": "Em hotéis, under Arthur significa 'em nome de Arthur'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The reservation is under Evelyn.",
-          "trans": "A reserva está em nome de Evelyn."
-        },
-        {
-          "text": "Dry shoes sit under the wooden bench.",
-          "trans": "Os sapatos secos ficam debaixo do banco de madeira."
-        }
-      ],
-      "related": []
-    },
-    "until": {
-      "lemma": "until",
-      "stress": "ʌnˈtɪl",
-      "pos": "prep",
-      "gloss": "até (no tempo)",
-      "meanings": [
-        {
-          "en": "até (no tempo)",
-          "note": "Marca limite no tempo: open until ten (para espaço usa-se to)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast is served until ten o'clock.",
-          "trans": "O café da manhã é servido até as dez em ponto."
-        },
-        {
-          "text": "Wait under the porch until the taxi arrives.",
-          "trans": "Aguarde na varanda até o táxi chegar."
-        }
-      ],
-      "related": []
-    },
-    "us": {
-      "lemma": "us",
-      "stress": "ʌs",
-      "pos": "pron",
-      "gloss": "nos, nós / a gente (após prep.)",
-      "meanings": [
-        {
-          "en": "nos, nós / a gente (após prep.)",
-          "note": "Pronome oblíquo de primeira pessoa do plural; base de Let us / Let's."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Join us for hot tea in the parlor!",
-          "trans": "Junte-se a nós para um chá quente na sala!"
-        },
-        {
-          "text": "Tessa brought fresh rolls for all of us.",
-          "trans": "Tessa trouxe pãezinhos frescos para todos nós."
-        }
-      ],
-      "related": []
-    },
-    "wait": {
-      "lemma": "wait",
-      "stress": "weɪt",
-      "pos": "verb",
-      "gloss": "esperar, aguardar",
-      "meanings": [
-        {
-          "en": "esperar, aguardar",
-          "note": "Pede for antes do que se espera: wait for the taxi (nunca *wait the taxi*)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "wait"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "waits"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "waited"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "waited"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "waiting"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait right here while I grab the key.",
-          "trans": "Espere bem aqui enquanto pego a chave."
-        },
-        {
-          "text": "Caleb waited for the yellow taxi at the curb.",
-          "trans": "Caleb esperou pelo táxi amarelo na calçada."
+          "text": "When does the afternoon ferry leave?",
+          "trans": "Quando parte a balsa da tarde?"
         }
       ],
       "related": []
@@ -8045,127 +6604,265 @@
       ],
       "related": []
     },
-    "we": {
-      "lemma": "we",
-      "stress": "wi",
-      "pos": "pron",
-      "gloss": "nós, a gente",
-      "meanings": [
-        {
-          "en": "nós, a gente",
-          "note": "Pronome sujeito de primeira pessoa do plural, sem distinção de gênero."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use a paper book and a pencil.",
-          "trans": "Aqui nós usamos um livro de papel e um lápis."
-        },
-        {
-          "text": "We solved the suitcase mix-up together!",
-          "trans": "Resolvemos a troca das malas juntos!"
-        }
-      ],
-      "related": []
-    },
-    "wednesday": {
-      "lemma": "wednesday",
-      "stress": "ˈwɛnzdeɪ",
-      "pos": "noun",
-      "gloss": "quarta-feira",
-      "meanings": [
-        {
-          "en": "quarta-feira",
-          "note": "Atenção: o primeiro d e o segundo e são mudos; pronuncia-se em duas sílabas (/ˈwɛnzdeɪ/)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You checked in here on Wednesday night?",
-          "trans": "Você se hospedou aqui na quarta-feira à noite?"
-        },
-        {
-          "text": "Market day is every Wednesday morning.",
-          "trans": "Dia de feira é toda quarta-feira de manhã."
-        }
-      ],
-      "related": []
-    },
-    "when": {
-      "lemma": "when",
-      "stress": "wɛn",
-      "pos": "conj",
-      "gloss": "quando",
-      "meanings": [
-        {
-          "en": "quando",
-          "note": "Usa presente simples em cláusulas temporais: when it rains ('quando chove/chover')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Paper never loses the list when it rains.",
-          "trans": "O papel nunca perde a lista quando chove."
-        },
-        {
-          "text": "When does the afternoon ferry leave?",
-          "trans": "Quando parte a balsa da tarde?"
-        }
-      ],
-      "related": []
-    },
-    "white": {
-      "lemma": "white",
-      "stress": "waɪt",
-      "pos": "adj",
-      "gloss": "branco",
-      "meanings": [
-        {
-          "en": "branco",
-          "note": "Para toalhas, louças ou casas costeiras de madeira branca."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh white linens hang in every closet.",
-          "trans": "Toalhas e lençóis brancos limpos ficam em cada armário."
-        },
-        {
-          "text": "Look for the white lighthouse on the point.",
-          "trans": "Procure o farol branco na ponta da costa."
-        }
-      ],
-      "related": []
-    },
-    "why": {
-      "lemma": "why",
-      "stress": "waɪ",
+    "here": {
+      "lemma": "here",
+      "stress": "hɪɹ",
       "pos": "adv",
-      "gloss": "por que",
+      "gloss": "aqui, cá",
       "meanings": [
         {
-          "en": "por que",
-          "note": "Em Why don't we...? faz um convite simpático ('Por que não...?')."
+          "en": "aqui, cá",
+          "note": "Em Here you are / Here is acompanha a entrega de algo."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Why are there two identical blue bags here?",
-          "trans": "Por que há duas malas azuis idênticas aqui?"
+          "text": "Here is your brass key for room four.",
+          "trans": "Aqui está sua chave de latão do quarto quatro."
         },
         {
-          "text": "That explains why the zipper felt different!",
-          "trans": "Isso explica por que o zíper parecia diferente!"
+          "text": "Sign your name right here, please.",
+          "trans": "Assine seu nome bem aqui, por favor."
+        }
+      ],
+      "related": []
+    },
+    "evening": {
+      "lemma": "evening",
+      "stress": "ˈivnɪŋ",
+      "pos": "noun",
+      "gloss": "noite (início da noite)",
+      "meanings": [
+        {
+          "en": "noite (início da noite)",
+          "note": "Good evening cumprimenta ao chegar; good night despede ao sair."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Good evening! Do you have a reservation?",
+          "trans": "Boa noite! Você tem reserva?"
+        },
+        {
+          "text": "We serve herbal tea every evening at eight.",
+          "trans": "Servimos chá de ervas toda noite às oito."
+        }
+      ],
+      "related": []
+    },
+    "old": {
+      "lemma": "old",
+      "stress": "oʊld",
+      "pos": "adj",
+      "gloss": "velho, antigo; de idade (years old)",
+      "meanings": [
+        {
+          "en": "velho, antigo; de idade (years old)",
+          "note": "Para idade acompanha years: forty years old."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Portland has a charming old port district.",
+          "trans": "Portland tem um charmoso distrito portuário antigo."
+        },
+        {
+          "text": "This brass bell is eighty years old.",
+          "trans": "Esta campainha de latão tem oitenta anos."
+        }
+      ],
+      "related": []
+    },
+    "brother": {
+      "lemma": "brother",
+      "stress": "ˈbɹʌðɚ",
+      "pos": "noun",
+      "gloss": "irmão",
+      "meanings": [
+        {
+          "en": "irmão",
+          "note": "Com big brother ou older brother significa 'irmão mais velho'; little brother é 'irmão caçula'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My older brother works in Portland.",
+          "trans": "Meu irmão mais velho trabalha em Portland."
+        },
+        {
+          "text": "The two brothers hugged at the gate.",
+          "trans": "Os dois irmãos se abraçaram no portão."
+        }
+      ],
+      "related": []
+    },
+    "down": {
+      "lemma": "down",
+      "stress": "daʊn",
+      "pos": "adv",
+      "gloss": "para baixo, embaixo",
+      "meanings": [
+        {
+          "en": "para baixo, embaixo",
+          "note": "Combina-se com muitos verbos: sit down, write down, calm down."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Please sit down and rest a moment.",
+          "trans": "Por favor sente-se e descanse um instante."
+        },
+        {
+          "text": "Write down the phone number before you forget.",
+          "trans": "Anote o número de telefone antes que esqueça."
+        }
+      ],
+      "related": []
+    },
+    "this": {
+      "lemma": "this",
+      "stress": "ðɪs",
+      "pos": "det",
+      "gloss": "este, esta, isto",
+      "meanings": [
+        {
+          "en": "este, esta, isto",
+          "note": "Vogal curta /ɪ/ e /s/ surdo no final (/ðɪs/); apresenta pessoas ou objetos próximos."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here we use this big paper book.",
+          "trans": "Aqui nós usamos este grande livro de papel."
+        },
+        {
+          "text": "Hello, this is Hannah at the front desk.",
+          "trans": "Alô, aqui é a Hannah da recepção."
+        }
+      ],
+      "related": []
+    },
+    "street": {
+      "lemma": "street",
+      "stress": "stɹit",
+      "pos": "noun",
+      "gloss": "rua",
+      "meanings": [
+        {
+          "en": "rua",
+          "note": "Para nomes de ruas nos EUA usa-se on: on Linden Street."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our guesthouse stands on quiet Linden Street.",
+          "trans": "Nossa pousada fica na tranquila Linden Street."
+        },
+        {
+          "text": "Cross the street to reach the bakery.",
+          "trans": "Atravesse a rua para chegar à padaria."
+        }
+      ],
+      "related": []
+    },
+    "your": {
+      "lemma": "your",
+      "stress": "jʊɹ",
+      "pos": "det",
+      "gloss": "seu, sua, seus, suas, teu, tua",
+      "meanings": [
+        {
+          "en": "seu, sua, seus, suas, teu, tua",
+          "note": "Determinante possessivo antes de substantivo; não confundir com you're (you are)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is your room key, Evelyn.",
+          "trans": "Aqui está a chave do seu quarto, Evelyn."
+        },
+        {
+          "text": "Enjoy your morning coffee!",
+          "trans": "Aproveite seu café da manhã!"
+        }
+      ],
+      "related": []
+    },
+    "live": {
+      "lemma": "live",
+      "stress": "lɪv",
+      "pos": "verb",
+      "gloss": "morar, viver",
+      "meanings": [
+        {
+          "en": "morar, viver",
+          "note": "Como verbo pronuncia-se com vogal curta /lɪv/ (o adjetivo 'ao vivo' é /laɪv/)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "live"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "lives"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "lived"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "lived"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "living"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Does your brother live in Portland?",
+          "trans": "Seu irmão mora em Portland?"
+        },
+        {
+          "text": "Our family lived two streets away.",
+          "trans": "Nossa família morava a duas ruas daqui."
         }
       ],
       "related": []
@@ -8195,52 +6892,1319 @@
       ],
       "related": []
     },
-    "you": {
-      "lemma": "you",
-      "stress": "ju",
-      "pos": "pron",
-      "gloss": "você, vocês; te, lhe, os/as",
+    "panic": {
+      "lemma": "panic",
+      "stress": "ˈpænɪk",
+      "pos": "verb",
+      "gloss": "entrar em pânico, apavorar-se",
       "meanings": [
         {
-          "en": "você, vocês; te, lhe, os/as",
-          "note": "Um único pronome para singular e plural, formal e informal; pede sempre are."
+          "en": "entrar em pânico, apavorar-se",
+          "note": "Ganha um k na escrita antes de -ed e -ing para manter o som /k/: panicked, panicking."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "panic"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "panics"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "panicked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "panicked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "panicking"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "You are ten minutes early today!",
-          "trans": "Você chegou dez minutos mais cedo hoje!"
+          "text": "Arthur panicked over decibel numbers!",
+          "trans": "Arthur entrou em pânico por causa de decibéis!"
         },
         {
-          "text": "Thank you! See you next time!",
-          "trans": "Obrigado! Até a próxima!"
+          "text": "Stay calm and do not panic.",
+          "trans": "Mantenha a calma e não entre em pânico."
         }
       ],
       "related": []
     },
-    "your": {
-      "lemma": "your",
-      "stress": "jʊɹ",
-      "pos": "det",
-      "gloss": "seu, sua, seus, suas, teu, tua",
+    "ring": {
+      "lemma": "ring",
+      "stress": "ɹɪŋ",
+      "pos": "verb",
+      "gloss": "tocar, soar; anel (subst.)",
       "meanings": [
         {
-          "en": "seu, sua, seus, suas, teu, tua",
-          "note": "Determinante possessivo antes de substantivo; não confundir com you're (you are)."
+          "en": "tocar, soar; anel (subst.)",
+          "note": "Verbo irregular com alternância vocálica: ring, rang, rung."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "ring"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "rings"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "rang"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "rung"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "ringing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ring the brass bell on the front desk.",
+          "trans": "Toque a campainha de latão na recepção."
+        },
+        {
+          "text": "The lobby phone rang twice.",
+          "trans": "O telefone da recepção tocou duas vezes."
+        }
+      ],
+      "related": []
+    },
+    "bell": {
+      "lemma": "bell",
+      "stress": "bɛl",
+      "pos": "noun",
+      "gloss": "campainha, sino",
+      "meanings": [
+        {
+          "en": "campainha, sino",
+          "note": "Serve tanto para sineta de balcão quanto para campainha."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Here is your room key, Evelyn.",
-          "trans": "Aqui está a chave do seu quarto, Evelyn."
+          "text": "Ring the bell at the front desk.",
+          "trans": "Toque a campainha da recepção."
         },
         {
-          "text": "Enjoy your morning coffee!",
-          "trans": "Aproveite seu café da manhã!"
+          "text": "Did you hear the gate bell?",
+          "trans": "Você ouviu o sino do portão?"
+        }
+      ],
+      "related": []
+    },
+    "slip": {
+      "lemma": "slip",
+      "stress": "slɪp",
+      "pos": "verb",
+      "gloss": "deslizar discretamente, enfiar; escorregar",
+      "meanings": [
+        {
+          "en": "deslizar discretamente, enfiar; escorregar",
+          "note": "Dobra o p no passado e na forma em -ing: slipped, slipping; slip a note é 'deixar um bilhete discretamente'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "slip"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "slips"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "slipped"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "slipped"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "slipping"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He slipped the note onto the handle.",
+          "trans": "Ele prendeu discretamente o bilhete na maçaneta."
+        },
+        {
+          "text": "Careful not to slip on the wet stone.",
+          "trans": "Cuidado para não escorregar na pedra molhada."
+        }
+      ],
+      "related": []
+    },
+    "friday": {
+      "lemma": "friday",
+      "stress": "ˈfɹaɪdeɪ",
+      "pos": "noun",
+      "gloss": "sexta-feira",
+      "meanings": [
+        {
+          "en": "sexta-feira",
+          "note": "Dias da semana usam sempre letra maiúscula e preposição on."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our weekend guests arrive on Friday.",
+          "trans": "Nossos hóspedes de fim de semana chegam na sexta-feira."
+        },
+        {
+          "text": "See you on Friday morning!",
+          "trans": "Até sexta-feira de manhã!"
+        }
+      ],
+      "related": []
+    },
+    "note": {
+      "lemma": "note",
+      "stress": "noʊt",
+      "pos": "noun",
+      "gloss": "bilhete, anotação; nota",
+      "meanings": [
+        {
+          "en": "bilhete, anotação; nota",
+          "note": "Take a note e leave a note são expressões diárias na recepção."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Evelyn left a kind note on the desk.",
+          "trans": "Evelyn deixou um bilhete gentil no balcão."
+        },
+        {
+          "text": "Let me write a quick note in the ledger.",
+          "trans": "Deixe-me escrever uma anotação rápida no livro."
+        }
+      ],
+      "related": []
+    },
+    "onto": {
+      "lemma": "onto",
+      "stress": "ˈɔntu",
+      "pos": "prep",
+      "gloss": "para cima de, em (com movimento)",
+      "meanings": [
+        {
+          "en": "para cima de, em (com movimento)",
+          "note": "Indica movimento em direção a uma superfície onde o objeto fica apoiado."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He slipped the note onto the door handle.",
+          "trans": "Ele encaixou o bilhete na maçaneta da porta."
+        },
+        {
+          "text": "Step carefully onto the stone curb.",
+          "trans": "Suba com cuidado no meio-fio de pedra."
+        }
+      ],
+      "related": []
+    },
+    "handle": {
+      "lemma": "handle",
+      "stress": "ˈhændəl",
+      "pos": "noun",
+      "gloss": "maçaneta, alça, cabo",
+      "meanings": [
+        {
+          "en": "maçaneta, alça, cabo",
+          "note": "Serve para portas (door handle), xícaras e malas."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the brass handle before you push.",
+          "trans": "Levante a maçaneta de latão antes de empurrar."
+        },
+        {
+          "text": "A blue ribbon was tied to the suitcase handle.",
+          "trans": "Havia uma fita azul amarrada na alça da mala."
+        }
+      ],
+      "related": []
+    },
+    "wednesday": {
+      "lemma": "wednesday",
+      "stress": "ˈwɛnzdeɪ",
+      "pos": "noun",
+      "gloss": "quarta-feira",
+      "meanings": [
+        {
+          "en": "quarta-feira",
+          "note": "Atenção: o primeiro d e o segundo e são mudos; pronuncia-se em duas sílabas (/ˈwɛnzdeɪ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You checked in here on Wednesday night?",
+          "trans": "Você se hospedou aqui na quarta-feira à noite?"
+        },
+        {
+          "text": "Market day is every Wednesday morning.",
+          "trans": "Dia de feira é toda quarta-feira de manhã."
+        }
+      ],
+      "related": []
+    },
+    "check": {
+      "lemma": "check",
+      "stress": "tʃɛk",
+      "pos": "verb",
+      "gloss": "conferir, verificar",
+      "meanings": [
+        {
+          "en": "conferir, verificar",
+          "note": "Check into significa registrar-se e entrar num hotel."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "check"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "checks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "checked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "checked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "checking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Check the room number on your key.",
+          "trans": "Confira o número do quarto na sua chave."
+        },
+        {
+          "text": "Two travelers checked into room six.",
+          "trans": "Dois viajantes deram entrada no quarto seis."
+        }
+      ],
+      "related": []
+    },
+    "under": {
+      "lemma": "under",
+      "stress": "ˈʌndɚ",
+      "pos": "prep",
+      "gloss": "debaixo de; em nome de (under the name...)",
+      "meanings": [
+        {
+          "en": "debaixo de; em nome de (under the name...)",
+          "note": "Em hotéis, under Arthur significa 'em nome de Arthur'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The reservation is under Evelyn.",
+          "trans": "A reserva está em nome de Evelyn."
+        },
+        {
+          "text": "Dry shoes sit under the wooden bench.",
+          "trans": "Os sapatos secos ficam debaixo do banco de madeira."
+        }
+      ],
+      "related": []
+    },
+    "real": {
+      "lemma": "real",
+      "stress": "ɹil",
+      "pos": "adj",
+      "gloss": "verdadeiro, real",
+      "meanings": [
+        {
+          "en": "verdadeiro, real",
+          "note": "Em your real name contrasta com um nome fictício ou bilhete anônimo."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You checked in under your real name?",
+          "trans": "Você fez o registro com seu nome verdadeiro?"
+        },
+        {
+          "text": "Tessa uses real butter and fresh lemons.",
+          "trans": "Tessa usa manteiga de verdade e limões frescos."
+        }
+      ],
+      "related": []
+    },
+    "name": {
+      "lemma": "name",
+      "stress": "neɪm",
+      "pos": "noun",
+      "gloss": "nome",
+      "meanings": [
+        {
+          "en": "nome",
+          "note": "Para perguntar o nome usa-se What is your name?"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My name is Hannah, and this is Graham.",
+          "trans": "Meu nome é Hannah, e este é o Graham."
+        },
+        {
+          "text": "Both guests wrote their names in the ledger.",
+          "trans": "Os dois hóspedes escreveram seus nomes no livro de registro."
+        }
+      ],
+      "related": []
+    },
+    "need": {
+      "lemma": "need",
+      "stress": "nid",
+      "pos": "verb",
+      "gloss": "precisar de",
+      "meanings": [
+        {
+          "en": "precisar de",
+          "note": "Seguido de substantivo (need a key) ou infinitivo com to (need to check)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "need"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "needs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "needed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "needed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "needing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "Conte-me tudo o que preciso saber."
+        },
+        {
+          "text": "Do you need an extra towel for your room?",
+          "trans": "Você precisa de uma toalha extra para o quarto?"
+        }
+      ],
+      "related": []
+    },
+    "quiet": {
+      "lemma": "quiet",
+      "stress": "ˈkwaɪət",
+      "pos": "adj",
+      "gloss": "tranquilo, silencioso, calmo",
+      "meanings": [
+        {
+          "en": "tranquilo, silencioso, calmo",
+          "note": "Duas sílabas (/ˈkwaɪət/), não confundir com quite (/kwaɪt/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room eight is on the quiet garden side.",
+          "trans": "O quarto oito fica do lado silencioso do jardim."
+        },
+        {
+          "text": "Mornings are peaceful and quiet here.",
+          "trans": "As manhãs são calmas e silenciosas aqui."
+        }
+      ],
+      "related": []
+    },
+    "place": {
+      "lemma": "place",
+      "stress": "pleɪs",
+      "pos": "noun",
+      "gloss": "lugar",
+      "meanings": [
+        {
+          "en": "lugar",
+          "note": "Muito frequente em this place ('este lugar') e in place ('no lugar')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This courtyard is a peaceful place to read.",
+          "trans": "Este pátio é um lugar tranquilo para ler."
+        },
+        {
+          "text": "Every brass key has its own place.",
+          "trans": "Cada chave de latão tem seu próprio lugar."
+        }
+      ],
+      "related": []
+    },
+    "nearby": {
+      "lemma": "nearby",
+      "stress": "ˌnɪɹˈbaɪ",
+      "pos": "adv",
+      "gloss": "por perto, aqui perto",
+      "meanings": [
+        {
+          "en": "por perto, aqui perto",
+          "note": "Diferente de near, nearby NÃO exige complemento depois (a dinner nearby)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We booked a quiet table nearby.",
+          "trans": "Reservamos uma mesa tranquila aqui perto."
+        },
+        {
+          "text": "Is there a pharmacy nearby?",
+          "trans": "Tem alguma farmácia aqui perto?"
+        }
+      ],
+      "related": []
+    },
+    "before": {
+      "lemma": "before",
+      "stress": "bɪˈfɔɹ",
+      "pos": "prep",
+      "gloss": "antes de",
+      "meanings": [
+        {
+          "en": "antes de",
+          "note": "Anterioridade no tempo ou posição à frente."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wash these apples before breakfast.",
+          "trans": "Lave estas maçãs antes do café da manhã."
+        },
+        {
+          "text": "Check the lock before you sleep.",
+          "trans": "Confira a fechadura antes de dormir."
+        }
+      ],
+      "related": []
+    },
+    "honestly": {
+      "lemma": "honestly",
+      "stress": "ˈɑnɪstli",
+      "pos": "adv",
+      "gloss": "sinceramente, para falar a verdade",
+      "meanings": [
+        {
+          "en": "sinceramente, para falar a verdade",
+          "note": "O h inicial é totalmente mudo (/ˈɑnɪstli/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Honestly, paper books never fail in a storm.",
+          "trans": "Sinceramente, livros de papel nunca falham na tempestade."
+        },
+        {
+          "text": "Tell me honestly if the tea is too strong.",
+          "trans": "Diga-me sinceramente se o chá está forte demais."
+        }
+      ],
+      "related": []
+    },
+    "feel": {
+      "lemma": "feel",
+      "stress": "fil",
+      "pos": "verb",
+      "gloss": "sentir, sentir-se; parecer ao toque",
+      "meanings": [
+        {
+          "en": "sentir, sentir-se; parecer ao toque",
+          "note": "Seguido de adjetivo descreve estado ou textura: feels heavy."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "feel"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "feels"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "felt"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "felt"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "feeling"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This suitcase feels much lighter than mine.",
+          "trans": "Esta mala parece bem mais leve do que a minha."
+        },
+        {
+          "text": "I feel right at home here.",
+          "trans": "Sinto-me em casa aqui."
+        }
+      ],
+      "related": []
+    },
+    "too": {
+      "lemma": "too",
+      "stress": "tu",
+      "pos": "adv",
+      "gloss": "também (no fim); demais (+ adj./adv.)",
+      "meanings": [
+        {
+          "en": "também (no fim); demais (+ adj./adv.)",
+          "note": "No fim significa 'também'; antes de adjetivo significa 'demais' (too hot)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Nice to meet you, too!",
+          "trans": "Muito prazer igualmente!"
+        },
+        {
+          "text": "Careful, the tea is still too hot to drink.",
+          "trans": "Cuidado, o chá ainda está quente demais para beber."
+        }
+      ],
+      "related": []
+    },
+    "shy": {
+      "lemma": "shy",
+      "pos": "adj",
+      "gloss": "tímido",
+      "stress": "ʃaɪ",
+      "meanings": [
+        {
+          "en": "tímido",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I was too shy to ask for my bag back.",
+          "trans": "Eu tinha vergonha demais para pedir a bolsa."
+        },
+        {
+          "text": "She is a bit shy around new guests.",
+          "trans": "Ele é um pouco tímido no começo."
+        }
+      ],
+      "related": []
+    },
+    "to": {
+      "lemma": "to",
+      "stress": "tu",
+      "pos": "prep",
+      "gloss": "para, a; marca de infinitivo (to know)",
+      "meanings": [
+        {
+          "en": "para, a; marca de infinitivo (to know)",
+          "note": "Indica destino (walk to the harbor) ou antecede o verbo no infinitivo."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to Linden Courtyard Inn!",
+          "trans": "Bem-vindo à Linden Courtyard Inn!"
+        },
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "Conte-me tudo o que preciso saber."
+        }
+      ],
+      "related": []
+    },
+    "ask": {
+      "lemma": "ask",
+      "stress": "æsk",
+      "pos": "verb",
+      "gloss": "perguntar; pedir",
+      "meanings": [
+        {
+          "en": "perguntar; pedir",
+          "note": "Seguido de 'for', significa pedir algo (ask for help)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "ask"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "asks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "asked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "asked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "asking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ask the clerk for a receipt.",
+          "trans": "Peça um recibo ao atendente."
+        },
+        {
+          "text": "May I ask a quick question?",
+          "trans": "Posso fazer uma pergunta rápida?"
+        }
+      ],
+      "related": []
+    },
+    "for": {
+      "lemma": "for",
+      "stress": "fɔɹ",
+      "pos": "prep",
+      "gloss": "para; por, durante",
+      "meanings": [
+        {
+          "en": "para; por, durante",
+          "note": "Indica destinatário (for you), finalidade (for breakfast) ou duração."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This package arrived for room two.",
+          "trans": "Este pacote chegou para o quarto dois."
+        },
+        {
+          "text": "Wait here for just a moment.",
+          "trans": "Espere aqui só um instante."
+        }
+      ],
+      "related": []
+    },
+    "even": {
+      "lemma": "even",
+      "stress": "ˈivən",
+      "pos": "adv",
+      "gloss": "até, mesmo, sequer",
+      "meanings": [
+        {
+          "en": "até, mesmo, sequer",
+          "note": "Destaca um detalhe surpreendente na frase."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Even the garden cat likes warm milk.",
+          "trans": "Até o gato do jardim gosta de leite morno."
+        },
+        {
+          "text": "He did not even look at his watch.",
+          "trans": "Ele nem sequer olhou para o relógio."
+        }
+      ],
+      "related": []
+    },
+    "after": {
+      "lemma": "after",
+      "stress": "ˈæftɚ",
+      "pos": "prep",
+      "gloss": "depois de, após",
+      "meanings": [
+        {
+          "en": "depois de, após",
+          "note": "Posterioridade no tempo ou espaço."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let us walk after lunch.",
+          "trans": "Vamos caminhar depois do almoço."
+        },
+        {
+          "text": "Wednesday comes after Tuesday.",
+          "trans": "Quarta-feira vem depois de terça-feira."
+        }
+      ],
+      "related": []
+    },
+    "call": {
+      "lemma": "call",
+      "stress": "kɔl",
+      "pos": "verb",
+      "gloss": "ligar, chamar",
+      "meanings": [
+        {
+          "en": "ligar, chamar",
+          "note": "Serve tanto para telefonar quanto para chamar em voz alta."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "call"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "calls"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "called"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "called"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "calling"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Call the front desk if you need help.",
+          "trans": "Ligue para a recepção se precisar de ajuda."
+        },
+        {
+          "text": "Friends call him by his nickname.",
+          "trans": "Os amigos o chamam pelo apelido."
+        }
+      ],
+      "related": []
+    },
+    "us": {
+      "lemma": "us",
+      "stress": "ʌs",
+      "pos": "pron",
+      "gloss": "nos, nós / a gente (após prep.)",
+      "meanings": [
+        {
+          "en": "nos, nós / a gente (após prep.)",
+          "note": "Pronome oblíquo de primeira pessoa do plural; base de Let us / Let's."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Join us for hot tea in the parlor!",
+          "trans": "Junte-se a nós para um chá quente na sala!"
+        },
+        {
+          "text": "Tessa brought fresh rolls for all of us.",
+          "trans": "Tessa trouxe pãezinhos frescos para todos nós."
+        }
+      ],
+      "related": []
+    },
+    "tuesday": {
+      "lemma": "tuesday",
+      "stress": "ˈtuzdeɪ",
+      "pos": "noun",
+      "gloss": "terça-feira",
+      "meanings": [
+        {
+          "en": "terça-feira",
+          "note": "Escreve-se sempre com maiúscula: Tuesday; não confundir com Thursday ('quinta-feira')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fresh honey arrives from the farm on Tuesday.",
+          "trans": "O mel fresco chega da fazenda na terça-feira."
+        },
+        {
+          "text": "Room two is booked through Tuesday.",
+          "trans": "O quarto dois está reservado até terça-feira."
+        }
+      ],
+      "related": []
+    },
+    "about": {
+      "lemma": "about",
+      "stress": "əˈbaʊt",
+      "pos": "prep",
+      "gloss": "sobre, a respeito de",
+      "meanings": [
+        {
+          "en": "sobre, a respeito de",
+          "note": "Indica assunto ou aproximação."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell me about your trip.",
+          "trans": "Conte-me sobre sua viagem."
+        },
+        {
+          "text": "We talked about the menu.",
+          "trans": "Conversamos sobre o cardápio."
+        }
+      ],
+      "related": []
+    },
+    "white": {
+      "lemma": "white",
+      "stress": "waɪt",
+      "pos": "adj",
+      "gloss": "branco",
+      "meanings": [
+        {
+          "en": "branco",
+          "note": "Para toalhas, louças ou casas costeiras de madeira branca."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fresh white linens hang in every closet.",
+          "trans": "Toalhas e lençóis brancos limpos ficam em cada armário."
+        },
+        {
+          "text": "Look for the white lighthouse on the point.",
+          "trans": "Procure o farol branco na ponta da costa."
+        }
+      ],
+      "related": []
+    },
+    "package": {
+      "lemma": "package",
+      "stress": "ˈpækɪdʒ",
+      "pos": "noun",
+      "gloss": "pacote, encomenda",
+      "meanings": [
+        {
+          "en": "pacote, encomenda",
+          "note": "Termo padrão nos EUA para encomendas entregues pelo correio."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A small brown package arrived for Evelyn.",
+          "trans": "Chegou um pequeno pacote marrom para a Evelyn."
+        },
+        {
+          "text": "Sign here to receive the package, please.",
+          "trans": "Assine aqui para receber a encomenda, por favor."
+        }
+      ],
+      "related": []
+    },
+    "everything": {
+      "lemma": "everything",
+      "stress": "ˈɛvɹiˌθɪŋ",
+      "pos": "pron",
+      "gloss": "tudo",
+      "meanings": [
+        {
+          "en": "tudo",
+          "note": "Concorda sempre com verbo na terceira pessoa do singular."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "Conte-me tudo o que preciso saber."
+        },
+        {
+          "text": "Everything in the kitchen is clean and ready.",
+          "trans": "Tudo na cozinha está limpo e pronto."
+        }
+      ],
+      "related": []
+    },
+    "that": {
+      "lemma": "that",
+      "stress": "ðæt",
+      "pos": "pron",
+      "gloss": "esse, essa, isso, aquele; que (conj.)",
+      "meanings": [
+        {
+          "en": "esse, essa, isso, aquele; que (conj.)",
+          "note": "Aponta algo menos próximo que this ou introduz oração subordinada."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "That blue suitcase by the door is Arthur's.",
+          "trans": "Aquela mala azul perto da porta é do Arthur."
+        },
+        {
+          "text": "That sounds like a great plan!",
+          "trans": "Isso parece um ótimo plano!"
+        }
+      ],
+      "related": []
+    },
+    "paper": {
+      "lemma": "paper",
+      "stress": "ˈpeɪpɚ",
+      "pos": "noun",
+      "gloss": "papel; de papel (modificador)",
+      "meanings": [
+        {
+          "en": "papel; de papel (modificador)",
+          "note": "Incontável como material (some paper); antes de outro nome indica de que é feito (paper book)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here we use a big paper book and a pencil.",
+          "trans": "Aqui usamos um grande livro de papel e um lápis."
+        },
+        {
+          "text": "Write your address on this slip of paper.",
+          "trans": "Escreva seu endereço neste pedaço de papel."
+        }
+      ],
+      "related": []
+    },
+    "belong": {
+      "lemma": "belong",
+      "stress": "bɪˈlɔŋ",
+      "pos": "verb",
+      "gloss": "pertencer",
+      "meanings": [
+        {
+          "en": "pertencer",
+          "note": "Pede sempre a preposição to antes do dono (belong to me)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "belong"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "belongs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "belonged"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "belonged"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "belonging"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Does this notebook belong to you?",
+          "trans": "Este caderno pertence a você?"
+        },
+        {
+          "text": "Those keys belong to room four.",
+          "trans": "Essas chaves pertencem ao quarto quatro."
+        }
+      ],
+      "related": []
+    },
+    "not": {
+      "lemma": "not",
+      "stress": "nɑt",
+      "pos": "adv",
+      "gloss": "não (negação verbal)",
+      "meanings": [
+        {
+          "en": "não (negação verbal)",
+          "note": "Posiciona-se após be, modais ou o auxiliar do/does/did."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do not worry; your bag is safe here.",
+          "trans": "Não se preocupe; sua mala está segura aqui."
+        },
+        {
+          "text": "The tea is warm, not too hot.",
+          "trans": "O chá está morno, não quente demais."
+        }
+      ],
+      "related": []
+    },
+    "soon": {
+      "lemma": "soon",
+      "stress": "sun",
+      "pos": "adv",
+      "gloss": "logo, em breve",
+      "meanings": [
+        {
+          "en": "logo, em breve",
+          "note": "See you soon! despede-se prometendo novo encontro em breve."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Coffee will be ready very soon.",
+          "trans": "O café ficará pronto logo, logo."
+        },
+        {
+          "text": "See you soon in the courtyard!",
+          "trans": "Até breve no pátio!"
         }
       ],
       "related": []

@@ -15,7 +15,7 @@ OUTRO = '그레이엄이 묵직한 파란 가방을 이 층 사 호실까지 들
 CLOSING = ('evelyn', 'Take care!')
 STORY = [
     ('hannah', "Welcome! Good morning, ma'am.", '환영합니다! 좋은 아침이에요, 선생님.'),
-    ('evelyn', 'Good morning, my dear. I have a room for Evelyn.', '좋은 아침이에요, 아가씨. 에블린 이름으로 예약한 방이 있어요.'),
+    ('evelyn', 'Good morning, my dear. I have a booking for Evelyn.', '좋은 아침이에요, 아가씨. 에블린 이름으로 예약이 있어요.'),
     ('hannah', 'Yes, room four on the second floor! How was your train trip?', '네, 이 층 사 호실이세요! 기차 여행은 어떠셨나요?'),
     ('evelyn', 'Quiet and pleasant, thank you, though this suitcase feels very heavy today.', '조용하고 쾌적했어요, 고마워요. 그런데 오늘따라 이 여행 가방이 아주 무겁게 느껴지네요.'),
     ('graham', 'Allow me. Goodness, did you pack stones in here?', '제가 들어 드릴게요. 세상에, 여기 안에 돌멩이라도 챙겨 넣으셨나요?'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'환영합니다! 좋은 아침이에요, 선생님.' 성함을 아직 모르는 여성 손님께 예의를 갖추어 인사할 때는 문장 끝에", (None, "ma'am"), '바로 이 존칭을 덧붙여 정중함을 나타내요.']),
-    (1, None, ["'좋은 아침이에요, 아가씨. 에블린 이름으로 예약한 방이 있어요.' 프런트에서 예약 사실을 차분히 알릴 때는", (None, 'I have a room for'), '바로 이 구절 뒤에 예약자 이름을 바로 이어 말해요.']),
+    (1, None, ["'좋은 아침이에요, 아가씨. 에블린 이름으로 예약이 있어요.' 프런트에서 예약 사실을 차분히 알릴 때는", (None, 'I have a booking for'), '바로 이 구절 뒤에 예약자 이름을 바로 이어 말해요.']),
     (2, None, ["'네, 이 층 사 호실이세요! 기차 여행은 어떠셨나요?' 손님의 이동 길이 편안했는지 안부를 여쭐 때는 과거형을 쓴", (None, 'How was your train trip'), '바로 이 다정한 질문으로 대화를 이어 가요.']),
     (3, None, ["'조용하고 쾌적했어요, 고마워요. 그런데 오늘따라 이 여행 가방이 아주 무겁게 느껴지네요.' 손에 전해지는 묵직한 무게감을 묘사할 때는 감각 동사를 써서", (None, 'feels very heavy'), '이렇게 자연스럽게 표현해요.']),
     (4, None, ["'제가 들어 드릴게요. 세상에, 여기 안에 돌멩이라도 챙겨 넣으셨나요?' 정중하게 짐을 대신 들어 드릴 때는", (None, 'Allow me'), '이어서 깜짝 놀란 마음을 예의 바르게 나타낼 때는', (None, 'Goodness'), '바로 이 감탄사를 가볍게 덧붙여요.']),

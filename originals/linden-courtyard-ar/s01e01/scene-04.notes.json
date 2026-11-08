@@ -42,7 +42,7 @@
     },
     {
       "seg": 2,
-      "trans": "صباح الخير يا عزيزتي. لدي حجز غرفة باسم إيفلين.",
+      "trans": "صباح الخير يا عزيزتي. لدي حجز باسم إيفلين.",
       "words": [
         {
           "t": "Good",
@@ -101,11 +101,11 @@
           "gram": "محدِّد"
         },
         {
-          "t": "room",
-          "lemma": "room",
+          "t": "booking",
+          "lemma": "booking",
           "pos": "noun",
-          "stress": "ɹum",
-          "gloss": "غرفة، حجرة؛ متّسع",
+          "stress": "ˈbʊkɪŋ",
+          "gloss": "حجز",
           "gram": "اسم مفرد"
         },
         {
@@ -118,11 +118,11 @@
         },
         {
           "t": "Evelyn.",
-          "lemma": "Evelyn",
+          "lemma": "evelyn",
           "pos": "name",
-          "stress": null,
-          "gloss": "إيفلين",
-          "gram": "اسم علم"
+          "stress": "ˈɛvəlɪn",
+          "gloss": "Evelyn",
+          "gram": "name"
         }
       ]
     },
@@ -1048,7 +1048,7 @@
     },
     {
       "seg": 18,
-      "trans": "صباح الخير يا عزيزتي. لدي حجز غرفة باسم إيفلين.",
+      "trans": "صباح الخير يا عزيزتي. لدي حجز باسم إيفلين.",
       "words": [
         {
           "t": "Good",
@@ -1107,11 +1107,11 @@
           "gram": "محدِّد"
         },
         {
-          "t": "room",
-          "lemma": "room",
+          "t": "booking",
+          "lemma": "booking",
           "pos": "noun",
-          "stress": "ɹum",
-          "gloss": "غرفة، حجرة؛ متّسع",
+          "stress": "ˈbʊkɪŋ",
+          "gloss": "حجز",
           "gram": "اسم مفرد"
         },
         {
@@ -1124,17 +1124,17 @@
         },
         {
           "t": "Evelyn.",
-          "lemma": "Evelyn",
+          "lemma": "evelyn",
           "pos": "name",
-          "stress": null,
-          "gloss": "إيفلين",
-          "gram": "اسم علم"
+          "stress": "ˈɛvəlɪn",
+          "gloss": "Evelyn",
+          "gram": "name"
         }
       ]
     },
     {
       "seg": 20,
-      "trans": "لدي غرفة محجوزة باسم إيفلين",
+      "trans": "أنا يملك، لديه؛ يتناول (طعاماً أو شراباً) أداة تنكير (واحد / ما) حجز لـ، من أجل؛ لمدّة Evelyn",
       "words": [
         {
           "t": "I",
@@ -1161,11 +1161,11 @@
           "gram": "محدِّد"
         },
         {
-          "t": "room",
-          "lemma": "room",
+          "t": "booking",
+          "lemma": "booking",
           "pos": "noun",
-          "stress": "ɹum",
-          "gloss": "غرفة، حجرة؛ متّسع",
+          "stress": "ˈbʊkɪŋ",
+          "gloss": "حجز",
           "gram": "اسم مفرد"
         },
         {
@@ -1178,11 +1178,11 @@
         },
         {
           "t": "Evelyn",
-          "lemma": "Evelyn",
+          "lemma": "evelyn",
           "pos": "name",
-          "stress": null,
-          "gloss": "إيفلين",
-          "gram": "اسم علم"
+          "stress": "ˈɛvəlɪn",
+          "gloss": "Evelyn",
+          "gram": "name"
         }
       ]
     },
@@ -2486,7 +2486,7 @@
     },
     {
       "seg": 67,
-      "trans": "صباح الخير يا عزيزتي. لدي حجز غرفة باسم إيفلين.",
+      "trans": "صباح الخير يا عزيزتي. لدي حجز باسم إيفلين.",
       "words": [
         {
           "t": "Good",
@@ -2545,11 +2545,11 @@
           "gram": "محدِّد"
         },
         {
-          "t": "room",
-          "lemma": "room",
+          "t": "booking",
+          "lemma": "booking",
           "pos": "noun",
-          "stress": "ɹum",
-          "gloss": "غرفة، حجرة؛ متّسع",
+          "stress": "ˈbʊkɪŋ",
+          "gloss": "حجز",
           "gram": "اسم مفرد"
         },
         {
@@ -2562,11 +2562,11 @@
         },
         {
           "t": "Evelyn.",
-          "lemma": "Evelyn",
+          "lemma": "evelyn",
           "pos": "name",
-          "stress": null,
-          "gloss": "إيفلين",
-          "gram": "اسم علم"
+          "stress": "ˈɛvəlɪn",
+          "gloss": "Evelyn",
+          "gram": "name"
         }
       ]
     },
@@ -3462,805 +3462,27 @@
     }
   ],
   "lexicon": {
-    "a": {
-      "lemma": "a",
-      "stress": "ə",
-      "pos": "det",
-      "gloss": "أداة تنكير (واحد / ما)",
+    "welcome": {
+      "lemma": "welcome",
+      "stress": "ˈwɛlkəm",
+      "pos": "interj",
+      "gloss": "أهلاً وسهلاً؛ على الرحب والسعة",
       "meanings": [
         {
-          "en": "أداة تنكير (واحد / ما)",
-          "note": "تُوضع قبل الاسم المفرد المعدود المبدوء بصوت ساكن، خلافاً للعربية التي تكتفي بالتنكير دون أداة مستقلة."
+          "en": "أهلاً وسهلاً؛ على الرحب والسعة",
+          "note": "تُستعمل Welcome to... للترحيب بالقادم، وYou're welcome للردّ على الشكر."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "I have a blue pen.",
-          "trans": "لديّ قلم أزرق."
+          "text": "Welcome to Linden Courtyard Inn!",
+          "trans": "أهلاً بكم في نزل ساحة الزيزفون!"
         },
         {
-          "text": "She wants a cup of tea.",
-          "trans": "تريد كوباً من الشاي."
-        }
-      ],
-      "related": []
-    },
-    "above": {
-      "lemma": "above",
-      "stress": "əˈbʌv",
-      "pos": "prep",
-      "gloss": "فوق، أعلى من",
-      "meanings": [
-        {
-          "en": "فوق، أعلى من",
-          "note": "يفيد العلوّ دون ملامسة مباشرة للسطح."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "A lamp hangs above the table.",
-          "trans": "يتدلّى مصباح فوق الطاولة."
-        },
-        {
-          "text": "Our room is above the garden.",
-          "trans": "غرفتنا تقع فوق الحديقة."
-        }
-      ],
-      "related": []
-    },
-    "allow": {
-      "lemma": "allow",
-      "stress": "əˈlaʊ",
-      "pos": "verb",
-      "gloss": "يسمح، يأذن",
-      "meanings": [
-        {
-          "en": "يسمح، يأذن",
-          "note": "شائع جدّاً في عبارة المجاملة اللطيفة Allow me بمعنى «اسمح لي»."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "allow"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "allows"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "allowed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "allowed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "allowing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Allow me to hold the door.",
-          "trans": "اسمح لي أن أمسك الباب."
-        },
-        {
-          "text": "They do not allow pets inside.",
-          "trans": "لا يسمحون بدخول الحيوانات الأليفة."
-        }
-      ],
-      "related": []
-    },
-    "and": {
-      "lemma": "and",
-      "stress": "ænd",
-      "pos": "conj",
-      "gloss": "وَ (حرف عطف)",
-      "meanings": [
-        {
-          "en": "وَ (حرف عطف)",
-          "note": "أداة العطف الأساسية لربط الكلمات والجمل، وتُكتَب منفصلة لا متصلة كما في العربية."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bring bread and butter, please.",
-          "trans": "أحضر خبزاً وزبدة من فضلك."
-        },
-        {
-          "text": "Wash your hands and sit down.",
-          "trans": "اغسل يديك واجلس."
-        }
-      ],
-      "related": []
-    },
-    "archway": {
-      "lemma": "archway",
-      "stress": "ˈɑɹtʃˌweɪ",
-      "pos": "noun",
-      "gloss": "ممرّ مقنطر، قوس",
-      "meanings": [
-        {
-          "en": "ممرّ مقنطر، قوس",
-          "note": "مدخل أو ممرّ يعلوه قوس معماري."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Walk through the stone archway.",
-          "trans": "اعبر من خلال الممرّ الحجري المقنطر."
-        },
-        {
-          "text": "The courtyard lies beyond that archway.",
-          "trans": "تقع الساحة خلف ذلك القوس."
-        }
-      ],
-      "related": []
-    },
-    "bag": {
-      "lemma": "bag",
-      "stress": "bæɡ",
-      "pos": "noun",
-      "gloss": "حقيبة، كيس",
-      "meanings": [
-        {
-          "en": "حقيبة، كيس",
-          "note": "كلمة شاملة لأكياس التسوّق وحقائب اليد وحقائب السفر."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Can I help you with your bag?",
-          "trans": "هل أساعدك في حمل حقيبتك؟"
-        },
-        {
-          "text": "Bring a cloth bag to the market.",
-          "trans": "أحضر كيساً قماشياً إلى السوق."
-        }
-      ],
-      "related": []
-    },
-    "be": {
-      "lemma": "be",
-      "stress": "bi",
-      "pos": "verb",
-      "gloss": "يكون",
-      "meanings": [
-        {
-          "en": "يكون",
-          "note": "على عكس الجملة الاسمية العربية، لا تستغني الإنجليزية عن فعل الكينونة في المضارع (am, is, are)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "be"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "is"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "was, were"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "been"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "being"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "The keys are on the desk.",
-          "trans": "المفاتيح على المكتب."
-        },
-        {
-          "text": "She wants to be a teacher.",
-          "trans": "تريد أن تكون معلّمة."
-        }
-      ],
-      "related": []
-    },
-    "blue": {
-      "lemma": "blue",
-      "stress": "blu",
-      "pos": "adj",
-      "gloss": "أزرق",
-      "meanings": [
-        {
-          "en": "أزرق",
-          "note": "تسبق الصفةُ الموصوفَ في الإنجليزية ولا تتغير تذكيراً أو تأنيثاً أو جمعاً."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at that clear blue sky.",
-          "trans": "انظر إلى تلك السماء الزرقاء الصافية."
-        },
-        {
-          "text": "My suitcase has a blue handle.",
-          "trans": "لحقيبتي مقبض أزرق."
-        }
-      ],
-      "related": []
-    },
-    "both": {
-      "lemma": "both",
-      "stress": "boʊθ",
-      "pos": "det",
-      "gloss": "كلا، كلاهما",
-      "meanings": [
-        {
-          "en": "كلا، كلاهما",
-          "note": "يشير حصراً إلى شخصين اثنين أو شيئين اثنين."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Both windows face the garden.",
-          "trans": "كلتا النافذتين تطلّان على الحديقة."
-        },
-        {
-          "text": "Thank you both for your help.",
-          "trans": "شكراً لكما معاً على مساعدتكما."
-        }
-      ],
-      "related": []
-    },
-    "breakfast": {
-      "lemma": "breakfast",
-      "stress": "ˈbɹɛkfəst",
-      "pos": "noun",
-      "gloss": "فطور، وجبة الإفطار",
-      "meanings": [
-        {
-          "en": "فطور، وجبة الإفطار",
-          "note": "غالباً ما يُستعمل بلا أداة تعريف بعد حروف الجر: for breakfast."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast is ready at seven.",
-          "trans": "الفطور جاهز في الساعة السابعة."
-        },
-        {
-          "text": "We had eggs and toast for breakfast.",
-          "trans": "تناولنا البيض والخبز المحمّص على الفطور."
-        }
-      ],
-      "related": []
-    },
-    "care": {
-      "lemma": "care",
-      "stress": "kɛɹ",
-      "pos": "noun",
-      "gloss": "عناية، اهتمام",
-      "meanings": [
-        {
-          "en": "عناية، اهتمام",
-          "note": "شائع في التحية الوداعية Take care! (اعتنِ بنفسك) وفي take care of (يعتني بـ)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Take care on the wet stone steps.",
-          "trans": "انتبه لخطواتك على الدرجات الحجرية المبتلة."
-        },
-        {
-          "text": "Who takes care of the garden?",
-          "trans": "من يعتني بالحديقة؟"
-        }
-      ],
-      "related": []
-    },
-    "carry": {
-      "lemma": "carry",
-      "stress": "ˈkæɹi",
-      "pos": "verb",
-      "gloss": "يحمل، ينقل",
-      "meanings": [
-        {
-          "en": "يحمل، ينقل",
-          "note": "يعني حمل الشيء باليدين أو اصطحابه باستمرار."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "carry"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "carries"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "carried"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "carried"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "carrying"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Let me carry that heavy suitcase.",
-          "trans": "دعني أحمل عنك تلك الحقيبة الثقيلة."
-        },
-        {
-          "text": "She always carries a small notebook.",
-          "trans": "تحمل معها دفتراً صغيراً دائماً."
-        }
-      ],
-      "related": []
-    },
-    "courtyard": {
-      "lemma": "courtyard",
-      "stress": "ˈkɔɹtˌjɑɹd",
-      "pos": "noun",
-      "gloss": "ساحة داخلية، فناء",
-      "meanings": [
-        {
-          "en": "ساحة داخلية، فناء",
-          "note": "فناء مفتوح للسماء تحيط به جدران المبنى."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lanterns glow in the stone courtyard at dusk.",
-          "trans": "تضيء الفوانيس في الساحة الحجرية عند الغسق."
-        },
-        {
-          "text": "My window faces the quiet courtyard.",
-          "trans": "تطلّ نافذتي على الساحة الهادئة."
-        }
-      ],
-      "related": []
-    },
-    "dear": {
-      "lemma": "dear",
-      "stress": "dɪɹ",
-      "pos": "noun",
-      "gloss": "عزيزي، يا عزيزتي؛ يا إلهي (في التعجّب)",
-      "meanings": [
-        {
-          "en": "عزيزي، يا عزيزتي؛ يا إلهي (في التعجّب)",
-          "note": "لفظ تودّد مهذّب، ويدخل في تعابير التعجب اللطيفة مثل Oh dear! وDear me!."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Come sit by the window, dear.",
-          "trans": "تعالي اجلسي بجانب النافذة يا عزيزتي."
-        },
-        {
-          "text": "Oh dear, it started to rain.",
-          "trans": "يا إلهي، لقد بدأ المطر يهطل."
-        }
-      ],
-      "related": []
-    },
-    "do": {
-      "lemma": "do",
-      "stress": "du",
-      "pos": "verb",
-      "gloss": "يفعل؛ فعل مساعد للسؤال والنفي",
-      "meanings": [
-        {
-          "en": "يفعل؛ فعل مساعد للسؤال والنفي",
-          "note": "يعمل فعلاً أصلياً بمعنى «يفعل» وفعلاً مساعداً لبناء الأسئلة والنفي في المضارع البسيط."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "do"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "does"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "did"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "done"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "doing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Do you want sugar in your coffee?",
-          "trans": "هل تريد سكّراً في قهوتك؟"
-        },
-        {
-          "text": "What should we do with this package?",
-          "trans": "ماذا ينبغي أن نفعل بهذا الطرد؟"
-        }
-      ],
-      "related": []
-    },
-    "dress": {
-      "lemma": "dress",
-      "stress": "dɹɛs",
-      "pos": "noun",
-      "gloss": "فستان؛ يرتدي ثيابه",
-      "meanings": [
-        {
-          "en": "فستان؛ يرتدي ثيابه",
-          "note": "جمعه القياسي dresses بإضافة -es بعد حرفي ss."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "She packed two summer dresses in her bag.",
-          "trans": "وضعت فستانين صيفيين في حقيبتها."
-        },
-        {
-          "text": "That green dress looks lovely on you.",
-          "trans": "يبدو ذلك الفستان الأخضر جميلاً عليك."
-        }
-      ],
-      "related": []
-    },
-    "face": {
-      "lemma": "face",
-      "stress": "feɪs",
-      "pos": "verb",
-      "gloss": "يواجه، يطلّ على؛ وجه",
-      "meanings": [
-        {
-          "en": "يواجه، يطلّ على؛ وجه",
-          "note": "عند الحديث عن الغرف والنوافذ يعني «يطلّ على» (facing the courtyard)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "face"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "faces"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "faced"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "faced"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "facing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room three faces the quiet courtyard.",
-          "trans": "تطلّ الغرفة الثالثة على الساحة الهادئة."
-        },
-        {
-          "text": "Turn your chair to face the garden.",
-          "trans": "أدِر كرسيك ليواجه الحديقة."
-        }
-      ],
-      "related": []
-    },
-    "favorite": {
-      "lemma": "favorite",
-      "stress": "ˈfeɪvɹɪt",
-      "pos": "adj",
-      "gloss": "مفضَّل",
-      "meanings": [
-        {
-          "en": "مفضَّل",
-          "note": "تُكتب في الإنجليزية الأمريكية من دون حرف u (في البريطانية favourite)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Cinnamon rolls are my favorite breakfast.",
-          "trans": "لفائف القرفة هي فطوري المفضّل."
-        },
-        {
-          "text": "Which room is your favorite?",
-          "trans": "أيّ غرفة هي المفضّلة لديك؟"
-        }
-      ],
-      "related": []
-    },
-    "feel": {
-      "lemma": "feel",
-      "stress": "fil",
-      "pos": "verb",
-      "gloss": "يشعر؛ يبدو الملمس أو الثقل",
-      "meanings": [
-        {
-          "en": "يشعر؛ يبدو الملمس أو الثقل",
-          "note": "إذا تبعته صفة وصف الإحساس أو الانطباع: feels heavy (تبدو ثقيلة عند حملها)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "feel"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "feels"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "felt"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "felt"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "feeling"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This suitcase feels much lighter than mine.",
-          "trans": "تبدو هذه الحقيبة أخفّ بكثير من حقيبتي."
-        },
-        {
-          "text": "I feel right at home here.",
-          "trans": "أشعر وكأنني في بيتي تماماً هنا."
-        }
-      ],
-      "related": []
-    },
-    "floor": {
-      "lemma": "floor",
-      "stress": "flɔɹ",
-      "pos": "noun",
-      "gloss": "طابق؛ أرضية",
-      "meanings": [
-        {
-          "en": "طابق؛ أرضية",
-          "note": "في الولايات المتحدة تعني first floor الطابق الأرضي، وsecond floor الطابق العلوي الأول!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room six is on the second floor.",
-          "trans": "تقع الغرفة السادسة في الطابق الثاني."
-        },
-        {
-          "text": "Sunlight warmed the wooden floor.",
-          "trans": "دفّأ ضوء الشمس الأرضية الخشبية."
-        }
-      ],
-      "related": []
-    },
-    "for": {
-      "lemma": "for",
-      "stress": "fɔɹ",
-      "pos": "prep",
-      "gloss": "لـ، من أجل؛ لمدّة",
-      "meanings": [
-        {
-          "en": "لـ، من أجل؛ لمدّة",
-          "note": "يدلّ على المستفيد (for Evelyn) أو الغرض (for breakfast) أو المدّة الزمنية."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "This package arrived for room two.",
-          "trans": "وصل هذا الطرد للغرفة الثانية."
-        },
-        {
-          "text": "Wait here for just a moment.",
-          "trans": "انتظر هنا للحظة واحدة فقط."
-        }
-      ],
-      "related": []
-    },
-    "four": {
-      "lemma": "four",
-      "stress": "fɔɹ",
-      "pos": "num",
-      "gloss": "أربعة",
-      "meanings": [
-        {
-          "en": "أربعة",
-          "note": "تُنطق /fɔɹ/ مطابقةً لنطق حرف الجر for التامّ."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four looks out on the courtyard.",
-          "trans": "تطلّ الغرفة الرابعة على الساحة."
-        },
-        {
-          "text": "Please bring four spoons for the table.",
-          "trans": "أحضر أربع ملاعق للطاولة من فضلك."
-        }
-      ],
-      "related": []
-    },
-    "from": {
-      "lemma": "from",
-      "stress": "fɹʌm",
-      "pos": "prep",
-      "gloss": "مِن",
-      "meanings": [
-        {
-          "en": "مِن",
-          "note": "يدلّ على نقطة البداية في المكان أو الزمان أو المصدر (from seven thirty to ten)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Warm rolls came straight from the oven.",
-          "trans": "خرجت اللفائف الدافئة من الفرن مباشرة."
-        },
-        {
-          "text": "How far is the station from here?",
-          "trans": "كم تبعد المحطة من هنا؟"
+          "text": "You are very welcome! Enjoy your tea.",
+          "trans": "على الرحب والسعة! استمتع بشايك."
         }
       ],
       "related": []
@@ -4316,27 +3538,127 @@
       ],
       "related": []
     },
-    "goodness": {
-      "lemma": "goodness",
-      "stress": "ˈɡʊdnəs",
+    "morning": {
+      "lemma": "morning",
+      "stress": "ˈmɔɹnɪŋ",
       "pos": "noun",
-      "gloss": "طيبة؛ يا للهول! / الحمد لله!",
+      "gloss": "صباح",
       "meanings": [
         {
-          "en": "طيبة؛ يا للهول! / الحمد لله!",
-          "note": "تعبير تعجّب مهذّب ولطيف: Goodness! للدهشة، وthank goodness بمعنى «الحمد لله!»."
+          "en": "صباح",
+          "note": "نقول Good morning للتحية الصباحية، وmorning train لقطار الصباح."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Oh goodness, look at the time!",
-          "trans": "يا إلهي، انظر إلى الوقت!"
+          "text": "Good morning! Coffee is hot and ready.",
+          "trans": "صباح الخير! القهوة ساخنة وجاهزة."
         },
         {
-          "text": "Thank goodness nobody lost a passport.",
-          "trans": "الحمد لله لم يفقد أحد جواز سفره."
+          "text": "Rain fell softly all morning.",
+          "trans": "هطل المطر برفق طوال الصباح."
+        }
+      ],
+      "related": []
+    },
+    "ma'am": {
+      "lemma": "ma'am",
+      "stress": "mæm",
+      "pos": "noun",
+      "gloss": "سيّدتي (للمخاطبة المهذّبة)",
+      "meanings": [
+        {
+          "en": "سيّدتي (للمخاطبة المهذّبة)",
+          "note": "اختصار مهذّب شائع في أمريكا لكلمة madam عند مخاطبة السيّدات."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Right this way, ma'am.",
+          "trans": "تفضّلي من هنا يا سيّدتي."
+        },
+        {
+          "text": "May I take your coat, ma'am?",
+          "trans": "هل آخذ عنك معطفك يا سيّدتي؟"
+        }
+      ],
+      "related": []
+    },
+    "my": {
+      "lemma": "my",
+      "stress": "maɪ",
+      "pos": "det",
+      "gloss": "ـي، خاصّتي (صفة ملكية تسبق الاسم)",
+      "meanings": [
+        {
+          "en": "ـي، خاصّتي (صفة ملكية تسبق الاسم)",
+          "note": "توضع قبل الاسم المفرد والجمع دون تغيير: my bag (حقيبتي)، my glasses (نظّارتي)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Today is my first morning at the desk.",
+          "trans": "اليوم هو صباحي الأول في مكتب الاستقبال."
+        },
+        {
+          "text": "Where did I put my reading glasses?",
+          "trans": "أين وضعت نظّارة القراءة الخاصة بي؟"
+        }
+      ],
+      "related": []
+    },
+    "dear": {
+      "lemma": "dear",
+      "stress": "dɪɹ",
+      "pos": "noun",
+      "gloss": "عزيزي، يا عزيزتي؛ يا إلهي (في التعجّب)",
+      "meanings": [
+        {
+          "en": "عزيزي، يا عزيزتي؛ يا إلهي (في التعجّب)",
+          "note": "لفظ تودّد مهذّب، ويدخل في تعابير التعجب اللطيفة مثل Oh dear! وDear me!."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Come sit by the window, dear.",
+          "trans": "تعالي اجلسي بجانب النافذة يا عزيزتي."
+        },
+        {
+          "text": "Oh dear, it started to rain.",
+          "trans": "يا إلهي، لقد بدأ المطر يهطل."
+        }
+      ],
+      "related": []
+    },
+    "i": {
+      "lemma": "i",
+      "stress": "aɪ",
+      "pos": "pron",
+      "gloss": "أنا",
+      "meanings": [
+        {
+          "en": "أنا",
+          "note": "ضمير المتكلم المفرد؛ يُكتَب دائماً بحرف كبير (I) أينما وقع في الجملة الإنجليزية!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I am Hannah, the new receptionist.",
+          "trans": "أنا هانا، موظفة الاستقبال الجديدة."
+        },
+        {
+          "text": "May I help you with your luggage?",
+          "trans": "هل لي أن أساعدك في أمتعتك؟"
         }
       ],
       "related": []
@@ -4404,678 +3726,102 @@
       ],
       "related": []
     },
-    "heavy": {
-      "lemma": "heavy",
-      "stress": "ˈhɛvi",
-      "pos": "adj",
-      "gloss": "ثقيل؛ غزير (للمطر)",
-      "meanings": [
-        {
-          "en": "ثقيل؛ غزير (للمطر)",
-          "note": "يصف الحقائب الثقيلة وكذلك المطر الغزير (heavy rain)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Careful, that blue suitcase is heavy.",
-          "trans": "انتبه، فتلك الحقيبة الزرقاء ثقيلة."
-        },
-        {
-          "text": "Let me help you with that heavy box.",
-          "trans": "دعني أساعدك في حمل ذلك الصندوق الثقيل."
-        }
-      ],
-      "related": []
-    },
-    "here": {
-      "lemma": "here",
-      "stress": "hɪɹ",
-      "pos": "adv",
-      "gloss": "هنا؛ تفضّل (في Here is / Here you are)",
-      "meanings": [
-        {
-          "en": "هنا؛ تفضّل (في Here is / Here you are)",
-          "note": "عند مناولة شيء لشخص نقول Here is... أو Here you are! بمعنى «تفضّل!»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is your brass key for room four.",
-          "trans": "تفضّل مفتاحك النحاسي للغرفة الرابعة."
-        },
-        {
-          "text": "Sign your name right here, please.",
-          "trans": "وقّع اسمك هنا تماماً من فضلك."
-        }
-      ],
-      "related": []
-    },
-    "how": {
-      "lemma": "how",
-      "stress": "haʊ",
-      "pos": "adv",
-      "gloss": "كيف؛ كم / ما أشدّ (في التعجّب والأسئلة)",
-      "meanings": [
-        {
-          "en": "كيف؛ كم / ما أشدّ (في التعجّب والأسئلة)",
-          "note": "يبني أسئلة شائعة (How was your trip?) وتعابير تعجّب لطيفة (How strange! / How kind!)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "How do you take your coffee?",
-          "trans": "كيف تحبّ قهوتك؟"
-        },
-        {
-          "text": "How nice to see you again!",
-          "trans": "ما أجمل رؤيتك مرّة أخرى!"
-        }
-      ],
-      "related": []
-    },
-    "i": {
-      "lemma": "i",
-      "stress": "aɪ",
-      "pos": "pron",
-      "gloss": "أنا",
-      "meanings": [
-        {
-          "en": "أنا",
-          "note": "ضمير المتكلم المفرد؛ يُكتَب دائماً بحرف كبير (I) أينما وقع في الجملة الإنجليزية!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I am Hannah, the new receptionist.",
-          "trans": "أنا هانا، موظفة الاستقبال الجديدة."
-        },
-        {
-          "text": "May I help you with your luggage?",
-          "trans": "هل لي أن أساعدك في أمتعتك؟"
-        }
-      ],
-      "related": []
-    },
-    "in": {
-      "lemma": "in",
-      "stress": "ɪn",
-      "pos": "prep",
-      "gloss": "في، داخل؛ بعد (للمدّة الزمنية القادمة)",
-      "meanings": [
-        {
-          "en": "في، داخل؛ بعد (للمدّة الزمنية القادمة)",
-          "note": "مع المكان تعني «داخل» (in the drawer)، ومع الزمن تعني «في غضون / بعد»: in ten minutes."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait in the warm dining room.",
-          "trans": "انتظر في غرفة الطعام الدافئة."
-        },
-        {
-          "text": "Coffee will be ready in three minutes.",
-          "trans": "ستكون القهوة جاهزة خلال ثلاث دقائق."
-        }
-      ],
-      "related": []
-    },
-    "it": {
-      "lemma": "it",
-      "stress": "ɪt",
-      "pos": "pron",
-      "gloss": "هو / هي (لغير العاقل)؛ ضمير الطقس والوقت",
-      "meanings": [
-        {
-          "en": "هو / هي (لغير العاقل)؛ ضمير الطقس والوقت",
-          "note": "إلزامي مع الأشياء المفردة (it opens) ومع أفعال الطقس (when it rains)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lift the handle, and it opens easily.",
-          "trans": "ارفع المقبض، فينفتح الباب بسهولة."
-        },
-        {
-          "text": "It is sunny and warm this afternoon.",
-          "trans": "الجو مشمس ودافئ بعد ظهر اليوم."
-        }
-      ],
-      "related": []
-    },
-    "just": {
-      "lemma": "just",
-      "stress": "dʒʌst",
-      "pos": "adv",
-      "gloss": "فقط، فحسب؛ للتوّ؛ تماماً",
-      "meanings": [
-        {
-          "en": "فقط، فحسب؛ للتوّ؛ تماماً",
-          "note": "يلطّف الطلبات (just half a glass)، ومع الماضي يدلّ على حدث وقع للتوّ (just rang)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Give me just one minute, please.",
-          "trans": "أمهلني دقيقة واحدة فقط من فضلك."
-        },
-        {
-          "text": "The taxi just pulled up outside.",
-          "trans": "توقّفت سيارة الأجرة في الخارج للتوّ."
-        }
-      ],
-      "related": []
-    },
-    "key": {
-      "lemma": "key",
-      "stress": "ki",
-      "pos": "noun",
-      "gloss": "مفتاح",
-      "meanings": [
-        {
-          "en": "مفتاح",
-          "note": "يُنطق بصوت /ki/ الطويل دائماً (وليس /keɪ/)؛ وعبارة under lock and key تعني «في الحفظ والصون»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here is the brass key to room four.",
-          "trans": "تفضّل المفتاح النحاسي للغرفة الرابعة."
-        },
-        {
-          "text": "Eight keys hang neatly behind the desk.",
-          "trans": "تتدلّى ثمانية مفاتيح بانتظام خلف المكتب."
-        }
-      ],
-      "related": []
-    },
-    "ma'am": {
-      "lemma": "ma'am",
-      "stress": "mæm",
-      "pos": "noun",
-      "gloss": "سيّدتي (للمخاطبة المهذّبة)",
-      "meanings": [
-        {
-          "en": "سيّدتي (للمخاطبة المهذّبة)",
-          "note": "اختصار مهذّب شائع في أمريكا لكلمة madam عند مخاطبة السيّدات."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Right this way, ma'am.",
-          "trans": "تفضّلي من هنا يا سيّدتي."
-        },
-        {
-          "text": "May I take your coat, ma'am?",
-          "trans": "هل آخذ عنك معطفك يا سيّدتي؟"
-        }
-      ],
-      "related": []
-    },
-    "me": {
-      "lemma": "me",
-      "stress": "mi",
-      "pos": "pron",
-      "gloss": "ـني، لي، إيّاي (ضمير مفعول للمتكلم)",
-      "meanings": [
-        {
-          "en": "ـني، لي، إيّاي (ضمير مفعول للمتكلم)",
-          "note": "يقع بعد الأفعال وحروف الجرّ: Excuse me (اعذرني)، Tell me (أخبرني)، with me (معي)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Excuse me, where is the dining room?",
-          "trans": "عفواً، أين غرفة الطعام؟"
-        },
-        {
-          "text": "Save a cup of coffee for me.",
-          "trans": "احفظ لي كوباً من القهوة."
-        }
-      ],
-      "related": []
-    },
-    "morning": {
-      "lemma": "morning",
-      "stress": "ˈmɔɹnɪŋ",
-      "pos": "noun",
-      "gloss": "صباح",
-      "meanings": [
-        {
-          "en": "صباح",
-          "note": "نقول Good morning للتحية الصباحية، وmorning train لقطار الصباح."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Good morning! Coffee is hot and ready.",
-          "trans": "صباح الخير! القهوة ساخنة وجاهزة."
-        },
-        {
-          "text": "Rain fell softly all morning.",
-          "trans": "هطل المطر برفق طوال الصباح."
-        }
-      ],
-      "related": []
-    },
-    "much": {
-      "lemma": "much",
-      "stress": "mʌtʃ",
-      "pos": "adv",
-      "gloss": "كثيراً، جدّاً؛ كمّية كبيرة",
-      "meanings": [
-        {
-          "en": "كثيراً، جدّاً؛ كمّية كبيرة",
-          "note": "تُقوّي المقارنة (much better = أفضل بكثير) وتختم الشكر (Thank you very much)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Thank you so much for your help!",
-          "trans": "شكراً جزيلاً لك على مساعدتك!"
-        },
-        {
-          "text": "How much sugar do you like in tea?",
-          "trans": "كم تفضّل من السكّر في الشاي؟"
-        }
-      ],
-      "related": []
-    },
-    "music": {
-      "lemma": "music",
-      "stress": "ˈmjuzɪk",
-      "pos": "noun",
-      "gloss": "موسيقى",
-      "meanings": [
-        {
-          "en": "موسيقى",
-          "note": "اسم غير معدود؛ وsheet music تعني «النوتة الموسيقية المطبوعة»."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Soft piano music played in the parlor.",
-          "trans": "عُزفت موسيقى بيانو هادئة في الصالون."
-        },
-        {
-          "text": "Do you listen to music while you bake?",
-          "trans": "هل تستمعين إلى الموسيقى أثناء الخَبز؟"
-        }
-      ],
-      "related": []
-    },
-    "my": {
-      "lemma": "my",
-      "stress": "maɪ",
+    "a": {
+      "lemma": "a",
+      "stress": "ə",
       "pos": "det",
-      "gloss": "ـي، خاصّتي (صفة ملكية تسبق الاسم)",
+      "gloss": "أداة تنكير (واحد / ما)",
       "meanings": [
         {
-          "en": "ـي، خاصّتي (صفة ملكية تسبق الاسم)",
-          "note": "توضع قبل الاسم المفرد والجمع دون تغيير: my bag (حقيبتي)، my glasses (نظّارتي)."
+          "en": "أداة تنكير (واحد / ما)",
+          "note": "تُوضع قبل الاسم المفرد المعدود المبدوء بصوت ساكن، خلافاً للعربية التي تكتفي بالتنكير دون أداة مستقلة."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Today is my first morning at the desk.",
-          "trans": "اليوم هو صباحي الأول في مكتب الاستقبال."
+          "text": "I have a blue pen.",
+          "trans": "لديّ قلم أزرق."
         },
         {
-          "text": "Where did I put my reading glasses?",
-          "trans": "أين وضعت نظّارة القراءة الخاصة بي؟"
+          "text": "She wants a cup of tea.",
+          "trans": "تريد كوباً من الشاي."
         }
       ],
       "related": []
     },
-    "need": {
-      "lemma": "need",
-      "stress": "nid",
-      "pos": "verb",
-      "gloss": "يحتاج إلى",
-      "meanings": [
-        {
-          "en": "يحتاج إلى",
-          "note": "يتبعه اسم (need plain butter) أو مصدر مسبوق بـ to (need to know)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "need"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "needs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "needed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "needed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "needing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "أخبرني بكل ما أحتاج إلى معرفته."
-        },
-        {
-          "text": "Do you need an extra towel for your room?",
-          "trans": "هل تحتاج إلى منشفة إضافية لغرفتك؟"
-        }
-      ],
-      "related": []
-    },
-    "number": {
-      "lemma": "number",
-      "stress": "ˈnʌmbɚ",
+    "booking": {
+      "lemma": "booking",
+      "stress": "ˈbʊkɪŋ",
       "pos": "noun",
-      "gloss": "رقم؛ عدد",
+      "gloss": "حجز",
       "meanings": [
         {
-          "en": "رقم؛ عدد",
-          "note": "تُستعمل لأرقام الغرف والهواتف: room four / number four وphone number."
+          "en": "حجز",
+          "note": "حجز غرفة فندقية أو طاولة أو تذكرة سفر."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "May I have your phone number, please?",
-          "trans": "هل تعطيني رقم هاتفك من فضلك؟"
+          "text": "We have a weekend booking for two.",
+          "trans": "لدينا حجز لشخصين في عطلة نهاية الأسبوع."
         },
         {
-          "text": "Check the brass number on your door.",
-          "trans": "تأكّد من الرقم النحاسي على بابك."
+          "text": "She checked every phone booking.",
+          "trans": "راجعت كل حجز هاتفي."
         }
       ],
       "related": []
     },
-    "old": {
-      "lemma": "old",
-      "stress": "oʊld",
-      "pos": "adj",
-      "gloss": "قديم؛ كبير السنّ",
-      "meanings": [
-        {
-          "en": "قديم؛ كبير السنّ",
-          "note": "تصف الأشياء العتيقة (old tree)، والأصدقاء القدامى (old friends)، والعمر."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Portland has a charming old port district.",
-          "trans": "تضمّ بورتلاند حيّ ميناء قديماً ساحراً."
-        },
-        {
-          "text": "This brass bell is eighty years old.",
-          "trans": "عمر هذا الجرس النحاسي ثمانون عاماً."
-        }
-      ],
-      "related": []
-    },
-    "on": {
-      "lemma": "on",
-      "stress": "ɑn",
+    "for": {
+      "lemma": "for",
+      "stress": "fɔɹ",
       "pos": "prep",
-      "gloss": "على (سطح ملامس)؛ في (مع الأيام والطوابق)",
+      "gloss": "لـ، من أجل؛ لمدّة",
       "meanings": [
         {
-          "en": "على (سطح ملامس)؛ في (مع الأيام والطوابق)",
-          "note": "يُستعمل للأسطح (on my head)، والطوابق (on the second floor)، والأيام المحددة (on my first day)."
+          "en": "لـ، من أجل؛ لمدّة",
+          "note": "يدلّ على المستفيد (for Evelyn) أو الغرض (for breakfast) أو المدّة الزمنية."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Your key is on the wooden desk.",
-          "trans": "مفتاحك على المكتب الخشبي."
+          "text": "This package arrived for room two.",
+          "trans": "وصل هذا الطرد للغرفة الثانية."
         },
         {
-          "text": "Tessa bakes apple rolls on Fridays.",
-          "trans": "تخبز تيسا لفائف التفاح أيّام الجمعة."
+          "text": "Wait here for just a moment.",
+          "trans": "انتظر هنا للحظة واحدة فقط."
         }
       ],
       "related": []
     },
-    "only": {
-      "lemma": "only",
-      "stress": "ˈoʊnli",
-      "pos": "adv",
-      "gloss": "فقط، لا غير",
+    "yes": {
+      "lemma": "yes",
+      "stress": "jɛs",
+      "pos": "interj",
+      "gloss": "نعم، أجل",
       "meanings": [
         {
-          "en": "فقط، لا غير",
-          "note": "يوضع عادةً قبل الكلمة أو العبارة المراد حصرها."
+          "en": "نعم، أجل",
+          "note": "كلمة الإثبات القياسية في جميع المستويات الرسمية واليومية."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "We have only eight rooms at the inn.",
-          "trans": "لدينا ثماني غرف فقط في النزل."
+          "text": "Yes, eight rooms and eight brass keys.",
+          "trans": "نعم، ثماني غرف وثمانية مفاتيح نحاسية."
         },
         {
-          "text": "This is the only key to the garden shed.",
-          "trans": "هذا هو المفتاح الوحيد لمخزن الحديقة."
-        }
-      ],
-      "related": []
-    },
-    "or": {
-      "lemma": "or",
-      "stress": "ɔɹ",
-      "pos": "conj",
-      "gloss": "أو، أم (للتخيير)",
-      "meanings": [
-        {
-          "en": "أو، أم (للتخيير)",
-          "note": "يربط بين خيارين في السؤال والإثبات: coffee or black tea?."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Would you like coffee or tea?",
-          "trans": "هل ترغب في القهوة أم الشاي؟"
-        },
-        {
-          "text": "Call me today or tomorrow morning.",
-          "trans": "اتصل بي اليوم أو صباح الغد."
-        }
-      ],
-      "related": []
-    },
-    "pack": {
-      "lemma": "pack",
-      "stress": "pæk",
-      "pos": "verb",
-      "gloss": "يحزم أمتعته، يوضّب حقيبة؛ عبوة (اسم)",
-      "meanings": [
-        {
-          "en": "يحزم أمتعته، يوضّب حقيبة؛ عبوة (اسم)",
-          "note": "تأتي فعلاً بمعنى «يضع الأغراض في الحقيبة» واسماً بمعنى «عبوة/قالب» (pack of butter)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "pack"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "packs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "packed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "packed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "packing"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Did you pack an umbrella for the trip?",
-          "trans": "هل وضعت مظلّة في حقيبتك للرحلة؟"
-        },
-        {
-          "text": "He packed two warm sweaters and a book.",
-          "trans": "حزم كنزتين دافئتين وكتاباً."
-        }
-      ],
-      "related": []
-    },
-    "pleasant": {
-      "lemma": "pleasant",
-      "stress": "ˈplɛzənt",
-      "pos": "adj",
-      "gloss": "لطيف، مريح، سارّ",
-      "meanings": [
-        {
-          "en": "لطيف، مريح، سارّ",
-          "note": "تُنطق ea فيها بصوت قصير /ɛ/: /ˈplɛzənt/."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "We had a very pleasant chat over tea.",
-          "trans": "أجرينا حديثاً لطيفاً جدّاً مع الشاي."
-        },
-        {
-          "text": "Have a pleasant evening in Portland!",
-          "trans": "أتمنّى لك أمسية مريحة في بورتلاند!"
-        }
-      ],
-      "related": []
-    },
-    "quiet": {
-      "lemma": "quiet",
-      "stress": "ˈkwaɪət",
-      "pos": "adj",
-      "gloss": "هادئ، ساكن",
-      "meanings": [
-        {
-          "en": "هادئ، ساكن",
-          "note": "تُلفظ بمقطعين واضحين (/ˈkwaɪət/)، فلا تخلط بينها وبين quite (/kwaɪt/ «تماماً»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room eight is on the quiet garden side.",
-          "trans": "تقع الغرفة الثامنة في جهة الحديقة الهادئة."
-        },
-        {
-          "text": "Mornings are peaceful and quiet here.",
-          "trans": "الصباحات مسالمة وهادئة هنا."
-        }
-      ],
-      "related": []
-    },
-    "right": {
-      "lemma": "right",
-      "stress": "ɹaɪt",
-      "pos": "adj",
-      "gloss": "صحيح؛ يمين؛ تماماً / فوراً (ظرف)",
-      "meanings": [
-        {
-          "en": "صحيح؛ يمين؛ تماماً / فوراً (ظرف)",
-          "note": "كظرف تقوّي المكان والزمان: right here (هنا بالضبط)، right now / right away (فوراً)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You have the right room key now.",
-          "trans": "معك مفتاح الغرفة الصحيح الآن."
-        },
-        {
-          "text": "Your room is the second door on the right.",
-          "trans": "غرفتك هي الباب الثاني على اليمين."
+          "text": "Yes, please! I would love some coffee.",
+          "trans": "نعم من فضلك! أحبّ الحصول على بعض القهوة."
         }
       ],
       "related": []
@@ -5105,6 +3851,81 @@
       ],
       "related": []
     },
+    "four": {
+      "lemma": "four",
+      "stress": "fɔɹ",
+      "pos": "num",
+      "gloss": "أربعة",
+      "meanings": [
+        {
+          "en": "أربعة",
+          "note": "تُنطق /fɔɹ/ مطابقةً لنطق حرف الجر for التامّ."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four looks out on the courtyard.",
+          "trans": "تطلّ الغرفة الرابعة على الساحة."
+        },
+        {
+          "text": "Please bring four spoons for the table.",
+          "trans": "أحضر أربع ملاعق للطاولة من فضلك."
+        }
+      ],
+      "related": []
+    },
+    "on": {
+      "lemma": "on",
+      "stress": "ɑn",
+      "pos": "prep",
+      "gloss": "على (سطح ملامس)؛ في (مع الأيام والطوابق)",
+      "meanings": [
+        {
+          "en": "على (سطح ملامس)؛ في (مع الأيام والطوابق)",
+          "note": "يُستعمل للأسطح (on my head)، والطوابق (on the second floor)، والأيام المحددة (on my first day)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your key is on the wooden desk.",
+          "trans": "مفتاحك على المكتب الخشبي."
+        },
+        {
+          "text": "Tessa bakes apple rolls on Fridays.",
+          "trans": "تخبز تيسا لفائف التفاح أيّام الجمعة."
+        }
+      ],
+      "related": []
+    },
+    "the": {
+      "lemma": "the",
+      "stress": "ðə",
+      "pos": "det",
+      "gloss": "الـ (أداة التعريف)",
+      "meanings": [
+        {
+          "en": "الـ (أداة التعريف)",
+          "note": "لا تتغيّر مع المذكر أو المؤنث أو الجمع؛ تُنطق /ðə/ قبل السواكن و/ði/ قبل حروف العلّة."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle on the front door.",
+          "trans": "ارفع المقبض الموجود على الباب الأمامي."
+        },
+        {
+          "text": "All the keys hang behind the desk.",
+          "trans": "تعلَّق جميع المفاتيح خلف مكتب الاستقبال."
+        }
+      ],
+      "related": []
+    },
     "second": {
       "lemma": "second",
       "stress": "ˈsɛkənd",
@@ -5130,166 +3951,65 @@
       ],
       "related": []
     },
-    "seven": {
-      "lemma": "seven",
-      "stress": "ˈsɛvən",
-      "pos": "num",
-      "gloss": "سبعة",
+    "floor": {
+      "lemma": "floor",
+      "stress": "flɔɹ",
+      "pos": "noun",
+      "gloss": "طابق؛ أرضية",
       "meanings": [
         {
-          "en": "سبعة",
-          "note": "يتكوّن من مقطعين (/ˈsɛvən/)، ومنه يُبنى seventeen وseventy."
+          "en": "طابق؛ أرضية",
+          "note": "في الولايات المتحدة تعني first floor الطابق الأرضي، وsecond floor الطابق العلوي الأول!"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Tessa opens her bakery at seven sharp.",
-          "trans": "تفتح تيسا مخبزها عند السابعة تماماً."
+          "text": "Room six is on the second floor.",
+          "trans": "تقع الغرفة السادسة في الطابق الثاني."
         },
         {
-          "text": "Room seven faces the linden tree.",
-          "trans": "تطلّ الغرفة السابعة على شجرة الزيزفون."
+          "text": "Sunlight warmed the wooden floor.",
+          "trans": "دفّأ ضوء الشمس الأرضية الخشبية."
         }
       ],
       "related": []
     },
-    "sheet": {
-      "lemma": "sheet",
-      "stress": "ʃit",
-      "pos": "noun",
-      "gloss": "ورقة؛ ملاءة سرير",
+    "how": {
+      "lemma": "how",
+      "stress": "haʊ",
+      "pos": "adv",
+      "gloss": "كيف؛ كم / ما أشدّ (في التعجّب والأسئلة)",
       "meanings": [
         {
-          "en": "ورقة؛ ملاءة سرير",
-          "note": "بصوت مدّ طويل /i/ (/ʃit/): a sheet of paper (ورقة) أو clean bed sheets (ملاءات نظيفة)."
+          "en": "كيف؛ كم / ما أشدّ (في التعجّب والأسئلة)",
+          "note": "يبني أسئلة شائعة (How was your trip?) وتعابير تعجّب لطيفة (How strange! / How kind!)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Sign your name on the top sheet.",
-          "trans": "وقّع اسمك على الورقة العلوية."
+          "text": "How do you take your coffee?",
+          "trans": "كيف تحبّ قهوتك؟"
         },
         {
-          "text": "Fresh cotton sheets dry fast in the breeze.",
-          "trans": "تجفّ ملاءات القطن النظيفة سريعاً في النسيم."
+          "text": "How nice to see you again!",
+          "trans": "ما أجمل رؤيتك مرّة أخرى!"
         }
       ],
       "related": []
     },
-    "stairs": {
-      "lemma": "stairs",
-      "stress": "stɛɹz",
-      "pos": "noun",
-      "gloss": "دَرَج، سُلّم داخلي",
-      "meanings": [
-        {
-          "en": "دَرَج، سُلّم داخلي",
-          "note": "ترد بالجمع دائماً تقريباً (up the stairs)؛ أمّا الدرجة المفردة فهي step."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Follow me up the wooden stairs.",
-          "trans": "اتبعني صعوداً على الدرج الخشبي."
-        },
-        {
-          "text": "Her room is right at the top of the stairs.",
-          "trans": "غرفتها في أعلى الدرج مباشرةً."
-        }
-      ],
-      "related": [],
-      "number": "pl"
-    },
-    "stone": {
-      "lemma": "stone",
-      "stress": "stoʊn",
-      "pos": "noun",
-      "gloss": "حجر؛ حجريّ (قبل اسم)",
-      "meanings": [
-        {
-          "en": "حجر؛ حجريّ (قبل اسم)",
-          "note": "معدود للحجارة المفردة (stones)، وصفة مادة في stone courtyard (ساحة حجرية)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Warm sunlight dried the wet courtyard stones.",
-          "trans": "جفّف ضوء الشمس الدافئ حجارة الساحة المبتلّة."
-        },
-        {
-          "text": "They sat by the low stone wall.",
-          "trans": "جلسا بجانب الجدار الحجري المنخفض."
-        }
-      ],
-      "related": []
-    },
-    "street": {
-      "lemma": "street",
-      "stress": "stɹit",
-      "pos": "noun",
-      "gloss": "شارع",
-      "meanings": [
-        {
-          "en": "شارع",
-          "note": "في العناوين الأمريكية يُستعمل معها حرف الجرّ on: on Linden Street."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Our guesthouse stands on quiet Linden Street.",
-          "trans": "تقع دار الضيافة الخاصة بنا في شارع ليندن الهادئ."
-        },
-        {
-          "text": "Cross the street to reach the bakery.",
-          "trans": "اعبر الشارع للوصول إلى المخبز."
-        }
-      ],
-      "related": []
-    },
-    "suitcase": {
-      "lemma": "suitcase",
-      "stress": "ˈsutˌkeɪs",
-      "pos": "noun",
-      "gloss": "حقيبة سفر",
-      "meanings": [
-        {
-          "en": "حقيبة سفر",
-          "note": "اسم معدود (two blue suitcases)، على عكس كلمة luggage غير المعدودة."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Two guests brought the exact same blue suitcase.",
-          "trans": "أحضر ضيفان حقيبة السفر الزرقاء نفسها تماماً."
-        },
-        {
-          "text": "Set your suitcase on the wooden luggage rack.",
-          "trans": "ضع حقيبة سفرك على الحامل الخشبي."
-        }
-      ],
-      "related": []
-    },
-    "take": {
-      "lemma": "take",
-      "stress": "teɪk",
+    "be": {
+      "lemma": "be",
+      "stress": "bi",
       "pos": "verb",
-      "gloss": "يأخذ؛ يستقلّ (مواصلات)؛ يستغرق",
+      "gloss": "يكون",
       "meanings": [
         {
-          "en": "يأخذ؛ يستقلّ (مواصلات)؛ يستغرق",
-          "note": "فعل محوري: take a taxi (يستقلّ تاكسي)، take your time (خذ وقتك)، How do you take your coffee?."
+          "en": "يكون",
+          "note": "على عكس الجملة الاسمية العربية، لا تستغني الإنجليزية عن فعل الكينونة في المضارع (am, is, are)."
         }
       ],
       "forms": {
@@ -5302,31 +4022,31 @@
           {
             "cells": [
               "base",
-              "take"
+              "be"
             ]
           },
           {
             "cells": [
               "3rd sg",
-              "takes"
+              "is"
             ]
           },
           {
             "cells": [
               "past",
-              "took"
+              "was, were"
             ]
           },
           {
             "cells": [
               "past participle",
-              "taken"
+              "been"
             ]
           },
           {
             "cells": [
               "-ing",
-              "taking"
+              "being"
             ]
           }
         ]
@@ -5334,62 +4054,162 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Take an umbrella before you walk to the harbor.",
-          "trans": "خذ مظلّة قبل أن تمشي إلى الميناء."
+          "text": "The keys are on the desk.",
+          "trans": "المفاتيح على المكتب."
         },
         {
-          "text": "Someone took the wrong blue bag from the taxi.",
-          "trans": "أخذ أحدهم الحقيبة الزرقاء الخطأ من سيارة الأجرة."
+          "text": "She wants to be a teacher.",
+          "trans": "تريد أن تكون معلّمة."
         }
       ],
       "related": []
     },
-    "teacup": {
-      "lemma": "teacup",
-      "stress": "ˈtiˌkʌp",
+    "your": {
+      "lemma": "your",
+      "stress": "jʊɹ",
+      "pos": "det",
+      "gloss": "ـكَ، ـكِ، ـكم، خاصّتك (صفة ملكية قبل الاسم)",
+      "meanings": [
+        {
+          "en": "ـكَ، ـكِ، ـكم، خاصّتك (صفة ملكية قبل الاسم)",
+          "note": "توضع دائماً قبل اسم؛ وانتبه لعدم الخلط بينها وبين الاختصار you're (أي you are)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is your room key, Evelyn.",
+          "trans": "تفضّلي مفتاح غرفتك يا إيفلين."
+        },
+        {
+          "text": "Enjoy your morning coffee!",
+          "trans": "استمتع بقهوة الصباح الخاصة بك!"
+        }
+      ],
+      "related": []
+    },
+    "train": {
+      "lemma": "train",
+      "stress": "tɹeɪn",
       "pos": "noun",
-      "gloss": "فنجان شاي",
+      "gloss": "قطار",
       "meanings": [
         {
-          "en": "فنجان شاي",
-          "note": "في كلمة واحدة تدلّ على الوعاء الخزفي نفسه، أمّا cup of tea فتركّز على المشروب المسكوب."
+          "en": "قطار",
+          "note": "أشهر تراكيبها take the train وcatch a train وtrain station."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Warm each ceramic teacup with hot water first.",
-          "trans": "دفّئ كلّ فنجان شاي خزفي بالماء الساخن أوّلاً."
+          "text": "Both guests arrived on the nine o'clock train.",
+          "trans": "وصل الضيفان معاً في قطار الساعة التاسعة."
         },
         {
-          "text": "Evelyn admired the blue floral teacup.",
-          "trans": "أُعجبت إيفلين بفنجان الشاي الأزرق المزيّن بالزهور."
+          "text": "The train station is ten minutes away by taxi.",
+          "trans": "تبعد محطّة القطار عشر دقائق بسيارة الأجرة."
         }
       ],
       "related": []
     },
-    "ten": {
-      "lemma": "ten",
-      "stress": "tɛn",
-      "pos": "num",
-      "gloss": "عشرة",
+    "trip": {
+      "lemma": "trip",
+      "stress": "tɹɪp",
+      "pos": "noun",
+      "gloss": "رحلة، سفرة",
       "meanings": [
         {
-          "en": "عشرة",
-          "note": "عدد محوري للدقائق والمواعيد اليومية."
+          "en": "رحلة، سفرة",
+          "note": "الاسم المعدود المعتاد للرحلة الواحدة المحدّدة (أمّا travel ففعل أو اسم عامّ)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "You are ten minutes early today.",
-          "trans": "أنتِ مبكّرة عشر دقائق اليوم."
+          "text": "How was your train trip from Boston?",
+          "trans": "كيف كانت رحلتك بالقطار من بوسطن؟"
         },
         {
-          "text": "Breakfast runs from eight until ten.",
-          "trans": "يُقدَّم الفطور من الثامنة حتى العاشرة."
+          "text": "Have a wonderful trip!",
+          "trans": "أتمنّى لك رحلةً رائعة!"
+        }
+      ],
+      "related": []
+    },
+    "quiet": {
+      "lemma": "quiet",
+      "stress": "ˈkwaɪət",
+      "pos": "adj",
+      "gloss": "هادئ، ساكن",
+      "meanings": [
+        {
+          "en": "هادئ، ساكن",
+          "note": "تُلفظ بمقطعين واضحين (/ˈkwaɪət/)، فلا تخلط بينها وبين quite (/kwaɪt/ «تماماً»)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room eight is on the quiet garden side.",
+          "trans": "تقع الغرفة الثامنة في جهة الحديقة الهادئة."
+        },
+        {
+          "text": "Mornings are peaceful and quiet here.",
+          "trans": "الصباحات مسالمة وهادئة هنا."
+        }
+      ],
+      "related": []
+    },
+    "and": {
+      "lemma": "and",
+      "stress": "ænd",
+      "pos": "conj",
+      "gloss": "وَ (حرف عطف)",
+      "meanings": [
+        {
+          "en": "وَ (حرف عطف)",
+          "note": "أداة العطف الأساسية لربط الكلمات والجمل، وتُكتَب منفصلة لا متصلة كما في العربية."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bring bread and butter, please.",
+          "trans": "أحضر خبزاً وزبدة من فضلك."
+        },
+        {
+          "text": "Wash your hands and sit down.",
+          "trans": "اغسل يديك واجلس."
+        }
+      ],
+      "related": []
+    },
+    "pleasant": {
+      "lemma": "pleasant",
+      "stress": "ˈplɛzənt",
+      "pos": "adj",
+      "gloss": "لطيف، مريح، سارّ",
+      "meanings": [
+        {
+          "en": "لطيف، مريح، سارّ",
+          "note": "تُنطق ea فيها بصوت قصير /ɛ/: /ˈplɛzənt/."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We had a very pleasant chat over tea.",
+          "trans": "أجرينا حديثاً لطيفاً جدّاً مع الشاي."
+        },
+        {
+          "text": "Have a pleasant evening in Portland!",
+          "trans": "أتمنّى لك أمسية مريحة في بورتلاند!"
         }
       ],
       "related": []
@@ -5457,77 +4277,27 @@
       ],
       "related": []
     },
-    "the": {
-      "lemma": "the",
-      "stress": "ðə",
-      "pos": "det",
-      "gloss": "الـ (أداة التعريف)",
+    "you": {
+      "lemma": "you",
+      "stress": "ju",
+      "pos": "pron",
+      "gloss": "أنتَ، أنتِ، أنتما، أنتم، أنتنّ؛ حضرتك؛ ـكَ/ـكِ/ـكم",
       "meanings": [
         {
-          "en": "الـ (أداة التعريف)",
-          "note": "لا تتغيّر مع المذكر أو المؤنث أو الجمع؛ تُنطق /ðə/ قبل السواكن و/ði/ قبل حروف العلّة."
+          "en": "أنتَ، أنتِ، أنتما، أنتم، أنتنّ؛ حضرتك؛ ـكَ/ـكِ/ـكم",
+          "note": "ضمير واحد للمفرد والمثنّى والجمع، وللخطاب الودّي والرسمي، ويأخذ دائماً الفعل are!"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Lift the handle on the front door.",
-          "trans": "ارفع المقبض الموجود على الباب الأمامي."
+          "text": "You are ten minutes early today!",
+          "trans": "أنتِ مبكّرة عشر دقائق اليوم!"
         },
         {
-          "text": "All the keys hang behind the desk.",
-          "trans": "تعلَّق جميع المفاتيح خلف مكتب الاستقبال."
-        }
-      ],
-      "related": []
-    },
-    "thirty": {
-      "lemma": "thirty",
-      "stress": "ˈθɝti",
-      "pos": "num",
-      "gloss": "ثلاثون",
-      "meanings": [
-        {
-          "en": "ثلاثون",
-          "note": "يقع النبر على المقطع الأول (/ˈθɝti/)، بخلاف thirteen التي يُنبر آخرها."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Breakfast ends at nine thirty.",
-          "trans": "ينتهي الفطور عند التاسعة والنصف (التاسعة والثلاثين دقيقة)."
-        },
-        {
-          "text": "Walk thirty paces past the bakery.",
-          "trans": "امشِ ثلاثين خطوة بعد المخبز."
-        }
-      ],
-      "related": []
-    },
-    "this": {
-      "lemma": "this",
-      "stress": "ðɪs",
-      "pos": "det",
-      "gloss": "هذا، هذه (للمفرد القريب)",
-      "meanings": [
-        {
-          "en": "هذا، هذه (للمفرد القريب)",
-          "note": "بحركة قصيرة /ɪ/ وسين مهموسة (/ðɪs/)؛ للإشارة إلى الشيء القريب أو التعريف بالنفس هاتفياً."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Here we use this big paper book.",
-          "trans": "نحن نستخدم هنا هذا الدفتر الورقي الكبير."
-        },
-        {
-          "text": "Hello, this is Hannah at the front desk.",
-          "trans": "مرحباً، معك هانا من مكتب الاستقبال."
+          "text": "Thank you! See you next time!",
+          "trans": "شكراً لك! أراك في المرّة القادمة!"
         }
       ],
       "related": []
@@ -5557,177 +4327,115 @@
       ],
       "related": []
     },
-    "through": {
-      "lemma": "through",
-      "stress": "θɹu",
-      "pos": "prep",
-      "gloss": "عَبْر، من خلال",
+    "this": {
+      "lemma": "this",
+      "stress": "ðɪs",
+      "pos": "det",
+      "gloss": "هذا، هذه (للمفرد القريب)",
       "meanings": [
         {
-          "en": "عَبْر، من خلال",
-          "note": "حرفا gh صامتان تماماً: تُنطق /θɹu/ تماماً مثل threw."
+          "en": "هذا، هذه (للمفرد القريب)",
+          "note": "بحركة قصيرة /ɪ/ وسين مهموسة (/ðɪs/)؛ للإشارة إلى الشيء القريب أو التعريف بالنفس هاتفياً."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Walk through the courtyard to the kitchen.",
-          "trans": "امشِ عبر الساحة للوصول إلى المطبخ."
+          "text": "Here we use this big paper book.",
+          "trans": "نحن نستخدم هنا هذا الدفتر الورقي الكبير."
         },
         {
-          "text": "Sunlight came through the tall windows.",
-          "trans": "دخل ضوء الشمس عبر النوافذ العالية."
+          "text": "Hello, this is Hannah at the front desk.",
+          "trans": "مرحباً، معك هانا من مكتب الاستقبال."
         }
       ],
       "related": []
     },
-    "to": {
-      "lemma": "to",
-      "stress": "tu",
-      "pos": "prep",
-      "gloss": "إلى، نحو؛ أنْ (قبل الفعل المجرّد)",
-      "meanings": [
-        {
-          "en": "إلى، نحو؛ أنْ (قبل الفعل المجرّد)",
-          "note": "يدلّ على الوجهة (walk to the harbor) أو يسبق الفعل في صيغة المصدر (to know)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Welcome to Linden Courtyard Inn!",
-          "trans": "أهلاً بكم في نزل ساحة الزيزفون!"
-        },
-        {
-          "text": "Tell me everything I need to know.",
-          "trans": "أخبرني بكلّ ما أحتاج إلى معرفته."
-        }
-      ],
-      "related": []
-    },
-    "today": {
-      "lemma": "today",
-      "stress": "təˈdeɪ",
-      "pos": "adv",
-      "gloss": "اليوم",
-      "meanings": [
-        {
-          "en": "اليوم",
-          "note": "تقبل ياء الملكية مع ’s مثل الأسماء: today's menu (قائمة طعام اليوم)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room four is arriving today.",
-          "trans": "ضيف الغرفة الرابعة يصل اليوم."
-        },
-        {
-          "text": "Today's soup is warm tomato basil.",
-          "trans": "حساء اليوم هو حساء الطماطم الدافئ بالريحان."
-        }
-      ],
-      "related": []
-    },
-    "train": {
-      "lemma": "train",
-      "stress": "tɹeɪn",
+    "suitcase": {
+      "lemma": "suitcase",
+      "stress": "ˈsutˌkeɪs",
       "pos": "noun",
-      "gloss": "قطار",
+      "gloss": "حقيبة سفر",
       "meanings": [
         {
-          "en": "قطار",
-          "note": "أشهر تراكيبها take the train وcatch a train وtrain station."
+          "en": "حقيبة سفر",
+          "note": "اسم معدود (two blue suitcases)، على عكس كلمة luggage غير المعدودة."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Both guests arrived on the nine o'clock train.",
-          "trans": "وصل الضيفان معاً في قطار الساعة التاسعة."
+          "text": "Two guests brought the exact same blue suitcase.",
+          "trans": "أحضر ضيفان حقيبة السفر الزرقاء نفسها تماماً."
         },
         {
-          "text": "The train station is ten minutes away by taxi.",
-          "trans": "تبعد محطّة القطار عشر دقائق بسيارة الأجرة."
+          "text": "Set your suitcase on the wooden luggage rack.",
+          "trans": "ضع حقيبة سفرك على الحامل الخشبي."
         }
       ],
       "related": []
     },
-    "tree": {
-      "lemma": "tree",
-      "stress": "tɹi",
-      "pos": "noun",
-      "gloss": "شجرة",
+    "feel": {
+      "lemma": "feel",
+      "stress": "fil",
+      "pos": "verb",
+      "gloss": "يشعر؛ يبدو الملمس أو الثقل",
       "meanings": [
         {
-          "en": "شجرة",
-          "note": "تبدأ بالتاء والراء /tɹi/، فانتبه للتمييز بينها وبين العدد three (/θɹi/)."
+          "en": "يشعر؛ يبدو الملمس أو الثقل",
+          "note": "إذا تبعته صفة وصف الإحساس أو الانطباع: feels heavy (تبدو ثقيلة عند حملها)."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "feel"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "feels"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "felt"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "felt"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "feeling"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "A tall linden tree shades the courtyard.",
-          "trans": "تظلّل شجرة زيزفون عالية ساحة النزل."
+          "text": "This suitcase feels much lighter than mine.",
+          "trans": "تبدو هذه الحقيبة أخفّ بكثير من حقيبتي."
         },
         {
-          "text": "Birds sing in the garden trees every morning.",
-          "trans": "تغرّد العصافير في أشجار الحديقة كلّ صباح."
-        }
-      ],
-      "related": []
-    },
-    "trip": {
-      "lemma": "trip",
-      "stress": "tɹɪp",
-      "pos": "noun",
-      "gloss": "رحلة، سفرة",
-      "meanings": [
-        {
-          "en": "رحلة، سفرة",
-          "note": "الاسم المعدود المعتاد للرحلة الواحدة المحدّدة (أمّا travel ففعل أو اسم عامّ)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "How was your train trip from Boston?",
-          "trans": "كيف كانت رحلتك بالقطار من بوسطن؟"
-        },
-        {
-          "text": "Have a wonderful trip!",
-          "trans": "أتمنّى لك رحلةً رائعة!"
-        }
-      ],
-      "related": []
-    },
-    "up": {
-      "lemma": "up",
-      "stress": "ʌp",
-      "pos": "adv",
-      "gloss": "إلى الأعلى، فوق",
-      "meanings": [
-        {
-          "en": "إلى الأعلى، فوق",
-          "note": "يدخل في أفعال يومية لا غنى عنها مثل wake up (يستيقظ) وpick up (يلتقط)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pick up the brass key from the tray.",
-          "trans": "التقط المفتاح النحاسي من الصينية."
-        },
-        {
-          "text": "Look up at the painted wooden sign.",
-          "trans": "انظر إلى الأعلى نحو اللافتة الخشبية المطلية."
+          "text": "I feel right at home here.",
+          "trans": "أشعر وكأنني في بيتي تماماً هنا."
         }
       ],
       "related": []
@@ -5757,15 +4465,679 @@
       ],
       "related": []
     },
-    "welcome": {
-      "lemma": "welcome",
-      "stress": "ˈwɛlkəm",
-      "pos": "interj",
-      "gloss": "أهلاً وسهلاً؛ على الرحب والسعة",
+    "heavy": {
+      "lemma": "heavy",
+      "stress": "ˈhɛvi",
+      "pos": "adj",
+      "gloss": "ثقيل؛ غزير (للمطر)",
       "meanings": [
         {
-          "en": "أهلاً وسهلاً؛ على الرحب والسعة",
-          "note": "تُستعمل Welcome to... للترحيب بالقادم، وYou're welcome للردّ على الشكر."
+          "en": "ثقيل؛ غزير (للمطر)",
+          "note": "يصف الحقائب الثقيلة وكذلك المطر الغزير (heavy rain)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Careful, that blue suitcase is heavy.",
+          "trans": "انتبه، فتلك الحقيبة الزرقاء ثقيلة."
+        },
+        {
+          "text": "Let me help you with that heavy box.",
+          "trans": "دعني أساعدك في حمل ذلك الصندوق الثقيل."
+        }
+      ],
+      "related": []
+    },
+    "today": {
+      "lemma": "today",
+      "stress": "təˈdeɪ",
+      "pos": "adv",
+      "gloss": "اليوم",
+      "meanings": [
+        {
+          "en": "اليوم",
+          "note": "تقبل ياء الملكية مع ’s مثل الأسماء: today's menu (قائمة طعام اليوم)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room four is arriving today.",
+          "trans": "ضيف الغرفة الرابعة يصل اليوم."
+        },
+        {
+          "text": "Today's soup is warm tomato basil.",
+          "trans": "حساء اليوم هو حساء الطماطم الدافئ بالريحان."
+        }
+      ],
+      "related": []
+    },
+    "allow": {
+      "lemma": "allow",
+      "stress": "əˈlaʊ",
+      "pos": "verb",
+      "gloss": "يسمح، يأذن",
+      "meanings": [
+        {
+          "en": "يسمح، يأذن",
+          "note": "شائع جدّاً في عبارة المجاملة اللطيفة Allow me بمعنى «اسمح لي»."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "allow"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "allows"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "allowed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "allowed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "allowing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Allow me to hold the door.",
+          "trans": "اسمح لي أن أمسك الباب."
+        },
+        {
+          "text": "They do not allow pets inside.",
+          "trans": "لا يسمحون بدخول الحيوانات الأليفة."
+        }
+      ],
+      "related": []
+    },
+    "me": {
+      "lemma": "me",
+      "stress": "mi",
+      "pos": "pron",
+      "gloss": "ـني، لي، إيّاي (ضمير مفعول للمتكلم)",
+      "meanings": [
+        {
+          "en": "ـني، لي، إيّاي (ضمير مفعول للمتكلم)",
+          "note": "يقع بعد الأفعال وحروف الجرّ: Excuse me (اعذرني)، Tell me (أخبرني)، with me (معي)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Excuse me, where is the dining room?",
+          "trans": "عفواً، أين غرفة الطعام؟"
+        },
+        {
+          "text": "Save a cup of coffee for me.",
+          "trans": "احفظ لي كوباً من القهوة."
+        }
+      ],
+      "related": []
+    },
+    "goodness": {
+      "lemma": "goodness",
+      "stress": "ˈɡʊdnəs",
+      "pos": "noun",
+      "gloss": "طيبة؛ يا للهول! / الحمد لله!",
+      "meanings": [
+        {
+          "en": "طيبة؛ يا للهول! / الحمد لله!",
+          "note": "تعبير تعجّب مهذّب ولطيف: Goodness! للدهشة، وthank goodness بمعنى «الحمد لله!»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh goodness, look at the time!",
+          "trans": "يا إلهي، انظر إلى الوقت!"
+        },
+        {
+          "text": "Thank goodness nobody lost a passport.",
+          "trans": "الحمد لله لم يفقد أحد جواز سفره."
+        }
+      ],
+      "related": []
+    },
+    "do": {
+      "lemma": "do",
+      "stress": "du",
+      "pos": "verb",
+      "gloss": "يفعل؛ فعل مساعد للسؤال والنفي",
+      "meanings": [
+        {
+          "en": "يفعل؛ فعل مساعد للسؤال والنفي",
+          "note": "يعمل فعلاً أصلياً بمعنى «يفعل» وفعلاً مساعداً لبناء الأسئلة والنفي في المضارع البسيط."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "do"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "does"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "did"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "done"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "doing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do you want sugar in your coffee?",
+          "trans": "هل تريد سكّراً في قهوتك؟"
+        },
+        {
+          "text": "What should we do with this package?",
+          "trans": "ماذا ينبغي أن نفعل بهذا الطرد؟"
+        }
+      ],
+      "related": []
+    },
+    "pack": {
+      "lemma": "pack",
+      "stress": "pæk",
+      "pos": "verb",
+      "gloss": "يحزم أمتعته، يوضّب حقيبة؛ عبوة (اسم)",
+      "meanings": [
+        {
+          "en": "يحزم أمتعته، يوضّب حقيبة؛ عبوة (اسم)",
+          "note": "تأتي فعلاً بمعنى «يضع الأغراض في الحقيبة» واسماً بمعنى «عبوة/قالب» (pack of butter)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "pack"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "packs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "packed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "packed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "packing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did you pack an umbrella for the trip?",
+          "trans": "هل وضعت مظلّة في حقيبتك للرحلة؟"
+        },
+        {
+          "text": "He packed two warm sweaters and a book.",
+          "trans": "حزم كنزتين دافئتين وكتاباً."
+        }
+      ],
+      "related": []
+    },
+    "stone": {
+      "lemma": "stone",
+      "stress": "stoʊn",
+      "pos": "noun",
+      "gloss": "حجر؛ حجريّ (قبل اسم)",
+      "meanings": [
+        {
+          "en": "حجر؛ حجريّ (قبل اسم)",
+          "note": "معدود للحجارة المفردة (stones)، وصفة مادة في stone courtyard (ساحة حجرية)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm sunlight dried the wet courtyard stones.",
+          "trans": "جفّف ضوء الشمس الدافئ حجارة الساحة المبتلّة."
+        },
+        {
+          "text": "They sat by the low stone wall.",
+          "trans": "جلسا بجانب الجدار الحجري المنخفض."
+        }
+      ],
+      "related": []
+    },
+    "in": {
+      "lemma": "in",
+      "stress": "ɪn",
+      "pos": "prep",
+      "gloss": "في، داخل؛ بعد (للمدّة الزمنية القادمة)",
+      "meanings": [
+        {
+          "en": "في، داخل؛ بعد (للمدّة الزمنية القادمة)",
+          "note": "مع المكان تعني «داخل» (in the drawer)، ومع الزمن تعني «في غضون / بعد»: in ten minutes."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait in the warm dining room.",
+          "trans": "انتظر في غرفة الطعام الدافئة."
+        },
+        {
+          "text": "Coffee will be ready in three minutes.",
+          "trans": "ستكون القهوة جاهزة خلال ثلاث دقائق."
+        }
+      ],
+      "related": []
+    },
+    "here": {
+      "lemma": "here",
+      "stress": "hɪɹ",
+      "pos": "adv",
+      "gloss": "هنا؛ تفضّل (في Here is / Here you are)",
+      "meanings": [
+        {
+          "en": "هنا؛ تفضّل (في Here is / Here you are)",
+          "note": "عند مناولة شيء لشخص نقول Here is... أو Here you are! بمعنى «تفضّل!»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is your brass key for room four.",
+          "trans": "تفضّل مفتاحك النحاسي للغرفة الرابعة."
+        },
+        {
+          "text": "Sign your name right here, please.",
+          "trans": "وقّع اسمك هنا تماماً من فضلك."
+        }
+      ],
+      "related": []
+    },
+    "only": {
+      "lemma": "only",
+      "stress": "ˈoʊnli",
+      "pos": "adv",
+      "gloss": "فقط، لا غير",
+      "meanings": [
+        {
+          "en": "فقط، لا غير",
+          "note": "يوضع عادةً قبل الكلمة أو العبارة المراد حصرها."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We have only eight rooms at the inn.",
+          "trans": "لدينا ثماني غرف فقط في النزل."
+        },
+        {
+          "text": "This is the only key to the garden shed.",
+          "trans": "هذا هو المفتاح الوحيد لمخزن الحديقة."
+        }
+      ],
+      "related": []
+    },
+    "dress": {
+      "lemma": "dress",
+      "stress": "dɹɛs",
+      "pos": "noun",
+      "gloss": "فستان؛ يرتدي ثيابه",
+      "meanings": [
+        {
+          "en": "فستان؛ يرتدي ثيابه",
+          "note": "جمعه القياسي dresses بإضافة -es بعد حرفي ss."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "She packed two summer dresses in her bag.",
+          "trans": "وضعت فستانين صيفيين في حقيبتها."
+        },
+        {
+          "text": "That green dress looks lovely on you.",
+          "trans": "يبدو ذلك الفستان الأخضر جميلاً عليك."
+        }
+      ],
+      "related": []
+    },
+    "sheet": {
+      "lemma": "sheet",
+      "stress": "ʃit",
+      "pos": "noun",
+      "gloss": "ورقة؛ ملاءة سرير",
+      "meanings": [
+        {
+          "en": "ورقة؛ ملاءة سرير",
+          "note": "بصوت مدّ طويل /i/ (/ʃit/): a sheet of paper (ورقة) أو clean bed sheets (ملاءات نظيفة)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Sign your name on the top sheet.",
+          "trans": "وقّع اسمك على الورقة العلوية."
+        },
+        {
+          "text": "Fresh cotton sheets dry fast in the breeze.",
+          "trans": "تجفّ ملاءات القطن النظيفة سريعاً في النسيم."
+        }
+      ],
+      "related": []
+    },
+    "music": {
+      "lemma": "music",
+      "stress": "ˈmjuzɪk",
+      "pos": "noun",
+      "gloss": "موسيقى",
+      "meanings": [
+        {
+          "en": "موسيقى",
+          "note": "اسم غير معدود؛ وsheet music تعني «النوتة الموسيقية المطبوعة»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Soft piano music played in the parlor.",
+          "trans": "عُزفت موسيقى بيانو هادئة في الصالون."
+        },
+        {
+          "text": "Do you listen to music while you bake?",
+          "trans": "هل تستمعين إلى الموسيقى أثناء الخَبز؟"
+        }
+      ],
+      "related": []
+    },
+    "favorite": {
+      "lemma": "favorite",
+      "stress": "ˈfeɪvɹɪt",
+      "pos": "adj",
+      "gloss": "مفضَّل",
+      "meanings": [
+        {
+          "en": "مفضَّل",
+          "note": "تُكتب في الإنجليزية الأمريكية من دون حرف u (في البريطانية favourite)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Cinnamon rolls are my favorite breakfast.",
+          "trans": "لفائف القرفة هي فطوري المفضّل."
+        },
+        {
+          "text": "Which room is your favorite?",
+          "trans": "أيّ غرفة هي المفضّلة لديك؟"
+        }
+      ],
+      "related": []
+    },
+    "teacup": {
+      "lemma": "teacup",
+      "stress": "ˈtiˌkʌp",
+      "pos": "noun",
+      "gloss": "فنجان شاي",
+      "meanings": [
+        {
+          "en": "فنجان شاي",
+          "note": "في كلمة واحدة تدلّ على الوعاء الخزفي نفسه، أمّا cup of tea فتركّز على المشروب المسكوب."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm each ceramic teacup with hot water first.",
+          "trans": "دفّئ كلّ فنجان شاي خزفي بالماء الساخن أوّلاً."
+        },
+        {
+          "text": "Evelyn admired the blue floral teacup.",
+          "trans": "أُعجبت إيفلين بفنجان الشاي الأزرق المزيّن بالزهور."
+        }
+      ],
+      "related": []
+    },
+    "key": {
+      "lemma": "key",
+      "stress": "ki",
+      "pos": "noun",
+      "gloss": "مفتاح",
+      "meanings": [
+        {
+          "en": "مفتاح",
+          "note": "يُنطق بصوت /ki/ الطويل دائماً (وليس /keɪ/)؛ وعبارة under lock and key تعني «في الحفظ والصون»."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here is the brass key to room four.",
+          "trans": "تفضّل المفتاح النحاسي للغرفة الرابعة."
+        },
+        {
+          "text": "Eight keys hang neatly behind the desk.",
+          "trans": "تتدلّى ثمانية مفاتيح بانتظام خلف المكتب."
+        }
+      ],
+      "related": []
+    },
+    "number": {
+      "lemma": "number",
+      "stress": "ˈnʌmbɚ",
+      "pos": "noun",
+      "gloss": "رقم؛ عدد",
+      "meanings": [
+        {
+          "en": "رقم؛ عدد",
+          "note": "تُستعمل لأرقام الغرف والهواتف: room four / number four وphone number."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "May I have your phone number, please?",
+          "trans": "هل تعطيني رقم هاتفك من فضلك؟"
+        },
+        {
+          "text": "Check the brass number on your door.",
+          "trans": "تأكّد من الرقم النحاسي على بابك."
+        }
+      ],
+      "related": []
+    },
+    "breakfast": {
+      "lemma": "breakfast",
+      "stress": "ˈbɹɛkfəst",
+      "pos": "noun",
+      "gloss": "فطور، وجبة الإفطار",
+      "meanings": [
+        {
+          "en": "فطور، وجبة الإفطار",
+          "note": "غالباً ما يُستعمل بلا أداة تعريف بعد حروف الجر: for breakfast."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast is ready at seven.",
+          "trans": "الفطور جاهز في الساعة السابعة."
+        },
+        {
+          "text": "We had eggs and toast for breakfast.",
+          "trans": "تناولنا البيض والخبز المحمّص على الفطور."
+        }
+      ],
+      "related": []
+    },
+    "from": {
+      "lemma": "from",
+      "stress": "fɹʌm",
+      "pos": "prep",
+      "gloss": "مِن",
+      "meanings": [
+        {
+          "en": "مِن",
+          "note": "يدلّ على نقطة البداية في المكان أو الزمان أو المصدر (from seven thirty to ten)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm rolls came straight from the oven.",
+          "trans": "خرجت اللفائف الدافئة من الفرن مباشرة."
+        },
+        {
+          "text": "How far is the station from here?",
+          "trans": "كم تبعد المحطة من هنا؟"
+        }
+      ],
+      "related": []
+    },
+    "seven": {
+      "lemma": "seven",
+      "stress": "ˈsɛvən",
+      "pos": "num",
+      "gloss": "سبعة",
+      "meanings": [
+        {
+          "en": "سبعة",
+          "note": "يتكوّن من مقطعين (/ˈsɛvən/)، ومنه يُبنى seventeen وseventy."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa opens her bakery at seven sharp.",
+          "trans": "تفتح تيسا مخبزها عند السابعة تماماً."
+        },
+        {
+          "text": "Room seven faces the linden tree.",
+          "trans": "تطلّ الغرفة السابعة على شجرة الزيزفون."
+        }
+      ],
+      "related": []
+    },
+    "thirty": {
+      "lemma": "thirty",
+      "stress": "ˈθɝti",
+      "pos": "num",
+      "gloss": "ثلاثون",
+      "meanings": [
+        {
+          "en": "ثلاثون",
+          "note": "يقع النبر على المقطع الأول (/ˈθɝti/)، بخلاف thirteen التي يُنبر آخرها."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Breakfast ends at nine thirty.",
+          "trans": "ينتهي الفطور عند التاسعة والنصف (التاسعة والثلاثين دقيقة)."
+        },
+        {
+          "text": "Walk thirty paces past the bakery.",
+          "trans": "امشِ ثلاثين خطوة بعد المخبز."
+        }
+      ],
+      "related": []
+    },
+    "to": {
+      "lemma": "to",
+      "stress": "tu",
+      "pos": "prep",
+      "gloss": "إلى، نحو؛ أنْ (قبل الفعل المجرّد)",
+      "meanings": [
+        {
+          "en": "إلى، نحو؛ أنْ (قبل الفعل المجرّد)",
+          "note": "يدلّ على الوجهة (walk to the harbor) أو يسبق الفعل في صيغة المصدر (to know)."
         }
       ],
       "forms": null,
@@ -5776,8 +5148,371 @@
           "trans": "أهلاً بكم في نزل ساحة الزيزفون!"
         },
         {
-          "text": "You are very welcome! Enjoy your tea.",
-          "trans": "على الرحب والسعة! استمتع بشايك."
+          "text": "Tell me everything I need to know.",
+          "trans": "أخبرني بكلّ ما أحتاج إلى معرفته."
+        }
+      ],
+      "related": []
+    },
+    "ten": {
+      "lemma": "ten",
+      "stress": "tɛn",
+      "pos": "num",
+      "gloss": "عشرة",
+      "meanings": [
+        {
+          "en": "عشرة",
+          "note": "عدد محوري للدقائق والمواعيد اليومية."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You are ten minutes early today.",
+          "trans": "أنتِ مبكّرة عشر دقائق اليوم."
+        },
+        {
+          "text": "Breakfast runs from eight until ten.",
+          "trans": "يُقدَّم الفطور من الثامنة حتى العاشرة."
+        }
+      ],
+      "related": []
+    },
+    "wonderful": {
+      "lemma": "wonderful",
+      "stress": "ˈwʌndɚfəl",
+      "pos": "adj",
+      "gloss": "رائع، بديع",
+      "meanings": [
+        {
+          "en": "رائع، بديع",
+          "note": "كلمة ثناء دافئة ومحبّبة للطعام والأخبار والأوقات الجميلة."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "What wonderful news—Caleb found the taxi!",
+          "trans": "يا لها من أخبار رائعة — لقد عثر كاليب على سيارة الأجرة!"
+        },
+        {
+          "text": "Have a wonderful afternoon in Portland!",
+          "trans": "أتمنّى لك بعد ظهر رائعاً في بورتلاند!"
+        }
+      ],
+      "related": []
+    },
+    "window": {
+      "lemma": "window",
+      "stress": "ˈwɪndoʊ",
+      "pos": "noun",
+      "gloss": "نافذة، شبّاك",
+      "meanings": [
+        {
+          "en": "نافذة، شبّاك",
+          "note": "العبارة by the window تعني «بجانب النافذة»، وهو أجمل مقعد في النزل."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Sit at the sunny table by the window.",
+          "trans": "اجلس إلى الطاولة المشمسة بجانب النافذة."
+        },
+        {
+          "text": "Open the window to hear the harbor gulls.",
+          "trans": "افتح النافذة لتسمع نوارس الميناء."
+        }
+      ],
+      "related": []
+    },
+    "face": {
+      "lemma": "face",
+      "stress": "feɪs",
+      "pos": "verb",
+      "gloss": "يواجه، يطلّ على؛ وجه",
+      "meanings": [
+        {
+          "en": "يواجه، يطلّ على؛ وجه",
+          "note": "عند الحديث عن الغرف والنوافذ يعني «يطلّ على» (facing the courtyard)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "face"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "faces"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "faced"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "faced"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "facing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Room three faces the quiet courtyard.",
+          "trans": "تطلّ الغرفة الثالثة على الساحة الهادئة."
+        },
+        {
+          "text": "Turn your chair to face the garden.",
+          "trans": "أدِر كرسيك ليواجه الحديقة."
+        }
+      ],
+      "related": []
+    },
+    "street": {
+      "lemma": "street",
+      "stress": "stɹit",
+      "pos": "noun",
+      "gloss": "شارع",
+      "meanings": [
+        {
+          "en": "شارع",
+          "note": "في العناوين الأمريكية يُستعمل معها حرف الجرّ on: on Linden Street."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our guesthouse stands on quiet Linden Street.",
+          "trans": "تقع دار الضيافة الخاصة بنا في شارع ليندن الهادئ."
+        },
+        {
+          "text": "Cross the street to reach the bakery.",
+          "trans": "اعبر الشارع للوصول إلى المخبز."
+        }
+      ],
+      "related": []
+    },
+    "or": {
+      "lemma": "or",
+      "stress": "ɔɹ",
+      "pos": "conj",
+      "gloss": "أو، أم (للتخيير)",
+      "meanings": [
+        {
+          "en": "أو، أم (للتخيير)",
+          "note": "يربط بين خيارين في السؤال والإثبات: coffee or black tea?."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Would you like coffee or tea?",
+          "trans": "هل ترغب في القهوة أم الشاي؟"
+        },
+        {
+          "text": "Call me today or tomorrow morning.",
+          "trans": "اتصل بي اليوم أو صباح الغد."
+        }
+      ],
+      "related": []
+    },
+    "courtyard": {
+      "lemma": "courtyard",
+      "stress": "ˈkɔɹtˌjɑɹd",
+      "pos": "noun",
+      "gloss": "ساحة داخلية، فناء",
+      "meanings": [
+        {
+          "en": "ساحة داخلية، فناء",
+          "note": "فناء مفتوح للسماء تحيط به جدران المبنى."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lanterns glow in the stone courtyard at dusk.",
+          "trans": "تضيء الفوانيس في الساحة الحجرية عند الغسق."
+        },
+        {
+          "text": "My window faces the quiet courtyard.",
+          "trans": "تطلّ نافذتي على الساحة الهادئة."
+        }
+      ],
+      "related": []
+    },
+    "right": {
+      "lemma": "right",
+      "stress": "ɹaɪt",
+      "pos": "adj",
+      "gloss": "صحيح؛ يمين؛ تماماً / فوراً (ظرف)",
+      "meanings": [
+        {
+          "en": "صحيح؛ يمين؛ تماماً / فوراً (ظرف)",
+          "note": "كظرف تقوّي المكان والزمان: right here (هنا بالضبط)، right now / right away (فوراً)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You have the right room key now.",
+          "trans": "معك مفتاح الغرفة الصحيح الآن."
+        },
+        {
+          "text": "Your room is the second door on the right.",
+          "trans": "غرفتك هي الباب الثاني على اليمين."
+        }
+      ],
+      "related": []
+    },
+    "above": {
+      "lemma": "above",
+      "stress": "əˈbʌv",
+      "pos": "prep",
+      "gloss": "فوق، أعلى من",
+      "meanings": [
+        {
+          "en": "فوق، أعلى من",
+          "note": "يفيد العلوّ دون ملامسة مباشرة للسطح."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A lamp hangs above the table.",
+          "trans": "يتدلّى مصباح فوق الطاولة."
+        },
+        {
+          "text": "Our room is above the garden.",
+          "trans": "غرفتنا تقع فوق الحديقة."
+        }
+      ],
+      "related": []
+    },
+    "old": {
+      "lemma": "old",
+      "stress": "oʊld",
+      "pos": "adj",
+      "gloss": "قديم؛ كبير السنّ",
+      "meanings": [
+        {
+          "en": "قديم؛ كبير السنّ",
+          "note": "تصف الأشياء العتيقة (old tree)، والأصدقاء القدامى (old friends)، والعمر."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Portland has a charming old port district.",
+          "trans": "تضمّ بورتلاند حيّ ميناء قديماً ساحراً."
+        },
+        {
+          "text": "This brass bell is eighty years old.",
+          "trans": "عمر هذا الجرس النحاسي ثمانون عاماً."
+        }
+      ],
+      "related": []
+    },
+    "tree": {
+      "lemma": "tree",
+      "stress": "tɹi",
+      "pos": "noun",
+      "gloss": "شجرة",
+      "meanings": [
+        {
+          "en": "شجرة",
+          "note": "تبدأ بالتاء والراء /tɹi/، فانتبه للتمييز بينها وبين العدد three (/θɹi/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A tall linden tree shades the courtyard.",
+          "trans": "تظلّل شجرة زيزفون عالية ساحة النزل."
+        },
+        {
+          "text": "Birds sing in the garden trees every morning.",
+          "trans": "تغرّد العصافير في أشجار الحديقة كلّ صباح."
+        }
+      ],
+      "related": []
+    },
+    "it": {
+      "lemma": "it",
+      "stress": "ɪt",
+      "pos": "pron",
+      "gloss": "هو / هي (لغير العاقل)؛ ضمير الطقس والوقت",
+      "meanings": [
+        {
+          "en": "هو / هي (لغير العاقل)؛ ضمير الطقس والوقت",
+          "note": "إلزامي مع الأشياء المفردة (it opens) ومع أفعال الطقس (when it rains)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the handle, and it opens easily.",
+          "trans": "ارفع المقبض، فينفتح الباب بسهولة."
+        },
+        {
+          "text": "It is sunny and warm this afternoon.",
+          "trans": "الجو مشمس ودافئ بعد ظهر اليوم."
+        }
+      ],
+      "related": []
+    },
+    "just": {
+      "lemma": "just",
+      "stress": "dʒʌst",
+      "pos": "adv",
+      "gloss": "فقط، فحسب؛ للتوّ؛ تماماً",
+      "meanings": [
+        {
+          "en": "فقط، فحسب؛ للتوّ؛ تماماً",
+          "note": "يلطّف الطلبات (just half a glass)، ومع الماضي يدلّ على حدث وقع للتوّ (just rang)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Give me just one minute, please.",
+          "trans": "أمهلني دقيقة واحدة فقط من فضلك."
+        },
+        {
+          "text": "The taxi just pulled up outside.",
+          "trans": "توقّفت سيارة الأجرة في الخارج للتوّ."
         }
       ],
       "related": []
@@ -5807,6 +5542,69 @@
       ],
       "related": []
     },
+    "need": {
+      "lemma": "need",
+      "stress": "nid",
+      "pos": "verb",
+      "gloss": "يحتاج إلى",
+      "meanings": [
+        {
+          "en": "يحتاج إلى",
+          "note": "يتبعه اسم (need plain butter) أو مصدر مسبوق بـ to (need to know)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "need"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "needs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "needed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "needed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "needing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tell me everything I need to know.",
+          "trans": "أخبرني بكل ما أحتاج إلى معرفته."
+        },
+        {
+          "text": "Do you need an extra towel for your room?",
+          "trans": "هل تحتاج إلى منشفة إضافية لغرفتك؟"
+        }
+      ],
+      "related": []
+    },
     "where": {
       "lemma": "where",
       "stress": "wɛɹ",
@@ -5828,6 +5626,82 @@
         {
           "text": "Where would you like to sit?",
           "trans": "أين تحبّ أن تجلس؟"
+        }
+      ],
+      "related": []
+    },
+    "stairs": {
+      "lemma": "stairs",
+      "stress": "stɛɹz",
+      "pos": "noun",
+      "gloss": "دَرَج، سُلّم داخلي",
+      "meanings": [
+        {
+          "en": "دَرَج، سُلّم داخلي",
+          "note": "ترد بالجمع دائماً تقريباً (up the stairs)؛ أمّا الدرجة المفردة فهي step."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Follow me up the wooden stairs.",
+          "trans": "اتبعني صعوداً على الدرج الخشبي."
+        },
+        {
+          "text": "Her room is right at the top of the stairs.",
+          "trans": "غرفتها في أعلى الدرج مباشرةً."
+        }
+      ],
+      "related": [],
+      "number": "pl"
+    },
+    "through": {
+      "lemma": "through",
+      "stress": "θɹu",
+      "pos": "prep",
+      "gloss": "عَبْر، من خلال",
+      "meanings": [
+        {
+          "en": "عَبْر، من خلال",
+          "note": "حرفا gh صامتان تماماً: تُنطق /θɹu/ تماماً مثل threw."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Walk through the courtyard to the kitchen.",
+          "trans": "امشِ عبر الساحة للوصول إلى المطبخ."
+        },
+        {
+          "text": "Sunlight came through the tall windows.",
+          "trans": "دخل ضوء الشمس عبر النوافذ العالية."
+        }
+      ],
+      "related": []
+    },
+    "archway": {
+      "lemma": "archway",
+      "stress": "ˈɑɹtʃˌweɪ",
+      "pos": "noun",
+      "gloss": "ممرّ مقنطر، قوس",
+      "meanings": [
+        {
+          "en": "ممرّ مقنطر، قوس",
+          "note": "مدخل أو ممرّ يعلوه قوس معماري."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Walk through the stone archway.",
+          "trans": "اعبر من خلال الممرّ الحجري المقنطر."
+        },
+        {
+          "text": "The courtyard lies beyond that archway.",
+          "trans": "تقع الساحة خلف ذلك القوس."
         }
       ],
       "related": []
@@ -5895,127 +5769,278 @@
       ],
       "related": []
     },
-    "window": {
-      "lemma": "window",
-      "stress": "ˈwɪndoʊ",
-      "pos": "noun",
-      "gloss": "نافذة، شبّاك",
+    "carry": {
+      "lemma": "carry",
+      "stress": "ˈkæɹi",
+      "pos": "verb",
+      "gloss": "يحمل، ينقل",
       "meanings": [
         {
-          "en": "نافذة، شبّاك",
-          "note": "العبارة by the window تعني «بجانب النافذة»، وهو أجمل مقعد في النزل."
+          "en": "يحمل، ينقل",
+          "note": "يعني حمل الشيء باليدين أو اصطحابه باستمرار."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "carry"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "carries"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "carried"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "carried"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "carrying"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "Sit at the sunny table by the window.",
-          "trans": "اجلس إلى الطاولة المشمسة بجانب النافذة."
+          "text": "Let me carry that heavy suitcase.",
+          "trans": "دعني أحمل عنك تلك الحقيبة الثقيلة."
         },
         {
-          "text": "Open the window to hear the harbor gulls.",
-          "trans": "افتح النافذة لتسمع نوارس الميناء."
+          "text": "She always carries a small notebook.",
+          "trans": "تحمل معها دفتراً صغيراً دائماً."
         }
       ],
       "related": []
     },
-    "wonderful": {
-      "lemma": "wonderful",
-      "stress": "ˈwʌndɚfəl",
+    "blue": {
+      "lemma": "blue",
+      "stress": "blu",
       "pos": "adj",
-      "gloss": "رائع، بديع",
+      "gloss": "أزرق",
       "meanings": [
         {
-          "en": "رائع، بديع",
-          "note": "كلمة ثناء دافئة ومحبّبة للطعام والأخبار والأوقات الجميلة."
+          "en": "أزرق",
+          "note": "تسبق الصفةُ الموصوفَ في الإنجليزية ولا تتغير تذكيراً أو تأنيثاً أو جمعاً."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "What wonderful news—Caleb found the taxi!",
-          "trans": "يا لها من أخبار رائعة — لقد عثر كاليب على سيارة الأجرة!"
+          "text": "Look at that clear blue sky.",
+          "trans": "انظر إلى تلك السماء الزرقاء الصافية."
         },
         {
-          "text": "Have a wonderful afternoon in Portland!",
-          "trans": "أتمنّى لك بعد ظهر رائعاً في بورتلاند!"
+          "text": "My suitcase has a blue handle.",
+          "trans": "لحقيبتي مقبض أزرق."
         }
       ],
       "related": []
     },
-    "yes": {
-      "lemma": "yes",
-      "stress": "jɛs",
-      "pos": "interj",
-      "gloss": "نعم، أجل",
+    "bag": {
+      "lemma": "bag",
+      "stress": "bæɡ",
+      "pos": "noun",
+      "gloss": "حقيبة، كيس",
       "meanings": [
         {
-          "en": "نعم، أجل",
-          "note": "كلمة الإثبات القياسية في جميع المستويات الرسمية واليومية."
+          "en": "حقيبة، كيس",
+          "note": "كلمة شاملة لأكياس التسوّق وحقائب اليد وحقائب السفر."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Yes, eight rooms and eight brass keys.",
-          "trans": "نعم، ثماني غرف وثمانية مفاتيح نحاسية."
+          "text": "Can I help you with your bag?",
+          "trans": "هل أساعدك في حمل حقيبتك؟"
         },
         {
-          "text": "Yes, please! I would love some coffee.",
-          "trans": "نعم من فضلك! أحبّ الحصول على بعض القهوة."
+          "text": "Bring a cloth bag to the market.",
+          "trans": "أحضر كيساً قماشياً إلى السوق."
         }
       ],
       "related": []
     },
-    "you": {
-      "lemma": "you",
-      "stress": "ju",
-      "pos": "pron",
-      "gloss": "أنتَ، أنتِ، أنتما، أنتم، أنتنّ؛ حضرتك؛ ـكَ/ـكِ/ـكم",
+    "up": {
+      "lemma": "up",
+      "stress": "ʌp",
+      "pos": "adv",
+      "gloss": "إلى الأعلى، فوق",
       "meanings": [
         {
-          "en": "أنتَ، أنتِ، أنتما، أنتم، أنتنّ؛ حضرتك؛ ـكَ/ـكِ/ـكم",
-          "note": "ضمير واحد للمفرد والمثنّى والجمع، وللخطاب الودّي والرسمي، ويأخذ دائماً الفعل are!"
+          "en": "إلى الأعلى، فوق",
+          "note": "يدخل في أفعال يومية لا غنى عنها مثل wake up (يستيقظ) وpick up (يلتقط)."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "You are ten minutes early today!",
-          "trans": "أنتِ مبكّرة عشر دقائق اليوم!"
+          "text": "Pick up the brass key from the tray.",
+          "trans": "التقط المفتاح النحاسي من الصينية."
         },
         {
-          "text": "Thank you! See you next time!",
-          "trans": "شكراً لك! أراك في المرّة القادمة!"
+          "text": "Look up at the painted wooden sign.",
+          "trans": "انظر إلى الأعلى نحو اللافتة الخشبية المطلية."
         }
       ],
       "related": []
     },
-    "your": {
-      "lemma": "your",
-      "stress": "jʊɹ",
+    "both": {
+      "lemma": "both",
+      "stress": "boʊθ",
       "pos": "det",
-      "gloss": "ـكَ، ـكِ، ـكم، خاصّتك (صفة ملكية قبل الاسم)",
+      "gloss": "كلا، كلاهما",
       "meanings": [
         {
-          "en": "ـكَ، ـكِ، ـكم، خاصّتك (صفة ملكية قبل الاسم)",
-          "note": "توضع دائماً قبل اسم؛ وانتبه لعدم الخلط بينها وبين الاختصار you're (أي you are)."
+          "en": "كلا، كلاهما",
+          "note": "يشير حصراً إلى شخصين اثنين أو شيئين اثنين."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Here is your room key, Evelyn.",
-          "trans": "تفضّلي مفتاح غرفتك يا إيفلين."
+          "text": "Both windows face the garden.",
+          "trans": "كلتا النافذتين تطلّان على الحديقة."
         },
         {
-          "text": "Enjoy your morning coffee!",
-          "trans": "استمتع بقهوة الصباح الخاصة بك!"
+          "text": "Thank you both for your help.",
+          "trans": "شكراً لكما معاً على مساعدتكما."
+        }
+      ],
+      "related": []
+    },
+    "much": {
+      "lemma": "much",
+      "stress": "mʌtʃ",
+      "pos": "adv",
+      "gloss": "كثيراً، جدّاً؛ كمّية كبيرة",
+      "meanings": [
+        {
+          "en": "كثيراً، جدّاً؛ كمّية كبيرة",
+          "note": "تُقوّي المقارنة (much better = أفضل بكثير) وتختم الشكر (Thank you very much)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Thank you so much for your help!",
+          "trans": "شكراً جزيلاً لك على مساعدتك!"
+        },
+        {
+          "text": "How much sugar do you like in tea?",
+          "trans": "كم تفضّل من السكّر في الشاي؟"
+        }
+      ],
+      "related": []
+    },
+    "take": {
+      "lemma": "take",
+      "stress": "teɪk",
+      "pos": "verb",
+      "gloss": "يأخذ؛ يستقلّ (مواصلات)؛ يستغرق",
+      "meanings": [
+        {
+          "en": "يأخذ؛ يستقلّ (مواصلات)؛ يستغرق",
+          "note": "فعل محوري: take a taxi (يستقلّ تاكسي)، take your time (خذ وقتك)، How do you take your coffee?."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "take"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "takes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "took"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "taken"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "taking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Take an umbrella before you walk to the harbor.",
+          "trans": "خذ مظلّة قبل أن تمشي إلى الميناء."
+        },
+        {
+          "text": "Someone took the wrong blue bag from the taxi.",
+          "trans": "أخذ أحدهم الحقيبة الزرقاء الخطأ من سيارة الأجرة."
+        }
+      ],
+      "related": []
+    },
+    "care": {
+      "lemma": "care",
+      "stress": "kɛɹ",
+      "pos": "noun",
+      "gloss": "عناية، اهتمام",
+      "meanings": [
+        {
+          "en": "عناية، اهتمام",
+          "note": "شائع في التحية الوداعية Take care! (اعتنِ بنفسك) وفي take care of (يعتني بـ)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Take care on the wet stone steps.",
+          "trans": "انتبه لخطواتك على الدرجات الحجرية المبتلة."
+        },
+        {
+          "text": "Who takes care of the garden?",
+          "trans": "من يعتني بالحديقة؟"
         }
       ],
       "related": []

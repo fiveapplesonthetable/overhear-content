@@ -44,7 +44,7 @@ STORY = [('arthur',
  ('hannah',
   'After we guarded his blue suitcase all week? He will want to help!',
   'Nachdem wir die ganze Woche seinen blauen Koffer gehütet haben? Er wird uns liebend gern helfen!'),
- ('graham', 'Wait, here comes Tessa back from their table right now.', 'Wartet, da kommt Tessa gerade von ihrem Tisch zurück.')]
+ ('graham', 'Wait, Tessa is taking the cake out to their table right now.', 'Wartet, Tessa bringt gerade den Kuchen an ihren Tisch.')]
 WALK = [(0,
   None,
   ["'Fünfzehn Jahre Messingschlüssel polieren und Krawatten geraderücken... in dreißig Tagen alles vorbei!' Dass etwas nach Ablauf einer "
@@ -109,5 +109,5 @@ WALK = [(0,
  (11,
   None,
   ["'Wartet, da kommt Tessa gerade von ihrem Tisch zurück.' Mit einem vollen Namen am Schluss behält",
-   (None, 'here comes Tessa'),
+   (None, 'Tessa is taking'),
    'die umgedrehte Wortstellung vor dem Subjekt bei.'])]

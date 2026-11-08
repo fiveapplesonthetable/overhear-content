@@ -15,8 +15,8 @@ OUTRO = 'A mala da dona Evelyn voltou, mas o desconhecido sumiu na noite pedindo
 CLOSING = ('graham', 'Have a good night!')
 STORY = [
     ('hannah', 'Did you hear that, Graham? Someone just rang the gate bell!', 'Você ouviu isso, Graham? Alguém acabou de tocar o sino do portão!'),
-    ('graham', "At nine o'clock? Stay here, let us open the door together.", 'Às nove em ponto? Fique aqui, vamos abrir a porta juntos.'),
-    ('hannah', 'Hello? Good evening! Nobody is standing in the courtyard!', 'Alô? Boa noite! Não tem ninguém parado no pátio!'),
+    ('graham', "At nine o'clock? Wait, let us open the gate together.", 'Às nove em ponto? Espere, vamos abrir o portão juntos.'),
+    ('hannah', 'Hello? Good evening! Nobody is standing at the gate!', 'Alô? Boa noite! Não tem ninguém parado no portão!'),
     ('graham', 'Wait. Look down on the stone step.', 'Espere. Olhe para baixo, no degrau de pedra.'),
     ('hannah', "Another dark blue suitcase! Is this Miss Evelyn's bag?", 'Outra mala azul-escura! Esta é a mala da dona Evelyn?'),
     ('graham', 'Check the zipper... yes, her initials are right here!', 'Confira o zíper... sim, as iniciais dela estão bem aqui!'),
@@ -29,8 +29,8 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Você ouviu isso, Graham? Alguém acabou de tocar o sino do portão!' Veja como a pergunta no passado começa limpa com", (None, 'Did you hear that'), 'deixando o verbo ouvir sem alteração.']),
-    (1, None, ["'Às nove em ponto? Fique aqui, vamos abrir a porta juntos.' Para horas redondas no relógio usamos", (None, "nine o'clock"), "exatamente como 'nove em ponto'."]),
-    (2, None, ["'Alô? Boa noite! Não tem ninguém parado no pátio!' Lembre desta diferença essencial: ao chegar ou atender alguém à noite dizemos", (None, 'Good evening'), 'enquanto a despedida na hora de dormir é outra.']),
+    (1, None, ["'Às nove em ponto? Espere, vamos abrir o portão juntos.' Um simples", (None, 'Wait'), 'funciona perfeitamente para pedir que alguém pare ou aguarde um instante.']),
+    (2, None, ["'Alô? Boa noite! Não tem ninguém parado no portão!' Lembre desta diferença essencial: ao chegar ou atender alguém à noite dizemos", (None, 'Good evening'), 'enquanto a despedida na hora de dormir é outra.']),
     (3, None, ["'Espere. Olhe para baixo, no degrau de pedra.' Juntar o verbo olhar com a direção em", (None, 'Look down'), 'orienta o olhar na mesma hora para o chão.']),
     (4, None, ["'Outra mala azul-escura! Esta é a mala da dona Evelyn?' Para dizer 'mais uma' no singular, o inglês junta artigo e adjetivo numa palavra só:", (None, 'Another'), 'outra mala.']),
     (5, None, ["'Confira o zíper... sim, as iniciais dela estão bem aqui!' Em inglês o possessivo concorda com quem possui, não com a coisa possuída; por isso 'as iniciais dela' fica", (None, 'her initials'), 'sem marca de plural no possessivo.']),

@@ -15,7 +15,7 @@ OUTRO = "Hannah ha gestito la sua prima registrazione con garbo, ma Graham ha no
 CLOSING = ("evelyn", "Take care!")
 STORY = [
     ("hannah", "Welcome! Good morning, ma'am.", "Benvenuta! Buongiorno, signora."),
-    ("evelyn", "Good morning, my dear. I have a room for Evelyn.", "Buongiorno, cara. Ho una camera prenotata a nome Evelyn."),
+    ("evelyn", "Good morning, my dear. I have a booking for Evelyn.", "Buongiorno, cara. Ho una prenotazione a nome Evelyn."),
     ("hannah", "Yes, room four on the second floor! How was your train trip?", "Sì, la camera quattro al secondo piano! Com'è andato il suo viaggio in treno?"),
     ("evelyn", "Quiet and pleasant, thank you, though this suitcase feels very heavy today.", "Tranquillo e piacevole, grazie, anche se questa valigia sembra molto pesante oggi."),
     ("graham", "Allow me. Goodness, did you pack stones in here?", "Mi permetta. Perbacco, ha messo delle pietre qui dentro?"),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Benvenuta! Buongiorno, signora.' Negli Stati Uniti l'appellativo cortese più naturale per rivolgersi a una signora è", (None, "ma'am"), "breve, caldo e molto rispettoso."]),
-    (1, None, ["'Buongiorno, cara. Ho una camera prenotata a nome Evelyn.' Quando arrivi in albergo ti basta dire", (None, "I have a room for"), "seguito dal tuo nome per annunciare la prenotazione."]),
+    (1, None, ["'Buongiorno, cara. Ho una prenotazione a nome Evelyn.' Quando arrivi in albergo ti basta dire", (None, "I have a booking for"), "seguito dal tuo nome per annunciare la prenotazione."]),
     (2, None, ["'Sì, la camera quattro al secondo piano! Com'è andato il suo viaggio in treno?' Ricorda che negli Stati Uniti il pianterreno conta come primo livello, e per chiedere del viaggio passato usi", (None, "How was your train trip"), "al passato semplice."]),
     (3, None, ["'Tranquillo e piacevole, grazie, anche se questa valigia sembra molto pesante oggi.' La combinazione", (None, "feels very heavy"), "descrive la sensazione fisica di peso che provi sollevando o tirando il bagaglio."]),
     (4, None, ["'Mi permetta. Perbacco, ha messo delle pietre qui dentro?' Per offrirti con galanteria di portare un peso dici", (None, "Allow me"), "mentre", (None, "Goodness"), "è un'esclamazione garbata di stupore."]),
@@ -43,7 +43,7 @@ WALK = [
 ]
 CALLOUT_TRANS = {
     "ma'am": "signora",
-    "I have a room for": "ho una camera a nome di",
+    "I have a booking for": "ho una camera a nome di",
     "How was your train trip": "com'è andato il suo viaggio in treno",
     "feels very heavy": "sembra molto pesante",
     "Allow me": "mi permetta",

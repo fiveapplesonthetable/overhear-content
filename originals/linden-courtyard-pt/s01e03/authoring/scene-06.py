@@ -23,7 +23,7 @@ STORY = [
     ('arthur', 'Do not snoop, of course... wait, it fell open to the middle page!', 'Não bisbilhotem, é claro... esperem, ele caiu aberto bem na página do meio!'),
     ('hannah', 'Why are there neat pencil drawings of three guesthouses on our street?', 'Por que tem desenhos caprichados a lápis de três pousadas da nossa rua?'),
     ('tessa', "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'", "Olhem as palavras ao lado da nossa: 'Largura do pátio, barulho da rua, nota de silêncio: nove de dez!'"),
-    ('arthur', 'Nine out of ten?! Nobody measures lobbies unless...', 'Nove de dez?! Ninguém mede recepções a não ser que...'),
+    ('arthur', 'Nine out of ten?! Nobody measures courtyards unless...', 'Nove de dez?! Ninguém mede pátios a não ser que...'),
     ('tessa', 'Unless he writes for the annual Portland Travel Guide!', 'A não ser que ele escreva para o Guia Anual de Viagens de Portland!'),
     ('hannah', 'Quick, close it! Let us take it upstairs... wait, what is that loud clanking sound?', 'Rápido, feche isso! Vamos levar lá para cima... esperem, que barulho alto de metal batendo é esse?'),
 ]
@@ -37,7 +37,7 @@ WALK = [
     (6, None, ["'Não bisbilhotem, é claro... esperem, ele caiu aberto bem na página do meio!' A dupla", (None, 'fell open'), 'descreve um caderno que se abre sozinho ao cair na mesa.']),
     (7, None, ["'Por que tem desenhos caprichados a lápis de três pousadas da nossa rua?' Para perguntar 'por que há...?' no plural, o inglês inverte para", (None, 'Why are there'), "antes de 'drawings'."]),
     (8, None, ["'Olhem as palavras ao lado da nossa: Largura do pátio, barulho da rua, nota de silêncio: nove de dez!' Em notas e avaliações usa-se sempre", (None, 'nine out of ten'), 'nove em dez.']),
-    (9, None, ["'Nove de dez?! Ninguém mede recepções a não ser que...' A conjunção", (None, 'unless'), "concentra numa palavra só o nosso 'a menos que' ou 'a não ser que'."]),
+    (9, None, ["'Nove de dez?! Ninguém mede pátios a não ser que...' A conjunção", (None, 'unless'), "concentra numa palavra só o nosso 'a menos que' ou 'a não ser que'."]),
     (10, None, ["'A não ser que ele escreva para o Guia Anual de Viagens de Portland!' Enquanto o português pede subjuntivo, o inglês segue no presente simples:", (None, 'Unless he writes'), 'com esse no verbo.']),
     (11, None, ["'Rápido, feche isso! Vamos levar lá para cima... esperem, que barulho alto de metal batendo é esse?' A expressão", (None, 'clanking sound'), 'imita o próprio som pesado de ferro batendo em ferro.']),
 ]

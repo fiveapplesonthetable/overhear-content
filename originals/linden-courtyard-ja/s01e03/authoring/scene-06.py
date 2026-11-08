@@ -23,7 +23,7 @@ STORY = [
     ('arthur', 'Do not snoop, of course... wait, it fell open to the middle page!', 'もちろん、のぞき見は禁物だぞ…待て、真ん中のページがぱっと開いてしまった！'),
     ('hannah', 'Why are there neat pencil drawings of three guesthouses on our street?', 'どうしてうちの通りにある三軒の宿の、きれいな鉛筆画が描いてあるの？'),
     ('tessa', "Look at the words beside ours: 'Courtyard width, street noise, quiet score: nine out of ten!'", 'うちの絵の横の言葉を見て。「中庭の幅、通りの騒音、静けさの評価：十点中九点！」'),
-    ('arthur', 'Nine out of ten?! Nobody measures lobbies unless...', '十点中九点だって？！ロビーの寸法を測る人なんて、普通はいないぞ、もし…'),
+    ('arthur', 'Nine out of ten?! Nobody measures courtyards unless...', '十点中九点だって？！中庭の寸法を測る人なんて、普通はいないぞ、もし…'),
     ('tessa', 'Unless he writes for the annual Portland Travel Guide!', 'もし毎年出るポートランド旅行ガイドの記者でもなければね！'),
     ('hannah', 'Quick, close it! Let us take it upstairs... wait, what is that loud clanking sound?', '早く閉じて！上へ持っていきましょう…待って、あの大きなガチャガチャいう音は何？'),
 ]
@@ -37,7 +37,7 @@ WALK = [
     (6, None, ["'もちろん、のぞき見は禁物だぞ…待て、真ん中のページがぱっと開いてしまった！' 他人の物をこっそり探る行為を", (None, 'snoop'), 'と言います。また本が勝手に開く様子は「落ちて開く」という発想で表しています。']),
     (7, None, ["'どうしてうちの通りにある三軒の宿の、きれいな鉛筆画が描いてあるの？' 存在を尋ねる", (None, 'Why are there'), 'は、存在を表す文の語順をひっくり返して疑問文にした形です。']),
     (8, None, ["'うちの絵の横の言葉を見て。「中庭の幅、通りの騒音、静けさの評価：十点中九点！」' 点数を伝える", (None, 'nine out of ten'), 'は、全体の中からいくつかを取り出すという感覚で、評価や割合によく使います。']),
-    (9, None, ["'十点中九点だって？！ロビーの寸法を測る人なんて、普通はいないぞ、もし…' 誰もしないことを言うには", (None, 'Nobody measures'), 'のように、否定の主語に肯定の動詞を合わせます。日本語のように動詞を打ち消す必要はありません。']),
+    (9, None, ["'十点中九点だって？！中庭の寸法を測る人なんて、普通はいないぞ、もし…' 誰もしないことを言うには", (None, 'Nobody measures'), 'のように、否定の主語に肯定の動詞を合わせます。日本語のように動詞を打ち消す必要はありません。']),
     (10, None, ["'もし毎年出るポートランド旅行ガイドの記者でもなければね！' 前の人の言葉を受けて文を完成させる", (None, 'Unless he writes for'), 'は、「もし〜でない限り」という条件を表す接続詞で始まっています。']),
     (11, None, ["'早く閉じて！上へ持っていきましょう…待って、あの大きなガチャガチャいう音は何？' 金属同士がぶつかる響きを表す擬音語", (None, 'clanking'), 'は、そのまま形容詞のように名詞の前に置かれています。']),
 ]

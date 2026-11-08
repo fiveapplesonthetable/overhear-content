@@ -36,7 +36,7 @@ STORY = [('hannah',
   "Excuse me, ma'am, I shall retreat to my office with dignity!",
   'Entschuldigen Sie mich bitte, ich ziehe mich mit Würde in mein Büro zurück!'),
  ('evelyn',
-  'Your scrambled eggs are delicious, Hannah. Tell Tessa my compliments!',
+  'The scrambled eggs are delicious, Hannah. Tell Tessa my compliments!',
   'Ihr Rührei ist köstlich, Hannah. Richten Sie Tessa mein Kompliment aus!'),
  ('hannah', 'I will! Enjoy your morning.', 'Mach ich gern! Genießen Sie Ihren Vormittag.')]
 WALK = [(0,

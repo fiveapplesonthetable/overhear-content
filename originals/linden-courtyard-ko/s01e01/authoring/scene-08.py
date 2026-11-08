@@ -15,8 +15,8 @@ OUTRO = '에블린 선생님의 가방은 무사히 돌아왔지만 정작 자�
 CLOSING = ('graham', 'Have a good night!')
 STORY = [
     ('hannah', 'Did you hear that, Graham? Someone just rang the gate bell!', '방금 그 소리 들으셨어요, 그레이엄? 누군가 대문 초인종을 울렸어요!'),
-    ('graham', "At nine o'clock? Stay here, let us open the door together.", '아홉 시 정각에 말인가요? 여기 계세요, 우리 같이 문을 열어 봅시다.'),
-    ('hannah', 'Hello? Good evening! Nobody is standing in the courtyard!', '계세요? 안녕하세요! 안뜰에는 아무도 서 있지 않아요!'),
+    ('graham', "At nine o'clock? Wait, let us open the gate together.", '아홉 시에 도착한다고요? 잠깐만요, 대문을 같이 열자고요.'),
+    ('hannah', 'Hello? Good evening! Nobody is standing at the gate!', '계세요? 안녕하세요! 대문에는 아무도 서 있지 않아요!'),
     ('graham', 'Wait. Look down on the stone step.', '잠깐만요. 저기 돌계단 아래쪽을 내려다보세요.'),
     ('hannah', "Another dark blue suitcase! Is this Miss Evelyn's bag?", '또 다른 짙은 파란색 여행 가방이에요! 이게 에블린 선생님 가방인가요?'),
     ('graham', 'Check the zipper... yes, her initials are right here!', '지퍼 쪽을 확인해 보세요... 네, 선생님 이름 머리글자가 바로 여기 있네요!'),
@@ -29,8 +29,8 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'방금 그 소리 들으셨어요, 그레이엄? 누군가 대문 초인종을 울렸어요!' 방금 들린 소리를 상대방도 들었는지 재빨리 확인할 때는", (None, 'Did you hear that'), '여기 쓰인 이 과거형 질문이 반사적으로 튀어나와요.']),
-    (1, None, ["'아홉 시 정각에 말인가요? 여기 계세요, 우리 같이 문을 열어 봅시다.' 분 단위 없이 딱 떨어지는 정각 시각을 강조할 때는 숫자 뒤에", (None, "nine o'clock"), '이렇게 정각 표현을 붙여 말해요.']),
-    (2, None, ["'계세요? 안녕하세요! 안뜰에는 아무도 서 있지 않아요!' 밤 시간이라도 누군가를 처음 맞이할 때는 잠자리 인사가 아니라", (None, 'Good evening'), '바로 이 저녁 인사로 말을 건네야 자연스러워요.']),
+    (1, None, ["'아홉 시에 도착한다고요? 잠깐만요, 대문을 같이 열자고요.' 분 단위 없이 딱 떨어지는 정각 시각을 강조할 때는 숫자 뒤에", (None, "nine o'clock"), '이렇게 정각 표현을 붙여 말해요.']),
+    (2, None, ["'계세요? 안녕하세요! 대문에는 아무도 서 있지 않아요!' 밤 시간이라도 누군가를 처음 맞이할 때는 잠자리 인사가 아니라", (None, 'Good evening'), '바로 이 저녁 인사로 말을 건네야 자연스러워요.']),
     (3, None, ["'잠깐만요. 저기 돌계단 아래쪽을 내려다보세요.' 시선을 발밑이나 아래쪽으로 낮추어 살피라고 할 때는", (None, 'Look down'), '이렇게 동사와 방향 부사를 나란히 이어 줘요.']),
     (4, None, ["'또 다른 짙은 파란색 여행 가방이에요! 이게 에블린 선생님 가방인가요?' 이미 있던 것에 더해 하나가 더 나타났을 때는 단수 명사 앞에", (None, 'Another'), '여기 쓰인 이 한정사를 붙여 놀라움을 전해요.']),
     (5, None, ["'지퍼 쪽을 확인해 보세요... 네, 선생님 이름 머리글자가 바로 여기 있네요!' 성과 이름의 첫 글자들을 함께 일컬을 때는 복수형을 써서", (None, 'her initials'), '이렇게 소유격과 함께 말해요.']),
