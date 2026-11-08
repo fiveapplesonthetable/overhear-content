@@ -1,0 +1,43 @@
+# Authoring module for linden-courtyard-ko-s01e01-scene-03.
+ID = 'linden-courtyard-ko-s01e01-scene-03'
+SHOW = 'linden-courtyard-ko'
+SEASON = 1
+EPISODE = 1
+SCENE = 3
+TITLE = 'Where Are My Glasses?  (제 안경이 어디 갔죠?)'
+LEVEL = 'A1 — 입문'
+PAIR = 'en-ko'
+LABELS = {'arthur': 'Arthur', 'hannah': 'Hannah', 'graham': 'Graham'}
+INTRO = '여관 주인 아서가 일주일 내내 머무를 사 호실 손님 맞이에 잔뜩 신경을 쓰며 프런트로 급히 들어옵니다. 정작 숙박부를 읽으려니 안경이 보이지 않아 주머니를 뒤지며 한바탕 소동이 벌어지네요. 먼저 영어 대화를 즐겁게 들어 보세요.'
+OPENER = '이제 분주한 아침 대화를 한 문장씩 자세히 들여다볼까요.'
+TRANSITION = '전체 장면을 다시 한번 자연스러운 호흡으로 들어 보세요.'
+OUTRO = '이마 위에 얌전히 올라앉아 있던 안경도 무사히 찾았고 마침 대문 앞에 노란 택시가 도착했네요. 드디어 오늘의 첫 손님을 맞이할 시간입니다. 잠시 후 다음 장면에서 이어서 만나요.'
+CLOSING = ('arthur', 'Bye for now!')
+STORY = [
+    ('arthur', 'Good morning, everyone! Welcome, Hannah. Is everything ready?', '모두 좋은 아침입니다! 환영해요, 해나. 모든 준비는 다 끝났나요?'),
+    ('hannah', 'Good morning! Yes, the desk is clean and the keys are ready.', '좋은 아침입니다! 네, 데스크도 깨끗하고 열쇠들도 다 준비되어 있어요.'),
+    ('arthur', "Today's guest in room four is staying all week. Everything must be perfect!", '오늘 사 호실에 오시는 손님은 일주일 내내 머무르세요. 모든 게 완벽해야 해요!'),
+    ('graham', 'Relax, Arthur. The room is clean and the towels are fresh.', '마음 놓으세요, 아서. 방도 깨끗하고 수건도 새것으로 준비해 두었어요.'),
+    ('arthur', 'I need to read the reservation book, but I cannot find my glasses!', '예약 장부를 읽어야 하는데 안경을 도무지 찾을 수가 없네요!'),
+    ('hannah', 'Are they in your coat pocket?', '코트 주머니 안에 들어 있지는 않나요?'),
+    ('arthur', 'No, only my pen and three old receipts!', '아니요, 펜 하나랑 오래된 영수증 세 장뿐이에요!'),
+    ('graham', 'Look in the mirror behind the desk, boss.', '데스크 뒤에 있는 거울을 한번 보세요, 사장님.'),
+    ('arthur', 'Why would my glasses be in the... oh! They are on my head!', '내 안경이 왜 거울 속에... 어머! 내 머리 위에 있잖아!'),
+    ('hannah', 'Right there on your forehead, safe and sound.', '이마 위에 아주 멀쩡히 잘 자리 잡고 있네요.'),
+    ('arthur', 'Do not tell anyone! Now, smile brightly when the bell rings.', '아무한테도 말하지 마세요! 자, 벨이 울리면 환하게 미소 지어요.'),
+    ('graham', 'Here comes a taxi at the gate right now.', '마침 지금 대문 앞에 택시 한 대가 들어오네요.'),
+]
+WALK = [
+    (0, None, ["'모두 좋은 아침입니다! 환영해요, 해나. 모든 준비는 다 끝났나요?' 전체를 아우르는 말인", (None, 'everything'), '바로 이 단어를 항상 단수로 받아서', (None, 'Is everything ready'), '이렇게 단수 동사로 준비 상태를 점검해요.']),
+    (1, None, ["'좋은 아침입니다! 네, 데스크도 깨끗하고 열쇠들도 다 준비되어 있어요.' 사람과 사물이 모두 채비를 마쳤을 때", (None, 'ready'), '바로 이 형용사 하나로 든든하게 답할 수 있어요.']),
+    (2, None, ["'오늘 사 호실에 오시는 손님은 일주일 내내 머무르세요. 모든 게 완벽해야 해요!' 사람뿐 아니라 시간 명사 뒤에도 소유격을 붙여", (None, "Today's guest"), '이렇게 오늘 찾아오는 손님을 간결하게 가리켜요.']),
+    (3, None, ["'마음 놓으세요, 아서. 방도 깨끗하고 수건도 새것으로 준비해 두었어요.' 잔뜩 긴장한 동료를 다독일 때는", (None, 'Relax'), '바로 이 동사 한마디만 건네도 긴장이 한결 풀려요.']),
+    (4, None, ["'예약 장부를 읽어야 하는데 안경을 도무지 찾을 수가 없네요!' 당장 무언가를 할 수 없는 상황은 조동사 부정형과 동사를 합쳐", (None, 'cannot find'), '이렇게 한 호흡으로 또렷하게 말해요.']),
+    (5, None, ["'코트 주머니 안에 들어 있지는 않나요?' 안경은 알이 두 개라 복수 대명사를 써서", (None, 'Are they'), '그리고 외투에 달린 주머니는 두 명사를 나란히 붙인', (None, 'coat pocket'), '이렇게 자연스럽게 이어 물어봐요.']),
+    (6, None, ["'아니요, 펜 하나랑 오래된 영수증 세 장뿐이에요!' 가게에서 받은 영수증을 뜻하는 복수 명사", (None, 'receipts'), '바로 이 단어는 철자 속 피읖 소리가 묵음이라 발음에 특히 유의해야 해요.']),
+    (7, None, ["'데스크 뒤에 있는 거울을 한번 보세요, 사장님.' 거울에 비친 모습을 보라고 할 때는 안을 뜻하는 전치사를 써서", (None, 'in the mirror'), '이어서 위치는 뒤쪽을 가리키는', (None, 'behind the desk'), '이렇게 나란히 알려 줘요.']),
+    (8, None, ["'내 안경이 왜 거울 속에... 어머! 내 머리 위에 있잖아!' 설마 그럴 리가 있겠냐며 의아해할 때는", (None, 'Why would'), '바로 이 두 단어로 부드럽게 반문을 시작해요.']),
+    (9, None, ["'이마 위에 아주 멀쩡히 잘 자리 잡고 있네요.' 다치거나 잃어버린 곳 없이 무사하다는 뜻의 관용구", (None, 'safe and sound'), '바로 이 표현을 쓰면 유쾌하고 다정한 느낌이 살아나요.']),
+    (10, None, ["'아무한테도 말하지 마세요! 자, 벨이 울리면 환하게 미소 지어요.' 비밀을 지켜 달라고 정중히 당부할 때는", (None, 'Do not tell anyone'), '바로 이 부정 명령문으로 가볍게 입단속을 부탁해요.']),
+    (11, None, ["'마침 지금 대문 앞에 택시 한 대가 들어오네요.' 눈앞으로 무언가 다가오는 순간을 생생히 알릴 때는", (None, 'Here comes'), '이렇게 방향 부사를 맨 앞에 세워 시선을 집중시켜요.']),
+]
