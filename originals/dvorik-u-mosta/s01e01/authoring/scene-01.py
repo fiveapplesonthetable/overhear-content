@@ -21,9 +21,9 @@ STORY = [
     ('kira', 'В первый день я всегда хожу быстро. А где компьютер?', 'On my first day I always walk fast. Where is the computer?'),
     ('matvey', 'В ящике. Здесь мы пишем в большой бумажной книге карандашом.', 'In the drawer. Here we write in a big paper book with a pencil.'),
     ('kira', 'В бумажной книге? Правда?', 'In a paper book? Really?'),
-    ('matvey', 'Бумага никогда не теряет список комнат в дождь.', 'Paper never loses the room list in the rain.'),
+    ('matvey', 'Бумага работает, даже когда отключают электричество.', 'Paper still works when the power goes out.'),
     ('kira', 'Логично! А это ключи?', 'Fair enough! And these are the keys?'),
-    ('matvey', 'Да, восемь комнат и восемь латунных ключей. Сегодня приезжает четвёртый номер.', 'Yes, eight rooms and eight brass keys. Room four is arriving today.'),
+    ('matvey', 'Да, восемь комнат и восемь латунных ключей. Гость в четвёртый номер приезжает сегодня.', "Yes, eight rooms and eight brass keys. Room four's guest arrives today."),
     ('kira', 'Отлично. Расскажите мне всё, что нужно знать.', 'Great. Tell me everything I need to know.'),
     ('matvey', 'Правило номер один: сначала выпей горячий чай, а потом отвечай на звонок.', 'Rule number one: drink hot tea first, then answer the bell.'),
 ]
@@ -35,9 +35,9 @@ WALK = [
     (4, None, ["'On my first day I always walk fast. Where is the computer?' For a habit she repeats every time, Russian picks the multidirectional walking word ", (None, 'хожу'), ' rather than a one-way trip.']),
     (5, None, ["'In the drawer. Here we write in a big paper book with a pencil.' No extra word for 'with' is needed: ", (None, 'карандашом'), " changes its tail to mean 'by pencil'."]),
     (6, None, ["'In a paper book? Really?' One brisk word, ", (None, 'Правда?'), " literally means 'truth?' and works whenever English says 'really?'."]),
-    (7, None, ["'Paper never loses the room list in the rain.' Russian stacks negative words together, so ", (None, 'никогда не теряет'), " says 'never not loses', and both negatives are required."]),
+    (7, None, ["'Paper still works when the power goes out.' The phrase 'power goes out' translates to ", (None, 'отключают электричество'), " — literally 'they disconnect the electricity'."]),
     (8, None, ["'Fair enough! And these are the keys?' Starting a question with ", (None, 'А это'), " smoothly shifts attention to the next thing on the wall: 'and this?'."]),
-    (9, None, ["'Yes, eight rooms and eight brass keys. Room four is arriving today.' Hotels in Russia call guest rooms by the word for number, ", (None, 'четвёртый номер.'), " so room four itself 'arrives'."]),
+    (9, None, ["'Yes, eight rooms and eight brass keys. Room four's guest arrives today.' Hotels in Russia call guest rooms by the word for number, so the guest arrives ", (None, 'в четвёртый номер'), " — 'into the fourth number'."]),
     (10, None, ["'Great. Tell me everything I need to know.' Even while Matvey uses casual speech, Kira stays respectful with ", (None, 'Расскажите'), " — the polite command form for 'tell'."]),
     (11, None, ["'Rule number one: drink hot tea first, then answer the bell.' Warm hospitality starts behind the counter: ", (None, 'горячий чай'), " pairs 'hot' with tea, distinct from merely warm bread."]),
 ]

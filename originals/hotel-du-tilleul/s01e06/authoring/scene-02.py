@@ -18,9 +18,8 @@ OUTRO = ("Grandfather's wooden train is home, and Thibault's astonishment at see
  'letter. See you next time.')
 CLOSING = ('odette', "À tout à l'heure!")
 STORY = [('antoine',
-  "Avant le départ des déménageurs rue des Tilleuls, j'ai sauvé ce paquet sur l'étagère du "
-  'grenier.',
-  'Before the movers left Rue des Tilleuls, I saved this parcel from the attic shelf.'),
+  "Avant que les déménageurs ne vident la maison, j'ai sauvé cette boîte de l'étagère du grenier.",
+  'Before the movers cleared the house, I saved this box from the attic shelf.'),
  ('thibault',
   'Ouvre le papier blanc... non! La locomotive en bois sculptée par Grand-Père!',
   'Open the white paper... no! The wooden locomotive carved by Grandfather!'),

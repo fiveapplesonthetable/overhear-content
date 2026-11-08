@@ -16,8 +16,8 @@ OUTRO = ("A steady blue flame and hot copper pipes, and Henri even called Claire
  "'rookie'! Let's go upstairs next time as Antoine comes down from the attic.")
 CLOSING = ('claire', 'À bientôt!')
 STORY = [('claire',
-  'Voici les deux vannes en laiton, Henri! Reprendre mon souffle? Jamais!',
-  'Here are both brass valves, Henri! Catch my breath? Never!'),
+  'Voici les deux valves en laiton, Marcel! Reprendre mon souffle? Jamais!',
+  'Here are both brass valves, Marcel! Catch my breath? Never!'),
  ('henri',
   'Tenez cette lampe de poche bien droite sur le joint du tuyau, juste ici.',
   'Hold this flashlight steady on the pipe joint, right here.'),

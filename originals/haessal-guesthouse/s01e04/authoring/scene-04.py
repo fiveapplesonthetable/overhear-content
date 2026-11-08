@@ -14,7 +14,7 @@ TRANSITION = "Now let's hear the whole boiler repair scene again."
 OUTRO = "A steady blue flame and warming copper pipes—and Junho even called Mina 'partner' instead of 'rookie'! Let's head upstairs next time as Jihoon comes down from the attic."
 CLOSING = ('mina', '안녕히 계세요!')
 STORY = [
-    ('mina', '준호 씨, 여기 황동 밸브 두 개 다 있어요! 숨 돌릴 틈이 어디 있어요!', 'Junho, here are both brass valves! Who has time to catch their breath!'),
+    ('mina', '여기 황동 밸브 두 개 다 있어요, 준호 씨! 숨 좀 돌리라고요? 절대 안 돼요!', 'Here are both brass valves, Junho! Catch my breath? Never!'),
     ('junho', '이 손전등으로 바로 여기 배관 이음새를 흔들리지 않게 비춰 주세요.', 'Shine this flashlight steadily right here on the pipe joint.'),
     ('mina', '알겠어요! 주 수도 밸브는 벌써 잠그셨어요?', 'Got it! Did you already shut off the main water valve?'),
     ('junho', '잠그고 물도 다 뺐어요. 왼쪽에 있는 무거운 렌치를 건네주세요.', 'Shut off and drained. Hand me the heavy wrench on your left.'),

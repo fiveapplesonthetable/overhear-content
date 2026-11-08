@@ -3186,77 +3186,102 @@
     }
   ],
   "lexicon": {
-    "au": {
-      "lemma": "au",
-      "stress": "o",
-      "pos": "prep",
-      "gloss": "at the, to the",
+    "bonjour": {
+      "lemma": "bonjour",
+      "stress": "bɔ̃ʒuʁ",
+      "pos": "interj",
+      "gloss": "hello, good morning",
       "meanings": [
         {
-          "en": "at the, to the",
-          "note": "à + le contracted: au boulot, au téléphone"
+          "en": "hello, good morning, good afternoon",
+          "note": "the standard greeting until evening"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Je suis au boulot.",
-          "trans": "I'm at work."
+          "text": "Bonjour! Excusez-moi, la porte est fermée à clé?",
+          "trans": "Good morning! Excuse me, is the door locked?"
         },
         {
-          "text": "Elle est au téléphone.",
-          "trans": "She's on the phone."
+          "text": "Bonjour. Non, soulevez d'abord la poignée, puis poussez.",
+          "trans": "Good morning. No, lift the handle first, then push."
+        },
+        {
+          "text": "Alors la maison dit bonjour toute seule?",
+          "trans": "So the house says hello on its own?"
         }
       ],
       "related": [
         {
-          "word": "au",
-          "gloss": "at the"
+          "word": "bonjour",
+          "gloss": "hello"
         }
       ]
     },
-    "bien": {
-      "lemma": "bien",
-      "stress": "bjɛ̃",
-      "pos": "adv",
-      "gloss": "well; good",
+    "à": {
+      "lemma": "à",
+      "stress": "a",
+      "pos": "prep",
+      "gloss": "at, in, to",
       "meanings": [
         {
-          "en": "well",
-          "note": "Très bien = very well, fine."
+          "en": "at, in",
+          "note": "Place: à Paris, à mon cours."
         },
         {
-          "en": "good, nice",
-          "note": "C'est bien."
+          "en": "at",
+          "note": "Time: à midi."
+        },
+        {
+          "en": "au = à + le, aux = à + les",
+          "note": "Contractions."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Très bien.",
-          "trans": "Very well."
+          "text": "Je suis à Paris.",
+          "trans": "I'm in Paris."
         },
         {
-          "text": "Elle est bien.",
-          "trans": "She's nice."
+          "text": "À quatorze heures.",
+          "trans": "At two pm."
         }
       ],
       "related": [
         {
-          "word": "bien sûr",
-          "gloss": "of course"
-        },
-        {
-          "word": "bientôt",
-          "gloss": "soon"
-        },
-        {
-          "word": "bienvenue",
-          "gloss": "welcome"
+          "word": "à",
+          "gloss": "at"
         }
       ]
+    },
+    "tout": {
+      "lemma": "tout",
+      "stress": "tu",
+      "pos": "det",
+      "gloss": "all; every",
+      "meanings": [
+        {
+          "en": "all; every",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tout va bien.",
+          "trans": "Everything is going well."
+        },
+        {
+          "text": "Madame Odette, tout va bien? Vous avez sonné!",
+          "trans": "Madam Odette, is everything alright? You rang the bell!"
+        }
+      ],
+      "related": []
     },
     "bienvenue": {
       "lemma": "bienvenue",
@@ -3314,37 +3339,393 @@
         }
       ]
     },
-    "bonjour": {
-      "lemma": "bonjour",
-      "stress": "bɔ̃ʒuʁ",
-      "pos": "interj",
-      "gloss": "hello, good morning",
+    "être": {
+      "lemma": "être",
+      "stress": "ɛtʁ",
+      "pos": "verb",
+      "gloss": "to be",
       "meanings": [
         {
-          "en": "hello, good morning, good afternoon",
-          "note": "the standard greeting until evening"
+          "en": "to be",
+          "note": "The most common verb."
+        },
+        {
+          "en": "c'est = it is, this is",
+          "note": "Ce + est."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je suis",
+              "nous sommes"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu es",
+              "vous êtes"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle est",
+              "ils/elles sont"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai été",
+                "nous avons été"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as été",
+                "vous avez été"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a été",
+                "ils/elles ont été"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'étais",
+                "nous étions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu étais",
+                "vous étiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle était",
+                "ils/elles étaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je serai",
+                "nous serons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu seras",
+                "vous serez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle sera",
+                "ils/elles seront"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "soyons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "sois",
+                "soyez"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Je suis à Paris.",
+          "trans": "I'm in Paris."
+        },
+        {
+          "text": "C'est important.",
+          "trans": "It's important."
+        }
+      ],
+      "related": [
+        {
+          "word": "un être",
+          "gloss": "a being, person"
+        },
+        {
+          "word": "peut-être",
+          "gloss": "maybe, perhaps"
+        }
+      ]
+    },
+    "prêt": {
+      "lemma": "prêt",
+      "stress": "pʁɛ",
+      "pos": "adj",
+      "gloss": "ready",
+      "meanings": [
+        {
+          "en": "ready",
+          "note": "Prêt à + infinitive = ready to."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "prêt",
+              "prête"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "prêts",
+              "prêtes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tu es prête?",
+          "trans": "Are you ready?"
+        },
+        {
+          "text": "Ils sont prêts à partir.",
+          "trans": "They're ready to leave."
+        }
+      ],
+      "related": [
+        {
+          "word": "prêter",
+          "gloss": "to lend"
+        }
+      ]
+    },
+    "monsieur": {
+      "lemma": "monsieur",
+      "stress": "məsjø",
+      "pos": "noun",
+      "gloss": "sir; Mr; gentleman",
+      "gender": "m",
+      "plural": "messieurs",
+      "meanings": [
+        {
+          "en": "Mr",
+          "note": ""
+        },
+        {
+          "en": "sir",
+          "note": "Polite address: merci, monsieur."
+        },
+        {
+          "en": "gentleman, man",
+          "note": "Un monsieur."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le monsieur",
+              "les messieurs"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bonjour, monsieur! Oui, le bureau est propre et les clés sont prêtes.",
+          "trans": "Good morning, sir! Yes, the desk is clean and the keys are ready."
+        },
+        {
+          "text": "Oh, comme c'est aimable, monsieur. Juste un demi-verre.",
+          "trans": "Oh, how kind, sir. Just half a glass."
+        },
+        {
+          "text": "Attendez... bonjour, monsieur! Vous appelez pour la valise bleu foncé?",
+          "trans": "Wait... hello, sir! Are you calling about the dark-blue suitcase?"
+        }
+      ],
+      "related": [
+        {
+          "word": "un monsieur / des messieurs",
+          "gloss": "a sir / sirs"
+        }
+      ]
+    },
+    "oui": {
+      "lemma": "oui",
+      "stress": "wi",
+      "pos": "adv",
+      "gloss": "yes",
+      "meanings": [
+        {
+          "en": "yes",
+          "note": ""
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Bonjour! Excusez-moi, la porte est fermée à clé?",
-          "trans": "Good morning! Excuse me, is the door locked?"
+          "text": "Oui, oui.",
+          "trans": "Yes, yes."
         },
         {
-          "text": "Bonjour. Non, soulevez d'abord la poignée, puis poussez.",
-          "trans": "Good morning. No, lift the handle first, then push."
-        },
-        {
-          "text": "Alors la maison dit bonjour toute seule?",
-          "trans": "So the house says hello on its own?"
+          "text": "Oui, je sais.",
+          "trans": "Yes, I know."
         }
       ],
       "related": [
         {
-          "word": "bonjour",
-          "gloss": "hello"
+          "word": "non",
+          "gloss": "no"
+        },
+        {
+          "word": "si",
+          "gloss": "yes (contradicting a negative)"
+        }
+      ]
+    },
+    "le": {
+      "lemma": "le",
+      "stress": "lə",
+      "pos": "det",
+      "gloss": "the",
+      "meanings": [
+        {
+          "en": "the",
+          "note": "definite article; l' before a vowel"
+        },
+        {
+          "en": "him; it; her",
+          "note": "As a direct-object pronoun: le is masculine, la feminine; both become l' before a vowel sound."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "le",
+              "la"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "les",
+              "les"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Le film est fantastique.",
+          "trans": "The film is fantastic."
+        },
+        {
+          "text": "La pièce de Koltès.",
+          "trans": "The Koltès play."
+        }
+      ],
+      "related": [
+        {
+          "word": "le",
+          "gloss": "the"
         }
       ]
     },
@@ -3400,19 +3781,122 @@
         }
       ]
     },
-    "cahier": {
-      "lemma": "cahier",
-      "stress": "kaje",
-      "pos": "noun",
-      "gloss": "notebook, ledger",
+    "propre": {
+      "lemma": "propre",
+      "stress": "pʁɔpʁ",
+      "pos": "adj",
+      "gloss": "own (before noun); clean (after noun)",
       "meanings": [
         {
-          "en": "notebook, ledger",
-          "note": "Larger bound notebook."
+          "en": "own (before the noun)",
+          "note": "Son propre salon = her own salon."
+        },
+        {
+          "en": "clean (after the noun)",
+          "note": "Une chambre propre = a clean room."
         }
       ],
-      "gender": "m",
-      "plural": "cahiers",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "propre",
+              "propre"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "propres",
+              "propres"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Elle a son propre salon.",
+          "trans": "She has her own salon."
+        },
+        {
+          "text": "La maison est très propre.",
+          "trans": "The house is very clean."
+        },
+        {
+          "text": "Bonsoir. Pardon pour l'eau sur votre sol propre.",
+          "trans": "Good evening. Sorry for the water on your clean floor."
+        }
+      ],
+      "related": [
+        {
+          "word": "proposer",
+          "gloss": "to suggest"
+        },
+        {
+          "word": "propriétaire",
+          "gloss": "owner"
+        },
+        {
+          "word": "propos",
+          "gloss": "remarks"
+        }
+      ]
+    },
+    "et": {
+      "lemma": "et",
+      "stress": "e",
+      "pos": "conj",
+      "gloss": "and",
+      "meanings": [
+        {
+          "en": "and",
+          "note": "The t is never pronounced."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Et vous?",
+          "trans": "And you?"
+        },
+        {
+          "text": "Et demain?",
+          "trans": "And tomorrow?"
+        }
+      ],
+      "related": [
+        {
+          "word": "et",
+          "gloss": "and"
+        }
+      ]
+    },
+    "clé": {
+      "lemma": "clé",
+      "stress": "kle",
+      "pos": "noun",
+      "gloss": "key; lock (in 'à clé')",
+      "gender": "f",
+      "plural": "clés",
+      "meanings": [
+        {
+          "en": "key",
+          "note": ""
+        },
+        {
+          "en": "fermer à clé = to lock (with a key)",
+          "note": ""
+        }
+      ],
       "forms": {
         "title": "Forms",
         "columns": [
@@ -3424,8 +3908,8 @@
           {
             "cells": [
               "form",
-              "le cahier",
-              "les cahiers"
+              "la clé",
+              "les clés"
             ]
           }
         ]
@@ -3433,12 +3917,546 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Dans le tiroir. Ici, on utilise ce grand cahier en papier et un crayon.",
-          "trans": "In the drawer. Here we use this big paper notebook and a pencil."
+          "text": "Il n'y a pas de clé.",
+          "trans": "There is no key."
         },
         {
-          "text": "Un cahier en papier? Vraiment?",
-          "trans": "A paper notebook? Really?"
+          "text": "J'ai perdu mes clés.",
+          "trans": "I lost my keys."
+        },
+        {
+          "text": "Bonjour! Excusez-moi, la porte est fermée à clé?",
+          "trans": "Good morning! Excuse me, is the door locked?"
+        }
+      ],
+      "related": []
+    },
+    "client": {
+      "lemma": "client",
+      "stress": "klijɑ̃",
+      "pos": "noun",
+      "gloss": "client, customer",
+      "gender": "m",
+      "plural": "clients",
+      "meanings": [
+        {
+          "en": "client, customer",
+          "note": "Feminine: cliente."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "un client / une cliente",
+              "des clients / des clientes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Avec moi, toujours! Garde le vous poli pour les clients.",
+          "trans": "With me, always! Save the polite 'you' for the guests."
+        },
+        {
+          "text": "La cliente de la chambre quatre reste toute la semaine. Tout doit être parfait!",
+          "trans": "The guest in room four is staying all week. Everything must be perfect!"
+        },
+        {
+          "text": "Huit clients affamés descendent à sept heures et demie!",
+          "trans": "Eight hungry guests come down at half past seven!"
+        }
+      ],
+      "related": [
+        {
+          "word": "clientèle",
+          "gloss": "clientèles"
+        }
+      ]
+    },
+    "de": {
+      "lemma": "de",
+      "stress": "də",
+      "pos": "prep",
+      "gloss": "of, from; some",
+      "meanings": [
+        {
+          "en": "of, from",
+          "note": "D' before a vowel."
+        },
+        {
+          "en": "'s (possession)",
+          "note": ""
+        },
+        {
+          "en": "du = de + le",
+          "note": "Also 'some': du sucre."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Le film de Kechiche.",
+          "trans": "The Kechiche film."
+        },
+        {
+          "text": "C'est du sucre.",
+          "trans": "It's sugar."
+        }
+      ],
+      "related": [
+        {
+          "word": "du",
+          "gloss": "de + le"
+        },
+        {
+          "word": "des",
+          "gloss": "de + les"
+        }
+      ]
+    },
+    "chambre": {
+      "lemma": "chambre",
+      "stress": "ʃɑ̃bʁ",
+      "pos": "noun",
+      "gloss": "room, bedroom; hotel room",
+      "gender": "f",
+      "plural": "chambres",
+      "meanings": [
+        {
+          "en": "bedroom",
+          "note": "Une chambre d'hôtel."
+        },
+        {
+          "en": "hotel room",
+          "note": "Une chambre d'hôtel."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la chambre",
+              "les chambres"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Une chambre au Carlton.",
+          "trans": "A room at the Carlton."
+        },
+        {
+          "text": "Elle est dans sa chambre.",
+          "trans": "She's in her room."
+        }
+      ],
+      "related": [
+        {
+          "word": "lit",
+          "gloss": "bed"
+        },
+        {
+          "word": "hôtel",
+          "gloss": "hotel"
+        }
+      ]
+    },
+    "quatre": {
+      "lemma": "quatre",
+      "stress": "katʁ",
+      "pos": "num",
+      "gloss": "four",
+      "meanings": [
+        {
+          "en": "four",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "À quatre heures du matin.",
+          "trans": "At four in the morning."
+        },
+        {
+          "text": "J'ai quatre frères.",
+          "trans": "I have four brothers."
+        }
+      ],
+      "related": []
+    },
+    "rester": {
+      "lemma": "rester",
+      "stress": "ʁɛste",
+      "pos": "verb",
+      "gloss": "to stay",
+      "meanings": [
+        {
+          "en": "to stay, to remain",
+          "note": "Passé composé with être."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je reste",
+              "nous restons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu restes",
+              "vous restez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il reste",
+              "ils restent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je suis resté(e)",
+                "nous sommes restés"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu es resté(e)",
+                "vous êtes resté(s)"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il est resté",
+                "ils sont restés"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je restais",
+                "nous restions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu restais",
+                "vous restiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il restait",
+                "ils restaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je resterai",
+                "nous resterons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu resteras",
+                "vous resterez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il restera",
+                "ils resteront"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Je reste à Paris.",
+          "trans": "I'm staying in Paris."
+        },
+        {
+          "text": "Elle est restée à l'agence.",
+          "trans": "She stayed with the agency."
+        }
+      ],
+      "related": [
+        {
+          "word": "reste",
+          "gloss": "rest"
+        }
+      ]
+    },
+    "semaine": {
+      "lemma": "semaine",
+      "stress": "səmɛn",
+      "pos": "noun",
+      "gloss": "week",
+      "gender": "f",
+      "plural": "semaines",
+      "meanings": [
+        {
+          "en": "week",
+          "note": "Cette semaine = this week."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la semaine",
+              "les semaines"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je dois voir la pièce cette semaine.",
+          "trans": "I have to see the play this week."
+        },
+        {
+          "text": "Trois semaines.",
+          "trans": "Three weeks."
+        }
+      ],
+      "related": [
+        {
+          "word": "cette semaine",
+          "gloss": "this week"
+        }
+      ]
+    },
+    "devoir": {
+      "lemma": "devoir",
+      "stress": "dəvwaʁ",
+      "pos": "verb",
+      "gloss": "must, to have to",
+      "meanings": [
+        {
+          "en": "must, to have to",
+          "note": "+ infinitive."
+        },
+        {
+          "en": "to owe",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je dois",
+              "nous devons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu dois",
+              "vous devez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle doit",
+              "ils/elles doivent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai dû",
+                "nous avons dû"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as dû",
+                "vous avez dû"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a dû",
+                "ils/elles ont dû"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je devais",
+                "nous devions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu devais",
+                "vous deviez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle devait",
+                "ils/elles devaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je devrai",
+                "nous devrons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu devras",
+                "vous devrez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle devra",
+                "ils/elles devront"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Salut! Tu dois être Claire. Moi, c'est Nadia, de la cuisine.",
+          "trans": "Hi! You must be Claire. I am Nadia, from the kitchen."
+        },
+        {
+          "text": "La cliente de la chambre quatre reste toute la semaine. Tout doit être parfait!",
+          "trans": "The guest in room four is staying all week. Everything must be perfect!"
         },
         {
           "text": "Je dois lire le cahier de réservations, mais je ne trouve pas mes lunettes!",
@@ -3447,14 +4465,66 @@
       ],
       "related": [
         {
-          "word": "carnet",
-          "gloss": "small notebook"
+          "word": "un devoir",
+          "gloss": "duty, obligation"
         },
         {
-          "word": "papier",
-          "gloss": "paper"
+          "word": "dû",
+          "gloss": "owed, due"
         }
       ]
+    },
+    "parfait": {
+      "lemma": "parfait",
+      "stress": "paʁfɛ",
+      "pos": "adj",
+      "gloss": "perfect",
+      "meanings": [
+        {
+          "en": "perfect",
+          "note": "Can stand alone as an approving response; the adjective changes for feminine and plural nouns."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "parfait",
+              "parfaite"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "parfaits",
+              "parfaites"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'est parfait.",
+          "trans": "It's perfect."
+        },
+        {
+          "text": "Personne n'est parfait.",
+          "trans": "Nobody's perfect."
+        },
+        {
+          "text": "Parfait. La fenêtre donne sur la rue ou sur la cour?",
+          "trans": "Wonderful. Does the window face the street or the courtyard?"
+        }
+      ],
+      "related": []
     },
     "calmer": {
       "lemma": "calmer",
@@ -3642,192 +4712,19 @@
         }
       ]
     },
-    "chambre": {
-      "lemma": "chambre",
-      "stress": "ʃɑ̃bʁ",
+    "serviette": {
+      "lemma": "serviette",
+      "stress": "sɛʁvjɛt",
       "pos": "noun",
-      "gloss": "room, bedroom; hotel room",
-      "gender": "f",
-      "plural": "chambres",
+      "gloss": "towel; table napkin",
       "meanings": [
         {
-          "en": "bedroom",
-          "note": "Une chambre d'hôtel."
-        },
-        {
-          "en": "hotel room",
-          "note": "Une chambre d'hôtel."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la chambre",
-              "les chambres"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Une chambre au Carlton.",
-          "trans": "A room at the Carlton."
-        },
-        {
-          "text": "Elle est dans sa chambre.",
-          "trans": "She's in her room."
-        }
-      ],
-      "related": [
-        {
-          "word": "lit",
-          "gloss": "bed"
-        },
-        {
-          "word": "hôtel",
-          "gloss": "hotel"
-        }
-      ]
-    },
-    "chaud": {
-      "lemma": "chaud",
-      "stress": "ʃo",
-      "pos": "adj",
-      "gloss": "hot, warm",
-      "meanings": [
-        {
-          "en": "hot, warm",
-          "note": "Descriptive French adjective meaning 'hot'; agrees in gender and number with the noun it modifies."
-        },
-        {
-          "en": "il fait chaud = it's hot (weather)",
-          "note": "Descriptive French adjective meaning 'hot'; agrees in gender and number with the noun it modifies."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "chaud",
-              "chaude"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "chauds",
-              "chaudes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il fait chaud.",
-          "trans": "It's hot."
-        },
-        {
-          "text": "Un café chaud.",
-          "trans": "A hot coffee."
-        },
-        {
-          "text": "Il fait chaud. Vous faites quoi?",
-          "trans": "It's hot. What are you doing?"
-        }
-      ],
-      "related": [
-        {
-          "word": "très chaud",
-          "gloss": "very hot"
-        },
-        {
-          "word": "plus chaud",
-          "gloss": "more hot"
-        }
-      ]
-    },
-    "client": {
-      "lemma": "client",
-      "stress": "klijɑ̃",
-      "pos": "noun",
-      "gloss": "client, customer",
-      "gender": "m",
-      "plural": "clients",
-      "meanings": [
-        {
-          "en": "client, customer",
-          "note": "Feminine: cliente."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "un client / une cliente",
-              "des clients / des clientes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Avec moi, toujours! Garde le vous poli pour les clients.",
-          "trans": "With me, always! Save the polite 'you' for the guests."
-        },
-        {
-          "text": "La cliente de la chambre quatre reste toute la semaine. Tout doit être parfait!",
-          "trans": "The guest in room four is staying all week. Everything must be perfect!"
-        },
-        {
-          "text": "Huit clients affamés descendent à sept heures et demie!",
-          "trans": "Eight hungry guests come down at half past seven!"
-        }
-      ],
-      "related": [
-        {
-          "word": "clientèle",
-          "gloss": "clientèles"
-        }
-      ]
-    },
-    "cloche": {
-      "lemma": "cloche",
-      "stress": "klɔʃ",
-      "pos": "noun",
-      "gloss": "bell",
-      "meanings": [
-        {
-          "en": "bell",
-          "note": "Gate bell or church bell."
+          "en": "towel; table napkin",
+          "note": "Means bath towel in a room and napkin at the table."
         }
       ],
       "gender": "f",
-      "plural": "cloches",
+      "plural": "serviettes",
       "forms": {
         "title": "Forms",
         "columns": [
@@ -3839,8 +4736,8 @@
           {
             "cells": [
               "form",
-              "la cloche",
-              "les cloches"
+              "la serviette",
+              "les serviettes"
             ]
           }
         ]
@@ -3848,685 +4745,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "C'était quoi, cette cloche? Quelqu'un a sonné deux fois!",
-          "trans": "What was that bell? Somebody rang twice!"
+          "text": "Calmez-vous, Étienne. La chambre est propre et les serviettes sont fraîches.",
+          "trans": "Relax, Etienne. The room is clean and the towels are fresh."
         },
         {
-          "text": "Ne dites rien à personne! Maintenant, un grand sourire quand la cloche sonne.",
-          "trans": "Do not tell anyone! Now, a big smile when the bell rings."
+          "text": "Où vont les petites cuillères et les serviettes?",
+          "trans": "Where do the small spoons and napkins go?"
         },
         {
-          "text": "Très généreux! Vous avez entendu la cloche du portail en bas?",
-          "trans": "Very generous! Did you hear the gate bell downstairs?"
+          "text": "Mets une serviette et une petite cuillère à côté de chaque tasse bleue.",
+          "trans": "Put one napkin and one teaspoon beside every blue cup."
         }
       ],
       "related": [
         {
-          "word": "clocher",
-          "gloss": "bell tower"
-        },
-        {
-          "word": "sonnette",
-          "gloss": "buzzer"
-        }
-      ]
-    },
-    "clé": {
-      "lemma": "clé",
-      "stress": "kle",
-      "pos": "noun",
-      "gloss": "key; lock (in 'à clé')",
-      "gender": "f",
-      "plural": "clés",
-      "meanings": [
-        {
-          "en": "key",
-          "note": ""
-        },
-        {
-          "en": "fermer à clé = to lock (with a key)",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la clé",
-              "les clés"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il n'y a pas de clé.",
-          "trans": "There is no key."
-        },
-        {
-          "text": "J'ai perdu mes clés.",
-          "trans": "I lost my keys."
-        },
-        {
-          "text": "Bonjour! Excusez-moi, la porte est fermée à clé?",
-          "trans": "Good morning! Excuse me, is the door locked?"
-        }
-      ],
-      "related": []
-    },
-    "comptoir": {
-      "lemma": "comptoir",
-      "stress": "kɔ̃twaʁ",
-      "pos": "noun",
-      "gloss": "counter, reception desk",
-      "meanings": [
-        {
-          "en": "counter, reception desk",
-          "note": "Front counter in a hotel or café."
-        }
-      ],
-      "gender": "m",
-      "plural": "comptoirs",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le comptoir",
-              "les comptoirs"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Regardez dans le miroir derrière le comptoir, patron.",
-          "trans": "Look in the mirror behind the counter, boss."
-        },
-        {
-          "text": "Attendez: à qui est ce petit carnet en cuir marron sur le comptoir?",
-          "trans": "Wait: whose small brown leather notebook is this on the counter?"
-        },
-        {
-          "text": "Vous l'avez laissé près du bol de soupe sur le comptoir.",
-          "trans": "You left it near the soup bowl on the counter."
-        }
-      ],
-      "related": [
-        {
-          "word": "réception",
-          "gloss": "front desk"
-        }
-      ]
-    },
-    "dans": {
-      "lemma": "dans",
-      "stress": "dɑ̃",
-      "pos": "prep",
-      "gloss": "in, inside; in (time)",
-      "meanings": [
-        {
-          "en": "in, inside",
-          "note": "J'étais dans les sous-vêtements."
-        },
-        {
-          "en": "in (time from now)",
-          "note": "Dans une heure = in an hour."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Dans le cinéma.",
-          "trans": "In the film business."
-        },
-        {
-          "text": "Il y a vingt-cinq ans? Dans cette même maison?",
-          "trans": "Twenty-five years ago? In that same house?"
-        }
-      ],
-      "related": [
-        {
-          "word": "danse",
-          "gloss": "dance"
-        },
-        {
-          "word": "danser",
-          "gloss": "to dance"
-        },
-        {
-          "word": "danseur",
-          "gloss": "dancer"
-        }
-      ]
-    },
-    "de": {
-      "lemma": "de",
-      "stress": "də",
-      "pos": "prep",
-      "gloss": "of, from; some",
-      "meanings": [
-        {
-          "en": "of, from",
-          "note": "D' before a vowel."
-        },
-        {
-          "en": "'s (possession)",
-          "note": ""
-        },
-        {
-          "en": "du = de + le",
-          "note": "Also 'some': du sucre."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Le film de Kechiche.",
-          "trans": "The Kechiche film."
-        },
-        {
-          "text": "C'est du sucre.",
-          "trans": "It's sugar."
-        }
-      ],
-      "related": [
-        {
-          "word": "du",
-          "gloss": "de + le"
-        },
-        {
-          "word": "des",
-          "gloss": "de + les"
-        }
-      ]
-    },
-    "derrière": {
-      "lemma": "derrière",
-      "stress": "dɛʁjɛʁ",
-      "pos": "prep",
-      "gloss": "behind, at the back of",
-      "meanings": [
-        {
-          "en": "behind, in back of",
-          "note": "Opposite of 'devant' (in front of)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il est derrière la porte.",
-          "trans": "He's behind the door."
-        },
-        {
-          "text": "Regardez dans le miroir derrière le comptoir, patron.",
-          "trans": "Look in the mirror behind the counter, boss."
-        }
-      ],
-      "related": [
-        {
-          "word": "derrière",
-          "gloss": "behind"
-        }
-      ]
-    },
-    "devant": {
-      "lemma": "devant",
-      "stress": "dəvɑ̃",
-      "pos": "prep",
-      "gloss": "in front of, before",
-      "meanings": [
-        {
-          "en": "in front of, before (a place or person)",
-          "note": "devant la porte = in front of the door"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je t'attends devant le cinéma.",
-          "trans": "I'll wait for you in front of the cinema."
-        },
-        {
-          "text": "Voilà un taxi devant le portail à l'instant.",
-          "trans": "Here comes a taxi in front of the gate right now."
-        }
-      ],
-      "related": [
-        {
-          "word": "devant la porte",
-          "gloss": "in front of the door"
-        }
-      ]
-    },
-    "devoir": {
-      "lemma": "devoir",
-      "stress": "dəvwaʁ",
-      "pos": "verb",
-      "gloss": "must, to have to",
-      "meanings": [
-        {
-          "en": "must, to have to",
-          "note": "+ infinitive."
-        },
-        {
-          "en": "to owe",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je dois",
-              "nous devons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu dois",
-              "vous devez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle doit",
-              "ils/elles doivent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai dû",
-                "nous avons dû"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as dû",
-                "vous avez dû"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a dû",
-                "ils/elles ont dû"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je devais",
-                "nous devions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu devais",
-                "vous deviez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle devait",
-                "ils/elles devaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je devrai",
-                "nous devrons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu devras",
-                "vous devrez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle devra",
-                "ils/elles devront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Salut! Tu dois être Claire. Moi, c'est Nadia, de la cuisine.",
-          "trans": "Hi! You must be Claire. I am Nadia, from the kitchen."
-        },
-        {
-          "text": "La cliente de la chambre quatre reste toute la semaine. Tout doit être parfait!",
-          "trans": "The guest in room four is staying all week. Everything must be perfect!"
-        },
-        {
-          "text": "Je dois lire le cahier de réservations, mais je ne trouve pas mes lunettes!",
-          "trans": "I need to read the reservation book, but I cannot find my glasses!"
-        }
-      ],
-      "related": [
-        {
-          "word": "un devoir",
-          "gloss": "duty, obligation"
-        },
-        {
-          "word": "dû",
-          "gloss": "owed, due"
-        }
-      ]
-    },
-    "dire": {
-      "lemma": "dire",
-      "stress": "diʁ",
-      "pos": "verb",
-      "gloss": "to say, to tell",
-      "meanings": [
-        {
-          "en": "to say",
-          "note": "dire la vérité à quelqu'un = to tell someone the truth"
-        },
-        {
-          "en": "to tell (someone)",
-          "note": "dire à quelqu'un; dis-lui = tell her/him"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je dis",
-              "nous disons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu dis",
-              "vous dites"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle dit",
-              "ils/elles disent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai dit",
-                "nous avons dit"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as dit",
-                "vous avez dit"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a dit",
-                "ils/elles ont dit"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je disais",
-                "nous disions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu disais",
-                "vous disiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle disait",
-                "ils/elles disaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je dirai",
-                "nous dirons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu diras",
-                "vous direz"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle dira",
-                "ils/elles diront"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "disons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "dis",
-                "dites"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Dis-lui que je ne peux pas venir.",
-          "trans": "Tell her I can't come."
-        },
-        {
-          "text": "Trop tard! Il a dit merci et il a raccroché!",
-          "trans": "Too late! He said thank you and hung up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "dire la vérité à quelqu'un",
-          "gloss": "to tell someone the truth"
-        }
-      ]
-    },
-    "elle": {
-      "lemma": "elle",
-      "stress": "ɛl",
-      "pos": "pron",
-      "gloss": "she, it",
-      "meanings": [
-        {
-          "en": "she",
-          "note": "for a feminine noun: l'industrie... elle"
-        },
-        {
-          "en": "it",
-          "note": "for a feminine noun: l'industrie... elle"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Elle est pleine de requins.",
-          "trans": "It's full of sharks."
-        },
-        {
-          "text": "Elle est actrice.",
-          "trans": "She's an actress."
-        }
-      ],
-      "related": [
-        {
-          "word": "elle",
-          "gloss": "she"
-        }
-      ]
-    },
-    "et": {
-      "lemma": "et",
-      "stress": "e",
-      "pos": "conj",
-      "gloss": "and",
-      "meanings": [
-        {
-          "en": "and",
-          "note": "The t is never pronounced."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Et vous?",
-          "trans": "And you?"
-        },
-        {
-          "text": "Et demain?",
-          "trans": "And tomorrow?"
-        }
-      ],
-      "related": [
-        {
-          "word": "et",
-          "gloss": "and"
+          "word": "nappe",
+          "gloss": "tablecloth"
         }
       ]
     },
@@ -4582,243 +4816,6 @@
       ],
       "related": []
     },
-    "front": {
-      "lemma": "front",
-      "stress": "fʁɔ̃",
-      "pos": "noun",
-      "gloss": "forehead",
-      "meanings": [
-        {
-          "en": "forehead",
-          "note": "Final t is silent: /fʁɔ̃/."
-        }
-      ],
-      "gender": "m",
-      "plural": "fronts",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le front",
-              "les fronts"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Juste là sur votre front, bien au chaud.",
-          "trans": "Right there on your forehead, safe and sound."
-        },
-        {
-          "text": "Impeccable, Étienne! Et vos lunettes sont même sur votre nez et pas sur votre front.",
-          "trans": "Spotless, Etienne! And your glasses are even on your nose and not on your forehead."
-        },
-        {
-          "text": "Laissez-moi baisser mes lunettes de mon front... Chambre neuf?!",
-          "trans": "Let me pull my glasses down from my forehead... Room nine?!"
-        }
-      ],
-      "related": [
-        {
-          "word": "tête",
-          "gloss": "head"
-        },
-        {
-          "word": "nez",
-          "gloss": "nose"
-        }
-      ]
-    },
-    "grand": {
-      "lemma": "grand",
-      "stress": "ɡʁɑ̃",
-      "pos": "adj",
-      "gloss": "big, great, tall",
-      "meanings": [
-        {
-          "en": "big, tall",
-          "note": "before the noun: une grande actrice = a great actress"
-        },
-        {
-          "en": "great, important",
-          "note": "Une grande star."
-        },
-        {
-          "en": "la plus grande: the greatest",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "grand",
-              "grande"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "grands",
-              "grandes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est une grande star.",
-          "trans": "She's a big star."
-        },
-        {
-          "text": "Paris est une grande ville.",
-          "trans": "Paris is a big city."
-        }
-      ],
-      "related": [
-        {
-          "word": "grand-chose",
-          "gloss": "much"
-        },
-        {
-          "word": "grandir",
-          "gloss": "to grow up"
-        },
-        {
-          "word": "grand-mère",
-          "gloss": "grandmother"
-        }
-      ]
-    },
-    "heure": {
-      "lemma": "heure",
-      "stress": "œʁ",
-      "pos": "noun",
-      "gloss": "hour; o'clock",
-      "gender": "f",
-      "plural": "heures",
-      "meanings": [
-        {
-          "en": "hour",
-          "note": "Dans une heure = in an hour."
-        },
-        {
-          "en": "o'clock",
-          "note": "À quatorze heures = at two pm."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'heure",
-              "les heures"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "À onze heures.",
-          "trans": "At eleven o'clock."
-        },
-        {
-          "text": "Quelle heure est-il? Neuf heures trente-cinq!",
-          "trans": "What time is it? Nine thirty-five!"
-        }
-      ],
-      "related": [
-        {
-          "word": "heureux",
-          "gloss": "happy"
-        },
-        {
-          "word": "heureusement",
-          "gloss": "fortunately"
-        }
-      ]
-    },
-    "instant": {
-      "lemma": "instant",
-      "stress": "ɛ̃stɑ̃",
-      "pos": "noun",
-      "gloss": "instant, moment",
-      "gender": "m",
-      "plural": "instants",
-      "meanings": [
-        {
-          "en": "moment, instant",
-          "note": "pour l'instant = for the moment, for now"
-        },
-        {
-          "en": "short while",
-          "note": "Un instant, s'il vous plaît. Prefix 'in-'/'im-' marks negation ('un-, in-') or inward motion. Standard masculine noun meaning 'instant, moment'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "l'instant",
-              "les instants"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Attendez un instant.",
-          "trans": "Wait a moment."
-        },
-        {
-          "text": "Un instant, s'il vous plaît.",
-          "trans": "One moment, please."
-        },
-        {
-          "text": "Voilà un taxi devant le portail à l'instant.",
-          "trans": "Here comes a taxi in front of the gate right now."
-        }
-      ],
-      "related": [
-        {
-          "word": "pour l'instant",
-          "gloss": "for the moment, for now"
-        }
-      ]
-    },
     "je": {
       "lemma": "je",
       "stress": "ʒə",
@@ -4846,101 +4843,6 @@
         {
           "word": "je",
           "gloss": "I"
-        }
-      ]
-    },
-    "juste": {
-      "lemma": "juste",
-      "stress": "ʒyst",
-      "pos": "adv",
-      "gloss": "just, only",
-      "meanings": [
-        {
-          "en": "just, only",
-          "note": "Adverb: je veux juste."
-        },
-        {
-          "en": "fair, right",
-          "note": "Adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Juste là sur votre front, bien au chaud.",
-          "trans": "Right there on your forehead, safe and sound."
-        },
-        {
-          "text": "Sur la cour, juste au-dessus du vieux tilleul. C'est très calme.",
-          "trans": "The courtyard, right above the old linden tree. It is very quiet."
-        },
-        {
-          "text": "Juste sous cette arche. Je vais monter la valise bleue pour vous.",
-          "trans": "Right under this archway. I will carry the blue suitcase up for you."
-        }
-      ],
-      "related": [
-        {
-          "word": "justement",
-          "gloss": "just now"
-        }
-      ]
-    },
-    "le": {
-      "lemma": "le",
-      "stress": "lə",
-      "pos": "det",
-      "gloss": "the",
-      "meanings": [
-        {
-          "en": "the",
-          "note": "definite article; l' before a vowel"
-        },
-        {
-          "en": "him; it; her",
-          "note": "As a direct-object pronoun: le is masculine, la feminine; both become l' before a vowel sound."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "le",
-              "la"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "les",
-              "les"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Le film est fantastique.",
-          "trans": "The film is fantastic."
-        },
-        {
-          "text": "La pièce de Koltès.",
-          "trans": "The Koltès play."
-        }
-      ],
-      "related": [
-        {
-          "word": "le",
-          "gloss": "the"
         }
       ]
     },
@@ -5097,19 +4999,19 @@
       ],
       "related": []
     },
-    "lunettes": {
-      "lemma": "lunettes",
-      "stress": "lynɛt",
+    "cahier": {
+      "lemma": "cahier",
+      "stress": "kaje",
       "pos": "noun",
-      "gloss": "glasses, spectacles",
+      "gloss": "notebook, ledger",
       "meanings": [
         {
-          "en": "glasses, spectacles",
-          "note": "Always plural for eyeglasses: des/mes lunettes."
+          "en": "notebook, ledger",
+          "note": "Larger bound notebook."
         }
       ],
-      "gender": "f",
-      "plural": "lunettes",
+      "gender": "m",
+      "plural": "cahiers",
       "forms": {
         "title": "Forms",
         "columns": [
@@ -5121,1339 +5023,35 @@
           {
             "cells": [
               "form",
-              "—",
-              "les lunettes"
+              "le cahier",
+              "les cahiers"
             ]
           }
         ]
       },
       "moreForms": [],
       "examples": [
+        {
+          "text": "Dans le tiroir. Ici, on utilise ce grand cahier en papier et un crayon.",
+          "trans": "In the drawer. Here we use this big paper notebook and a pencil."
+        },
+        {
+          "text": "Un cahier en papier? Vraiment?",
+          "trans": "A paper notebook? Really?"
+        },
         {
           "text": "Je dois lire le cahier de réservations, mais je ne trouve pas mes lunettes!",
           "trans": "I need to read the reservation book, but I cannot find my glasses!"
-        },
-        {
-          "text": "Pourquoi mes lunettes seraient... oh! Elles sont sur ma tête!",
-          "trans": "Why would my glasses be... oh! They are on my head!"
-        },
-        {
-          "text": "Mon Dieu, quelle confusion! Laissez-moi regarder l'étiquette avec mes lunettes.",
-          "trans": "Dear me, what a mix-up! Let me look at the tag with my glasses."
         }
       ],
       "related": [
         {
-          "word": "œil",
-          "gloss": "eye"
+          "word": "carnet",
+          "gloss": "small notebook"
         },
         {
-          "word": "lire",
-          "gloss": "to read"
-        }
-      ]
-    },
-    "là": {
-      "lemma": "là",
-      "stress": "la",
-      "pos": "adv",
-      "gloss": "there; here",
-      "meanings": [
-        {
-          "en": "here",
-          "note": "être là = to be here, to be present"
-        },
-        {
-          "en": "there",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Juste là sur votre front, bien au chaud.",
-          "trans": "Right there on your forehead, safe and sound."
-        },
-        {
-          "text": "Regardez la fermeture éclair... oui, ses initiales sont juste là!",
-          "trans": "Check the zipper... yes, her initials are right here!"
-        },
-        {
-          "text": "À droite, près du bureau, là où la lumière est bonne.",
-          "trans": "On the right, near the desk, where the light is good."
-        }
-      ],
-      "related": [
-        {
-          "word": "ici",
-          "gloss": "here"
-        },
-        {
-          "word": "là-bas",
-          "gloss": "over there"
-        }
-      ]
-    },
-    "maintenant": {
-      "lemma": "maintenant",
-      "stress": "mɛ̃tnɑ̃",
-      "pos": "adv",
-      "gloss": "now",
-      "meanings": [
-        {
-          "en": "now",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tu peux commencer maintenant?",
-          "trans": "Can you start now?"
-        },
-        {
-          "text": "Je pars maintenant.",
-          "trans": "I'm leaving now."
-        }
-      ],
-      "related": []
-    },
-    "mais": {
-      "lemma": "mais",
-      "stress": "mɛ",
-      "pos": "conj",
-      "gloss": "but",
-      "meanings": [
-        {
-          "en": "but",
-          "note": "Mais oui! = of course!."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "L'extérieur est identique, oui! Mais regardez à l'intérieur!",
-          "trans": "The outside is identical, yes! But look inside!"
-        },
-        {
-          "text": "Ce n'est pas votre faute. Mais je n'ai que le manteau sur mon dos!",
-          "trans": "It is not your fault. Still, I only have the coat on my back!"
-        }
-      ],
-      "related": [
-        {
-          "word": "maison",
-          "gloss": "house"
-        }
-      ]
-    },
-    "manteau": {
-      "lemma": "manteau",
-      "stress": "mɑ̃to",
-      "pos": "noun",
-      "gloss": "coat, winter overcoat",
-      "gender": "m",
-      "plural": "manteaux",
-      "meanings": [
-        {
-          "en": "coat, warm overcoat",
-          "note": "Masculine noun ('le manteau', plural 'les manteaux') inherited through Romance vocabulary, used in everyday and professional French for 'coat'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le manteau",
-              "les manteaux"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Elles sont dans la poche de votre manteau?",
-          "trans": "Are they in your coat pocket?"
-        },
-        {
-          "text": "Ce n'est pas votre faute. Mais je n'ai que le manteau sur mon dos!",
-          "trans": "It is not your fault. Still, I only have the coat on my back!"
-        },
-        {
-          "text": "Voici une serviette sèche pour votre manteau et un bol de soupe chaude, monsieur.",
-          "trans": "Here is a dry towel for your coat and a bowl of hot soup, sir."
-        }
-      ],
-      "related": [
-        {
-          "word": "démantèlement",
-          "gloss": "dismantling"
-        }
-      ]
-    },
-    "miroir": {
-      "lemma": "miroir",
-      "stress": "miʁwaʁ",
-      "pos": "noun",
-      "gloss": "mirror",
-      "meanings": [
-        {
-          "en": "mirror",
-          "note": "Wall or bathroom mirror."
-        }
-      ],
-      "gender": "m",
-      "plural": "miroirs",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le miroir",
-              "les miroirs"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Regardez dans le miroir derrière le comptoir, patron.",
-          "trans": "Look in the mirror behind the counter, boss."
-        },
-        {
-          "text": "Et pas de miroir au mur, et le sol semble nu sans tapis.",
-          "trans": "And no mirror on the wall, and the floor feels bare without a rug."
-        },
-        {
-          "text": "Où est-ce que j'accroche ce miroir rond? À gauche de la fenêtre ou à droite?",
-          "trans": "Where should I hang this round mirror? Left of the window or right?"
-        }
-      ],
-      "related": [
-        {
-          "word": "regarder",
-          "gloss": "to look"
-        }
-      ]
-    },
-    "mon": {
-      "lemma": "mon",
-      "stress": "mɔ̃",
-      "pos": "det",
-      "gloss": "my",
-      "meanings": [
-        {
-          "en": "my",
-          "note": "Ma before a feminine noun; mon before a feminine noun beginning with a vowel sound or mute h."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "mon",
-              "ma"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "mes",
-              "mes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je suis à mon cours.",
-          "trans": "I'm at my lesson."
-        },
-        {
-          "text": "C'est ma place.",
-          "trans": "It's my seat."
-        }
-      ],
-      "related": [
-        {
-          "word": "mon",
-          "gloss": "my"
-        }
-      ]
-    },
-    "monsieur": {
-      "lemma": "monsieur",
-      "stress": "məsjø",
-      "pos": "noun",
-      "gloss": "sir; Mr; gentleman",
-      "gender": "m",
-      "plural": "messieurs",
-      "meanings": [
-        {
-          "en": "Mr",
-          "note": ""
-        },
-        {
-          "en": "sir",
-          "note": "Polite address: merci, monsieur."
-        },
-        {
-          "en": "gentleman, man",
-          "note": "Un monsieur."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le monsieur",
-              "les messieurs"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Bonjour, monsieur! Oui, le bureau est propre et les clés sont prêtes.",
-          "trans": "Good morning, sir! Yes, the desk is clean and the keys are ready."
-        },
-        {
-          "text": "Oh, comme c'est aimable, monsieur. Juste un demi-verre.",
-          "trans": "Oh, how kind, sir. Just half a glass."
-        },
-        {
-          "text": "Attendez... bonjour, monsieur! Vous appelez pour la valise bleu foncé?",
-          "trans": "Wait... hello, sir! Are you calling about the dark-blue suitcase?"
-        }
-      ],
-      "related": [
-        {
-          "word": "un monsieur / des messieurs",
-          "gloss": "a sir / sirs"
-        }
-      ]
-    },
-    "ne": {
-      "lemma": "ne",
-      "stress": "nə",
-      "pos": "part",
-      "gloss": "not (with pas, rien, que)",
-      "meanings": [
-        {
-          "en": "negation",
-          "note": "ne... pas = not; ne... rien = nothing; ne... que = only; n' before a vowel"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Rien n'est signé.",
-          "trans": "Nothing is signed."
-        },
-        {
-          "text": "Attention dans le virage, ne cognez pas le mur!",
-          "trans": "Careful on the turn, do not bump the wall!"
-        }
-      ],
-      "related": [
-        {
-          "word": "pas",
-          "gloss": "not"
-        },
-        {
-          "word": "jamais",
-          "gloss": "never"
-        }
-      ]
-    },
-    "non": {
-      "lemma": "non",
-      "stress": "nɔ̃",
-      "pos": "adv",
-      "gloss": "no",
-      "meanings": [
-        {
-          "en": "no",
-          "note": "at the end of a sentence: super, non?"
-        },
-        {
-          "en": "..., non? = ..., don't you? / isn't it?",
-          "note": "Tag at the end of a question."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vous savez monter, non?",
-          "trans": "You can ride, can't you?"
-        },
-        {
-          "text": "Non, soulevez d'abord la poignée, puis poussez.",
-          "trans": "No, lift the handle first, then push."
-        }
-      ],
-      "related": [
-        {
-          "word": "oui",
-          "gloss": "yes"
-        },
-        {
-          "word": "non plus",
-          "gloss": "neither, either"
-        }
-      ]
-    },
-    "oh": {
-      "lemma": "oh",
-      "stress": "o",
-      "pos": "interj",
-      "gloss": "oh (surprise, dismay)",
-      "meanings": [
-        {
-          "en": "oh",
-          "note": "Surprise or dismay."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oh non!",
-          "trans": "Oh no!"
-        },
-        {
-          "text": "Oh, merci!",
-          "trans": "Oh, thank you!"
-        }
-      ],
-      "related": [
-        {
-          "word": "oh",
-          "gloss": "oh"
-        }
-      ]
-    },
-    "oui": {
-      "lemma": "oui",
-      "stress": "wi",
-      "pos": "adv",
-      "gloss": "yes",
-      "meanings": [
-        {
-          "en": "yes",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Oui, oui.",
-          "trans": "Yes, yes."
-        },
-        {
-          "text": "Oui, je sais.",
-          "trans": "Yes, I know."
-        }
-      ],
-      "related": [
-        {
-          "word": "non",
-          "gloss": "no"
-        },
-        {
-          "word": "si",
-          "gloss": "yes (contradicting a negative)"
-        }
-      ]
-    },
-    "parfait": {
-      "lemma": "parfait",
-      "stress": "paʁfɛ",
-      "pos": "adj",
-      "gloss": "perfect",
-      "meanings": [
-        {
-          "en": "perfect",
-          "note": "Can stand alone as an approving response; the adjective changes for feminine and plural nouns."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "parfait",
-              "parfaite"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "parfaits",
-              "parfaites"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est parfait.",
-          "trans": "It's perfect."
-        },
-        {
-          "text": "Personne n'est parfait.",
-          "trans": "Nobody's perfect."
-        },
-        {
-          "text": "Parfait. La fenêtre donne sur la rue ou sur la cour?",
-          "trans": "Wonderful. Does the window face the street or the courtyard?"
-        }
-      ],
-      "related": []
-    },
-    "pas": {
-      "lemma": "pas",
-      "stress": "pa",
-      "pos": "part",
-      "gloss": "not (negation); step, thread",
-      "meanings": [
-        {
-          "en": "not (with ne ... pas)",
-          "note": "Main negation word; alone in short phrases like Pas encore!"
-        },
-        {
-          "en": "footstep; screw thread (le pas)",
-          "note": "Entendre des pas = hear footsteps; le pas de vis = screw thread."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pas maintenant.",
-          "trans": "Not now."
-        },
-        {
-          "text": "Pas de numéro de téléphone, malheureusement.",
-          "trans": "No phone number, unfortunately."
-        }
-      ],
-      "related": [
-        {
-          "word": "pas",
-          "gloss": "not"
-        }
-      ]
-    },
-    "patron": {
-      "lemma": "patron",
-      "stress": "patʁɔ̃",
-      "pos": "noun",
-      "gloss": "boss",
-      "gender": "m",
-      "plural": "patrons",
-      "meanings": [
-        {
-          "en": "boss, owner",
-          "note": "Feminine: patronne."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le patron / la patronne",
-              "les patrons"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "C'est le patron.",
-          "trans": "He's the boss."
-        },
-        {
-          "text": "La patronne est là.",
-          "trans": "The boss (woman) is here."
-        }
-      ],
-      "related": [
-        {
-          "word": "patronne",
-          "gloss": "female boss"
-        }
-      ]
-    },
-    "personne": {
-      "lemma": "personne",
-      "stress": "pɛʁsɔn",
-      "pos": "noun",
-      "gloss": "nobody, anyone",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "nobody, not anyone",
-          "note": "With ne: il ne voit personne."
-        },
-        {
-          "en": "a person",
-          "note": "As a noun: une personne (feminine)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "une personne",
-              "des personnes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Il n'y a personne.",
-          "trans": "There's nobody here."
-        },
-        {
-          "text": "Je ne connais personne.",
-          "trans": "I don't know anyone."
-        }
-      ],
-      "related": [
-        {
-          "word": "personnel",
-          "gloss": "personal"
-        },
-        {
-          "word": "personnellement",
-          "gloss": "personally"
-        }
-      ]
-    },
-    "poche": {
-      "lemma": "poche",
-      "stress": "pɔʃ",
-      "pos": "noun",
-      "gloss": "pocket",
-      "meanings": [
-        {
-          "en": "pocket",
-          "note": "Lampe de poche = pocket flashlight."
-        }
-      ],
-      "gender": "f",
-      "plural": "poches",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la poche",
-              "les poches"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Elles sont dans la poche de votre manteau?",
-          "trans": "Are they in your coat pocket?"
-        },
-        {
-          "text": "Dites-leur que la mienne a un ruban rouge dans la poche du haut!",
-          "trans": "Tell them mine has a red ribbon in the top pocket!"
-        },
-        {
-          "text": "Ma valise! J'ouvre la poche du haut... oui, mon ruban rouge!",
-          "trans": "My suitcase! Let me open the top pocket... yes, my red ribbon!"
-        }
-      ],
-      "related": [
-        {
-          "word": "manteau",
-          "gloss": "coat"
-        }
-      ]
-    },
-    "portail": {
-      "lemma": "portail",
-      "stress": "pɔʁtaj",
-      "pos": "noun",
-      "gloss": "large gate, courtyard entrance gate",
-      "meanings": [
-        {
-          "en": "large gate, courtyard entrance gate",
-          "note": "Regular plural: les portails."
-        }
-      ],
-      "gender": "m",
-      "plural": "portails",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le portail",
-              "les portails"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Voilà un taxi devant le portail à l'instant.",
-          "trans": "Here comes a taxi in front of the gate right now."
-        },
-        {
-          "text": "Vous avez entendu ça, Henri? Quelqu'un vient de sonner au portail!",
-          "trans": "Did you hear that, Henri? Someone just rang the gate bell!"
-        },
-        {
-          "text": "Bonjour, Madame Odette! Regardez ce qui est arrivé au portail hier soir.",
-          "trans": "Good morning, Madam Odette! Look what arrived at the gate last night."
-        }
-      ],
-      "related": [
-        {
-          "word": "porte",
-          "gloss": "door"
-        },
-        {
-          "word": "grille",
-          "gloss": "iron gate"
-        }
-      ]
-    },
-    "pourquoi": {
-      "lemma": "pourquoi",
-      "stress": "puʁkwa",
-      "pos": "adv",
-      "gloss": "why",
-      "meanings": [
-        {
-          "en": "why",
-          "note": "in questions and after verbs like comprendre, savoir"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Pourquoi est-ce que tu ne m'as rien dit hier?",
-          "trans": "Why didn't you tell me anything yesterday?"
-        },
-        {
-          "text": "Je comprends enfin pourquoi elle a refusé ce film.",
-          "trans": "I finally understand why she turned down that film."
-        }
-      ],
-      "related": [
-        {
-          "word": "pour",
-          "gloss": "for"
-        },
-        {
-          "word": "pour cent",
-          "gloss": "percent"
-        },
-        {
-          "word": "pour de vrai",
-          "gloss": "for real"
-        }
-      ]
-    },
-    "propre": {
-      "lemma": "propre",
-      "stress": "pʁɔpʁ",
-      "pos": "adj",
-      "gloss": "own (before noun); clean (after noun)",
-      "meanings": [
-        {
-          "en": "own (before the noun)",
-          "note": "Son propre salon = her own salon."
-        },
-        {
-          "en": "clean (after the noun)",
-          "note": "Une chambre propre = a clean room."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "propre",
-              "propre"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "propres",
-              "propres"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Elle a son propre salon.",
-          "trans": "She has her own salon."
-        },
-        {
-          "text": "La maison est très propre.",
-          "trans": "The house is very clean."
-        },
-        {
-          "text": "Bonsoir. Pardon pour l'eau sur votre sol propre.",
-          "trans": "Good evening. Sorry for the water on your clean floor."
-        }
-      ],
-      "related": [
-        {
-          "word": "proposer",
-          "gloss": "to suggest"
-        },
-        {
-          "word": "propriétaire",
-          "gloss": "owner"
-        },
-        {
-          "word": "propos",
-          "gloss": "remarks"
-        }
-      ]
-    },
-    "prêt": {
-      "lemma": "prêt",
-      "stress": "pʁɛ",
-      "pos": "adj",
-      "gloss": "ready",
-      "meanings": [
-        {
-          "en": "ready",
-          "note": "Prêt à + infinitive = ready to."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "prêt",
-              "prête"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "prêts",
-              "prêtes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tu es prête?",
-          "trans": "Are you ready?"
-        },
-        {
-          "text": "Ils sont prêts à partir.",
-          "trans": "They're ready to leave."
-        }
-      ],
-      "related": [
-        {
-          "word": "prêter",
-          "gloss": "to lend"
-        }
-      ]
-    },
-    "quand": {
-      "lemma": "quand",
-      "stress": "kɑ̃",
-      "pos": "adv",
-      "gloss": "when",
-      "meanings": [
-        {
-          "en": "when",
-          "note": "Question word or conjunction."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Vous serez là quand?",
-          "trans": "When will you be here?"
-        },
-        {
-          "text": "Quand tu veux.",
-          "trans": "Whenever you like."
-        }
-      ],
-      "related": [
-        {
-          "word": "quand même",
-          "gloss": "still"
-        }
-      ]
-    },
-    "quatre": {
-      "lemma": "quatre",
-      "stress": "katʁ",
-      "pos": "num",
-      "gloss": "four",
-      "meanings": [
-        {
-          "en": "four",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "À quatre heures du matin.",
-          "trans": "At four in the morning."
-        },
-        {
-          "text": "J'ai quatre frères.",
-          "trans": "I have four brothers."
-        }
-      ],
-      "related": []
-    },
-    "regarder": {
-      "lemma": "regarder",
-      "stress": "ʁəɡaʁde",
-      "pos": "verb",
-      "gloss": "to look at, to watch",
-      "meanings": [
-        {
-          "en": "to look at",
-          "note": "no preposition needed: regarder la photo"
-        },
-        {
-          "en": "to watch",
-          "note": "A film, the TV."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je regarde",
-              "nous regardons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu regardes",
-              "vous regardez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il regarde",
-              "ils regardent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai regardé",
-                "nous avons regardé"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as regardé",
-                "vous avez regardé"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il a regardé",
-                "ils ont regardé"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je regardais",
-                "nous regardions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu regardais",
-                "vous regardiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il regardait",
-                "ils regardaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je regarderai",
-                "nous regarderons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu regarderas",
-                "vous regarderez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il regardera",
-                "ils regarderont"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Regarde bien cette photo sur la première page!",
-          "trans": "Look closely at this photo on the front page!"
-        },
-        {
-          "text": "Nous allons regarder les premiers essais cet après-midi.",
-          "trans": "We are going to watch the first screen tests this afternoon."
-        }
-      ],
-      "related": [
-        {
-          "word": "regard",
-          "gloss": "look"
-        }
-      ]
-    },
-    "rester": {
-      "lemma": "rester",
-      "stress": "ʁɛste",
-      "pos": "verb",
-      "gloss": "to stay",
-      "meanings": [
-        {
-          "en": "to stay, to remain",
-          "note": "Passé composé with être."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je reste",
-              "nous restons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu restes",
-              "vous restez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il reste",
-              "ils restent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je suis resté(e)",
-                "nous sommes restés"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu es resté(e)",
-                "vous êtes resté(s)"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il est resté",
-                "ils sont restés"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je restais",
-                "nous restions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu restais",
-                "vous restiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il restait",
-                "ils restaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je resterai",
-                "nous resterons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu resteras",
-                "vous resterez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il restera",
-                "ils resteront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Je reste à Paris.",
-          "trans": "I'm staying in Paris."
-        },
-        {
-          "text": "Elle est restée à l'agence.",
-          "trans": "She stayed with the agency."
-        }
-      ],
-      "related": [
-        {
-          "word": "reste",
-          "gloss": "rest"
-        }
-      ]
-    },
-    "rien": {
-      "lemma": "rien",
-      "stress": "ʁjɛ̃",
-      "pos": "pron",
-      "gloss": "nothing",
-      "meanings": [
-        {
-          "en": "nothing",
-          "note": "with ne: je ne promets rien; rien n'est signé"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je ne promets rien.",
-          "trans": "I'm not promising anything."
-        },
-        {
-          "text": "Rien n'est signé.",
-          "trans": "Nothing is signed."
-        }
-      ],
-      "related": [
-        {
-          "word": "rien du tout",
-          "gloss": "nothing at all"
+          "word": "papier",
+          "gloss": "paper"
         }
       ]
     },
@@ -6494,8 +5092,8 @@
           "trans": "I need to read the reservation book, but I cannot find my glasses!"
         },
         {
-          "text": "Bonjour, ma chère. J'ai une réservation au nom d'Odette.",
-          "trans": "Good morning, my dear. I have a reservation under the name Odette."
+          "text": "Bonjour, ma chère. J'ai une réservation pour {F3}.",
+          "trans": "Good morning, my dear. I have a booking for {F3}."
         },
         {
           "text": "Qui est-ce? Une autre réservation pour ce week-end?",
@@ -6513,578 +5111,67 @@
         }
       ]
     },
-    "semaine": {
-      "lemma": "semaine",
-      "stress": "səmɛn",
-      "pos": "noun",
-      "gloss": "week",
-      "gender": "f",
-      "plural": "semaines",
+    "mais": {
+      "lemma": "mais",
+      "stress": "mɛ",
+      "pos": "conj",
+      "gloss": "but",
       "meanings": [
         {
-          "en": "week",
-          "note": "Cette semaine = this week."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la semaine",
-              "les semaines"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je dois voir la pièce cette semaine.",
-          "trans": "I have to see the play this week."
-        },
-        {
-          "text": "Trois semaines.",
-          "trans": "Three weeks."
-        }
-      ],
-      "related": [
-        {
-          "word": "cette semaine",
-          "gloss": "this week"
-        }
-      ]
-    },
-    "serviette": {
-      "lemma": "serviette",
-      "stress": "sɛʁvjɛt",
-      "pos": "noun",
-      "gloss": "towel; table napkin",
-      "meanings": [
-        {
-          "en": "towel; table napkin",
-          "note": "Means bath towel in a room and napkin at the table."
-        }
-      ],
-      "gender": "f",
-      "plural": "serviettes",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la serviette",
-              "les serviettes"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Calmez-vous, Étienne. La chambre est propre et les serviettes sont fraîches.",
-          "trans": "Relax, Etienne. The room is clean and the towels are fresh."
-        },
-        {
-          "text": "Où vont les petites cuillères et les serviettes?",
-          "trans": "Where do the small spoons and napkins go?"
-        },
-        {
-          "text": "Mets une serviette et une petite cuillère à côté de chaque tasse bleue.",
-          "trans": "Put one napkin and one teaspoon beside every blue cup."
-        }
-      ],
-      "related": [
-        {
-          "word": "nappe",
-          "gloss": "tablecloth"
-        }
-      ]
-    },
-    "seulement": {
-      "lemma": "seulement",
-      "stress": "sœlmɑ̃",
-      "pos": "adv",
-      "gloss": "only",
-      "meanings": [
-        {
-          "en": "only, just",
-          "note": ""
+          "en": "but",
+          "note": "Mais oui! = of course!."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "J'ai seulement vingt ans.",
-          "trans": "I'm only twenty."
+          "text": "L'extérieur est identique, oui! Mais regardez à l'intérieur!",
+          "trans": "The outside is identical, yes! But look inside!"
         },
         {
-          "text": "Seulement un café.",
-          "trans": "Just a coffee."
+          "text": "Ce n'est pas votre faute. Mais je n'ai que le manteau sur mon dos!",
+          "trans": "It is not your fault. Still, I only have the coat on my back!"
         }
       ],
       "related": [
         {
-          "word": "seul",
-          "gloss": "alone"
+          "word": "maison",
+          "gloss": "house"
         }
       ]
     },
-    "sonner": {
-      "lemma": "sonner",
-      "stress": "sɔne",
-      "pos": "verb",
-      "gloss": "to ring; to sound",
+    "ne": {
+      "lemma": "ne",
+      "stress": "nə",
+      "pos": "part",
+      "gloss": "not (with pas, rien, que)",
       "meanings": [
         {
-          "en": "to ring",
-          "note": "A telephone or bell rings."
-        },
-        {
-          "en": "to sound",
-          "note": "For how something sounds to the ear, including an appealing name or idea."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "je sonne",
-              "nous sonnons"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu sonnes",
-              "vous sonnez"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il sonne",
-              "ils sonnent"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai sonné",
-                "nous avons sonné"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as sonné",
-                "vous avez sonné"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il a sonné",
-                "ils ont sonné"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je sonnais",
-                "nous sonnions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu sonnais",
-                "vous sonniez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il sonnait",
-                "ils sonnaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je sonnerai",
-                "nous sonnerons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu sonneras",
-                "vous sonnerez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il sonnera",
-                "ils sonneront"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ça sonne vraiment bien.",
-          "trans": "That sounds really good."
-        },
-        {
-          "text": "Le téléphone sonne.",
-          "trans": "The phone is ringing."
-        },
-        {
-          "text": "Madame Odette, tout va bien? Vous avez sonné!",
-          "trans": "Madam Odette, is everything alright? You rang the bell!"
-        }
-      ],
-      "related": []
-    },
-    "sourire": {
-      "lemma": "sourire",
-      "stress": "suʁiʁ",
-      "pos": "noun",
-      "gloss": "smile",
-      "gender": "m",
-      "plural": "sourires",
-      "meanings": [
-        {
-          "en": "smile (noun)",
-          "note": "also the infinitive verb 'to smile'"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le sourire",
-              "les sourires"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "J'aime le regard et le sourire.",
-          "trans": "I like the look and the smile."
-        },
-        {
-          "text": "Elle a un beau sourire.",
-          "trans": "She has a lovely smile."
-        },
-        {
-          "text": "Comment faisiez-vous pour lui redonner le sourire, Madame Odette?",
-          "trans": "How did you bring his smile back, Madam Odette?"
-        }
-      ],
-      "related": []
-    },
-    "stylo": {
-      "lemma": "stylo",
-      "stress": "stilo",
-      "pos": "noun",
-      "gloss": "pen, ballpoint pen",
-      "gender": "m",
-      "plural": "stylos",
-      "meanings": [
-        {
-          "en": "pen, ballpoint pen",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le stylo",
-              "les stylos"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Mon stylo ne marche pas.",
-          "trans": "My pen isn't working."
-        },
-        {
-          "text": "Prête-moi ton stylo, s'il te plaît.",
-          "trans": "Lend me your pen, please."
-        }
-      ],
-      "related": [
-        {
-          "word": "style",
-          "gloss": "style"
-        }
-      ]
-    },
-    "sur": {
-      "lemma": "sur",
-      "stress": "syʁ",
-      "pos": "prep",
-      "gloss": "on, onto",
-      "meanings": [
-        {
-          "en": "on, onto",
-          "note": "Sur la table, sur la route."
-        },
-        {
-          "en": "on (a device)",
-          "note": "Sur haut-parleur = on speaker."
+          "en": "negation",
+          "note": "ne... pas = not; ne... rien = nothing; ne... que = only; n' before a vowel"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Le livre est sur la table.",
-          "trans": "The book is on the table."
+          "text": "Rien n'est signé.",
+          "trans": "Nothing is signed."
         },
         {
-          "text": "Tu es sur haut-parleur.",
-          "trans": "You're on speaker."
+          "text": "Attention dans le virage, ne cognez pas le mur!",
+          "trans": "Careful on the turn, do not bump the wall!"
         }
       ],
       "related": [
         {
-          "word": "sur",
-          "gloss": "on"
-        }
-      ]
-    },
-    "taxi": {
-      "lemma": "taxi",
-      "stress": "taksi",
-      "pos": "noun",
-      "gloss": "taxi, cab",
-      "gender": "m",
-      "plural": "taxis",
-      "meanings": [
-        {
-          "en": "taxi, cab",
-          "note": "prendre un taxi / monter dans le taxi"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le taxi",
-              "les taxis"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Voilà un taxi devant le portail à l'instant.",
-          "trans": "Here comes a taxi in front of the gate right now."
+          "word": "pas",
+          "gloss": "not"
         },
         {
-          "text": "Un taxi vient de s'arrêter juste devant la grille en fer!",
-          "trans": "A taxi just stopped right outside the iron gate!"
-        },
-        {
-          "text": "Ne prends pas ce taxi!",
-          "trans": "Don't take that taxi!"
-        }
-      ],
-      "related": [
-        {
-          "word": "un taxi / des taxis",
-          "gloss": "a taxi / taxis"
-        }
-      ]
-    },
-    "ticket": {
-      "lemma": "ticket",
-      "stress": "tikɛ",
-      "pos": "noun",
-      "gloss": "receipt; bus/metro ticket",
-      "meanings": [
-        {
-          "en": "receipt; bus/metro ticket",
-          "note": "Ticket de caisse = shop receipt."
-        }
-      ],
-      "gender": "m",
-      "plural": "tickets",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le ticket",
-              "les tickets"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Non, seulement mon stylo et trois vieux tickets!",
-          "trans": "No, only my pen and three old receipts!"
-        },
-        {
-          "text": "Voici cinquante euros de la caisse. Rapportez le ticket!",
-          "trans": "Here is fifty euros from the cash box. Bring back the receipt!"
-        },
-        {
-          "text": "Quelle vitesse! L'épicier vous a donné un ticket?",
-          "trans": "What speed! Did the grocer give you a receipt?"
-        }
-      ],
-      "related": [
-        {
-          "word": "caisse",
-          "gloss": "till"
-        }
-      ]
-    },
-    "tout": {
-      "lemma": "tout",
-      "stress": "tu",
-      "pos": "det",
-      "gloss": "all; every",
-      "meanings": [
-        {
-          "en": "all; every",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Tout va bien.",
-          "trans": "Everything is going well."
-        },
-        {
-          "text": "Madame Odette, tout va bien? Vous avez sonné!",
-          "trans": "Madam Odette, is everything alright? You rang the bell!"
-        }
-      ],
-      "related": []
-    },
-    "trois": {
-      "lemma": "trois",
-      "stress": "tʁwa",
-      "pos": "num",
-      "gloss": "three",
-      "meanings": [
-        {
-          "en": "three",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Trois semaines.",
-          "trans": "Three weeks."
-        },
-        {
-          "text": "Trois cafés.",
-          "trans": "Three coffees."
-        }
-      ],
-      "related": [
-        {
-          "word": "trois",
-          "gloss": "three"
+          "word": "jamais",
+          "gloss": "never"
         }
       ]
     },
@@ -7270,6 +5357,1079 @@
         }
       ]
     },
+    "pas": {
+      "lemma": "pas",
+      "stress": "pa",
+      "pos": "part",
+      "gloss": "not (negation); step, thread",
+      "meanings": [
+        {
+          "en": "not (with ne ... pas)",
+          "note": "Main negation word; alone in short phrases like Pas encore!"
+        },
+        {
+          "en": "footstep; screw thread (le pas)",
+          "note": "Entendre des pas = hear footsteps; le pas de vis = screw thread."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pas maintenant.",
+          "trans": "Not now."
+        },
+        {
+          "text": "Pas de numéro de téléphone, malheureusement.",
+          "trans": "No phone number, unfortunately."
+        }
+      ],
+      "related": [
+        {
+          "word": "pas",
+          "gloss": "not"
+        }
+      ]
+    },
+    "mon": {
+      "lemma": "mon",
+      "stress": "mɔ̃",
+      "pos": "det",
+      "gloss": "my",
+      "meanings": [
+        {
+          "en": "my",
+          "note": "Ma before a feminine noun; mon before a feminine noun beginning with a vowel sound or mute h."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "mon",
+              "ma"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "mes",
+              "mes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je suis à mon cours.",
+          "trans": "I'm at my lesson."
+        },
+        {
+          "text": "C'est ma place.",
+          "trans": "It's my seat."
+        }
+      ],
+      "related": [
+        {
+          "word": "mon",
+          "gloss": "my"
+        }
+      ]
+    },
+    "lunettes": {
+      "lemma": "lunettes",
+      "stress": "lynɛt",
+      "pos": "noun",
+      "gloss": "glasses, spectacles",
+      "meanings": [
+        {
+          "en": "glasses, spectacles",
+          "note": "Always plural for eyeglasses: des/mes lunettes."
+        }
+      ],
+      "gender": "f",
+      "plural": "lunettes",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "—",
+              "les lunettes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je dois lire le cahier de réservations, mais je ne trouve pas mes lunettes!",
+          "trans": "I need to read the reservation book, but I cannot find my glasses!"
+        },
+        {
+          "text": "Pourquoi mes lunettes seraient... oh! Elles sont sur ma tête!",
+          "trans": "Why would my glasses be... oh! They are on my head!"
+        },
+        {
+          "text": "Mon Dieu, quelle confusion! Laissez-moi regarder l'étiquette avec mes lunettes.",
+          "trans": "Dear me, what a mix-up! Let me look at the tag with my glasses."
+        }
+      ],
+      "related": [
+        {
+          "word": "œil",
+          "gloss": "eye"
+        },
+        {
+          "word": "lire",
+          "gloss": "to read"
+        }
+      ]
+    },
+    "elle": {
+      "lemma": "elle",
+      "stress": "ɛl",
+      "pos": "pron",
+      "gloss": "she, it",
+      "meanings": [
+        {
+          "en": "she",
+          "note": "for a feminine noun: l'industrie... elle"
+        },
+        {
+          "en": "it",
+          "note": "for a feminine noun: l'industrie... elle"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Elle est pleine de requins.",
+          "trans": "It's full of sharks."
+        },
+        {
+          "text": "Elle est actrice.",
+          "trans": "She's an actress."
+        }
+      ],
+      "related": [
+        {
+          "word": "elle",
+          "gloss": "she"
+        }
+      ]
+    },
+    "dans": {
+      "lemma": "dans",
+      "stress": "dɑ̃",
+      "pos": "prep",
+      "gloss": "in, inside; in (time)",
+      "meanings": [
+        {
+          "en": "in, inside",
+          "note": "J'étais dans les sous-vêtements."
+        },
+        {
+          "en": "in (time from now)",
+          "note": "Dans une heure = in an hour."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Dans le cinéma.",
+          "trans": "In the film business."
+        },
+        {
+          "text": "Il y a vingt-cinq ans? Dans cette même maison?",
+          "trans": "Twenty-five years ago? In that same house?"
+        }
+      ],
+      "related": [
+        {
+          "word": "danse",
+          "gloss": "dance"
+        },
+        {
+          "word": "danser",
+          "gloss": "to dance"
+        },
+        {
+          "word": "danseur",
+          "gloss": "dancer"
+        }
+      ]
+    },
+    "poche": {
+      "lemma": "poche",
+      "stress": "pɔʃ",
+      "pos": "noun",
+      "gloss": "pocket",
+      "meanings": [
+        {
+          "en": "pocket",
+          "note": "Lampe de poche = pocket flashlight."
+        }
+      ],
+      "gender": "f",
+      "plural": "poches",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la poche",
+              "les poches"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Elles sont dans la poche de votre manteau?",
+          "trans": "Are they in your coat pocket?"
+        },
+        {
+          "text": "Dites-leur que la mienne a un ruban rouge dans la poche du haut!",
+          "trans": "Tell them mine has a red ribbon in the top pocket!"
+        },
+        {
+          "text": "Ma valise! J'ouvre la poche du haut... oui, mon ruban rouge!",
+          "trans": "My suitcase! Let me open the top pocket... yes, my red ribbon!"
+        }
+      ],
+      "related": [
+        {
+          "word": "manteau",
+          "gloss": "coat"
+        }
+      ]
+    },
+    "votre": {
+      "lemma": "votre",
+      "stress": "vɔtʁ",
+      "pos": "det",
+      "gloss": "your (formal or plural)",
+      "meanings": [
+        {
+          "en": "your",
+          "note": "Polite or plural 'you'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "votre",
+              "votre"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "vos",
+              "vos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Votre nom?",
+          "trans": "Your name?"
+        },
+        {
+          "text": "Laissez vos photos ici.",
+          "trans": "Leave your photos here."
+        }
+      ],
+      "related": [
+        {
+          "word": "votre",
+          "gloss": "your"
+        }
+      ]
+    },
+    "manteau": {
+      "lemma": "manteau",
+      "stress": "mɑ̃to",
+      "pos": "noun",
+      "gloss": "coat, winter overcoat",
+      "gender": "m",
+      "plural": "manteaux",
+      "meanings": [
+        {
+          "en": "coat, warm overcoat",
+          "note": "Masculine noun ('le manteau', plural 'les manteaux') inherited through Romance vocabulary, used in everyday and professional French for 'coat'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le manteau",
+              "les manteaux"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Elles sont dans la poche de votre manteau?",
+          "trans": "Are they in your coat pocket?"
+        },
+        {
+          "text": "Ce n'est pas votre faute. Mais je n'ai que le manteau sur mon dos!",
+          "trans": "It is not your fault. Still, I only have the coat on my back!"
+        },
+        {
+          "text": "Voici une serviette sèche pour votre manteau et un bol de soupe chaude, monsieur.",
+          "trans": "Here is a dry towel for your coat and a bowl of hot soup, sir."
+        }
+      ],
+      "related": [
+        {
+          "word": "démantèlement",
+          "gloss": "dismantling"
+        }
+      ]
+    },
+    "non": {
+      "lemma": "non",
+      "stress": "nɔ̃",
+      "pos": "adv",
+      "gloss": "no",
+      "meanings": [
+        {
+          "en": "no",
+          "note": "at the end of a sentence: super, non?"
+        },
+        {
+          "en": "..., non? = ..., don't you? / isn't it?",
+          "note": "Tag at the end of a question."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vous savez monter, non?",
+          "trans": "You can ride, can't you?"
+        },
+        {
+          "text": "Non, soulevez d'abord la poignée, puis poussez.",
+          "trans": "No, lift the handle first, then push."
+        }
+      ],
+      "related": [
+        {
+          "word": "oui",
+          "gloss": "yes"
+        },
+        {
+          "word": "non plus",
+          "gloss": "neither, either"
+        }
+      ]
+    },
+    "seulement": {
+      "lemma": "seulement",
+      "stress": "sœlmɑ̃",
+      "pos": "adv",
+      "gloss": "only",
+      "meanings": [
+        {
+          "en": "only, just",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "J'ai seulement vingt ans.",
+          "trans": "I'm only twenty."
+        },
+        {
+          "text": "Seulement un café.",
+          "trans": "Just a coffee."
+        }
+      ],
+      "related": [
+        {
+          "word": "seul",
+          "gloss": "alone"
+        }
+      ]
+    },
+    "stylo": {
+      "lemma": "stylo",
+      "stress": "stilo",
+      "pos": "noun",
+      "gloss": "pen, ballpoint pen",
+      "gender": "m",
+      "plural": "stylos",
+      "meanings": [
+        {
+          "en": "pen, ballpoint pen",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le stylo",
+              "les stylos"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Mon stylo ne marche pas.",
+          "trans": "My pen isn't working."
+        },
+        {
+          "text": "Prête-moi ton stylo, s'il te plaît.",
+          "trans": "Lend me your pen, please."
+        }
+      ],
+      "related": [
+        {
+          "word": "style",
+          "gloss": "style"
+        }
+      ]
+    },
+    "trois": {
+      "lemma": "trois",
+      "stress": "tʁwa",
+      "pos": "num",
+      "gloss": "three",
+      "meanings": [
+        {
+          "en": "three",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Trois semaines.",
+          "trans": "Three weeks."
+        },
+        {
+          "text": "Trois cafés.",
+          "trans": "Three coffees."
+        }
+      ],
+      "related": [
+        {
+          "word": "trois",
+          "gloss": "three"
+        }
+      ]
+    },
+    "vieux": {
+      "lemma": "vieux",
+      "stress": "vjø",
+      "pos": "adj",
+      "gloss": "old",
+      "meanings": [
+        {
+          "en": "old",
+          "note": "before the noun; vieil before a vowel: un vieil ami"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "vieux (vieil)",
+              "vieille"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "vieux",
+              "vieilles"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'est un vieux film.",
+          "trans": "It's an old film."
+        },
+        {
+          "text": "Non, seulement mon stylo et trois vieux tickets!",
+          "trans": "No, only my pen and three old receipts!"
+        }
+      ],
+      "related": [
+        {
+          "word": "très vieux",
+          "gloss": "very old"
+        },
+        {
+          "word": "plus vieux",
+          "gloss": "more old"
+        }
+      ]
+    },
+    "ticket": {
+      "lemma": "ticket",
+      "stress": "tikɛ",
+      "pos": "noun",
+      "gloss": "receipt; bus/metro ticket",
+      "meanings": [
+        {
+          "en": "receipt; bus/metro ticket",
+          "note": "Ticket de caisse = shop receipt."
+        }
+      ],
+      "gender": "m",
+      "plural": "tickets",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le ticket",
+              "les tickets"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Non, seulement mon stylo et trois vieux tickets!",
+          "trans": "No, only my pen and three old receipts!"
+        },
+        {
+          "text": "Voici cinquante euros de la caisse. Rapportez le ticket!",
+          "trans": "Here is fifty euros from the cash box. Bring back the receipt!"
+        },
+        {
+          "text": "Quelle vitesse! L'épicier vous a donné un ticket?",
+          "trans": "What speed! Did the grocer give you a receipt?"
+        }
+      ],
+      "related": [
+        {
+          "word": "caisse",
+          "gloss": "till"
+        }
+      ]
+    },
+    "regarder": {
+      "lemma": "regarder",
+      "stress": "ʁəɡaʁde",
+      "pos": "verb",
+      "gloss": "to look at, to watch",
+      "meanings": [
+        {
+          "en": "to look at",
+          "note": "no preposition needed: regarder la photo"
+        },
+        {
+          "en": "to watch",
+          "note": "A film, the TV."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je regarde",
+              "nous regardons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu regardes",
+              "vous regardez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il regarde",
+              "ils regardent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai regardé",
+                "nous avons regardé"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as regardé",
+                "vous avez regardé"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il a regardé",
+                "ils ont regardé"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je regardais",
+                "nous regardions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu regardais",
+                "vous regardiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il regardait",
+                "ils regardaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je regarderai",
+                "nous regarderons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu regarderas",
+                "vous regarderez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il regardera",
+                "ils regarderont"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Regarde bien cette photo sur la première page!",
+          "trans": "Look closely at this photo on the front page!"
+        },
+        {
+          "text": "Nous allons regarder les premiers essais cet après-midi.",
+          "trans": "We are going to watch the first screen tests this afternoon."
+        }
+      ],
+      "related": [
+        {
+          "word": "regard",
+          "gloss": "look"
+        }
+      ]
+    },
+    "miroir": {
+      "lemma": "miroir",
+      "stress": "miʁwaʁ",
+      "pos": "noun",
+      "gloss": "mirror",
+      "meanings": [
+        {
+          "en": "mirror",
+          "note": "Wall or bathroom mirror."
+        }
+      ],
+      "gender": "m",
+      "plural": "miroirs",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le miroir",
+              "les miroirs"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Regardez dans le miroir derrière le comptoir, patron.",
+          "trans": "Look in the mirror behind the counter, boss."
+        },
+        {
+          "text": "Et pas de miroir au mur, et le sol semble nu sans tapis.",
+          "trans": "And no mirror on the wall, and the floor feels bare without a rug."
+        },
+        {
+          "text": "Où est-ce que j'accroche ce miroir rond? À gauche de la fenêtre ou à droite?",
+          "trans": "Where should I hang this round mirror? Left of the window or right?"
+        }
+      ],
+      "related": [
+        {
+          "word": "regarder",
+          "gloss": "to look"
+        }
+      ]
+    },
+    "derrière": {
+      "lemma": "derrière",
+      "stress": "dɛʁjɛʁ",
+      "pos": "prep",
+      "gloss": "behind, at the back of",
+      "meanings": [
+        {
+          "en": "behind, in back of",
+          "note": "Opposite of 'devant' (in front of)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Il est derrière la porte.",
+          "trans": "He's behind the door."
+        },
+        {
+          "text": "Regardez dans le miroir derrière le comptoir, patron.",
+          "trans": "Look in the mirror behind the counter, boss."
+        }
+      ],
+      "related": [
+        {
+          "word": "derrière",
+          "gloss": "behind"
+        }
+      ]
+    },
+    "comptoir": {
+      "lemma": "comptoir",
+      "stress": "kɔ̃twaʁ",
+      "pos": "noun",
+      "gloss": "counter, reception desk",
+      "meanings": [
+        {
+          "en": "counter, reception desk",
+          "note": "Front counter in a hotel or café."
+        }
+      ],
+      "gender": "m",
+      "plural": "comptoirs",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le comptoir",
+              "les comptoirs"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Regardez dans le miroir derrière le comptoir, patron.",
+          "trans": "Look in the mirror behind the counter, boss."
+        },
+        {
+          "text": "Attendez: à qui est ce petit carnet en cuir marron sur le comptoir?",
+          "trans": "Wait: whose small brown leather notebook is this on the counter?"
+        },
+        {
+          "text": "Vous l'avez laissé près du bol de soupe sur le comptoir.",
+          "trans": "You left it near the soup bowl on the counter."
+        }
+      ],
+      "related": [
+        {
+          "word": "réception",
+          "gloss": "front desk"
+        }
+      ]
+    },
+    "patron": {
+      "lemma": "patron",
+      "stress": "patʁɔ̃",
+      "pos": "noun",
+      "gloss": "boss",
+      "gender": "m",
+      "plural": "patrons",
+      "meanings": [
+        {
+          "en": "boss, owner",
+          "note": "Feminine: patronne."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le patron / la patronne",
+              "les patrons"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'est le patron.",
+          "trans": "He's the boss."
+        },
+        {
+          "text": "La patronne est là.",
+          "trans": "The boss (woman) is here."
+        }
+      ],
+      "related": [
+        {
+          "word": "patronne",
+          "gloss": "female boss"
+        }
+      ]
+    },
+    "pourquoi": {
+      "lemma": "pourquoi",
+      "stress": "puʁkwa",
+      "pos": "adv",
+      "gloss": "why",
+      "meanings": [
+        {
+          "en": "why",
+          "note": "in questions and after verbs like comprendre, savoir"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Pourquoi est-ce que tu ne m'as rien dit hier?",
+          "trans": "Why didn't you tell me anything yesterday?"
+        },
+        {
+          "text": "Je comprends enfin pourquoi elle a refusé ce film.",
+          "trans": "I finally understand why she turned down that film."
+        }
+      ],
+      "related": [
+        {
+          "word": "pour",
+          "gloss": "for"
+        },
+        {
+          "word": "pour cent",
+          "gloss": "percent"
+        },
+        {
+          "word": "pour de vrai",
+          "gloss": "for real"
+        }
+      ]
+    },
+    "oh": {
+      "lemma": "oh",
+      "stress": "o",
+      "pos": "interj",
+      "gloss": "oh (surprise, dismay)",
+      "meanings": [
+        {
+          "en": "oh",
+          "note": "Surprise or dismay."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oh non!",
+          "trans": "Oh no!"
+        },
+        {
+          "text": "Oh, merci!",
+          "trans": "Oh, thank you!"
+        }
+      ],
+      "related": [
+        {
+          "word": "oh",
+          "gloss": "oh"
+        }
+      ]
+    },
+    "sur": {
+      "lemma": "sur",
+      "stress": "syʁ",
+      "pos": "prep",
+      "gloss": "on, onto",
+      "meanings": [
+        {
+          "en": "on, onto",
+          "note": "Sur la table, sur la route."
+        },
+        {
+          "en": "on (a device)",
+          "note": "Sur haut-parleur = on speaker."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Le livre est sur la table.",
+          "trans": "The book is on the table."
+        },
+        {
+          "text": "Tu es sur haut-parleur.",
+          "trans": "You're on speaker."
+        }
+      ],
+      "related": [
+        {
+          "word": "sur",
+          "gloss": "on"
+        }
+      ]
+    },
     "tête": {
       "lemma": "tête",
       "stress": "tɛt",
@@ -7313,6 +6473,571 @@
         {
           "text": "Pourquoi mes lunettes seraient... oh! Elles sont sur ma tête!",
           "trans": "Why would my glasses be... oh! They are on my head!"
+        }
+      ],
+      "related": []
+    },
+    "juste": {
+      "lemma": "juste",
+      "stress": "ʒyst",
+      "pos": "adv",
+      "gloss": "just, only",
+      "meanings": [
+        {
+          "en": "just, only",
+          "note": "Adverb: je veux juste."
+        },
+        {
+          "en": "fair, right",
+          "note": "Adjective."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Juste là sur votre front, bien au chaud.",
+          "trans": "Right there on your forehead, safe and sound."
+        },
+        {
+          "text": "Sur la cour, juste au-dessus du vieux tilleul. C'est très calme.",
+          "trans": "The courtyard, right above the old linden tree. It is very quiet."
+        },
+        {
+          "text": "Juste sous cette arche. Je vais monter la valise bleue pour vous.",
+          "trans": "Right under this archway. I will carry the blue suitcase up for you."
+        }
+      ],
+      "related": [
+        {
+          "word": "justement",
+          "gloss": "just now"
+        }
+      ]
+    },
+    "là": {
+      "lemma": "là",
+      "stress": "la",
+      "pos": "adv",
+      "gloss": "there; here",
+      "meanings": [
+        {
+          "en": "here",
+          "note": "être là = to be here, to be present"
+        },
+        {
+          "en": "there",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Juste là sur votre front, bien au chaud.",
+          "trans": "Right there on your forehead, safe and sound."
+        },
+        {
+          "text": "Regardez la fermeture éclair... oui, ses initiales sont juste là!",
+          "trans": "Check the zipper... yes, her initials are right here!"
+        },
+        {
+          "text": "À droite, près du bureau, là où la lumière est bonne.",
+          "trans": "On the right, near the desk, where the light is good."
+        }
+      ],
+      "related": [
+        {
+          "word": "ici",
+          "gloss": "here"
+        },
+        {
+          "word": "là-bas",
+          "gloss": "over there"
+        }
+      ]
+    },
+    "front": {
+      "lemma": "front",
+      "stress": "fʁɔ̃",
+      "pos": "noun",
+      "gloss": "forehead",
+      "meanings": [
+        {
+          "en": "forehead",
+          "note": "Final t is silent: /fʁɔ̃/."
+        }
+      ],
+      "gender": "m",
+      "plural": "fronts",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le front",
+              "les fronts"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Juste là sur votre front, bien au chaud.",
+          "trans": "Right there on your forehead, safe and sound."
+        },
+        {
+          "text": "Impeccable, Étienne! Et vos lunettes sont même sur votre nez et pas sur votre front.",
+          "trans": "Spotless, Etienne! And your glasses are even on your nose and not on your forehead."
+        },
+        {
+          "text": "Laissez-moi baisser mes lunettes de mon front... Chambre neuf?!",
+          "trans": "Let me pull my glasses down from my forehead... Room nine?!"
+        }
+      ],
+      "related": [
+        {
+          "word": "tête",
+          "gloss": "head"
+        },
+        {
+          "word": "nez",
+          "gloss": "nose"
+        }
+      ]
+    },
+    "bien": {
+      "lemma": "bien",
+      "stress": "bjɛ̃",
+      "pos": "adv",
+      "gloss": "well; good",
+      "meanings": [
+        {
+          "en": "well",
+          "note": "Très bien = very well, fine."
+        },
+        {
+          "en": "good, nice",
+          "note": "C'est bien."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Très bien.",
+          "trans": "Very well."
+        },
+        {
+          "text": "Elle est bien.",
+          "trans": "She's nice."
+        }
+      ],
+      "related": [
+        {
+          "word": "bien sûr",
+          "gloss": "of course"
+        },
+        {
+          "word": "bientôt",
+          "gloss": "soon"
+        },
+        {
+          "word": "bienvenue",
+          "gloss": "welcome"
+        }
+      ]
+    },
+    "au": {
+      "lemma": "au",
+      "stress": "o",
+      "pos": "prep",
+      "gloss": "at the, to the",
+      "meanings": [
+        {
+          "en": "at the, to the",
+          "note": "à + le contracted: au boulot, au téléphone"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je suis au boulot.",
+          "trans": "I'm at work."
+        },
+        {
+          "text": "Elle est au téléphone.",
+          "trans": "She's on the phone."
+        }
+      ],
+      "related": [
+        {
+          "word": "au",
+          "gloss": "at the"
+        }
+      ]
+    },
+    "chaud": {
+      "lemma": "chaud",
+      "stress": "ʃo",
+      "pos": "adj",
+      "gloss": "hot, warm",
+      "meanings": [
+        {
+          "en": "hot, warm",
+          "note": "Descriptive French adjective meaning 'hot'; agrees in gender and number with the noun it modifies."
+        },
+        {
+          "en": "il fait chaud = it's hot (weather)",
+          "note": "Descriptive French adjective meaning 'hot'; agrees in gender and number with the noun it modifies."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "chaud",
+              "chaude"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "chauds",
+              "chaudes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Il fait chaud.",
+          "trans": "It's hot."
+        },
+        {
+          "text": "Un café chaud.",
+          "trans": "A hot coffee."
+        },
+        {
+          "text": "Il fait chaud. Vous faites quoi?",
+          "trans": "It's hot. What are you doing?"
+        }
+      ],
+      "related": [
+        {
+          "word": "très chaud",
+          "gloss": "very hot"
+        },
+        {
+          "word": "plus chaud",
+          "gloss": "more hot"
+        }
+      ]
+    },
+    "dire": {
+      "lemma": "dire",
+      "stress": "diʁ",
+      "pos": "verb",
+      "gloss": "to say, to tell",
+      "meanings": [
+        {
+          "en": "to say",
+          "note": "dire la vérité à quelqu'un = to tell someone the truth"
+        },
+        {
+          "en": "to tell (someone)",
+          "note": "dire à quelqu'un; dis-lui = tell her/him"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je dis",
+              "nous disons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu dis",
+              "vous dites"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle dit",
+              "ils/elles disent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai dit",
+                "nous avons dit"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as dit",
+                "vous avez dit"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a dit",
+                "ils/elles ont dit"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je disais",
+                "nous disions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu disais",
+                "vous disiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle disait",
+                "ils/elles disaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je dirai",
+                "nous dirons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu diras",
+                "vous direz"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle dira",
+                "ils/elles diront"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "disons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "dis",
+                "dites"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Dis-lui que je ne peux pas venir.",
+          "trans": "Tell her I can't come."
+        },
+        {
+          "text": "Trop tard! Il a dit merci et il a raccroché!",
+          "trans": "Too late! He said thank you and hung up!"
+        }
+      ],
+      "related": [
+        {
+          "word": "dire la vérité à quelqu'un",
+          "gloss": "to tell someone the truth"
+        }
+      ]
+    },
+    "rien": {
+      "lemma": "rien",
+      "stress": "ʁjɛ̃",
+      "pos": "pron",
+      "gloss": "nothing",
+      "meanings": [
+        {
+          "en": "nothing",
+          "note": "with ne: je ne promets rien; rien n'est signé"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je ne promets rien.",
+          "trans": "I'm not promising anything."
+        },
+        {
+          "text": "Rien n'est signé.",
+          "trans": "Nothing is signed."
+        }
+      ],
+      "related": [
+        {
+          "word": "rien du tout",
+          "gloss": "nothing at all"
+        }
+      ]
+    },
+    "personne": {
+      "lemma": "personne",
+      "stress": "pɛʁsɔn",
+      "pos": "noun",
+      "gloss": "nobody, anyone",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "nobody, not anyone",
+          "note": "With ne: il ne voit personne."
+        },
+        {
+          "en": "a person",
+          "note": "As a noun: une personne (feminine)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "une personne",
+              "des personnes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Il n'y a personne.",
+          "trans": "There's nobody here."
+        },
+        {
+          "text": "Je ne connais personne.",
+          "trans": "I don't know anyone."
+        }
+      ],
+      "related": [
+        {
+          "word": "personnel",
+          "gloss": "personal"
+        },
+        {
+          "word": "personnellement",
+          "gloss": "personally"
+        }
+      ]
+    },
+    "maintenant": {
+      "lemma": "maintenant",
+      "stress": "mɛ̃tnɑ̃",
+      "pos": "adv",
+      "gloss": "now",
+      "meanings": [
+        {
+          "en": "now",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tu peux commencer maintenant?",
+          "trans": "Can you start now?"
+        },
+        {
+          "text": "Je pars maintenant.",
+          "trans": "I'm leaving now."
         }
       ],
       "related": []
@@ -7374,15 +7099,23 @@
         }
       ]
     },
-    "vieux": {
-      "lemma": "vieux",
-      "stress": "vjø",
+    "grand": {
+      "lemma": "grand",
+      "stress": "ɡʁɑ̃",
       "pos": "adj",
-      "gloss": "old",
+      "gloss": "big, great, tall",
       "meanings": [
         {
-          "en": "old",
-          "note": "before the noun; vieil before a vowel: un vieil ami"
+          "en": "big, tall",
+          "note": "before the noun: une grande actrice = a great actress"
+        },
+        {
+          "en": "great, important",
+          "note": "Une grande star."
+        },
+        {
+          "en": "la plus grande: the greatest",
+          "note": ""
         }
       ],
       "forms": {
@@ -7396,15 +7129,15 @@
           {
             "cells": [
               "sg",
-              "vieux (vieil)",
-              "vieille"
+              "grand",
+              "grande"
             ]
           },
           {
             "cells": [
               "pl",
-              "vieux",
-              "vieilles"
+              "grands",
+              "grandes"
             ]
           }
         ]
@@ -7412,24 +7145,318 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "C'est un vieux film.",
-          "trans": "It's an old film."
+          "text": "C'est une grande star.",
+          "trans": "She's a big star."
         },
         {
-          "text": "Non, seulement mon stylo et trois vieux tickets!",
-          "trans": "No, only my pen and three old receipts!"
+          "text": "Paris est une grande ville.",
+          "trans": "Paris is a big city."
         }
       ],
       "related": [
         {
-          "word": "très vieux",
-          "gloss": "very old"
+          "word": "grand-chose",
+          "gloss": "much"
         },
         {
-          "word": "plus vieux",
-          "gloss": "more old"
+          "word": "grandir",
+          "gloss": "to grow up"
+        },
+        {
+          "word": "grand-mère",
+          "gloss": "grandmother"
         }
       ]
+    },
+    "sourire": {
+      "lemma": "sourire",
+      "stress": "suʁiʁ",
+      "pos": "noun",
+      "gloss": "smile",
+      "gender": "m",
+      "plural": "sourires",
+      "meanings": [
+        {
+          "en": "smile (noun)",
+          "note": "also the infinitive verb 'to smile'"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le sourire",
+              "les sourires"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "J'aime le regard et le sourire.",
+          "trans": "I like the look and the smile."
+        },
+        {
+          "text": "Elle a un beau sourire.",
+          "trans": "She has a lovely smile."
+        },
+        {
+          "text": "Comment faisiez-vous pour lui redonner le sourire, Madame Odette?",
+          "trans": "How did you bring his smile back, Madam Odette?"
+        }
+      ],
+      "related": []
+    },
+    "quand": {
+      "lemma": "quand",
+      "stress": "kɑ̃",
+      "pos": "adv",
+      "gloss": "when",
+      "meanings": [
+        {
+          "en": "when",
+          "note": "Question word or conjunction."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Vous serez là quand?",
+          "trans": "When will you be here?"
+        },
+        {
+          "text": "Quand tu veux.",
+          "trans": "Whenever you like."
+        }
+      ],
+      "related": [
+        {
+          "word": "quand même",
+          "gloss": "still"
+        }
+      ]
+    },
+    "cloche": {
+      "lemma": "cloche",
+      "stress": "klɔʃ",
+      "pos": "noun",
+      "gloss": "bell",
+      "meanings": [
+        {
+          "en": "bell",
+          "note": "Gate bell or church bell."
+        }
+      ],
+      "gender": "f",
+      "plural": "cloches",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la cloche",
+              "les cloches"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'était quoi, cette cloche? Quelqu'un a sonné deux fois!",
+          "trans": "What was that bell? Somebody rang twice!"
+        },
+        {
+          "text": "Ne dites rien à personne! Maintenant, un grand sourire quand la cloche sonne.",
+          "trans": "Do not tell anyone! Now, a big smile when the bell rings."
+        },
+        {
+          "text": "Très généreux! Vous avez entendu la cloche du portail en bas?",
+          "trans": "Very generous! Did you hear the gate bell downstairs?"
+        }
+      ],
+      "related": [
+        {
+          "word": "clocher",
+          "gloss": "bell tower"
+        },
+        {
+          "word": "sonnette",
+          "gloss": "buzzer"
+        }
+      ]
+    },
+    "sonner": {
+      "lemma": "sonner",
+      "stress": "sɔne",
+      "pos": "verb",
+      "gloss": "to ring; to sound",
+      "meanings": [
+        {
+          "en": "to ring",
+          "note": "A telephone or bell rings."
+        },
+        {
+          "en": "to sound",
+          "note": "For how something sounds to the ear, including an appealing name or idea."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je sonne",
+              "nous sonnons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu sonnes",
+              "vous sonnez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il sonne",
+              "ils sonnent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai sonné",
+                "nous avons sonné"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as sonné",
+                "vous avez sonné"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il a sonné",
+                "ils ont sonné"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je sonnais",
+                "nous sonnions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu sonnais",
+                "vous sonniez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il sonnait",
+                "ils sonnaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je sonnerai",
+                "nous sonnerons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu sonneras",
+                "vous sonnerez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il sonnera",
+                "ils sonneront"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ça sonne vraiment bien.",
+          "trans": "That sounds really good."
+        },
+        {
+          "text": "Le téléphone sonne.",
+          "trans": "The phone is ringing."
+        },
+        {
+          "text": "Madame Odette, tout va bien? Vous avez sonné!",
+          "trans": "Madam Odette, is everything alright? You rang the bell!"
+        }
+      ],
+      "related": []
     },
     "voilà": {
       "lemma": "voilà",
@@ -7469,114 +7496,21 @@
         }
       ]
     },
-    "votre": {
-      "lemma": "votre",
-      "stress": "vɔtʁ",
-      "pos": "det",
-      "gloss": "your (formal or plural)",
+    "taxi": {
+      "lemma": "taxi",
+      "stress": "taksi",
+      "pos": "noun",
+      "gloss": "taxi, cab",
+      "gender": "m",
+      "plural": "taxis",
       "meanings": [
         {
-          "en": "your",
-          "note": "Polite or plural 'you'."
+          "en": "taxi, cab",
+          "note": "prendre un taxi / monter dans le taxi"
         }
       ],
       "forms": {
         "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "sg",
-              "votre",
-              "votre"
-            ]
-          },
-          {
-            "cells": [
-              "pl",
-              "vos",
-              "vos"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Votre nom?",
-          "trans": "Your name?"
-        },
-        {
-          "text": "Laissez vos photos ici.",
-          "trans": "Leave your photos here."
-        }
-      ],
-      "related": [
-        {
-          "word": "votre",
-          "gloss": "your"
-        }
-      ]
-    },
-    "à": {
-      "lemma": "à",
-      "stress": "a",
-      "pos": "prep",
-      "gloss": "at, in, to",
-      "meanings": [
-        {
-          "en": "at, in",
-          "note": "Place: à Paris, à mon cours."
-        },
-        {
-          "en": "at",
-          "note": "Time: à midi."
-        },
-        {
-          "en": "au = à + le, aux = à + les",
-          "note": "Contractions."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Je suis à Paris.",
-          "trans": "I'm in Paris."
-        },
-        {
-          "text": "À quatorze heures.",
-          "trans": "At two pm."
-        }
-      ],
-      "related": [
-        {
-          "word": "à",
-          "gloss": "at"
-        }
-      ]
-    },
-    "être": {
-      "lemma": "être",
-      "stress": "ɛtʁ",
-      "pos": "verb",
-      "gloss": "to be",
-      "meanings": [
-        {
-          "en": "to be",
-          "note": "The most common verb."
-        },
-        {
-          "en": "c'est = it is, this is",
-          "note": "Ce + est."
-        }
-      ],
-      "forms": {
-        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -7585,164 +7519,230 @@
         "rows": [
           {
             "cells": [
-              "1st",
-              "je suis",
-              "nous sommes"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "tu es",
-              "vous êtes"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "il/elle est",
-              "ils/elles sont"
+              "form",
+              "le taxi",
+              "les taxis"
             ]
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Passé composé",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'ai été",
-                "nous avons été"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu as été",
-                "vous avez été"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle a été",
-                "ils/elles ont été"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imparfait",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "j'étais",
-                "nous étions"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu étais",
-                "vous étiez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle était",
-                "ils/elles étaient"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Futur",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "je serai",
-                "nous serons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "tu seras",
-                "vous serez"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "il/elle sera",
-                "ils/elles seront"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "soyons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "sois",
-                "soyez"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
-          "text": "Je suis à Paris.",
-          "trans": "I'm in Paris."
+          "text": "Voilà un taxi devant le portail à l'instant.",
+          "trans": "Here comes a taxi in front of the gate right now."
         },
         {
-          "text": "C'est important.",
-          "trans": "It's important."
+          "text": "Un taxi vient de s'arrêter juste devant la grille en fer!",
+          "trans": "A taxi just stopped right outside the iron gate!"
+        },
+        {
+          "text": "Ne prends pas ce taxi!",
+          "trans": "Don't take that taxi!"
         }
       ],
       "related": [
         {
-          "word": "un être",
-          "gloss": "a being, person"
+          "word": "un taxi / des taxis",
+          "gloss": "a taxi / taxis"
+        }
+      ]
+    },
+    "devant": {
+      "lemma": "devant",
+      "stress": "dəvɑ̃",
+      "pos": "prep",
+      "gloss": "in front of, before",
+      "meanings": [
+        {
+          "en": "in front of, before (a place or person)",
+          "note": "devant la porte = in front of the door"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je t'attends devant le cinéma.",
+          "trans": "I'll wait for you in front of the cinema."
         },
         {
-          "word": "peut-être",
-          "gloss": "maybe, perhaps"
+          "text": "Voilà un taxi devant le portail à l'instant.",
+          "trans": "Here comes a taxi in front of the gate right now."
+        }
+      ],
+      "related": [
+        {
+          "word": "devant la porte",
+          "gloss": "in front of the door"
+        }
+      ]
+    },
+    "portail": {
+      "lemma": "portail",
+      "stress": "pɔʁtaj",
+      "pos": "noun",
+      "gloss": "large gate, courtyard entrance gate",
+      "meanings": [
+        {
+          "en": "large gate, courtyard entrance gate",
+          "note": "Regular plural: les portails."
+        }
+      ],
+      "gender": "m",
+      "plural": "portails",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le portail",
+              "les portails"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Voilà un taxi devant le portail à l'instant.",
+          "trans": "Here comes a taxi in front of the gate right now."
+        },
+        {
+          "text": "Vous avez entendu ça, Henri? Quelqu'un vient de sonner au portail!",
+          "trans": "Did you hear that, Henri? Someone just rang the gate bell!"
+        },
+        {
+          "text": "Bonjour, Madame Odette! Regardez ce qui est arrivé au portail hier soir.",
+          "trans": "Good morning, Madam Odette! Look what arrived at the gate last night."
+        }
+      ],
+      "related": [
+        {
+          "word": "porte",
+          "gloss": "door"
+        },
+        {
+          "word": "grille",
+          "gloss": "iron gate"
+        }
+      ]
+    },
+    "instant": {
+      "lemma": "instant",
+      "stress": "ɛ̃stɑ̃",
+      "pos": "noun",
+      "gloss": "instant, moment",
+      "gender": "m",
+      "plural": "instants",
+      "meanings": [
+        {
+          "en": "moment, instant",
+          "note": "pour l'instant = for the moment, for now"
+        },
+        {
+          "en": "short while",
+          "note": "Un instant, s'il vous plaît. Prefix 'in-'/'im-' marks negation ('un-, in-') or inward motion. Standard masculine noun meaning 'instant, moment'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'instant",
+              "les instants"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Attendez un instant.",
+          "trans": "Wait a moment."
+        },
+        {
+          "text": "Un instant, s'il vous plaît.",
+          "trans": "One moment, please."
+        },
+        {
+          "text": "Voilà un taxi devant le portail à l'instant.",
+          "trans": "Here comes a taxi in front of the gate right now."
+        }
+      ],
+      "related": [
+        {
+          "word": "pour l'instant",
+          "gloss": "for the moment, for now"
+        }
+      ]
+    },
+    "heure": {
+      "lemma": "heure",
+      "stress": "œʁ",
+      "pos": "noun",
+      "gloss": "hour; o'clock",
+      "gender": "f",
+      "plural": "heures",
+      "meanings": [
+        {
+          "en": "hour",
+          "note": "Dans une heure = in an hour."
+        },
+        {
+          "en": "o'clock",
+          "note": "À quatorze heures = at two pm."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'heure",
+              "les heures"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "À onze heures.",
+          "trans": "At eleven o'clock."
+        },
+        {
+          "text": "Quelle heure est-il? Neuf heures trente-cinq!",
+          "trans": "What time is it? Nine thirty-five!"
+        }
+      ],
+      "related": [
+        {
+          "word": "heureux",
+          "gloss": "happy"
+        },
+        {
+          "word": "heureusement",
+          "gloss": "fortunately"
         }
       ]
     }

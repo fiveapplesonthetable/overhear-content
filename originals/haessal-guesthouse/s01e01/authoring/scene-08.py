@@ -15,8 +15,8 @@ OUTRO = "Miss Youngmi's suitcase is back, yet the mystery stranger vanished into
 CLOSING = ('junho', '안녕히 가세요!')
 STORY = [
     ('mina', '준호 씨, 방금 들었어요? 누가 대문 종을 눌렀어요!', 'Junho, did you just hear that? Someone rang the front gate bell!'),
-    ('junho', '밤 아홉 시에요? 여기 계세요, 같이 문을 열어요.', "At nine at night? Stay here, let's open the door together."),
-    ('mina', '계세요? 안녕하세요! 안마당에 아무도 없어요!', 'Anyone there? Hello! Nobody is in the courtyard!'),
+    ('junho', '밤 아홉 시요? 잠깐만요, 대문을 같이 열어요.', "At nine at night? Wait, let us open the gate together."),
+    ('mina', '계세요? 안녕하세요! 대문에 아무도 없어요!', 'Hello? Good evening! Nobody is standing at the gate!'),
     ('junho', '잠깐만요. 아래 돌계단을 보세요.', 'Wait a second. Look down at the stone step.'),
     ('mina', '또 남색 가방이에요! 이게 영미 선생님 가방이에요?', "Another dark-blue bag! Is this Miss Youngmi's bag?"),
     ('junho', '지퍼를 확인해 보세요... 네, 선생님 이름 글자가 여기 있어요!', 'Check the zipper... yes, her initials are right here!'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Junho, did you just hear that? Someone rang the front gate bell!' Placing ", (None, '방금'), ' before an action points to what happened just seconds ago.']),
-    (1, None, ["'At nine at night? Stay here, let's open the door together.' Notice how ", (None, '같이'), " is spelled with a 't' sound at the bottom yet pronounced 'gachi' in natural speech, meaning 'together'."]),
+    (1, None, ["'At nine at night? Wait, let us open the gate together.' Notice how ", (None, '같이'), " is spelled with a 't' sound at the bottom yet pronounced 'gachi' in natural speech, meaning 'together'."]),
     (3, None, ["'Wait a second. Look down at the stone step.' Joining 'stone' and 'stairs' builds ", (None, '돌계단을'), ' in one crisp compound.']),
     (6, None, ["'Why did the person run away without taking their own bag?' Wondering aloud softly uses the ending on ", (None, '도망갔을까요'), ', inviting the listener to guess along with you.']),
     (7, None, ["'Look, there is a folded white envelope taped to the handle.' Envelopes and paper bags share the word ", (None, '봉투가'), ' in everyday Korean.']),

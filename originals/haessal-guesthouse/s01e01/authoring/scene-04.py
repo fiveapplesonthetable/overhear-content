@@ -15,7 +15,7 @@ OUTRO = 'Mina handled her first check-in smoothly, though Junho noticed that blu
 CLOSING = ('youngmi', '또 봐요!')
 STORY = [
     ('mina', '어서 오세요! 좋은 아침이에요, 손님.', "Welcome! Good morning, ma'am."),
-    ('youngmi', '안녕하세요, 아가씨. 영미 이름으로 방을 예약했어요.', 'Good morning, miss. I booked a room under the name Youngmi.'),
+    ('youngmi', '안녕하세요, 아가씨. 영미 이름으로 예약이 있어요.', 'Good morning, Miss. I have a booking for Youngmi.'),
     ('mina', '네, 이층 사호실이에요! 기차 여행은 어떠셨어요?', 'Yes, Room 4 on the second floor! How was your train trip?'),
     ('youngmi', '조용하고 좋았어요, 고마워요. 그런데 오늘 이 가방이 아주 무겁네요.', 'It was quiet and pleasant, thank you. Though today this bag feels very heavy.'),
     ('junho', '제가 들어 드릴게요. 세상에, 안에 돌을 넣으셨어요?', 'Let me carry it for you. Goodness, did you pack stones inside?'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Welcome! Good morning, ma'am.' Step into any café, shop, or guesthouse in Seoul and you will immediately hear ", (None, '어서 오세요'), ", literally 'please come in quickly'."]),
-    (1, None, ["'Good morning, miss. I booked a room under the name Youngmi.' Booking a room or table uses ", (None, '예약했어요'), ", combining 'reservation' with 'did'."]),
+    (1, None, ["'Good morning, Miss. I have a booking for Youngmi.' Booking a room or table uses ", (None, '예약이 있어요'), ", combining 'reservation' with 'did'."]),
     (2, None, ["'Yes, Room 4 on the second floor! How was your train trip?' Floors stack Korean numbers onto 'floor', making ", (None, '이층'), ' the second floor.']),
     (3, None, ["'It was quiet and pleasant, thank you. Though today this bag feels very heavy.' Conversations pivot smoothly with ", (None, '그런데'), ", meaning 'by the way' or 'though'."]),
     (4, None, ["'Let me carry it for you. Goodness, did you pack stones inside?' Offering humble help sounds extra gracious when Junho says ", (None, '들어 드릴게요'), ", literally 'I will lift and give to you'."]),

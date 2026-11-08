@@ -15,12 +15,12 @@ OUTRO = "Bright daylight on an old luggage tag just unlocked twenty-five years o
 CLOSING = ('youngmi', '다음에 봐요!')
 STORY = [
     ('junho', '창고를 쓰는 오 분 동안만 이 파란 가방을 여기에 둘게요.', 'Just for the five minutes while I sweep the closet, I will set this blue bag here.'),
-    ('mina', '조심해서 다루세요, 준호 씨! 내일 정오가 바로 금요일이에요!', 'Handle it carefully, Junho! Tomorrow at noon is Friday!'),
+    ('mina', '조심해서 다뤄 주세요, 준호 씨. 금요일 정오가 바로 내일이잖아요!', 'Careful with it, Junho. Friday at noon is tomorrow!'),
     ('youngmi', '어머, 저게 월요일 기차에서 바뀐 쌍둥이 가방이에요?', "Oh my, is that the twin bag swapped on Monday's train?"),
     ('mina', '네, 선생님. 아직 주인을 기다리고 있어요.', "Yes, ma'am. It is still waiting for its owner."),
     ('youngmi', '여기 밝은 햇빛 아래서 종이 이름표를 다시 봐도 될까요?', 'May I look at the paper tag again here under the bright sunlight?'),
     ('junho', '그러세요, 선생님. 월요일 오후에는 로비가 어두웠으니까요.', "Go right ahead, ma'am. On Monday afternoon the lobby was dark, after all."),
-    ('youngmi', '잠깐만요... 은행길 십이 번지! 게다가 모서리에 어릴 때 새긴 글자 두 개가 있어요!', 'Wait a moment... Number 12 Eunhaeng Lane! And on the corner are two initials carved in childhood!'),
+    ('youngmi', '잠깐만요... 은행길 십이 번지, 게다가 모서리에 적힌 어린 시절 머리글자 두 개라니요!', 'Wait a moment... Number twelve, Eunhaeng Lane, and two childhood initials written in the corner!'),
     ('mina', '영미 선생님, 깜짝 놀라셨어요! 은행길 십이 번지를 아세요?', 'Miss Youngmi, you look amazed! Do you know Number 12 Eunhaeng Lane?'),
     ('youngmi', '알다마다요! 육 년 동안 매주 금요일에 피아노를 가르치러 그 나무 계단을 올라갔어요!', 'Know it indeed! Every Friday for six years I climbed those wooden stairs to teach piano!'),
     ('junho', '스물다섯 해 전에요? 바로 그 집에서요?', 'Twenty-five years ago? In that very house?'),
@@ -31,7 +31,7 @@ WALK = [
     (0, None, ["'Just for the five minutes while I sweep the closet, I will set this blue bag here.' Watch ", (None, '쓰는'), ": from 'sseulda', sweeping with a broom drops its final 'l' before 'neun' and looks just like 'using'."]),
     (2, None, ["'Oh my, is that the twin bag swapped on Monday's train?' Identical matching bags are playfully called ", (None, '쌍둥이'), ", 'twins'."]),
     (5, None, ["'Go right ahead, ma'am. On Monday afternoon the lobby was dark, after all.' Granting warm permission in one word is ", (None, '그러세요'), ", 'please do so'."]),
-    (6, None, ["'Wait a moment... Number 12 Eunhaeng Lane! And on the corner are two initials carved in childhood!' Notice ", (None, '은행길'), ", literally 'Ginkgo Street', named after Seoul's golden autumn ginkgo trees."]),
+    (6, None, ["'Wait a moment... Number twelve, Eunhaeng Lane, and two childhood initials written in the corner!' Notice ", (None, '은행길'), ", literally 'Ginkgo Street', named after Seoul's golden autumn ginkgo trees."]),
     (8, None, ["'Know it indeed! Every Friday for six years I climbed those wooden stairs to teach piano!' Enthusiastic agreement bursts out in ", (None, '알다마다요'), ", 'of course I know it!'."]),
     (10, None, ["'A grandfather carpenter lived there with his two grandsons. The older boy played piano and the little one loved trains!' Skilled woodworkers are called ", (None, '목수'), ", 'carpenter'."]),
     (10, None, ["'A grandfather carpenter lived there with his two grandsons. The older brother played piano and the younger sibling loved trains!' Korean distinguishes a boy's older brother, ", (None, '형은'), ', from the younger sibling, ', (None, '동생은'), '.']),

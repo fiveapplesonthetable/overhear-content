@@ -17,7 +17,7 @@ STORY = [
     ('sungmin', '소라 씨, 매일 아침 오븐에서 시나몬 롤하고 레몬 케이크를 몇 개나 구울 수 있어요?', 'Sora, how many cinnamon rolls and lemon cakes can you bake in the oven every morning?'),
     ('sora', '지금 만드는 것의 두 배요! 정말 우리 골목 주민들에게 안마당 카페를 여는 거예요?', 'Double what I make now! Are we really opening the courtyard café to our alley neighbours?'),
     ('sungmin', '내일 아침 여덟 시부터 시작합니다! 실내에 식탁 네 개, 나무 아래에 식탁 세 개예요!', 'Starting tomorrow morning at eight! Four tables indoors, and three tables under the tree!'),
-    ('sora', '제가 꿈꾸던 카페가 바로 우리 안마당에 생기네요! 제빵 시장 상인들한테 얼른 알리고 싶어요!', 'The café I dreamed of is opening right in our courtyard! I cannot wait to tell the baking market vendors!'),
+    ('sora', '제가 꿈꾸던 카페가 바로 우리 안마당에 생기다니요! 온 거리에 이 소식을 알리면 다들 깜짝 놀랄 거예요!', 'My dream café—right here in our own courtyard! Wait until I tell the whole street!'),
     ('sungmin', '그리고 미나 씨, 오늘은 금요일이에요. 오 일 수습 기간의 마지막 날이죠.', 'And Mina, today is Friday—the final day of your five-day trial period.'),
     ('mina', '어머! 가방하고 보일러하고 편지 때문에 완전히 잊어버리고 있었어요!', 'Oh my! Because of the suitcases, the boiler, and the letter, I had completely forgotten!'),
     ('sungmin', '월요일에는 뻑뻑한 현관문을 열었고, 그 뒤로 방과 배관과 아침 식사와 계약서까지 구해 냈어요.', 'On Monday you opened our sticking front door, and since then you saved rooms, pipes, breakfast, and our lease.'),

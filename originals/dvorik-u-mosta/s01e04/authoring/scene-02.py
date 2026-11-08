@@ -20,7 +20,7 @@ STORY = [
     ('matvey', 'Иди по второй улице у цветочного киоска, а не по тёмному переулку.', 'Walk down the second street by the flower stall, not down the dark lane.'),
     ('kira', 'Иду... о, я вижу золотой ключ и синюю дверь!', 'Walking... oh, I see the golden key and the blue door!'),
     ('matvey', 'Отлично! Лавка уже открыта?', 'Great! Is the shop open already?'),
-    ('kira', 'Мастер открывает замок прямо сейчас! Подожди секунду на линии.', 'The craftsman is unlocking it right now! Wait one second on the line.'),
+    ('kira', 'Администратор прямо сейчас их отпирает! Побудь на линии секунду.', 'The receptionist is unlocking it right now! Stay on the phone one second.'),
     ('matvey', 'Проверь кольцо внутри — ровно двадцать миллиметров.', 'Check the ring inside — twenty millimetres sharp.'),
     ('kira', 'Он приложил его к старому — на полке осталось две штуки!', 'He held it against the old one — two pieces are left on the shelf!'),
     ('matvey', 'Бери оба! Запасной вентиль спасёт нас следующей зимой.', 'Take both! A spare valve will save us next winter.'),

@@ -23,7 +23,7 @@ STORY = [
     ('yaroslav', 'Читать чужое нельзя, конечно... ой, она сама раскрылась посередине!', "Reading someone else's things is forbidden, of course... oh, it fell open in the middle by itself!"),
     ('kira', 'Почему здесь аккуратные рисунки трёх домов на нашей улице?', 'Why are there neat drawings of three houses on our street here?'),
     ('zoya', 'Смотрите на подпись у нашего дома: ширина двора, шум улицы, тишина — девять из десяти!', 'Look at the caption by our house: courtyard width, street noise, quietness — nine out of ten!'),
-    ('yaroslav', 'Девять из десяти?! Никто не измеряет дворы, если только...', 'Nine out of ten?! Nobody measures courtyards unless...'),
+    ('yaroslav', 'Девять из десяти?! Никто не замеряет дворики, если только...', 'Nine out of ten?! Nobody measures courtyards unless...'),
     ('zoya', 'Если только он не пишет гид по лучшим отелям Петербурга!', 'Unless he writes the guide to the best hotels of St Petersburg!'),
     ('kira', 'Быстро закройте! Я отнесу её наверх — стойте, что это за громкий стук в трубе?', 'Close it fast! I will take it upstairs — wait, what is that loud knock in the pipe?'),
 ]

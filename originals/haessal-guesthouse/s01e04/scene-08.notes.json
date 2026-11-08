@@ -4542,15 +4542,44 @@
     }
   ],
   "lexicon": {
-    "가방": {
-      "lemma": "가방",
+    "영미": {
+      "lemma": "영미",
       "stress": null,
-      "pos": "noun",
-      "gloss": "bag, suitcase",
+      "pos": "name",
+      "gloss": "Youngmi",
       "meanings": [
         {
-          "en": "bag, suitcase",
-          "note": "Everyday word for handbags, backpacks, and travel suitcases."
+          "en": "Youngmi",
+          "note": "Retired piano teacher staying in Room 6."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "안녕하세요, 아가씨. 영미 이름으로 예약이 있어요.",
+          "trans": "Good morning, Miss. I have a booking for Youngmi."
+        },
+        {
+          "text": "영미 선생님, 괜찮으세요? 벨을 누르셨어요!",
+          "trans": "Miss Youngmi, is everything alright? You rang the buzzer!"
+        },
+        {
+          "text": "또 남색 가방이에요! 이게 영미 선생님 가방이에요?",
+          "trans": "Another dark-blue bag! Is this Miss Youngmi's bag?"
+        }
+      ],
+      "related": []
+    },
+    "선생님": {
+      "lemma": "선생님",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "teacher; sir / ma'am (respectful title)",
+      "meanings": [
+        {
+          "en": "teacher; sir / ma'am (respectful title)",
+          "note": "Sino-Korean 先生 + honorific -님."
         }
       ],
       "forms": {
@@ -4563,25 +4592,25 @@
           {
             "cells": [
               "with topic",
-              "가방은"
+              "선생님은"
             ]
           },
           {
             "cells": [
               "with subject",
-              "가방이"
+              "선생님이"
             ]
           },
           {
             "cells": [
               "with object",
-              "가방을"
+              "선생님을"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "가방이에요"
+              "선생님이에요"
             ]
           }
         ]
@@ -4589,34 +4618,58 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "조용하고 좋았어요, 고마워요. 그런데 오늘 이 가방이 아주 무겁네요.",
-          "trans": "It was quiet and pleasant, thank you. Though today this bag feels very heavy."
+          "text": "영미 선생님, 괜찮으세요? 벨을 누르셨어요!",
+          "trans": "Miss Youngmi, is everything alright? You rang the buzzer!"
         },
         {
-          "text": "이 아치문 바로 뒤예요. 파란 가방은 제가 위로 옮겨 드릴게요.",
-          "trans": "Right behind this archway. I will carry the blue bag upstairs for you."
+          "text": "잠깐만요, 선생님 가방처럼 똑같은 남색인데요!",
+          "trans": "Wait a moment—it is dark blue, identical to yours!"
         },
         {
-          "text": "이 가방 안을 보세요, 미나 씨! 이건 제 가방이 아니에요!",
-          "trans": "Look inside this suitcase, Mina! This is not my bag!"
+          "text": "선생님, 우선 앉으세요. 걱정하지 마세요, 지금 바로 이름표를 확인할게요.",
+          "trans": "Ma'am, please have a seat first. Don't worry, I will check the luggage tag right now."
         }
       ],
-      "related": [
-        {
-          "word": "짐",
-          "gloss": "luggage, baggage"
-        }
-      ]
+      "related": []
     },
-    "감싸다": {
-      "lemma": "감싸다",
+    "은행길": {
+      "lemma": "은행길",
       "stress": null,
-      "pos": "verb",
-      "gloss": "to wrap around, to swaddle",
+      "pos": "name",
+      "gloss": "Eunhaeng Lane",
       "meanings": [
         {
-          "en": "to wrap around, to swaddle",
-          "note": "Wrapping a teacup safely in a sweater."
+          "en": "Eunhaeng Lane",
+          "note": "Tree-lined lane ('Ginkgo Street') in Seoul."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "잠깐만요... 은행길 십이 번지, 게다가 모서리에 적힌 어린 시절 머리글자 두 개라니요!",
+          "trans": "Wait a moment... Number twelve, Eunhaeng Lane, and two childhood initials written in the corner!"
+        },
+        {
+          "text": "영미 선생님, 깜짝 놀라셨어요! 은행길 십이 번지를 아세요?",
+          "trans": "Miss Youngmi, you look amazed! Do you know Number 12 Eunhaeng Lane?"
+        },
+        {
+          "text": "영미 선생님, 은행길에 살던 두 형제 이야기를 더 들려주세요!",
+          "trans": "Miss Youngmi, please tell me more about the two brothers who lived on Eunhaeng Lane!"
+        }
+      ],
+      "related": []
+    },
+    "살다": {
+      "lemma": "살다",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to live, to reside",
+      "meanings": [
+        {
+          "en": "to live, to reside",
+          "note": "ㄹ-stem verb: 살아요, 삽니다, 사세요; 살았다! ('saved!')."
         }
       ],
       "forms": {
@@ -4629,31 +4682,31 @@
           {
             "cells": [
               "dictionary",
-              "감싸다"
+              "살다"
             ]
           },
           {
             "cells": [
               "polite",
-              "감싸요"
+              "살아요"
             ]
           },
           {
             "cells": [
               "formal",
-              "감쌉니다"
+              "삽니다"
             ]
           },
           {
             "cells": [
               "past",
-              "감쌌어요"
+              "살았어요"
             ]
           },
           {
             "cells": [
               "negative",
-              "안 감싸요"
+              "안 살아요"
             ]
           }
         ]
@@ -4661,25 +4714,58 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "젖은 나무 덧창이 돌길에서 울리는 메아리를 부드럽게 감싸 주니까요...",
-          "trans": "Because wet wooden shutters softly wrap the echo ringing off the stone lane..."
+          "text": "휴, 다행이다! 언니의 빠른 생각 덕분에 또 살았네.",
+          "trans": "Phew, what a relief! Quick thinking from you saved breakfast again."
         },
         {
-          "text": "지금 같이 감싸요.",
-          "trans": "Now we wrap around together."
+          "text": "미나 씨는 호텔 일에 재능이 있어요! 제 혈압이 살았네요!",
+          "trans": "Mina, you have a talent for hospitality! My blood pressure is saved!"
+        },
+        {
+          "text": "두 개 다 사세요! 여분 밸브가 있으면 내년 겨울도 안심이에요.",
+          "trans": "Buy both! With a spare valve, next winter is worry-free too."
         }
       ],
       "related": []
     },
-    "거": {
-      "lemma": "거",
+    "두": {
+      "lemma": "두",
       "stress": null,
-      "pos": "noun",
-      "gloss": "thing, one (spoken)",
+      "pos": "num",
+      "gloss": "two",
       "meanings": [
         {
-          "en": "thing, one (spoken)",
-          "note": "Colloquial form of 것 ('thing, fact, possession')."
+          "en": "two",
+          "note": "Native Korean pre-noun form of 둘 before counters."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "방금 무슨 종소리예요? 누가 두 번 눌렀어요!",
+          "trans": "What was that bell sound just now? Someone pressed it twice!"
+        },
+        {
+          "text": "사호실이 비어 있어도 오래된 전선 때문에 두 번 울려.",
+          "trans": "Even when Room 4 is empty, it rings twice because of the old wire."
+        },
+        {
+          "text": "두 분 다 정말 고마워요.",
+          "trans": "Thank you both very much."
+        }
+      ],
+      "related": []
+    },
+    "형제": {
+      "lemma": "형제",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "brothers",
+      "meanings": [
+        {
+          "en": "brothers",
+          "note": "Sino-Korean 兄弟."
         }
       ],
       "forms": {
@@ -4692,25 +4778,25 @@
           {
             "cells": [
               "with topic",
-              "거는"
+              "형제는"
             ]
           },
           {
             "cells": [
               "with subject",
-              "거가"
+              "형제가"
             ]
           },
           {
             "cells": [
               "with object",
-              "거를"
+              "형제를"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "거예요"
+              "형제예요"
             ]
           }
         ]
@@ -4718,45 +4804,1230 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "그럼 이 집이 혼자서 인사하는 거네요?",
-          "trans": "So this house says hello all by itself?"
+          "text": "영미 선생님, 은행길에 살던 두 형제 이야기를 더 들려주세요!",
+          "trans": "Miss Youngmi, please tell me more about the two brothers who lived on Eunhaeng Lane!"
         },
         {
-          "text": "주인이 분명히 곧 찾을 거예요.",
-          "trans": "Its owner will surely look for it soon."
+          "text": "아이고, 우리 시설 과장님 말씀 좀 들어 봐! 어제는 보일러를 고치더니 오늘은 형제를 고치시네!",
+          "trans": "Oh my, listen to our maintenance chief talk! Yesterday you fixed the boiler, and today you fix two brothers!"
         },
         {
-          "text": "금요일 정오가 빨리 오면 좋겠다! 가방 주인이 들어올 때 맨 앞자리에 앉을 거야!",
-          "trans": "I hope Friday noon comes fast! When the bag's owner walks in, I am sitting in the front row!"
+          "text": "아직 밖에 있는 손님들한테는 한마디도 하지 마세요! 두 형제가 금요일 오후를 보내게 해 드립시다!",
+          "trans": "Do not say a single word to the guests outside yet! Let the two brothers enjoy their Friday afternoon first!"
         }
       ],
       "related": []
     },
-    "거기": {
-      "lemma": "거기",
+    "이야기": {
+      "lemma": "이야기",
       "stress": null,
-      "pos": "pron",
-      "gloss": "there, that place",
+      "pos": "noun",
+      "gloss": "story, talk, conversation",
       "meanings": [
         {
-          "en": "there, that place",
-          "note": "Medial place pronoun ('there near you' or 'that place mentioned')."
+          "en": "story, talk, conversation",
+          "note": "Native Korean noun."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "이야기는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "이야기가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "이야기를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "이야기예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "나무 장난감 기차 때문에 긴장한다고요? 갈수록 이상한 이야기네요.",
+          "trans": "Nervous over a wooden toy train? This story gets stranger as it goes."
+        },
+        {
+          "text": "영미 선생님, 은행길에 살던 두 형제 이야기를 더 들려주세요!",
+          "trans": "Miss Youngmi, please tell me more about the two brothers who lived on Eunhaeng Lane!"
+        },
+        {
+          "text": "미나야, 마룻바닥 다 닳기 전에 얼른 올라가서 이야기 좀 해 봐!",
+          "trans": "Mina, hurry up and talk with him before he wears out the floorboards!"
+        }
+      ],
+      "related": [
+        {
+          "word": "이야기하다",
+          "gloss": "to talk, to chat"
+        }
+      ]
+    },
+    "더": {
+      "lemma": "더",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "more",
+      "meanings": [
+        {
+          "en": "more",
+          "note": "Comparative adverb."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "거기에 이름이나 전화번호가 있어요?",
-          "trans": "Is there a name or a phone number on it?"
+          "text": "저 말 좀 들어 봐! 사실은 준호 씨가 우리보다 두 배나 더 궁금해해요!",
+          "trans": "Listen to him talk! In truth, Junho is twice as curious as we are!"
         },
         {
-          "text": "계단이 좁고 사장님이 거기에 오래된 전등 상자를 쌓아 두셨거든요.",
-          "trans": "Because the stairs are narrow and the boss stacked old lamp boxes up there."
+          "text": "십오 분만 주면 이 다락방이 칠호실보다 더 멋질 거야!",
+          "trans": "Give us fifteen minutes and this attic will look nicer than Room 7!"
         },
         {
-          "text": "지훈 님! 거기 서 계셨어요?!",
-          "trans": "Mr Jihoon! Were you standing right there?!"
+          "text": "정말요? 계단을 더 올라오셔도 괜찮으세요?",
+          "trans": "Really? You do not mind climbing the extra stairs?"
+        }
+      ],
+      "related": []
+    },
+    "들려주다": {
+      "lemma": "들려주다",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to let someone hear, to play/tell for someone",
+      "meanings": [
+        {
+          "en": "to let someone hear, to play/tell for someone",
+          "note": "Playing music or telling a story."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "들려주다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "들려줘요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "들려줍니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "들려줬어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 들려줘요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "영미 선생님, 은행길에 살던 두 형제 이야기를 더 들려주세요!",
+          "trans": "Miss Youngmi, please tell me more about the two brothers who lived on Eunhaeng Lane!"
+        },
+        {
+          "text": "지금 같이 들려줘요.",
+          "trans": "Now we let someone hear together."
+        }
+      ],
+      "related": []
+    },
+    "형": {
+      "lemma": "형",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "older brother (of a man)",
+      "meanings": [
+        {
+          "en": "older brother (of a man)",
+          "note": "Warm family address used by a younger brother."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "형은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "형이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "형을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "형이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "목수 할아버지가 손자 둘하고 사셨어요. 형은 피아노를 쳤고 동생은 기차를 좋아했어요!",
+          "trans": "A grandfather carpenter lived there with his two grandsons. The older brother played piano and the younger sibling loved trains!"
+        },
+        {
+          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
+          "trans": "The older brother was bold and loud. He always played his scales in a rush."
+        },
+        {
+          "text": "영미 선생님?! 우리 형 금요일 피아노 선생님이세요?!",
+          "trans": "Miss Youngmi?! My older brother's Friday piano teacher?!"
+        }
+      ],
+      "related": [
+        {
+          "word": "동생",
+          "gloss": "younger sibling"
+        },
+        {
+          "word": "형님",
+          "gloss": "older brother (honorific)"
+        }
+      ]
+    },
+    "씩씩하다": {
+      "lemma": "씩씩하다",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "to be spirited, cheerful and brisk",
+      "meanings": [
+        {
+          "en": "to be spirited, cheerful and brisk",
+          "note": "Pronounced [씩씨카다]."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "씩씩하다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "씩씩해요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "씩씩합니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "씩씩했어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 씩씩해요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
+          "trans": "The older brother was bold and loud. He always played his scales in a rush."
+        },
+        {
+          "text": "오늘 정말 씩씩해요.",
+          "trans": "Today it is really spirited."
+        }
+      ],
+      "related": []
+    },
+    "목소리": {
+      "lemma": "목소리",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "voice",
+      "meanings": [
+        {
+          "en": "voice",
+          "note": "Compound of 목 ('throat') + 소리 ('sound')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "목소리는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "목소리가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "목소리를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "목소리예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "목소리가 공손했어요? 젊은 사람이에요, 나이 든 사람이에요?",
+          "trans": "Was his voice polite? Young person or older person?"
+        },
+        {
+          "text": "조용하고 공손했어요. 서른다섯 살쯤이요. 화난 게 아니라 긴장한 목소리였어요.",
+          "trans": "Quiet and polite. Around thirty-five. His voice sounded nervous, not angry."
+        },
+        {
+          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
+          "trans": "The older brother was bold and loud. He always played his scales in a rush."
+        }
+      ],
+      "related": []
+    },
+    "크다": {
+      "lemma": "크다",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "to be big, to be loud, to be tall (with 키)",
+      "meanings": [
+        {
+          "en": "to be big, to be loud, to be tall (with 키)",
+          "note": "ㅡ-drop adjective: 커요, 큽니다, 큰."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "크다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "커요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "큽니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "컸어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 커요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "서랍 안에 있어요. 여기서는 큰 종이 장부하고 연필을 써요.",
+          "trans": "It is inside the drawer. Here we use a big paper ledger and a pencil."
+        },
+        {
+          "text": "큰 갈색 남자 구두 두 켤레하고 회색 스웨터가 있네요.",
+          "trans": "There are two pairs of big brown men's dress shoes and grey sweaters."
+        },
+        {
+          "text": "와, 이 방 좀 보세요! 큰 나무 기둥이 있고 안마당이 내려다보이는 창문도 있어요!",
+          "trans": "Wow, look at this room! Big wooden beams and a window looking down on the courtyard!"
+        }
+      ],
+      "related": [
+        {
+          "word": "작다",
+          "gloss": "to be small, to be little"
+        }
+      ]
+    },
+    "항상": {
+      "lemma": "항상",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "always",
+      "meanings": [
+        {
+          "en": "always",
+          "note": "Constant frequency adverb."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "첫날에는 항상 빨리 걸어요. 컴퓨터는 어디에 있어요?",
+          "trans": "On my first day I always walk fast. Where is the computer?"
+        },
+        {
+          "text": "나랑은 항상 편하게 해! 딱딱한 존댓말은 손님한테만 써.",
+          "trans": "With me, always speak casually! Save stiff polite speech for the guests."
+        },
+        {
+          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
+          "trans": "The older brother was bold and loud. He always played his scales in a rush."
+        }
+      ],
+      "related": []
+    },
+    "음계": {
+      "lemma": "음계",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "musical scale",
+      "meanings": [
+        {
+          "en": "musical scale",
+          "note": "Sino-Korean 音階."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "음계는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "음계가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "음계를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "음계예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
+          "trans": "The older brother was bold and loud. He always played his scales in a rush."
+        },
+        {
+          "text": "민수가 바장조 음계를 천천히 치기를 아직도 기다리고 있단다!",
+          "trans": "I am still waiting for Minsu to play that scale slowly!"
+        }
+      ],
+      "related": []
+    },
+    "급하다": {
+      "lemma": "급하다",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "to be urgent, in a hurry",
+      "meanings": [
+        {
+          "en": "to be urgent, in a hurry",
+          "note": "Pronounced [그파다]; 급하게 ('urgently')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "급하다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "급해요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "급합니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "급했어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 급해요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "어쩌지! 급하게 뛰느라 포장지가 다 똑같아 보였어!",
+          "trans": "Oh no! Because I was running in a rush, all the wrappers looked identical!"
+        },
+        {
+          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
+          "trans": "The older brother was bold and loud. He always played his scales in a rush."
+        }
+      ],
+      "related": []
+    },
+    "치다": {
+      "lemma": "치다",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to play (piano); to strike",
+      "meanings": [
+        {
+          "en": "to play (piano); to strike",
+          "note": "피아노를 치다 ('play the piano')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "치다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "쳐요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "칩니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "쳤어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 쳐요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "목수 할아버지가 손자 둘하고 사셨어요. 형은 피아노를 쳤고 동생은 기차를 좋아했어요!",
+          "trans": "A grandfather carpenter lived there with his two grandsons. The older brother played piano and the younger sibling loved trains!"
+        },
+        {
+          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
+          "trans": "The older brother was bold and loud. He always played his scales in a rush."
+        },
+        {
+          "text": "민수가 바장조 음계를 천천히 치기를 아직도 기다리고 있단다!",
+          "trans": "I am still waiting for Minsu to play that scale slowly!"
+        }
+      ],
+      "related": []
+    },
+    "나무": {
+      "lemma": "나무",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "tree; wood",
+      "meanings": [
+        {
+          "en": "tree; wood",
+          "note": "Means both a living tree and timber/wood."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "나무는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "나무가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "나무를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "나무예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "오래된 나무 바로 위, 안마당 쪽이에요. 아주 조용해요.",
+          "trans": "It faces the courtyard, right above the old tree. It is very quiet."
+        },
+        {
+          "text": "그리고 하얀 종이에 싸인 이건 뭐예요? 작은 나무 기차예요!",
+          "trans": "And what is this wrapped in white paper? It is a little wooden train!"
+        },
+        {
+          "text": "어쩐지 아주 무거웠어요. 나무하고 가죽이잖아요!",
+          "trans": "No wonder it was so heavy. It is wood and leather, after all!"
+        }
+      ],
+      "related": []
+    },
+    "기차": {
+      "lemma": "기차",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "train",
+      "meanings": [
+        {
+          "en": "train",
+          "note": "Sino-Korean 汽車."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "기차는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "기차가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "기차를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "기차예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "네, 이층 사호실이에요! 기차 여행은 어떠셨어요?",
+          "trans": "Yes, Room 4 on the second floor! How was your train trip?"
+        },
+        {
+          "text": "그리고 하얀 종이에 싸인 이건 뭐예요? 작은 나무 기차예요!",
+          "trans": "And what is this wrapped in white paper? It is a little wooden train!"
+        },
+        {
+          "text": "참 신기하네요! 같은 아침 기차를 타고 같은 동네로 왔군요.",
+          "trans": "How strange! We rode the very same morning train to the same neighbourhood."
+        }
+      ],
+      "related": []
+    },
+    "들다": {
+      "lemma": "들다",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to lift, to hold; to enter / settle in",
+      "meanings": [
+        {
+          "en": "to lift, to hold; to enter / settle in",
+          "note": "정이 들다 means 'grow fond of'; 마음에 들다 means 'like'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "들다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "들어요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "듭니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "들었어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 들어요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "제가 들어 드릴게요. 세상에, 안에 돌을 넣으셨어요?",
+          "trans": "Let me carry it for you. Goodness, did you pack stones inside?"
+        },
+        {
+          "text": "준호 씨, 방금 들었어요? 누가 대문 종을 눌렀어요!",
+          "trans": "Junho, did you just hear that? Someone rang the front gate bell!"
+        },
+        {
+          "text": "나무 기차가 든 자기 가방은 달라고 안 했어요?",
+          "trans": "And he did not ask for his own bag with the wooden train?"
+        }
+      ],
+      "related": []
+    },
+    "있다": {
+      "lemma": "있다",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "to exist, to be (at a place); to have",
+      "meanings": [
+        {
+          "en": "to exist, to be (at a place); to have",
+          "note": "Expresses location with 에 or possession ('have'); opposite of 없다."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "있다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "있어요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "있습니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "있었어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "없어요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "첫날에는 항상 빨리 걸어요. 컴퓨터는 어디에 있어요?",
+          "trans": "On my first day I always walk fast. Where is the computer?"
+        },
+        {
+          "text": "서랍 안에 있어요. 여기서는 큰 종이 장부하고 연필을 써요.",
+          "trans": "It is inside the drawer. Here we use a big paper ledger and a pencil."
+        },
+        {
+          "text": "맛있는 커피하고 따뜻한 빵이 있으면 다 친해지거든!",
+          "trans": "Because good coffee and warm bread make everyone friendly!"
+        }
+      ],
+      "related": [
+        {
+          "word": "없다",
+          "gloss": "not to exist, to have no"
+        },
+        {
+          "word": "계시다",
+          "gloss": "to be, to stay (honorific)"
+        }
+      ]
+    },
+    "동생": {
+      "lemma": "동생",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "younger sibling",
+      "meanings": [
+        {
+          "en": "younger sibling",
+          "note": "Covers younger brother or younger sister."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "동생은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "동생이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "동생을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "동생이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "목수 할아버지가 손자 둘하고 사셨어요. 형은 피아노를 쳤고 동생은 기차를 좋아했어요!",
+          "trans": "A grandfather carpenter lived there with his two grandsons. The older brother played piano and the younger sibling loved trains!"
+        },
+        {
+          "text": "나무 기차를 들고 있던 동생은요?",
+          "trans": "And what about the younger brother holding the wooden train?"
+        },
+        {
+          "text": "차하고 레몬 케이크요! 미나 씨는 긴장한 동생들을 위한 학교를 열어야겠어요.",
+          "trans": "Tea and lemon cake! Mina, you ought to open a school for nervous younger brothers."
+        }
+      ],
+      "related": [
+        {
+          "word": "형",
+          "gloss": "older brother (of a man)"
+        }
+      ]
+    },
+    "아주": {
+      "lemma": "아주",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "very, quite",
+      "meanings": [
+        {
+          "en": "very, quite",
+          "note": "Everyday intensifier."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "조용하고 좋았어요, 고마워요. 그런데 오늘 이 가방이 아주 무겁네요.",
+          "trans": "It was quiet and pleasant, thank you. Though today this bag feels very heavy."
+        },
+        {
+          "text": "오래된 나무 바로 위, 안마당 쪽이에요. 아주 조용해요.",
+          "trans": "It faces the courtyard, right above the old tree. It is very quiet."
+        },
+        {
+          "text": "어쩐지 아주 무거웠어요. 나무하고 가죽이잖아요!",
+          "trans": "No wonder it was so heavy. It is wood and leather, after all!"
+        }
+      ],
+      "related": []
+    },
+    "조용하다": {
+      "lemma": "조용하다",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "to be quiet, peaceful",
+      "meanings": [
+        {
+          "en": "to be quiet, peaceful",
+          "note": "조용해요, 조용한."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "조용하다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "조용해요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "조용합니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "조용했어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 조용해요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "조용하고 좋았어요, 고마워요. 그런데 오늘 이 가방이 아주 무겁네요.",
+          "trans": "It was quiet and pleasant, thank you. Though today this bag feels very heavy."
+        },
+        {
+          "text": "오래된 나무 바로 위, 안마당 쪽이에요. 아주 조용해요.",
+          "trans": "It faces the courtyard, right above the old tree. It is very quiet."
+        },
+        {
+          "text": "조용하고 공손했어요. 서른다섯 살쯤이요. 화난 게 아니라 긴장한 목소리였어요.",
+          "trans": "Quiet and polite. Around thirty-five. His voice sounded nervous, not angry."
+        }
+      ],
+      "related": []
+    },
+    "아이": {
+      "lemma": "아이",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "child",
+      "meanings": [
+        {
+          "en": "child",
+          "note": "Native Korean word for a child."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "아이는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "아이가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "아이를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "아이예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "아주 조용한 아이였어요! 세 번째 계단에 앉아서 음 하나하나를 다 귀 기울여 들었죠.",
+          "trans": "He was a very quiet child! Sitting on the third step, he listened closely to every single note."
+        },
+        {
+          "text": "여기에 아이가 있어요.",
+          "trans": "There is child here."
+        }
+      ],
+      "related": []
+    },
+    "세": {
+      "lemma": "세",
+      "stress": null,
+      "pos": "num",
+      "gloss": "three",
+      "meanings": [
+        {
+          "en": "three",
+          "note": "Native Korean pre-noun form of 셋 before counters."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "없어요, 볼펜하고 오래된 영수증 세 장뿐이에요!",
+          "trans": "No, only a ballpoint pen and three old receipts!"
+        },
+        {
+          "text": "우유 세 병, 계란 스무 개, 버터, 치즈, 그리고 빨간 사과!",
+          "trans": "Three bottles of milk, twenty eggs, butter, cheese, and red apples!"
+        },
+        {
+          "text": "작은 상자 세 개뿐이에요! 많아 봐야 네 개예요!",
+          "trans": "Only three small boxes! Four at most!"
+        }
+      ],
+      "related": []
+    },
+    "번째": {
+      "lemma": "번째",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "ordinal suffix (-th)",
+      "meanings": [
+        {
+          "en": "ordinal suffix (-th)",
+          "note": "Turns native numbers into ordinals ('두 번째', '아홉 번째')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "번째는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "번째가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "번째를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "번째예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "첫 번째 규칙이에요. 따뜻한 차를 먼저 마시세요. 그다음에 종을 받으세요.",
+          "trans": "Rule number one. Drink warm tea first. After that, answer the bell."
+        },
+        {
+          "text": "좁은 골목 말고 꽃집 옆에 있는 두 번째 길로 가세요.",
+          "trans": "Not the narrow alley—take the second street beside the flower shop."
+        },
+        {
+          "text": "아주 조용한 아이였어요! 세 번째 계단에 앉아서 음 하나하나를 다 귀 기울여 들었죠.",
+          "trans": "He was a very quiet child! Sitting on the third step, he listened closely to every single note."
         }
       ],
       "related": []
@@ -4822,15 +6093,15 @@
       ],
       "related": []
     },
-    "계시다": {
-      "lemma": "계시다",
+    "앉다": {
+      "lemma": "앉다",
       "stress": null,
       "pos": "verb",
-      "gloss": "to be, to stay (honorific)",
+      "gloss": "to sit down",
       "meanings": [
         {
-          "en": "to be, to stay (honorific)",
-          "note": "Subject-honorific counterpart of 있다 for guests and elders."
+          "en": "to sit down",
+          "note": "Pronounced [안따 / 안자요]."
         }
       ],
       "forms": {
@@ -4843,31 +6114,31 @@
           {
             "cells": [
               "dictionary",
-              "계시다"
+              "앉다"
             ]
           },
           {
             "cells": [
               "polite",
-              "계세요"
+              "앉아요"
             ]
           },
           {
             "cells": [
               "formal",
-              "계십니다"
+              "앉습니다"
             ]
           },
           {
             "cells": [
               "past",
-              "계셨어요"
+              "앉았어요"
             ]
           },
           {
             "cells": [
               "negative",
-              "안 계세요"
+              "안 앉아요"
             ]
           }
         ]
@@ -4875,24 +6146,166 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "오늘 사호실 손님은 일주일 동안 계세요. 모든 게 완벽해야 해요!",
-          "trans": "Today's Room 4 guest is staying for a week. Everything must be perfect!"
+          "text": "선생님, 우선 앉으세요. 걱정하지 마세요, 지금 바로 이름표를 확인할게요.",
+          "trans": "Ma'am, please have a seat first. Don't worry, I will check the luggage tag right now."
         },
         {
-          "text": "서울에 온 첫날 저녁에 슬프게 계시면 안 되죠!",
-          "trans": "You must not sit sad on your very first evening in Seoul!"
+          "text": "미나야, 여기 앉아! 오늘 아침에 동네를 다 뛰었잖아, 커피 마셔.",
+          "trans": "Mina, sit here! You ran all over the neighbourhood this morning—drink some coffee."
         },
         {
-          "text": "밤 아홉 시에요? 여기 계세요, 같이 문을 열어요.",
-          "trans": "At nine at night? Stay here, let's open the door together."
+          "text": "오래된 집은 화요일마다 나사가 하나씩 풀려요. 이제 앉으세요.",
+          "trans": "In old houses one screw loosens every Tuesday. Now sit down."
         }
       ],
-      "related": [
+      "related": []
+    },
+    "음": {
+      "lemma": "음",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "musical note; hmm",
+      "meanings": [
         {
-          "word": "있다",
-          "gloss": "to exist, to be (at a place)"
+          "en": "musical note; hmm",
+          "note": "Musical tone/note or thoughtful pause."
         }
-      ]
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "음은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "음이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "음을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "음이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "음, 침대하고 탁자하고 의자는 있는데 침대 옆 스탠드가 없어요.",
+          "trans": "Let's see: there are a bed, a table, and a chair, yet no bedside lamp."
+        },
+        {
+          "text": "아주 조용한 아이였어요! 세 번째 계단에 앉아서 음 하나하나를 다 귀 기울여 들었죠.",
+          "trans": "He was a very quiet child! Sitting on the third step, he listened closely to every single note."
+        },
+        {
+          "text": "그럼요! 매주 금요일에 피아노 음을 틀릴 때마다 벽을 보고 얼굴을 찌푸렸죠.",
+          "trans": "Of course! Every Friday whenever he missed a piano note, he stared at the wall and frowned."
+        }
+      ],
+      "related": []
+    },
+    "하나하나": {
+      "lemma": "하나하나",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "each and every one",
+      "meanings": [
+        {
+          "en": "each and every one",
+          "note": "Reduplicated form of 하나 emphasizing care."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "하나하나는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "하나하나가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "하나하나를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "하나하나예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "아주 조용한 아이였어요! 세 번째 계단에 앉아서 음 하나하나를 다 귀 기울여 들었죠.",
+          "trans": "He was a very quiet child! Sitting on the third step, he listened closely to every single note."
+        },
+        {
+          "text": "여기에 하나하나가 있어요.",
+          "trans": "There is each and every one here."
+        }
+      ],
+      "related": []
+    },
+    "다": {
+      "lemma": "다",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "all, completely",
+      "meanings": [
+        {
+          "en": "all, completely",
+          "note": "Means 'everything' or 'finished'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "좋아요. 꼭 알아야 할 것을 다 알려 주세요.",
+          "trans": "Great. Please tell me everything I must know."
+        },
+        {
+          "text": "소라 씨는 우리 골목 사람들하고 다 친구처럼 이야기해요.",
+          "trans": "Sora talks like an old friend with everyone in our alley."
+        },
+        {
+          "text": "맛있는 커피하고 따뜻한 빵이 있으면 다 친해지거든!",
+          "trans": "Because good coffee and warm bread make everyone friendly!"
+        }
+      ],
+      "related": []
     },
     "귀": {
       "lemma": "귀",
@@ -4951,193 +6364,6 @@
         {
           "text": "방 안의 소리를 귀 기울여 들었다고요... 잠깐만요!",
           "trans": "Listened closely to the sound inside the room... wait a second!"
-        }
-      ],
-      "related": []
-    },
-    "그": {
-      "lemma": "그",
-      "stress": null,
-      "pos": "det",
-      "gloss": "that, the",
-      "meanings": [
-        {
-          "en": "that, the",
-          "note": "Points to something near the listener or already mentioned."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "잠깐만요, 그 길은 바로 우리 동네예요! 걸어서 오 분 거리예요!",
-          "trans": "Wait—that street is right here in our neighbourhood! Five minutes on foot!"
-        },
-        {
-          "text": "고마워요, 준호 씨. 그 안에 있던 작은 나무 기차가 오래되고 소중해 보였어요.",
-          "trans": "Thank you, Junho. The little wooden train inside looked old and precious."
-        },
-        {
-          "text": "참 이상하네요! 그 이름표 글씨체가 묘하게 익숙했어요.",
-          "trans": "How curious! The handwriting on that tag felt strangely familiar."
-        }
-      ],
-      "related": []
-    },
-    "그럼": {
-      "lemma": "그럼",
-      "stress": null,
-      "pos": "conj",
-      "gloss": "then, in that case; of course",
-      "meanings": [
-        {
-          "en": "then, in that case; of course",
-          "note": "Short for 그러면; with -요 ('그럼요') means 'of course!'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "맞아요! 그럼 이건 열쇠예요?",
-          "trans": "That's true! Then are these the keys?"
-        },
-        {
-          "text": "그럼 이 집이 혼자서 인사하는 거네요?",
-          "trans": "So this house says hello all by itself?"
-        },
-        {
-          "text": "그럼요, 준호 씨! 비밀은 꼭 지켜 드릴게요!",
-          "trans": "Of course, Junho! We will guard your secret well!"
-        }
-      ],
-      "related": []
-    },
-    "금요일": {
-      "lemma": "금요일",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "Friday",
-      "meanings": [
-        {
-          "en": "Friday",
-          "note": "Sino-Korean 金曜日."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "금요일은"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "금요일이"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "금요일을"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "금요일이에요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "제가 읽어 볼게요. '실수해서 죄송합니다. 금요일까지 제 파란 가방을 맡아 주세요.'",
-          "trans": "Let me read it: 'Sorry for the mistake. Please keep my blue bag until Friday.'"
-        },
-        {
-          "text": "금요일까지요? 이름도 없고 서명도 없네요!",
-          "trans": "Until Friday? No name and no signature!"
-        },
-        {
-          "text": "왜 모르는 사람들한테 금요일까지 구두하고 나무 기차를 맡길까요?",
-          "trans": "Why leave shoes and a wooden train with strangers until Friday?"
-        }
-      ],
-      "related": [
-        {
-          "word": "월요일",
-          "gloss": "Monday"
-        }
-      ]
-    },
-    "급하다": {
-      "lemma": "급하다",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "to be urgent, in a hurry",
-      "meanings": [
-        {
-          "en": "to be urgent, in a hurry",
-          "note": "Pronounced [그파다]; 급하게 ('urgently')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "급하다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "급해요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "급합니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "급했어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 급해요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "어쩌지! 급하게 뛰느라 포장지가 다 똑같아 보였어!",
-          "trans": "Oh no! Because I was running in a rush, all the wrappers looked identical!"
-        },
-        {
-          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
-          "trans": "The older brother was bold and loud. He always played his scales in a rush."
         }
       ],
       "related": []
@@ -5209,15 +6435,15 @@
       ],
       "related": []
     },
-    "기차": {
-      "lemma": "기차",
+    "방": {
+      "lemma": "방",
       "stress": null,
       "pos": "noun",
-      "gloss": "train",
+      "gloss": "room",
       "meanings": [
         {
-          "en": "train",
-          "note": "Sino-Korean 汽車."
+          "en": "room",
+          "note": "Sino-Korean 房."
         }
       ],
       "forms": {
@@ -5230,25 +6456,25 @@
           {
             "cells": [
               "with topic",
-              "기차는"
+              "방은"
             ]
           },
           {
             "cells": [
               "with subject",
-              "기차가"
+              "방이"
             ]
           },
           {
             "cells": [
               "with object",
-              "기차를"
+              "방을"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "기차예요"
+              "방이에요"
             ]
           }
         ]
@@ -5256,29 +6482,194 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "네, 이층 사호실이에요! 기차 여행은 어떠셨어요?",
-          "trans": "Yes, Room 4 on the second floor! How was your train trip?"
+          "text": "정전이 되어도 종이는 쓸 수 있거든요.",
+          "trans": "Paper still works when the power goes out."
         },
         {
-          "text": "그리고 하얀 종이에 싸인 이건 뭐예요? 작은 나무 기차예요!",
-          "trans": "And what is this wrapped in white paper? It is a little wooden train!"
+          "text": "네, 방 여덟 개에 황동 열쇠 여덟 개예요. 오늘 사호실 손님이 와요.",
+          "trans": "Yes, eight rooms and eight brass keys. Today the Room 4 guest arrives."
         },
         {
-          "text": "참 신기하네요! 같은 아침 기차를 타고 같은 동네로 왔군요.",
-          "trans": "How strange! We rode the very same morning train to the same neighbourhood."
+          "text": "진정하세요, 사장님. 방도 깨끗하고 수건도 새것이에요.",
+          "trans": "Calm down, boss. The room is clean and the towels are fresh."
+        }
+      ],
+      "related": [
+        {
+          "word": "다락방",
+          "gloss": "attic room, loft"
+        }
+      ]
+    },
+    "안": {
+      "lemma": "안",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "inside, interior",
+      "meanings": [
+        {
+          "en": "not (short everyday negator)",
+          "note": "Placed directly before a verb or adjective: 안 가요 ('do not go')."
+        },
+        {
+          "en": "inside, interior",
+          "note": "Used as a spatial noun with particles: 방 안에 ('inside the room')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "안은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "안이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "안을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "안이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "서랍 안에 있어요. 여기서는 큰 종이 장부하고 연필을 써요.",
+          "trans": "It is inside the drawer. Here we use a big paper ledger and a pencil."
+        },
+        {
+          "text": "정전이 되어도 종이는 쓸 수 있거든요.",
+          "trans": "Paper still works when the power goes out."
+        },
+        {
+          "text": "코트 주머니 안에 없어요?",
+          "trans": "Are they not inside your coat pocket?"
+        }
+      ],
+      "related": [
+        {
+          "word": "밖",
+          "gloss": "outside, exterior"
+        }
+      ]
+    },
+    "소리": {
+      "lemma": "소리",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "sound, noise",
+      "meanings": [
+        {
+          "en": "sound, noise",
+          "note": "Native Korean noun."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "소리는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "소리가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "소리를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "소리예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "아무도 없어요. 그건 사호실 초인종 소리예요.",
+          "trans": "Nobody is there. That is the buzzer from Room 4."
+        },
+        {
+          "text": "잠깐 들어 보세요... 길에서 차 소리가 하나도 안 들려요.",
+          "trans": "Listen for a moment... not a single car sound can be heard from the street."
+        },
+        {
+          "text": "얼른 덮어요! 위층에 가져다드릴게요... 어, 방금 저 큰 쇠 소리는 뭐예요?",
+          "trans": "Close it quickly! Let me take it upstairs... wait, what was that loud metal sound just now?"
         }
       ],
       "related": []
     },
-    "꼬마": {
-      "lemma": "꼬마",
+    "잠깐": {
+      "lemma": "잠깐",
       "stress": null,
-      "pos": "noun",
-      "gloss": "little kid, youngster",
+      "pos": "adv",
+      "gloss": "for a moment, briefly",
       "meanings": [
         {
-          "en": "little kid, youngster",
-          "note": "Affectionate word for a small child."
+          "en": "for a moment, briefly",
+          "note": "Short pause ('wait a second')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "잠깐만요, 선생님 가방처럼 똑같은 남색인데요!",
+          "trans": "Wait a moment—it is dark blue, identical to yours!"
+        },
+        {
+          "text": "잠깐만요, 그 길은 바로 우리 동네예요! 걸어서 오 분 거리예요!",
+          "trans": "Wait—that street is right here in our neighbourhood! Five minutes on foot!"
+        },
+        {
+          "text": "잠깐만요. 아래 돌계단을 보세요.",
+          "trans": "Wait a second. Look down at the stone step."
+        }
+      ],
+      "related": []
+    },
+    "연주": {
+      "lemma": "연주",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "musical performance",
+      "meanings": [
+        {
+          "en": "musical performance",
+          "note": "Sino-Korean 演奏."
         }
       ],
       "forms": {
@@ -5291,25 +6682,25 @@
           {
             "cells": [
               "with topic",
-              "꼬마는"
+              "연주는"
             ]
           },
           {
             "cells": [
               "with subject",
-              "꼬마가"
+              "연주가"
             ]
           },
           {
             "cells": [
               "with object",
-              "꼬마를"
+              "연주를"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "꼬마예요"
+              "연주예요"
             ]
           }
         ]
@@ -5317,12 +6708,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "세상에... 눈빛 좀 봐! 세 번째 계단에 앉아 있던 꼬마 지훈이니?!",
-          "trans": "Good heavens... look at your eyes! Are you little Jihoon who sat on the third step?!"
+          "text": "연주가 끝날 때마다 비 오는 날에는 왜 피아노 소리가 더 따뜻하냐고 물어봤어요.",
+          "trans": "Whenever a piece ended, he asked why the piano sound felt warmer on rainy days."
         },
         {
-          "text": "여기에 꼬마가 있어요.",
-          "trans": "There is little kid here."
+          "text": "여기에 연주가 있어요.",
+          "trans": "There is musical performance here."
         }
       ],
       "related": []
@@ -5399,15 +6790,15 @@
         }
       ]
     },
-    "나무": {
-      "lemma": "나무",
+    "때": {
+      "lemma": "때",
       "stress": null,
       "pos": "noun",
-      "gloss": "tree; wood",
+      "gloss": "time, moment, when",
       "meanings": [
         {
-          "en": "tree; wood",
-          "note": "Means both a living tree and timber/wood."
+          "en": "time, moment, when",
+          "note": "Used after -(으)ㄹ to mean 'when ...'."
         }
       ],
       "forms": {
@@ -5420,25 +6811,25 @@
           {
             "cells": [
               "with topic",
-              "나무는"
+              "때는"
             ]
           },
           {
             "cells": [
               "with subject",
-              "나무가"
+              "때가"
             ]
           },
           {
             "cells": [
               "with object",
-              "나무를"
+              "때를"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "나무예요"
+              "때예요"
             ]
           }
         ]
@@ -5446,19 +6837,152 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "오래된 나무 바로 위, 안마당 쪽이에요. 아주 조용해요.",
-          "trans": "It faces the courtyard, right above the old tree. It is very quiet."
+          "text": "갓 구운 모닝빵이야! 따뜻할 때 하나 먹어 봐.",
+          "trans": "Freshly baked morning rolls! Try one while it is warm."
         },
         {
-          "text": "그리고 하얀 종이에 싸인 이건 뭐예요? 작은 나무 기차예요!",
-          "trans": "And what is this wrapped in white paper? It is a little wooden train!"
+          "text": "금요일 정오가 빨리 오면 좋겠다! 가방 주인이 들어올 때 맨 앞자리에 앉을 거야!",
+          "trans": "I hope Friday noon comes fast! When the bag's owner walks in, I am sitting in the front row!"
         },
         {
-          "text": "어쩐지 아주 무거웠어요. 나무하고 가죽이잖아요!",
-          "trans": "No wonder it was so heavy. It is wood and leather, after all!"
+          "text": "모퉁이 돌 때 조심해요, 벽에 부딪히지 마세요!",
+          "trans": "Be careful turning the corner—do not bump into the wall!"
         }
       ],
       "related": []
+    },
+    "비": {
+      "lemma": "비",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "rain",
+      "meanings": [
+        {
+          "en": "rain",
+          "note": "Pairs with 오다 ('비가 와요', 'it rains')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "비는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "비가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "비를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "비예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "정전이 되어도 종이는 쓸 수 있거든요.",
+          "trans": "Paper still works when the power goes out."
+        },
+        {
+          "text": "밖에는 비가 오고 우리 골목 호텔도 다 찼어요! 이제 어떻게 하죠?",
+          "trans": "Outside it is raining and every hotel in our alley is full! What do we do now?"
+        },
+        {
+          "text": "어서 오세요! 비가 많이 오는데 안으로 들어오세요, 손님.",
+          "trans": "Welcome! It is raining hard—please come inside, sir."
+        }
+      ],
+      "related": []
+    },
+    "오다": {
+      "lemma": "오다",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to come",
+      "meanings": [
+        {
+          "en": "to come",
+          "note": "Core directional verb; 비가 오다 means 'to rain'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "오다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "와요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "옵니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "왔어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 와요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "저는 준호예요. 십 분이나 일찍 왔네요.",
+          "trans": "I am Junho. You arrived ten minutes early."
+        },
+        {
+          "text": "정전이 되어도 종이는 쓸 수 있거든요.",
+          "trans": "Paper still works when the power goes out."
+        },
+        {
+          "text": "네, 방 여덟 개에 황동 열쇠 여덟 개예요. 오늘 사호실 손님이 와요.",
+          "trans": "Yes, eight rooms and eight brass keys. Today the Room 4 guest arrives."
+        }
+      ],
+      "related": [
+        {
+          "word": "가다",
+          "gloss": "to go"
+        }
+      ]
     },
     "날": {
       "lemma": "날",
@@ -5521,15 +7045,44 @@
       ],
       "related": []
     },
-    "눈빛": {
-      "lemma": "눈빛",
+    "왜": {
+      "lemma": "왜",
       "stress": null,
-      "pos": "noun",
-      "gloss": "look in one's eyes, gaze",
+      "pos": "adv",
+      "gloss": "why",
       "meanings": [
         {
-          "en": "look in one's eyes, gaze",
-          "note": "Compound of 눈 ('eye') + 빛 ('light')."
+          "en": "why",
+          "note": "Asks for a reason."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "거울에 왜 내 안경이... 어! 내 머리 위에 있네요!",
+          "trans": "Why would my glasses be in the mirror... oh! They are on my head!"
+        },
+        {
+          "text": "왜 자기 가방은 안 가져가고 그냥 도망갔을까요?",
+          "trans": "Why did the person run away without taking their own bag?"
+        },
+        {
+          "text": "왜 모르는 사람들한테 금요일까지 구두하고 나무 기차를 맡길까요?",
+          "trans": "Why leave shoes and a wooden train with strangers until Friday?"
+        }
+      ],
+      "related": []
+    },
+    "피아노": {
+      "lemma": "피아노",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "piano",
+      "meanings": [
+        {
+          "en": "piano",
+          "note": "Loanword from Italian/English 'piano'."
         }
       ],
       "forms": {
@@ -5542,25 +7095,25 @@
           {
             "cells": [
               "with topic",
-              "눈빛은"
+              "피아노는"
             ]
           },
           {
             "cells": [
               "with subject",
-              "눈빛이"
+              "피아노가"
             ]
           },
           {
             "cells": [
               "with object",
-              "눈빛을"
+              "피아노를"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "눈빛이에요"
+              "피아노예요"
             ]
           }
         ]
@@ -5568,70 +7121,218 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "세상에... 눈빛 좀 봐! 세 번째 계단에 앉아 있던 꼬마 지훈이니?!",
-          "trans": "Good heavens... look at your eyes! Are you little Jihoon who sat on the third step?!"
+          "text": "스물다섯 해 전에 이 근처에서 피아노를 가르쳤거든요. 기억은 흐릿하지만요.",
+          "trans": "Twenty-five years ago I taught piano near here, though my memory is faint."
         },
         {
-          "text": "여기에 눈빛이 있어요.",
-          "trans": "There is look in one's eyes here."
+          "text": "알다마다요! 육 년 동안 매주 금요일에 피아노를 가르치러 그 나무 계단을 올라갔어요!",
+          "trans": "Know it indeed! Every Friday for six years I climbed those wooden stairs to teach piano!"
+        },
+        {
+          "text": "목수 할아버지가 손자 둘하고 사셨어요. 형은 피아노를 쳤고 동생은 기차를 좋아했어요!",
+          "trans": "A grandfather carpenter lived there with his two grandsons. The older brother played piano and the younger sibling loved trains!"
         }
       ],
       "related": []
     },
-    "다": {
-      "lemma": "다",
+    "따뜻하다": {
+      "lemma": "따뜻하다",
       "stress": null,
-      "pos": "adv",
-      "gloss": "all, completely",
+      "pos": "adj",
+      "gloss": "to be warm",
       "meanings": [
         {
-          "en": "all, completely",
-          "note": "Means 'everything' or 'finished'."
+          "en": "to be warm",
+          "note": "Pronounced [따뜨타다]; warm air, bread, tea, or heart."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "따뜻하다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "따뜻해요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "따뜻합니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "따뜻했어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 따뜻해요"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "좋아요. 꼭 알아야 할 것을 다 알려 주세요.",
-          "trans": "Great. Please tell me everything I must know."
+          "text": "첫 번째 규칙이에요. 따뜻한 차를 먼저 마시세요. 그다음에 종을 받으세요.",
+          "trans": "Rule number one. Drink warm tea first. After that, answer the bell."
         },
         {
-          "text": "소라 씨는 우리 골목 사람들하고 다 친구처럼 이야기해요.",
-          "trans": "Sora talks like an old friend with everyone in our alley."
+          "text": "갓 구운 모닝빵이야! 따뜻할 때 하나 먹어 봐.",
+          "trans": "Freshly baked morning rolls! Try one while it is warm."
         },
         {
           "text": "맛있는 커피하고 따뜻한 빵이 있으면 다 친해지거든!",
           "trans": "Because good coffee and warm bread make everyone friendly!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "차갑다",
+          "gloss": "to be cold (to the touch)"
+        }
+      ]
     },
-    "더": {
-      "lemma": "더",
+    "물어보다": {
+      "lemma": "물어보다",
       "stress": null,
-      "pos": "adv",
-      "gloss": "more",
+      "pos": "verb",
+      "gloss": "to ask, to inquire",
       "meanings": [
         {
-          "en": "more",
-          "note": "Comparative adverb."
+          "en": "to ask, to inquire",
+          "note": "Compound of 묻다 ('ask', ㄷ-irregular) + 보다."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "물어보다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "물어봐요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "물어봅니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "물어봤어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 물어봐요"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "저 말 좀 들어 봐! 사실은 준호 씨가 우리보다 두 배나 더 궁금해해요!",
-          "trans": "Listen to him talk! In truth, Junho is twice as curious as we are!"
+          "text": "성함을 물어보세요! 종이에 적으세요!",
+          "trans": "Ask for his name! Write it down on paper!"
         },
         {
-          "text": "십오 분만 주면 이 다락방이 칠호실보다 더 멋질 거야!",
-          "trans": "Give us fifteen minutes and this attic will look nicer than Room 7!"
+          "text": "전화기 이리 주세요. 제가 제대로 물어볼게요!",
+          "trans": "Hand the phone over here. Let me ask him properly!"
         },
         {
-          "text": "정말요? 계단을 더 올라오셔도 괜찮으세요?",
-          "trans": "Really? You do not mind climbing the extra stairs?"
+          "text": "사실 욕실 수도꼭지 물이 왜 이렇게 찬지 물어보려고 내려왔어요.",
+          "trans": "Actually, I came down to ask why the bathroom tap water felt so cold."
+        }
+      ],
+      "related": []
+    },
+    "젖다": {
+      "lemma": "젖다",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to get wet, to become soaked",
+      "meanings": [
+        {
+          "en": "to get wet, to become soaked",
+          "note": "젖은 우산 ('wet umbrella')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "젖다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "젖어요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "젖습니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "젖었어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 젖어요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "젖은 나무 덧창이 돌길에서 울리는 메아리를 부드럽게 감싸 주니까요...",
+          "trans": "Because wet wooden shutters softly wrap the echo ringing off the stone lane..."
+        },
+        {
+          "text": "지금 같이 젖어요.",
+          "trans": "Now we get wet together."
         }
       ],
       "related": []
@@ -5750,2111 +7451,6 @@
       ],
       "related": []
     },
-    "동생": {
-      "lemma": "동생",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "younger sibling",
-      "meanings": [
-        {
-          "en": "younger sibling",
-          "note": "Covers younger brother or younger sister."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "동생은"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "동생이"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "동생을"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "동생이에요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "목수 할아버지가 손자 둘하고 사셨어요. 형은 피아노를 쳤고 동생은 기차를 좋아했어요!",
-          "trans": "A grandfather carpenter lived there with his two grandsons. The older brother played piano and the younger sibling loved trains!"
-        },
-        {
-          "text": "나무 기차를 들고 있던 동생은요?",
-          "trans": "And what about the younger brother holding the wooden train?"
-        },
-        {
-          "text": "차하고 레몬 케이크요! 미나 씨는 긴장한 동생들을 위한 학교를 열어야겠어요.",
-          "trans": "Tea and lemon cake! Mina, you ought to open a school for nervous younger brothers."
-        }
-      ],
-      "related": [
-        {
-          "word": "형",
-          "gloss": "older brother (of a man)"
-        }
-      ]
-    },
-    "두": {
-      "lemma": "두",
-      "stress": null,
-      "pos": "num",
-      "gloss": "two",
-      "meanings": [
-        {
-          "en": "two",
-          "note": "Native Korean pre-noun form of 둘 before counters."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "방금 무슨 종소리예요? 누가 두 번 눌렀어요!",
-          "trans": "What was that bell sound just now? Someone pressed it twice!"
-        },
-        {
-          "text": "사호실이 비어 있어도 오래된 전선 때문에 두 번 울려.",
-          "trans": "Even when Room 4 is empty, it rings twice because of the old wire."
-        },
-        {
-          "text": "두 분 다 정말 고마워요.",
-          "trans": "Thank you both very much."
-        }
-      ],
-      "related": []
-    },
-    "들다": {
-      "lemma": "들다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to lift, to hold; to enter / settle in",
-      "meanings": [
-        {
-          "en": "to lift, to hold; to enter / settle in",
-          "note": "정이 들다 means 'grow fond of'; 마음에 들다 means 'like'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "들다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "들어요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "듭니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "들었어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 들어요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "제가 들어 드릴게요. 세상에, 안에 돌을 넣으셨어요?",
-          "trans": "Let me carry it for you. Goodness, did you pack stones inside?"
-        },
-        {
-          "text": "준호 씨, 방금 들었어요? 누가 대문 종을 눌렀어요!",
-          "trans": "Junho, did you just hear that? Someone rang the front gate bell!"
-        },
-        {
-          "text": "나무 기차가 든 자기 가방은 달라고 안 했어요?",
-          "trans": "And he did not ask for his own bag with the wooden train?"
-        }
-      ],
-      "related": []
-    },
-    "들려주다": {
-      "lemma": "들려주다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to let someone hear, to play/tell for someone",
-      "meanings": [
-        {
-          "en": "to let someone hear, to play/tell for someone",
-          "note": "Playing music or telling a story."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "들려주다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "들려줘요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "들려줍니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "들려줬어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 들려줘요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "영미 선생님, 은행길에 살던 두 형제 이야기를 더 들려주세요!",
-          "trans": "Miss Youngmi, please tell me more about the two brothers who lived on Eunhaeng Lane!"
-        },
-        {
-          "text": "지금 같이 들려줘요.",
-          "trans": "Now we let someone hear together."
-        }
-      ],
-      "related": []
-    },
-    "따뜻하다": {
-      "lemma": "따뜻하다",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "to be warm",
-      "meanings": [
-        {
-          "en": "to be warm",
-          "note": "Pronounced [따뜨타다]; warm air, bread, tea, or heart."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "따뜻하다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "따뜻해요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "따뜻합니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "따뜻했어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 따뜻해요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "첫 번째 규칙이에요. 따뜻한 차를 먼저 마시세요. 그다음에 종을 받으세요.",
-          "trans": "Rule number one. Drink warm tea first. After that, answer the bell."
-        },
-        {
-          "text": "갓 구운 모닝빵이야! 따뜻할 때 하나 먹어 봐.",
-          "trans": "Freshly baked morning rolls! Try one while it is warm."
-        },
-        {
-          "text": "맛있는 커피하고 따뜻한 빵이 있으면 다 친해지거든!",
-          "trans": "Because good coffee and warm bread make everyone friendly!"
-        }
-      ],
-      "related": [
-        {
-          "word": "차갑다",
-          "gloss": "to be cold (to the touch)"
-        }
-      ]
-    },
-    "때": {
-      "lemma": "때",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "time, moment, when",
-      "meanings": [
-        {
-          "en": "time, moment, when",
-          "note": "Used after -(으)ㄹ to mean 'when ...'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "때는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "때가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "때를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "때예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "갓 구운 모닝빵이야! 따뜻할 때 하나 먹어 봐.",
-          "trans": "Freshly baked morning rolls! Try one while it is warm."
-        },
-        {
-          "text": "금요일 정오가 빨리 오면 좋겠다! 가방 주인이 들어올 때 맨 앞자리에 앉을 거야!",
-          "trans": "I hope Friday noon comes fast! When the bag's owner walks in, I am sitting in the front row!"
-        },
-        {
-          "text": "모퉁이 돌 때 조심해요, 벽에 부딪히지 마세요!",
-          "trans": "Be careful turning the corner—do not bump into the wall!"
-        }
-      ],
-      "related": []
-    },
-    "말씀드리다": {
-      "lemma": "말씀드리다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to tell, to say (humble)",
-      "meanings": [
-        {
-          "en": "to tell, to say (humble)",
-          "note": "Humble counterpart of 말하다 toward elders/guests."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "말씀드리다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "말씀드려요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "말씀드립니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "말씀드렸어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "말씀 안 드려요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "맞아요, 미나 씨. 그 파란 가방은 제 거예요. 두 분께 모든 진실을 말씀드릴게요.",
-          "trans": "That's right, Mina. That blue bag is mine. I will tell you both the whole truth."
-        },
-        {
-          "text": "아이고, 돈 내고 묵으시는 손님한테 어떻게 우리 건물주 문제를 말씀드려요!",
-          "trans": "Oh dear, how could we trouble a paying guest with our landlord problem!"
-        }
-      ],
-      "related": []
-    },
-    "맞다": {
-      "lemma": "맞다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to be right, to be correct; to fit",
-      "meanings": [
-        {
-          "en": "to be right, to be correct; to fit",
-          "note": "맞아요! ('that's right!')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "맞다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "맞아요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "맞습니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "맞았어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 맞아요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "맞아요! 그럼 이건 열쇠예요?",
-          "trans": "That's true! Then are these the keys?"
-        },
-        {
-          "text": "맞아! 미나는 벌써 여기 식구 같아.",
-          "trans": "That's right! You already feel like family here."
-        },
-        {
-          "text": "제 가방이네요! 위쪽 주머니를 열어 볼게요... 맞아요, 제 빨간 리본이에요!",
-          "trans": "It is my bag! Let me open the top pocket... yes, it is my red ribbon!"
-        }
-      ],
-      "related": []
-    },
-    "메아리": {
-      "lemma": "메아리",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "echo",
-      "meanings": [
-        {
-          "en": "echo",
-          "note": "Native Korean word for an echo."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "메아리는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "메아리가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "메아리를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "메아리예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "젖은 나무 덧창이 돌길에서 울리는 메아리를 부드럽게 감싸 주니까요...",
-          "trans": "Because wet wooden shutters softly wrap the echo ringing off the stone lane..."
-        },
-        {
-          "text": "여기에 메아리가 있어요.",
-          "trans": "There is echo here."
-        }
-      ],
-      "related": []
-    },
-    "모든": {
-      "lemma": "모든",
-      "stress": null,
-      "pos": "det",
-      "gloss": "all, every",
-      "meanings": [
-        {
-          "en": "all, every",
-          "note": "Placed directly before a noun without particles."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "오늘 사호실 손님은 일주일 동안 계세요. 모든 게 완벽해야 해요!",
-          "trans": "Today's Room 4 guest is staying for a week. Everything must be perfect!"
-        },
-        {
-          "text": "사장님 말씀은... 모든 손님이 십 점 만점처럼 느끼시길 바란다는 뜻이에요!",
-          "trans": "What the boss means is... we hope every guest feels like ten out of ten here!"
-        },
-        {
-          "text": "맞아요, 미나 씨. 그 파란 가방은 제 거예요. 두 분께 모든 진실을 말씀드릴게요.",
-          "trans": "That's right, Mina. That blue bag is mine. I will tell you both the whole truth."
-        }
-      ],
-      "related": []
-    },
-    "목소리": {
-      "lemma": "목소리",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "voice",
-      "meanings": [
-        {
-          "en": "voice",
-          "note": "Compound of 목 ('throat') + 소리 ('sound')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "목소리는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "목소리가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "목소리를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "목소리예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "목소리가 공손했어요? 젊은 사람이에요, 나이 든 사람이에요?",
-          "trans": "Was his voice polite? Young person or older person?"
-        },
-        {
-          "text": "조용하고 공손했어요. 서른다섯 살쯤이요. 화난 게 아니라 긴장한 목소리였어요.",
-          "trans": "Quiet and polite. Around thirty-five. His voice sounded nervous, not angry."
-        },
-        {
-          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
-          "trans": "The older brother was bold and loud. He always played his scales in a rush."
-        }
-      ],
-      "related": []
-    },
-    "물어보다": {
-      "lemma": "물어보다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to ask, to inquire",
-      "meanings": [
-        {
-          "en": "to ask, to inquire",
-          "note": "Compound of 묻다 ('ask', ㄷ-irregular) + 보다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "물어보다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "물어봐요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "물어봅니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "물어봤어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 물어봐요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "성함을 물어보세요! 종이에 적으세요!",
-          "trans": "Ask for his name! Write it down on paper!"
-        },
-        {
-          "text": "전화기 이리 주세요. 제가 제대로 물어볼게요!",
-          "trans": "Hand the phone over here. Let me ask him properly!"
-        },
-        {
-          "text": "사실 욕실 수도꼭지 물이 왜 이렇게 찬지 물어보려고 내려왔어요.",
-          "trans": "Actually, I came down to ask why the bathroom tap water felt so cold."
-        }
-      ],
-      "related": []
-    },
-    "미나": {
-      "lemma": "미나",
-      "stress": null,
-      "pos": "name",
-      "gloss": "Mina",
-      "meanings": [
-        {
-          "en": "Mina",
-          "note": "Front-desk trainee and later manager at Sunshine House."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "아, 열려요! 감사합니다. 저는 새 직원 미나예요.",
-          "trans": "Oh, it opens! Thank you. I am Mina, the new staff member."
-        },
-        {
-          "text": "안녕! 네가 미나구나. 나는 주방에서 일하는 소라야.",
-          "trans": "Hello! You must be Mina. I am Sora from the kitchen."
-        },
-        {
-          "text": "맞아! 미나는 벌써 여기 식구 같아.",
-          "trans": "That's right! You already feel like family here."
-        }
-      ],
-      "related": []
-    },
-    "밤": {
-      "lemma": "밤",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "night; chestnut",
-      "meanings": [
-        {
-          "en": "night; chestnut",
-          "note": "Native Korean word for night."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "밤은"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "밤이"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "밤을"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "밤이에요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "덕분에 오늘 밤에는 푹 잘 수 있겠어요.",
-          "trans": "Thanks to you, I think I will sleep soundly tonight."
-        },
-        {
-          "text": "밤 아홉 시에요? 여기 계세요, 같이 문을 열어요.",
-          "trans": "At nine at night? Stay here, let's open the door together."
-        },
-        {
-          "text": "준호 씨... 미나 씨... 제발 오늘 밤 육호실이 비어 있다고 말해 주세요.",
-          "trans": "Junho... Mina... please tell me Room 6 is empty tonight."
-        }
-      ],
-      "related": []
-    },
-    "방": {
-      "lemma": "방",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "room",
-      "meanings": [
-        {
-          "en": "room",
-          "note": "Sino-Korean 房."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "방은"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "방이"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "방을"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "방이에요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "종이는 비가 와도 방 목록을 안 잃어버려요.",
-          "trans": "Paper does not lose the room list even when it rains."
-        },
-        {
-          "text": "네, 방 여덟 개에 황동 열쇠 여덟 개예요. 오늘 사호실 손님이 와요.",
-          "trans": "Yes, eight rooms and eight brass keys. Today the Room 4 guest arrives."
-        },
-        {
-          "text": "진정하세요, 사장님. 방도 깨끗하고 수건도 새것이에요.",
-          "trans": "Calm down, boss. The room is clean and the towels are fresh."
-        }
-      ],
-      "related": [
-        {
-          "word": "다락방",
-          "gloss": "attic room, loft"
-        }
-      ]
-    },
-    "번째": {
-      "lemma": "번째",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "ordinal suffix (-th)",
-      "meanings": [
-        {
-          "en": "ordinal suffix (-th)",
-          "note": "Turns native numbers into ordinals ('두 번째', '아홉 번째')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "번째는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "번째가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "번째를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "번째예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "첫 번째 규칙이에요. 따뜻한 차를 먼저 마시세요. 그다음에 종을 받으세요.",
-          "trans": "Rule number one. Drink warm tea first. After that, answer the bell."
-        },
-        {
-          "text": "좁은 골목 말고 꽃집 옆에 있는 두 번째 길로 가세요.",
-          "trans": "Not the narrow alley—take the second street beside the flower shop."
-        },
-        {
-          "text": "아주 조용한 아이였어요! 세 번째 계단에 앉아서 음 하나하나를 다 귀 기울여 들었죠.",
-          "trans": "He was a very quiet child! Sitting on the third step, he listened closely to every single note."
-        }
-      ],
-      "related": []
-    },
-    "보다": {
-      "lemma": "보다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to see, to look at; auxiliary 'try'",
-      "meanings": [
-        {
-          "en": "to see, to look at; auxiliary 'try'",
-          "note": "After -아/어 ('열어 보세요'), gently means 'try doing'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "보다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "봐요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "봅니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "봤어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 봐요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "갓 구운 모닝빵이야! 따뜻할 때 하나 먹어 봐.",
-          "trans": "Freshly baked morning rolls! Try one while it is warm."
-        },
-        {
-          "text": "예약 장부를 봐야 하는데 제 안경을 못 찾겠어요!",
-          "trans": "I need to read the reservation ledger, and I cannot find my glasses!"
-        },
-        {
-          "text": "사장님, 책상 뒤에 있는 거울을 보세요.",
-          "trans": "Boss, look in the mirror behind the desk."
-        }
-      ],
-      "related": []
-    },
-    "부드럽다": {
-      "lemma": "부드럽다",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "to be soft, smooth, gentle",
-      "meanings": [
-        {
-          "en": "to be soft, smooth, gentle",
-          "note": "ㅂ-irregular: 부드러워요, 부드러운."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "부드럽다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "부드러워요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "부드럽습니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "부드러웠어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 부드러워요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "그리고 이거 보세요. 한 번도 안 입은 깨끗하고 부드러운 울 가디건이에요. 입어 보세요.",
-          "trans": "And look at this. It is a clean, soft wool cardigan never worn once. Try it on."
-        },
-        {
-          "text": "젖은 나무 덧창이 돌길에서 울리는 메아리를 부드럽게 감싸 주니까요...",
-          "trans": "Because wet wooden shutters softly wrap the echo ringing off the stone lane..."
-        }
-      ],
-      "related": []
-    },
-    "분": {
-      "lemma": "분",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "minute (counter); person (honorific counter)",
-      "meanings": [
-        {
-          "en": "minute (counter); person (honorific counter)",
-          "note": "Sino-Korean 分 ('minute') or native honorific counter 'person'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "분은"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "분이"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "분을"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "분이에요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "저는 준호예요. 십 분이나 일찍 왔네요.",
-          "trans": "I am Junho. You arrived ten minutes early."
-        },
-        {
-          "text": "두 분 다 정말 고마워요.",
-          "trans": "Thank you both very much."
-        },
-        {
-          "text": "잠깐만요, 그 길은 바로 우리 동네예요! 걸어서 오 분 거리예요!",
-          "trans": "Wait—that street is right here in our neighbourhood! Five minutes on foot!"
-        }
-      ],
-      "related": []
-    },
-    "비": {
-      "lemma": "비",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "rain",
-      "meanings": [
-        {
-          "en": "rain",
-          "note": "Pairs with 오다 ('비가 와요', 'it rains')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "비는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "비가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "비를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "비예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "종이는 비가 와도 방 목록을 안 잃어버려요.",
-          "trans": "Paper does not lose the room list even when it rains."
-        },
-        {
-          "text": "밖에는 비가 오고 우리 골목 호텔도 다 찼어요! 이제 어떻게 하죠?",
-          "trans": "Outside it is raining and every hotel in our alley is full! What do we do now?"
-        },
-        {
-          "text": "어서 오세요! 비가 많이 오는데 안으로 들어오세요, 손님.",
-          "trans": "Welcome! It is raining hard—please come inside, sir."
-        }
-      ],
-      "related": []
-    },
-    "살다": {
-      "lemma": "살다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to live, to reside",
-      "meanings": [
-        {
-          "en": "to live, to reside",
-          "note": "ㄹ-stem verb: 살아요, 삽니다, 사세요; 살았다! ('saved!')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "살다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "살아요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "삽니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "살았어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 살아요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "휴, 다행이다! 언니의 빠른 생각 덕분에 또 살았네.",
-          "trans": "Phew, what a relief! Quick thinking from you saved breakfast again."
-        },
-        {
-          "text": "미나 씨는 호텔 일에 재능이 있어요! 제 혈압이 살았네요!",
-          "trans": "Mina, you have a talent for hospitality! My blood pressure is saved!"
-        },
-        {
-          "text": "두 개 다 사세요! 여분 밸브가 있으면 내년 겨울도 안심이에요.",
-          "trans": "Buy both! With a spare valve, next winter is worry-free too."
-        }
-      ],
-      "related": []
-    },
-    "서다": {
-      "lemma": "서다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to stand, to come to a stop",
-      "meanings": [
-        {
-          "en": "to stand, to come to a stop",
-          "note": "택시가 섰어요 ('a taxi stopped')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "서다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "서요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "섭니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "섰어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 서요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "아주 잘 들려요. 작은 돌 분수대 옆에 서 있어요?",
-          "trans": "Loud and clear. Are you standing beside the little stone fountain?"
-        },
-        {
-          "text": "지훈 님! 거기 서 계셨어요?!",
-          "trans": "Mr Jihoon! Were you standing right there?!"
-        },
-        {
-          "text": "철대문 바로 앞에 노란 택시가 섰어요!",
-          "trans": "A yellow taxi just stopped right in front of the iron gate!"
-        }
-      ],
-      "related": []
-    },
-    "선생님": {
-      "lemma": "선생님",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "teacher; sir / ma'am (respectful title)",
-      "meanings": [
-        {
-          "en": "teacher; sir / ma'am (respectful title)",
-          "note": "Sino-Korean 先生 + honorific -님."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "선생님은"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "선생님이"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "선생님을"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "선생님이에요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "영미 선생님, 괜찮으세요? 벨을 누르셨어요!",
-          "trans": "Miss Youngmi, is everything alright? You rang the buzzer!"
-        },
-        {
-          "text": "잠깐만요, 선생님 가방처럼 똑같은 남색인데요!",
-          "trans": "Wait a moment—it is dark blue, identical to yours!"
-        },
-        {
-          "text": "선생님, 우선 앉으세요. 걱정하지 마세요, 지금 바로 이름표를 확인할게요.",
-          "trans": "Ma'am, please have a seat first. Don't worry, I will check the luggage tag right now."
-        }
-      ],
-      "related": []
-    },
-    "세": {
-      "lemma": "세",
-      "stress": null,
-      "pos": "num",
-      "gloss": "three",
-      "meanings": [
-        {
-          "en": "three",
-          "note": "Native Korean pre-noun form of 셋 before counters."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "없어요, 볼펜하고 오래된 영수증 세 장뿐이에요!",
-          "trans": "No, only a ballpoint pen and three old receipts!"
-        },
-        {
-          "text": "우유 세 병, 계란 스무 개, 버터, 치즈, 그리고 빨간 사과!",
-          "trans": "Three bottles of milk, twenty eggs, butter, cheese, and red apples!"
-        },
-        {
-          "text": "작은 상자 세 개뿐이에요! 많아 봐야 네 개예요!",
-          "trans": "Only three small boxes! Four at most!"
-        }
-      ],
-      "related": []
-    },
-    "세상": {
-      "lemma": "세상",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "world; my goodness! (in 세상에)",
-      "meanings": [
-        {
-          "en": "world; my goodness! (in 세상에)",
-          "note": "With -에 ('세상에!') means 'oh my goodness!'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "세상은"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "세상이"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "세상을"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "세상이에요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "제가 들어 드릴게요. 세상에, 안에 돌을 넣으셨어요?",
-          "trans": "Let me carry it for you. Goodness, did you pack stones inside?"
-        },
-        {
-          "text": "세상에! 다행히 식탁에는 한 방울도 안 묻었는데... 제 넥타이에 다 쏟았네요!",
-          "trans": "Good heavens! Thankfully not a drop got on the table... instead I spilled it all on my tie!"
-        },
-        {
-          "text": "세상에... 눈빛 좀 봐! 세 번째 계단에 앉아 있던 꼬마 지훈이니?!",
-          "trans": "Good heavens... look at your eyes! Are you little Jihoon who sat on the third step?!"
-        }
-      ],
-      "related": []
-    },
-    "소리": {
-      "lemma": "소리",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "sound, noise",
-      "meanings": [
-        {
-          "en": "sound, noise",
-          "note": "Native Korean noun."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "소리는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "소리가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "소리를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "소리예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "아무도 없어요. 그건 사호실 초인종 소리예요.",
-          "trans": "Nobody is there. That is the buzzer from Room 4."
-        },
-        {
-          "text": "잠깐 들어 보세요... 길에서 차 소리가 하나도 안 들려요.",
-          "trans": "Listen for a moment... not a single car sound can be heard from the street."
-        },
-        {
-          "text": "얼른 덮어요! 위층에 가져다드릴게요... 어, 방금 저 큰 쇠 소리는 뭐예요?",
-          "trans": "Close it quickly! Let me take it upstairs... wait, what was that loud metal sound just now?"
-        }
-      ],
-      "related": []
-    },
-    "씨": {
-      "lemma": "씨",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "Mr / Ms (polite name suffix)",
-      "meanings": [
-        {
-          "en": "Mr / Ms (polite name suffix)",
-          "note": "Follows a full name or given name between adults ('준호 씨')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "씨는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "씨가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "씨를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "씨예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "반가워요, 소라 씨! 맛있는 냄새가 나요!",
-          "trans": "Nice to meet you, Sora! Something smells delicious!"
-        },
-        {
-          "text": "소라 씨는 우리 골목 사람들하고 다 친구처럼 이야기해요.",
-          "trans": "Sora talks like an old friend with everyone in our alley."
-        },
-        {
-          "text": "좋은 아침입니다, 여러분! 환영해요, 미나 씨. 준비 다 됐어요?",
-          "trans": "Good morning, everyone! Welcome, Mina. Is everything ready?"
-        }
-      ],
-      "related": []
-    },
-    "씩씩하다": {
-      "lemma": "씩씩하다",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "to be spirited, cheerful and brisk",
-      "meanings": [
-        {
-          "en": "to be spirited, cheerful and brisk",
-          "note": "Pronounced [씩씨카다]."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "씩씩하다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "씩씩해요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "씩씩합니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "씩씩했어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 씩씩해요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
-          "trans": "The older brother was bold and loud. He always played his scales in a rush."
-        },
-        {
-          "text": "오늘 정말 씩씩해요.",
-          "trans": "Today it is really spirited."
-        }
-      ],
-      "related": []
-    },
-    "아이": {
-      "lemma": "아이",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "child",
-      "meanings": [
-        {
-          "en": "child",
-          "note": "Native Korean word for a child."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "아이는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "아이가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "아이를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "아이예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "아주 조용한 아이였어요! 세 번째 계단에 앉아서 음 하나하나를 다 귀 기울여 들었죠.",
-          "trans": "He was a very quiet child! Sitting on the third step, he listened closely to every single note."
-        },
-        {
-          "text": "여기에 아이가 있어요.",
-          "trans": "There is child here."
-        }
-      ],
-      "related": []
-    },
-    "아주": {
-      "lemma": "아주",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "very, quite",
-      "meanings": [
-        {
-          "en": "very, quite",
-          "note": "Everyday intensifier."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "조용하고 좋았어요, 고마워요. 그런데 오늘 이 가방이 아주 무겁네요.",
-          "trans": "It was quiet and pleasant, thank you. Though today this bag feels very heavy."
-        },
-        {
-          "text": "오래된 나무 바로 위, 안마당 쪽이에요. 아주 조용해요.",
-          "trans": "It faces the courtyard, right above the old tree. It is very quiet."
-        },
-        {
-          "text": "어쩐지 아주 무거웠어요. 나무하고 가죽이잖아요!",
-          "trans": "No wonder it was so heavy. It is wood and leather, after all!"
-        }
-      ],
-      "related": []
-    },
-    "안": {
-      "lemma": "안",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "inside, interior",
-      "meanings": [
-        {
-          "en": "not (short everyday negator)",
-          "note": "Placed directly before a verb or adjective: 안 가요 ('do not go')."
-        },
-        {
-          "en": "inside, interior",
-          "note": "Used as a spatial noun with particles: 방 안에 ('inside the room')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "안은"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "안이"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "안을"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "안이에요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "서랍 안에 있어요. 여기서는 큰 종이 장부하고 연필을 써요.",
-          "trans": "It is inside the drawer. Here we use a big paper ledger and a pencil."
-        },
-        {
-          "text": "종이는 비가 와도 방 목록을 안 잃어버려요.",
-          "trans": "Paper does not lose the room list even when it rains."
-        },
-        {
-          "text": "코트 주머니 안에 없어요?",
-          "trans": "Are they not inside your coat pocket?"
-        }
-      ],
-      "related": [
-        {
-          "word": "밖",
-          "gloss": "outside, exterior"
-        }
-      ]
-    },
-    "안녕히": {
-      "lemma": "안녕히",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "peacefully, safely",
-      "meanings": [
-        {
-          "en": "peacefully, safely",
-          "note": "Used in 안녕히 가세요 and 안녕히 계세요."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "안녕히 주무세요, 미나 씨. 내일 아침 식사 때 봬요.",
-          "trans": "Good night, Mina. See you tomorrow at breakfast."
-        },
-        {
-          "text": "안녕히, 정말 좋아요!",
-          "trans": "Peacefully—that is really nice!"
-        }
-      ],
-      "related": []
-    },
-    "앉다": {
-      "lemma": "앉다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to sit down",
-      "meanings": [
-        {
-          "en": "to sit down",
-          "note": "Pronounced [안따 / 안자요]."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "앉다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "앉아요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "앉습니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "앉았어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 앉아요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "선생님, 우선 앉으세요. 걱정하지 마세요, 지금 바로 이름표를 확인할게요.",
-          "trans": "Ma'am, please have a seat first. Don't worry, I will check the luggage tag right now."
-        },
-        {
-          "text": "미나야, 여기 앉아! 오늘 아침에 동네를 다 뛰었잖아, 커피 마셔.",
-          "trans": "Mina, sit here! You ran all over the neighbourhood this morning—drink some coffee."
-        },
-        {
-          "text": "오래된 집은 화요일마다 나사가 하나씩 풀려요. 이제 앉으세요.",
-          "trans": "In old houses one screw loosens every Tuesday. Now sit down."
-        }
-      ],
-      "related": []
-    },
-    "연주": {
-      "lemma": "연주",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "musical performance",
-      "meanings": [
-        {
-          "en": "musical performance",
-          "note": "Sino-Korean 演奏."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "연주는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "연주가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "연주를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "연주예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "연주가 끝날 때마다 비 오는 날에는 왜 피아노 소리가 더 따뜻하냐고 물어봤어요.",
-          "trans": "Whenever a piece ended, he asked why the piano sound felt warmer on rainy days."
-        },
-        {
-          "text": "여기에 연주가 있어요.",
-          "trans": "There is musical performance here."
-        }
-      ],
-      "related": []
-    },
-    "영미": {
-      "lemma": "영미",
-      "stress": null,
-      "pos": "name",
-      "gloss": "Youngmi",
-      "meanings": [
-        {
-          "en": "Youngmi",
-          "note": "Retired piano teacher staying in Room 6."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "안녕하세요, 아가씨. 영미 이름으로 방을 예약했어요.",
-          "trans": "Good morning, miss. I booked a room under the name Youngmi."
-        },
-        {
-          "text": "영미 선생님, 괜찮으세요? 벨을 누르셨어요!",
-          "trans": "Miss Youngmi, is everything alright? You rang the buzzer!"
-        },
-        {
-          "text": "또 남색 가방이에요! 이게 영미 선생님 가방이에요?",
-          "trans": "Another dark-blue bag! Is this Miss Youngmi's bag?"
-        }
-      ],
-      "related": []
-    },
-    "오다": {
-      "lemma": "오다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to come",
-      "meanings": [
-        {
-          "en": "to come",
-          "note": "Core directional verb; 비가 오다 means 'to rain'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "오다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "와요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "옵니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "왔어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 와요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "저는 준호예요. 십 분이나 일찍 왔네요.",
-          "trans": "I am Junho. You arrived ten minutes early."
-        },
-        {
-          "text": "종이는 비가 와도 방 목록을 안 잃어버려요.",
-          "trans": "Paper does not lose the room list even when it rains."
-        },
-        {
-          "text": "네, 방 여덟 개에 황동 열쇠 여덟 개예요. 오늘 사호실 손님이 와요.",
-          "trans": "Yes, eight rooms and eight brass keys. Today the Room 4 guest arrives."
-        }
-      ],
-      "related": [
-        {
-          "word": "가다",
-          "gloss": "to go"
-        }
-      ]
-    },
-    "왜": {
-      "lemma": "왜",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "why",
-      "meanings": [
-        {
-          "en": "why",
-          "note": "Asks for a reason."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "거울에 왜 내 안경이... 어! 내 머리 위에 있네요!",
-          "trans": "Why would my glasses be in the mirror... oh! They are on my head!"
-        },
-        {
-          "text": "왜 자기 가방은 안 가져가고 그냥 도망갔을까요?",
-          "trans": "Why did the person run away without taking their own bag?"
-        },
-        {
-          "text": "왜 모르는 사람들한테 금요일까지 구두하고 나무 기차를 맡길까요?",
-          "trans": "Why leave shoes and a wooden train with strangers until Friday?"
-        }
-      ],
-      "related": []
-    },
-    "우리": {
-      "lemma": "우리",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "we, us, our",
-      "meanings": [
-        {
-          "en": "we, us, our",
-          "note": "Used in Korean for 'my/our' with family, home, and shared places."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "고마워요! 여기서 우리는 이름을 편하게 불러요?",
-          "trans": "Thank you! Do we call each other comfortably by name here?"
-        },
-        {
-          "text": "소라 씨는 우리 골목 사람들하고 다 친구처럼 이야기해요.",
-          "trans": "Sora talks like an old friend with everyone in our alley."
-        },
-        {
-          "text": "잠깐만요, 그 길은 바로 우리 동네예요! 걸어서 오 분 거리예요!",
-          "trans": "Wait—that street is right here in our neighbourhood! Five minutes on foot!"
-        }
-      ],
-      "related": []
-    },
     "울리다": {
       "lemma": "울리다",
       "stress": null,
@@ -7922,15 +7518,15 @@
       ],
       "related": []
     },
-    "월요일": {
-      "lemma": "월요일",
+    "메아리": {
+      "lemma": "메아리",
       "stress": null,
       "pos": "noun",
-      "gloss": "Monday",
+      "gloss": "echo",
       "meanings": [
         {
-          "en": "Monday",
-          "note": "Sino-Korean 月曜日."
+          "en": "echo",
+          "note": "Native Korean word for an echo."
         }
       ],
       "forms": {
@@ -7943,415 +7539,25 @@
           {
             "cells": [
               "with topic",
-              "월요일은"
+              "메아리는"
             ]
           },
           {
             "cells": [
               "with subject",
-              "월요일이"
+              "메아리가"
             ]
           },
           {
             "cells": [
               "with object",
-              "월요일을"
+              "메아리를"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "월요일이에요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "어머, 저게 월요일 기차에서 바뀐 쌍둥이 가방이에요?",
-          "trans": "Oh my, is that the twin bag swapped on Monday's train?"
-        },
-        {
-          "text": "그러세요, 선생님. 월요일 오후에는 로비가 어두웠으니까요.",
-          "trans": "Go right ahead, ma'am. On Monday afternoon the lobby was dark, after all."
-        },
-        {
-          "text": "잠깐만요, 그럼 월요일 밤 현관 계단에 있던... 두 번째 파란 가방이...",
-          "trans": "Wait—then Monday night on our front step... the second blue suitcase..."
-        }
-      ],
-      "related": [
-        {
-          "word": "금요일",
-          "gloss": "Friday"
-        }
-      ]
-    },
-    "은행길": {
-      "lemma": "은행길",
-      "stress": null,
-      "pos": "name",
-      "gloss": "Eunhaeng Lane",
-      "meanings": [
-        {
-          "en": "Eunhaeng Lane",
-          "note": "Tree-lined lane ('Ginkgo Street') in Seoul."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "잠깐만요... 은행길 십이 번지! 게다가 모서리에 어릴 때 새긴 글자 두 개가 있어요!",
-          "trans": "Wait a moment... Number 12 Eunhaeng Lane! And on the corner are two initials carved in childhood!"
-        },
-        {
-          "text": "영미 선생님, 깜짝 놀라셨어요! 은행길 십이 번지를 아세요?",
-          "trans": "Miss Youngmi, you look amazed! Do you know Number 12 Eunhaeng Lane?"
-        },
-        {
-          "text": "영미 선생님, 은행길에 살던 두 형제 이야기를 더 들려주세요!",
-          "trans": "Miss Youngmi, please tell me more about the two brothers who lived on Eunhaeng Lane!"
-        }
-      ],
-      "related": []
-    },
-    "음": {
-      "lemma": "음",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "musical note; hmm",
-      "meanings": [
-        {
-          "en": "musical note; hmm",
-          "note": "Musical tone/note or thoughtful pause."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "음은"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "음이"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "음을"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "음이에요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "음, 침대하고 탁자하고 의자는 있는데 침대 옆 스탠드가 없어요.",
-          "trans": "Let's see: there are a bed, a table, and a chair, yet no bedside lamp."
-        },
-        {
-          "text": "아주 조용한 아이였어요! 세 번째 계단에 앉아서 음 하나하나를 다 귀 기울여 들었죠.",
-          "trans": "He was a very quiet child! Sitting on the third step, he listened closely to every single note."
-        },
-        {
-          "text": "그럼요! 매주 금요일에 피아노 음을 틀릴 때마다 벽을 보고 얼굴을 찌푸렸죠.",
-          "trans": "Of course! Every Friday whenever he missed a piano note, he stared at the wall and frowned."
-        }
-      ],
-      "related": []
-    },
-    "음계": {
-      "lemma": "음계",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "musical scale",
-      "meanings": [
-        {
-          "en": "musical scale",
-          "note": "Sino-Korean 音階."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "음계는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "음계가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "음계를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "음계예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
-          "trans": "The older brother was bold and loud. He always played his scales in a rush."
-        },
-        {
-          "text": "민수가 바장조 음계를 천천히 치기를 아직도 기다리고 있단다!",
-          "trans": "I am still waiting for Minsu to play that scale slowly!"
-        }
-      ],
-      "related": []
-    },
-    "이야기": {
-      "lemma": "이야기",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "story, talk, conversation",
-      "meanings": [
-        {
-          "en": "story, talk, conversation",
-          "note": "Native Korean noun."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "이야기는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "이야기가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "이야기를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "이야기예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "나무 장난감 기차 때문에 긴장한다고요? 갈수록 이상한 이야기네요.",
-          "trans": "Nervous over a wooden toy train? This story gets stranger as it goes."
-        },
-        {
-          "text": "영미 선생님, 은행길에 살던 두 형제 이야기를 더 들려주세요!",
-          "trans": "Miss Youngmi, please tell me more about the two brothers who lived on Eunhaeng Lane!"
-        },
-        {
-          "text": "미나야, 마룻바닥 다 닳기 전에 얼른 올라가서 이야기 좀 해 봐!",
-          "trans": "Mina, hurry up and talk with him before he wears out the floorboards!"
-        }
-      ],
-      "related": [
-        {
-          "word": "이야기하다",
-          "gloss": "to talk, to chat"
-        }
-      ]
-    },
-    "있다": {
-      "lemma": "있다",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "to exist, to be (at a place); to have",
-      "meanings": [
-        {
-          "en": "to exist, to be (at a place); to have",
-          "note": "Expresses location with 에 or possession ('have'); opposite of 없다."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "있다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "있어요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "있습니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "있었어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "없어요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "첫날에는 항상 빨리 걸어요. 컴퓨터는 어디에 있어요?",
-          "trans": "On my first day I always walk fast. Where is the computer?"
-        },
-        {
-          "text": "서랍 안에 있어요. 여기서는 큰 종이 장부하고 연필을 써요.",
-          "trans": "It is inside the drawer. Here we use a big paper ledger and a pencil."
-        },
-        {
-          "text": "맛있는 커피하고 따뜻한 빵이 있으면 다 친해지거든!",
-          "trans": "Because good coffee and warm bread make everyone friendly!"
-        }
-      ],
-      "related": [
-        {
-          "word": "없다",
-          "gloss": "not to exist, to have no"
-        },
-        {
-          "word": "계시다",
-          "gloss": "to be, to stay (honorific)"
-        }
-      ]
-    },
-    "잠깐": {
-      "lemma": "잠깐",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "for a moment, briefly",
-      "meanings": [
-        {
-          "en": "for a moment, briefly",
-          "note": "Short pause ('wait a second')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "잠깐만요, 선생님 가방처럼 똑같은 남색인데요!",
-          "trans": "Wait a moment—it is dark blue, identical to yours!"
-        },
-        {
-          "text": "잠깐만요, 그 길은 바로 우리 동네예요! 걸어서 오 분 거리예요!",
-          "trans": "Wait—that street is right here in our neighbourhood! Five minutes on foot!"
-        },
-        {
-          "text": "잠깐만요. 아래 돌계단을 보세요.",
-          "trans": "Wait a second. Look down at the stone step."
-        }
-      ],
-      "related": []
-    },
-    "젖다": {
-      "lemma": "젖다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to get wet, to become soaked",
-      "meanings": [
-        {
-          "en": "to get wet, to become soaked",
-          "note": "젖은 우산 ('wet umbrella')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "젖다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "젖어요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "젖습니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "젖었어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 젖어요"
+              "메아리예요"
             ]
           }
         ]
@@ -8363,50 +7569,21 @@
           "trans": "Because wet wooden shutters softly wrap the echo ringing off the stone lane..."
         },
         {
-          "text": "지금 같이 젖어요.",
-          "trans": "Now we get wet together."
+          "text": "여기에 메아리가 있어요.",
+          "trans": "There is echo here."
         }
       ],
       "related": []
     },
-    "제": {
-      "lemma": "제",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "my (humble)",
-      "meanings": [
-        {
-          "en": "my (humble)",
-          "note": "Contraction of 저의 ('my') in polite speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "예약 장부를 봐야 하는데 제 안경을 못 찾겠어요!",
-          "trans": "I need to read the reservation ledger, and I cannot find my glasses!"
-        },
-        {
-          "text": "이 가방 안을 보세요, 미나 씨! 이건 제 가방이 아니에요!",
-          "trans": "Look inside this suitcase, Mina! This is not my bag!"
-        },
-        {
-          "text": "기차역에서 누가 실수로 제 파란 가방을 가져갔나 봐요!",
-          "trans": "Someone at the train station must have taken my blue bag by mistake!"
-        }
-      ],
-      "related": []
-    },
-    "조용하다": {
-      "lemma": "조용하다",
+    "부드럽다": {
+      "lemma": "부드럽다",
       "stress": null,
       "pos": "adj",
-      "gloss": "to be quiet, peaceful",
+      "gloss": "to be soft, smooth, gentle",
       "meanings": [
         {
-          "en": "to be quiet, peaceful",
-          "note": "조용해요, 조용한."
+          "en": "to be soft, smooth, gentle",
+          "note": "ㅂ-irregular: 부드러워요, 부드러운."
         }
       ],
       "forms": {
@@ -8419,31 +7596,31 @@
           {
             "cells": [
               "dictionary",
-              "조용하다"
+              "부드럽다"
             ]
           },
           {
             "cells": [
               "polite",
-              "조용해요"
+              "부드러워요"
             ]
           },
           {
             "cells": [
               "formal",
-              "조용합니다"
+              "부드럽습니다"
             ]
           },
           {
             "cells": [
               "past",
-              "조용했어요"
+              "부드러웠어요"
             ]
           },
           {
             "cells": [
               "negative",
-              "안 조용해요"
+              "안 부드러워요"
             ]
           }
         ]
@@ -8451,45 +7628,75 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "조용하고 좋았어요, 고마워요. 그런데 오늘 이 가방이 아주 무겁네요.",
-          "trans": "It was quiet and pleasant, thank you. Though today this bag feels very heavy."
+          "text": "그리고 이거 보세요. 한 번도 안 입은 깨끗하고 부드러운 울 가디건이에요. 입어 보세요.",
+          "trans": "And look at this. It is a clean, soft wool cardigan never worn once. Try it on."
         },
         {
-          "text": "오래된 나무 바로 위, 안마당 쪽이에요. 아주 조용해요.",
-          "trans": "It faces the courtyard, right above the old tree. It is very quiet."
-        },
-        {
-          "text": "조용하고 공손했어요. 서른다섯 살쯤이요. 화난 게 아니라 긴장한 목소리였어요.",
-          "trans": "Quiet and polite. Around thirty-five. His voice sounded nervous, not angry."
+          "text": "젖은 나무 덧창이 돌길에서 울리는 메아리를 부드럽게 감싸 주니까요...",
+          "trans": "Because wet wooden shutters softly wrap the echo ringing off the stone lane..."
         }
       ],
       "related": []
     },
-    "좀": {
-      "lemma": "좀",
+    "감싸다": {
+      "lemma": "감싸다",
       "stress": null,
-      "pos": "adv",
-      "gloss": "a bit, please (softener)",
+      "pos": "verb",
+      "gloss": "to wrap around, to swaddle",
       "meanings": [
         {
-          "en": "a bit, please (softener)",
-          "note": "Contraction of 조금; softens requests warmly."
+          "en": "to wrap around, to swaddle",
+          "note": "Wrapping a teacup safely in a sweater."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "감싸다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "감싸요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "감쌉니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "감쌌어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 감싸요"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
-          "text": "우유 배달 트럭이 시내 밖에서 타이어가 터졌대요. 냉장고 좀 보세요!",
-          "trans": "They say the milk delivery truck blew a tyre outside town. Look inside the fridge!"
+          "text": "젖은 나무 덧창이 돌길에서 울리는 메아리를 부드럽게 감싸 주니까요...",
+          "trans": "Because wet wooden shutters softly wrap the echo ringing off the stone lane..."
         },
         {
-          "text": "향기 좀 맡아 봐! 따뜻한 빵하고 뜨거운 계란하고 싱싱한 허브야.",
-          "trans": "Smell that aroma! Warm bread, hot eggs, and fresh herbs."
-        },
-        {
-          "text": "저 말 좀 들어 봐! 사실은 준호 씨가 우리보다 두 배나 더 궁금해해요!",
-          "trans": "Listen to him talk! In truth, Junho is twice as curious as we are!"
+          "text": "지금 같이 감싸요.",
+          "trans": "Now we wrap around together."
         }
       ],
       "related": []
@@ -8599,15 +7806,15 @@
       ],
       "related": []
     },
-    "진실": {
-      "lemma": "진실",
+    "님": {
+      "lemma": "님",
       "stress": null,
       "pos": "noun",
-      "gloss": "truth",
+      "gloss": "Mr / Ms (polite honorific)",
       "meanings": [
         {
-          "en": "truth",
-          "note": "Sino-Korean 眞實."
+          "en": "Mr / Ms; esteemed (polite honorific bound noun)",
+          "note": "Placed after a person's name (지훈 님) or title (사장님, 손님) to show polite respect."
         }
       ],
       "forms": {
@@ -8620,25 +7827,25 @@
           {
             "cells": [
               "with topic",
-              "진실은"
+              "님은"
             ]
           },
           {
             "cells": [
               "with subject",
-              "진실이"
+              "님이"
             ]
           },
           {
             "cells": [
               "with object",
-              "진실을"
+              "님을"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "진실이에요"
+              "님이에요"
             ]
           }
         ]
@@ -8646,154 +7853,771 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "맞아요, 미나 씨. 그 파란 가방은 제 거예요. 두 분께 모든 진실을 말씀드릴게요.",
-          "trans": "That's right, Mina. That blue bag is mine. I will tell you both the whole truth."
+          "text": "사장님, 지훈 님이 연필로 가리키는 곳을 보세요!",
+          "trans": "Boss, look where Mr Jihoon is pointing with his pencil!"
         },
         {
-          "text": "여기에 진실이 있어요.",
-          "trans": "There is truth here."
-        }
-      ],
-      "related": []
-    },
-    "치다": {
-      "lemma": "치다",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to play (piano); to strike",
-      "meanings": [
-        {
-          "en": "to play (piano); to strike",
-          "note": "피아노를 치다 ('play the piano')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "치다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "쳐요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "칩니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "쳤어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 쳐요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "목수 할아버지가 손자 둘하고 사셨어요. 형은 피아노를 쳤고 동생은 기차를 좋아했어요!",
-          "trans": "A grandfather carpenter lived there with his two grandsons. The older brother played piano and the younger sibling loved trains!"
-        },
-        {
-          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
-          "trans": "The older brother was bold and loud. He always played his scales in a rush."
-        },
-        {
-          "text": "민수가 바장조 음계를 천천히 치기를 아직도 기다리고 있단다!",
-          "trans": "I am still waiting for Minsu to play that scale slowly!"
-        }
-      ],
-      "related": []
-    },
-    "크다": {
-      "lemma": "크다",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "to be big, to be loud, to be tall (with 키)",
-      "meanings": [
-        {
-          "en": "to be big, to be loud, to be tall (with 키)",
-          "note": "ㅡ-drop adjective: 커요, 큽니다, 큰."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "dictionary",
-              "크다"
-            ]
-          },
-          {
-            "cells": [
-              "polite",
-              "커요"
-            ]
-          },
-          {
-            "cells": [
-              "formal",
-              "큽니다"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "컸어요"
-            ]
-          },
-          {
-            "cells": [
-              "negative",
-              "안 커요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "서랍 안에 있어요. 여기서는 큰 종이 장부하고 연필을 써요.",
-          "trans": "It is inside the drawer. Here we use a big paper ledger and a pencil."
-        },
-        {
-          "text": "큰 갈색 남자 구두 두 켤레하고 회색 스웨터가 있네요.",
-          "trans": "There are two pairs of big brown men's dress shoes and grey sweaters."
-        },
-        {
-          "text": "와, 이 방 좀 보세요! 큰 나무 기둥이 있고 안마당이 내려다보이는 창문도 있어요!",
-          "trans": "Wow, look at this room! Big wooden beams and a window looking down on the courtyard!"
+          "text": "만약 지훈 님이 자기 가방을 제대로 가져가셨다면 오늘 밤 우리는 여기 모여 있지 못했을 거예요!",
+          "trans": "If Mr Jihoon had taken his own bag properly, none of us would be gathered here tonight!"
         }
       ],
       "related": [
         {
-          "word": "작다",
-          "gloss": "to be small, to be little"
+          "word": "손님",
+          "gloss": "guest, customer"
+        },
+        {
+          "word": "사장님",
+          "gloss": "boss, owner"
         }
       ]
+    },
+    "거기": {
+      "lemma": "거기",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "there, that place",
+      "meanings": [
+        {
+          "en": "there, that place",
+          "note": "Medial place pronoun ('there near you' or 'that place mentioned')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "거기에 이름이나 전화번호가 있어요?",
+          "trans": "Is there a name or a phone number on it?"
+        },
+        {
+          "text": "계단이 좁고 사장님이 거기에 오래된 전등 상자를 쌓아 두셨거든요.",
+          "trans": "Because the stairs are narrow and the boss stacked old lamp boxes up there."
+        },
+        {
+          "text": "지훈 님! 거기 서 계셨어요?!",
+          "trans": "Mr Jihoon! Were you standing right there?!"
+        }
+      ],
+      "related": []
+    },
+    "서다": {
+      "lemma": "서다",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to stand, to come to a stop",
+      "meanings": [
+        {
+          "en": "to stand, to come to a stop",
+          "note": "택시가 섰어요 ('a taxi stopped')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "서다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "서요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "섭니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "섰어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 서요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "아주 잘 들려요. 작은 돌 분수대 옆에 서 있어요?",
+          "trans": "Loud and clear. Are you standing beside the little stone fountain?"
+        },
+        {
+          "text": "지훈 님! 거기 서 계셨어요?!",
+          "trans": "Mr Jihoon! Were you standing right there?!"
+        },
+        {
+          "text": "철대문 바로 앞에 노란 택시가 섰어요!",
+          "trans": "A yellow taxi just stopped right in front of the iron gate!"
+        }
+      ],
+      "related": []
+    },
+    "계시다": {
+      "lemma": "계시다",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to be, to stay (honorific)",
+      "meanings": [
+        {
+          "en": "to be, to stay (honorific)",
+          "note": "Subject-honorific counterpart of 있다 for guests and elders."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "계시다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "계세요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "계십니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "계셨어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 계세요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "오늘 사호실 손님은 일주일 동안 계세요. 모든 게 완벽해야 해요!",
+          "trans": "Today's Room 4 guest is staying for a week. Everything must be perfect!"
+        },
+        {
+          "text": "서울에 온 첫날 저녁에 슬프게 계시면 안 되죠!",
+          "trans": "You must not sit sad on your very first evening in Seoul!"
+        },
+        {
+          "text": "밤 아홉 시요? 잠깐만요, 대문을 같이 열어요.",
+          "trans": "At nine at night? Wait, let us open the gate together."
+        }
+      ],
+      "related": [
+        {
+          "word": "있다",
+          "gloss": "to exist, to be (at a place)"
+        }
+      ]
+    },
+    "세상": {
+      "lemma": "세상",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "world; my goodness! (in 세상에)",
+      "meanings": [
+        {
+          "en": "world; my goodness! (in 세상에)",
+          "note": "With -에 ('세상에!') means 'oh my goodness!'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "세상은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "세상이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "세상을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "세상이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "제가 들어 드릴게요. 세상에, 안에 돌을 넣으셨어요?",
+          "trans": "Let me carry it for you. Goodness, did you pack stones inside?"
+        },
+        {
+          "text": "세상에! 다행히 식탁에는 한 방울도 안 묻었는데... 제 넥타이에 다 쏟았네요!",
+          "trans": "Good heavens! Thankfully not a drop got on the table... instead I spilled it all on my tie!"
+        },
+        {
+          "text": "세상에... 눈빛 좀 봐! 세 번째 계단에 앉아 있던 꼬마 지훈이니?!",
+          "trans": "Good heavens... look at your eyes! Are you little Jihoon who sat on the third step?!"
+        }
+      ],
+      "related": []
+    },
+    "눈빛": {
+      "lemma": "눈빛",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "look in one's eyes, gaze",
+      "meanings": [
+        {
+          "en": "look in one's eyes, gaze",
+          "note": "Compound of 눈 ('eye') + 빛 ('light')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "눈빛은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "눈빛이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "눈빛을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "눈빛이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "세상에... 눈빛 좀 봐! 세 번째 계단에 앉아 있던 꼬마 지훈이니?!",
+          "trans": "Good heavens... look at your eyes! Are you little Jihoon who sat on the third step?!"
+        },
+        {
+          "text": "여기에 눈빛이 있어요.",
+          "trans": "There is look in one's eyes here."
+        }
+      ],
+      "related": []
+    },
+    "좀": {
+      "lemma": "좀",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "a bit, please (softener)",
+      "meanings": [
+        {
+          "en": "a bit, please (softener)",
+          "note": "Contraction of 조금; softens requests warmly."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "우유 배달 트럭이 시내 밖에서 타이어가 터졌대요. 냉장고 좀 보세요!",
+          "trans": "They say the milk delivery truck blew a tyre outside town. Look inside the fridge!"
+        },
+        {
+          "text": "향기 좀 맡아 봐! 따뜻한 빵하고 뜨거운 계란하고 싱싱한 허브야.",
+          "trans": "Smell that aroma! Warm bread, hot eggs, and fresh herbs."
+        },
+        {
+          "text": "저 말 좀 들어 봐! 사실은 준호 씨가 우리보다 두 배나 더 궁금해해요!",
+          "trans": "Listen to him talk! In truth, Junho is twice as curious as we are!"
+        }
+      ],
+      "related": []
+    },
+    "보다": {
+      "lemma": "보다",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to see, to look at; auxiliary 'try'",
+      "meanings": [
+        {
+          "en": "to see, to look at; auxiliary 'try'",
+          "note": "After -아/어 ('열어 보세요'), gently means 'try doing'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "보다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "봐요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "봅니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "봤어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 봐요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "갓 구운 모닝빵이야! 따뜻할 때 하나 먹어 봐.",
+          "trans": "Freshly baked morning rolls! Try one while it is warm."
+        },
+        {
+          "text": "예약 장부를 봐야 하는데 제 안경을 못 찾겠어요!",
+          "trans": "I need to read the reservation ledger, and I cannot find my glasses!"
+        },
+        {
+          "text": "사장님, 책상 뒤에 있는 거울을 보세요.",
+          "trans": "Boss, look in the mirror behind the desk."
+        }
+      ],
+      "related": []
+    },
+    "꼬마": {
+      "lemma": "꼬마",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "little kid, youngster",
+      "meanings": [
+        {
+          "en": "little kid, youngster",
+          "note": "Affectionate word for a small child."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "꼬마는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "꼬마가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "꼬마를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "꼬마예요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "세상에... 눈빛 좀 봐! 세 번째 계단에 앉아 있던 꼬마 지훈이니?!",
+          "trans": "Good heavens... look at your eyes! Are you little Jihoon who sat on the third step?!"
+        },
+        {
+          "text": "여기에 꼬마가 있어요.",
+          "trans": "There is little kid here."
+        }
+      ],
+      "related": []
+    },
+    "우리": {
+      "lemma": "우리",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "we, us, our",
+      "meanings": [
+        {
+          "en": "we, us, our",
+          "note": "Used in Korean for 'my/our' with family, home, and shared places."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "고마워요! 여기서 우리는 이름을 편하게 불러요?",
+          "trans": "Thank you! Do we call each other comfortably by name here?"
+        },
+        {
+          "text": "소라 씨는 우리 골목 사람들하고 다 친구처럼 이야기해요.",
+          "trans": "Sora talks like an old friend with everyone in our alley."
+        },
+        {
+          "text": "잠깐만요, 그 길은 바로 우리 동네예요! 걸어서 오 분 거리예요!",
+          "trans": "Wait—that street is right here in our neighbourhood! Five minutes on foot!"
+        }
+      ],
+      "related": []
+    },
+    "금요일": {
+      "lemma": "금요일",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "Friday",
+      "meanings": [
+        {
+          "en": "Friday",
+          "note": "Sino-Korean 金曜日."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "금요일은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "금요일이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "금요일을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "금요일이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "제가 읽어 볼게요. '실수해서 죄송합니다. 금요일까지 제 파란 가방을 맡아 주세요.'",
+          "trans": "Let me read it: 'Sorry for the mistake. Please keep my blue bag until Friday.'"
+        },
+        {
+          "text": "금요일까지요? 이름도 없고 서명도 없네요!",
+          "trans": "Until Friday? No name and no signature!"
+        },
+        {
+          "text": "왜 모르는 사람들한테 금요일까지 구두하고 나무 기차를 맡길까요?",
+          "trans": "Why leave shoes and a wooden train with strangers until Friday?"
+        }
+      ],
+      "related": [
+        {
+          "word": "월요일",
+          "gloss": "Monday"
+        }
+      ]
+    },
+    "그럼": {
+      "lemma": "그럼",
+      "stress": null,
+      "pos": "conj",
+      "gloss": "then, in that case; of course",
+      "meanings": [
+        {
+          "en": "then, in that case; of course",
+          "note": "Short for 그러면; with -요 ('그럼요') means 'of course!'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "맞아요! 그럼 이건 열쇠예요?",
+          "trans": "That's true! Then are these the keys?"
+        },
+        {
+          "text": "그럼 이 집이 혼자서 인사하는 거네요?",
+          "trans": "So this house says hello all by itself?"
+        },
+        {
+          "text": "그럼요, 준호 씨! 비밀은 꼭 지켜 드릴게요!",
+          "trans": "Of course, Junho! We will guard your secret well!"
+        }
+      ],
+      "related": []
+    },
+    "월요일": {
+      "lemma": "월요일",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "Monday",
+      "meanings": [
+        {
+          "en": "Monday",
+          "note": "Sino-Korean 月曜日."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "월요일은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "월요일이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "월요일을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "월요일이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "어머, 저게 월요일 기차에서 바뀐 쌍둥이 가방이에요?",
+          "trans": "Oh my, is that the twin bag swapped on Monday's train?"
+        },
+        {
+          "text": "그러세요, 선생님. 월요일 오후에는 로비가 어두웠으니까요.",
+          "trans": "Go right ahead, ma'am. On Monday afternoon the lobby was dark, after all."
+        },
+        {
+          "text": "잠깐만요, 그럼 월요일 밤 현관 계단에 있던... 두 번째 파란 가방이...",
+          "trans": "Wait—then Monday night on our front step... the second blue suitcase..."
+        }
+      ],
+      "related": [
+        {
+          "word": "금요일",
+          "gloss": "Friday"
+        }
+      ]
+    },
+    "밤": {
+      "lemma": "밤",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "night; chestnut",
+      "meanings": [
+        {
+          "en": "night; chestnut",
+          "note": "Native Korean word for night."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "밤은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "밤이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "밤을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "밤이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "덕분에 오늘 밤에는 푹 잘 수 있겠어요.",
+          "trans": "Thanks to you, I think I will sleep soundly tonight."
+        },
+        {
+          "text": "밤 아홉 시요? 잠깐만요, 대문을 같이 열어요.",
+          "trans": "At nine at night? Wait, let us open the gate together."
+        },
+        {
+          "text": "준호 씨... 미나 씨... 제발 오늘 밤 육호실이 비어 있다고 말해 주세요.",
+          "trans": "Junho... Mina... please tell me Room 6 is empty tonight."
+        }
+      ],
+      "related": []
+    },
+    "현관": {
+      "lemma": "현관",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "front entrance, entryway",
+      "meanings": [
+        {
+          "en": "front entrance, entryway",
+          "note": "Sino-Korean 玄關."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "현관은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "현관이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "현관을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "현관이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "잠깐만요, 그럼 월요일 밤 현관 계단에 있던... 두 번째 파란 가방이...",
+          "trans": "Wait—then Monday night on our front step... the second blue suitcase..."
+        },
+        {
+          "text": "왜 밤에 현관 계단에 제 가방만 두고 도망갔어요?",
+          "trans": "Why did you leave only my bag on the front step at night and run away?"
+        }
+      ],
+      "related": []
     },
     "파랗다": {
       "lemma": "파랗다",
@@ -8862,15 +8686,15 @@
       ],
       "related": []
     },
-    "피아노": {
-      "lemma": "피아노",
+    "가방": {
+      "lemma": "가방",
       "stress": null,
       "pos": "noun",
-      "gloss": "piano",
+      "gloss": "bag, suitcase",
       "meanings": [
         {
-          "en": "piano",
-          "note": "Loanword from Italian/English 'piano'."
+          "en": "bag, suitcase",
+          "note": "Everyday word for handbags, backpacks, and travel suitcases."
         }
       ],
       "forms": {
@@ -8883,25 +8707,25 @@
           {
             "cells": [
               "with topic",
-              "피아노는"
+              "가방은"
             ]
           },
           {
             "cells": [
               "with subject",
-              "피아노가"
+              "가방이"
             ]
           },
           {
             "cells": [
               "with object",
-              "피아노를"
+              "가방을"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "피아노예요"
+              "가방이에요"
             ]
           }
         ]
@@ -8909,29 +8733,34 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "스물다섯 해 전에 이 근처에서 피아노를 가르쳤거든요. 기억은 흐릿하지만요.",
-          "trans": "Twenty-five years ago I taught piano near here, though my memory is faint."
+          "text": "조용하고 좋았어요, 고마워요. 그런데 오늘 이 가방이 아주 무겁네요.",
+          "trans": "It was quiet and pleasant, thank you. Though today this bag feels very heavy."
         },
         {
-          "text": "알다마다요! 육 년 동안 매주 금요일에 피아노를 가르치러 그 나무 계단을 올라갔어요!",
-          "trans": "Know it indeed! Every Friday for six years I climbed those wooden stairs to teach piano!"
+          "text": "이 아치문 바로 뒤예요. 파란 가방은 제가 위로 옮겨 드릴게요.",
+          "trans": "Right behind this archway. I will carry the blue bag upstairs for you."
         },
         {
-          "text": "목수 할아버지가 손자 둘하고 사셨어요. 형은 피아노를 쳤고 동생은 기차를 좋아했어요!",
-          "trans": "A grandfather carpenter lived there with his two grandsons. The older brother played piano and the younger sibling loved trains!"
+          "text": "이 가방 안을 보세요, 미나 씨! 이건 제 가방이 아니에요!",
+          "trans": "Look inside this suitcase, Mina! This is not my bag!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "짐",
+          "gloss": "luggage, baggage"
+        }
+      ]
     },
-    "하나하나": {
-      "lemma": "하나하나",
+    "맞다": {
+      "lemma": "맞다",
       "stress": null,
-      "pos": "noun",
-      "gloss": "each and every one",
+      "pos": "verb",
+      "gloss": "to be right, to be correct; to fit",
       "meanings": [
         {
-          "en": "each and every one",
-          "note": "Reduplicated form of 하나 emphasizing care."
+          "en": "to be right, to be correct; to fit",
+          "note": "맞아요! ('that's right!')."
         }
       ],
       "forms": {
@@ -8943,26 +8772,32 @@
         "rows": [
           {
             "cells": [
-              "with topic",
-              "하나하나는"
+              "dictionary",
+              "맞다"
             ]
           },
           {
             "cells": [
-              "with subject",
-              "하나하나가"
+              "polite",
+              "맞아요"
             ]
           },
           {
             "cells": [
-              "with object",
-              "하나하나를"
+              "formal",
+              "맞습니다"
             ]
           },
           {
             "cells": [
-              "polite copula",
-              "하나하나예요"
+              "past",
+              "맞았어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "안 맞아요"
             ]
           }
         ]
@@ -8970,54 +8805,58 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "아주 조용한 아이였어요! 세 번째 계단에 앉아서 음 하나하나를 다 귀 기울여 들었죠.",
-          "trans": "He was a very quiet child! Sitting on the third step, he listened closely to every single note."
+          "text": "맞아요! 그럼 이건 열쇠예요?",
+          "trans": "That's true! Then are these the keys?"
         },
         {
-          "text": "여기에 하나하나가 있어요.",
-          "trans": "There is each and every one here."
+          "text": "맞아! 미나는 벌써 여기 식구 같아.",
+          "trans": "That's right! You already feel like family here."
+        },
+        {
+          "text": "제 가방이네요! 위쪽 주머니를 열어 볼게요... 맞아요, 제 빨간 리본이에요!",
+          "trans": "It is my bag! Let me open the top pocket... yes, it is my red ribbon!"
         }
       ],
       "related": []
     },
-    "항상": {
-      "lemma": "항상",
+    "미나": {
+      "lemma": "미나",
       "stress": null,
-      "pos": "adv",
-      "gloss": "always",
+      "pos": "name",
+      "gloss": "Mina",
       "meanings": [
         {
-          "en": "always",
-          "note": "Constant frequency adverb."
+          "en": "Mina",
+          "note": "Front-desk trainee and later manager at Sunshine House."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "첫날에는 항상 빨리 걸어요. 컴퓨터는 어디에 있어요?",
-          "trans": "On my first day I always walk fast. Where is the computer?"
+          "text": "아, 열려요! 감사합니다. 저는 새 직원 미나예요.",
+          "trans": "Oh, it opens! Thank you. I am Mina, the new staff member."
         },
         {
-          "text": "나랑은 항상 편하게 해! 딱딱한 존댓말은 손님한테만 써.",
-          "trans": "With me, always speak casually! Save stiff polite speech for the guests."
+          "text": "안녕! 네가 미나구나. 나는 주방에서 일하는 소라야.",
+          "trans": "Hello! You must be Mina. I am Sora from the kitchen."
         },
         {
-          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
-          "trans": "The older brother was bold and loud. He always played his scales in a rush."
+          "text": "맞아! 미나는 벌써 여기 식구 같아.",
+          "trans": "That's right! You already feel like family here."
         }
       ],
       "related": []
     },
-    "현관": {
-      "lemma": "현관",
+    "씨": {
+      "lemma": "씨",
       "stress": null,
       "pos": "noun",
-      "gloss": "front entrance, entryway",
+      "gloss": "Mr / Ms (polite name suffix)",
       "meanings": [
         {
-          "en": "front entrance, entryway",
-          "note": "Sino-Korean 玄關."
+          "en": "Mr / Ms (polite name suffix)",
+          "note": "Follows a full name or given name between adults ('준호 씨')."
         }
       ],
       "forms": {
@@ -9030,25 +8869,25 @@
           {
             "cells": [
               "with topic",
-              "현관은"
+              "씨는"
             ]
           },
           {
             "cells": [
               "with subject",
-              "현관이"
+              "씨가"
             ]
           },
           {
             "cells": [
               "with object",
-              "현관을"
+              "씨를"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "현관이에요"
+              "씨예요"
             ]
           }
         ]
@@ -9056,156 +8895,87 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "잠깐만요, 그럼 월요일 밤 현관 계단에 있던... 두 번째 파란 가방이...",
-          "trans": "Wait—then Monday night on our front step... the second blue suitcase..."
+          "text": "반가워요, 소라 씨! 맛있는 냄새가 나요!",
+          "trans": "Nice to meet you, Sora! Something smells delicious!"
         },
         {
-          "text": "왜 밤에 현관 계단에 제 가방만 두고 도망갔어요?",
-          "trans": "Why did you leave only my bag on the front step at night and run away?"
+          "text": "소라 씨는 우리 골목 사람들하고 다 친구처럼 이야기해요.",
+          "trans": "Sora talks like an old friend with everyone in our alley."
+        },
+        {
+          "text": "좋은 아침입니다, 여러분! 환영해요, 미나 씨. 준비 다 됐어요?",
+          "trans": "Good morning, everyone! Welcome, Mina. Is everything ready?"
         }
       ],
       "related": []
     },
-    "형": {
-      "lemma": "형",
+    "그": {
+      "lemma": "그",
       "stress": null,
-      "pos": "noun",
-      "gloss": "older brother (of a man)",
+      "pos": "det",
+      "gloss": "that, the",
       "meanings": [
         {
-          "en": "older brother (of a man)",
-          "note": "Warm family address used by a younger brother."
+          "en": "that, the",
+          "note": "Points to something near the listener or already mentioned."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "형은"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "형이"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "형을"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "형이에요"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "목수 할아버지가 손자 둘하고 사셨어요. 형은 피아노를 쳤고 동생은 기차를 좋아했어요!",
-          "trans": "A grandfather carpenter lived there with his two grandsons. The older brother played piano and the younger sibling loved trains!"
+          "text": "잠깐만요, 그 길은 바로 우리 동네예요! 걸어서 오 분 거리예요!",
+          "trans": "Wait—that street is right here in our neighbourhood! Five minutes on foot!"
         },
         {
-          "text": "형은 씩씩하고 목소리가 컸어요. 항상 음계를 급하게 쳤죠.",
-          "trans": "The older brother was bold and loud. He always played his scales in a rush."
+          "text": "고마워요, 준호 씨. 그 안에 있던 작은 나무 기차가 오래되고 소중해 보였어요.",
+          "trans": "Thank you, Junho. The little wooden train inside looked old and precious."
         },
         {
-          "text": "영미 선생님?! 우리 형 금요일 피아노 선생님이세요?!",
-          "trans": "Miss Youngmi?! My older brother's Friday piano teacher?!"
-        }
-      ],
-      "related": [
-        {
-          "word": "동생",
-          "gloss": "younger sibling"
-        },
-        {
-          "word": "형님",
-          "gloss": "older brother (honorific)"
-        }
-      ]
-    },
-    "형제": {
-      "lemma": "형제",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "brothers",
-      "meanings": [
-        {
-          "en": "brothers",
-          "note": "Sino-Korean 兄弟."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "with topic",
-              "형제는"
-            ]
-          },
-          {
-            "cells": [
-              "with subject",
-              "형제가"
-            ]
-          },
-          {
-            "cells": [
-              "with object",
-              "형제를"
-            ]
-          },
-          {
-            "cells": [
-              "polite copula",
-              "형제예요"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "영미 선생님, 은행길에 살던 두 형제 이야기를 더 들려주세요!",
-          "trans": "Miss Youngmi, please tell me more about the two brothers who lived on Eunhaeng Lane!"
-        },
-        {
-          "text": "아이고, 우리 시설 과장님 말씀 좀 들어 봐! 어제는 보일러를 고치더니 오늘은 형제를 고치시네!",
-          "trans": "Oh my, listen to our maintenance chief talk! Yesterday you fixed the boiler, and today you fix two brothers!"
-        },
-        {
-          "text": "아직 밖에 있는 손님들한테는 한마디도 하지 마세요! 두 형제가 금요일 오후를 보내게 해 드립시다!",
-          "trans": "Do not say a single word to the guests outside yet! Let the two brothers enjoy their Friday afternoon first!"
+          "text": "참 이상하네요! 그 이름표 글씨체가 묘하게 익숙했어요.",
+          "trans": "How curious! The handwriting on that tag felt strangely familiar."
         }
       ],
       "related": []
     },
-    "님": {
-      "lemma": "님",
+    "제": {
+      "lemma": "제",
       "stress": null,
-      "pos": "noun",
-      "gloss": "Mr / Ms (polite honorific)",
+      "pos": "pron",
+      "gloss": "my (humble)",
       "meanings": [
         {
-          "en": "Mr / Ms; esteemed (polite honorific bound noun)",
-          "note": "Placed after a person's name (지훈 님) or title (사장님, 손님) to show polite respect."
+          "en": "my (humble)",
+          "note": "Contraction of 저의 ('my') in polite speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "예약 장부를 봐야 하는데 제 안경을 못 찾겠어요!",
+          "trans": "I need to read the reservation ledger, and I cannot find my glasses!"
+        },
+        {
+          "text": "이 가방 안을 보세요, 미나 씨! 이건 제 가방이 아니에요!",
+          "trans": "Look inside this suitcase, Mina! This is not my bag!"
+        },
+        {
+          "text": "기차역에서 누가 실수로 제 파란 가방을 가져갔나 봐요!",
+          "trans": "Someone at the train station must have taken my blue bag by mistake!"
+        }
+      ],
+      "related": []
+    },
+    "거": {
+      "lemma": "거",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "thing, one (spoken)",
+      "meanings": [
+        {
+          "en": "thing, one (spoken)",
+          "note": "Colloquial form of 것 ('thing, fact, possession')."
         }
       ],
       "forms": {
@@ -9218,25 +8988,25 @@
           {
             "cells": [
               "with topic",
-              "님은"
+              "거는"
             ]
           },
           {
             "cells": [
               "with subject",
-              "님이"
+              "거가"
             ]
           },
           {
             "cells": [
               "with object",
-              "님을"
+              "거를"
             ]
           },
           {
             "cells": [
               "polite copula",
-              "님이에요"
+              "거예요"
             ]
           }
         ]
@@ -9244,24 +9014,254 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "사장님, 지훈 님이 연필로 가리키는 곳을 보세요!",
-          "trans": "Boss, look where Mr Jihoon is pointing with his pencil!"
+          "text": "그럼 이 집이 혼자서 인사하는 거네요?",
+          "trans": "So this house says hello all by itself?"
         },
         {
-          "text": "만약 지훈 님이 자기 가방을 제대로 가져가셨다면 오늘 밤 우리는 여기 모여 있지 못했을 거예요!",
-          "trans": "If Mr Jihoon had taken his own bag properly, none of us would be gathered here tonight!"
+          "text": "주인이 분명히 곧 찾을 거예요.",
+          "trans": "Its owner will surely look for it soon."
+        },
+        {
+          "text": "금요일 정오가 빨리 오면 좋겠다! 가방 주인이 들어올 때 맨 앞자리에 앉을 거야!",
+          "trans": "I hope Friday noon comes fast! When the bag's owner walks in, I am sitting in the front row!"
         }
       ],
-      "related": [
+      "related": []
+    },
+    "분": {
+      "lemma": "분",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "minute (counter); person (honorific counter)",
+      "meanings": [
         {
-          "word": "손님",
-          "gloss": "guest, customer"
+          "en": "minute (counter); person (honorific counter)",
+          "note": "Sino-Korean 分 ('minute') or native honorific counter 'person'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "분은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "분이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "분을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "분이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "저는 준호예요. 십 분이나 일찍 왔네요.",
+          "trans": "I am Junho. You arrived ten minutes early."
         },
         {
-          "word": "사장님",
-          "gloss": "boss, owner"
+          "text": "두 분 다 정말 고마워요.",
+          "trans": "Thank you both very much."
+        },
+        {
+          "text": "잠깐만요, 그 길은 바로 우리 동네예요! 걸어서 오 분 거리예요!",
+          "trans": "Wait—that street is right here in our neighbourhood! Five minutes on foot!"
         }
-      ]
+      ],
+      "related": []
+    },
+    "모든": {
+      "lemma": "모든",
+      "stress": null,
+      "pos": "det",
+      "gloss": "all, every",
+      "meanings": [
+        {
+          "en": "all, every",
+          "note": "Placed directly before a noun without particles."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "오늘 사호실 손님은 일주일 동안 계세요. 모든 게 완벽해야 해요!",
+          "trans": "Today's Room 4 guest is staying for a week. Everything must be perfect!"
+        },
+        {
+          "text": "사장님 말씀은... 모든 손님이 십 점 만점처럼 느끼시길 바란다는 뜻이에요!",
+          "trans": "What the boss means is... we hope every guest feels like ten out of ten here!"
+        },
+        {
+          "text": "맞아요, 미나 씨. 그 파란 가방은 제 거예요. 두 분께 모든 진실을 말씀드릴게요.",
+          "trans": "That's right, Mina. That blue bag is mine. I will tell you both the whole truth."
+        }
+      ],
+      "related": []
+    },
+    "진실": {
+      "lemma": "진실",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "truth",
+      "meanings": [
+        {
+          "en": "truth",
+          "note": "Sino-Korean 眞實."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "with topic",
+              "진실은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "진실이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "진실을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "진실이에요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "맞아요, 미나 씨. 그 파란 가방은 제 거예요. 두 분께 모든 진실을 말씀드릴게요.",
+          "trans": "That's right, Mina. That blue bag is mine. I will tell you both the whole truth."
+        },
+        {
+          "text": "여기에 진실이 있어요.",
+          "trans": "There is truth here."
+        }
+      ],
+      "related": []
+    },
+    "말씀드리다": {
+      "lemma": "말씀드리다",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to tell, to say (humble)",
+      "meanings": [
+        {
+          "en": "to tell, to say (humble)",
+          "note": "Humble counterpart of 말하다 toward elders/guests."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "dictionary",
+              "말씀드리다"
+            ]
+          },
+          {
+            "cells": [
+              "polite",
+              "말씀드려요"
+            ]
+          },
+          {
+            "cells": [
+              "formal",
+              "말씀드립니다"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "말씀드렸어요"
+            ]
+          },
+          {
+            "cells": [
+              "negative",
+              "말씀 안 드려요"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "맞아요, 미나 씨. 그 파란 가방은 제 거예요. 두 분께 모든 진실을 말씀드릴게요.",
+          "trans": "That's right, Mina. That blue bag is mine. I will tell you both the whole truth."
+        },
+        {
+          "text": "아이고, 돈 내고 묵으시는 손님한테 어떻게 우리 건물주 문제를 말씀드려요!",
+          "trans": "Oh dear, how could we trouble a paying guest with our landlord problem!"
+        }
+      ],
+      "related": []
+    },
+    "안녕히": {
+      "lemma": "안녕히",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "peacefully, safely",
+      "meanings": [
+        {
+          "en": "peacefully, safely",
+          "note": "Used in 안녕히 가세요 and 안녕히 계세요."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "안녕히 주무세요, 미나 씨. 내일 아침 식사 때 봬요.",
+          "trans": "Good night, Mina. See you tomorrow at breakfast."
+        },
+        {
+          "text": "안녕히, 정말 좋아요!",
+          "trans": "Peacefully—that is really nice!"
+        }
+      ],
+      "related": []
     }
   }
 }

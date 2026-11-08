@@ -22,7 +22,7 @@ STORY = [
     ('kira', 'Подождите — а кто сейчас сидит в десяти метрах от нас во дворике?', 'Wait — who is sitting ten metres away from us in the courtyard right now?'),
     ('yaroslav', 'Два брата с лимонным пирогом?', 'Two brothers with lemon cake?'),
     ('kira', 'Архитектор, который работает со старинными дворами по всему Петербургу!', 'An architect who works with historic courtyards all across St Petersburg!'),
-    ('matvey', 'Умная мысль, Кира. Роман читает городские строительные правила каждую неделю.', 'Smart thought, Kira. Roman reads municipal building rules every week.'),
+    ('matvey', 'Подожди — а вот и Анна возвращается от их столика прямо сейчас.', 'Wait — here comes Anna back from their table right now.'),
     ('yaroslav', 'Ох, я никогда не стану беспокоить гостя нашими проблемами с арендой!', 'Oh, I would never bother a guest with our lease troubles!'),
     ('kira', 'После того как мы берегли его синий чемодан всю неделю? Он сам захочет помочь!', 'After we guarded his blue suitcase all week? He will want to help himself!'),
     ('matvey', 'Тише — вон Зоя идёт обратно от их столика прямо сейчас.', 'Quiet — there comes Zoya walking back from their table right now.'),

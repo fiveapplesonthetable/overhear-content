@@ -25,7 +25,7 @@ STORY = [
     ('junho', '좋은 생각이에요, 미나 씨. 지훈 님은 매주 시청 건축 규정을 읽는 분이잖아요.', 'Smart thinking, Mina. Mr Jihoon reads municipal building rules every single week.'),
     ('sungmin', '아이고, 돈 내고 묵으시는 손님한테 어떻게 우리 건물주 문제를 말씀드려요!', 'Oh dear, how could we trouble a paying guest with our landlord problem!'),
     ('mina', '우리가 일주일 내내 파란 가방을 지켜 드렸잖아요? 기꺼이 도와주실 거예요!', "Didn't we guard his blue bag all week? He will gladly help us!"),
-    ('junho', '잠깐만요, 지금 소라 씨가 그 식탁에서 돌아오고 있어요.', 'Hold on—Sora is walking back from their table right now.'),
+    ('junho', '잠깐만요, 지금 소라 씨가 그 식탁으로 케이크를 가져가고 있어요.', 'Wait—Sora is taking the cake out to their table right now.'),
 ]
 WALK = [
     (1, None, ["'Do not give up in advance before even reading the document to the end, boss.' Doing something ahead of time—or worrying prematurely—uses ", (None, '미리'), ", 'in advance'."]),

@@ -15,7 +15,7 @@ OUTRO = "Not only is Roman a historic courtyard architect, Gleb works at City Ha
 CLOSING = ('zoya', 'До скорого!')
 STORY = [
     ('zoya', 'Прямо из печи: пятничный лимонный пирог и лишние угловые кусочки!', 'Straight from the oven: Friday lemon cake and extra corner pieces!'),
-    ('gleb', 'Один кусочек... Роман, закрой глаза! Вкус точь-в-точь как в Липовом переулке!', 'One bite... Roman, close your eyes! The taste is exact to the dot like on Lipovy Lane!'),
+    ('gleb', 'Один кусочек... Роман, закрой глаза! Вкус точь-в-точь как у дедушкиного пирога!', "One bite... Roman, close your eyes! That tastes exactly like Grandfather's cake!"),
     ('roman', 'Зоя испекла его сегодня утром, когда Лариса Борисовна рассказала нашу пятничную историю.', 'Zoya baked it this morning when Larisa Borisovna told our Friday story.'),
     ('gleb', 'В какой волшебный гостевой дом ты попал, младший брат?', 'What kind of magical guesthouse did you land in, little brother?'),
     ('roman', 'В такой, где чинят лампу в дождь и берегут чужой чемодан.', "The kind where they fix a lamp in the rain and guard a stranger's suitcase."),

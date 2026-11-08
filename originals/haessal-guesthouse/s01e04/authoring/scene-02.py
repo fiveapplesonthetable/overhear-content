@@ -20,7 +20,7 @@ STORY = [
     ('junho', '좁은 골목 말고 꽃집 옆에 있는 두 번째 길로 가세요.', 'Not the narrow alley—take the second street beside the flower shop.'),
     ('mina', '지금 걷고 있어요... 아, 금색 열쇠 그림하고 파란 문이 보여요!', 'Walking now... oh, I can see the golden key picture and the blue door!'),
     ('junho', '다행이네요! 철문 셔터는 열렸어요?', 'What a relief! Is the metal shutter open?'),
-    ('mina', '사장님이 지금 바로 열고 계세요! 잠깐만 전화 끊지 마세요.', 'The owner is unlocking it right now! Do not hang up for a second.'),
+    ('mina', '직원이 지금 자물쇠를 열고 있어요! 전화 끊지 말고 잠시만 기다려 주세요.', 'The clerk is unlocking it right now! Stay on the phone one second.'),
     ('junho', '안쪽 황동 링 너비가 이십 밀리미터인지 꼭 확인하세요.', 'Be sure to check whether the inner brass ring is twenty millimetres wide.'),
     ('mina', '헌 밸브하고 대 보셨는데 딱 맞아요! 선반에 두 개 남았대요!', 'He held it against the old valve and it matches! He says two are left on the shelf!'),
     ('junho', '두 개 다 사세요! 여분 밸브가 있으면 내년 겨울도 안심이에요.', 'Buy both! With a spare valve, next winter is worry-free too.'),

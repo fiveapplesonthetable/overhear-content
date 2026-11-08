@@ -15,7 +15,7 @@ OUTRO = 'Kira handled her first check-in smoothly, though Matvey noticed that bl
 CLOSING = ('larisa', 'Всего доброго!')
 STORY = [
     ('kira', 'Добро пожаловать! Здравствуйте, проходите, пожалуйста.', 'Welcome! Hello, please come in.'),
-    ('larisa', 'Доброе утро, милая. У меня бронь, я Лариса Борисовна.', 'Good morning, my dear. I have a reservation, I am Larisa Borisovna.'),
+    ('larisa', 'Доброе утро, дорогая. У меня бронирование на имя Эвелин.', 'Good morning, my dear. I have a booking for Evelyn.'),
     ('kira', 'Да, четвёртый номер на втором этаже! Как прошла поездка на поезде?', 'Yes, room four on the second floor! How did your train trip go?'),
     ('larisa', 'Поездка была тихой и приятной, спасибо, но чемодан сегодня очень тяжёлый.', 'The trip was quiet and pleasant, thank you, though the suitcase is very heavy today.'),
     ('matvey', 'Разрешите мне. Ого, вы туда камни положили?', 'Allow me. Goodness, did you pack stones in there?'),
@@ -29,7 +29,7 @@ STORY = [
 ]
 WALK = [
     (0, None, ["'Welcome! Hello, please come in.' Kira uses the full formal greeting ", (None, 'Здравствуйте,'), ' whose old root literally wishes the listener good health.']),
-    (1, None, ["'Good morning, my dear. I have a reservation, I am Larisa Borisovna.' Instead of 'I have', Russian says ", (None, 'У меня бронь,'), " — literally 'at me a booking'."]),
+    (1, None, ["'Good morning, my dear. I have a booking for Evelyn.' Instead of 'I have', Russian says ", (None, 'У меня бронирование'), " — literally 'at me a booking'."]),
     (2, None, ["'Yes, room four on the second floor! How did your train trip go?' For floors of a building, Russian uses 'on', so ", (None, 'на втором этаже!'), " means 'on the second floor'."]),
     (3, None, ["'The trip was quiet and pleasant, thank you, though the suitcase is very heavy today.' Notice ", (None, 'была'), " in the first half for the past trip, while the second half drops 'is' in the present."]),
     (4, None, ["'Allow me. Goodness, did you pack stones in there?' Even gruff Matvey turns courteous with guests, opening with ", (None, 'Разрешите мне.'), " — 'permit me'."]),

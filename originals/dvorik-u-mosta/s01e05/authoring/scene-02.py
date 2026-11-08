@@ -19,12 +19,12 @@ STORY = [
     ('kira', 'Почему вы не могли просто отдать Глебу деревянный поезд у его двери?', 'Why could you not simply hand Gleb the wooden train at his door?'),
     ('roman', 'Три года назад, после смерти дедушки, мы с Глебом сильно поссорились из-за продажи дома.', "Three years ago, after Grandfather's death, Gleb and I argued badly over selling the house."),
     ('matvey', 'Семейные дома и старая память — такие споры ранят глубоко.', 'Family houses and old memories — arguments like that cut deep.'),
-    ('roman', 'Мы не разговариваем уже три года. На прошлой неделе я отправил ему короткую открытку.', 'We have not been speaking for three years now. Last week I sent him a short postcard.'),
+    ('roman', 'С того самого дня мы не разговаривали. На прошлой неделе я отправил ему одну короткую открытку.', 'We have not spoken since that day. Last week I sent him one short postcard.'),
     ('kira', 'И попросили его прийти сюда в пятницу в полдень?', 'And asked him to come here on Friday at noon?'),
     ('roman', 'Я написал только: привет от дедушки ждёт тебя во Дворике у моста в пятницу в полдень.', 'I only wrote: a hello from Grandfather is waiting for you at Bridge Courtyard Inn on Friday at noon.'),
     ('matvey', 'Понятно! Вы боялись, что если подпишете имя, упрямый старший брат останется дома!', 'Got it! You were afraid that if you signed your name, stubborn big brother would stay home!'),
     ('roman', 'Вы хорошо знаете старших братьев, Матвей.', 'You know older brothers well, Matvey.'),
-    ('kira', 'Подождите — вы хотели оставить чемодан на стойке и смотреть через улицу?!', 'Wait — you wanted to leave the suitcase at the desk and watch from across the street?!'),
+    ('kira', 'Подождите — вы хотели позволить администратору отдать ему чемодан и смотреть через улицу?!', 'Wait — you wanted to let the receptionist hand him the suitcase and watch from across the street?!'),
     ('roman', 'Таков был мой трусливый план в понедельник... пока я не встретил всех вас.', 'Such was my cowardly plan on Monday... until I met all of you.'),
 ]
 WALK = [
@@ -33,7 +33,7 @@ WALK = [
     (2, None, ["'Why could you not simply hand Gleb the wooden train at his door?' Past ability uses ", (None, 'не могли'), " followed straight by 'hand over'."]),
     (3, None, ["'Three years ago, after Grandfather's death, Gleb and I argued badly over selling the house.' Instead of 'Gleb and I', Russian says ", (None, 'мы с Глебом'), " — literally 'we with Gleb'!"]),
     (4, None, "'Family houses and old memories — arguments like that cut deep.' Matvey drops his gruffness completely, showing quiet empathy for family history."),
-    (5, None, ["'We have not been speaking for three years now. Last week I sent him a short postcard.' Again a continuing state uses present ", (None, 'не разговариваем уже три года.'), " — 'we are not speaking already three years'."]),
+    (5, None, ["'We have not spoken since that day. Last week I sent him one short postcard.' A continuing negative action into the present often uses the imperfective past ", (None, 'не разговаривали.'), " — 'we were not speaking'."]),
     (6, None, ["'And asked him to come here on Friday at noon?' Destination 'to here' uses ", (None, 'прийти сюда'), " rather than static 'here'."]),
     (7, None, ["'I only wrote: a hello from Grandfather is waiting for you at Bridge Courtyard Inn on Friday at noon.' Warm ", (None, 'привет от дедушки'), " means 'a greeting, a keepsake from Grandfather'."]),
     (8, None, ["'Got it! You were afraid that if you signed your name, stubborn big brother would stay home!' Stubborn as a mule is ", (None, 'упрямый'), ' — describing big brother Gleb.']),
