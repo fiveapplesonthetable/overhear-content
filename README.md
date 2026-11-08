@@ -12,6 +12,10 @@ The public app now plays only **Overhear Originals**: new stories you create fro
 the owner's testing. Originals come before all other work below, in the episode cycle that ORIGINALS.md sets out (3 ru,
 2 fr, then 1 each of the other eight languages, repeating).
 
+**New pairs: Hindi, then English for speakers of every language** ([spec/NEW-PAIRS.md](spec/NEW-PAIRS.md)). Run a separate
+agent on the Hindi voice-model bake-off now, without pausing the cycle; then Hindi joins the cycle, then `en-es` and `en-pt`,
+then English for the remaining languages.
+
 **Word histories are part of every episode.** Read "Learning notes, dictionary and word histories" below: a new episode
 ships with a sourced history for every word it uses, and the backlog of words already served without one is worked down
 after every episode.
