@@ -8,14 +8,24 @@ import scipy.signal
 
 class AudioGates:
     def __init__(self):
-        # We need whisper for repeat check and CER
-        self.whisper = WhisperModel("large-v3-turbo", device="cuda", compute_type="float16", local_files_only=True)
-        
-        # We need WavLM for speaker similarity
+        import time
         from transformers import AutoFeatureExtractor, AutoModelForAudioXVector
-        self.extractor = AutoFeatureExtractor.from_pretrained("microsoft/wavlm-base-plus-sv", local_files_only=True)
-        self.spk_model = AutoModelForAudioXVector.from_pretrained("microsoft/wavlm-base-plus-sv", local_files_only=True).to("cuda")
-        self.spk_model.eval()
+        for _init_try in range(4):
+            try:
+                torch.cuda.empty_cache()
+                # We need whisper for repeat check and CER
+                self.whisper = WhisperModel("large-v3-turbo", device="cuda", compute_type="float16", local_files_only=True)
+                # We need WavLM for speaker similarity
+                self.extractor = AutoFeatureExtractor.from_pretrained("microsoft/wavlm-base-plus-sv", local_files_only=True)
+                self.spk_model = AutoModelForAudioXVector.from_pretrained("microsoft/wavlm-base-plus-sv", local_files_only=True).to("cuda")
+                self.spk_model.eval()
+                break
+            except RuntimeError as e:
+                if "out of memory" in str(e).lower() and _init_try < 3:
+                    torch.cuda.empty_cache()
+                    time.sleep(2.5 * (_init_try + 1))
+                    continue
+                raise
         self.ref_embeddings = {}
 
     def get_embedding(self, wav, sr):
@@ -160,9 +170,19 @@ class AudioGates:
         else:
             wav_16k = wav
         wav_16k = wav_16k.astype(np.float32)
-        import re
-        segs, info = self.whisper.transcribe(wav_16k, language=lang, beam_size=1, word_timestamps=False, condition_on_previous_text=False)
-        hyp_text = " ".join(s.text for s in segs).strip()
+        import re, time
+        hyp_text = ""
+        for _w_try in range(4):
+            try:
+                segs, info = self.whisper.transcribe(wav_16k, language=lang, beam_size=1, word_timestamps=False, condition_on_previous_text=False)
+                hyp_text = " ".join(s.text for s in segs).strip()
+                break
+            except RuntimeError as e:
+                if "out of memory" in str(e).lower() and _w_try < 3:
+                    torch.cuda.empty_cache()
+                    time.sleep(2.0 * (_w_try + 1))
+                    continue
+                raise
         words = re.findall(r"\w+", hyp_text.lower())
                     
         # Repeat check
