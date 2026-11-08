@@ -206,8 +206,13 @@ def run_clip_group(args, settings, sids, log=log):
     t0 = time.time()
     from ruaccent_fallback import RuAccent
     # accent the sentences first, on the CPU, so the GPU reservation below is not held while RuAccent starts
-    clips.warm_ruaccent(loaded, settings, RuAccent(settings["stress"]["ruaccentPython"], Path(args.store) / "cache" / "ruaccent.json"))
+    ruacc = RuAccent(settings["stress"]["ruaccentPython"], Path(args.store) / "cache" / "ruaccent.json") if settings["stress"]["ruaccentFallback"] else None
+    if ruacc:
+        clips.warm_ruaccent(loaded, settings, ruacc)
     totals = {"passed": 0, "failed": 0}
+    if not clips.pending_for(loaded, settings, Voices(), Path(args.store), ruacc):
+        log(f"clips: {len(sids)} scenes, 0 passed, 0 dropped, {time.time() - t0:.0f}s")
+        return totals
     if config.ar_engine(settings) and any(sc.lang == "ar" for sc in loaded):
         clip_venv = config.VENV_AR
     elif config.hi_engine(settings) and any(sc.lang == "hi" for sc in loaded):

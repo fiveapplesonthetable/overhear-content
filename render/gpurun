@@ -122,7 +122,7 @@ def unallocated_pending(by_pid):
                 peak = 6200
             else:
                 peak = max(decl, 3200)
-            pending += max(300, min(1400, peak - actual))
+            pending += max(300, min(900, peak - actual))
         elif actual > 0:
             if age > 25.0:
                 pending += 200
@@ -185,7 +185,7 @@ def main():
             fcntl.flock(ledger, fcntl.LOCK_EX)
             free_m, used_m, by_pid = gpu_snapshot()
             pend, heavy = unallocated_pending(by_pid)
-            max_heavy = int(os.environ.get("GPURUN_MAX_HEAVY", "4"))
+            max_heavy = int(os.environ.get("GPURUN_MAX_HEAVY", "5"))
             need = min(mib + MARGIN, BUDGET)
             if (not old_lock_held()
                     and not (mib >= 5000 and heavy >= max_heavy)
