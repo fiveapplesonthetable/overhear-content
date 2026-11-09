@@ -1421,14 +1421,13 @@
       ]
     },
     "감사합니다": {
-      "etymology": "Formed from Sino-Korean 감사 (感謝, 'gratitude, appreciation') plus the formal polite form 합니다 of 하다 ('to do').",
-      "notes": "Alongside native Korean 고맙습니다 / 고마워요, this is the everyday standard way to thank someone politely.",
+      "etymology": "Formed from Sino-Korean 감사 (感謝, 'gratitude, heartfelt appreciation', combining 感 'to feel, be moved' + 謝 'to thank, acknowledge a kindness') plus 합니다, the formal polite (하십시오체) present indicative of 하다 ('to do, express').",
       "certainty": "established",
       "morphemes": [
         {
           "part": "감 (感)",
           "kind": "Sino-Korean morpheme",
-          "meaning": "feel, emotion"
+          "meaning": "feel, be moved"
         },
         {
           "part": "사 (謝)",
@@ -1438,15 +1437,60 @@
         {
           "part": "합니다",
           "kind": "formal polite verb",
-          "meaning": "do / express"
+          "meaning": "do, express (deferential present of 하다)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Literary Chinese",
+          "form": "感謝",
+          "meaning": "to feel and express gratitude",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "감사하다 -> 감사합니다",
+          "meaning": "to be grateful -> thank you (polite formal)",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Japanese",
+          "word": "感謝 (かんしゃ)",
+          "meaning": "gratitude, thanks"
+        },
+        {
+          "lang": "Mandarin",
+          "word": "感謝 / 感谢 (gǎnxiè)",
+          "meaning": "to thank, gratitude"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "감사하다",
+          "gloss": "to be thankful, grateful"
+        },
+        {
+          "word": "감동",
+          "gloss": "deep emotion, being moved (感動)"
+        },
+        {
+          "word": "사과",
+          "gloss": "apology (謝過)"
         }
       ],
       "sources": [
         {
           "title": "Wiktionary — 감사하다 (Korean)",
           "url": "https://en.wiktionary.org/wiki/%EA%B0%90%EC%82%AC%ED%95%98%EB%8B%A4#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 감사하다",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EA%B0%90%EC%82%AC%ED%95%98%EB%8B%A4"
         }
-      ]
+      ],
+      "notes": "Written -ㅂ니다 is pronounced [함니다] ([kamsahamnida]) by regular nasal assimilation of ㅂ before ㄴ; pairs with native Korean 고맙습니다 / 고마워요."
     },
     "감상적": {
       "etymology": "Sino-Korean 감상적 (感傷的), from 감상 (感傷, 감 'feel' + 상 'grieve, wound', 'sentimentality') + determiner suffix -적 (的).",
@@ -5105,6 +5149,61 @@
           "meaning": "thing, object"
         }
       ]
+    },
+    "그날": {
+      "etymology": "Univerbated native Korean compound combining the medial/anaphoric determiner 그 ('that, the aforementioned', from Middle Korean 그) with 날 ('day', from Middle Korean 날), lexicalised as a single word when pointing back to a specific day known in context.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "그",
+          "kind": "native determiner",
+          "meaning": "that (known to speaker and listener)"
+        },
+        {
+          "part": "날",
+          "kind": "native noun",
+          "meaning": "day"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Middle Korean (15th c.)",
+          "form": "그 + 날",
+          "meaning": "that day",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "그날",
+          "meaning": "that particular day",
+          "certainty": "established"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "이날",
+          "gloss": "this day"
+        },
+        {
+          "word": "날",
+          "gloss": "day"
+        },
+        {
+          "word": "그때",
+          "gloss": "at that time, back then"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 그날 (Korean)",
+          "url": "https://en.wiktionary.org/wiki/%EA%B7%B8%EB%82%A0#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 그날",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EA%B7%B8%EB%82%A0"
+        }
+      ],
+      "notes": "Standard Korean spacing joins high-frequency demonstrative + time nouns into one word: 그날 ('that day'), 그때 ('that time'), 그해 ('that year')."
     },
     "그냥": {
       "etymology": "Contracted from 그 모양 (native 그 'that' + Sino-Korean 모양 模樣 'form, state, appearance'), literally 'in that state as it is'.",
@@ -10418,13 +10517,25 @@
       ]
     },
     "넥타이": {
-      "etymology": "Borrowed from English necktie (neck + tie).",
+      "etymology": "Borrowed in the late nineteenth / early twentieth century from English necktie (compound of neck + tie), entering Korean alongside Western suits and reinforced by Japanese ネクタイ.",
       "certainty": "established",
+      "morphemes": [
+        {
+          "part": "넥-",
+          "kind": "loanword stem",
+          "meaning": "neck (< English neck)"
+        },
+        {
+          "part": "-타이",
+          "kind": "loanword stem",
+          "meaning": "knotted band (< English tie)"
+        }
+      ],
       "history": [
         {
           "stage": "English",
           "form": "necktie",
-          "meaning": "band of fabric worn around the collar",
+          "meaning": "band of fabric knotted around a shirt collar",
           "certainty": "established"
         },
         {
@@ -10432,6 +10543,18 @@
           "form": "넥타이",
           "meaning": "necktie, tie",
           "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Japanese",
+          "word": "ネクタイ",
+          "meaning": "necktie"
+        },
+        {
+          "lang": "English",
+          "word": "necktie",
+          "meaning": "necktie"
         }
       ],
       "sources": [
@@ -10443,7 +10566,8 @@
           "title": "국립국어원 표준국어대사전 — 넥타이",
           "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EB%84%A5%ED%83%80%EC%9D%B4"
         }
-      ]
+      ],
+      "notes": "Whereas English speakers usually shorten necktie to tie, Korean keeps the full three-syllable 넥타이 in everyday conversation (넥타이를 매다, 'to put on a tie')."
     },
     "넷": {
       "etymology": "Native Korean cardinal numeral descending from Middle Korean 넿 / 넷 ('four').",
@@ -16840,13 +16964,37 @@
       ]
     },
     "레몬": {
-      "etymology": "Borrowed from English lemon.",
-      "notes": "Word-initial English l is written with ㄹ in Korean loanwords.",
+      "etymology": "Borrowed in the twentieth century from English lemon, which traces back through Middle French limon and Medieval Italian limone to Arabic laymūn (لَيْمُون) and Persian līmū (لیمو, 'citrus fruit').",
       "certainty": "established",
+      "history": [
+        {
+          "stage": "Arabic (from Persian)",
+          "form": "لَيْمُون (laymūn)",
+          "meaning": "lemon, citrus fruit",
+          "certainty": "established"
+        },
+        {
+          "stage": "Middle French -> English",
+          "form": "limon -> lemon",
+          "meaning": "yellow sour citrus fruit",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "레몬",
+          "meaning": "lemon",
+          "certainty": "established"
+        }
+      ],
       "cognates": [
         {
           "lang": "English",
           "word": "lemon",
+          "meaning": "lemon"
+        },
+        {
+          "lang": "Japanese",
+          "word": "レモン",
           "meaning": "lemon"
         }
       ],
@@ -16854,8 +17002,13 @@
         {
           "title": "Wiktionary — 레몬 (Korean)",
           "url": "https://en.wiktionary.org/wiki/%EB%A0%88%EB%AA%AC#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 레몬",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EB%A0%88%EB%AA%AC"
         }
-      ]
+      ],
+      "notes": "Word-initial English l- is written with ㄹ in Korean loanword orthography (레몬, 라디오, 램프)."
     },
     "레이스": {
       "etymology": "Borrowed from English lace ('delicate openwork fabric', via Old French las from Latin laqueus 'noose, snare'); also homophonous with English race.",
@@ -18949,6 +19102,66 @@
           "url": "https://en.wiktionary.org/wiki/%EB%A8%B8%EB%A6%AC#Korean"
         }
       ]
+    },
+    "머리글자": {
+      "etymology": "Hybrid Korean compound built as a transparent formation for 'head-letter / initial': native Korean 머리 ('head, top, beginning', Middle Korean 머리) + 글자 ('letter, written character', itself combining native 글 'writing, script' with Sino-Korean 자 字 'character').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "머리",
+          "kind": "native noun",
+          "meaning": "head, top, beginning"
+        },
+        {
+          "part": "글",
+          "kind": "native noun",
+          "meaning": "writing, text"
+        },
+        {
+          "part": "자 (字)",
+          "kind": "Sino-Korean morpheme",
+          "meaning": "letter, written character"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Middle Korean",
+          "form": "머리 + 글 + 字",
+          "meaning": "head + writing + character",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "머리글자",
+          "meaning": "initial letter, initials",
+          "certainty": "established"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "머리",
+          "gloss": "head, hair"
+        },
+        {
+          "word": "글자",
+          "gloss": "letter, character"
+        },
+        {
+          "word": "머리말",
+          "gloss": "preface, foreword ('head-words')"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 머리글자 (Korean)",
+          "url": "https://en.wiktionary.org/wiki/%EB%A8%B8%EB%A6%AC%EA%B8%80%EC%9E%90#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 머리글자",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EB%A8%B8%EB%A6%AC%EA%B8%80%EC%9E%90"
+        }
+      ],
+      "notes": "Native-led counterpart to the English loan 이니셜 ('initials') and Sino-Korean 두문자 (頭文字); pronounced [머리글짜] with tensification of ㅈ after ㄹ."
     },
     "머물다": {
       "etymology": "Native Korean verb (contracted variant of 머무르다) meaning 'to stay, remain, lodge, linger', descending from Middle Korean 머믈다 ('to halt, stay, tarry').",
@@ -21373,6 +21586,58 @@
           "url": "https://en.wiktionary.org/wiki/%EB%AF%B8%ED%84%B0#Korean"
         }
       ]
+    },
+    "민망하다": {
+      "etymology": "Formed from Sino-Korean 민망 (憫惘, combining 憫 'to grieve over, pity, be troubled' + 惘 'disconcerted, bewildered, at a loss') plus native Korean adjective-forming 하다. Originally expressed sympathetic distress or frustration before specialising in modern speech to feeling sheepish, awkward, or embarrassed.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "민 (憫)",
+          "kind": "Sino-Korean morpheme",
+          "meaning": "troubled, pained, sympathetic"
+        },
+        {
+          "part": "망 (惘)",
+          "kind": "Sino-Korean morpheme",
+          "meaning": "disconcerted, flustered, at a loss"
+        },
+        {
+          "part": "-하다",
+          "kind": "native derivational verb/adj",
+          "meaning": "to be in the state of"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Joseon Sino-Korean",
+          "form": "憫惘하다 (민망하다)",
+          "meaning": "to feel pained, sorry, or distressed over a situation",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "민망하다",
+          "meaning": "to feel embarrassed, sheepish, or socially awkward",
+          "certainty": "established"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "민망스럽다",
+          "gloss": "embarrassing, awkward"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 민망하다 (Korean)",
+          "url": "https://en.wiktionary.org/wiki/%EB%AF%BC%EB%A7%9D%ED%95%98%EB%8B%A4#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 민망하다",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EB%AF%BC%EB%A7%9D%ED%95%98%EB%8B%A4"
+        }
+      ],
+      "notes": "Captures the exact sheepishness of having to ask a favour after a mistake or receiving excessive praise — lighter than moral shame (창피하다 / 부끄럽다)."
     },
     "민수": {
       "etymology": "Common Korean given name 민수, typically written with Sino-Korean hanja combinations such as 民秀 ('outstanding among the people') or 敏秀 ('clever and outstanding').",
@@ -24341,22 +24606,52 @@
       ]
     },
     "보일러": {
-      "etymology": "Borrowed from English boiler.",
-      "notes": "In South Korea, 보일러 specifically evokes the household hot-water and underfloor heating (온돌) boiler found in every home and guesthouse.",
+      "etymology": "Borrowed in the twentieth century from English boiler (agent/appliance noun from boil + -er, ultimately from Old French boillir and Latin bullīre 'to bubble, boil'). Adopted across Korea as modern hydronic heating replaced wood-fired underfloor flues.",
       "certainty": "established",
+      "morphemes": [
+        {
+          "part": "보일-",
+          "kind": "loanword stem",
+          "meaning": "boil, heat water (< English boil)"
+        },
+        {
+          "part": "-러",
+          "kind": "loanword suffix",
+          "meaning": "appliance / agent (< English -er)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "English",
+          "form": "boiler",
+          "meaning": "vessel or unit for heating water and steam",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "보일러",
+          "meaning": "household hot-water and underfloor heating boiler",
+          "certainty": "established"
+        }
+      ],
       "cognates": [
         {
           "lang": "English",
           "word": "boiler",
-          "meaning": "heating boiler"
+          "meaning": "water-heating unit"
         }
       ],
       "sources": [
         {
           "title": "Wiktionary — 보일러 (Korean)",
           "url": "https://en.wiktionary.org/wiki/%EB%B3%B4%EC%9D%BC%EB%9F%AC#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 보일러",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EB%B3%B4%EC%9D%BC%EB%9F%AC"
         }
-      ]
+      ],
+      "notes": "In South Korea, 보일러를 틀다 ('turn on the boiler') means turning on the room's underfloor 온돌 radiant heat as well as hot tap water."
     },
     "보일러실": {
       "etymology": "Hybrid compound noun meaning 'boiler room, heating plant room', combining the English loanword 보일러 (boiler) with Sino-Korean 실 (室, 'room').",
@@ -29379,6 +29674,35 @@
         }
       ]
     },
+    "서로": {
+      "etymology": "Native Korean reciprocal adverb descending from fifteenth-century Middle Korean 서르 ('mutually, each other', attested in Seokbo Sangjeol and Worin Seokbo), which shifted to 서로 in Early Modern Korean through vowel rounding of final -으 to -오.",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Middle Korean (15th c.)",
+          "form": "서르",
+          "meaning": "mutually, one another",
+          "certainty": "established"
+        },
+        {
+          "stage": "Early Modern–Modern Korean",
+          "form": "서로",
+          "meaning": "each other, mutually",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 서로 (Korean)",
+          "url": "https://en.wiktionary.org/wiki/%EC%84%9C%EB%A1%9C#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 서로",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%84%9C%EB%A1%9C"
+        }
+      ],
+      "notes": "Used most often right before a verb without a particle (서로 돕다, 서로 말 안 하다), though it can also take case particles as a noun (서로를 믿다)."
+    },
     "서류": {
       "etymology": "Sino-Korean compound 서류 (書類), meaning 'documents, papers, official paperwork', formed from 書 (서, 'writing, document') + 類 (류, 'category, class, collection').",
       "certainty": "established",
@@ -31737,15 +32061,33 @@
       ]
     },
     "수수께끼": {
-      "etymology": "Native Korean noun attested in early modern Korean texts in forms such as 수수격기, meaning a verbal riddle or puzzle.",
-      "notes": "Used both for word riddles and figuratively for a mysterious note or situation.",
+      "etymology": "Native Korean noun attested in eighteenth- and nineteenth-century Early Modern Korean texts in forms such as 수수격기 and 수수겻기 ('verbal guessing game, riddle'), built with expressive reduplicated 수수- and a nominalised verbal element with tensification of ㄱ to ㄲ.",
       "certainty": "likely",
+      "history": [
+        {
+          "stage": "Early Modern Korean (18th–19th c.)",
+          "form": "수수격기 / 수수겻기",
+          "meaning": "verbal riddle, guessing puzzle",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "수수께끼",
+          "meaning": "riddle; puzzling mystery",
+          "certainty": "established"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary — 수수께끼 (Korean)",
           "url": "https://en.wiktionary.org/wiki/%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 수수께끼",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC"
         }
-      ]
+      ],
+      "notes": "Used both for children's word riddles (수수께끼를 내다, 'to pose a riddle') and figuratively for an intriguing mystery or cryptic note."
     },
     "수습": {
       "etymology": "Sino-Korean compound representing two common homophones: (1) 수습 (收拾), meaning 'bringing a situation under control, settling, sorting out, clearing up' (from 收 'gather' + 拾 'pick up, put in order'); and (2) 수습 (修習), meaning 'probation, apprenticeship, practical training' (from 修 'cultivate' + 習 'practice').",
@@ -33577,6 +33919,73 @@
           "meaning": "place, ground"
         }
       ]
+    },
+    "시절": {
+      "etymology": "Sino-Korean 시절 (時節), combining 시 (時, 'time, era') + 절 (節, 'bamboo joint, seasonal node, division of time'). Borrowed from Literary Chinese where 時節 denoted a season of the year, and extended in Korean to a fondly remembered period of one's life.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "시 (時)",
+          "kind": "Sino-Korean morpheme",
+          "meaning": "time, period, era"
+        },
+        {
+          "part": "절 (節)",
+          "kind": "Sino-Korean morpheme",
+          "meaning": "seasonal node, division, juncture"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Middle / Literary Chinese",
+          "form": "時節",
+          "meaning": "season of the year, juncture of time",
+          "certainty": "established"
+        },
+        {
+          "stage": "Korean",
+          "form": "시절",
+          "meaning": "season, era; days of one's life (어린 시절 'childhood')",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Japanese",
+          "word": "時節 (じせつ)",
+          "meaning": "season, times"
+        },
+        {
+          "lang": "Mandarin",
+          "word": "時節 / 时节 (shíjié)",
+          "meaning": "season, time of year"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "시간",
+          "gloss": "time, hour (時間)"
+        },
+        {
+          "word": "시대",
+          "gloss": "era, historical period (時代)"
+        },
+        {
+          "word": "계절",
+          "gloss": "season of the year (季節)"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 시절 (Korean)",
+          "url": "https://en.wiktionary.org/wiki/%EC%8B%9C%EC%A0%88#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 시절",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%8B%9C%EC%A0%88"
+        }
+      ],
+      "notes": "In Korean, 어린 시절 ('young days') is the warmest everyday way to say 'childhood', alongside Sino-Korean 유년기."
     },
     "시청": {
       "etymology": "Sino-Korean compound 시청 (市廳), from 시 (市, 'city, municipality') and 청 (廳, 'government hall, administrative office').",
@@ -39636,37 +40045,71 @@
       ]
     },
     "온실": {
-      "etymology": "Sino-Korean 溫室, literally 'warm room'.",
-      "notes": "Used for plant greenhouses and for glass sunrooms; the same 室 'room' appears in 사무실 'office' and 지하실 'basement'.",
+      "etymology": "Sino-Korean 온실 (溫室), combining 온 (溫, 'warm, gentle heat') + 실 (室, 'room, chamber'). Originally named a heated palace chamber in Han-dynasty China and was adopted across modern East Asia to render Western glass greenhouses and conservatories.",
       "certainty": "established",
       "morphemes": [
         {
           "part": "온 (溫)",
           "kind": "Sino-Korean morpheme",
-          "meaning": "warm"
+          "meaning": "warm, mild heat"
         },
         {
           "part": "실 (室)",
           "kind": "Sino-Korean morpheme",
-          "meaning": "room"
+          "meaning": "room, chamber"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese",
+          "form": "溫室",
+          "meaning": "warmed indoor chamber",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern East Asian / Korean",
+          "form": "온실",
+          "meaning": "glass greenhouse, conservatory, sunroom",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Japanese",
+          "word": "温室 (おんしつ)",
+          "meaning": "greenhouse, hothouse"
+        },
+        {
+          "lang": "Mandarin",
+          "word": "溫室 / 温室 (wēnshì)",
+          "meaning": "greenhouse"
         }
       ],
       "rootFamily": [
         {
+          "word": "온도",
+          "gloss": "temperature (溫度)"
+        },
+        {
           "word": "지하실",
-          "gloss": "basement"
+          "gloss": "basement (地下室)"
         },
         {
           "word": "사무실",
-          "gloss": "office"
+          "gloss": "office (事務室)"
         }
       ],
       "sources": [
         {
           "title": "Wiktionary — 온실 (Korean)",
           "url": "https://en.wiktionary.org/wiki/%EC%98%A8%EC%8B%A4#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 온실",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%98%A8%EC%8B%A4"
         }
-      ]
+      ],
+      "notes": "Names both botanical glasshouses and sunny glass-enclosed courtyard rooms; the bound morpheme 실 (室, 'room') recurs in 객실 ('guest room'), 욕실 ('bathroom'), and 사무실 ('office')."
     },
     "올라가다": {
       "etymology": "Native Korean directional compound verb descending from Middle Korean 올아가다, formed from 오르다 ('to rise, climb, ascend', conjunctive 올라) + deictic motion verb 가다 ('to go away from the speaker').",
@@ -41017,33 +41460,71 @@
       ]
     },
     "음악": {
-      "etymology": "Sino-Korean 音樂, 'sound' plus 'music'.",
-      "notes": "The everyday word for music of any kind.",
+      "etymology": "Sino-Korean 음악 (音樂), combining 음 (音, 'voice, pitched tone, sound') + 악 (樂, 'instrumental music, harmony'). Rooted in Classical Chinese musical philosophy (such as the Yueji / Record of Music) and established across East Asia as the general word for music.",
       "certainty": "established",
       "morphemes": [
         {
           "part": "음 (音)",
           "kind": "Sino-Korean morpheme",
-          "meaning": "sound"
+          "meaning": "sound, musical tone"
         },
         {
           "part": "악 (樂)",
           "kind": "Sino-Korean morpheme",
+          "meaning": "music, musical performance"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Chinese",
+          "form": "音樂",
+          "meaning": "tones and instrumental music",
+          "certainty": "established"
+        },
+        {
+          "stage": "Korean",
+          "form": "음악",
+          "meaning": "music",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Japanese",
+          "word": "音楽 (おんがく)",
+          "meaning": "music"
+        },
+        {
+          "lang": "Mandarin",
+          "word": "音樂 / 音乐 (yīnyuè)",
           "meaning": "music"
         }
       ],
       "rootFamily": [
         {
-          "word": "노래",
-          "gloss": "song"
+          "word": "소리 / 발음",
+          "gloss": "pronunciation (發音, sharing 音)"
+        },
+        {
+          "word": "악기",
+          "gloss": "musical instrument (樂器)"
+        },
+        {
+          "word": "음악가",
+          "gloss": "musician (音樂家)"
         }
       ],
       "sources": [
         {
           "title": "Wiktionary — 음악 (Korean)",
           "url": "https://en.wiktionary.org/wiki/%EC%9D%8C%EC%95%85#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 음악",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%9D%8C%EC%95%85"
         }
-      ]
+      ],
+      "notes": "Notice how the character 樂 has three readings in Sino-Korean depending on sense: 악 ('music', 음악), 락/낙 ('pleasure', 오락), and 요 ('to delight in')."
     },
     "음악회": {
       "etymology": "Sino-Korean compound 음악회 (音樂會), joining 음악 (音樂, 'music', from 音 'sound' + 樂 'music') and 회 (會, 'gathering, assembly, recital').",
@@ -41469,6 +41950,35 @@
           "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%9D%B4%EB%A7%88"
         }
       ]
+    },
+    "이미": {
+      "etymology": "Native Korean temporal adverb inherited from fifteenth-century Middle Korean 이미 / 이믜 ('already, beforehand'), regularly used in Joseon-dynasty vernacular glosses (언해) to translate Classical Chinese 已 and 旣 ('already').",
+      "certainty": "established",
+      "history": [
+        {
+          "stage": "Middle Korean (15th c.)",
+          "form": "이믜 / 이미",
+          "meaning": "already, previously",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "이미",
+          "meaning": "already",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 이미 (Korean)",
+          "url": "https://en.wiktionary.org/wiki/%EC%9D%B4%EB%AF%B8#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 이미",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%9D%B4%EB%AF%B8"
+        }
+      ],
+      "notes": "Compare 이미 and 벌써: 이미 calmly reports a completed fact ('the bread is already in the oven'), whereas 벌써 expresses surprise ('finished already?!')."
     },
     "이백팔십": {
       "etymology": "Sino-Korean numeral compound 이백팔십 (二百八十), joining 이백 (二百, 'two hundred') and 팔십 (八十, 'eighty').",
@@ -44062,6 +44572,53 @@
         }
       ]
     },
+    "적어도": {
+      "etymology": "Lexicalised native Korean adverb formed from the stem 적- of 적다 ('to be few, small in quantity', from Middle Korean 젹다) plus the concessive connective ending -어도 ('even though, even if'), literally 'even if it be little / few' -> 'at least'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "적-",
+          "kind": "native adjective stem",
+          "meaning": "few, small in amount (from 적다)"
+        },
+        {
+          "part": "-어도",
+          "kind": "concessive ending",
+          "meaning": "even if, at the minimum"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Middle Korean",
+          "form": "젹다 (stem 젹-)",
+          "meaning": "to be few, scanty",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "적어도",
+          "meaning": "at least, at a minimum",
+          "certainty": "established"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "적다",
+          "gloss": "to be few, little in quantity"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 적어도 (Korean)",
+          "url": "https://en.wiktionary.org/wiki/%EC%A0%81%EC%96%B4%EB%8F%84#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 적어도",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%A0%81%EC%96%B4%EB%8F%84"
+        }
+      ],
+      "notes": "Parallel in structure to English 'at least' or Japanese 少なくとも ('even if few'): sets either a numerical floor or a silver lining."
+    },
     "적히다": {
       "etymology": "Native Korean passive verb formed from 적다 ('to write down, record') + the passive suffix -히-.",
       "certainty": "established",
@@ -45209,6 +45766,73 @@
           "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%A0%95%EC%9B%90%EC%9A%A9"
         }
       ]
+    },
+    "정전": {
+      "etymology": "Sino-Korean 정전 (停電), combining 정 (停, 'to stop, halt, suspend') + 전 (電, 'lightning; electricity'). Coined in modern Sinospheric technical vocabulary in the late nineteenth / early twentieth century for an interruption of electrical power.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "정 (停)",
+          "kind": "Sino-Korean morpheme",
+          "meaning": "stop, halt, suspend"
+        },
+        {
+          "part": "전 (電)",
+          "kind": "Sino-Korean morpheme",
+          "meaning": "electricity (originally lightning)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Modern East Asian Sinitic",
+          "form": "停電",
+          "meaning": "suspension of electric current, blackout",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "정전",
+          "meaning": "power outage, blackout",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Japanese",
+          "word": "停電 (ていでん)",
+          "meaning": "power outage, blackout"
+        },
+        {
+          "lang": "Mandarin",
+          "word": "停電 / 停电 (tíngdiàn)",
+          "meaning": "power cut, blackout"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "전기",
+          "gloss": "electricity (電氣)"
+        },
+        {
+          "word": "정지",
+          "gloss": "stop, halt (停止)"
+        },
+        {
+          "word": "손전등",
+          "gloss": "handheld flashlight"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary — 정전 (Korean)",
+          "url": "https://en.wiktionary.org/wiki/%EC%A0%95%EC%A0%84#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 정전",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%A0%95%EC%A0%84"
+        }
+      ],
+      "notes": "In speech, Koreans say 정전이 되다 or 정전이 나다 ('a blackout happens') alongside native 불이 나가다 ('the lights go out')."
     },
     "정직원": {
       "etymology": "Sino-Korean 정직원 (正職員), formed from prefix 정- (正, 'regular, official, full-time') + 직원 (職員, 'staff member, employee', from 職 'post, duty' + 員 'member, personnel').",
@@ -49878,22 +50502,57 @@
       ]
     },
     "카페": {
-      "etymology": "Borrowed from French/English café.",
-      "notes": "Modern Seoul neighbourhood word for coffeehouses and bakery cafés, largely superseding the mid-20th-century 다방 (茶房).",
+      "etymology": "Borrowed in the twentieth century from French café ('coffee; coffeehouse', also reinforced via English café and Japanese カフェ), tracing back through Italian caffè and Ottoman Turkish kahve to Arabic qahwa (قَهْوَة, 'dark brew, coffee').",
       "certainty": "established",
+      "history": [
+        {
+          "stage": "Arabic -> Ottoman Turkish",
+          "form": "قَهْوَة (qahwa) -> kahve",
+          "meaning": "coffee",
+          "certainty": "established"
+        },
+        {
+          "stage": "Italian -> French",
+          "form": "caffè -> café",
+          "meaning": "coffee; coffeehouse",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "카페",
+          "meaning": "café, coffeehouse",
+          "certainty": "established"
+        }
+      ],
       "cognates": [
         {
           "lang": "French",
           "word": "café",
-          "meaning": "coffeehouse"
+          "meaning": "coffee; coffeehouse"
+        },
+        {
+          "lang": "Japanese",
+          "word": "カフェ",
+          "meaning": "café"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "커피",
+          "gloss": "coffee (drink, borrowed separately via English coffee)"
         }
       ],
       "sources": [
         {
           "title": "Wiktionary — 카페 (Korean)",
           "url": "https://en.wiktionary.org/wiki/%EC%B9%B4%ED%8E%98#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 카페",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%EC%B9%B4%ED%8E%98"
         }
-      ]
+      ],
+      "notes": "Korean neatly splits the European word family into 카페 (from French café) for the neighbourhood coffee shop and 커피 (from English coffee) for the drink itself."
     },
     "카펫": {
       "etymology": "Borrowed in the 20th century from English carpet ('thick woven floor covering').",
@@ -56275,28 +56934,67 @@
       ]
     },
     "흑백": {
-      "etymology": "Sino-Korean 黑白, 'black' plus 'white'.",
-      "notes": "Used for old photos and films, and figuratively for right and wrong.",
+      "etymology": "Sino-Korean coordinate compound 흑백 (黑白), pairing 흑 (黑, 'black, dark') + 백 (白, 'white, clear'). Used since Classical Chinese for stark visual contrast and figurative moral clarity ('right and wrong'), and in modern Korean for monochrome photography and film.",
       "certainty": "established",
       "morphemes": [
         {
           "part": "흑 (黑)",
           "kind": "Sino-Korean morpheme",
-          "meaning": "black"
+          "meaning": "black, dark"
         },
         {
           "part": "백 (白)",
           "kind": "Sino-Korean morpheme",
-          "meaning": "white"
+          "meaning": "white, plain, clear"
         }
       ],
-      "rootFamily": [],
+      "history": [
+        {
+          "stage": "Classical Chinese",
+          "form": "黑白",
+          "meaning": "black and white; right and wrong",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Korean",
+          "form": "흑백",
+          "meaning": "black-and-white (monochrome); right and wrong",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Mandarin",
+          "word": "黑白 (hēibái)",
+          "meaning": "black and white; right and wrong"
+        },
+        {
+          "lang": "Japanese",
+          "word": "白黒 / 黒白 (しろくろ / こくびゃく)",
+          "meaning": "black and white"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "흑백사진",
+          "gloss": "black-and-white photograph"
+        },
+        {
+          "word": "백지",
+          "gloss": "blank white sheet of paper (白紙)"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary — 흑백 (Korean)",
           "url": "https://en.wiktionary.org/wiki/%ED%9D%91%EB%B0%B1#Korean"
+        },
+        {
+          "title": "국립국어원 표준국어대사전 — 흑백",
+          "url": "https://stdict.korean.go.kr/search/searchResult.do?pageSize=10&searchKeyword=%ED%9D%91%EB%B0%B1"
         }
-      ]
+      ],
+      "notes": "Note the reversed order compared with English: Korean and Chinese place 'black' before 'white' (흑백, 'black-white'), pronounced [흑빽] with tensification."
     },
     "흔들다": {
       "etymology": "Native Korean transitive verb descending from Middle Korean 흔들다 ('to shake, wave, rock, sway back and forth').",

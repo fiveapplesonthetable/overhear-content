@@ -2933,21 +2933,32 @@
       ]
     },
     "एक-एक": {
-      "etymology": "Distributive reduplication of एक ('one').",
+      "etymology": "Productive Indo-Aryan distributive reduplication of एक (ek, 'one'), itself inherited via Prakrit इक्क / एक्क (ikka / ekka) from Sanskrit एक (eka, 'one, single, alone', from Proto-Indo-Iranian *Háykas).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "एक",
+          "kind": "numeral",
+          "meaning": "one"
+        },
+        {
+          "part": "-एक",
+          "kind": "reduplicated numeral",
+          "meaning": "distributive ('each, apiece, one by one')"
+        }
+      ],
       "history": [
+        {
+          "stage": "Sanskrit -> Prakrit",
+          "form": "एक (eka) -> एक्क (ekka)",
+          "meaning": "one, single",
+          "certainty": "established"
+        },
         {
           "stage": "Hindi",
           "form": "एक-एक (ek-ek)",
-          "meaning": "one each; one by one",
+          "meaning": "one each, one by one, every single",
           "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary: एक-एक (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%8F%E0%A4%95-%E0%A4%8F%E0%A4%95#Hindi"
         }
       ],
       "rootFamily": [
@@ -2956,14 +2967,21 @@
           "gloss": "one; a / an"
         },
         {
-          "word": "दोनों",
-          "gloss": "both"
+          "word": "अकेला",
+          "gloss": "alone, single"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: एक-एक (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%8F%E0%A4%95-%E0%A4%8F%E0%A4%95#Hindi"
         },
         {
-          "word": "हर",
-          "gloss": "every; each"
+          "title": "Wiktionary: एक (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%8F%E0%A4%95#Hindi"
         }
-      ]
+      ],
+      "notes": "Followed by a singular noun (एक-एक कमरा, 'every single room / one room each'), and pairs with करके in एक-एक करके ('one by one')."
     },
     "एकदम": {
       "etymology": "Compound of एक ('one') + Persian दम (dam, 'breath, moment'), literally 'in a single breath'.",
@@ -3580,33 +3598,59 @@
       ]
     },
     "कभी-कभी": {
-      "etymology": "Reduplicated form of कभी ('sometime, ever').",
-      "history": [
+      "etymology": "Attenuative reduplication of कभी (kabhī, 'ever, at some time'), which evolved in Early Hindi by fusing कब (kab, 'when', < Prakrit कब्ब < Sanskrit कदा kadā) with the emphatic particle ही (hī, producing aspirated -भ-).",
+      "certainty": "established",
+      "morphemes": [
         {
-          "stage": "Hindi",
-          "form": "कभी-कभी (kabhī-kabhī)",
-          "meaning": "from time to time",
-          "certainty": "established"
+          "part": "कभी",
+          "kind": "indefinite adverb",
+          "meaning": "ever, at some time (< कब + ही)"
+        },
+        {
+          "part": "-कभी",
+          "kind": "reduplicant",
+          "meaning": "distributive ('now and then, occasionally')"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
+      "history": [
         {
-          "title": "Wiktionary: कभी-कभी (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%95%E0%A4%AD%E0%A5%80-%E0%A4%95%E0%A4%AD%E0%A5%80#Hindi"
+          "stage": "Early Hindi",
+          "form": "कब + ही -> कभी (kabhī)",
+          "meaning": "at any time, ever",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Hindi",
+          "form": "कभी-कभी (kabhī-kabhī)",
+          "meaning": "sometimes, from time to time",
+          "certainty": "established"
         }
       ],
       "rootFamily": [
         {
           "word": "कभी",
-          "gloss": "ever; sometime; (with नहीं) never"
+          "gloss": "ever, sometime; (कभी नहीं) never"
         },
         {
-          "word": "हमेशा",
-          "gloss": "always"
+          "word": "कब",
+          "gloss": "when?"
+        },
+        {
+          "word": "तभी",
+          "gloss": "just then (< तब + ही)"
         }
-      ]
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: कभी-कभी (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%95%E0%A4%AD%E0%A5%80-%E0%A4%95%E0%A4%AD%E0%A5%80#Hindi"
+        },
+        {
+          "title": "Wiktionary: कभी (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%95%E0%A4%AD%E0%A5%80#Hindi"
+        }
+      ],
+      "notes": "Repeating an indefinite time word in Hindi turns 'at some time' (कभी) into 'from time to time, occasionally' (कभी-कभी)."
     },
     "कम": {
       "etymology": "Borrowed from Classical Persian کم (kam, 'little, few, less'), from Old Persian kamna-.",
@@ -5514,37 +5558,40 @@
       ]
     },
     "कोट": {
-      "etymology": "Borrowed from English coat, from Old French cote.",
+      "etymology": "Borrowed from English coat ('sleeved outer garment, suit jacket'), which entered Middle English from Old French cote ('tunic, overgarment'), ultimately of Frankish origin (*kotta, 'coarse woollen cloak').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "coat",
-          "meaning": "outer garment with sleeves",
+          "stage": "Old French -> Middle–Modern English",
+          "form": "cote -> coat",
+          "meaning": "outer tunic -> tailored jacket or overcoat",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "कोट (koṭ)",
+          "meaning": "coat, suit blazer, winter jacket",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "coat",
+          "meaning": "outer garment, jacket"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: कोट (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%9F#Hindi"
+        },
+        {
+          "title": "Wiktionary: coat (English)",
+          "url": "https://en.wiktionary.org/wiki/coat#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "जेब",
-          "gloss": "pocket"
-        },
-        {
-          "word": "कपड़ा",
-          "gloss": "cloth; piece of fabric; clothes (in plural कपड़े)"
-        },
-        {
-          "word": "कार्डिगन",
-          "gloss": "cardigan"
-        }
-      ]
+      "notes": "Masculine in Hindi (मेरा कोट); English alveolar -t is adapted regularly with retroflex ट (koṭ)."
     },
     "कोना": {
       "etymology": "Inherited from Sanskrit कोण (koṇa, 'angle, corner'), via Prakrit कोण (koṇa).",
@@ -5824,37 +5871,45 @@
       ]
     },
     "क्लास": {
-      "etymology": "Borrowed from English class, from Latin classis.",
+      "etymology": "Borrowed from English class ('school group, lesson, railway carriage grade'), adapted via seventeenth-century French classe from Classical Latin classis ('division of Roman citizens, fleet, school group').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "class",
-          "meaning": "lesson; school group",
+          "stage": "Classical Latin -> French -> English",
+          "form": "classis -> classe -> class",
+          "meaning": "civic division -> group of students, lesson",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "क्लास (klās)",
+          "meaning": "class, lesson, classroom session",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "class",
+          "meaning": "lesson, student group"
+        },
+        {
+          "lang": "French",
+          "word": "classe",
+          "meaning": "class, classroom"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: क्लास (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8#Hindi"
+        },
+        {
+          "title": "Wiktionary: class (English)",
+          "url": "https://en.wiktionary.org/wiki/class#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "स्कूल",
-          "gloss": "school"
-        },
-        {
-          "word": "टीचर",
-          "gloss": "teacher"
-        },
-        {
-          "word": "पियानो",
-          "gloss": "piano"
-        }
-      ]
+      "notes": "Feminine in everyday Hindi (मेरी पियानो क्लास, 'my piano class'), influenced by feminine कक्षा (kakṣā, 'classroom, class')."
     },
     "क्लिप": {
       "etymology": "Borrowed from English clip ('fastener, paperclip').",
@@ -7535,37 +7590,52 @@
       ]
     },
     "गेस्टहाउस": {
-      "etymology": "Borrowed from English guesthouse (guest + house).",
+      "etymology": "Borrowed from English guesthouse, compound of guest (from Old Norse gestr, Proto-Indo-European *gʰóstis 'stranger, guest') + house (from Old English hūs 'dwelling').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "गेस्ट-",
+          "kind": "loanword noun",
+          "meaning": "guest (< English guest)"
+        },
+        {
+          "part": "-हाउस",
+          "kind": "loanword noun",
+          "meaning": "house, lodging (< English house)"
+        }
+      ],
       "history": [
         {
           "stage": "English",
           "form": "guesthouse",
-          "meaning": "small lodging house",
+          "meaning": "small lodging house for travellers",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "गेस्टहाउस (gesṭhāus)",
+          "meaning": "guesthouse, family-run inn",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "guesthouse",
+          "meaning": "small travellers' inn"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: गेस्टहाउस (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%97%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8#Hindi"
+        },
+        {
+          "title": "Wiktionary: guesthouse (English)",
+          "url": "https://en.wiktionary.org/wiki/guesthouse#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "हवेली",
-          "gloss": "haveli; traditional courtyard mansion"
-        },
-        {
-          "word": "होटल",
-          "gloss": "hotel"
-        },
-        {
-          "word": "मेहमान",
-          "gloss": "guest"
-        }
-      ]
+      "notes": "Masculine in Hindi (हमारा गेस्टहाउस), following the masculine gender of घर ('house, home')."
     },
     "गोल": {
       "etymology": "Inherited from Sanskrit गोल (gola, 'ball, globe, sphere, round').",
@@ -9397,37 +9467,52 @@
       ]
     },
     "चेक-इन": {
-      "etymology": "Borrowed from English check-in.",
+      "etymology": "Borrowed from English check-in, nominalisation of the phrasal verb check in ('to verify and register one's arrival at a hotel desk or station'; English check itself derives via Old French eschec from Persian šāh 'king' in chess).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "चेक-",
+          "kind": "loanword stem",
+          "meaning": "verify, register (< English check)"
+        },
+        {
+          "part": "-इन",
+          "kind": "loanword particle",
+          "meaning": "in, into (< English in)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
+          "stage": "20th-century English",
           "form": "check-in",
-          "meaning": "arrival registration at a hotel",
+          "meaning": "arrival registration at a hotel or terminal",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "चेक-इन (cek-in)",
+          "meaning": "hotel or travel check-in",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "check-in",
+          "meaning": "registration on arrival"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: चेक-इन (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%9A%E0%A5%87%E0%A4%95-%E0%A4%87%E0%A4%A8#Hindi"
+        },
+        {
+          "title": "Wiktionary: check-in (English)",
+          "url": "https://en.wiktionary.org/wiki/check-in#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "रिसेप्शन",
-          "gloss": "reception desk; front desk"
-        },
-        {
-          "word": "रजिस्टर",
-          "gloss": "register; ledger book"
-        },
-        {
-          "word": "मेहमान",
-          "gloss": "guest"
-        }
-      ]
+      "notes": "Masculine noun in Hindi; turns into an active verb with करना (चेक-इन करना, 'to check in')."
     },
     "चेन": {
       "etymology": "Borrowed from English chain, semantically extended in Indian English and Hindi to slide fasteners (zippers).",
@@ -10126,37 +10211,40 @@
       ]
     },
     "जग": {
-      "etymology": "Borrowed from English jug.",
+      "etymology": "Borrowed in this household sense from early modern and modern English jug ('deep spouted vessel with a handle for pouring water or milk', attested in sixteenth-century English, likely a familiar transfer from the pet name Jug for Joan/Judith).",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
+          "stage": "Early Modern–Modern English",
           "form": "jug",
-          "meaning": "spouted pitcher",
+          "meaning": "handled pitcher for serving liquids",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "जग (jag)",
+          "meaning": "water pitcher, table jug",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "jug",
+          "meaning": "pitcher"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: जग (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%9C%E0%A4%97#Hindi"
+        },
+        {
+          "title": "Wiktionary: jug (English)",
+          "url": "https://en.wiktionary.org/wiki/jug#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "गिलास",
-          "gloss": "drinking glass; tumbler"
-        },
-        {
-          "word": "पानी",
-          "gloss": "water"
-        },
-        {
-          "word": "जूस",
-          "gloss": "juice"
-        }
-      ]
+      "notes": "Unrelated to its native homograph जग ('the world', inherited from Sanskrit जगत् jagat); पानी का जग means 'a pitcher of water'."
     },
     "जगह": {
       "etymology": "Borrowed from Classical Persian جایگاه (jāygāh, 'place, station'), shortened in spoken Hindustani to जगह.",
@@ -11411,37 +11499,40 @@
       ]
     },
     "जैम": {
-      "etymology": "Borrowed from English jam ('fruit preserve').",
+      "etymology": "Borrowed from English jam ('sweet preserve made by boiling crushed fruit with sugar', attested in eighteenth-century English from the verb jam 'to crush, press tightly together').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
+          "stage": "18th-century English",
           "form": "jam",
-          "meaning": "sweet fruit preserve",
+          "meaning": "crushed fruit boiled thick with sugar",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "जैम (jaim)",
+          "meaning": "fruit jam (breakfast preserve)",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "jam",
+          "meaning": "sweet fruit preserve"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: जैम (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%9C%E0%A5%88%E0%A4%AE#Hindi"
+        },
+        {
+          "title": "Wiktionary: jam (English)",
+          "url": "https://en.wiktionary.org/wiki/jam#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "मक्खन",
-          "gloss": "butter"
-        },
-        {
-          "word": "ब्रेड",
-          "gloss": "bread; sliced loaf bread"
-        },
-        {
-          "word": "स्ट्रॉबेरी",
-          "gloss": "strawberry"
-        }
-      ]
+      "notes": "Spelled जैम ([dʒɛːm]) with ऐ to render English /æ/, distinguishing breakfast fruit jam from ट्रैफ़िक जाम ('traffic jam', spelled with आ)."
     },
     "जैसा": {
       "etymology": "Inherited from Sanskrit यादृश (yādṛśa, 'like which, of whichever sort'), via Prakrit जइस (jaïsa).",
@@ -11735,6 +11826,35 @@
         }
       ]
     },
+    "झिझक": {
+      "etymology": "Inherited from Prakrit jhijjha, an expressive Indo-Aryan formation denoting sudden drawing back, shrinking, or hesitation.",
+      "history": [
+        {
+          "stage": "Prakrit",
+          "form": "झिज्झ (jhijjha)",
+          "meaning": "shrinking back, hesitation",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary: झिझक (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%9D%E0%A4%BF%E0%A4%9D%E0%A4%95#Hindi"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "डर",
+          "gloss": "fear"
+        },
+        {
+          "word": "चुप",
+          "gloss": "quiet; silent"
+        }
+      ]
+    },
     "झुकाना": {
       "etymology": "Transitive/causative of झुकना ('to bend, lean'), from Prakrit झुक्कइ.",
       "history": [
@@ -11942,33 +12062,40 @@
       ]
     },
     "टाई": {
-      "etymology": "Borrowed from English tie ('necktie').",
+      "etymology": "Borrowed from English tie ('band of silk or cloth knotted neatly under a shirt collar', shortened in eighteenth- and nineteenth-century English from neck-tie, itself from Old English tēag 'cord, band').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "tie",
+          "stage": "Old English -> Modern English",
+          "form": "tēag -> (neck)tie",
+          "meaning": "cord, band -> knotted dress necktie",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "टाई (ṭāī)",
           "meaning": "necktie",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "tie",
+          "meaning": "necktie"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: टाई (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%9F%E0%A4%BE%E0%A4%88#Hindi"
-        }
-      ],
-      "rootFamily": [
-        {
-          "word": "कोट",
-          "gloss": "coat; jacket"
         },
         {
-          "word": "कपड़ा",
-          "gloss": "cloth; piece of fabric; clothes (in plural कपड़े)"
+          "title": "Wiktionary: tie (English)",
+          "url": "https://en.wiktionary.org/wiki/tie#English"
         }
-      ]
+      ],
+      "notes": "Feminine in Hindi (नीली टाई, 'a blue tie') because loanwords ending in long -ई (-ī) regularly join the feminine declension."
     },
     "टायर": {
       "etymology": "Borrowed from English tyre (British spelling of tire).",
@@ -12000,37 +12127,52 @@
       ]
     },
     "टीचर": {
-      "etymology": "Borrowed from English teacher.",
+      "etymology": "Borrowed from English teacher, agent noun formed from teach (from Old English tǣċan 'to show, point out, instruct', Proto-Germanic *taikijaną, related to token) + agentive suffix -er.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "टीच-",
+          "kind": "loanword stem",
+          "meaning": "teach, instruct (< English teach)"
+        },
+        {
+          "part": "-र",
+          "kind": "loanword suffix",
+          "meaning": "agent ('one who teaches', < English -er)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
+          "stage": "Middle–Modern English",
           "form": "teacher",
-          "meaning": "instructor",
+          "meaning": "instructor, schoolteacher",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "टीचर (ṭīcar)",
+          "meaning": "teacher, music or school instructor",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "teacher",
+          "meaning": "instructor"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: टीचर (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%9F%E0%A5%80%E0%A4%9A%E0%A4%B0#Hindi"
+        },
+        {
+          "title": "Wiktionary: teacher (English)",
+          "url": "https://en.wiktionary.org/wiki/teacher#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "स्कूल",
-          "gloss": "school"
-        },
-        {
-          "word": "क्लास",
-          "gloss": "class; lesson"
-        },
-        {
-          "word": "सिखाना",
-          "gloss": "to teach"
-        }
-      ]
+      "notes": "Used everyday alongside formal अध्यापक / अध्यापिका and गुरुजी, taking masculine or feminine agreement according to the teacher's sex."
     },
     "टुकड़ा": {
       "etymology": "Inherited from Middle Indo-Aryan टुक्कड (ṭukkaḍa, 'piece, fragment').",
@@ -12114,37 +12256,40 @@
       ]
     },
     "टेप": {
-      "etymology": "Borrowed from English tape.",
+      "etymology": "Borrowed from English tape ('narrow strip of woven cloth, adhesive film, or measuring ribbon'), descending from Old English tæppe ('narrow strip or fillet of cloth').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "tape",
-          "meaning": "adhesive strip",
+          "stage": "Old English -> Modern English",
+          "form": "tæppe -> tape",
+          "meaning": "cloth ribbon -> adhesive or measuring tape",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "टेप (ṭep)",
+          "meaning": "adhesive tape, packing tape, measuring tape",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "tape",
+          "meaning": "adhesive or measuring strip"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: टेप (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%AA#Hindi"
+        },
+        {
+          "title": "Wiktionary: tape (English)",
+          "url": "https://en.wiktionary.org/wiki/tape#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "चिपकना",
-          "gloss": "to stick; to be taped or glued on"
-        },
-        {
-          "word": "काग़ज़",
-          "gloss": "paper; sheet of paper; document"
-        },
-        {
-          "word": "बक्सा",
-          "gloss": "box; trunk; toolbox"
-        }
-      ]
+      "notes": "Masculine in Hindi; टेप लगाना means 'to stick or seal with adhesive tape'."
     },
     "टैक्सी": {
       "etymology": "Borrowed from English taxi, shortened from taximeter cab.",
@@ -12180,37 +12325,40 @@
       ]
     },
     "टैग": {
-      "etymology": "Borrowed from English tag ('attached label').",
+      "etymology": "Borrowed from English tag ('small hanging card or label fastened to luggage or clothing'), attested since Middle English tagge ('hanging point or tab of cloth or metal', likely of Scandinavian origin).",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "tag",
-          "meaning": "hanging label",
+          "stage": "Middle–Modern English",
+          "form": "tagge -> tag",
+          "meaning": "hanging tab -> identification or price tag",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "टैग (ṭaig)",
+          "meaning": "luggage label, name tag, price tag",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "tag",
+          "meaning": "attached label"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: टैग (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%9F%E0%A5%88%E0%A4%97#Hindi"
+        },
+        {
+          "title": "Wiktionary: tag (English)",
+          "url": "https://en.wiktionary.org/wiki/tag#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "सूटकेस",
-          "gloss": "suitcase"
-        },
-        {
-          "word": "कार्ड",
-          "gloss": "card"
-        },
-        {
-          "word": "नाम",
-          "gloss": "name"
-        }
-      ]
+      "notes": "Masculine in Hindi (सूटकेस का टैग, 'the luggage tag on the suitcase')."
     },
     "टैबलेट": {
       "etymology": "Borrowed from English tablet ('flat touch-screen computer'), ultimately from Old French tablete.",
@@ -12345,66 +12493,81 @@
       ]
     },
     "ट्रैफ़िक": {
-      "etymology": "Borrowed from English traffic.",
+      "etymology": "Borrowed from English traffic ('flow and congestion of road vehicles'), which entered English via sixteenth-century French trafic from Old Italian traffico ('commercial trade, bustle of goods and carriers').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "traffic",
-          "meaning": "movement of vehicles along roads",
+          "stage": "Italian -> French -> English",
+          "form": "traffico -> trafic -> traffic",
+          "meaning": "commerce -> movement of vehicles along streets",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "ट्रैफ़िक (ṭraifik)",
+          "meaning": "road traffic, street congestion",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "traffic",
+          "meaning": "movement of road vehicles"
+        },
+        {
+          "lang": "French",
+          "word": "trafic",
+          "meaning": "traffic"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: ट्रैफ़िक (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%AB%E0%A4%BC%E0%A4%BF%E0%A4%95#Hindi"
+        },
+        {
+          "title": "Wiktionary: traffic (English)",
+          "url": "https://en.wiktionary.org/wiki/traffic#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "सड़क",
-          "gloss": "road; street"
-        },
-        {
-          "word": "गाड़ी",
-          "gloss": "car; van; vehicle; train"
-        },
-        {
-          "word": "शहर",
-          "gloss": "city; town"
-        }
-      ]
+      "notes": "Masculine in Hindi (आज बहुत ट्रैफ़िक था, 'there was heavy traffic today'); written with nuqta फ़ for labiodental [f]."
     },
     "ट्रैवल": {
-      "etymology": "Borrowed from English travel.",
+      "etymology": "Borrowed from English travel ('journeying, tourism'), which split in Middle English from travail ('toil, arduous journey'), borrowed from Old French travailler ('to labour, toil on the road').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "travel",
-          "meaning": "journeying; tourism",
+          "stage": "Old French -> Middle–Modern English",
+          "form": "travailler -> travail -> travel",
+          "meaning": "arduous effort -> journeying",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "ट्रैवल (ṭraival)",
+          "meaning": "travel (especially in compounds like ट्रैवल गाइड and ट्रैवल बैग)",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "travel",
+          "meaning": "journeying, tourism"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: ट्रैवल (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B5%E0%A4%B2#Hindi"
-        }
-      ],
-      "rootFamily": [
-        {
-          "word": "यात्रा",
-          "gloss": "journey; trip"
         },
         {
-          "word": "गाइड",
-          "gloss": "guide; guidebook"
+          "title": "Wiktionary: travel (English)",
+          "url": "https://en.wiktionary.org/wiki/travel#English"
         }
-      ]
+      ],
+      "notes": "Used chiefly in modern compounds such as ट्रैवल गाइड ('travel guidebook') and ट्रैवल एजेंसी, while standalone 'journey/trip' is सफ़र or यात्रा."
     },
     "ठंडा": {
       "etymology": "Inherited from Sanskrit स्तब्ध (stabdha, 'stiffened, numbed, chilled'), via Prakrit ठद्ध -> ठंड (ṭhaṇḍa).",
@@ -13198,37 +13361,63 @@
       ]
     },
     "तभी": {
-      "etymology": "Formed from तब ('then') + emphatic particle ही.",
-      "history": [
+      "etymology": "Formed within Early Hindi by fusing तब (tab, 'then, at that time', inherited via Prakrit तब्ब from Sanskrit तदा tadā) with the exclusive emphatic particle ही (hī, < Prakrit हिअ < Sanskrit हि hi), coalescing -ब + ह- into aspirated -भ- (तभी).",
+      "certainty": "established",
+      "morphemes": [
         {
-          "stage": "Early Hindi",
-          "form": "तब + ही -> तभी (tabhī)",
-          "meaning": "right then; for that very reason",
-          "certainty": "established"
+          "part": "तब-",
+          "kind": "temporal adverb",
+          "meaning": "then, at that time"
+        },
+        {
+          "part": "-ही (-> -भी)",
+          "kind": "emphatic particle",
+          "meaning": "right then, at that exact moment"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
+      "history": [
         {
-          "title": "Wiktionary: तभी (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%A4%E0%A4%AD%E0%A5%80#Hindi"
+          "stage": "Sanskrit -> Prakrit",
+          "form": "तदा (tadā) -> तब्ब",
+          "meaning": "at that time, then",
+          "certainty": "established"
+        },
+        {
+          "stage": "Early–Modern Hindi",
+          "form": "तब + ही -> तभी (tabhī)",
+          "meaning": "just then, at that very instant; that's why!",
+          "certainty": "established"
         }
       ],
       "rootFamily": [
         {
           "word": "तब",
-          "gloss": "then; at that time; तब तक 'until then'"
+          "gloss": "then, at that time"
         },
         {
           "word": "अभी",
-          "gloss": "right now; just now; still / yet"
+          "gloss": "right now (< अब + ही)"
+        },
+        {
+          "word": "कभी",
+          "gloss": "ever, sometime (< कब + ही)"
         },
         {
           "word": "जब",
-          "gloss": "when (in a statement or time clause, never a question!)"
+          "gloss": "when (relative)"
         }
-      ]
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: तभी (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%A4%E0%A4%AD%E0%A5%80#Hindi"
+        },
+        {
+          "title": "Wiktionary: तब (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%A4%E0%A4%AC#Hindi"
+        }
+      ],
+      "notes": "Part of Hindi's symmetrical चार-way time set: अब -> अभी ('right now'), तब -> तभी ('right then / no wonder!'), कब -> कभी ('ever'), जब -> जभी ('the moment when')."
     },
     "तय": {
       "etymology": "Borrowed from Arabic طَيّ (ṭayy, 'folding up, concluding, settling'), via Classical Persian طی (tay).",
@@ -14796,6 +14985,35 @@
         {
           "word": "भाई",
           "gloss": "brother"
+        }
+      ]
+    },
+    "दादाजी": {
+      "etymology": "Compound of Hindi दादा (dādā, 'paternal grandfather; elder brother') and the honorific enclitic जी (jī, from Sanskrit जीव jīva, 'life, soul').",
+      "history": [
+        {
+          "stage": "Sanskrit",
+          "form": "जीव (jīva)",
+          "meaning": "life, living being (source of honorific जी)",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [],
+      "certainty": "established",
+      "sources": [
+        {
+          "title": "Wiktionary: दादा (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%A6%E0%A4%BE%E0%A4%A6%E0%A4%BE#Hindi"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "जी",
+          "gloss": "respectful particle"
+        },
+        {
+          "word": "परिवार",
+          "gloss": "family"
         }
       ]
     },
@@ -21076,37 +21294,58 @@
       ]
     },
     "पोस्टकार्ड": {
-      "etymology": "Borrowed from English postcard.",
+      "etymology": "Borrowed from British and Indian English postcard (attested from 1870 when postal administrations introduced open correspondence cards), combining post ('mail service', via French poste and Italian posta < Latin posita 'relay station') + card (via French carte < Latin charta).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "पोस्ट-",
+          "kind": "loanword noun",
+          "meaning": "mail, postal service (< English post)"
+        },
+        {
+          "part": "-कार्ड",
+          "kind": "loanword noun",
+          "meaning": "stiff paper card (< English card)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
+          "stage": "Late 19th-century English",
           "form": "postcard",
-          "meaning": "card sent by post without an envelope",
+          "meaning": "open card sent through the post without an envelope",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "पोस्टकार्ड (posṭkārḍ)",
+          "meaning": "postcard",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
+      "cognates": [
         {
-          "title": "Wiktionary: पोस्टकार्ड (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%AA%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1#Hindi"
+          "lang": "English",
+          "word": "postcard",
+          "meaning": "postcard"
         }
       ],
       "rootFamily": [
         {
-          "word": "चिट्ठी",
-          "gloss": "letter; written note"
-        },
-        {
-          "word": "डाकिया",
-          "gloss": "postman; mail carrier"
-        },
-        {
-          "word": "लिफ़ाफ़ा",
-          "gloss": "envelope; paper bag"
+          "word": "कार्ड",
+          "gloss": "card"
         }
-      ]
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: पोस्टकार्ड (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%AA%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1#Hindi"
+        },
+        {
+          "title": "Wiktionary: postcard (English)",
+          "url": "https://en.wiktionary.org/wiki/postcard#English"
+        }
+      ],
+      "notes": "Masculine in Hindi; deeply familiar across India both for picture postcards and India Post's classic buff-yellow inland postal card."
     },
     "पौधा": {
       "etymology": "Inherited from Sanskrit पोतक (potaka, 'young shoot, sapling, young one'), via Prakrit पोअ / पौध.",
@@ -21638,29 +21877,50 @@
       ]
     },
     "फ़्रेंच": {
-      "etymology": "Borrowed from English French.",
+      "etymology": "Borrowed from English French ('of or relating to France'), descending from Old English Frencisc and Proto-Germanic *frankiskaz ('of the Franks').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "French",
-          "meaning": "of France",
+          "stage": "Old English -> Modern English",
+          "form": "Frencisc -> French",
+          "meaning": "pertaining to France or its language",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "फ़्रेंच (freñc)",
+          "meaning": "French (language, cuisine, or architectural style)",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
+      "cognates": [
         {
-          "title": "Wiktionary: फ़्रेंच (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%AB%E0%A4%BC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9A#Hindi"
+          "lang": "English",
+          "word": "French",
+          "meaning": "of France; the French language"
         }
       ],
       "rootFamily": [
         {
-          "word": "अंदाज़",
-          "gloss": "style; manner; way"
+          "word": "फ़्रांस",
+          "gloss": "France"
+        },
+        {
+          "word": "फ़्रांसीसी",
+          "gloss": "French (formal Perso-Hindi adjective)"
         }
-      ]
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: फ़्रेंच (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%AB%E0%A4%BC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9A#Hindi"
+        },
+        {
+          "title": "Wiktionary: French (English)",
+          "url": "https://en.wiktionary.org/wiki/French#English"
+        }
+      ],
+      "notes": "Invariable adjective in spoken Hindi (फ़्रेंच विंडो, फ़्रेंच टोस्ट), coexisting with literary फ़्रांसीसी."
     },
     "फिर": {
       "etymology": "Inherited from Prakrit फिरइ ('turns around, comes back'), used adverbially for 'again, next, then'.",
@@ -23251,37 +23511,52 @@
       ]
     },
     "बाथरूम": {
-      "etymology": "Borrowed from English bathroom (bath + room).",
+      "etymology": "Borrowed from English bathroom, compound of bath (Old English bæþ, 'warm immersion washing') + room (Old English rūm, 'space, chamber').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "बाथ-",
+          "kind": "loanword noun",
+          "meaning": "bath, washing (< English bath)"
+        },
+        {
+          "part": "-रूम",
+          "kind": "loanword noun",
+          "meaning": "room (< English room)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
+          "stage": "18th–19th-century English",
           "form": "bathroom",
-          "meaning": "washroom",
+          "meaning": "room equipped for bathing and washing",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "बाथरूम (bāthrūm)",
+          "meaning": "bathroom, washroom",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "bathroom",
+          "meaning": "washroom, bathroom"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: बाथरूम (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%A5%E0%A4%B0%E0%A5%82%E0%A4%AE#Hindi"
+        },
+        {
+          "title": "Wiktionary: bathroom (English)",
+          "url": "https://en.wiktionary.org/wiki/bathroom#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "तौलिया",
-          "gloss": "towel"
-        },
-        {
-          "word": "साबुन",
-          "gloss": "soap"
-        },
-        {
-          "word": "शॉवर",
-          "gloss": "shower"
-        }
-      ]
+      "notes": "Masculine in Hindi (कमरे के साथ अटैच बाथरूम), preferred in everyday urban speech over formal स्नानघर."
     },
     "बाद": {
       "etymology": "Borrowed from Arabic بَعْد (baʿd, 'after, afterwards'), via Classical Persian بعد (baʿd -> bād).",
@@ -24341,37 +24616,40 @@
       ]
     },
     "बैग": {
-      "etymology": "Borrowed from English bag, from Old Norse baggi.",
+      "etymology": "Borrowed from English bag ('flexible carrying sack, handbag, or travel valise'), which entered Middle English bagge from Old Norse baggi ('pack, bundle, bag').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "bag",
-          "meaning": "carrying sack or valise",
+          "stage": "Old Norse -> Middle–Modern English",
+          "form": "baggi -> bagge -> bag",
+          "meaning": "pack, bundle -> carrying sack or travel bag",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "बैग (baig)",
+          "meaning": "travelling bag, shoulder bag, backpack, handbag",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "bag",
+          "meaning": "carrying bag"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: बैग (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%AC%E0%A5%88%E0%A4%97#Hindi"
+        },
+        {
+          "title": "Wiktionary: bag (English)",
+          "url": "https://en.wiktionary.org/wiki/bag#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "सूटकेस",
-          "gloss": "suitcase"
-        },
-        {
-          "word": "थैला",
-          "gloss": "cloth bag; tote bag; shopping sack"
-        },
-        {
-          "word": "जेब",
-          "gloss": "pocket"
-        }
-      ]
+      "notes": "Masculine in Hindi (मेरा बैग भारी है); covers backpacks, handbags, and overnight duffels, while native थैला usually means a cloth market tote."
     },
     "बैठना": {
       "etymology": "Inherited from Sanskrit उपविशति / उपविष्ट (upaviṣṭa, 'seated'), via Prakrit उवइट्ठइ -> बइट्ठइ (baïṭṭhaï).",
@@ -24496,33 +24774,58 @@
       ]
     },
     "बोरिंग": {
-      "etymology": "Borrowed from English boring.",
+      "etymology": "Borrowed from nineteenth- and twentieth-century English boring ('tedious, dull, wearisome'), participial adjective of bore ('to weary by dull repetition', figuratively pressing on a listener slowly like an auger boring wood).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "बोर-",
+          "kind": "loanword stem",
+          "meaning": "weary, bore (< English bore)"
+        },
+        {
+          "part": "-इंग",
+          "kind": "loanword suffix",
+          "meaning": "participial adjective (< English -ing)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
-          "form": "boring",
-          "meaning": "tedious; uninteresting",
+          "stage": "18th–19th-century English",
+          "form": "bore -> boring",
+          "meaning": "to weary -> tedious, uninteresting",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "बोरिंग (boriṅg)",
+          "meaning": "boring, dull",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
+      "cognates": [
         {
-          "title": "Wiktionary: बोरिंग (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%97#Hindi"
+          "lang": "English",
+          "word": "boring",
+          "meaning": "tedious, dull"
         }
       ],
       "rootFamily": [
         {
-          "word": "अजीब",
-          "gloss": "strange; odd; funny"
+          "word": "बोर",
+          "gloss": "bored (बोर होना 'to feel bored')"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: बोरिंग (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%97#Hindi"
         },
         {
-          "word": "शांत",
-          "gloss": "quiet; peaceful; calm"
+          "title": "Wiktionary: boring (English)",
+          "url": "https://en.wiktionary.org/wiki/boring#English"
         }
-      ]
+      ],
+      "notes": "Invariable adjective across genders and numbers in Hindi (बोरिंग किताब, बोरिंग दिन); pairs with बोर होना ('to get bored')."
     },
     "बोर्ड": {
       "etymology": "Borrowed from English board ('signboard, wooden plank').",
@@ -26540,37 +26843,52 @@
       ]
     },
     "मिस्टर": {
-      "etymology": "Borrowed from English Mister.",
+      "etymology": "Borrowed from English Mister (abbreviated Mr.), weakened unstressed form of early modern English master, descending via Old French maistre from Classical Latin magister ('chief, teacher, master', built on magis 'more').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "Mister",
-          "meaning": "polite title before a man's name or epithet",
+          "stage": "Classical Latin -> Old French",
+          "form": "magister -> maistre",
+          "meaning": "chief, master, teacher",
+          "certainty": "established"
+        },
+        {
+          "stage": "Early Modern–Modern English",
+          "form": "master -> Mister (Mr.)",
+          "meaning": "courteous title placed before a man's surname or full name",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "मिस्टर (misṭar)",
+          "meaning": "Mister, Mr.",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
+      "cognates": [
         {
-          "title": "Wiktionary: मिस्टर (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%AE%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0#Hindi"
+          "lang": "English",
+          "word": "Mister",
+          "meaning": "Mr."
         }
       ],
       "rootFamily": [
         {
-          "word": "सर",
-          "gloss": "sir"
-        },
-        {
-          "word": "सज्जन",
-          "gloss": "gentleman; kind/respectable person"
-        },
-        {
-          "word": "मैडम",
-          "gloss": "madam; ma'am"
+          "word": "मास्टर",
+          "gloss": "schoolmaster, master tailor/craftsman (earlier doublet from English master)"
         }
-      ]
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: मिस्टर (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%AE%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0#Hindi"
+        },
+        {
+          "title": "Wiktionary: Mister (English)",
+          "url": "https://en.wiktionary.org/wiki/Mister#English"
+        }
+      ],
+      "notes": "Placed before a surname or full name (मिस्टर शर्मा), contrasting with native honorific जी placed after the name (शर्मा जी) and formal श्री."
     },
     "मीटर": {
       "etymology": "Borrowed from English metre / meter, from French mètre.",
@@ -27369,37 +27687,52 @@
       ]
     },
     "मैनेजर": {
-      "etymology": "Borrowed from English manager.",
+      "etymology": "Borrowed from English manager ('person who directs a hotel, shop, or office'), formed from manage (from sixteenth-century Italian maneggiare 'to handle, train a horse by hand', derived from Latin manus 'hand') + agent suffix -er.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "मैनेज-",
+          "kind": "loanword stem",
+          "meaning": "direct, handle (< English manage)"
+        },
+        {
+          "part": "-र",
+          "kind": "loanword suffix",
+          "meaning": "agent ('person in charge', < English -er)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
-          "form": "manager",
-          "meaning": "person in charge of running an establishment",
+          "stage": "Italian -> Early Modern–Modern English",
+          "form": "maneggiare -> manage -> manager",
+          "meaning": "to handle -> to direct -> person running an establishment",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "मैनेजर (mainejar)",
+          "meaning": "manager (of a hotel, bank, or business)",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "manager",
+          "meaning": "person in charge of an establishment"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: मैनेजर (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%AE%E0%A5%88%E0%A4%A8%E0%A5%87%E0%A4%9C%E0%A4%B0#Hindi"
+        },
+        {
+          "title": "Wiktionary: manager (English)",
+          "url": "https://en.wiktionary.org/wiki/manager#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "रिसेप्शन",
-          "gloss": "reception desk; front desk"
-        },
-        {
-          "word": "नौकरी",
-          "gloss": "job; employment; post"
-        },
-        {
-          "word": "होटल",
-          "gloss": "hotel"
-        }
-      ]
+      "notes": "Commonly addressed respectfully in North Indian hotels and offices as मैनेजर साहब ('Manager-sahib')."
     },
     "मोटा": {
       "etymology": "Inherited from Prakrit मोट्ट (moṭṭa, 'thick, bulky, stout').",
@@ -27771,21 +28104,26 @@
       ]
     },
     "यहीं": {
-      "etymology": "Formed from यहाँ ('here') + emphatic particle ही.",
-      "history": [
+      "etymology": "Formed in Hindi by contracting यहाँ (yahā̃, 'here') with the exclusive emphatic particle ही (hī, 'right, very, only'), fusing final nasal -आँ + -ही into nasalised -ईं (यहीं, 'right here, in this very spot').",
+      "certainty": "established",
+      "morphemes": [
         {
-          "stage": "Early Hindi",
-          "form": "यहाँ + ही -> यहीं (yahīn)",
-          "meaning": "right here",
-          "certainty": "established"
+          "part": "यह-",
+          "kind": "proximal stem",
+          "meaning": "this, here (from यह / यहाँ)"
+        },
+        {
+          "part": "-ईं (< -आँ + ही)",
+          "kind": "fused locative + emphatic",
+          "meaning": "right here, in this exact place"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
+      "history": [
         {
-          "title": "Wiktionary: यहीं (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%AF%E0%A4%B9%E0%A5%80%E0%A4%82#Hindi"
+          "stage": "Early–Modern Hindi",
+          "form": "यहाँ + ही -> यहीं (yahī̃)",
+          "meaning": "right here, on this very spot",
+          "certainty": "established"
         }
       ],
       "rootFamily": [
@@ -27794,14 +28132,29 @@
           "gloss": "here"
         },
         {
-          "word": "कहीं",
-          "gloss": "somewhere; anywhere; (with नहीं) nowhere"
+          "word": "ही",
+          "gloss": "only, right, itself (exclusive emphasis)"
         },
         {
-          "word": "ही",
-          "gloss": "only; right / very / itself (exclusive emphasis)"
+          "word": "वहीं",
+          "gloss": "right there (< वहाँ + ही)"
+        },
+        {
+          "word": "कहीं",
+          "gloss": "somewhere, anywhere (< कहाँ + ही)"
         }
-      ]
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: यहीं (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%AF%E0%A4%B9%E0%A5%80%E0%A4%82#Hindi"
+        },
+        {
+          "title": "Wiktionary: यहाँ (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%AF%E0%A4%B9%E0%A4%BE%E0%A4%81#Hindi"
+        }
+      ],
+      "notes": "Note the final bindu (ं) marking vowel nasalisation [jəˈɦĩː], which distinguishes यहीं ('right here') from यही ('this very one', < यह + ही)."
     },
     "या": {
       "etymology": "Borrowed from Classical Persian या / یا (yā, 'or'), from Middle Persian ayāb.",
@@ -28703,41 +29056,45 @@
       ]
     },
     "रिसेप्शन": {
-      "etymology": "Borrowed from English reception.",
+      "etymology": "Borrowed from English reception ('front desk of a hotel, guesthouse, or office; welcoming gathering'), itself borrowed via Old French reception from Classical Latin receptiō, receptiōnem ('act of receiving', from recipere 'to take back, welcome in').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "reception",
-          "meaning": "front desk of a hotel or guesthouse",
+          "stage": "Classical Latin -> Old French -> English",
+          "form": "receptiōnem -> reception",
+          "meaning": "act of receiving -> hotel or office front desk",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "रिसेप्शन (risepśan)",
+          "meaning": "reception desk, front counter; wedding reception",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "reception",
+          "meaning": "front desk; formal welcome"
+        },
+        {
+          "lang": "French",
+          "word": "réception",
+          "meaning": "reception desk"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: रिसेप्शन (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%AA%E0%A5%8D%E0%A4%B6%E0%A4%A8#Hindi"
+        },
+        {
+          "title": "Wiktionary: reception (English)",
+          "url": "https://en.wiktionary.org/wiki/reception#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "रजिस्टर",
-          "gloss": "register; ledger book"
-        },
-        {
-          "word": "घंटी",
-          "gloss": "bell; buzzer; ring"
-        },
-        {
-          "word": "मैनेजर",
-          "gloss": "manager"
-        },
-        {
-          "word": "मेहमान",
-          "gloss": "guest"
-        }
-      ]
+      "notes": "Masculine in Hindi; रिसेप्शन पर ('at the front desk') is the universal phrasing in Indian hotels, havelis, and clinics."
     },
     "रिसेप्शनिस्ट": {
       "etymology": "Borrowed from English receptionist, from reception + -ist.",
@@ -28964,37 +29321,62 @@
       ]
     },
     "रेलवे": {
-      "etymology": "Borrowed from English railway (rail + way).",
+      "etymology": "Borrowed in the nineteenth century with the building of Indian Railways from British English railway, compound of rail ('iron track bar', via Old French reille < Latin rēgula 'straight rod, rule') + way (Old English weg 'road, path').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "रेल-",
+          "kind": "loanword noun",
+          "meaning": "iron track, train (< English rail)"
+        },
+        {
+          "part": "-वे",
+          "kind": "loanword noun",
+          "meaning": "way, line (< English way)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
+          "stage": "19th-century British English",
           "form": "railway",
-          "meaning": "train network",
+          "meaning": "track-borne train line and system",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "रेलवे (relve)",
+          "meaning": "railway (especially in रेलवे स्टेशन and भारतीय रेलवे)",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
+      "cognates": [
         {
-          "title": "Wiktionary: रेलवे (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A4%B5%E0%A5%87#Hindi"
+          "lang": "English",
+          "word": "railway",
+          "meaning": "railroad system"
         }
       ],
       "rootFamily": [
         {
-          "word": "स्टेशन",
-          "gloss": "station (railway or bus station)"
+          "word": "रेल",
+          "gloss": "rail; train"
         },
         {
           "word": "रेलगाड़ी",
-          "gloss": "train; toy train; railway train"
+          "gloss": "railway train (hybrid रेल + native गाड़ी 'carriage')"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: रेलवे (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A4%B5%E0%A5%87#Hindi"
         },
         {
-          "word": "ट्रेन",
-          "gloss": "train"
+          "title": "Wiktionary: railway (English)",
+          "url": "https://en.wiktionary.org/wiki/railway#English"
         }
-      ]
+      ],
+      "notes": "Deeply naturalised across South Asia since the 1850s; रेलवे स्टेशन is the everyday term for a train station."
     },
     "रोकना": {
       "etymology": "Causative/transitive counterpart of रुकना ('to stop'), via Prakrit रोक्कइ (rokkaï).",
@@ -30797,37 +31179,52 @@
       ]
     },
     "शटर": {
-      "etymology": "Borrowed from English shutter.",
+      "etymology": "Borrowed from English shutter ('hinged or rolling metal cover that shuts a shopfront or window'), agent/instrument noun from shut (Old English scyttan, 'to bolt, bar, close') + -er.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "शट-",
+          "kind": "loanword stem",
+          "meaning": "close, bolt (< English shut)"
+        },
+        {
+          "part": "-र",
+          "kind": "loanword suffix",
+          "meaning": "instrument ('cover that shuts', < English -er)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
+          "stage": "Early Modern–Modern English",
           "form": "shutter",
-          "meaning": "hinged or rolling cover over a shopfront",
+          "meaning": "movable security cover for a window or shopfront",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "शटर (śaṭar)",
+          "meaning": "corrugated rolling metal shopfront shutter",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "shutter",
+          "meaning": "window or shopfront shutter"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: शटर (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B6%E0%A4%9F%E0%A4%B0#Hindi"
+        },
+        {
+          "title": "Wiktionary: shutter (English)",
+          "url": "https://en.wiktionary.org/wiki/shutter#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "दुकान",
-          "gloss": "shop; store"
-        },
-        {
-          "word": "दरवाज़ा",
-          "gloss": "door; doorway"
-        },
-        {
-          "word": "खोलना",
-          "gloss": "to open; to unlock; to unwrap"
-        }
-      ]
+      "notes": "In Indian towns and bazaars, शटर उठाना ('pulling up the rolling iron shutter') and शटर गिराना ('pulling down the shutter') mark opening and closing a shop for the day."
     },
     "शब्द": {
       "etymology": "Learned borrowing from Sanskrit शब्द (śabda, 'sound, voice, word').",
@@ -31435,37 +31832,40 @@
       ]
     },
     "शॉवर": {
-      "etymology": "Borrowed from English shower.",
+      "etymology": "Borrowed from English shower ('overhead perforated water spray for bathing', transferred in nineteenth-century English from shower 'brief fall of rain', Old English scūr, Proto-Germanic *skūraz).",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "shower",
-          "meaning": "overhead bath spray",
+          "stage": "Old English -> Modern English",
+          "form": "scūr -> shower (bath)",
+          "meaning": "rain shower -> overhead bathroom spray",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "शॉवर (śôvar)",
+          "meaning": "bathroom shower fixture; shower bath",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "shower",
+          "meaning": "overhead bath spray"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: शॉवर (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B6%E0%A5%89%E0%A4%B5%E0%A4%B0#Hindi"
+        },
+        {
+          "title": "Wiktionary: shower (English)",
+          "url": "https://en.wiktionary.org/wiki/shower#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "बाथरूम",
-          "gloss": "bathroom; washroom"
-        },
-        {
-          "word": "नहाना",
-          "gloss": "to bathe; to take a shower or bath"
-        },
-        {
-          "word": "पानी",
-          "gloss": "water"
-        }
-      ]
+      "notes": "Written with the chandrakala vowel sign ॉ (ऑ) used specifically in Devanagari to represent open rounded English vowels."
     },
     "शोर": {
       "etymology": "Borrowed from Classical Persian شور (šōr, 'tumult, outcry, commotion; saltiness').",
@@ -32530,37 +32930,46 @@
       ]
     },
     "सर": {
-      "etymology": "Borrowed from English sir, from Old French sire.",
+      "etymology": "Borrowed from English sir ('respectful form of address to a man, guest, teacher, or senior'), shortened in Middle English from Old French sire ('lord, master'), an unstressed proclitic development of Vulgar Latin *seior < Classical Latin senior ('older, elder').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
+          "stage": "Classical Latin -> Old French",
+          "form": "senior -> sire",
+          "meaning": "elder -> lord, master",
+          "certainty": "established"
+        },
+        {
+          "stage": "Middle–Modern English",
           "form": "sir",
-          "meaning": "respectful address to a man",
+          "meaning": "polite address to a man",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "सर (sar)",
+          "meaning": "sir (polite address to a male guest, customer, or teacher)",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "sir",
+          "meaning": "polite address to a man"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: सर (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B8%E0%A4%B0#Hindi"
+        },
+        {
+          "title": "Wiktionary: sir (English)",
+          "url": "https://en.wiktionary.org/wiki/sir#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "मैडम",
-          "gloss": "madam; ma'am"
-        },
-        {
-          "word": "जी",
-          "gloss": "respectful particle; polite 'yes' or 'pardon?'"
-        },
-        {
-          "word": "आदर",
-          "gloss": "respect; deference; courtesy"
-        }
-      ]
+      "notes": "Distinct from its Perso-Hindi homograph सर / सिर ('head'); often softened even further in polite Indian hospitality as सर जी."
     },
     "सर्दी": {
       "etymology": "Borrowed from Classical Persian سردی (sardī, 'coldness, winter'), from سرد (sard, 'cold').",
@@ -34214,41 +34623,52 @@
       ]
     },
     "सूटकेस": {
-      "etymology": "Borrowed from English suitcase (suit + case).",
+      "etymology": "Borrowed from late nineteenth-century English suitcase ('flat rectangular hinged travelling case originally sized to hold a dress suit'), compound of suit (via Anglo-Norman suite < Vulgar Latin *sequita 'matched set') + case (via Anglo-Norman casse < Latin capsa 'box, receptacle').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "सूट-",
+          "kind": "loanword noun",
+          "meaning": "matched outfit, suit (< English suit)"
+        },
+        {
+          "part": "-केस",
+          "kind": "loanword noun",
+          "meaning": "hinged box or container (< English case)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
+          "stage": "Late 19th-century English",
           "form": "suitcase",
-          "meaning": "rectangular travelling bag",
+          "meaning": "portable rectangular luggage case",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "सूटकेस (sūṭkes)",
+          "meaning": "suitcase",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "suitcase",
+          "meaning": "rectangular travel case"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: सूटकेस (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B8%E0%A5%82%E0%A4%9F%E0%A4%95%E0%A5%87%E0%A4%B8#Hindi"
+        },
+        {
+          "title": "Wiktionary: suitcase (English)",
+          "url": "https://en.wiktionary.org/wiki/suitcase#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "बैग",
-          "gloss": "bag; travelling bag; handbag"
-        },
-        {
-          "word": "सामान",
-          "gloss": "luggage; belongings; goods; groceries"
-        },
-        {
-          "word": "टैग",
-          "gloss": "tag; luggage label"
-        },
-        {
-          "word": "चेन",
-          "gloss": "zipper; chain"
-        }
-      ]
+      "notes": "Masculine in Hindi (बड़ा सूटकेस); standard word for rigid or wheeled luggage alongside अटैची ('attaché / small suitcase')."
     },
     "सूना": {
       "etymology": "Inherited from Sanskrit शून्य (śūnya, 'empty, void, zero'), via Prakrit सुण्ण (suṇṇa).",
@@ -34292,37 +34712,45 @@
       ]
     },
     "सूप": {
-      "etymology": "Borrowed from English soup, from French soupe.",
+      "etymology": "Borrowed in its culinary sense from seventeenth-century English soup, itself borrowed from French soupe ('broth poured over slices of bread; soup'), from Late Latin suppa ('bread soaked in broth'), of West Germanic origin (cognate with English sop and supper).",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "soup",
-          "meaning": "savoury hot broth",
+          "stage": "Late Latin -> French -> English",
+          "form": "suppa -> soupe -> soup",
+          "meaning": "broth-soaked bread -> savoury liquid dish",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "सूप (sūp)",
+          "meaning": "hot savoury soup",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "soup",
+          "meaning": "liquid savoury dish"
+        },
+        {
+          "lang": "French",
+          "word": "soupe",
+          "meaning": "soup"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: सूप (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B8%E0%A5%82%E0%A4%AA#Hindi"
+        },
+        {
+          "title": "Wiktionary: soup (English)",
+          "url": "https://en.wiktionary.org/wiki/soup#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "प्याला",
-          "gloss": "cup; bowl (of soup or tea)"
-        },
-        {
-          "word": "सब्ज़ी",
-          "gloss": "vegetable; cooked vegetable dish"
-        },
-        {
-          "word": "गरम",
-          "gloss": "hot; warm"
-        }
-      ]
+      "notes": "Masculine in Hindi (गरम टमाटर का सूप, 'hot tomato soup'); in Hindi सूप पिया जाता है ('soup is drunk' with पीना rather than eaten with खाना)."
     },
     "से": {
       "etymology": "Inherited from Prakrit सहुं / सइं or Sanskrit समम् ('together with') blended with ablative तो.",
@@ -34781,37 +35209,52 @@
       ]
     },
     "स्ट्रॉबेरी": {
-      "etymology": "Borrowed from English strawberry.",
+      "etymology": "Borrowed from English strawberry, continuing Old English strēawberige (compound of strēaw 'straw' + berige 'berry', named either from the straw mulch spread beneath the runners or the tiny straw-coloured achenes flecking its red skin).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "स्ट्रॉ-",
+          "kind": "loanword stem",
+          "meaning": "straw (< English straw)"
+        },
+        {
+          "part": "-बेरी",
+          "kind": "loanword stem",
+          "meaning": "small fleshy fruit (< English berry)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
-          "form": "strawberry",
-          "meaning": "sweet red berry",
+          "stage": "Old English -> Modern English",
+          "form": "strēawberige -> strawberry",
+          "meaning": "wild or garden strawberry",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "स्ट्रॉबेरी (sṭrôberī)",
+          "meaning": "strawberry",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "strawberry",
+          "meaning": "strawberry"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: स्ट्रॉबेरी (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%AC%E0%A5%87%E0%A4%B0%E0%A5%80#Hindi"
+        },
+        {
+          "title": "Wiktionary: strawberry (English)",
+          "url": "https://en.wiktionary.org/wiki/strawberry#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "जैम",
-          "gloss": "jam (fruit preserve)"
-        },
-        {
-          "word": "सेब",
-          "gloss": "apple"
-        },
-        {
-          "word": "संतरा",
-          "gloss": "orange (citrus fruit)"
-        }
-      ]
+      "notes": "Feminine in Hindi (मीठी स्ट्रॉबेरी) because of its final long -ई (-ī), and cultivated widely in Indian hill stations such as Mahabaleshwar and Nainital."
     },
     "स्थिर": {
       "etymology": "Learned Sanskrit borrowing स्थिर (sthira, 'firm, steady, motionless'), from स्था ('to stand'), PIE *stéh₂-ro-.",
@@ -35065,37 +35508,57 @@
       ]
     },
     "स्वेटर": {
-      "etymology": "Borrowed from English sweater.",
+      "etymology": "Borrowed from nineteenth-century English sweater ('knitted woollen pullover', originally worn by rowers and athletes during training to induce sweating), agent/garment noun from sweat (Old English swǣtan, from Proto-Indo-European *sweyd-, cognate with Sanskrit स्वेद sveda 'sweat') + -er.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "स्वेट-",
+          "kind": "loanword stem",
+          "meaning": "perspire, warm (< English sweat)"
+        },
+        {
+          "part": "-र",
+          "kind": "loanword suffix",
+          "meaning": "garment / agent (< English -er)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
+          "stage": "19th-century English",
           "form": "sweater",
-          "meaning": "knitted woollen pullover",
+          "meaning": "heavy knitted woollen pullover",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "स्वेटर (sveṭar)",
+          "meaning": "knitted woollen sweater, jumper",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "sweater",
+          "meaning": "knitted pullover"
+        },
+        {
+          "lang": "Sanskrit",
+          "word": "स्वेद (sveda)",
+          "meaning": "sweat, warmth (distant Indo-European cognate of sweat via PIE *sweyd-)"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: स्वेटर (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%9F%E0%A4%B0#Hindi"
+        },
+        {
+          "title": "Wiktionary: sweater (English)",
+          "url": "https://en.wiktionary.org/wiki/sweater#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "कार्डिगन",
-          "gloss": "cardigan"
-        },
-        {
-          "word": "कोट",
-          "gloss": "coat; jacket"
-        },
-        {
-          "word": "ऊनी",
-          "gloss": "woollen; made of wool"
-        }
-      ]
+      "notes": "Masculine in Hindi (ऊनी स्वेटर बुनना, 'to knit a woollen sweater') and the universal North Indian winter word for pullovers and hand-knitted jumpers."
     },
     "हँसाना": {
       "etymology": "Causative of हँसना ('to laugh'), from Sanskrit हासयति (hāsayati, 'causes to laugh').",
@@ -36096,37 +36559,52 @@
       ]
     },
     "हीटर": {
-      "etymology": "Borrowed from English heater (heat + -er).",
+      "etymology": "Borrowed from English heater ('appliance that warms a room or water'), instrument noun formed from heat (Old English hǣtu 'warmth, heat', Proto-Germanic *haitį̄) + -er.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "हीट-",
+          "kind": "loanword stem",
+          "meaning": "warm, heat (< English heat)"
+        },
+        {
+          "part": "-र",
+          "kind": "loanword suffix",
+          "meaning": "appliance / instrument (< English -er)"
+        }
+      ],
       "history": [
         {
-          "stage": "English",
+          "stage": "Modern English",
           "form": "heater",
-          "meaning": "warming appliance",
+          "meaning": "electric or gas warming appliance",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "हीटर (hīṭar)",
+          "meaning": "electric room heater or coil stove",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "heater",
+          "meaning": "room or water heater"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: हीटर (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B9%E0%A5%80%E0%A4%9F%E0%A4%B0#Hindi"
+        },
+        {
+          "title": "Wiktionary: heater (English)",
+          "url": "https://en.wiktionary.org/wiki/heater#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "रेडिएटर",
-          "gloss": "radiator (room heater)"
-        },
-        {
-          "word": "बॉयलर",
-          "gloss": "hot-water boiler"
-        },
-        {
-          "word": "गरमी",
-          "gloss": "heat; warmth; summer (plural गरमियाँ)"
-        }
-      ]
+      "notes": "Masculine in Hindi (कमरे में हीटर चलाना, 'to turn on the heater in the room'), essential during crisp North Indian winter nights."
     },
     "हे": {
       "etymology": "Inherited from Sanskrit हे (he, vocative interjection 'O!').",
@@ -36191,105 +36669,138 @@
       ]
     },
     "हैलो": {
-      "etymology": "Borrowed from English hello.",
+      "etymology": "Borrowed from English hello (also spelled हेलो), which rose to global prominence in the late nineteenth century (championed by Thomas Edison for telephone switchboards) from earlier English hallo / hollo, an expressive hailing call used to draw attention across a distance.",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "hello",
-          "meaning": "telephone and conversational greeting",
+          "stage": "19th-century English",
+          "form": "hallo / hollo -> hello",
+          "meaning": "call to attract attention -> standard telephone and social greeting",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "हैलो (hailo)",
+          "meaning": "hello! (especially on answering the phone or getting someone's attention)",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "hello",
+          "meaning": "greeting"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: हैलो (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B9%E0%A5%88%E0%A4%B2%E0%A5%8B#Hindi"
-        }
-      ],
-      "rootFamily": [
-        {
-          "word": "नमस्ते",
-          "gloss": "hello; good day; goodbye"
         },
         {
-          "word": "फ़ोन",
-          "gloss": "phone; telephone; phone call"
+          "title": "Wiktionary: hello (English)",
+          "url": "https://en.wiktionary.org/wiki/hello#English"
         }
-      ]
+      ],
+      "notes": "Universal across India when picking up a telephone call, while face-to-face greetings warmly pair or alternate it with नमस्ते."
     },
     "हॉल": {
-      "etymology": "Borrowed from English hall.",
+      "etymology": "Borrowed from English hall ('large public auditorium, concert hall, or spacious central living room'), descending from Old English heall and Proto-Germanic *hallō ('covered lofty chamber, hall', from Proto-Indo-European *ḱel- 'to cover, shelter', cognate with Sanskrit शाला śālā 'hall, house').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "English",
-          "form": "hall",
-          "meaning": "large room or auditorium",
+          "stage": "Old English -> Modern English",
+          "form": "heall -> hall",
+          "meaning": "great roofed chamber -> auditorium, entrance or living hall",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "हॉल (hôl)",
+          "meaning": "concert or cinema auditorium; central drawing room of a flat",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "hall",
+          "meaning": "large room or auditorium"
+        },
+        {
+          "lang": "Sanskrit",
+          "word": "शाला (śālā)",
+          "meaning": "hall, large room (distant Indo-European cognate via PIE *ḱel-)"
+        }
+      ],
       "sources": [
         {
           "title": "Wiktionary: हॉल (Hindi)",
           "url": "https://en.wiktionary.org/wiki/%E0%A4%B9%E0%A5%89%E0%A4%B2#Hindi"
+        },
+        {
+          "title": "Wiktionary: hall (English)",
+          "url": "https://en.wiktionary.org/wiki/hall#English"
         }
       ],
-      "rootFamily": [
-        {
-          "word": "संगीत",
-          "gloss": "music"
-        },
-        {
-          "word": "भवन",
-          "gloss": "building; civic edifice"
-        },
-        {
-          "word": "कमरा",
-          "gloss": "room"
-        }
-      ]
+      "notes": "In Indian English and Hindi housing (e.g. '2 BHK' — bedroom, hall, kitchen), हॉल also means the main family living room, alongside public concert and cinema halls."
     },
     "होटल": {
-      "etymology": "Borrowed from English hotel, from French hôtel.",
+      "etymology": "Borrowed from English hotel, adapted in the eighteenth century from French hôtel ('town mansion; travellers' inn'), which evolved through Old French ostel from Medieval Latin hospitāle ('guesthouse, hospice', neuter substantive of Classical Latin hospitālis 'hospitable, of a guest', from hospes 'guest, host').",
+      "certainty": "established",
       "history": [
         {
-          "stage": "French",
-          "form": "hôtel",
-          "meaning": "inn; mansion",
+          "stage": "Medieval Latin -> Old–Modern French",
+          "form": "hospitāle -> ostel -> hôtel",
+          "meaning": "guest lodging -> inn, grand hotel",
           "certainty": "established"
         },
         {
           "stage": "English",
           "form": "hotel",
-          "meaning": "travellers' lodging",
+          "meaning": "establishment providing lodging and meals to travellers",
+          "certainty": "established"
+        },
+        {
+          "stage": "Hindi",
+          "form": "होटल (hoṭal)",
+          "meaning": "hotel (and colloquially also a roadside restaurant or eatery)",
           "certainty": "established"
         }
       ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
+      "cognates": [
         {
-          "title": "Wiktionary: होटल (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%B9%E0%A5%8B%E0%A4%9F%E0%A4%B2#Hindi"
+          "lang": "English",
+          "word": "hotel",
+          "meaning": "travellers' lodging"
+        },
+        {
+          "lang": "French",
+          "word": "hôtel",
+          "meaning": "hotel"
         }
       ],
       "rootFamily": [
         {
-          "word": "गेस्टहाउस",
-          "gloss": "guesthouse"
+          "word": "अस्पताल",
+          "gloss": "hospital (older borrowing from the same Latin root hospitāle)"
         },
         {
-          "word": "हवेली",
-          "gloss": "haveli; traditional courtyard mansion"
-        },
-        {
-          "word": "लॉबी",
-          "gloss": "lobby; entrance hall"
+          "word": "हॉस्टल",
+          "gloss": "student hostel (parallel doublet from Old French ostel)"
         }
-      ]
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: होटल (Hindi)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%B9%E0%A5%8B%E0%A4%9F%E0%A4%B2#Hindi"
+        },
+        {
+          "title": "Wiktionary: hotel (English)",
+          "url": "https://en.wiktionary.org/wiki/hotel#English"
+        }
+      ],
+      "notes": "Masculine in Hindi; note that in everyday Indian usage होटल can mean either a lodging hotel or a casual neighbourhood restaurant."
     },
     "होना": {
       "etymology": "Inherited from Sanskrit भवति (bhavati, 'is, becomes, happens'), via Prakrit होइ (hoï), from PIE *bʰuH- ('to become, be').",
@@ -36338,64 +36849,6 @@
         {
           "word": "करना",
           "gloss": "to do; to make"
-        }
-      ]
-    },
-    "झिझक": {
-      "etymology": "Inherited from Prakrit jhijjha, an expressive Indo-Aryan formation denoting sudden drawing back, shrinking, or hesitation.",
-      "history": [
-        {
-          "stage": "Prakrit",
-          "form": "झिज्झ (jhijjha)",
-          "meaning": "shrinking back, hesitation",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary: झिझक (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%9D%E0%A4%BF%E0%A4%9D%E0%A4%95#Hindi"
-        }
-      ],
-      "rootFamily": [
-        {
-          "word": "डर",
-          "gloss": "fear"
-        },
-        {
-          "word": "चुप",
-          "gloss": "quiet; silent"
-        }
-      ]
-    },
-    "दादाजी": {
-      "etymology": "Compound of Hindi दादा (dādā, 'paternal grandfather; elder brother') and the honorific enclitic जी (jī, from Sanskrit जीव jīva, 'life, soul').",
-      "history": [
-        {
-          "stage": "Sanskrit",
-          "form": "जीव (jīva)",
-          "meaning": "life, living being (source of honorific जी)",
-          "certainty": "established"
-        }
-      ],
-      "cognates": [],
-      "certainty": "established",
-      "sources": [
-        {
-          "title": "Wiktionary: दादा (Hindi)",
-          "url": "https://en.wiktionary.org/wiki/%E0%A4%A6%E0%A4%BE%E0%A4%A6%E0%A4%BE#Hindi"
-        }
-      ],
-      "rootFamily": [
-        {
-          "word": "जी",
-          "gloss": "respectful particle"
-        },
-        {
-          "word": "परिवार",
-          "gloss": "family"
         }
       ]
     }
