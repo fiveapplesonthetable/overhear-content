@@ -111,7 +111,7 @@ def unallocated_pending(by_pid):
         decl = int(slot["mib"])
         age = now - float(slot.get("t", now - 30.0))
         actual = sum(by_pid.get(p, 0) for p in tree_pids(pid, children))
-        if (actual if actual >= 1500 else decl) >= 5600:
+        if max(actual, decl) >= 5600:
             heavy += 1
         cmd_s = slot.get("cmd", "")
         if actual >= 1500:
