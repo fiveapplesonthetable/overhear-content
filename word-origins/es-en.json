@@ -1316,11 +1316,69 @@
       ]
     },
     "aliento": {
-      "etymology": "Aliento derives from the verb alentar (to encourage, to breathe), descending from Latin hālitus ('breath').",
+      "etymology": "Deverbal noun from alentar ('to breathe, encourage, hearten'), inherited from Vulgar Latin *anhēlitāre (a blend of Classical Latin anhēlāre 'to pant, draw deep breath' and hālitus 'breath, exhalation'), with regular Spanish diphthongisation of stressed short e to ie (aliento).",
       "certainty": "established",
-      "sources": [],
-      "history": [],
-      "notes": ""
+      "history": [
+        {
+          "stage": "Classical Latin",
+          "form": "anhēlāre / hālitus",
+          "meaning": "to breathe deeply, pant / breath, exhalation",
+          "certainty": "established"
+        },
+        {
+          "stage": "Vulgar Latin",
+          "form": "*anhēlitāre",
+          "meaning": "to breathe, recover breath",
+          "certainty": "likely"
+        },
+        {
+          "stage": "Spanish",
+          "form": "alentar -> aliento",
+          "meaning": "to breathe, hearten -> breath, vigour",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Portuguese",
+          "word": "alento",
+          "meaning": "breath, encouragement, vigour"
+        },
+        {
+          "lang": "Catalan",
+          "word": "alè",
+          "meaning": "breath"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "alentar",
+          "gloss": "to encourage, cheer on"
+        },
+        {
+          "word": "alentador",
+          "gloss": "encouraging, promising"
+        },
+        {
+          "word": "desaliento",
+          "gloss": "discouragement, dismay"
+        }
+      ],
+      "sources": [
+        {
+          "title": "RAE–ASALE, Diccionario de la lengua española: aliento",
+          "url": "https://dle.rae.es/aliento"
+        },
+        {
+          "title": "RAE–ASALE, Diccionario de la lengua española: alentar",
+          "url": "https://dle.rae.es/alentar"
+        },
+        {
+          "title": "Wiktionary — aliento#Spanish",
+          "url": "https://en.wiktionary.org/wiki/aliento#Spanish"
+        }
+      ],
+      "notes": "Covers both physical breath (tomar aliento 'to catch one's breath', sin aliento 'out of breath') and moral encouragement (dar aliento)."
     },
     "alivio": {
       "etymology": "Deverbal noun from aliviar ('to lighten, relieve, soothe'), inherited from Late Latin alleviāre (ad- + levis 'light in weight').",
@@ -11754,11 +11812,72 @@
       ]
     },
     "estantería": {
-      "etymology": "Derived from estante ('shelf') plus the suffix -ería ('place or collection of').",
+      "etymology": "Formed in Spanish from estante ('shelf, upright bookcase', originally the fossilised present participle of estar, continuing Latin stāns, stantem 'standing upright') plus the collective and locative suffix -ería ('set, array, or shop of').",
       "certainty": "established",
-      "sources": [],
-      "history": [],
-      "notes": ""
+      "morphemes": [
+        {
+          "part": "estant-",
+          "kind": "stem",
+          "meaning": "shelf, standing frame (< Latin stantem 'standing')"
+        },
+        {
+          "part": "-ería",
+          "kind": "suffix",
+          "meaning": "collective set or fixture"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Latin",
+          "form": "stāns, stantem",
+          "meaning": "standing upright",
+          "certainty": "established"
+        },
+        {
+          "stage": "Early Modern Spanish",
+          "form": "estante",
+          "meaning": "upright rack, shelf",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Spanish",
+          "form": "estantería",
+          "meaning": "shelving unit, bookcase",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Portuguese",
+          "word": "estante",
+          "meaning": "bookcase, shelving unit"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "estante",
+          "gloss": "individual shelf"
+        },
+        {
+          "word": "estar",
+          "gloss": "to stand, be located"
+        },
+        {
+          "word": "estancia",
+          "gloss": "stay; room; ranch"
+        }
+      ],
+      "sources": [
+        {
+          "title": "RAE–ASALE, Diccionario de la lengua española: estantería",
+          "url": "https://dle.rae.es/estanter%C3%ADa"
+        },
+        {
+          "title": "Wiktionary — estantería#Spanish",
+          "url": "https://en.wiktionary.org/wiki/estanter%C3%ADa#Spanish"
+        }
+      ],
+      "notes": "Un estante usually refers to a single horizontal shelf board, whereas una estantería is the whole multi-shelf bookcase or wall unit."
     },
     "estar": {
       "etymology": "Estar comes from Latin stare, meaning to stand. In modern Spanish it expresses physical location as well as current states, conditions and resulting situations.",
@@ -14822,15 +14941,40 @@
       "notes": "Means both a tree leaf (hoja de tilo), a sheet of paper, and a hinged casement."
     },
     "hola": {
-      "etymology": "The DLE classifies hola as an expressive formation and compares English hello and German hallo. It does not identify either foreign greeting as the single ancestor, so no definite borrowing chain or older root is asserted here.",
+      "etymology": "The DLE classifies hola as an expressive formation (attested in early modern Spanish as ola to hail someone or express surprise) and compares English hello and German hallo. It does not identify either foreign greeting as the single ancestor, so no definite borrowing chain or older root is asserted here.",
       "certainty": "uncertain",
+      "history": [
+        {
+          "stage": "Early Modern Spanish (16th c.)",
+          "form": "ola / hola",
+          "meaning": "expressive call to draw attention or show surprise",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Spanish",
+          "form": "hola",
+          "meaning": "everyday greeting ('hello, hi')",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Portuguese",
+          "word": "olá",
+          "meaning": "hello (parallel Iberian expressive greeting)"
+        }
+      ],
       "sources": [
         {
           "title": "RAE–ASALE, Diccionario de la lengua española: hola",
           "url": "https://dle.rae.es/hola"
+        },
+        {
+          "title": "Wiktionary — hola#Spanish",
+          "url": "https://en.wiktionary.org/wiki/hola#Spanish"
         }
       ],
-      "notes": "Its familiar greeting use is established. The h is not pronounced in ordinary Spanish."
+      "notes": "Its familiar greeting use is established across the Spanish-speaking world. The initial h- was added orthographically (distinguishing hola from ola 'wave') and is completely silent."
     },
     "hombre": {
       "etymology": "Inherited via Old Spanish omne / ombre from Latin hominem (accusative of homō 'human being, man'), with syncope of the unstressed vowel (*hom'ne) and dissimilation of -mn- to -mbr-.",
@@ -15479,11 +15623,77 @@
       ]
     },
     "infancia": {
-      "etymology": "Infancia is a learned borrowing from Latin infantia ('early childhood, inability to speak').",
+      "etymology": "Learned borrowing (cultismo) from Classical Latin īnfantia ('inability to speak; early childhood'), abstract noun derived from īnfāns, īnfantem ('speechless, newborn or very young child'), formed from privative in- ('not') + fāns, present participle of fārī ('to speak', from Proto-Indo-European *bʰeh₂-).",
       "certainty": "established",
-      "sources": [],
-      "history": [],
-      "notes": ""
+      "morphemes": [
+        {
+          "part": "in-",
+          "kind": "prefix",
+          "meaning": "not, unable to"
+        },
+        {
+          "part": "fan-",
+          "kind": "root",
+          "meaning": "speak (< Latin fārī)"
+        },
+        {
+          "part": "-cia",
+          "kind": "suffix",
+          "meaning": "abstract quality or period (< Latin -tia)"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Latin",
+          "form": "īnfāns -> īnfantia",
+          "meaning": "not speaking -> early childhood",
+          "certainty": "established"
+        },
+        {
+          "stage": "Spanish",
+          "form": "infancia",
+          "meaning": "childhood",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Portuguese",
+          "word": "infância",
+          "meaning": "childhood"
+        },
+        {
+          "lang": "French",
+          "word": "enfance",
+          "meaning": "childhood"
+        },
+        {
+          "lang": "Italian",
+          "word": "infanzia",
+          "meaning": "childhood"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "infantil",
+          "gloss": "childish, children's"
+        },
+        {
+          "word": "infante",
+          "gloss": "young child; royal prince"
+        }
+      ],
+      "sources": [
+        {
+          "title": "RAE–ASALE, Diccionario de la lengua española: infancia",
+          "url": "https://dle.rae.es/infancia"
+        },
+        {
+          "title": "Wiktionary — infancia#Spanish",
+          "url": "https://en.wiktionary.org/wiki/infancia#Spanish"
+        }
+      ],
+      "notes": "Shares everyday duty with native niñez ('childhood', from niño); recuerdos de la infancia means 'childhood memories'."
     },
     "infantil": {
       "etymology": "Learned borrowing from Latin infantīlis ('of or belonging to infants or young children'), derived from īnfāns, īnfantis ('little child', literally 'unable to speak', from in- + fārī 'to speak').",
@@ -21872,11 +22082,82 @@
       "notes": "Covers walking past a landmark, handing something over (pásame la llave), spending time, happening (¿Qué pasa?), and welcoming someone inside (¡Pase usted!)."
     },
     "paseo": {
-      "etymology": "Paseo is a noun derived from the verb pasear ('to stroll'), ultimately from paso ('step, pace').",
+      "etymology": "Postverbal noun from pasear ('to walk about, stroll'), formed in Spanish with the frequentative verb suffix -ear on paso ('step, pace'), which continues Classical Latin passus ('step, stride', literally 'stretching of the legs in walking', from pandere 'to spread, stretch out').",
       "certainty": "established",
-      "sources": [],
-      "history": [],
-      "notes": ""
+      "morphemes": [
+        {
+          "part": "pas-",
+          "kind": "root",
+          "meaning": "step, pace (< Latin passus)"
+        },
+        {
+          "part": "-e-",
+          "kind": "stem vowel",
+          "meaning": "iterative stem from pasear"
+        },
+        {
+          "part": "-o",
+          "kind": "suffix",
+          "meaning": "postverbal action noun ending"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Latin",
+          "form": "passus",
+          "meaning": "step, stride, pace",
+          "certainty": "established"
+        },
+        {
+          "stage": "Early Modern Spanish",
+          "form": "paso -> pasear",
+          "meaning": "step -> to walk back and forth, stroll",
+          "certainty": "established"
+        },
+        {
+          "stage": "Spanish",
+          "form": "paseo",
+          "meaning": "leisurely walk; tree-lined avenue or promenade",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Portuguese",
+          "word": "passeio",
+          "meaning": "stroll, outing, pavement"
+        },
+        {
+          "lang": "Italian",
+          "word": "passeggio",
+          "meaning": "stroll, promenade"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "pasear",
+          "gloss": "to stroll, take for a walk"
+        },
+        {
+          "word": "paso",
+          "gloss": "step, pace, passage"
+        },
+        {
+          "word": "pasar",
+          "gloss": "to pass, happen, spend time"
+        }
+      ],
+      "sources": [
+        {
+          "title": "RAE–ASALE, Diccionario de la lengua española: paseo",
+          "url": "https://dle.rae.es/paseo"
+        },
+        {
+          "title": "Wiktionary — paseo#Spanish",
+          "url": "https://en.wiktionary.org/wiki/paseo#Spanish"
+        }
+      ],
+      "notes": "Dar un paseo means 'to go for a stroll'; capitalised Paseo in street addresses names a wide, tree-lined boulevard (Paseo del Prado)."
     },
     "pasillo": {
       "etymology": "Diminutive of paso ('step, passage', from Latin passus) formed with -illo: originally a narrow passage or short step, generalized to an indoor hallway or corridor.",
@@ -26802,18 +27083,66 @@
       ]
     },
     "sal": {
-      "etymology": "Inherited from Latin sāl, salis ('salt').",
+      "etymology": "Inherited from Classical Latin sāl, salis (accusative salem, 'salt; figuratively wit, liveliness'), from Proto-Indo-European *séh₂ls ('salt'). Whereas Classical Latin sāl was predominantly masculine (with archaic neuter forms), Spanish generalised feminine gender (la sal).",
       "certainty": "established",
       "history": [
         {
-          "stage": "Latin",
+          "stage": "Proto-Indo-European",
+          "form": "*séh₂ls",
+          "meaning": "salt",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Latin",
           "form": "sāl (acc. salem)",
-          "meaning": "salt; wit"
+          "meaning": "salt; wit, charm",
+          "certainty": "established"
         },
         {
           "stage": "Spanish",
           "form": "sal",
-          "meaning": "salt; charm/wit"
+          "meaning": "salt; liveliness, charm",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Portuguese",
+          "word": "sal",
+          "meaning": "salt (masculine: o sal)"
+        },
+        {
+          "lang": "French",
+          "word": "sel",
+          "meaning": "salt"
+        },
+        {
+          "lang": "Italian",
+          "word": "sale",
+          "meaning": "salt"
+        },
+        {
+          "lang": "English",
+          "word": "salt",
+          "meaning": "salt (Germanic cognate from PIE *séh₂ls)"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "salado",
+          "gloss": "salty, savoury; witty"
+        },
+        {
+          "word": "salero",
+          "gloss": "salt shaker; grace, charm"
+        },
+        {
+          "word": "salsa",
+          "gloss": "sauce (originally 'salted condiment')"
+        },
+        {
+          "word": "salario",
+          "gloss": "salary (from Latin salārium, 'salt-money')"
         }
       ],
       "sources": [
@@ -26822,10 +27151,11 @@
           "url": "https://dle.rae.es/sal"
         },
         {
-          "title": "Wiktionary — sal",
+          "title": "Wiktionary — sal#Spanish",
           "url": "https://en.wiktionary.org/wiki/sal#Spanish"
         }
-      ]
+      ],
+      "notes": "Feminine in Spanish (pásame la sal), unlike masculine o sal in Portuguese, le sel in French, and il sale in Italian."
     },
     "sala": {
       "etymology": "Borrowed via Late Latin / Gallo-Romance sala from Frankish/Germanic *sal ('single-hall dwelling, great reception hall').",
@@ -30819,18 +31149,66 @@
       ]
     },
     "tres": {
-      "etymology": "Inherited from Latin trēs ('three').",
+      "etymology": "Inherited from Classical Latin trēs ('three', masculine/feminine accusative and nominative, replacing neuter tria in spoken Latin), descending directly from Proto-Indo-European *tréyes ('three', cognate with English three, Ancient Greek τρεῖς, and Sanskrit त्रयः trayas).",
       "certainty": "established",
       "history": [
         {
-          "stage": "Latin",
+          "stage": "Proto-Indo-European",
+          "form": "*tréyes",
+          "meaning": "three",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Latin",
           "form": "trēs",
-          "meaning": "three"
+          "meaning": "three",
+          "certainty": "established"
         },
         {
           "stage": "Spanish",
           "form": "tres",
+          "meaning": "three",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Portuguese",
+          "word": "três",
           "meaning": "three"
+        },
+        {
+          "lang": "French",
+          "word": "trois",
+          "meaning": "three"
+        },
+        {
+          "lang": "Italian",
+          "word": "tre",
+          "meaning": "three"
+        },
+        {
+          "lang": "English",
+          "word": "three",
+          "meaning": "three (Germanic cognate via Grimm's Law)"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "tercero",
+          "gloss": "third"
+        },
+        {
+          "word": "trece",
+          "gloss": "thirteen (< Latin trēdecim)"
+        },
+        {
+          "word": "treinta",
+          "gloss": "thirty (< Latin trīgintā)"
+        },
+        {
+          "word": "trescientos",
+          "gloss": "three hundred"
         }
       ],
       "sources": [
@@ -30839,10 +31217,11 @@
           "url": "https://dle.rae.es/tres"
         },
         {
-          "title": "Wiktionary — tres",
+          "title": "Wiktionary — tres#Spanish",
           "url": "https://en.wiktionary.org/wiki/tres#Spanish"
         }
-      ]
+      ],
+      "notes": "Invariable for gender (tres habitaciones, tres hermanos) and written without a written accent as a monosyllable."
     },
     "triste": {
       "etymology": "Inherited from Latin trīstis ('sad, sorrowful, gloomy').",
@@ -31936,11 +32315,70 @@
       ]
     },
     "vergüenza": {
-      "etymology": "Vergüenza descends from Latin verecundia ('shame, modesty, bashfulness').",
+      "etymology": "Inherited from Classical Latin verēcundia ('modesty, bashfulness, sense of shame', derived from verērī 'to feel awe, respect, or fear'), with regular Hispano-Romance syncope of the pretonic vowel (*vercundia), voicing of -c- after r (-g-), diphthongisation of short u before yod (üe), and assibilation of -ndj- to -nz-.",
       "certainty": "established",
-      "sources": [],
-      "history": [],
-      "notes": ""
+      "history": [
+        {
+          "stage": "Classical Latin",
+          "form": "verēcundia",
+          "meaning": "modesty, reverence, shame",
+          "certainty": "established"
+        },
+        {
+          "stage": "Old Spanish",
+          "form": "vergüença",
+          "meaning": "shame, modesty, dishonour",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Spanish",
+          "form": "vergüenza",
+          "meaning": "shame, embarrassment, shyness",
+          "certainty": "established"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Portuguese",
+          "word": "vergonha",
+          "meaning": "shame, embarrassment"
+        },
+        {
+          "lang": "Italian",
+          "word": "vergogna",
+          "meaning": "shame, embarrassment"
+        },
+        {
+          "lang": "French",
+          "word": "vergogne",
+          "meaning": "sense of shame"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "avergonzar",
+          "gloss": "to shame; (avergonzarse) to feel embarrassed"
+        },
+        {
+          "word": "vergonzoso",
+          "gloss": "shameful; shy, bashful"
+        },
+        {
+          "word": "sinvergüenza",
+          "gloss": "shameless person, rascal"
+        }
+      ],
+      "sources": [
+        {
+          "title": "RAE–ASALE, Diccionario de la lengua española: vergüenza",
+          "url": "https://dle.rae.es/verg%C3%BCenza"
+        },
+        {
+          "title": "Wiktionary — vergüenza#Spanish",
+          "url": "https://en.wiktionary.org/wiki/verg%C3%BCenza#Spanish"
+        }
+      ],
+      "notes": "The diaeresis (ü) shows that the u in -güe- is pronounced ([beɾˈɣwenθa] / [beɾˈɣwensa]); tener vergüenza or dar vergüenza regularly translates 'to feel shy or embarrassed'."
     },
     "verja": {
       "etymology": "Borrowed from Old French verge or Catalan verja (from Latin virga, 'green shoot, rod, metal bar'), denoting an iron grating, railing, or fence.",
