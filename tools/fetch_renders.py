@@ -21,13 +21,26 @@ SAFE = re.compile(r"^(?:[a-z][a-z0-9-]*-s\d\de\d\d-scene-\d\d/(?:audio\.mp3|span
                   r"|(?:clips|forms)/[0-9a-f]{16}\.(?:json|mp3)|forms-plan/[a-z][a-z0-9-]*-s\d\de\d\d\.json|MANIFEST\.json)$")
 
 
-def install(tar_path, render, content, root=None):
+def read_package(tar_path):
+    """{name: bytes} of a package. Regular files, plus hardlinks (older packages store byte-identical clips that way) whose
+    target is a regular file of the package; names and link targets must both fit the layout."""
     with tarfile.open(tar_path) as tar:
         members = tar.getmembers()
+        regular = {m.name for m in members if m.isfile()}
         for m in members:
-            if not m.isfile() or not SAFE.match(m.name):
+            if not SAFE.match(m.name):
                 raise SystemExit(f"{tar_path}: unexpected member {m.name!r}")
-        data = {m.name: tar.extractfile(m).read() for m in members}
+            if m.islnk():
+                if not SAFE.match(m.linkname) or m.linkname not in regular:
+                    raise SystemExit(f"{tar_path}: unexpected link {m.name!r} -> {m.linkname!r}")
+            elif not m.isfile():
+                raise SystemExit(f"{tar_path}: unexpected member {m.name!r}")
+        by_name = {m.name: m for m in members}
+        return {name: tar.extractfile(m.linkname if m.islnk() else name).read() for name, m in by_name.items()}
+
+
+def install(tar_path, render, content, root=None):
+    data = read_package(tar_path)
     man = json.loads(data.pop("MANIFEST.json"))
     ep = man["episode"]
     eff_root = root or man.get("root")
