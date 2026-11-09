@@ -67,6 +67,16 @@ def episode_files(store, content, episode, root=None):
     return [s[0] for s in scenes], files, plan
 
 
+def add_files(tar, store, files):
+    """Every file as a regular member: tar.add stores a repeat of a same-inode file as a hardlink, which installers refuse."""
+    for f in files:
+        info = tar.gettarinfo(store / f, arcname=f)
+        if info.islnk():
+            info.type, info.linkname, info.size = tarfile.REGTYPE, "", (store / f).stat().st_size
+        with open(store / f, "rb") as fh:
+            tar.addfile(info, fh)
+
+
 def main(argv):
     store_arg, episode, content, explicit_root, do_release = None, None, ROOT, None, False
     i = 0
@@ -107,8 +117,7 @@ def main(argv):
     out = content / "dist" / f"{prefix}-{episode}.tar"
     out.parent.mkdir(exist_ok=True)
     with tarfile.open(out, "w") as tar:
-        for f in files:
-            tar.add(store / f, arcname=f)
+        add_files(tar, store, files)
         for name, data in ((f"forms-plan/{episode}.json", plan_b),
                            ("MANIFEST.json", json.dumps(manifest, ensure_ascii=False, indent=1).encode("utf-8"))):
             info = tarfile.TarInfo(name); info.size = len(data); info.mtime = int(time.time())
