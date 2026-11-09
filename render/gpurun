@@ -188,7 +188,7 @@ def main():
             fcntl.flock(ledger, fcntl.LOCK_EX)
             free_m, used_m, by_pid = gpu_snapshot()
             pend, heavy = unallocated_pending(by_pid)
-            max_heavy = int(os.environ.get("GPURUN_MAX_HEAVY", "5"))
+            max_heavy = int(os.environ.get("GPURUN_MAX_HEAVY", "4"))
             need = min(mib + MARGIN, BUDGET)
             if (not old_lock_held()
                     and not (mib >= 5000 and heavy >= max_heavy)
