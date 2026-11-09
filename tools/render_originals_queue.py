@@ -35,8 +35,18 @@ SHOWS = [
     ("ja", "hidamari-ryokan", "render/settings.ja-qwen-en.json"),
     ("ko", "haessal-guesthouse", "render/settings.ko-qwen-en.json"),
     ("zh", "xiaoyuan-kezhan", "render/settings.zh-qwen-en.json"),
+    ("hi", "aangan-haveli", "render/settings.hi-chatterbox-en.json"),
     ("en", "linden-courtyard-es", "render/settings.en-qwen.json"),
     ("en", "linden-courtyard-pt", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-fr", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-de", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-it", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-ru", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-ar", "render/settings.en-ar.json"),
+    ("en", "linden-courtyard-hi", "render/settings.en-hi.json"),
+    ("en", "linden-courtyard-ja", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-ko", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-zh", "render/settings.en-qwen.json"),
 ]
 QUOTA = {"ru": 3, "fr": 2}
 
@@ -85,7 +95,8 @@ def build_order(root: Path):
 
 
 def run_step(cmd, root: Path, out_dir: Path, log: Path, hold_git_lock: bool = False, lang: str = "") -> int:
-    is_ar = (lang == "ar") or ("chatterbox" in " ".join(cmd))
+    cmd_s = " ".join(cmd)
+    is_ar = (lang in ("ar", "hi")) or any(x in cmd_s for x in ("chatterbox", "settings.en-ar", "settings.en-hi"))
     extra_env = {
         "OVERHEAR_HOME": os.environ.get("OVERHEAR_HOME", str(Path.home() / "overhear")),
         "GPURUN_BUDGET_MIB": os.environ.get("GPURUN_BUDGET_MIB", "35500"),
