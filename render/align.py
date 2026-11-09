@@ -144,7 +144,7 @@ def words_from_chars(char_times, spans, env=None, hop=0.005, snap_ms=120, end_ex
     """spans: [(a, b) | None] char spans of tokens in the sentence text. -> [{s, e, ok, why}] (clip time)."""
     out = []
     for sp in spans:
-        ct = [char_times[i] for i in range(*sp) if char_times[i] is not None] if sp else []
+        ct = [char_times[i] for i in range(max(0, sp[0]), min(len(char_times), sp[1])) if char_times[i] is not None] if sp else []
         if not ct:
             out.append({"s": None, "e": None, "ok": False, "why": "missing"})
         else:
