@@ -7171,11 +7171,15 @@
       "lemma": "시절",
       "stress": null,
       "pos": "noun",
-      "gloss": "days, times",
+      "gloss": "days, times, period of life",
       "meanings": [
         {
-          "en": "days, times",
-          "note": "New word."
+          "en": "days, time, period of one's life",
+          "note": "Especially warm and nostalgic in 어린 시절 ('childhood days') and 학창 시절 ('school days')."
+        },
+        {
+          "en": "season, time of year",
+          "note": "Older literary or set-phrase sense (좋은 시절)."
         }
       ],
       "forms": {
@@ -7187,8 +7191,26 @@
         "rows": [
           {
             "cells": [
-              "basic",
-              "시절"
+              "with topic",
+              "시절은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "시절이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "시절을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "시절이에요"
             ]
           }
         ]
@@ -7196,25 +7218,34 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "This is an example for 시절.",
-          "trans": "This is an example for 시절."
+          "text": "잠깐만요... 은행길 십이 번지, 게다가 모서리에 적힌 어린 시절 머리글자 두 개라니요!",
+          "trans": "Wait a second... 12 Ginkgo Lane, and on top of that two childhood initials written in the corner!"
         },
         {
-          "text": "Another example for 시절.",
-          "trans": "Another example for 시절."
+          "text": "이 흑백사진을 보면 어린 시절 생각이 나요.",
+          "trans": "Looking at this black-and-white photo brings back memories of my childhood days."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "시간",
+          "gloss": "time, hour"
+        },
+        {
+          "word": "계절",
+          "gloss": "season"
+        }
+      ]
     },
     "머리글자": {
       "lemma": "머리글자",
       "stress": null,
       "pos": "noun",
-      "gloss": "initials",
+      "gloss": "initials, initial letter",
       "meanings": [
         {
-          "en": "initials",
-          "note": "New word."
+          "en": "initial, first letter of a name or word",
+          "note": "Compound of 머리 ('head') + 글자 ('letter, character'), used for carved or signed initials."
         }
       ],
       "forms": {
@@ -7226,8 +7257,26 @@
         "rows": [
           {
             "cells": [
-              "basic",
-              "머리글자"
+              "with topic",
+              "머리글자는"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "머리글자가"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "머리글자를"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "머리글자예요"
             ]
           }
         ]
@@ -7235,15 +7284,24 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "This is an example for 머리글자.",
-          "trans": "This is an example for 머리글자."
+          "text": "잠깐만요... 은행길 십이 번지, 게다가 모서리에 적힌 어린 시절 머리글자 두 개라니요!",
+          "trans": "Wait a second... 12 Ginkgo Lane, and on top of that two childhood initials written in the corner!"
         },
         {
-          "text": "Another example for 머리글자.",
-          "trans": "Another example for 머리글자."
+          "text": "나무 상자 뚜껑에 이름의 머리글자를 새겼어요.",
+          "trans": "I carved the initials of my name on the wooden box lid."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "머리",
+          "gloss": "head"
+        },
+        {
+          "word": "글자",
+          "gloss": "letter, written character"
+        }
+      ]
     },
     "두": {
       "lemma": "두",

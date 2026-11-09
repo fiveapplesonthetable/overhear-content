@@ -8070,11 +8070,12 @@
       "lemma": "jour-là",
       "stress": "ʒuʁla",
       "pos": "noun",
-      "gloss": "that day",
+      "gender": "m",
+      "gloss": "that day (ce jour-là)",
       "meanings": [
         {
-          "en": "that day",
-          "note": ""
+          "en": "that very day (used with demonstrative ce: ce jour-là)",
+          "note": "Hyphenated -là points back to a specific day in the past or future."
         }
       ],
       "forms": {
@@ -8088,8 +8089,8 @@
           {
             "cells": [
               "form",
-              "le jour-là",
-              "les jour-làs"
+              "ce jour-là",
+              "ces jours-là"
             ]
           }
         ]
@@ -8097,15 +8098,24 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Voici un exemple avec jour-là.",
-          "trans": "Here is an example with jour-là."
+          "text": "Depuis ce jour-là, les deux frères ne s'étaient plus parlé.",
+          "trans": "Since that day, the two brothers hadn't spoken to each other again."
         },
         {
-          "text": "Voici un autre exemple.",
-          "trans": "Here is another example."
+          "text": "Il pleuvait à verse ce jour-là quand le train est arrivé.",
+          "trans": "It was pouring rain that day when the train pulled in."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "jour",
+          "gloss": "day"
+        },
+        {
+          "word": "journée",
+          "gloss": "day (duration)"
+        }
+      ]
     },
     "dernier": {
       "lemma": "dernier",
@@ -10265,11 +10275,12 @@
       "lemma": "intention",
       "stress": "ɛ̃tɑ̃sjɔ̃",
       "pos": "noun",
+      "gender": "f",
       "gloss": "intention",
       "meanings": [
         {
-          "en": "intention",
-          "note": ""
+          "en": "intention, aim, purpose",
+          "note": "Avoir l'intention de + infinitive = 'to intend to'."
         }
       ],
       "forms": {
@@ -10283,7 +10294,7 @@
           {
             "cells": [
               "form",
-              "le intention",
+              "l'intention",
               "les intentions"
             ]
           }
@@ -10292,15 +10303,24 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Voici un exemple avec intention.",
-          "trans": "Here is an example with intention."
+          "text": "Je n'avais aucune intention de vendre le vieux piano du salon.",
+          "trans": "I had no intention at all of selling the old parlor piano."
         },
         {
-          "text": "Voici un autre exemple.",
-          "trans": "Here is another example."
+          "text": "C'est une délicate intention de votre part.",
+          "trans": "That is a thoughtful gesture on your part."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "idée",
+          "gloss": "idea"
+        },
+        {
+          "word": "projet",
+          "gloss": "plan"
+        }
+      ]
     },
     "laisser": {
       "lemma": "laisser",

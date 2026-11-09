@@ -603,7 +603,7 @@
         {
           "t": "corrente.",
           "lemma": "corrente",
-          "pos": "adv",
+          "pos": "noun",
           "gloss": "corrente",
           "stress": "corrente",
           "gram": "-"
@@ -1531,7 +1531,7 @@
         {
           "t": "corrente.",
           "lemma": "corrente",
-          "pos": "adv",
+          "pos": "noun",
           "gloss": "corrente",
           "stress": "corrente",
           "gram": "-"
@@ -2459,7 +2459,7 @@
         {
           "t": "corrente.",
           "lemma": "corrente",
-          "pos": "adv",
+          "pos": "noun",
           "gloss": "corrente",
           "stress": "corrente",
           "gram": "-"
@@ -5033,11 +5033,12 @@
       "lemma": "corrente",
       "stress": "korˈrɛnte",
       "pos": "noun",
-      "gloss": "electricity; current",
+      "gender": "f",
+      "gloss": "electricity, power; current",
       "meanings": [
         {
-          "en": "electricity; current",
-          "note": ""
+          "en": "electrical power, current; draft of air",
+          "note": "È saltata / mancata la corrente = 'the power went out'."
         }
       ],
       "forms": {
@@ -5050,9 +5051,9 @@
         "rows": [
           {
             "cells": [
-              "M",
-              "dummy",
-              "dummies"
+              "form",
+              "la corrente",
+              "le correnti"
             ]
           }
         ]
@@ -5060,15 +5061,24 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Example 1 with corrente",
-          "trans": "Example 1 with corrente in English"
+          "text": "Il registro di carta funziona anche quando salta la corrente.",
+          "trans": "The paper ledger still works even when the power goes out."
         },
         {
-          "text": "Example 2 with corrente",
-          "trans": "Example 2 with corrente in English"
+          "text": "Chiudi la finestra del corridoio, c'è troppa corrente.",
+          "trans": "Close the hallway window, there's too much of a draft."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "luce",
+          "gloss": "light, electricity"
+        },
+        {
+          "word": "elettricità",
+          "gloss": "electricity"
+        }
+      ]
     },
     "giusto": {
       "lemma": "giusto",

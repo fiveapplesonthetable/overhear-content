@@ -8904,40 +8904,67 @@
       "lemma": "позволить",
       "stress": "позво́лить",
       "pos": "verb",
-      "gloss": "to allow",
+      "aspect": "pf",
+      "pair": "позволять",
+      "gloss": "to allow, let, permit",
       "meanings": [
         {
-          "en": "to allow",
-          "note": ""
-        }
-      ],
-      "examples": [
-        {
-          "text": "x",
-          "trans": "x"
-        },
-        {
-          "text": "y",
-          "trans": "y"
+          "en": "to allow, permit, let",
+          "note": "Позвольте мне помочь = 'Allow me to help' (polite offer)."
         }
       ],
       "forms": {
-        "title": "f",
+        "title": "Future (perfective)",
         "columns": [
           "",
-          ""
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "",
-              "позволить"
+              "1st",
+              "я позволю",
+              "мы позволим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ты позволишь",
+              "вы позволите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "он/она позволит",
+              "они позволят"
             ]
           }
         ]
       },
       "moreForms": [],
-      "related": []
+      "examples": [
+        {
+          "text": "Позвольте я помогу вам поднять этот тяжёлый чемодан.",
+          "trans": "Allow me to help you carry that heavy suitcase upstairs."
+        },
+        {
+          "text": "Совесть не позволит мне промолчать об этой ошибке.",
+          "trans": "My conscience won't allow me to stay quiet about this mistake."
+        }
+      ],
+      "related": [
+        {
+          "word": "позволять",
+          "gloss": "to allow (impf)"
+        },
+        {
+          "word": "разрешить",
+          "gloss": "to permit"
+        }
+      ]
     },
     "администратор": {
       "lemma": "администратор",

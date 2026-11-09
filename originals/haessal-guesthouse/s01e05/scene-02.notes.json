@@ -780,7 +780,7 @@
         {
           "t": "서로",
           "lemma": "서로",
-          "pos": "noun",
+          "pos": "adv",
           "stress": null,
           "gloss": "each other, mutually",
           "span": [
@@ -2412,7 +2412,7 @@
         {
           "t": "서로",
           "lemma": "서로",
-          "pos": "noun",
+          "pos": "adv",
           "stress": null,
           "gloss": "each other, mutually",
           "span": [
@@ -4044,7 +4044,7 @@
         {
           "t": "서로",
           "lemma": "서로",
-          "pos": "noun",
+          "pos": "adv",
           "stress": null,
           "gloss": "each other, mutually",
           "span": [
@@ -7886,8 +7886,8 @@
       "gloss": "that day",
       "meanings": [
         {
-          "en": "that day",
-          "note": "New word."
+          "en": "that day, that particular day",
+          "note": "Points back to a specific day already known to both speaker and listener."
         }
       ],
       "forms": {
@@ -7899,8 +7899,26 @@
         "rows": [
           {
             "cells": [
-              "basic",
-              "그날"
+              "with topic",
+              "그날은"
+            ]
+          },
+          {
+            "cells": [
+              "with subject",
+              "그날이"
+            ]
+          },
+          {
+            "cells": [
+              "with object",
+              "그날을"
+            ]
+          },
+          {
+            "cells": [
+              "polite copula",
+              "그날이에요"
             ]
           }
         ]
@@ -7908,15 +7926,32 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "This is an example for 그날.",
-          "trans": "This is an example for 그날."
+          "text": "그날 이후로 서로 말 한마디 안 했어요.",
+          "trans": "Since that day we haven't spoken a single word to each other."
         },
         {
-          "text": "Another example for 그날.",
-          "trans": "Another example for 그날."
+          "text": "그날 밤에는 비가 아주 많이 내렸어요.",
+          "trans": "On that night it rained very heavily."
+        },
+        {
+          "text": "우리가 처음 만난 그날을 아직도 기억해요.",
+          "trans": "I still remember that day when we first met."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "이날",
+          "gloss": "this day"
+        },
+        {
+          "word": "어느 날",
+          "gloss": "one day"
+        },
+        {
+          "word": "날",
+          "gloss": "day"
+        }
+      ]
     },
     "이후": {
       "lemma": "이후",
@@ -7978,41 +8013,40 @@
     "서로": {
       "lemma": "서로",
       "stress": null,
-      "pos": "noun",
+      "pos": "adv",
       "gloss": "each other, mutually",
       "meanings": [
         {
-          "en": "each other, mutually",
-          "note": "New word."
+          "en": "each other, one another, mutually",
+          "note": "Reciprocal adverb placed directly before the verb; can also take case particles (서로를, 서로에게) as a reciprocal pronoun."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "basic",
-              "서로"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "This is an example for 서로.",
-          "trans": "This is an example for 서로."
+          "text": "그날 이후로 서로 말 한마디 안 했어요.",
+          "trans": "Since that day we haven't spoken a single word to each other."
         },
         {
-          "text": "Another example for 서로.",
-          "trans": "Another example for 서로."
+          "text": "게스트하우스 식구들은 바쁠 때 서로 도와줘요.",
+          "trans": "Our guesthouse staff help each other out when things get busy."
+        },
+        {
+          "text": "두 형제는 오랜만에 마주 앉아 서로 웃었어요.",
+          "trans": "Sitting across from each other after a long time, the two brothers smiled at one another."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "함께",
+          "gloss": "together"
+        },
+        {
+          "word": "같이",
+          "gloss": "together"
+        }
+      ]
     },
     "말": {
       "lemma": "말",

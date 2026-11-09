@@ -6171,42 +6171,66 @@
     },
     "сегодняшний": {
       "lemma": "сегодняшний",
+      "stress": "сего́дняшний",
       "pos": "adj",
-      "gloss": "today's",
+      "gloss": "today's, of today",
+      "meanings": [
+        {
+          "en": "today's, happening today",
+          "note": "Soft-stem adjective formed from сегодня ('today')."
+        }
+      ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "default",
-              "-"
+              "nominative",
+              "сегодняшний",
+              "сегодняшняя",
+              "сегодняшнее",
+              "сегодняшние"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "сегодняшнего",
+              "сегодняшней",
+              "сегодняшнего",
+              "сегодняшних"
             ]
           }
         ]
       },
+      "moreForms": [],
       "examples": [
         {
-          "text": "сегодняшний день",
-          "trans": "translation"
+          "text": "Вы уже записали всех сегодняшних гостей в журнал?",
+          "trans": "Have you written down all of today's guests in the ledger yet?"
         },
         {
-          "text": "сегодняшняя погода",
-          "trans": "translation"
+          "text": "После сегодняшнего утреннего дождя во дворике пахнет липой.",
+          "trans": "After today's morning rain, the courtyard smells of linden blossoms."
         }
       ],
-      "stress": "сего́дняшний",
-      "meanings": [
+      "related": [
         {
-          "en": "today's",
-          "note": ""
+          "word": "сегодня",
+          "gloss": "today"
+        },
+        {
+          "word": "вчерашний",
+          "gloss": "yesterday's"
         }
-      ],
-      "moreForms": [],
-      "related": []
+      ]
     },
     "два": {
       "lemma": "два",
