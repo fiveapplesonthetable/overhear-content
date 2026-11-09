@@ -4065,11 +4065,12 @@
       "lemma": "traslocatore",
       "stress": "trazlokaˈtore",
       "pos": "noun",
-      "gloss": "mover (furniture)",
+      "gender": "m",
+      "gloss": "mover (furniture remover)",
       "meanings": [
         {
-          "en": "mover (furniture)",
-          "note": ""
+          "en": "furniture mover, removal worker",
+          "note": "Agent noun from traslocare ('to move house/premises')."
         }
       ],
       "forms": {
@@ -4082,9 +4083,9 @@
         "rows": [
           {
             "cells": [
-              "M",
-              "dummy",
-              "dummies"
+              "form",
+              "il traslocatore",
+              "i traslocatori"
             ]
           }
         ]
@@ -4092,25 +4093,34 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Example 1 with traslocatore",
-          "trans": "Example 1 with traslocatore in English"
+          "text": "I traslocatori sono arrivati presto per caricare il vecchio pianoforte.",
+          "trans": "The movers arrived early to load the old piano."
         },
         {
-          "text": "Example 2 with traslocatore",
-          "trans": "Example 2 with traslocatore in English"
+          "text": "Abbiamo offerto un caffè caldo al traslocatore prima di iniziare.",
+          "trans": "We offered the mover a hot coffee before getting started."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "traslocare",
+          "gloss": "to move"
+        },
+        {
+          "word": "furgone",
+          "gloss": "van"
+        }
+      ]
     },
     "sgomberare": {
       "lemma": "sgomberare",
       "stress": "zɡombeˈrare",
       "pos": "verb",
-      "gloss": "to clear out",
+      "gloss": "to clear out, vacate",
       "meanings": [
         {
-          "en": "to clear out",
-          "note": ""
+          "en": "to clear out furniture or boxes, empty a room",
+          "note": "1st-conjugation verb (io sgombero); variant sgombrare is also common."
         }
       ],
       "forms": {
@@ -4124,22 +4134,22 @@
           {
             "cells": [
               "1st",
-              "dummy",
-              "dummies"
+              "io sgombero",
+              "noi sgomberiamo"
             ]
           },
           {
             "cells": [
               "2nd",
-              "dummy",
-              "dummies"
+              "tu sgomberi",
+              "voi sgomberate"
             ]
           },
           {
             "cells": [
               "3rd",
-              "dummy",
-              "dummies"
+              "lui/lei sgombera",
+              "loro sgomberano"
             ]
           }
         ]
@@ -4147,15 +4157,24 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Example 1 with sgomberare",
-          "trans": "Example 1 with sgomberare in English"
+          "text": "Dobbiamo sgomberare il ripostiglio dietro la caldaia entro stasera.",
+          "trans": "We need to clear out the storage room behind the boiler by tonight."
         },
         {
-          "text": "Example 2 with sgomberare",
-          "trans": "Example 2 with sgomberare in English"
+          "text": "I ragazzi hanno sgomberato il cortile per preparare i tavolini.",
+          "trans": "The guys cleared the courtyard to set up the café tables."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "liberare",
+          "gloss": "to clear, free up"
+        },
+        {
+          "word": "trasloco",
+          "gloss": "move"
+        }
+      ]
     },
     "la": {
       "lemma": "la",

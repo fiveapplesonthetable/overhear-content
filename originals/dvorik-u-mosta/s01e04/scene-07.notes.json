@@ -3888,26 +3888,35 @@
       "lemma": "поаккуратнее",
       "stress": "поаккура́тнее",
       "pos": "adv",
-      "gloss": "more careful",
+      "gloss": "more carefully, a bit gentler",
       "meanings": [
         {
-          "en": "more careful",
-          "note": ""
-        }
-      ],
-      "examples": [
-        {
-          "text": "x",
-          "trans": "x"
-        },
-        {
-          "text": "y",
-          "trans": "y"
+          "en": "a bit more carefully, more gently",
+          "note": "Colloquial comparative with attenuative prefix по- ('a little more carefully, please')."
         }
       ],
       "forms": null,
       "moreForms": [],
-      "related": []
+      "examples": [
+        {
+          "text": "Поаккуратнее с этим старым деревянным сундуком на лестнице!",
+          "trans": "Be a little more careful with that old wooden chest on the stairs!"
+        },
+        {
+          "text": "Поставь коробку с чашками на стол поаккуратнее.",
+          "trans": "Set the box of teacups down on the table a bit more gently."
+        }
+      ],
+      "related": [
+        {
+          "word": "аккуратно",
+          "gloss": "carefully, neatly"
+        },
+        {
+          "word": "аккуратный",
+          "gloss": "neat, careful"
+        }
+      ]
     },
     "с": {
       "lemma": "с",
@@ -6463,40 +6472,88 @@
       "lemma": "инициал",
       "stress": "инициа́л",
       "pos": "noun",
-      "gloss": "initial",
+      "gender": "m",
+      "animacy": "inan",
+      "gloss": "initial (first letter of a name)",
       "meanings": [
         {
-          "en": "initial",
-          "note": ""
-        }
-      ],
-      "examples": [
-        {
-          "text": "x",
-          "trans": "x"
-        },
-        {
-          "text": "y",
-          "trans": "y"
+          "en": "initial (first letter of a person's name)",
+          "note": "Usually used in the plural инициалы ('initials')."
         }
       ],
       "forms": {
-        "title": "f",
+        "title": "Declension",
         "columns": [
           "",
-          ""
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "",
-              "инициал"
+              "nominative",
+              "инициал",
+              "инициалы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "инициала",
+              "инициалов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "инициалу",
+              "инициалам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "инициал",
+              "инициалы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "инициалом",
+              "инициалами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "инициале",
+              "инициалах"
             ]
           }
         ]
       },
       "moreForms": [],
-      "related": []
+      "examples": [
+        {
+          "text": "В углу старого чертежа вырезаны два детских инициала.",
+          "trans": "Two childhood initials are carved in the corner of the old blueprint."
+        },
+        {
+          "text": "Напиши свои инициалы и подпись внизу страницы.",
+          "trans": "Write your initials and signature at the bottom of the page."
+        }
+      ],
+      "related": [
+        {
+          "word": "буква",
+          "gloss": "letter"
+        },
+        {
+          "word": "подпись",
+          "gloss": "signature"
+        }
+      ]
     },
     "написанный": {
       "lemma": "написанный",
@@ -6505,37 +6562,61 @@
       "gloss": "written",
       "meanings": [
         {
-          "en": "written",
-          "note": ""
-        }
-      ],
-      "examples": [
-        {
-          "text": "x",
-          "trans": "x"
-        },
-        {
-          "text": "y",
-          "trans": "y"
+          "en": "written, inscribed",
+          "note": "Past passive participle of написать; short forms написан, написана, написано, написаны."
         }
       ],
       "forms": {
-        "title": "f",
+        "title": "Forms",
         "columns": [
           "",
-          ""
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "",
-              "написанный"
+              "long",
+              "написанный",
+              "написанная",
+              "написанное",
+              "написанные"
+            ]
+          },
+          {
+            "cells": [
+              "short",
+              "написан",
+              "написана",
+              "написано",
+              "написаны"
             ]
           }
         ]
       },
       "moreForms": [],
-      "related": []
+      "examples": [
+        {
+          "text": "На столе лежала записка, написанная знакомым почерком.",
+          "trans": "A note written in familiar handwriting lay on the table."
+        },
+        {
+          "text": "Я сразу узнал адрес, написанный синими чернилами на конверте.",
+          "trans": "I immediately recognized the address written in blue ink on the envelope."
+        }
+      ],
+      "related": [
+        {
+          "word": "написать",
+          "gloss": "to write"
+        },
+        {
+          "word": "письмо",
+          "gloss": "letter"
+        }
+      ]
     },
     "уголок": {
       "lemma": "уголок",

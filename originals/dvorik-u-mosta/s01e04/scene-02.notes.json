@@ -7791,81 +7791,134 @@
     },
     "отпирать": {
       "lemma": "отпирать",
+      "stress": "отпира́ть",
       "pos": "verb",
-      "gloss": "unlocks",
+      "aspect": "impf",
+      "pair": "отпереть",
+      "gloss": "to unlock",
+      "meanings": [
+        {
+          "en": "to unlock, unbolt a door or lock",
+          "note": "Opposite of запирать ('to lock')."
+        }
+      ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "default",
-              "-"
+              "1st",
+              "я отпираю",
+              "мы отпираем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ты отпираешь",
+              "вы отпираете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "он/она отпирает",
+              "они отпирают"
             ]
           }
         ]
       },
+      "moreForms": [],
       "examples": [
         {
-          "text": "он отпирает",
-          "trans": "translation"
+          "text": "Привратник каждое утро в семь часов отпирает ворота дворика.",
+          "trans": "Every morning at seven o'clock the porter unlocks the courtyard gate."
         },
         {
-          "text": "отпирать дверь",
-          "trans": "translation"
+          "text": "Этот маленький латунный ключ отпирает старый сундук.",
+          "trans": "This small brass key unlocks the old chest."
         }
       ],
-      "stress": "отпира́ть",
-      "meanings": [
+      "related": [
         {
-          "en": "translation",
-          "note": ""
+          "word": "отпереть",
+          "gloss": "to unlock (pf)"
+        },
+        {
+          "word": "запирать",
+          "gloss": "to lock"
         }
-      ],
-      "moreForms": [],
-      "related": []
+      ]
     },
     "побыть": {
       "lemma": "побыть",
+      "stress": "побы́ть",
       "pos": "verb",
-      "gloss": "stay",
+      "aspect": "pf",
+      "gloss": "to stay for a while, spend a little time",
+      "meanings": [
+        {
+          "en": "to stay for a short while, spend some quiet time",
+          "note": "Delimitative prefix по- ('for a little while'); imperative побудь / побудьте."
+        }
+      ],
       "forms": {
-        "title": "Forms",
+        "title": "Future (perfective)",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "default",
-              "-"
+              "1st",
+              "я побуду",
+              "мы побудем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ты побудешь",
+              "вы побудете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "он/она побудет",
+              "они побудут"
             ]
           }
         ]
       },
+      "moreForms": [],
       "examples": [
         {
-          "text": "побудь со мной",
-          "trans": "translation"
+          "text": "Побудь здесь у стойки пять минут, пока я спущусь в подвал.",
+          "trans": "Stay here at the front desk for five minutes while I go down to the basement."
         },
         {
-          "text": "побыть здесь",
-          "trans": "translation"
+          "text": "Иногда после дороги хочется просто побыть в тишине.",
+          "trans": "Sometimes after a journey you just want to spend a little time in peace and quiet."
         }
       ],
-      "stress": "побы́ть",
-      "meanings": [
+      "related": [
         {
-          "en": "translation",
-          "note": ""
+          "word": "быть",
+          "gloss": "to be"
+        },
+        {
+          "word": "остаться",
+          "gloss": "to stay, remain"
         }
-      ],
-      "moreForms": [],
-      "related": []
+      ]
     }
   }
 }

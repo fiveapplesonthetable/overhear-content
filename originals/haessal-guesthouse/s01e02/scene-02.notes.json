@@ -611,7 +611,7 @@
         {
           "t": "적어도",
           "lemma": "적어도",
-          "pos": "noun",
+          "pos": "adv",
           "stress": null,
           "gloss": "at least",
           "span": [
@@ -650,7 +650,7 @@
         {
           "t": "이미",
           "lemma": "이미",
-          "pos": "noun",
+          "pos": "adv",
           "stress": null,
           "gloss": "already",
           "span": [
@@ -1957,7 +1957,7 @@
         {
           "t": "적어도",
           "lemma": "적어도",
-          "pos": "noun",
+          "pos": "adv",
           "stress": null,
           "gloss": "at least",
           "span": [
@@ -1996,7 +1996,7 @@
         {
           "t": "이미",
           "lemma": "이미",
-          "pos": "noun",
+          "pos": "adv",
           "stress": null,
           "gloss": "already",
           "span": [
@@ -3303,7 +3303,7 @@
         {
           "t": "적어도",
           "lemma": "적어도",
-          "pos": "noun",
+          "pos": "adv",
           "stress": null,
           "gloss": "at least",
           "span": [
@@ -3342,7 +3342,7 @@
         {
           "t": "이미",
           "lemma": "이미",
-          "pos": "noun",
+          "pos": "adv",
           "stress": null,
           "gloss": "already",
           "span": [
@@ -6439,41 +6439,36 @@
     "적어도": {
       "lemma": "적어도",
       "stress": null,
-      "pos": "noun",
+      "pos": "adv",
       "gloss": "at least",
       "meanings": [
         {
-          "en": "at least",
-          "note": "New word."
+          "en": "at least, at a minimum",
+          "note": "Sets a reassuring minimum ('even if it is little / even if nothing else')."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "basic",
-              "적어도"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "This is an example for 적어도.",
-          "trans": "This is an example for 적어도."
+          "text": "적어도 제 빵은 이미 오븐에 들어 있어요.",
+          "trans": "At least my bread is already in the oven."
         },
         {
-          "text": "Another example for 적어도.",
-          "trans": "Another example for 적어도."
+          "text": "기차역에 가려면 적어도 삼십 분 전에는 출발해야 해요.",
+          "trans": "To get to the train station, we should leave at least thirty minutes ahead."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "적다",
+          "gloss": "to be few, small in amount"
+        },
+        {
+          "word": "최소한",
+          "gloss": "at the very least, minimum"
+        }
+      ]
     },
     "제": {
       "lemma": "제",
@@ -6573,41 +6568,40 @@
     "이미": {
       "lemma": "이미",
       "stress": null,
-      "pos": "noun",
+      "pos": "adv",
       "gloss": "already",
       "meanings": [
         {
-          "en": "already",
-          "note": "New word."
+          "en": "already, by now",
+          "note": "States neutrally that an action or state is already complete, whereas 벌써 adds surprise that it happened so fast."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "basic",
-              "이미"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "This is an example for 이미.",
-          "trans": "This is an example for 이미."
+          "text": "적어도 제 빵은 이미 오븐에 들어 있어요.",
+          "trans": "At least my bread is already in the oven."
         },
         {
-          "text": "Another example for 이미.",
-          "trans": "Another example for 이미."
+          "text": "사호실 손님은 이미 체크인을 마치고 올라가셨어요.",
+          "trans": "The Room 4 guest has already finished checking in and gone upstairs."
+        },
+        {
+          "text": "밖을 보니까 해가 이미 다 졌네요.",
+          "trans": "Looking outside, the sun has already set completely."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "벌써",
+          "gloss": "already (sooner than expected)"
+        },
+        {
+          "word": "아직",
+          "gloss": "still, yet"
+        }
+      ]
     },
     "오븐": {
       "lemma": "오븐",

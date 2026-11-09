@@ -8407,42 +8407,69 @@
     },
     "замерять": {
       "lemma": "замерять",
+      "stress": "замеря́ть",
       "pos": "verb",
-      "gloss": "measures",
+      "aspect": "impf",
+      "pair": "замерить",
+      "gloss": "to measure, take measurements",
+      "meanings": [
+        {
+          "en": "to measure, gauge, take exact measurements",
+          "note": "Used for measuring dimensions, pressure, or temperature with a tool."
+        }
+      ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "default",
-              "-"
+              "1st",
+              "я замеряю",
+              "мы замеряем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ты замеряешь",
+              "вы замеряете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "он/она замеряет",
+              "они замеряют"
             ]
           }
         ]
       },
+      "moreForms": [],
       "examples": [
         {
-          "text": "он замеряет",
-          "trans": "translation"
+          "text": "Мастер внимательно замеряет ширину старой двери рулеткой.",
+          "trans": "The handyman carefully measures the width of the old door with a tape measure."
         },
         {
-          "text": "замерять длину",
-          "trans": "translation"
+          "text": "Каждое утро мы замеряем давление воды в котле.",
+          "trans": "Every morning we measure the water pressure in the boiler."
         }
       ],
-      "stress": "за́мерять",
-      "meanings": [
+      "related": [
         {
-          "en": "translation",
-          "note": ""
+          "word": "замерить",
+          "gloss": "to measure (pf)"
+        },
+        {
+          "word": "размер",
+          "gloss": "size, dimension"
         }
-      ],
-      "moreForms": [],
-      "related": []
+      ]
     }
   }
 }

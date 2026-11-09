@@ -175344,66 +175344,125 @@
       "lemma": "поаккуратнее",
       "stress": "поаккура́тнее",
       "pos": "adv",
-      "gloss": "more careful",
+      "gloss": "more carefully, a bit gentler",
       "meanings": [
         {
-          "en": "more careful",
-          "note": ""
-        }
-      ],
-      "examples": [
-        {
-          "text": "x",
-          "trans": "x"
-        },
-        {
-          "text": "y",
-          "trans": "y"
+          "en": "a bit more carefully, more gently",
+          "note": "Colloquial comparative with attenuative prefix по- ('a little more carefully, please')."
         }
       ],
       "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Поаккуратнее с этим старым деревянным сундуком на лестнице!",
+          "trans": "Be a little more careful with that old wooden chest on the stairs!"
+        },
+        {
+          "text": "Поставь коробку с чашками на стол поаккуратнее.",
+          "trans": "Set the box of teacups down on the table a bit more gently."
+        }
+      ],
+      "related": [
+        {
+          "word": "аккуратно",
+          "gloss": "carefully, neatly"
+        },
+        {
+          "word": "аккуратный",
+          "gloss": "neat, careful"
+        }
+      ],
       "surface": [
         "поаккуратнее"
-      ],
-      "moreForms": [],
-      "related": []
+      ]
     },
     "инициал": {
       "lemma": "инициал",
       "stress": "инициа́л",
       "pos": "noun",
-      "gloss": "initial",
+      "gender": "m",
+      "animacy": "inan",
+      "gloss": "initial (first letter of a name)",
       "meanings": [
         {
-          "en": "initial",
-          "note": ""
-        }
-      ],
-      "examples": [
-        {
-          "text": "x",
-          "trans": "x"
-        },
-        {
-          "text": "y",
-          "trans": "y"
+          "en": "initial (first letter of a person's name)",
+          "note": "Usually used in the plural инициалы ('initials')."
         }
       ],
       "forms": {
-        "title": "f",
+        "title": "Declension",
         "columns": [
           "",
-          ""
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "",
-              "инициал"
+              "nominative",
+              "инициал",
+              "инициалы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "инициала",
+              "инициалов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "инициалу",
+              "инициалам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "инициал",
+              "инициалы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "инициалом",
+              "инициалами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "инициале",
+              "инициалах"
             ]
           }
         ]
       },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "В углу старого чертежа вырезаны два детских инициала.",
+          "trans": "Two childhood initials are carved in the corner of the old blueprint."
+        },
+        {
+          "text": "Напиши свои инициалы и подпись внизу страницы.",
+          "trans": "Write your initials and signature at the bottom of the page."
+        }
+      ],
+      "related": [
+        {
+          "word": "буква",
+          "gloss": "letter"
+        },
+        {
+          "word": "подпись",
+          "gloss": "signature"
+        }
+      ],
       "surface": [
         "инициал",
         "инициала",
@@ -175411,9 +175470,7 @@
         "инициалом",
         "инициале",
         "инициалы"
-      ],
-      "moreForms": [],
-      "related": []
+      ]
     },
     "написанный": {
       "lemma": "написанный",
@@ -175422,35 +175479,61 @@
       "gloss": "written",
       "meanings": [
         {
-          "en": "written",
-          "note": ""
-        }
-      ],
-      "examples": [
-        {
-          "text": "x",
-          "trans": "x"
-        },
-        {
-          "text": "y",
-          "trans": "y"
+          "en": "written, inscribed",
+          "note": "Past passive participle of написать; short forms написан, написана, написано, написаны."
         }
       ],
       "forms": {
-        "title": "f",
+        "title": "Forms",
         "columns": [
           "",
-          ""
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "",
-              "написанный"
+              "long",
+              "написанный",
+              "написанная",
+              "написанное",
+              "написанные"
+            ]
+          },
+          {
+            "cells": [
+              "short",
+              "написан",
+              "написана",
+              "написано",
+              "написаны"
             ]
           }
         ]
       },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "На столе лежала записка, написанная знакомым почерком.",
+          "trans": "A note written in familiar handwriting lay on the table."
+        },
+        {
+          "text": "Я сразу узнал адрес, написанный синими чернилами на конверте.",
+          "trans": "I immediately recognized the address written in blue ink on the envelope."
+        }
+      ],
+      "related": [
+        {
+          "word": "написать",
+          "gloss": "to write"
+        },
+        {
+          "word": "письмо",
+          "gloss": "letter"
+        }
+      ],
       "surface": [
         "написанная",
         "написанного",
@@ -175463,46 +175546,73 @@
         "написанный",
         "написанным",
         "написанных"
-      ],
-      "moreForms": [],
-      "related": []
+      ]
     },
     "стесняться": {
       "lemma": "стесняться",
       "stress": "стесня́ться",
       "pos": "verb",
-      "gloss": "to be shy",
+      "aspect": "impf",
+      "pair": "постесняться",
+      "gloss": "to feel shy, hesitate out of embarrassment",
       "meanings": [
         {
-          "en": "to be shy",
-          "note": ""
-        }
-      ],
-      "examples": [
-        {
-          "text": "x",
-          "trans": "x"
-        },
-        {
-          "text": "y",
-          "trans": "y"
+          "en": "to feel shy, awkward, or embarrassed; to hesitate to ask",
+          "note": "Не стесняйтесь! = 'Don't be shy / make yourself at home!'"
         }
       ],
       "forms": {
-        "title": "f",
+        "title": "Present",
         "columns": [
           "",
-          ""
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "",
-              "стесняться"
+              "1st",
+              "я стесняюсь",
+              "мы стесняемся"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ты стесняешься",
+              "вы стесняетесь"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "он/она стесняется",
+              "они стесняются"
             ]
           }
         ]
       },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я стеснялся попросить свой чемодан обратно.",
+          "trans": "I felt too embarrassed to ask for my suitcase back."
+        },
+        {
+          "text": "Проходите к столу, пожалуйста, не стесняйтесь!",
+          "trans": "Come right up to the table, please don't be shy!"
+        }
+      ],
+      "related": [
+        {
+          "word": "скромный",
+          "gloss": "modest, shy"
+        },
+        {
+          "word": "неловко",
+          "gloss": "awkward"
+        }
+      ],
       "surface": [
         "стесняемся",
         "стесняетесь",
@@ -175515,46 +175625,73 @@
         "стесняться",
         "стесняюсь",
         "стесняются"
-      ],
-      "moreForms": [],
-      "related": []
+      ]
     },
     "позволить": {
       "lemma": "позволить",
       "stress": "позво́лить",
       "pos": "verb",
-      "gloss": "to allow",
+      "aspect": "pf",
+      "pair": "позволять",
+      "gloss": "to allow, let, permit",
       "meanings": [
         {
-          "en": "to allow",
-          "note": ""
-        }
-      ],
-      "examples": [
-        {
-          "text": "x",
-          "trans": "x"
-        },
-        {
-          "text": "y",
-          "trans": "y"
+          "en": "to allow, permit, let",
+          "note": "Позвольте мне помочь = 'Allow me to help' (polite offer)."
         }
       ],
       "forms": {
-        "title": "f",
+        "title": "Future (perfective)",
         "columns": [
           "",
-          ""
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "",
-              "позволить"
+              "1st",
+              "я позволю",
+              "мы позволим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ты позволишь",
+              "вы позволите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "он/она позволит",
+              "они позволят"
             ]
           }
         ]
       },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Позвольте я помогу вам поднять этот тяжёлый чемодан.",
+          "trans": "Allow me to help you carry that heavy suitcase upstairs."
+        },
+        {
+          "text": "Совесть не позволит мне промолчать об этой ошибке.",
+          "trans": "My conscience won't allow me to stay quiet about this mistake."
+        }
+      ],
+      "related": [
+        {
+          "word": "позволять",
+          "gloss": "to allow (impf)"
+        },
+        {
+          "word": "разрешить",
+          "gloss": "to permit"
+        }
+      ],
       "surface": [
         "позволил",
         "позволила",
@@ -175567,178 +175704,280 @@
         "позволишь",
         "позволю",
         "позволят"
-      ],
-      "moreForms": [],
-      "related": []
+      ]
     },
     "сегодняшний": {
       "lemma": "сегодняшний",
+      "stress": "сего́дняшний",
       "pos": "adj",
-      "gloss": "today's",
+      "gloss": "today's, of today",
+      "meanings": [
+        {
+          "en": "today's, happening today",
+          "note": "Soft-stem adjective formed from сегодня ('today')."
+        }
+      ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "default",
-              "-"
+              "nominative",
+              "сегодняшний",
+              "сегодняшняя",
+              "сегодняшнее",
+              "сегодняшние"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "сегодняшнего",
+              "сегодняшней",
+              "сегодняшнего",
+              "сегодняшних"
             ]
           }
         ]
       },
+      "moreForms": [],
       "examples": [
         {
-          "text": "сегодняшний день",
-          "trans": "translation"
+          "text": "Вы уже записали всех сегодняшних гостей в журнал?",
+          "trans": "Have you written down all of today's guests in the ledger yet?"
         },
         {
-          "text": "сегодняшняя погода",
-          "trans": "translation"
+          "text": "После сегодняшнего утреннего дождя во дворике пахнет липой.",
+          "trans": "After today's morning rain, the courtyard smells of linden blossoms."
         }
       ],
-      "stress": "сего́дняшний",
-      "meanings": [
+      "related": [
         {
-          "en": "today's",
-          "note": ""
+          "word": "сегодня",
+          "gloss": "today"
+        },
+        {
+          "word": "вчерашний",
+          "gloss": "yesterday's"
         }
       ],
-      "moreForms": [],
-      "related": [],
       "surface": [
         "сегодняшний"
       ]
     },
     "замерять": {
       "lemma": "замерять",
+      "stress": "замеря́ть",
       "pos": "verb",
-      "gloss": "measures",
-      "surface": [
-        "замеряет"
+      "aspect": "impf",
+      "pair": "замерить",
+      "gloss": "to measure, take measurements",
+      "meanings": [
+        {
+          "en": "to measure, gauge, take exact measurements",
+          "note": "Used for measuring dimensions, pressure, or temperature with a tool."
+        }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "default",
-              "-"
+              "1st",
+              "я замеряю",
+              "мы замеряем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ты замеряешь",
+              "вы замеряете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "он/она замеряет",
+              "они замеряют"
             ]
           }
         ]
       },
+      "moreForms": [],
       "examples": [
         {
-          "text": "он замеряет",
-          "trans": "translation"
+          "text": "Мастер внимательно замеряет ширину старой двери рулеткой.",
+          "trans": "The handyman carefully measures the width of the old door with a tape measure."
         },
         {
-          "text": "замерять длину",
-          "trans": "translation"
+          "text": "Каждое утро мы замеряем давление воды в котле.",
+          "trans": "Every morning we measure the water pressure in the boiler."
         }
       ],
-      "stress": "за́мерять",
-      "meanings": [
+      "related": [
         {
-          "en": "translation",
-          "note": ""
+          "word": "замерить",
+          "gloss": "to measure (pf)"
+        },
+        {
+          "word": "размер",
+          "gloss": "size, dimension"
         }
       ],
-      "moreForms": [],
-      "related": []
+      "surface": [
+        "замеряет"
+      ]
     },
     "отпирать": {
       "lemma": "отпирать",
+      "stress": "отпира́ть",
       "pos": "verb",
-      "gloss": "unlocks",
-      "surface": [
-        "отпирает"
+      "aspect": "impf",
+      "pair": "отпереть",
+      "gloss": "to unlock",
+      "meanings": [
+        {
+          "en": "to unlock, unbolt a door or lock",
+          "note": "Opposite of запирать ('to lock')."
+        }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "default",
-              "-"
+              "1st",
+              "я отпираю",
+              "мы отпираем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ты отпираешь",
+              "вы отпираете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "он/она отпирает",
+              "они отпирают"
             ]
           }
         ]
       },
+      "moreForms": [],
       "examples": [
         {
-          "text": "он отпирает",
-          "trans": "translation"
+          "text": "Привратник каждое утро в семь часов отпирает ворота дворика.",
+          "trans": "Every morning at seven o'clock the porter unlocks the courtyard gate."
         },
         {
-          "text": "отпирать дверь",
-          "trans": "translation"
+          "text": "Этот маленький латунный ключ отпирает старый сундук.",
+          "trans": "This small brass key unlocks the old chest."
         }
       ],
-      "stress": "отпира́ть",
-      "meanings": [
+      "related": [
         {
-          "en": "translation",
-          "note": ""
+          "word": "отпереть",
+          "gloss": "to unlock (pf)"
+        },
+        {
+          "word": "запирать",
+          "gloss": "to lock"
         }
       ],
-      "moreForms": [],
-      "related": []
+      "surface": [
+        "отпирает"
+      ]
     },
     "побыть": {
       "lemma": "побыть",
+      "stress": "побы́ть",
       "pos": "verb",
-      "gloss": "stay",
-      "surface": [
-        "побудь",
-        "побыть"
+      "aspect": "pf",
+      "gloss": "to stay for a while, spend a little time",
+      "meanings": [
+        {
+          "en": "to stay for a short while, spend some quiet time",
+          "note": "Delimitative prefix по- ('for a little while'); imperative побудь / побудьте."
+        }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Future (perfective)",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "default",
-              "-"
+              "1st",
+              "я побуду",
+              "мы побудем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ты побудешь",
+              "вы побудете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "он/она побудет",
+              "они побудут"
             ]
           }
         ]
       },
+      "moreForms": [],
       "examples": [
         {
-          "text": "побудь со мной",
-          "trans": "translation"
+          "text": "Побудь здесь у стойки пять минут, пока я спущусь в подвал.",
+          "trans": "Stay here at the front desk for five minutes while I go down to the basement."
         },
         {
-          "text": "побыть здесь",
-          "trans": "translation"
+          "text": "Иногда после дороги хочется просто побыть в тишине.",
+          "trans": "Sometimes after a journey you just want to spend a little time in peace and quiet."
         }
       ],
-      "stress": "побы́ть",
-      "meanings": [
+      "related": [
         {
-          "en": "translation",
-          "note": ""
+          "word": "быть",
+          "gloss": "to be"
+        },
+        {
+          "word": "остаться",
+          "gloss": "to stay, remain"
         }
       ],
-      "moreForms": [],
-      "related": []
+      "surface": [
+        "побудь",
+        "побыть"
+      ]
     },
     "грузчик": {
       "lemma": "грузчик",
