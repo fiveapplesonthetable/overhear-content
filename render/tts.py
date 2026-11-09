@@ -238,14 +238,19 @@ class QwenCustomEngine:
                 chunk_target = [c for c in chunk if c["lang"] != "en"]
                 
                 wavs_en = []
+                n_en_cands = 1 if (not use_gates or getattr(self, "single_candidate_per_attempt", False)) else 2
                 if chunk_en:
+                    en_bs = max(1, bs // n_en_cands)
                     try:
-                        if hasattr(torch.cuda, "empty_cache"):
-                            torch.cuda.empty_cache()
-                        wavs_en = self.generate(
-                            [(c["voice"], langs[c["lang"]], c["text_tts"]) for c in chunk_en],
-                            seed, temperature=0.54, repetition_penalty=1.08, top_k=25, top_p=0.85,
-                        )
+                        for j in range(0, len(chunk_en), en_bs):
+                            en_slice = chunk_en[j:j + en_bs]
+                            expanded_en = [c for c in en_slice for _ in range(n_en_cands)]
+                            if hasattr(torch.cuda, "empty_cache"):
+                                torch.cuda.empty_cache()
+                            wavs_en.extend(self.generate(
+                                [(c["voice"], langs[c["lang"]], c["text_tts"]) for c in expanded_en],
+                                seed + j * 131, temperature=0.50, repetition_penalty=1.08, top_k=25, top_p=0.85,
+                            ))
                     except torch.cuda.OutOfMemoryError:
                         if hasattr(torch.cuda, "empty_cache"):
                             torch.cuda.empty_cache()
@@ -289,8 +294,10 @@ class QwenCustomEngine:
                     torch.cuda.empty_cache()
                 
                 # process en
-                for c, w in zip(chunk_en, wavs_en):
+                for c_idx, c in enumerate(chunk_en):
+                    w_list = wavs_en[c_idx * n_en_cands : (c_idx + 1) * n_en_cands]
                     if not use_gates:
+                        w = w_list[0]
                         ok = plausible(c["text_plain"], len(w) / NATIVE_SR)
                         if ok or attempt == t["sentence_retries"]:
                             p = store.tts_path(c["key"])
@@ -304,37 +311,55 @@ class QwenCustomEngine:
                             stats["retries"] += 1
                         continue
                     ref_path = self.voices.ref_path(c["voice"])
-                    sim_ok, sim_val = g.check_similarity(w, NATIVE_SR, ref_path, threshold=0.78)
-                    len_ok, len_reason = g.check_length_pause(w, NATIVE_SR, c["text_plain"], c["lang"])
-                    tran_ok, tran_reason, w_trimmed = g.check_transient(w, NATIVE_SR)
-                    rep_ok, cer_val, hyp = g.check_repeat_and_cer(w_trimmed, NATIVE_SR, c["text_plain"], c["lang"])
-                    w = w_trimmed
-                    all_ok = sim_ok and len_ok and tran_ok and rep_ok
-                    
-                    cer_val_fl = cer_val if isinstance(cer_val, float) else 1.0
-                    
-                    best = c.get("_best")
-                    best_cer = c.get("_best_cer", 100.0)
-                    if all_ok:
-                        c["_best"] = w
-                        c["_best_cer"] = cer_val_fl
+                    sim_thresh = 0.88 if c["voice"] == "sky" else 0.78
+                    en_cands_info = []
+                    for w_cand in w_list:
+                        sim_ok, sim_val = g.check_similarity(w_cand, NATIVE_SR, ref_path, threshold=sim_thresh)
+                        len_ok, len_reason = g.check_length_pause(w_cand, NATIVE_SR, c["text_plain"], c["lang"])
+                        tran_ok, tran_reason, w_trimmed = g.check_transient(w_cand, NATIVE_SR)
+                        rep_ok, cer_val, hyp = g.check_repeat_and_cer(w_trimmed, NATIVE_SR, c["text_plain"], c["lang"])
+                        cer_fl = cer_val if isinstance(cer_val, float) else 1.0
+                        cer_ok = cer_fl <= 0.25
+                        pitch_ok = True
+                        if c["voice"] == "sky" and len(w_trimmed) >= int(0.35 * NATIVE_SR):
+                            import librosa as _lr
+                            f0_v = _lr.yin(w_trimmed, fmin=70, fmax=400, sr=NATIVE_SR)
+                            voiced = f0_v[(f0_v > 75) & (f0_v < 385)]
+                            if len(voiced) >= 4:
+                                med_f0 = float(np.median(voiced))
+                                if med_f0 < 150.0 or med_f0 > 270.0:
+                                    pitch_ok = False
+                        cand_ok = sim_ok and len_ok and tran_ok and rep_ok and cer_ok and pitch_ok
+                        en_cands_info.append({
+                            "wav": w_trimmed, "all_ok": cand_ok, "cer": cer_fl, "sim": sim_val,
+                            "len_ok": len_ok, "rep_ok": rep_ok, "tran_ok": tran_ok, "sim_ok": sim_ok and pitch_ok,
+                        })
+                    all_en_cands = c.setdefault("_all_en_cands", [])
+                    all_en_cands.extend(en_cands_info)
+                    passing_en = [inf for inf in en_cands_info if inf["all_ok"]]
+                    if passing_en:
+                        chosen = min(passing_en, key=lambda x: (round(x["cer"], 2), -x["sim"]))
+                        ok = True
                     else:
-                        if best is None or cer_val_fl < best_cer:
-                            c["_best"] = w
-                            c["_best_cer"] = cer_val_fl
-                            
-                    ok = all_ok
+                        # Strongly prefer speaker-consistent takes (sim >= sim_thresh - 0.03) over drifted voices!
+                        chosen = max(all_en_cands, key=lambda x: (x["sim"] >= (sim_thresh - 0.03), x["rep_ok"] and x["len_ok"], -round(x["cer"], 2), x["sim"]))
+                        ok = False
                     if ok or attempt == t["sentence_retries"]:
-                        w = w if ok else c["_best"]
+                        w = chosen["wav"]
                         p = store.tts_path(c["key"])
                         tmp = p.with_suffix(".tmp.flac")
                         sf.write(str(tmp), w, NATIVE_SR, format="FLAC", subtype="PCM_16")
                         tmp.replace(p)
                         stats["n"] += 1
                         stats["audio_s"] += len(w) / NATIVE_SR
-                        
+
                         marker = store.tts_path(c["key"]).with_name(f'{c["key"]}.gates.json')
-                        counts = {"takes": 1, "retakes": 0, "length": int(not len_ok), "repeat": int(not rep_ok), "transient": int(not tran_ok), "similarity": int(not sim_ok), "cer": int(cer_val_fl > 0.15)}
+                        counts = {"takes": len(en_cands_info), "retakes": len(en_cands_info) - 1,
+                                  "length": sum(1 for x in en_cands_info if not x["len_ok"]),
+                                  "repeat": sum(1 for x in en_cands_info if not x["rep_ok"]),
+                                  "transient": sum(1 for x in en_cands_info if not x["tran_ok"]),
+                                  "similarity": sum(1 for x in en_cands_info if not x["sim_ok"]),
+                                  "cer": sum(1 for x in en_cands_info if x["cer"] > 0.15)}
                         marker.write_text(json.dumps(counts))
                     else:
                         nxt.append(c)

@@ -25,30 +25,47 @@ import time
 from pathlib import Path
 
 SHOWS = [
+    # Tier 1 (Main priority — weight 4): Russian, French, Spanish
     ("ru", "dvorik-u-mosta", "render/settings.ru-qwen-lora-en.json"),
     ("fr", "hotel-du-tilleul", "render/settings.fr-qwen-en.json"),
     ("es", "posada-del-limonero", "render/settings.es-qwen-en.json"),
-    ("it", "locanda-del-tiglio", "render/settings.it-qwen-en.json"),
-    ("pt", "pousada-do-cajueiro", "render/settings.pt-qwen-en.json"),
-    ("de", "pension-sonnenhof", "render/settings.de-qwen-en.json"),
-    ("ar", "bayt-al-yasmin", "render/settings.ar-chatterbox-en.json"),
-    ("ja", "hidamari-ryokan", "render/settings.ja-qwen-en.json"),
-    ("ko", "haessal-guesthouse", "render/settings.ko-qwen-en.json"),
-    ("zh", "xiaoyuan-kezhan", "render/settings.zh-qwen-en.json"),
-    ("hi", "aangan-haveli", "render/settings.hi-chatterbox-en.json"),
-    ("en", "linden-courtyard-es", "render/settings.en-qwen.json"),
-    ("en", "linden-courtyard-pt", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-ru", "render/settings.en-qwen.json"),
     ("en", "linden-courtyard-fr", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-es", "render/settings.en-qwen.json"),
+    # Tier 2 (Weight 2): German, Italian, Korean
+    ("de", "pension-sonnenhof", "render/settings.de-qwen-en.json"),
+    ("it", "locanda-del-tiglio", "render/settings.it-qwen-en.json"),
+    ("ko", "haessal-guesthouse", "render/settings.ko-qwen-en.json"),
     ("en", "linden-courtyard-de", "render/settings.en-qwen.json"),
     ("en", "linden-courtyard-it", "render/settings.en-qwen.json"),
-    ("en", "linden-courtyard-ru", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-ko", "render/settings.en-qwen.json"),
+    # Tier 3 (Weight 1): Chinese, Japanese (+ Portuguese)
+    ("zh", "xiaoyuan-kezhan", "render/settings.zh-qwen-en.json"),
+    ("ja", "hidamari-ryokan", "render/settings.ja-qwen-en.json"),
+    ("pt", "pousada-do-cajueiro", "render/settings.pt-qwen-en.json"),
+    ("en", "linden-courtyard-zh", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-ja", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-pt", "render/settings.en-qwen.json"),
+    # Tier 4 (Lowest priority — weight 1, last): Arabic, Hindi
+    ("ar", "bayt-al-yasmin", "render/settings.ar-chatterbox-en.json"),
+    ("hi", "aangan-haveli", "render/settings.hi-chatterbox-en.json"),
     ("en", "linden-courtyard-ar", "render/settings.en-ar.json"),
     ("en", "linden-courtyard-hi", "render/settings.en-hi.json"),
-    ("en", "linden-courtyard-ja", "render/settings.en-qwen.json"),
-    ("en", "linden-courtyard-ko", "render/settings.en-qwen.json"),
-    ("en", "linden-courtyard-zh", "render/settings.en-qwen.json"),
 ]
-QUOTA = {"ru": 3, "fr": 2}
+QUOTA = {
+    "dvorik-u-mosta": 4,
+    "hotel-du-tilleul": 4,
+    "posada-del-limonero": 4,
+    "linden-courtyard-ru": 4,
+    "linden-courtyard-fr": 4,
+    "linden-courtyard-es": 4,
+    "pension-sonnenhof": 2,
+    "locanda-del-tiglio": 2,
+    "haessal-guesthouse": 2,
+    "linden-courtyard-de": 2,
+    "linden-courtyard-it": 2,
+    "linden-courtyard-ko": 2,
+}
 
 
 def build_order(root: Path):
