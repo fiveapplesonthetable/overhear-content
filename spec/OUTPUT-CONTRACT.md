@@ -161,6 +161,7 @@ uploads it as GitHub release `render-<show>-sNNeNN` on this repo. The tar contai
 
 ```
 <sceneId>/{audio.mp3, spans.json, timing.json, meta.json, report.json}   every non-merged scene of the episode
+cache/tts/<key>.{flac,gates.json}                                        the sentence takes those scenes were assembled from (meta.sentenceTakes)
 clips/<id>.{json,mp3}                                                    that episode's example clips
 forms/<id>.{json,mp3}                                                    that episode's form clips
 forms-plan/<show>-sNNeNN.json                                            the episode's rows of forms/.plan.json
@@ -171,6 +172,11 @@ MANIFEST.json                                                            episode
 Commit and push the content first: `contentCommit` must be a pushed commit of `main`. The receiving machine checks out that
 commit, runs `tools/fetch_renders.py`, which re-verifies every sha256 and contentHash and merges the plan rows, then runs
 `check_render.py` again. Then it copies the files to Firebase. Re-packaging an episode after a fix replaces the release asset.
+
+The sentence takes are for fixes: `fetch_renders.py` keeps them in `<render dir>/cache/tts` (`--cache DIR` moves them), the
+publisher ignores them, and a package without them (rendered before `meta.sentenceTakes`) installs as before. A fix on another
+machine (`tools/fix_scene.py`) re-renders only the changed scenes from them, synthesizes only the sentences whose cache key changed,
+and re-packages the whole episode.
 
 ## 4. Models
 
