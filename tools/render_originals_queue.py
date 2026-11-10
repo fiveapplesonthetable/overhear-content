@@ -29,7 +29,7 @@ SHOWS = [
     ("ru", "dvorik-u-mosta", "render/settings.ru-qwen-lora-en.json"),
     ("fr", "hotel-du-tilleul", "render/settings.fr-qwen-en.json"),
     ("es", "posada-del-limonero", "render/settings.es-qwen-en.json"),
-    ("en", "linden-courtyard-ru", "render/settings.en-qwen.json"),
+    ("en", "linden-courtyard-ru", "render/settings.en-ru.json"),
     ("en", "linden-courtyard-fr", "render/settings.en-qwen.json"),
     ("en", "linden-courtyard-es", "render/settings.en-qwen.json"),
     # Tier 2 (Weight 2): German, Italian, Korean

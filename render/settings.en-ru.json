@@ -1,0 +1,131 @@
+{
+  "_note": "English for Russian speakers (en-ru) Qwen3-TTS profile: base Qwen3-TTS speaks General American English dialogue, clips, and forms, while Russian narrator lines receive homograph stress marks via ru_homographs.txt.gz + RuAccent.",
+  "renderVersion": "r2",
+  "tts": {
+    "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+    "dtype": "bfloat16",
+    "attn": "sdpa",
+    "batch": 16,
+    "batchEn": 16,
+    "temperature": 0.9,
+    "top_k": 50,
+    "top_p": 1.0,
+    "repetition_penalty": 1.05,
+    "max_new_tokens": 1024,
+    "sentence_retries": 3,
+    "languages": {
+      "en": "English",
+      "ru": "Russian"
+    }
+  },
+  "ttsRu": {
+    "_note": "Russian narrator engine for en-ru: injects homograph stress marks (ru_homographs.txt.gz + RuAccent turbo3.1) on Russian narrator turns without altering English dialogue caches.",
+    "engine": "qwen",
+    "lora": false,
+    "stress": "homographs",
+    "temperature": 0.78,
+    "repetition_penalty": 1.05,
+    "turnMaxChars": 0,
+    "ruaccent": "turbo3.1",
+    "textVersion": 2
+  },
+  "lora": {
+    "enabled": false,
+    "hf": "zimuzostanley/qwen3-tts-ru-stress-lora",
+    "revision": null,
+    "local": "(set by config.LORA_LOCAL / OVERHEAR_LORA_LOCAL)",
+    "tag": "run3"
+  },
+  "stress": {
+    "policy": "none",
+    "ruaccentFallback": true,
+    "ruaccentPython": "(set by config.RUACCENT_PYTHON)"
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "segLufs": -20.0,
+    "programLufs": -16.0,
+    "mp3Kbps": 96,
+    "fadeMs": 15,
+    "trimDb": -50,
+    "interSentenceGap": {
+      "en": 0.36,
+      "ru": 0.45
+    },
+    "edgeMs": 20
+  },
+  "align": {
+    "aligner": "mms_fa",
+    "snapMaxMs": 120,
+    "version": "a1"
+  },
+  "stressCheck": {
+    "scope": "homographs",
+    "ratio": 1.25
+  },
+  "priority": [
+    [
+      "linden-courtyard-ru",
+      1
+    ]
+  ],
+  "stressRetry": {
+    "attempts": 4,
+    "temperatures": [
+      0.85,
+      0.75,
+      0.95,
+      0.65
+    ]
+  },
+  "clips": {
+    "voices": {
+      "en": "en-f1"
+    },
+    "programLufs": -16.0,
+    "padMs": 80,
+    "cerMax": 0.15,
+    "retakes": 2,
+    "temperatures": [
+      0.75,
+      0.6
+    ],
+    "batch": 16,
+    "prio": -1,
+    "gpu": {
+      "ttsMiB": 7800,
+      "asrMiB": 2500
+    },
+    "scenesPerRun": 2
+  },
+  "forms": {
+    "voices": {
+      "en": "en-f1"
+    },
+    "lora": false,
+    "dictionary": null,
+    "programLufs": -16.0,
+    "padMs": 80,
+    "cerMax": 0.15,
+    "asrPadSec": 0.3,
+    "retakes": 2,
+    "extraRetakes": 1,
+    "temperatures": [
+      0.75,
+      0.6
+    ],
+    "batch": 32,
+    "chunk": 400,
+    "prio": -1,
+    "gpu": {
+      "ttsMiB": 9000,
+      "asrMiB": 2500
+    }
+  },
+  "gpu": {
+    "ttsMiB": 7800,
+    "ruMiB": 7800,
+    "enMiB": 2400,
+    "alignMiB": 1500
+  }
+}
