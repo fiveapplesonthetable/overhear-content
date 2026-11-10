@@ -216,14 +216,31 @@ class Renderer:
         narr_voice = roles["narrator"]
         narr_lang = self.voices.lang_of(narr_voice)
         if narr_lang in _CARRIER_PLACEHOLDERS:
+            ru_cfg_narr = config.ru_engine(self.s) if narr_lang == "ru" else None
+            ru_narr_policy = (
+                ru_cfg_narr.get("stress", "all" if ru_cfg_narr.get("lora") else "homographs")
+                if (ru_cfg_narr and ru_cfg_narr.get("engine") in ("qwen", "qwen-lora"))
+                else self.policy
+            )
             for a, b in _find_inline_chains(segments):
                 c_text, c_maps, g_over = _build_carrier_spec(segments, a, b, narr_lang=narr_lang)
                 if c_text and c_maps:
+                    c_tts = c_text
+                    if narr_lang == "ru" and ru_narr_policy != "none":
+                        c_sents = textprep.prepare_segment(
+                            a, "narrator", c_text, "ru", None, ru_narr_policy, 0.0,
+                            isent_cfg.get("ru", 0.45),
+                            ruaccent=self.ruaccent if self.s["stress"]["ruaccentFallback"] else None,
+                            max_turn_chars=len(c_text) + 16,
+                        )
+                        if c_sents:
+                            c_tts = " ".join(x.tts for x in c_sents)
                     affected = {str(i): takes[str(i)] for i in range(a, b + 1) if str(i) in takes}
                     # A carrier is one cached utterance spanning several authored segments.
                     counter = int(config.sha(affected)[:16], 16) if affected else 0
-                    c_key = tts.cache_key(self.s, narr_voice, self.voices.ref_version(narr_voice), narr_lang, c_text, retake=counter)
+                    c_key = tts.cache_key(self.s, narr_voice, self.voices.ref_version(narr_voice), narr_lang, c_tts, retake=counter)
                     ch_obj = CarrierChain(a, b, c_key, c_text, c_maps, g_over)
+                    ch_obj.tts_text = c_tts
                     carriers.append(ch_obj)
                     for k in range(a, b + 1):
                         chain_by_seg[k] = ch_obj
@@ -282,7 +299,11 @@ class Renderer:
                 sents.append(st)
         uniq = {}
         for ch_obj in carriers:
-            c_tts = textprep.sanitize_english_narrator_tts(ch_obj.text) if narr_lang == "en" else ch_obj.text
+            c_tts = (
+                textprep.sanitize_english_narrator_tts(ch_obj.text)
+                if narr_lang == "en"
+                else getattr(ch_obj, "tts_text", ch_obj.text)
+            )
             uniq.setdefault(ch_obj.key, {"key": ch_obj.key, "voice": narr_voice, "lang": narr_lang,
                                          "text_tts": c_tts, "text_plain": ch_obj.text})
         for st in sents:

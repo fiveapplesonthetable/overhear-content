@@ -26,7 +26,7 @@ def render_key(scene, voices: Voices, settings, roles=None) -> str:
     if scene.lang in ("ja", "zh", "ko", "ar", "hi"):
         from native_text import VERSION
         native = {"nativeAlignment": VERSION}
-    elif scene.lang == "ru":
+    elif scene.lang == "ru" or getattr(scene, "pair", "").endswith("-ru"):
         from textprep import homographs_version
         native = {"homographs": homographs_version()}
     takes = retakes.for_scene(scene)
