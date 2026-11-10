@@ -5,10 +5,11 @@
   python3 tools/fetch_renders.py RENDER_DIR --episode kukhnya-s01e01                 # download GitHub release render-<episode>
   python3 tools/fetch_renders.py RENDER_DIR --all                                    # every render-* release
   options: --content DIR  content checkout to verify against (default: this repo; check it out at the commit the packages name)
+           --cache DIR    where the package's sentence takes (cache/tts/*) go (default: RENDER_DIR/cache/tts); a fix re-renders from them
 
 A package is installed only when every file matches MANIFEST.json, every scene's contentHash equals sha256(script + notes) of the
 content checkout, and the tarball has no path outside the layout. The episode's form-plan rows are merged into
-RENDER_DIR/forms/.plan.json (same id: the package wins). Then tools/check_render.py --episode runs on the installed result.
+RENDER_DIR/forms/.plan.json (same id: the package wins). Packages older than the sentence takes simply have none. Then tools/check_render.py --episode runs on the installed result.
 """
 import hashlib, json, re, subprocess, sys, tarfile, tempfile
 from pathlib import Path
@@ -18,7 +19,7 @@ import check_render as cr
 
 ROOT = Path(__file__).resolve().parents[1]
 SAFE = re.compile(r"^(?:[a-z][a-z0-9-]*-s\d\de\d\d-scene-\d\d/(?:audio\.mp3|spans\.json|timing\.json|meta\.json|report\.json)"
-                  r"|(?:clips|forms)/[0-9a-f]{16}\.(?:json|mp3)|forms-plan/[a-z][a-z0-9-]*-s\d\de\d\d\.json|MANIFEST\.json)$")
+                  r"|cache/tts/[0-9a-f]{64}\.(?:flac|gates\.json)|(?:clips|forms)/[0-9a-f]{16}\.(?:json|mp3)|forms-plan/[a-z][a-z0-9-]*-s\d\de\d\d\.json|MANIFEST\.json)$")
 
 
 def read_package(tar_path):
@@ -39,7 +40,7 @@ def read_package(tar_path):
         return {name: tar.extractfile(m.linkname if m.islnk() else name).read() for name, m in by_name.items()}
 
 
-def install(tar_path, render, content, root=None):
+def install(tar_path, render, content, root=None, cache=None):
     data = read_package(tar_path)
     man = json.loads(data.pop("MANIFEST.json"))
     ep = man["episode"]
@@ -58,8 +59,9 @@ def install(tar_path, render, content, root=None):
         if cr.content_hash(sp, npth) != s["contentHash"]:
             raise SystemExit(f"{tar_path}: {sid} was rendered from other content (commit {man['contentCommit'][:12]}); check that commit out")
     plan_rows = json.loads(data.pop(f"forms-plan/{ep}.json"))
+    takes = Path(cache) if cache else render / "cache" / "tts"
     for name, b in data.items():
-        p = render / name
+        p = takes / Path(name).name if name.startswith("cache/tts/") else render / name
         p.parent.mkdir(parents=True, exist_ok=True)
         tmp = p.with_name(p.name + ".tmp")
         tmp.write_bytes(b)
@@ -77,7 +79,7 @@ def install(tar_path, render, content, root=None):
 
 
 def main(argv):
-    render_arg, content, root, tar_arg, episode, do_all = None, ROOT, None, None, None, False
+    render_arg, content, root, tar_arg, episode, do_all, cache = None, ROOT, None, None, None, False, None
     i = 0
     while i < len(argv):
         a = argv[i]
@@ -87,6 +89,7 @@ def main(argv):
         if a == "--tar": tar_arg = Path(argv[i + 1]); i += 2; continue
         if a == "--episode": episode = argv[i + 1]; i += 2; continue
         if a == "--all": do_all = True; i += 1; continue
+        if a == "--cache": cache = Path(argv[i + 1]).resolve(); i += 2; continue
         if not a.startswith("--") and render_arg is None: render_arg = a
         i += 1
     if render_arg is None:
@@ -110,7 +113,7 @@ def main(argv):
                 tars.append(Path(tmp) / f"{tag}.tar")
         bad = 0
         for t in tars:
-            ep = install(t, render, content, root=root)
+            ep = install(t, render, content, root=root, cache=cache)
             chk_args = [str(render), "--episode", ep, "--content", str(content)]
             if root:
                 chk_args += ["--root", root]
