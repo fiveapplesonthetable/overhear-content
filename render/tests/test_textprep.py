@@ -86,3 +86,24 @@ def test_standalone_poka_carries_its_stress_mark_so_the_cache_key_follows_the_re
     for text in ("Ну пока, Даня!", "Привет!"):                      # only a sentence that is the word alone
         (s,) = tp.prepare_segment(0, "max", text, "ru", [], "homographs", 0.3, 0.5)
         assert s.tts == text
+
+
+def test_shipped_homograph_list_is_loaded_and_its_absence_is_an_error(tmp_path):
+    tp._HOMOGRAPHS = None
+    assert "замок" in tp.homographs()          # the list ships with the repo
+    tp._HOMOGRAPHS = None
+    try:
+        tp.homographs(tmp_path / "missing.txt.gz")
+        assert False, "a missing homograph list must stop the render"
+    except FileNotFoundError:
+        pass
+    finally:
+        tp._HOMOGRAPHS = None
+
+
+def test_homograph_mark_reaches_the_tts_text_with_the_shipped_list():
+    tp._HOMOGRAPHS = None
+    text = "Сломался замок."
+    words = _words(text, ["Слома" + ACUTE + "лся", "замо" + ACUTE + "к"])
+    (s,) = tp.prepare_segment(0, "x", text, "ru", words, "homographs", 0.5, 0.5)
+    assert s.tts == "Сломался замо" + ACUTE + "к."

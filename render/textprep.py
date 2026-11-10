@@ -5,6 +5,7 @@ The sentence split is the content repo's compose.py regex: break after
 only that field may put a combining acute into the text sent to the model.
 """
 import gzip
+import hashlib
 import json
 import re
 import unicodedata
@@ -69,11 +70,16 @@ def homographs(path=None):
     global _HOMOGRAPHS
     if _HOMOGRAPHS is None:
         p = Path(path or Path(__file__).resolve().parent / "data" / "ru_homographs.txt.gz")
-        if p.exists():
-            _HOMOGRAPHS = frozenset(gzip.open(p, "rt", encoding="utf-8").read().split())
-        else:
-            _HOMOGRAPHS = frozenset()
+        if not p.exists():
+            # Without it no Russian homograph gets a stress mark and the stress check passes everything.
+            raise FileNotFoundError(f"{p} is missing (make it with render/tools/extract_homographs.py)")
+        _HOMOGRAPHS = frozenset(gzip.open(p, "rt", encoding="utf-8").read().split())
     return _HOMOGRAPHS
+
+
+def homographs_version(path=None) -> str:
+    """Short hash of the homograph list: the stress marks sent to the TTS follow it, so render keys do too."""
+    return hashlib.sha256(" ".join(sorted(homographs(path))).encode("utf-8")).hexdigest()[:16]
 
 
 def token_spans(text: str, tokens, start=0):

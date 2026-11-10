@@ -5,6 +5,10 @@ who replays the target-language lines and explains them. You make **everything**
 word notes, art, and the rendered audio with word timing. You review your own work. A separate machine then fetches
 your output, verifies it and copies it to Firebase **unchanged**. Nobody fixes anything after you.
 
+## First: re-render all Russian originals ([RUSSIAN-RERENDER.md](RUSSIAN-RERENDER.md))
+
+The Russian stress list was missing, so no Russian line got its homograph stress marks. Every dvorik-u-mosta scene is stale. Follow that file before rendering new Russian work.
+
 ## Priority now: Overhear Originals (read [spec/ORIGINALS.md](spec/ORIGINALS.md) first)
 
 The public app now plays only **Overhear Originals**: new stories you create from scratch in `originals/`, released as
