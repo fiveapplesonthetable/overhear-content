@@ -43,7 +43,7 @@ EXTRA_SETTINGS = {
     "linden-courtyard-ar": "render/settings.en-ar.json",
     "linden-courtyard-hi": "render/settings.en-hi.json",
 }
-_HEX = re.compile(r"^[0-9a-f]{16,64}\.(flac|mp3|json)$")
+_HEX = re.compile(r"^[0-9a-f]{16,64}(\.gates)?\.(flac|mp3|json)$")
 
 
 def settings_for(show: str) -> str:
@@ -81,11 +81,11 @@ def changed_episodes(rev: str) -> list:
     return sorted(eps)
 
 
-def seed_cache(src: Path, dst: Path) -> int:
+def seed_cache(src: Path, dst: Path, rels=("cache/tts", "clips", "forms")) -> int:
     """Hard-link content-addressed files (never temp/plan/lock files); .mp3 before .json so a clip record never
     appears before its audio."""
     n = 0
-    for rel in ("cache/tts", "clips", "forms"):
+    for rel in rels:
         s, d = src / rel, dst / rel
         if not s.is_dir():
             continue

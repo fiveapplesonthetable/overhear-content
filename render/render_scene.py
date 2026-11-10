@@ -678,6 +678,7 @@ class Renderer:
             "voicesVersion": voices.voices_version(),
             "voices": {r: {"voice": k, "refVersion": voices.ref_version(k)} for r, k in sorted(roles.items())},
             "align": f"mms_fa/{s['align']['version']}",
+            "sentenceTakes": {k: v["text_plain"] for k, v in sorted(ctx.uniq.items())},   # cache/tts key -> text of every take the scene was assembled from; package_render ships them
             "renderedAt": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
             "durationSec": round(duration, 3), "sampleRate": sr, "bitrateKbps": s["audio"]["mp3Kbps"],
             "audioSha256": sha256_file(tmp), "audioBytes": tmp.stat().st_size,

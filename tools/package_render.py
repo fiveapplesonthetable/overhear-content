@@ -3,10 +3,13 @@
 
   python3 tools/package_render.py STORE --episode kukhnya-s01e01                 # -> dist/render-kukhnya-s01e01.tar
   python3 tools/package_render.py STORE --episode kukhnya-s01e01 --release       # and upload it as GitHub release render-kukhnya-s01e01
+  --takes-of ID[,ID]   ship sentence takes only for these scenes (a fix that re-renders one scene of an installed episode)
 
 STORE is the render store ($OVERHEAR_HOME/render-store). The episode must pass tools/check_render.py --episode first: a package
 never carries a scene the publisher would drop. The tarball holds, with paths relative to the store:
   <sceneId>/{audio.mp3, spans.json, timing.json, meta.json, report.json}   every non-merged scene of the episode
+  cache/tts/<key>.{flac,gates.json}                                        the sentence takes each scene was assembled from (meta.sentenceTakes);
+                                                                           the receiver keeps them so a later fix re-synthesizes only what changed
   clips/<id>.{json,mp3}                                                    the example clips of those scenes' lexicons (failed: .json only)
   forms/<id>.{json,mp3}                                                    the form clips of those lexicons' tables
   forms-plan/<episode>.json                                                the episode's rows of forms/.plan.json
@@ -41,12 +44,22 @@ def resolve_episode_root(content: Path, episode: str, explicit_root=None) -> str
     return "out"
 
 
-def episode_files(store, content, episode, root=None):
-    """-> (scene ids, [relative paths], [plan rows]) of one episode."""
+def take_files(store, sid):
+    """The sentence takes (flac + gates record) of a scene that are in the store, from the keys its meta.json lists.
+    Scenes rendered before meta.sentenceTakes existed list none."""
+    meta = json.loads((store / sid / "meta.json").read_text(encoding="utf-8"))
+    names = [f"cache/tts/{key}{ext}" for key in meta.get("sentenceTakes", {}) for ext in (".flac", ".gates.json")]
+    return [n for n in names if (store / n).is_file()]
+
+
+def episode_files(store, content, episode, root=None, takes_of=None):
+    """-> (scene ids, [relative paths], [plan rows]) of one episode. `takes_of`: scene ids whose sentence takes ship (default: all)."""
     scenes = [s for s in cr.scenes_of(content, episode=episode, root=root) if not s[3]]
     files, ids = [], set()
     for sid, sp, npth, _ in scenes:
         files += [f"{sid}/{f}" for f in cr.SCENE_FILES]
+        if takes_of is None or sid in takes_of:
+            files += take_files(store, sid)
         pair = json.loads(sp.read_text(encoding="utf-8"))["pair"]
         for e in json.loads(npth.read_text(encoding="utf-8")).get("lexicon", {}).values():
             for ex in e.get("examples", []):
@@ -68,17 +81,18 @@ def episode_files(store, content, episode, root=None):
 
 
 def add_files(tar, store, files):
-    """Every file as a regular member: tar.add stores a repeat of a same-inode file as a hardlink, which installers refuse."""
+    """Every file as a regular member (its bytes): tar.add stores a repeat of a same-inode file as a hardlink and a symlink as a
+    symlink, which installers refuse."""
     for f in files:
         info = tar.gettarinfo(store / f, arcname=f)
-        if info.islnk():
+        if not info.isreg():                  # hardlink repeat, or a symlink into another store (a fix assembled from installed scenes)
             info.type, info.linkname, info.size = tarfile.REGTYPE, "", (store / f).stat().st_size
         with open(store / f, "rb") as fh:
             tar.addfile(info, fh)
 
 
 def main(argv):
-    store_arg, episode, content, explicit_root, do_release = None, None, ROOT, None, False
+    store_arg, episode, content, explicit_root, do_release, takes_of = None, None, ROOT, None, False, None
     i = 0
     while i < len(argv):
         a = argv[i]
@@ -90,6 +104,8 @@ def main(argv):
             explicit_root = argv[i + 1]; i += 2; continue
         if a.startswith("--root="):
             explicit_root = a.split("=", 1)[1]; i += 1; continue
+        if a == "--takes-of":
+            takes_of = set(argv[i + 1].split(",")); i += 2; continue
         if a == "--release":
             do_release = True; i += 1; continue
         if not a.startswith("--") and store_arg is None:
@@ -104,7 +120,7 @@ def main(argv):
         print(f"ERROR {e}"); return 1
     if cr.main([str(store), "--root", root, "--episode", episode, "--content", str(content)]) != 0:
         print(f"{episode}: tools/check_render.py fails; not packaged"); return 1
-    scenes, files, plan = episode_files(store, content, episode, root=root)
+    scenes, files, plan = episode_files(store, content, episode, root=root, takes_of=takes_of)
     commit = subprocess.run(["git", "-C", str(content), "rev-parse", "HEAD"], capture_output=True, text=True).stdout.strip()
     manifest = {"schemaVersion": 1, "episode": episode, "root": root, "contentCommit": commit,
                 "packagedAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
