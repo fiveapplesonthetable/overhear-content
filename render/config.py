@@ -53,7 +53,7 @@ def stress_policy(s):
     return p
 
 
-def tts_signature(s, with_en=True, with_ar=True, with_hi=True):
+def tts_signature(s, with_en=True, with_ar=True, with_hi=True, with_ru=True):
     """The part of the settings that changes what the model says (not how it is assembled)."""
     t = s["tts"]
     lora = s["lora"]
@@ -63,7 +63,7 @@ def tts_signature(s, with_en=True, with_ar=True, with_hi=True):
         "lora": (lora["tag"] if lora["enabled"] else None),
         "stress": stress_policy(s),
         "takeGates": "v2",
-        **({"ru": _public(ru_engine(s))} if ru_engine(s) else {}),
+        **({"ru": _public(ru_engine(s))} if with_ru and ru_engine(s) else {}),
         **({"en": _public(en_engine(s))} if with_en and en_engine(s) else {}),
         **({"ar": _public(ar_engine(s))} if with_ar and ar_engine(s) else {}),
         **({"hi": _public(hi_engine(s))} if with_hi and hi_engine(s) else {}),
@@ -119,7 +119,7 @@ def sentence_signature(s, lang):
         return {"ar": _public(ar), "takeGates": "v4-ar-fullsent"}
     if lang == "hi" and hi:
         return {"hi": _public(hi), "takeGates": "v1-hi"}
-    d = tts_signature(s, with_en=False, with_ar=False, with_hi=False)
+    d = tts_signature(s, with_en=False, with_ar=False, with_hi=False, with_ru=False)
     d["takeGates"] = "v5-sky-pure" if lang == "en" else "v2"
     return d    # Other languages' sentence caches do not depend on Arabic/Hindi/narrator engines.
 
