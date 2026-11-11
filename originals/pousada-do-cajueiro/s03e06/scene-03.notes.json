@@ -2,6 +2,106 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e06-scene-03",
   "lexicon": {
+    "Camila": {
+      "lemma": "Camila",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Camila (feminine given name)",
+      "meanings": [
+        {
+          "en": "Camila (feminine given name)",
+          "note": "Popular Brazilian Portuguese feminine name of Roman origin, spelled with a single l in standard Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Camila anotou todos os horários das entregas no caderno.",
+          "trans": "Camila wrote down all the delivery times in the notebook."
+        },
+        {
+          "text": "Vamos esperar a Camila chegar antes de abrir o pacote.",
+          "trans": "Let's wait for Camila to arrive before opening the package."
+        }
+      ],
+      "related": []
+    },
+    "Helena": {
+      "lemma": "Helena",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Helena (given name)",
+      "meanings": [
+        {
+          "en": "Helena (female given name)",
+          "note": "Common Brazilian given name; initial h- is silent (/eˈlenɐ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Helena trouxe o mapa antigo para conferir os nomes das ruas.",
+          "trans": "Helena brought the old map to check the street names."
+        },
+        {
+          "text": "Você já mostrou as fotos do pátio para a Helena hoje?",
+          "trans": "Have you shown the courtyard photos to Helena yet today?"
+        }
+      ],
+      "related": []
+    },
+    "Otávio": {
+      "lemma": "Otávio",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Otávio (given name)",
+      "meanings": [
+        {
+          "en": "Otávio (male given name)",
+          "note": "Portuguese form of Octavius; stressed on -tá- (/oˈtavju/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Otávio anotou todas as medidas no caderno antes de sairmos.",
+          "trans": "Otávio wrote down all the measurements in his notebook before we left."
+        },
+        {
+          "text": "Passe essa cesta de frutas para o Otávio levar até a cozinha.",
+          "trans": "Hand that basket of fruit to Otávio to carry into the kitchen."
+        }
+      ],
+      "related": []
+    },
+    "Rafael": {
+      "lemma": "Rafael",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Rafael (given name)",
+      "meanings": [
+        {
+          "en": "Rafael (male given name)",
+          "note": "Common Brazilian given name; stressed on the final syllable (/ʁafaˈɛw/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Rafael trouxe a bússola de latão para conferir a direção norte.",
+          "trans": "Rafael brought the brass compass to double-check the north direction."
+        },
+        {
+          "text": "Chame o Rafael para olhar os desenhos antigos antes de guardar a pasta.",
+          "trans": "Call Rafael over to look at the old drawings before putting the folder away."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -1875,15 +1975,19 @@
     },
     "direção": {
       "lemma": "direção",
-      "stress": "dʒiɾeˈsɐ̃w",
       "pos": "noun",
+      "stress": "dʒiɾeˈsɐ̃w̃",
+      "gloss": "direction; steering; management",
       "gender": "f",
       "plural": "direções",
-      "gloss": "direction; management",
       "meanings": [
         {
-          "en": "direction",
-          "note": "Refers to spatial direction (em direção a = toward) as well as leadership or management."
+          "en": "direction; way",
+          "note": "Feminine noun (like all -ção nouns); em direção a means 'toward'."
+        },
+        {
+          "en": "management; steering; film directing",
+          "note": "Also refers to the leadership of a school or company, car steering (volante/direção), or film direction."
         }
       ],
       "forms": {
@@ -1906,26 +2010,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Ele ergueu a xícara em direção à janela onde estavam os dois músicos.",
-          "trans": "He raised his teacup toward the window where the two musicians stood."
+          "text": "Caminhamos em direção à praça do relógio depois do café.",
+          "trans": "We walked toward the clock square after breakfast."
         },
         {
-          "text": "Seguimos nessa direção pelo corredor até encontrar a porta do solário.",
-          "trans": "We walked in that direction down the hallway until we found the sunroom door."
+          "text": "A direção do hotel preparou uma programação especial para o feriado.",
+          "trans": "The hotel management prepared a special schedule for the holiday."
         }
       ],
       "related": [
         {
+          "word": "dirigir",
+          "gloss": "to drive; to direct"
+        },
+        {
+          "word": "direto",
+          "gloss": "direct; straight"
+        },
+        {
           "word": "rumo",
-          "gloss": "course; heading"
-        },
-        {
-          "word": "caminho",
-          "gloss": "path"
-        },
-        {
-          "word": "lado",
-          "gloss": "side"
+          "gloss": "course; direction"
         }
       ]
     },
@@ -5116,39 +5220,35 @@
     },
     "suavemente": {
       "lemma": "suavemente",
-      "stress": "suaviˈmẽtʃi",
       "pos": "adv",
-      "gloss": "gently; softly",
+      "stress": "suaviˈmẽtʃi",
+      "gloss": "gently; softly; smoothly",
       "meanings": [
         {
-          "en": "gently; smoothly",
-          "note": "Manner adverb formed from 'suave' + '-mente', describing quiet movement, gentle touch, or soft music."
+          "en": "gently; softly; without force",
+          "note": "Manner adverb formed from the adjective suave + -mente."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Toque suavemente os acordes da introdução enquanto o pátio silencia.",
-          "trans": "Play the opening chords gently while the courtyard falls quiet."
+          "text": "Ele fechou a porta de madeira suavemente para não acordar ninguém.",
+          "trans": "He closed the wooden door gently so as not to wake anyone."
         },
         {
-          "text": "O vento soprava suavemente pelos galhos sem balançar nenhuma lanterna.",
-          "trans": "The wind blew softly through the branches without swaying a single lantern."
+          "text": "A brisa da tarde balançava suavemente as folhas do quintal.",
+          "trans": "The afternoon breeze gently swayed the leaves in the yard."
         }
       ],
       "related": [
         {
           "word": "suave",
-          "gloss": "soft; gentle"
+          "gloss": "soft; gentle; mild"
         },
         {
           "word": "devagar",
           "gloss": "slowly"
-        },
-        {
-          "word": "calma",
-          "gloss": "calm"
         }
       ]
     },
@@ -5463,15 +5563,15 @@
     },
     "topo": {
       "lemma": "topo",
-      "stress": "ˈtopu",
       "pos": "noun",
+      "stress": "ˈtopu",
+      "gloss": "top; summit; upper surface",
       "gender": "m",
       "plural": "topos",
-      "gloss": "top; summit; crown",
       "meanings": [
         {
-          "en": "top; upper end",
-          "note": "The highest point of a tower, hill, page, ladder, or structure."
+          "en": "top; highest point or upper surface of something",
+          "note": "Masculine noun with closed [o]; contrast with a tope or no topo ('at the top')."
         }
       ],
       "forms": {
@@ -5494,26 +5594,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Do topo da escada de madeira, ela alcançava o gancho mais alto do arco.",
-          "trans": "From the top of the wooden ladder, she could reach the highest hook on the arch."
+          "text": "Do topo da colina dá para ver toda a baía.",
+          "trans": "From the top of the hill you can see the whole bay."
         },
         {
-          "text": "O brasão dourado aparece no topo do convite oficial da prefeitura.",
-          "trans": "The gold crest appears at the top of the official city hall invitation."
+          "text": "O topo do bolo ficou dourado e crocante.",
+          "trans": "The top of the cake turned golden and crisp."
         }
       ],
       "related": [
         {
-          "word": "alto",
-          "gloss": "high; top"
+          "word": "cima",
+          "gloss": "top; above"
         },
         {
           "word": "ponta",
-          "gloss": "tip"
-        },
-        {
-          "word": "fundo",
-          "gloss": "bottom"
+          "gloss": "tip; edge"
         }
       ]
     },

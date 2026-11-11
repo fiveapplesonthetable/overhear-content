@@ -2,6 +2,95 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e06-scene-04",
   "lexicon": {
+    "Acácias": {
+      "lemma": "Acácias",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Acácias (street name, lit. Acacias)",
+      "meanings": [
+        {
+          "en": "Acácias (proper street name)",
+          "note": "Plural proper name used in Rua das Acácias ('Acacia Street'), named after the flowering acacia tree."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A padaria nova fica na esquina da Rua das Acácias.",
+          "trans": "The new bakery is on the corner of Rua das Acácias."
+        },
+        {
+          "text": "Moro na Rua das Acácias há mais de quinze anos.",
+          "trans": "I have lived on Rua das Acácias for more than fifteen years."
+        }
+      ],
+      "related": [
+        {
+          "word": "acácia",
+          "gloss": "acacia tree"
+        },
+        {
+          "word": "rua",
+          "gloss": "street"
+        }
+      ]
+    },
+    "Bianca": {
+      "lemma": "Bianca",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Bianca (feminine given name)",
+      "meanings": [
+        {
+          "en": "Bianca (Italian-origin feminine name)",
+          "note": "Common given name in Brazil, cognate with Portuguese Branca ('white')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Bianca trouxe os cartões pintados para mostrar na varanda.",
+          "trans": "Bianca brought the painted cards to show on the porch."
+        },
+        {
+          "text": "Pergunte para a Bianca a que horas ela volta do mercado.",
+          "trans": "Ask Bianca what time she is coming back from the market."
+        }
+      ],
+      "related": [
+        {
+          "word": "branca",
+          "gloss": "white (f)"
+        }
+      ]
+    },
+    "Camila": {
+      "lemma": "Camila",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Camila (feminine given name)",
+      "meanings": [
+        {
+          "en": "Camila (feminine given name)",
+          "note": "Popular Brazilian Portuguese feminine name of Roman origin, spelled with a single l in standard Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Camila anotou todos os horários das entregas no caderno.",
+          "trans": "Camila wrote down all the delivery times in the notebook."
+        },
+        {
+          "text": "Vamos esperar a Camila chegar antes de abrir o pacote.",
+          "trans": "Let's wait for Camila to arrive before opening the package."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -621,15 +710,19 @@
     },
     "banco": {
       "lemma": "banco",
-      "stress": "ˈbɐ̃ku",
       "pos": "noun",
+      "stress": "ˈbɐ̃ku",
+      "gloss": "bench; seat; bank",
       "gender": "m",
       "plural": "bancos",
-      "gloss": "bench; stool; bank",
       "meanings": [
         {
-          "en": "bench; bank",
-          "note": "Means a park or courtyard bench, a stool, or a financial institution depending on context."
+          "en": "bench; stool; car seat",
+          "note": "Everyday noun for a park bench (banco da praça), wooden stool, or vehicle seat (banco da frente)."
+        },
+        {
+          "en": "bank (financial institution)",
+          "note": "Also the standard word for a financial bank (ir ao banco) or a data/blood repository (banco de dados)."
         }
       ],
       "forms": {
@@ -652,26 +745,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Sentamos no banco de pedra da praça para ler o convite oficial.",
-          "trans": "We sat on the stone bench in the square to read the official invitation."
+          "text": "Sentamos no banco da praça para tomar sorvete na sombra.",
+          "trans": "We sat on the park bench to eat ice cream in the shade."
         },
         {
-          "text": "Preciso passar no banco antes do meio-dia para trocar algumas cédulas.",
-          "trans": "I need to stop by the bank before noon to exchange some bills."
+          "text": "Vou passar no banco antes do almoço para pagar essa conta.",
+          "trans": "I am going to stop by the bank before lunch to pay this bill."
         }
       ],
       "related": [
+        {
+          "word": "banquinho",
+          "gloss": "small stool"
+        },
         {
           "word": "cadeira",
           "gloss": "chair"
         },
         {
-          "word": "praça",
-          "gloss": "square"
-        },
-        {
-          "word": "madeira",
-          "gloss": "wood"
+          "word": "assento",
+          "gloss": "seat"
         }
       ]
     },
@@ -1058,13 +1151,13 @@
     },
     "chuvoso": {
       "lemma": "chuvoso",
-      "stress": "ʃuˈvozu",
       "pos": "adj",
+      "stress": "ʃuˈvozu",
       "gloss": "rainy",
       "meanings": [
         {
-          "en": "rainy; wet",
-          "note": "Describes days, seasons, or weather characterized by frequent rain."
+          "en": "rainy; wet with frequent rain",
+          "note": "Notice metaphony: stressed o is close /o/ in masculine singular chuvoso, but opens to /ɔ/ in chuvosa, chuvosos, and chuvosas."
         }
       ],
       "forms": {
@@ -1094,12 +1187,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Em uma tarde chuvosa de maio, o chá quente reúne todo mundo na cozinha.",
-          "trans": "On a rainy May afternoon, hot tea brings everyone together in the kitchen."
+          "text": "Numa tarde chuvosa, nada melhor do que chá quente e livro bom.",
+          "trans": "On a rainy afternoon, nothing beats hot tea and a good book."
         },
         {
-          "text": "Os meses chuvosos deixaram as pedras do jardim cobertas de musgo verde.",
-          "trans": "The rainy months left the garden stones covered with green moss."
+          "text": "O mês de maio costuma ser bem chuvoso aqui no litoral.",
+          "trans": "The month of May is usually quite rainy here on the coast."
         }
       ],
       "related": [
@@ -1108,12 +1201,12 @@
           "gloss": "rain"
         },
         {
-          "word": "úmido",
-          "gloss": "damp"
+          "word": "chover",
+          "gloss": "to rain"
         },
         {
-          "word": "seco",
-          "gloss": "dry"
+          "word": "ensolarado",
+          "gloss": "sunny"
         }
       ]
     },
@@ -3969,8 +4062,8 @@
       "gloss": "gold",
       "meanings": [
         {
-          "en": "gold",
-          "note": "Precious metal and warm metallic color; 'folha de ouro' is gold leaf used in gilding."
+          "en": "gold (metal, colour, or first-place prize)",
+          "note": "Masculine noun; plural ouros also names the suit of diamonds in playing cards."
         }
       ],
       "forms": {
@@ -3993,12 +4086,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Os detalhes do brasão foram iluminados com folha de ouro verdadeira.",
-          "trans": "The crest details were illuminated with genuine gold leaf."
+          "text": "A capa do livro antigo tem letras gravadas em folha de ouro.",
+          "trans": "The cover of the old book has letters stamped in gold leaf."
         },
         {
-          "text": "O anel de ouro da família descansava na caixinha forrada de veludo.",
-          "trans": "The family gold ring rested in the velvet-lined little box."
+          "text": "Essa receita de família vale mais do que ouro para nós.",
+          "trans": "This family recipe is worth more than gold to us."
         }
       ],
       "related": [
@@ -4007,12 +4100,12 @@
           "gloss": "golden"
         },
         {
-          "word": "prata",
-          "gloss": "silver"
+          "word": "ourives",
+          "gloss": "goldsmith"
         },
         {
-          "word": "latão",
-          "gloss": "brass"
+          "word": "prata",
+          "gloss": "silver"
         }
       ]
     },
@@ -6231,15 +6324,15 @@
     },
     "torre": {
       "lemma": "torre",
-      "stress": "ˈtoʁi",
       "pos": "noun",
+      "stress": "ˈtoʁi",
+      "gloss": "tower",
       "gender": "f",
       "plural": "torres",
-      "gloss": "tower; spire",
       "meanings": [
         {
-          "en": "tower",
-          "note": "Tall architectural tower (like a clock tower, torre do relógio) or castle rook in chess."
+          "en": "tower; tall architectural structure (clock tower, bell tower, rook in chess)",
+          "note": "Feminine noun (a torre / as torres); torre do relógio means 'clock tower'."
         }
       ],
       "forms": {
@@ -6262,26 +6355,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Os sinos da torre do relógio bateram três vezes quando o carro parou.",
-          "trans": "The clock tower bells chimed three times as the car pulled up."
+          "text": "O relógio da torre antiga toca doze vezes ao meio-dia.",
+          "trans": "The clock in the old tower chimes twelve times at noon."
         },
         {
-          "text": "No mapa antigo, a torre da igreja servia de ponto de referência para viajantes.",
-          "trans": "On the old map, the church tower served as a landmark for travelers."
+          "text": "Subimos as escadas da torre para observar os telhados.",
+          "trans": "We climbed the tower stairs to look out over the rooftops."
         }
       ],
       "related": [
         {
           "word": "relógio",
-          "gloss": "clock"
-        },
-        {
-          "word": "sino",
-          "gloss": "bell"
+          "gloss": "clock; watch"
         },
         {
           "word": "praça",
-          "gloss": "square"
+          "gloss": "town square"
         }
       ]
     },
@@ -6377,25 +6466,25 @@
     },
     "trás": {
       "lemma": "trás",
-      "stress": "ˈtɾas",
       "pos": "adv",
-      "gloss": "behind; back; ago",
+      "stress": "ˈtɾas",
+      "gloss": "back; behind",
       "meanings": [
         {
-          "en": "back; behind",
-          "note": "Common in fixed expressions: 'para trás' (backward), 'atrás' (behind), 'mesas de trás' (back tables), 'anos atrás' (ago)."
+          "en": "back; behind; in the rear",
+          "note": "Always preceded by a preposition: para trás ('backwards'), por trás ('behind'), de trás ('from behind'), atrás de ('behind')."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Leia em voz bem clara para as mesas de trás ouvirem cada palavra do brinde.",
-          "trans": "Read in a clear voice so the tables in the back hear every word of the toast."
+          "text": "Deem um passo para trás antes de abrir a caixa pesada.",
+          "trans": "Take a step back before opening the heavy box."
         },
         {
-          "text": "Olhe para trás ao cruzar o portão para admirar as lanternas acesas.",
-          "trans": "Look back as you cross the gate to admire the lit lanterns."
+          "text": "Deixamos as preocupações para trás durante o fim de semana.",
+          "trans": "We left our worries behind for the weekend."
         }
       ],
       "related": [
@@ -6406,10 +6495,6 @@
         {
           "word": "frente",
           "gloss": "front"
-        },
-        {
-          "word": "costas",
-          "gloss": "back"
         }
       ]
     },

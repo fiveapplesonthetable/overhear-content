@@ -2,6 +2,111 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e06-scene-05",
   "lexicon": {
+    "Bianca": {
+      "lemma": "Bianca",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Bianca (feminine given name)",
+      "meanings": [
+        {
+          "en": "Bianca (Italian-origin feminine name)",
+          "note": "Common given name in Brazil, cognate with Portuguese Branca ('white')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Bianca trouxe os cartões pintados para mostrar na varanda.",
+          "trans": "Bianca brought the painted cards to show on the porch."
+        },
+        {
+          "text": "Pergunte para a Bianca a que horas ela volta do mercado.",
+          "trans": "Ask Bianca what time she is coming back from the market."
+        }
+      ],
+      "related": [
+        {
+          "word": "branca",
+          "gloss": "white (f)"
+        }
+      ]
+    },
+    "Camila": {
+      "lemma": "Camila",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Camila (feminine given name)",
+      "meanings": [
+        {
+          "en": "Camila (feminine given name)",
+          "note": "Popular Brazilian Portuguese feminine name of Roman origin, spelled with a single l in standard Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Camila anotou todos os horários das entregas no caderno.",
+          "trans": "Camila wrote down all the delivery times in the notebook."
+        },
+        {
+          "text": "Vamos esperar a Camila chegar antes de abrir o pacote.",
+          "trans": "Let's wait for Camila to arrive before opening the package."
+        }
+      ],
+      "related": []
+    },
+    "Helena": {
+      "lemma": "Helena",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Helena (given name)",
+      "meanings": [
+        {
+          "en": "Helena (female given name)",
+          "note": "Common Brazilian given name; initial h- is silent (/eˈlenɐ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Helena trouxe o mapa antigo para conferir os nomes das ruas.",
+          "trans": "Helena brought the old map to check the street names."
+        },
+        {
+          "text": "Você já mostrou as fotos do pátio para a Helena hoje?",
+          "trans": "Have you shown the courtyard photos to Helena yet today?"
+        }
+      ],
+      "related": []
+    },
+    "Jorge": {
+      "lemma": "Jorge",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Jorge (given name)",
+      "meanings": [
+        {
+          "en": "Jorge (male given name)",
+          "note": "Portuguese cognate of George; pronounced /ˈʒɔʁʒi/ in Brazilian Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Jorge já acendeu a grelha no quintal para o almoço de domingo.",
+          "trans": "Jorge has already lit the grill in the backyard for Sunday lunch."
+        },
+        {
+          "text": "Pergunte para o Jorge onde ele guardou as ferramentas de jardinagem.",
+          "trans": "Ask Jorge where he put the gardening tools away."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -42,15 +147,15 @@
     },
     "abelha": {
       "lemma": "abelha",
-      "stress": "aˈbeʎɐ",
       "pos": "noun",
+      "stress": "aˈbeʎɐ",
+      "gloss": "bee",
       "gender": "f",
       "plural": "abelhas",
-      "gloss": "bee; honeybee",
       "meanings": [
         {
           "en": "bee; honeybee",
-          "note": "Social pollinating insect prized for honey and beeswax (cera de abelha)."
+          "note": "Common feminine noun for any bee species; cera de abelha means beeswax and abelha-rainha means queen bee."
         }
       ],
       "forms": {
@@ -73,12 +178,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "As abelhas visitam as flores de laranjeira no pátio todas as manhãs.",
-          "trans": "The bees visit the orange-blossom flowers in the courtyard every morning."
+          "text": "Várias abelhas estavam voando perto das flores do quintal.",
+          "trans": "Several bees were flying near the flowers in the backyard."
         },
         {
-          "text": "O mel silvestre veio de uma pequena colmeia perto da serra.",
-          "trans": "The wildflower honey came from a small beehive near the hills."
+          "text": "O mel desta região vem de abelhas nativas sem ferrão.",
+          "trans": "The honey from this region comes from native stingless bees."
         }
       ],
       "related": [
@@ -87,12 +192,12 @@
           "gloss": "honey"
         },
         {
-          "word": "cera",
-          "gloss": "wax"
-        },
-        {
           "word": "colmeia",
           "gloss": "beehive"
+        },
+        {
+          "word": "cera",
+          "gloss": "wax"
         }
       ]
     },
@@ -935,15 +1040,15 @@
     },
     "cera": {
       "lemma": "cera",
-      "stress": "ˈseɾɐ",
       "pos": "noun",
+      "stress": "ˈseɾɐ",
+      "gloss": "wax",
       "gender": "f",
       "plural": "ceras",
-      "gloss": "wax; beeswax",
       "meanings": [
         {
-          "en": "wax",
-          "note": "Natural or synthetic wax used for candles, polishing wood, or waterproofing cloth."
+          "en": "wax (beeswax, candle wax, polish)",
+          "note": "Covers natural beeswax (cera de abelha), sealing wax (lacre de cera), floor polish, and earwax."
         }
       ],
       "forms": {
@@ -966,26 +1071,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Passamos cera de abelha pura no tecido para proteger os documentos da umidade.",
-          "trans": "We rubbed pure beeswax onto the cloth to shield the documents from moisture."
+          "text": "Pingou um pouco de cera derretida da vela em cima da toalha.",
+          "trans": "A little melted candle wax dripped onto the tablecloth."
         },
         {
-          "text": "O chão encerado refletia a luz amarela das lanternas de papel.",
-          "trans": "The waxed floor reflected the warm yellow light of the paper lanterns."
+          "text": "Passamos cera de abelha na madeira para proteger contra a umidade.",
+          "trans": "We rubbed beeswax onto the wood to protect it from dampness."
         }
       ],
       "related": [
         {
-          "word": "abelha",
-          "gloss": "bee"
+          "word": "encerar",
+          "gloss": "to wax"
+        },
+        {
+          "word": "encerado",
+          "gloss": "waxed; oilcloth"
         },
         {
           "word": "vela",
           "gloss": "candle"
-        },
-        {
-          "word": "encerado",
-          "gloss": "waxed cloth"
         }
       ]
     },
@@ -5069,11 +5174,11 @@
       "pos": "noun",
       "gender": "m",
       "plural": "rótulos",
-      "gloss": "label; tag",
+      "gloss": "label; sticker; tag",
       "meanings": [
         {
-          "en": "label",
-          "note": "Printed or handwritten label on a bottle, jar, tin lid, or box."
+          "en": "label (on a bottle, jar, tin, or product)",
+          "note": "Proparoxytone masculine noun with open [ɔ]; also used figuratively for a social stereotype or label."
         }
       ],
       "forms": {
@@ -5096,26 +5201,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Escreva a data e a cidade bem legíveis no rótulo da tampa de latão.",
-          "trans": "Write the date and city clearly on the label of the brass lid."
+          "text": "O rótulo da lata antiga ainda mostrava a data em tinta azul.",
+          "trans": "The label on the old tin still showed the date in blue ink."
         },
         {
-          "text": "O rótulo antigo do pote de chá já estava amarelado pelo tempo.",
-          "trans": "The old label on the tea tin had already yellowed with age."
+          "text": "Leia os ingredientes no rótulo antes de comprar o produto.",
+          "trans": "Read the ingredients on the label before buying the product."
         }
       ],
       "related": [
         {
+          "word": "rotular",
+          "gloss": "to label"
+        },
+        {
           "word": "etiqueta",
-          "gloss": "tag; label"
+          "gloss": "tag; price sticker"
         },
         {
-          "word": "tampa",
-          "gloss": "lid"
-        },
-        {
-          "word": "nome",
-          "gloss": "name"
+          "word": "marca",
+          "gloss": "brand; mark"
         }
       ]
     },
@@ -5694,15 +5799,15 @@
     },
     "tesouro": {
       "lemma": "tesouro",
-      "stress": "teˈzowɾu",
       "pos": "noun",
+      "stress": "teˈzowɾu",
+      "gloss": "treasure",
       "gender": "m",
       "plural": "tesouros",
-      "gloss": "treasure; keepsake",
       "meanings": [
         {
-          "en": "treasure",
-          "note": "Precious objects, wealth, or deeply cherished keepsakes packed into a box or memory."
+          "en": "treasure; hidden hoard or treasured object",
+          "note": "Common in caça ao tesouro ('treasure hunt') and mapa do tesouro ('treasure map')."
         }
       ],
       "forms": {
@@ -5725,26 +5830,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Quais pequenos tesouros da semana vamos guardar dentro da cápsula do tempo?",
-          "trans": "Which small treasures from this week are we going to tuck inside the time capsule?"
+          "text": "As crianças organizaram uma caça ao tesouro no quintal.",
+          "trans": "The children organized a treasure hunt in the yard."
         },
         {
-          "text": "Aquele caderno de receitas antigas vale como um verdadeiro tesouro da casa.",
-          "trans": "That old recipe notebook is worth a true household treasure."
+          "text": "Esse caderno antigo da família é um verdadeiro tesouro.",
+          "trans": "This old family notebook is a real treasure."
         }
       ],
       "related": [
         {
-          "word": "lembrança",
-          "gloss": "keepsake"
+          "word": "ouro",
+          "gloss": "gold"
         },
         {
-          "word": "joia",
-          "gloss": "jewel"
-        },
-        {
-          "word": "relíquia",
-          "gloss": "relic"
+          "word": "mapa",
+          "gloss": "map"
         }
       ]
     },

@@ -2,6 +2,111 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e05-scene-05",
   "lexicon": {
+    "Bianca": {
+      "lemma": "Bianca",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Bianca (feminine given name)",
+      "meanings": [
+        {
+          "en": "Bianca (Italian-origin feminine name)",
+          "note": "Common given name in Brazil, cognate with Portuguese Branca ('white')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Bianca trouxe os cartões pintados para mostrar na varanda.",
+          "trans": "Bianca brought the painted cards to show on the porch."
+        },
+        {
+          "text": "Pergunte para a Bianca a que horas ela volta do mercado.",
+          "trans": "Ask Bianca what time she is coming back from the market."
+        }
+      ],
+      "related": [
+        {
+          "word": "branca",
+          "gloss": "white (f)"
+        }
+      ]
+    },
+    "Helena": {
+      "lemma": "Helena",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Helena (given name)",
+      "meanings": [
+        {
+          "en": "Helena (female given name)",
+          "note": "Common Brazilian given name; initial h- is silent (/eˈlenɐ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Helena trouxe o mapa antigo para conferir os nomes das ruas.",
+          "trans": "Helena brought the old map to check the street names."
+        },
+        {
+          "text": "Você já mostrou as fotos do pátio para a Helena hoje?",
+          "trans": "Have you shown the courtyard photos to Helena yet today?"
+        }
+      ],
+      "related": []
+    },
+    "Otávio": {
+      "lemma": "Otávio",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Otávio (given name)",
+      "meanings": [
+        {
+          "en": "Otávio (male given name)",
+          "note": "Portuguese form of Octavius; stressed on -tá- (/oˈtavju/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Otávio anotou todas as medidas no caderno antes de sairmos.",
+          "trans": "Otávio wrote down all the measurements in his notebook before we left."
+        },
+        {
+          "text": "Passe essa cesta de frutas para o Otávio levar até a cozinha.",
+          "trans": "Hand that basket of fruit to Otávio to carry into the kitchen."
+        }
+      ],
+      "related": []
+    },
+    "Tiago": {
+      "lemma": "Tiago",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Tiago (Brazilian male given name)",
+      "meanings": [
+        {
+          "en": "Tiago (Portuguese male given name; English James)",
+          "note": "One of the most popular male given names in Brazil; also historically spelled Thiago."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Tiago preparou o forno cedo para assar os bolos.",
+          "trans": "Tiago got the oven ready early to bake the cakes."
+        },
+        {
+          "text": "Pergunte ao Tiago qual receita ele anotou no caderno.",
+          "trans": "Ask Tiago which recipe he jotted down in the notebook."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -1044,15 +1149,15 @@
     },
     "cartografia": {
       "lemma": "cartografia",
-      "stress": "kaʁtoɡɾaˈfiɐ",
       "pos": "noun",
+      "stress": "kaʁtoɡɾaˈfiɐ",
+      "gloss": "cartography; mapmaking",
       "gender": "f",
       "plural": "cartografias",
-      "gloss": "cartography; mapmaking",
       "meanings": [
         {
-          "en": "cartography; mapmaking",
-          "note": "The art and science of surveying and drawing accurate maps."
+          "en": "cartography; the art and science of making maps",
+          "note": "Academic and technical feminine noun; its practitioner is a cartógrafo or cartógrafa."
         }
       ],
       "forms": {
@@ -1075,26 +1180,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Ela estudou cartografia histórica para restaurar os mapas antigos do acervo.",
-          "trans": "She studied historical cartography to restore the old maps in the collection."
+          "text": "Ela estudou cartografia na faculdade antes de trabalhar no arquivo histórico.",
+          "trans": "She studied cartography in college before working at the historical archive."
         },
         {
-          "text": "A exposição reúne peças de cartografia marítima dos séculos passados.",
-          "trans": "The exhibition brings together pieces of maritime cartography from past centuries."
+          "text": "A exposição mostra instrumentos antigos de navegação e cartografia.",
+          "trans": "The exhibition displays old navigation and mapmaking instruments."
         }
       ],
       "related": [
-        {
-          "word": "mapa",
-          "gloss": "map"
-        },
         {
           "word": "cartógrafo",
           "gloss": "cartographer"
         },
         {
-          "word": "atlas",
-          "gloss": "atlas"
+          "word": "mapa",
+          "gloss": "map"
+        },
+        {
+          "word": "carta",
+          "gloss": "chart; map; letter"
         }
       ]
     },
@@ -2799,11 +2904,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "formas",
-      "gloss": "baking pan; mold; shape",
+      "gloss": "shape; way; baking tin",
       "meanings": [
         {
-          "en": "baking pan; form; shape",
-          "note": "Pronounced with open /ɔ/ when meaning a cake pan or mold, and closed /o/ for abstract shape or manner."
+          "en": "shape; form; manner",
+          "note": "Pronounced with open [ɔ] (/ˈfɔʁmɐ/) when meaning shape, method, or grammatical form."
+        },
+        {
+          "en": "baking tin; cake pan; mould",
+          "note": "Pronounced with closed [o] (/ˈfoʁmɐ/, traditionally spelled fôrma) when meaning a baking pan or mould."
         }
       ],
       "forms": {
@@ -2826,26 +2935,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Tira as quatro formas quentes do forno e apoia na grade de metal.",
-          "trans": "Take the four hot baking pans out of the oven and set them on the metal rack."
+          "text": "Unte a forma redonda com manteiga e farinha antes de despejar a massa.",
+          "trans": "Grease the round cake tin with butter and flour before pouring in the batter."
         },
         {
-          "text": "De qualquer forma, precisamos revisar o horário dos trens hoje à tarde.",
-          "trans": "Either way, we need to double-check the train schedule this afternoon."
+          "text": "Essa é a forma mais prática de organizar as anotações da viagem.",
+          "trans": "That is the most practical way to organize the trip notes."
         }
       ],
       "related": [
         {
-          "word": "bolo",
-          "gloss": "cake"
+          "word": "formar",
+          "gloss": "to form; shape"
         },
         {
-          "word": "forno",
-          "gloss": "oven"
+          "word": "formato",
+          "gloss": "format; shape"
         },
         {
-          "word": "molde",
-          "gloss": "mold"
+          "word": "assadeira",
+          "gloss": "baking pan"
         }
       ]
     },
@@ -2855,11 +2964,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "frutas",
-      "gloss": "fruit (edible)",
+      "gloss": "fruit",
       "meanings": [
         {
-          "en": "fruit",
-          "note": "Everyday culinary word for edible fruit; 'frutas vermelhas' means berries."
+          "en": "edible fruit",
+          "note": "Everyday culinary term for edible fruit (while 'fruto' is the botanical fruit or figurative result)."
+        },
+        {
+          "en": "berries (in 'frutas vermelhas')",
+          "note": "Brazilian Portuguese uses 'frutas vermelhas' for strawberries, raspberries, blackberries, and similar berries."
         }
       ],
       "forms": {
@@ -2882,22 +2995,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Comprei frutas vermelhas frescas na feira para rechear o bolo de amêndoas.",
-          "trans": "I bought fresh berries at the street market to fill the almond cake."
+          "text": "Compramos frutas frescas na feira para fazer a salada da tarde.",
+          "trans": "We bought fresh fruit at the street market to make the afternoon fruit salad."
         },
         {
-          "text": "Depois do almoço, servimos fruta picada com folhas de hortelã do jardim.",
-          "trans": "After lunch, we served chopped fruit with mint leaves from the garden."
+          "text": "Essa torta leva calda de frutas vermelhas por cima do creme.",
+          "trans": "This tart has a berry sauce poured over the custard."
         }
       ],
       "related": [
         {
-          "word": "frutinha",
-          "gloss": "little fruit; berry"
+          "word": "fruto",
+          "gloss": "fruit (botanical); result"
         },
         {
-          "word": "laranja",
-          "gloss": "orange"
+          "word": "frutaria",
+          "gloss": "fruit shop"
         },
         {
           "word": "pomar",
@@ -6087,39 +6200,35 @@
     },
     "suavemente": {
       "lemma": "suavemente",
-      "stress": "suaviˈmẽtʃi",
       "pos": "adv",
-      "gloss": "gently; softly",
+      "stress": "suaviˈmẽtʃi",
+      "gloss": "gently; softly; smoothly",
       "meanings": [
         {
-          "en": "gently; smoothly",
-          "note": "Manner adverb formed from 'suave' + '-mente', describing quiet movement, gentle touch, or soft music."
+          "en": "gently; softly; without force",
+          "note": "Manner adverb formed from the adjective suave + -mente."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Toque suavemente os acordes da introdução enquanto o pátio silencia.",
-          "trans": "Play the opening chords gently while the courtyard falls quiet."
+          "text": "Ele fechou a porta de madeira suavemente para não acordar ninguém.",
+          "trans": "He closed the wooden door gently so as not to wake anyone."
         },
         {
-          "text": "O vento soprava suavemente pelos galhos sem balançar nenhuma lanterna.",
-          "trans": "The wind blew softly through the branches without swaying a single lantern."
+          "text": "A brisa da tarde balançava suavemente as folhas do quintal.",
+          "trans": "The afternoon breeze gently swayed the leaves in the yard."
         }
       ],
       "related": [
         {
           "word": "suave",
-          "gloss": "soft; gentle"
+          "gloss": "soft; gentle; mild"
         },
         {
           "word": "devagar",
           "gloss": "slowly"
-        },
-        {
-          "word": "calma",
-          "gloss": "calm"
         }
       ]
     },

@@ -2,6 +2,145 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e06-scene-02",
   "lexicon": {
+    "Acácias": {
+      "lemma": "Acácias",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Acácias (street name, lit. Acacias)",
+      "meanings": [
+        {
+          "en": "Acácias (proper street name)",
+          "note": "Plural proper name used in Rua das Acácias ('Acacia Street'), named after the flowering acacia tree."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A padaria nova fica na esquina da Rua das Acácias.",
+          "trans": "The new bakery is on the corner of Rua das Acácias."
+        },
+        {
+          "text": "Moro na Rua das Acácias há mais de quinze anos.",
+          "trans": "I have lived on Rua das Acácias for more than fifteen years."
+        }
+      ],
+      "related": [
+        {
+          "word": "acácia",
+          "gloss": "acacia tree"
+        },
+        {
+          "word": "rua",
+          "gloss": "street"
+        }
+      ]
+    },
+    "Bianca": {
+      "lemma": "Bianca",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Bianca (feminine given name)",
+      "meanings": [
+        {
+          "en": "Bianca (Italian-origin feminine name)",
+          "note": "Common given name in Brazil, cognate with Portuguese Branca ('white')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Bianca trouxe os cartões pintados para mostrar na varanda.",
+          "trans": "Bianca brought the painted cards to show on the porch."
+        },
+        {
+          "text": "Pergunte para a Bianca a que horas ela volta do mercado.",
+          "trans": "Ask Bianca what time she is coming back from the market."
+        }
+      ],
+      "related": [
+        {
+          "word": "branca",
+          "gloss": "white (f)"
+        }
+      ]
+    },
+    "Helena": {
+      "lemma": "Helena",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Helena (given name)",
+      "meanings": [
+        {
+          "en": "Helena (female given name)",
+          "note": "Common Brazilian given name; initial h- is silent (/eˈlenɐ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Helena trouxe o mapa antigo para conferir os nomes das ruas.",
+          "trans": "Helena brought the old map to check the street names."
+        },
+        {
+          "text": "Você já mostrou as fotos do pátio para a Helena hoje?",
+          "trans": "Have you shown the courtyard photos to Helena yet today?"
+        }
+      ],
+      "related": []
+    },
+    "Otávio": {
+      "lemma": "Otávio",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Otávio (given name)",
+      "meanings": [
+        {
+          "en": "Otávio (male given name)",
+          "note": "Portuguese form of Octavius; stressed on -tá- (/oˈtavju/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Otávio anotou todas as medidas no caderno antes de sairmos.",
+          "trans": "Otávio wrote down all the measurements in his notebook before we left."
+        },
+        {
+          "text": "Passe essa cesta de frutas para o Otávio levar até a cozinha.",
+          "trans": "Hand that basket of fruit to Otávio to carry into the kitchen."
+        }
+      ],
+      "related": []
+    },
+    "Rafael": {
+      "lemma": "Rafael",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Rafael (given name)",
+      "meanings": [
+        {
+          "en": "Rafael (male given name)",
+          "note": "Common Brazilian given name; stressed on the final syllable (/ʁafaˈɛw/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Rafael trouxe a bússola de latão para conferir a direção norte.",
+          "trans": "Rafael brought the brass compass to double-check the north direction."
+        },
+        {
+          "text": "Chame o Rafael para olhar os desenhos antigos antes de guardar a pasta.",
+          "trans": "Call Rafael over to look at the old drawings before putting the folder away."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -42,21 +181,21 @@
     },
     "abaixar": {
       "lemma": "abaixar",
-      "stress": "abajˈʃaʁ",
       "pos": "verb",
-      "gloss": "to lower; to turn down",
+      "stress": "abajˈʃaʁ",
+      "gloss": "to lower; to pull down; to turn down",
       "meanings": [
         {
-          "en": "to lower; to turn down",
-          "note": "Used for lowering objects, leaning down, or turning down heat, volume, or light."
+          "en": "to lower; to bring down",
+          "note": "Transitive verb for moving something downward, reducing volume/heat, or bowing one's head; reflexive abaixar-se means to crouch or duck."
         }
       ],
       "forms": {
-        "title": "Present Indicative",
+        "title": "Present",
         "columns": [
-          "Person",
-          "Singular",
-          "Plural"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
@@ -84,11 +223,11 @@
       },
       "moreForms": [
         {
-          "title": "Preterite Indicative",
+          "title": "Preterite",
           "columns": [
-            "Person",
-            "Singular",
-            "Plural"
+            "",
+            "sg",
+            "pl"
           ],
           "rows": [
             {
@@ -117,26 +256,26 @@
       ],
       "examples": [
         {
-          "text": "Abaixe o fogo da panela quando o caldo começar a ferver.",
-          "trans": "Turn down the stove heat when the broth starts to boil."
+          "text": "Você pode abaixar o volume do rádio um pouquinho?",
+          "trans": "Can you turn down the radio volume just a little bit?"
         },
         {
-          "text": "Ela abaixou a persiana para proteger os livros do sol forte.",
-          "trans": "She lowered the blind to protect the books from the strong sun."
+          "text": "Ela precisou se abaixar para pegar a chave caída atrás do sofá.",
+          "trans": "She had to bend down to pick up the key that fell behind the sofa."
         }
       ],
       "related": [
         {
-          "word": "baixar",
-          "gloss": "to download; to go down"
-        },
-        {
           "word": "baixo",
-          "gloss": "low"
+          "gloss": "low; short"
         },
         {
-          "word": "erguer",
-          "gloss": "to raise"
+          "word": "baixar",
+          "gloss": "to lower; to download"
+        },
+        {
+          "word": "levantar",
+          "gloss": "to lift; to raise"
         }
       ]
     },
@@ -666,15 +805,19 @@
     },
     "banco": {
       "lemma": "banco",
-      "stress": "ˈbɐ̃ku",
       "pos": "noun",
+      "stress": "ˈbɐ̃ku",
+      "gloss": "bench; seat; bank",
       "gender": "m",
       "plural": "bancos",
-      "gloss": "bench; stool; bank",
       "meanings": [
         {
-          "en": "bench; bank",
-          "note": "Means a park or courtyard bench, a stool, or a financial institution depending on context."
+          "en": "bench; stool; car seat",
+          "note": "Everyday noun for a park bench (banco da praça), wooden stool, or vehicle seat (banco da frente)."
+        },
+        {
+          "en": "bank (financial institution)",
+          "note": "Also the standard word for a financial bank (ir ao banco) or a data/blood repository (banco de dados)."
         }
       ],
       "forms": {
@@ -697,26 +840,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Sentamos no banco de pedra da praça para ler o convite oficial.",
-          "trans": "We sat on the stone bench in the square to read the official invitation."
+          "text": "Sentamos no banco da praça para tomar sorvete na sombra.",
+          "trans": "We sat on the park bench to eat ice cream in the shade."
         },
         {
-          "text": "Preciso passar no banco antes do meio-dia para trocar algumas cédulas.",
-          "trans": "I need to stop by the bank before noon to exchange some bills."
+          "text": "Vou passar no banco antes do almoço para pagar essa conta.",
+          "trans": "I am going to stop by the bank before lunch to pay this bill."
         }
       ],
       "related": [
+        {
+          "word": "banquinho",
+          "gloss": "small stool"
+        },
         {
           "word": "cadeira",
           "gloss": "chair"
         },
         {
-          "word": "praça",
-          "gloss": "square"
-        },
-        {
-          "word": "madeira",
-          "gloss": "wood"
+          "word": "assento",
+          "gloss": "seat"
         }
       ]
     },
@@ -2645,11 +2788,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "frutas",
-      "gloss": "fruit (edible)",
+      "gloss": "fruit",
       "meanings": [
         {
-          "en": "fruit",
-          "note": "Everyday culinary word for edible fruit; 'frutas vermelhas' means berries."
+          "en": "edible fruit",
+          "note": "Everyday culinary term for edible fruit (while 'fruto' is the botanical fruit or figurative result)."
+        },
+        {
+          "en": "berries (in 'frutas vermelhas')",
+          "note": "Brazilian Portuguese uses 'frutas vermelhas' for strawberries, raspberries, blackberries, and similar berries."
         }
       ],
       "forms": {
@@ -2672,22 +2819,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Comprei frutas vermelhas frescas na feira para rechear o bolo de amêndoas.",
-          "trans": "I bought fresh berries at the street market to fill the almond cake."
+          "text": "Compramos frutas frescas na feira para fazer a salada da tarde.",
+          "trans": "We bought fresh fruit at the street market to make the afternoon fruit salad."
         },
         {
-          "text": "Depois do almoço, servimos fruta picada com folhas de hortelã do jardim.",
-          "trans": "After lunch, we served chopped fruit with mint leaves from the garden."
+          "text": "Essa torta leva calda de frutas vermelhas por cima do creme.",
+          "trans": "This tart has a berry sauce poured over the custard."
         }
       ],
       "related": [
         {
-          "word": "frutinha",
-          "gloss": "little fruit; berry"
+          "word": "fruto",
+          "gloss": "fruit (botanical); result"
         },
         {
-          "word": "laranja",
-          "gloss": "orange"
+          "word": "frutaria",
+          "gloss": "fruit shop"
         },
         {
           "word": "pomar",
@@ -5470,11 +5617,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "raspas",
-      "gloss": "zest; shaving; scraping",
+      "gloss": "zest; scraping; shaving",
       "meanings": [
         {
-          "en": "citrus zest; shaving",
-          "note": "Usually plural (raspas de laranja / raspas de limão) for grated citrus peel or thin wood shavings."
+          "en": "citrus zest (usually plural: raspas de limão/laranja)",
+          "note": "Very common in Brazilian baking for grated lemon, lime, or orange peel."
+        },
+        {
+          "en": "scraping; leftover bits at the bottom of a pot",
+          "note": "Singular or plural also means scrapings or shavings of wood, ice, or cooked food."
         }
       ],
       "forms": {
@@ -5497,12 +5648,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Misture duas colheres de raspas de laranja fresca no mel antes de pincelar.",
-          "trans": "Stir two spoonfuls of fresh orange zest into the honey before brushing."
+          "text": "Adicione raspas de laranja doce à calda para dar um aroma fresco.",
+          "trans": "Add sweet orange zest to the glaze to give it a fresh aroma."
         },
         {
-          "text": "O chão da oficina ficou coberto de finas raspas de madeira cheirosa.",
-          "trans": "The workshop floor lay covered in thin shavings of fragrant wood."
+          "text": "Quando eu era criança, adorava comer a raspa da panela de brigadeiro.",
+          "trans": "When I was a kid, I loved eating the scrapings from the brigadeiro pan."
         }
       ],
       "related": [
@@ -5512,11 +5663,11 @@
         },
         {
           "word": "casca",
-          "gloss": "peel"
+          "gloss": "peel; rind"
         },
         {
-          "word": "laranja",
-          "gloss": "orange"
+          "word": "lasca",
+          "gloss": "flake; sliver"
         }
       ]
     },

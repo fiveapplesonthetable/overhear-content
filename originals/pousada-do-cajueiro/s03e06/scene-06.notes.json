@@ -2,6 +2,81 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e06-scene-06",
   "lexicon": {
+    "Helena": {
+      "lemma": "Helena",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Helena (given name)",
+      "meanings": [
+        {
+          "en": "Helena (female given name)",
+          "note": "Common Brazilian given name; initial h- is silent (/eˈlenɐ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Helena trouxe o mapa antigo para conferir os nomes das ruas.",
+          "trans": "Helena brought the old map to check the street names."
+        },
+        {
+          "text": "Você já mostrou as fotos do pátio para a Helena hoje?",
+          "trans": "Have you shown the courtyard photos to Helena yet today?"
+        }
+      ],
+      "related": []
+    },
+    "Jorge": {
+      "lemma": "Jorge",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Jorge (given name)",
+      "meanings": [
+        {
+          "en": "Jorge (male given name)",
+          "note": "Portuguese cognate of George; pronounced /ˈʒɔʁʒi/ in Brazilian Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Jorge já acendeu a grelha no quintal para o almoço de domingo.",
+          "trans": "Jorge has already lit the grill in the backyard for Sunday lunch."
+        },
+        {
+          "text": "Pergunte para o Jorge onde ele guardou as ferramentas de jardinagem.",
+          "trans": "Ask Jorge where he put the gardening tools away."
+        }
+      ],
+      "related": []
+    },
+    "Otávio": {
+      "lemma": "Otávio",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Otávio (given name)",
+      "meanings": [
+        {
+          "en": "Otávio (male given name)",
+          "note": "Portuguese form of Octavius; stressed on -tá- (/oˈtavju/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Otávio anotou todas as medidas no caderno antes de sairmos.",
+          "trans": "Otávio wrote down all the measurements in his notebook before we left."
+        },
+        {
+          "text": "Passe essa cesta de frutas para o Otávio levar até a cozinha.",
+          "trans": "Hand that basket of fruit to Otávio to carry into the kitchen."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -763,15 +838,15 @@
     },
     "borrão": {
       "lemma": "borrão",
-      "stress": "boˈʁɐ̃w",
       "pos": "noun",
+      "stress": "boˈʁɐ̃w̃",
+      "gloss": "smudge; ink blot; blur",
       "gender": "m",
       "plural": "borrões",
-      "gloss": "blot; smudge; smear",
       "meanings": [
         {
-          "en": "ink blot; smudge",
-          "note": "Augmentative-derived noun for an ink blot, smudge, or rough smudged draft."
+          "en": "blot; smudge; blurry shape",
+          "note": "Refers to a spill or smear of ink, paint, or dirt on paper, as well as something seen indistinctly as a blur."
         }
       ],
       "forms": {
@@ -794,26 +869,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Uma gota de chuva caiu no caderno e abriu um borrão azul na folha.",
-          "trans": "A raindrop fell onto the notebook and spread a blue smudge across the page."
+          "text": "A caneta vazou no bolso e deixou um borrão azul na camisa.",
+          "trans": "The pen leaked in my pocket and left a blue ink blot on my shirt."
         },
         {
-          "text": "Ele copiou o rascunho a limpo para não restar nenhum borrão no convite.",
-          "trans": "He copied the draft cleanly so not a single smudge would remain on the invitation."
+          "text": "Sem os óculos, eu só enxergo um borrão colorido na lousa.",
+          "trans": "Without my glasses, I only see a colorful blur on the chalkboard."
         }
       ],
       "related": [
         {
           "word": "borrar",
-          "gloss": "to smudge"
+          "gloss": "to smudge; to smear"
+        },
+        {
+          "word": "borrado",
+          "gloss": "smudged; blurred"
         },
         {
           "word": "mancha",
-          "gloss": "stain"
-        },
-        {
-          "word": "tinta",
-          "gloss": "ink"
+          "gloss": "stain; spot"
         }
       ]
     },
@@ -1040,15 +1115,15 @@
     },
     "carvão": {
       "lemma": "carvão",
-      "stress": "kaʁˈvɐ̃w",
       "pos": "noun",
+      "stress": "kaʁˈvɐ̃w̃",
+      "gloss": "charcoal; coal",
       "gender": "m",
       "plural": "carvões",
-      "gloss": "charcoal; coal",
       "meanings": [
         {
-          "en": "charcoal; coal",
-          "note": "Refers to drawing charcoal (desenho a carvão), barbecue charcoal, or mineral coal."
+          "en": "charcoal; mineral coal",
+          "note": "In Brazil, carvão alone usually means wood charcoal for barbecues (churrasco) or drawing sticks (desenho a carvão); mineral coal is carvão mineral."
         }
       ],
       "forms": {
@@ -1071,26 +1146,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Em poucos traços de carvão, ele desenhou a silhueta do amigo junto à porta.",
-          "trans": "In a few strokes of charcoal, he sketched his friend's silhouette by the doorway."
+          "text": "Comprei um saco de carvão na esquina para acender a churrasqueira.",
+          "trans": "I bought a bag of charcoal on the corner to light the barbecue grill."
         },
         {
-          "text": "O artista fixou o retrato a carvão com cuidado para não borrar os detalhes.",
-          "trans": "The artist fixed the charcoal portrait carefully so the details would not smudge."
+          "text": "O artista fez o esboço da fachada com bastões de carvão.",
+          "trans": "The artist sketched the facade with charcoal sticks."
         }
       ],
       "related": [
         {
-          "word": "desenho",
-          "gloss": "drawing"
-        },
-        {
-          "word": "lápis",
-          "gloss": "pencil"
+          "word": "brasa",
+          "gloss": "ember"
         },
         {
           "word": "cinza",
           "gloss": "ash"
+        },
+        {
+          "word": "carvoeiro",
+          "gloss": "charcoal burner or seller"
         }
       ]
     },
@@ -1503,15 +1578,19 @@
     },
     "concha": {
       "lemma": "concha",
-      "stress": "ˈkõʃɐ",
       "pos": "noun",
+      "stress": "ˈkõʃɐ",
+      "gloss": "ladle; seashell",
       "gender": "f",
       "plural": "conchas",
-      "gloss": "ladle; seashell",
       "meanings": [
         {
-          "en": "ladle; shell",
-          "note": "Means both a soup/punch ladle and a coastal seashell or marine shell."
+          "en": "soup ladle; serving scoop",
+          "note": "In Brazilian kitchens, concha is the standard word for a deep ladle used to serve soup, beans (concha de feijão), or broth."
+        },
+        {
+          "en": "seashell",
+          "note": "Also names the hard protective shell of mollusks found along beaches."
         }
       ],
       "forms": {
@@ -1534,12 +1613,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Cuidado para não derramar sopa com a concha perto do caderno de receitas.",
-          "trans": "Be careful not to spill soup with the ladle near the recipe notebook."
+          "text": "Coloque duas conchas de feijão quente no meu prato, por favor.",
+          "trans": "Put two ladles of hot beans on my plate, please."
         },
         {
-          "text": "Guardamos várias conchas brancas recolhidas na praia durante a viagem.",
-          "trans": "We kept several white seashells gathered on the beach during the trip."
+          "text": "As crianças passaram a manhã catando conchas coloridas na areia.",
+          "trans": "The children spent the morning collecting colorful seashells on the sand."
         }
       ],
       "related": [
@@ -1548,12 +1627,12 @@
           "gloss": "spoon"
         },
         {
-          "word": "tigela",
-          "gloss": "bowl"
-        },
-        {
           "word": "sopa",
           "gloss": "soup"
+        },
+        {
+          "word": "marisco",
+          "gloss": "shellfish"
         }
       ]
     },
@@ -2178,30 +2257,35 @@
     },
     "encerado": {
       "lemma": "encerado",
+      "pos": "adj",
       "stress": "ẽseˈɾadu",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "encerados",
-      "gloss": "waxed cloth; oilcloth; tarpaulin",
+      "gloss": "waxed; waterproofed with wax",
       "meanings": [
         {
-          "en": "waxed cloth; waterproof canvas",
-          "note": "Fabric treated with beeswax or oil to repel moisture; also used as an adjective (linho encerado)."
+          "en": "waxed; coated with wax",
+          "note": "Describes polished wooden floors or waxed cloth/paper (pano encerado); as a masculine noun, o encerado means a tarpaulin or oilcloth."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "sg",
-          "pl"
+          "m",
+          "f"
         ],
         "rows": [
           {
             "cells": [
-              "form",
-              "o encerado",
-              "os encerados"
+              "sg",
+              "encerado",
+              "encerada"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "encerados",
+              "enceradas"
             ]
           }
         ]
@@ -2209,12 +2293,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Envolvemos os papéis em um encerado amarelo bem dobrado antes de fechar a lata.",
-          "trans": "We wrapped the papers in a neatly folded yellow oilcloth before closing the tin."
+          "text": "O piso da sala estava tão bem encerado que parecia um espelho.",
+          "trans": "The living room floor was so well waxed that it looked like a mirror."
         },
         {
-          "text": "O encerado antigo ainda protegia as caixas da garoa na varanda.",
-          "trans": "The old tarpaulin still shielded the crates from the drizzle on the veranda."
+          "text": "Embrulharam o pacote em pano encerado para proteger da chuva.",
+          "trans": "They wrapped the parcel in waxed cloth to protect it from rain."
         }
       ],
       "related": [
@@ -2223,12 +2307,12 @@
           "gloss": "wax"
         },
         {
-          "word": "lona",
-          "gloss": "canvas"
+          "word": "encerar",
+          "gloss": "to wax"
         },
         {
-          "word": "linho",
-          "gloss": "linen"
+          "word": "impermeável",
+          "gloss": "waterproof"
         }
       ]
     },
@@ -2818,11 +2902,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "frutas",
-      "gloss": "fruit (edible)",
+      "gloss": "fruit",
       "meanings": [
         {
-          "en": "fruit",
-          "note": "Everyday culinary word for edible fruit; 'frutas vermelhas' means berries."
+          "en": "edible fruit",
+          "note": "Everyday culinary term for edible fruit (while 'fruto' is the botanical fruit or figurative result)."
+        },
+        {
+          "en": "berries (in 'frutas vermelhas')",
+          "note": "Brazilian Portuguese uses 'frutas vermelhas' for strawberries, raspberries, blackberries, and similar berries."
         }
       ],
       "forms": {
@@ -2845,22 +2933,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Comprei frutas vermelhas frescas na feira para rechear o bolo de amêndoas.",
-          "trans": "I bought fresh berries at the street market to fill the almond cake."
+          "text": "Compramos frutas frescas na feira para fazer a salada da tarde.",
+          "trans": "We bought fresh fruit at the street market to make the afternoon fruit salad."
         },
         {
-          "text": "Depois do almoço, servimos fruta picada com folhas de hortelã do jardim.",
-          "trans": "After lunch, we served chopped fruit with mint leaves from the garden."
+          "text": "Essa torta leva calda de frutas vermelhas por cima do creme.",
+          "trans": "This tart has a berry sauce poured over the custard."
         }
       ],
       "related": [
         {
-          "word": "frutinha",
-          "gloss": "little fruit; berry"
+          "word": "fruto",
+          "gloss": "fruit (botanical); result"
         },
         {
-          "word": "laranja",
-          "gloss": "orange"
+          "word": "frutaria",
+          "gloss": "fruit shop"
         },
         {
           "word": "pomar",
@@ -3675,11 +3763,15 @@
       "lemma": "maiúsculo",
       "stress": "maˈjuskulu",
       "pos": "adj",
-      "gloss": "uppercase; capital",
+      "gloss": "uppercase; capital (letter); huge",
       "meanings": [
         {
-          "en": "uppercase; capital (letters)",
-          "note": "Describes capital letters (letras maiúsculas / em maiúsculas) or, figuratively, something enormous."
+          "en": "uppercase; capital (of letters)",
+          "note": "Commonly used as 'letra maiúscula' ('capital letter') or substantivized as 'a maiúscula'."
+        },
+        {
+          "en": "enormous; monumental",
+          "note": "Figuratively means huge or extraordinary (as in 'um erro maiúsculo')."
         }
       ],
       "forms": {
@@ -3709,26 +3801,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Escreva o aviso de alérgenos em letras maiúsculas para todo mundo enxergar.",
-          "trans": "Write the allergen warning in capital letters so everyone can see it clearly."
+          "text": "Escreva o seu nome completo em letras maiúsculas na primeira linha.",
+          "trans": "Write your full name in capital letters on the first line."
         },
         {
-          "text": "O título do mapa vinha todo em maiúsculas douradas no alto da folha.",
-          "trans": "The map title appeared all in gold uppercase letters at the top of the sheet."
+          "text": "Nomes próprios sempre começam com inicial maiúscula em português.",
+          "trans": "Proper names always begin with a capital initial in Portuguese."
         }
       ],
       "related": [
         {
+          "word": "minúsculo",
+          "gloss": "tiny; lowercase"
+        },
+        {
+          "word": "maior",
+          "gloss": "larger; greater"
+        },
+        {
           "word": "letra",
           "gloss": "letter"
-        },
-        {
-          "word": "minúsculo",
-          "gloss": "lowercase; tiny"
-        },
-        {
-          "word": "título",
-          "gloss": "title"
         }
       ]
     },
@@ -5514,11 +5606,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "raspas",
-      "gloss": "zest; shaving; scraping",
+      "gloss": "zest; scraping; shaving",
       "meanings": [
         {
-          "en": "citrus zest; shaving",
-          "note": "Usually plural (raspas de laranja / raspas de limão) for grated citrus peel or thin wood shavings."
+          "en": "citrus zest (usually plural: raspas de limão/laranja)",
+          "note": "Very common in Brazilian baking for grated lemon, lime, or orange peel."
+        },
+        {
+          "en": "scraping; leftover bits at the bottom of a pot",
+          "note": "Singular or plural also means scrapings or shavings of wood, ice, or cooked food."
         }
       ],
       "forms": {
@@ -5541,12 +5637,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Misture duas colheres de raspas de laranja fresca no mel antes de pincelar.",
-          "trans": "Stir two spoonfuls of fresh orange zest into the honey before brushing."
+          "text": "Adicione raspas de laranja doce à calda para dar um aroma fresco.",
+          "trans": "Add sweet orange zest to the glaze to give it a fresh aroma."
         },
         {
-          "text": "O chão da oficina ficou coberto de finas raspas de madeira cheirosa.",
-          "trans": "The workshop floor lay covered in thin shavings of fragrant wood."
+          "text": "Quando eu era criança, adorava comer a raspa da panela de brigadeiro.",
+          "trans": "When I was a kid, I loved eating the scrapings from the brigadeiro pan."
         }
       ],
       "related": [
@@ -5556,11 +5652,11 @@
         },
         {
           "word": "casca",
-          "gloss": "peel"
+          "gloss": "peel; rind"
         },
         {
-          "word": "laranja",
-          "gloss": "orange"
+          "word": "lasca",
+          "gloss": "flake; sliver"
         }
       ]
     },
@@ -5573,8 +5669,12 @@
       "gloss": "recipe; prescription; revenue",
       "meanings": [
         {
-          "en": "recipe",
-          "note": "Most commonly a cooking or baking recipe; also means a doctor's prescription or business revenue."
+          "en": "cooking recipe",
+          "note": "Everyday culinary term for a list of ingredients and baking instructions."
+        },
+        {
+          "en": "medical prescription; revenue/income",
+          "note": "Also means a doctor's prescription ('receita médica') and financial revenue ('receita pública')."
         }
       ],
       "forms": {
@@ -5597,40 +5697,40 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Encontramos a receita original da torta de amêndoas escrita à mão pela avó.",
-          "trans": "We found the original almond-cake recipe written out by hand by grandmother."
+          "text": "Minha mãe anotou a receita do bolo de amêndoas num caderno antigo.",
+          "trans": "My mother wrote down the almond cake recipe in an old notebook."
         },
         {
-          "text": "Sem o verso da receita, faltava exatamente o segredo da cobertura quente.",
-          "trans": "Without the back of the recipe, the exact secret of the warm glaze was missing."
+          "text": "Você precisa apresentar a receita médica na farmácia para comprar esse remédio.",
+          "trans": "You need to show the prescription at the pharmacy to buy that medicine."
         }
       ],
       "related": [
+        {
+          "word": "receitar",
+          "gloss": "to prescribe"
+        },
         {
           "word": "ingrediente",
           "gloss": "ingredient"
         },
         {
-          "word": "bolo",
-          "gloss": "cake"
-        },
-        {
-          "word": "cozinha",
-          "gloss": "kitchen"
+          "word": "fórmula",
+          "gloss": "formula"
         }
       ]
     },
     "redor": {
       "lemma": "redor",
-      "stress": "ʁeˈdoʁ",
+      "stress": "ʁeˈdɔʁ",
       "pos": "noun",
       "gender": "m",
       "plural": "redores",
-      "gloss": "surrounding area; around",
+      "gloss": "surroundings; perimeter",
       "meanings": [
         {
-          "en": "surrounding space; perimeter",
-          "note": "Nearly always appears in 'ao redor (de)' meaning 'around', and plural 'os redores' for surroundings."
+          "en": "surroundings; area around (especially in 'ao redor de')",
+          "note": "Masculine noun; used mostly in the locutions 'ao redor (de)' ('around') and plural 'nos redores' ('in the outskirts')."
         }
       ],
       "forms": {
@@ -5653,26 +5753,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Todos os vizinhos se reuniram ao redor da pedra solta com suas xícaras.",
-          "trans": "All the neighbors gathered around the lifted paving stone with their teacups."
+          "text": "Sentamos todos ao redor da mesa do pátio para tomar chá.",
+          "trans": "We all sat around the courtyard table to drink tea."
         },
         {
-          "text": "Conhecemos bem os redores do bairro antigo e suas travessas tranquilas.",
-          "trans": "We know the surroundings of the old quarter and its quiet lanes well."
+          "text": "Há várias padarias antigas nos redores da praça central.",
+          "trans": "There are several old bakeries in the area surrounding the main square."
         }
       ],
       "related": [
+        {
+          "word": "arredores",
+          "gloss": "outskirts; surroundings"
+        },
         {
           "word": "volta",
           "gloss": "turn; around"
         },
         {
-          "word": "cerca",
-          "gloss": "fence"
-        },
-        {
-          "word": "lado",
-          "gloss": "side"
+          "word": "entorno",
+          "gloss": "vicinity"
         }
       ]
     },
@@ -6306,15 +6406,15 @@
     },
     "tecido": {
       "lemma": "tecido",
-      "stress": "teˈsidu",
       "pos": "noun",
+      "stress": "teˈsidu",
+      "gloss": "fabric; cloth; textile",
       "gender": "m",
       "plural": "tecidos",
-      "gloss": "fabric; cloth; tissue",
       "meanings": [
         {
-          "en": "woven fabric; cloth",
-          "note": "Woven textile such as linen or cotton; in biology, anatomical tissue."
+          "en": "woven fabric; cloth; textile",
+          "note": "Also used in biology for bodily or plant tissue; capa de tecido means 'cloth-bound cover'."
         }
       ],
       "forms": {
@@ -6337,26 +6437,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Enrolamos uma fita de tecido branco ao redor da borda para selar a lata.",
-          "trans": "We wrapped a strip of white cloth around the rim to seal the tin."
+          "text": "Esse tecido de algodão grosso dura muitos anos.",
+          "trans": "This heavy cotton fabric lasts for many years."
         },
         {
-          "text": "Esse tecido de linho encerado repele a água sem endurecer no frio.",
-          "trans": "This waxed linen fabric repels water without stiffening in the cold."
+          "text": "Ela escolheu um tecido claro para as novas cortinas.",
+          "trans": "She chose a light-colored cloth for the new curtains."
         }
       ],
       "related": [
         {
           "word": "pano",
-          "gloss": "cloth"
+          "gloss": "cloth; rag"
         },
         {
           "word": "linho",
           "gloss": "linen"
-        },
-        {
-          "word": "fio",
-          "gloss": "thread"
         }
       ]
     },

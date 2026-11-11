@@ -2,6 +2,86 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e05-scene-06",
   "lexicon": {
+    "Bianca": {
+      "lemma": "Bianca",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Bianca (feminine given name)",
+      "meanings": [
+        {
+          "en": "Bianca (Italian-origin feminine name)",
+          "note": "Common given name in Brazil, cognate with Portuguese Branca ('white')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Bianca trouxe os cartões pintados para mostrar na varanda.",
+          "trans": "Bianca brought the painted cards to show on the porch."
+        },
+        {
+          "text": "Pergunte para a Bianca a que horas ela volta do mercado.",
+          "trans": "Ask Bianca what time she is coming back from the market."
+        }
+      ],
+      "related": [
+        {
+          "word": "branca",
+          "gloss": "white (f)"
+        }
+      ]
+    },
+    "Camila": {
+      "lemma": "Camila",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Camila (feminine given name)",
+      "meanings": [
+        {
+          "en": "Camila (feminine given name)",
+          "note": "Popular Brazilian Portuguese feminine name of Roman origin, spelled with a single l in standard Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Camila anotou todos os horários das entregas no caderno.",
+          "trans": "Camila wrote down all the delivery times in the notebook."
+        },
+        {
+          "text": "Vamos esperar a Camila chegar antes de abrir o pacote.",
+          "trans": "Let's wait for Camila to arrive before opening the package."
+        }
+      ],
+      "related": []
+    },
+    "Tiago": {
+      "lemma": "Tiago",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Tiago (Brazilian male given name)",
+      "meanings": [
+        {
+          "en": "Tiago (Portuguese male given name; English James)",
+          "note": "One of the most popular male given names in Brazil; also historically spelled Thiago."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Tiago preparou o forno cedo para assar os bolos.",
+          "trans": "Tiago got the oven ready early to bake the cakes."
+        },
+        {
+          "text": "Pergunte ao Tiago qual receita ele anotou no caderno.",
+          "trans": "Ask Tiago which recipe he jotted down in the notebook."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -928,15 +1008,15 @@
     },
     "bússola": {
       "lemma": "bússola",
-      "stress": "ˈbusolɐ",
       "pos": "noun",
+      "stress": "ˈbusolɐ",
+      "gloss": "compass",
       "gender": "f",
       "plural": "bússolas",
-      "gloss": "compass (navigation)",
       "meanings": [
         {
           "en": "magnetic compass",
-          "note": "Navigation instrument with a magnetized needle pointing north; also used metaphorically for guidance."
+          "note": "Navigation instrument with a magnetized needle; distinct from compasso ('pair of dividers / musical meter')."
         }
       ],
       "forms": {
@@ -959,12 +1039,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "A pequena bússola de latão brilhava na capa do caderno de viagens.",
-          "trans": "The small brass compass gleamed on the cover of the travel notebook."
+          "text": "Levamos uma bússola e um mapa impresso para a trilha na serra.",
+          "trans": "We took a compass and a printed map for the mountain trail."
         },
         {
-          "text": "Com a bússola na mão, os navegadores conferiram o rumo antes de partir.",
-          "trans": "With the compass in hand, the navigators checked their heading before setting out."
+          "text": "Afaste a bússola do celular para o ponteiro não desviar.",
+          "trans": "Move the compass away from the cell phone so the pointer doesn't drift."
         }
       ],
       "related": [
@@ -973,12 +1053,12 @@
           "gloss": "north"
         },
         {
-          "word": "mapa",
-          "gloss": "map"
+          "word": "agulha",
+          "gloss": "needle"
         },
         {
-          "word": "latão",
-          "gloss": "brass"
+          "word": "mapa",
+          "gloss": "map"
         }
       ]
     },
@@ -1171,21 +1251,21 @@
     },
     "cheirar": {
       "lemma": "cheirar",
-      "stress": "ʃejˈɾaʁ",
       "pos": "verb",
+      "stress": "ʃejˈɾaʁ",
       "gloss": "to smell; to sniff",
       "meanings": [
         {
-          "en": "to smell; to emit a scent",
-          "note": "Means both to sniff something intentionally and to give off a smell (cheirar a)."
+          "en": "to smell (emit a scent); to sniff",
+          "note": "Both transitive ('to sniff something', as in cheire o papel) and intransitive with a ('to smell like', as in cheira a hortelã)."
         }
       ],
       "forms": {
-        "title": "Present Indicative",
+        "title": "Present",
         "columns": [
-          "Person",
-          "Singular",
-          "Plural"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
@@ -1213,11 +1293,11 @@
       },
       "moreForms": [
         {
-          "title": "Preterite Indicative",
+          "title": "Preterite",
           "columns": [
-            "Person",
-            "Singular",
-            "Plural"
+            "",
+            "sg",
+            "pl"
           ],
           "rows": [
             {
@@ -1246,12 +1326,12 @@
       ],
       "examples": [
         {
-          "text": "Depois da chuva, o pátio inteiro cheira a hortelã fresca e terra molhada.",
-          "trans": "After the rain, the whole courtyard smells of fresh mint and damp earth."
+          "text": "A cozinha inteira está cheirando a bolo assando no forno.",
+          "trans": "The whole kitchen smells like cake baking in the oven."
         },
         {
-          "text": "Ele abriu o frasco e cheirou as raspas de laranja antes de misturar a massa.",
-          "trans": "He opened the jar and smelled the orange zest before mixing the batter."
+          "text": "Ela parou perto da cerca para cheirar as flores de jasmim.",
+          "trans": "She stopped by the fence to smell the jasmine blossoms."
         }
       ],
       "related": [
@@ -1260,12 +1340,12 @@
           "gloss": "smell; scent"
         },
         {
-          "word": "aroma",
-          "gloss": "aroma"
+          "word": "cheiroso",
+          "gloss": "fragrant; sweet-smelling"
         },
         {
-          "word": "perfume",
-          "gloss": "perfume"
+          "word": "aroma",
+          "gloss": "aroma"
         }
       ]
     },
@@ -1327,15 +1407,19 @@
     },
     "cobertura": {
       "lemma": "cobertura",
-      "stress": "kobeʁˈtuɾɐ",
       "pos": "noun",
+      "stress": "kobeʁˈtuɾɐ",
+      "gloss": "glaze; icing; roof; penthouse; coverage",
       "gender": "f",
       "plural": "coberturas",
-      "gloss": "glaze; icing; roof; coverage",
       "meanings": [
         {
-          "en": "glaze; topping; covering",
-          "note": "In cooking, glaze or frosting on a cake; in buildings, the roof or awning covering a space."
+          "en": "glaze; frosting; topping",
+          "note": "In baking and desserts, names icing, glaze, or syrup poured over a cake (cobertura de chocolate)."
+        },
+        {
+          "en": "roofing; penthouse; media coverage",
+          "note": "Also means a building's roof, a top-floor penthouse apartment, or news/network coverage."
         }
       ],
       "forms": {
@@ -1358,12 +1442,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Espalhe a cobertura de mel e laranja ainda morna sobre os bolos assados.",
-          "trans": "Spread the honey-and-orange glaze while still warm over the baked cakes."
+          "text": "Espalhe a cobertura de chocolate enquanto o bolo ainda está morno.",
+          "trans": "Spread the chocolate glaze while the cake is still warm."
         },
         {
-          "text": "A cobertura de telhas protegeu as mesas da garoa da tarde.",
-          "trans": "The tiled roof covering sheltered the tables from the afternoon drizzle."
+          "text": "A cobertura de vidro do pátio deixa a luz entrar sem molhar as mesas.",
+          "trans": "The glass roof over the courtyard lets light in without getting the tables wet."
         }
       ],
       "related": [
@@ -1372,12 +1456,12 @@
           "gloss": "to cover"
         },
         {
-          "word": "bolo",
-          "gloss": "cake"
+          "word": "recheio",
+          "gloss": "filling"
         },
         {
-          "word": "glacê",
-          "gloss": "icing"
+          "word": "calda",
+          "gloss": "syrup; sauce"
         }
       ]
     },
@@ -2594,11 +2678,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "formas",
-      "gloss": "baking pan; mold; shape",
+      "gloss": "shape; way; baking tin",
       "meanings": [
         {
-          "en": "baking pan; form; shape",
-          "note": "Pronounced with open /ɔ/ when meaning a cake pan or mold, and closed /o/ for abstract shape or manner."
+          "en": "shape; form; manner",
+          "note": "Pronounced with open [ɔ] (/ˈfɔʁmɐ/) when meaning shape, method, or grammatical form."
+        },
+        {
+          "en": "baking tin; cake pan; mould",
+          "note": "Pronounced with closed [o] (/ˈfoʁmɐ/, traditionally spelled fôrma) when meaning a baking pan or mould."
         }
       ],
       "forms": {
@@ -2621,26 +2709,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Tira as quatro formas quentes do forno e apoia na grade de metal.",
-          "trans": "Take the four hot baking pans out of the oven and set them on the metal rack."
+          "text": "Unte a forma redonda com manteiga e farinha antes de despejar a massa.",
+          "trans": "Grease the round cake tin with butter and flour before pouring in the batter."
         },
         {
-          "text": "De qualquer forma, precisamos revisar o horário dos trens hoje à tarde.",
-          "trans": "Either way, we need to double-check the train schedule this afternoon."
+          "text": "Essa é a forma mais prática de organizar as anotações da viagem.",
+          "trans": "That is the most practical way to organize the trip notes."
         }
       ],
       "related": [
         {
-          "word": "bolo",
-          "gloss": "cake"
+          "word": "formar",
+          "gloss": "to form; shape"
         },
         {
-          "word": "forno",
-          "gloss": "oven"
+          "word": "formato",
+          "gloss": "format; shape"
         },
         {
-          "word": "molde",
-          "gloss": "mold"
+          "word": "assadeira",
+          "gloss": "baking pan"
         }
       ]
     },
@@ -2706,11 +2794,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "frutas",
-      "gloss": "fruit (edible)",
+      "gloss": "fruit",
       "meanings": [
         {
-          "en": "fruit",
-          "note": "Everyday culinary word for edible fruit; 'frutas vermelhas' means berries."
+          "en": "edible fruit",
+          "note": "Everyday culinary term for edible fruit (while 'fruto' is the botanical fruit or figurative result)."
+        },
+        {
+          "en": "berries (in 'frutas vermelhas')",
+          "note": "Brazilian Portuguese uses 'frutas vermelhas' for strawberries, raspberries, blackberries, and similar berries."
         }
       ],
       "forms": {
@@ -2733,22 +2825,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Comprei frutas vermelhas frescas na feira para rechear o bolo de amêndoas.",
-          "trans": "I bought fresh berries at the street market to fill the almond cake."
+          "text": "Compramos frutas frescas na feira para fazer a salada da tarde.",
+          "trans": "We bought fresh fruit at the street market to make the afternoon fruit salad."
         },
         {
-          "text": "Depois do almoço, servimos fruta picada com folhas de hortelã do jardim.",
-          "trans": "After lunch, we served chopped fruit with mint leaves from the garden."
+          "text": "Essa torta leva calda de frutas vermelhas por cima do creme.",
+          "trans": "This tart has a berry sauce poured over the custard."
         }
       ],
       "related": [
         {
-          "word": "frutinha",
-          "gloss": "little fruit; berry"
+          "word": "fruto",
+          "gloss": "fruit (botanical); result"
         },
         {
-          "word": "laranja",
-          "gloss": "orange"
+          "word": "frutaria",
+          "gloss": "fruit shop"
         },
         {
           "word": "pomar",
@@ -3139,11 +3231,11 @@
       "pos": "noun",
       "gender": "f",
       "plural": "lascas",
-      "gloss": "splinter; chip; sliver",
+      "gloss": "splinter; chip; flake; sliver",
       "meanings": [
         {
-          "en": "splinter; chip; flake",
-          "note": "A thin sliver or chip broken off wood, stone, chocolate, or orange zest."
+          "en": "splinter; chip; thin flake or sliver",
+          "note": "Used for wood splinters, stone chips, shaved cheese, chocolate curls, or toasted almond flakes."
         }
       ],
       "forms": {
@@ -3166,22 +3258,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Passe a lixa na borda do banco para não soltar nenhuma lasca de madeira.",
-          "trans": "Sand the edge of the bench so it does not throw off any wood splinters."
+          "text": "Decoramos o bolo com lascas de chocolate meio amargo e amêndoas.",
+          "trans": "We decorated the cake with dark chocolate shavings and almonds."
         },
         {
-          "text": "Ela decorou a cobertura com finas lascas de amêndoa torrada.",
-          "trans": "She decorated the glaze with thin slivers of toasted almond."
+          "text": "Cuidado com a tábua velha para não enfiar uma lasca no dedo.",
+          "trans": "Be careful with the old plank so you do not get a splinter in your finger."
         }
       ],
       "related": [
         {
-          "word": "madeira",
-          "gloss": "wood"
+          "word": "lascar",
+          "gloss": "to chip; splinter"
         },
         {
           "word": "raspa",
-          "gloss": "zest; shaving"
+          "gloss": "zest; scraping"
         },
         {
           "word": "pedaço",
@@ -3439,11 +3531,15 @@
       "lemma": "maduro",
       "stress": "maˈduɾu",
       "pos": "adj",
-      "gloss": "ripe; mature; seasoned",
+      "gloss": "ripe; mature",
       "meanings": [
         {
-          "en": "ripe; mature",
-          "note": "Used for ripe fruit or, figuratively, experienced people and aged wood or decisions."
+          "en": "ripe (of fruit, cheese, or grain)",
+          "note": "Standard culinary and agricultural word for fruit ready to eat."
+        },
+        {
+          "en": "mature; seasoned (of people, voices, or ideas)",
+          "note": "Refers to emotional maturity, thoughtful reflection, or older age."
         }
       ],
       "forms": {
@@ -3473,22 +3569,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Escolha só os cajus bem maduros para preparar o doce da tarde.",
-          "trans": "Pick only the thoroughly ripe cashew apples to make the afternoon preserve."
+          "text": "Escolha mangas bem maduras e cheirosas para preparar o doce.",
+          "trans": "Pick very ripe, fragrant mangoes to make the dessert."
         },
         {
-          "text": "Com uma voz madura e serena, o maestro pediu silêncio antes do solo.",
-          "trans": "With a mature, calm voice, the conductor asked for silence before the solo."
+          "text": "Depois de pensar bastante, ele tomou uma decisão madura e equilibrada.",
+          "trans": "After thinking it over carefully, he made a mature and balanced decision."
         }
       ],
       "related": [
         {
-          "word": "fruta",
-          "gloss": "fruit"
+          "word": "amadurecer",
+          "gloss": "to ripen; mature"
         },
         {
-          "word": "pronto",
-          "gloss": "ready"
+          "word": "maturidade",
+          "gloss": "maturity"
         },
         {
           "word": "verde",
@@ -4488,19 +4584,19 @@
       "lemma": "pincelar",
       "stress": "pĩseˈlaʁ",
       "pos": "verb",
-      "gloss": "to brush (glaze or paint)",
+      "gloss": "to brush (glaze, paint); dab",
       "meanings": [
         {
-          "en": "to brush on lightly",
-          "note": "Common in baking (brushing glaze or egg wash) and painting (applying gentle brushstrokes)."
+          "en": "to brush on (glaze, egg wash, oil, or paint)",
+          "note": "Regular -ar verb derived from pincel ('brush'); opens e to [ɛ] in rhizotonic forms (eu pincelo, pincele)."
         }
       ],
       "forms": {
-        "title": "Present Indicative",
+        "title": "Present",
         "columns": [
-          "Person",
-          "Singular",
-          "Plural"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
@@ -4528,11 +4624,11 @@
       },
       "moreForms": [
         {
-          "title": "Preterite Indicative",
+          "title": "Preterite",
           "columns": [
-            "Person",
-            "Singular",
-            "Plural"
+            "",
+            "sg",
+            "pl"
           ],
           "rows": [
             {
@@ -4561,26 +4657,26 @@
       ],
       "examples": [
         {
-          "text": "Pincele o mel morno suavemente sobre as frutinhas ainda na forma.",
-          "trans": "Brush the warm honey gently over the berries while still in the pan."
+          "text": "Pincele os pãezinhos com gema de ovo antes de levar ao forno.",
+          "trans": "Brush the rolls with egg yolk before putting them in the oven."
         },
         {
-          "text": "O restaurador pincelou verniz fino nas bordas da moldura antiga.",
-          "trans": "The restorer brushed thin varnish onto the edges of the old frame."
+          "text": "Eu pincelei uma camada fina de mel morno sobre a massa ainda quente.",
+          "trans": "I brushed a thin layer of warm honey over the still-warm cake."
         }
       ],
       "related": [
         {
           "word": "pincel",
-          "gloss": "brush"
+          "gloss": "brush; paintbrush"
         },
         {
-          "word": "espalhar",
-          "gloss": "to spread"
+          "word": "pincelada",
+          "gloss": "brushstroke"
         },
         {
-          "word": "tinta",
-          "gloss": "paint"
+          "word": "pintar",
+          "gloss": "to paint"
         }
       ]
     },
@@ -5125,11 +5221,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "raspas",
-      "gloss": "zest; shaving; scraping",
+      "gloss": "zest; scraping; shaving",
       "meanings": [
         {
-          "en": "citrus zest; shaving",
-          "note": "Usually plural (raspas de laranja / raspas de limão) for grated citrus peel or thin wood shavings."
+          "en": "citrus zest (usually plural: raspas de limão/laranja)",
+          "note": "Very common in Brazilian baking for grated lemon, lime, or orange peel."
+        },
+        {
+          "en": "scraping; leftover bits at the bottom of a pot",
+          "note": "Singular or plural also means scrapings or shavings of wood, ice, or cooked food."
         }
       ],
       "forms": {
@@ -5152,12 +5252,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Misture duas colheres de raspas de laranja fresca no mel antes de pincelar.",
-          "trans": "Stir two spoonfuls of fresh orange zest into the honey before brushing."
+          "text": "Adicione raspas de laranja doce à calda para dar um aroma fresco.",
+          "trans": "Add sweet orange zest to the glaze to give it a fresh aroma."
         },
         {
-          "text": "O chão da oficina ficou coberto de finas raspas de madeira cheirosa.",
-          "trans": "The workshop floor lay covered in thin shavings of fragrant wood."
+          "text": "Quando eu era criança, adorava comer a raspa da panela de brigadeiro.",
+          "trans": "When I was a kid, I loved eating the scrapings from the brigadeiro pan."
         }
       ],
       "related": [
@@ -5167,11 +5267,11 @@
         },
         {
           "word": "casca",
-          "gloss": "peel"
+          "gloss": "peel; rind"
         },
         {
-          "word": "laranja",
-          "gloss": "orange"
+          "word": "lasca",
+          "gloss": "flake; sliver"
         }
       ]
     },
@@ -5733,39 +5833,35 @@
     },
     "suavemente": {
       "lemma": "suavemente",
-      "stress": "suaviˈmẽtʃi",
       "pos": "adv",
-      "gloss": "gently; softly",
+      "stress": "suaviˈmẽtʃi",
+      "gloss": "gently; softly; smoothly",
       "meanings": [
         {
-          "en": "gently; smoothly",
-          "note": "Manner adverb formed from 'suave' + '-mente', describing quiet movement, gentle touch, or soft music."
+          "en": "gently; softly; without force",
+          "note": "Manner adverb formed from the adjective suave + -mente."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Toque suavemente os acordes da introdução enquanto o pátio silencia.",
-          "trans": "Play the opening chords gently while the courtyard falls quiet."
+          "text": "Ele fechou a porta de madeira suavemente para não acordar ninguém.",
+          "trans": "He closed the wooden door gently so as not to wake anyone."
         },
         {
-          "text": "O vento soprava suavemente pelos galhos sem balançar nenhuma lanterna.",
-          "trans": "The wind blew softly through the branches without swaying a single lantern."
+          "text": "A brisa da tarde balançava suavemente as folhas do quintal.",
+          "trans": "The afternoon breeze gently swayed the leaves in the yard."
         }
       ],
       "related": [
         {
           "word": "suave",
-          "gloss": "soft; gentle"
+          "gloss": "soft; gentle; mild"
         },
         {
           "word": "devagar",
           "gloss": "slowly"
-        },
-        {
-          "word": "calma",
-          "gloss": "calm"
         }
       ]
     },
@@ -5901,15 +5997,15 @@
     },
     "topo": {
       "lemma": "topo",
-      "stress": "ˈtopu",
       "pos": "noun",
+      "stress": "ˈtopu",
+      "gloss": "top; summit; upper surface",
       "gender": "m",
       "plural": "topos",
-      "gloss": "top; summit; crown",
       "meanings": [
         {
-          "en": "top; upper end",
-          "note": "The highest point of a tower, hill, page, ladder, or structure."
+          "en": "top; highest point or upper surface of something",
+          "note": "Masculine noun with closed [o]; contrast with a tope or no topo ('at the top')."
         }
       ],
       "forms": {
@@ -5932,26 +6028,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Do topo da escada de madeira, ela alcançava o gancho mais alto do arco.",
-          "trans": "From the top of the wooden ladder, she could reach the highest hook on the arch."
+          "text": "Do topo da colina dá para ver toda a baía.",
+          "trans": "From the top of the hill you can see the whole bay."
         },
         {
-          "text": "O brasão dourado aparece no topo do convite oficial da prefeitura.",
-          "trans": "The gold crest appears at the top of the official city hall invitation."
+          "text": "O topo do bolo ficou dourado e crocante.",
+          "trans": "The top of the cake turned golden and crisp."
         }
       ],
       "related": [
         {
-          "word": "alto",
-          "gloss": "high; top"
+          "word": "cima",
+          "gloss": "top; above"
         },
         {
           "word": "ponta",
-          "gloss": "tip"
-        },
-        {
-          "word": "fundo",
-          "gloss": "bottom"
+          "gloss": "tip; edge"
         }
       ]
     },
