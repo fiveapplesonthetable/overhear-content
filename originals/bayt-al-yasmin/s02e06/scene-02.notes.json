@@ -639,7 +639,7 @@
     },
     {
       "seg": 5,
-      "trans": "May I hang the big sunroom key on it, {M1}?",
+      "trans": "May I hang the big sunroom key on it, Tariq?",
       "words": [
         {
           "t": "ممكن",
@@ -762,7 +762,7 @@
     },
     {
       "seg": 6,
-      "trans": "Go right ahead, {F1}. You earned it this week.",
+      "trans": "Go right ahead, Nour. You earned it this week.",
       "words": [
         {
           "t": "تفضلي",
@@ -833,7 +833,7 @@
     },
     {
       "seg": 7,
-      "trans": "Wait—{M1}, what is that laminated card tucked inside your paper ledger?",
+      "trans": "Wait—Tariq, what is that laminated card tucked inside your paper ledger?",
       "words": [
         {
           "t": "استنى",
@@ -982,7 +982,7 @@
     },
     {
       "seg": 8,
-      "trans": "Aha! Did you secretly keep a copy of my printed café menu, {M1}?!",
+      "trans": "Aha! Did you secretly keep a copy of my printed café menu, Tariq?!",
       "words": [
         {
           "t": "آها",
@@ -1254,7 +1254,7 @@
     },
     {
       "seg": 10,
-      "trans": "Write this day down in the guest book: {M1} praised a printed page!",
+      "trans": "Write this day down in the guest book: Tariq praised a printed page!",
       "words": [
         {
           "t": "اكتبوا",
@@ -2271,7 +2271,7 @@
     },
     {
       "seg": 22,
-      "trans": "May I hang the big sunroom key on it, {M1}?",
+      "trans": "May I hang the big sunroom key on it, Tariq?",
       "words": [
         {
           "t": "ممكن",
@@ -2394,7 +2394,7 @@
     },
     {
       "seg": 24,
-      "trans": "Go right ahead, {F1}. You earned it this week.",
+      "trans": "Go right ahead, Nour. You earned it this week.",
       "words": [
         {
           "t": "تفضلي",
@@ -2465,7 +2465,7 @@
     },
     {
       "seg": 26,
-      "trans": "Wait—{M1}, what is that laminated card tucked inside your paper ledger?",
+      "trans": "Wait—Tariq, what is that laminated card tucked inside your paper ledger?",
       "words": [
         {
           "t": "استنى",
@@ -2614,7 +2614,7 @@
     },
     {
       "seg": 28,
-      "trans": "Aha! Did you secretly keep a copy of my printed café menu, {M1}?!",
+      "trans": "Aha! Did you secretly keep a copy of my printed café menu, Tariq?!",
       "words": [
         {
           "t": "آها",
@@ -2886,7 +2886,7 @@
     },
     {
       "seg": 32,
-      "trans": "Write this day down in the guest book: {M1} praised a printed page!",
+      "trans": "Write this day down in the guest book: Tariq praised a printed page!",
       "words": [
         {
           "t": "اكتبوا",
@@ -3903,7 +3903,7 @@
     },
     {
       "seg": 43,
-      "trans": "May I hang the big sunroom key on it, {M1}?",
+      "trans": "May I hang the big sunroom key on it, Tariq?",
       "words": [
         {
           "t": "ممكن",
@@ -4026,7 +4026,7 @@
     },
     {
       "seg": 44,
-      "trans": "Go right ahead, {F1}. You earned it this week.",
+      "trans": "Go right ahead, Nour. You earned it this week.",
       "words": [
         {
           "t": "تفضلي",
@@ -4097,7 +4097,7 @@
     },
     {
       "seg": 45,
-      "trans": "Wait—{M1}, what is that laminated card tucked inside your paper ledger?",
+      "trans": "Wait—Tariq, what is that laminated card tucked inside your paper ledger?",
       "words": [
         {
           "t": "استنى",
@@ -4246,7 +4246,7 @@
     },
     {
       "seg": 46,
-      "trans": "Aha! Did you secretly keep a copy of my printed café menu, {M1}?!",
+      "trans": "Aha! Did you secretly keep a copy of my printed café menu, Tariq?!",
       "words": [
         {
           "t": "آها",
@@ -4518,7 +4518,7 @@
     },
     {
       "seg": 48,
-      "trans": "Write this day down in the guest book: {M1} praised a printed page!",
+      "trans": "Write this day down in the guest book: Tariq praised a printed page!",
       "words": [
         {
           "t": "اكتبوا",
@@ -7410,15 +7410,26 @@
     "محطوط": {
       "lemma": "محطوط",
       "stress": null,
-      "pos": "noun",
-      "gloss": "dummy",
-      "gender": "m",
+      "pos": "adj",
+      "gloss": "placed",
       "meanings": [
         {
-          "en": "dummy",
-          "note": "Everyday Jordanian word for something."
+          "en": "placed",
+          "note": "Participle from حطّ ('to put'), meaning 'placed'."
         }
       ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الكتاب محطوط هون.",
+          "trans": "The book is placed here."
+        },
+        {
+          "text": "الأغراض محطوطة.",
+          "trans": "The items are placed."
+        }
+      ],
+      "related": [],
       "forms": {
         "title": "Forms",
         "columns": [
@@ -7431,23 +7442,11 @@
             "cells": [
               "form",
               "محطوط",
-              "محطوط"
+              "—"
             ]
           }
         ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هذه جملة طويلة كفاية لكي لا تكون قصيرة جدا وتحتوي على كلمة محطوط.",
-          "trans": "This is a long enough sentence so it is not too short, containing محطوط."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على محطوط.",
-          "trans": "And this is another long enough sentence to pass the check, with محطوط."
-        }
-      ],
-      "related": []
+      }
     },
     "جوا": {
       "lemma": "جوا",
