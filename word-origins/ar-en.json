@@ -1986,6 +1986,46 @@
     "أنا": {
       "etymology": "From Proto-Semitic *ʾanā, meaning 'I'. It is one of the most basic and ancient pronouns retained in all Arabic dialects."
     },
+    "أنجز": {
+      "etymology": "Form IV causative verb أَنْجَزَ (ʾanjaza, 'to bring to completion, accomplish, fulfil') on the pattern أَفْعَلَ (ʾafʿala) from the root ن-ج-ز (n-j-z, 'to conclude, carry out, be complete'). Originally linked in Classical Arabic to fulfilling a promise or finishing an expedition cleanly.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ن-ج-ز",
+          "kind": "root",
+          "meaning": "finish; fulfil; conclude"
+        },
+        {
+          "part": "أَفْعَلَ",
+          "kind": "pattern",
+          "meaning": "Form IV transitive/causative"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "نَجَزَ -> أَنْجَزَ (ʾanjaza)",
+          "meaning": "to be concluded -> to accomplish, execute",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: انجز (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%A7%D9%86%D8%AC%D8%B2#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "إنجاز",
+          "gloss": "achievement"
+        },
+        {
+          "word": "ناجز",
+          "gloss": "accomplished; ready"
+        }
+      ]
+    },
     "أنسخهم": {
       "etymology": "From an ancient Semitic root for 'أنسخهم'. Widely used in Levantine Arabic.",
       "sources": [
@@ -2707,6 +2747,53 @@
         }
       ]
     },
+    "إشارة": {
+      "etymology": "Form IV verbal noun إِشَارَة (ʾišāra, 'pointing, gesture, signal') from أَشَارَ (ʾašāra, 'to point, indicate'), built on the hollow root ش-و-ر (š-w-r, 'to show, display, counsel'). Semantically widened in modern Arabic to cover traffic signals, railway signals, and stage cues.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ش-و-ر",
+          "kind": "root",
+          "meaning": "show; gesture; counsel"
+        },
+        {
+          "part": "إِفْعَالَة",
+          "kind": "pattern",
+          "meaning": "Form IV hollow verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "أَشَارَ -> إِشَارَة (ʾišāra)",
+          "meaning": "to point -> indication, signal",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: اشارة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%A7%D8%B4%D8%A7%D8%B1%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "شارع",
+          "gloss": "street (lit. thoroughfare)"
+        },
+        {
+          "word": "مشورة",
+          "gloss": "counsel"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Aramaic",
+          "word": "שׁוּרָא / אִשְׁתְּאַר",
+          "meaning": "sign, trace"
+        }
+      ]
+    },
     "إشعار": {
       "etymology": "Form IV verbal noun إِشْعَار (ʾišʿār, 'notification, notice, making known') from أَشْعَرَ (ʾašʿara, 'to inform, notify'), root ش-ع-ر (š-ʿ-r, 'to perceive, feel, know').",
       "certainty": "established",
@@ -2851,6 +2938,50 @@
           "part": "إِفْعَالَة",
           "kind": "pattern",
           "meaning": "Form IV instance noun"
+        }
+      ]
+    },
+    "إعادة": {
+      "etymology": "Form IV verbal noun إِعَادَة (ʾiʿāda, 'repeating, returning, run-through') from أَعَادَ (ʾaʿāda, 'to repeat, restore'), built on the hollow root ع-و-د (ʿ-w-d, 'to return, do again'). The compensatory ta marbuta (-a) marks the hollow Form IV masdar pattern إِفَالَة.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ع-و-د",
+          "kind": "root",
+          "meaning": "return; repeat; habit"
+        },
+        {
+          "part": "إِفَالَة",
+          "kind": "pattern",
+          "meaning": "Form IV hollow verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "عَادَ -> أَعَادَ -> إِعَادَة (ʾiʿāda)",
+          "meaning": "to return -> to repeat -> repetition",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: اعادة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%A7%D8%B9%D8%A7%D8%AF%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "عاد",
+          "gloss": "to return"
+        },
+        {
+          "word": "عودة",
+          "gloss": "return"
+        },
+        {
+          "word": "عادة",
+          "gloss": "habit"
         }
       ]
     },
@@ -3345,6 +3476,70 @@
           "part": "اِفْتِعَال",
           "kind": "pattern",
           "meaning": "Form VIII verbal noun"
+        }
+      ]
+    },
+    "اتسكّر": {
+      "etymology": "Colloquial Levantine Form V passive/reflexive verb it-sakkar ('to close itself, be locked up, shut for the day') formed by prefixing the spoken reflexive marker it- (Classical ta-) onto Form II سكّر ('to close, bolt'). The root س-ك-ر (s-k-r, 'to dam, block, shut') traces back to Semitic roots for stopping up water channels.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "س-ك-ر",
+          "kind": "root",
+          "meaning": "block; dam; close"
+        },
+        {
+          "part": "اتْفَعَّل",
+          "kind": "pattern",
+          "meaning": "Levantine Form V passive/reflexive"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Semitic / Aramaic",
+          "form": "*skr",
+          "meaning": "to shut, dam up",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "سَكَرَ (sakara)",
+          "meaning": "to block, stop up",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "سكّر -> اتسكّر (itsakkar)",
+          "meaning": "to lock -> to get shut/closed",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: تسكر (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AA%D8%B3%D9%83%D8%B1#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "سكّر",
+          "gloss": "to close"
+        },
+        {
+          "word": "مسكّر",
+          "gloss": "closed"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "סָגַר (sāḡar)",
+          "meaning": "to close, shut"
+        },
+        {
+          "lang": "Syriac",
+          "word": "ܣܟܪ (səḵar)",
+          "meaning": "to shut, bar"
         }
       ]
     },
@@ -6588,6 +6783,59 @@
     "انحنى": {
       "etymology": "This word is derived from the Arabic root. It is commonly used in everyday Levantine and Jordanian spoken Arabic to mean take a bow."
     },
+    "انخبز": {
+      "etymology": "Form VII passive verb انْخَبَزَ (inḵabaza, 'to be baked') derived from خَبَزَ (ḵabaza, 'to bake bread'), root خ-ب-ز (ḵ-b-z, 'bread-making'). Form VII productively supplies everyday passives in Jordanian Arabic where Classical Arabic prefers internal vowel passives (خُبِزَ).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "خ-ب-ز",
+          "kind": "root",
+          "meaning": "bake; bread"
+        },
+        {
+          "part": "اِنْفَعَلَ",
+          "kind": "pattern",
+          "meaning": "Form VII passive"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "خَبَزَ (ḵabaza)",
+          "meaning": "to bake bread",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "انخبز (inḵabaz)",
+          "meaning": "to be baked",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: انخبز (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%A7%D9%86%D8%AE%D8%A8%D8%B2#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "خبز",
+          "gloss": "bread"
+        },
+        {
+          "word": "مخبز",
+          "gloss": "bakery"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Ge'ez",
+          "word": "ኀበዘ (ḫabaza)",
+          "meaning": "to bake bread"
+        }
+      ]
+    },
     "اندفع": {
       "etymology": "Form VII verb اِنْدَفَعَ (indafaʿa, 'to rush forward; [in Levantine] to be paid') formed with the detransitivizing prefix in- from دَفَعَ (dafaʿa, 'to push; pay'), root د-ف-ع (d-f-ʿ).",
       "certainty": "established",
@@ -7495,6 +7743,64 @@
     "بامان": {
       "etymology": "Consists of the preposition بـ (bi, 'in/with') and the noun أمان ('amān, 'safety' or 'security'). A Standard Arabic phrase commonly used in Jordanian."
     },
+    "بان": {
+      "etymology": "Hollow Form I verb بَانَ (bāna, 'to become clear, appear, stand out'), built on the root ب-ي-ن (b-y-n, 'separation, clarity, interval'). In Levantine Arabic it functions widely as a stative verb meaning 'to look, seem, show up' (بيبان حلو 'it looks nice').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ب-ي-ن",
+          "kind": "root",
+          "meaning": "between; distinct; clear"
+        },
+        {
+          "part": "فَعَلَ",
+          "kind": "pattern",
+          "meaning": "Form I hollow verb"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Proto-Semitic",
+          "form": "*bayn-",
+          "meaning": "interval, distinction",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "بَانَ (bāna, yabiinu)",
+          "meaning": "to be distinct, appear",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: بان (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%A8%D8%A7%D9%86#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "بين",
+          "gloss": "between"
+        },
+        {
+          "word": "بينما",
+          "gloss": "while"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "בֵּין (bēn)",
+          "meaning": "between"
+        },
+        {
+          "lang": "Aramaic",
+          "word": "בֵּין",
+          "meaning": "between"
+        }
+      ]
+    },
     "بانتظام": {
       "etymology": "From an ancient Semitic root for 'بانتظام'. Widely used in Levantine Arabic.",
       "sources": [
@@ -8129,6 +8435,60 @@
         }
       ]
     },
+    "بردقان": {
+      "etymology": "Jordanian and Levantine colloquial noun بَرْدَقَان (bardaqān, 'oranges'), adapted by voicing /t/ > /d/ and /l/ > /n/ from standard بُرْتُقَال (burtuqāl). The fruit was named after Portugal (Portuguese navigators helped spread sweet Asian oranges into the Mediterranean in the 16th century).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "Portugal",
+          "kind": "proper noun",
+          "meaning": "country name reanalysed as fruit name"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Portuguese",
+          "form": "Portugal",
+          "meaning": "Portugal (via sweet orange trade)",
+          "certainty": "established"
+        },
+        {
+          "stage": "Arabic",
+          "form": "بُرْتُقَال (burtuqāl)",
+          "meaning": "orange(s)",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "بردقان (bardaqān)",
+          "meaning": "orange(s)",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: برتقال (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Turkish",
+          "word": "portakal",
+          "meaning": "orange"
+        },
+        {
+          "lang": "Greek",
+          "word": "πορτοκάλι (portokáli)",
+          "meaning": "orange"
+        },
+        {
+          "lang": "Persian",
+          "word": "پرتقال (porteghāl)",
+          "meaning": "orange"
+        }
+      ]
+    },
     "برش": {
       "etymology": "Verbal noun بَرْش (barš, 'grating, rasping; grated zest') from بَرَشَ (baraša, 'to scrape, grate, shred'), root ب-ر-ش (b-r-š), widely used in Levantine cooking for grated cheese and citrus zest.",
       "certainty": "established",
@@ -8225,6 +8585,54 @@
         }
       ]
     },
+    "برقية": {
+      "etymology": "Modern Arabic coinage بَرْقِيَّة (barqiyya, 'telegram, cable'), formed as a feminine nisba noun from بَرْق (barq, 'lightning, electric flash'), root ب-ر-ق (b-r-q). Coined in the 19th-century Arab press and postal services to translate European 'telegram' via electric 'lightning' signals.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ب-ر-ق",
+          "kind": "root",
+          "meaning": "lightning; flash"
+        },
+        {
+          "part": "ـِيَّة",
+          "kind": "suffix",
+          "meaning": "feminine nominalizer"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Proto-Semitic",
+          "form": "*baraq-",
+          "meaning": "lightning",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Standard Arabic",
+          "form": "بَرْقِيَّة (barqiyya)",
+          "meaning": "telegram, dispatch",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: برقية (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%A8%D8%B1%D9%82%D9%8A%D8%A9#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "בָּרָק (bārāq)",
+          "meaning": "lightning"
+        },
+        {
+          "lang": "Aramaic",
+          "word": "בַּרְقָא (barqā)",
+          "meaning": "lightning"
+        }
+      ]
+    },
     "برنامج": {
       "etymology": "Early Arabic borrowing بَرْنَامَج (barnāmaj) from Middle Persian barnāmag ('plan, list, register', composed of bar 'on' + nāmag 'book, writing'). Re-borrowed into modern Arabic usage for theatre/concert programmes, schedules, and software.",
       "certainty": "established",
@@ -8254,6 +8662,55 @@
         {
           "title": "Wiktionary: برنامج (Arabic)",
           "url": "https://en.wiktionary.org/wiki/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC#Arabic"
+        }
+      ]
+    },
+    "بروفة": {
+      "etymology": "Arabic theatrical and musical loanword بْرُوفَة (brōva, 'rehearsal, trial run, tailor's fitting'), borrowed in the 19th–20th centuries from Italian prova ('test, trial, rehearsal'), from Late Latin proba ('proof, test') < probare ('to test, approve').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "prova",
+          "kind": "stem",
+          "meaning": "Italian 'test, rehearsal'"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Latin",
+          "form": "proba",
+          "meaning": "proof, trial",
+          "certainty": "established"
+        },
+        {
+          "stage": "Italian",
+          "form": "prova",
+          "meaning": "trial, rehearsal",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Spoken Arabic",
+          "form": "بروفة (brōva)",
+          "meaning": "rehearsal, fitting",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: بروفة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%A8%D8%B1%D9%88%D9%81%D8%A9#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Italian",
+          "word": "prova",
+          "meaning": "rehearsal, proof"
+        },
+        {
+          "lang": "French",
+          "word": "épreuve",
+          "meaning": "test, trial"
         }
       ]
     },
@@ -9100,6 +9557,55 @@
         }
       ]
     },
+    "بلاط": {
+      "etymology": "Collective Arabic noun بَلَاط (balāṭ, 'paving stones, floor tiles, palace pavement'), an early borrowing from Late Latin palatium ('palace') or Aramaic/Greek plax/palation, influenced by Arabic root ب-ل-ط ('flat, paved'). From its architectural use came Spanish/Portuguese azulejo-adjacent masonry terms and modern 'floor tiles'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ب-ل-ط",
+          "kind": "root",
+          "meaning": "flat slab; pave"
+        },
+        {
+          "part": "palatium",
+          "kind": "loan",
+          "meaning": "Latin 'palace, paved court'"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Latin",
+          "form": "palatium",
+          "meaning": "palace, imperial court",
+          "certainty": "likely"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "بَلَاط (balāṭ)",
+          "meaning": "paved court, flagstones",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "بلاط (balāṭ)",
+          "meaning": "floor tiles",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: بلاط (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%A8%D9%84%D8%A7%D8%B7#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Greek",
+          "word": "παλάτι (paláti)",
+          "meaning": "palace"
+        }
+      ]
+    },
     "بلاطة": {
       "etymology": "This word is derived from the Arabic root. It is commonly used in everyday Levantine and Jordanian spoken Arabic to mean flagstones / flat stones."
     },
@@ -9775,6 +10281,54 @@
           "part": "ب-ء-ر",
           "kind": "root",
           "meaning": "digging a well"
+        }
+      ]
+    },
+    "بيز": {
+      "etymology": "Modern musical loanword بِيز (bēz, 'bass instrument, bass line'), borrowed from English 'bass' (with final voicing -s > -z typical in Arabic musical borrowings, parallel to جاز 'jazz'). English 'bass' comes from Old French bas / Late Latin bassus ('low').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "bass",
+          "kind": "stem",
+          "meaning": "English musical 'bass'"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Late Latin",
+          "form": "bassus",
+          "meaning": "low, deep",
+          "certainty": "established"
+        },
+        {
+          "stage": "English",
+          "form": "bass",
+          "meaning": "low-pitched voice or instrument",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Spoken Arabic",
+          "form": "بيز (bēz)",
+          "meaning": "bass part or bass instrument",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: bass (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/bass#Arabic"
+        },
+        {
+          "title": "Wiktionary: bass (English)",
+          "url": "https://en.wiktionary.org/wiki/bass#English"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "English",
+          "word": "bass",
+          "meaning": "low musical register"
         }
       ]
     },
@@ -10939,6 +11493,46 @@
         }
       ]
     },
+    "تحويلة": {
+      "etymology": "Feminine noun تَحْوِيلَة (taḥwīla, 'turnoff, detour, branch track, call transfer'), an instance-noun derivative of Form II verbal noun تَحْوِيل (taḥwīl, 'turning, diverting') from حَوَّلَ (ḥawwala, root ح-و-ل 'to turn, shift, change').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ح-و-ل",
+          "kind": "root",
+          "meaning": "turn; shift; around"
+        },
+        {
+          "part": "تَفْعِيلَة",
+          "kind": "pattern",
+          "meaning": "Form II instance noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "حَوَّلَ -> تَحْوِيلَة (taḥwīla)",
+          "meaning": "to divert -> single turnoff, switch",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: تحويلة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "حول",
+          "gloss": "around"
+        },
+        {
+          "word": "حالة",
+          "gloss": "state; condition"
+        }
+      ]
+    },
     "تحية": {
       "etymology": "Form II verbal noun تَحِيَّة (taḥiyya, 'greeting, salutation, salute, toast') from حَيَّا (ḥayyā, originally 'to say حَيَّاكَ اللّٰهُ [may God preserve your life]'), root ح-ي-ي (ḥ-y-y, 'life').",
       "certainty": "established",
@@ -11570,6 +12164,48 @@
         }
       ]
     },
+    "تشييك": {
+      "etymology": "Colloquial Form II verbal noun تَشْيِيك (tašyīk, 'checking, inspection, going over a list'), formed natively on the Arabic تَفْعِيل pattern from the modern denominal verb شيّك ('to check'), borrowed from English 'check'. Shows how productive Arabic root-and-pattern morphology integrates loanwords.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ش-ي-ك",
+          "kind": "root",
+          "meaning": "extracted from English 'check'"
+        },
+        {
+          "part": "تَفْعِيل",
+          "kind": "pattern",
+          "meaning": "Form II verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "English",
+          "form": "check",
+          "meaning": "inspect, verify",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "شيّك -> تشييك (tašyīk)",
+          "meaning": "to check -> checking, inspection",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: تشيك (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AA%D8%B4%D9%8A%D9%83#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "شيّك",
+          "gloss": "to check"
+        }
+      ]
+    },
     "تصالح": {
       "etymology": "Form VI reciprocal verb تَصَالَحَ (taṣālaḥa, 'to make peace with one another, reconcile') from صُلْح (ṣulḥ, 'peace, reconciliation'), root ص-ل-ح (ṣ-l-ḥ).",
       "certainty": "established",
@@ -11650,6 +12286,46 @@
         {
           "title": "Almaany: تصرف",
           "url": "https://www.almaany.com/ar/dict/ar-en/%D8%AA%D8%B5%D8%B1%D9%81/"
+        }
+      ]
+    },
+    "تصليح": {
+      "etymology": "Form II verbal noun تَصْلِيح (taṣlīḥ, 'repairing, fixing, restoration') from صَلَّحَ (ṣallaḥa, 'to mend, repair'), root ص-ل-ح (ṣ-l-ḥ, 'sound, upright, in good working order'). Standard across everyday Arabic for repairing tracks, appliances, and instruments.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ص-ل-ح",
+          "kind": "root",
+          "meaning": "good order; sound; mend"
+        },
+        {
+          "part": "تَفْعِيل",
+          "kind": "pattern",
+          "meaning": "Form II verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "صَلَحَ -> صَلَّحَ -> تَصْلِيح (taṣlīḥ)",
+          "meaning": "to be right -> to mend -> repair",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: تصليح (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AA%D8%B5%D9%84%D9%8A%D8%AD#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "صلّح",
+          "gloss": "to fix; repair"
+        },
+        {
+          "word": "مصلحة",
+          "gloss": "welfare; interest"
         }
       ]
     },
@@ -11912,6 +12588,46 @@
         }
       ]
     },
+    "تعليقة": {
+      "etymology": "Feminine noun تَعْلِيقَة (taʿlīqa, 'hook, hanger, peg, hanging ornament'), instance-noun formation on تَفْعِيلَة from Form II عَلَّقَ (ʿallaqa, 'to hang, suspend'), root ع-ل-ق (ʿ-l-q, 'to cling, hang, attach').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ع-ل-ق",
+          "kind": "root",
+          "meaning": "hang; cling; attach"
+        },
+        {
+          "part": "تَفْعِيلَة",
+          "kind": "pattern",
+          "meaning": "Form II concrete instance noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "عَلَّقَ -> تَعْلِيقَة (taʿlīqa)",
+          "meaning": "to hang -> hook, hanger, pendant",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: تعليقة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "معلّق",
+          "gloss": "hanging"
+        },
+        {
+          "word": "علاقة",
+          "gloss": "relation; hanger"
+        }
+      ]
+    },
     "تعليمات": {
       "etymology": "From an ancient Semitic root for 'تعليمات'. Widely used in Levantine Arabic.",
       "sources": [
@@ -12018,6 +12734,46 @@
           "part": "تَفْعِيل",
           "kind": "pattern",
           "meaning": "Form II verbal noun"
+        }
+      ]
+    },
+    "تغدّى": {
+      "etymology": "Form V defective verb تَغَدَّى (taġaddā, 'to eat lunch, dine at midday') from غَدَاء (ġadāʾ, 'midday meal'), root غ-د-و (ġ-d-w, 'morning, early day'). Historically غداء originally meant an early-morning meal before shifting to the main midday lunch.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "غ-د-و",
+          "kind": "root",
+          "meaning": "morning; early; midday meal"
+        },
+        {
+          "part": "تَفَعَّلَ",
+          "kind": "pattern",
+          "meaning": "Form V reflexive/denominal"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "غَدَا -> غَدَاء -> تَغَدَّى (taġaddā)",
+          "meaning": "to go early -> morning/midday meal -> to have lunch",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: تغدى (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AA%D8%BA%D8%AF%D9%89#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "غدا",
+          "gloss": "lunch"
+        },
+        {
+          "word": "غد",
+          "gloss": "tomorrow"
         }
       ]
     },
@@ -12762,6 +13518,48 @@
         }
       ]
     },
+    "تلخبط": {
+      "etymology": "Colloquial quadriliteral reflexive verb تْلَخْبَط (tlaḵbaṭ, 'to get mixed up, become confused'), derived by prefixing t(a)- onto لَخْبَط (laḵbaṭ, 'to jumble, scramble'). Likely an expressive blend of خَبَطَ ('to strike/flounder') and خَلَطَ ('to mix').",
+      "certainty": "likely",
+      "morphemes": [
+        {
+          "part": "ل-خ-ب-ط",
+          "kind": "root",
+          "meaning": "jumble; confuse"
+        },
+        {
+          "part": "تَفَعْلَل",
+          "kind": "pattern",
+          "meaning": "quadriliteral reflexive"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "خَبَطَ + خَلَطَ",
+          "meaning": "to flounder + to mix",
+          "certainty": "likely"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "لخبط -> تلخبط (tlaḵbaṭ)",
+          "meaning": "to mix up -> to get confused",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: تلخبط (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AA%D9%84%D8%AE%D8%A8%D8%B7#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "خربطة",
+          "gloss": "mix-up"
+        }
+      ]
+    },
     "تلطيخة": {
       "etymology": "From an ancient Semitic root for 'تلطيخة'. Widely used in Levantine Arabic.",
       "sources": [
@@ -13201,6 +13999,42 @@
         {
           "title": "Wiktionary: تناغم (Arabic)",
           "url": "https://en.wiktionary.org/wiki/%D8%AA%D9%86%D8%A7%D8%BA%D9%85#Arabic"
+        }
+      ]
+    },
+    "تنبيه": {
+      "etymology": "Form II verbal noun تَنْبِيه (tanbīh, 'alerting, notice, reminder, warning') from نَبَّهَ (nabbaha, 'to awaken, draw someone's attention'), root ن-ب-ه (n-b-h, 'to notice, be alert, wake'). Used for posted notices, urgent warnings, and reminders.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ن-ب-ه",
+          "kind": "root",
+          "meaning": "awake; alert; heed"
+        },
+        {
+          "part": "تَفْعِيل",
+          "kind": "pattern",
+          "meaning": "Form II verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "نَبِهَ -> نَبَّهَ -> تَنْبِيه (tanbīh)",
+          "meaning": "to be aware -> to alert -> notice, reminder",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: تنبيه (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AA%D9%86%D8%A8%D9%8A%D9%87#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "انتبه",
+          "gloss": "to pay attention"
         }
       ]
     },
@@ -13766,6 +14600,56 @@
           "part": "فَاعِل",
           "kind": "pattern",
           "meaning": "active participle"
+        }
+      ]
+    },
+    "جامعة": {
+      "etymology": "Feminine noun جَامِعَة (jāmiʿa, 'university; league, gathering body'), originally the feminine active participle of جَمَعَ (jamaʿa, 'to gather, bring together') on the root ج-م-ع (j-m-c). Short for المدرسة الجامعة ('the all-encompassing school') or a translation-calque of Latin universitas ('the whole body').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ج-م-ع",
+          "kind": "root",
+          "meaning": "gather; unite; all"
+        },
+        {
+          "part": "فَاعِلَة",
+          "kind": "pattern",
+          "meaning": "feminine active participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "جَمَعَ -> جَامِعَة (jāmiʿa)",
+          "meaning": "to gather -> all-gathering, mosque/assembly",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Arabic",
+          "form": "جامعة (jāmiʿa)",
+          "meaning": "university",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: جامعة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "جمع",
+          "gloss": "to gather"
+        },
+        {
+          "word": "جمعة",
+          "gloss": "Friday; week"
+        },
+        {
+          "word": "اجتماع",
+          "gloss": "meeting"
         }
       ]
     },
@@ -14569,6 +15453,52 @@
         }
       ]
     },
+    "جنّن": {
+      "etymology": "Form II causative verb جَنَّنَ (jannana, 'to drive mad, dazzle, captivate') from the root ج-ن-ن (j-n-n, 'to cover, hide, possess, craze'). In Levantine speech, the 3rd-person imperfect بيجنن (bijannin, literally 'it drives one crazy') is an everyday hyperbole meaning 'amazing, gorgeous, delicious'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ج-ن-ن",
+          "kind": "root",
+          "meaning": "cover; madness; spirit"
+        },
+        {
+          "part": "فَعَّلَ",
+          "kind": "pattern",
+          "meaning": "Form II causative"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "جُنَّ -> جَنَّنَ (jannana)",
+          "meaning": "to be mad -> to drive crazy",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "جنّن / بيجنن (bijannin)",
+          "meaning": "to look/taste amazing",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: جنن (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AC%D9%86%D9%86#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "مجنون",
+          "gloss": "crazy"
+        },
+        {
+          "word": "جنة",
+          "gloss": "garden; paradise"
+        }
+      ]
+    },
     "جهة": {
       "etymology": "Noun جِهَة (jiha < *wijha, 'side, direction, facing quarter'), formed with regular loss of root-initial w- from وَجْه (wajh, 'face, front'), root و-ج-ه (w-j-h).",
       "certainty": "established",
@@ -14805,6 +15735,64 @@
           "part": "ج-ي-ب",
           "kind": "root",
           "meaning": "opening in a garment; pocket"
+        }
+      ]
+    },
+    "جَنْب": {
+      "etymology": "Masculine noun جَنْب (janb, 'side, flank, edge') from the Semitic root ج-ن-ب (j-n-b, 'side, flank, ward off'). In Arabic, the noun 'side' also grammaticalized into the everyday preposition جنب ('beside, next to').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ج-ن-ب",
+          "kind": "root",
+          "meaning": "side; flank"
+        },
+        {
+          "part": "فَعْل",
+          "kind": "pattern",
+          "meaning": "Form I noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Proto-Semitic",
+          "form": "*ganb-",
+          "meaning": "side, flank",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "جَنْب (janb)",
+          "meaning": "side, flank",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: جنب (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AC%D9%86%D8%A8#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "جنب",
+          "gloss": "beside; next to"
+        },
+        {
+          "word": "أجنبي",
+          "gloss": "foreigner"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "גַּב (gaḇ)",
+          "meaning": "back, side"
+        },
+        {
+          "lang": "Aramaic",
+          "word": "גַּב (gaḇ)",
+          "meaning": "side, beside"
         }
       ]
     },
@@ -15731,6 +16719,53 @@
         }
       ]
     },
+    "حرق": {
+      "etymology": "Form I verb حَرَقَ (ḥaraqa, 'to burn, scorch, scald') from the root ح-ر-ق (ḥ-r-q, 'fire, burn, rub friction'). In everyday kitchen speech, بتحرق ('it burns') describes food or pans that are piping hot.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ح-ر-ق",
+          "kind": "root",
+          "meaning": "burn; scorch"
+        },
+        {
+          "part": "فَعَلَ",
+          "kind": "pattern",
+          "meaning": "Form I transitive verb"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "حَرَقَ (ḥaraqa)",
+          "meaning": "to burn, scorch",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: حرق (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AD%D8%B1%D9%82#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "حريق",
+          "gloss": "fire"
+        },
+        {
+          "word": "محروق",
+          "gloss": "burnt"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "חָרַךְ (ḥāraḵ)",
+          "meaning": "to singe, roast"
+        }
+      ]
+    },
     "حرك": {
       "etymology": "Form II transitive verb حَرَّكَ (ḥarraka, 'to move, stir, set in motion, wiggle') from حَرُكَ (ḥaruka, 'to be in motion'), root ح-ر-ك (ḥ-r-k).",
       "certainty": "established",
@@ -15962,6 +16997,46 @@
         {
           "title": "Almaany: حسب",
           "url": "https://www.almaany.com/ar/dict/ar-en/%D8%AD%D8%B3%D8%A8/"
+        }
+      ]
+    },
+    "حسن": {
+      "etymology": "Abstract masculine noun حُسْن (ḥusn, 'goodness, beauty, excellence') from حَسُنَ (ḥasuna, 'to be good, handsome, fine'), root ح-س-ن (ḥ-s-n). Preserved especially in formal and semi-formal phrases such as لحسن الحظ ('fortunately').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ح-س-ن",
+          "kind": "root",
+          "meaning": "good; beautiful; excellent"
+        },
+        {
+          "part": "فُعْل",
+          "kind": "pattern",
+          "meaning": "stative abstract noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "حَسُنَ -> حُسْن (ḥusn)",
+          "meaning": "to be good/beautiful -> goodness, beauty",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: حسن (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AD%D8%B3%D9%86#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "أحسن",
+          "gloss": "better; best"
+        },
+        {
+          "word": "تحسّن",
+          "gloss": "to improve"
         }
       ]
     },
@@ -16795,6 +17870,64 @@
         }
       ]
     },
+    "حمّى": {
+      "etymology": "Form II transitive verb حَمَّى (ḥammā, 'to heat up, warm an oven or dish') derived from the root ح-م-ي / ح-م-م (ḥ-m-y, 'hot, feverish, glowing'). Pairs with Form I حَمِيَ ('to become hot').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ح-م-ي",
+          "kind": "root",
+          "meaning": "hot; warm; glow"
+        },
+        {
+          "part": "فَعَّلَ",
+          "kind": "pattern",
+          "meaning": "Form II causative"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Proto-Semitic",
+          "form": "*ḥmm",
+          "meaning": "to be hot",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "حَمِيَ -> حَمَّى (ḥammā)",
+          "meaning": "to grow hot -> to heat up",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: حمى (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AD%D9%85%D9%89#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "حامي",
+          "gloss": "hot"
+        },
+        {
+          "word": "حمّام",
+          "gloss": "bath"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "חַם (ḥam)",
+          "meaning": "hot, warm"
+        },
+        {
+          "lang": "Aramaic",
+          "word": "חֲמָא",
+          "meaning": "heat"
+        }
+      ]
+    },
     "حواجبك": {
       "etymology": "From the plural of حَاجِب (haajib) from root ح-ج-ب (h-j-b) meaning to veil or cover. Combined with the possessive suffix '-ak' (your, m) or '-ik' (your, f)."
     },
@@ -16993,6 +18126,53 @@
           "part": "ح-ج-ز",
           "kind": "root",
           "meaning": "holding aside; reserving"
+        }
+      ]
+    },
+    "حَمْل": {
+      "etymology": "Form I verbal noun حَمْل (ḥaml, 'carrying, bearing, load') from حَمَلَ (ḥamala, 'to carry, lift'), root ح-م-ل (ḥ-m-l). Distinct in vocalization from حِمْل ('burden/cargo'), though both derive from the same root.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ح-م-ل",
+          "kind": "root",
+          "meaning": "carry; lift; bear"
+        },
+        {
+          "part": "فَعْل",
+          "kind": "pattern",
+          "meaning": "Form I verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "حَمَلَ -> حَمْل (ḥaml)",
+          "meaning": "to carry -> carrying, load",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: حمل (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AD%D9%85%D9%84#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "حمل",
+          "gloss": "to carry"
+        },
+        {
+          "word": "محمل",
+          "gloss": "rack"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Aramaic",
+          "word": "חֲמַל",
+          "meaning": "load, gather"
         }
       ]
     },
@@ -17609,6 +18789,42 @@
         }
       ]
     },
+    "خربطة": {
+      "etymology": "Colloquial Levantine feminine noun خَرْبَطَة (ḵarbaṭa, 'mix-up, mess, jumble, confusion'), verbal noun of the quadriliteral verb خَرْبَطَ (ḵarbaṭa, 'to scramble, mess up'). Expressive colloquial formation likely blending خَرَبَ ('to ruin') and لَخْبَطَ / خَبَطَ ('to mix/jumble').",
+      "certainty": "likely",
+      "morphemes": [
+        {
+          "part": "خ-ر-ب-ط",
+          "kind": "root",
+          "meaning": "mess up; scramble"
+        },
+        {
+          "part": "فَعْلَلَة",
+          "kind": "pattern",
+          "meaning": "quadriliteral verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Levantine Arabic",
+          "form": "خربط -> خربطة (ḵarbaṭa)",
+          "meaning": "to jumble -> mix-up, mess",
+          "certainty": "likely"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: خربطة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AE%D8%B1%D8%A8%D8%B7%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "تلخبط",
+          "gloss": "to get mixed up"
+        }
+      ]
+    },
     "خردوات": {
       "etymology": "Plural noun خُرْدَوَات (ḫurdawāt, 'hardware, small metal wares, sundries'), borrowed via Ottoman Turkish hırdavat from Persian خُرْدَه (xurda, 'small piece, fragment, retail item') with the Arabic feminine plural ending -āt.",
       "certainty": "established",
@@ -18133,6 +19349,42 @@
         }
       ]
     },
+    "خفة": {
+      "etymology": "Feminine abstract noun خِفَّة (ḵiffa, 'lightness, deftness, gentleness') from خَفَّ (ḵaffa, 'to be light in weight'), geminate root خ-ف-ف (ḵ-f-f). With بـ, بخفة means 'lightly, gently, deftly'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "خ-ف-ف",
+          "kind": "root",
+          "meaning": "light; swift; gentle"
+        },
+        {
+          "part": "فِعْلَة",
+          "kind": "pattern",
+          "meaning": "abstract quality noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "خَفَّ -> خِفَّة (ḵiffa)",
+          "meaning": "to be light -> lightness, agility",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: خفة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AE%D9%81%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "خفيف",
+          "gloss": "light"
+        }
+      ]
+    },
     "خفق": {
       "etymology": "Form I verb خَفَقَ (ḫafaqa, 'to beat, throb, flutter; in cooking, to whisk or whip eggs and cream until light'), root خ-ف-ق (ḫ-f-q).",
       "certainty": "established",
@@ -18323,6 +19575,46 @@
     },
     "خلص": {
       "etymology": "This word is derived from the Arabic root. It is commonly used in everyday Levantine and Jordanian spoken Arabic to mean all right; enough."
+    },
+    "خلطة": {
+      "etymology": "Feminine noun خَلْطَة (ḵalṭa, 'mixture, blend, glaze, concoction'), an instance noun from خَلَطَ (ḵalaṭa, 'to mix, blend'), root خ-ل-ط (ḵ-l-ṭ). Standard in Levantine cooking for dough mixes, spice blends, and sugar glazes.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "خ-ل-ط",
+          "kind": "root",
+          "meaning": "mix; blend"
+        },
+        {
+          "part": "فَعْلَة",
+          "kind": "pattern",
+          "meaning": "single instance/product noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "خَلَطَ -> خَلْطَة (ḵalṭa)",
+          "meaning": "to mix -> mixture, blend",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: خلطة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%AE%D9%84%D8%B7%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "خلط",
+          "gloss": "to mix"
+        },
+        {
+          "word": "اختلط",
+          "gloss": "to mingle"
+        }
+      ]
     },
     "خلفي": {
       "etymology": "Relational (nisba) adjective خَلْفِيّ (ḫalfiyy, 'back, rear, posterior') formed from خَلْف (ḫalfa, 'behind, at the back of'), root خ-ل-ف (ḫ-l-ف).",
@@ -18925,6 +20217,71 @@
           "part": "ذ-و-ق",
           "kind": "root",
           "meaning": "tasting"
+        }
+      ]
+    },
+    "دان": {
+      "etymology": "Spoken Levantine feminine noun دَان (dān, 'ear'), reduced from earlier إِذْن / أُذُن (ʾuḏun, 'ear') via syncope of the initial vowel and *ḏ > d shift (retained in dual دِينَيْن 'two ears'). Traces back to Proto-Semitic *ʾuḏn- ('ear').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "أ-ذ-ن",
+          "kind": "root",
+          "meaning": "ear; listen; permit"
+        },
+        {
+          "part": "دَان",
+          "kind": "stem",
+          "meaning": "colloquial phonetic reduction of ʾuḏun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Proto-Semitic",
+          "form": "*ʾuḏn-",
+          "meaning": "ear",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "أُذُن (ʾuḏun)",
+          "meaning": "ear",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "دان / دينين (dān / dīnēn)",
+          "meaning": "ear / ears",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: أذن (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%A3%D8%B0%D9%86#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "أذّن",
+          "gloss": "to call to prayer"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "אֹזֶן (ʾōzen)",
+          "meaning": "ear"
+        },
+        {
+          "lang": "Aramaic",
+          "word": "אֻדְנָא (ʾuḏnā)",
+          "meaning": "ear"
+        },
+        {
+          "lang": "Akkadian",
+          "word": "uznu",
+          "meaning": "ear"
         }
       ]
     },
@@ -19979,6 +21336,60 @@
           "part": "د-ه-ن",
           "kind": "root",
           "meaning": "oiling; coating; painting"
+        }
+      ]
+    },
+    "دهب": {
+      "etymology": "Spoken Jordanian and Levantine pronunciation and spelling دَهَب (dahab, 'gold') of Classical ذَهَب (ḏahab), showing the urban Levantine sound change of interdental /ḏ/ > stop /d/. Inherited from Proto-Semitic *ḏahab- ('gold').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ذ-ه-ب",
+          "kind": "root",
+          "meaning": "gold"
+        },
+        {
+          "part": "فَعَل",
+          "kind": "pattern",
+          "meaning": "primary noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Proto-Semitic",
+          "form": "*ḏahab-",
+          "meaning": "gold",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "ذَهَب (ḏahab)",
+          "meaning": "gold",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "دهب (dahab)",
+          "meaning": "gold",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: ذهب (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B0%D9%87%D8%A8#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "זָהָב (zāhāḇ)",
+          "meaning": "gold"
+        },
+        {
+          "lang": "Aramaic",
+          "word": "דְּהַב (dəhaḇ)",
+          "meaning": "gold"
         }
       ]
     },
@@ -21949,6 +23360,49 @@
           "part": "فَعِيل",
           "kind": "pattern",
           "meaning": "stative adjective"
+        }
+      ]
+    },
+    "رقاقة": {
+      "etymology": "Feminine noun رُقَاقَة (ruqāqa, 'thin flake, crisp wafer, flat bread sheet') from the adjective رَقِيق (raqīq, 'thin, delicate'), root ر-ق-ق (r-q-q, 'thin, fine'). Its broken plural رَقَائِق (raqāʾiq) is used for almond flakes, pastry sheets, and cereal flakes.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ر-ق-ق",
+          "kind": "root",
+          "meaning": "thin; fine; delicate"
+        },
+        {
+          "part": "فُعَالَة",
+          "kind": "pattern",
+          "meaning": "thin/detached piece noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "رَقَّ -> رُقَاقَة (ruqāqa)",
+          "meaning": "to be thin -> thin sheet, flake",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: رقاقة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B1%D9%82%D8%A7%D9%82%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "رقيق",
+          "gloss": "thin; delicate"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "רָקִיק (rāqīq)",
+          "meaning": "wafer, thin cake"
         }
       ]
     },
@@ -24489,6 +25943,55 @@
         }
       ]
     },
+    "سكة": {
+      "etymology": "Feminine noun سِكَّة (sikka, 'track, paved road, railway line, die for minting coins'), inherited from Classical Arabic and cognate with Aramaic סִכְּתָא (sikkəṯā, 'peg, ploughshare'). From 'row of trees / plough furrow / coin die' it naturally became the standard word for a railway track (سكة الحديد).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "س-ك-ك",
+          "kind": "root",
+          "meaning": "row; furrow; rail"
+        },
+        {
+          "part": "فِعْلَة",
+          "kind": "pattern",
+          "meaning": "concrete noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Aramaic",
+          "form": "סִכְּתָא (sikkəṯā)",
+          "meaning": "peg, ploughshare",
+          "certainty": "likely"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "سِكَّة (sikka)",
+          "meaning": "alley, coin die, straight track",
+          "certainty": "established"
+        },
+        {
+          "stage": "Modern Arabic",
+          "form": "سكة (sikka)",
+          "meaning": "railway track, route",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: سكة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B3%D9%83%D8%A9#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Syriac",
+          "word": "ܣܟܬܐ (sekkəṯā)",
+          "meaning": "peg, nail"
+        }
+      ]
+    },
     "سكت": {
       "etymology": "Form I verb سَكَتَ (sakata, 'to fall silent, become quiet, stop speaking'), cognate with Hebrew שָׁקַט (šāqaṭ, 'to be quiet, at rest'), root س-ك-ت (s-k-t).",
       "certainty": "established",
@@ -25483,6 +26986,52 @@
         }
       ]
     },
+    "سوى": {
+      "etymology": "Colloquial defective verb سِوِي / سَوَى (siwi / yiswa, 'to be worth, equal in value'), phonetic development of Classical سَاوَى (sāwā, Form III of س-و-ي 'to be equal, level'). In Jordanian speech, قديش بيسوى ('how much is it worth?') is one of the commonest shopping and figurative expressions.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "س-و-ي",
+          "kind": "root",
+          "meaning": "equal; level; worth"
+        },
+        {
+          "part": "فَعِيَ",
+          "kind": "pattern",
+          "meaning": "Levantine stative defective verb"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "سَاوَى (sāwā)",
+          "meaning": "to equal, be worth",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "سوى / يسوى (yiswa)",
+          "meaning": "to be worth",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: سوى (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B3%D9%88%D9%89#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "مستوي",
+          "gloss": "ripe; level"
+        },
+        {
+          "word": "سوا",
+          "gloss": "together"
+        }
+      ]
+    },
     "سوّى": {
       "etymology": "This word is derived from the Arabic root. It is commonly used in everyday Levantine and Jordanian spoken Arabic to mean I levelled / fixed."
     },
@@ -26119,6 +27668,42 @@
           "lang": "Hebrew",
           "word": "שְׂבָכָה",
           "meaning": "lattice, network"
+        }
+      ]
+    },
+    "شبه": {
+      "etymology": "Form I transitive verb شَبِهَ (šabiha, 'to resemble, look like'), built on the root ش-ب-ه (š-b-h, 'likeness, similarity'). While Classical Arabic often uses Form III شَابَهَ or أَشْبَهَ, spoken Levantine uses Form I بيشبه directly with an object.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ش-ب-ه",
+          "kind": "root",
+          "meaning": "resemble; likeness"
+        },
+        {
+          "part": "فَعِلَ",
+          "kind": "pattern",
+          "meaning": "Form I stative verb"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "شَبِهَ / شَابَهَ (šabiha)",
+          "meaning": "to resemble",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: شبه (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B4%D8%A8%D9%87#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "شبيه",
+          "gloss": "similar"
         }
       ]
     },
@@ -27656,6 +29241,58 @@
         }
       ]
     },
+    "شَقّ": {
+      "etymology": "Masculine geminate noun شَقّ (šaqq, 'crack, split, slit, cleft'; plural شُقُوق) from the Form I verb شَقَّ (šaqqa, 'to split, cleave, tear open'), built on the Semitic root ش-ق-ق (š-q-q). Used in baking and carpentry alike for cracks in crusts or wood.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ش-ق-ق",
+          "kind": "root",
+          "meaning": "split; crack; cleave"
+        },
+        {
+          "part": "فَعْل",
+          "kind": "pattern",
+          "meaning": "Form I verbal/result noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "شَقَّ -> شَقّ (šaqq)",
+          "meaning": "to split -> crack, fissure",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: شق (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B4%D9%82#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "شق",
+          "gloss": "to split; crack"
+        },
+        {
+          "word": "شقة",
+          "gloss": "apartment"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "שָׁקַק",
+          "meaning": "rush, cleft"
+        },
+        {
+          "lang": "Ge'ez",
+          "word": "śaqaqa",
+          "meaning": "split, tear"
+        }
+      ]
+    },
     "صاب": {
       "etymology": "Spoken Arabic reflex of Classical Arabic أَصَابَ (ʾaṣāba, 'to hit the mark, strike, befall, afflict') merged with Form I صَابَ (ṣāba, 'to pour down, descend directly upon a target'), from the hollow root ص-و-ب (ṣ-w-b, 'going straight to the mark').",
       "certainty": "established",
@@ -28693,6 +30330,54 @@
         {
           "title": "Wiktionary: صفحة (Arabic)",
           "url": "https://en.wiktionary.org/wiki/%D8%B5%D9%81%D8%AD%D8%A9#Arabic"
+        }
+      ]
+    },
+    "صفر": {
+      "etymology": "Arabic numeral صِفْر (ṣifr, 'zero, nothing, empty') from صَفِرَ (ṣafira, 'to be empty'), root ص-ف-ر (ṣ-f-r, 'empty, bare'). Classical Arab mathematicians used صِفْر to translate Sanskrit sunya ('void'); borrowed into Medieval Latin as zephirum and cifra, giving English both 'zero' and 'cipher'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ص-ف-ر",
+          "kind": "root",
+          "meaning": "empty; bare; zero"
+        },
+        {
+          "part": "فِعْل",
+          "kind": "pattern",
+          "meaning": "substantive noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "صِفْر (ṣifr)",
+          "meaning": "empty, zero",
+          "certainty": "established"
+        },
+        {
+          "stage": "Medieval Latin",
+          "form": "zephirum / cifra",
+          "meaning": "zero, numeral sign",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: صفر (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B5%D9%81%D8%B1#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Italian",
+          "word": "zero",
+          "meaning": "zero"
+        },
+        {
+          "lang": "English",
+          "word": "zero / cipher",
+          "meaning": "zero / code"
         }
       ]
     },
@@ -30122,6 +31807,42 @@
         }
       ]
     },
+    "طالب": {
+      "etymology": "Masculine noun طَالِب (ṭālib, 'student, seeker'; plural طُلَّاب), the active participle of طَلَبَ (ṭalaba, 'to seek, request, pursue'), root ط-ل-ب (ṭ-l-b). Short for طالب علم ('seeker of knowledge'), which became the universal Arabic word for a school or university student.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ط-ل-ب",
+          "kind": "root",
+          "meaning": "seek; ask; pursue"
+        },
+        {
+          "part": "فَاعِل",
+          "kind": "pattern",
+          "meaning": "active participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "طَلَبَ -> طَالِب (عِلْم) (ṭālib)",
+          "meaning": "to seek -> seeker (of knowledge), student",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: طالب (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B7%D8%A7%D9%84%D8%A8#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "طلب",
+          "gloss": "to ask; order"
+        }
+      ]
+    },
     "طالع": {
       "etymology": "From Classical Arabic طَالِع (ṭāliʿ, 'rising, ascending, coming out, going up'), active participle of طَلَعَ (ṭalaʿa, 'to rise, ascend, emerge').",
       "certainty": "established",
@@ -30759,6 +32480,43 @@
           "part": "ط-ل-ل",
           "kind": "root",
           "meaning": "appearing; peeking out"
+        }
+      ]
+    },
+    "طلاء": {
+      "etymology": "Masculine noun طِلَاء (ṭilāʾ, 'coat, paint, varnish, sugar glaze') from طَلَى (ṭalā, 'to smear, coat, glaze'), defective root ط-ل-ي (ṭ-l-y, 'to coat, anoint'). In baking it names a smooth poured icing or sugar glaze.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ط-ل-ي",
+          "kind": "root",
+          "meaning": "coat; paint; glaze"
+        },
+        {
+          "part": "فِعَال",
+          "kind": "pattern",
+          "meaning": "substance/covering noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "طَلَى -> طِلَاء (ṭilāʾ)",
+          "meaning": "to smear/coat -> coating, glaze",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: طلاء (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B7%D9%84%D8%A7%D8%A1#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "טָלָה (ṭālā)",
+          "meaning": "to patch, cover"
         }
       ]
     },
@@ -31486,6 +33244,49 @@
           "part": "فَاعِلِيّ (nisba adjective)",
           "kind": "pattern",
           "meaning": "relating to"
+        }
+      ]
+    },
+    "عاجل": {
+      "etymology": "Active participle adjective عَاجِل (ʿājil, 'urgent, immediate, pressing, hasty') from عَجِلَ (ʿajila, 'to hurry, hasten'), root ع-ج-ل (ʿ-j-l, 'speed, haste'). Contrasts with آجل ('deferred, later') and labels urgent dispatches and news.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ع-ج-ل",
+          "kind": "root",
+          "meaning": "hurry; swift"
+        },
+        {
+          "part": "فَاعِل",
+          "kind": "pattern",
+          "meaning": "active participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "عَجِلَ -> عَاجِل (ʿājil)",
+          "meaning": "to hurry -> swift, urgent",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: عاجل (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B9%D8%A7%D8%AC%D9%84#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "عجلة",
+          "gloss": "hurry; wheel"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Aramaic",
+          "word": "עֲגַל",
+          "meaning": "quickly"
         }
       ]
     },
@@ -33321,6 +35122,36 @@
         }
       ]
     },
+    "عكاز": {
+      "etymology": "Masculine noun عُكَّاز (ʿukkāz, 'walking stick, staff, crutch'; also feminine عُكَّازَة) from the root ع-ك-ز (ʿ-k-z, 'to lean on a staff'). Originally an iron-tipped walking staff used by travellers and shepherds, now also a hiker's stick or medical crutch.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ع-ك-ز",
+          "kind": "root",
+          "meaning": "lean on a staff"
+        },
+        {
+          "part": "فُعَّال",
+          "kind": "pattern",
+          "meaning": "instrument/intensive noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "عَكَزَ -> عُكَّاز (ʿukkāz)",
+          "meaning": "to lean on a staff -> walking stick, crutch",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: عكاز (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B9%D9%83%D8%A7%D8%B2#Arabic"
+        }
+      ]
+    },
     "علامة": {
       "etymology": "From Classical Arabic عَلَامَة (ʿalāma, 'mark, sign, token, badge; grade/score'), from the root ع-ل-م (ʿ-l-m, 'mark, sign, knowledge', originally 'distinguishing landmark in the desert').",
       "certainty": "established",
@@ -34049,6 +35880,46 @@
         }
       ]
     },
+    "عودة": {
+      "etymology": "Feminine verbal noun عَوْدَة (ʿawda, 'return, coming back') from the hollow verb عَادَ (ʿāda, 'to return, come back'), root ع-و-د (ʿ-w-d). Common in welcoming expressions upon someone's arrival home.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ع-و-د",
+          "kind": "root",
+          "meaning": "return; repeat"
+        },
+        {
+          "part": "فَعْلَة",
+          "kind": "pattern",
+          "meaning": "verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "عَادَ -> عَوْدَة (ʿawda)",
+          "meaning": "to return -> return, homecoming",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: عودة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%B9%D9%88%D8%AF%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "عاد",
+          "gloss": "to return"
+        },
+        {
+          "word": "إعادة",
+          "gloss": "repeat"
+        }
+      ]
+    },
     "عيب": {
       "etymology": "From Classical Arabic عَيْب (ʿayb, 'fault, defect, blemish, flaw; shame, disgraceful or rude act'), from عَابَ (ʿāba, 'to be defective, marred; to find fault with'). Used as an interjection ('shame!, how rude!').",
       "certainty": "established",
@@ -34491,6 +36362,42 @@
         }
       ]
     },
+    "غباش": {
+      "etymology": "Colloquial Levantine noun غَبَاش (ġabāš, 'blurriness, mist, dim haze') from the root غ-ب-ش (ġ-b-š, 'pre-dawn darkness, dim light, indistinctness'). Related to Classical غَبَش (ġabaš, 'dimness just before dawn'), shifting in spoken Arabic to hazy sight or blurred print.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "غ-ب-ش",
+          "kind": "root",
+          "meaning": "dimness; haze; twilight"
+        },
+        {
+          "part": "فَعَال",
+          "kind": "pattern",
+          "meaning": "abstract/state noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "غَبَش (ġabaš)",
+          "meaning": "dim darkness before dawn",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "غباش (ġabāš)",
+          "meaning": "blurriness, haze, fog",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: غباش (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%BA%D8%A8%D8%A7%D8%B4#Arabic"
+        }
+      ]
+    },
     "غبرة": {
       "etymology": "From Classical Arabic غَبْرَة / غَبَرَة (ḡabra / ḡabara, 'dust, cloud of fine dust'), singulative/noun from غَبَرَ (ḡabara, 'to raise dust, be dust-coloured'), from the root غ-ب-ر (ḡ-b-r, 'dust').",
       "certainty": "established",
@@ -34600,6 +36507,42 @@
         {
           "url": "https://en.wiktionary.org/wiki/Appendix:Arabic_roots",
           "title": "Wiktionary"
+        }
+      ]
+    },
+    "غرض": {
+      "etymology": "Masculine noun غَرَض (ġaraḍ, 'aim, purpose; needed item, errand'; plural أَغْرَاض) from غَرِضَ (ġariḍa), root غ-ر-ض (ġ-r-ḍ, 'target, aim, wish'). In everyday Levantine speech, the plural أغراض ('things, belongings, groceries') is far more frequent than the abstract singular.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "غ-ر-ض",
+          "kind": "root",
+          "meaning": "aim; target; item"
+        },
+        {
+          "part": "فَعَل",
+          "kind": "pattern",
+          "meaning": "substantive noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "غَرَض (ġaraḍ)",
+          "meaning": "target, aim, desire",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "غرض / أغراض (ʾaġrāḍ)",
+          "meaning": "item, errand / belongings, things",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: غرض (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D8%BA%D8%B1%D8%B6#Arabic"
         }
       ]
     },
@@ -35424,6 +37367,52 @@
           "part": "فَاعِل (active participle)",
           "kind": "pattern",
           "meaning": "strikingly bright or vivid"
+        }
+      ]
+    },
+    "فاكر": {
+      "etymology": "Active participle adjective فَاكِر (fākir, 'remembering, keeping in mind') from فَكَرَ (fakara, 'to think, reflect'), root ف-ك-ر (f-k-r). Widespread in Egyptian and Levantine Arabic as a stative predicate meaning 'I/you/she remembers' (matching فاكرة).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ف-ك-ر",
+          "kind": "root",
+          "meaning": "think; reflect; remember"
+        },
+        {
+          "part": "فَاعِل",
+          "kind": "pattern",
+          "meaning": "active participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "فَكَرَ -> فَاكِر (fākir)",
+          "meaning": "to reflect -> thinking",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine & Egyptian Arabic",
+          "form": "فاكر (fākir)",
+          "meaning": "remembering, mindful",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: فاكر (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%81%D8%A7%D9%83%D8%B1#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "فكرة",
+          "gloss": "idea"
+        },
+        {
+          "word": "فكّر",
+          "gloss": "to think"
         }
       ]
     },
@@ -36601,6 +38590,49 @@
         }
       ]
     },
+    "فعلا": {
+      "etymology": "Adverb فِعْلًا (fiʿlan, 'actually, in deed, indeed, really'), formed from the indefinite accusative (-an) of فِعْل (fiʿl, 'act, deed'), root ف-ع-ل (f-ʿ-l, 'to do, act'). Literally 'in action / in reality', as opposed to mere appearance.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ف-ع-ل",
+          "kind": "root",
+          "meaning": "do; act; deed"
+        },
+        {
+          "part": "ـًا",
+          "kind": "suffix",
+          "meaning": "adverbial accusative ending"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "فِعْل -> فِعْلًا (fiʿlan)",
+          "meaning": "deed -> in fact, indeed, actually",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: فعلا (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%81%D8%B9%D9%84%D8%A7#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "فعل",
+          "gloss": "verb; deed"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "פֹּעַל (pōʿal)",
+          "meaning": "deed, work"
+        }
+      ]
+    },
     "فقاعة": {
       "etymology": "From Classical Arabic فُقَّاعَة (fuqqāʿa, 'bubble on water or liquid'), intensive singulative noun on the pattern فُعَّالَة (fuʿʿāla) from فَقَعَ (faqaʿa, 'to burst, pop, crack').",
       "certainty": "established",
@@ -37349,6 +39381,42 @@
         }
       ]
     },
+    "فيّ": {
+      "etymology": "Colloquial Levantine masculine noun فَيّ (fayy, 'shade, shadow'), inherited from Classical فَيْء (fayʾ, 'returning shadow, afternoon shade') from فَاءَ (fāʾa, 'to return'), root ف-ي-أ (f-y-ʾ). Specifically denotes pleasant cooling shade as the sun turns, with normal loss of final glottal stop in spoken speech.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ف-ي-أ",
+          "kind": "root",
+          "meaning": "return; shift shadow"
+        },
+        {
+          "part": "فَعْل",
+          "kind": "pattern",
+          "meaning": "verbal/substantive noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "فَيْء (fayʾ)",
+          "meaning": "afternoon shade",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "فيّ (fayy)",
+          "meaning": "shade, shadow",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: فيء (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%81%D9%8A%D8%A1#Arabic"
+        }
+      ]
+    },
     "قائمة": {
       "etymology": "Feminine active participle (فَاعِلَة) of قَامَ (qāma, 'to stand upright'), from root ق-و-م: a vertical column or standing register of items, hence a written 'list' or café 'menu'.",
       "morphemes": [
@@ -37797,6 +39865,42 @@
     },
     "قبال": {
       "etymology": "Derived from the root ق-ب-ل (q-b-l) relating to front or facing. A colloquial contraction of Classical Arabic 'قُبَالَة' (qubāla), meaning opposite or in front of."
+    },
+    "قبعة": {
+      "etymology": "Feminine noun قُبَّعَة (qubbaʿa, 'hat, cap, hood'), derived from the root ق-ب-ع (q-b-ʿ, 'to draw one's head in, dome/cup shape'), related to قُبَّة ('dome'). Standard modern Arabic for any brimmed hat or cap.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ق-ب-ع",
+          "kind": "root",
+          "meaning": "cover head; hollow; hood"
+        },
+        {
+          "part": "فُعَّلَة",
+          "kind": "pattern",
+          "meaning": "garment/receptacle noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "قَبَعَ -> قُبَّعَة (qubbaʿa)",
+          "meaning": "to tuck head in -> hood, lark crest, hat",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: قبعة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%82%D8%A8%D8%B9%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "قبة",
+          "gloss": "dome"
+        }
+      ]
     },
     "قبل": {
       "etymology": "From the root ق-ب-ل (q-b-l) denoting priority or facing. Directly descends from Classical Arabic 'قَبْلَ' (qabla). Typical rural/Bedouin-influenced Jordanian pronunciation uses 'g' instead of 'q'."
@@ -38281,6 +40385,48 @@
           "part": "فَعَلَ / فِعْل (Form I verb and noun)",
           "kind": "pattern",
           "meaning": "dividing or a divided part"
+        }
+      ]
+    },
+    "قش": {
+      "etymology": "Collective masculine noun قَشّ (qašš, 'straw, dry stalks, chaff') from قَشَّ (qašša, 'to gather dry scraps, sweep'), geminate root ق-ش-ش (q-š-š). Used across Arabic for straw hats, woven baskets, and dried stalks.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ق-ش-ش",
+          "kind": "root",
+          "meaning": "gather dry bits; straw"
+        },
+        {
+          "part": "فَعْل",
+          "kind": "pattern",
+          "meaning": "collective noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "قَشَّ -> قَشّ (qašš)",
+          "meaning": "to gather dry scraps -> straw, stubble",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: قش (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%82%D8%B4#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "קַשׁ (qaš)",
+          "meaning": "straw, stubble"
+        },
+        {
+          "lang": "Aramaic",
+          "word": "קַשָּׁא (qaššā)",
+          "meaning": "straw"
         }
       ]
     },
@@ -40529,6 +42675,59 @@
         }
       ]
     },
+    "كف": {
+      "etymology": "Traditionally feminine geminate noun كَفّ (kaff, 'palm of the hand, flat hand; glove'), inherited from Proto-Semitic *kapp- ('palm, hollow of hand, sole'). The same Semitic root gave Hebrew/Phoenician the letter name kaph ('palm') and via Greek kappa the Latin letter K.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ك-ف-ف",
+          "kind": "root",
+          "meaning": "palm; cup; refrain"
+        },
+        {
+          "part": "فَعْل",
+          "kind": "pattern",
+          "meaning": "body-part noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Proto-Semitic",
+          "form": "*kapp-",
+          "meaning": "palm of the hand",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "كَفّ (kaff)",
+          "meaning": "palm, hand",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: كف (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%83%D9%81#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "כַּף (kap̄)",
+          "meaning": "palm, spoon"
+        },
+        {
+          "lang": "Aramaic",
+          "word": "כַּפָּא (kappā)",
+          "meaning": "palm, hollow"
+        },
+        {
+          "lang": "Akkadian",
+          "word": "kappu",
+          "meaning": "palm, wing"
+        }
+      ]
+    },
     "كفّ": {
       "etymology": "This word is derived from the Arabic root. It is commonly used in everyday Levantine and Jordanian spoken Arabic to mean mitts; gloves."
     },
@@ -40702,6 +42901,60 @@
     },
     "كمان": {
       "etymology": "Etymology is debated; generally considered a fusion of 'كَمَا' (kamā, just as) + 'أَنَّ' (anna, that). It evolved in spoken dialects to a general additive particle."
+    },
+    "كمانجة": {
+      "etymology": "Everyday Arabic feminine noun كَمَنْجَة / كَمَانْجَة (kamanja / kamānja, 'violin, fiddle'), borrowed from Persian کمانچه (kamānče, 'little bow'), a diminutive of کمان (kamān, 'bow, arc') + -če ('little'). Originally referring to the spike fiddle played with a bow, it became the common spoken word for the modern violin alongside كمان.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "kamān",
+          "kind": "stem",
+          "meaning": "Persian 'bow'"
+        },
+        {
+          "part": "-če",
+          "kind": "suffix",
+          "meaning": "Persian diminutive suffix"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Persian",
+          "form": "کمانچه (kamānče)",
+          "meaning": "little bow, spike fiddle",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine & Egyptian Arabic",
+          "form": "كمانجة (kamanja)",
+          "meaning": "violin",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: كمانجة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%83%D9%85%D8%A7%D9%86%D8%AC%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "كمان",
+          "gloss": "violin"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Persian",
+          "word": "کمانچه (kamānče)",
+          "meaning": "spike fiddle"
+        },
+        {
+          "lang": "Turkish",
+          "word": "kemençe",
+          "meaning": "fiddle"
+        }
+      ]
     },
     "كمانجته": {
       "etymology": "From 'كمانجة' (kamanga, violin), borrowed from Persian 'kamanche' (a bowed string instrument) + the Arabic possessive pronoun suffix 'ـه' (-hu/-u, his)."
@@ -42886,6 +45139,46 @@
         }
       ]
     },
+    "لُطف": {
+      "etymology": "Masculine abstract noun لُطْف (luṭf, 'gentleness, kindness, delicacy, courtesy') from لَطُفَ (laṭufa, 'to be gentle, fine, gracious'), root ل-ط-ف (l-ṭ-f). Contrasts in pattern with the verb لَطَفَ ('to soften').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ل-ط-ف",
+          "kind": "root",
+          "meaning": "gentle; kind; subtle"
+        },
+        {
+          "part": "فُعْل",
+          "kind": "pattern",
+          "meaning": "stative abstract noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "لَطُفَ -> لُطْف (luṭf)",
+          "meaning": "to be gentle -> kindness, delicacy",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: لطف (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%84%D8%B7%D9%81#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "لطيف",
+          "gloss": "kind; nice"
+        },
+        {
+          "word": "لطف",
+          "gloss": "to soften; lighten"
+        }
+      ]
+    },
     "مألوف": {
       "etymology": "From Classical Arabic مَأْلُوف (maʾlūf, 'familiar, customary, accustomed, well-known'), Form I passive participle (on pattern مَفْعُول mafʿūl) of أَلِفَ (ʾalifa, 'to become accustomed to, be familiar or friendly with').",
       "certainty": "established",
@@ -42913,6 +45206,36 @@
           "part": "مَفْعُول (passive participle)",
           "kind": "pattern",
           "meaning": "that which one is accustomed to"
+        }
+      ]
+    },
+    "مؤدب": {
+      "etymology": "Form II passive participle adjective مُؤَدَّب (muʾaddab, 'polite, well-bred, courteous') from أَدَّبَ (ʾaddaba, 'to teach good manners, educate'), root أ-د-ب (ʾ-d-b, 'manners, literature, etiquette'). Literally 'one who has been cultured in good manners'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "أ-د-ب",
+          "kind": "root",
+          "meaning": "manners; refinement; culture"
+        },
+        {
+          "part": "مُفَعَّل",
+          "kind": "pattern",
+          "meaning": "Form II passive participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "أَدَب -> أَدَّبَ -> مُؤَدَّب (muʾaddab)",
+          "meaning": "manners -> to teach manners -> polite",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مودب (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D9%88%D8%AF%D8%A8#Arabic"
         }
       ]
     },
@@ -43272,6 +45595,36 @@
         }
       ]
     },
+    "مباشرة": {
+      "etymology": "Adverb مُبَاشَرَةً (mubāšaratan, 'directly, immediately, straight away, live') formed from the feminine Form III participle of بَاشَرَ (bāšara, 'to touch directly, undertake in person'), root ب-ش-ر (b-š-r, 'skin, direct contact'). Literally 'skin-to-skin / without intermediary', hence 'directly'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ب-ش-ر",
+          "kind": "root",
+          "meaning": "skin; direct contact; announce"
+        },
+        {
+          "part": "مُفَاعَلَةً",
+          "kind": "pattern",
+          "meaning": "Form III adverbial verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "بَاشَرَ -> مُبَاشَرَةً (mubāšaratan)",
+          "meaning": "to handle directly -> directly, at once",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مباشرة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9#Arabic"
+        }
+      ]
+    },
     "مبتسم": {
       "etymology": "Form VIII active participle مُبْتَسِم (mubtasim, 'smiling, beaming') from اِبْتَسَمَ (ibtasama, 'to smile'), derived from بَسَمَ (basama, 'to smile gently') on the root ب-س-م (b-s-m).",
       "certainty": "established",
@@ -43419,6 +45772,59 @@
           "part": "ب-ط-ن",
           "kind": "root",
           "meaning": "interior; lining"
+        }
+      ]
+    },
+    "مبكر": {
+      "etymology": "Form II active participle adjective مُبَكِّر (mubakkir, 'early, ahead of the usual time') from بَكَّرَ (bakkara, 'to rise or act early in the morning'), root ب-ك-ر (b-k-r, 'firstborn, dawn, early'). Used in formal and literary phrases like الموعد المبكر ('the early appointment').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ب-ك-ر",
+          "kind": "root",
+          "meaning": "early morning; first"
+        },
+        {
+          "part": "مُفَعِّل",
+          "kind": "pattern",
+          "meaning": "Form II active participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Proto-Semitic",
+          "form": "*bkr",
+          "meaning": "firstborn, early",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "بَكَّرَ -> مُبَكِّر (mubakkir)",
+          "meaning": "to start at dawn -> early",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مبكر (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%A8%D9%83%D8%B1#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "بكرة",
+          "gloss": "tomorrow"
+        },
+        {
+          "word": "بدري",
+          "gloss": "early"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Hebrew",
+          "word": "בּוֹקֶר (bōqer)",
+          "meaning": "morning"
         }
       ]
     },
@@ -43636,6 +46042,36 @@
           "part": "ب-د-ل",
           "kind": "root",
           "meaning": "exchanging; replacing"
+        }
+      ]
+    },
+    "متجوّل": {
+      "etymology": "Form V active participle noun/adjective مُتَجَوِّل (mutajawwil, 'roamer, stroller, hiker, itinerant walker') from تَجَوَّلَ (tajawwala, 'to wander about, tour'), hollow root ج-و-ل (j-w-l, 'to go round, roam'). Used for hikers out on trails or wandering visitors.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ج-و-ل",
+          "kind": "root",
+          "meaning": "roam; circle; tour"
+        },
+        {
+          "part": "مُتَفَعِّل",
+          "kind": "pattern",
+          "meaning": "Form V active participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "جَالَ -> تَجَوَّلَ -> مُتَجَوِّل (mutajawwil)",
+          "meaning": "to roam -> to stroll around -> wanderer, hiker",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: متجول (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%AA%D8%AC%D9%88%D9%84#Arabic"
         }
       ]
     },
@@ -44228,6 +46664,46 @@
         }
       ]
     },
+    "محاضرة": {
+      "etymology": "Form III verbal noun مُحَاضَرَة (muḥāḍara, 'lecture, talk, academic class') from حَاضَرَ (ḥāḍara, 'to address an audience present before one'), root ح-ض-ر (ḥ-ḍ-r, 'be present, attend'). Literally 'presenting knowledge face-to-face to those present'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ح-ض-ر",
+          "kind": "root",
+          "meaning": "present; attend; town"
+        },
+        {
+          "part": "مُفَاعَلَة",
+          "kind": "pattern",
+          "meaning": "Form III verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "حَضَرَ -> حَاضَرَ -> مُحَاضَرَة (muḥāḍara)",
+          "meaning": "to be present -> to lecture -> lecture",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: محاضرة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "حضر",
+          "gloss": "to attend"
+        },
+        {
+          "word": "حاضر",
+          "gloss": "ready; present"
+        }
+      ]
+    },
     "محافظ": {
       "etymology": "From an ancient Semitic root for 'keeping'. Widely used in Levantine Arabic.",
       "sources": [
@@ -44354,6 +46830,42 @@
           "part": "مُفْتَعَل",
           "kind": "pattern",
           "meaning": "Form VIII passive participle"
+        }
+      ]
+    },
+    "محجوز": {
+      "etymology": "Form I passive participle adjective مَحْجُوز (maḥjūz, 'reserved, booked, set aside, scheduled') from حَجَزَ (ḥajaza, 'to hold back, partition off, reserve'), root ح-ج-ز (ḥ-j-z). Setting a seat or room apart from general access yields 'booked / reserved'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ح-ج-ز",
+          "kind": "root",
+          "meaning": "separate; hold back; reserve"
+        },
+        {
+          "part": "مَفْعُول",
+          "kind": "pattern",
+          "meaning": "Form I passive participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "حَجَزَ -> مَحْجُوز (maḥjūz)",
+          "meaning": "to partition/reserve -> reserved, booked",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: محجوز (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%AD%D8%AC%D9%88%D8%B2#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "حجز",
+          "gloss": "to book; reserve"
         }
       ]
     },
@@ -44561,6 +47073,36 @@
         }
       ]
     },
+    "محمّص": {
+      "etymology": "Form II passive participle adjective مُحَمَّص (muḥammaṣ, 'toasted, roasted') from حَمَّصَ (ḥammaṣa, 'to roast nuts, coffee beans, or chickpeas in a dry pan'), root ح-م-ص (ḥ-m-ṣ). Related to حمّص ('chickpeas'), originally named for their roasted or hard-seeded nature.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ح-م-ص",
+          "kind": "root",
+          "meaning": "roast dry; toast; chickpea"
+        },
+        {
+          "part": "مُفَعَّل",
+          "kind": "pattern",
+          "meaning": "Form II passive participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "حَمَّصَ -> مُحَمَّص (muḥammaṣ)",
+          "meaning": "to dry-roast -> toasted, roasted",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: محمص (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%AD%D9%85%D8%B5#Arabic"
+        }
+      ]
+    },
     "مخبز": {
       "etymology": "This word is derived from the Arabic root. It is commonly used in everyday Levantine and Jordanian spoken Arabic to mean the bakery."
     },
@@ -44699,6 +47241,42 @@
         {
           "title": "Wiktionary — مخطط (Arabic)",
           "url": "https://en.wiktionary.org/wiki/%D9%85%D8%AE%D8%B7%D8%B7#Arabic"
+        }
+      ]
+    },
+    "مخفوق": {
+      "etymology": "Form I passive participle adjective مَخْفُوق (maḵfūq, 'whisked, whipped, beaten') from خَفَقَ (ḵafaqa, 'to beat rapidly, flutter, whip'), root خ-ف-ق (ḵ-f-q, 'flutter, throb, beat'). Widely used in recipes for whipped cream and beaten eggs.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "خ-ف-ق",
+          "kind": "root",
+          "meaning": "flutter; beat; whisk"
+        },
+        {
+          "part": "مَفْعُول",
+          "kind": "pattern",
+          "meaning": "Form I passive participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "خَفَقَ -> مَخْفُوق (maḵfūq)",
+          "meaning": "to beat/flutter -> whipped, whisked",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مخفوق (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%AE%D9%81%D9%88%D9%82#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "خفق",
+          "gloss": "to whisk; beat"
         }
       ]
     },
@@ -45644,6 +48222,41 @@
         }
       ]
     },
+    "مركزي": {
+      "etymology": "Relative (nisba) adjective مَرْكَزِيّ (markaziyy, 'central, main, focal') derived from مَرْكَز (markaz, 'centre, station, post'), noun of place from رَكَزَ (rakaza, 'to plant firmly in the ground'), root ر-ك-ز (r-k-z). Originally 'the spot where a banner or pole is planted', hence 'centre'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ر-ك-ز",
+          "kind": "root",
+          "meaning": "plant firmly; focus; centre"
+        },
+        {
+          "part": "مَفْعَل",
+          "kind": "pattern",
+          "meaning": "noun of place"
+        },
+        {
+          "part": "ـِيّ",
+          "kind": "suffix",
+          "meaning": "nisba adjective suffix"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "رَكَزَ -> مَرْكَز -> مَرْكَزِيّ (markaziyy)",
+          "meaning": "to plant -> centre -> central",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مركزي (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%B1%D9%83%D8%B2%D9%8A#Arabic"
+        }
+      ]
+    },
     "مروحة": {
       "etymology": "Instrumental noun مِرْوَحَة ('fan, ventilator') formed on the pattern مِفْعَلَة from the hollow root ر-و-ح ('blow gently, breeze, refresh'), originally naming a woven palm-leaf hand fan and in modern Arabic any electric cooling fan.",
       "morphemes": [
@@ -45749,6 +48362,42 @@
         {
           "title": "Wiktionary: مريول (Arabic)",
           "url": "https://en.wiktionary.org/wiki/%D9%85%D8%B1%D9%8A%D9%88%D9%84#Arabic"
+        }
+      ]
+    },
+    "مزاح": {
+      "etymology": "Form III verbal noun مُزَاح (muzāḥ, 'joking, banter, playful teasing') from مَازَحَ (māzaḥa, 'to joke with someone'), root م-ز-ح (m-z-ḥ, 'jest, banter'). Denotes friendly, good-natured humour among peers.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "م-ز-ح",
+          "kind": "root",
+          "meaning": "joke; jest; banter"
+        },
+        {
+          "part": "فُعَال / مُفَاعَلَة",
+          "kind": "pattern",
+          "meaning": "verbal noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "مَزَحَ -> مُزَاح (muzāḥ)",
+          "meaning": "to jest -> joking, banter",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مزاح (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%B2%D8%A7%D8%AD#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "مزح",
+          "gloss": "to joke"
         }
       ]
     },
@@ -47028,6 +49677,42 @@
         }
       ]
     },
+    "مصفوف": {
+      "etymology": "Form I passive participle adjective مَصْفُوف (maṣfūf, 'arranged in rows, lined up, neatly parked') from صَفَّ (ṣaffa, 'to line up in a row, park'), geminate root ص-ف-ف (ṣ-f-f, 'row, rank, line'). Used for parked buses and coaches as well as pastries on a tray.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ص-ف-ف",
+          "kind": "root",
+          "meaning": "row; line up; rank"
+        },
+        {
+          "part": "مَفْعُول",
+          "kind": "pattern",
+          "meaning": "Form I passive participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "صَفَّ -> مَصْفُوف (maṣfūf)",
+          "meaning": "to arrange in rows -> lined up, parked",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مصفوف (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%B5%D9%81%D9%88%D9%81#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "صفّ",
+          "gloss": "row; class"
+        }
+      ]
+    },
     "مصفى": {
       "etymology": "Form II passive participle مُصَفًّى / مْصَفَّى (mṣaffā, 'strained, filtered, drained, clarified') from صَفَّى (ṣaffā, 'to strain, filter, purify, drain') on the root ص-ف-و (ṣ-f-w).",
       "certainty": "established",
@@ -47055,6 +49740,36 @@
           "part": "مُفَعَّل",
           "kind": "pattern",
           "meaning": "Form II passive participle"
+        }
+      ]
+    },
+    "مصقول": {
+      "etymology": "Form I passive participle adjective مَصْقُول (maṣqūl, 'polished, burnished, smooth and gleaming') from صَقَلَ (ṣaqala, 'to polish stone, metal, or wood'), root ص-ق-ل (ṣ-q-l). Describes polished courtyard tiles, glazed ceramics, and smooth prose.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ص-ق-ل",
+          "kind": "root",
+          "meaning": "polish; burnish; smooth"
+        },
+        {
+          "part": "مَفْعُول",
+          "kind": "pattern",
+          "meaning": "Form I passive participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "صَقَلَ -> مَصْقُول (maṣqūl)",
+          "meaning": "to polish -> polished, glossy",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مصقول (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D8%B5%D9%82%D9%88%D9%84#Arabic"
         }
       ]
     },
@@ -48515,6 +51230,42 @@
     "مقسومة": {
       "etymology": "Feminine passive participle of the root q-s-m, meaning to divide, distribute, or partition."
     },
+    "مقطع": {
+      "etymology": "Masculine noun مَقْطَع (maqṭaʿ, 'cut place, passage, section, musical bridge, syllable') from قَطَعَ (qaṭaʿa, 'to cut, divide'), root ق-ط-ع (q-ṭ-ʿ). A clean 'cut' in a song or text naturally names a distinct section or verse.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ق-ط-ع",
+          "kind": "root",
+          "meaning": "cut; divide; cross"
+        },
+        {
+          "part": "مَفْعَل",
+          "kind": "pattern",
+          "meaning": "noun of place/result"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "قَطَعَ -> مَقْطَع (maqṭaʿ)",
+          "meaning": "to cut -> section, passage",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مقطع (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D9%82%D8%B7%D8%B9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "قطع",
+          "gloss": "to cut"
+        }
+      ]
+    },
     "مقعد": {
       "etymology": "Noun of place (مَفْعَد) from root ق-ع-د (q-ʿ-d, 'to sit down'): literally 'a place for sitting', hence a chair seat or garden bench.",
       "morphemes": [
@@ -48559,6 +51310,36 @@
     "مقفول": {
       "etymology": "This word is derived from the Arabic root. It is commonly used in everyday Levantine and Jordanian spoken Arabic to mean locked."
     },
+    "مقلوب": {
+      "etymology": "Form I passive participle adjective مَقْلُوب (maqlūb, 'flipped, upside down, inverted') from قَلَبَ (qalaba, 'to turn upside down, flip'), root ق-ل-ب (q-l-b, 'turn over, invert, heart'). The same root names the famous Levantine dish مقلوبة ('upside-down' rice pot).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ق-ل-ب",
+          "kind": "root",
+          "meaning": "turn; flip; invert"
+        },
+        {
+          "part": "مَفْعُول",
+          "kind": "pattern",
+          "meaning": "Form I passive participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "قَلَبَ -> مَقْلُوب (maqlūb)",
+          "meaning": "to flip -> turned upside down",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مقلوب (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D9%82%D9%84%D9%88%D8%A8#Arabic"
+        }
+      ]
+    },
     "مقلي": {
       "etymology": "Form I passive participle مَقْلِيّ (maqliyy, 'fried, roasted in a pan') from قَلَى (qalā, 'to fry, roast') on the Semitic root ق-ل-ي (q-l-y).",
       "certainty": "established",
@@ -48586,6 +51367,42 @@
           "part": "مَفْعُول",
           "kind": "pattern",
           "meaning": "passive participle"
+        }
+      ]
+    },
+    "مقلّم": {
+      "etymology": "Form II passive participle adjective مُقَلَّم (muqallam, 'striped, ruled with lines, trimmed') from قَلَّمَ (qallama, 'to stripe, cut with a reed pen, trim'), root ق-ل-م (q-l-m, 'reed pen, stripe'). Drawing parallel pen-lines gave the sense 'striped' for fabrics and bags.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ق-ل-م",
+          "kind": "root",
+          "meaning": "reed pen; trim; stripe"
+        },
+        {
+          "part": "مُفَعَّل",
+          "kind": "pattern",
+          "meaning": "Form II passive participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "قَلَم -> قَلَّمَ -> مُقَلَّم (muqallam)",
+          "meaning": "pen -> to draw lines -> striped",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مقلم (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D9%82%D9%84%D9%85#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "قلم",
+          "gloss": "pen"
         }
       ]
     },
@@ -48809,6 +51626,42 @@
         {
           "title": "Wiktionary: مكرم (Arabic)",
           "url": "https://en.wiktionary.org/wiki/%D9%85%D9%83%D8%B1%D9%85#Arabic"
+        }
+      ]
+    },
+    "مكرّم": {
+      "etymology": "Form II passive participle adjective مُكَرَّم (mukarram, 'honoured, revered, esteemed') from كَرَّمَ (karrama, 'to honour, treat generously'), root ك-ر-م (k-r-m, 'nobility, generosity, honour'). Used for guests of honour and respected elders.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ك-ر-م",
+          "kind": "root",
+          "meaning": "noble; generous; honour"
+        },
+        {
+          "part": "مُفَعَّل",
+          "kind": "pattern",
+          "meaning": "Form II passive participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "كَرُمَ -> كَرَّمَ -> مُكَرَّم (mukarram)",
+          "meaning": "to be noble -> to honour -> honoured",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مكرم (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D9%83%D8%B1%D9%85#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "كرم",
+          "gloss": "generosity; vineyard"
         }
       ]
     },
@@ -50294,6 +53147,42 @@
         }
       ]
     },
+    "مورّد": {
+      "etymology": "Form II passive participle adjective مُوَرَّد (muwarrad, 'floral, rose-patterned, rosy') from وَرَّدَ (warrada, 'to tint rose-pink or pattern with flowers'), derived from وَرْد (ward, 'roses, blossoms'), root و-ر-د (w-r-d).",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "و-ر-د",
+          "kind": "root",
+          "meaning": "rose; blossom; arrive"
+        },
+        {
+          "part": "مُفَعَّل",
+          "kind": "pattern",
+          "meaning": "Form II passive participle"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "وَرْد -> مُوَرَّد (muwarrad)",
+          "meaning": "roses -> rose-patterned, floral, rosy",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: مورد (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%85%D9%88%D8%B1%D8%AF#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "وردة",
+          "gloss": "rose"
+        }
+      ]
+    },
     "موزونة": {
       "etymology": "Feminine passive participle of the root w-z-n, meaning weighed or balanced."
     },
@@ -51666,6 +54555,46 @@
         }
       ]
     },
+    "نشّف": {
+      "etymology": "Form II transitive verb نَشَّفَ (naššafa, 'to dry something, wipe dry, drain') from Form I نَشِفَ (našifa, 'to dry out, absorb moisture'), root ن-ش-ف (n-š-f, 'absorb, dry'). Doubling the middle consonant turns intransitive 'become dry' into transitive 'dry something off'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ن-ش-ف",
+          "kind": "root",
+          "meaning": "dry; soak up"
+        },
+        {
+          "part": "فَعَّلَ",
+          "kind": "pattern",
+          "meaning": "Form II causative/transitive"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "نَشِفَ -> نَشَّفَ (naššafa)",
+          "meaning": "to dry up -> to dry (something)",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: نشف (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%86%D8%B4%D9%81#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "نشف",
+          "gloss": "to dry; become dry"
+        },
+        {
+          "word": "ناشف",
+          "gloss": "dry"
+        }
+      ]
+    },
     "نص": {
       "etymology": "Colloquial contraction of the Classical Arabic 'nisf', meaning one half."
     },
@@ -52808,6 +55737,48 @@
         {
           "title": "Wiktionary: هداك (Arabic)",
           "url": "https://en.wiktionary.org/wiki/%D9%87%D8%AF%D8%A7%D9%83#Arabic"
+        }
+      ]
+    },
+    "هداوة": {
+      "etymology": "Colloquial Levantine feminine abstract noun هَدَاوَة (hadāwa, 'calmness, gentleness, unhurried pace') from the root ه-د-أ (h-d-ʾ, 'to be quiet, calm down'), adapted to a final-weak pattern analogously to طراوة / حلاوة. Widely heard in بهداوة ('gently, take it easy').",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "ه-د-أ",
+          "kind": "root",
+          "meaning": "calm; quiet; still"
+        },
+        {
+          "part": "فَعَالَة",
+          "kind": "pattern",
+          "meaning": "abstract quality noun"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Classical Arabic",
+          "form": "هَدَأَ (hadaʾa)",
+          "meaning": "to become calm",
+          "certainty": "established"
+        },
+        {
+          "stage": "Levantine Arabic",
+          "form": "هداوة (hadāwa)",
+          "meaning": "calmness, gentleness",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: هداوة (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%87%D8%AF%D8%A7%D9%88%D8%A9#Arabic"
+        }
+      ],
+      "rootFamily": [
+        {
+          "word": "هادئ",
+          "gloss": "calm"
         }
       ]
     },
@@ -55390,6 +58361,60 @@
         {
           "title": "Wiktionary: ياسمين (Arabic)",
           "url": "https://en.wiktionary.org/wiki/ياسمين#Arabic"
+        }
+      ]
+    },
+    "ياقوت": {
+      "etymology": "Collective masculine noun يَاقُوت (yāqūt, 'ruby, sapphire, corundum'), borrowed in early Arabic via Aramaic יָקוּנְתָּא / Syriac ܝܩܘܢܕܐ from Ancient Greek ὑάκινθος (huákinthos, 'hyacinth stone / blue-red gem'). Arabic mineralogists classified rubies as 'red corundum' (ياقوت أحمر), giving modern 'ruby'.",
+      "certainty": "established",
+      "morphemes": [
+        {
+          "part": "huákinthos",
+          "kind": "stem",
+          "meaning": "Greek gemstone name via Syriac"
+        }
+      ],
+      "history": [
+        {
+          "stage": "Ancient Greek",
+          "form": "ὑάκινθος (huákinthos)",
+          "meaning": "hyacinth flower / precious stone",
+          "certainty": "established"
+        },
+        {
+          "stage": "Syriac",
+          "form": "ܝܩܘܢܕܐ (yāqūndā)",
+          "meaning": "jacinth, ruby",
+          "certainty": "established"
+        },
+        {
+          "stage": "Classical Arabic",
+          "form": "يَاقُوت (yāqūt)",
+          "meaning": "corundum, ruby",
+          "certainty": "established"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Wiktionary: ياقوت (Arabic)",
+          "url": "https://en.wiktionary.org/wiki/%D9%8A%D8%A7%D9%82%D9%88%D8%AA#Arabic"
+        }
+      ],
+      "cognates": [
+        {
+          "lang": "Syriac",
+          "word": "ܝܩܘܢܕܐ",
+          "meaning": "precious stone"
+        },
+        {
+          "lang": "Persian",
+          "word": "یاقوت (yāqut)",
+          "meaning": "ruby"
+        },
+        {
+          "lang": "English",
+          "word": "hyacinth / jacinth",
+          "meaning": "gemstone"
         }
       ]
     },
