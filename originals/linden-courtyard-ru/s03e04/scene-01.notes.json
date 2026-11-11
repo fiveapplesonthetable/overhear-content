@@ -190,10 +190,10 @@
         },
         {
           "t": "railing;",
-          "lemma": "fence",
+          "lemma": "railing",
           "pos": "noun",
-          "stress": "ˈɹeɪlɪŋ",
-          "gloss": "перила, ограждение балкона",
+          "stress": "ˈreɪ.lɪŋ",
+          "gloss": "перила, ограда",
           "gram": "сущ., ед. ч."
         },
         {
@@ -1426,9 +1426,9 @@
         },
         {
           "t": "quietly.",
-          "lemma": "quiet",
-          "pos": "adj",
-          "stress": "ˈkwaɪətli",
+          "lemma": "quietly",
+          "pos": "adv",
+          "stress": "ˈkwaɪ.ət.li",
           "gloss": "тихо, спокойно",
           "gram": "нареч. от прил."
         }
@@ -1738,10 +1738,10 @@
         },
         {
           "t": "railing;",
-          "lemma": "fence",
+          "lemma": "railing",
           "pos": "noun",
-          "stress": "ˈɹeɪlɪŋ",
-          "gloss": "перила, ограждение балкона",
+          "stress": "ˈreɪ.lɪŋ",
+          "gloss": "перила, ограда",
           "gram": "сущ., ед. ч."
         },
         {
@@ -4014,9 +4014,9 @@
         },
         {
           "t": "quietly.",
-          "lemma": "quiet",
-          "pos": "adj",
-          "stress": "ˈkwaɪətli",
+          "lemma": "quietly",
+          "pos": "adv",
+          "stress": "ˈkwaɪ.ət.li",
           "gloss": "тихо, спокойно",
           "gram": "нареч. от прил."
         }
@@ -4130,9 +4130,9 @@
         },
         {
           "t": "quietly",
-          "lemma": "quiet",
-          "pos": "adj",
-          "stress": "ˈkwaɪətli",
+          "lemma": "quietly",
+          "pos": "adv",
+          "stress": "ˈkwaɪ.ət.li",
           "gloss": "тихо, спокойно",
           "gram": "нареч. от прил."
         }
@@ -4326,10 +4326,10 @@
         },
         {
           "t": "railing;",
-          "lemma": "fence",
+          "lemma": "railing",
           "pos": "noun",
-          "stress": "ˈɹeɪlɪŋ",
-          "gloss": "перила, ограждение балкона",
+          "stress": "ˈreɪ.lɪŋ",
+          "gloss": "перила, ограда",
           "gram": "сущ., ед. ч."
         },
         {
@@ -5562,9 +5562,9 @@
         },
         {
           "t": "quietly.",
-          "lemma": "quiet",
-          "pos": "adj",
-          "stress": "ˈkwaɪətli",
+          "lemma": "quietly",
+          "pos": "adv",
+          "stress": "ˈkwaɪ.ət.li",
           "gloss": "тихо, спокойно",
           "gram": "нареч. от прил."
         }
@@ -6230,40 +6230,6 @@
         {
           "word": "all",
           "gloss": "все, всё"
-        }
-      ]
-    },
-    "fence": {
-      "lemma": "fence",
-      "stress": "fɛns",
-      "pos": "noun",
-      "gloss": "забор, ограда, изгородь",
-      "meanings": [
-        {
-          "en": "забор, ограда, изгородь",
-          "note": "Исчисляемое существительное; обозначает деревянную или кованую ограду вокруг сада."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Follow the iron fence along the edge of the park.",
-          "trans": "Идите вдоль железной ограды по краю парка."
-        },
-        {
-          "text": "Roses climbed over the white wooden fence.",
-          "trans": "Розы вились по белому деревянному забору."
-        }
-      ],
-      "related": [
-        {
-          "word": "gate",
-          "gloss": "ворота, калитка"
-        },
-        {
-          "word": "wall",
-          "gloss": "стена"
         }
       ]
     },
@@ -9539,31 +9505,6 @@
         }
       ]
     },
-    "quiet": {
-      "lemma": "quiet",
-      "stress": "ˈkwaɪət",
-      "pos": "adj",
-      "gloss": "тихий, спокойный",
-      "meanings": [
-        {
-          "en": "тихий, спокойный",
-          "note": "Произносится в два слога (/ˈkwaɪət/); не путайте по написанию с односложным наречием quite (/kwaɪt/, «весьма, довольно»)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Room eight is on the quiet garden side.",
-          "trans": "Восьмой номер выходит на тихую садовую сторону."
-        },
-        {
-          "text": "Mornings are peaceful and quiet here.",
-          "trans": "Утра здесь мирные и тихие."
-        }
-      ],
-      "related": []
-    },
     "next": {
       "lemma": "next",
       "stress": "nɛkst",
@@ -9610,6 +9551,48 @@
         {
           "text": "Take your time with breakfast.",
           "trans": "Не спешите за завтраком."
+        }
+      ],
+      "related": []
+    },
+    "railing": {
+      "lemma": "railing",
+      "stress": "ˈreɪ.lɪŋ",
+      "pos": "noun",
+      "gloss": "перила, ограда",
+      "meanings": [
+        {
+          "en": "перила",
+          "note": "ограждение балкона, лестницы или моста"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hold onto the railing.",
+          "trans": "Держись за перила."
+        }
+      ],
+      "related": []
+    },
+    "quietly": {
+      "lemma": "quietly",
+      "stress": "ˈkwaɪ.ət.li",
+      "pos": "adv",
+      "gloss": "тихо, спокойно",
+      "meanings": [
+        {
+          "en": "тихо",
+          "note": "без шума, в тишине"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He spoke quietly.",
+          "trans": "Он говорил тихо."
         }
       ],
       "related": []
