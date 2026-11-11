@@ -1007,7 +1007,7 @@
           "lemma": "ما",
           "stress": null,
           "pos": "part",
-          "gloss": "no (ما إلها مثيل unbeatable)",
+          "gloss": "no",
           "gram": "negative particle"
         },
         {
@@ -1537,7 +1537,7 @@
           "reading": "'ashaan",
           "lemma": "عشان",
           "stress": null,
-          "pos": "prep",
+          "pos": "conj",
           "gloss": "so that",
           "gram": "preposition"
         },
@@ -2587,7 +2587,7 @@
           "lemma": "ما",
           "stress": null,
           "pos": "part",
-          "gloss": "no (ما إلها مثيل unbeatable)",
+          "gloss": "no",
           "gram": "negative particle"
         },
         {
@@ -3117,7 +3117,7 @@
           "reading": "'ashaan",
           "lemma": "عشان",
           "stress": null,
-          "pos": "prep",
+          "pos": "conj",
           "gloss": "so that",
           "gram": "preposition"
         },
@@ -4167,7 +4167,7 @@
           "lemma": "ما",
           "stress": null,
           "pos": "part",
-          "gloss": "no (ما إلها مثيل unbeatable)",
+          "gloss": "no",
           "gram": "negative particle"
         },
         {
@@ -4697,7 +4697,7 @@
           "reading": "'ashaan",
           "lemma": "عشان",
           "stress": null,
-          "pos": "prep",
+          "pos": "conj",
           "gloss": "so that",
           "gram": "preposition"
         },
@@ -4891,14 +4891,30 @@
       "lemma": "أي",
       "stress": null,
       "pos": "det",
-      "gloss": "which?; any",
+      "gloss": "which, any",
       "meanings": [
         {
-          "en": "which?; any",
-          "note": "In questions أي means 'which?' (أي علبة؟ 'which tin?'); in conditionals/negatives it means 'any' (أي شي 'anything')."
+          "en": "which, any",
+          "note": "Used as a question word or indefinite pronoun."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أي",
+              "أي"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -4963,7 +4979,7 @@
       "meanings": [
         {
           "en": "Saturday",
-          "note": "Saturday (يوم السبت or simply السبت), start of the Jordanian working/market weekend."
+          "note": "The day of the week, Saturday."
         }
       ],
       "forms": {
@@ -4978,7 +4994,7 @@
             "cells": [
               "form",
               "السبت",
-              "أيام السبت"
+              "السبت"
             ]
           }
         ]
@@ -5764,19 +5780,18 @@
       "lemma": "حلو",
       "stress": null,
       "pos": "adj",
-      "gloss": "sweet; lovely; nice",
+      "gloss": "sweet / beautiful",
       "meanings": [
         {
-          "en": "sweet; lovely; nice",
-          "note": "Everyday Jordanian adjective (feminine: حلوة, plural: حلوين)."
+          "en": "sweet / beautiful",
+          "note": "One of the most frequently used adjectives in Jordanian Arabic to mean beautiful, sweet, nice, or good."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -5784,8 +5799,7 @@
             "cells": [
               "form",
               "حلو",
-              "حلوة",
-              "حلوين"
+              "حلو"
             ]
           }
         ]
@@ -6079,19 +6093,18 @@
       "lemma": "دافي",
       "stress": null,
       "pos": "adj",
-      "gloss": "warm; cozy",
+      "gloss": "warm",
       "meanings": [
         {
-          "en": "warm; cozy",
-          "note": "Everyday Jordanian adjective (feminine: دافية, plural: دافيين)."
+          "en": "warm",
+          "note": "Used to describe warm weather, warm water, or a cozy feeling."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -6099,8 +6112,7 @@
             "cells": [
               "form",
               "دافي",
-              "دافية",
-              "دافيين"
+              "دافي"
             ]
           }
         ]
@@ -6383,7 +6395,7 @@
       "meanings": [
         {
           "en": "oil",
-          "note": "Cooking oil (زيت زيتون 'olive oil') or machine/hinge oil."
+          "note": "Usually implies olive oil in Jordan unless specified otherwise, but used for all oils."
         }
       ],
       "forms": {
@@ -6398,7 +6410,7 @@
             "cells": [
               "form",
               "زيت",
-              "زيوت"
+              "زيت"
             ]
           }
         ]
@@ -6420,11 +6432,11 @@
       "lemma": "زيتون",
       "stress": null,
       "pos": "noun",
-      "gloss": "olives (زيت زيتون olive oil)",
+      "gloss": "olives",
       "gender": "m",
       "meanings": [
         {
-          "en": "olives (زيت زيتون olive oil)",
+          "en": "olives",
           "note": "Collective noun for olives, iconic to Jordanian tables and courtyards."
         }
       ],
@@ -6836,7 +6848,7 @@
       "meanings": [
         {
           "en": "tea",
-          "note": "Everyday Jordanian masculine noun."
+          "note": "A staple beverage in Jordanian culture, typically served with mint or sage."
         }
       ],
       "forms": {
@@ -6851,7 +6863,7 @@
             "cells": [
               "form",
               "شاي",
-              "—"
+              "شاي"
             ]
           }
         ]
@@ -7134,22 +7146,20 @@
       "meanings": [
         {
           "en": "fresh",
-          "note": "Invariable colloquial adjective (from Persian tāza via Ottoman Turkish) used for fresh bread, fruit, and herbs."
+          "note": "Used for fresh food, produce, or bread."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
           {
             "cells": [
               "form",
-              "طازة",
               "طازة",
               "طازة"
             ]
@@ -7216,12 +7226,12 @@
       "lemma": "عجينة",
       "stress": null,
       "pos": "noun",
-      "gloss": "dough; pastry",
+      "gloss": "dough",
       "gender": "f",
       "meanings": [
         {
-          "en": "dough; pastry",
-          "note": "Everyday Jordanian feminine noun. Plural: عجين."
+          "en": "dough",
+          "note": "Used for baking dough."
         }
       ],
       "forms": {
@@ -7236,7 +7246,7 @@
             "cells": [
               "form",
               "عجينة",
-              "عجين"
+              "عجينة"
             ]
           }
         ]
@@ -7299,15 +7309,31 @@
     "عشان": {
       "lemma": "عشان",
       "stress": null,
-      "pos": "prep",
-      "gloss": "for; because of; in order to",
+      "pos": "conj",
+      "gloss": "because / for",
       "meanings": [
         {
-          "en": "for; because of; in order to",
-          "note": "Everyday Jordanian word for 'for / because of' (عشان هيك 'that is why') and 'so that'."
+          "en": "because / for",
+          "note": "Extremely common colloquial conjunction used to indicate reason or purpose."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عشان",
+              "عشان"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -7550,19 +7576,18 @@
       "lemma": "قريب",
       "stress": null,
       "pos": "adj",
-      "gloss": "near; nearby; close",
+      "gloss": "soon",
       "meanings": [
         {
-          "en": "near; nearby; close",
-          "note": "Everyday Jordanian adjective (feminine: قريبة, plural: قراب)."
+          "en": "soon",
+          "note": "Everyday Jordanian word for soon or near."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -7570,8 +7595,7 @@
             "cells": [
               "form",
               "قريب",
-              "قريبة",
-              "قراب"
+              "قريب"
             ]
           }
         ]
@@ -7635,12 +7659,12 @@
       "lemma": "قطعة",
       "stress": null,
       "pos": "noun",
-      "gloss": "piece; part",
+      "gloss": "piece",
       "gender": "f",
       "meanings": [
         {
-          "en": "piece; part",
-          "note": "Everyday Jordanian feminine noun. Plural: قطع."
+          "en": "piece",
+          "note": "Used to count items, or mean a portion, slice, or spare part."
         }
       ],
       "forms": {
@@ -7655,7 +7679,7 @@
             "cells": [
               "form",
               "قطعة",
-              "قطع"
+              "قطعة"
             ]
           }
         ]
@@ -7834,14 +7858,30 @@
       "lemma": "كل",
       "stress": null,
       "pos": "det",
-      "gloss": "every; all; whole",
+      "gloss": "all / every",
       "meanings": [
         {
-          "en": "every; all; whole",
-          "note": "Before an indefinite singular noun كل means 'every' (كل يوم 'every day'); before a definite noun it means 'all / the whole' (كل الأسبوع 'all week')."
+          "en": "all / every",
+          "note": "A highly versatile quantifier used to mean 'all of', 'every', or 'the whole'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "كل",
+              "كل"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -7859,14 +7899,30 @@
       "lemma": "كمان",
       "stress": null,
       "pos": "adv",
-      "gloss": "also; too; again (كمان مرة once more)",
+      "gloss": "also / more / again",
       "meanings": [
         {
-          "en": "also; too; again (كمان مرة once more)",
-          "note": "Everyday Levantine word for 'also, too, more' (كمان مرة 'one more time / again')."
+          "en": "also / more / again",
+          "note": "Indispensable Levantine and Egyptian particle meaning 'also', 'too', or 'as well'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "كمان",
+              "كمان"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -7884,12 +7940,12 @@
       "lemma": "كيكة",
       "stress": null,
       "pos": "noun",
-      "gloss": "cake",
+      "gloss": "a cake",
       "gender": "f",
       "meanings": [
         {
-          "en": "cake",
-          "note": "Everyday Jordanian feminine noun. Plural: كيكات."
+          "en": "a cake",
+          "note": "Refers to a single, whole cake, or a distinct slice (singulative form of kēk)."
         }
       ],
       "forms": {
@@ -7904,7 +7960,7 @@
             "cells": [
               "form",
               "كيكة",
-              "كيكات"
+              "كيكة"
             ]
           }
         ]
@@ -7951,12 +8007,12 @@
       "lemma": "لوز",
       "stress": null,
       "pos": "noun",
-      "gloss": "almonds",
+      "gloss": "almonds / great (slang)",
       "gender": "m",
       "meanings": [
         {
-          "en": "almonds",
-          "note": "Collective noun for almonds (singulative لوزة)."
+          "en": "almonds / great (slang)",
+          "note": "Literally means almonds, but heavily used in Jordanian youth slang to mean 'everything is perfect' or 'great'."
         }
       ],
       "forms": {
@@ -7970,7 +8026,7 @@
           {
             "cells": [
               "form",
-              "لوزة",
+              "لوز",
               "لوز"
             ]
           }
@@ -8035,14 +8091,30 @@
       "lemma": "ما",
       "stress": null,
       "pos": "part",
-      "gloss": "not; what/that",
+      "gloss": "not / what",
       "meanings": [
         {
-          "en": "not; what/that",
-          "note": "Negates verbs and في (ما بعرف 'I don't know', ما في 'there isn't'), and links conjunctions like قبل ما ('before') and بعد ما ('after')."
+          "en": "not / what",
+          "note": "Used mostly as a negative particle for verbs ('didn't') or as a relative pronoun/conjunction ('what' or 'that which')."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ما",
+              "ما"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -8060,11 +8132,11 @@
       "lemma": "مثيل",
       "stress": null,
       "pos": "noun",
-      "gloss": "match; equal (ما إله مثيل unbeatable)",
+      "gloss": "match; equal",
       "gender": "m",
       "meanings": [
         {
-          "en": "match; equal (ما إله مثيل unbeatable)",
+          "en": "match; equal",
           "note": "Chiefly used in ما إله / ما إلها مثيل ('unmatched / unbeatable')."
         }
       ],
@@ -8102,19 +8174,18 @@
       "lemma": "مرتب",
       "stress": null,
       "pos": "adj",
-      "gloss": "neat; tidy; smart-looking",
+      "gloss": "tidy / neat",
       "meanings": [
         {
-          "en": "neat; tidy; smart-looking",
-          "note": "Everyday Jordanian adjective (feminine: مرتبة, plural: مرتبين)."
+          "en": "tidy / neat",
+          "note": "Used to describe a neat person, a well-organized room, or generally something of high quality (e.g. 'a nice car')."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -8122,8 +8193,7 @@
             "cells": [
               "form",
               "مرتب",
-              "مرتبة",
-              "مرتبين"
+              "مرتب"
             ]
           }
         ]
@@ -8191,15 +8261,14 @@
       "meanings": [
         {
           "en": "sunny",
-          "note": "Everyday Jordanian adjective (feminine: مشمسة, plural: مشمسين)."
+          "note": "Describes weather or a place receiving plenty of sunlight."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -8207,8 +8276,7 @@
             "cells": [
               "form",
               "مشمس",
-              "مشمسة",
-              "مشمسين"
+              "مشمس"
             ]
           }
         ]
@@ -8516,14 +8584,30 @@
       "lemma": "من",
       "stress": null,
       "pos": "prep",
-      "gloss": "from; of; than",
+      "gloss": "from",
       "meanings": [
         {
-          "en": "from; of; than",
-          "note": "Everyday preposition meaning 'from', 'of', or 'than' after comparatives."
+          "en": "from",
+          "note": "One of the most basic Arabic prepositions indicating origin."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "من",
+              "من"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -8706,19 +8790,18 @@
       "lemma": "واحد",
       "stress": null,
       "pos": "adj",
-      "gloss": "one; single; same",
+      "gloss": "one / someone",
       "meanings": [
         {
-          "en": "one; single; same",
-          "note": "Used both as the numeral 'one' and after a noun for emphasis ('a single, one and the same')."
+          "en": "one / someone",
+          "note": "Cardinal number or used as an indefinite pronoun."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -8726,8 +8809,7 @@
             "cells": [
               "form",
               "واحد",
-              "واحدة",
-              "—"
+              "واحد"
             ]
           }
         ]
@@ -8749,12 +8831,12 @@
       "lemma": "وجه",
       "stress": null,
       "pos": "noun",
-      "gloss": "face; top surface (وجه لوجه face to face)",
+      "gloss": "face; top surface",
       "gender": "m",
       "meanings": [
         {
-          "en": "face; top surface (وجه لوجه face to face)",
-          "note": "Everyday Jordanian masculine noun. Plural: وجوه."
+          "en": "face; top surface",
+          "note": "Everyday Jordanian masculine noun; وجه لوجه means 'face to face'. Plural: وجوه."
         }
       ],
       "forms": {
@@ -8791,14 +8873,30 @@
       "lemma": "يا",
       "stress": null,
       "pos": "part",
-      "gloss": "O / hey (vocative)",
+      "gloss": "oh / vocative particle",
       "meanings": [
         {
-          "en": "O / hey (vocative)",
-          "note": "Placed directly before a name or title when addressing someone in Arabic (يا نور 'Nour!', يا أستاذ 'sir!') and in exclamations (يا سلام! 'wonderful!')."
+          "en": "oh / vocative particle",
+          "note": "Vocative particle used when addressing someone directly."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "يا",
+              "يا"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
