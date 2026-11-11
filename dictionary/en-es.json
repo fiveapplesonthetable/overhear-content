@@ -1080,6 +1080,40 @@
         "answers"
       ]
     },
+    "any": {
+      "lemma": "any",
+      "stress": "ˈɛni",
+      "pos": "det",
+      "gloss": "algún, cualquier; ningún (con negación)",
+      "meanings": [
+        {
+          "en": "algún, cualquier; ningún (con negación)",
+          "note": "Se usa en preguntas y negaciones, y en afirmaciones con sentido de 'cualquiera' (any day = cualquier día)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do you have any spare keys at the desk?",
+          "trans": "¿Tienes alguna llave de repuesto en recepción?"
+        },
+        {
+          "text": "Fresh coffee beats cold tea any day.",
+          "trans": "El café recién hecho supera al té frío cualquier día."
+        }
+      ],
+      "related": [
+        {
+          "word": "anyone",
+          "gloss": "cualquiera, alguien"
+        },
+        {
+          "word": "anything",
+          "gloss": "cualquier cosa, algo"
+        }
+      ]
+    },
     "anyone": {
       "lemma": "anyone",
       "stress": "ˈɛniˌwʌn",
@@ -1157,6 +1191,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "anywhere": {
+      "lemma": "anywhere",
+      "stress": "ˈɛniˌwɛɹ",
+      "pos": "adv",
+      "gloss": "en cualquier parte; en ninguna parte (con negación)",
+      "meanings": [
+        {
+          "en": "en cualquier parte; en ninguna parte (con negación)",
+          "note": "Tras not o un sujeto negativo significa 'en ningún sitio' (not one drop anywhere)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I cannot find my glasses anywhere.",
+          "trans": "No encuentro mis gafas por ninguna parte."
+        },
+        {
+          "text": "Sit anywhere you like in the courtyard.",
+          "trans": "Siéntese donde quiera en el patio."
+        }
+      ],
+      "related": [
+        {
+          "word": "everywhere",
+          "gloss": "en todas partes"
+        },
+        {
+          "word": "nowhere",
+          "gloss": "en ninguna parte"
+        }
+      ]
     },
     "apartment": {
       "lemma": "apartment",
@@ -1263,6 +1331,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "arched": {
+      "lemma": "arched",
+      "stress": "ɑɹtʃt",
+      "pos": "adj",
+      "gloss": "arqueado, en arco",
+      "meanings": [
+        {
+          "en": "arqueado, en arco",
+          "note": "Formado a partir de arch (arco); muy habitual en arquitectura para ventanas y puertas curvas."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Sunlight enters through three arched windows.",
+          "trans": "La luz del sol entra por tres ventanas en arco."
+        },
+        {
+          "text": "Walk under the arched stone doorway.",
+          "trans": "Pase bajo la puerta de piedra arqueada."
+        }
+      ],
+      "related": [
+        {
+          "word": "arch",
+          "gloss": "arco"
+        },
+        {
+          "word": "archway",
+          "gloss": "arcada, pasaje arqueado"
+        }
+      ]
     },
     "architect": {
       "lemma": "architect",
@@ -1572,6 +1674,36 @@
         "arrived",
         "arrives",
         "arriving"
+      ]
+    },
+    "arrow": {
+      "lemma": "arrow",
+      "stress": "ˈæɹoʊ",
+      "pos": "noun",
+      "gloss": "flecha",
+      "meanings": [
+        {
+          "en": "flecha",
+          "note": "Tanto el proyectil como el símbolo gráfico que señala una dirección en mapas y planos."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Follow the blue arrow on the floor plan.",
+          "trans": "Sigue la flecha azul en el plano."
+        },
+        {
+          "text": "A small wooden arrow points toward the garden.",
+          "trans": "Una pequeña flecha de madera apunta hacia el jardín."
+        }
+      ],
+      "related": [
+        {
+          "word": "point",
+          "gloss": "apuntar, señalar"
+        }
       ]
     },
     "arthur": {
@@ -2941,6 +3073,78 @@
       "related": [],
       "surface": []
     },
+    "blow": {
+      "lemma": "blow",
+      "stress": "bloʊ",
+      "pos": "verb",
+      "gloss": "soplar; fundir (un fusible)",
+      "meanings": [
+        {
+          "en": "soplar; fundir (un fusible)",
+          "note": "Verbo irregular: blow, blew, blown. En electricidad, blow a fuse significa quemar o fundir un fusible."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "blow"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "blows"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "blew"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "blown"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "blowing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A cool breeze blows from the harbor.",
+          "trans": "Una brisa fresca sopla desde el puerto."
+        },
+        {
+          "text": "That old toaster blew the kitchen fuse.",
+          "trans": "Esa tostadora vieja fundió el fusible de la cocina."
+        }
+      ],
+      "related": [
+        {
+          "word": "wind",
+          "gloss": "viento"
+        },
+        {
+          "word": "fuse",
+          "gloss": "fusible"
+        }
+      ]
+    },
     "blue": {
       "lemma": "blue",
       "stress": "blu",
@@ -3097,6 +3301,40 @@
       "related": [],
       "surface": [
         "booked"
+      ]
+    },
+    "bookcase": {
+      "lemma": "bookcase",
+      "stress": "ˈbʊkˌkeɪs",
+      "pos": "noun",
+      "gloss": "estantería, librero",
+      "meanings": [
+        {
+          "en": "estantería, librero",
+          "note": "Compuesto transparente de book (libro) + case (mueble o caja); mueble con baldas para libros."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A tall wooden bookcase stands against the wall.",
+          "trans": "Una estantería alta de madera está apoyada contra la pared."
+        },
+        {
+          "text": "Help me move this bookcase to the corner.",
+          "trans": "Ayúdame a mover este librero a la esquina."
+        }
+      ],
+      "related": [
+        {
+          "word": "book",
+          "gloss": "libro"
+        },
+        {
+          "word": "shelf",
+          "gloss": "estante, balda"
+        }
       ]
     },
     "booking": {
@@ -5120,6 +5358,74 @@
       "related": [],
       "surface": []
     },
+    "ceiling": {
+      "lemma": "ceiling",
+      "stress": "ˈsilɪŋ",
+      "pos": "noun",
+      "gloss": "techo (interior)",
+      "meanings": [
+        {
+          "en": "techo (interior)",
+          "note": "Ojo a la diferencia: ceiling es el techo visto desde dentro de la habitación; roof es el tejado exterior."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A warm glass lamp hangs from the ceiling.",
+          "trans": "Una lámpara cálida de cristal cuelga del techo."
+        },
+        {
+          "text": "The sunroom has a high wooden ceiling.",
+          "trans": "La galería soleada tiene un techo alto de madera."
+        }
+      ],
+      "related": [
+        {
+          "word": "roof",
+          "gloss": "tejado, azotea"
+        },
+        {
+          "word": "floor",
+          "gloss": "suelo, piso"
+        }
+      ]
+    },
+    "cellar": {
+      "lemma": "cellar",
+      "stress": "ˈsɛlɚ",
+      "pos": "noun",
+      "gloss": "sótano, bodega",
+      "meanings": [
+        {
+          "en": "sótano, bodega",
+          "note": "Subsuelo fresco donde se guardan muebles, herramientas o provisiones."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We keep four spare tables down in the cellar.",
+          "trans": "Guardamos cuatro mesas extra abajo en el sótano."
+        },
+        {
+          "text": "Bring the toolbox up from the cellar.",
+          "trans": "Sube la caja de herramientas del sótano."
+        }
+      ],
+      "related": [
+        {
+          "word": "stairs",
+          "gloss": "escaleras"
+        },
+        {
+          "word": "attic",
+          "gloss": "ático, desván"
+        }
+      ]
+    },
     "certainly": {
       "lemma": "certainly",
       "stress": "ˈsɝtənli",
@@ -5586,6 +5892,40 @@
         "chosen"
       ]
     },
+    "chord": {
+      "lemma": "chord",
+      "stress": "kɔɹd",
+      "pos": "noun",
+      "gloss": "acorde",
+      "meanings": [
+        {
+          "en": "acorde",
+          "note": "La h es muda (/kɔɹd/), igual que en school; distingue en la escritura el acorde musical de cord (cuerda/cable)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "She played a soft chord on the piano.",
+          "trans": "Ella tocó un acorde suave en el piano."
+        },
+        {
+          "text": "Three notes together make a major chord.",
+          "trans": "Tres notas juntas forman un acorde mayor."
+        }
+      ],
+      "related": [
+        {
+          "word": "note",
+          "gloss": "nota"
+        },
+        {
+          "word": "piano",
+          "gloss": "piano"
+        }
+      ]
+    },
     "church": {
       "lemma": "church",
       "stress": "tʃɝtʃ",
@@ -5732,6 +6072,78 @@
         "clanks"
       ]
     },
+    "clap": {
+      "lemma": "clap",
+      "stress": "klæp",
+      "pos": "verb",
+      "gloss": "aplaudir, dar una palmada",
+      "meanings": [
+        {
+          "en": "aplaudir, dar una palmada",
+          "note": "Duplica la p en pasado y gerundio: clapped, clapping. Clap your hands = dar palmadas."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "clap"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "claps"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "clapped"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "clapped"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "clapping"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Clap your hands once to test the echo.",
+          "trans": "Da una palmada para probar el eco."
+        },
+        {
+          "text": "Everyone clapped at the end of the song.",
+          "trans": "Todos aplaudieron al final de la canción."
+        }
+      ],
+      "related": [
+        {
+          "word": "hand",
+          "gloss": "mano"
+        },
+        {
+          "word": "echo",
+          "gloss": "eco"
+        }
+      ]
+    },
     "clause": {
       "lemma": "clause",
       "stress": "klɔz",
@@ -5837,6 +6249,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "click": {
+      "lemma": "click",
+      "stress": "klɪk",
+      "pos": "verb",
+      "gloss": "hacer clic, chasquear; clic (sust.)",
+      "meanings": [
+        {
+          "en": "hacer clic, chasquear; clic (sust.)",
+          "note": "Palabra onomatopéyica que funciona igual como verbo regular (clicked) y como sustantivo (one quick click)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "click"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "clicks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "clicked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "clicked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "clicking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The brass lock clicked softly and opened.",
+          "trans": "La cerradura de latón hizo clic suavemente y se abrió."
+        },
+        {
+          "text": "I heard one quiet click behind the door.",
+          "trans": "Oí un clic suave detrás de la puerta."
+        }
+      ],
+      "related": [
+        {
+          "word": "lock",
+          "gloss": "cerradura"
+        },
+        {
+          "word": "switch",
+          "gloss": "interruptor"
+        }
+      ]
     },
     "climb": {
       "lemma": "climb",
@@ -6532,6 +7016,40 @@
         "contracts"
       ]
     },
+    "conversation": {
+      "lemma": "conversation",
+      "stress": "ˌkɑnvɚˈseɪʃən",
+      "pos": "noun",
+      "gloss": "conversación, charla",
+      "meanings": [
+        {
+          "en": "conversación, charla",
+          "note": "El acento principal recae en la penúltima sílaba (-sa-): /ˌkɑnvɚˈseɪʃən/."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Quiet music leaves room for easy conversation.",
+          "trans": "La música suave deja espacio para una conversación tranquila."
+        },
+        {
+          "text": "We had a warm conversation over morning tea.",
+          "trans": "Tuvimos una charla cálida tomando el té de la mañana."
+        }
+      ],
+      "related": [
+        {
+          "word": "talk",
+          "gloss": "hablar, charla"
+        },
+        {
+          "word": "voice",
+          "gloss": "voz"
+        }
+      ]
+    },
     "conversion": {
       "lemma": "conversion",
       "stress": "kənˈvɝʒən",
@@ -6703,6 +7221,40 @@
       "surface": [
         "costing",
         "costs"
+      ]
+    },
+    "countdown": {
+      "lemma": "countdown",
+      "stress": "ˈkaʊntˌdaʊn",
+      "pos": "noun",
+      "gloss": "cuenta regresiva, cuenta atrás",
+      "meanings": [
+        {
+          "en": "cuenta regresiva, cuenta atrás",
+          "note": "Compuesto de count (contar) + down (hacia abajo), para los días o segundos que faltan antes de un evento."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Our six-day countdown starts this morning.",
+          "trans": "Nuestra cuenta regresiva de seis días empieza esta mañana."
+        },
+        {
+          "text": "Everyone joined the final countdown to midnight.",
+          "trans": "Todos se sumaron a la cuenta atrás final hacia la medianoche."
+        }
+      ],
+      "related": [
+        {
+          "word": "count",
+          "gloss": "contar"
+        },
+        {
+          "word": "day",
+          "gloss": "día"
+        }
       ]
     },
     "counter": {
@@ -7276,6 +7828,40 @@
         "cutting"
       ]
     },
+    "d": {
+      "lemma": "d",
+      "stress": "di",
+      "pos": "noun",
+      "gloss": "re (nota musical D); letra D",
+      "meanings": [
+        {
+          "en": "re (nota musical D); letra D",
+          "note": "En la notación anglosajona las notas van de A (la) a G (sol): C es do y D es re (middle D = re central)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Middle D on the old piano makes no sound.",
+          "trans": "El re central del viejo piano no suena."
+        },
+        {
+          "text": "Tune the guitar string up to D.",
+          "trans": "Afina la cuerda de la guitarra hasta re."
+        }
+      ],
+      "related": [
+        {
+          "word": "note",
+          "gloss": "nota musical"
+        },
+        {
+          "word": "chord",
+          "gloss": "acorde"
+        }
+      ]
+    },
     "daily": {
       "lemma": "daily",
       "stress": "ˈdeɪli",
@@ -7382,6 +7968,40 @@
         "days"
       ]
     },
+    "deal": {
+      "lemma": "deal",
+      "stress": "dil",
+      "pos": "noun",
+      "gloss": "trato, acuerdo",
+      "meanings": [
+        {
+          "en": "trato, acuerdo",
+          "note": "Fair deal o It's a deal cierra un acuerdo amistoso ('trato hecho, trato justo')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fair deal! You fix the lock and I bake the bread.",
+          "trans": "¡Trato justo! Tú arreglas la cerradura y yo horneo el pan."
+        },
+        {
+          "text": "We made a good deal at the morning market.",
+          "trans": "Hicimos un buen trato en el mercado de la mañana."
+        }
+      ],
+      "related": [
+        {
+          "word": "fair",
+          "gloss": "justo"
+        },
+        {
+          "word": "plan",
+          "gloss": "plan"
+        }
+      ]
+    },
     "dear": {
       "lemma": "dear",
       "stress": "dɪɹ",
@@ -7407,6 +8027,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "decade": {
+      "lemma": "decade",
+      "stress": "ˈdɛkeɪd",
+      "pos": "noun",
+      "gloss": "década, decenio",
+      "meanings": [
+        {
+          "en": "década, decenio",
+          "note": "Periodo de diez años; for decades expresa 'durante décadas'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "This wooden chest stayed closed for decades.",
+          "trans": "Este cofre de madera permaneció cerrado durante décadas."
+        },
+        {
+          "text": "Two decades ago, this street was much quieter.",
+          "trans": "Hace dos décadas, esta calle era mucho más tranquila."
+        }
+      ],
+      "related": [
+        {
+          "word": "year",
+          "gloss": "año"
+        },
+        {
+          "word": "century",
+          "gloss": "siglo"
+        }
+      ]
     },
     "decibel": {
       "lemma": "decibel",
@@ -8874,6 +9528,40 @@
       "related": [],
       "surface": []
     },
+    "dusty": {
+      "lemma": "dusty",
+      "stress": "ˈdʌsti",
+      "pos": "adj",
+      "gloss": "polvoriento, cubierto de polvo",
+      "meanings": [
+        {
+          "en": "polvoriento, cubierto de polvo",
+          "note": "Formado añadiendo -y al sustantivo dust (polvo), igual que rain -> rainy o sun -> sunny."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Morning light shone through the dusty glass.",
+          "trans": "La luz de la mañana brilló a través del cristal polvoriento."
+        },
+        {
+          "text": "Wipe those dusty shelves with a damp cloth.",
+          "trans": "Limpia esos estantes polvorientos con un paño húmedo."
+        }
+      ],
+      "related": [
+        {
+          "word": "dust",
+          "gloss": "polvo"
+        },
+        {
+          "word": "clean",
+          "gloss": "limpio"
+        }
+      ]
+    },
     "each": {
       "lemma": "each",
       "stress": "itʃ",
@@ -9206,6 +9894,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "end": {
+      "lemma": "end",
+      "stress": "ɛnd",
+      "pos": "noun",
+      "gloss": "final, fin, extremo",
+      "meanings": [
+        {
+          "en": "final, fin, extremo",
+          "note": "Se usa tanto para el tiempo (before month's end = antes de fin de mes) como para el espacio (at the end of the hall)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We need the cafe open before month's end.",
+          "trans": "Necesitamos tener la cafetería abierta antes de fin de mes."
+        },
+        {
+          "text": "Room Four is at the quiet end of the hallway.",
+          "trans": "La habitación cuatro está al fondo tranquilo del pasillo."
+        }
+      ],
+      "related": [
+        {
+          "word": "finish",
+          "gloss": "terminar"
+        },
+        {
+          "word": "start",
+          "gloss": "empezar, comienzo"
+        }
+      ]
     },
     "engine": {
       "lemma": "engine",
@@ -9642,6 +10364,40 @@
       "related": [],
       "surface": []
     },
+    "except": {
+      "lemma": "except",
+      "stress": "ɪkˈsɛpt",
+      "pos": "prep",
+      "gloss": "excepto, salvo, menos",
+      "meanings": [
+        {
+          "en": "excepto, salvo, menos",
+          "note": "Introduce la única excepción dentro de un grupo (every key except one)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Every window opens easily except this small one.",
+          "trans": "Todas las ventanas abren con facilidad excepto esta pequeña."
+        },
+        {
+          "text": "The cafe is open daily except Sunday.",
+          "trans": "La cafetería abre a diario salvo el domingo."
+        }
+      ],
+      "related": [
+        {
+          "word": "every",
+          "gloss": "cada, todos"
+        },
+        {
+          "word": "only",
+          "gloss": "solo"
+        }
+      ]
+    },
     "excuse": {
       "lemma": "excuse",
       "stress": "ɪkˈskjus",
@@ -9708,6 +10464,40 @@
         "excused",
         "excuses",
         "excusing"
+      ]
+    },
+    "expensive": {
+      "lemma": "expensive",
+      "stress": "ɪkˈspɛnsɪv",
+      "pos": "adj",
+      "gloss": "caro, costoso",
+      "meanings": [
+        {
+          "en": "caro, costoso",
+          "note": "El opuesto cotidiano es cheap (barato) o affordable (asequible); comparativo con more expensive."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "New cafe tables do not need to be expensive.",
+          "trans": "Las mesas nuevas de cafetería no tienen por qué ser caras."
+        },
+        {
+          "text": "Fresh lemons are less expensive at the Saturday market.",
+          "trans": "Los limones frescos son menos caros en el mercado del sábado."
+        }
+      ],
+      "related": [
+        {
+          "word": "cost",
+          "gloss": "costar"
+        },
+        {
+          "word": "price",
+          "gloss": "precio"
+        }
       ]
     },
     "explain": {
@@ -10954,6 +11744,78 @@
       "related": [],
       "surface": []
     },
+    "flip": {
+      "lemma": "flip",
+      "stress": "flɪp",
+      "pos": "verb",
+      "gloss": "accionar (un interruptor), voltear",
+      "meanings": [
+        {
+          "en": "accionar (un interruptor), voltear",
+          "note": "Duplica la p: flipped, flipping. Flip a switch es el giro idiomático para encender o apagar un interruptor de pared."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "flip"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "flips"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "flipped"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "flipped"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "flipping"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Never flip an old switch with wet hands.",
+          "trans": "Nunca acciones un interruptor viejo con las manos mojadas."
+        },
+        {
+          "text": "She flipped the postcard over to read the date.",
+          "trans": "Ella le dio la vuelta a la postal para leer la fecha."
+        }
+      ],
+      "related": [
+        {
+          "word": "switch",
+          "gloss": "interruptor"
+        },
+        {
+          "word": "turn",
+          "gloss": "girar"
+        }
+      ]
+    },
     "floor": {
       "lemma": "floor",
       "stress": "flɔɹ",
@@ -10979,6 +11841,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "flow": {
+      "lemma": "flow",
+      "stress": "floʊ",
+      "pos": "verb",
+      "gloss": "fluir, circular, correr",
+      "meanings": [
+        {
+          "en": "fluir, circular, correr",
+          "note": "Se aplica tanto al agua como a la corriente de aire fresco (fresh air flows)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "flow"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "flows"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "flowed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "flowed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "flowing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Fresh air flows in when we open the shutters.",
+          "trans": "El aire fresco circula cuando abrimos los postigos."
+        },
+        {
+          "text": "A quiet river flows past the old town.",
+          "trans": "Un río tranquilo corre junto al casco antiguo."
+        }
+      ],
+      "related": [
+        {
+          "word": "air",
+          "gloss": "aire"
+        },
+        {
+          "word": "water",
+          "gloss": "agua"
+        }
+      ]
     },
     "flower": {
       "lemma": "flower",
@@ -11416,6 +12350,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "fortune": {
+      "lemma": "fortune",
+      "stress": "ˈfɔɹtʃən",
+      "pos": "noun",
+      "gloss": "fortuna, dineral; suerte",
+      "meanings": [
+        {
+          "en": "fortuna, dineral; suerte",
+          "note": "Cost a fortune es la hipérbole clásica de todos los días para decir 'costar un ojo de la cara / un dineral'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Solid oak furniture costs a fortune these days.",
+          "trans": "Los muebles de roble macizo cuestan una fortuna hoy en día."
+        },
+        {
+          "text": "By good fortune, the stone floor stayed dry.",
+          "trans": "Por buena suerte, el suelo de piedra se mantuvo seco."
+        }
+      ],
+      "related": [
+        {
+          "word": "cost",
+          "gloss": "costar"
+        },
+        {
+          "word": "money",
+          "gloss": "dinero"
+        }
+      ]
     },
     "forty": {
       "lemma": "forty",
@@ -11876,6 +12844,74 @@
       ],
       "related": [],
       "surface": []
+    },
+    "furniture": {
+      "lemma": "furniture",
+      "stress": "ˈfɝnɪtʃɚ",
+      "pos": "noun",
+      "gloss": "muebles, mobiliario",
+      "meanings": [
+        {
+          "en": "muebles, mobiliario",
+          "note": "Incontable en inglés: nunca lleva -s ni artículo a; va siempre con verbo en singular (new furniture costs...)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Old wooden furniture gives the room warmth.",
+          "trans": "Los muebles antiguos de madera dan calidez a la sala."
+        },
+        {
+          "text": "We moved all the heavy furniture before painting.",
+          "trans": "Movimos todos los muebles pesados antes de pintar."
+        }
+      ],
+      "related": [
+        {
+          "word": "table",
+          "gloss": "mesa"
+        },
+        {
+          "word": "chair",
+          "gloss": "silla"
+        }
+      ]
+    },
+    "fuse": {
+      "lemma": "fuse",
+      "stress": "fjuz",
+      "pos": "noun",
+      "gloss": "fusible",
+      "meanings": [
+        {
+          "en": "fusible",
+          "note": "Pieza de seguridad eléctrica que corta el paso de corriente si hay un cortocircuito."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Keep a box of spare fuses near the meter.",
+          "trans": "Guarda una caja de fusibles de repuesto cerca del contador."
+        },
+        {
+          "text": "The old lamp blew the main hallway fuse.",
+          "trans": "La lámpara vieja fundió el fusible principal del pasillo."
+        }
+      ],
+      "related": [
+        {
+          "word": "wire",
+          "gloss": "cable"
+        },
+        {
+          "word": "switch",
+          "gloss": "interruptor"
+        }
+      ]
     },
     "garden": {
       "lemma": "garden",
@@ -12393,6 +13429,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "glow": {
+      "lemma": "glow",
+      "stress": "ɡloʊ",
+      "pos": "verb",
+      "gloss": "brillar suavemente, resplandecer",
+      "meanings": [
+        {
+          "en": "brillar suavemente, resplandecer",
+          "note": "Describe una luz cálida y continua, sin deslumbrar (farolillos, lámparas o brasas), a diferencia de flash."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "glow"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "glows"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "glowed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "glowed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "glowing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Paper lanterns glow warmly in the courtyard.",
+          "trans": "Los farolillos de papel brillan con calidez en el patio."
+        },
+        {
+          "text": "Watch how softly that amber glass lamp glows.",
+          "trans": "Mira qué suave resplandece esa lámpara de cristal ámbar."
+        }
+      ],
+      "related": [
+        {
+          "word": "lamp",
+          "gloss": "lámpara"
+        },
+        {
+          "word": "shine",
+          "gloss": "brillar"
+        }
+      ]
     },
     "go": {
       "lemma": "go",
@@ -13283,6 +14391,40 @@
       "surface": [
         "hall's",
         "halls"
+      ]
+    },
+    "hallway": {
+      "lemma": "hallway",
+      "stress": "ˈhɔlˌweɪ",
+      "pos": "noun",
+      "gloss": "pasillo, corredor",
+      "meanings": [
+        {
+          "en": "pasillo, corredor",
+          "note": "Término habitual en inglés norteamericano para el pasillo interior que comunica habitaciones."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Leave your wet boots on the mat in the hallway.",
+          "trans": "Deja las botas mojadas en el felpudo del pasillo."
+        },
+        {
+          "text": "A tall bookcase stands in the back hallway.",
+          "trans": "Una estantería alta está en el pasillo trasero."
+        }
+      ],
+      "related": [
+        {
+          "word": "hall",
+          "gloss": "vestíbulo"
+        },
+        {
+          "word": "door",
+          "gloss": "puerta"
+        }
       ]
     },
     "hand": {
@@ -15625,6 +16767,40 @@
       "related": [],
       "surface": []
     },
+    "ivory": {
+      "lemma": "ivory",
+      "stress": "ˈaɪvəɹi",
+      "pos": "noun",
+      "gloss": "marfil",
+      "meanings": [
+        {
+          "en": "marfil",
+          "note": "Material blanco cremoso tradicional de las teclas de los pianos antiguos; también nombra el color marfil."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The old piano still has clean ivory keys.",
+          "trans": "El viejo piano aún conserva limpias sus teclas de marfil."
+        },
+        {
+          "text": "She chose ivory curtains for the sunny room.",
+          "trans": "Eligió cortinas color marfil para la habitación soleada."
+        }
+      ],
+      "related": [
+        {
+          "word": "piano",
+          "gloss": "piano"
+        },
+        {
+          "word": "key",
+          "gloss": "tecla, llave"
+        }
+      ]
+    },
     "jam": {
       "lemma": "jam",
       "stress": "dʒæm",
@@ -16632,6 +17808,40 @@
         "left"
       ]
     },
+    "left": {
+      "lemma": "left",
+      "stress": "lɛft",
+      "pos": "adj",
+      "gloss": "izquierdo; izquierda (sust.)",
+      "meanings": [
+        {
+          "en": "izquierdo; izquierda (sust.)",
+          "note": "Como adjetivo acompaña al sustantivo (the left side); en on the left o to the left funciona como sustantivo ('a la izquierda')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Slide the left side of the bookcase toward me.",
+          "trans": "Desliza el lado izquierdo de la estantería hacia mí."
+        },
+        {
+          "text": "Room Two is the first door on the left.",
+          "trans": "La habitación dos es la primera puerta a la izquierda."
+        }
+      ],
+      "related": [
+        {
+          "word": "right",
+          "gloss": "derecho, derecha"
+        },
+        {
+          "word": "side",
+          "gloss": "lado"
+        }
+      ]
+    },
     "legal": {
       "lemma": "legal",
       "stress": "ˈliɡəl",
@@ -16831,6 +18041,40 @@
       "related": [],
       "surface": [
         "libraries"
+      ]
+    },
+    "lid": {
+      "lemma": "lid",
+      "stress": "lɪd",
+      "pos": "noun",
+      "gloss": "tapa",
+      "meanings": [
+        {
+          "en": "tapa",
+          "note": "Sirve para la tapa de una caja, una tetera, un frasco o el teclado de un piano."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lift the wooden lid carefully with both hands.",
+          "trans": "Levanta la tapa de madera con cuidado con ambas manos."
+        },
+        {
+          "text": "Put the lid back on the teapot so it stays hot.",
+          "trans": "Vuelve a poner la tapa a la tetera para que siga caliente."
+        }
+      ],
+      "related": [
+        {
+          "word": "box",
+          "gloss": "caja"
+        },
+        {
+          "word": "open",
+          "gloss": "abrir"
+        }
       ]
     },
     "life": {
@@ -17831,6 +19075,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "lunch": {
+      "lemma": "lunch",
+      "stress": "lʌntʃ",
+      "pos": "noun",
+      "gloss": "almuerzo, comida del mediodía",
+      "meanings": [
+        {
+          "en": "almuerzo, comida del mediodía",
+          "note": "En expresiones como before lunch o after lunch va sin artículo the."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let us carry the tables upstairs after lunch.",
+          "trans": "Subamos las mesas después del almuerzo."
+        },
+        {
+          "text": "Tessa made warm soup and bread for lunch.",
+          "trans": "Tessa preparó sopa caliente y pan para el almuerzo."
+        }
+      ],
+      "related": [
+        {
+          "word": "breakfast",
+          "gloss": "desayuno"
+        },
+        {
+          "word": "dinner",
+          "gloss": "cena"
+        }
+      ]
     },
     "ma'am": {
       "lemma": "ma'am",
@@ -22627,6 +23905,40 @@
       "related": [],
       "surface": []
     },
+    "photo": {
+      "lemma": "photo",
+      "stress": "ˈfoʊtoʊ",
+      "pos": "noun",
+      "gloss": "foto, fotografía",
+      "meanings": [
+        {
+          "en": "foto, fotografía",
+          "note": "Forma abreviada cotidiana de photograph; su plural regular es photos (sin -es)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at this old photo of our linden tree.",
+          "trans": "Mira esta vieja foto de nuestro tilo."
+        },
+        {
+          "text": "We found three family photos inside the box.",
+          "trans": "Encontramos tres fotos familiares dentro de la caja."
+        }
+      ],
+      "related": [
+        {
+          "word": "postcard",
+          "gloss": "postal"
+        },
+        {
+          "word": "picture",
+          "gloss": "imagen, cuadro"
+        }
+      ]
+    },
     "piano": {
       "lemma": "piano",
       "stress": "piˈænoʊ",
@@ -23425,6 +24737,40 @@
       "related": [],
       "surface": []
     },
+    "pop": {
+      "lemma": "pop",
+      "stress": "pɑp",
+      "pos": "noun",
+      "gloss": "chasquido, estallido seco; ¡paf! (interj.)",
+      "meanings": [
+        {
+          "en": "chasquido, estallido seco; ¡paf! (interj.)",
+          "note": "Imita un sonido breve y seco, como un corcho, una bombilla o un fusible al saltar."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We heard a loud pop from the fuse box.",
+          "trans": "Oímos un chasquido fuerte en la caja de fusibles."
+        },
+        {
+          "text": "The cork came out with a cheerful pop.",
+          "trans": "El corcho salió con un alegre estallido."
+        }
+      ],
+      "related": [
+        {
+          "word": "click",
+          "gloss": "clic"
+        },
+        {
+          "word": "sound",
+          "gloss": "sonido"
+        }
+      ]
+    },
     "portland": {
       "lemma": "Portland",
       "stress": null,
@@ -23794,6 +25140,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "prettily": {
+      "lemma": "prettily",
+      "stress": "ˈpɹɪtəli",
+      "pos": "adv",
+      "gloss": "de forma bonita, con encanto",
+      "meanings": [
+        {
+          "en": "de forma bonita, con encanto",
+          "note": "Adverbio formado a partir de pretty cambiando la -y final por -ily."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Watch how prettily the glass lamp glows at dusk.",
+          "trans": "Mira qué bonito brilla la lámpara de cristal al atardecer."
+        },
+        {
+          "text": "Morning light dances prettily across the stone floor.",
+          "trans": "La luz matutina baila con encanto sobre el suelo de piedra."
+        }
+      ],
+      "related": [
+        {
+          "word": "lovely",
+          "gloss": "encantador"
+        },
+        {
+          "word": "bright",
+          "gloss": "luminoso"
+        }
+      ]
     },
     "price": {
       "lemma": "price",
@@ -24193,6 +25573,40 @@
         "protected",
         "protecting",
         "protects"
+      ]
+    },
+    "protection": {
+      "lemma": "protection",
+      "stress": "pɹəˈtɛkʃən",
+      "pos": "noun",
+      "gloss": "protección, amparo",
+      "meanings": [
+        {
+          "en": "protección, amparo",
+          "note": "Sustantivo derivado de protect; muy usado en heritage protection (protección de patrimonio histórico)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The old building has city heritage protection.",
+          "trans": "El edificio antiguo cuenta con protección patrimonial municipal."
+        },
+        {
+          "text": "Wooden shutters give good protection against winter wind.",
+          "trans": "Los postigos de madera dan buena protección contra el viento invernal."
+        }
+      ],
+      "related": [
+        {
+          "word": "protect",
+          "gloss": "proteger"
+        },
+        {
+          "word": "safe",
+          "gloss": "seguro"
+        }
       ]
     },
     "public": {
@@ -24794,6 +26208,40 @@
         "rained",
         "raining",
         "rains"
+      ]
+    },
+    "rainy": {
+      "lemma": "rainy",
+      "stress": "ˈɹeɪni",
+      "pos": "adj",
+      "gloss": "lluvioso",
+      "meanings": [
+        {
+          "en": "lluvioso",
+          "note": "De rain (lluvia) + -y: a rainy spring = una primavera lluviosa."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "One rainy spring, water leaked through the old roof.",
+          "trans": "Una primavera lluviosa, el agua se filtró por el viejo tejado."
+        },
+        {
+          "text": "Hot tea tastes best on a rainy afternoon.",
+          "trans": "El té caliente sabe mejor en una tarde lluviosa."
+        }
+      ],
+      "related": [
+        {
+          "word": "rain",
+          "gloss": "llover, lluvia"
+        },
+        {
+          "word": "dry",
+          "gloss": "seco"
+        }
       ]
     },
     "reach": {
@@ -25467,6 +26915,112 @@
       "related": [],
       "surface": []
     },
+    "reopen": {
+      "lemma": "reopen",
+      "stress": "ˌɹiˈoʊpən",
+      "pos": "verb",
+      "gloss": "reabrir, volver a abrir",
+      "meanings": [
+        {
+          "en": "reabrir, volver a abrir",
+          "note": "El prefijo re- añade el sentido de 'otra vez' a open, sin guion intermedio."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "reopen"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "reopens"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "reopened"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "reopened"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "reopening"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "They plan to reopen the garden room next Friday.",
+          "trans": "Planean reabrir la sala del jardín el próximo viernes."
+        },
+        {
+          "text": "The neighborhood bakery reopened at seven sharp.",
+          "trans": "La panadería del barrio volvió a abrir a las siete en punto."
+        }
+      ],
+      "related": [
+        {
+          "word": "open",
+          "gloss": "abrir"
+        },
+        {
+          "word": "again",
+          "gloss": "otra vez"
+        }
+      ]
+    },
+    "repair": {
+      "lemma": "repair",
+      "stress": "ɹɪˈpɛɹ",
+      "pos": "noun",
+      "gloss": "reparación, arreglo",
+      "meanings": [
+        {
+          "en": "reparación, arreglo",
+          "note": "Funciona tanto como sustantivo (one good repair) como verbo regular (repair, repaired)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "With one good repair, this clock will run for years.",
+          "trans": "Con una buena reparación, este reloj funcionará durante años."
+        },
+        {
+          "text": "Roof repairs can be costly before winter.",
+          "trans": "Las reparaciones del tejado pueden ser caras antes del invierno."
+        }
+      ],
+      "related": [
+        {
+          "word": "fix",
+          "gloss": "arreglar"
+        },
+        {
+          "word": "broken",
+          "gloss": "roto"
+        }
+      ]
+    },
     "repeat": {
       "lemma": "repeat",
       "stress": "ɹɪˈpit",
@@ -25586,6 +27140,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "reset": {
+      "lemma": "reset",
+      "stress": "ˌɹiˈsɛt",
+      "pos": "verb",
+      "gloss": "restablecer, reiniciar",
+      "meanings": [
+        {
+          "en": "restablecer, reiniciar",
+          "note": "Verbo invariable en pasado y participio: reset, reset, reset (duplica la t en resetting)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "reset"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "resets"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "reset"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "reset"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "resetting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I can reset the kitchen power in two minutes.",
+          "trans": "Puedo restablecer la corriente de la cocina en dos minutos."
+        },
+        {
+          "text": "She reset the hallway clock after the storm.",
+          "trans": "Ella volvió a poner en hora el reloj del pasillo tras la tormenta."
+        }
+      ],
+      "related": [
+        {
+          "word": "switch",
+          "gloss": "interruptor"
+        },
+        {
+          "word": "fuse",
+          "gloss": "fusible"
+        }
+      ]
     },
     "respect": {
       "lemma": "respect",
@@ -26466,6 +28092,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "sand": {
+      "lemma": "sand",
+      "stress": "sænd",
+      "pos": "verb",
+      "gloss": "lijar (madera); arena (sust.)",
+      "meanings": [
+        {
+          "en": "lijar (madera); arena (sust.)",
+          "note": "Como verbo regular (sanded, sanding) significa pasar papel de lija (sandpaper) para alisar madera."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sand"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sands"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "sanded"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "sanded"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "sanding"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We sanded the old wooden tables until they felt smooth.",
+          "trans": "Lijamos las viejas mesas de madera hasta dejarlas suaves."
+        },
+        {
+          "text": "Sand the shutters lightly before adding green paint.",
+          "trans": "Lija suavemente los postigos antes de dar la pintura verde."
+        }
+      ],
+      "related": [
+        {
+          "word": "wood",
+          "gloss": "madera"
+        },
+        {
+          "word": "paint",
+          "gloss": "pintar, pintura"
+        }
+      ]
     },
     "save": {
       "lemma": "save",
@@ -27654,6 +29352,78 @@
         "shelves"
       ]
     },
+    "shine": {
+      "lemma": "shine",
+      "stress": "ʃaɪn",
+      "pos": "verb",
+      "gloss": "brillar, relucir, lucirse",
+      "meanings": [
+        {
+          "en": "brillar, relucir, lucirse",
+          "note": "Verbo irregular: shine, shone, shone. En sentido figurado, make something shine es hacer que luzca al máximo."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "shine"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "shines"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "shone"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "shone"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "shining"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Morning sun shines right into the garden room.",
+          "trans": "El sol de la mañana brilla directo hacia la sala del jardín."
+        },
+        {
+          "text": "Warm wood acoustics make quiet piano music shine.",
+          "trans": "La acústica cálida de la madera hace lucir la música suave de piano."
+        }
+      ],
+      "related": [
+        {
+          "word": "sun",
+          "gloss": "sol"
+        },
+        {
+          "word": "bright",
+          "gloss": "brillante, luminoso"
+        }
+      ]
+    },
     "shirt": {
       "lemma": "shirt",
       "stress": "ʃɝt",
@@ -28170,6 +29940,40 @@
       "related": [],
       "surface": []
     },
+    "silent": {
+      "lemma": "silent",
+      "stress": "ˈsaɪlənt",
+      "pos": "adj",
+      "gloss": "silencioso, mudo (sin sonido)",
+      "meanings": [
+        {
+          "en": "silencioso, mudo (sin sonido)",
+          "note": "Más absoluto que quiet: una tecla que no emite ningún sonido está silent."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Every piano key works except one silent note.",
+          "trans": "Todas las teclas del piano funcionan salvo una nota muda."
+        },
+        {
+          "text": "The courtyard grows silent after ten at night.",
+          "trans": "El patio queda en silencio después de las diez de la noche."
+        }
+      ],
+      "related": [
+        {
+          "word": "quiet",
+          "gloss": "tranquilo, silencioso"
+        },
+        {
+          "word": "sound",
+          "gloss": "sonido"
+        }
+      ]
+    },
     "silver": {
       "lemma": "silver",
       "stress": "ˈsɪlvɚ",
@@ -28273,6 +30077,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "sing": {
+      "lemma": "sing",
+      "stress": "sɪŋ",
+      "pos": "verb",
+      "gloss": "cantar",
+      "meanings": [
+        {
+          "en": "cantar",
+          "note": "Cambio vocálico clásico i-a-u: sing, sang, sung. También se dice de un instrumento cuando suena limpio y vivo."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sing"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sings"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "sang"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "sung"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "singing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Every walnut key sings clearly in this room.",
+          "trans": "Cada tecla del piano de nogal canta con claridad en esta sala."
+        },
+        {
+          "text": "Birds sing in the linden tree at dawn.",
+          "trans": "Los pájaros cantan en el tilo al amanecer."
+        }
+      ],
+      "related": [
+        {
+          "word": "song",
+          "gloss": "canción"
+        },
+        {
+          "word": "music",
+          "gloss": "música"
+        }
+      ]
     },
     "single": {
       "lemma": "single",
@@ -28471,6 +30347,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "sketch": {
+      "lemma": "sketch",
+      "stress": "skɛtʃ",
+      "pos": "verb",
+      "gloss": "dibujar un boceto, esbozar",
+      "meanings": [
+        {
+          "en": "dibujar un boceto, esbozar",
+          "note": "Toma -es en tercera persona (sketches). Sirve para apuntar medidas o un dibujo rápido a lápiz."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sketch"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sketches"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "sketched"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "sketched"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "sketching"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let me sketch the window frame in my notebook.",
+          "trans": "Déjame esbozar el marco de la ventana en mi cuaderno."
+        },
+        {
+          "text": "He sketched a simple floor plan in five minutes.",
+          "trans": "Dibujó un plano sencillo en cinco minutos."
+        }
+      ],
+      "related": [
+        {
+          "word": "notebook",
+          "gloss": "cuaderno"
+        },
+        {
+          "word": "draw",
+          "gloss": "dibujar"
+        }
+      ]
     },
     "sky": {
       "lemma": "sky",
@@ -29300,6 +31248,40 @@
       "related": [],
       "surface": []
     },
+    "song": {
+      "lemma": "song",
+      "stress": "sɔŋ",
+      "pos": "noun",
+      "gloss": "canción, pieza musical",
+      "meanings": [
+        {
+          "en": "canción, pieza musical",
+          "note": "Emparentado con sing (cantar); la -ng final suena como una sola consonante velar /ŋ/, sin /ɡ/ separada."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "An old piano remembers every favorite song.",
+          "trans": "Un piano antiguo recuerda cada canción favorita."
+        },
+        {
+          "text": "She played a cheerful spring song after tea.",
+          "trans": "Ella tocó una alegre canción primaveral después del té."
+        }
+      ],
+      "related": [
+        {
+          "word": "sing",
+          "gloss": "cantar"
+        },
+        {
+          "word": "piano",
+          "gloss": "piano"
+        }
+      ]
+    },
     "soon": {
       "lemma": "soon",
       "stress": "sun",
@@ -29803,6 +31785,40 @@
       "related": [],
       "surface": []
     },
+    "spring": {
+      "lemma": "spring",
+      "stress": "spɹɪŋ",
+      "pos": "noun",
+      "gloss": "primavera; resorte, manantial",
+      "meanings": [
+        {
+          "en": "primavera; resorte, manantial",
+          "note": "Como estación del año se escribe en minúscula en inglés (in spring, one rainy spring)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Snow melts quickly here in early spring.",
+          "trans": "La nieve se derrite rápido aquí a principios de la primavera."
+        },
+        {
+          "text": "We plant fresh herbs in the courtyard every spring.",
+          "trans": "Plantamos hierbas frescas en el patio cada primavera."
+        }
+      ],
+      "related": [
+        {
+          "word": "winter",
+          "gloss": "invierno"
+        },
+        {
+          "word": "rainy",
+          "gloss": "lluvioso"
+        }
+      ]
+    },
     "square": {
       "lemma": "square",
       "stress": "skwɛɹ",
@@ -29828,6 +31844,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "stack": {
+      "lemma": "stack",
+      "stress": "stæk",
+      "pos": "verb",
+      "gloss": "apilar, amontonar en orden",
+      "meanings": [
+        {
+          "en": "apilar, amontonar en orden",
+          "note": "Implica colocar objetos uno encima de otro formando una pila estable (a diferencia de pile, más desordenado)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "stack"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "stacks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "stacked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "stacked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "stacking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Help me stack these green books on the chair.",
+          "trans": "Ayúdame a apilar estos libros verdes en la silla."
+        },
+        {
+          "text": "She stacked twelve clean cups beside the kettle.",
+          "trans": "Ella apiló doce tazas limpias junto al hervidor."
+        }
+      ],
+      "related": [
+        {
+          "word": "shelf",
+          "gloss": "estante"
+        },
+        {
+          "word": "book",
+          "gloss": "libro"
+        }
+      ]
     },
     "stair": {
       "lemma": "stair",
@@ -30918,6 +33006,40 @@
       "related": [],
       "surface": []
     },
+    "sun": {
+      "lemma": "sun",
+      "stress": "sʌn",
+      "pos": "noun",
+      "gloss": "sol",
+      "meanings": [
+        {
+          "en": "sol",
+          "note": "Con the sun nombra el astro; sin artículo (morning sun) se refiere a la luz y el calor del sol."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Morning sun warms the stone floor by nine.",
+          "trans": "El sol de la mañana calienta el suelo de piedra para las nueve."
+        },
+        {
+          "text": "The cat is sleeping in the sun near the door.",
+          "trans": "El gato duerme al sol cerca de la puerta."
+        }
+      ],
+      "related": [
+        {
+          "word": "sunroom",
+          "gloss": "galería soleada"
+        },
+        {
+          "word": "warm",
+          "gloss": "cálido"
+        }
+      ]
+    },
     "sunday": {
       "lemma": "sunday",
       "stress": "ˈsʌndeɪ",
@@ -30995,6 +33117,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "sunroom": {
+      "lemma": "sunroom",
+      "stress": "ˈsʌnˌɹum",
+      "pos": "noun",
+      "gloss": "galería acristalada, cuarto de sol",
+      "meanings": [
+        {
+          "en": "galería acristalada, cuarto de sol",
+          "note": "Compuesto norteamericano de sun + room: estancia con grandes ventanales pensada para disfrutar del sol resguardado del frío."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We found a bright garden sunroom behind the wall.",
+          "trans": "Encontramos una luminosa galería acristalada detrás de la pared."
+        },
+        {
+          "text": "Guests love reading in the sunroom on cool mornings.",
+          "trans": "A los huéspedes les encanta leer en el cuarto de sol en las mañanas frescas."
+        }
+      ],
+      "related": [
+        {
+          "word": "sun",
+          "gloss": "sol"
+        },
+        {
+          "word": "window",
+          "gloss": "ventana"
+        }
+      ]
     },
     "sure": {
       "lemma": "sure",
@@ -31305,6 +33461,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "switch": {
+      "lemma": "switch",
+      "stress": "swɪtʃ",
+      "pos": "noun",
+      "gloss": "interruptor (de luz)",
+      "meanings": [
+        {
+          "en": "interruptor (de luz)",
+          "note": "Plural switches /ˈswɪtʃɪz/. A menudo se especifica wall switch o light switch."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do not touch that old brass switch yet.",
+          "trans": "No toques todavía ese viejo interruptor de latón."
+        },
+        {
+          "text": "The light switch is right beside the door.",
+          "trans": "El interruptor de la luz está justo al lado de la puerta."
+        }
+      ],
+      "related": [
+        {
+          "word": "flip",
+          "gloss": "accionar (un interruptor)"
+        },
+        {
+          "word": "lamp",
+          "gloss": "lámpara"
+        }
+      ]
     },
     "table": {
       "lemma": "table",
@@ -31643,6 +33833,40 @@
         "taped",
         "tapes",
         "taping"
+      ]
+    },
+    "tart": {
+      "lemma": "tart",
+      "stress": "tɑɹt",
+      "pos": "noun",
+      "gloss": "tartaleta, tarta de fruta",
+      "meanings": [
+        {
+          "en": "tartaleta, tarta de fruta",
+          "note": "Pastel de base crujiente sin tapa de masa encima, como las clásicas lemon tarts (tartaletas de limón)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa bakes fresh lemon tarts on Friday mornings.",
+          "trans": "Tessa hornea tartaletas de limón recién hechas los viernes por la mañana."
+        },
+        {
+          "text": "Save one warm berry tart for our afternoon guests.",
+          "trans": "Guarda una tartaleta tibia de frutos rojos para los huéspedes de la tarde."
+        }
+      ],
+      "related": [
+        {
+          "word": "lemon",
+          "gloss": "limón"
+        },
+        {
+          "word": "bake",
+          "gloss": "hornear"
+        }
       ]
     },
     "taste": {
@@ -32075,6 +34299,40 @@
       "related": [],
       "surface": []
     },
+    "tenth": {
+      "lemma": "tenth",
+      "stress": "tɛnθ",
+      "pos": "num",
+      "gloss": "décimo (10.º)",
+      "meanings": [
+        {
+          "en": "décimo (10.º)",
+          "note": "Ordinal de ten; en fechas norteamericanas May tenth equivale al 'diez de mayo'."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The postcard is dated May tenth.",
+          "trans": "La postal lleva fecha del diez de mayo."
+        },
+        {
+          "text": "Today is our tenth anniversary on Linden Street.",
+          "trans": "Hoy es nuestro décimo aniversario en la calle Linden."
+        }
+      ],
+      "related": [
+        {
+          "word": "ten",
+          "gloss": "diez"
+        },
+        {
+          "word": "ninth",
+          "gloss": "noveno"
+        }
+      ]
+    },
     "terrible": {
       "lemma": "terrible",
       "stress": "ˈtɛɹəbəl",
@@ -32154,6 +34412,78 @@
       "surface": [
         "Tessa",
         "tessa"
+      ]
+    },
+    "test": {
+      "lemma": "test",
+      "stress": "tɛst",
+      "pos": "verb",
+      "gloss": "probar, comprobar",
+      "meanings": [
+        {
+          "en": "probar, comprobar",
+          "note": "Toma -ɪd en pasado (/ˈtɛstɪd/). Muy útil para comprobar si una lámpara, cerradura o micrófono funciona."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "test"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "tests"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "tested"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "tested"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "testing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let us test the ceiling lamp before dark.",
+          "trans": "Probemos la lámpara del techo antes de que oscurezca."
+        },
+        {
+          "text": "He tested every key until the small padlock opened.",
+          "trans": "Probó todas las llaves hasta que el pequeño candado se abrió."
+        }
+      ],
+      "related": [
+        {
+          "word": "check",
+          "gloss": "revisar, comprobar"
+        },
+        {
+          "word": "try",
+          "gloss": "intentar, probar"
+        }
       ]
     },
     "than": {
@@ -32786,6 +35116,40 @@
       "related": [],
       "surface": []
     },
+    "threshold": {
+      "lemma": "threshold",
+      "stress": "ˈθɹɛʃˌhoʊld",
+      "pos": "noun",
+      "gloss": "umbral (de la puerta)",
+      "meanings": [
+        {
+          "en": "umbral (de la puerta)",
+          "note": "Pieza de madera o piedra en la base de una puerta por donde se cruza de una estancia a otra."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Watch your step on the dusty wooden threshold.",
+          "trans": "Ten cuidado al pisar el umbral polvoriento de madera."
+        },
+        {
+          "text": "She paused at the threshold and smiled.",
+          "trans": "Ella se detuvo en el umbral y sonrió."
+        }
+      ],
+      "related": [
+        {
+          "word": "door",
+          "gloss": "puerta"
+        },
+        {
+          "word": "step",
+          "gloss": "pisar, escalón"
+        }
+      ]
+    },
     "through": {
       "lemma": "through",
       "stress": "θɹu",
@@ -33242,6 +35606,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "toast": {
+      "lemma": "toast",
+      "stress": "toʊst",
+      "pos": "noun",
+      "gloss": "pan tostado, tostada; brindis",
+      "meanings": [
+        {
+          "en": "pan tostado, tostada; brindis",
+          "note": "En el desayuno, toast es incontable en inglés (his toast, two slices of toast, nunca *a toast* para el pan)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He grabbed his coat before finishing his toast.",
+          "trans": "Agarró su abrigo antes de terminar sus tostadas."
+        },
+        {
+          "text": "Would you like warm butter and jam on your toast?",
+          "trans": "¿Quiere mantequilla tibia y mermelada en su pan tostado?"
+        }
+      ],
+      "related": [
+        {
+          "word": "bread",
+          "gloss": "pan"
+        },
+        {
+          "word": "butter",
+          "gloss": "mantequilla"
+        }
+      ]
     },
     "today": {
       "lemma": "today",
@@ -33975,6 +36373,74 @@
         "troubles"
       ]
     },
+    "true": {
+      "lemma": "true",
+      "stress": "tɹu",
+      "pos": "adj",
+      "gloss": "verdadero, cierto, de verdad",
+      "meanings": [
+        {
+          "en": "verdadero, cierto, de verdad",
+          "note": "Is it true? ('¿Es verdad / es cierto?') es la reacción más natural ante una noticia sorprendente."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Is it true that there is a ninth room downstairs?",
+          "trans": "¿Es cierto que hay una novena habitación abajo?"
+        },
+        {
+          "text": "Every word in that old letter turned out to be true.",
+          "trans": "Cada palabra de aquella vieja carta resultó ser cierta."
+        }
+      ],
+      "related": [
+        {
+          "word": "truly",
+          "gloss": "de verdad, sinceramente"
+        },
+        {
+          "word": "real",
+          "gloss": "real"
+        }
+      ]
+    },
+    "truly": {
+      "lemma": "truly",
+      "stress": "ˈtɹuli",
+      "pos": "adv",
+      "gloss": "de verdad, sinceramente, realmente",
+      "meanings": [
+        {
+          "en": "de verdad, sinceramente, realmente",
+          "note": "Ojo a la ortografía: true pierde la -e muda al añadir -ly (truly, no *truely*)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I truly love this old black and white photo.",
+          "trans": "De verdad me encanta esta vieja foto en blanco y negro."
+        },
+        {
+          "text": "Thank you all for a truly wonderful evening.",
+          "trans": "Gracias a todos por una velada verdaderamente maravillosa."
+        }
+      ],
+      "related": [
+        {
+          "word": "true",
+          "gloss": "verdadero, cierto"
+        },
+        {
+          "word": "honestly",
+          "gloss": "sinceramente"
+        }
+      ]
+    },
     "truth": {
       "lemma": "truth",
       "stress": "tɹuθ",
@@ -34439,6 +36905,40 @@
       "related": [],
       "surface": []
     },
+    "uncle": {
+      "lemma": "uncle",
+      "stress": "ˈʌŋkəl",
+      "pos": "noun",
+      "gloss": "tío",
+      "meanings": [
+        {
+          "en": "tío",
+          "note": "Hermano del padre o de la madre, o esposo de una tía."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My uncle called this sunny corner the winter tea room.",
+          "trans": "Mi tío llamaba a este rincón soleado el salón de té de invierno."
+        },
+        {
+          "text": "Her uncle taught carpentry in Portland for thirty years.",
+          "trans": "Su tío enseñó carpintería en Portland durante treinta años."
+        }
+      ],
+      "related": [
+        {
+          "word": "family",
+          "gloss": "familia"
+        },
+        {
+          "word": "grandfather",
+          "gloss": "abuelo"
+        }
+      ]
+    },
     "under": {
       "lemma": "under",
       "stress": "ˈʌndɚ",
@@ -34662,6 +37162,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "upright": {
+      "lemma": "upright",
+      "stress": "ˈʌpˌɹaɪt",
+      "pos": "adj",
+      "gloss": "vertical, erguido",
+      "meanings": [
+        {
+          "en": "vertical, erguido",
+          "note": "An upright piano es un piano vertical o de pared (cuerdas verticales), frente a un grand piano (de cola)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Under the white sheet stood a walnut upright piano.",
+          "trans": "Bajo la sábana blanca había un piano vertical de nogal."
+        },
+        {
+          "text": "Keep those glass bottles upright in the basket.",
+          "trans": "Mantén esas botellas de vidrio derechas en la cesta."
+        }
+      ],
+      "related": [
+        {
+          "word": "piano",
+          "gloss": "piano"
+        },
+        {
+          "word": "stand",
+          "gloss": "estar de pie"
+        }
+      ]
     },
     "upstairs": {
       "lemma": "upstairs",
@@ -35200,6 +37734,40 @@
         "walls"
       ]
     },
+    "walnut": {
+      "lemma": "walnut",
+      "stress": "ˈwɔlnʌt",
+      "pos": "noun",
+      "gloss": "nogal (madera); nuez",
+      "meanings": [
+        {
+          "en": "nogal (madera); nuez",
+          "note": "Nombra tanto la nuez comestible como la apreciada madera oscura de nogal usada en pianos y muebles finos."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Dark walnut wood grows richer with age.",
+          "trans": "La madera oscura de nogal gana riqueza con los años."
+        },
+        {
+          "text": "She chopped toasted walnuts for the morning bread.",
+          "trans": "Picó nueces tostadas para el pan de la mañana."
+        }
+      ],
+      "related": [
+        {
+          "word": "wood",
+          "gloss": "madera"
+        },
+        {
+          "word": "cedar",
+          "gloss": "cedro"
+        }
+      ]
+    },
     "want": {
       "lemma": "want",
       "stress": "wɑnt",
@@ -35295,6 +37863,78 @@
       "surface": [
         "warmer",
         "warming"
+      ]
+    },
+    "wash": {
+      "lemma": "wash",
+      "stress": "wɑʃ",
+      "pos": "verb",
+      "gloss": "lavar, limpiar con agua",
+      "meanings": [
+        {
+          "en": "lavar, limpiar con agua",
+          "note": "Añade -es en tercera persona: washes /ˈwɑʃɪz/."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "wash"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "washes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "washed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "washed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "washing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We have six days to wash the tall glass panes.",
+          "trans": "Tenemos seis días para lavar los cristales altos."
+        },
+        {
+          "text": "Please wash your hands before kneading the dough.",
+          "trans": "Por favor, lávate las manos antes de amasar."
+        }
+      ],
+      "related": [
+        {
+          "word": "clean",
+          "gloss": "limpiar, limpio"
+        },
+        {
+          "word": "water",
+          "gloss": "agua"
+        }
       ]
     },
     "watch": {
@@ -36340,6 +38980,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "wind": {
+      "lemma": "wind",
+      "stress": "wɪnd",
+      "pos": "noun",
+      "gloss": "viento",
+      "meanings": [
+        {
+          "en": "viento",
+          "note": "Como sustantivo ('viento') rima con pinned (/wɪnd/); no confundir con el verbo homógrafo wind /waɪnd/ ('dar cuerda')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Thick glass keeps out the cold harbor wind.",
+          "trans": "El cristal grueso aísla del viento frío del puerto."
+        },
+        {
+          "text": "A brisk autumn wind rustled the linden leaves.",
+          "trans": "Un viento vivo de otoño agitó las hojas del tilo."
+        }
+      ],
+      "related": [
+        {
+          "word": "air",
+          "gloss": "aire"
+        },
+        {
+          "word": "blow",
+          "gloss": "soplar"
+        }
+      ]
     },
     "window": {
       "lemma": "window",
