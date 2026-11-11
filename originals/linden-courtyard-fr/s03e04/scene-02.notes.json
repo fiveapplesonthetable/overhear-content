@@ -584,11 +584,11 @@
         },
         {
           "t": "sunset!",
-          "lemma": "sun",
+          "lemma": "sunset",
           "pos": "noun",
-          "stress": "sʌn",
-          "gloss": "soleil, rayons du soleil",
-          "gram": "pluriel"
+          "stress": "ˈsʌnsɛt",
+          "gloss": "coucher de soleil",
+          "gram": "Nom, sg."
         }
       ]
     },
@@ -716,11 +716,11 @@
         },
         {
           "t": "cleanly!",
-          "lemma": "clean",
-          "pos": "adj",
-          "stress": "klin",
-          "gloss": "propre; nettoyer (verbe)",
-          "gram": "adjectif"
+          "lemma": "cleanly",
+          "pos": "adv",
+          "stress": "ˈklenli",
+          "gloss": "nettement",
+          "gram": "Adverbe"
         },
         {
           "t": "Tell",
@@ -2256,11 +2256,11 @@
         },
         {
           "t": "sunset!",
-          "lemma": "sun",
+          "lemma": "sunset",
           "pos": "noun",
-          "stress": "sʌn",
-          "gloss": "soleil, rayons du soleil",
-          "gram": "pluriel"
+          "stress": "ˈsʌnsɛt",
+          "gloss": "coucher de soleil",
+          "gram": "Nom, sg."
         }
       ]
     },
@@ -2496,11 +2496,11 @@
         },
         {
           "t": "cleanly!",
-          "lemma": "clean",
-          "pos": "adj",
-          "stress": "klin",
-          "gloss": "propre; nettoyer (verbe)",
-          "gram": "adjectif"
+          "lemma": "cleanly",
+          "pos": "adv",
+          "stress": "ˈklenli",
+          "gloss": "nettement",
+          "gram": "Adverbe"
         },
         {
           "t": "Tell",
@@ -4168,11 +4168,11 @@
         },
         {
           "t": "sunset!",
-          "lemma": "sun",
+          "lemma": "sunset",
           "pos": "noun",
-          "stress": "sʌn",
-          "gloss": "soleil, rayons du soleil",
-          "gram": "pluriel"
+          "stress": "ˈsʌnsɛt",
+          "gloss": "coucher de soleil",
+          "gram": "Nom, sg."
         }
       ]
     },
@@ -4300,11 +4300,11 @@
         },
         {
           "t": "cleanly!",
-          "lemma": "clean",
-          "pos": "adj",
-          "stress": "klin",
-          "gloss": "propre; nettoyer (verbe)",
-          "gram": "adjectif"
+          "lemma": "cleanly",
+          "pos": "adv",
+          "stress": "ˈklenli",
+          "gloss": "nettement",
+          "gram": "Adverbe"
         },
         {
           "t": "Tell",
@@ -5802,31 +5802,6 @@
           "gloss": "millimètre"
         }
       ]
-    },
-    "clean": {
-      "lemma": "clean",
-      "stress": "klin",
-      "pos": "adj",
-      "gloss": "propre; nettoyer (verbe)",
-      "meanings": [
-        {
-          "en": "propre; nettoyer (verbe)",
-          "note": "Sert à la fois d'adjectif (\"propre\", voyelle longue /klin/) et de verbe régulier (\"nettoyer\")."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Fresh clean sheets are on the bed.",
-          "trans": "Des draps propres et frais sont sur le lit."
-        },
-        {
-          "text": "Keep a clean cloth behind the counter.",
-          "trans": "Garde un chiffon propre derrière le comptoir."
-        }
-      ],
-      "related": []
     },
     "clip": {
       "lemma": "clip",
@@ -8490,40 +8465,6 @@
       ],
       "related": []
     },
-    "sun": {
-      "lemma": "sun",
-      "stress": "sʌn",
-      "pos": "noun",
-      "gloss": "soleil, rayons du soleil",
-      "meanings": [
-        {
-          "en": "soleil, ensoleillement",
-          "note": "Se prononce exactement comme son (\"fils\": /sʌn/); entre dans de nombreux composés comme sunroom ou sunlight."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Warm bread, hot tea, morning sun, and zero cold wind!",
-          "trans": "Du pain tiède, du thé brûlant, le soleil du matin et zéro vent froid!"
-        },
-        {
-          "text": "Let us sit at the courtyard table in the sun.",
-          "trans": "Asseyons-nous à la table de la cour au soleil."
-        }
-      ],
-      "related": [
-        {
-          "word": "sunroom",
-          "gloss": "véranda"
-        },
-        {
-          "word": "warm",
-          "gloss": "tiède, chaud"
-        }
-      ]
-    },
     "table": {
       "lemma": "table",
       "stress": "ˈteɪbəl",
@@ -9790,6 +9731,54 @@
         {
           "text": "Enjoy your morning coffee!",
           "trans": "Profitez bien de votre café du matin!"
+        }
+      ],
+      "related": []
+    },
+    "cleanly": {
+      "lemma": "cleanly",
+      "stress": "ˈklenli",
+      "pos": "adv",
+      "gram": "Adverbe",
+      "gloss": "nettement",
+      "meanings": [
+        {
+          "en": "nettement, proprement",
+          "note": "D'une manière nette, sans bavure ni accroc"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Because someone tore the recipe card cleanly in half right across the middle!",
+          "trans": "Parce que quelqu'un a déchiré la fiche de recette nettement en deux tout en travers du milieu !"
+        },
+        {
+          "text": "Read the baking instructions aloud so I can copy them cleanly, Tessa.",
+          "trans": "Lisez les instructions de cuisson à voix haute pour que je puisse les recopier proprement, Tessa."
+        }
+      ],
+      "related": []
+    },
+    "sunset": {
+      "lemma": "sunset",
+      "stress": "ˈsʌnsɛt",
+      "pos": "noun",
+      "gram": "Nom, sg.",
+      "gloss": "coucher de soleil",
+      "meanings": [
+        {
+          "en": "coucher de soleil",
+          "note": "Moment où le soleil disparaît sous l'horizon"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Alternate warm gold and soft coral so the whole stone courtyard feels like sunset!",
+          "trans": "Alternez l'or chaud et le corail doux pour que toute la cour de pierre prenne des airs de coucher de soleil !"
         }
       ],
       "related": []

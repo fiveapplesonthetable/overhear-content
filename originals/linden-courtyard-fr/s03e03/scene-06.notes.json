@@ -498,11 +498,11 @@
         },
         {
           "t": "wildflower",
-          "lemma": "flower",
+          "lemma": "wildflower",
           "pos": "noun",
-          "stress": "ˈflaʊɚ",
-          "gloss": "fleur",
-          "gram": "pluriel"
+          "stress": "ˈwaɪldflaʊə",
+          "gloss": "fleur sauvage",
+          "gram": "Nom, sg."
         },
         {
           "t": "honey?!",
@@ -1016,11 +1016,11 @@
         },
         {
           "t": "unsmudged",
-          "lemma": "smudge",
-          "pos": "verb",
-          "stress": "smʌdʒ",
-          "gloss": "baver, faire une tache, brouiller (et nom : bavure, tache)",
-          "gram": "prétérit / participe"
+          "lemma": "unsmudged",
+          "pos": "adj",
+          "stress": "ʌnˈsmʌdʒd",
+          "gloss": "intact",
+          "gram": "Adjectif"
         },
         {
           "t": "word",
@@ -2108,11 +2108,11 @@
         },
         {
           "t": "wildflower",
-          "lemma": "flower",
+          "lemma": "wildflower",
           "pos": "noun",
-          "stress": "ˈflaʊɚ",
-          "gloss": "fleur",
-          "gram": "pluriel"
+          "stress": "ˈwaɪldflaʊə",
+          "gloss": "fleur sauvage",
+          "gram": "Nom, sg."
         },
         {
           "t": "honey?!",
@@ -2162,11 +2162,11 @@
         },
         {
           "t": "wildflower",
-          "lemma": "flower",
+          "lemma": "wildflower",
           "pos": "noun",
-          "stress": "ˈflaʊɚ",
-          "gloss": "fleur",
-          "gram": "pluriel"
+          "stress": "ˈwaɪldflaʊə",
+          "gloss": "fleur sauvage",
+          "gram": "Nom, sg."
         },
         {
           "t": "honey?!",
@@ -2856,11 +2856,11 @@
         },
         {
           "t": "unsmudged",
-          "lemma": "smudge",
-          "pos": "verb",
-          "stress": "smʌdʒ",
-          "gloss": "baver, faire une tache, brouiller (et nom : bavure, tache)",
-          "gram": "prétérit / participe"
+          "lemma": "unsmudged",
+          "pos": "adj",
+          "stress": "ʌnˈsmʌdʒd",
+          "gloss": "intact",
+          "gram": "Adjectif"
         },
         {
           "t": "word",
@@ -4026,11 +4026,11 @@
         },
         {
           "t": "wildflower",
-          "lemma": "flower",
+          "lemma": "wildflower",
           "pos": "noun",
-          "stress": "ˈflaʊɚ",
-          "gloss": "fleur",
-          "gram": "pluriel"
+          "stress": "ˈwaɪldflaʊə",
+          "gloss": "fleur sauvage",
+          "gram": "Nom, sg."
         },
         {
           "t": "honey?!",
@@ -4544,11 +4544,11 @@
         },
         {
           "t": "unsmudged",
-          "lemma": "smudge",
-          "pos": "verb",
-          "stress": "smʌdʒ",
-          "gloss": "baver, faire une tache, brouiller (et nom : bavure, tache)",
-          "gram": "prétérit / participe"
+          "lemma": "unsmudged",
+          "pos": "adj",
+          "stress": "ʌnˈsmʌdʒd",
+          "gloss": "intact",
+          "gram": "Adjectif"
         },
         {
           "t": "word",
@@ -6054,31 +6054,6 @@
           "gloss": "amande"
         }
       ]
-    },
-    "flower": {
-      "lemma": "flower",
-      "stress": "ˈflaʊɚ",
-      "pos": "noun",
-      "gloss": "fleur",
-      "meanings": [
-        {
-          "en": "fleur",
-          "note": "Se prononce exactement comme flour (\"farine\"): /ˈflaʊɚ/ — car tous deux viennent du même mot français!"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Turn left beside the flower stand.",
-          "trans": "Tourne à gauche à côté de l'étal de fleurs."
-        },
-        {
-          "text": "Fresh flowers brighten the front desk.",
-          "trans": "Des fleurs fraîches égayent le comptoir d'accueil."
-        }
-      ],
-      "related": []
     },
     "for": {
       "lemma": "for",
@@ -8943,6 +8918,50 @@
           "gloss": "citron"
         }
       ]
+    },
+    "wildflower": {
+      "lemma": "wildflower",
+      "stress": "ˈwaɪldflaʊə",
+      "pos": "noun",
+      "gram": "Nom, sg.",
+      "gloss": "fleur sauvage",
+      "meanings": [
+        {
+          "en": "fleur sauvage",
+          "note": "Fleur qui pousse naturellement sans avoir été cultivée (ici utilisé pour décrire le miel)"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait — warm H plus grated sweet orange peel! Could H stand for wildflower honey?!",
+          "trans": "Attendez — du H chaud avec de l'écorce d'orange douce râpée ! Est-ce que H voudrait dire miel de fleurs sauvages ?!"
+        }
+      ],
+      "related": []
+    },
+    "unsmudged": {
+      "lemma": "unsmudged",
+      "stress": "ʌnˈsmʌdʒd",
+      "pos": "adj",
+      "gram": "Adjectif",
+      "gloss": "intact",
+      "meanings": [
+        {
+          "en": "intact, non taché",
+          "note": "Qui n'a pas été bavé ou taché"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at the last unsmudged word at the corner: scatter toasted sliced almonds on top.",
+          "trans": "Regardez le dernier mot intact dans le coin : parsemez d'amandes effilées grillées sur le dessus."
+        }
+      ],
+      "related": []
     }
   }
 }
