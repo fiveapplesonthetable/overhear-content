@@ -4038,11 +4038,11 @@
       "lemma": "a",
       "stress": "ə",
       "pos": "det",
-      "gloss": "un, una",
+      "gloss": "一个（不定冠词）",
       "meanings": [
         {
-          "en": "un, una",
-          "note": "Artículo indefinido antes de sonido consonántico."
+          "en": "一个（不定冠词）",
+          "note": "用于以辅音音素开头的可数名词单数前。"
         }
       ],
       "forms": null,
@@ -4050,11 +4050,11 @@
       "examples": [
         {
           "text": "I have a blue pen.",
-          "trans": "Tengo un bolígrafo azul."
+          "trans": "我有一支蓝色的钢笔。"
         },
         {
           "text": "She wants a cup of tea.",
-          "trans": "Ella quiere una taza de té."
+          "trans": "她想要一杯茶。"
         }
       ],
       "related": []
@@ -4063,11 +4063,11 @@
       "lemma": "afternoon",
       "stress": "ˌæftɚˈnun",
       "pos": "noun",
-      "gloss": "tarde",
+      "gloss": "下午，午后",
       "meanings": [
         {
-          "en": "tarde",
-          "note": "Periodo desde el mediodía (noon) hasta el atardecer."
+          "en": "下午，午后",
+          "note": "指正午十二点以后到傍晚之前的时间段。"
         }
       ],
       "forms": null,
@@ -4075,11 +4075,11 @@
       "examples": [
         {
           "text": "Good afternoon, everyone!",
-          "trans": "¡Buenas tardes a todos!"
+          "trans": "大家下午好！"
         },
         {
           "text": "He arrives on Monday afternoon.",
-          "trans": "Él llega el lunes por la tarde."
+          "trans": "他星期一下午抵达。"
         }
       ],
       "related": []
@@ -4088,33 +4088,57 @@
       "lemma": "almond",
       "stress": "ˈɑmənd",
       "pos": "noun",
-      "gloss": "almendra",
+      "gloss": "杏仁",
       "meanings": [
         {
-          "en": "almendra",
-          "note": "La l gráfica es totalmente muda en inglés (/ˈɑmənd/). Delante de otro sustantivo funciona como adjetivo invariable: almond tart shells."
+          "en": "杏仁",
+          "note": "一种可食用的坚果，常用于烘焙。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "almond"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "almonds"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
           "text": "She baked a lemon tart with a crisp almond crust.",
-          "trans": "Horneó una tarta de limón con una base crujiente de almendra."
+          "trans": "这块杏仁牛角包散发着诱人的黄油香气。"
         },
         {
           "text": "Would you like warm almond cookies with your tea?",
-          "trans": "¿Quieres galletas tibias de almendra con el té?"
+          "trans": "她喜欢在燕麦片里撒些烤碎的杏仁。"
         }
       ],
       "related": [
         {
-          "word": "tart",
-          "gloss": "tartaleta"
+          "word": "nut",
+          "gloss": "坚果"
         },
         {
-          "word": "flour",
-          "gloss": "harina"
+          "word": "baking",
+          "gloss": "烘焙"
+        },
+        {
+          "word": "flavor",
+          "gloss": "风味"
         }
       ]
     },
@@ -4122,11 +4146,11 @@
       "lemma": "and",
       "stress": "ænd",
       "pos": "conj",
-      "gloss": "y, e",
+      "gloss": "和，与，然后",
       "meanings": [
         {
-          "en": "y, e",
-          "note": "Conjunción copulativa básica."
+          "en": "和，与，然后",
+          "note": "最基本的并列连词，连接词、短语或分句。"
         }
       ],
       "forms": null,
@@ -4134,11 +4158,11 @@
       "examples": [
         {
           "text": "Bring bread and butter, please.",
-          "trans": "Trae pan y mantequilla, por favor."
+          "trans": "请拿些面包和黄油来。"
         },
         {
           "text": "Wash your hands and sit down.",
-          "trans": "Lávate las manos y siéntate."
+          "trans": "洗洗手然后坐下吧。"
         }
       ],
       "related": []
@@ -4147,11 +4171,11 @@
       "lemma": "at",
       "stress": "æt",
       "pos": "prep",
-      "gloss": "en; a (las)",
+      "gloss": "在（某处或某时刻）",
       "meanings": [
         {
-          "en": "en; a (las)",
-          "note": "Marca horas exactas y puntos concretos (at seven, at the desk)."
+          "en": "在（某处或某时刻）",
+          "note": "用于具体钟点（at seven）和具体地点（at the desk）。"
         }
       ],
       "forms": null,
@@ -4159,11 +4183,11 @@
       "examples": [
         {
           "text": "Breakfast starts at seven thirty.",
-          "trans": "El desayuno empieza a las siete y media."
+          "trans": "早餐七点半开始。"
         },
         {
           "text": "Someone is waiting at the gate.",
-          "trans": "Alguien espera en la entrada."
+          "trans": "有人在大门口等着。"
         }
       ],
       "related": []
@@ -4172,58 +4196,115 @@
       "lemma": "aunt",
       "stress": "ænt",
       "pos": "noun",
-      "gloss": "tía",
+      "gloss": "姑姑；阿姨",
       "meanings": [
         {
-          "en": "tía",
-          "note": "En inglés estadounidense corriente se pronuncia casi siempre /ænt/ (a veces /ɑnt/ en Nueva Inglaterra)."
+          "en": "姑姑；阿姨",
+          "note": "父亲或母亲的姐妹。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "aunt"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "aunts"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
           "text": "My aunt played the piano every Friday evening.",
-          "trans": "Mi tía tocaba el piano todos los viernes por la tarde."
+          "trans": "我的阿姨每个周末都会来这里喝红茶。"
         },
         {
           "text": "We visited his aunt in Portland last summer.",
-          "trans": "Visitamos a su tía en Portland el verano pasado."
+          "trans": "这位和蔼可亲的女士就像大家的阿姨一样。"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "relative",
+          "gloss": "亲戚"
+        },
+        {
+          "word": "uncle",
+          "gloss": "叔叔"
+        },
+        {
+          "word": "family",
+          "gloss": "家庭"
+        }
+      ]
     },
     "bar": {
       "lemma": "bar",
       "stress": "bɑɹ",
       "pos": "noun",
-      "gloss": "compás (música); barra; mostrador",
+      "gloss": "吧台；条块",
       "meanings": [
         {
-          "en": "compás (música); barra; mostrador",
-          "note": "En música designa cada compás separado por una línea vertical en la partitura (bar twenty-eight = 'el compás veintiocho')."
+          "en": "吧台；条块",
+          "note": "柜台；或指长条形的固体。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "bar"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "bars"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
           "text": "May I write the missing sixteen bars of the waltz?",
-          "trans": "¿Puedo escribir los dieciséis compases que faltan del vals?"
+          "trans": "他坐在吧台前，点了一杯特调意式浓缩。"
         },
         {
           "text": "Right in bar twenty-eight, the melody lands on D.",
-          "trans": "Justo en el compás veintiocho, la melodía aterriza en re."
+          "trans": "这块黑巧克力条非常适合用来做甘纳许。"
         }
       ],
       "related": [
         {
-          "word": "note",
-          "gloss": "nota"
+          "word": "counter",
+          "gloss": "柜台"
         },
         {
-          "word": "page",
-          "gloss": "página"
+          "word": "pub",
+          "gloss": "酒吧"
+        },
+        {
+          "word": "block",
+          "gloss": "块"
         }
       ]
     },
@@ -4231,11 +4312,11 @@
       "lemma": "be",
       "stress": "bi",
       "pos": "verb",
-      "gloss": "ser, estar",
+      "gloss": "是；在；处于",
       "meanings": [
         {
-          "en": "ser, estar",
-          "note": "Cubre tanto ser como estar (am, is, are / was, were)."
+          "en": "是；在；处于",
+          "note": "英语核心系动词，现在时随人称变为 am、is、are，过去时为 was、were。"
         }
       ],
       "forms": {
@@ -4281,11 +4362,11 @@
       "examples": [
         {
           "text": "The keys are on the desk.",
-          "trans": "Las llaves están sobre el mostrador."
+          "trans": "钥匙在书桌上。"
         },
         {
           "text": "She wants to be a teacher.",
-          "trans": "Ella quiere ser profesora."
+          "trans": "她想成为一名老师。"
         }
       ],
       "related": []
@@ -4294,11 +4375,11 @@
       "lemma": "beginning",
       "stress": "bɪˈɡɪnɪŋ",
       "pos": "noun",
-      "gloss": "comienzo, principio, inicio",
+      "gloss": "开始，开端",
       "meanings": [
         {
-          "en": "comienzo, principio, inicio",
-          "note": "Sustantivo derivado del verbo begin ('empezar'); en música nombra la sección inicial de una pieza (a light dancing beginning)."
+          "en": "开始，开端",
+          "note": ""
         }
       ],
       "forms": null,
@@ -4306,11 +4387,11 @@
       "examples": [
         {
           "text": "The waltz has a light, dancing beginning.",
-          "trans": "El vals tiene un comienzo ligero y bailarín."
+          "trans": "这首华尔兹有一个轻快起舞的开端。"
         },
         {
           "text": "Let us listen to the song from the very beginning.",
-          "trans": "Escuchemos la canción desde el mismo principio."
+          "trans": "让我们从最开始听这首歌。"
         }
       ],
       "related": [
@@ -4332,11 +4413,11 @@
       "lemma": "biscuit",
       "stress": "ˈbɪskɪt",
       "pos": "noun",
-      "gloss": "galleta, pasta de té; panecillo",
+      "gloss": "饼干，小点心；烤饼",
       "meanings": [
         {
-          "en": "galleta, pasta de té; panecillo",
-          "note": "La u es muda (/ˈbɪskɪt/). En el mundo anglosajón designa pastas horneadas de té o panecillos tiernos de mantequilla."
+          "en": "饼干，小点心；烤饼",
+          "note": ""
         }
       ],
       "forms": null,
@@ -4344,11 +4425,11 @@
       "examples": [
         {
           "text": "Have a warm almond biscuit with your mint tea.",
-          "trans": "Toma una galleta caliente de almendra con tu té de menta."
+          "trans": "吃块热杏仁饼干，配你的薄荷茶。"
         },
         {
           "text": "She arranged a dozen fresh biscuits on a white plate.",
-          "trans": "Ella dispuso una docena de pastas recién horneadas en un plato blanco."
+          "trans": "她把一打刚烤好的饼干放在一个白盘子里。"
         }
       ],
       "related": [
@@ -4370,11 +4451,11 @@
       "lemma": "both",
       "stress": "boʊθ",
       "pos": "det",
-      "gloss": "ambos, los dos",
+      "gloss": "两者都，双方",
       "meanings": [
         {
-          "en": "ambos, los dos",
-          "note": "Refiere exactamente a dos personas o cosas."
+          "en": "两者都，双方",
+          "note": "专门指代两个人或两样事物。"
         }
       ],
       "forms": null,
@@ -4382,11 +4463,11 @@
       "examples": [
         {
           "text": "Both windows face the garden.",
-          "trans": "Las dos ventanas dan al jardín."
+          "trans": "两扇窗户都朝向花园。"
         },
         {
           "text": "Thank you both for your help.",
-          "trans": "Gracias a los dos por su ayuda."
+          "trans": "非常感谢你们二位的帮忙。"
         }
       ],
       "related": []
@@ -4395,11 +4476,11 @@
       "lemma": "bright",
       "stress": "bɹaɪt",
       "pos": "adj",
-      "gloss": "luminoso, brillante, radiante",
+      "gloss": "明亮的，晴朗的，灿烂的",
       "meanings": [
         {
-          "en": "luminoso, brillante, radiante",
-          "note": "Describe luz intensa, colores vivos o mañanas despejadas."
+          "en": "明亮的，晴朗的，灿烂的",
+          "note": "常用来形容阳光充足、色彩鲜明或雨后放晴的早晨。"
         }
       ],
       "forms": null,
@@ -4407,11 +4488,11 @@
       "examples": [
         {
           "text": "What a bright morning after the rain!",
-          "trans": "¡Qué mañana tan luminosa después de la lluvia!"
+          "trans": "雨后放晴的早晨多么明亮啊！"
         },
         {
           "text": "Step out into the bright sunlight.",
-          "trans": "Sal a la luz radiante del sol."
+          "trans": "走到外面灿烂的阳光下来吧。"
         }
       ],
       "related": []
@@ -4420,11 +4501,11 @@
       "lemma": "climb",
       "stress": "klaɪm",
       "pos": "verb",
-      "gloss": "subir, trepar",
+      "gloss": "攀登，爬上（楼梯或山坡）",
       "meanings": [
         {
-          "en": "subir, trepar",
-          "note": "La b final es siempre muda (/klaɪm/, climbed /klaɪmd/)."
+          "en": "攀登，爬上（楼梯或山坡）",
+          "note": "词尾字母 b 不发音；climb the stairs 即“爬楼梯”。"
         }
       ],
       "forms": {
@@ -4470,11 +4551,11 @@
       "examples": [
         {
           "text": "Let us climb the wooden stairs.",
-          "trans": "Subamos por la escalera de madera."
+          "trans": "咱们爬木楼梯上去吧。"
         },
         {
           "text": "She climbed to the third floor.",
-          "trans": "Ella subió hasta el tercer piso."
+          "trans": "她爬到了三楼。"
         }
       ],
       "related": []
@@ -4483,11 +4564,11 @@
       "lemma": "come",
       "stress": "kʌm",
       "pos": "verb",
-      "gloss": "venir, llegar",
+      "gloss": "来，过来",
       "meanings": [
         {
-          "en": "venir, llegar",
-          "note": "Pasado came, pero el participio vuelve a ser come."
+          "en": "来，过来",
+          "note": "不规则动词：过去式 came，过去分词又回到 come。"
         }
       ],
       "forms": {
@@ -4533,11 +4614,11 @@
       "examples": [
         {
           "text": "Come inside out of the rain!",
-          "trans": "¡Entra para resguardarte de la lluvia!"
+          "trans": "快进屋避避雨吧！"
         },
         {
           "text": "Guests come down for coffee at eight.",
-          "trans": "Los huéspedes bajan a tomar café a las ocho."
+          "trans": "客人们八点钟下楼喝咖啡。"
         }
       ],
       "related": []
@@ -4546,11 +4627,11 @@
       "lemma": "composer",
       "stress": "kəmˈpoʊzɚ",
       "pos": "noun",
-      "gloss": "compositor, compositora",
+      "gloss": "作曲家",
       "meanings": [
         {
-          "en": "compositor, compositora",
-          "note": "Formado añadiendo el sufijo de agente -er al verbo compose ('componer música')."
+          "en": "作曲家",
+          "note": ""
         }
       ],
       "forms": null,
@@ -4558,11 +4639,11 @@
       "examples": [
         {
           "text": "Nobody knew the name of the young composer.",
-          "trans": "Nadie sabía el nombre del joven compositor."
+          "trans": "没人知道这位年轻作曲家的名字。"
         },
         {
           "text": "The composer penciled a date above the melody.",
-          "trans": "La compositora anotó a lápiz una fecha encima de la melodía."
+          "trans": "作曲家在旋律上方用铅笔写下了一个日期。"
         }
       ],
       "related": [
@@ -4580,11 +4661,11 @@
       "lemma": "conversation",
       "stress": "ˌkɑnvɚˈseɪʃən",
       "pos": "noun",
-      "gloss": "conversación, charla",
+      "gloss": "对话，交谈",
       "meanings": [
         {
-          "en": "conversación, charla",
-          "note": "El acento principal recae en la penúltima sílaba (-sa-): /ˌkɑnvɚˈseɪʃən/."
+          "en": "对话，交谈",
+          "note": ""
         }
       ],
       "forms": null,
@@ -4592,11 +4673,11 @@
       "examples": [
         {
           "text": "Quiet music leaves room for easy conversation.",
-          "trans": "La música suave deja espacio para una conversación tranquila."
+          "trans": "轻柔的音乐为安静的交谈留出了空间。"
         },
         {
           "text": "We had a warm conversation over morning tea.",
-          "trans": "Tuvimos una charla cálida tomando el té de la mañana."
+          "trans": "我们在喝早茶时进行了温暖的交谈。"
         }
       ],
       "related": [
@@ -4614,11 +4695,11 @@
       "lemma": "cup",
       "stress": "kʌp",
       "pos": "noun",
-      "gloss": "taza",
+      "gloss": "杯子，茶杯",
       "meanings": [
         {
-          "en": "taza",
-          "note": "Recipiente con asa para bebidas calientes."
+          "en": "杯子，茶杯",
+          "note": "通常指带把手的茶杯或咖啡杯（玻璃杯则多用 glass）。"
         }
       ],
       "forms": null,
@@ -4626,11 +4707,11 @@
       "examples": [
         {
           "text": "Set four blue cups on the tray.",
-          "trans": "Pon cuatro tazas azules en la bandeja."
+          "trans": "在托盘上摆四个蓝杯子。"
         },
         {
           "text": "Would you like a cup of hot mint tea?",
-          "trans": "¿Quieres una taza de té de menta caliente?"
+          "trans": "您想来一杯热薄荷茶吗？"
         }
       ],
       "related": []
@@ -4639,33 +4720,57 @@
       "lemma": "d",
       "stress": "di",
       "pos": "noun",
-      "gloss": "re (nota musical D); letra D",
+      "gloss": "字母D；唱名Re",
       "meanings": [
         {
-          "en": "re (nota musical D); letra D",
-          "note": "En la notación anglosajona las notas van de A (la) a G (sol): C es do y D es re (middle D = re central)."
+          "en": "字母D；唱名Re",
+          "note": "英文字母表第四个字母，或表示音符。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "d"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "ds"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
           "text": "Middle D on the old piano makes no sound.",
-          "trans": "El re central del viejo piano no suena."
+          "trans": "他在笔记本上写下了一个花体字母D。"
         },
         {
           "text": "Tune the guitar string up to D.",
-          "trans": "Afina la cuerda de la guitarra hasta re."
+          "trans": "这段旋律是以大调的D音开始的。"
         }
       ],
       "related": [
         {
-          "word": "note",
-          "gloss": "nota musical"
+          "word": "letter",
+          "gloss": "字母"
         },
         {
-          "word": "chord",
-          "gloss": "acorde"
+          "word": "note",
+          "gloss": "音符"
+        },
+        {
+          "word": "alphabet",
+          "gloss": "字母表"
         }
       ]
     },
@@ -4673,11 +4778,11 @@
       "lemma": "dance",
       "stress": "dæns",
       "pos": "verb",
-      "gloss": "bailar, danzar",
+      "gloss": "跳舞，舞蹈",
       "meanings": [
         {
-          "en": "bailar, danzar",
-          "note": "Su forma en -ing funciona a menudo como adjetivo musical: a light dancing beginning ('un comienzo ligero y bailarín')."
+          "en": "跳舞，舞蹈",
+          "note": ""
         }
       ],
       "forms": {
@@ -4723,11 +4828,11 @@
       "examples": [
         {
           "text": "Arthur's aunt wrote a light dancing beginning for the waltz.",
-          "trans": "La tía de Arthur escribió un comienzo ligero y bailarín para el vals."
+          "trans": "亚瑟的姑姑为这首华尔兹写了一个轻快起舞的开端。"
         },
         {
           "text": "Sunlight danced across the clean glass panes.",
-          "trans": "La luz del sol bailaba sobre los cristales limpios de la ventana."
+          "trans": "阳光在干净的窗玻璃上跳动。"
         }
       ],
       "related": [
@@ -4749,11 +4854,11 @@
       "lemma": "do",
       "stress": "du",
       "pos": "verb",
-      "gloss": "hacer; auxiliar de pregunta/negación",
+      "gloss": "做，干；（助动词）",
       "meanings": [
         {
-          "en": "hacer; auxiliar de pregunta/negación",
-          "note": "Funciona como verbo léxico ('hacer') y auxiliar en presente/pasado."
+          "en": "做，干；（助动词）",
+          "note": "既可作实义动词“做”，也可在一般现在时疑问句和否定句中充当助动词。"
         }
       ],
       "forms": {
@@ -4799,11 +4904,11 @@
       "examples": [
         {
           "text": "Do you want sugar in your coffee?",
-          "trans": "¿Quieres azúcar en el café?"
+          "trans": "你的咖啡里要加糖吗？"
         },
         {
           "text": "What should we do with this package?",
-          "trans": "¿Qué debemos hacer con este paquete?"
+          "trans": "我们该怎么处理这个包裹？"
         }
       ],
       "related": []
@@ -4812,33 +4917,57 @@
       "lemma": "end",
       "stress": "ɛnd",
       "pos": "noun",
-      "gloss": "final, fin, extremo",
+      "gloss": "结尾；端点",
       "meanings": [
         {
-          "en": "final, fin, extremo",
-          "note": "Se usa tanto para el tiempo (before month's end = antes de fin de mes) como para el espacio (at the end of the hall)."
+          "en": "结尾；端点",
+          "note": "指事物的边缘、末端或时间、事件的最后一部分。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "end"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "ends"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
           "text": "We need the cafe open before month's end.",
-          "trans": "Necesitamos tener la cafetería abierta antes de fin de mes."
+          "trans": "你能把沙发的另一端抬起来吗？"
         },
         {
           "text": "Room Four is at the quiet end of the hallway.",
-          "trans": "La habitación cuatro está al fondo tranquilo del pasillo."
+          "trans": "我们终于走到了走廊的尽头。"
         }
       ],
       "related": [
         {
-          "word": "finish",
-          "gloss": "terminar"
+          "word": "start",
+          "gloss": "开始"
         },
         {
-          "word": "start",
-          "gloss": "empezar, comienzo"
+          "word": "edge",
+          "gloss": "边缘"
+        },
+        {
+          "word": "conclusion",
+          "gloss": "结论"
         }
       ]
     },
@@ -4846,11 +4975,11 @@
       "lemma": "ending",
       "stress": "ˈɛndɪŋ",
       "pos": "noun",
-      "gloss": "final, desenlace, conclusión",
+      "gloss": "结局，结尾，结论",
       "meanings": [
         {
-          "en": "final, desenlace, conclusión",
-          "note": "Sustantivo derivado de end ('terminar'); designa los últimos compases de una pieza musical o el desenlace de un relato."
+          "en": "结局，结尾，结论",
+          "note": ""
         }
       ],
       "forms": null,
@@ -4858,11 +4987,11 @@
       "examples": [
         {
           "text": "Does the ending go fast and bright, or gentle and slow?",
-          "trans": "¿El final va rápido y brillante, o suave y lento?"
+          "trans": "结局是快而明亮，还是柔和而缓慢？"
         },
         {
           "text": "Evelyn composed a warm, unhurried ending for the waltz.",
-          "trans": "Evelyn compuso un final cálido y pausado para el vals."
+          "trans": "伊芙琳为这首华尔兹谱写了一个温暖从容的结尾。"
         }
       ],
       "related": [
@@ -4880,11 +5009,11 @@
       "lemma": "evening",
       "stress": "ˈivnɪŋ",
       "pos": "noun",
-      "gloss": "tarde-noche ( ~18:00 a ~22:00 )",
+      "gloss": "傍晚，晚上",
       "meanings": [
         {
-          "en": "tarde-noche ( ~18:00 a ~22:00 )",
-          "note": "Good evening saluda al llegar; good night despide al irse."
+          "en": "傍晚，晚上",
+          "note": "Good evening 用于傍晚或晚间见面问好；睡前或道别时才说 Good night。"
         }
       ],
       "forms": null,
@@ -4892,11 +5021,11 @@
       "examples": [
         {
           "text": "Good evening! Do you have a reservation?",
-          "trans": "¡Buenas noches! ¿Tiene una reserva?"
+          "trans": "晚上好！请问您有预订吗？"
         },
         {
           "text": "We serve herbal tea every evening at eight.",
-          "trans": "Servimos té de hierbas cada tarde-noche a las ocho."
+          "trans": "我们每晚八点供应花草茶。"
         }
       ],
       "related": []
@@ -4905,11 +5034,11 @@
       "lemma": "exact",
       "stress": "ɪɡˈzækt",
       "pos": "adj",
-      "gloss": "exacto, preciso",
+      "gloss": "精确的，丝毫不差的",
       "meanings": [
         {
-          "en": "exacto, preciso",
-          "note": "Muy común en the exact same ('exactamente el mismo')."
+          "en": "精确的，丝毫不差的",
+          "note": "常用于 the exact same（一模一样的）或 exact change（正好的零钱）。"
         }
       ],
       "forms": null,
@@ -4917,11 +5046,11 @@
       "examples": [
         {
           "text": "They carried the exact same blue suitcase.",
-          "trans": "Llevaban exactamente la misma maleta azul."
+          "trans": "他们提着一模一样的蓝色行李箱。"
         },
         {
           "text": "Do you have the exact address?",
-          "trans": "¿Tienes la dirección exacta?"
+          "trans": "你有确切的地址吗？"
         }
       ],
       "related": []
@@ -4930,11 +5059,11 @@
       "lemma": "exactly",
       "stress": "ɪɡˈzæktli",
       "pos": "adv",
-      "gloss": "exactamente",
+      "gloss": "正是如此；确切地",
       "meanings": [
         {
-          "en": "exactamente",
-          "note": "Sirve también como respuesta entusiasta de acuerdo: Exactly!"
+          "en": "正是如此；确切地",
+          "note": "单独成句 Exactly! 是口语中非常地道的“一点没错！正是这样！”。"
         }
       ],
       "forms": null,
@@ -4942,11 +5071,11 @@
       "examples": [
         {
           "text": "That is exactly what happened!",
-          "trans": "¡Eso es exactamente lo que pasó!"
+          "trans": "事情的经过正是这样！"
         },
         {
           "text": "The train arrived at noon exactly.",
-          "trans": "El tren llegó exactamente al mediodía."
+          "trans": "火车在正午十二点准时抵达。"
         }
       ],
       "related": []
@@ -4955,11 +5084,11 @@
       "lemma": "fast",
       "stress": "fæst",
       "pos": "adv",
-      "gloss": "rápido, deprisa",
+      "gloss": "快地；快速的",
       "meanings": [
         {
-          "en": "rápido, deprisa",
-          "note": "Adverbio invariable; nunca se dice *fastly*."
+          "en": "快地；快速的",
+          "note": "形容词与副词同形，修饰动作“走得快”直接说 walk fast（绝不加 -ly）。"
         }
       ],
       "forms": null,
@@ -4967,11 +5096,11 @@
       "examples": [
         {
           "text": "I always walk fast in cool weather.",
-          "trans": "Siempre camino rápido cuando hace fresco."
+          "trans": "天凉时我走路总是很快。"
         },
         {
           "text": "Do not speak too fast on the phone.",
-          "trans": "No hables demasiado rápido por teléfono."
+          "trans": "在电话里说话别太快。"
         }
       ],
       "related": []
@@ -4980,11 +5109,11 @@
       "lemma": "footstep",
       "stress": "ˈfʊtˌstɛp",
       "pos": "noun",
-      "gloss": "paso, pisada",
+      "gloss": "脚步，脚步声",
       "meanings": [
         {
-          "en": "paso, pisada",
-          "note": "Casi siempre aparece en plural (footsteps) al oír a alguien caminar."
+          "en": "脚步，脚步声",
+          "note": "听到有人走动时几乎总是用复数形式 footsteps。"
         }
       ],
       "forms": null,
@@ -4992,11 +5121,11 @@
       "examples": [
         {
           "text": "I heard footsteps on the stairs.",
-          "trans": "Oí pasos en la escalera."
+          "trans": "我听见楼梯上有脚步声。"
         },
         {
           "text": "Quiet footsteps crossed the courtyard.",
-          "trans": "Pasos suaves cruzaron el patio."
+          "trans": "轻柔的脚步声穿过了庭院。"
         }
       ],
       "related": []
@@ -5005,11 +5134,11 @@
       "lemma": "for",
       "stress": "fɔɹ",
       "pos": "prep",
-      "gloss": "para; por, durante",
+      "gloss": "给，为了；持续（一段时间）",
       "meanings": [
         {
-          "en": "para; por, durante",
-          "note": "Indica destinatario (for you), propósito (for breakfast) o duración."
+          "en": "给，为了；持续（一段时间）",
+          "note": "用途极广的介词，表示对象（a room for Evelyn）、用途（for breakfast）或时长。"
         }
       ],
       "forms": null,
@@ -5017,11 +5146,11 @@
       "examples": [
         {
           "text": "This package arrived for room two.",
-          "trans": "Este paquete llegó para la habitación dos."
+          "trans": "这个包裹是寄给二号房的。"
         },
         {
           "text": "Wait here for just a moment.",
-          "trans": "Espera aquí solo un momento."
+          "trans": "请在这里稍等片刻。"
         }
       ],
       "related": []
@@ -5030,11 +5159,11 @@
       "lemma": "four",
       "stress": "fɔɹ",
       "pos": "num",
-      "gloss": "cuatro",
+      "gloss": "四",
       "meanings": [
         {
-          "en": "cuatro",
-          "note": "Suena igual que la preposición for en forma tónica."
+          "en": "四",
+          "note": "基础数词；放在名词 room 后（room four）表示编号“四号房”，无需加冠词。"
         }
       ],
       "forms": null,
@@ -5042,11 +5171,11 @@
       "examples": [
         {
           "text": "Room four looks out on the courtyard.",
-          "trans": "La habitación cuatro da al patio."
+          "trans": "四号房朝向庭院。"
         },
         {
           "text": "Please bring four spoons for the table.",
-          "trans": "Por favor trae cuatro cucharas para la mesa."
+          "trans": "请给餐桌拿四把勺子来。"
         }
       ],
       "related": []
@@ -5055,11 +5184,11 @@
       "lemma": "friday",
       "stress": "ˈfɹaɪdeɪ",
       "pos": "noun",
-      "gloss": "viernes",
+      "gloss": "星期五",
       "meanings": [
         {
-          "en": "viernes",
-          "note": "Los días de la semana llevan siempre mayúscula y preposición on."
+          "en": "星期五",
+          "note": "星期名称首字母永远大写；表示“在周五”用 on Friday，口语中也可直接作状语。"
         }
       ],
       "forms": null,
@@ -5067,11 +5196,11 @@
       "examples": [
         {
           "text": "Our weekend guests arrive on Friday.",
-          "trans": "Nuestros huéspedes de fin de semana llegan el viernes."
+          "trans": "我们的周末住客在星期五抵达。"
         },
         {
           "text": "See you on Friday morning!",
-          "trans": "¡Nos vemos el viernes por la mañana!"
+          "trans": "周五早上见！"
         }
       ],
       "related": []
@@ -5080,11 +5209,11 @@
       "lemma": "friend",
       "stress": "fɹɛnd",
       "pos": "noun",
-      "gloss": "amigo, amiga",
+      "gloss": "朋友",
       "meanings": [
         {
-          "en": "amigo, amiga",
-          "note": "La i es muda; rima con send y end."
+          "en": "朋友",
+          "note": "可数名词；字母 i 不发音，读音与 send 押韵。"
         }
       ],
       "forms": null,
@@ -5092,11 +5221,11 @@
       "examples": [
         {
           "text": "Tessa is an old friend of ours.",
-          "trans": "Tessa es una vieja amiga nuestra."
+          "trans": "泰莎是我们的老朋友。"
         },
         {
           "text": "Two friends shared tea in the courtyard.",
-          "trans": "Dos amigos compartieron té en el patio."
+          "trans": "两位朋友在庭院里共享茶点。"
         }
       ],
       "related": []
@@ -5105,11 +5234,11 @@
       "lemma": "gentle",
       "stress": "ˈdʒɛntəl",
       "pos": "adj",
-      "gloss": "suave, apacible, amable",
+      "gloss": "轻柔的，温和的，文雅的",
       "meanings": [
         {
-          "en": "suave, apacible, amable",
-          "note": "Describe movimientos delicados, brisas leves o personas de trato dulce."
+          "en": "轻柔的，温和的，文雅的",
+          "note": "形容微风和煦、转动阀门动作轻缓或性情温和。"
         }
       ],
       "forms": null,
@@ -5117,11 +5246,11 @@
       "examples": [
         {
           "text": "A gentle breeze cooled the courtyard.",
-          "trans": "Una brisa suave refrescó el patio."
+          "trans": "一阵轻柔的微风吹凉了庭院。"
         },
         {
           "text": "Give the brass wheel a gentle turn.",
-          "trans": "Dale un giro suave a la rueda de latón."
+          "trans": "把那个黄铜手轮轻轻转一下。"
         }
       ],
       "related": []
@@ -5130,11 +5259,11 @@
       "lemma": "glass",
       "stress": "ɡlæs",
       "pos": "noun",
-      "gloss": "vaso, copa; vidrio",
+      "gloss": "玻璃杯；玻璃",
       "meanings": [
         {
-          "en": "vaso, copa; vidrio",
-          "note": "Contable como 'vaso' (a glass of water); incontable como 'vidrio'."
+          "en": "玻璃杯；玻璃",
+          "note": "指“水杯、酒杯”时可数（half a glass 半杯）；指材质“玻璃”时不可数。"
         }
       ],
       "forms": null,
@@ -5142,11 +5271,11 @@
       "examples": [
         {
           "text": "May I have a glass of cold water?",
-          "trans": "¿Me da un vaso de agua fría?"
+          "trans": "我可以要一杯冷水吗？"
         },
         {
           "text": "Raindrops tapped against the window glass.",
-          "trans": "Las gotas golpeaban el vidrio de la ventana."
+          "trans": "雨滴轻轻敲打着窗玻璃。"
         }
       ],
       "related": []
@@ -5155,11 +5284,11 @@
       "lemma": "go",
       "stress": "ɡoʊ",
       "pos": "verb",
-      "gloss": "ir, marcharse",
+      "gloss": "去，走；放置于",
       "meanings": [
         {
-          "en": "ir, marcharse",
-          "note": "Pasado irregular supletivo went (antiguo pasado de wend)."
+          "en": "去，走；放置于",
+          "note": "除表示“前往”外，Where do the spoons go? 地道表示“勺子该摆放在哪里？”。"
         }
       ],
       "forms": {
@@ -5205,11 +5334,11 @@
       "examples": [
         {
           "text": "Let us go into the dining room.",
-          "trans": "Pasemos al comedor."
+          "trans": "我们去餐厅吧。"
         },
         {
           "text": "She went to the market at seven.",
-          "trans": "Ella fue al mercado a las siete."
+          "trans": "她七点钟去集市了。"
         }
       ],
       "related": []
@@ -5218,11 +5347,11 @@
       "lemma": "have",
       "stress": "hæv",
       "pos": "verb",
-      "gloss": "tener; tomar (comida/bebida); haber",
+      "gloss": "有；吃，喝",
       "meanings": [
         {
-          "en": "tener; tomar (comida/bebida); haber",
-          "note": "Tercera persona singular irregular: has (/hæz/)."
+          "en": "有；吃，喝",
+          "note": "第三人称单数现在时为不规则形式 has，过去式为 had。"
         }
       ],
       "forms": {
@@ -5268,11 +5397,11 @@
       "examples": [
         {
           "text": "Do you have a reservation for tonight?",
-          "trans": "¿Tiene una reserva para esta noche?"
+          "trans": "请问您今晚有预订吗？"
         },
         {
           "text": "Let us have coffee in the courtyard.",
-          "trans": "Tomemos café en el patio."
+          "trans": "我们在庭院里喝杯咖啡吧。"
         }
       ],
       "related": []
@@ -5281,11 +5410,11 @@
       "lemma": "hear",
       "stress": "hɪɹ",
       "pos": "verb",
-      "gloss": "oír, escuchar",
+      "gloss": "听见，听到",
       "meanings": [
         {
-          "en": "oír, escuchar",
-          "note": "Pasado y participio irregulares heard (/hɝd/)."
+          "en": "听见，听到",
+          "note": "强调耳朵接收到声音的结果（注意听的过程则用 listen to）；过去式 heard。"
         }
       ],
       "forms": {
@@ -5331,42 +5460,76 @@
       "examples": [
         {
           "text": "Did you hear the front desk bell?",
-          "trans": "¿Oíste el timbre de recepción?"
+          "trans": "你听见前台的铃声了吗？"
         },
         {
           "text": "I heard footsteps on the stairs.",
-          "trans": "Oí pasos en la escalera."
+          "trans": "我听见楼梯上有脚步声。"
         }
       ],
       "related": []
     },
     "high": {
       "lemma": "high",
-      "gloss": "alto, elevado; agudo (en música)",
       "stress": "haɪ",
       "pos": "adj",
-      "forms": null,
-      "moreForms": [],
+      "gloss": "高的",
       "meanings": [
         {
-          "en": "alto, elevado; agudo (en música)",
-          "note": "El grupo final gh es mudo (/haɪ/); en música indica un registro más agudo (one octave high)."
+          "en": "高的",
+          "note": "形容物体距离地面较高，或在量度、地位、音调等方面处于较高水平。"
         }
       ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "high"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "higher"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "highest"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
       "examples": [
         {
           "text": "Repeat the four notes softly, one octave higher.",
-          "trans": "Repite las cuatro notas suavemente, una octava más arriba."
+          "trans": "这座山非常高，爬到山顶需要一整天。"
         },
         {
           "text": "Sunlight reached the high stone wall of the courtyard.",
-          "trans": "La luz del sol alcanzaba el alto muro de piedra del patio."
+          "trans": "她用很高的音调唱完了这首歌曲。"
         }
       ],
       "related": [
         {
+          "word": "tall",
+          "gloss": "高的"
+        },
+        {
+          "word": "elevated",
+          "gloss": "升高的"
+        },
+        {
           "word": "low",
-          "gloss": "bajo, grave"
+          "gloss": "低的"
         }
       ]
     },
@@ -5374,11 +5537,11 @@
       "lemma": "his",
       "stress": "hɪz",
       "pos": "det",
-      "gloss": "su (de él), suyo",
+      "gloss": "他的；他的东西",
       "meanings": [
         {
-          "en": "su (de él), suyo",
-          "note": "Funciona como determinante (his coat) y pronombre posesivo (mine and his)."
+          "en": "他的；他的东西",
+          "note": "同形兼作形容词性物主代词（his bag 他的包）和独立名词性物主代词。"
         }
       ],
       "forms": null,
@@ -5386,11 +5549,11 @@
       "examples": [
         {
           "text": "Arthur checked his watch at the door.",
-          "trans": "Arthur miró su reloj junto a la puerta."
+          "trans": "亚瑟在门口看了一眼他的手表。"
         },
         {
           "text": "That dark umbrella by the desk is his.",
-          "trans": "Ese paraguas oscuro junto al mostrador es suyo."
+          "trans": "书桌旁那把深色雨伞是他的。"
         }
       ],
       "related": []
@@ -5399,11 +5562,11 @@
       "lemma": "home",
       "stress": "hoʊm",
       "pos": "noun",
-      "gloss": "hogar, casa; en casa (adv.)",
+      "gloss": "家，住所；在家（副词）",
       "meanings": [
         {
-          "en": "hogar, casa; en casa (adv.)",
-          "note": "Con verbos como stay, go o come se usa directamente sin preposición (stay home)."
+          "en": "家，住所；在家（副词）",
+          "note": "与 stay、go、come 连用时作副词，前面不加介词（如 stay home 待在家里）。"
         }
       ],
       "forms": null,
@@ -5411,11 +5574,11 @@
       "examples": [
         {
           "text": "Hannah found a warm new home here.",
-          "trans": "Hannah encontró aquí un cálido nuevo hogar."
+          "trans": "汉娜在这里找到了温暖的新家。"
         },
         {
           "text": "I feared my brother would stay home.",
-          "trans": "Temía que mi hermano se quedara en casa."
+          "trans": "我原本担心弟弟会待在家里不肯来。"
         }
       ],
       "related": []
@@ -5424,11 +5587,11 @@
       "lemma": "hot",
       "stress": "hɑt",
       "pos": "adj",
-      "gloss": "caliente, caluroso",
+      "gloss": "热的，滚烫的",
       "meanings": [
         {
-          "en": "caliente, caluroso",
-          "note": "Para bebidas muy calientes o clima caluroso (tibio es warm)."
+          "en": "热的，滚烫的",
+          "note": "表示温度较高（如 hot tea 热茶、hot water 热水），比 warm（温热的）更烫。"
         }
       ],
       "forms": null,
@@ -5436,11 +5599,11 @@
       "examples": [
         {
           "text": "Drink hot tea first, then answer the bell.",
-          "trans": "Toma té caliente primero y luego contesta el timbre."
+          "trans": "先喝杯热茶，再去接门铃。"
         },
         {
           "text": "Careful, the ceramic plate is very hot.",
-          "trans": "Cuidado, el plato de cerámica está muy caliente."
+          "trans": "当心，瓷盘子非常烫。"
         }
       ],
       "related": []
@@ -5449,11 +5612,11 @@
       "lemma": "how",
       "stress": "haʊ",
       "pos": "adv",
-      "gloss": "cómo; qué tan (+ adjetivo/adverbio)",
+      "gloss": "怎样，如何；多么",
       "meanings": [
         {
-          "en": "cómo; qué tan (+ adjetivo/adverbio)",
-          "note": "Forma preguntas frecuentes: How much? How many? How are you?"
+          "en": "怎样，如何；多么",
+          "note": "既引导特殊疑问句（How was your trip?），也引导感叹句（How strange! 真奇怪！）。"
         }
       ],
       "forms": null,
@@ -5461,11 +5624,11 @@
       "examples": [
         {
           "text": "How do you take your coffee?",
-          "trans": "¿Cómo toma su café?"
+          "trans": "您喝咖啡喜欢怎么加料？"
         },
         {
           "text": "How nice to see you again!",
-          "trans": "¡Qué alegría verte de nuevo!"
+          "trans": "再次见到你真高兴！"
         }
       ],
       "related": []
@@ -5474,11 +5637,11 @@
       "lemma": "hum",
       "stress": "hʌm",
       "pos": "verb",
-      "gloss": "tararear (con los labios cerrados), canturrear",
+      "gloss": "哼唱；发出嗡嗡声",
       "meanings": [
         {
-          "en": "tararear (con los labios cerrados), canturrear",
-          "note": "Dobla la m final en gerundio y pasado: humming, hummed."
+          "en": "哼唱；发出嗡嗡声",
+          "note": "指闭着嘴巴连续发出低沉的声音，也指机器运转或昆虫飞舞时发出的嗡嗡声。"
         }
       ],
       "forms": {
@@ -5524,21 +5687,25 @@
       "examples": [
         {
           "text": "Just hearing you hum the melody sounds wonderful!",
-          "trans": "¡Solo con oírte tararear la melodía ya suena maravilloso!"
+          "trans": "她一边做饭，一边轻轻地哼着歌。"
         },
         {
           "text": "Tessa hummed happily while rolling out the tart dough.",
-          "trans": "Tessa tarareaba feliz mientras estiraba la masa de las tartaletas."
+          "trans": "冰箱在安静的厨房里发出低沉的嗡嗡声。"
         }
       ],
       "related": [
         {
-          "word": "melody",
-          "gloss": "melodía"
+          "word": "buzz",
+          "gloss": "嗡嗡作响"
+        },
+        {
+          "word": "murmur",
+          "gloss": "低语"
         },
         {
           "word": "sing",
-          "gloss": "cantar"
+          "gloss": "唱歌"
         }
       ]
     },
@@ -5546,11 +5713,11 @@
       "lemma": "i",
       "stress": "aɪ",
       "pos": "pron",
-      "gloss": "yo",
+      "gloss": "我",
       "meanings": [
         {
-          "en": "yo",
-          "note": "En ortografía inglesa estándar siempre se escribe con mayúscula: I."
+          "en": "我",
+          "note": "第一人称单数主格代词，在句中任何位置永远大写为 I，与 am 连用。"
         }
       ],
       "forms": null,
@@ -5558,11 +5725,11 @@
       "examples": [
         {
           "text": "I am Hannah, the new receptionist.",
-          "trans": "Soy Hannah, la nueva recepcionista."
+          "trans": "我是汉娜，新来的前台接待员。"
         },
         {
           "text": "May I help you with your luggage?",
-          "trans": "¿Puedo ayudarle con su equipaje?"
+          "trans": "我可以帮您拿行李吗？"
         }
       ],
       "related": []
@@ -5571,11 +5738,11 @@
       "lemma": "in",
       "stress": "ɪn",
       "pos": "prep",
-      "gloss": "en, dentro de",
+      "gloss": "在……里面；在……之后（接时间段）",
       "meanings": [
         {
-          "en": "en, dentro de",
-          "note": "Para espacios cerrados, ciudades, meses, partes del día y plazos (in five minutes)."
+          "en": "在……里面；在……之后（接时间段）",
+          "note": "除表示空间内部（in the drawer）外，in forty minutes 表示“四十分钟后”。"
         }
       ],
       "forms": null,
@@ -5583,11 +5750,11 @@
       "examples": [
         {
           "text": "Wait in the warm dining room.",
-          "trans": "Espere en el comedor templado."
+          "trans": "请在温暖的餐厅里稍候。"
         },
         {
           "text": "Coffee will be ready in three minutes.",
-          "trans": "El café estará listo en tres minutos."
+          "trans": "咖啡三分钟后就好。"
         }
       ],
       "related": []
@@ -5596,11 +5763,11 @@
       "lemma": "it",
       "stress": "ɪt",
       "pos": "pron",
-      "gloss": "ello, lo/la; sujeto impersonal",
+      "gloss": "它；（指代天气、时间或情况）",
       "meanings": [
         {
-          "en": "ello, lo/la; sujeto impersonal",
-          "note": "Obligatorio para objetos singulares y clima/hora (It is raining)."
+          "en": "它；（指代天气、时间或情况）",
+          "note": "英语从不省略单数物主语（门开了说 it opens），说下雨也必须加虚主语 It is raining。"
         }
       ],
       "forms": null,
@@ -5608,11 +5775,11 @@
       "examples": [
         {
           "text": "Lift the handle, and it opens easily.",
-          "trans": "Levanta el picaporte y se abre fácilmente."
+          "trans": "先把把手提起来，它就轻松打开了。"
         },
         {
           "text": "It is sunny and warm this afternoon.",
-          "trans": "Hace sol y calor agradable esta tarde."
+          "trans": "今天下午阳光明媚又暖和。"
         }
       ],
       "related": []
@@ -5621,11 +5788,11 @@
       "lemma": "just",
       "stress": "dʒʌst",
       "pos": "adv",
-      "gloss": "solo, nada más; justo; acabar de",
+      "gloss": "正好，恰恰；刚刚；只是",
       "meanings": [
         {
-          "en": "solo, nada más; justo; acabar de",
-          "note": "Suaviza peticiones (just a moment) o marca cercanía temporal."
+          "en": "正好，恰恰；刚刚；只是",
+          "note": "用法极其灵活：just like yours（跟您的一模一样）、just waved（刚挥了手）、just half a glass（只要半杯）。"
         }
       ],
       "forms": null,
@@ -5633,11 +5800,11 @@
       "examples": [
         {
           "text": "Give me just one minute, please.",
-          "trans": "Dame solo un minuto, por favor."
+          "trans": "请给我一分钟就好。"
         },
         {
           "text": "The taxi just pulled up outside.",
-          "trans": "El taxi acaba de detenerse afuera."
+          "trans": "出租车刚刚停在门外。"
         }
       ],
       "related": []
@@ -5646,11 +5813,11 @@
       "lemma": "key",
       "stress": "ki",
       "pos": "noun",
-      "gloss": "llave; tecla; clave",
+      "gloss": "钥匙；关键；琴键",
       "meanings": [
         {
-          "en": "llave; tecla; clave",
-          "note": "Se pronuncia /ki/ (igual que quay), nunca /keɪ/."
+          "en": "钥匙；关键；琴键",
+          "note": "可数名词，注意发音为长音 /ki/；习语 under lock and key 意为“妥善锁好保管”。"
         }
       ],
       "forms": null,
@@ -5658,11 +5825,11 @@
       "examples": [
         {
           "text": "Here is the brass key to room four.",
-          "trans": "Aquí tiene la llave de bronce de la habitación cuatro."
+          "trans": "这是四号房的黄铜钥匙。"
         },
         {
           "text": "Eight keys hang neatly behind the desk.",
-          "trans": "Ocho llaves cuelgan ordenadas detrás del mostrador."
+          "trans": "八把钥匙整整齐齐挂在前台后面。"
         }
       ],
       "related": []
@@ -5671,11 +5838,11 @@
       "lemma": "land",
       "stress": "lænd",
       "pos": "verb",
-      "gloss": "posarse, caer, aterrizar (en música: desembocar en una nota)",
+      "gloss": "落地；降落；落定（音符）",
       "meanings": [
         {
-          "en": "posarse, caer, aterrizar (en música: desembocar en una nota)",
-          "note": "Además del sustantivo 'tierra', como verbo land significa 'aterrizar o posarse', y en música land squarely on middle D es 'caer de lleno en el re central'."
+          "en": "落地；降落；落定（音符）",
+          "note": "除表示飞机或鸟类落地之外，在乐理中也指旋律最终稳稳停落在某个主音或目标音上。"
         }
       ],
       "forms": {
@@ -5721,21 +5888,25 @@
       "examples": [
         {
           "text": "Right in bar twenty-eight, the melody lands squarely on middle D!",
-          "trans": "¡Justo en el compás veintiocho, la melodía cae de lleno en el re central!"
+          "trans": "正好在第二十八小节，旋律稳稳地落在了中央 D 音上！"
         },
         {
           "text": "A yellow autumn leaf landed softly on the tea table.",
-          "trans": "Una hoja amarilla de otoño se posó suavemente sobre la mesa de té."
+          "trans": "一片黄色的秋叶轻飘飘地落在了茶桌上。"
         }
       ],
       "related": [
         {
-          "word": "fall",
-          "gloss": "caer"
+          "word": "arrive",
+          "gloss": "到达"
         },
         {
-          "word": "rest",
-          "gloss": "posarse, descansar"
+          "word": "settle",
+          "gloss": "落定"
+        },
+        {
+          "word": "note",
+          "gloss": "音符"
         }
       ]
     },
@@ -5743,11 +5914,11 @@
       "lemma": "last",
       "stress": "læst",
       "pos": "adj",
-      "gloss": "último; pasado (last night)",
+      "gloss": "最后的；上一个（夜晚或星期）",
       "meanings": [
         {
-          "en": "último; pasado (last night)",
-          "note": "Sin artículo en expresiones temporales: last week, last night."
+          "en": "最后的；上一个（夜晚或星期）",
+          "note": "last night 意为“昨晚”（前面绝不加介词或冠词）；to the last coin 意为“分毫不差到最后一枚硬币”。"
         }
       ],
       "forms": null,
@@ -5755,11 +5926,11 @@
       "examples": [
         {
           "text": "Who took the last cinnamon roll?",
-          "trans": "¿Quién tomó el último rollo de canela?"
+          "trans": "谁拿走了最后一个肉桂卷？"
         },
         {
           "text": "What is your last name, please?",
-          "trans": "¿Cuál es su apellido, por favor?"
+          "trans": "请问您贵姓？"
         }
       ],
       "related": []
@@ -5768,11 +5939,11 @@
       "lemma": "light",
       "stress": "laɪt",
       "pos": "adj",
-      "gloss": "ligero, liviano; claro; luz (sust.)",
+      "gloss": "光线，灯光；轻的；浅色的",
       "meanings": [
         {
-          "en": "ligero, liviano; claro; luz (sust.)",
-          "note": "Antónimo tanto de heavy ('pesado') como de dark ('oscuro')."
+          "en": "光线，灯光；轻的；浅色的",
+          "note": "一词多用：bring it to the light 意为“拿到亮处来看看”，作形容词则是 heavy（重）或 dark（深）的反义词。"
         }
       ],
       "forms": null,
@@ -5780,11 +5951,11 @@
       "examples": [
         {
           "text": "This bag is surprisingly light!",
-          "trans": "¡Esta maleta es sorprendentemente ligera!"
+          "trans": "这只包出奇地轻！"
         },
         {
           "text": "Morning light filled the courtyard.",
-          "trans": "La luz de la mañana llenó el patio."
+          "trans": "晨光洒满了整座庭院。"
         }
       ],
       "related": []
@@ -5793,11 +5964,11 @@
       "lemma": "like",
       "stress": "laɪk",
       "pos": "prep",
-      "gloss": "como; gustar (verbo)",
+      "gloss": "像……一样（介词）；喜欢（动词）",
       "meanings": [
         {
-          "en": "como; gustar (verbo)",
-          "note": "Como preposición compara (like mine); con would like pide con cortesía."
+          "en": "像……一样（介词）；喜欢（动词）",
+          "note": "作介词表示相似（just like yours）；与情态动词连用 Would you like...? 则是最礼貌的“您想要……吗？”。"
         }
       ],
       "forms": null,
@@ -5805,11 +5976,11 @@
       "examples": [
         {
           "text": "That suitcase looks just like mine.",
-          "trans": "Esa maleta se parece muchísimo a la mía."
+          "trans": "那只行李箱看起来跟我的简直一模一样。"
         },
         {
           "text": "Would you like milk with your tea?",
-          "trans": "¿Le gustaría leche con su té?"
+          "trans": "您的茶里想加点牛奶吗？"
         }
       ],
       "related": []
@@ -5818,11 +5989,11 @@
       "lemma": "linger",
       "stress": "ˈlɪŋɡɚ",
       "pos": "verb",
-      "gloss": "quedarse un rato más, demorarse sin prisa, remolonear",
+      "gloss": "逗留，徘徊，磨蹭",
       "meanings": [
         {
-          "en": "quedarse un rato más, demorarse sin prisa, remolonear",
-          "note": "Friends lingering over their last cup of tea describe a los amigos que 'se quedan charlando sin prisa ante su última taza de té'."
+          "en": "逗留，徘徊，磨蹭",
+          "note": ""
         }
       ],
       "forms": {
@@ -5868,11 +6039,11 @@
       "examples": [
         {
           "text": "The waltz ends like friends lingering over their last cup of tea.",
-          "trans": "El vals termina como unos amigos que se quedan sin prisa ante su última taza de té."
+          "trans": "华尔兹的结尾就像朋友们在最后一杯茶前从容不迫地逗留。"
         },
         {
           "text": "Warm afternoon sunlight lingered on the brick wall.",
-          "trans": "El cálido sol de la tarde se demoraba sobre el muro de ladrillo."
+          "trans": "温暖的午后阳光在砖墙上徘徊。"
         }
       ],
       "related": [
@@ -5890,11 +6061,11 @@
       "lemma": "listen",
       "stress": "ˈlɪsən",
       "pos": "verb",
-      "gloss": "escuchar, prestar atención",
+      "gloss": "听，倾听",
       "meanings": [
         {
-          "en": "escuchar, prestar atención",
-          "note": "La t es muda (/ˈlɪsən/); lleva to antes del objeto: listen to me."
+          "en": "听，倾听",
+          "note": "注意词中字母 t 完全不发音；接宾语时必须加介词 to（Listen to him! 听听他说的！）。"
         }
       ],
       "forms": {
@@ -5940,11 +6111,11 @@
       "examples": [
         {
           "text": "Listen to the rain on the roof.",
-          "trans": "Escucha la lluvia sobre el tejado."
+          "trans": "听听屋顶上的雨声吧。"
         },
         {
           "text": "Listen, I have good news!",
-          "trans": "¡Escucha, tengo buenas noticias!"
+          "trans": "听着，我有个好消息！"
         }
       ],
       "related": []
@@ -5953,33 +6124,57 @@
       "lemma": "melody",
       "stress": "ˈmɛlədi",
       "pos": "noun",
-      "gloss": "melodía",
+      "gloss": "旋律；曲调",
       "meanings": [
         {
-          "en": "melodía",
-          "note": "Línea musical principal que alguien puede cantar o tararear (hum the melody)."
+          "en": "旋律；曲调",
+          "note": "一连串和谐悦耳的音符组合，通常是构成音乐作品的主线。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "melody"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "melodys"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
           "text": "Her aunt's opening melody leads the waltz gently home.",
-          "trans": "La melodía inicial de su tía conduce el vals suavemente de vuelta a casa."
+          "trans": "她轻轻哼唱着一首古老的旋律，声音在安静的房间里回荡。"
         },
         {
           "text": "In the middle section, the melody climbs one octave.",
-          "trans": "En la sección central, la melodía sube una octava."
+          "trans": "八音盒里传出的旋律悠扬动听，让人回想起童年的时光。"
         }
       ],
       "related": [
         {
-          "word": "waltz",
-          "gloss": "vals"
+          "word": "harmony",
+          "gloss": "和声"
         },
         {
-          "word": "note",
-          "gloss": "nota"
+          "word": "rhythm",
+          "gloss": "节奏"
+        },
+        {
+          "word": "song",
+          "gloss": "歌曲"
         }
       ]
     },
@@ -5987,11 +6182,11 @@
       "lemma": "middle",
       "stress": "ˈmɪdəl",
       "pos": "adj",
-      "gloss": "central, del medio",
+      "gloss": "中间的，正中的",
       "meanings": [
         {
-          "en": "central, del medio",
-          "note": "Delante de un sustantivo señala lo que está justo en el centro (middle page)."
+          "en": "中间的，正中的",
+          "note": "作定语置于名词前（如 the middle page 最中间那一页）。"
         }
       ],
       "forms": null,
@@ -5999,11 +6194,11 @@
       "examples": [
         {
           "text": "The notebook opened to the middle page.",
-          "trans": "El cuaderno se abrió en la página central."
+          "trans": "笔记本刚好翻开在正中间那一页。"
         },
         {
           "text": "Put the flowers on the middle table.",
-          "trans": "Pon las flores en la mesa del centro."
+          "trans": "把鲜花摆在中间那张桌子上吧。"
         }
       ],
       "related": []
@@ -6012,11 +6207,11 @@
       "lemma": "mint",
       "stress": "mɪnt",
       "pos": "noun",
-      "gloss": "menta, hierbabuena",
+      "gloss": "薄荷",
       "meanings": [
         {
-          "en": "menta, hierbabuena",
-          "note": "Muy usada delante de otro nombre: mint tea ('té de menta')."
+          "en": "薄荷",
+          "note": "常置于另一名词前作定语，如 hot mint tea（热薄荷茶）。"
         }
       ],
       "forms": null,
@@ -6024,11 +6219,11 @@
       "examples": [
         {
           "text": "Fresh mint tea calms the nerves.",
-          "trans": "El té de menta fresca calma los nervios."
+          "trans": "新鲜薄荷茶能让人凝神静气。"
         },
         {
           "text": "Pick three mint leaves from the garden pot.",
-          "trans": "Corta tres hojas de menta de la maceta del jardín."
+          "trans": "从花园花盆里摘三片薄荷叶吧。"
         }
       ],
       "related": []
@@ -6037,11 +6232,11 @@
       "lemma": "morning",
       "stress": "ˈmɔɹnɪŋ",
       "pos": "noun",
-      "gloss": "mañana",
+      "gloss": "早晨，上午",
       "meanings": [
         {
-          "en": "mañana",
-          "note": "Se usa con in the morning y en el saludo Good morning."
+          "en": "早晨，上午",
+          "note": "指从清晨到正午十二点之间的时段；也可作定语如 morning train（早班火车）、morning coffee（晨间咖啡）。"
         }
       ],
       "forms": null,
@@ -6049,11 +6244,11 @@
       "examples": [
         {
           "text": "Good morning! Coffee is hot and ready.",
-          "trans": "¡Buenos días! El café está caliente y listo."
+          "trans": "早上好！咖啡已经热腾腾地煮好了。"
         },
         {
           "text": "Rain fell softly all morning.",
-          "trans": "Llovió suavemente toda la mañana."
+          "trans": "细雨柔和地下了一整上午。"
         }
       ],
       "related": []
@@ -6062,11 +6257,11 @@
       "lemma": "nice",
       "stress": "naɪs",
       "pos": "adj",
-      "gloss": "agradable, simpático, bonito",
+      "gloss": "美好的，友好的，宜人的",
       "meanings": [
         {
-          "en": "agradable, simpático, bonito",
-          "note": "Imprescindible en Nice to meet you ('Mucho gusto')."
+          "en": "美好的，友好的，宜人的",
+          "note": "初次见面必用句型 Nice to meet you!（很高兴认识你！）。"
         }
       ],
       "forms": null,
@@ -6074,11 +6269,11 @@
       "examples": [
         {
           "text": "Nice to meet you, Arthur!",
-          "trans": "¡Mucho gusto, Arthur!"
+          "trans": "很高兴认识你，亚瑟！"
         },
         {
-          "text": "Have a nice walk down to the harbor.",
-          "trans": "Que tengas un buen paseo hasta el puerto."
+          "text": "Have a nice walk down to the harbour.",
+          "trans": "祝您去海港散步愉快。"
         }
       ],
       "related": []
@@ -6087,11 +6282,11 @@
       "lemma": "no",
       "stress": "noʊ",
       "pos": "interj",
-      "gloss": "no; ningún (det.)",
+      "gloss": "不，不是；没有（置于名词前）",
       "meanings": [
         {
-          "en": "no; ningún (det.)",
-          "note": "Como respuesta niega una pregunta; delante de sustantivo significa 'ningún' (no problem)."
+          "en": "不，不是；没有（置于名词前）",
+          "note": "单独回答问题意为“不”；直接放在名词前意为“没有一点……”（如 no phone number、no butter at all、No wonder 难怪）。"
         }
       ],
       "forms": null,
@@ -6099,11 +6294,11 @@
       "examples": [
         {
           "text": "No, the door is not locked—just lift the handle.",
-          "trans": "No, la puerta no está con llave: solo levanta el picaporte."
+          "trans": "不，门没锁——先把把手往上提就行。"
         },
         {
           "text": "No problem at all! Take your time.",
-          "trans": "¡Ningún problema! Tómese su tiempo."
+          "trans": "一点问题也没有！您慢慢来。"
         }
       ],
       "related": []
@@ -6112,11 +6307,11 @@
       "lemma": "note",
       "stress": "noʊt",
       "pos": "noun",
-      "gloss": "nota, recado; billete / nota musical",
+      "gloss": "便条，留言条；笔记",
       "meanings": [
         {
-          "en": "nota, recado; billete / nota musical",
-          "note": "Take a note y leave a note son expresiones habituales en recepción."
+          "en": "便条，留言条；笔记",
+          "note": "leave a short note 意为“留下一张简短的字条”。"
         }
       ],
       "forms": null,
@@ -6124,46 +6319,70 @@
       "examples": [
         {
           "text": "Evelyn left a kind note on the desk.",
-          "trans": "Evelyn dejó una nota amable en el mostrador."
+          "trans": "伊芙琳在书桌上留下了一张贴心的字条。"
         },
         {
           "text": "Let me write a quick note in the ledger.",
-          "trans": "Déjame escribir una nota rápida en el libro."
+          "trans": "让我在登记簿里快速记一笔。"
         }
       ],
       "related": []
     },
     "octave": {
       "lemma": "octave",
-      "gloss": "octava (intervalo musical de ocho notas)",
       "stress": "ˈɑktɪv",
       "pos": "noun",
-      "forms": null,
-      "moreForms": [],
+      "gloss": "八度；八度音阶",
       "meanings": [
         {
-          "en": "octava (intervalo musical de ocho notas)",
-          "note": "Acento en la primera sílaba y terminación breve /-tɪv/ (/ˈɑktɪv/)."
+          "en": "八度；八度音阶",
+          "note": "在音乐中，指包含八个音阶度数的音程；在此音程中，高音的振动频率正好是低音的两倍。"
         }
       ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "octave"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "octaves"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
       "examples": [
         {
           "text": "Repeat the opening notes softly, one octave higher.",
-          "trans": "Repite suavemente las notas iniciales, una octava más arriba."
+          "trans": "她轻轻按下琴键，弹出了一个清脆优美的高八度和弦。"
         },
         {
           "text": "Miss Evelyn can tune the whole middle octave tomorrow.",
-          "trans": "La señorita Evelyn puede afinar toda la octava central mañana."
+          "trans": "这首歌的副歌部分突然升高了一个八度，将情感推向了高潮。"
         }
       ],
       "related": [
         {
-          "word": "piano",
-          "gloss": "piano"
+          "word": "note",
+          "gloss": "音符"
         },
         {
-          "word": "tune",
-          "gloss": "afinar"
+          "word": "scale",
+          "gloss": "音阶"
+        },
+        {
+          "word": "music",
+          "gloss": "音乐"
         }
       ]
     },
@@ -6171,11 +6390,11 @@
       "lemma": "of",
       "stress": "ʌv",
       "pos": "prep",
-      "gloss": "de",
+      "gloss": "……的（表所属、部分或分量）",
       "meanings": [
         {
-          "en": "de",
-          "note": "La f suena /v/ sonora (/ʌv/ o /əv/), a diferencia de off (/ɔf/)."
+          "en": "……的（表所属、部分或分量）",
+          "note": "常用于量词与物质名词之间（a slice of bread 一片面包、three bottles of milk 三瓶牛奶）；字母 f 发浊辅音 /v/。"
         }
       ],
       "forms": null,
@@ -6183,11 +6402,11 @@
       "examples": [
         {
           "text": "Would you like a cup of coffee?",
-          "trans": "¿Quiere una taza de café?"
+          "trans": "您想来一杯咖啡吗？"
         },
         {
           "text": "Of course! Right this way.",
-          "trans": "¡Por supuesto! Por aquí mismo."
+          "trans": "当然可以！这边请。"
         }
       ],
       "related": []
@@ -6196,11 +6415,11 @@
       "lemma": "on",
       "stress": "ɑn",
       "pos": "prep",
-      "gloss": "sobre, encima de; el (+ día); encendido",
+      "gloss": "在……上面（接触表面）；在（某天或某层楼）",
       "meanings": [
         {
-          "en": "sobre, encima de; el (+ día); encendido",
-          "note": "Indica contacto con superficie (on the desk) y días (on Friday)."
+          "en": "在……上面（接触表面）；在（某天或某层楼）",
+          "note": "表面接触用 on（on my head、on the step），楼层和具体某一天也用 on（on the second floor、on my first day）。"
         }
       ],
       "forms": null,
@@ -6208,11 +6427,11 @@
       "examples": [
         {
           "text": "Your key is on the wooden desk.",
-          "trans": "Su llave está sobre el escritorio de madera."
+          "trans": "您的钥匙在木书桌上。"
         },
         {
           "text": "Tessa bakes apple rolls on Fridays.",
-          "trans": "Tessa hornea rollos de manzana los viernes."
+          "trans": "泰莎每逢周五会烤苹果卷。"
         }
       ],
       "related": []
@@ -6221,11 +6440,11 @@
       "lemma": "one",
       "stress": "wʌn",
       "pos": "num",
-      "gloss": "uno, una; pronombre sustitutivo (the blue one)",
+      "gloss": "一，一个；那一个（代词）",
       "meanings": [
         {
-          "en": "uno, una; pronombre sustitutivo (the blue one)",
-          "note": "Empieza con sonido /w/ (/wʌn/) y evita repetir un sustantivo (which one?)."
+          "en": "一，一个；那一个（代词）",
+          "note": "既作数词（Rule one 第一条规矩；in one piece 完好无损），也作代词替代前文提过的单数名词（Take one 拿一个吧）。"
         }
       ],
       "forms": null,
@@ -6233,11 +6452,11 @@
       "examples": [
         {
           "text": "Rule one: drink hot tea first.",
-          "trans": "Regla número uno: toma té caliente primero."
+          "trans": "第一条规矩：先喝热茶。"
         },
         {
           "text": "Mine is the blue one with a ribbon.",
-          "trans": "La mía es la azul con una cinta."
+          "trans": "我的包是系着丝带的那只蓝色的。"
         }
       ],
       "related": []
@@ -6246,11 +6465,11 @@
       "lemma": "open",
       "stress": "ˈoʊpən",
       "pos": "verb",
-      "gloss": "abrir, abrirse; abierto (adj.)",
+      "gloss": "打开；开着的，营业的",
       "meanings": [
         {
-          "en": "abrir, abrirse; abierto (adj.)",
-          "note": "Como adjetivo es open ('abierto'), nunca *opened* para tiendas o puertas."
+          "en": "打开；开着的，营业的",
+          "note": "既作动词（it opens 它打开了；opens at seven 七点开门营业），也直接作形容词表示“开着的”。"
         }
       ],
       "forms": {
@@ -6296,11 +6515,11 @@
       "examples": [
         {
           "text": "Oh, the door opens when you lift the handle!",
-          "trans": "¡Ah, la puerta se abre al levantar el picaporte!"
+          "trans": "噢，把把手往上提门就开了！"
         },
         {
           "text": "Please open the window for fresh air.",
-          "trans": "Por favor abre la ventana para que entre aire fresco."
+          "trans": "请打开窗户透透新鲜空气。"
         }
       ],
       "related": []
@@ -6309,11 +6528,11 @@
       "lemma": "or",
       "stress": "ɔɹ",
       "pos": "conj",
-      "gloss": "o",
+      "gloss": "或者，还是",
       "meanings": [
         {
-          "en": "o",
-          "note": "Conecta alternativas en preguntas y afirmaciones."
+          "en": "或者，还是",
+          "note": "用于连接并列选项，选择疑问句中译为“还是”（coffee or black tea? 咖啡还是红茶？）。"
         }
       ],
       "forms": null,
@@ -6321,11 +6540,11 @@
       "examples": [
         {
           "text": "Would you like coffee or tea?",
-          "trans": "¿Quiere café o té?"
+          "trans": "您想要咖啡还是茶？"
         },
         {
           "text": "Call me today or tomorrow morning.",
-          "trans": "Llámame hoy o mañana por la mañana."
+          "trans": "今天或明天上午给我打电话吧。"
         }
       ],
       "related": []
@@ -6334,11 +6553,11 @@
       "lemma": "our",
       "stress": "ˈaʊɚ",
       "pos": "det",
-      "gloss": "nuestro, nuestra, nuestros, nuestras",
+      "gloss": "我们的",
       "meanings": [
         {
-          "en": "nuestro, nuestra, nuestros, nuestras",
-          "note": "Invariable en género y número delante del sustantivo."
+          "en": "我们的",
+          "note": "第一人称复数形容词性物主代词，置于名词前（our street、our guesthouse）。"
         }
       ],
       "forms": null,
@@ -6346,11 +6565,11 @@
       "examples": [
         {
           "text": "Welcome to our courtyard guesthouse.",
-          "trans": "Bienvenido a nuestra posada con patio."
+          "trans": "欢迎光临我们的庭院客栈。"
         },
         {
           "text": "All our bread comes from Tessa's oven.",
-          "trans": "Todo nuestro pan sale del horno de Tessa."
+          "trans": "我们所有的面包都出自泰莎的烤箱。"
         }
       ],
       "related": []
@@ -6359,11 +6578,11 @@
       "lemma": "over",
       "stress": "ˈoʊvɚ",
       "pos": "prep",
-      "gloss": "por encima de; allí (over there); terminado",
+      "gloss": "在……上方；越过；移交",
       "meanings": [
         {
-          "en": "por encima de; allí (over there); terminado",
-          "note": "Over here / over there señalan cercanía o distancia en el espacio."
+          "en": "在……上方；越过；移交",
+          "note": "短语 hand over 意为“把物品交还、移交给对方”。"
         }
       ],
       "forms": null,
@@ -6371,11 +6590,11 @@
       "examples": [
         {
           "text": "Set the bags over there by the bench.",
-          "trans": "Pon las maletas allí junto al banco."
+          "trans": "把包放在那边长椅旁吧。"
         },
         {
-          "text": "Morning mist drifted over the harbor.",
-          "trans": "La bruma matinal flotaba sobre el puerto."
+          "text": "Morning mist drifted over the harbour.",
+          "trans": "晨雾飘过海港上空。"
         }
       ],
       "related": []
@@ -6384,11 +6603,11 @@
       "lemma": "poor",
       "stress": "pʊɹ",
       "pos": "adj",
-      "gloss": "pobre (compasivo o sin recursos)",
+      "gloss": "可怜的（表同情）；贫穷的；不佳的",
       "meanings": [
         {
-          "en": "pobre (compasivo o sin recursos)",
-          "note": "Delante de un nombre expresa simpatía compasiva (the poor gentleman: 'el pobre caballero')."
+          "en": "可怜的（表同情）；贫穷的；不佳的",
+          "note": "放在人名或称呼前常表达温和的同情与怜惜（如 poor Arthur 可怜的亚瑟）。"
         }
       ],
       "forms": null,
@@ -6396,11 +6615,11 @@
       "examples": [
         {
           "text": "The poor gentleman looked worried.",
-          "trans": "El pobre caballero se veía preocupado."
+          "trans": "那位可怜的老先生看起来忧心忡忡。"
         },
         {
           "text": "Give poor Arthur a cup of tea!",
-          "trans": "¡Dale al pobre Arthur una taza de té!"
+          "trans": "快给可怜的亚瑟倒杯热茶压压惊吧！"
         }
       ],
       "related": []
@@ -6409,11 +6628,11 @@
       "lemma": "pressure",
       "stress": "ˈpɹɛʃɚ",
       "pos": "noun",
-      "gloss": "presión",
+      "gloss": "压力；水压；血压",
       "meanings": [
         {
-          "en": "presión",
-          "note": "Aparece tanto en mecánica (pressure valve) como en salud (blood pressure); la ss suena /ʃ/."
+          "en": "压力；水压；血压",
+          "note": "既用于工程管道（pressure valve 减压阀），也用于健康指标（blood pressure 血压）。"
         }
       ],
       "forms": null,
@@ -6421,11 +6640,11 @@
       "examples": [
         {
           "text": "Replace the brass pressure valve.",
-          "trans": "Cambia la válvula de presión de latón."
+          "trans": "更换那个黄铜压力阀吧。"
         },
         {
           "text": "Good news saved Arthur's blood pressure!",
-          "trans": "¡La buena noticia salvó la presión de Arthur!"
+          "trans": "好消息保住了亚瑟的血压！"
         }
       ],
       "related": []
@@ -6434,11 +6653,11 @@
       "lemma": "repair",
       "stress": "ɹɪˈpɛɹ",
       "pos": "noun",
-      "gloss": "reparación, arreglo",
+      "gloss": "修理；修缮",
       "meanings": [
         {
-          "en": "reparación, arreglo",
-          "note": "Funciona tanto como sustantivo (one good repair) como verbo regular (repair, repaired)."
+          "en": "修理；修缮",
+          "note": "作名词指具体的修理工作或维护工程，也可作动词表示修好损坏之物。"
         }
       ],
       "forms": null,
@@ -6446,21 +6665,25 @@
       "examples": [
         {
           "text": "With one good repair, this clock will run for years.",
-          "trans": "Con una buena reparación, este reloj funcionará durante años."
+          "trans": "只要好好修一次，这台老钟就能再走好多年。"
         },
         {
           "text": "Roof repairs can be costly before winter.",
-          "trans": "Las reparaciones del tejado pueden ser caras antes del invierno."
+          "trans": "入冬前修缮屋顶可能会花费不小。"
         }
       ],
       "related": [
         {
           "word": "fix",
-          "gloss": "arreglar"
+          "gloss": "修理；固定"
         },
         {
-          "word": "broken",
-          "gloss": "roto"
+          "word": "mend",
+          "gloss": "修补"
+        },
+        {
+          "word": "maintenance",
+          "gloss": "维护；保养"
         }
       ]
     },
@@ -6468,11 +6691,11 @@
       "lemma": "repeat",
       "stress": "ɹɪˈpit",
       "pos": "verb",
-      "gloss": "repetir",
+      "gloss": "重复，重说一遍，反复默念",
       "meanings": [
         {
-          "en": "repetir",
-          "note": "Volver a decir o practicar algo en voz alta para memorizarlo."
+          "en": "重复，重说一遍，反复默念",
+          "note": "可指一路反复念叨免得忘词，或礼貌请求对方再说一遍。"
         }
       ],
       "forms": {
@@ -6518,11 +6741,11 @@
       "examples": [
         {
           "text": "I will repeat the valve size all the way!",
-          "trans": "¡Repetiré la medida de la válvula todo el camino!"
+          "trans": "我一路上都会反复默念这个阀门尺寸的！"
         },
         {
           "text": "Could you repeat that address slowly?",
-          "trans": "¿Podría repetir esa dirección despacio?"
+          "trans": "您能把那个地址慢点儿再说一遍吗？"
         }
       ],
       "related": []
@@ -6531,11 +6754,11 @@
       "lemma": "rest",
       "stress": "ɹɛst",
       "pos": "noun",
-      "gloss": "descanso; el resto (the rest)",
+      "gloss": "休息（动词或名词）；其余部分",
       "meanings": [
         {
-          "en": "descanso; el resto (the rest)",
-          "note": "Dos palabras históricas reunidas: 'reposo' (get some rest) y 'lo demás' (the rest)."
+          "en": "休息（动词或名词）；其余部分",
+          "note": "Rest well! 是祝客人夜晚好好休息的温馨话语（“祝您好好休息！”）；the rest of 则指“剩余的……”。"
         }
       ],
       "forms": null,
@@ -6543,11 +6766,11 @@
       "examples": [
         {
           "text": "Enjoy the rest of your afternoon!",
-          "trans": "¡Disfrute el resto de su tarde!"
+          "trans": "祝您度过愉快的下午余下时光！"
         },
         {
           "text": "Go upstairs and get some rest.",
-          "trans": "Sube y descansa un poco."
+          "trans": "上楼去歇一会儿吧。"
         }
       ],
       "related": []
@@ -6556,11 +6779,15 @@
       "lemma": "rhythm",
       "stress": "ˈɹɪðəm",
       "pos": "noun",
-      "gloss": "ritmo",
+      "gloss": "节奏，韵律",
       "meanings": [
         {
-          "en": "ritmo",
-          "note": "Ortografía de origen griego con rh- y -y- (/ˈɹɪðəm/): tap two rhythms on the table ('marcar dos ritmos en la mesa')."
+          "en": "节奏",
+          "note": ""
+        },
+        {
+          "en": "韵律",
+          "note": ""
         }
       ],
       "forms": null,
@@ -6568,11 +6795,11 @@
       "examples": [
         {
           "text": "Listen while I tap two rhythms on the table.",
-          "trans": "Escuchen mientras marco dos ritmos con los dedos sobre la mesa."
+          "trans": "听着，我用手指在桌面上敲出两种节奏。"
         },
         {
           "text": "A waltz always dances in a three-beat rhythm.",
-          "trans": "Un vals siempre se baila a un ritmo de tres tiempos."
+          "trans": "华尔兹总是以三拍子的节奏来跳。"
         }
       ],
       "related": [
@@ -6594,11 +6821,11 @@
       "lemma": "right",
       "stress": "ɹaɪt",
       "pos": "adj",
-      "gloss": "correcto; derecho; justo (adv.)",
+      "gloss": "正确的；正好，就（副词）；右边",
       "meanings": [
         {
-          "en": "correcto; derecho; justo (adv.)",
-          "note": "Right here = justo aquí; on the right = a la derecha; You are right = tienes razón."
+          "en": "正确的；正好，就（副词）；右边",
+          "note": "作副词加强精确感：right above（正上方）、right here（就在这儿）、right now（马上）、fit right in（完全融入）；all right 意为“一切妥当”。"
         }
       ],
       "forms": null,
@@ -6606,11 +6833,11 @@
       "examples": [
         {
           "text": "You have the right room key now.",
-          "trans": "Ya tiene la llave correcta de la habitación."
+          "trans": "您现在拿到正确的房间钥匙了。"
         },
         {
           "text": "Your room is the second door on the right.",
-          "trans": "Su habitación es la segunda puerta a la derecha."
+          "trans": "您的房间是右手边第二扇门。"
         }
       ],
       "related": []
@@ -6619,11 +6846,11 @@
       "lemma": "room",
       "stress": "ɹum",
       "pos": "noun",
-      "gloss": "habitación, cuarto; espacio",
+      "gloss": "房间，客房；空间",
       "meanings": [
         {
-          "en": "habitación, cuarto; espacio",
-          "note": "Contable como 'habitación' (eight rooms); incontable como 'espacio' (plenty of room)."
+          "en": "房间，客房；空间",
+          "note": "指具体客房时可数（eight rooms 八间房）；编号直接置后（room four 四号房，口语中亦可代指四号房的客人）。"
         }
       ],
       "forms": null,
@@ -6631,11 +6858,11 @@
       "examples": [
         {
           "text": "Room four overlooks the sunny courtyard.",
-          "trans": "La habitación cuatro da al patio soleado."
+          "trans": "四号房俯瞰着阳光充足的庭院。"
         },
         {
           "text": "All eight rooms are clean and ready.",
-          "trans": "Las ocho habitaciones están limpias y listas."
+          "trans": "八间客房全都打扫干净准备就绪了。"
         }
       ],
       "related": []
@@ -6644,11 +6871,11 @@
       "lemma": "send",
       "stress": "sɛnd",
       "pos": "verb",
-      "gloss": "enviar, mandar",
+      "gloss": "寄送，发送；派遣",
       "meanings": [
         {
-          "en": "enviar, mandar",
-          "note": "Verbo irregular: cambia la d final por t en pasado y participio (sent)."
+          "en": "寄送，发送；派遣",
+          "note": "不规则动词：过去式和过去分词把词尾 d 变为 t，写作 sent。"
         }
       ],
       "forms": {
@@ -6694,11 +6921,11 @@
       "examples": [
         {
           "text": "Last week I sent him a short postcard.",
-          "trans": "La semana pasada le envié una postal corta."
+          "trans": "上周我给他寄了一张简短的明信片。"
         },
         {
           "text": "Thank you for not sending me into the rain.",
-          "trans": "Gracias por no mandarme de vuelta a la lluvia."
+          "trans": "谢谢你没打发我冒雨白跑一趟。"
         }
       ],
       "related": []
@@ -6707,11 +6934,11 @@
       "lemma": "shall",
       "stress": "ʃæl",
       "pos": "verb",
-      "gloss": "verbo modal de sugerencia cortés (Shall we...?)",
+      "gloss": "将要；……好吗（礼貌提议或郑重表态）",
       "meanings": [
         {
-          "en": "verbo modal de sugerencia cortés (Shall we...?)",
-          "note": "En inglés actual estadounidense se usa sobre todo en preguntas corteses Shall I / Shall we."
+          "en": "将要；……好吗（礼貌提议或郑重表态）",
+          "note": "现代口语中常用于第一人称礼貌提议（Shall I...?）或略带幽默庄重的表态（I shall retreat to my office）。"
         }
       ],
       "forms": {
@@ -6757,11 +6984,11 @@
       "examples": [
         {
           "text": "Shall I carry that suitcase upstairs for you?",
-          "trans": "¿Le subo esa maleta?"
+          "trans": "需要我帮您把那只行李箱提上楼吗？"
         },
         {
           "text": "Shall we pour the hot tea now?",
-          "trans": "¿Servimos ya el té caliente?"
+          "trans": "我们现在倒热茶好吗？"
         }
       ],
       "related": []
@@ -6770,11 +6997,11 @@
       "lemma": "silent",
       "stress": "ˈsaɪlənt",
       "pos": "adj",
-      "gloss": "silencioso, mudo (sin sonido)",
+      "gloss": "沉默的，无声的",
       "meanings": [
         {
-          "en": "silencioso, mudo (sin sonido)",
-          "note": "Más absoluto que quiet: una tecla que no emite ningún sonido está silent."
+          "en": "沉默的，无声的",
+          "note": ""
         }
       ],
       "forms": null,
@@ -6782,11 +7009,11 @@
       "examples": [
         {
           "text": "Every piano key works except one silent note.",
-          "trans": "Todas las teclas del piano funcionan salvo una nota muda."
+          "trans": "钢琴上所有的键都好用，除掉一个按下去没有声音。"
         },
         {
           "text": "The courtyard grows silent after ten at night.",
-          "trans": "El patio queda en silencio después de las diez de la noche."
+          "trans": "晚上十点以后庭院里就安静了。"
         }
       ],
       "related": [
@@ -6804,11 +7031,11 @@
       "lemma": "six",
       "stress": "sɪks",
       "pos": "num",
-      "gloss": "seis",
+      "gloss": "六",
       "meanings": [
         {
-          "en": "seis",
-          "note": "Base regular de sixteen y sixty."
+          "en": "六",
+          "note": "基础数词；room six 即“六号房”。"
         }
       ],
       "forms": null,
@@ -6816,11 +7043,11 @@
       "examples": [
         {
           "text": "Room six has two tall windows.",
-          "trans": "La habitación seis tiene dos ventanas altas."
+          "trans": "六号房有两扇高大的窗户。"
         },
         {
           "text": "Tessa wakes up before six every morning.",
-          "trans": "Tessa se levanta antes de las seis cada mañana."
+          "trans": "泰莎每天早上六点前就起床了。"
         }
       ],
       "related": []
@@ -6829,11 +7056,11 @@
       "lemma": "slow",
       "stress": "sloʊ",
       "pos": "adj",
-      "gloss": "lento, despacio",
+      "gloss": "缓慢的，慢速的",
       "meanings": [
         {
-          "en": "lento, despacio",
-          "note": "Opuesto directo de fast ('rápido')."
+          "en": "缓慢的，慢速的",
+          "note": "形容词 fast 的反义词，比较级为 slower。"
         }
       ],
       "forms": null,
@@ -6841,11 +7068,11 @@
       "examples": [
         {
           "text": "City traffic at noon is always slow.",
-          "trans": "El tráfico de la ciudad al mediodía siempre es lento."
+          "trans": "市中心正午的车流总是很慢。"
         },
         {
           "text": "Take a slow walk around the garden.",
-          "trans": "Da un paseo tranquilo por el jardín."
+          "trans": "在花园里悠闲缓慢地散散步吧。"
         }
       ],
       "related": []
@@ -6854,11 +7081,11 @@
       "lemma": "so",
       "stress": "soʊ",
       "pos": "adv",
-      "gloss": "tan (+ adj./adv.); así que (conj.)",
+      "gloss": "如此，这么（副词）；所以，因此（连词）",
       "meanings": [
         {
-          "en": "tan (+ adj./adv.); así que (conj.)",
-          "note": "Thank you so much! y so warm son usos constantes."
+          "en": "如此，这么（副词）；所以，因此（连词）",
+          "note": "作副词修饰形容词（so heavy 这么重）；作连词引出结果或推论（so here is twelve in change 所以这是找回的十二元零钱）。"
         }
       ],
       "forms": null,
@@ -6866,11 +7093,11 @@
       "examples": [
         {
           "text": "Thank you so much for waiting!",
-          "trans": "¡Muchísimas gracias por esperar!"
+          "trans": "太感谢您的耐心等候了！"
         },
         {
           "text": "It rained hard, so we stayed indoors.",
-          "trans": "Llovió fuerte, así que nos quedamos adentro."
+          "trans": "雨下得很大，所以我们待在了室内。"
         }
       ],
       "related": []
@@ -6879,11 +7106,11 @@
       "lemma": "softly",
       "stress": "ˈsɔftli",
       "pos": "adv",
-      "gloss": "suavemente, en voz baja, quedo",
+      "gloss": "轻柔地；低声地",
       "meanings": [
         {
-          "en": "suavemente, en voz baja, quedo",
-          "note": "En música equivale al italiano piano ('con poca intensidad sonora, suavemente')."
+          "en": "轻柔地；低声地",
+          "note": "副词，修饰说话、演奏音乐或关门等动作，表示声音轻、力度柔和。"
         }
       ],
       "forms": null,
@@ -6891,25 +7118,25 @@
       "examples": [
         {
           "text": "Does the ending go fast and bright, or softly and slowly?",
-          "trans": "¿El final va rápido y brillante, o suave y lento?"
+          "trans": "结尾是要弹得又快又亮，还是轻柔缓慢地收尾？"
         },
         {
           "text": "Repeat the first four notes softly, one octave higher, and come home.",
-          "trans": "Repite las cuatro primeras notas suavemente, una octava más arriba, y vuelve a casa."
+          "trans": "把前四个音符轻柔地、高八度再重复一遍，然后回到主音。"
         }
       ],
       "related": [
         {
-          "word": "soft",
-          "gloss": "suave, blando"
-        },
-        {
           "word": "gently",
-          "gloss": "con delicadeza"
+          "gloss": "温柔地；轻轻地"
         },
         {
-          "word": "quiet",
-          "gloss": "silencioso, tranquilo"
+          "word": "quietly",
+          "gloss": "安静地；轻声地"
+        },
+        {
+          "word": "loudly",
+          "gloss": "大声地"
         }
       ]
     },
@@ -6917,11 +7144,11 @@
       "lemma": "song",
       "stress": "sɔŋ",
       "pos": "noun",
-      "gloss": "canción, pieza musical",
+      "gloss": "歌曲；乐曲",
       "meanings": [
         {
-          "en": "canción, pieza musical",
-          "note": "Emparentado con sing (cantar); la -ng final suena como una sola consonante velar /ŋ/, sin /ɡ/ separada."
+          "en": "歌曲；乐曲",
+          "note": "不仅指带歌词演唱的歌，在钢琴等器乐语境中也可泛指人们耳熟能详的小曲。"
         }
       ],
       "forms": null,
@@ -6929,21 +7156,25 @@
       "examples": [
         {
           "text": "An old piano remembers every favorite song.",
-          "trans": "Un piano antiguo recuerda cada canción favorita."
+          "trans": "一架老钢琴记得每一首人们喜爱的曲子。"
         },
         {
           "text": "She played a cheerful spring song after tea.",
-          "trans": "Ella tocó una alegre canción primaveral después del té."
+          "trans": "喝过茶后，她弹了一首欢快的春日小曲。"
         }
       ],
       "related": [
         {
           "word": "sing",
-          "gloss": "cantar"
+          "gloss": "歌唱"
         },
         {
-          "word": "piano",
-          "gloss": "piano"
+          "word": "melody",
+          "gloss": "旋律"
+        },
+        {
+          "word": "tune",
+          "gloss": "曲调"
         }
       ]
     },
@@ -6951,11 +7182,11 @@
       "lemma": "sound",
       "stress": "saʊnd",
       "pos": "verb",
-      "gloss": "sonar, parecer (al oído); sonido (sust.)",
+      "gloss": "听起来（动词）；声音；安然完好的",
       "meanings": [
         {
-          "en": "sonar, parecer (al oído); sonido (sust.)",
-          "note": "Sounds good! ('¡Suena bien!') acepta cualquier plan con naturalidad."
+          "en": "听起来（动词）；声音；安然完好的",
+          "note": "作连系动词后接形容词（He sounded nervous 他听起来很紧张）；习语 safe and sound 中作形容词意为“安然无恙”。"
         }
       ],
       "forms": {
@@ -7001,11 +7232,11 @@
       "examples": [
         {
           "text": "Hot tea and apple bread? That sounds wonderful!",
-          "trans": "¿Té caliente y pan de manzana? ¡Suena maravilloso!"
+          "trans": "热茶配苹果面包？听起来棒极了！"
         },
         {
           "text": "Her voice sounded calm on the phone.",
-          "trans": "Su voz sonó tranquila por teléfono."
+          "trans": "她在电话里的声音听起来很平静。"
         }
       ],
       "related": []
@@ -7014,11 +7245,11 @@
       "lemma": "squarely",
       "stress": "ˈskwɛɹli",
       "pos": "adv",
-      "gloss": "de lleno, directamente, con exactitud",
+      "gloss": "正好；端正地；直接地",
       "meanings": [
         {
-          "en": "de lleno, directamente, con exactitud",
-          "note": "Lands squarely on middle D significa que la melodía 'cae de lleno / justo en el centro del re central'."
+          "en": "正好；端正地；直接地",
+          "note": "副词，形容精准地落在正中央、摆得端端正正或直面某事。"
         }
       ],
       "forms": null,
@@ -7026,25 +7257,25 @@
       "examples": [
         {
           "text": "Wait—right on bar twenty-eight, the melody lands squarely on middle D!",
-          "trans": "¡Espera: justo en el compás veintiocho, la melodía cae de lleno en el re central!"
+          "trans": "等等——就在第二十八小节，旋律不偏不倚正好落在中央 D 上！"
         },
         {
           "text": "Set the wooden crate squarely in the middle of the cart.",
-          "trans": "Coloca la caja de madera bien centrada en medio del carro."
+          "trans": "把木箱端端正正地摆在手推车正中间。"
         }
       ],
       "related": [
         {
-          "word": "square",
-          "gloss": "cuadrado; plaza"
+          "word": "directly",
+          "gloss": "直接地"
         },
         {
-          "word": "exact",
-          "gloss": "exacto"
+          "word": "exactly",
+          "gloss": "精确地"
         },
         {
-          "word": "straight",
-          "gloss": "recto, directo"
+          "word": "center",
+          "gloss": "中心"
         }
       ]
     },
@@ -7052,11 +7283,11 @@
       "lemma": "table",
       "stress": "ˈteɪbəl",
       "pos": "noun",
-      "gloss": "mesa; tabla",
+      "gloss": "桌子，餐桌；表格",
       "meanings": [
         {
-          "en": "mesa; tabla",
-          "note": "Para comer o trabajar (corner table); cuadro de datos también es table."
+          "en": "桌子，餐桌；表格",
+          "note": "可数名词，指餐厅餐桌或客厅小桌（前台办公桌则用 desk）。"
         }
       ],
       "forms": null,
@@ -7064,11 +7295,11 @@
       "examples": [
         {
           "text": "Choose any sunny table in the courtyard.",
-          "trans": "Elija cualquier mesa soleada en el patio."
+          "trans": "庭院里任何一张向阳餐桌都可以随便坐。"
         },
         {
           "text": "Four wooden tables stand near the window.",
-          "trans": "Cuatro mesas de madera están cerca de la ventana."
+          "trans": "窗边摆着四张木餐桌。"
         }
       ],
       "related": []
@@ -7077,11 +7308,11 @@
       "lemma": "tap",
       "stress": "tæp",
       "pos": "noun",
-      "gloss": "grifo, llave de agua",
+      "gloss": "水龙头，阀门开关；轻敲",
       "meanings": [
         {
-          "en": "grifo, llave de agua",
-          "note": "Equivalente cotidiano de faucet; main water tap es 'llave general de paso'."
+          "en": "水龙头，阀门开关；轻敲",
+          "note": "日常英语中与 faucet 同义；main water tap 指全楼的“自来水总开关”。"
         }
       ],
       "forms": null,
@@ -7089,11 +7320,11 @@
       "examples": [
         {
           "text": "Why did the bathroom tap feel chilly?",
-          "trans": "¿Por qué salía fría el agua del grifo del baño?"
+          "trans": "浴室水龙头流出的水怎么凉飕飕的？"
         },
         {
           "text": "Turn off the main water tap downstairs.",
-          "trans": "Cierra abajo la llave general de agua."
+          "trans": "去楼下把自来水总阀门关上吧。"
         }
       ],
       "related": []
@@ -7102,11 +7333,11 @@
       "lemma": "tea",
       "stress": "ti",
       "pos": "noun",
-      "gloss": "té",
+      "gloss": "茶，茶水",
       "meanings": [
         {
-          "en": "té",
-          "note": "Incontable como bebida general; a cup of tea para una taza."
+          "en": "茶，茶水",
+          "note": "不可数名词：hot tea（热茶）、black tea（红茶）、mint tea（薄荷茶）。"
         }
       ],
       "forms": null,
@@ -7114,11 +7345,11 @@
       "examples": [
         {
           "text": "Rule one: drink hot tea first.",
-          "trans": "Regla uno: toma té caliente primero."
+          "trans": "第一条规矩：先喝热茶。"
         },
         {
           "text": "Would you like lemon or honey in your tea?",
-          "trans": "¿Quiere limón o miel en su té?"
+          "trans": "您的茶里想加柠檬还是蜂蜜？"
         }
       ],
       "related": []
@@ -7127,11 +7358,11 @@
       "lemma": "thank",
       "stress": "θæŋk",
       "pos": "verb",
-      "gloss": "agradecer, dar las gracias",
+      "gloss": "感谢，道谢",
       "meanings": [
         {
-          "en": "agradecer, dar las gracias",
-          "note": "Thank you! lleva siempre objeto (nunca *Thank!* a secas; o bien Thanks!)."
+          "en": "感谢，道谢",
+          "note": "必须带宾语使用：Thank you!（谢谢你）、Thank you both（谢谢你们二位）；习语 thank goodness 意为“谢天谢地”。"
         }
       ],
       "forms": {
@@ -7177,11 +7408,11 @@
       "examples": [
         {
           "text": "Oh, it opens! Thank you!",
-          "trans": "¡Ah, ya abre! ¡Gracias!"
+          "trans": "噢，门开了！谢谢您！"
         },
         {
           "text": "Thank you for keeping my luggage safe.",
-          "trans": "Gracias por guardar seguro mi equipaje."
+          "trans": "谢谢您妥善保管我的行李。"
         }
       ],
       "related": []
@@ -7190,11 +7421,11 @@
       "lemma": "the",
       "stress": "ðə",
       "pos": "det",
-      "gloss": "el, la, los, las",
+      "gloss": "这，那（定冠词）",
       "meanings": [
         {
-          "en": "el, la, los, las",
-          "note": "Invariable en género y número; suena /ðə/ ante consonante y /ði/ ante vocal."
+          "en": "这，那（定冠词）",
+          "note": "用于双方已知或特指的人或事物前（the door、the kitchen），单复数通用。"
         }
       ],
       "forms": null,
@@ -7202,11 +7433,11 @@
       "examples": [
         {
           "text": "Lift the handle on the front door.",
-          "trans": "Levanta el picaporte de la puerta principal."
+          "trans": "把前门上的把手往上提。"
         },
         {
           "text": "All the keys hang behind the desk.",
-          "trans": "Todas las llaves cuelgan detrás del mostrador."
+          "trans": "所有的钥匙都挂在前台后面。"
         }
       ],
       "related": []
@@ -7215,11 +7446,11 @@
       "lemma": "their",
       "stress": "ðɛɹ",
       "pos": "det",
-      "gloss": "su, sus (de ellos / ellas)",
+      "gloss": "他们的，她们的，它们的",
       "meanings": [
         {
-          "en": "su, sus (de ellos / ellas)",
-          "note": "Se pronuncia exactamente igual que there y they're (/ðɛɹ/)."
+          "en": "他们的，她们的，它们的",
+          "note": "形容词性物主代词，后面须接名词；发音与 there、they're 完全一致。"
         }
       ],
       "forms": null,
@@ -7227,11 +7458,11 @@
       "examples": [
         {
           "text": "People have to fix their own words.",
-          "trans": "Las personas tienen que arreglar sus propias palabras."
+          "trans": "人们总得自己解开心结、把话说开。"
         },
         {
           "text": "Tessa just walked back from their table.",
-          "trans": "Tessa acaba de volver de la mesa de ellos."
+          "trans": "泰莎刚从他们那桌走回来。"
         }
       ],
       "related": []
@@ -7240,11 +7471,11 @@
       "lemma": "then",
       "stress": "ðɛn",
       "pos": "adv",
-      "gloss": "luego, después; entonces",
+      "gloss": "然后，接着；那么",
       "meanings": [
         {
-          "en": "luego, después; entonces",
-          "note": "Ordena pasos con claridad: Lift first, then push."
+          "en": "然后，接着；那么",
+          "note": "用于按先后顺序交代动作步骤：lift the handle first, then push（先提把手，然后再推）。"
         }
       ],
       "forms": null,
@@ -7252,11 +7483,11 @@
       "examples": [
         {
           "text": "Drink hot tea first, then answer the bell.",
-          "trans": "Toma té caliente primero y luego contesta el timbre."
+          "trans": "先喝热茶，然后再去应门铃。"
         },
         {
           "text": "All right then, let us call the taxi company.",
-          "trans": "Muy bien entonces, llamemos a la compañía de taxis."
+          "trans": "那好吧，咱们给出租车公司打个电话。"
         }
       ],
       "related": []
@@ -7265,11 +7496,11 @@
       "lemma": "this",
       "stress": "ðɪs",
       "pos": "det",
-      "gloss": "este, esta, esto",
+      "gloss": "这，这个",
       "meanings": [
         {
-          "en": "este, esta, esto",
-          "note": "Vocal corta /ɪ/ y /s/ sorda final (/ðɪs/); presenta objetos cercanos o personas."
+          "en": "这，这个",
+          "note": "指代手边、眼前或当下正在发生的事物（this big paper book、This story）。"
         }
       ],
       "forms": null,
@@ -7277,11 +7508,11 @@
       "examples": [
         {
           "text": "Here we use this big paper book.",
-          "trans": "Aquí usamos este gran libro de papel."
+          "trans": "在这里我们用这本大纸质登记簿。"
         },
         {
           "text": "Hello, this is Hannah at the front desk.",
-          "trans": "Hola, habla Hannah desde recepción."
+          "trans": "您好，我是前台的汉娜。"
         }
       ],
       "related": []
@@ -7290,11 +7521,11 @@
       "lemma": "tomorrow",
       "stress": "təˈmɑɹoʊ",
       "pos": "adv",
-      "gloss": "mañana (el día siguiente)",
+      "gloss": "明天",
       "meanings": [
         {
-          "en": "mañana (el día siguiente)",
-          "note": "Distinto de morning ('la mañana' como parte del día): tomorrow morning = mañana por la mañana."
+          "en": "明天",
+          "note": "告别常用语 See you tomorrow! 意为“明天见！”；注意勿与表示“早晨”的 morning 混淆。"
         }
       ],
       "forms": null,
@@ -7302,11 +7533,11 @@
       "examples": [
         {
           "text": "Breakfast starts at eight tomorrow morning.",
-          "trans": "El desayuno empieza mañana a las ocho de la mañana."
+          "trans": "明天早上八点开始供应早餐。"
         },
         {
           "text": "See you tomorrow at the front desk!",
-          "trans": "¡Nos vemos mañana en recepción!"
+          "trans": "明天前台见！"
         }
       ],
       "related": []
@@ -7315,11 +7546,11 @@
       "lemma": "tweezers",
       "stress": "ˈtwizɚz",
       "pos": "noun",
-      "gloss": "pinzas (de precisión)",
+      "gloss": "镊子",
       "meanings": [
         {
-          "en": "pinzas (de precisión)",
-          "note": "Pluralia tantum (como scissors o glasses): lleva siempre -s final y concuerda en plural (thin tweezers = 'unas pinzas finas')."
+          "en": "镊子",
+          "note": ""
         }
       ],
       "forms": null,
@@ -7327,11 +7558,11 @@
       "examples": [
         {
           "text": "Give me a steady light, thin tweezers, and dry glue tomorrow morning.",
-          "trans": "Dame una luz fija, unas pinzas finas y cola seca mañana por la mañana."
+          "trans": "需要一把好镊子才能夹出那个生锈的销钉，格雷厄姆。"
         },
         {
           "text": "No pressure on poor Graham—the whole song rests on his tweezers!",
-          "trans": "¡Sin presión para el pobre Graham: toda la canción descansa en sus pinzas!"
+          "trans": "他用镊子小心地处理细小的金属丝。"
         }
       ],
       "related": [
@@ -7353,11 +7584,11 @@
       "lemma": "twenty-eight",
       "stress": "ˌtwɛntiˈeɪt",
       "pos": "num",
-      "gloss": "veintiocho (28)",
+      "gloss": "二十八",
       "meanings": [
         {
-          "en": "veintiocho (28)",
-          "note": "En inglés todos los números compuestos del 21 al 99 se escriben unidos por un guion."
+          "en": "二十八",
+          "note": "数字28，常用来指数量或年龄。"
         }
       ],
       "forms": null,
@@ -7365,21 +7596,25 @@
       "examples": [
         {
           "text": "Right in bar twenty-eight, the melody lands on middle D!",
-          "trans": "¡Justo en el compás veintiocho, la melodía aterriza en el re central!"
+          "trans": "这家宁静的书店里一共摆放了二十八把舒适的阅读扶手椅。"
         },
         {
           "text": "February usually has twenty-eight days.",
-          "trans": "Febrero suele tener veintiocho días."
+          "trans": "这是她二十八岁的生日，朋友们为她准备了一个温馨的惊喜派对。"
         }
       ],
       "related": [
         {
-          "word": "sixteen",
-          "gloss": "dieciséis"
+          "word": "twenty",
+          "gloss": "二十"
         },
         {
-          "word": "bar",
-          "gloss": "compás"
+          "word": "eight",
+          "gloss": "八"
+        },
+        {
+          "word": "number",
+          "gloss": "数字"
         }
       ]
     },
@@ -7387,11 +7622,11 @@
       "lemma": "two",
       "stress": "tu",
       "pos": "num",
-      "gloss": "dos",
+      "gloss": "二，两个",
       "meanings": [
         {
-          "en": "dos",
-          "note": "La w es muda: suena igual que to y too (/tu/)."
+          "en": "二，两个",
+          "note": "字母 w 不发音（读音同 to 和 too）；day two 放在名词后表示“第二天”。"
         }
       ],
       "forms": null,
@@ -7399,11 +7634,11 @@
       "examples": [
         {
           "text": "Two identical blue suitcases stood by the door.",
-          "trans": "Dos maletas azules idénticas estaban junto a la puerta."
+          "trans": "门边立着两只一模一样的蓝色行李箱。"
         },
         {
           "text": "Two coffees with warm milk, please.",
-          "trans": "Dos cafés con leche caliente, por favor."
+          "trans": "请来两杯咖啡加温牛奶。"
         }
       ],
       "related": []
@@ -7412,11 +7647,11 @@
       "lemma": "unhurried",
       "stress": "ʌnˈhɝid",
       "pos": "adj",
-      "gloss": "pausado, sin prisa, sosegado",
+      "gloss": "从容的，不慌不忙的，悠闲的",
       "meanings": [
         {
-          "en": "pausado, sin prisa, sosegado",
-          "note": "Adjetivo poético y musical formado por un- ('sin') + hurried ('apresurado'): warm and unhurried ('cálido y sin prisa')."
+          "en": "从容的，不慌不忙的，悠闲的",
+          "note": ""
         }
       ],
       "forms": null,
@@ -7424,11 +7659,11 @@
       "examples": [
         {
           "text": "Warm and unhurried, like friends lingering over their last cup of tea.",
-          "trans": "Cálido y sin prisa, como unos amigos que se quedan charlando ante su última taza de té."
+          "trans": "温暖而从容，就像朋友们在喝最后一杯茶时闲聊。"
         },
         {
           "text": "They walked home at an easy, unhurried pace through the twilight.",
-          "trans": "Caminaron a casa a un paso tranquilo y sin prisa bajo el crepúsculo."
+          "trans": "他们在暮色中以平静从容的步伐走回家。"
         }
       ],
       "related": [
@@ -7450,11 +7685,11 @@
       "lemma": "up",
       "stress": "ʌp",
       "pos": "adv",
-      "gloss": "arriba, hacia arriba",
+      "gloss": "向上，上楼；完全，结束",
       "meanings": [
         {
-          "en": "arriba, hacia arriba",
-          "note": "Combina con verbos cotidianos: wake up, pick up, hurry up."
+          "en": "向上，上楼；完全，结束",
+          "note": "既表示往楼上去（carry the blue bag up 把蓝包提上楼），也构成高频短语动词 hung up（挂断了电话）。"
         }
       ],
       "forms": null,
@@ -7462,11 +7697,11 @@
       "examples": [
         {
           "text": "Pick up the brass key from the tray.",
-          "trans": "Toma la llave de bronce de la bandeja."
+          "trans": "从托盘上拿起那把黄铜钥匙。"
         },
         {
           "text": "Look up at the painted wooden sign.",
-          "trans": "Mira hacia arriba al cartel de madera pintada."
+          "trans": "抬头看看那块彩绘木招牌。"
         }
       ],
       "related": []
@@ -7475,11 +7710,11 @@
       "lemma": "wait",
       "stress": "weɪt",
       "pos": "verb",
-      "gloss": "esperar",
+      "gloss": "等，等待",
       "meanings": [
         {
-          "en": "esperar",
-          "note": "Lleva for delante de lo que se espera: wait for the taxi (nunca *wait the taxi*)."
+          "en": "等，等待",
+          "note": "单独使用 Wait! 或 Wait a second / Wait one moment 常用来引起注意“等一下！慢着！”；接等待对象需加 for。"
         }
       ],
       "forms": {
@@ -7525,11 +7760,11 @@
       "examples": [
         {
           "text": "Wait right here while I grab the key.",
-          "trans": "Espere aquí mismo mientras tomo la llave."
+          "trans": "请就在这儿稍等，我去拿钥匙。"
         },
         {
           "text": "Caleb waited for the yellow taxi at the curb.",
-          "trans": "Caleb esperó el taxi amarillo junto a la acera."
+          "trans": "凯勒布在路边等那辆黄色出租车。"
         }
       ],
       "related": []
@@ -7538,36 +7773,69 @@
       "lemma": "waltz",
       "stress": "wɔlts",
       "pos": "noun",
-      "gloss": "vals",
+      "gloss": "圆舞曲；华尔兹",
       "meanings": [
         {
-          "en": "vals",
-          "note": "Forma su plural añadiendo -es (waltzes) tras el grupo final -tz."
+          "en": "圆舞曲；华尔兹",
+          "note": "一种轻快优美、三拍子的经典舞曲及交谊舞，其特点是舞伴随音乐在舞池中不断旋转。"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "singular",
+              "waltz"
+            ]
+          },
+          {
+            "cells": [
+              "plural",
+              "waltzs"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
           "text": "Evelyn finished composing the missing bars of the courtyard waltz.",
-          "trans": "Evelyn terminó de componer los compases que faltaban del vals del patio."
+          "trans": "当华尔兹的第一个音符响起，老爷爷绅士地邀请老伴滑入舞池中心。"
         },
         {
           "text": "Guests paused in the garden when the gentle waltz began.",
-          "trans": "Los huéspedes se detuvieron en el jardín cuando comenzó el suave vals."
+          "trans": "八音盒里传来的那首老派圆舞曲，让人不禁回忆起旧日的流金岁月。"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "dance",
+          "gloss": "舞蹈"
+        },
+        {
+          "word": "music",
+          "gloss": "音乐"
+        },
+        {
+          "word": "spin",
+          "gloss": "旋转"
+        }
+      ]
     },
     "warm": {
       "lemma": "warm",
       "stress": "wɔɹm",
       "pos": "adj",
-      "gloss": "cálido, tibio, calentito; acogedor",
+      "gloss": "温暖的，温热的；热情的",
       "meanings": [
         {
-          "en": "cálido, tibio, calentito; acogedor",
-          "note": "Más suave y agradable que hot: warm bread, a warm welcome."
+          "en": "温暖的，温热的；热情的",
+          "note": "温度适中宜人，不像 hot 那样滚烫：warm bread（温热松软的面包）、still warm（还热乎着）。"
         }
       ],
       "forms": null,
@@ -7575,11 +7843,11 @@
       "examples": [
         {
           "text": "Tessa brought a basket of warm bread.",
-          "trans": "Tessa trajo una cesta de pan calentito."
+          "trans": "泰莎端来了一篮温热的面包。"
         },
         {
           "text": "Thank you for such a warm welcome!",
-          "trans": "¡Gracias por una bienvenida tan cálida!"
+          "trans": "谢谢你们如此热情温暖的欢迎！"
         }
       ],
       "related": []
@@ -7588,11 +7856,11 @@
       "lemma": "while",
       "stress": "waɪl",
       "pos": "conj",
-      "gloss": "mientras; un rato (a while)",
+      "gloss": "当……的时候，趁着",
       "meanings": [
         {
-          "en": "mientras; un rato (a while)",
-          "note": "Une acciones simultáneas o forma el sustantivo a little while ('un ratito')."
+          "en": "当……的时候，趁着",
+          "note": "引导时间从句表示动作同时持续：while it is still warm（趁它还热乎）、wait ten seconds while I tighten this screw。"
         }
       ],
       "forms": null,
@@ -7600,11 +7868,11 @@
       "examples": [
         {
           "text": "Have some tea while you wait.",
-          "trans": "Tome un poco de té mientras espera."
+          "trans": "等的时候喝杯茶吧。"
         },
         {
           "text": "Drink the coffee while it is hot.",
-          "trans": "Bebe el café mientras está caliente."
+          "trans": "趁咖啡还热着快喝吧。"
         }
       ],
       "related": []
@@ -7613,11 +7881,11 @@
       "lemma": "whole",
       "stress": "hoʊl",
       "pos": "adj",
-      "gloss": "entero, todo el (the whole house)",
+      "gloss": "整个的，全部的",
       "meanings": [
         {
-          "en": "entero, todo el (the whole house)",
-          "note": "La w es muda: suena igual que hole (/hoʊl/). Va después de the."
+          "en": "整个的，全部的",
+          "note": "常置于物主代词或定冠词之后：saving my whole trip（挽救了我的整趟旅行）；词首 w 不发音，读音同 hole。"
         }
       ],
       "forms": null,
@@ -7625,11 +7893,11 @@
       "examples": [
         {
           "text": "Warm cinnamon scented the whole house.",
-          "trans": "La canela caliente perfumó toda la casa."
+          "trans": "温暖的肉桂香气弥漫了整栋房子。"
         },
         {
           "text": "We spent the whole morning solving the mix-up.",
-          "trans": "Pasamos toda la mañana resolviendo la confusión."
+          "trans": "我们花了一整上午解开这场误会。"
         }
       ],
       "related": []
@@ -7638,11 +7906,11 @@
       "lemma": "wonderful",
       "stress": "ˈwʌndɚfəl",
       "pos": "adj",
-      "gloss": "maravilloso, estupendo",
+      "gloss": "极好的，美妙的，太棒了",
       "meanings": [
         {
-          "en": "maravilloso, estupendo",
-          "note": "Elogio entusiasta y cálido para comida, noticias o lugares."
+          "en": "极好的，美妙的，太棒了",
+          "note": "口语高频赞美词：Something smells wonderful!（闻起来真香！）、Wonderful!（太好了！）。"
         }
       ],
       "forms": null,
@@ -7650,11 +7918,11 @@
       "examples": [
         {
           "text": "What wonderful news—Caleb found the taxi!",
-          "trans": "Qué noticia tan maravillosa: ¡Caleb encontró el taxi!"
+          "trans": "真是天大的好消息——凯勒布找到那辆出租车了！"
         },
         {
-          "text": "Have a wonderful afternoon in Portland!",
-          "trans": "¡Que pase una tarde maravillosa en Portland!"
+          "text": "Have a wonderful afternoon in Oxford!",
+          "trans": "祝您在牛津度过美好的下午！"
         }
       ],
       "related": []
@@ -7663,11 +7931,11 @@
       "lemma": "write",
       "stress": "ɹaɪt",
       "pos": "verb",
-      "gloss": "escribir, anotar",
+      "gloss": "写，写下，记录",
       "meanings": [
         {
-          "en": "escribir, anotar",
-          "note": "La w es muda (/ɹaɪt/); irregular: write, wrote, written."
+          "en": "写，写下，记录",
+          "note": "词首 w 不发音（读音同 right）；不规则变化为 write、wrote、written；Write it down! 意为“快把它记下来！”。"
         }
       ],
       "forms": {
@@ -7713,11 +7981,11 @@
       "examples": [
         {
           "text": "Write your name and room number here.",
-          "trans": "Escriba aquí su nombre y número de habitación."
+          "trans": "请在这里写下您的姓名和房号。"
         },
         {
           "text": "Graham writes every reservation in pencil.",
-          "trans": "Graham anota cada reserva con lápiz."
+          "trans": "格雷厄姆用铅笔记录每一笔预订。"
         }
       ],
       "related": []
@@ -7726,11 +7994,11 @@
       "lemma": "yes",
       "stress": "jɛs",
       "pos": "interj",
-      "gloss": "sí",
+      "gloss": "是的，对，好",
       "meanings": [
         {
-          "en": "sí",
-          "note": "Afirmación estándar en cualquier registro."
+          "en": "是的，对，好",
+          "note": "最基本的肯定答语，可用于回答问句或确认信息。"
         }
       ],
       "forms": null,
@@ -7738,11 +8006,11 @@
       "examples": [
         {
           "text": "Yes, eight rooms and eight brass keys.",
-          "trans": "Sí, ocho habitaciones y ocho llaves de bronce."
+          "trans": "对，八间客房，八把黄铜钥匙。"
         },
         {
           "text": "Yes, please! I would love some coffee.",
-          "trans": "¡Sí, por favor! Me encantaría tomar café."
+          "trans": "好的，谢谢！我很想来点咖啡。"
         }
       ],
       "related": []
@@ -7751,11 +8019,11 @@
       "lemma": "you",
       "stress": "ju",
       "pos": "pron",
-      "gloss": "tú, usted, ustedes, vosotros; te, le, los",
+      "gloss": "你，您，你们",
       "meanings": [
         {
-          "en": "tú, usted, ustedes, vosotros; te, le, los",
-          "note": "Un único pronombre para singular y plural, informal y formal; siempre toma are."
+          "en": "你，您，你们",
+          "note": "英语中单复数、平辈与尊称共用同一个词 you，谓语动词永远搭配复数形式 are（You are ten minutes early）。"
         }
       ],
       "forms": null,
@@ -7763,11 +8031,11 @@
       "examples": [
         {
           "text": "You are ten minutes early today!",
-          "trans": "¡Hoy llegaste diez minutos temprano!"
+          "trans": "你今天早到了十分钟！"
         },
         {
           "text": "Thank you! See you next time!",
-          "trans": "¡Gracias! ¡Hasta la próxima!"
+          "trans": "谢谢你！下次见！"
         }
       ],
       "related": []
