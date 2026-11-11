@@ -190,6 +190,44 @@
         }
       ]
     },
+    "access": {
+      "lemma": "access",
+      "stress": "ˈæksɛs",
+      "pos": "noun",
+      "gloss": "立ち入り；利用；接近手段",
+      "meanings": [
+        {
+          "en": "立ち入り；利用；接近手段",
+          "note": "建物や情報への「立ち入り・アクセス」を表す不可算名詞です。open access で「誰でも入れる状態」を指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The garden gate offers easy access to the courtyard.",
+          "trans": "庭の門から中庭へ楽に入ることができます。"
+        },
+        {
+          "text": "All neighbors have access to the morning cafe.",
+          "trans": "ご近所の皆さんは朝のカフェを自由に利用できます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "entry",
+          "gloss": "入口・入場"
+        },
+        {
+          "word": "gate",
+          "gloss": "門"
+        },
+        {
+          "word": "open",
+          "gloss": "開いた"
+        }
+      ]
+    },
     "accident": {
       "lemma": "accident",
       "stress": "ˈæksɪdənt",
@@ -451,6 +489,112 @@
       ],
       "related": [],
       "surface": []
+    },
+    "admire": {
+      "lemma": "admire",
+      "stress": "ədˈmaɪɚ",
+      "pos": "verb",
+      "gloss": "感心して眺める；称賛する",
+      "meanings": [
+        {
+          "en": "感心して眺める；称賛する",
+          "note": "人や作品を見とれるように褒めるときによく使う動詞です。admire the view（景色を眺める）のように目的語を直接続けます。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "admire"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "admires"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "admired"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "admired"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "admiring"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Stand back and admire the freshly glazed cake.",
+          "trans": "一歩下がって、つややかに仕上げたばかりのケーキを見つめてみてください。"
+        },
+        {
+          "text": "Guests always admire the old linden tree in the courtyard.",
+          "trans": "宿泊客はいつも中庭の古い菩提樹に感嘆します。"
+        }
+      ],
+      "related": [
+        {
+          "word": "praise",
+          "gloss": "褒める"
+        },
+        {
+          "word": "wonder",
+          "gloss": "感嘆する"
+        }
+      ]
+    },
+    "adventure": {
+      "lemma": "adventure",
+      "stress": "ədˈvɛntʃɚ",
+      "pos": "noun",
+      "gloss": "冒険；思いがけない出来事",
+      "meanings": [
+        {
+          "en": "冒険；思いがけない出来事",
+          "note": "大冒険だけでなく、日常のちょっとしたハプニングやワクワクする体験にも使われる可算名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Paper lanterns in strong wind sound like an adventure.",
+          "trans": "強風の中で提灯を吊るすのは、ちょっとした冒険になりそうですね。"
+        },
+        {
+          "text": "Our morning walk down Linden Street turned into a small adventure.",
+          "trans": "リンデン通りの朝の散歩が、小さな冒険になりました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "journey",
+          "gloss": "旅"
+        },
+        {
+          "word": "hunt",
+          "gloss": "探し物"
+        }
+      ]
     },
     "afraid": {
       "lemma": "afraid",
@@ -838,6 +982,44 @@
       "related": [],
       "surface": []
     },
+    "alive": {
+      "lemma": "alive",
+      "stress": "əˈlaɪv",
+      "pos": "adj",
+      "gloss": "生きている；活気にあふれた",
+      "meanings": [
+        {
+          "en": "生きている；活気にあふれた",
+          "note": "名詞の直前には置かず、be alive / come alive のように述語として使うのが基本です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The old sunroom feels alive again with music.",
+          "trans": "古いサンルームは音楽で再び生き生きとしています。"
+        },
+        {
+          "text": "Laughter kept the courtyard alive until ten o'clock.",
+          "trans": "笑い声のおかげで、十時まで中庭は活気にあふれていました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "live",
+          "gloss": "生きる"
+        },
+        {
+          "word": "lively",
+          "gloss": "活発な"
+        },
+        {
+          "word": "warm",
+          "gloss": "温かい"
+        }
+      ]
+    },
     "all": {
       "lemma": "all",
       "stress": "ɔl",
@@ -1021,6 +1203,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "alone": {
+      "lemma": "alone",
+      "stress": "əˈloʊn",
+      "pos": "adj",
+      "gloss": "ひとりで；〜だけで",
+      "meanings": [
+        {
+          "en": "ひとりで；〜だけで",
+          "note": "名詞の前に置いて単独修飾することは少なく、be alone や名詞の後ろ（lemon alone「レモンだけでは」）で用いる叙述形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lemon juice alone is far too sour for a cake glaze.",
+          "trans": "レモン汁だけでは、ケーキのつや出しには酸っぱすぎます。"
+        },
+        {
+          "text": "She likes to read in the quiet sunroom alone.",
+          "trans": "彼女は静かなサンルームでひとり読書をするのが好きです。"
+        }
+      ],
+      "related": [
+        {
+          "word": "only",
+          "gloss": "〜だけ"
+        },
+        {
+          "word": "single",
+          "gloss": "ひとつの"
+        }
+      ]
     },
     "along": {
       "lemma": "along",
@@ -1923,6 +2139,40 @@
         {
           "word": "meeting",
           "gloss": "面会"
+        }
+      ]
+    },
+    "apprentice": {
+      "lemma": "apprentice",
+      "stress": "əˈpɹɛntɪs",
+      "pos": "noun",
+      "gloss": "見習い；弟子",
+      "meanings": [
+        {
+          "en": "見習い；弟子",
+          "note": "パン職人や大工などの親方の下で実務を学ぶ「見習い」を指します。動詞として「見習いに出す」という意味もあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to the kitchen laboratory, my baking apprentices!",
+          "trans": "キッチン研究室へようこそ、お菓子作りの見習いさんたち！"
+        },
+        {
+          "text": "The young apprentice learned how to fold berries into batter.",
+          "trans": "若い見習いは生地にベリーをさっくり混ぜる方法を学びました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "baker",
+          "gloss": "パン職人"
+        },
+        {
+          "word": "chef",
+          "gloss": "料理長"
         }
       ]
     },
@@ -2853,6 +3103,44 @@
         "asks"
       ]
     },
+    "asleep": {
+      "lemma": "asleep",
+      "stress": "əˈslip",
+      "pos": "adj",
+      "gloss": "眠っている",
+      "meanings": [
+        {
+          "en": "眠っている",
+          "note": "fall asleep で「眠りにつく」、be fast asleep で「ぐっすり眠っている」を表す形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do not talk like a textbook or the guests will fall asleep.",
+          "trans": "教科書みたいに話さないで、お客さんが眠ってしまいますよ。"
+        },
+        {
+          "text": "The whole guesthouse is quiet and fast asleep.",
+          "trans": "宿全体が静まり返ってぐっすり眠っています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "sleep",
+          "gloss": "眠る"
+        },
+        {
+          "word": "awake",
+          "gloss": "起きている"
+        },
+        {
+          "word": "tired",
+          "gloss": "疲れた"
+        }
+      ]
+    },
     "astonished": {
       "lemma": "astonished",
       "stress": "əˈstɑnɪʃt",
@@ -3006,6 +3294,82 @@
       ],
       "related": [],
       "surface": []
+    },
+    "avert": {
+      "lemma": "avert",
+      "stress": "əˈvɝt",
+      "pos": "verb",
+      "gloss": "（危機などを）回避する；そらす",
+      "meanings": [
+        {
+          "en": "（危機などを）回避する；そらす",
+          "note": "Crisis averted!（危機一髪回避！）のように、起こりそうだったトラブルを未然に防ぐときによく使います。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "avert"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "averts"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "averted"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "averted"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "averting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Crisis averted! Now everyone can sleep peacefully.",
+          "trans": "危機は回避されました！さあみんな安心して眠れます。"
+        },
+        {
+          "text": "Checking the labels early helped avert a big mistake.",
+          "trans": "早めにラベルを確認したおかげで、大きな失敗を防げました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "crisis",
+          "gloss": "危機"
+        },
+        {
+          "word": "avoid",
+          "gloss": "避ける"
+        },
+        {
+          "word": "save",
+          "gloss": "救う"
+        }
+      ]
     },
     "await": {
       "lemma": "await",
@@ -3590,6 +3954,40 @@
         }
       ]
     },
+    "balm": {
+      "lemma": "balm",
+      "stress": "bɑm",
+      "pos": "noun",
+      "gloss": "香油；メリッサ（レモンバーム）",
+      "meanings": [
+        {
+          "en": "香油；メリッサ（レモンバーム）",
+          "note": "l は読まず /bɑm/ と発音します。lemon balm はレモンのような爽やかな香りがするハーブ（西洋ヤマハッカ）です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Between two sprigs of mint and lemon balm lay a torn card.",
+          "trans": "ミントとレモンバームの二本の小枝のあいだに、ちぎれたカードが挟まっていました。"
+        },
+        {
+          "text": "Fresh lemon balm tea smells wonderful on a warm afternoon.",
+          "trans": "暖かい午後に淹れるフレッシュなレモンバームティーはとても良い香りです。"
+        }
+      ],
+      "related": [
+        {
+          "word": "mint",
+          "gloss": "ミント"
+        },
+        {
+          "word": "herb",
+          "gloss": "ハーブ；薬草"
+        }
+      ]
+    },
     "bank": {
       "lemma": "bank",
       "stress": "bæŋk",
@@ -3768,6 +4166,44 @@
       "related": [],
       "surface": []
     },
+    "bargain": {
+      "lemma": "bargain",
+      "stress": "ˈbɑɹɡən",
+      "pos": "noun",
+      "gloss": "掘り出し物；お買い得品；取り決め",
+      "meanings": [
+        {
+          "en": "掘り出し物；お買い得品；取り決め",
+          "note": "値段の割にとてもお得な品や、形容詞的に「格安で手に入れた」という意味でも使われます（bargain chairs）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "All twenty-four bargain chairs found a happy guest tonight.",
+          "trans": "二十四脚のお買い得な椅子すべてに、今夜は素敵なお客さんが座りました。"
+        },
+        {
+          "text": "Finding stoneware cups at half price was a real bargain.",
+          "trans": "炻器のカップを半額で見つけたのは本当にお買い得でした。"
+        }
+      ],
+      "related": [
+        {
+          "word": "price",
+          "gloss": "値段"
+        },
+        {
+          "word": "deal",
+          "gloss": "取引"
+        },
+        {
+          "word": "cheap",
+          "gloss": "安い"
+        }
+      ]
+    },
     "base": {
       "lemma": "base",
       "stress": "beɪs",
@@ -3847,6 +4283,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "basic": {
+      "lemma": "basic",
+      "stress": "ˈbeɪsɪk",
+      "pos": "adj",
+      "gloss": "基本的な；基礎の",
+      "meanings": [
+        {
+          "en": "基本的な；基礎の",
+          "note": "「最も土台となる」「シンプルな」という意味の形容詞です。Basic physics!（基礎物理学だよ！）のように使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Even carrot cubes cook together—that is basic physics!",
+          "trans": "同じ大きさの角切りなら一緒に火が通る、基礎の物理だよ！"
+        },
+        {
+          "text": "Warm bread and hot tea are the basic joys of morning.",
+          "trans": "温かいパンと熱い紅茶は、朝の基本的な喜びです。"
+        }
+      ],
+      "related": [
+        {
+          "word": "simple",
+          "gloss": "簡単な"
+        },
+        {
+          "word": "base",
+          "gloss": "基礎を置く"
+        },
+        {
+          "word": "rule",
+          "gloss": "規則"
+        }
+      ]
     },
     "basin": {
       "lemma": "basin",
@@ -4533,6 +5007,82 @@
       "related": [],
       "surface": []
     },
+    "begin": {
+      "lemma": "begin",
+      "stress": "bɪˈɡɪn",
+      "pos": "verb",
+      "gloss": "始まる；始める",
+      "meanings": [
+        {
+          "en": "始まる；始める",
+          "note": "不規則動詞で begin - began - begun と変化します。start よりも少し改まった響きもあります。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "begin"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "begins"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "began"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "begun"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "beginning"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The music begins right at three o'clock sharp.",
+          "trans": "音楽は三時ぴったりに始まります。"
+        },
+        {
+          "text": "Let us begin today's prep with fresh yellow lemons.",
+          "trans": "今日の仕込みを新鮮な黄色いレモンから始めましょう。"
+        }
+      ],
+      "related": [
+        {
+          "word": "start",
+          "gloss": "始める"
+        },
+        {
+          "word": "end",
+          "gloss": "終わる"
+        },
+        {
+          "word": "open",
+          "gloss": "開く"
+        }
+      ]
+    },
     "behind": {
       "lemma": "behind",
       "stress": "bɪˈhaɪnd",
@@ -5085,6 +5635,40 @@
         }
       ]
     },
+    "bicycle": {
+      "lemma": "bicycle",
+      "stress": "ˈbaɪsɪkəl",
+      "pos": "noun",
+      "gloss": "自転車",
+      "meanings": [
+        {
+          "en": "自転車",
+          "note": "bi-（二つ）＋ cycle（車輪）から成る語です。日常会話では短縮形の bike もよく使われます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We could roof the bicycle shed with that hard sugar crust.",
+          "trans": "その硬い砂糖の殻で自転車小屋の屋根が葺けそうだよ。"
+        },
+        {
+          "text": "Graham rides his bicycle to the Saturday market every morning.",
+          "trans": "グレアムは毎週土曜日の朝、自転車で市場へ行きます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "wheel",
+          "gloss": "車輪"
+        },
+        {
+          "word": "ride",
+          "gloss": "乗る"
+        }
+      ]
+    },
     "big": {
       "lemma": "big",
       "stress": "bɪɡ",
@@ -5110,6 +5694,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "bind": {
+      "lemma": "bind",
+      "stress": "baɪnd",
+      "pos": "verb",
+      "gloss": "（本を）製本する；縛る；結びつける",
+      "meanings": [
+        {
+          "en": "（本を）製本する；縛る；結びつける",
+          "note": "不規則動詞（bind - bound - bound）です。過去分詞 bound は cloth bound（布装丁の）のように本の装丁にも使われます。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "bind"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "binds"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "bound"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "bound"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "binding"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The old garden book is cloth bound in faded green.",
+          "trans": "その古い園芸書は色あせた緑色の布装丁で製本されています。"
+        },
+        {
+          "text": "Twine helps bind the herbs together while they dry.",
+          "trans": "麻ひもはハーブを乾かすときにひとまとめに結ぶのに役立ちます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "cover",
+          "gloss": "表紙"
+        },
+        {
+          "word": "spine",
+          "gloss": "背表紙"
+        }
+      ]
     },
     "birch": {
       "lemma": "birch",
@@ -5451,6 +6107,74 @@
       "related": [],
       "surface": []
     },
+    "blossom": {
+      "lemma": "blossom",
+      "stress": "ˈblɑsəm",
+      "pos": "noun",
+      "gloss": "（果樹・草木の）花；開花",
+      "meanings": [
+        {
+          "en": "（果樹・草木の）花；開花",
+          "note": "特に桜やオレンジ・リンゴなど、実を結ぶ木や低木に咲く可憐な花を指すことが多い名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The gold title reads Courtyard Herbs and Blossoms.",
+          "trans": "金箔のタイトルには『中庭のハーブと花々』と記されています。"
+        },
+        {
+          "text": "Sweet orange blossoms fill the sunlit courtyard with scent.",
+          "trans": "甘いオレンジの花が、日の当たる中庭を香りで満たします。"
+        }
+      ],
+      "related": [
+        {
+          "word": "flower",
+          "gloss": "花"
+        },
+        {
+          "word": "herb",
+          "gloss": "ハーブ"
+        }
+      ]
+    },
+    "blot": {
+      "lemma": "blot",
+      "stress": "blɑt",
+      "pos": "noun",
+      "gloss": "インクのしみ；汚れ",
+      "meanings": [
+        {
+          "en": "インクのしみ；汚れ",
+          "note": "万年筆などのインクが紙に落ちてできた丸いしみ（ink blot）を指します。動詞で「（吸い取り紙で）拭き取る」意味にもなります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "There is a tiny sketch right beside the blue ink blot.",
+          "trans": "青いインクのしみのすぐ横に、小さなスケッチがあります。"
+        },
+        {
+          "text": "Use the desk blotter so no ink blot ruins the ledger.",
+          "trans": "インクのしみで台帳が汚れないよう、吸い取り紙を使ってください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "ink",
+          "gloss": "インク"
+        },
+        {
+          "word": "smudge",
+          "gloss": "にじみ"
+        }
+      ]
+    },
     "blow": {
       "lemma": "blow",
       "stress": "bloʊ",
@@ -5742,6 +6466,82 @@
         {
           "word": "harbor",
           "gloss": "港"
+        }
+      ]
+    },
+    "boil": {
+      "lemma": "boil",
+      "stress": "bɔɪl",
+      "pos": "verb",
+      "gloss": "沸騰する；ゆでる・煮る",
+      "meanings": [
+        {
+          "en": "沸騰する；ゆでる・煮る",
+          "note": "お湯やスープがぐらぐらと沸き立つことです。keep boiling の対義に simmer（ことこと弱火で煮る）があります。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "boil"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "boils"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "boiled"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "boiled"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "boiling"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Stir gently over low heat and never let the curd boil.",
+          "trans": "弱火でやさしく混ぜて、決してカードを沸騰させないで。"
+        },
+        {
+          "text": "Wait until the kettle boils before pouring the tea.",
+          "trans": "お茶を注ぐ前にやかんのお湯が沸くのを待ってください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "simmer",
+          "gloss": "ことこと煮る"
+        },
+        {
+          "word": "kettle",
+          "gloss": "やかん"
+        },
+        {
+          "word": "hot",
+          "gloss": "熱い"
         }
       ]
     },
@@ -6225,6 +7025,40 @@
       "related": [],
       "surface": []
     },
+    "botanical": {
+      "lemma": "botanical",
+      "stress": "bəˈtænɪkəl",
+      "pos": "adj",
+      "gloss": "植物の；植物学の",
+      "meanings": [
+        {
+          "en": "植物の；植物学の",
+          "note": "botanical garden（植物園）や botanical book（植物図鑑・植物学の本）のように名詞の前でよく使われます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The green botanical book fell open at the chapter on mint.",
+          "trans": "緑色の植物の本は、ミントの章のところで自然と開きました。"
+        },
+        {
+          "text": "Portland has a quiet botanical garden near the park.",
+          "trans": "ポートランドの公園の近くには、静かな植物園があります。"
+        }
+      ],
+      "related": [
+        {
+          "word": "herb",
+          "gloss": "薬草；ハーブ"
+        },
+        {
+          "word": "garden",
+          "gloss": "庭"
+        }
+      ]
+    },
     "both": {
       "lemma": "both",
       "stress": "boʊθ",
@@ -6372,6 +7206,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "bow": {
+      "lemma": "bow",
+      "stress": "baʊ",
+      "pos": "noun",
+      "gloss": "お辞儀；会釈",
+      "meanings": [
+        {
+          "en": "お辞儀；会釈",
+          "note": "拍手に応えてする「お辞儀」は /baʊ/ と発音します（Take a bow!）。「弓・リボン」の /boʊ/ とは発音が異なります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Take a bow, Arthur! Everyone loves these chairs.",
+          "trans": "お辞儀して、アーサー！みんなこの椅子を喜んでいますよ。"
+        },
+        {
+          "text": "Evelyn gave a warm bow after her final waltz.",
+          "trans": "イヴリンは最後のワルツのあと、温かい拍手にお辞儀しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "clap",
+          "gloss": "拍手する"
+        },
+        {
+          "word": "smile",
+          "gloss": "微笑む"
+        },
+        {
+          "word": "violin",
+          "gloss": "バイオリン"
+        }
+      ]
     },
     "bowl": {
       "lemma": "bowl",
@@ -6644,6 +7516,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "brave": {
+      "lemma": "brave",
+      "stress": "bɹeɪv",
+      "pos": "adj",
+      "gloss": "勇敢な；勇気のある",
+      "meanings": [
+        {
+          "en": "勇敢な；勇気のある",
+          "note": "困難や少し怖い役に立ち向かう人に対して、冗談交じりにも真剣にも使える形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Who is brave enough to be our strict Chief Judge today?",
+          "trans": "今日、私たちの厳しい審査員長を引き受ける勇気があるのは誰でしょう？"
+        },
+        {
+          "text": "It was brave of Graham to taste the extra-sour glaze first.",
+          "trans": "激酸っぱいグレーズを最初に味見したグレアムは勇敢でした。"
+        }
+      ],
+      "related": [
+        {
+          "word": "bold",
+          "gloss": "大胆な"
+        },
+        {
+          "word": "strict",
+          "gloss": "厳しい"
+        }
+      ]
     },
     "bravo": {
       "lemma": "bravo",
@@ -7022,6 +7928,78 @@
       "related": [],
       "surface": []
     },
+    "brighten": {
+      "lemma": "brighten",
+      "stress": "ˈbɹaɪtən",
+      "pos": "verb",
+      "gloss": "明るくする；風味を引き立てる",
+      "meanings": [
+        {
+          "en": "明るくする；風味を引き立てる",
+          "note": "形容詞 bright に動詞化の -en が付いた語です。部屋や表情を明るくするほか、料理の味をパッと華やかにする意味でも使います。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "brighten"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "brightens"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "brightened"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "brightened"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "brightening"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A pinch of orange peel brightens the summer berries.",
+          "trans": "ひとつまみのオレンジの皮が、夏のベリーの風味を引き立てます。"
+        },
+        {
+          "text": "Warm sunlight helped brighten the quiet sunroom.",
+          "trans": "暖かい日差しが静かなサンルームを明るく照らしました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "bright",
+          "gloss": "明るい"
+        },
+        {
+          "word": "shine",
+          "gloss": "輝く"
+        }
+      ]
+    },
     "brightly": {
       "lemma": "brightly",
       "stress": "ˈbɹaɪtli",
@@ -7154,6 +8132,40 @@
         "brought"
       ]
     },
+    "brisk": {
+      "lemma": "brisk",
+      "stress": "bɹɪsk",
+      "pos": "adj",
+      "gloss": "きびきびした；さわやかで強い（風など）",
+      "meanings": [
+        {
+          "en": "きびきびした；さわやかで強い（風など）",
+          "note": "春のやや強く冷たい風（brisk wind）や、元気よく速い足取り（brisk walk）を表す心地よい形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The forecast warns of brisk spring wind gusts on Friday.",
+          "trans": "天気予報では、金曜日に強い春一番のような突風が吹くと伝えています。"
+        },
+        {
+          "text": "They took a brisk morning walk before opening the cafe.",
+          "trans": "彼らはカフェを開ける前に、きびきびと朝の散歩をしました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "breeze",
+          "gloss": "そよ風"
+        },
+        {
+          "word": "fresh",
+          "gloss": "新鮮な・さわやかな"
+        }
+      ]
+    },
     "bronze": {
       "lemma": "bronze",
       "stress": "bɹɑnz",
@@ -7185,6 +8197,44 @@
         {
           "word": "bell",
           "gloss": "鐘"
+        }
+      ]
+    },
+    "broth": {
+      "lemma": "broth",
+      "stress": "bɹɔθ",
+      "pos": "noun",
+      "gloss": "だし汁；ブイヨン；スープのベース",
+      "meanings": [
+        {
+          "en": "だし汁；ブイヨン；スープのベース",
+          "note": "野菜や肉・ハーブを煮出して作る澄んだうま味スープです。主に不可算名詞として扱います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Stir the onions until sweet, then pour in hot broth.",
+          "trans": "タマネギが甘くなるまで炒めたら、熱いだし汁を注ぎます。"
+        },
+        {
+          "text": "Homemade vegetable broth makes lentil soup rich.",
+          "trans": "手作りの野菜だしを入れるとレンズ豆のスープが味わい深くなります。"
+        }
+      ],
+      "related": [
+        {
+          "word": "soup",
+          "gloss": "スープ"
+        },
+        {
+          "word": "simmer",
+          "gloss": "ことこと煮る"
+        },
+        {
+          "word": "pot",
+          "gloss": "鍋"
         }
       ]
     },
@@ -8468,6 +9518,116 @@
       "related": [],
       "surface": [
         "could"
+      ]
+    },
+    "cancel": {
+      "lemma": "cancel",
+      "stress": "ˈkænsəl",
+      "pos": "verb",
+      "gloss": "取り消す；キャンセルする",
+      "meanings": [
+        {
+          "en": "取り消す；キャンセルする",
+          "note": "アメリカ英語では過去形を canceled（l 一つ）、イギリス英語では cancelled と綴ることが一般的です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "cancel"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "cancels"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "canceled"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "canceled"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "canceling"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do not tell me your Saturday train was canceled!",
+          "trans": "土曜日の朝の電車が運休になったなんて言わないでよ！"
+        },
+        {
+          "text": "Luckily we did not have to cancel the courtyard concert.",
+          "trans": "幸い、中庭のコンサートを中止する必要はありませんでした。"
+        }
+      ],
+      "related": [
+        {
+          "word": "train",
+          "gloss": "列車"
+        },
+        {
+          "word": "delay",
+          "gloss": "遅らせる"
+        },
+        {
+          "word": "plan",
+          "gloss": "計画"
+        }
+      ]
+    },
+    "candidate": {
+      "lemma": "candidate",
+      "stress": "ˈkændɪˌdeɪt",
+      "pos": "noun",
+      "gloss": "候補；志願者",
+      "meanings": [
+        {
+          "en": "候補；志願者",
+          "note": "選挙の立候補者や採用試験の応募者だけでなく、料理の試作案（candidate glazes「試作グレーズ候補」）などにも使えます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "What are our three candidate glazes for the taste test?",
+          "trans": "試食テストに使う三つのグレーズ候補は何ですか？"
+        },
+        {
+          "text": "She is a strong candidate for the front desk position.",
+          "trans": "彼女はフロント係の有力な候補者です。"
+        }
+      ],
+      "related": [
+        {
+          "word": "choose",
+          "gloss": "選ぶ"
+        },
+        {
+          "word": "winner",
+          "gloss": "勝者"
+        }
       ]
     },
     "cannot": {
@@ -9923,6 +11083,40 @@
         "changing"
       ]
     },
+    "chapter": {
+      "lemma": "chapter",
+      "stress": "ˈtʃæptɚ",
+      "pos": "noun",
+      "gloss": "章（本の区切り）",
+      "meanings": [
+        {
+          "en": "章（本の区切り）",
+          "note": "番号を後ろに置くときは無冠詞で chapter seven（第七章）のように言います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The book fell open near chapter seven on summer mint.",
+          "trans": "その本は夏のミントを扱った第七章のあたりで開きました。"
+        },
+        {
+          "text": "Read the first chapter aloud before dinner.",
+          "trans": "夕食の前に第一章を声に出して読んでみてください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "page",
+          "gloss": "ページ"
+        },
+        {
+          "word": "book",
+          "gloss": "本"
+        }
+      ]
+    },
     "charcoal": {
       "lemma": "charcoal",
       "stress": "ˈtʃɑɹˌkoʊl",
@@ -10177,6 +11371,78 @@
         "checks"
       ]
     },
+    "checklist": {
+      "lemma": "checklist",
+      "stress": "ˈtʃɛkˌlɪst",
+      "pos": "noun",
+      "gloss": "チェックリスト；確認項目表",
+      "meanings": [
+        {
+          "en": "チェックリスト；確認項目表",
+          "note": "check（確認）+ list（一覧）から成る名詞で、準備漏れを防ぐための確認表を指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Read the inspection checklist inside the envelope first.",
+          "trans": "まず封筒の中に入っている検査の確認表を読んで。"
+        },
+        {
+          "text": "Hannah ticked off every item on her morning checklist.",
+          "trans": "ハンナは朝のチェックリストの項目を一つずつ消していきました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "check",
+          "gloss": "確認する"
+        },
+        {
+          "word": "list",
+          "gloss": "一覧"
+        },
+        {
+          "word": "item",
+          "gloss": "項目"
+        }
+      ]
+    },
+    "cheek": {
+      "lemma": "cheek",
+      "stress": "tʃik",
+      "pos": "noun",
+      "gloss": "ほお；ほっぺた",
+      "meanings": [
+        {
+          "en": "ほお；ほっぺた",
+          "note": "顔の左右にあるため、通常は複数形 cheeks で使うことが多い名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Give me a moment while my cheeks unpucker from the lemon!",
+          "trans": "レモンですぼまったほっぺたが元に戻るまで、少し待ってくれ！"
+        },
+        {
+          "text": "Cool morning air turned her cheeks bright pink.",
+          "trans": "冷たい朝の空気で彼女のほおは真っ赤になりました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "face",
+          "gloss": "顔"
+        },
+        {
+          "word": "mouth",
+          "gloss": "口"
+        }
+      ]
+    },
     "cheese": {
       "lemma": "cheese",
       "stress": "tʃiz",
@@ -10266,6 +11532,112 @@
       ],
       "related": [],
       "surface": []
+    },
+    "chew": {
+      "lemma": "chew",
+      "stress": "tʃu",
+      "pos": "verb",
+      "gloss": "かむ；よく味わってかむ",
+      "meanings": [
+        {
+          "en": "かむ；よく味わってかむ",
+          "note": "口の中で食べ物を歯で細かくすりつぶす動作を表します。bite（一口かじる）と区別して覚えると便利です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "chew"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "chews"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "chewed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "chewed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "chewing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait — let a man chew properly before judging the cake.",
+          "trans": "待ってくれ — ケーキを採点する前にちゃんとかませてよ。"
+        },
+        {
+          "text": "Chew slowly so you can taste the toasted almonds.",
+          "trans": "ローストしたアーモンドの風味がわかるよう、ゆっくりかんでみて。"
+        }
+      ],
+      "related": [
+        {
+          "word": "bite",
+          "gloss": "かじる"
+        },
+        {
+          "word": "taste",
+          "gloss": "味わう"
+        }
+      ]
+    },
+    "chief": {
+      "lemma": "chief",
+      "stress": "tʃif",
+      "pos": "noun",
+      "gloss": "長；主任；（形容詞的に）主席の",
+      "meanings": [
+        {
+          "en": "長；主任；（形容詞的に）主席の",
+          "note": "Chief Judge（審査員長）のように肩書きの前に置いて「筆頭の・チーフの」を表すほか、単独で「長・リーダー」を指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Graham is our strict and honest Chief Judge today.",
+          "trans": "グレアムは今日の厳格で正直な審査員長です。"
+        },
+        {
+          "text": "The chief baker checks every oven temperature at dawn.",
+          "trans": "主任のパン職人は夜明けにすべてのオーブンの温度を確かめます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "boss",
+          "gloss": "上司"
+        },
+        {
+          "word": "chef",
+          "gloss": "料理長"
+        }
+      ]
     },
     "child": {
       "lemma": "child",
@@ -10470,6 +11842,82 @@
         {
           "word": "hand",
           "gloss": "手"
+        }
+      ]
+    },
+    "chip": {
+      "lemma": "chip",
+      "stress": "tʃɪp",
+      "pos": "verb",
+      "gloss": "（縁などが）欠ける；小さく削る",
+      "meanings": [
+        {
+          "en": "（縁などが）欠ける；小さく削る",
+          "note": "食器やガラスの端がわずかに「欠ける」という意味の動詞で、過去分詞 chipped は「縁の欠けた」という形容詞的にも使います。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "chip"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "chips"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "chipped"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "chipped"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "chipping"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Not one chipped cup and twenty-four happy neighbors tonight!",
+          "trans": "今夜はカップが一つも欠けず、二十四人のご近所さんが笑顔でした！"
+        },
+        {
+          "text": "Thick stoneware teacups do not chip easily on saucers.",
+          "trans": "厚手の炻器のティーカップはソーサーに当てても簡単には欠けません。"
+        }
+      ],
+      "related": [
+        {
+          "word": "cup",
+          "gloss": "カップ"
+        },
+        {
+          "word": "break",
+          "gloss": "壊れる"
+        },
+        {
+          "word": "crack",
+          "gloss": "ひびが入る"
         }
       ]
     },
@@ -10822,6 +12270,40 @@
         }
       ]
     },
+    "citrus": {
+      "lemma": "citrus",
+      "stress": "ˈsɪtɹəs",
+      "pos": "noun",
+      "gloss": "柑橘類；かんきつ",
+      "meanings": [
+        {
+          "en": "柑橘類；かんきつ",
+          "note": "レモン、オレンジ、ライム、グレープフルーツなどミカン科の果物をまとめて指す便利な語です。形容詞的にも使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Surely a refreshing citrus zing deserves seven points!",
+          "trans": "きっとこの爽やかな柑橘の刺激は七点の価値があるはずだよ！"
+        },
+        {
+          "text": "The warm glaze combines sweet honey with fresh citrus.",
+          "trans": "温かいグレーズは甘い蜂蜜と新鮮な柑橘を合わせたものです。"
+        }
+      ],
+      "related": [
+        {
+          "word": "lemon",
+          "gloss": "レモン"
+        },
+        {
+          "word": "orange",
+          "gloss": "オレンジ"
+        }
+      ]
+    },
     "city": {
       "lemma": "city",
       "stress": "ˈsɪti",
@@ -10883,6 +12365,40 @@
         {
           "word": "polite",
           "gloss": "礼儀正しい"
+        }
+      ]
+    },
+    "clang": {
+      "lemma": "clang",
+      "stress": "klæŋ",
+      "pos": "interj",
+      "gloss": "ガーン；キーン（金属が鳴り響く音）",
+      "meanings": [
+        {
+          "en": "ガーン；キーン（金属が鳴り響く音）",
+          "note": "鐘や金属板を叩いたときに高く響き渡る音を表す擬音語です。動詞・名詞としても使われます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He tapped the hard sugar top with his fork — tap, tap, clang!",
+          "trans": "彼がフォークで硬い砂糖の表面を叩くと、コン、コン、キーンと鳴りました。"
+        },
+        {
+          "text": "The heavy iron gate closed with a loud clang.",
+          "trans": "重い鉄の門が大きな金属音を立てて閉まりました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "ring",
+          "gloss": "鳴る"
+        },
+        {
+          "word": "bell",
+          "gloss": "ベル・鐘"
         }
       ]
     },
@@ -10952,6 +12468,82 @@
         "clanked",
         "clanking",
         "clanks"
+      ]
+    },
+    "clap": {
+      "lemma": "clap",
+      "stress": "klæp",
+      "pos": "verb",
+      "gloss": "拍手する；手を叩く",
+      "meanings": [
+        {
+          "en": "拍手する；手を叩く",
+          "note": "両手をパンと叩く動作です。観客が手を叩いて称賛するとき（hear everyone clapping）に使います。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "clap"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "claps"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "clapped"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "clapped"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "clapping"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hear the whole courtyard clapping after the waltz!",
+          "trans": "ワルツのあと、中庭じゅうの拍手が聞こえますね！"
+        },
+        {
+          "text": "All the guests began to clap warmly.",
+          "trans": "お客さん全員が温かく拍手を始めました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "bow",
+          "gloss": "お辞儀"
+        },
+        {
+          "word": "bravo",
+          "gloss": "ブラボー"
+        },
+        {
+          "word": "cheer",
+          "gloss": "歓声を上げる"
+        }
       ]
     },
     "clapping": {
@@ -11684,6 +13276,40 @@
         }
       ]
     },
+    "coarse": {
+      "lemma": "coarse",
+      "stress": "kɔɹs",
+      "pos": "adj",
+      "gloss": "粒の粗い；ざらざらした",
+      "meanings": [
+        {
+          "en": "粒の粗い；ざらざらした",
+          "note": "coarse sugar（粗目糖・ザラメ）や coarse salt（粗塩）など、粒が大きい食材を表すときによく使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How many spoons of coarse sugar did you sprinkle on top?",
+          "trans": "上にザラメ砂糖をスプーン何杯ふりかけたんですか？"
+        },
+        {
+          "text": "Coarse river sand kept the wooden box dry for years.",
+          "trans": "粒の粗い川砂が、木箱を何年も乾いた状態に保っていました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "fine",
+          "gloss": "細かい"
+        },
+        {
+          "word": "raw",
+          "gloss": "未精製の"
+        }
+      ]
+    },
     "coat": {
       "lemma": "coat",
       "stress": "koʊt",
@@ -12244,6 +13870,44 @@
       "related": [],
       "surface": []
     },
+    "congratulations": {
+      "lemma": "congratulations",
+      "stress": "kənˌɡɹætʃəˈleɪʃənz",
+      "pos": "noun",
+      "gloss": "おめでとう（ございます）；祝辞",
+      "meanings": [
+        {
+          "en": "おめでとう（ございます）；祝辞",
+          "note": "お祝いの言葉として使うときは必ず複数形の -s を付けて Congratulations! と言います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Congratulations, Arthur! Our heritage protection was approved!",
+          "trans": "おめでとう、アーサー！文化遺産保護が承認されましたよ！"
+        },
+        {
+          "text": "Everyone offered warm congratulations to the baker.",
+          "trans": "みんなそのパン職人に温かいお祝いの言葉を贈りました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "celebrate",
+          "gloss": "祝う"
+        },
+        {
+          "word": "approve",
+          "gloss": "承認する"
+        },
+        {
+          "word": "proud",
+          "gloss": "誇らしい"
+        }
+      ]
+    },
     "connection": {
       "lemma": "connection",
       "stress": "kəˈnɛkʃən",
@@ -12279,6 +13943,44 @@
         {
           "word": "station",
           "gloss": "駅"
+        }
+      ]
+    },
+    "continuous": {
+      "lemma": "continuous",
+      "stress": "kənˈtɪnjuəs",
+      "pos": "adj",
+      "gloss": "途切れない；連続した",
+      "meanings": [
+        {
+          "en": "途切れない；連続した",
+          "note": "時間や空間が中断せずにずっと一つにつながっていることを表す形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Thirty years apart, yet it sounds like one continuous waltz.",
+          "trans": "三十年の隔たりがあっても、途切れない一つのワルツに聞こえます。"
+        },
+        {
+          "text": "Keep a continuous breeze moving through the hallway.",
+          "trans": "廊下に途切れない風を通し続けてください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "steady",
+          "gloss": "安定した"
+        },
+        {
+          "word": "flow",
+          "gloss": "流れる"
+        },
+        {
+          "word": "melody",
+          "gloss": "旋律"
         }
       ]
     },
@@ -12335,6 +14037,82 @@
       ],
       "related": [],
       "surface": []
+    },
+    "cook": {
+      "lemma": "cook",
+      "stress": "kʊk",
+      "pos": "verb",
+      "gloss": "料理する；火が通る",
+      "meanings": [
+        {
+          "en": "料理する；火が通る",
+          "note": "他動詞「〜を料理する」だけでなく、野菜やスープが「煮える・火が通る」という自動詞の使い方も大切です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "cook"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "cooks"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "cooked"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "cooked"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "cooking"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Even carrot cubes cook at the exact same speed!",
+          "trans": "同じ大きさの角切りなら、まったく同じ速さで火が通るんだ！"
+        },
+        {
+          "text": "Who will cook the lentil soup while Tessa rests?",
+          "trans": "テッサが休んでいる間、誰がレンズ豆のスープを作りますか？"
+        }
+      ],
+      "related": [
+        {
+          "word": "bake",
+          "gloss": "焼く"
+        },
+        {
+          "word": "simmer",
+          "gloss": "ことこと煮る"
+        },
+        {
+          "word": "chef",
+          "gloss": "料理長"
+        }
+      ]
     },
     "cool": {
       "lemma": "cool",
@@ -13231,6 +15009,44 @@
         }
       ]
     },
+    "crisis": {
+      "lemma": "crisis",
+      "stress": "ˈkɹaɪsɪs",
+      "pos": "noun",
+      "gloss": "危機；重大なピンチ",
+      "meanings": [
+        {
+          "en": "危機；重大なピンチ",
+          "note": "複数形は crises（/ˈkɹaɪsiz/）になります。Crisis averted!（危機回避！）はほっとしたときの定番句です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Crisis averted! The city review is tomorrow afternoon, not tonight.",
+          "trans": "危機回避！市の検査は今夜ではなく明日の午後ですよ。"
+        },
+        {
+          "text": "Good teamwork helped solve the kitchen crisis quickly.",
+          "trans": "素晴らしいチームワークで台所のピンチを素早く乗り切れました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "avert",
+          "gloss": "回避する"
+        },
+        {
+          "word": "problem",
+          "gloss": "問題"
+        },
+        {
+          "word": "help",
+          "gloss": "助ける"
+        }
+      ]
+    },
     "crisp": {
       "lemma": "crisp",
       "stress": "kɹɪsp",
@@ -13397,6 +15213,146 @@
         }
       ]
     },
+    "crown": {
+      "lemma": "crown",
+      "stress": "kɹaʊn",
+      "pos": "verb",
+      "gloss": "王冠を授ける；栄冠を与える",
+      "meanings": [
+        {
+          "en": "王冠を授ける；栄冠を与える",
+          "note": "動詞として crown a winner（勝者に王冠を授ける＝優勝を決める）のように比喩的にもよく使います。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "crown"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "crowns"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "crowned"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "crowned"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "crowning"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Learn from the first two cakes before crowning a winner!",
+          "trans": "優勝を決める前に、最初の二つのケーキから学ぶんですよ！"
+        },
+        {
+          "text": "The festival will crown the best courtyard garden this autumn.",
+          "trans": "この秋、お祭りで最高の中庭ガーデンが選ばれます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "winner",
+          "gloss": "勝者"
+        },
+        {
+          "word": "medal",
+          "gloss": "メダル"
+        }
+      ]
+    },
+    "crumb": {
+      "lemma": "crumb",
+      "stress": "kɹʌm",
+      "pos": "noun",
+      "gloss": "パンくず；ケーキの生地（中身）",
+      "meanings": [
+        {
+          "en": "パンくず；ケーキの生地（中身）",
+          "note": "末尾の b は発音しない黙字で /kɹʌm/ と読みます。製菓では外側の皮（crust）に対して内側の「スポンジ・生地のきめ」を指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The almond crumb is tender, and the berries are sweet.",
+          "trans": "アーモンドの生地はしっとり柔らかく、ベリーも甘いです。"
+        },
+        {
+          "text": "Brush the last bread crumbs off the wooden table.",
+          "trans": "木のテーブルから最後のパンくずを払い落としてください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "bread",
+          "gloss": "パン"
+        },
+        {
+          "word": "crust",
+          "gloss": "外皮・クラスト"
+        }
+      ]
+    },
+    "crunchy": {
+      "lemma": "crunchy",
+      "stress": "ˈkɹʌntʃi",
+      "pos": "adj",
+      "gloss": "カリカリした；ザクザクした",
+      "meanings": [
+        {
+          "en": "カリカリした；ザクザクした",
+          "note": "噛んだときに小気味よく音がする食感を楽しく表す形容詞です。crisp より少し歯ごたえが強めのニュアンスです。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait until you see how crunchy Owen made Batch Two!",
+          "trans": "オーウェンが二回目をどれだけカリカリにしたか見てから言いなよ！"
+        },
+        {
+          "text": "I love crunchy toasted almonds on top of warm cake.",
+          "trans": "温かいケーキの上にカリカリのローストアーモンドがのっているのが大好きです。"
+        }
+      ],
+      "related": [
+        {
+          "word": "crisp",
+          "gloss": "パリッとした"
+        },
+        {
+          "word": "crust",
+          "gloss": "外皮"
+        }
+      ]
+    },
     "crust": {
       "lemma": "crust",
       "stress": "kɹʌst",
@@ -13422,6 +15378,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "crusty": {
+      "lemma": "crusty",
+      "stress": "ˈkɹʌsti",
+      "pos": "adj",
+      "gloss": "外皮がカリッと香ばしい；パンの皮が厚い",
+      "meanings": [
+        {
+          "en": "外皮がカリッと香ばしい；パンの皮が厚い",
+          "note": "bread や loaf を褒めるときに「外はパリッと焼き上がった」という美味しそうな響きを添える形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oven mitts on! Eight crusty loaves coming out hot!",
+          "trans": "オーブンミトンをはめて！香ばしく焼けたパンが八個出てきますよ！"
+        },
+        {
+          "text": "Nothing smells better than a crusty loaf at dawn.",
+          "trans": "夜明けに焼き上がるパリッとしたパンほど良い香りのものはありません。"
+        }
+      ],
+      "related": [
+        {
+          "word": "crisp",
+          "gloss": "サクサクした"
+        },
+        {
+          "word": "loaf",
+          "gloss": "パン一斤"
+        },
+        {
+          "word": "oven",
+          "gloss": "オーブン"
+        }
+      ]
     },
     "cry": {
       "lemma": "cry",
@@ -13526,6 +15520,40 @@
         {
           "word": "chop",
           "gloss": "刻む"
+        }
+      ]
+    },
+    "cue": {
+      "lemma": "cue",
+      "stress": "kju",
+      "pos": "noun",
+      "gloss": "合図；きっかけ（right on cue＝ちょうどいいタイミングで）",
+      "meanings": [
+        {
+          "en": "合図；きっかけ（right on cue＝ちょうどいいタイミングで）",
+          "note": "もともとは演劇で役者が出る「きっかけの台詞・合図」を指しました。right on cue は「まさにその瞬間に、おあつらえ向きに」という定番表現です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Right on cue! Look who is coming down the stairs.",
+          "trans": "ちょうどいいタイミングで！階段を下りてくるのは誰か見て。"
+        },
+        {
+          "text": "The double ring of the bell was our cue to open the ledger.",
+          "trans": "ベルの二度鳴りが、予約台帳を開く合図でした。"
+        }
+      ],
+      "related": [
+        {
+          "word": "sign",
+          "gloss": "合図"
+        },
+        {
+          "word": "time",
+          "gloss": "タイミング"
         }
       ]
     },
@@ -14762,6 +16790,40 @@
       "related": [],
       "surface": []
     },
+    "dessert": {
+      "lemma": "dessert",
+      "stress": "dɪˈzɝt",
+      "pos": "noun",
+      "gloss": "デザート；食後の甘いお菓子",
+      "meanings": [
+        {
+          "en": "デザート；食後の甘いお菓子",
+          "note": "スペルに s が二つ並び、後ろにアクセントを置いて /dɪˈzɝt/ と読みます（s が一つの desert「砂漠」/ˈdɛzɚt/ と区別しましょう）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Graham never flatters anybody, even when dessert is free.",
+          "trans": "グレアムはデザートが無料のときでも誰にお世辞も言いません。"
+        },
+        {
+          "text": "Let me press my dessert fork gently into the sugar crust.",
+          "trans": "デザートフォークを砂糖の殻にそっと刺してみるよ。"
+        }
+      ],
+      "related": [
+        {
+          "word": "cake",
+          "gloss": "ケーキ"
+        },
+        {
+          "word": "sweet",
+          "gloss": "甘い"
+        }
+      ]
+    },
     "dial": {
       "lemma": "dial",
       "stress": "ˈdaɪəl",
@@ -14896,6 +16958,40 @@
         "died",
         "dies",
         "dying"
+      ]
+    },
+    "different": {
+      "lemma": "different",
+      "stress": "ˈdɪfɹənt",
+      "pos": "adj",
+      "gloss": "違った；別々の",
+      "meanings": [
+        {
+          "en": "違った；別々の",
+          "note": "三音節に見えますが、日常発音では二音節 /ˈdɪfɹənt/ のように滑らかに発音することが多い形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Same cake inside every tin, with a different warm glaze on top!",
+          "trans": "どの型も中身は同じケーキで、上に塗る温かいグレーズだけが違います！"
+        },
+        {
+          "text": "Each neighbor brought a different kind of herb from the garden.",
+          "trans": "ご近所さんはそれぞれ庭から別々の種類のハーブを持ってきました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "same",
+          "gloss": "同じ"
+        },
+        {
+          "word": "change",
+          "gloss": "変える"
+        }
       ]
     },
     "dig": {
@@ -15413,6 +17509,78 @@
         {
           "word": "basin",
           "gloss": "水盤"
+        }
+      ]
+    },
+    "divide": {
+      "lemma": "divide",
+      "stress": "dɪˈvaɪd",
+      "pos": "verb",
+      "gloss": "分ける；等分する",
+      "meanings": [
+        {
+          "en": "分ける；等分する",
+          "note": "一つのまとまりをいくつかの部分や人数に分割するときに使います。divide A across B（AをBに分け入れる）も便利です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "divide"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "divides"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "divided"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "divided"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "dividing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We divide one batch of batter evenly across three small tins.",
+          "trans": "一回分の生地を三つの小さな型に均等に分けます。"
+        },
+        {
+          "text": "Please divide the warm berry cake into eight neat slices.",
+          "trans": "温かいベリーケーキをきれいな八切れに切り分けてください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "share",
+          "gloss": "分け合う"
+        },
+        {
+          "word": "slice",
+          "gloss": "切り分ける"
         }
       ]
     },
@@ -16574,6 +18742,44 @@
         }
       ]
     },
+    "dusk": {
+      "lemma": "dusk",
+      "stress": "dʌsk",
+      "pos": "noun",
+      "gloss": "夕暮れ；たそがれ",
+      "meanings": [
+        {
+          "en": "夕暮れ；たそがれ",
+          "note": "日が沈んだあとの薄暗い夕方の時間です。dawn（夜明け）の対になる美しい基礎語で、at dusk（夕暮れ時に）と使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "When I leveled table one at dusk, that stone sounded hollow!",
+          "trans": "夕暮れ時に一番テーブルを水平にしたとき、その石が空洞みたいな音を立てたんです！"
+        },
+        {
+          "text": "Lanterns begin to glow across the courtyard at dusk.",
+          "trans": "夕暮れ時になると、中庭じゅうにランタンが灯り始めます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "evening",
+          "gloss": "夕方"
+        },
+        {
+          "word": "dawn",
+          "gloss": "夜明け"
+        },
+        {
+          "word": "lantern",
+          "gloss": "ランタン"
+        }
+      ]
+    },
     "dust": {
       "lemma": "dust",
       "stress": "dʌst",
@@ -16635,6 +18841,40 @@
         {
           "word": "cellar",
           "gloss": "地下室"
+        }
+      ]
+    },
+    "duty": {
+      "lemma": "duty",
+      "stress": "ˈduti",
+      "pos": "noun",
+      "gloss": "義務；職務；当番",
+      "meanings": [
+        {
+          "en": "義務；職務；当番",
+          "note": "on duty（勤務中・当番中）、spoon duty（計量スプーン担当）のように仕事上の役割や当番をユーモラスに表すときにも使えます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Arthur is officially retired from spoon duty today!",
+          "trans": "アーサーは今日をもって、公式に計量スプーン当番を引退しました！"
+        },
+        {
+          "text": "Graham takes his evening front desk duty very seriously.",
+          "trans": "グレアムは夜のフロント業務をとても真面目にこなします。"
+        }
+      ],
+      "related": [
+        {
+          "word": "work",
+          "gloss": "仕事"
+        },
+        {
+          "word": "serve",
+          "gloss": "仕える・給仕する"
         }
       ]
     },
@@ -17110,6 +19350,44 @@
         {
           "word": "side",
           "gloss": "側面"
+        }
+      ]
+    },
+    "effortlessly": {
+      "lemma": "effortlessly",
+      "stress": "ˈɛfɚtləsli",
+      "pos": "adv",
+      "gloss": "楽々と；苦もなく；自然に",
+      "meanings": [
+        {
+          "en": "楽々と；苦もなく；自然に",
+          "note": "effort（努力）+ -less（〜がない）+ -ly で、「少しの無理や力みも感じさせずスムーズに」という褒め言葉になります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hear how effortlessly the second half flows from the first!",
+          "trans": "後半が前半からなんと滑らかに自然に流れていることか、聴いてごらん！"
+        },
+        {
+          "text": "Evelyn's fingers moved effortlessly across the ivory keys.",
+          "trans": "イヴリンの指は象牙の鍵盤の上を楽々と滑るように動きました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "easy",
+          "gloss": "簡単な"
+        },
+        {
+          "word": "smooth",
+          "gloss": "滑らかな"
+        },
+        {
+          "word": "flow",
+          "gloss": "流れる"
         }
       ]
     },
@@ -17831,6 +20109,82 @@
       "related": [],
       "surface": []
     },
+    "especially": {
+      "lemma": "especially",
+      "stress": "ɪˈspɛʃəli",
+      "pos": "adv",
+      "gloss": "特に；とりわけ",
+      "meanings": [
+        {
+          "en": "特に；とりわけ",
+          "note": "全体の中でも際立って「とりわけこれが」と強調したいときに使う副詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Every note rings warm and clear, especially middle D!",
+          "trans": "どの音も温かく澄んで響きますね、特に真ん中のDの音が！"
+        },
+        {
+          "text": "Neighbors love Friday tea, especially with warm lemon tart.",
+          "trans": "ご近所さんは金曜のお茶会が大好きで、特に温かいレモンタルトがあると喜びます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "special",
+          "gloss": "特別な"
+        },
+        {
+          "word": "very",
+          "gloss": "とても"
+        },
+        {
+          "word": "clearly",
+          "gloss": "はっきりと"
+        }
+      ]
+    },
+    "esteemed": {
+      "lemma": "esteemed",
+      "stress": "ɪˈstimd",
+      "pos": "adj",
+      "gloss": "敬愛される；尊敬すべき",
+      "meanings": [
+        {
+          "en": "敬愛される；尊敬すべき",
+          "note": "手紙やスピーチの冒頭で、相手をうやうやしく立てる改まった形容詞です（Esteemed representative）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Esteemed municipal representative, welcome to our courtyard!",
+          "trans": "尊敬する市の代表者様、私どもの中庭へようこそ！"
+        },
+        {
+          "text": "The esteemed piano teacher received warm applause.",
+          "trans": "敬愛されるピアノの先生は温かい拍手を受けました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "dear",
+          "gloss": "親愛なる"
+        },
+        {
+          "word": "respected",
+          "gloss": "尊敬された"
+        },
+        {
+          "word": "representative",
+          "gloss": "代表者"
+        }
+      ]
+    },
     "evelyn": {
       "lemma": "Evelyn",
       "stress": null,
@@ -18345,6 +20699,82 @@
         {
           "word": "connection",
           "gloss": "乗り継ぎ"
+        }
+      ]
+    },
+    "extend": {
+      "lemma": "extend",
+      "stress": "ɪkˈstɛnd",
+      "pos": "verb",
+      "gloss": "延ばす；延長する；差し伸べる",
+      "meanings": [
+        {
+          "en": "延ばす；延長する；差し伸べる",
+          "note": "滞在期間や時間・距離などを「さらに先へ延ばす（extend one's stay）」という意味の重要動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "extend"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "extends"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "extended"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "extended"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "extending"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait—you want to extend your stay with us for two weeks?!",
+          "trans": "待って――私たちのところにさらに二週間滞在を延ばしたいのですか？！"
+        },
+        {
+          "text": "We may extend our Friday cafe hours in summer.",
+          "trans": "夏には金曜カフェの営業時間を延長するかもしれません。"
+        }
+      ],
+      "related": [
+        {
+          "word": "stay",
+          "gloss": "滞在"
+        },
+        {
+          "word": "week",
+          "gloss": "週"
+        },
+        {
+          "word": "stretch",
+          "gloss": "伸ばす"
         }
       ]
     },
@@ -19351,6 +21781,78 @@
         }
       ]
     },
+    "fetch": {
+      "lemma": "fetch",
+      "stress": "fɛtʃ",
+      "pos": "verb",
+      "gloss": "行って取ってくる；迎えに行く",
+      "meanings": [
+        {
+          "en": "行って取ってくる；迎えに行く",
+          "note": "bring（持ってくる）と違い、「別の場所へ行って、それを持って帰ってくる」という往復の動作を一語で表す便利な動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "fetch"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "fetches"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "fetched"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "fetched"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "fetching"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Go fetch Graham and his sharp pencil — the ovens are hot!",
+          "trans": "グレアムと削った鉛筆を呼んできて — オーブンが温まったわよ！"
+        },
+        {
+          "text": "Could you fetch a clean towel from the kitchen shelf?",
+          "trans": "キッチンの棚からきれいなタオルを取ってきてもらえますか？"
+        }
+      ],
+      "related": [
+        {
+          "word": "bring",
+          "gloss": "持ってくる"
+        },
+        {
+          "word": "get",
+          "gloss": "取ってくる"
+        }
+      ]
+    },
     "few": {
       "lemma": "few",
       "stress": "fju",
@@ -19376,6 +21878,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "fiber": {
+      "lemma": "fiber",
+      "stress": "ˈfaɪbɚ",
+      "pos": "noun",
+      "gloss": "繊維；すじ",
+      "meanings": [
+        {
+          "en": "繊維；すじ",
+          "note": "アメリカ英語の綴りは fiber、イギリス英語では fibre となります。紙や布、植物の細かい繊維を指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Every tiny paper fiber lines up like a broken teacup.",
+          "trans": "紙の細かい繊維の一本一本が、割れたティーカップのようにぴたりと合います。"
+        },
+        {
+          "text": "Heavy cotton paper has long, strong fibers.",
+          "trans": "厚手のコットン紙には、長くて丈夫な繊維が含まれています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "cotton",
+          "gloss": "綿"
+        },
+        {
+          "word": "thread",
+          "gloss": "糸"
+        }
+      ]
     },
     "fifteen": {
       "lemma": "fifteen",
@@ -19646,6 +22182,44 @@
         {
           "word": "scale",
           "gloss": "音階"
+        }
+      ]
+    },
+    "finally": {
+      "lemma": "finally",
+      "stress": "ˈfaɪnəli",
+      "pos": "adv",
+      "gloss": "ついに；ようやく；最後に",
+      "meanings": [
+        {
+          "en": "ついに；ようやく；最後に",
+          "note": "長い時間や苦労の末に「とうとう・ようやく」と達成感を表す基本副詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He asked who finally finished the second half of the waltz!",
+          "trans": "彼女がワルツの後半をようやく完成させたのは誰か尋ねましたよ！"
+        },
+        {
+          "text": "After three days of hard work, Room Nine was finally ready.",
+          "trans": "三日間の苦労の末、ついに九号室の準備が整いました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "final",
+          "gloss": "最後の"
+        },
+        {
+          "word": "at last",
+          "gloss": "ついに"
+        },
+        {
+          "word": "finish",
+          "gloss": "終える"
         }
       ]
     },
@@ -20384,6 +22958,188 @@
       "related": [],
       "surface": []
     },
+    "flatter": {
+      "lemma": "flatter",
+      "stress": "ˈflætɚ",
+      "pos": "verb",
+      "gloss": "お世辞を言う；おだてる",
+      "meanings": [
+        {
+          "en": "お世辞を言う；おだてる",
+          "note": "心にもない褒め言葉を並べて機嫌を取ることを表します。I am flattered.（お世辞でも嬉しいです）という受け身表現もよく使われます。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "flatter"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "flatters"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "flattered"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "flattered"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "flattering"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Only one person here never flatters anybody, even for cake.",
+          "trans": "ここではただ一人だけ、ケーキのためでも誰にもお世辞を言わない人がいます。"
+        },
+        {
+          "text": "You flatter me, though I only followed my aunt's recipe.",
+          "trans": "お世辞がお上手ですね、でも叔母のレシピ通りに作っただけですよ。"
+        }
+      ],
+      "related": [
+        {
+          "word": "praise",
+          "gloss": "褒める"
+        },
+        {
+          "word": "honest",
+          "gloss": "正直な"
+        }
+      ]
+    },
+    "flavor": {
+      "lemma": "flavor",
+      "stress": "ˈfleɪvɚ",
+      "pos": "noun",
+      "gloss": "風味；味わい",
+      "meanings": [
+        {
+          "en": "風味；味わい",
+          "note": "アメリカ英語の綴りは flavor、イギリス英語は flavour です。味と香りが合わさった料理全体の「風味」を指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He added two big ladles of lemon juice for summer flavor!",
+          "trans": "彼は夏の風味を出すために、レモン汁をお玉二杯も入れたんです！"
+        },
+        {
+          "text": "Warm honey brings out the sweet berry flavor.",
+          "trans": "温かい蜂蜜が、甘いベリーの風味を引き出してくれます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "taste",
+          "gloss": "味"
+        },
+        {
+          "word": "sweet",
+          "gloss": "甘い"
+        }
+      ]
+    },
+    "float": {
+      "lemma": "float",
+      "stress": "floʊt",
+      "pos": "verb",
+      "gloss": "浮かぶ；漂う",
+      "meanings": [
+        {
+          "en": "浮かぶ；漂う",
+          "note": "水に浮かぶことだけでなく、音楽や香りが空気中を「ふわりと漂ってくる」様子を表す美しい動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "float"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "floats"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "floated"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "floated"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "floating"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Listen to those gentle piano notes floating out into the courtyard!",
+          "trans": "やさしいピアノの音色が中庭へと漂い出てくるのを聴いてみて！"
+        },
+        {
+          "text": "Paper lanterns floated softly on the evening breeze.",
+          "trans": "紙のランタンが夕暮れのそよ風にふわりと揺れて浮かんでいました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "flow",
+          "gloss": "流れる"
+        },
+        {
+          "word": "breeze",
+          "gloss": "そよ風"
+        },
+        {
+          "word": "note",
+          "gloss": "音符"
+        }
+      ]
+    },
     "floor": {
       "lemma": "floor",
       "stress": "flɔɹ",
@@ -20826,6 +23582,44 @@
       "related": [],
       "surface": []
     },
+    "food": {
+      "lemma": "food",
+      "stress": "fud",
+      "pos": "noun",
+      "gloss": "食べ物；食事；料理",
+      "meanings": [
+        {
+          "en": "食べ物；食事；料理",
+          "note": "食べ物全般を指す最も基本的な不可算名詞です（tea and food）。特定の料理の種類を並べるとき以外は複数形にしません。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The cafe offers safe indoor seating with hot tea and food.",
+          "trans": "カフェは安全な室内の席と熱いお茶・軽食を用意しています。"
+        },
+        {
+          "text": "Warm food brings neighbors together around the table.",
+          "trans": "温かい食べ物はご近所さんをテーブルの周りに集めてくれます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "bread",
+          "gloss": "パン"
+        },
+        {
+          "word": "soup",
+          "gloss": "スープ"
+        },
+        {
+          "word": "tart",
+          "gloss": "タルト"
+        }
+      ]
+    },
     "foot": {
       "lemma": "foot",
       "stress": "fʊt",
@@ -21004,6 +23798,40 @@
         }
       ]
     },
+    "forecast": {
+      "lemma": "forecast",
+      "stress": "ˈfɔɹˌkæst",
+      "pos": "noun",
+      "gloss": "予報；予測（特に天気予報）",
+      "meanings": [
+        {
+          "en": "予報；予測（特に天気予報）",
+          "note": "weather forecast（天気予報）でおなじみの名詞です。動詞としても使われ、過去形は forecast または forecasted です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Have you checked the weekend weather forecast for Friday?",
+          "trans": "金曜日に向けた週末の天気予報は確認しましたか？"
+        },
+        {
+          "text": "The morning forecast promised clear skies and gentle sun.",
+          "trans": "朝の天気予報では、晴天と穏やかな日差しが約束されていました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "weather",
+          "gloss": "天気"
+        },
+        {
+          "word": "rain",
+          "gloss": "雨"
+        }
+      ]
+    },
     "forehead": {
       "lemma": "forehead",
       "stress": "ˈfɔɹˌhɛd",
@@ -21029,6 +23857,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "foreign": {
+      "lemma": "foreign",
+      "stress": "ˈfɔɹən",
+      "pos": "adj",
+      "gloss": "外国の；海外からの",
+      "meanings": [
+        {
+          "en": "外国の；海外からの",
+          "note": "g は発音せず /ˈfɔɹən/ と読みます。foreign postcard で「外国から届いた絵はがき」を表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The mailman slipped a thick foreign postcard into the gate box.",
+          "trans": "郵便屋さんが門の郵便受けに分厚い外国の絵はがきを入れていきました。"
+        },
+        {
+          "text": "Reading foreign postcards from old guests is always exciting.",
+          "trans": "昔のお客さんからの海外の絵はがきを読むのはいつでもわくわくします。"
+        }
+      ],
+      "related": [
+        {
+          "word": "abroad",
+          "gloss": "海外へ・で"
+        },
+        {
+          "word": "postcard",
+          "gloss": "絵はがき"
+        },
+        {
+          "word": "mail",
+          "gloss": "郵便"
+        }
+      ]
     },
     "forest": {
       "lemma": "forest",
@@ -21065,6 +23931,78 @@
         {
           "word": "leaf",
           "gloss": "葉"
+        }
+      ]
+    },
+    "forge": {
+      "lemma": "forge",
+      "stress": "fɔɹdʒ",
+      "pos": "verb",
+      "gloss": "鍛造する；（金属を）打ち鍛える",
+      "meanings": [
+        {
+          "en": "鍛造する；（金属を）打ち鍛える",
+          "note": "鉄を熱して金槌で打って形を作ることを意味します。forged iron（鍛鉄）のように過去分詞が形容詞的にもよく使われます。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "forge"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "forges"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "forged"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "forged"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "forging"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "There is a forged iron ring bolted into the heavy oak post.",
+          "trans": "丈夫なオークの柱に、鍛鉄の輪がボルトで留められています。"
+        },
+        {
+          "text": "Blacksmiths forge strong gate hinges by hand.",
+          "trans": "鍛冶職人は頑丈な門の蝶番を手作業で打ち鍛えます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "iron",
+          "gloss": "鉄"
+        },
+        {
+          "word": "hammer",
+          "gloss": "ハンマー"
         }
       ]
     },
@@ -21210,6 +24148,40 @@
         {
           "word": "hoarse",
           "gloss": "かすれた"
+        }
+      ]
+    },
+    "fork": {
+      "lemma": "fork",
+      "stress": "fɔɹk",
+      "pos": "noun",
+      "gloss": "フォーク；分岐点",
+      "meanings": [
+        {
+          "en": "フォーク；分岐点",
+          "note": "食事用のフォークのほか、道や枝の「二股の分かれ道」も表します。forkful（フォークひとすくい分）という派生語もあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Notice how the fork glides straight through the warm cake.",
+          "trans": "フォークが温かいケーキにすっと通る様子を見てください。"
+        },
+        {
+          "text": "Tessa handed a small clean dessert fork to Graham.",
+          "trans": "テッサは小さくてきれいなデザートフォークをグレアムに手渡しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "spoon",
+          "gloss": "スプーン"
+        },
+        {
+          "word": "plate",
+          "gloss": "皿"
         }
       ]
     },
@@ -21905,6 +24877,44 @@
         }
       ]
     },
+    "frosted": {
+      "lemma": "frosted",
+      "stress": "ˈfɹɔstɪd",
+      "pos": "adj",
+      "gloss": "すりガラスの；霜が降りた",
+      "meanings": [
+        {
+          "en": "すりガラスの；霜が降りた",
+          "note": "frost（霜）に由来し、表面が半透明にくもった「すりガラス（frosted glass）」や砂糖衣をかけた菓子を指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A smile on my face? Must be a trick of the frosted glass!",
+          "trans": "私が笑っていた？すりガラスの見間違いでしょう！"
+        },
+        {
+          "text": "Morning light glowed softly through the frosted glass door.",
+          "trans": "朝の光がすりガラスのドア越しに柔らかく輝いていました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "glass",
+          "gloss": "ガラス"
+        },
+        {
+          "word": "misty",
+          "gloss": "霧がかった"
+        },
+        {
+          "word": "window",
+          "gloss": "窓"
+        }
+      ]
+    },
     "frown": {
       "lemma": "frown",
       "stress": "fɹaʊn",
@@ -21971,6 +24981,40 @@
         "frowned",
         "frowning",
         "frowns"
+      ]
+    },
+    "fruit": {
+      "lemma": "fruit",
+      "stress": "fɹut",
+      "pos": "noun",
+      "gloss": "果物；果実",
+      "meanings": [
+        {
+          "en": "果物；果実",
+          "note": "食べ物全般としての果物を指すときは不可算名詞として単数形 fruit を使い、種類を数えるときに fruits とします。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "That tiny round fruit on the card is an orange, not a lemon!",
+          "trans": "カードに描かれたその小さな丸い果物はレモンではなくオレンジですよ！"
+        },
+        {
+          "text": "Fresh summer fruit makes the almond cake shine.",
+          "trans": "新鮮な夏の果物がアーモンドケーキを輝かせます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "berry",
+          "gloss": "ベリー"
+        },
+        {
+          "word": "orange",
+          "gloss": "オレンジ"
+        }
       ]
     },
     "fulfill": {
@@ -22100,6 +25144,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "fuse": {
+      "lemma": "fuse",
+      "stress": "fjuz",
+      "pos": "noun",
+      "gloss": "ヒューズ（過電流を防ぐ安全装置）",
+      "meanings": [
+        {
+          "en": "ヒューズ（過電流を防ぐ安全装置）",
+          "note": "電気が流れすぎたときに切れて火災を防ぐ部品です。blow a fuse / blown fuses で「ヒューズが飛ぶ」を表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Not one chipped cup and zero blown fuses all evening!",
+          "trans": "一晩じゅう欠けたカップも一つなく、ヒューズも一度も飛びませんでした！"
+        },
+        {
+          "text": "Graham always keeps spare copper fuses beside the breaker.",
+          "trans": "グレアムはいつもブレーカーの横に予備の銅製ヒューズを置いています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "wire",
+          "gloss": "電線"
+        },
+        {
+          "word": "switch",
+          "gloss": "スイッチ"
+        },
+        {
+          "word": "lamp",
+          "gloss": "ランプ"
+        }
+      ]
     },
     "future": {
       "lemma": "future",
@@ -22256,6 +25338,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "genius": {
+      "lemma": "genius",
+      "stress": "ˈdʒinjəs",
+      "pos": "noun",
+      "gloss": "天才；天才的な名案",
+      "meanings": [
+        {
+          "en": "天才；天才的な名案",
+          "note": "傑出した才能を持つ「天才」だけでなく、アイデアや工夫に対して「最高の名案だ！（was genius!）」と褒めるのにも使えます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "She said restoring a hidden sunroom instead of building walls was genius!",
+          "trans": "壁を作る代わりに隠れたサンルームを復元するなんて名案だと言っていましたよ！"
+        },
+        {
+          "text": "Baking almond tart with fresh courtyard mint tea is pure genius.",
+          "trans": "アーモンドタルトに中庭のミントティーを合わせるのはまさに天才的です。"
+        }
+      ],
+      "related": [
+        {
+          "word": "brilliant",
+          "gloss": "見事な"
+        },
+        {
+          "word": "smart",
+          "gloss": "賢い"
+        },
+        {
+          "word": "restore",
+          "gloss": "修復する"
+        }
+      ]
     },
     "gentle": {
       "lemma": "gentle",
@@ -22918,6 +26038,40 @@
         }
       ]
     },
+    "glossy": {
+      "lemma": "glossy",
+      "stress": "ˈɡlɑsi",
+      "pos": "adj",
+      "gloss": "つやのある；光沢のある",
+      "meanings": [
+        {
+          "en": "つやのある；光沢のある",
+          "note": "表面が滑らかに光を反射してつやつやしている様子を表す形容詞です。お菓子や写真紙、木の塗装などに使えます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm honey stays soft and glossy without turning rock hard!",
+          "trans": "温かい蜂蜜なら、岩のように硬くならずに柔らかくつややかに仕上がります！"
+        },
+        {
+          "text": "She brushed a glossy golden glaze across the berries.",
+          "trans": "彼女はベリーの上に、つやのある金色のグレーズを塗りました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "shine",
+          "gloss": "輝く"
+        },
+        {
+          "word": "smooth",
+          "gloss": "なめらかな"
+        }
+      ]
+    },
     "glow": {
       "lemma": "glow",
       "stress": "ɡloʊ",
@@ -23061,6 +26215,40 @@
         "going",
         "gone",
         "went"
+      ]
+    },
+    "goggles": {
+      "lemma": "goggles",
+      "stress": "ˈɡɑɡəlz",
+      "pos": "noun",
+      "gloss": "ゴーグル；保護めがね",
+      "meanings": [
+        {
+          "en": "ゴーグル；保護めがね",
+          "note": "左右の目を覆う対になっているため、glasses と同じく常に複数形 goggles で使います。safety goggles は「安全ゴーグル」。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You can cut this cake without a hammer or safety goggles.",
+          "trans": "このケーキは金づちも安全ゴーグルもなしで切れますよ。"
+        },
+        {
+          "text": "Graham always wears goggles when sanding old wood.",
+          "trans": "グレアムは古い木材にやすりをかけるとき、必ず保護めがねをかけます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "glasses",
+          "gloss": "眼鏡"
+        },
+        {
+          "word": "safety",
+          "gloss": "安全"
+        }
       ]
     },
     "gold": {
@@ -23395,6 +26583,44 @@
         }
       ]
     },
+    "grand": {
+      "lemma": "grand",
+      "stress": "ɡɹænd",
+      "pos": "adj",
+      "gloss": "盛大な；堂々とした；立派な",
+      "meanings": [
+        {
+          "en": "盛大な；堂々とした；立派な",
+          "note": "grand opening（グランドオープン・盛大な開店）のように、記念すべき晴れやかな催しを形容する定番語です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Did you invite him to our grand opening this Friday?",
+          "trans": "今週金曜日のグランドオープンに彼をお誘いしましたか？"
+        },
+        {
+          "text": "The inn held a grand celebration in the lit courtyard.",
+          "trans": "宿では明かりを灯した中庭で盛大なお祝いが開かれました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "opening",
+          "gloss": "開店"
+        },
+        {
+          "word": "celebrate",
+          "gloss": "祝う"
+        },
+        {
+          "word": "great",
+          "gloss": "素晴らしい"
+        }
+      ]
+    },
     "grandfather": {
       "lemma": "grandfather",
       "stress": "ˈɡɹændˌfɑðɚ",
@@ -23487,6 +26713,78 @@
       "related": [],
       "surface": [
         "grandsons"
+      ]
+    },
+    "grate": {
+      "lemma": "grate",
+      "stress": "ɡɹeɪt",
+      "pos": "verb",
+      "gloss": "すりおろす；細かく削る",
+      "meanings": [
+        {
+          "en": "すりおろす；細かく削る",
+          "note": "おろし金（grater）でチーズや柑橘の皮（zest / peel）などを細かく削り取る調理動作を表す動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "grate"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "grates"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "grated"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "grated"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "grating"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Grate a little sweet orange peel over the warm honey glaze.",
+          "trans": "温かい蜂蜜グレーズの上に、甘いオレンジの皮を少しすりおろしてください。"
+        },
+        {
+          "text": "She used a fine grater to grate fresh lemon zest.",
+          "trans": "彼女は細かいおろし金で新鮮なレモンの皮をすりおろしました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "peel",
+          "gloss": "皮"
+        },
+        {
+          "word": "zest",
+          "gloss": "柑橘のすりおろし皮"
+        }
       ]
     },
     "gray": {
@@ -23671,6 +26969,40 @@
         "greeted",
         "greeting",
         "greets"
+      ]
+    },
+    "grill": {
+      "lemma": "grill",
+      "stress": "ɡɹɪl",
+      "pos": "noun",
+      "gloss": "グリル；焼き網",
+      "meanings": [
+        {
+          "en": "グリル；焼き網",
+          "note": "オーブンの上火ヒーター部分や焼き網を指します。動詞で「網焼きにする・強火で上火焼きにする」という意味もあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How much coarse sugar did you sprinkle under the hot grill?",
+          "trans": "熱いグリルの下でザラメ砂糖をどれくらいふりかけたんですか？"
+        },
+        {
+          "text": "Two minutes under the grill turned the sugar into hard caramel.",
+          "trans": "グリルの下で二分焼いたら、砂糖が硬いカラメルになりました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "oven",
+          "gloss": "オーブン"
+        },
+        {
+          "word": "toast",
+          "gloss": "こんがり焼く"
+        }
       ]
     },
     "grin": {
@@ -23876,6 +27208,44 @@
         {
           "word": "earth",
           "gloss": "大地"
+        }
+      ]
+    },
+    "ground-floor": {
+      "lemma": "ground-floor",
+      "stress": "ˈɡɹaʊndˌflɔɹ",
+      "pos": "adj",
+      "gloss": "1階の；地上階の",
+      "meanings": [
+        {
+          "en": "1階の；地上階の",
+          "note": "ハイフンでつないで名詞の前に置き、「一階にある（sunroom / studio）」を表す形容詞として使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Restoring a ground-floor sunroom was a wonderful choice.",
+          "trans": "一階のサンルームを修復したのは素晴らしい選択でした。"
+        },
+        {
+          "text": "Caleb rented a bright ground-floor studio on Linden Street.",
+          "trans": "ケイレブはリンデン通りの明るい一階のスタジオを借りました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "ground",
+          "gloss": "地面・一階"
+        },
+        {
+          "word": "floor",
+          "gloss": "床・階"
+        },
+        {
+          "word": "studio",
+          "gloss": "スタジオ"
         }
       ]
     },
@@ -24468,6 +27838,40 @@
         {
           "word": "bookcase",
           "gloss": "本棚"
+        }
+      ]
+    },
+    "hammer": {
+      "lemma": "hammer",
+      "stress": "ˈhæmɚ",
+      "pos": "noun",
+      "gloss": "金づち；ハンマー",
+      "meanings": [
+        {
+          "en": "金づち；ハンマー",
+          "note": "釘を打つ大工道具のほか、ピアノ内部で弦を叩く「ハンマー」も指します。動詞で「叩き込む」ことも表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The fork glides right in without needing a hammer!",
+          "trans": "金づちを使わなくても、フォークがすっと入っていきますよ！"
+        },
+        {
+          "text": "Graham keeps a small hammer in his tool belt.",
+          "trans": "グレアムは工具ベルトに小さな金づちを入れています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "string",
+          "gloss": "弦"
+        },
+        {
+          "word": "nail",
+          "gloss": "釘"
         }
       ]
     },
@@ -25482,6 +28886,40 @@
       "related": [],
       "surface": []
     },
+    "helmet": {
+      "lemma": "helmet",
+      "stress": "ˈhɛlmət",
+      "pos": "noun",
+      "gloss": "ヘルメット；かぶと",
+      "meanings": [
+        {
+          "en": "ヘルメット；かぶと",
+          "note": "自転車や工事現場で頭を守る保護帽のことです。会話ではカチカチに固まった砂糖の殻などを冗談で「砂糖のヘルメット」と呼ぶこともあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Underneath that sugar helmet, the berries are delicious!",
+          "trans": "その砂糖のヘルメットの下は、ベリーがとても美味しいですよ！"
+        },
+        {
+          "text": "Wear your bicycle helmet whenever you ride down Linden Street.",
+          "trans": "リンデン通りを自転車で走るときは、いつもヘルメットをかぶってください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "hat",
+          "gloss": "帽子"
+        },
+        {
+          "word": "head",
+          "gloss": "頭"
+        }
+      ]
+    },
     "help": {
       "lemma": "help",
       "stress": "hɛlp",
@@ -26167,6 +29605,40 @@
       "related": [],
       "surface": []
     },
+    "historical": {
+      "lemma": "historical",
+      "stress": "hɪˈstɔɹɪkəl",
+      "pos": "adj",
+      "gloss": "歴史的な；歴史に関する",
+      "meanings": [
+        {
+          "en": "歴史的な；歴史に関する",
+          "note": "歴史学や過去の出来事に関わる事柄を修飾します。「歴史上重要な」というときは historic を使うこともあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Three test cakes on Sunday? That is historical research I support!",
+          "trans": "日曜日に試作ケーキが三個？それは私が全面賛成する歴史研究だね！"
+        },
+        {
+          "text": "The archive keeps historical maps of Portland neighborhoods.",
+          "trans": "資料館にはポートランドの街並みの歴史的な地図が保管されています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "old",
+          "gloss": "古い"
+        },
+        {
+          "word": "past",
+          "gloss": "過去の"
+        }
+      ]
+    },
     "hit": {
       "lemma": "hit",
       "stress": "hɪt",
@@ -26457,6 +29929,44 @@
         "held",
         "holding",
         "holds"
+      ]
+    },
+    "hole": {
+      "lemma": "hole",
+      "stress": "hoʊl",
+      "pos": "noun",
+      "gloss": "穴；くぼみ",
+      "meanings": [
+        {
+          "en": "穴；くぼみ",
+          "note": "板や壁・地面などに開いた「穴」を指す基本名詞です（screw holes「ネジ穴」）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "There were two tiny screw holes under the varnish all along.",
+          "trans": "ニスの下には最初から小さなネジ穴が二つ開いていたんですよ。"
+        },
+        {
+          "text": "Check the third wooden hole before turning the brass hook.",
+          "trans": "真鍮のフックを回す前に三つ目の木の穴を確かめてください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "hook",
+          "gloss": "フック"
+        },
+        {
+          "word": "screw",
+          "gloss": "ネジ"
+        },
+        {
+          "word": "varnish",
+          "gloss": "ニス"
+        }
       ]
     },
     "holiday": {
@@ -27187,6 +30697,82 @@
         }
       ]
     },
+    "hum": {
+      "lemma": "hum",
+      "stress": "hʌm",
+      "pos": "verb",
+      "gloss": "ハミングする；鼻歌を歌う；ブンブン鳴る",
+      "meanings": [
+        {
+          "en": "ハミングする；鼻歌を歌う；ブンブン鳴る",
+          "note": "歌詞を付けずに唇を閉じて「鼻歌でメロディを口ずさむ」動詞です。-m を重ねて humming と変化します。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "hum"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "hums"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "hummed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "hummed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "humming"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait—he is humming the exact melody along with Evelyn!",
+          "trans": "ちょっと待って――彼、イヴリンの演奏に合わせてその通りのメロディを口ずさんでいますよ！"
+        },
+        {
+          "text": "Tessa likes to hum softly while she rolls lemon pastry.",
+          "trans": "テッサはレモンタルトの生地を伸ばしながら小さく鼻歌を歌うのが好きです。"
+        }
+      ],
+      "related": [
+        {
+          "word": "sing",
+          "gloss": "歌う"
+        },
+        {
+          "word": "melody",
+          "gloss": "メロディ"
+        },
+        {
+          "word": "tune",
+          "gloss": "曲・調律する"
+        }
+      ]
+    },
     "hundred": {
       "lemma": "hundred",
       "stress": "ˈhʌndɹəd",
@@ -27707,6 +31293,44 @@
         }
       ]
     },
+    "immediately": {
+      "lemma": "immediately",
+      "stress": "ɪˈmidiətli",
+      "pos": "adv",
+      "gloss": "すぐに；直ちに",
+      "meanings": [
+        {
+          "en": "すぐに；直ちに",
+          "note": "時間をおかず「今すぐ・間髪入れず」という緊急さや素早い動きを表す副詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Off the flame immediately, then stir in the cold butter!",
+          "trans": "すぐに火から下ろして、冷たいバターを混ぜ込んで！"
+        },
+        {
+          "text": "Hannah ran immediately to check the open street gate.",
+          "trans": "ハンナはすぐさま開いた通りの門を確認しに走りました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "now",
+          "gloss": "今"
+        },
+        {
+          "word": "quickly",
+          "gloss": "素早く"
+        },
+        {
+          "word": "soon",
+          "gloss": "まもなく"
+        }
+      ]
+    },
     "important": {
       "lemma": "important",
       "stress": "ɪmˈpɔɹtənt",
@@ -27998,6 +31622,40 @@
         {
           "word": "outside",
           "gloss": "外に"
+        }
+      ]
+    },
+    "ingredient": {
+      "lemma": "ingredient",
+      "stress": "ɪnˈɡɹidiənt",
+      "pos": "noun",
+      "gloss": "材料；食材；成分",
+      "meanings": [
+        {
+          "en": "材料；食材；成分",
+          "note": "レシピや料理に必要な一つひとつの食材・材料を表す可算名詞です。複数形 ingredients でよく使われます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Blue smudge is not an ingredient sold at the Saturday market!",
+          "trans": "青いインクのにじみなんて、土曜市場で売っている材料じゃないわよ！"
+        },
+        {
+          "text": "Good butter and fresh berries are the key ingredients here.",
+          "trans": "上質なバターと新鮮なベリーが、ここでの大事な材料です。"
+        }
+      ],
+      "related": [
+        {
+          "word": "recipe",
+          "gloss": "レシピ"
+        },
+        {
+          "word": "kitchen",
+          "gloss": "台所"
         }
       ]
     },
@@ -28312,6 +31970,82 @@
         {
           "word": "note",
           "gloss": "メモ"
+        }
+      ]
+    },
+    "interrupt": {
+      "lemma": "interrupt",
+      "stress": "ˌɪntəˈɹʌpt",
+      "pos": "verb",
+      "gloss": "中断する；遮る",
+      "meanings": [
+        {
+          "en": "中断する；遮る",
+          "note": "話や音楽・作業などの流れを途中で「さえぎる・中断させる」動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "interrupt"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "interrupts"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "interrupted"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "interrupted"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "interrupting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Heavy rain interrupted page two of the song thirty years ago.",
+          "trans": "三十年前、激しい雨がその曲の二ページ目を中断させてしまいました。"
+        },
+        {
+          "text": "Please excuse me—I did not mean to interrupt your tea.",
+          "trans": "すみません――お茶のお時間を邪魔するつもりはありませんでした。"
+        }
+      ],
+      "related": [
+        {
+          "word": "stop",
+          "gloss": "止める"
+        },
+        {
+          "word": "break",
+          "gloss": "中断する"
+        },
+        {
+          "word": "continue",
+          "gloss": "続ける"
         }
       ]
     },
@@ -29055,6 +32789,44 @@
         }
       ]
     },
+    "journey": {
+      "lemma": "journey",
+      "stress": "ˈdʒɝni",
+      "pos": "noun",
+      "gloss": "旅；道のり；行程",
+      "meanings": [
+        {
+          "en": "旅；道のり；行程",
+          "note": "長い距離や日数をかけて移動する「旅・道中（my long journey home）」を表す基本名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Before my long journey home, we hid a small tin box.",
+          "trans": "故郷への長い旅の前に、私たちは小さなブリキ箱を隠しました。"
+        },
+        {
+          "text": "Train journeys along the coast are peaceful in May.",
+          "trans": "五月の海沿いの電車の旅は穏やかです。"
+        }
+      ],
+      "related": [
+        {
+          "word": "trip",
+          "gloss": "小旅行"
+        },
+        {
+          "word": "train",
+          "gloss": "列車"
+        },
+        {
+          "word": "abroad",
+          "gloss": "海外へ"
+        }
+      ]
+    },
     "joy": {
       "lemma": "joy",
       "stress": "dʒɔɪ",
@@ -29086,6 +32858,40 @@
         {
           "word": "delight",
           "gloss": "大喜び"
+        }
+      ]
+    },
+    "judge": {
+      "lemma": "judge",
+      "stress": "dʒʌdʒ",
+      "pos": "noun",
+      "gloss": "審査員；裁判官",
+      "meanings": [
+        {
+          "en": "審査員；裁判官",
+          "note": "法廷の裁判官だけでなく、料理コンテストなどの「審査員・審判」を指すときにも使います。動詞で「判断・審査する」意味もあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Here goes Judge Graham with forkful number one!",
+          "trans": "さあ、グレアム審査員が最初の一口をいきますよ！"
+        },
+        {
+          "text": "Thank you for your sacrifice, Judge; we appreciate your score.",
+          "trans": "審査員、犠牲的なご試食ありがとうございます。採点に感謝します。"
+        }
+      ],
+      "related": [
+        {
+          "word": "score",
+          "gloss": "得点"
+        },
+        {
+          "word": "test",
+          "gloss": "テスト"
         }
       ]
     },
@@ -29978,6 +33784,40 @@
         }
       ]
     },
+    "laboratory": {
+      "lemma": "laboratory",
+      "stress": "ˈlæbɹəˌtɔɹi",
+      "pos": "noun",
+      "gloss": "実験室；研究室",
+      "meanings": [
+        {
+          "en": "実験室；研究室",
+          "note": "アメリカ英語では第一音節にアクセントを置いて /ˈlæbɹəˌtɔɹi/ と発音します。口語では lab と略されることもよくあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Welcome to the Sunday Berry Cake Laboratory, apprentices!",
+          "trans": "日曜ベリーケーキ研究室へようこそ、見習いさんたち！"
+        },
+        {
+          "text": "Tessa turned her tidy cafe kitchen into a tasting laboratory.",
+          "trans": "テッサは整頓されたカフェの厨房を試食実験室に変えました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "test",
+          "gloss": "実験・テスト"
+        },
+        {
+          "word": "research",
+          "gloss": "研究"
+        }
+      ]
+    },
     "lace": {
       "lemma": "lace",
       "stress": "leɪs",
@@ -30003,6 +33843,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "ladder": {
+      "lemma": "ladder",
+      "stress": "ˈlædɚ",
+      "pos": "noun",
+      "gloss": "はしご；脚立",
+      "meanings": [
+        {
+          "en": "はしご；脚立",
+          "note": "壁に立てかけて登る「はしご」や、自立式の脚立（step ladder）を指します。階段（stairs）と区別して覚えましょう。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bring my wooden ladder at nine sharp on Friday morning!",
+          "trans": "金曜日の朝九時きっかりに、私の木のはしごを持ってきてください！"
+        },
+        {
+          "text": "Caleb climbed the ladder carefully to reach the balcony ring.",
+          "trans": "ケイレブはバルコニーの輪に届くよう、慎重にはしごを登りました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "stairs",
+          "gloss": "階段"
+        },
+        {
+          "word": "climb",
+          "gloss": "登る"
+        }
+      ]
     },
     "ladle": {
       "lemma": "ladle",
@@ -30077,6 +33951,44 @@
         {
           "word": "woman",
           "gloss": "女性"
+        }
+      ]
+    },
+    "laminated": {
+      "lemma": "laminated",
+      "stress": "ˈlæməˌneɪtɪd",
+      "pos": "adj",
+      "gloss": "ラミネート加工された；薄板を重ねた",
+      "meanings": [
+        {
+          "en": "ラミネート加工された；薄板を重ねた",
+          "note": "紙のメニューやカードが汚れや水に強い透明フィルムで覆われている状態を表す形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait—what is that laminated card tucked in your paper ledger?",
+          "trans": "待って――紙の台帳に挟んであるそのラミネート加工のカードは何だい？"
+        },
+        {
+          "text": "Laminated cafe menus survive rainy mornings in the courtyard.",
+          "trans": "ラミネート加工のカフェメニューなら、中庭の雨の朝でも傷みません。"
+        }
+      ],
+      "related": [
+        {
+          "word": "menu",
+          "gloss": "メニュー"
+        },
+        {
+          "word": "card",
+          "gloss": "カード"
+        },
+        {
+          "word": "printed",
+          "gloss": "印刷された"
         }
       ]
     },
@@ -30549,6 +34461,82 @@
       ],
       "related": [],
       "surface": []
+    },
+    "laugh": {
+      "lemma": "laugh",
+      "stress": "læf",
+      "pos": "verb",
+      "gloss": "笑う；声を出して笑う",
+      "meanings": [
+        {
+          "en": "笑う；声を出して笑う",
+          "note": "綴りに gh が入りますが発音は /f/（ラフ）です。smile（微笑む）と違い、声や表情に出して明るく笑う動作です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "laugh"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "laughs"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "laughed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "laughed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "laughing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Laugh all you want, that is the neatest soup prep ever!",
+          "trans": "好きなだけ笑っていいよ、これ以上ないほどきれいなスープの仕込みなんだから！"
+        },
+        {
+          "text": "Everyone began to laugh when Arthur painted his own glasses.",
+          "trans": "アーサーが自分のメガネにペンキを塗ってしまったとき、みんな笑い出しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "smile",
+          "gloss": "微笑む"
+        },
+        {
+          "word": "ha",
+          "gloss": "ハハ"
+        },
+        {
+          "word": "happy",
+          "gloss": "幸せな"
+        }
+      ]
     },
     "laundry": {
       "lemma": "laundry",
@@ -34307,6 +38295,40 @@
         "measuring"
       ]
     },
+    "medal": {
+      "lemma": "medal",
+      "stress": "ˈmɛdəl",
+      "pos": "noun",
+      "gloss": "メダル；勲章",
+      "meanings": [
+        {
+          "en": "メダル；勲章",
+          "note": "gold medal（金メダル）のように競技や功績を称えて贈られる金属製の記念章です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ten out of ten in Graham's pencil is worth three gold medals!",
+          "trans": "グレアムの鉛筆での十点満点は、金メダル三個分の価値があります！"
+        },
+        {
+          "text": "Her honey glaze won a first-place medal at the town fair.",
+          "trans": "彼女の蜂蜜グレーズは町の品評会で一等メダルを獲得しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "gold",
+          "gloss": "金"
+        },
+        {
+          "word": "winner",
+          "gloss": "勝者"
+        }
+      ]
+    },
     "meet": {
       "lemma": "meet",
       "stress": "mit",
@@ -35309,6 +39331,44 @@
       "related": [],
       "surface": []
     },
+    "misty": {
+      "lemma": "misty",
+      "stress": "ˈmɪsti",
+      "pos": "adj",
+      "gloss": "涙ぐんだ；霧がかった；ぼんやり曇った",
+      "meanings": [
+        {
+          "en": "涙ぐんだ；霧がかった；ぼんやり曇った",
+          "note": "mist（霧・もや）+ -y で、景色が霧でかすむ様子だけでなく、感動で目や眼鏡が「潤んで曇る」ことも表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Even my glasses are misty after listening to that waltz!",
+          "trans": "あのワルツを聴いて、私のメガネまで涙で曇っていますよ！"
+        },
+        {
+          "text": "A misty morning cleared into bright sunshine by nine.",
+          "trans": "霧のかかった朝も、九時には明るい日差しに晴れました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "frosted",
+          "gloss": "くもった"
+        },
+        {
+          "word": "tear",
+          "gloss": "涙"
+        },
+        {
+          "word": "rainy",
+          "gloss": "雨の"
+        }
+      ]
+    },
     "misty-eyed": {
       "lemma": "misty-eyed",
       "stress": "ˈmɪstiˌaɪd",
@@ -35344,6 +39404,44 @@
         {
           "word": "sentiment",
           "gloss": "感傷"
+        }
+      ]
+    },
+    "mitt": {
+      "lemma": "mitt",
+      "stress": "mɪt",
+      "pos": "noun",
+      "gloss": "ミトン（親指だけ分かれた厚手の手袋）",
+      "meanings": [
+        {
+          "en": "ミトン（親指だけ分かれた厚手の手袋）",
+          "note": "oven mitts はオーブンから熱いトレイやパンを取り出すときに両手にはめる厚手の鍋つかみ手袋です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oven mitts on! The almond lemon tarts are golden brown!",
+          "trans": "オーブンミトンをはめて！アーモンドレモンタルトがきつね色に焼けましたよ！"
+        },
+        {
+          "text": "Always wear thick mitts before touching a hot baking tray.",
+          "trans": "熱い焼き型に触る前は必ず厚手のミトンを着けてください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "oven",
+          "gloss": "オーブン"
+        },
+        {
+          "word": "hot",
+          "gloss": "熱い"
+        },
+        {
+          "word": "tray",
+          "gloss": "トレイ"
         }
       ]
     },
@@ -35703,6 +39801,40 @@
       "related": [],
       "surface": [
         "mice"
+      ]
+    },
+    "mouth": {
+      "lemma": "mouth",
+      "stress": "maʊθ",
+      "pos": "noun",
+      "gloss": "口",
+      "meanings": [
+        {
+          "en": "口",
+          "note": "単数形の発音は語末が無声音の /θ/ ですが、複数形 mouths になると /ðz/ に濁る点に注意しましょう。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Too late — Graham already put a full forkful into his mouth!",
+          "trans": "手遅れよ — グレアムはもうフォーク山盛り一杯を口に入れちゃったわ！"
+        },
+        {
+          "text": "The warm cake melted softly inside his mouth.",
+          "trans": "温かいケーキは彼の口の中でふんわりと溶けました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "cheek",
+          "gloss": "ほお"
+        },
+        {
+          "word": "taste",
+          "gloss": "味わう"
+        }
       ]
     },
     "move": {
@@ -36374,6 +40506,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "nearly": {
+      "lemma": "nearly",
+      "stress": "ˈnɪɹli",
+      "pos": "adv",
+      "gloss": "もう少しで〜するところ；ほとんど；約",
+      "meanings": [
+        {
+          "en": "もう少しで〜するところ；ほとんど；約",
+          "note": "almost と同じく「あと少しで〜する寸前だった（nearly jumped）」や「およそ（nearly twenty）」を表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Phew! My heart nearly jumped right over the tree!",
+          "trans": "ふう！心臓が木を飛び越えそうなくらい驚いたよ！"
+        },
+        {
+          "text": "All twenty-four chairs are nearly full already.",
+          "trans": "二十四脚の椅子はもうほとんど埋まりかけています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "almost",
+          "gloss": "ほとんど"
+        },
+        {
+          "word": "near",
+          "gloss": "近い"
+        },
+        {
+          "word": "about",
+          "gloss": "約"
+        }
+      ]
     },
     "neat": {
       "lemma": "neat",
@@ -37579,6 +41749,44 @@
       "related": [],
       "surface": []
     },
+    "octave": {
+      "lemma": "octave",
+      "stress": "ˈɑktɪv",
+      "pos": "noun",
+      "gloss": "オクターブ（8度音程）",
+      "meanings": [
+        {
+          "en": "オクターブ（8度音程）",
+          "note": "ドから次の高いドまでのように、同じ音名の間の「8度（1オクターブ）」を指す音楽の基本用語です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hear the gentle final chord, one octave high, home again.",
+          "trans": "一オクターブ高いところへ戻って終わる、やさしい最後の和音を聴いて。"
+        },
+        {
+          "text": "Middle D sounded clear across every octave on the piano.",
+          "trans": "真ん中のDはピアノのどのオクターブと合わせても澄んで響きました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "chord",
+          "gloss": "和音"
+        },
+        {
+          "word": "note",
+          "gloss": "音符"
+        },
+        {
+          "word": "piano",
+          "gloss": "ピアノ"
+        }
+      ]
+    },
     "oddly": {
       "lemma": "oddly",
       "stress": "ˈɑdli",
@@ -37791,6 +41999,40 @@
         }
       ]
     },
+    "officially": {
+      "lemma": "officially",
+      "stress": "əˈfɪʃəli",
+      "pos": "adv",
+      "gloss": "公式に；正式に",
+      "meanings": [
+        {
+          "en": "公式に；正式に",
+          "note": "公的機関の認定や正式な決定を表すほか、会話で「もう決定事項だよ！」と冗談交じりに宣言するときにも活躍します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Arthur is officially retired from spoon duty!",
+          "trans": "アーサーは正式に計量スプーン当番を退任しました！"
+        },
+        {
+          "text": "The courtyard cafe will officially open at ten o'clock on Saturday.",
+          "trans": "中庭カフェは土曜日の十時に正式オープンします。"
+        }
+      ],
+      "related": [
+        {
+          "word": "office",
+          "gloss": "事務所・役職"
+        },
+        {
+          "word": "approve",
+          "gloss": "承認する"
+        }
+      ]
+    },
     "oh": {
       "lemma": "oh",
       "stress": "oʊ",
@@ -37909,6 +42151,44 @@
         "older"
       ]
     },
+    "olive": {
+      "lemma": "olive",
+      "stress": "ˈɑlɪv",
+      "pos": "noun",
+      "gloss": "オリーブ（の実）；オリーブ色",
+      "meanings": [
+        {
+          "en": "オリーブ（の実）；オリーブ色",
+          "note": "地中海料理やスープ作りに欠かせない果実で、olive oil（オリーブオイル）の形でよく登場します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Warm two spoons of golden olive oil in the big soup pot.",
+          "trans": "大きなスープ鍋で黄金色のオリーブオイルを大さじ二杯温めて。"
+        },
+        {
+          "text": "Green olives and warm crusty bread make a simple lunch.",
+          "trans": "緑のオリーブとカリッと焼けたパンは手軽な昼食になります。"
+        }
+      ],
+      "related": [
+        {
+          "word": "oil",
+          "gloss": "油"
+        },
+        {
+          "word": "green",
+          "gloss": "緑の"
+        },
+        {
+          "word": "herb",
+          "gloss": "ハーブ"
+        }
+      ]
+    },
     "on": {
       "lemma": "on",
       "stress": "ɑn",
@@ -38022,6 +42302,44 @@
         {
           "word": "three",
           "gloss": "三"
+        }
+      ]
+    },
+    "onion": {
+      "lemma": "onion",
+      "stress": "ˈʌnjən",
+      "pos": "noun",
+      "gloss": "タマネギ",
+      "meanings": [
+        {
+          "en": "タマネギ",
+          "note": "先頭の o は「ア」に近い /ʌ/ で発音します（/ˈʌnjən/）。スープやシチューに欠かせない可算名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Stir the chopped onions and carrots until sweet and golden.",
+          "trans": "刻んだタマネギとニンジンが甘く黄金色になるまで炒めましょう。"
+        },
+        {
+          "text": "Sweet onions give vegetable broth a rich aroma.",
+          "trans": "甘いタマネギは野菜だしに豊かな香りを与えてくれます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "carrot",
+          "gloss": "ニンジン"
+        },
+        {
+          "word": "chop",
+          "gloss": "刻む"
+        },
+        {
+          "word": "broth",
+          "gloss": "だし汁"
         }
       ]
     },
@@ -39597,6 +43915,44 @@
         }
       ]
     },
+    "parsley": {
+      "lemma": "parsley",
+      "stress": "ˈpɑɹsli",
+      "pos": "noun",
+      "gloss": "パセリ",
+      "meanings": [
+        {
+          "en": "パセリ",
+          "note": "タイム（thyme）やミントと並ぶ洋食の定番ハーブで、スープの香りづけや彩りに使われます（不可算名詞）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Need two sprigs of courtyard thyme and parsley next, Chef?",
+          "trans": "シェフ、次は中庭のタイムとパセリを二枝ずつ用意しましょうか？"
+        },
+        {
+          "text": "Fresh chopped parsley adds bright green color to golden soup.",
+          "trans": "刻んだばかりのパセリは黄金色のスープに鮮やかな緑色を添えます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "thyme",
+          "gloss": "タイム"
+        },
+        {
+          "word": "sprig",
+          "gloss": "小枝"
+        },
+        {
+          "word": "herb",
+          "gloss": "ハーブ"
+        }
+      ]
+    },
     "part": {
       "lemma": "part",
       "stress": "pɑɹt",
@@ -40181,6 +44537,40 @@
         "peeks"
       ]
     },
+    "peel": {
+      "lemma": "peel",
+      "stress": "pil",
+      "pos": "noun",
+      "gloss": "（果物・野菜の）皮",
+      "meanings": [
+        {
+          "en": "（果物・野菜の）皮",
+          "note": "orange peel（オレンジの皮）や lemon peel のように、むいたりすりおろしたりする外皮を指します。動詞で「皮をむく」意味もあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A pinch of grated orange peel brightens the summer berries.",
+          "trans": "すりおろしたオレンジの皮をひとつまみ加えると、夏のベリーが引き立ちます。"
+        },
+        {
+          "text": "Save the sweet orange peel to scent the warm honey glaze.",
+          "trans": "温かい蜂蜜グレーズに香りをつけるため、甘いオレンジの皮を取っておきましょう。"
+        }
+      ],
+      "related": [
+        {
+          "word": "zest",
+          "gloss": "柑橘の皮"
+        },
+        {
+          "word": "orange",
+          "gloss": "オレンジ"
+        }
+      ]
+    },
     "peer": {
       "lemma": "peer",
       "stress": "pɪɹ",
@@ -40672,6 +45062,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "physics": {
+      "lemma": "physics",
+      "stress": "ˈfɪzɪks",
+      "pos": "noun",
+      "gloss": "物理学",
+      "meanings": [
+        {
+          "en": "物理学",
+          "note": "語尾に -s が付きますが「学問名」なので単数扱いになります（Basic physics!）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Even cubes cook at the same speed—that is basic physics!",
+          "trans": "同じ大きさの角切りは同じ速さで火が通る――基本的な物理学さ！"
+        },
+        {
+          "text": "Caleb studied acoustics and physics before opening his studio.",
+          "trans": "ケイレブはスタジオを開く前に音響学と物理学を学びました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "basic",
+          "gloss": "基本的な"
+        },
+        {
+          "word": "measure",
+          "gloss": "測る"
+        },
+        {
+          "word": "rule",
+          "gloss": "法則"
+        }
+      ]
     },
     "piano": {
       "lemma": "piano",
@@ -42024,6 +46452,44 @@
         }
       ]
     },
+    "postmark": {
+      "lemma": "postmark",
+      "stress": "ˈpoʊstˌmɑɹk",
+      "pos": "noun",
+      "gloss": "消印（郵便局の日付・局名印）",
+      "meanings": [
+        {
+          "en": "消印（郵便局の日付・局名印）",
+          "note": "post（郵便）+ mark（印）で、切手の上に押される発送日と郵便局名を示すスタンプのことです。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at the postmark from two weeks ago—it came from abroad!",
+          "trans": "二週間前の消印を見てよ――海外から届いたんだ！"
+        },
+        {
+          "text": "The faded postmark showed a coastal town across the ocean.",
+          "trans": "薄れた消印には海の向こうの港町の名前が記されていました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "postcard",
+          "gloss": "絵はがき"
+        },
+        {
+          "word": "stamp",
+          "gloss": "切手・スタンプ"
+        },
+        {
+          "word": "mail",
+          "gloss": "郵便"
+        }
+      ]
+    },
     "postscript": {
       "lemma": "postscript",
       "stress": "ˈpoʊstˌskɹɪpt",
@@ -42879,6 +47345,44 @@
         }
       ]
     },
+    "pretty": {
+      "lemma": "pretty",
+      "stress": "ˈpɹɪti",
+      "pos": "adj",
+      "gloss": "きれいな；かわいい；素敵な",
+      "meanings": [
+        {
+          "en": "きれいな；かわいい；素敵な",
+          "note": "花や装飾など目を楽しませる「かわいらしさ・きれいさ」を表す形容詞です（pretty green leaf）。副詞では「かなり」の意味もあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look how pretty a single green leaf looks in each glass vase!",
+          "trans": "小さなガラスの花瓶に緑の葉が一枚ずつ入ると、なんて可愛らしいんでしょう！"
+        },
+        {
+          "text": "The courtyard lanterns made a pretty warm glow at dusk.",
+          "trans": "中庭のランタンが夕暮れ時に美しく温かな光を放っていました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "lovely",
+          "gloss": "素敵な"
+        },
+        {
+          "word": "beautiful",
+          "gloss": "美しい"
+        },
+        {
+          "word": "neat",
+          "gloss": "小ぎれいな"
+        }
+      ]
+    },
     "price": {
       "lemma": "price",
       "stress": "pɹaɪs",
@@ -43579,6 +48083,44 @@
         }
       ]
     },
+    "proudly": {
+      "lemma": "proudly",
+      "stress": "ˈpɹaʊdli",
+      "pos": "adv",
+      "gloss": "誇らしげに；誇りを持って",
+      "meanings": [
+        {
+          "en": "誇らしげに；誇りを持って",
+          "note": "proud（誇らしい）に -ly を付けた副詞で、胸を張って嬉しそうに見守る様子を表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tessa watched proudly from her cushion at the doorway.",
+          "trans": "テッサは入口のクッションから誇らしげに見守っていました。"
+        },
+        {
+          "text": "Graham proudly hung key number nine on the wooden board.",
+          "trans": "グレアムは九番の鍵を木のボードに誇らしげに掛けました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "proud",
+          "gloss": "誇らしい"
+        },
+        {
+          "word": "happy",
+          "gloss": "嬉しい"
+        },
+        {
+          "word": "smile",
+          "gloss": "微笑む"
+        }
+      ]
+    },
     "provide": {
       "lemma": "provide",
       "stress": "pɹəˈvaɪd",
@@ -43676,6 +48218,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "pucker": {
+      "lemma": "pucker",
+      "stress": "ˈpʌkɚ",
+      "pos": "verb",
+      "gloss": "すぼめる；しわを寄せる",
+      "meanings": [
+        {
+          "en": "すぼめる；しわを寄せる",
+          "note": "とても酸っぱいレモンを食べたときなどに唇やほおがキュッとすぼむ様子を表します。unpucker はその逆で「すぼんだ表情がほどける」意味です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "pucker"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "puckers"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "puckered"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "puckered"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "puckering"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait while my cheeks try to unpucker after that sour bite!",
+          "trans": "あの一口の酸っぱさですぼんだほおが戻るまで待ってくれ！"
+        },
+        {
+          "text": "Too much pure lemon juice will pucker anyone's mouth.",
+          "trans": "純粋なレモン汁が多すぎると、誰でも口がすぼんでしまいます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "sour",
+          "gloss": "酸っぱい"
+        },
+        {
+          "word": "cheek",
+          "gloss": "ほお"
+        }
+      ]
     },
     "pull": {
       "lemma": "pull",
@@ -44598,6 +49212,40 @@
         }
       ]
     },
+    "raw": {
+      "lemma": "raw",
+      "stress": "ɹɔ",
+      "pos": "adj",
+      "gloss": "生の；未精製の；加工していない",
+      "meanings": [
+        {
+          "en": "生の；未精製の；加工していない",
+          "note": "加熱していない生鮮食品（raw fish）のほか、精製していない砂糖（raw sugar「きび砂糖・粗糖」）などにも使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tin Two gets crunchy raw sugar brushed under the grill.",
+          "trans": "二番目の型には、グリルの下で焼くザクザクの粗糖を使います。"
+        },
+        {
+          "text": "Raw honey keeps a rich floral scent from summer wildflowers.",
+          "trans": "非加熱の蜂蜜には、夏の野花の豊かな香りが残っています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "coarse",
+          "gloss": "粒の粗い"
+        },
+        {
+          "word": "natural",
+          "gloss": "自然の"
+        }
+      ]
+    },
     "reach": {
       "lemma": "reach",
       "stress": "ɹitʃ",
@@ -45101,6 +49749,78 @@
         }
       ]
     },
+    "refresh": {
+      "lemma": "refresh",
+      "stress": "ɹɪˈfɹɛʃ",
+      "pos": "verb",
+      "gloss": "爽やかにする；元気づける",
+      "meanings": [
+        {
+          "en": "爽やかにする；元気づける",
+          "note": "現在分詞の refreshing は「爽やかな・すっきりする」という形容詞として飲み物や香り、風などによく使われます。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "refresh"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "refreshes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "refreshed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "refreshed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "refreshing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Surely a refreshing citrus zing deserves seven points!",
+          "trans": "この爽やかな柑橘の刺激は、きっと七点の価値がありますよ！"
+        },
+        {
+          "text": "A cool glass of water will refresh you after that sour glaze.",
+          "trans": "あの酸っぱいグレーズのあとには、冷たい水が一杯あるとさっぱりしますよ。"
+        }
+      ],
+      "related": [
+        {
+          "word": "fresh",
+          "gloss": "新鮮な"
+        },
+        {
+          "word": "cool",
+          "gloss": "涼しい・冷たい"
+        }
+      ]
+    },
     "register": {
       "lemma": "register",
       "stress": "ˈɹɛdʒɪstɚ",
@@ -45167,6 +49887,44 @@
         "registered",
         "registering",
         "registers"
+      ]
+    },
+    "regular": {
+      "lemma": "regular",
+      "stress": "ˈɹɛɡjəlɚ",
+      "pos": "noun",
+      "gloss": "常連客；おなじみの人",
+      "meanings": [
+        {
+          "en": "常連客；おなじみの人",
+          "note": "カフェや宿に「いつも決まって通ってくれる常連さん」を指す名詞用法です（greet every regular）。形容詞でもよく使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Your ankle will be ready to greet every regular on Friday.",
+          "trans": "金曜日には通りの常連さんみんなを迎えられるくらい足首が良くなりますよ。"
+        },
+        {
+          "text": "The bookshop owner is a cheerful regular at the morning cafe.",
+          "trans": "本屋の店主さんは朝のカフェの明るい常連客です。"
+        }
+      ],
+      "related": [
+        {
+          "word": "neighbor",
+          "gloss": "ご近所さん"
+        },
+        {
+          "word": "guest",
+          "gloss": "お客さん"
+        },
+        {
+          "word": "daily",
+          "gloss": "毎日の"
+        }
       ]
     },
     "rehearse": {
@@ -45471,6 +50229,82 @@
         "remembers"
       ]
     },
+    "remind": {
+      "lemma": "remind",
+      "stress": "ɹɪˈmaɪnd",
+      "pos": "verb",
+      "gloss": "思い出させる；念を押す",
+      "meanings": [
+        {
+          "en": "思い出させる；念を押す",
+          "note": "remind 人 to do（人に〜するよう思い出させる）、remind 人 of ...（人に〜を連想させる）の形で使います。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "remind"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "reminds"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "reminded"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "reminded"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "reminding"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Remind me never to wait three years to call you again.",
+          "trans": "君にまた電話するのに三年も待ったりしないよう、僕に注意してくれ。"
+        },
+        {
+          "text": "This lemon waltz reminds everyone of thirty summers ago.",
+          "trans": "このレモンのワルツを聴くと、誰もが三十年前を思い出します。"
+        }
+      ],
+      "related": [
+        {
+          "word": "remember",
+          "gloss": "覚えている"
+        },
+        {
+          "word": "forget",
+          "gloss": "忘れる"
+        },
+        {
+          "word": "mind",
+          "gloss": "心"
+        }
+      ]
+    },
     "rent": {
       "lemma": "rent",
       "stress": "ɹɛnt",
@@ -45496,6 +50330,82 @@
       ],
       "related": [],
       "surface": []
+    },
+    "reopen": {
+      "lemma": "reopen",
+      "stress": "ˌɹiˈoʊpən",
+      "pos": "verb",
+      "gloss": "再開する；再び開ける",
+      "meanings": [
+        {
+          "en": "再開する；再び開ける",
+          "note": "閉まっていた部屋や店・施設を「もう一度開く（reopen Room Nine）」という意味の動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "reopen"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "reopens"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "reopened"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "reopened"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "reopening"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "If you ever reopen Room Nine, count three flat stones north!",
+          "trans": "もし九号室を再び開くことがあれば、北へ平らな石を三つ数えてください！"
+        },
+        {
+          "text": "After thirty quiet years, the inn reopened its sunroom cafe.",
+          "trans": "三十年の静かな時を経て、宿はサンルームのカフェを再開しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "open",
+          "gloss": "開ける"
+        },
+        {
+          "word": "restore",
+          "gloss": "修復する"
+        },
+        {
+          "word": "door",
+          "gloss": "ドア"
+        }
+      ]
     },
     "repair": {
       "lemma": "repair",
@@ -45781,6 +50691,44 @@
       "related": [],
       "surface": []
     },
+    "representative": {
+      "lemma": "representative",
+      "stress": "ˌɹɛpɹɪˈzɛntətɪv",
+      "pos": "noun",
+      "gloss": "代表者；担当者；議員",
+      "meanings": [
+        {
+          "en": "代表者；担当者；議員",
+          "note": "市役所や組織を代表してやって来た「公的な担当者（municipal representative）」を指す名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Esteemed municipal representative, welcome to Linden Courtyard Inn!",
+          "trans": "敬愛なる市の代表者様、リンデン中庭インへようこそ！"
+        },
+        {
+          "text": "The city representative checked every item on the safety list.",
+          "trans": "市の担当者は安全確認リストの全項目をチェックしました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "official",
+          "gloss": "公式の"
+        },
+        {
+          "word": "municipal",
+          "gloss": "市の"
+        },
+        {
+          "word": "clerk",
+          "gloss": "職員"
+        }
+      ]
+    },
     "rescue": {
       "lemma": "rescue",
       "stress": "ˈɹɛskju",
@@ -45853,6 +50801,40 @@
         }
       ]
     },
+    "research": {
+      "lemma": "research",
+      "stress": "ˈɹisɝtʃ",
+      "pos": "noun",
+      "gloss": "研究；調査",
+      "meanings": [
+        {
+          "en": "研究；調査",
+          "note": "英語の research は不可算名詞なので、a research とは言わず historical research のように冠詞なしで使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Three test cakes on Sunday? Now that is historical research!",
+          "trans": "日曜日に試作ケーキを三個？それこそ歴史研究というものだね！"
+        },
+        {
+          "text": "Her careful research revealed the old botanical recipe.",
+          "trans": "彼女の丁寧な調査によって、古い植物図鑑のレシピが見つかりました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "study",
+          "gloss": "勉強・研究"
+        },
+        {
+          "word": "laboratory",
+          "gloss": "研究室"
+        }
+      ]
+    },
     "reservation": {
       "lemma": "reservation",
       "stress": "ˌɹɛzɚˈveɪʃən",
@@ -45878,6 +50860,82 @@
       ],
       "related": [],
       "surface": []
+    },
+    "reserve": {
+      "lemma": "reserve",
+      "stress": "ɹɪˈzɝv",
+      "pos": "verb",
+      "gloss": "予約する；取っておく",
+      "meanings": [
+        {
+          "en": "予約する；取っておく",
+          "note": "宿の部屋やカフェのテーブルを「あらかじめ確保しておく（reserve this table）」という大切な動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "reserve"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "reserves"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "reserved"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "reserved"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "reserving"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I am reserving this exact courtyard table for you every Friday!",
+          "trans": "毎週金曜日に、まさにこの中庭のテーブルを二人用に予約しておくわ！"
+        },
+        {
+          "text": "Please reserve Room Four for two more weeks if it is free.",
+          "trans": "空いていれば、四号室をあと二週間予約してください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "book",
+          "gloss": "予約する"
+        },
+        {
+          "word": "save",
+          "gloss": "取っておく"
+        },
+        {
+          "word": "table",
+          "gloss": "テーブル"
+        }
+      ]
     },
     "respect": {
       "lemma": "respect",
@@ -45972,6 +51030,82 @@
       ],
       "related": [],
       "surface": []
+    },
+    "restore": {
+      "lemma": "restore",
+      "stress": "ɹɪˈstɔɹ",
+      "pos": "verb",
+      "gloss": "修復する；元の状態に戻す",
+      "meanings": [
+        {
+          "en": "修復する；元の状態に戻す",
+          "note": "古い建物や家具・ピアノを傷めることなく丁寧に「元の美しい状態に蘇らせる（restore a sunroom）」動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "restore"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "restores"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "restored"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "restored"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "restoring"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Restoring a hidden sunroom instead of building walls was genius!",
+          "trans": "壁を作る代わりに隠れたサンルームを修復するなんて名案ですよ！"
+        },
+        {
+          "text": "Graham worked carefully to restore the old walnut piano.",
+          "trans": "グレアムは古いクルミ材のピアノを元の音に戻すため丁寧に作業しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "repair",
+          "gloss": "修理する"
+        },
+        {
+          "word": "fix",
+          "gloss": "直す"
+        },
+        {
+          "word": "reopen",
+          "gloss": "再開する"
+        }
+      ]
     },
     "retired": {
       "lemma": "retired",
@@ -47591,6 +52725,40 @@
         }
       ]
     },
+    "sacrifice": {
+      "lemma": "sacrifice",
+      "stress": "ˈsækɹəˌfaɪs",
+      "pos": "noun",
+      "gloss": "犠牲；献身",
+      "meanings": [
+        {
+          "en": "犠牲；献身",
+          "note": "真剣な自己犠牲だけでなく、酸っぱい試作品の毒見をしてくれた相手へのユーモラスな感謝（Thank you for your sacrifice!）にも使えます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Thank you for your sacrifice, Judge; Arthur is off spoon duty!",
+          "trans": "審査員、犠牲的なご試食ありがとう。アーサーは計量係を引退させます！"
+        },
+        {
+          "text": "Baking three test cakes took a real sacrifice of Sunday rest.",
+          "trans": "試作ケーキを三個焼くために、日曜日の休息をだいぶ犠牲にしました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "brave",
+          "gloss": "勇敢な"
+        },
+        {
+          "word": "duty",
+          "gloss": "義務・当番"
+        }
+      ]
+    },
     "sad": {
       "lemma": "sad",
       "stress": "sæd",
@@ -47668,6 +52836,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "safety": {
+      "lemma": "safety",
+      "stress": "ˈseɪfti",
+      "pos": "noun",
+      "gloss": "安全；安全性",
+      "meanings": [
+        {
+          "en": "安全；安全性",
+          "note": "形容詞 safe に名詞化の -ty が付いた語です。safety goggles（安全ゴーグル）や structural safety（構造上の安全性）のように使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Purely for structural safety, I should test one more slice.",
+          "trans": "あくまで構造上の安全確認のため、もう一切れ味見すべきだな。"
+        },
+        {
+          "text": "The fork glides in without a hammer or safety goggles.",
+          "trans": "金づちも安全ゴーグルもなしで、フォークがすっと通りますよ。"
+        }
+      ],
+      "related": [
+        {
+          "word": "safe",
+          "gloss": "安全な"
+        },
+        {
+          "word": "guard",
+          "gloss": "守る"
+        }
+      ]
     },
     "sail": {
       "lemma": "sail",
@@ -47914,6 +53116,112 @@
         {
           "word": "level",
           "gloss": "水平な"
+        }
+      ]
+    },
+    "satisfy": {
+      "lemma": "satisfy",
+      "stress": "ˈsætɪsˌfaɪ",
+      "pos": "verb",
+      "gloss": "満足させる；満たす",
+      "meanings": [
+        {
+          "en": "満足させる；満たす",
+          "note": "現在分詞 satisfying は「満足のいく・小気味よい」、過去分詞 satisfied は「満足した」という意味の形容詞としても頻出します。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "satisfy"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "satisfies"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "satisfied"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "satisfied"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "satisfying"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Enough sugar to give every slice a satisfying crisp snap!",
+          "trans": "どの切り身にも心地よいパリッとした歯ごたえが出るくらい砂糖をかけたんだ！"
+        },
+        {
+          "text": "One warm slice of berry cake will satisfy every judge.",
+          "trans": "温かいベリーケーキを一切れ食べれば、どの審査員も満足するはずです。"
+        }
+      ],
+      "related": [
+        {
+          "word": "enough",
+          "gloss": "十分な"
+        },
+        {
+          "word": "pleased",
+          "gloss": "満足した"
+        }
+      ]
+    },
+    "saturday": {
+      "lemma": "saturday",
+      "stress": "ˈsætɚdeɪ",
+      "pos": "noun",
+      "gloss": "土曜日",
+      "meanings": [
+        {
+          "en": "土曜日",
+          "note": "文頭以外でも大文字 Saturday で書きます。on Saturday（土曜日に）、Saturday market（土曜市場）のように使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Blue smudge is not sold at the Saturday market, Evelyn!",
+          "trans": "青いインクのにじみなんて、土曜市場では売っていませんよ、イヴリン！"
+        },
+        {
+          "text": "Write down four full berry cakes for Saturday evening!",
+          "trans": "土曜日の夜に向けて、丸ごとのベリーケーキを四台と書き留めてください！"
+        }
+      ],
+      "related": [
+        {
+          "word": "friday",
+          "gloss": "金曜日"
+        },
+        {
+          "word": "sunday",
+          "gloss": "日曜日"
         }
       ]
     },
@@ -48812,6 +54120,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "secretly": {
+      "lemma": "secretly",
+      "stress": "ˈsikɹətli",
+      "pos": "adv",
+      "gloss": "こっそりと；ひそかに",
+      "meanings": [
+        {
+          "en": "こっそりと；ひそかに",
+          "note": "secret（秘密）+ -ly で、他の人に知られないように「内緒で・こっそり」行う様子を表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Aha! Did you secretly keep a copy of my printed menu, Graham?!",
+          "trans": "あっ！グレアム、私の印刷したメニューの控えをこっそり持ってたの？！"
+        },
+        {
+          "text": "Caleb secretly prepared a welcome sign behind the gate.",
+          "trans": "ケイレブは門の後ろでこっそり歓迎の看板を用意していました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "secret",
+          "gloss": "秘密"
+        },
+        {
+          "word": "quietly",
+          "gloss": "静かに"
+        },
+        {
+          "word": "hide",
+          "gloss": "隠す"
+        }
+      ]
     },
     "security": {
       "lemma": "security",
@@ -49998,6 +55344,40 @@
       "related": [],
       "surface": []
     },
+    "shed": {
+      "lemma": "shed",
+      "stress": "ʃɛd",
+      "pos": "noun",
+      "gloss": "小屋；物置",
+      "meanings": [
+        {
+          "en": "小屋；物置",
+          "note": "庭の片隅や中庭に建てられた自転車置き場・道具小屋などの小さな建物を指します（bicycle shed / tool shed）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "We could roof the bicycle shed with Batch Two!",
+          "trans": "二番目の試作で自転車小屋の屋根を葺けそうですね！"
+        },
+        {
+          "text": "Graham keeps his wooden ladder inside the garden shed.",
+          "trans": "グレアムは木製のはしごを庭の物置小屋の中にしまっています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "roof",
+          "gloss": "屋根"
+        },
+        {
+          "word": "bicycle",
+          "gloss": "自転車"
+        }
+      ]
+    },
     "sheet": {
       "lemma": "sheet",
       "stress": "ʃit",
@@ -50752,6 +56132,44 @@
       "related": [],
       "surface": []
     },
+    "sidewalk": {
+      "lemma": "sidewalk",
+      "stress": "ˈsaɪdˌwɔk",
+      "pos": "noun",
+      "gloss": "歩道（車道の脇の人用通路）",
+      "meanings": [
+        {
+          "en": "歩道（車道の脇の人用通路）",
+          "note": "アメリカ英語で通りの両脇の「歩道」を指す基本語です（イギリス英語では pavement）。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Come look at the sidewalk outside our courtyard gate!",
+          "trans": "中庭の門の外の歩道を見てみてよ！"
+        },
+        {
+          "text": "Neighbors paused on the sidewalk to listen to the piano.",
+          "trans": "ご近所さんたちが歩道で足を止めてピアノに聴き入りました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "street",
+          "gloss": "通り"
+        },
+        {
+          "word": "gate",
+          "gloss": "門"
+        },
+        {
+          "word": "walk",
+          "gloss": "歩く"
+        }
+      ]
+    },
     "sideways": {
       "lemma": "sideways",
       "stress": "ˈsaɪdˌweɪz",
@@ -51035,6 +56453,82 @@
         {
           "word": "remarkably",
           "gloss": "驚くほど"
+        }
+      ]
+    },
+    "simmer": {
+      "lemma": "simmer",
+      "stress": "ˈsɪmɚ",
+      "pos": "verb",
+      "gloss": "ことこと弱火で煮る・煮える",
+      "meanings": [
+        {
+          "en": "ことこと弱火で煮る・煮える",
+          "note": "グラグラ沸騰させる boil に対し、小さな泡がふつふつ立つ程度の「弱火で静かに煮込む」大切な料理動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "simmer"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "simmers"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "simmered"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "simmered"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "simmering"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Listening to soup simmer in a stone kitchen beats traffic any day.",
+          "trans": "石造りの台所でスープがことこと煮える音は都会の渋滞よりずっといいね。"
+        },
+        {
+          "text": "Let the lentil soup simmer gently for twenty minutes.",
+          "trans": "レンズ豆のスープを弱火で二十分ほどことこと煮込んでください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "boil",
+          "gloss": "沸騰する"
+        },
+        {
+          "word": "soup",
+          "gloss": "スープ"
+        },
+        {
+          "word": "cook",
+          "gloss": "料理する"
         }
       ]
     },
@@ -52508,6 +58002,82 @@
       "related": [],
       "surface": []
     },
+    "soar": {
+      "lemma": "soar",
+      "stress": "sɔɹ",
+      "pos": "verb",
+      "gloss": "舞い上がる；高く響き渡る",
+      "meanings": [
+        {
+          "en": "舞い上がる；高く響き渡る",
+          "note": "鳥が翼を広げて空高く「舞い上がる」ことから、バイオリンの旋律などが心地よく「高らかに響き昇る」様子にも使います。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "soar"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "soars"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "soared"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "soared"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "soaring"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Listen to the violin soar when the piano reaches middle D!",
+          "trans": "ピアノが真ん中のDに届いたとき、バイオリンが高く舞い上がるのを聴いて！"
+        },
+        {
+          "text": "Music soared from the open sunroom windows into the evening sky.",
+          "trans": "開いたサンルームの窓から、夕空へと音楽が高らかに響き渡りました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "violin",
+          "gloss": "バイオリン"
+        },
+        {
+          "word": "high",
+          "gloss": "高い"
+        },
+        {
+          "word": "float",
+          "gloss": "漂う"
+        }
+      ]
+    },
     "soft": {
       "lemma": "soft",
       "stress": "sɔft",
@@ -52703,6 +58273,78 @@
       ],
       "related": [],
       "surface": []
+    },
+    "solve": {
+      "lemma": "solve",
+      "stress": "sɑlv",
+      "pos": "verb",
+      "gloss": "解決する；解き明かす",
+      "meanings": [
+        {
+          "en": "解決する；解き明かす",
+          "note": "謎や問題、パズルなどを解いて答えを出すときに使う基本動詞です。名詞形は solution（解決策）です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "solve"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "solves"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "solved"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "solved"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "solving"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How are we going to solve the smudged blue ink at the bottom?",
+          "trans": "一番下の滲んだ青いインクをどうやって解読するんですか？"
+        },
+        {
+          "text": "Sunlight and a keen nose helped solve the thirty-year mystery.",
+          "trans": "日差しと鋭い嗅覚が、三十年前の謎を解く助けになりました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "clue",
+          "gloss": "手がかり"
+        },
+        {
+          "word": "answer",
+          "gloss": "答え"
+        }
+      ]
     },
     "solved": {
       "lemma": "solved",
@@ -53093,6 +58735,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "sour": {
+      "lemma": "sour",
+      "stress": "ˈsaʊɚ",
+      "pos": "adj",
+      "gloss": "酸っぱい；酸味のある",
+      "meanings": [
+        {
+          "en": "酸っぱい；酸味のある",
+          "note": "レモンのような強い酸味を表す基本形容詞です。sweet（甘い）、salty（塩辛い）とセットで覚えましょう。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lemon juice alone is too sour for the berry cake glaze.",
+          "trans": "レモン汁だけでは、ベリーケーキのグレーズには酸っぱすぎます。"
+        },
+        {
+          "text": "Batch One turned out sour enough to polish brass!",
+          "trans": "一回目の試作品は、真鍮を磨けるほど酸っぱくなってしまいました！"
+        }
+      ],
+      "related": [
+        {
+          "word": "tart",
+          "gloss": "タルト；酸味のある"
+        },
+        {
+          "word": "sweet",
+          "gloss": "甘い"
+        }
+      ]
     },
     "south": {
       "lemma": "south",
@@ -53589,6 +59265,40 @@
         }
       ]
     },
+    "spine": {
+      "lemma": "spine",
+      "stress": "spaɪn",
+      "pos": "noun",
+      "gloss": "（本の）背；背骨",
+      "meanings": [
+        {
+          "en": "（本の）背；背骨",
+          "note": "人間や動物の「背骨」だけでなく、書物のページを綴じている背表紙の部分（the spine of a book）も指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "There is a torn cream card tucked flat against the spine!",
+          "trans": "ちぎれたクリーム色のカードが、本の背のところにぴったり挟まっています！"
+        },
+        {
+          "text": "The old green book had gold letters stamped along its spine.",
+          "trans": "その古い緑色の本には、背表紙に金文字が押されていました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "book",
+          "gloss": "本"
+        },
+        {
+          "word": "cover",
+          "gloss": "表紙"
+        }
+      ]
+    },
     "splash": {
       "lemma": "splash",
       "stress": "splæʃ",
@@ -53831,6 +59541,40 @@
         }
       ]
     },
+    "sprig": {
+      "lemma": "sprig",
+      "stress": "spɹɪɡ",
+      "pos": "noun",
+      "gloss": "小枝（特にハーブなどの一枝）",
+      "meanings": [
+        {
+          "en": "小枝（特にハーブなどの一枝）",
+          "note": "ミントやタイム、ローズマリーなど、料理や飾りに使う葉のついたハーブの一本を数えるときによく使う名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look right between these two dry sprigs of garden mint.",
+          "trans": "この二本の乾いた庭ミントの小枝のあいだをちょうど見てごらん。"
+        },
+        {
+          "text": "Tessa placed a fresh sprig of mint beside the warm slice.",
+          "trans": "テッサは温かい切り身の横に新鮮なミントの小枝を一本添えました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "herb",
+          "gloss": "ハーブ"
+        },
+        {
+          "word": "mint",
+          "gloss": "ミント"
+        }
+      ]
+    },
     "spring": {
       "lemma": "spring",
       "stress": "spɹɪŋ",
@@ -53882,6 +59626,78 @@
         {
           "word": "season",
           "gloss": "季節"
+        }
+      ]
+    },
+    "sprinkle": {
+      "lemma": "sprinkle",
+      "stress": "ˈspɹɪŋkəl",
+      "pos": "verb",
+      "gloss": "ふりかける；散らす",
+      "meanings": [
+        {
+          "en": "ふりかける；散らす",
+          "note": "砂糖や塩、粉、水滴などをパラパラと全体にまぶす料理の頻出動詞です。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "sprinkle"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "sprinkles"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "sprinkled"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "sprinkled"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "sprinkling"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How many spoons of coarse sugar did you sprinkle on top?",
+          "trans": "上にザラメ砂糖をスプーン何杯ふりかけたのですか？"
+        },
+        {
+          "text": "Sprinkle toasted almond flakes over the warm honey glaze.",
+          "trans": "温かい蜂蜜グレーズの上にローストしたアーモンドスライスを散らしてください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "scatter",
+          "gloss": "まき散らす"
+        },
+        {
+          "word": "sugar",
+          "gloss": "砂糖"
         }
       ]
     },
@@ -53984,6 +59800,44 @@
         {
           "word": "nose",
           "gloss": "鼻"
+        }
+      ]
+    },
+    "squeak": {
+      "lemma": "squeak",
+      "stress": "skwik",
+      "pos": "noun",
+      "gloss": "キュッというきしみ音；キーという高い音",
+      "meanings": [
+        {
+          "en": "キュッというきしみ音；キーという高い音",
+          "note": "扉の蝶番やピアノの鍵盤・床板などから出る甲高い「きしみ音」を表します。動詞でも使えます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Not one squeak on middle D! Graham earned two lemon tarts!",
+          "trans": "真ん中のDにきしみ音ひとつなし！グレアムはレモンタルト二切れ分稼ぎましたよ！"
+        },
+        {
+          "text": "A drop of oil stopped the squeak in the heavy front gate.",
+          "trans": "油を一滴差しただけで、重い正面の門のきしむ音が止まりました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "rattle",
+          "gloss": "がたつき音"
+        },
+        {
+          "word": "oil",
+          "gloss": "油"
+        },
+        {
+          "word": "sound",
+          "gloss": "音"
         }
       ]
     },
@@ -54493,6 +60347,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "steam": {
+      "lemma": "steam",
+      "stress": "stim",
+      "pos": "noun",
+      "gloss": "蒸気；湯気",
+      "meanings": [
+        {
+          "en": "蒸気；湯気",
+          "note": "熱いお茶やスープ・焼き立てのレモン菓子から立ち昇る温かい「湯気（lemon steam）」を指す不可算名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Smell that bright lemon steam filling the whole ground floor!",
+          "trans": "一階じゅうに広がるさわやかなレモンの湯気の香りを嗅いでみて！"
+        },
+        {
+          "text": "Warm steam rose gently from four big teapots.",
+          "trans": "四つの大きなティーポットから温かい湯気がふんわり立ち昇りました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "hot",
+          "gloss": "熱い"
+        },
+        {
+          "word": "boil",
+          "gloss": "沸騰する"
+        },
+        {
+          "word": "smoke",
+          "gloss": "煙"
+        }
+      ]
     },
     "steel": {
       "lemma": "steel",
@@ -55560,6 +61452,40 @@
         }
       ]
     },
+    "structural": {
+      "lemma": "structural",
+      "stress": "ˈstɹʌktʃɚəl",
+      "pos": "adj",
+      "gloss": "構造上の；建物の骨組みに関する",
+      "meanings": [
+        {
+          "en": "構造上の；建物の骨組みに関する",
+          "note": "建築物の強度や骨組みを指す形容詞です。ケーキの硬さを建築にたとえて冗談っぽく使うこともあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Purely for structural safety, I should test one more corner slice.",
+          "trans": "あくまで構造上の安全確保のため、角の切り身をもう一つ試食すべきだな。"
+        },
+        {
+          "text": "Caleb checked every structural beam on the upper balcony.",
+          "trans": "ケイレブは二階バルコニーの構造梁をすべて点検しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "beam",
+          "gloss": "梁"
+        },
+        {
+          "word": "build",
+          "gloss": "建てる"
+        }
+      ]
+    },
     "stubborn": {
       "lemma": "stubborn",
       "stress": "ˈstʌbɚn",
@@ -55624,6 +61550,44 @@
         }
       ]
     },
+    "studio": {
+      "lemma": "studio",
+      "stress": "ˈstudɪoʊ",
+      "pos": "noun",
+      "gloss": "スタジオ；アトリエ；仕事場",
+      "meanings": [
+        {
+          "en": "スタジオ；アトリエ；仕事場",
+          "note": "設計士・画家・音楽家などの「仕事場・アトリエ」を指す可算名詞です。複数形は単純に -s を付けて studios。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "There was an empty ground-floor studio four doors past the bakery.",
+          "trans": "パン屋から四軒先に、一階の空いたスタジオがあったんだよ。"
+        },
+        {
+          "text": "Caleb plans to open his acoustic design studio on Linden Street.",
+          "trans": "ケイレブはリンデン通りに自分の音響設計スタジオを開く予定です。"
+        }
+      ],
+      "related": [
+        {
+          "word": "workshop",
+          "gloss": "工房"
+        },
+        {
+          "word": "office",
+          "gloss": "事務所"
+        },
+        {
+          "word": "design",
+          "gloss": "設計・デザイン"
+        }
+      ]
+    },
     "study": {
       "lemma": "study",
       "stress": "ˈstʌdi",
@@ -55649,6 +61613,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "sturdy": {
+      "lemma": "sturdy",
+      "stress": "ˈstɝdi",
+      "pos": "adj",
+      "gloss": "頑丈な；しっかりした",
+      "meanings": [
+        {
+          "en": "頑丈な；しっかりした",
+          "note": "ロープ、家具、靴、橋などが風や重みに耐えるほど丈夫に作られていることを表す頼もしい形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Friday morning we climb onto that balcony with sturdy cord!",
+          "trans": "金曜の朝、頑丈なロープを持ってあのバルコニーへ登りましょう！"
+        },
+        {
+          "text": "Graham's sturdy wooden ladder stands firm against the oak post.",
+          "trans": "グレアムの頑丈な木のはしごが、オークの柱にしっかり立てかけられています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "strong",
+          "gloss": "強い"
+        },
+        {
+          "word": "solid",
+          "gloss": "堅牢な"
+        }
+      ]
     },
     "style": {
       "lemma": "style",
@@ -55845,6 +61843,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "sunlit": {
+      "lemma": "sunlit",
+      "stress": "ˈsʌnˌlɪt",
+      "pos": "adj",
+      "gloss": "日当たりの良い；日の光に照らされた",
+      "meanings": [
+        {
+          "en": "日当たりの良い；日の光に照らされた",
+          "note": "sun（太陽）+ lit（light「照らす」の過去分詞）から成り、明るい日光がさんさんと差し込む部屋や景色を描写します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Let the sunlit glass and warm bread do the talking for us.",
+          "trans": "日の光が差し込むガラスと温かいパンに語ってもらいましょう。"
+        },
+        {
+          "text": "Four small cafe tables stood waiting in the sunlit courtyard.",
+          "trans": "四つの小さなカフェテーブルが日当たりの良い中庭で待っていました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "daylight",
+          "gloss": "昼光"
+        },
+        {
+          "word": "sunny",
+          "gloss": "晴れた"
+        },
+        {
+          "word": "bright",
+          "gloss": "明るい"
+        }
+      ]
     },
     "sunny": {
       "lemma": "sunny",
@@ -56055,6 +62091,78 @@
         {
           "word": "manage",
           "gloss": "管理する"
+        }
+      ]
+    },
+    "support": {
+      "lemma": "support",
+      "stress": "səˈpɔɹt",
+      "pos": "verb",
+      "gloss": "賛成する；支える；応援する",
+      "meanings": [
+        {
+          "en": "賛成する；支える；応援する",
+          "note": "物理的に下から「支える」ほか、人の意見や企画を「支持する・賛成する」という意味でも日常的に使います。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "support"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "supports"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "supported"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "supported"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "supporting"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Three test cakes on Sunday? Now that is research I support!",
+          "trans": "日曜日に試作ケーキが三個？それこそ私が大賛成する研究だね！"
+        },
+        {
+          "text": "The oak post helps support the whole upstairs balcony.",
+          "trans": "そのオークの柱が、二階のバルコニー全体を支えています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "hold",
+          "gloss": "支える・持つ"
+        },
+        {
+          "word": "approve",
+          "gloss": "承認する"
         }
       ]
     },
@@ -56557,6 +62665,82 @@
       ],
       "related": [],
       "surface": []
+    },
+    "swell": {
+      "lemma": "swell",
+      "stress": "swɛl",
+      "pos": "verb",
+      "gloss": "腫れる；膨らむ",
+      "meanings": [
+        {
+          "en": "腫れる；膨らむ",
+          "note": "足首などがぷっくりと「腫れる」ことや、生地や音楽・音が大きく「膨らみ広がる」ことを表します。名詞 swelling は「腫れ」。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "swell"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "swells"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "swelled"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "swollen"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "swelling"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Half the swelling on my ankle is already gone today!",
+          "trans": "足首の腫れの半分は今日もう引いていますよ！"
+        },
+        {
+          "text": "Resting with ice kept her twisted ankle from swelling more.",
+          "trans": "氷で冷やして休んだおかげで、ひねった足首がそれ以上腫れずに済みました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "swollen",
+          "gloss": "腫れた"
+        },
+        {
+          "word": "ankle",
+          "gloss": "足首"
+        },
+        {
+          "word": "grow",
+          "gloss": "大きくなる"
+        }
+      ]
     },
     "swing": {
       "lemma": "swing",
@@ -57353,6 +63537,44 @@
         "tasting"
       ]
     },
+    "tax": {
+      "lemma": "tax",
+      "stress": "tæks",
+      "pos": "noun",
+      "gloss": "税金；税",
+      "meanings": [
+        {
+          "en": "税金；税",
+          "note": "市や国に納める「税金」を指す基本名詞です（tax textbook「税法の教科書」）。動詞で「課税する」の意味もあります。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "If you talk like a tax textbook, our clerk will fall asleep!",
+          "trans": "税金の教科書みたいに堅苦しく話したら、職員さんが眠っちゃいますよ！"
+        },
+        {
+          "text": "Every receipt clearly shows the price before tax.",
+          "trans": "どの領収書にも税抜き価格がはっきり書かれています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "price",
+          "gloss": "値段"
+        },
+        {
+          "word": "textbook",
+          "gloss": "教科書"
+        },
+        {
+          "word": "municipal",
+          "gloss": "市の"
+        }
+      ]
+    },
     "taxi": {
       "lemma": "taxi",
       "stress": "ˈtæksi",
@@ -57901,6 +64123,40 @@
       "related": [],
       "surface": []
     },
+    "tender": {
+      "lemma": "tender",
+      "stress": "ˈtɛndɚ",
+      "pos": "adj",
+      "gloss": "柔らかい；しっとり優しい（口当たり）",
+      "meanings": [
+        {
+          "en": "柔らかい；しっとり優しい（口当たり）",
+          "note": "お肉や焼き菓子などがほろっと柔らかく口どけが良いことを褒めるときに使う最高の形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "The almond crumb is tender, and the berries are sweet.",
+          "trans": "アーモンドの生地はふんわり柔らかくて、ベリーも甘いです。"
+        },
+        {
+          "text": "Bake for forty minutes so the center stays moist and tender.",
+          "trans": "真ん中がしっとりと柔らかくなるよう、四十分間焼いてください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "soft",
+          "gloss": "柔らかい"
+        },
+        {
+          "word": "sweet",
+          "gloss": "甘い"
+        }
+      ]
+    },
     "terrible": {
       "lemma": "terrible",
       "stress": "ˈtɛɹəbəl",
@@ -58055,6 +64311,44 @@
         {
           "word": "batch",
           "gloss": "一焼き分"
+        }
+      ]
+    },
+    "textbook": {
+      "lemma": "textbook",
+      "stress": "ˈtɛkstˌbʊk",
+      "pos": "noun",
+      "gloss": "教科書；テキスト",
+      "meanings": [
+        {
+          "en": "教科書；テキスト",
+          "note": "text（本文）+ book（本）から成る名詞で、学校や専門分野で使う堅い「教科書」を指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Do not read that speech like a dry tax textbook, Arthur!",
+          "trans": "アーサー、そのスピーチを退屈な税金の教科書みたいに読まないで！"
+        },
+        {
+          "text": "This practical phrasebook is much friendlier than a textbook.",
+          "trans": "この実践的なフレーズ集は教科書よりずっと親しみやすいです。"
+        }
+      ],
+      "related": [
+        {
+          "word": "book",
+          "gloss": "本"
+        },
+        {
+          "word": "study",
+          "gloss": "学ぶ"
+        },
+        {
+          "word": "lesson",
+          "gloss": "レッスン"
         }
       ]
     },
@@ -58421,6 +64715,40 @@
         {
           "word": "slice",
           "gloss": "薄切りにする"
+        }
+      ]
+    },
+    "thing": {
+      "lemma": "thing",
+      "stress": "θɪŋ",
+      "pos": "noun",
+      "gloss": "こと；もの；点",
+      "meanings": [
+        {
+          "en": "こと；もの；点",
+          "note": "具体的な物から抽象的な事柄まで何でも指せる万能名詞です。do not change a thing は「何ひとつ変えるな」という強調表現です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "TEN OUT OF TEN, DO NOT CHANGE A THING!",
+          "trans": "十点満点、何ひとつ変えるな！"
+        },
+        {
+          "text": "The best thing about warm honey is its soft golden shine.",
+          "trans": "温かい蜂蜜の一番良いところは、その柔らかな金色のつやです。"
+        }
+      ],
+      "related": [
+        {
+          "word": "item",
+          "gloss": "品物"
+        },
+        {
+          "word": "note",
+          "gloss": "メモ"
         }
       ]
     },
@@ -58866,6 +65194,44 @@
         }
       ]
     },
+    "thrilled": {
+      "lemma": "thrilled",
+      "stress": "θɹɪld",
+      "pos": "adj",
+      "gloss": "大喜びで；わくわくして；感激した",
+      "meanings": [
+        {
+          "en": "大喜びで；わくわくして；感激した",
+          "note": "happy や glad よりもずっと強い「胸が躍るほど大喜びする（be thrilled!）」を表す感情の形容詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Written in pencil right here! Tessa and Arthur will be thrilled!",
+          "trans": "ここに鉛筆で予約を入れましたよ！テッサとアーサーが大喜びするわ！"
+        },
+        {
+          "text": "Evelyn was thrilled to stay another two weeks at the inn.",
+          "trans": "イヴリンはあと二週間宿に滞在できることになって大感激しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "excited",
+          "gloss": "わくわくした"
+        },
+        {
+          "word": "happy",
+          "gloss": "幸せな"
+        },
+        {
+          "word": "smile",
+          "gloss": "微笑む"
+        }
+      ]
+    },
     "through": {
       "lemma": "through",
       "stress": "θɹu",
@@ -59034,6 +65400,44 @@
         {
           "word": "saturday",
           "gloss": "土曜日"
+        }
+      ]
+    },
+    "thyme": {
+      "lemma": "thyme",
+      "stress": "taɪm",
+      "pos": "noun",
+      "gloss": "タイム（香草）",
+      "meanings": [
+        {
+          "en": "タイム（香草）",
+          "note": "綴りは th で始まりますが発音は時間（time）と同じ /taɪm/ です。スープや肉料理の香りづけに定番のハーブです。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bring two fresh sprigs of courtyard thyme and parsley next.",
+          "trans": "次は中庭の新鮮なタイムとパセリを二枝持ってきてください。"
+        },
+        {
+          "text": "Fresh thyme gives golden lentil soup a warm garden scent.",
+          "trans": "摘みたてのタイムは黄金色のレンズ豆スープに温かい庭の香りを添えます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "parsley",
+          "gloss": "パセリ"
+        },
+        {
+          "word": "sprig",
+          "gloss": "小枝"
+        },
+        {
+          "word": "herb",
+          "gloss": "ハーブ"
         }
       ]
     },
@@ -59953,6 +66357,44 @@
       "related": [],
       "surface": []
     },
+    "tool": {
+      "lemma": "tool",
+      "stress": "tul",
+      "pos": "noun",
+      "gloss": "道具；工具",
+      "meanings": [
+        {
+          "en": "道具；工具",
+          "note": "大工ののこぎりやノミ・ドライバーなど、手仕事で使う道具一般（wood tools）を指す基本名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "After City Hall, Owen brings Grandfather's wood tools to the studio!",
+          "trans": "市役所の仕事の後、オーウェンがおじいちゃんの木工道具をスタジオに運ぶんだ！"
+        },
+        {
+          "text": "Graham keeps every repair tool oiled and sharp in his box.",
+          "trans": "グレアムはどの修理道具も油を差して切れ味よく道具箱にしまっています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "wrench",
+          "gloss": "レンチ"
+        },
+        {
+          "word": "screwdriver",
+          "gloss": "ドライバー"
+        },
+        {
+          "word": "wood",
+          "gloss": "木"
+        }
+      ]
+    },
     "toolbox": {
       "lemma": "toolbox",
       "stress": "ˈtulˌbɑks",
@@ -60004,6 +66446,40 @@
       ],
       "related": [],
       "surface": []
+    },
+    "total": {
+      "lemma": "total",
+      "stress": "ˈtoʊtəl",
+      "pos": "adj",
+      "gloss": "完全な；全体の；合計の",
+      "meanings": [
+        {
+          "en": "完全な；全体の；合計の",
+          "note": "名詞の前で make total sense（完全に納得がいく・完全に筋が通る）のように強調の形容詞としてもよく使われます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Now the mapmaker's note makes total sense!",
+          "trans": "これで地図製作者のメモの意味が完全に腑に落ちました！"
+        },
+        {
+          "text": "The total score for Batch Three reached ten out of ten.",
+          "trans": "三回目のケーキの合計点は十点満点に達しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "whole",
+          "gloss": "全体の"
+        },
+        {
+          "word": "complete",
+          "gloss": "完全な"
+        }
+      ]
     },
     "touch": {
       "lemma": "touch",
@@ -60436,6 +66912,44 @@
       ],
       "related": [],
       "surface": []
+    },
+    "transition": {
+      "lemma": "transition",
+      "stress": "tɹænˈzɪʃən",
+      "pos": "noun",
+      "gloss": "移行；つなぎの部分；移り変わり",
+      "meanings": [
+        {
+          "en": "移行；つなぎの部分；移り変わり",
+          "note": "音楽のフレーズとフレーズを滑らかにつなぐ「移行部（transition into bar twenty-eight）」や時代の移り変わりを指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Listen while I play the smooth transition into bar twenty-eight.",
+          "trans": "二十八小節目へ滑らかにつながる移行部を弾くから聴いていてね。"
+        },
+        {
+          "text": "The transition from rainy Tuesday to sunny Friday felt magical.",
+          "trans": "雨の火曜日から晴れた金曜日への移り変わりは魔法のようでした。"
+        }
+      ],
+      "related": [
+        {
+          "word": "flow",
+          "gloss": "流れる"
+        },
+        {
+          "word": "bar",
+          "gloss": "小節"
+        },
+        {
+          "word": "continuous",
+          "gloss": "途切れない"
+        }
+      ]
     },
     "transom": {
       "lemma": "transom",
@@ -60968,6 +67482,40 @@
         {
           "word": "exact",
           "gloss": "正確な"
+        }
+      ]
+    },
+    "trunk": {
+      "lemma": "trunk",
+      "stress": "tɹʌŋk",
+      "pos": "noun",
+      "gloss": "（木の）幹；大型トランク",
+      "meanings": [
+        {
+          "en": "（木の）幹；大型トランク",
+          "note": "太い木の「幹」や象の「鼻」、さらに昔ながらの大型の旅行用トランク（アメリカ英語では車のトランクも）を指します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at the trunk of our courtyard shade tree — a matching ring!",
+          "trans": "中庭の木陰の木の幹を見て — お揃いの輪っかがあるわ！"
+        },
+        {
+          "text": "Old linden branches spread high above the sturdy trunk.",
+          "trans": "古い菩提樹の枝が、太い幹の上高くに広がっています。"
+        }
+      ],
+      "related": [
+        {
+          "word": "tree",
+          "gloss": "木"
+        },
+        {
+          "word": "branch",
+          "gloss": "枝"
         }
       ]
     },
@@ -61633,6 +68181,44 @@
         }
       ]
     },
+    "twinge": {
+      "lemma": "twinge",
+      "stress": "twɪndʒ",
+      "pos": "noun",
+      "gloss": "チクリとする鋭い痛み；うずき",
+      "meanings": [
+        {
+          "en": "チクリとする鋭い痛み；うずき",
+          "note": "持続的な鈍痛（ache）ではなく、足を動かした瞬間などに「チクッ・ピリッと走る一瞬の痛み（not a single twinge）」を表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Two days on pillows worked miracles—not a single twinge today!",
+          "trans": "二日間枕の上で休んだら魔法みたいに効いたわ――今日はチクリとも痛まないの！"
+        },
+        {
+          "text": "She felt a small twinge in her ankle when climbing the stairs.",
+          "trans": "階段を上がったとき、足首に少しチクッとする痛みを感じました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "ankle",
+          "gloss": "足首"
+        },
+        {
+          "word": "ouch",
+          "gloss": "いたっ"
+        },
+        {
+          "word": "miracle",
+          "gloss": "奇跡"
+        }
+      ]
+    },
     "twist": {
       "lemma": "twist",
       "stress": "twɪst",
@@ -62157,6 +68743,82 @@
         }
       ]
     },
+    "unpublished": {
+      "lemma": "unpublished",
+      "stress": "ʌnˈpʌblɪʃt",
+      "pos": "adj",
+      "gloss": "未出版の；世に出ていない",
+      "meanings": [
+        {
+          "en": "未出版の；世に出ていない",
+          "note": "un-（否定）+ published（出版された）で、楽譜や本が印刷・公刊されず手書きのまま大切に保管されている状態を表します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "How could a stranger know an unpublished waltz from a locked room?!",
+          "trans": "鍵のかかった部屋の未発表のワルツを、どうして通りすがりの人が知っているの？！"
+        },
+        {
+          "text": "Evelyn's fingers brought the unpublished May sheet music to life.",
+          "trans": "イヴリンの指が、未発表だった五月の楽譜に命を吹き込みました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "hidden",
+          "gloss": "隠された"
+        },
+        {
+          "word": "waltz",
+          "gloss": "ワルツ"
+        },
+        {
+          "word": "print",
+          "gloss": "印刷する"
+        }
+      ]
+    },
+    "unsalted": {
+      "lemma": "unsalted",
+      "stress": "ʌnˈsɔltɪd",
+      "pos": "adj",
+      "gloss": "無塩の；塩を加えていない",
+      "meanings": [
+        {
+          "en": "無塩の；塩を加えていない",
+          "note": "un-（ない）+ salted（塩を加えた）で、菓子やソース作りのレシピで塩分を調節しやすい「無塩バター（unsalted butter）」によく使います。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Take the curd off the flame and stir in one cube of unsalted butter!",
+          "trans": "カードを火から下ろして、無塩バターをひとかけら混ぜ込んで！"
+        },
+        {
+          "text": "Always choose unsalted butter when baking almond lemon tarts.",
+          "trans": "アーモンドレモンタルトを焼くときは必ず無塩バターを選んでください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "butter",
+          "gloss": "バター"
+        },
+        {
+          "word": "salt",
+          "gloss": "塩"
+        },
+        {
+          "word": "curd",
+          "gloss": "カード"
+        }
+      ]
+    },
     "untie": {
       "lemma": "untie",
       "stress": "ʌnˈtaɪ",
@@ -62515,6 +69177,40 @@
         "using"
       ]
     },
+    "usual": {
+      "lemma": "usual",
+      "stress": "ˈjuʒuəl",
+      "pos": "adj",
+      "gloss": "いつもの；普段の（as usual＝いつものように）",
+      "meanings": [
+        {
+          "en": "いつもの；普段の（as usual＝いつものように）",
+          "note": "s の部分が /ʒ/（ジュ）と濁る発音に注意しましょう。as usual（相変わらず・いつも通り）は会話の超定番フレーズです。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I pressed the bell once, and your wire rang twice as usual.",
+          "trans": "上でベルを一回押したら、いつものように二度鳴りましたよ。"
+        },
+        {
+          "text": "Arthur checked his usual spot for his reading glasses.",
+          "trans": "アーサーはいつもの定位置で老眼鏡を探しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "always",
+          "gloss": "いつも"
+        },
+        {
+          "word": "normal",
+          "gloss": "普通の"
+        }
+      ]
+    },
     "usually": {
       "lemma": "usually",
       "stress": "ˈjuʒuəli",
@@ -62594,6 +69290,82 @@
       ],
       "related": [],
       "surface": []
+    },
+    "varnish": {
+      "lemma": "varnish",
+      "stress": "ˈvɑɹnɪʃ",
+      "pos": "noun",
+      "gloss": "ニス；ワニス（木工用透明塗料）",
+      "meanings": [
+        {
+          "en": "ニス；ワニス（木工用透明塗料）",
+          "note": "木材の表面を保護して艶を出すために塗る透明・茶色の塗料です。動詞でも「ニスを塗る」の意味で使えます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look closely—there were two tiny screw holes under the varnish!",
+          "trans": "よく見て――ニスの下に小さなネジ穴が二つずっと隠れていたんです！"
+        },
+        {
+          "text": "Fresh varnish made the oak key board shine under the lamp.",
+          "trans": "新しいニスのおかげで、オーク材の鍵掛け板がランプの下で輝きました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "wood",
+          "gloss": "木"
+        },
+        {
+          "word": "glossy",
+          "gloss": "つやのある"
+        },
+        {
+          "word": "hole",
+          "gloss": "穴"
+        }
+      ]
+    },
+    "vase": {
+      "lemma": "vase",
+      "stress": "veɪs",
+      "pos": "noun",
+      "gloss": "花瓶",
+      "meanings": [
+        {
+          "en": "花瓶",
+          "note": "花や緑の枝葉を生けてテーブルに飾る花瓶です。アメリカ英語では主に /veɪs/（ヴェイス）、地域やイギリスでは /vɑz/ とも発音します。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look how pretty a green leaf looks in each small glass vase!",
+          "trans": "小さなガラスの花瓶それぞれに緑の葉が一枚入ると、なんて素敵なんでしょう！"
+        },
+        {
+          "text": "Hannah arranged fresh mint sprigs in two clear vases.",
+          "trans": "ハンナは透き通った花瓶二つに摘みたてのミントの小枝を生けました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "glass",
+          "gloss": "ガラス"
+        },
+        {
+          "word": "flower",
+          "gloss": "花"
+        },
+        {
+          "word": "leaf",
+          "gloss": "葉"
+        }
+      ]
     },
     "vegetable": {
       "lemma": "vegetable",
@@ -63271,6 +70043,112 @@
       "surface": [
         "warmer",
         "warming"
+      ]
+    },
+    "warning": {
+      "lemma": "warning",
+      "stress": "ˈwɔɹnɪŋ",
+      "pos": "noun",
+      "gloss": "警告；注意書き",
+      "meanings": [
+        {
+          "en": "警告；注意書き",
+          "note": "動詞 warn（警告する）に -ing が付いた名詞です。warning label（注意ラベル・警告表示）のように複合名詞でもよく使われます。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I am writing three out of ten, plus a warning label for the desk.",
+          "trans": "十点中三点、それにフロント用の注意ラベルを書き添えておくよ。"
+        },
+        {
+          "text": "The weather forecast gave an early warning about Friday gusts.",
+          "trans": "天気予報は金曜日の突風について早めに警告を出しました。"
+        }
+      ],
+      "related": [
+        {
+          "word": "sign",
+          "gloss": "標識・合図"
+        },
+        {
+          "word": "careful",
+          "gloss": "注意深い"
+        }
+      ]
+    },
+    "wash": {
+      "lemma": "wash",
+      "stress": "wɑʃ",
+      "pos": "verb",
+      "gloss": "洗う；水洗いする",
+      "meanings": [
+        {
+          "en": "洗う；水洗いする",
+          "note": "手や食器、野菜、衣服などを水や石けんで洗う日常の基本動詞です。w の後ろの a が /ɑ/ の音になる点に気をつけましょう。"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "wash"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "washes"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "washed"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "washed"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "washing"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Hands washed twice, Chef! Now where are the ripe berries?",
+          "trans": "手は二度洗いましたよ、シェフ！さて、熟したベリーはどこですか？"
+        },
+        {
+          "text": "Please wash the small round baking tins before we start.",
+          "trans": "始める前に、その小さな丸い焼き型を洗っておいてください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "clean",
+          "gloss": "きれいにする"
+        },
+        {
+          "word": "water",
+          "gloss": "水"
+        }
       ]
     },
     "washable": {
@@ -66380,6 +73258,44 @@
       "related": [],
       "surface": []
     },
+    "yolk": {
+      "lemma": "yolk",
+      "stress": "joʊk",
+      "pos": "noun",
+      "gloss": "卵黄；卵の黄身",
+      "meanings": [
+        {
+          "en": "卵黄；卵の黄身",
+          "note": "綴りに l がありますが発音せず /joʊk/ と読みます（白身は egg white）。濃厚なカードやカスタードに欠かせません。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Four egg yolks, fresh lemon juice, and three spoons of sugar!",
+          "trans": "卵黄四個に、絞りたてのレモン果汁と砂糖スプーン三杯よ！"
+        },
+        {
+          "text": "Beat the golden egg yolks smoothly over gentle heat.",
+          "trans": "黄金色の卵黄をやさしい火加減で滑らかになるまで混ぜてください。"
+        }
+      ],
+      "related": [
+        {
+          "word": "egg",
+          "gloss": "卵"
+        },
+        {
+          "word": "yellow",
+          "gloss": "黄色い"
+        },
+        {
+          "word": "curd",
+          "gloss": "カード"
+        }
+      ]
+    },
     "you": {
       "lemma": "you",
       "stress": "ju",
@@ -66607,6 +73523,40 @@
         {
           "word": "honey",
           "gloss": "ハチミツ"
+        }
+      ]
+    },
+    "zing": {
+      "lemma": "zing",
+      "stress": "zɪŋ",
+      "pos": "noun",
+      "gloss": "ピリッとした刺激；生き生きした風味",
+      "meanings": [
+        {
+          "en": "ピリッとした刺激；生き生きした風味",
+          "note": "レモンやショウガなど、味や香りにパッと目が覚めるような爽快なパンチやキレがあることを楽しく表す口語的な名詞です。"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Surely a refreshing citrus zing deserves at least seven points!",
+          "trans": "きっとこの爽やかな柑橘の刺激には、少なくとも七点の価値があるはずだ！"
+        },
+        {
+          "text": "Grated orange peel adds a gentle zing to warm honey.",
+          "trans": "すりおろしたオレンジの皮が、温かい蜂蜜に心地よいキレを加えます。"
+        }
+      ],
+      "related": [
+        {
+          "word": "zest",
+          "gloss": "柑橘の皮・風味"
+        },
+        {
+          "word": "citrus",
+          "gloss": "柑橘類"
         }
       ]
     },
