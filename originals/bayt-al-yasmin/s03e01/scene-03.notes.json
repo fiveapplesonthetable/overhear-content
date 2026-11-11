@@ -132,7 +132,7 @@
           "reading": "mumkin",
           "lemma": "ممكن",
           "stress": null,
-          "pos": "part",
+          "pos": "adj",
           "gloss": "possible / maybe",
           "gram": "adj"
         },
@@ -812,7 +812,7 @@
           "reading": "fī",
           "lemma": "في",
           "stress": null,
-          "pos": "part",
+          "pos": "prep",
           "gloss": "in / at / there is",
           "gram": "prep"
         },
@@ -1907,7 +1907,7 @@
           "reading": "mumkin",
           "lemma": "ممكن",
           "stress": null,
-          "pos": "part",
+          "pos": "adj",
           "gloss": "possible / maybe",
           "gram": "adj"
         },
@@ -2587,7 +2587,7 @@
           "reading": "fī",
           "lemma": "في",
           "stress": null,
-          "pos": "part",
+          "pos": "prep",
           "gloss": "in / at / there is",
           "gram": "prep"
         },
@@ -3682,7 +3682,7 @@
           "reading": "mumkin",
           "lemma": "ممكن",
           "stress": null,
-          "pos": "part",
+          "pos": "adj",
           "gloss": "possible / maybe",
           "gram": "adj"
         },
@@ -4362,7 +4362,7 @@
           "reading": "fī",
           "lemma": "في",
           "stress": null,
-          "pos": "part",
+          "pos": "prep",
           "gloss": "in / at / there is",
           "gram": "prep"
         },
@@ -5361,15 +5361,15 @@
     }
   ],
   "lexicon": {
-    "فكي": {
-      "lemma": "فكي",
+    "أسود": {
+      "lemma": "أسود",
       "stress": null,
-      "pos": "verb",
-      "gloss": "untie / detach (imperative f.)",
+      "pos": "adj",
+      "gloss": "black",
       "meanings": [
         {
-          "en": "untie / detach (imperative f.)",
-          "note": "Imperative verb directed at a female, commanding her to untie, loosen, or take apart something."
+          "en": "black",
+          "note": "The color black."
         }
       ],
       "forms": {
@@ -5383,8 +5383,8 @@
           {
             "cells": [
               "form",
-              "فكي",
-              "فكي"
+              "أسود",
+              "أسود"
             ]
           }
         ]
@@ -5392,12 +5392,381 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "فكي العقدة شوي شوي.",
-          "trans": "Untie the knot slowly."
+          "text": "لبست قميص أسود.",
+          "trans": "I wore a black shirt."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على فكي.",
-          "trans": "And this is another long enough sentence to pass the check, with فكي."
+          "text": "اشتريت جاكيت أسود دافي عشان الشتا.",
+          "trans": "I bought a warm black jacket for the winter."
+        }
+      ],
+      "related": []
+    },
+    "أشوفكم": {
+      "lemma": "أشوفكم",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "see you (pl.)",
+      "meanings": [
+        {
+          "en": "see you (pl.)",
+          "note": "Everyday Jordanian word for seeing a group of people."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أشوفكم",
+              "أشوفكم"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أشوفكم بكرة في المدرسة.",
+          "trans": "I will see you tomorrow at school."
+        },
+        {
+          "text": "يلا مع السلامة، أشوفكم الأسبوع الجاي إن شاء الله.",
+          "trans": "Alright, goodbye—see you all next week, God willing."
+        }
+      ],
+      "related": []
+    },
+    "أقرأ": {
+      "lemma": "أقرأ",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "I read",
+      "meanings": [
+        {
+          "en": "I read",
+          "note": "First person singular present tense of قرأ (qaraʾa)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أقرأ",
+              "أقرأ"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أنا عم أقرأ كتاب حلو.",
+          "trans": "I am reading a nice book."
+        },
+        {
+          "text": "بحب أقرأ الجريدة الصبح مع فنجان قهوة.",
+          "trans": "I like to read the newspaper in the morning with a cup of coffee."
+        }
+      ],
+      "related": []
+    },
+    "أنا": {
+      "lemma": "أنا",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "I",
+      "meanings": [
+        {
+          "en": "I",
+          "note": "First person singular pronoun."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أنا",
+              "أنا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أنا من الأردن.",
+          "trans": "I am from Jordan."
+        },
+        {
+          "text": "أنا وإياك رح نخلص المشروع قبل يوم الخميس.",
+          "trans": "You and I will finish the project before Thursday."
+        }
+      ],
+      "related": []
+    },
+    "ارفعي": {
+      "lemma": "ارفعي",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "lift, raise (feminine imperative)",
+      "meanings": [
+        {
+          "en": "lift, raise (feminine imperative)",
+          "note": "Command to a female to lift something."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ارفعي",
+              "ارفعي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ارفعي صوتك شوي.",
+          "trans": "Raise your voice a little bit."
+        },
+        {
+          "text": "ارفعي الستارة شوي عشان يفوت ضو الشمس.",
+          "trans": "Lift the curtain a little so the sunlight comes in."
+        }
+      ],
+      "related": []
+    },
+    "استنى": {
+      "lemma": "استنى",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "wait (masculine imperative)",
+      "meanings": [
+        {
+          "en": "wait (masculine imperative)",
+          "note": "Command to a male to wait."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "استنى",
+              "استنى"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "استنى دقيقة بس.",
+          "trans": "Wait just a minute."
+        },
+        {
+          "text": "استنى شوي، أنا نازل معك هسه!",
+          "trans": "Wait a second—I'm coming down with you right now!"
+        }
+      ],
+      "related": []
+    },
+    "اطوي": {
+      "lemma": "اطوي",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "fold (imperative)",
+      "meanings": [
+        {
+          "en": "fold (imperative)",
+          "note": "Command to fold clothes or paper."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "اطوي",
+              "اطوي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "اطوي الورقة نصين.",
+          "trans": "Fold the paper in half."
+        },
+        {
+          "text": "اطوي الغسيل النضيف وحطيه بالخزانة.",
+          "trans": "Fold the clean laundry and put it in the closet."
+        }
+      ],
+      "related": []
+    },
+    "الأبيض": {
+      "lemma": "الأبيض",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "the white",
+      "meanings": [
+        {
+          "en": "the white",
+          "note": "The color white with the definite article."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "الأبيض",
+              "الأبيض"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "البيت الأبيض كبير.",
+          "trans": "The white house is big."
+        },
+        {
+          "text": "القميص الأبيض طلع مرتب كتير مع البدلة.",
+          "trans": "The white shirt looked very sharp with the suit."
+        }
+      ],
+      "related": []
+    },
+    "الثقيل": {
+      "lemma": "الثقيل",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "the heavy",
+      "meanings": [
+        {
+          "en": "the heavy",
+          "note": "Heavy in weight, or sometimes heavy-blooded (annoying/dull person)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "الثقيل",
+              "الثقيل"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "هذا الصندوق الثقيل ما بقدر أرفعه.",
+          "trans": "I cannot lift this heavy box."
+        },
+        {
+          "text": "هالكرسي الحديد الثقيل بده اتنين يحملوه.",
+          "trans": "This heavy iron chair takes two people to carry it."
+        }
+      ],
+      "related": []
+    },
+    "الحمرا": {
+      "lemma": "الحمرا",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "the red (feminine)",
+      "meanings": [
+        {
+          "en": "the red (feminine)",
+          "note": "Colloquial pronunciation of 'hamraa', designating the feminine color red."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "الحمرا",
+              "الحمرا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "السيارة الحمرا صفت قدام البيت.",
+          "trans": "The red car parked in front of the house."
+        },
+        {
+          "text": "الكنزة الحمرا بتلبقلك أكثر من الزرقا.",
+          "trans": "The red sweater suits you better than the blue one."
         }
       ],
       "related": []
@@ -5438,1208 +5807,8 @@
           "trans": "I need the thread and the needle to fix the shirt."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الخيط.",
-          "trans": "And this is another long enough sentence to pass the check, with الخيط."
-        }
-      ],
-      "related": []
-    },
-    "ببطء": {
-      "lemma": "ببطء",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "slowly",
-      "meanings": [
-        {
-          "en": "slowly",
-          "note": "Describes doing an action without rushing."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "ببطء",
-              "ببطء"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "السيارة كانت تمشي ببطء شديد.",
-          "trans": "The car was moving very slowly."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على ببطء.",
-          "trans": "And this is another long enough sentence to pass the check, with ببطء."
-        }
-      ],
-      "related": []
-    },
-    "يا": {
-      "lemma": "يا",
-      "stress": null,
-      "pos": "part",
-      "gloss": "oh / vocative particle",
-      "meanings": [
-        {
-          "en": "oh / vocative particle",
-          "note": "Vocative particle used when addressing someone directly."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "يا",
-              "يا"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "يا أحمد، تعال هون.",
-          "trans": "Oh Ahmed, come here."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على يا.",
-          "trans": "And this is another long enough sentence to pass the check, with يا."
-        }
-      ],
-      "related": []
-    },
-    "خيط": {
-      "lemma": "خيط",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "thread",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "thread",
-          "note": "Used literally for a sewing thread or metaphorically for a clue (kheet amal = thread of hope)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "خيط",
-              "خيط"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بدي خيط أسود عشان أخيط القميص.",
-          "trans": "I need a black thread to sew the shirt."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على خيط.",
-          "trans": "And this is another long enough sentence to pass the check, with خيط."
-        }
-      ],
-      "related": []
-    },
-    "عمره": {
-      "lemma": "عمره",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "his age / he has ever",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "his age / he has ever",
-          "note": "Idiomatically used for 'he has ever' or 'in his life'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "عمره",
-              "عمره"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "عمره ما كذب علي.",
-          "trans": "He has never lied to me in his life."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على عمره.",
-          "trans": "And this is another long enough sentence to pass the check, with عمره."
-        }
-      ],
-      "related": []
-    },
-    "ثلاثين": {
-      "lemma": "ثلاثين",
-      "stress": null,
-      "pos": "num",
-      "gloss": "thirty",
-      "meanings": [
-        {
-          "en": "thirty",
-          "note": "The number 30 with the \"th\" sound preserved."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "ثلاثين",
-              "ثلاثين"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "دفع ثلاثين دينار حق التذكرة.",
-          "trans": "He paid thirty dinars for the ticket."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على ثلاثين.",
-          "trans": "And this is another long enough sentence to pass the check, with ثلاثين."
-        }
-      ],
-      "related": []
-    },
-    "سنة": {
-      "lemma": "سنة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "year",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "year",
-          "note": "Everyday word for a year."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "سنة",
-              "سنة"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هالسيارة موديل السنة.",
-          "trans": "This car is this year's model."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على سنة.",
-          "trans": "And this is another long enough sentence to pass the check, with سنة."
-        }
-      ],
-      "related": []
-    },
-    "ممكن": {
-      "lemma": "ممكن",
-      "stress": null,
-      "pos": "part",
-      "gloss": "possible / maybe",
-      "meanings": [
-        {
-          "en": "possible / maybe",
-          "note": "Used to ask for permission 'is it possible?' or to say 'perhaps'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "ممكن",
-              "ممكن"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ممكن تعطيني القلم؟",
-          "trans": "Is it possible for you to give me the pen?"
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على ممكن.",
-          "trans": "And this is another long enough sentence to pass the check, with ممكن."
-        }
-      ],
-      "related": []
-    },
-    "ينقطع": {
-      "lemma": "ينقطع",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "it gets cut off / interrupted",
-      "meanings": [
-        {
-          "en": "it gets cut off / interrupted",
-          "note": "Passive/Reflexive verb often used for electricity or water being cut off."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "ينقطع",
-              "ينقطع"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ممكن ينقطع الكهربا اليوم.",
-          "trans": "The electricity might get cut off today."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على ينقطع.",
-          "trans": "And this is another long enough sentence to pass the check, with ينقطع."
-        }
-      ],
-      "related": []
-    },
-    "بثانية": {
-      "lemma": "بثانية",
-      "stress": null,
-      "pos": "phrase",
-      "gloss": "in a second",
-      "meanings": [
-        {
-          "en": "in a second",
-          "note": "Used to indicate that something will happen very quickly."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "بثانية",
-              "بثانية"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بخلص الشغل بثانية.",
-          "trans": "I will finish the work in a second."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على بثانية.",
-          "trans": "And this is another long enough sentence to pass the check, with بثانية."
-        }
-      ],
-      "related": []
-    },
-    "شمع": {
-      "lemma": "شمع",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "wax / candles",
-      "meanings": [
-        {
-          "en": "wax / candles",
-          "note": "Collective noun for wax or candles."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "شمع",
-              "شمع"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ذوبنا شمع عشان نعمل شكل جديد.",
-          "trans": "We melted wax to make a new shape."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على شمع.",
-          "trans": "And this is another long enough sentence to pass the check, with شمع."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "النحل": {
-      "lemma": "النحل",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "bees",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "bees",
-          "note": "Bees (collective)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "النحل",
-              "النحل"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "النحل بيعمل عسل مفيد.",
-          "trans": "Bees make beneficial honey."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على النحل.",
-          "trans": "And this is another long enough sentence to pass the check, with النحل."
-        }
-      ],
-      "related": []
-    },
-    "على": {
-      "lemma": "على",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "on / upon",
-      "meanings": [
-        {
-          "en": "on / upon",
-          "note": "Standard preposition for 'on', 'upon', or 'to'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "على",
-              "على"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الكتاب على الطاولة.",
-          "trans": "The book is on the table."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على على.",
-          "trans": "And this is another long enough sentence to pass the check, with على."
-        }
-      ],
-      "related": []
-    },
-    "الكتان": {
-      "lemma": "الكتان",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "linen/flax",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "linen/flax",
-          "note": "Refers to linen fabric or flax seeds."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "الكتان",
-              "الكتان"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "قميص الكتان مريح بالصيف.",
-          "trans": "The linen shirt is comfortable in summer."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الكتان.",
-          "trans": "And this is another long enough sentence to pass the check, with الكتان."
-        }
-      ],
-      "related": []
-    },
-    "الثقيل": {
-      "lemma": "الثقيل",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "the heavy",
-      "meanings": [
-        {
-          "en": "the heavy",
-          "note": "Heavy in weight, or sometimes heavy-blooded (annoying/dull person)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "الثقيل",
-              "الثقيل"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هذا الصندوق الثقيل ما بقدر أرفعه.",
-          "trans": "I cannot lift this heavy box."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الثقيل.",
-          "trans": "And this is another long enough sentence to pass the check, with الثقيل."
-        }
-      ],
-      "related": []
-    },
-    "عنجد": {
-      "lemma": "عنجد",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "really / seriously",
-      "meanings": [
-        {
-          "en": "really / seriously",
-          "note": "Extremely common expression for 'really?' or 'seriously'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "عنجد",
-              "عنجد"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "عنجد بتحكي ولا بتمزح؟",
-          "trans": "Are you speaking seriously or joking?"
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على عنجد.",
-          "trans": "And this is another long enough sentence to pass the check, with عنجد."
-        }
-      ],
-      "related": []
-    },
-    "بنفع": {
-      "lemma": "بنفع",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "it works / is useful",
-      "meanings": [
-        {
-          "en": "it works / is useful",
-          "note": "Commonly used in Jordanian Arabic to mean \"it is acceptable\" or \"it works\"."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "بنفع",
-              "بنفع"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هذا الحل بنفع معنا.",
-          "trans": "This solution works for us."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على بنفع.",
-          "trans": "And this is another long enough sentence to pass the check, with بنفع."
-        }
-      ],
-      "related": []
-    },
-    "ولا": {
-      "lemma": "ولا",
-      "stress": null,
-      "pos": "conj",
-      "gloss": "neither / nor / or / not even",
-      "meanings": [
-        {
-          "en": "neither / nor / or / not even",
-          "note": "Used in negative constructions or as a strong negative emphasis."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "ولا",
-              "ولا"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ولا واحد فيهم إجا.",
-          "trans": "Not even one of them came."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على ولا.",
-          "trans": "And this is another long enough sentence to pass the check, with ولا."
-        }
-      ],
-      "related": []
-    },
-    "نقطة": {
-      "lemma": "نقطة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "point / drop",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "point / drop",
-          "note": "Can refer to a physical dot, a score point, or a drop of liquid."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "نقطة",
-              "نقطة"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بدي نقطة مي بس.",
-          "trans": "I just want a drop of water."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على نقطة.",
-          "trans": "And this is another long enough sentence to pass the check, with نقطة."
-        }
-      ],
-      "related": []
-    },
-    "رطوبة": {
-      "lemma": "رطوبة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "humidity / moisture",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "humidity / moisture",
-          "note": "Refers to moisture in the air or dampness in walls."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "رطوبة",
-              "رطوبة"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الرطوبة عالية اليوم.",
-          "trans": "The humidity is high today."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على رطوبة.",
-          "trans": "And this is another long enough sentence to pass the check, with رطوبة."
-        }
-      ],
-      "related": []
-    },
-    "وصلت": {
-      "lemma": "وصلت",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "she arrived",
-      "meanings": [
-        {
-          "en": "she arrived",
-          "note": "Depending on context, it can mean 'she arrived' or 'I arrived'. Most commonly 'she arrived' with 'wislet'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "وصلت",
-              "وصلت"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هي وصلت على الوقت.",
-          "trans": "She arrived on time."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على وصلت.",
-          "trans": "And this is another long enough sentence to pass the check, with وصلت."
-        }
-      ],
-      "related": []
-    },
-    "لجوا": {
-      "lemma": "لجوا",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "inside",
-      "meanings": [
-        {
-          "en": "inside",
-          "note": "Directional phrase indicating movement into the interior of a place or object."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "لجوا",
-              "لجوا"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "فوت لجوا، الدنيا برد برا.",
-          "trans": "Go inside, it's cold outside."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على لجوا.",
-          "trans": "And this is another long enough sentence to pass the check, with لجوا."
-        }
-      ],
-      "related": []
-    },
-    "اطوي": {
-      "lemma": "اطوي",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "fold (imperative)",
-      "meanings": [
-        {
-          "en": "fold (imperative)",
-          "note": "Command to fold clothes or paper."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "اطوي",
-              "اطوي"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "اطوي الورقة نصين.",
-          "trans": "Fold the paper in half."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على اطوي.",
-          "trans": "And this is another long enough sentence to pass the check, with اطوي."
-        }
-      ],
-      "related": []
-    },
-    "الطرف": {
-      "lemma": "الطرف",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "edge/side",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "edge/side",
-          "note": "Edge of a table, side of a town, or a party in a conflict."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "الطرف",
-              "الطرف"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "اقعد على الطرف.",
-          "trans": "Sit on the edge."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الطرف.",
-          "trans": "And this is another long enough sentence to pass the check, with الطرف."
-        }
-      ],
-      "related": []
-    },
-    "اليسار": {
-      "lemma": "اليسار",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "left, left side",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "left, left side",
-          "note": "The left direction or side."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "اليسار",
-              "اليسار"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "لف على اليسار بعد الإشارة.",
-          "trans": "Turn left after the traffic light."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على اليسار.",
-          "trans": "And this is another long enough sentence to pass the check, with اليسار."
-        }
-      ],
-      "related": []
-    },
-    "لورا": {
-      "lemma": "لورا",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "backwards",
-      "meanings": [
-        {
-          "en": "backwards",
-          "note": "Indicates movement or position towards the rear or back direction."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "لورا",
-              "لورا"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ارجع لورا شوي عشان تمرق السيارة.",
-          "trans": "Go back a bit so the car can pass."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على لورا.",
-          "trans": "And this is another long enough sentence to pass the check, with لورا."
-        }
-      ],
-      "related": []
-    },
-    "واطوي": {
-      "lemma": "واطوي",
-      "stress": null,
-      "pos": "phrase",
-      "gloss": "and fold",
-      "meanings": [
-        {
-          "en": "and fold",
-          "note": "Command used for folding clothes or paper."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "واطوي",
-              "واطوي"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "غسلي الأواعي واطوي الملابس.",
-          "trans": "Wash the clothes and fold the garments."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على واطوي.",
-          "trans": "And this is another long enough sentence to pass the check, with واطوي."
-        }
-      ],
-      "related": []
-    },
-    "اليمين": {
-      "lemma": "اليمين",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "right, right side",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "right, right side",
-          "note": "The right direction or side."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "اليمين",
-              "اليمين"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "خليك على اليمين وأنت بتسوق.",
-          "trans": "Keep to the right while driving."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على اليمين.",
-          "trans": "And this is another long enough sentence to pass the check, with اليمين."
-        }
-      ],
-      "related": []
-    },
-    "شوفي": {
-      "lemma": "شوفي",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "look / see",
-      "meanings": [
-        {
-          "en": "look / see",
-          "note": "Imperative verb used when telling a single female to look or see."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "شوفي",
-              "شوفي"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "شوفي الفستان ما أحلاه.",
-          "trans": "Look how beautiful this dress is."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على شوفي.",
-          "trans": "And this is another long enough sentence to pass the check, with شوفي."
-        }
-      ],
-      "related": []
-    },
-    "هالألوان": {
-      "lemma": "هالألوان",
-      "stress": null,
-      "pos": "phrase",
-      "gloss": "these colors",
-      "meanings": [
-        {
-          "en": "these colors",
-          "note": "Combination of demonstrative prefix and plural noun."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "هالألوان",
-              "هالألوان"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ما أحلى هالألوان مع بعض.",
-          "trans": "How beautiful these colors are together."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على هالألوان.",
-          "trans": "And this is another long enough sentence to pass the check, with هالألوان."
+          "text": "لضمت الخيط بالإبرة ورتقت الجاكيت الممزع.",
+          "trans": "I threaded the needle and mended the torn jacket."
         }
       ],
       "related": []
@@ -6679,214 +5848,8 @@
           "trans": "I like to wear bright colors in the summer."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الزاهية.",
-          "trans": "And this is another long enough sentence to pass the check, with الزاهية."
-        }
-      ],
-      "related": []
-    },
-    "استنى": {
-      "lemma": "استنى",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "wait (masculine imperative)",
-      "meanings": [
-        {
-          "en": "wait (masculine imperative)",
-          "note": "Command to a male to wait."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "استنى",
-              "استنى"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استنى دقيقة بس.",
-          "trans": "Wait just a minute."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على استنى.",
-          "trans": "And this is another long enough sentence to pass the check, with استنى."
-        }
-      ],
-      "related": []
-    },
-    "أنا": {
-      "lemma": "أنا",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "I",
-      "meanings": [
-        {
-          "en": "I",
-          "note": "First person singular pronoun."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "أنا",
-              "أنا"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "أنا من الأردن.",
-          "trans": "I am from Jordan."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على أنا.",
-          "trans": "And this is another long enough sentence to pass the check, with أنا."
-        }
-      ],
-      "related": []
-    },
-    "بعرف": {
-      "lemma": "بعرف",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "I know",
-      "meanings": [
-        {
-          "en": "I know",
-          "note": "The most fundamental way to state personal knowledge or awareness."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "بعرف",
-              "بعرف"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "أنا بعرف شو صار.",
-          "trans": "I know what happened."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على بعرف.",
-          "trans": "And this is another long enough sentence to pass the check, with بعرف."
-        }
-      ],
-      "related": []
-    },
-    "هذي": {
-      "lemma": "هذي",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "this (f)",
-      "meanings": [
-        {
-          "en": "this (f)",
-          "note": "Feminine demonstrative used more in formal speech or by older/Bedouin speakers."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "هذي",
-              "هذي"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هذي السيارة جديدة.",
-          "trans": "This car is new."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على هذي.",
-          "trans": "And this is another long enough sentence to pass the check, with هذي."
-        }
-      ],
-      "related": []
-    },
-    "العلبة": {
-      "lemma": "العلبة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "box/can/container",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "box/can/container",
-          "note": "General word for a small box, tin, or can."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "العلبة",
-              "العلبة"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "وين العلبة الفاضية؟",
-          "trans": "Where is the empty box?"
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على العلبة.",
-          "trans": "And this is another long enough sentence to pass the check, with العلبة."
+          "text": "الورود الزاهية فتحت بالحديقة من أول الربيع.",
+          "trans": "The bright flowers bloomed in the garden since early spring."
         }
       ],
       "related": []
@@ -6927,104 +5890,22 @@
           "trans": "The roof is made of sheet metal."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الصفيح.",
-          "trans": "And this is another long enough sentence to pass the check, with الصفيح."
+          "text": "زمان كانوا يعبوا الزيت بتتنك من الصفيح.",
+          "trans": "Back in the day they used to fill oil in cans made of tinplate."
         }
       ],
       "related": []
     },
-    "الحمرا": {
-      "lemma": "الحمرا",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "the red (feminine)",
-      "meanings": [
-        {
-          "en": "the red (feminine)",
-          "note": "Colloquial pronunciation of 'hamraa', designating the feminine color red."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "الحمرا",
-              "الحمرا"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "السيارة الحمرا صفت قدام البيت.",
-          "trans": "The red car parked in front of the house."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الحمرا.",
-          "trans": "And this is another long enough sentence to pass the check, with الحمرا."
-        }
-      ],
-      "related": []
-    },
-    "والذهبية": {
-      "lemma": "والذهبية",
-      "stress": null,
-      "pos": "phrase",
-      "gloss": "and the golden (f)",
-      "meanings": [
-        {
-          "en": "and the golden (f)",
-          "note": "Refers to something feminine colored gold."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "والذهبية",
-              "والذهبية"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "أخذت الميدالية الفضية والذهبية.",
-          "trans": "I took the silver and the golden medal."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على والذهبية.",
-          "trans": "And this is another long enough sentence to pass the check, with والذهبية."
-        }
-      ],
-      "related": []
-    },
-    "عمتي": {
-      "lemma": "عمتي",
+    "الطرف": {
+      "lemma": "الطرف",
       "stress": null,
       "pos": "noun",
-      "gloss": "my paternal aunt",
+      "gloss": "edge/side",
       "gender": "m",
       "meanings": [
         {
-          "en": "my paternal aunt",
-          "note": "Aunt on the father's side."
+          "en": "edge/side",
+          "note": "Edge of a table, side of a town, or a party in a conflict."
         }
       ],
       "forms": {
@@ -7038,8 +5919,8 @@
           {
             "cells": [
               "form",
-              "عمتي",
-              "عمتي"
+              "الطرف",
+              "الطرف"
             ]
           }
         ]
@@ -7047,150 +5928,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "عمتي رح تزورنا اليوم.",
-          "trans": "My paternal aunt is going to visit us today."
+          "text": "اقعد على الطرف.",
+          "trans": "Sit on the edge."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على عمتي.",
-          "trans": "And this is another long enough sentence to pass the check, with عمتي."
+          "text": "لا تترك الكاسة على الطرف عشان ما توقع وتنكسر.",
+          "trans": "Don't leave the glass on the edge so it doesn't fall and break."
         }
       ],
       "related": []
     },
-    "كانت": {
-      "lemma": "كانت",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "she was / it (f) was",
-      "meanings": [
-        {
-          "en": "she was / it (f) was",
-          "note": "Past tense of 'to be' for 3rd person feminine singular."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "كانت",
-              "كانت"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "السيارة كانت خربانة.",
-          "trans": "The car was broken."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على كانت.",
-          "trans": "And this is another long enough sentence to pass the check, with كانت."
-        }
-      ],
-      "related": []
-    },
-    "تخبي": {
-      "lemma": "تخبي",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "you hide / she hides",
-      "meanings": [
-        {
-          "en": "you hide / she hides",
-          "note": "Used for the action of concealing something."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "تخبي",
-              "تخبي"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ليش عم تخبي الحقيقة؟",
-          "trans": "Why are you hiding the truth?"
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على تخبي.",
-          "trans": "And this is another long enough sentence to pass the check, with تخبي."
-        }
-      ],
-      "related": []
-    },
-    "فيها": {
-      "lemma": "فيها",
-      "stress": null,
-      "pos": "phrase",
-      "gloss": "in it (f)",
-      "meanings": [
-        {
-          "en": "in it (f)",
-          "note": "Preposition 'fī' with 3rd person feminine pronoun suffix."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "فيها",
-              "فيها"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "السيارة مريحة بس ما فيها مكيف.",
-          "trans": "The car is comfortable but doesn't have AC in it."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على فيها.",
-          "trans": "And this is another long enough sentence to pass the check, with فيها."
-        }
-      ],
-      "related": [],
-      "gender": "m"
-    },
-    "بسكوت": {
-      "lemma": "بسكوت",
+    "العلبة": {
+      "lemma": "العلبة",
       "stress": null,
       "pos": "noun",
-      "gloss": "biscuits / cookies",
-      "gender": "m",
+      "gloss": "box/can/container",
+      "gender": "f",
       "meanings": [
         {
-          "en": "biscuits / cookies",
-          "note": "General term for any kind of sweet, dry baked good like a cookie or biscuit."
+          "en": "box/can/container",
+          "note": "General word for a small box, tin, or can."
         }
       ],
       "forms": {
@@ -7204,8 +5961,8 @@
           {
             "cells": [
               "form",
-              "بسكوت",
-              "بسكوت"
+              "العلبة",
+              "العلبة"
             ]
           }
         ]
@@ -7213,95 +5970,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "أكلت بسكوت مع الشاي.",
-          "trans": "I ate biscuits with tea."
+          "text": "وين العلبة الفاضية؟",
+          "trans": "Where is the empty box?"
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على بسكوت.",
-          "trans": "And this is another long enough sentence to pass the check, with بسكوت."
-        }
-      ],
-      "related": []
-    },
-    "اللوز": {
-      "lemma": "اللوز",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "almonds",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "almonds",
-          "note": "Almonds, also used metaphorically to mean 'perfect' or 'excellent'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "اللوز",
-              "اللوز"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الوضع اللوز.",
-          "trans": "The situation is perfect (lit. almonds)."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على اللوز.",
-          "trans": "And this is another long enough sentence to pass the check, with اللوز."
-        }
-      ],
-      "related": []
-    },
-    "تبع": {
-      "lemma": "تبع",
-      "stress": null,
-      "pos": "part",
-      "gloss": "belonging to / of",
-      "meanings": [
-        {
-          "en": "belonging to / of",
-          "note": "Everyday Jordanian and Levantine word used as a possessive marker, similar to \"of\" or \"'s\"."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "تبع",
-              "تبع"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "السيارة تبع أخوي خربانة.",
-          "trans": "My brother's car is broken."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على تبع.",
-          "trans": "And this is another long enough sentence to pass the check, with تبع."
+          "text": "خبي البسكوت جوا العلبة المسكرة عشان ما يطرا.",
+          "trans": "Keep the biscuits inside the sealed box so they don't go soft."
         }
       ],
       "related": []
@@ -7342,257 +6016,8 @@
           "trans": "Happy holiday (Eid greetings)."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على العيد.",
-          "trans": "And this is another long enough sentence to pass the check, with العيد."
-        }
-      ],
-      "related": []
-    },
-    "شريط": {
-      "lemma": "شريط",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "tape / ribbon / pill strip",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "tape / ribbon / pill strip",
-          "note": "Can refer to adhesive tape, a ribbon, a cassette tape, or a blister pack of pills."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "شريط",
-              "شريط"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "جيبلي شريط دواء من الصيدلية.",
-          "trans": "Bring me a strip of medicine from the pharmacy."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على شريط.",
-          "trans": "And this is another long enough sentence to pass the check, with شريط."
-        }
-      ],
-      "related": []
-    },
-    "القماش": {
-      "lemma": "القماش",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "fabric/cloth",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "fabric/cloth",
-          "note": "Material for making clothes or upholstery."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "القماش",
-              "القماش"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هذا القماش ناعم.",
-          "trans": "This fabric is soft."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على القماش.",
-          "trans": "And this is another long enough sentence to pass the check, with القماش."
-        }
-      ],
-      "related": []
-    },
-    "الأبيض": {
-      "lemma": "الأبيض",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "the white",
-      "meanings": [
-        {
-          "en": "the white",
-          "note": "The color white with the definite article."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "الأبيض",
-              "الأبيض"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "البيت الأبيض كبير.",
-          "trans": "The white house is big."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الأبيض.",
-          "trans": "And this is another long enough sentence to pass the check, with الأبيض."
-        }
-      ],
-      "related": []
-    },
-    "الملفوف": {
-      "lemma": "الملفوف",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "cabbage / rolled",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "cabbage / rolled",
-          "note": "Cabbage, or something wrapped/rolled."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "الملفوف",
-              "الملفوف"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "أكلنا محشي الملفوف امبارح.",
-          "trans": "We ate stuffed cabbage yesterday."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الملفوف.",
-          "trans": "And this is another long enough sentence to pass the check, with الملفوف."
-        }
-      ],
-      "related": []
-    },
-    "حوالين": {
-      "lemma": "حوالين",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "around",
-      "meanings": [
-        {
-          "en": "around",
-          "note": "A very common preposition denoting physical surrounding or approximation of time/quantity."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "حوالين",
-              "حوالين"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "في ناس كثير حوالين الدوار.",
-          "trans": "There are many people around the roundabout."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على حوالين.",
-          "trans": "And this is another long enough sentence to pass the check, with حوالين."
-        }
-      ],
-      "related": []
-    },
-    "حفة": {
-      "lemma": "حفة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "edge",
-      "meanings": [
-        {
-          "en": "edge",
-          "note": "Used to refer to the edge of a table, cliff, or any physical boundary."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "حفة",
-              "حفة"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "دير بالك، الكاسة على حفة الطاولة.",
-          "trans": "Watch out, the cup is on the edge of the table."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على حفة.",
-          "trans": "And this is another long enough sentence to pass the check, with حفة."
+          "text": "الأولاد بلبسوا أواعيهم الجديدة صبيحة العيد.",
+          "trans": "The children put on their new clothes on the morning of Eid."
         }
       ],
       "related": []
@@ -7633,63 +6058,22 @@
           "trans": "Close the pot with the lid."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الغطا.",
-          "trans": "And this is another long enough sentence to pass the check, with الغطا."
+          "text": "مش لاقي الغطا تبع المطرة اللي خدتها عالنادي.",
+          "trans": "I can't find the lid for the water bottle I took to the gym."
         }
       ],
       "related": []
     },
-    "في": {
-      "lemma": "في",
-      "stress": null,
-      "pos": "part",
-      "gloss": "in / at / there is",
-      "meanings": [
-        {
-          "en": "in / at / there is",
-          "note": "Preposition for 'in' or 'at', and very commonly used to mean 'there is/are' (existential)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "في",
-              "في"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "في ناس كثير بالسوق.",
-          "trans": "There are many people in the market."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على في.",
-          "trans": "And this is another long enough sentence to pass the check, with في."
-        }
-      ],
-      "related": []
-    },
-    "كلمات": {
-      "lemma": "كلمات",
+    "القماش": {
+      "lemma": "القماش",
       "stress": null,
       "pos": "noun",
-      "gloss": "words",
+      "gloss": "fabric/cloth",
       "gender": "m",
       "meanings": [
         {
-          "en": "words",
-          "note": "Plural of word (kilma). Used in everyday contexts and formal situations."
+          "en": "fabric/cloth",
+          "note": "Material for making clothes or upholstery."
         }
       ],
       "forms": {
@@ -7703,8 +6087,8 @@
           {
             "cells": [
               "form",
-              "كلمات",
-              "كلمات"
+              "القماش",
+              "القماش"
             ]
           }
         ]
@@ -7712,190 +6096,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "هالأغنية فيها كلمات حلوة.",
-          "trans": "This song has nice words (lyrics)."
+          "text": "هذا القماش ناعم.",
+          "trans": "This fabric is soft."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على كلمات.",
-          "trans": "And this is another long enough sentence to pass the check, with كلمات."
+          "text": "اشترت مترين من القماش عشان تفصل فستان.",
+          "trans": "She bought two meters of fabric to tailor a dress."
         }
       ],
       "related": []
     },
-    "مكتوبة": {
-      "lemma": "مكتوبة",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "written (f)",
-      "meanings": [
-        {
-          "en": "written (f)",
-          "note": "Feminine form of maktub, used as an adjective for feminine nouns."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "مكتوبة",
-              "مكتوبة"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الرسالة مكتوبة بخط حلو.",
-          "trans": "The message is written in nice handwriting."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على مكتوبة.",
-          "trans": "And this is another long enough sentence to pass the check, with مكتوبة."
-        }
-      ],
-      "related": []
-    },
-    "بحبر": {
-      "lemma": "بحبر",
-      "stress": null,
-      "pos": "phrase",
-      "gloss": "with ink",
-      "meanings": [
-        {
-          "en": "with ink",
-          "note": "Refers to writing or drawing done specifically using ink rather than a pencil."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "بحبر",
-              "بحبر"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "وقعت الورقة بحبر أزرق.",
-          "trans": "I signed the paper with blue ink."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على بحبر.",
-          "trans": "And this is another long enough sentence to pass the check, with بحبر."
-        }
-      ],
-      "related": []
-    },
-    "أسود": {
-      "lemma": "أسود",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "black",
-      "meanings": [
-        {
-          "en": "black",
-          "note": "The color black."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "أسود",
-              "أسود"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "لبست قميص أسود.",
-          "trans": "I wore a black shirt."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على أسود.",
-          "trans": "And this is another long enough sentence to pass the check, with أسود."
-        }
-      ],
-      "related": []
-    },
-    "باهت": {
-      "lemma": "باهت",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "pale / faded",
-      "meanings": [
-        {
-          "en": "pale / faded",
-          "note": "Used to describe colors that have lost their brightness or people looking pale."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "باهت",
-              "باهت"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "لون القميص صار باهت من الغسيل.",
-          "trans": "The shirt's color became faded from washing."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على باهت.",
-          "trans": "And this is another long enough sentence to pass the check, with باهت."
-        }
-      ],
-      "related": []
-    },
-    "واجهة": {
-      "lemma": "واجهة",
+    "الكتان": {
+      "lemma": "الكتان",
       "stress": null,
       "pos": "noun",
-      "gloss": "facade / interface",
+      "gloss": "linen/flax",
       "gender": "m",
       "meanings": [
         {
-          "en": "facade / interface",
-          "note": "Refers to the front of a building or a digital interface."
+          "en": "linen/flax",
+          "note": "Refers to linen fabric or flax seeds."
         }
       ],
       "forms": {
@@ -7909,8 +6129,8 @@
           {
             "cells": [
               "form",
-              "واجهة",
-              "واجهة"
+              "الكتان",
+              "الكتان"
             ]
           }
         ]
@@ -7918,149 +6138,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "واجهة العمارة مبنية من الحجر.",
-          "trans": "The building's facade is built of stone."
+          "text": "قميص الكتان مريح بالصيف.",
+          "trans": "The linen shirt is comfortable in summer."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على واجهة.",
-          "trans": "And this is another long enough sentence to pass the check, with واجهة."
+          "text": "البنطلون الكتان بارد ومريح بشوب شهر تموز.",
+          "trans": "Linen pants are cool and comfortable in the heat of July."
         }
       ],
       "related": []
     },
-    "من": {
-      "lemma": "من",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "from",
-      "meanings": [
-        {
-          "en": "from",
-          "note": "One of the most basic Arabic prepositions indicating origin."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "من",
-              "من"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "أنا من الأردن.",
-          "trans": "I am from Jordan."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على من.",
-          "trans": "And this is another long enough sentence to pass the check, with من."
-        }
-      ],
-      "related": []
-    },
-    "فوق": {
-      "lemma": "فوق",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "above / up",
-      "meanings": [
-        {
-          "en": "above / up",
-          "note": "Used as a preposition or adverb meaning 'above', 'over', or 'upstairs'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "فوق",
-              "فوق"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الكتاب فوق الطاولة.",
-          "trans": "The book is on top of the table."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على فوق.",
-          "trans": "And this is another long enough sentence to pass the check, with فوق."
-        }
-      ],
-      "related": []
-    },
-    "نزلي": {
-      "lemma": "نزلي",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "bring down / lower (f)",
-      "meanings": [
-        {
-          "en": "bring down / lower (f)",
-          "note": "Imperative addressed to a female to take something down, drop off, or lower a price."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "نزلي",
-              "نزلي"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "نزلي الكيس على الأرض.",
-          "trans": "Put the bag down on the floor."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على نزلي.",
-          "trans": "And this is another long enough sentence to pass the check, with نزلي."
-        }
-      ],
-      "related": []
-    },
-    "نظاراتي": {
-      "lemma": "نظاراتي",
+    "اللوز": {
+      "lemma": "اللوز",
       "stress": null,
       "pos": "noun",
-      "gloss": "my glasses",
+      "gloss": "almonds",
       "gender": "m",
       "meanings": [
         {
-          "en": "my glasses",
-          "note": "Plural noun with first person singular suffix."
+          "en": "almonds",
+          "note": "Almonds, also used metaphorically to mean 'perfect' or 'excellent'."
         }
       ],
       "forms": {
@@ -8074,8 +6171,8 @@
           {
             "cells": [
               "form",
-              "نظاراتي",
-              "نظاراتي"
+              "اللوز",
+              "اللوز"
             ]
           }
         ]
@@ -8083,66 +6180,25 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "نظاراتي انكسروا امبارح.",
-          "trans": "My glasses broke yesterday."
+          "text": "الوضع اللوز.",
+          "trans": "The situation is perfect (lit. almonds)."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على نظاراتي.",
-          "trans": "And this is another long enough sentence to pass the check, with نظاراتي."
+          "text": "حمصنا اللوز بشوية سمنة وحطيناه فوق الأرز.",
+          "trans": "We toasted the almonds in a little ghee and put them on top of the rice."
         }
       ],
       "related": []
     },
-    "لا": {
-      "lemma": "لا",
-      "stress": null,
-      "pos": "part",
-      "gloss": "no",
-      "meanings": [
-        {
-          "en": "no",
-          "note": "Everyday Jordanian word for 'no' or 'not', used exactly like Standard Arabic."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "لا",
-              "لا"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "لا، ما بدي أروح اليوم.",
-          "trans": "No, I don't want to go today."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على لا.",
-          "trans": "And this is another long enough sentence to pass the check, with لا."
-        }
-      ],
-      "related": []
-    },
-    "هيهم": {
-      "lemma": "هيهم",
+    "اللي": {
+      "lemma": "اللي",
       "stress": null,
       "pos": "pron",
-      "gloss": "here they are",
+      "gloss": "that/which/who",
       "meanings": [
         {
-          "en": "here they are",
-          "note": "Presentative pronoun used to point out a group of people or objects."
+          "en": "that/which/who",
+          "note": "The universal relative pronoun in Levantine Arabic."
         }
       ],
       "forms": {
@@ -8156,8 +6212,8 @@
           {
             "cells": [
               "form",
-              "هيهم",
-              "هيهم"
+              "اللي",
+              "اللي"
             ]
           }
         ]
@@ -8165,301 +6221,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "وين الولاد؟ هيهم بيلعبوا برا.",
-          "trans": "Where are the kids? Here they are playing outside."
+          "text": "الزلمة اللي شفته امبارح.",
+          "trans": "The man who I saw yesterday."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على هيهم.",
-          "trans": "And this is another long enough sentence to pass the check, with هيهم."
-        }
-      ],
-      "related": []
-    },
-    "هون": {
-      "lemma": "هون",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "here",
-      "meanings": [
-        {
-          "en": "here",
-          "note": "Standard adverb for physical location."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "هون",
-              "هون"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "حط الأغراض هون لو سمحت.",
-          "trans": "Put the things here, please."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على هون.",
-          "trans": "And this is another long enough sentence to pass the check, with هون."
-        }
-      ],
-      "related": []
-    },
-    "خليني": {
-      "lemma": "خليني",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "let me",
-      "meanings": [
-        {
-          "en": "let me",
-          "note": "Common phrase used to ask for permission or time to do something, 'let me...'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "خليني",
-              "خليني"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "خليني أفكر بالموضوع وبردلك خبر.",
-          "trans": "Let me think about the matter and I'll get back to you."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على خليني.",
-          "trans": "And this is another long enough sentence to pass the check, with خليني."
-        }
-      ],
-      "related": []
-    },
-    "أقرأ": {
-      "lemma": "أقرأ",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "I read",
-      "meanings": [
-        {
-          "en": "I read",
-          "note": "First person singular present tense of قرأ (qaraʾa)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "أقرأ",
-              "أقرأ"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "أنا عم أقرأ كتاب حلو.",
-          "trans": "I am reading a nice book."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على أقرأ.",
-          "trans": "And this is another long enough sentence to pass the check, with أقرأ."
-        }
-      ],
-      "related": []
-    },
-    "خط": {
-      "lemma": "خط",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "line",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "line",
-          "note": "Can mean a physical line, a phone line, a bus route, or handwriting."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "خط",
-              "خط"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ما في تغطية، الخط بقطع.",
-          "trans": "There is no coverage, the line is disconnecting."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على خط.",
-          "trans": "And this is another long enough sentence to pass the check, with خط."
-        }
-      ],
-      "related": []
-    },
-    "عيلتي": {
-      "lemma": "عيلتي",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "my family",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "my family",
-          "note": "A common way to say 'my family', referring to the immediate or extended family unit."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "عيلتي",
-              "عيلتي"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "عيلتي ساكنة بعمان.",
-          "trans": "My family lives in Amman."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على عيلتي.",
-          "trans": "And this is another long enough sentence to pass the check, with عيلتي."
-        }
-      ],
-      "related": []
-    },
-    "شو": {
-      "lemma": "شو",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "what",
-      "meanings": [
-        {
-          "en": "what",
-          "note": "Everyday Jordanian interrogative pronoun for 'what'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "شو",
-              "شو"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "شو بتعمل هون؟",
-          "trans": "What are you doing here?"
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على شو.",
-          "trans": "And this is another long enough sentence to pass the check, with شو."
-        }
-      ],
-      "related": []
-    },
-    "مكتوب": {
-      "lemma": "مكتوب",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "written / letter",
-      "meanings": [
-        {
-          "en": "written / letter",
-          "note": "Often used as a noun meaning 'letter' (mail) or 'destiny' in traditional contexts."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "مكتوب",
-              "مكتوب"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الاسم مكتوب على اللوحة.",
-          "trans": "The name is written on the board."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على مكتوب.",
-          "trans": "And this is another long enough sentence to pass the check, with مكتوب."
+          "text": "هذا المحل اللي اشترينا منه الكنافة الأسبوع الماضي.",
+          "trans": "This is the shop where we bought the kunafa last week."
         }
       ],
       "related": []
@@ -8500,105 +6267,22 @@
           "trans": "Put the poster on the wall."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على الملصق.",
-          "trans": "And this is another long enough sentence to pass the check, with الملصق."
+          "text": "الولد لزق الملصق على دفتر العلوم الجديد.",
+          "trans": "The boy stuck the sticker onto his new science notebook."
         }
       ],
       "related": []
     },
-    "اللي": {
-      "lemma": "اللي",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "that/which/who",
-      "meanings": [
-        {
-          "en": "that/which/who",
-          "note": "The universal relative pronoun in Levantine Arabic."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "اللي",
-              "اللي"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الزلمة اللي شفته امبارح.",
-          "trans": "The man who I saw yesterday."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على اللي.",
-          "trans": "And this is another long enough sentence to pass the check, with اللي."
-        }
-      ],
-      "related": []
-    },
-    "كبسولة": {
-      "lemma": "كبسولة",
+    "الملفوف": {
+      "lemma": "الملفوف",
       "stress": null,
       "pos": "noun",
-      "gloss": "capsule",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "capsule",
-          "note": "Refers to a pill in medical contexts or sometimes a coffee capsule."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "كبسولة",
-              "كبسولة"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "لازم توخذ كبسولة وحدة كل يوم.",
-          "trans": "You must take one capsule every day."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على كبسولة.",
-          "trans": "And this is another long enough sentence to pass the check, with كبسولة."
-        }
-      ],
-      "related": []
-    },
-    "زمن": {
-      "lemma": "زمن",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "time / era",
+      "gloss": "cabbage / rolled",
       "gender": "m",
       "meanings": [
         {
-          "en": "time / era",
-          "note": "Often used to mean 'a long time ago' (min zaman)."
+          "en": "cabbage / rolled",
+          "note": "Cabbage, or something wrapped/rolled."
         }
       ],
       "forms": {
@@ -8612,8 +6296,8 @@
           {
             "cells": [
               "form",
-              "زمن",
-              "زمن"
+              "الملفوف",
+              "الملفوف"
             ]
           }
         ]
@@ -8621,108 +6305,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "من زمان ما شفتك.",
-          "trans": "I haven't seen you in a long time."
+          "text": "أكلنا محشي الملفوف امبارح.",
+          "trans": "We ate stuffed cabbage yesterday."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على زمن.",
-          "trans": "And this is another long enough sentence to pass the check, with زمن."
+          "text": "سلقت أوراق الملفوف عشان ألفهم بالرز واللحمة.",
+          "trans": "I boiled the cabbage leaves to roll them with rice and meat."
         }
       ],
       "related": []
     },
-    "لغرفة": {
-      "lemma": "لغرفة",
-      "stress": null,
-      "pos": "phrase",
-      "gloss": "to a room",
-      "meanings": [
-        {
-          "en": "to a room",
-          "note": "Prepositional phrase denoting direction towards a particular but usually indefinite room."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "لغرفة",
-              "لغرفة"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "نقلوا المريض لغرفة تانية.",
-          "trans": "They moved the patient to another room."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على لغرفة.",
-          "trans": "And this is another long enough sentence to pass the check, with لغرفة."
-        }
-      ],
-      "related": []
-    },
-    "ثمانية": {
-      "lemma": "ثمانية",
-      "stress": null,
-      "pos": "num",
-      "gloss": "eight",
-      "meanings": [
-        {
-          "en": "eight",
-          "note": "The number 8."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "ثمانية",
-              "ثمانية"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الساعة صارت ثمانية المسا.",
-          "trans": "The time became eight in the evening."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على ثمانية.",
-          "trans": "And this is another long enough sentence to pass the check, with ثمانية."
-        }
-      ],
-      "related": []
-    },
-    "وغرفة": {
-      "lemma": "وغرفة",
+    "النحل": {
+      "lemma": "النحل",
       "stress": null,
       "pos": "noun",
-      "gloss": "and a room",
+      "gloss": "bees",
       "gender": "m",
       "meanings": [
         {
-          "en": "and a room",
-          "note": "Common noun for room, prefixed with 'and'."
+          "en": "bees",
+          "note": "Bees (collective)."
         }
       ],
       "forms": {
@@ -8736,8 +6338,8 @@
           {
             "cells": [
               "form",
-              "وغرفة",
-              "وغرفة"
+              "النحل",
+              "النحل"
             ]
           }
         ]
@@ -8745,67 +6347,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "البيت فيه صالة وغرفة نوم.",
-          "trans": "The house has a living room and a bedroom."
+          "text": "النحل بيعمل عسل مفيد.",
+          "trans": "Bees make beneficial honey."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على وغرفة.",
-          "trans": "And this is another long enough sentence to pass the check, with وغرفة."
+          "text": "جدي بربي النحل بالأغوار وبطلع عسل صافي.",
+          "trans": "My grandfather keeps bees in the Jordan Valley and harvests pure honey."
         }
       ],
       "related": []
     },
-    "تسعة": {
-      "lemma": "تسعة",
-      "stress": null,
-      "pos": "num",
-      "gloss": "nine",
-      "meanings": [
-        {
-          "en": "nine",
-          "note": "The number 9."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "تسعة",
-              "تسعة"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "عندي تسعة كتب على الرف.",
-          "trans": "I have nine books on the shelf."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على تسعة.",
-          "trans": "And this is another long enough sentence to pass the check, with تسعة."
-        }
-      ],
-      "related": []
-    },
-    "شهر": {
-      "lemma": "شهر",
+    "اليسار": {
+      "lemma": "اليسار",
       "stress": null,
       "pos": "noun",
-      "gloss": "month",
+      "gloss": "left, left side",
       "gender": "m",
       "meanings": [
         {
-          "en": "month",
-          "note": "Everyday word for a month."
+          "en": "left, left side",
+          "note": "The left direction or side."
         }
       ],
       "forms": {
@@ -8819,8 +6380,8 @@
           {
             "cells": [
               "form",
-              "شهر",
-              "شهر"
+              "اليسار",
+              "اليسار"
             ]
           }
         ]
@@ -8828,25 +6389,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "بدي أسافر بعد شهر.",
-          "trans": "I want to travel in a month."
+          "text": "لف على اليسار بعد الإشارة.",
+          "trans": "Turn left after the traffic light."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على شهر.",
-          "trans": "And this is another long enough sentence to pass the check, with شهر."
+          "text": "باب الصيدلية على إيدك اليسار أول ما تفوت المجمع.",
+          "trans": "The pharmacy door is on your left as soon as you enter the complex."
         }
       ],
       "related": []
     },
-    "خمسة": {
-      "lemma": "خمسة",
+    "اليمين": {
+      "lemma": "اليمين",
       "stress": null,
-      "pos": "num",
-      "gloss": "five",
+      "pos": "noun",
+      "gloss": "right, right side",
+      "gender": "m",
       "meanings": [
         {
-          "en": "five",
-          "note": "The number five, used in counting abstractly or before masculine counted nouns."
+          "en": "right, right side",
+          "note": "The right direction or side."
         }
       ],
       "forms": {
@@ -8860,8 +6422,8 @@
           {
             "cells": [
               "form",
-              "خمسة",
-              "خمسة"
+              "اليمين",
+              "اليمين"
             ]
           }
         ]
@@ -8869,25 +6431,25 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "اشتريت خمسة كتب اليوم.",
-          "trans": "I bought five books today."
+          "text": "خليك على اليمين وأنت بتسوق.",
+          "trans": "Keep to the right while driving."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على خمسة.",
-          "trans": "And this is another long enough sentence to pass the check, with خمسة."
+          "text": "خود أقصى اليمين قبل الدوار عشان تفوت عالنفق.",
+          "trans": "Take the far right lane before the roundabout to enter the tunnel."
         }
       ],
       "related": []
     },
-    "لصبح": {
-      "lemma": "لصبح",
+    "بالإيد": {
+      "lemma": "بالإيد",
       "stress": null,
-      "pos": "phrase",
-      "gloss": "until morning",
+      "pos": "prep",
+      "gloss": "by hand",
       "meanings": [
         {
-          "en": "until morning",
-          "note": "Usually used in exaggerations to mean staying up very late or doing something all night."
+          "en": "by hand",
+          "note": "Manually, by hand."
         }
       ],
       "forms": {
@@ -8901,8 +6463,8 @@
           {
             "cells": [
               "form",
-              "لصبح",
-              "لصبح"
+              "بالإيد",
+              "بالإيد"
             ]
           }
         ]
@@ -8910,25 +6472,25 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "ضلينا سهرانين لصبح.",
-          "trans": "We stayed up until morning."
+          "text": "الغسيل بالإيد متعب كثير.",
+          "trans": "Washing by hand is very tiring."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على لصبح.",
-          "trans": "And this is another long enough sentence to pass the check, with لصبح."
+          "text": "خفقنا الكريمة بالإيد بدون خلاط.",
+          "trans": "We whipped the cream by hand without a mixer."
         }
       ],
       "related": []
     },
-    "مشمس": {
-      "lemma": "مشمس",
+    "باهت": {
+      "lemma": "باهت",
       "stress": null,
       "pos": "adj",
-      "gloss": "sunny",
+      "gloss": "pale / faded",
       "meanings": [
         {
-          "en": "sunny",
-          "note": "Describes weather or a place receiving plenty of sunlight."
+          "en": "pale / faded",
+          "note": "Used to describe colors that have lost their brightness or people looking pale."
         }
       ],
       "forms": {
@@ -8942,8 +6504,8 @@
           {
             "cells": [
               "form",
-              "مشمس",
-              "مشمس"
+              "باهت",
+              "باهت"
             ]
           }
         ]
@@ -8951,25 +6513,25 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "الجو مشمس وحلو اليوم.",
-          "trans": "The weather is sunny and nice today."
+          "text": "لون القميص صار باهت من الغسيل.",
+          "trans": "The shirt's color became faded from washing."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على مشمس.",
-          "trans": "And this is another long enough sentence to pass the check, with مشمس."
+          "text": "غلاف الكتاب لونه أخضر باهت.",
+          "trans": "The book cover has a faded green colour."
         }
       ],
       "related": []
     },
-    "خلوا": {
-      "lemma": "خلوا",
+    "ببطء": {
+      "lemma": "ببطء",
       "stress": null,
-      "pos": "verb",
-      "gloss": "let (imp, pl)",
+      "pos": "adv",
+      "gloss": "slowly",
       "meanings": [
         {
-          "en": "let (imp, pl)",
-          "note": "Form II verb asking a group to let or leave something, or third-person plural past tense."
+          "en": "slowly",
+          "note": "Describes doing an action without rushing."
         }
       ],
       "forms": {
@@ -8983,8 +6545,8 @@
           {
             "cells": [
               "form",
-              "خلوا",
-              "خلوا"
+              "ببطء",
+              "ببطء"
             ]
           }
         ]
@@ -8992,135 +6554,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "خلوا الأغراض محلها.",
-          "trans": "Leave the things in their place."
+          "text": "السيارة كانت تمشي ببطء شديد.",
+          "trans": "The car was moving very slowly."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على خلوا.",
-          "trans": "And this is another long enough sentence to pass the check, with خلوا."
-        }
-      ],
-      "related": []
-    },
-    "هالعلبة": {
-      "lemma": "هالعلبة",
-      "stress": null,
-      "pos": "phrase",
-      "gloss": "this box / packet",
-      "meanings": [
-        {
-          "en": "this box / packet",
-          "note": "Refers to a container or can."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "هالعلبة",
-              "هالعلبة"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "افتح هالعلبة وخذ منها بسكوت.",
-          "trans": "Open this box and take some biscuits from it."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على هالعلبة.",
-          "trans": "And this is another long enough sentence to pass the check, with هالعلبة."
-        }
-      ],
-      "related": []
-    },
-    "تستنى": {
-      "lemma": "تستنى",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "you wait / she waits",
-      "meanings": [
-        {
-          "en": "you wait / she waits",
-          "note": "Everyday Jordanian word for waiting for someone or something."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "تستنى",
-              "تستنى"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "لازم تستنى دورك بالصف.",
-          "trans": "You must wait your turn in line."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على تستنى.",
-          "trans": "And this is another long enough sentence to pass the check, with تستنى."
-        }
-      ],
-      "related": []
-    },
-    "للأسبوع": {
-      "lemma": "للأسبوع",
-      "stress": null,
-      "pos": "phrase",
-      "gloss": "for the week",
-      "meanings": [
-        {
-          "en": "for the week",
-          "note": "Used to specify a duration or an assignment belonging to the week."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "للأسبوع",
-              "للأسبوع"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هاد المصروف للأسبوع كله.",
-          "trans": "This is the allowance for the whole week."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على للأسبوع.",
-          "trans": "And this is another long enough sentence to pass the check, with للأسبوع."
+          "text": "عم يمضغ اللقمة ببطء وهو بفكر.",
+          "trans": "He is chewing the bite slowly while thinking."
         }
       ],
       "related": []
@@ -9160,21 +6599,21 @@
           "trans": "The supermarket opens early."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على بتفتح.",
-          "trans": "And this is another long enough sentence to pass the check, with بتفتح."
+          "text": "المكتبة بتفتح أبوابها الساعة تمانية الصبح.",
+          "trans": "The library opens its doors at eight in the morning."
         }
       ],
       "related": []
     },
-    "فيه": {
-      "lemma": "فيه",
+    "بثانية": {
+      "lemma": "بثانية",
       "stress": null,
       "pos": "phrase",
-      "gloss": "in it (m) / there is",
+      "gloss": "in a second",
       "meanings": [
         {
-          "en": "in it (m) / there is",
-          "note": "Preposition 'fī' with 3rd person masculine pronoun suffix, often pronounced identically to 'fī' meaning 'there is'."
+          "en": "in a second",
+          "note": "Used to indicate that something will happen very quickly."
         }
       ],
       "forms": {
@@ -9188,8 +6627,8 @@
           {
             "cells": [
               "form",
-              "فيه",
-              "فيه"
+              "بثانية",
+              "بثانية"
             ]
           }
         ]
@@ -9197,26 +6636,25 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "الصندوق فيه غراض كثير.",
-          "trans": "The box has many things in it."
+          "text": "بخلص الشغل بثانية.",
+          "trans": "I will finish the work in a second."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على فيه.",
-          "trans": "And this is another long enough sentence to pass the check, with فيه."
+          "text": "حل مازن اللغز بثانية أول ما شاف الرقم.",
+          "trans": "Mazen solved the riddle in a second as soon as he saw the number."
         }
       ],
       "related": []
     },
-    "غرفة": {
-      "lemma": "غرفة",
+    "بحبر": {
+      "lemma": "بحبر",
       "stress": null,
-      "pos": "noun",
-      "gloss": "room",
-      "gender": "f",
+      "pos": "phrase",
+      "gloss": "with ink",
       "meanings": [
         {
-          "en": "room",
-          "note": "Everyday Jordanian word for a room in a house or building."
+          "en": "with ink",
+          "note": "Refers to writing or drawing done specifically using ink rather than a pencil."
         }
       ],
       "forms": {
@@ -9230,8 +6668,8 @@
           {
             "cells": [
               "form",
-              "غرفة",
-              "غرفة"
+              "بحبر",
+              "بحبر"
             ]
           }
         ]
@@ -9239,26 +6677,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "غرفة النوم واسعة كثير.",
-          "trans": "The bedroom is very spacious."
+          "text": "وقعت الورقة بحبر أزرق.",
+          "trans": "I signed the paper with blue ink."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على غرفة.",
-          "trans": "And this is another long enough sentence to pass the check, with غرفة."
+          "text": "العنوان مكتوب بحبر أزرق غامق على المغلف.",
+          "trans": "The address is written in dark blue ink on the envelope."
         }
       ],
       "related": []
     },
-    "مرة": {
-      "lemma": "مرة",
+    "بسكوت": {
+      "lemma": "بسكوت",
       "stress": null,
       "pos": "noun",
-      "gloss": "time / once / woman",
-      "gender": "f",
+      "gloss": "biscuits / cookies",
+      "gender": "m",
       "meanings": [
         {
-          "en": "time / once / woman",
-          "note": "'Marrah' means 'a time/once' (e.g. waḥdeh marrah = one time), but 'mara' (مَرَة) means 'woman/wife' in colloquial Jordanian."
+          "en": "biscuits / cookies",
+          "note": "General term for any kind of sweet, dry baked good like a cookie or biscuit."
         }
       ],
       "forms": {
@@ -9272,8 +6710,8 @@
           {
             "cells": [
               "form",
-              "مرة",
-              "مرة"
+              "بسكوت",
+              "بسكوت"
             ]
           }
         ]
@@ -9281,12 +6719,258 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "رحت على البترا مرة وحدة.",
-          "trans": "I went to Petra one time."
+          "text": "أكلت بسكوت مع الشاي.",
+          "trans": "I ate biscuits with tea."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على مرة.",
-          "trans": "And this is another long enough sentence to pass the check, with مرة."
+          "text": "خبزنا بسكوت بالسمسم والينسون للضيوف.",
+          "trans": "We baked sesame and anise biscuits for the guests."
+        }
+      ],
+      "related": []
+    },
+    "بعرف": {
+      "lemma": "بعرف",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "I know",
+      "meanings": [
+        {
+          "en": "I know",
+          "note": "The most fundamental way to state personal knowledge or awareness."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "بعرف",
+              "بعرف"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أنا بعرف شو صار.",
+          "trans": "I know what happened."
+        },
+        {
+          "text": "أنا بعرف هادا المخبز من أيام الطفولة.",
+          "trans": "I have known this bakery since childhood days."
+        }
+      ],
+      "related": []
+    },
+    "بنفع": {
+      "lemma": "بنفع",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "it works / is useful",
+      "meanings": [
+        {
+          "en": "it works / is useful",
+          "note": "Commonly used in Jordanian Arabic to mean \"it is acceptable\" or \"it works\"."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "بنفع",
+              "بنفع"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "هذا الحل بنفع معنا.",
+          "trans": "This solution works for us."
+        },
+        {
+          "text": "بنفع نستعمل زبدة بلدية بدل الزيت بالوصفة؟",
+          "trans": "Does it work to use local butter instead of oil in the recipe?"
+        }
+      ],
+      "related": []
+    },
+    "تبع": {
+      "lemma": "تبع",
+      "stress": null,
+      "pos": "part",
+      "gloss": "belonging to / of",
+      "meanings": [
+        {
+          "en": "belonging to / of",
+          "note": "Everyday Jordanian and Levantine word used as a possessive marker, similar to \"of\" or \"'s\"."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "تبع",
+              "تبع"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "السيارة تبع أخوي خربانة.",
+          "trans": "My brother's car is broken."
+        },
+        {
+          "text": "وين المفتاح تبع خزانة المطبخ؟",
+          "trans": "Where is the key belonging to the kitchen cupboard?"
+        }
+      ],
+      "related": []
+    },
+    "تخبي": {
+      "lemma": "تخبي",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "you hide / she hides",
+      "meanings": [
+        {
+          "en": "you hide / she hides",
+          "note": "Used for the action of concealing something."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "تخبي",
+              "تخبي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ليش عم تخبي الحقيقة؟",
+          "trans": "Why are you hiding the truth?"
+        },
+        {
+          "text": "حاولت تخبي المفاجأة عن أخوها ليوم العيد.",
+          "trans": "She tried to hide the surprise from her brother until the feast."
+        }
+      ],
+      "related": []
+    },
+    "تستنى": {
+      "lemma": "تستنى",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "you wait / she waits",
+      "meanings": [
+        {
+          "en": "you wait / she waits",
+          "note": "Everyday Jordanian word for waiting for someone or something."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "تستنى",
+              "تستنى"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "لازم تستنى دورك بالصف.",
+          "trans": "You must wait your turn in line."
+        },
+        {
+          "text": "لازم تستنى شوي قبل ما تقطع الكيكة السخنة.",
+          "trans": "You have to wait a little before slicing the hot cake."
+        }
+      ],
+      "related": []
+    },
+    "تسعة": {
+      "lemma": "تسعة",
+      "stress": null,
+      "pos": "num",
+      "gloss": "nine",
+      "meanings": [
+        {
+          "en": "nine",
+          "note": "The number 9."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "تسعة",
+              "تسعة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "عندي تسعة كتب على الرف.",
+          "trans": "I have nine books on the shelf."
+        },
+        {
+          "text": "الساعة تسعة الصبح رح نلتقي عند النافورة.",
+          "trans": "At nine in the morning we will meet by the fountain."
         }
       ],
       "related": []
@@ -9327,8 +7011,90 @@
           "trans": "Wait for me just one second."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على ثانية.",
-          "trans": "And this is another long enough sentence to pass the check, with ثانية."
+          "text": "كل ثانية بالسباق مهمة كتير للفريق.",
+          "trans": "Every second in the race matters a lot to the team."
+        }
+      ],
+      "related": []
+    },
+    "ثلاثين": {
+      "lemma": "ثلاثين",
+      "stress": null,
+      "pos": "num",
+      "gloss": "thirty",
+      "meanings": [
+        {
+          "en": "thirty",
+          "note": "The number 30 with the \"th\" sound preserved."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ثلاثين",
+              "ثلاثين"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "دفع ثلاثين دينار حق التذكرة.",
+          "trans": "He paid thirty dinars for the ticket."
+        },
+        {
+          "text": "الدفتر مكتوب قبل ثلاثين سنة تقريبا.",
+          "trans": "The notebook was written roughly thirty years ago."
+        }
+      ],
+      "related": []
+    },
+    "ثمانية": {
+      "lemma": "ثمانية",
+      "stress": null,
+      "pos": "num",
+      "gloss": "eight",
+      "meanings": [
+        {
+          "en": "eight",
+          "note": "The number 8."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ثمانية",
+              "ثمانية"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الساعة صارت ثمانية المسا.",
+          "trans": "The time became eight in the evening."
+        },
+        {
+          "text": "المحاضرة بتبدأ الساعة ثمانية ونص.",
+          "trans": "The lecture begins at eight-thirty."
         }
       ],
       "related": []
@@ -9368,21 +7134,22 @@
           "trans": "Try this food, it's very delicious."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على جربي.",
-          "trans": "And this is another long enough sentence to pass the check, with جربي."
+          "text": "جربي قطعة من الكيكة التانية مع الشاي.",
+          "trans": "Try a piece of the second cake with tea."
         }
       ],
       "related": []
     },
-    "ارفعي": {
-      "lemma": "ارفعي",
+    "حفة": {
+      "lemma": "حفة",
       "stress": null,
-      "pos": "verb",
-      "gloss": "lift, raise (feminine imperative)",
+      "pos": "noun",
+      "gloss": "edge",
+      "gender": "f",
       "meanings": [
         {
-          "en": "lift, raise (feminine imperative)",
-          "note": "Command to a female to lift something."
+          "en": "edge",
+          "note": "Used to refer to the edge of a table, cliff, or any physical boundary."
         }
       ],
       "forms": {
@@ -9396,8 +7163,8 @@
           {
             "cells": [
               "form",
-              "ارفعي",
-              "ارفعي"
+              "حفة",
+              "حفة"
             ]
           }
         ]
@@ -9405,12 +7172,343 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "ارفعي صوتك شوي.",
-          "trans": "Raise your voice a little bit."
+          "text": "دير بالك، الكاسة على حفة الطاولة.",
+          "trans": "Watch out, the cup is on the edge of the table."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على ارفعي.",
-          "trans": "And this is another long enough sentence to pass the check, with ارفعي."
+          "text": "لا تحطي الفنجان على حفة الطاولة عشان ما يوقع.",
+          "trans": "Do not set the cup on the edge of the table so it does not fall."
+        }
+      ],
+      "related": []
+    },
+    "حوالين": {
+      "lemma": "حوالين",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "around",
+      "meanings": [
+        {
+          "en": "around",
+          "note": "A very common preposition denoting physical surrounding or approximation of time/quantity."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "حوالين",
+              "حوالين"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "في ناس كثير حوالين الدوار.",
+          "trans": "There are many people around the roundabout."
+        },
+        {
+          "text": "جمعنا الكراسي حوالين الطاولة الكبيرة بالساحة.",
+          "trans": "We gathered the chairs around the big table in the courtyard."
+        }
+      ],
+      "related": []
+    },
+    "خط": {
+      "lemma": "خط",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "line",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "line",
+          "note": "Can mean a physical line, a phone line, a bus route, or handwriting."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "خط",
+              "خط"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ما في تغطية، الخط بقطع.",
+          "trans": "There is no coverage, the line is disconnecting."
+        },
+        {
+          "text": "رسمنا خط مستقيم بالمسطرة على الورقة.",
+          "trans": "We drew a straight line with the ruler on the sheet."
+        }
+      ],
+      "related": []
+    },
+    "خلت": {
+      "lemma": "خلت",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "she let",
+      "meanings": [
+        {
+          "en": "she let",
+          "note": "Form II past tense verb indicating someone (f) allowing or leaving something."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "خلت",
+              "خلت"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "خلت الباب فاتح وطلعت.",
+          "trans": "She left the door open and went out."
+        },
+        {
+          "text": "سعاد خلت الباب مفتوح عشان يطلع البخار.",
+          "trans": "Suad left the door open so the steam would get out."
+        }
+      ],
+      "related": []
+    },
+    "خلوا": {
+      "lemma": "خلوا",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "let (imp, pl)",
+      "meanings": [
+        {
+          "en": "let (imp, pl)",
+          "note": "Form II verb asking a group to let or leave something, or third-person plural past tense."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "خلوا",
+              "خلوا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "خلوا الأغراض محلها.",
+          "trans": "Leave the things in their place."
+        },
+        {
+          "text": "خلوا الكيكات تبرد على الشبكة قبل التزيين.",
+          "trans": "Let the cakes cool on the rack before decorating."
+        }
+      ],
+      "related": []
+    },
+    "خليني": {
+      "lemma": "خليني",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "let me",
+      "meanings": [
+        {
+          "en": "let me",
+          "note": "Common phrase used to ask for permission or time to do something, 'let me...'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "خليني",
+              "خليني"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "خليني أفكر بالموضوع وبردلك خبر.",
+          "trans": "Let me think about the matter and I'll get back to you."
+        },
+        {
+          "text": "خليني أشوف الرقم المرسوم تحت الشمع.",
+          "trans": "Let me look at the number drawn under the wax."
+        }
+      ],
+      "related": []
+    },
+    "خمسة": {
+      "lemma": "خمسة",
+      "stress": null,
+      "pos": "num",
+      "gloss": "five",
+      "meanings": [
+        {
+          "en": "five",
+          "note": "The number five, used in counting abstractly or before masculine counted nouns."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "خمسة",
+              "خمسة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "اشتريت خمسة كتب اليوم.",
+          "trans": "I bought five books today."
+        },
+        {
+          "text": "عندنا خمسة أبواب خشب بتطلع عالحديقة.",
+          "trans": "We have five wooden doors leading out to the garden."
+        }
+      ],
+      "related": []
+    },
+    "خيط": {
+      "lemma": "خيط",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "thread",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "thread",
+          "note": "Used literally for a sewing thread or metaphorically for a clue (kheet amal = thread of hope)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "خيط",
+              "خيط"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بدي خيط أسود عشان أخيط القميص.",
+          "trans": "I need a black thread to sew the shirt."
+        },
+        {
+          "text": "ربطنا الطرد بخيط أبيض رفيع ولزقناه.",
+          "trans": "We tied the package with thin white string and sealed it."
+        }
+      ],
+      "related": []
+    },
+    "رطوبة": {
+      "lemma": "رطوبة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "humidity / moisture",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "humidity / moisture",
+          "note": "Refers to moisture in the air or dampness in walls."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "رطوبة",
+              "رطوبة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الرطوبة عالية اليوم.",
+          "trans": "The humidity is high today."
+        },
+        {
+          "text": "الرطوبة خلت الورق القديم يتجعد شوي.",
+          "trans": "Humidity made the old paper wrinkle a little."
         }
       ],
       "related": []
@@ -9451,104 +7549,22 @@
           "trans": "Put the chair in the corner."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على زاوية.",
-          "trans": "And this is another long enough sentence to pass the check, with زاوية."
+          "text": "الصندوق محطوط بزاوية الغرفة الشمالية.",
+          "trans": "The chest is placed in the northern corner of the room."
         }
       ],
       "related": []
     },
-    "معك": {
-      "lemma": "معك",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "with you (m)",
-      "meanings": [
-        {
-          "en": "with you (m)",
-          "note": "Common preposition with second-person masculine singular suffix."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "معك",
-              "معك"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بدي أحكي معك بموضوع مهم.",
-          "trans": "I want to talk with you about an important topic."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على معك.",
-          "trans": "And this is another long enough sentence to pass the check, with معك."
-        }
-      ],
-      "related": []
-    },
-    "بالإيد": {
-      "lemma": "بالإيد",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "by hand",
-      "meanings": [
-        {
-          "en": "by hand",
-          "note": "Manually, by hand."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "بالإيد",
-              "بالإيد"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الغسيل بالإيد متعب كثير.",
-          "trans": "Washing by hand is very tiring."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على بالإيد.",
-          "trans": "And this is another long enough sentence to pass the check, with بالإيد."
-        }
-      ],
-      "related": []
-    },
-    "مليمتر": {
-      "lemma": "مليمتر",
+    "زمن": {
+      "lemma": "زمن",
       "stress": null,
       "pos": "noun",
-      "gloss": "millimeter",
+      "gloss": "time / era",
       "gender": "m",
       "meanings": [
         {
-          "en": "millimeter",
-          "note": "Standard measurement unit, borrowed into Arabic."
+          "en": "time / era",
+          "note": "Often used to mean 'a long time ago' (min zaman)."
         }
       ],
       "forms": {
@@ -9562,8 +7578,8 @@
           {
             "cells": [
               "form",
-              "مليمتر",
-              "مليمتر"
+              "زمن",
+              "زمن"
             ]
           }
         ]
@@ -9571,25 +7587,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "الفرق بس مليمتر واحد.",
-          "trans": "The difference is only one millimeter."
+          "text": "من زمان ما شفتك.",
+          "trans": "I haven't seen you in a long time."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على مليمتر.",
-          "trans": "And this is another long enough sentence to pass the check, with مليمتر."
+          "text": "من زمن طويل وهادا المخبز معروف بالعسل.",
+          "trans": "For a long time this bakery has been famous for honey."
         }
       ],
       "related": []
     },
-    "خلت": {
-      "lemma": "خلت",
+    "سنة": {
+      "lemma": "سنة",
       "stress": null,
-      "pos": "verb",
-      "gloss": "she let",
+      "pos": "noun",
+      "gloss": "year",
+      "gender": "f",
       "meanings": [
         {
-          "en": "she let",
-          "note": "Form II past tense verb indicating someone (f) allowing or leaving something."
+          "en": "year",
+          "note": "Everyday word for a year."
         }
       ],
       "forms": {
@@ -9603,8 +7620,8 @@
           {
             "cells": [
               "form",
-              "خلت",
-              "خلت"
+              "سنة",
+              "سنة"
             ]
           }
         ]
@@ -9612,12 +7629,470 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "خلت الباب فاتح وطلعت.",
-          "trans": "She left the door open and went out."
+          "text": "هالسيارة موديل السنة.",
+          "trans": "This car is this year's model."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على خلت.",
-          "trans": "And this is another long enough sentence to pass the check, with خلت."
+          "text": "مرّت سنة كاملة على آخر زيارة للمزرعة.",
+          "trans": "A whole year has passed since the last visit to the farm."
+        }
+      ],
+      "related": []
+    },
+    "شريط": {
+      "lemma": "شريط",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "tape / ribbon / pill strip",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "tape / ribbon / pill strip",
+          "note": "Can refer to adhesive tape, a ribbon, a cassette tape, or a blister pack of pills."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "شريط",
+              "شريط"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "جيبلي شريط دواء من الصيدلية.",
+          "trans": "Bring me a strip of medicine from the pharmacy."
+        },
+        {
+          "text": "لفينا الطرد بشريط قماش أزرق وربطناه.",
+          "trans": "We wrapped the parcel with a blue cloth ribbon and tied it."
+        }
+      ],
+      "related": []
+    },
+    "شمع": {
+      "lemma": "شمع",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "wax / candles",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "wax / candles",
+          "note": "Collective noun for wax or candles."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "شمع",
+              "شمع"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ذوبنا شمع عشان نعمل شكل جديد.",
+          "trans": "We melted wax to make a new shape."
+        },
+        {
+          "text": "ختموا المغلف بشمع أحمر وعليه طابع قديم.",
+          "trans": "They sealed the envelope with red wax and an old stamp."
+        }
+      ],
+      "related": []
+    },
+    "شهر": {
+      "lemma": "شهر",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "month",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "month",
+          "note": "Everyday word for a month."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "شهر",
+              "شهر"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بدي أسافر بعد شهر.",
+          "trans": "I want to travel in a month."
+        },
+        {
+          "text": "بشهر الصيف بنقطف التوت من المزرعة.",
+          "trans": "In the summer month we pick berries from the farm."
+        }
+      ],
+      "related": []
+    },
+    "شو": {
+      "lemma": "شو",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "what",
+      "meanings": [
+        {
+          "en": "what",
+          "note": "Everyday Jordanian interrogative pronoun for 'what'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "شو",
+              "شو"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "شو بتعمل هون؟",
+          "trans": "What are you doing here?"
+        },
+        {
+          "text": "شو المكون السري اللي ضفتيه عالعجينة؟",
+          "trans": "What is the secret ingredient that you added to the batter?"
+        }
+      ],
+      "related": []
+    },
+    "شوفي": {
+      "lemma": "شوفي",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "look / see",
+      "meanings": [
+        {
+          "en": "look / see",
+          "note": "Imperative verb used when telling a single female to look or see."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "شوفي",
+              "شوفي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "شوفي الفستان ما أحلاه.",
+          "trans": "Look how beautiful this dress is."
+        },
+        {
+          "text": "شوفي لون العسل الدهبي بالمرطبان.",
+          "trans": "Look at the golden colour of the honey in the jar."
+        }
+      ],
+      "related": []
+    },
+    "على": {
+      "lemma": "على",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "on / upon",
+      "meanings": [
+        {
+          "en": "on / upon",
+          "note": "Standard preposition for 'on', 'upon', or 'to'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "على",
+              "على"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الكتاب على الطاولة.",
+          "trans": "The book is on the table."
+        },
+        {
+          "text": "حطينا الخريطة على الطاولة وبلشنا نحللها.",
+          "trans": "We laid the map on the table and began analysing it."
+        }
+      ],
+      "related": []
+    },
+    "عمتي": {
+      "lemma": "عمتي",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "my paternal aunt",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "my paternal aunt",
+          "note": "Aunt on the father's side."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عمتي",
+              "عمتي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "عمتي رح تزورنا اليوم.",
+          "trans": "My paternal aunt is going to visit us today."
+        },
+        {
+          "text": "عمتي دايما بتحط برش ليمون جوا العجين.",
+          "trans": "My paternal aunt always puts lemon zest into the batter."
+        }
+      ],
+      "related": []
+    },
+    "عمره": {
+      "lemma": "عمره",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "his age / he has ever",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "his age / he has ever",
+          "note": "Idiomatically used for 'he has ever' or 'in his life'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عمره",
+              "عمره"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "عمره ما كذب علي.",
+          "trans": "He has never lied to me in his life."
+        },
+        {
+          "text": "هادا الدفتر عمره أكتر من خمسين سنة.",
+          "trans": "This notebook is more than fifty years old."
+        }
+      ],
+      "related": []
+    },
+    "عنجد": {
+      "lemma": "عنجد",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "really / seriously",
+      "meanings": [
+        {
+          "en": "really / seriously",
+          "note": "Extremely common expression for 'really?' or 'seriously'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عنجد",
+              "عنجد"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "عنجد بتحكي ولا بتمزح؟",
+          "trans": "Are you speaking seriously or joking?"
+        },
+        {
+          "text": "عنجد لقيتوا الختم اللي كنا ندور عليه؟",
+          "trans": "Did you really find the seal we were looking for?"
+        }
+      ],
+      "related": []
+    },
+    "عيلتي": {
+      "lemma": "عيلتي",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "my family",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "my family",
+          "note": "A common way to say 'my family', referring to the immediate or extended family unit."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عيلتي",
+              "عيلتي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "عيلتي ساكنة بعمان.",
+          "trans": "My family lives in Amman."
+        },
+        {
+          "text": "عيلتي بتحب تتجمع بالحديقة يوم الجمعة.",
+          "trans": "My family likes to gather in the garden on Friday."
+        }
+      ],
+      "related": []
+    },
+    "غرفة": {
+      "lemma": "غرفة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "room",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "room",
+          "note": "Everyday Jordanian word for a room in a house or building."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "غرفة",
+              "غرفة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "غرفة النوم واسعة كثير.",
+          "trans": "The bedroom is very spacious."
+        },
+        {
+          "text": "غرفة المكتبة هادية ومليانة كتب خرائط.",
+          "trans": "The library room is quiet and full of atlases."
         }
       ],
       "related": []
@@ -9658,49 +8133,8 @@
           "trans": "Where is the pot's lid?"
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على غطا.",
-          "trans": "And this is another long enough sentence to pass the check, with غطا."
-        }
-      ],
-      "related": []
-    },
-    "محكم": {
-      "lemma": "محكم",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "tight / sealed",
-      "meanings": [
-        {
-          "en": "tight / sealed",
-          "note": "Used to describe something securely fastened, well-constructed, or sealed tightly."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "محكم",
-              "محكم"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الغطاء محكم الإغلاق.",
-          "trans": "The lid is tightly sealed."
-        },
-        {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على محكم.",
-          "trans": "And this is another long enough sentence to pass the check, with محكم."
+          "text": "رفعنا غطا الصندوق وشوفنا شو جواه.",
+          "trans": "We lifted the lid of the box and looked at what was inside."
         }
       ],
       "related": []
@@ -9741,21 +8175,21 @@
           "trans": "My oven is broken and I need to fix it."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على فرني.",
-          "trans": "And this is another long enough sentence to pass the check, with فرني."
+          "text": "فرني بسخن بسرعة وبخبز الكيكة بانتظام.",
+          "trans": "My oven heats up quickly and bakes the cake evenly."
         }
       ],
       "related": []
     },
-    "أشوفكم": {
-      "lemma": "أشوفكم",
+    "فكي": {
+      "lemma": "فكي",
       "stress": null,
       "pos": "verb",
-      "gloss": "see you (pl.)",
+      "gloss": "untie / detach (imperative f.)",
       "meanings": [
         {
-          "en": "see you (pl.)",
-          "note": "Everyday Jordanian word for seeing a group of people."
+          "en": "untie / detach (imperative f.)",
+          "note": "Imperative verb directed at a female, commanding her to untie, loosen, or take apart something."
         }
       ],
       "forms": {
@@ -9769,8 +8203,8 @@
           {
             "cells": [
               "form",
-              "أشوفكم",
-              "أشوفكم"
+              "فكي",
+              "فكي"
             ]
           }
         ]
@@ -9778,12 +8212,176 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "أشوفكم بكرة في المدرسة.",
-          "trans": "I will see you tomorrow at school."
+          "text": "فكي العقدة شوي شوي.",
+          "trans": "Untie the knot slowly."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على أشوفكم.",
-          "trans": "And this is another long enough sentence to pass the check, with أشوفكم."
+          "text": "فكي الربطة اللي عالطرد بهدوء بدون ما تقطعيها.",
+          "trans": "Untie (f.) the knot on the parcel gently without cutting it."
+        }
+      ],
+      "related": []
+    },
+    "فوق": {
+      "lemma": "فوق",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "above / up",
+      "meanings": [
+        {
+          "en": "above / up",
+          "note": "Used as a preposition or adverb meaning 'above', 'over', or 'upstairs'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "فوق",
+              "فوق"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الكتاب فوق الطاولة.",
+          "trans": "The book is on top of the table."
+        },
+        {
+          "text": "الخريطة معلقة فوق الرف الخشبي بالمكتبة.",
+          "trans": "The map is hanging above the wooden shelf in the library."
+        }
+      ],
+      "related": []
+    },
+    "في": {
+      "lemma": "في",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "in / at / there is",
+      "meanings": [
+        {
+          "en": "in / at / there is",
+          "note": "Preposition for 'in' or 'at', and very commonly used to mean 'there is/are' (existential)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "في",
+              "في"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "في ناس كثير بالسوق.",
+          "trans": "There are many people in the market."
+        },
+        {
+          "text": "في تلات بطاقات ملونة جوا الظرف الكبير.",
+          "trans": "There are three coloured cards inside the big envelope."
+        }
+      ],
+      "related": []
+    },
+    "فيه": {
+      "lemma": "فيه",
+      "stress": null,
+      "pos": "phrase",
+      "gloss": "in it (m) / there is",
+      "meanings": [
+        {
+          "en": "in it (m) / there is",
+          "note": "Preposition 'fī' with 3rd person masculine pronoun suffix, often pronounced identically to 'fī' meaning 'there is'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "فيه",
+              "فيه"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الصندوق فيه غراض كثير.",
+          "trans": "The box has many things in it."
+        },
+        {
+          "text": "الدرج التاني فيه دفتر صغير عليه خريطة مطوية.",
+          "trans": "The second drawer has a small notebook in it with a folded map."
+        }
+      ],
+      "related": []
+    },
+    "فيها": {
+      "lemma": "فيها",
+      "stress": null,
+      "pos": "phrase",
+      "gloss": "in it (f)",
+      "meanings": [
+        {
+          "en": "in it (f)",
+          "note": "Preposition 'fī' with 3rd person feminine pronoun suffix."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "فيها",
+              "فيها"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "السيارة مريحة بس ما فيها مكيف.",
+          "trans": "The car is comfortable but doesn't have AC in it."
+        },
+        {
+          "text": "العلبة الزرقا فيها ثلاث بطاقات وختم شمع.",
+          "trans": "The blue tin has three cards and a wax seal inside it."
         }
       ],
       "related": []
@@ -9823,8 +8421,1410 @@
           "trans": "I will arrive very soon."
         },
         {
-          "text": "وهذه جملة أخرى طويلة بما يكفي لاجتياز الفحص وتحتوي على قريب.",
-          "trans": "And this is another long enough sentence to pass the check, with قريب."
+          "text": "سلمى رح ترجع قريب ومعها مرطبان العسل الجبلي.",
+          "trans": "Salma will be back soon bringing the jar of mountain honey."
+        }
+      ],
+      "related": []
+    },
+    "كانت": {
+      "lemma": "كانت",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "she was / it (f) was",
+      "meanings": [
+        {
+          "en": "she was / it (f) was",
+          "note": "Past tense of 'to be' for 3rd person feminine singular."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "كانت",
+              "كانت"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "السيارة كانت خربانة.",
+          "trans": "The car was broken."
+        },
+        {
+          "text": "الورقة كانت مطوية جوا غلاف الدفتر الجلد.",
+          "trans": "The sheet was folded inside the leather notebook cover."
+        }
+      ],
+      "related": []
+    },
+    "كبسولة": {
+      "lemma": "كبسولة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "capsule",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "capsule",
+          "note": "Refers to a pill in medical contexts or sometimes a coffee capsule."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "كبسولة",
+              "كبسولة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "لازم توخذ كبسولة وحدة كل يوم.",
+          "trans": "You must take one capsule every day."
+        },
+        {
+          "text": "البذور الصغيرة محفوظة جوا كبسولة شفافة عشان الرطوبة.",
+          "trans": "The tiny seeds are preserved inside a clear capsule against humidity."
+        }
+      ],
+      "related": []
+    },
+    "كلمات": {
+      "lemma": "كلمات",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "words",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "words",
+          "note": "Plural of word (kilma). Used in everyday contexts and formal situations."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "كلمات",
+              "كلمات"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "هالأغنية فيها كلمات حلوة.",
+          "trans": "This song has nice words (lyrics)."
+        },
+        {
+          "text": "الكلمات المكتوبة عالغلاف انمسحت شوي من المي.",
+          "trans": "The words written on the cover faded slightly from the water."
+        }
+      ],
+      "related": []
+    },
+    "لا": {
+      "lemma": "لا",
+      "stress": null,
+      "pos": "part",
+      "gloss": "no",
+      "meanings": [
+        {
+          "en": "no",
+          "note": "Everyday Jordanian word for 'no' or 'not', used exactly like Standard Arabic."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "لا",
+              "لا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "لا، ما بدي أروح اليوم.",
+          "trans": "No, I don't want to go today."
+        },
+        {
+          "text": "لا تنسوا تطفيوا الفرن بعد ما تخلصوا الخبيز.",
+          "trans": "Do not forget to turn off the oven after you finish baking."
+        }
+      ],
+      "related": []
+    },
+    "لجوا": {
+      "lemma": "لجوا",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "inside",
+      "meanings": [
+        {
+          "en": "inside",
+          "note": "Directional phrase indicating movement into the interior of a place or object."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "لجوا",
+              "لجوا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "فوت لجوا، الدنيا برد برا.",
+          "trans": "Go inside, it's cold outside."
+        },
+        {
+          "text": "فوتوا لجوا قبل ما تبرد القهوة عالبلكونة.",
+          "trans": "Come inside before the coffee gets cold on the balcony."
+        }
+      ],
+      "related": []
+    },
+    "لصبح": {
+      "lemma": "لصبح",
+      "stress": null,
+      "pos": "phrase",
+      "gloss": "until morning",
+      "meanings": [
+        {
+          "en": "until morning",
+          "note": "Usually used in exaggerations to mean staying up very late or doing something all night."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "لصبح",
+              "لصبح"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ضلينا سهرانين لصبح.",
+          "trans": "We stayed up until morning."
+        },
+        {
+          "text": "ضلينا نقرأ بالخرايط لصبح اليوم التاني.",
+          "trans": "We kept reading the maps until the next morning."
+        }
+      ],
+      "related": []
+    },
+    "لغرفة": {
+      "lemma": "لغرفة",
+      "stress": null,
+      "pos": "phrase",
+      "gloss": "to a room",
+      "meanings": [
+        {
+          "en": "to a room",
+          "note": "Prepositional phrase denoting direction towards a particular but usually indefinite room."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "لغرفة",
+              "لغرفة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "نقلوا المريض لغرفة تانية.",
+          "trans": "They moved the patient to another room."
+        },
+        {
+          "text": "نقلنا العلبة لغرفة الضيوف عشان التذوق.",
+          "trans": "We moved the tin to the guest room for the tasting."
+        }
+      ],
+      "related": []
+    },
+    "للأسبوع": {
+      "lemma": "للأسبوع",
+      "stress": null,
+      "pos": "phrase",
+      "gloss": "for the week",
+      "meanings": [
+        {
+          "en": "for the week",
+          "note": "Used to specify a duration or an assignment belonging to the week."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "للأسبوع",
+              "للأسبوع"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "هاد المصروف للأسبوع كله.",
+          "trans": "This is the allowance for the whole week."
+        },
+        {
+          "text": "رتبنا جدول التذوق للأسبوع كله عاللوح.",
+          "trans": "We arranged the tasting schedule for the whole week on the board."
+        }
+      ],
+      "related": []
+    },
+    "لورا": {
+      "lemma": "لورا",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "backwards",
+      "meanings": [
+        {
+          "en": "backwards",
+          "note": "Indicates movement or position towards the rear or back direction."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "لورا",
+              "لورا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ارجع لورا شوي عشان تمرق السيارة.",
+          "trans": "Go back a bit so the car can pass."
+        },
+        {
+          "text": "ارجعوا خطوتين لورا عشان تشوفوا النقش اللي فوق القوس.",
+          "trans": "Step two paces backwards so you can see the carving above the arch."
+        }
+      ],
+      "related": []
+    },
+    "محكم": {
+      "lemma": "محكم",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "tight / sealed",
+      "meanings": [
+        {
+          "en": "tight / sealed",
+          "note": "Used to describe something securely fastened, well-constructed, or sealed tightly."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "محكم",
+              "محكم"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الغطاء محكم الإغلاق.",
+          "trans": "The lid is tightly sealed."
+        },
+        {
+          "text": "غطا العلبة محكم الإغلاق عشان يحفظ النكهة.",
+          "trans": "The lid of the tin is tightly sealed to preserve the flavour."
+        }
+      ],
+      "related": []
+    },
+    "مرة": {
+      "lemma": "مرة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "time / once / woman",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "time / once / woman",
+          "note": "'Marrah' means 'a time/once' (e.g. waḥdeh marrah = one time), but 'mara' (مَرَة) means 'woman/wife' in colloquial Jordanian."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "مرة",
+              "مرة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "رحت على البترا مرة وحدة.",
+          "trans": "I went to Petra one time."
+        },
+        {
+          "text": "جربنا الوصفة مرة تانية بس بخففنا السكر شوي.",
+          "trans": "We tried the recipe one more time, though we reduced the sugar slightly."
+        }
+      ],
+      "related": []
+    },
+    "مشمس": {
+      "lemma": "مشمس",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "sunny",
+      "meanings": [
+        {
+          "en": "sunny",
+          "note": "Describes weather or a place receiving plenty of sunlight."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "مشمس",
+              "مشمس"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الجو مشمس وحلو اليوم.",
+          "trans": "The weather is sunny and nice today."
+        },
+        {
+          "text": "الصبح كان مشمس ودافي عشان نقعد بالساحة.",
+          "trans": "The morning was sunny and warm enough for us to sit in the courtyard."
+        }
+      ],
+      "related": []
+    },
+    "معك": {
+      "lemma": "معك",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "with you (m)",
+      "meanings": [
+        {
+          "en": "with you (m)",
+          "note": "Common preposition with second-person masculine singular suffix."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "معك",
+              "معك"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بدي أحكي معك بموضوع مهم.",
+          "trans": "I want to talk with you about an important topic."
+        },
+        {
+          "text": "جبت البوصلة معك عشان نحدد اتجاه الشمال؟",
+          "trans": "Did you bring the compass with you so we can find north?"
+        }
+      ],
+      "related": []
+    },
+    "مكتوب": {
+      "lemma": "مكتوب",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "written / letter",
+      "meanings": [
+        {
+          "en": "written / letter",
+          "note": "Often used as a noun meaning 'letter' (mail) or 'destiny' in traditional contexts."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "مكتوب",
+              "مكتوب"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الاسم مكتوب على اللوحة.",
+          "trans": "The name is written on the board."
+        },
+        {
+          "text": "الرقم مكتوب بخط صغير تحت الختم الأحمر.",
+          "trans": "The number is written in small handwriting beneath the red seal."
+        }
+      ],
+      "related": []
+    },
+    "مكتوبة": {
+      "lemma": "مكتوبة",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "written (f)",
+      "meanings": [
+        {
+          "en": "written (f)",
+          "note": "Feminine form of maktub, used as an adjective for feminine nouns."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "مكتوبة",
+              "مكتوبة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الرسالة مكتوبة بخط حلو.",
+          "trans": "The message is written in nice handwriting."
+        },
+        {
+          "text": "الوصفة الأصلية مكتوبة على ضهر كرت التذوق.",
+          "trans": "The original recipe is written on the back of the tasting card."
+        }
+      ],
+      "related": []
+    },
+    "مليمتر": {
+      "lemma": "مليمتر",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "millimeter",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "millimeter",
+          "note": "Standard measurement unit, borrowed into Arabic."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "مليمتر",
+              "مليمتر"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الفرق بس مليمتر واحد.",
+          "trans": "The difference is only one millimeter."
+        },
+        {
+          "text": "قاس المسافة بالمسطرة بدقة مليمتر واحد.",
+          "trans": "He measured the distance with the ruler to within a single millimetre."
+        }
+      ],
+      "related": []
+    },
+    "ممكن": {
+      "lemma": "ممكن",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "possible / maybe",
+      "meanings": [
+        {
+          "en": "possible / maybe",
+          "note": "Used to ask for permission 'is it possible?' or to say 'perhaps'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ممكن",
+              "ممكن"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ممكن تعطيني القلم؟",
+          "trans": "Is it possible for you to give me the pen?"
+        },
+        {
+          "text": "ممكن تعطينا الورقة التانية عشان نقارن الأرقام؟",
+          "trans": "Could you hand us the second sheet so we can compare the numbers?"
+        }
+      ],
+      "related": []
+    },
+    "من": {
+      "lemma": "من",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "from",
+      "meanings": [
+        {
+          "en": "from",
+          "note": "One of the most basic Arabic prepositions indicating origin."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "من",
+              "من"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أنا من الأردن.",
+          "trans": "I am from Jordan."
+        },
+        {
+          "text": "جبنا العسل البلدي الصافي من مزرعة قريبة.",
+          "trans": "We brought the pure local honey from a nearby farm."
+        }
+      ],
+      "related": []
+    },
+    "نزلي": {
+      "lemma": "نزلي",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "bring down / lower (f)",
+      "meanings": [
+        {
+          "en": "bring down / lower (f)",
+          "note": "Imperative addressed to a female to take something down, drop off, or lower a price."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "نزلي",
+              "نزلي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "نزلي الكيس على الأرض.",
+          "trans": "Put the bag down on the floor."
+        },
+        {
+          "text": "نزلي الصواني من الرف وحطيهم عالطاولة الكبيرة.",
+          "trans": "Bring (f.) the trays down from the shelf and put them on the big table."
+        }
+      ],
+      "related": []
+    },
+    "نظاراتي": {
+      "lemma": "نظاراتي",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "my glasses",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "my glasses",
+          "note": "Plural noun with first person singular suffix."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "نظاراتي",
+              "نظاراتي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "نظاراتي انكسروا امبارح.",
+          "trans": "My glasses broke yesterday."
+        },
+        {
+          "text": "نسيت نظاراتي جنب الفنجان بالبلكونة.",
+          "trans": "I forgot my glasses next to the cup on the balcony."
+        }
+      ],
+      "related": []
+    },
+    "نقطة": {
+      "lemma": "نقطة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "point / drop",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "point / drop",
+          "note": "Can refer to a physical dot, a score point, or a drop of liquid."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "نقطة",
+              "نقطة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بدي نقطة مي بس.",
+          "trans": "I just want a drop of water."
+        },
+        {
+          "text": "التقت الخطوط كلها عند نقطة واحدة بالزاوية الشمالية.",
+          "trans": "All the lines met at a single point in the northern corner."
+        }
+      ],
+      "related": []
+    },
+    "هالألوان": {
+      "lemma": "هالألوان",
+      "stress": null,
+      "pos": "phrase",
+      "gloss": "these colors",
+      "meanings": [
+        {
+          "en": "these colors",
+          "note": "Combination of demonstrative prefix and plural noun."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "هالألوان",
+              "هالألوان"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ما أحلى هالألوان مع بعض.",
+          "trans": "How beautiful these colors are together."
+        },
+        {
+          "text": "من وين جبت هالألوان الزيتية اللي بترسم فيها؟",
+          "trans": "Where did you get these oil paints you're painting with?"
+        }
+      ],
+      "related": []
+    },
+    "هالعلبة": {
+      "lemma": "هالعلبة",
+      "stress": null,
+      "pos": "phrase",
+      "gloss": "this box / packet",
+      "meanings": [
+        {
+          "en": "this box / packet",
+          "note": "Refers to a container or can."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "هالعلبة",
+              "هالعلبة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "افتح هالعلبة وخذ منها بسكوت.",
+          "trans": "Open this box and take some biscuits from it."
+        },
+        {
+          "text": "حط المسامير جوا هالعلبة الحديد عشان ما يضيعوا.",
+          "trans": "Put the nails inside this metal tin so they don't get lost."
+        }
+      ],
+      "related": []
+    },
+    "هذي": {
+      "lemma": "هذي",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "this (f)",
+      "meanings": [
+        {
+          "en": "this (f)",
+          "note": "Feminine demonstrative used more in formal speech or by older/Bedouin speakers."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "هذي",
+              "هذي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "هذي السيارة جديدة.",
+          "trans": "This car is new."
+        },
+        {
+          "text": "هذي القهوة العربية محمصة على الطريقة البدوية.",
+          "trans": "This Arabic coffee is roasted in the Bedouin style."
+        }
+      ],
+      "related": []
+    },
+    "هون": {
+      "lemma": "هون",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "here",
+      "meanings": [
+        {
+          "en": "here",
+          "note": "Standard adverb for physical location."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "هون",
+              "هون"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "حط الأغراض هون لو سمحت.",
+          "trans": "Put the things here, please."
+        },
+        {
+          "text": "الجو هون بالجبل أبرد بكثير من وسط البلد.",
+          "trans": "The weather up here on the hill is much cooler than downtown."
+        }
+      ],
+      "related": []
+    },
+    "هيهم": {
+      "lemma": "هيهم",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "here they are",
+      "meanings": [
+        {
+          "en": "here they are",
+          "note": "Presentative pronoun used to point out a group of people or objects."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "هيهم",
+              "هيهم"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "وين الولاد؟ هيهم بيلعبوا برا.",
+          "trans": "Where are the kids? Here they are playing outside."
+        },
+        {
+          "text": "طلبت مفاتيحي وهيهم محطوطين على الرف عند الباب.",
+          "trans": "You asked for my keys—here they are sitting on the shelf by the door."
+        }
+      ],
+      "related": []
+    },
+    "واجهة": {
+      "lemma": "واجهة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "facade / interface",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "facade / interface",
+          "note": "Refers to the front of a building or a digital interface."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "واجهة",
+              "واجهة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "واجهة العمارة مبنية من الحجر.",
+          "trans": "The building's facade is built of stone."
+        },
+        {
+          "text": "المصمم غير شكل واجهة التطبيق بالكامل.",
+          "trans": "The designer changed the look of the app's interface completely."
+        }
+      ],
+      "related": []
+    },
+    "واطوي": {
+      "lemma": "واطوي",
+      "stress": null,
+      "pos": "phrase",
+      "gloss": "and fold",
+      "meanings": [
+        {
+          "en": "and fold",
+          "note": "Command used for folding clothes or paper."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "واطوي",
+              "واطوي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "غسلي الأواعي واطوي الملابس.",
+          "trans": "Wash the clothes and fold the garments."
+        },
+        {
+          "text": "لمي الغسيل عن الحبل واطوي كل قطعة لحالها.",
+          "trans": "Gather the laundry off the line and fold each piece separately."
+        }
+      ],
+      "related": []
+    },
+    "والذهبية": {
+      "lemma": "والذهبية",
+      "stress": null,
+      "pos": "phrase",
+      "gloss": "and the golden (f)",
+      "meanings": [
+        {
+          "en": "and the golden (f)",
+          "note": "Refers to something feminine colored gold."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "والذهبية",
+              "والذهبية"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أخذت الميدالية الفضية والذهبية.",
+          "trans": "I took the silver and the golden medal."
+        },
+        {
+          "text": "الفريق فاز بالبطولة والميدالية الذهبية آخر السنة.",
+          "trans": "The team won the championship and the gold medal at the end of the year."
+        }
+      ],
+      "related": []
+    },
+    "وصلت": {
+      "lemma": "وصلت",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "she arrived",
+      "meanings": [
+        {
+          "en": "she arrived",
+          "note": "Depending on context, it can mean 'she arrived' or 'I arrived'. Most commonly 'she arrived' with 'wislet'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "وصلت",
+              "وصلت"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "هي وصلت على الوقت.",
+          "trans": "She arrived on time."
+        },
+        {
+          "text": "الحمد لله، وصلت الطيارة مطار الملكة علياء بالسلامة.",
+          "trans": "Thank goodness, the plane arrived safely at Queen Alia Airport."
+        }
+      ],
+      "related": []
+    },
+    "وغرفة": {
+      "lemma": "وغرفة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "and a room",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "and a room",
+          "note": "Common noun for room, prefixed with 'and'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "وغرفة",
+              "وغرفة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "البيت فيه صالة وغرفة نوم.",
+          "trans": "The house has a living room and a bedroom."
+        },
+        {
+          "text": "الشقة فيها مطبخ كبير وغرفة ضيوف بتطل عالشارع.",
+          "trans": "The apartment has a large kitchen and a guest room overlooking the street."
+        }
+      ],
+      "related": []
+    },
+    "ولا": {
+      "lemma": "ولا",
+      "stress": null,
+      "pos": "conj",
+      "gloss": "neither / nor / or / not even",
+      "meanings": [
+        {
+          "en": "neither / nor / or / not even",
+          "note": "Used in negative constructions or as a strong negative emphasis."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ولا",
+              "ولا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ولا واحد فيهم إجا.",
+          "trans": "Not even one of them came."
+        },
+        {
+          "text": "سألت الكل بس ولا حدا بيعرف وين حطوا المفتاح.",
+          "trans": "I asked everyone, yet not a single person knows where they put the key."
+        }
+      ],
+      "related": []
+    },
+    "يا": {
+      "lemma": "يا",
+      "stress": null,
+      "pos": "part",
+      "gloss": "oh / vocative particle",
+      "meanings": [
+        {
+          "en": "oh / vocative particle",
+          "note": "Vocative particle used when addressing someone directly."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "يا",
+              "يا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "يا أحمد، تعال هون.",
+          "trans": "Oh Ahmed, come here."
+        },
+        {
+          "text": "يا سيدي، تفضل اشرب معنا فنجان قهوة قبل ما تروح.",
+          "trans": "Sir, please come have a cup of coffee with us before you leave."
+        }
+      ],
+      "related": []
+    },
+    "ينقطع": {
+      "lemma": "ينقطع",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "it gets cut off / interrupted",
+      "meanings": [
+        {
+          "en": "it gets cut off / interrupted",
+          "note": "Passive/Reflexive verb often used for electricity or water being cut off."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ينقطع",
+              "ينقطع"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ممكن ينقطع الكهربا اليوم.",
+          "trans": "The electricity might get cut off today."
+        },
+        {
+          "text": "خايفين ينقطع الإنترنت بنص المكالمة المهمة.",
+          "trans": "We're worried the internet might cut out in the middle of the important call."
         }
       ],
       "related": []

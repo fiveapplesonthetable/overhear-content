@@ -501,7 +501,7 @@
           "reading": "ashaan",
           "lemma": "عشان",
           "stress": null,
-          "pos": "prep",
+          "pos": "conj",
           "gloss": "to / in order to",
           "gram": "purpose conjunction/prep"
         },
@@ -747,7 +747,7 @@
           "reading": "fi",
           "lemma": "في",
           "stress": null,
-          "pos": "part",
+          "pos": "prep",
           "gloss": "there (existential)",
           "gram": "existential particle"
         },
@@ -1406,7 +1406,7 @@
             42
           ],
           "reading": "ilkum",
-          "lemma": "لـ",
+          "lemma": "ل",
           "stress": null,
           "pos": "prep",
           "gloss": "for you (pl.)",
@@ -2211,7 +2211,7 @@
           "reading": "ashaan",
           "lemma": "عشان",
           "stress": null,
-          "pos": "prep",
+          "pos": "conj",
           "gloss": "to / in order to",
           "gram": "purpose conjunction/prep"
         },
@@ -2457,7 +2457,7 @@
           "reading": "fi",
           "lemma": "في",
           "stress": null,
-          "pos": "part",
+          "pos": "prep",
           "gloss": "there (existential)",
           "gram": "existential particle"
         },
@@ -3116,7 +3116,7 @@
             42
           ],
           "reading": "ilkum",
-          "lemma": "لـ",
+          "lemma": "ل",
           "stress": null,
           "pos": "prep",
           "gloss": "for you (pl.)",
@@ -3921,7 +3921,7 @@
           "reading": "ashaan",
           "lemma": "عشان",
           "stress": null,
-          "pos": "prep",
+          "pos": "conj",
           "gloss": "to / in order to",
           "gram": "purpose conjunction/prep"
         },
@@ -4167,7 +4167,7 @@
           "reading": "fi",
           "lemma": "في",
           "stress": null,
-          "pos": "part",
+          "pos": "prep",
           "gloss": "there (existential)",
           "gram": "existential particle"
         },
@@ -4826,7 +4826,7 @@
             42
           ],
           "reading": "ilkum",
-          "lemma": "لـ",
+          "lemma": "ل",
           "stress": null,
           "pos": "prep",
           "gloss": "for you (pl.)",
@@ -5166,217 +5166,47 @@
     }
   ],
   "lexicon": {
-    "لفافة": {
-      "lemma": "لفافة",
+    "أبد": {
+      "lemma": "أبد",
       "stress": null,
-      "pos": "noun",
-      "gloss": "rolls of",
-      "gender": "m",
+      "pos": "adv",
+      "gloss": "for good / forever",
       "meanings": [
         {
-          "en": "rolls of",
-          "note": "Plural of لفافة ('roll/scroll'), used in bakeries for cinnamon rolls."
+          "en": "for good / forever",
+          "note": "Classic Arabic phrase meaning 'forever' or 'for good'."
         }
       ],
       "moreForms": [],
       "examples": [
         {
-          "text": "استعملنا كلمة لفافة.",
-          "trans": "We used the word لفافة."
+          "text": "رح نضل صحاب للأبد مهما صار.",
+          "trans": "We will stay friends forever no matter what happens."
         },
         {
-          "text": "هادي لفافة تانية.",
-          "trans": "This is another لفافة."
+          "text": "هادي الذكرى رح تبقى بقلبي على طول الأبد.",
+          "trans": "This memory will stay in my heart for all eternity."
         }
       ],
       "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "لفافة",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "قرفة": {
-      "lemma": "قرفة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "cinnamon",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "cinnamon",
-          "note": "Everyday Jordanian feminine noun."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "قرفة",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ريحة القرفة الدافية ملت المطبخ.",
-          "trans": "The warm scent of cinnamon filled the kitchen."
-        },
-        {
-          "text": "أكلنا لفة قرفة مع الشاي.",
-          "trans": "We ate a cinnamon roll with tea."
-        }
-      ],
-      "related": []
-    },
-    "دافي": {
-      "lemma": "دافي",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "warm; cozy",
-      "meanings": [
-        {
-          "en": "warm; cozy",
-          "note": "Everyday Jordanian adjective (feminine: دافية, plural: دافيين)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "دافي",
-              "دافية",
-              "دافيين"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الخبز دافي وطازج من الفرن.",
-          "trans": "The bread is warm and fresh from the oven."
-        },
-        {
-          "text": "القعدة بالعلية دافية وقت المطر.",
-          "trans": "Sitting in the attic is cozy when it rains."
-        }
-      ],
-      "related": []
-    },
-    "هدية": {
-      "lemma": "هدية",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "a gift",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "a gift",
-          "note": "Standard Arabic word for 'gift' or 'present'."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة هدية.",
-          "trans": "We used the word هدية."
-        },
-        {
-          "text": "هادي هدية تانية.",
-          "trans": "This is another هدية."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "هدية",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "من": {
-      "lemma": "من",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "from; of; than",
-      "meanings": [
-        {
-          "en": "from; of; than",
-          "note": "Everyday preposition meaning 'from', 'of', or 'than' after comparatives."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "أنا سلمى من المطبخ.",
-          "trans": "I am Salma from the kitchen."
-        },
-        {
-          "text": "الفطور من السبعة ونص للعشرة.",
-          "trans": "Breakfast is from seven-thirty to ten."
-        }
-      ],
-      "related": []
+      "forms": null
     },
     "أحسن": {
       "lemma": "أحسن",
       "stress": null,
       "pos": "adj",
-      "gloss": "better; best",
+      "gloss": "better, best",
       "meanings": [
         {
-          "en": "better; best",
-          "note": "Invariant comparative/superlative of منيح ('good'). Before a noun without ال- it means 'the best' (أحسن نومة 'the best sleep')."
+          "en": "better, best",
+          "note": "Elative form of حسن (hasan), used for comparison."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -5384,8 +5214,7 @@
             "cells": [
               "form",
               "أحسن",
-              "—",
-              "—"
+              "أحسن"
             ]
           }
         ]
@@ -5403,27 +5232,372 @@
       ],
       "related": []
     },
-    "فريق": {
-      "lemma": "فريق",
+    "أخ": {
+      "lemma": "أخ",
       "stress": null,
       "pos": "noun",
-      "gloss": "crew / team of",
+      "gloss": "brother",
       "gender": "m",
       "meanings": [
         {
-          "en": "crew / team of",
-          "note": "Masculine Arabic noun for a team or crew."
+          "en": "brother",
+          "note": "Takes a long -uu-/-oo- stem with possessive endings in Jordanian (أخوي my brother, أخوك your brother); dual أخوين."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أخ",
+              "إخوان"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أخوي الكبير ساكن بعمان.",
+          "trans": "My older brother lives in Amman."
+        },
+        {
+          "text": "الإخوان قعدوا سوا بالساحة.",
+          "trans": "The brothers sat together in the courtyard."
+        }
+      ],
+      "related": [
+        {
+          "word": "عيلة",
+          "gloss": "family"
+        }
+      ]
+    },
+    "أربعة": {
+      "lemma": "أربعة",
+      "stress": null,
+      "pos": "num",
+      "gloss": "four (masculine)",
+      "meanings": [
+        {
+          "en": "four (masculine)",
+          "note": "The number four, used with masculine nouns."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أربعة",
+              "أربعة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "غرفة أربعة جاية اليوم.",
+          "trans": "Room four is arriving today."
+        },
+        {
+          "text": "أربع طاولات وتمن كراسي بالساحة.",
+          "trans": "Four tables and eight chairs in the courtyard."
+        }
+      ],
+      "related": []
+    },
+    "أرضي": {
+      "lemma": "أرضي",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "ground-floor",
+      "meanings": [
+        {
+          "en": "ground-floor",
+          "note": "Everyday Jordanian adjective (feminine: أرضية, plural: أرضيين)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أرضي",
+              "أرضية",
+              "أرضيين"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "المطبخ بالطابق الأرضي.",
+          "trans": "The kitchen is on the ground floor."
+        },
+        {
+          "text": "الغرف الأرضية قريبة من الساحة.",
+          "trans": "The ground-floor rooms are close to the courtyard."
+        }
+      ],
+      "related": []
+    },
+    "أزرق": {
+      "lemma": "أزرق",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "blue",
+      "meanings": [
+        {
+          "en": "blue",
+          "note": "The color blue."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أزرق",
+              "أزرق"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الشنتة الزرقا بخزانة الأمانات.",
+          "trans": "The blue suitcase is in the luggage closet."
+        },
+        {
+          "text": "عندي فنجانين شاي زرق.",
+          "trans": "I have two blue teacups."
+        }
+      ],
+      "related": []
+    },
+    "أسبوع": {
+      "lemma": "أسبوع",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "week",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "week",
+          "note": "Everyday Jordanian masculine noun. Plural: أسابيع."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أسبوع",
+              "أسابيع"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الأسبوع الجاي عندي إجازة.",
+          "trans": "Next week I have time off."
+        },
+        {
+          "text": "قعدنا بالنزل كل الأسبوع.",
+          "trans": "We stayed at the guesthouse all week."
+        }
+      ],
+      "related": []
+    },
+    "أنا": {
+      "lemma": "أنا",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "I",
+      "meanings": [
+        {
+          "en": "I",
+          "note": "First person singular pronoun."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أنا",
+              "أنا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أنا نور، موظفة الاستقبال الجديدة.",
+          "trans": "I am Nour, the new receptionist."
+        },
+        {
+          "text": "أنا سلمى من المطبخ.",
+          "trans": "I am Salma from the kitchen."
+        }
+      ],
+      "related": []
+    },
+    "إن": {
+      "lemma": "إن",
+      "stress": null,
+      "pos": "conj",
+      "gloss": "that; if",
+      "meanings": [
+        {
+          "en": "that; if",
+          "note": "Introduces 'that'-clauses with pronoun suffixes (إنه 'that', إني 'that I', إنك 'that you', إنها 'that she/it') and appears in إن شاء الله ('if God wills')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "شكرا إنك إجيت اليوم.",
+          "trans": "Thank you for coming today."
+        },
+        {
+          "text": "مفكرين إني مفتش فنادق؟",
+          "trans": "Do you think that I am a hotel inspector?"
+        }
+      ],
+      "related": []
+    },
+    "إنت": {
+      "lemma": "إنت",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "you (masculine singular)",
+      "meanings": [
+        {
+          "en": "you (masculine singular)",
+          "note": "Second person masculine singular pronoun."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "إنت",
+              "إنت"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "إنت زرعت هادي الأعشاب بإيدك؟",
+          "trans": "Did you plant these herbs yourself?"
+        },
+        {
+          "text": "إنت خططت لكل هاد اللقاء؟",
+          "trans": "Did you plan this entire meeting?"
+        }
+      ],
+      "related": []
+    },
+    "إنتو": {
+      "lemma": "إنتو",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "you (pl.)",
+      "meanings": [
+        {
+          "en": "you (pl.)",
+          "note": "Spoken Jordanian pronoun 'you' when addressing two or more people."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "إنتو ناس طيبين كتير.",
+          "trans": "You are very kind people."
+        },
+        {
+          "text": "امسكوا الكشاف إنتو التنين.",
+          "trans": "Hold the torch, both of you."
+        }
+      ],
+      "related": []
+    },
+    "إيا": {
+      "lemma": "إيا",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "it (to you)",
+      "meanings": [
+        {
+          "en": "it (to you)",
+          "note": "Detached object carrier إيا- used when a verb already has a bound indirect object pronoun (-ك)."
         }
       ],
       "moreForms": [],
       "examples": [
         {
-          "text": "استعملنا كلمة فريق.",
-          "trans": "We used the word فريق."
+          "text": "الكتاب هاد كتير مفيد، رح أعطيك إياه بكرة.",
+          "trans": "This book is very useful; I'll give it to you tomorrow."
         },
         {
-          "text": "هادي فريق تانية.",
-          "trans": "This is another فريق."
+          "text": "الهدية جاهزة وبدي أبعتلك إياها مع أختي.",
+          "trans": "The gift is ready and I want to send it to you with my sister."
         }
       ],
       "related": [],
@@ -5438,23 +5612,63 @@
           {
             "cells": [
               "form",
-              "فريق",
+              "إيا",
               "—"
             ]
           }
         ]
       }
     },
-    "شوربة": {
-      "lemma": "شوربة",
+    "اتلغى": {
+      "lemma": "اتلغى",
       "stress": null,
-      "pos": "noun",
-      "gloss": "soup",
-      "gender": "f",
+      "pos": "verb",
+      "gloss": "was cancelled",
       "meanings": [
         {
-          "en": "soup",
-          "note": "Everyday Jordanian feminine noun. Plural: شوربات."
+          "en": "was cancelled",
+          "note": "Past tense Levantine passive verb meaning 'to be cancelled'."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الحفل اتلغى بسبب المطر القوي مبارح.",
+          "trans": "The concert was cancelled because of the heavy rain yesterday."
+        },
+        {
+          "text": "الموعد اتلغى ولسه ما حددوا يوم جديد.",
+          "trans": "The appointment got cancelled and they haven't set a new day yet."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "past",
+          "pres"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "3ms",
+              "اتلغى",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "استنى": {
+      "lemma": "استنى",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "wait (masculine imperative)",
+      "meanings": [
+        {
+          "en": "wait (masculine imperative)",
+          "note": "Command to a male to wait."
         }
       ],
       "forms": {
@@ -5468,35 +5682,123 @@
           {
             "cells": [
               "form",
-              "شوربة",
-              "شوربات"
+              "استنى",
+              "استنى"
             ]
           }
         ]
       },
-      "moreForms": [],
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "استنيت",
+                "استنينا"
+              ]
+            },
+            {
+              "cells": [
+                "2nd m",
+                "استنيت",
+                "استنيتوا"
+              ]
+            },
+            {
+              "cells": [
+                "2nd f",
+                "استنيتي",
+                "—"
+              ]
+            },
+            {
+              "cells": [
+                "3rd m",
+                "استنى",
+                "استنوا"
+              ]
+            },
+            {
+              "cells": [
+                "3rd f",
+                "استنت",
+                "—"
+              ]
+            }
+          ]
+        }
+      ],
       "examples": [
         {
-          "text": "تفضل كاسة شوربة خضار سخنة.",
-          "trans": "Here is a cup of hot vegetable soup."
+          "text": "استنوا شوي، عندي فكرة!",
+          "trans": "Wait a moment, I have an idea!"
         },
         {
-          "text": "الشوربة السخنة ممتازة بيوم المطر.",
-          "trans": "Hot soup is wonderful on a rainy day."
+          "text": "الشنتة لسا بتستنى صاحبها.",
+          "trans": "The suitcase is still waiting for its owner."
         }
       ],
       "related": []
     },
-    "خبز": {
-      "lemma": "خبز",
+    "استوديو": {
+      "lemma": "استوديو",
       "stress": null,
       "pos": "noun",
-      "gloss": "bread",
+      "gloss": "studio",
       "gender": "m",
       "meanings": [
         {
-          "en": "bread",
-          "note": "Everyday Jordanian masculine noun. Plural: خبزات."
+          "en": "studio",
+          "note": "Masculine singular loanword used in Arabic for a design or art studio."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أخوي فتح استوديو تصوير صغير بجبل اللويبدة.",
+          "trans": "My brother opened a small photography studio in Jabal Al-Weibdeh."
+        },
+        {
+          "text": "الشقة عبارة عن استوديو مريح وقريب عالجامعة.",
+          "trans": "The apartment is a cozy studio close to the university."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "استوديو",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "التنين": {
+      "lemma": "التنين",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "Monday",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "Monday",
+          "note": "Spoken Jordanian form of الاثنين ('Monday', and with ال also 'both / the two')."
         }
       ],
       "forms": {
@@ -5510,8 +5812,8 @@
           {
             "cells": [
               "form",
-              "خبز",
-              "خبزات"
+              "التنين",
+              "—"
             ]
           }
         ]
@@ -5519,50 +5821,501 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "خبز الصبح طازج وسخن.",
-          "trans": "The morning bread is fresh and hot."
+          "text": "بلشت الشغل يوم التنين الصبح.",
+          "trans": "I started work on Monday morning."
         },
         {
-          "text": "أكلنا خبز مع جبنة وزيتون.",
-          "trans": "We ate bread with cheese and olives."
+          "text": "باص يوم التنين وصل عالسبعة.",
+          "trans": "Monday's bus arrived at seven."
         }
       ],
       "related": []
     },
-    "عند": {
-      "lemma": "عند",
+    "الجمعة": {
+      "lemma": "الجمعة",
       "stress": null,
-      "pos": "prep",
-      "gloss": "at; by; have",
+      "pos": "noun",
+      "gloss": "Friday",
+      "gender": "f",
       "meanings": [
         {
-          "en": "at; by; have",
-          "note": "Marks location ('at, by') and with pronoun suffixes expresses possession: عندي ('I have'), عندك ('you have'), عندنا ('we have')."
+          "en": "Friday",
+          "note": "The holy day in Islam and the weekend in Jordan."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "الجمعة",
+              "الجمعة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "العيلة بتجتمع كل جمعة الظهر.",
+          "trans": "The family gathers every Friday at noon."
+        },
+        {
+          "text": "يوم الجمعة الشارع هادي.",
+          "trans": "On Friday the street is quiet."
+        }
+      ],
+      "related": []
+    },
+    "السبت": {
+      "lemma": "السبت",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "Saturday",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "Saturday",
+          "note": "The day of the week, Saturday."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "السبت",
+              "السبت"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "كل سبت الصبح بنمشي عسوق الحارة.",
+          "trans": "Every Saturday morning we walk to the neighbourhood market."
+        },
+        {
+          "text": "الخبز الطازة بيجهز يوم السبت الساعة تمانية.",
+          "trans": "Fresh bread is ready on Saturday at eight o'clock."
+        }
+      ],
+      "related": []
+    },
+    "باب": {
+      "lemma": "باب",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "door",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "door",
+          "note": "Everyday Jordanian masculine noun. Plural: بواب."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "باب",
+              "بواب"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الباب الخشب مفتوح هلا.",
+          "trans": "The wooden door is open now."
+        },
+        {
+          "text": "في حدا دق عالباب.",
+          "trans": "Someone knocked on the door."
+        }
+      ],
+      "related": []
+    },
+    "بالزبط": {
+      "lemma": "بالزبط",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "exactly; spot-on",
+      "meanings": [
+        {
+          "en": "exactly; spot-on",
+          "note": "Signature Jordanian/Palestinian pronunciation (with z) of بالضبط ('exactly!')."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "تاكسي وقف عند الباب هلا.",
-          "trans": "A taxi just stopped at the door."
+          "text": "بالزبط! صرتي منا وفينا.",
+          "trans": "Exactly! You have become one of us."
         },
         {
-          "text": "عندي حجز باسم سعاد.",
-          "trans": "I have a reservation under the name Suad."
+          "text": "احكيلي بالزبط شو أشتري.",
+          "trans": "Tell me exactly what to buy."
         }
       ],
       "related": []
     },
-    "قعد": {
-      "lemma": "قعد",
+    "بس": {
+      "lemma": "بس",
       "stress": null,
-      "pos": "verb",
-      "gloss": "to sit; stay",
+      "pos": "part",
+      "gloss": "only; just; but",
       "meanings": [
         {
-          "en": "to sit; stay",
-          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بقعد, بيقعد)."
+          "en": "only; just; but",
+          "note": "Extremely common Jordanian word meaning both 'only / just' (بس نص كاسة 'just half a glass') and 'but' between clauses."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بدي أقرأ الدفتر، بس مش ملاقي نظارتي!",
+          "trans": "I want to read the ledger, only I cannot find my glasses!"
+        },
+        {
+          "text": "بس نص كاسة لو سمحت.",
+          "trans": "Just half a glass, please."
+        }
+      ],
+      "related": []
+    },
+    "بعد": {
+      "lemma": "بعد",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "after; in (time)",
+      "meanings": [
+        {
+          "en": "after; in (time)",
+          "note": "Means 'after' (بعد المطر) and with a future span 'in' (بعد أربعين دقيقة 'in forty minutes')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بيوصل بعد أربعين دقيقة.",
+          "trans": "He arrives in forty minutes."
+        },
+        {
+          "text": "يا سلام عالشمس بعد المطر!",
+          "trans": "How lovely the sun is after the rain!"
+        }
+      ],
+      "related": []
+    },
+    "بعض": {
+      "lemma": "بعض",
+      "stress": null,
+      "pos": "pron",
+      "gloss": "each other; some",
+      "meanings": [
+        {
+          "en": "each other; some",
+          "note": "After a plural verb, بعض means 'each other' (بننادي بعض 'we call each other')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بننادي بعض بالاسم الأول هون.",
+          "trans": "We call each other by first name here."
+        },
+        {
+          "text": "ما حكينا مع بعض من زمان.",
+          "trans": "We have not spoken with each other in a long time."
+        }
+      ],
+      "related": []
+    },
+    "بلدية": {
+      "lemma": "بلدية",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "municipality; city council",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "municipality; city council",
+          "note": "Everyday Jordanian feminine noun. Plural: بلديات."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "بلدية",
+              "بلديات"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بيشتغل بقسم العقود بالبلدية.",
+          "trans": "He works in the contracts office at the municipality."
+        },
+        {
+          "text": "مبنى البلدية جنب الساحة.",
+          "trans": "The municipal building is next to the square."
+        }
+      ],
+      "related": []
+    },
+    "بنى": {
+      "lemma": "بنى",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "we build",
+      "meanings": [
+        {
+          "en": "we build",
+          "note": "Everyday verb بنى (to build)."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "جدي بنى هاد البيت الحجري قبل ستين سنة.",
+          "trans": "My grandfather built this stone house sixty years ago."
+        },
+        {
+          "text": "بدنا نبني غرفة جديدة عالسطح السنة الجاية.",
+          "trans": "We want to build a new room on the roof next year."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "past",
+          "pres"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "3ms",
+              "بنى",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "تبع": {
+      "lemma": "تبع",
+      "stress": null,
+      "pos": "part",
+      "gloss": "belonging to / of",
+      "meanings": [
+        {
+          "en": "belonging to / of",
+          "note": "Everyday Jordanian and Levantine word used as a possessive marker, similar to \"of\" or \"'s\"."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "تبع",
+              "تبع"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "اليوم آخر يوم بأسبوع التجربة تبعك.",
+          "trans": "Today is the last day of your trial week."
+        },
+        {
+          "text": "معلمة البيانو تبعت أخوي!",
+          "trans": "My brother's piano teacher!"
+        }
+      ],
+      "related": []
+    },
+    "تصميم": {
+      "lemma": "تصميم",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "design",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "design",
+          "note": "Standard Arabic noun for 'design', derived from صمّم ('to design')."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "تصميم القاعة الجديدة بيدمج بين الحجر القديم والخشب.",
+          "trans": "The design of the new hall blends old stone with wood."
+        },
+        {
+          "text": "أختي بتشتغل بمجال التصميم الداخلي بعمان.",
+          "trans": "My sister works in interior design in Amman."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "تصميم",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "تنين": {
+      "lemma": "تنين",
+      "stress": null,
+      "pos": "num",
+      "gloss": "two",
+      "meanings": [
+        {
+          "en": "two",
+          "note": "The number 2."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "تنين",
+              "تنين"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ضايل عنده تنين عالرف.",
+          "trans": "He has two left on the shelf."
+        },
+        {
+          "text": "امسكوا الكشاف إنتو التنين!",
+          "trans": "Hold the torch, the two of you!"
+        }
+      ],
+      "related": []
+    },
+    "ثابت": {
+      "lemma": "ثابت",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "steady; firm",
+      "meanings": [
+        {
+          "en": "steady; firm",
+          "note": "Everyday Jordanian adjective (feminine: ثابتة, plural: ثابتين)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ثابت",
+              "ثابتة",
+              "ثابتين"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "امسكي الكشاف ثابت عالماسورة.",
+          "trans": "Hold the torch steady on the pipe."
+        },
+        {
+          "text": "لون الشعلة أزرق وثابت.",
+          "trans": "The flame's color is steady blue."
+        }
+      ],
+      "related": []
+    },
+    "جاب": {
+      "lemma": "جاب",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to bring",
+      "meanings": [
+        {
+          "en": "to bring",
+          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بجيب, بيجيب)."
         }
       ],
       "forms": {
@@ -5576,35 +6329,35 @@
           {
             "cells": [
               "1st",
-              "بقعد",
-              "بنقعد"
+              "بجيب",
+              "بنجيب"
             ]
           },
           {
             "cells": [
               "2nd m",
-              "بتقعد",
-              "بتقعدوا"
+              "بتجيب",
+              "بتجيبوا"
             ]
           },
           {
             "cells": [
               "2nd f",
-              "بتقعدي",
+              "بتجيبي",
               "—"
             ]
           },
           {
             "cells": [
               "3rd m",
-              "بيقعد",
-              "بيقعدوا"
+              "بيجيب",
+              "بيجيبوا"
             ]
           },
           {
             "cells": [
               "3rd f",
-              "بتقعد",
+              "بتجيب",
               "—"
             ]
           }
@@ -5622,35 +6375,35 @@
             {
               "cells": [
                 "1st",
-                "قعدت",
-                "قعدنا"
+                "جبت",
+                "جبنا"
               ]
             },
             {
               "cells": [
                 "2nd m",
-                "قعدت",
-                "قعدتوا"
+                "جبت",
+                "جبتوا"
               ]
             },
             {
               "cells": [
                 "2nd f",
-                "قعدتي",
+                "جبتي",
                 "—"
               ]
             },
             {
               "cells": [
                 "3rd m",
-                "قعد",
-                "قعدوا"
+                "جاب",
+                "جابوا"
               ]
             },
             {
               "cells": [
                 "3rd f",
-                "قعدت",
+                "جابت",
                 "—"
               ]
             }
@@ -5659,158 +6412,26 @@
       ],
       "examples": [
         {
-          "text": "تفضل اقعد بالساحة تحت الشجرة.",
-          "trans": "Please have a seat in the courtyard under the tree."
+          "text": "رح أجيب شراشف نظيفة من الخزانة.",
+          "trans": "I will bring clean sheets from the closet."
         },
         {
-          "text": "ضيفة غرفة أربعة رح تقعد كل الأسبوع.",
-          "trans": "Room four's guest will stay the whole week."
+          "text": "أي علبة زبدة جبتي يا نور؟",
+          "trans": "Which tub of butter did you bring, Nour?"
         }
       ],
       "related": []
     },
-    "شوي": {
-      "lemma": "شوي",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "a little; a moment (شوي شوي slowly)",
-      "meanings": [
-        {
-          "en": "a little; a moment (شوي شوي slowly)",
-          "note": "Means 'a bit / a moment' (استنوا شوي 'wait a moment'); doubled شوي شوي means 'slowly, gently'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استنوا شوي، عندي فكرة!",
-          "trans": "Wait a moment, I have an idea!"
-        },
-        {
-          "text": "افتحي المحبس شوي شوي.",
-          "trans": "Turn the valve slowly and gently."
-        }
-      ],
-      "related": []
-    },
-    "يا": {
-      "lemma": "يا",
-      "stress": null,
-      "pos": "part",
-      "gloss": "O / hey (vocative)",
-      "meanings": [
-        {
-          "en": "O / hey (vocative)",
-          "note": "Placed directly before a name or title when addressing someone in Arabic (يا نور 'Nour!', يا أستاذ 'sir!') and in exclamations (يا سلام! 'wonderful!')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "صباح الخير يا طارق!",
-          "trans": "Good morning, Tariq!"
-        },
-        {
-          "text": "يا سلام عالشمس بعد المطر!",
-          "trans": "Oh, how lovely the sun is after the rain!"
-        }
-      ],
-      "related": []
-    },
-    "سلمى": {
-      "lemma": "سلمى",
-      "stress": null,
-      "pos": "name",
-      "gloss": "Salma",
-      "meanings": [
-        {
-          "en": "Salma",
-          "note": "Female given name belonging to the café's morning baker."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة سلمى.",
-          "trans": "We used the word سلمى."
-        },
-        {
-          "text": "هادي سلمى تانية.",
-          "trans": "This is another سلمى."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "سلمى",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "رامي": {
-      "lemma": "رامي",
-      "stress": null,
-      "pos": "name",
-      "gloss": "Rami",
-      "meanings": [
-        {
-          "en": "Rami",
-          "note": "Male given name belonging to Ziad's younger brother, the quiet architect."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة رامي.",
-          "trans": "We used the word رامي."
-        },
-        {
-          "text": "هادي رامي تانية.",
-          "trans": "This is another رامي."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "رامي",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "خبر": {
-      "lemma": "خبر",
+    "جار": {
+      "lemma": "جار",
       "stress": null,
       "pos": "noun",
-      "gloss": "news",
+      "gloss": "neighbour",
       "gender": "m",
       "meanings": [
         {
-          "en": "news",
-          "note": "Everyday Jordanian masculine noun. Plural: أخبار."
+          "en": "neighbour",
+          "note": "Everyday Jordanian masculine noun. Plural: جيران."
         }
       ],
       "forms": {
@@ -5824,8 +6445,8 @@
           {
             "cells": [
               "form",
-              "خبر",
-              "أخبار"
+              "جار",
+              "جيران"
             ]
           }
         ]
@@ -5833,42 +6454,41 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "عندي خبر حلو إلكم اليوم!",
-          "trans": "I have good news for you today!"
+          "text": "كل الجيران بالشارع طيبين.",
+          "trans": "All the neighbours on the street are kind."
         },
         {
-          "text": "ما عندهم أي خبر لسا.",
-          "trans": "They have no news yet."
+          "text": "صباح الخير يا جارنا العزيز.",
+          "trans": "Good morning, dear neighbour."
         }
       ],
       "related": []
     },
-    "كبير": {
-      "lemma": "كبير",
+    "جد": {
+      "lemma": "جد",
       "stress": null,
-      "pos": "adj",
-      "gloss": "big; large; older",
+      "pos": "noun",
+      "gloss": "seriously",
+      "gender": "m",
       "meanings": [
         {
-          "en": "big; large; older",
-          "note": "Everyday Jordanian adjective (feminine: كبيرة, plural: كبار)."
+          "en": "seriously",
+          "note": "Extremely common Jordanian expression to express surprise or ask for confirmation, like 'really?' or 'seriously!'."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
           {
             "cells": [
               "form",
-              "كبير",
-              "كبيرة",
-              "كبار"
+              "جد",
+              "جد"
             ]
           }
         ]
@@ -5876,12 +6496,54 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "بنستعمل هاد الدفتر الورق الكبير.",
-          "trans": "We use this big paper ledger."
+          "text": "ورشة جدي كانت بهاد الشارع.",
+          "trans": "My grandfather's workshop was on this street."
         },
         {
-          "text": "بتعرف الإخوان الكبار منيح!",
-          "trans": "You know older brothers well!"
+          "text": "عن جد خلصت كل الشغل؟",
+          "trans": "Did you really finish all the work?"
+        }
+      ],
+      "related": []
+    },
+    "حبر": {
+      "lemma": "حبر",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "ink",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "ink",
+          "note": "Standard Arabic and colloquial term for ink used in pens."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "حبر",
+              "حبر"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "كتبنا الاسم بحبر أزرق.",
+          "trans": "We wrote the name in blue ink."
+        },
+        {
+          "text": "قلم الحبر على المكتب.",
+          "trans": "The ink pen is on the desk."
         }
       ],
       "related": []
@@ -6001,56 +6663,15 @@
       ],
       "related": []
     },
-    "إيا": {
-      "lemma": "إيا",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "it (to you)",
-      "meanings": [
-        {
-          "en": "it (to you)",
-          "note": "Detached object carrier إيا- used when a verb already has a bound indirect object pronoun (-ك)."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة إيا.",
-          "trans": "We used the word إيا."
-        },
-        {
-          "text": "هادي إيا تانية.",
-          "trans": "This is another إيا."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "إيا",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "استنى": {
-      "lemma": "استنى",
+    "حَجَز": {
+      "lemma": "حَجَز",
       "stress": null,
       "pos": "verb",
-      "gloss": "to wait",
+      "gloss": "to book; reserve",
       "meanings": [
         {
-          "en": "to wait",
-          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بستنى, بيستنى)."
+          "en": "to book; reserve",
+          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بحجز, بيحجز)."
         }
       ],
       "forms": {
@@ -6064,35 +6685,35 @@
           {
             "cells": [
               "1st",
-              "بستنى",
-              "بنستنى"
+              "بحجز",
+              "بنحجز"
             ]
           },
           {
             "cells": [
               "2nd m",
-              "بتستنى",
-              "بتستنوا"
+              "بتحجز",
+              "بتحجزوا"
             ]
           },
           {
             "cells": [
               "2nd f",
-              "بتستني",
+              "بتحجزي",
               "—"
             ]
           },
           {
             "cells": [
               "3rd m",
-              "بيستنى",
-              "بيستنوا"
+              "بيحجز",
+              "بيحجزوا"
             ]
           },
           {
             "cells": [
               "3rd f",
-              "بتستنى",
+              "بتحجز",
               "—"
             ]
           }
@@ -6110,35 +6731,35 @@
             {
               "cells": [
                 "1st",
-                "استنيت",
-                "استنينا"
+                "حجزت",
+                "حجزنا"
               ]
             },
             {
               "cells": [
                 "2nd m",
-                "استنيت",
-                "استنيتوا"
+                "حجزت",
+                "حجزتوا"
               ]
             },
             {
               "cells": [
                 "2nd f",
-                "استنيتي",
+                "حجزتي",
                 "—"
               ]
             },
             {
               "cells": [
                 "3rd m",
-                "استنى",
-                "استنوا"
+                "حجز",
+                "حجزوا"
               ]
             },
             {
               "cells": [
                 "3rd f",
-                "استنت",
+                "حجزت",
                 "—"
               ]
             }
@@ -6147,76 +6768,26 @@
       ],
       "examples": [
         {
-          "text": "استنوا شوي، عندي فكرة!",
-          "trans": "Wait a moment, I have an idea!"
+          "text": "حجزت غرفة سبعة عالتليفون مبارح.",
+          "trans": "I booked room seven on the phone yesterday."
         },
         {
-          "text": "الشنتة لسا بتستنى صاحبها.",
-          "trans": "The suitcase is still waiting for its owner."
+          "text": "حجزنا عشا هادي بمطعم قريب.",
+          "trans": "We booked a quiet dinner at a nearby restaurant."
         }
       ],
       "related": []
     },
-    "لا": {
-      "lemma": "لا",
-      "stress": null,
-      "pos": "part",
-      "gloss": "no; do not",
-      "meanings": [
-        {
-          "en": "no; do not",
-          "note": "Standalone لا means 'no'; before a 2nd-person subjunctive verb it forms a negative command (لا تقلقي 'do not worry!'), and لا ... ولا means 'neither ... nor'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "لا، ارفعي اليد أول.",
-          "trans": "No, lift the handle first."
-        },
-        {
-          "text": "لا تقلقي يا مدام.",
-          "trans": "Do not worry, ma'am."
-        }
-      ],
-      "related": []
-    },
-    "إن": {
-      "lemma": "إن",
-      "stress": null,
-      "pos": "conj",
-      "gloss": "that; if (إن شاء الله)",
-      "meanings": [
-        {
-          "en": "that; if (إن شاء الله)",
-          "note": "Introduces 'that'-clauses with pronoun suffixes (إنه 'that', إني 'that I', إنك 'that you', إنها 'that she/it') and appears in إن شاء الله ('if God wills')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "شكرا إنك إجيت اليوم.",
-          "trans": "Thank you for coming today."
-        },
-        {
-          "text": "مفكرين إني مفتش فنادق؟",
-          "trans": "Do you think that I am a hotel inspector?"
-        }
-      ],
-      "related": []
-    },
-    "قطار": {
-      "lemma": "قطار",
+    "خبر": {
+      "lemma": "خبر",
       "stress": null,
       "pos": "noun",
-      "gloss": "train",
+      "gloss": "news",
       "gender": "m",
       "meanings": [
         {
-          "en": "train",
-          "note": "Everyday Jordanian masculine noun. Plural: قطارات."
+          "en": "news",
+          "note": "Everyday Jordanian masculine noun. Plural: أخبار."
         }
       ],
       "forms": {
@@ -6230,8 +6801,8 @@
           {
             "cells": [
               "form",
-              "قطار",
-              "قطارات"
+              "خبر",
+              "أخبار"
             ]
           }
         ]
@@ -6239,26 +6810,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "نحت الجد قطار خشب صغير.",
-          "trans": "The grandfather carved a small wooden train."
+          "text": "عندي خبر حلو إلكم اليوم!",
+          "trans": "I have good news for you today!"
         },
         {
-          "text": "الأولاد بيحبوا يلعبوا بالقطارات.",
-          "trans": "Children love playing with trains."
+          "text": "ما عندهم أي خبر لسا.",
+          "trans": "They have no news yet."
         }
       ],
       "related": []
     },
-    "السبت": {
-      "lemma": "السبت",
+    "خبز": {
+      "lemma": "خبز",
       "stress": null,
       "pos": "noun",
-      "gloss": "Saturday",
+      "gloss": "bread",
       "gender": "m",
       "meanings": [
         {
-          "en": "Saturday",
-          "note": "Saturday (يوم السبت or simply السبت), start of the Jordanian working/market weekend."
+          "en": "bread",
+          "note": "Everyday Jordanian masculine noun. Plural: خبزات."
         }
       ],
       "forms": {
@@ -6272,8 +6843,8 @@
           {
             "cells": [
               "form",
-              "السبت",
-              "أيام السبت"
+              "خبز",
+              "خبزات"
             ]
           }
         ]
@@ -6281,26 +6852,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "كل سبت الصبح بنمشي عسوق الحارة.",
-          "trans": "Every Saturday morning we walk to the neighbourhood market."
+          "text": "خبز الصبح طازج وسخن.",
+          "trans": "The morning bread is fresh and hot."
         },
         {
-          "text": "الخبز الطازة بيجهز يوم السبت الساعة تمانية.",
-          "trans": "Fresh bread is ready on Saturday at eight o'clock."
+          "text": "أكلنا خبز مع جبنة وزيتون.",
+          "trans": "We ate bread with cheese and olives."
         }
       ],
       "related": []
     },
-    "صبح": {
-      "lemma": "صبح",
+    "خشب": {
+      "lemma": "خشب",
       "stress": null,
       "pos": "noun",
-      "gloss": "morning",
+      "gloss": "wood",
       "gender": "m",
       "meanings": [
         {
-          "en": "morning",
-          "note": "Everyday spoken Jordanian noun for 'the morning' (الصبح in the morning, كل صبح every morning)."
+          "en": "wood",
+          "note": "Used for the material wood or timber."
         }
       ],
       "forms": {
@@ -6314,8 +6885,8 @@
           {
             "cells": [
               "form",
-              "صبح",
-              "—"
+              "خشب",
+              "خشب"
             ]
           }
         ]
@@ -6323,127 +6894,36 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "بشرب قهوة سادة كل صبح.",
-          "trans": "I drink black coffee every morning."
+          "text": "السقف الخشب دافي وهادي.",
+          "trans": "The wooden ceiling is warm and quiet."
         },
         {
-          "text": "خبز الصبح بعده سخن.",
-          "trans": "The morning bread is still hot."
+          "text": "هاد قطار خشب محفور بالإيد.",
+          "trans": "This is a hand-carved wooden train."
         }
       ],
       "related": []
     },
-    "اتلغى": {
-      "lemma": "اتلغى",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "was cancelled",
-      "meanings": [
-        {
-          "en": "was cancelled",
-          "note": "Past tense Levantine passive verb meaning 'to be cancelled'."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة اتلغى.",
-          "trans": "We used the word اتلغى."
-        },
-        {
-          "text": "هادي اتلغى تانية.",
-          "trans": "This is another اتلغى."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "past",
-          "pres"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "3ms",
-              "اتلغى",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "أنا": {
-      "lemma": "أنا",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "I",
-      "meanings": [
-        {
-          "en": "I",
-          "note": "Subject pronoun 'I' for any speaker."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "أنا نور، موظفة الاستقبال الجديدة.",
-          "trans": "I am Nour, the new receptionist."
-        },
-        {
-          "text": "أنا سلمى من المطبخ.",
-          "trans": "I am Salma from the kitchen."
-        }
-      ],
-      "related": []
-    },
-    "بس": {
-      "lemma": "بس",
-      "stress": null,
-      "pos": "part",
-      "gloss": "only; just; but",
-      "meanings": [
-        {
-          "en": "only; just; but",
-          "note": "Extremely common Jordanian word meaning both 'only / just' (بس نص كاسة 'just half a glass') and 'but' between clauses."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بدي أقرأ الدفتر، بس مش ملاقي نظارتي!",
-          "trans": "I want to read the ledger, only I cannot find my glasses!"
-        },
-        {
-          "text": "بس نص كاسة لو سمحت.",
-          "trans": "Just half a glass, please."
-        }
-      ],
-      "related": []
-    },
-    "ماخد": {
-      "lemma": "ماخد",
+    "خشبي": {
+      "lemma": "خشبي",
       "stress": null,
       "pos": "adj",
-      "gloss": "taking",
+      "gloss": "wood / wooden",
       "meanings": [
         {
-          "en": "taking",
-          "note": "Masculine participle of أخد ('to take'), used for a planned near-future trip."
+          "en": "wood / wooden",
+          "note": "Feminine word derived from خشب ('wood'), agreeing with عدة."
         }
       ],
       "moreForms": [],
       "examples": [
         {
-          "text": "استعملنا كلمة ماخد.",
-          "trans": "We used the word ماخد."
+          "text": "عندي عدة خشبية صغيرة بصلّح فيها الكراسي.",
+          "trans": "I have a small wooden toolkit I use to fix the chairs."
         },
         {
-          "text": "هادي ماخد تانية.",
-          "trans": "This is another ماخد."
+          "text": "الباب الخشبي القديم بيعطي البيت دفا وروح.",
+          "trans": "The old wooden door gives the house warmth and character."
         }
       ],
       "related": [],
@@ -6458,114 +6938,22 @@
           {
             "cells": [
               "form",
-              "ماخد",
+              "خشبي",
               "—"
             ]
           }
         ]
       }
     },
-    "هاد": {
-      "lemma": "هاد",
+    "دافي": {
+      "lemma": "دافي",
       "stress": null,
-      "pos": "det",
-      "gloss": "this; that (m.)",
+      "pos": "adj",
+      "gloss": "warm",
       "meanings": [
         {
-          "en": "this; that (m.)",
-          "note": "Spoken Jordanian demonstrative ('this / that'); feminine هادي (haadi), plural هدول (hadool). Before ال- it also contracts to هال-."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هون بنستعمل هاد الدفتر الكبير.",
-          "trans": "Here we use this big ledger."
-        },
-        {
-          "text": "هادي الشنتة تقيلة كتير اليوم.",
-          "trans": "This suitcase is very heavy today."
-        }
-      ],
-      "related": []
-    },
-    "عشان": {
-      "lemma": "عشان",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "for; because of; in order to",
-      "meanings": [
-        {
-          "en": "for; because of; in order to",
-          "note": "Everyday Jordanian word for 'for / because of' (عشان هيك 'that is why') and 'so that'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "عشان هيك الشنتة كانت تقيلة!",
-          "trans": "That is why the suitcase was heavy!"
-        },
-        {
-          "text": "تلمع الفوانيس عشان الظهر؟",
-          "trans": "Are you polishing the lanterns for noon?"
-        }
-      ],
-      "related": []
-    },
-    "ضبّ": {
-      "lemma": "ضبّ",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "I pack up",
-      "meanings": [
-        {
-          "en": "I pack up",
-          "note": "Classic Jordanian Arabic verb ضبّ meaning 'to pack up', 'tidy away', or 'put into boxes'."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة ضبّ.",
-          "trans": "We used the word ضبّ."
-        },
-        {
-          "text": "هادي ضبّ تانية.",
-          "trans": "This is another ضبّ."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "past",
-          "pres"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "3ms",
-              "ضبّ",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "كرتونة": {
-      "lemma": "كرتونة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "cardboard box; carton",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "cardboard box; carton",
-          "note": "Everyday Jordanian feminine noun. Plural: كراتين."
+          "en": "warm",
+          "note": "Used to describe warm weather, warm water, or a cozy feeling."
         }
       ],
       "forms": {
@@ -6579,8 +6967,8 @@
           {
             "cells": [
               "form",
-              "كرتونة",
-              "كراتين"
+              "دافي",
+              "دافي"
             ]
           }
         ]
@@ -6588,15 +6976,140 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "امسك الكراتين الخفيفة وأنا بفتح الباب.",
-          "trans": "Hold the light cartons while I open the door."
+          "text": "الخبز دافي وطازج من الفرن.",
+          "trans": "The bread is warm and fresh from the oven."
         },
         {
-          "text": "حطينا الكتب القديمة بكرتونة.",
-          "trans": "We packed the old books in a cardboard box."
+          "text": "القعدة بالعلية دافية وقت المطر.",
+          "trans": "Sitting in the attic is cozy when it rains."
         }
       ],
       "related": []
+    },
+    "دفتر": {
+      "lemma": "دفتر",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "notebook; ledger",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "notebook; ledger",
+          "note": "Everyday Jordanian masculine noun. Plural: دفاتر."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "دفتر",
+              "دفاتر"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "سجلنا الاسم بدفتر الحجز.",
+          "trans": "We wrote the name in the booking ledger."
+        },
+        {
+          "text": "نسيت دفتري الجلد عالطاولة.",
+          "trans": "I forgot my leather notebook on the table."
+        }
+      ],
+      "related": []
+    },
+    "دوام": {
+      "lemma": "دوام",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "work hours; employment",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "work hours; employment",
+          "note": "Used in دوام كامل ('full-time job') and دوام جزئي ('part-time')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "دوام",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بلشت شغل جديد بدوام كامل.",
+          "trans": "She started a new full-time job."
+        },
+        {
+          "text": "دوام المكتب من التمانية للخمسة.",
+          "trans": "Office hours are from eight to five."
+        }
+      ],
+      "related": []
+    },
+    "رامي": {
+      "lemma": "رامي",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Rami",
+      "meanings": [
+        {
+          "en": "Rami",
+          "note": "Male given name belonging to Ziad's younger brother, the quiet architect."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "رامي رسم خريطة الحارة كلها بإيده.",
+          "trans": "Rami drew the map of the whole neighborhood by hand."
+        },
+        {
+          "text": "نادي لرامي عشان يشوف التصميم الجديد.",
+          "trans": "Call Rami so he can take a look at the new design."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "رامي",
+              "—"
+            ]
+          }
+        ]
+      }
     },
     "رجع": {
       "lemma": "رجع",
@@ -6709,1299 +7222,6 @@
         {
           "text": "الماسورة رجعت تنقط؟",
           "trans": "Did the pipe start dripping again?"
-        }
-      ],
-      "related": []
-    },
-    "سكن": {
-      "lemma": "سكن",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to live; reside",
-      "meanings": [
-        {
-          "en": "to live; reside",
-          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بسكن, بيسكن)."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "بسكن",
-              "بنسكن"
-            ]
-          },
-          {
-            "cells": [
-              "2nd m",
-              "بتسكن",
-              "بتسكنوا"
-            ]
-          },
-          {
-            "cells": [
-              "2nd f",
-              "بتسكني",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd m",
-              "بيسكن",
-              "بيسكنوا"
-            ]
-          },
-          {
-            "cells": [
-              "3rd f",
-              "بتسكن",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "سكنت",
-                "سكننا"
-              ]
-            },
-            {
-              "cells": [
-                "2nd m",
-                "سكنت",
-                "سكنتوا"
-              ]
-            },
-            {
-              "cells": [
-                "2nd f",
-                "سكنتي",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "3rd m",
-                "سكن",
-                "سكنوا"
-              ]
-            },
-            {
-              "cells": [
-                "3rd f",
-                "سكنت",
-                "—"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "عيلتك سكنت قريب من هون زمان؟",
-          "trans": "Did your family live near here back then?"
-        },
-        {
-          "text": "سكنوا بشارع الياسمين عشرين سنة.",
-          "trans": "They lived on Jasmine Street for twenty years."
-        }
-      ],
-      "related": []
-    },
-    "هون": {
-      "lemma": "هون",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "here",
-      "meanings": [
-        {
-          "en": "here",
-          "note": "Spoken Jordanian/Levantine word for 'here' (لهون 'to here', من هون 'from here')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هون بنستعمل هاد الدفتر الكبير.",
-          "trans": "Here we use this big ledger."
-        },
-        {
-          "text": "خليكي هون دقيقة.",
-          "trans": "Stay right here a minute."
-        }
-      ],
-      "related": []
-    },
-    "شو": {
-      "lemma": "شو",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "what?",
-      "meanings": [
-        {
-          "en": "what?",
-          "note": "Signature Levantine question word for 'what?'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "شو هاد الصوت؟",
-          "trans": "What is that sound?"
-        },
-        {
-          "text": "شو مكتوب عالورقة يا رامي؟",
-          "trans": "What is written on the sheet, Rami?"
-        }
-      ],
-      "related": []
-    },
-    "وقّع": {
-      "lemma": "وقّع",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "you signed",
-      "meanings": [
-        {
-          "en": "you signed",
-          "note": "Past tense Arabic verb meaning 'to sign' a contract or lease."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة وقّع.",
-          "trans": "We used the word وقّع."
-        },
-        {
-          "text": "هادي وقّع تانية.",
-          "trans": "This is another وقّع."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "past",
-          "pres"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "3ms",
-              "وقّع",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "شارع": {
-      "lemma": "شارع",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "street",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "street",
-          "note": "Everyday Jordanian masculine noun. Plural: شوارع."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "شارع",
-              "شوارع"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "نزلنا بشارع هادي بوسط عمان.",
-          "trans": "Our guesthouse is on a quiet street in central Amman."
-        },
-        {
-          "text": "في شوارع حجر قديمة بالحارة.",
-          "trans": "There are old stone streets in the quarter."
-        }
-      ],
-      "related": []
-    },
-    "ياسمين": {
-      "lemma": "ياسمين",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "jasmine",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "jasmine",
-          "note": "Everyday Jordanian masculine noun. Plural: ياسمين."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "ياسمينة",
-              "ياسمين"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "شجرة الياسمين معرشة فوق الباب.",
-          "trans": "The jasmine vine climbs above the door."
-        },
-        {
-          "text": "ريحة الياسمين بالمسا بترد الروح.",
-          "trans": "The evening scent of jasmine lifts the spirit."
-        }
-      ],
-      "related": []
-    },
-    "يوم": {
-      "lemma": "يوم",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "day (اليوم today)",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "day (اليوم today)",
-          "note": "Everyday Jordanian masculine noun. Plural: أيام."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "يوم",
-              "أيام"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "اليوم الجو مشمس ودافي بعمان.",
-          "trans": "Today the weather is sunny and warm in Amman."
-        },
-        {
-          "text": "يومك سعيد وموفق!",
-          "trans": "Have a happy, successful day!"
-        }
-      ],
-      "related": []
-    },
-    "عصر": {
-      "lemma": "عصر",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "late afternoon",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "late afternoon",
-          "note": "Everyday Jordanian masculine noun. Plural: عصور."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "عصر",
-              "عصور"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "وصلنا النزل يوم التنين العصر.",
-          "trans": "We arrived at the guesthouse Monday afternoon."
-        },
-        {
-          "text": "شاي العصر بالساحة عادة يومية.",
-          "trans": "Late-afternoon tea in the courtyard is a daily ritual."
-        }
-      ],
-      "related": []
-    },
-    "أخ": {
-      "lemma": "أخ",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "brother",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "brother",
-          "note": "Takes a long -uu-/-oo- stem with possessive endings in Jordanian (أخوي my brother, أخوك your brother); dual أخوين."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "أخ",
-              "إخوان"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "أخوي الكبير ساكن بعمان.",
-          "trans": "My older brother lives in Amman."
-        },
-        {
-          "text": "الإخوان قعدوا سوا بالساحة.",
-          "trans": "The brothers sat together in the courtyard."
-        }
-      ],
-      "related": [
-        {
-          "word": "عيلة",
-          "gloss": "family"
-        }
-      ]
-    },
-    "صغير": {
-      "lemma": "صغير",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "small; little; younger",
-      "meanings": [
-        {
-          "en": "small; little; younger",
-          "note": "Everyday Jordanian adjective (feminine: صغيرة, plural: صغار)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "صغير",
-              "صغيرة",
-              "صغار"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "لقينا قطار خشب صغير بالشنتة.",
-          "trans": "We found a little wooden train in the bag."
-        },
-        {
-          "text": "في شارعين صغار عالشمال.",
-          "trans": "There are two small streets on the left."
-        }
-      ],
-      "related": []
-    },
-    "كان": {
-      "lemma": "كان",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to be (was / will be)",
-      "meanings": [
-        {
-          "en": "to be (was / will be)",
-          "note": "Arabic uses no 'is/are' in the simple present, while كان supplies the past ('was/were') and يكون / بيكون supplies future or modal 'be'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "بكون",
-              "بنكون"
-            ]
-          },
-          {
-            "cells": [
-              "2nd m",
-              "بتكون",
-              "بتكونوا"
-            ]
-          },
-          {
-            "cells": [
-              "2nd f",
-              "بتكوني",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd m",
-              "بيكون",
-              "بيكونوا"
-            ]
-          },
-          {
-            "cells": [
-              "3rd f",
-              "بتكون",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "كنت",
-                "كنا"
-              ]
-            },
-            {
-              "cells": [
-                "2nd m",
-                "كنت",
-                "كنتوا"
-              ]
-            },
-            {
-              "cells": [
-                "2nd f",
-                "كنتي",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "3rd m",
-                "كان",
-                "كانوا"
-              ]
-            },
-            {
-              "cells": [
-                "3rd f",
-                "كانت",
-                "—"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "كيف كانت رحلة الباص؟",
-          "trans": "How was the bus ride?"
-        },
-        {
-          "text": "تاني يوم ما رح يكون ممل!",
-          "trans": "The second day will not be boring!"
-        }
-      ],
-      "related": []
-    },
-    "في": {
-      "lemma": "في",
-      "stress": null,
-      "pos": "part",
-      "gloss": "there is; there are; is there?",
-      "meanings": [
-        {
-          "en": "there is; there are; is there?",
-          "note": "Spoken Levantine existential word ('there is / there are'); negated as ما في ('there is no / there are no')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "في بطاقة ورق صغيرة عاليد.",
-          "trans": "There is a small paper tag on the handle."
-        },
-        {
-          "text": "ما في حدا واقف بالساحة.",
-          "trans": "There is nobody standing in the courtyard."
-        }
-      ],
-      "related": []
-    },
-    "استوديو": {
-      "lemma": "استوديو",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "studio",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "studio",
-          "note": "Masculine singular loanword used in Arabic for a design or art studio."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة استوديو.",
-          "trans": "We used the word استوديو."
-        },
-        {
-          "text": "هادي استوديو تانية.",
-          "trans": "This is another استوديو."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "استوديو",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "فاضي": {
-      "lemma": "فاضي",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "empty; free; vacant",
-      "meanings": [
-        {
-          "en": "empty; free; vacant",
-          "note": "Everyday Jordanian adjective (feminine: فاضية, plural: فاضيين)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "فاضي",
-              "فاضية",
-              "فاضيين"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "غرفة ستة فاضية الليلة؟",
-          "trans": "Is room six vacant tonight?"
-        },
-        {
-          "text": "الشارع برا البوابة فاضي تماما.",
-          "trans": "The street outside the gate is completely empty."
-        }
-      ],
-      "related": []
-    },
-    "طابق": {
-      "lemma": "طابق",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "floor; storey",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "floor; storey",
-          "note": "Everyday Jordanian masculine noun. Plural: طوابق."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "طابق",
-              "طوابق"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "غرفتك بالطابق التاني عاليمين.",
-          "trans": "Your room is on the second floor on the right."
-        },
-        {
-          "text": "البناية مكونة من تلات طوابق.",
-          "trans": "The building has three storeys."
-        }
-      ],
-      "related": []
-    },
-    "أرضي": {
-      "lemma": "أرضي",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "ground-floor",
-      "meanings": [
-        {
-          "en": "ground-floor",
-          "note": "Everyday Jordanian adjective (feminine: أرضية, plural: أرضيين)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "أرضي",
-              "أرضية",
-              "أرضيين"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "المطبخ بالطابق الأرضي.",
-          "trans": "The kitchen is on the ground floor."
-        },
-        {
-          "text": "الغرف الأرضية قريبة من الساحة.",
-          "trans": "The ground-floor rooms are close to the courtyard."
-        }
-      ],
-      "related": []
-    },
-    "بعد": {
-      "lemma": "بعد",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "after; in (time)",
-      "meanings": [
-        {
-          "en": "after; in (time)",
-          "note": "Means 'after' (بعد المطر) and with a future span 'in' (بعد أربعين دقيقة 'in forty minutes')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بيوصل بعد أربعين دقيقة.",
-          "trans": "He arrives in forty minutes."
-        },
-        {
-          "text": "يا سلام عالشمس بعد المطر!",
-          "trans": "How lovely the sun is after the rain!"
-        }
-      ],
-      "related": []
-    },
-    "مخبز": {
-      "lemma": "مخبز",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "my bakery",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "my bakery",
-          "note": "Noun of place from خبز (to bake), with -ي ('my')."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة مخبز.",
-          "trans": "We used the word مخبز."
-        },
-        {
-          "text": "هادي مخبز تانية.",
-          "trans": "This is another مخبز."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "مخبز",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "أربعة": {
-      "lemma": "أربعة",
-      "stress": null,
-      "pos": "num",
-      "gloss": "four",
-      "meanings": [
-        {
-          "en": "four",
-          "note": "Numeral 'four'; short form أربع (arba') directly before a plural noun (أربع طاولات 'four tables')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "غرفة أربعة جاية اليوم.",
-          "trans": "Room four is arriving today."
-        },
-        {
-          "text": "أربع طاولات وتمن كراسي بالساحة.",
-          "trans": "Four tables and eight chairs in the courtyard."
-        }
-      ],
-      "related": []
-    },
-    "باب": {
-      "lemma": "باب",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "door",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "door",
-          "note": "Everyday Jordanian masculine noun. Plural: بواب."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "باب",
-              "بواب"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الباب الخشب مفتوح هلا.",
-          "trans": "The wooden door is open now."
-        },
-        {
-          "text": "في حدا دق عالباب.",
-          "trans": "Someone knocked on the door."
-        }
-      ],
-      "related": []
-    },
-    "مش": {
-      "lemma": "مش",
-      "stress": null,
-      "pos": "part",
-      "gloss": "not",
-      "meanings": [
-        {
-          "en": "not",
-          "note": "Negates nouns, adjectives, participles, and pronouns in spoken Jordanian (مش شنتتي 'not my bag', مش ملاقي 'cannot find')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "هادي مش شنتتي!",
-          "trans": "This is not my suitcase!"
-        },
-        {
-          "text": "مش بطال لتاني يوم شغل!",
-          "trans": "Not bad for a second day at work!"
-        }
-      ],
-      "related": []
-    },
-    "معقول": {
-      "lemma": "معقول",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "reasonable; really?! / can it be?!",
-      "meanings": [
-        {
-          "en": "reasonable; really?! / can it be?!",
-          "note": "Standalone معقول! is a classic Jordanian exclamation of amazed disbelief ('No way! / Could it really be?!')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "معقول",
-              "معقولة",
-              "معقولين"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "معقول! قطار جدي الخشب لسا موجود!",
-          "trans": "Could it be! Grandfather's wooden train is still around!"
-        },
-        {
-          "text": "السعر معقول ومناسب للكل.",
-          "trans": "The price is reasonable and fair for everyone."
-        }
-      ],
-      "related": []
-    },
-    "إنت": {
-      "lemma": "إنت",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "you (m.)",
-      "meanings": [
-        {
-          "en": "you (m.)",
-          "note": "Spoken Jordanian pronoun 'you' when addressing one man."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "إنت زرعت هادي الأعشاب بإيدك؟",
-          "trans": "Did you plant these herbs yourself?"
-        },
-        {
-          "text": "إنت خططت لكل هاد اللقاء؟",
-          "trans": "Did you plan this entire meeting?"
-        }
-      ],
-      "related": []
-    },
-    "عم": {
-      "lemma": "عم",
-      "stress": null,
-      "pos": "part",
-      "gloss": "currently (-ing)",
-      "meanings": [
-        {
-          "en": "currently (-ing)",
-          "note": "Levantine progressive marker placed before a present-tense verb to show action happening right now."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "المي عم بتمشي جوا الماسورة!",
-          "trans": "The water is flowing inside the pipe right now!"
-        },
-        {
-          "text": "كنت عم بدور على دفتري هلا.",
-          "trans": "I was just looking for my notebook."
-        }
-      ],
-      "related": []
-    },
-    "فتح": {
-      "lemma": "فتح",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to open; unlock",
-      "meanings": [
-        {
-          "en": "to open; unlock",
-          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بفتح, بيفتح)."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "بفتح",
-              "بنفتح"
-            ]
-          },
-          {
-            "cells": [
-              "2nd m",
-              "بتفتح",
-              "بتفتحوا"
-            ]
-          },
-          {
-            "cells": [
-              "2nd f",
-              "بتفتحي",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd m",
-              "بيفتح",
-              "بيفتحوا"
-            ]
-          },
-          {
-            "cells": [
-              "3rd f",
-              "بتفتح",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "فتحت",
-                "فتحنا"
-              ]
-            },
-            {
-              "cells": [
-                "2nd m",
-                "فتحت",
-                "فتحتوا"
-              ]
-            },
-            {
-              "cells": [
-                "2nd f",
-                "فتحتي",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "3rd m",
-                "فتح",
-                "فتحوا"
-              ]
-            },
-            {
-              "cells": [
-                "3rd f",
-                "فتحت",
-                "—"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "دكان الزاوية بيفتح عالسبعة.",
-          "trans": "The corner shop opens at seven."
-        },
-        {
-          "text": "آه، الباب فتح أخيرا!",
-          "trans": "Oh, the door finally opened!"
-        }
-      ],
-      "related": []
-    },
-    "تصميم": {
-      "lemma": "تصميم",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "design",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "design",
-          "note": "Standard Arabic noun for 'design', derived from صمّم ('to design')."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة تصميم.",
-          "trans": "We used the word تصميم."
-        },
-        {
-          "text": "هادي تصميم تانية.",
-          "trans": "This is another تصميم."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "تصميم",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "صوتي": {
-      "lemma": "صوتي",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "voice; audio; acoustic",
-      "meanings": [
-        {
-          "en": "voice; audio; acoustic",
-          "note": "Nisba adjective from صوت ('voice, sound'); رسالة صوتية means 'voice message'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "صوتي",
-              "صوتية",
-              "صوتية"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "تركتلك رسالة صوتية قصيرة عالتليفون.",
-          "trans": "I left you a short voice message on the phone."
-        },
-        {
-          "text": "العزل الصوتي بغرفة القزاز ممتاز.",
-          "trans": "The acoustic insulation in the sunroom is excellent."
-        }
-      ],
-      "related": []
-    },
-    "تبع": {
-      "lemma": "تبع",
-      "stress": null,
-      "pos": "part",
-      "gloss": "belonging to; of",
-      "meanings": [
-        {
-          "en": "belonging to; of",
-          "note": "Spoken Jordanian possessive word ('belonging to'); agrees in gender: تبع (m.), تبعت (f.), تبعون (pl.)."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "اليوم آخر يوم بأسبوع التجربة تبعك.",
-          "trans": "Today is the last day of your trial week."
-        },
-        {
-          "text": "معلمة البيانو تبعت أخوي!",
-          "trans": "My brother's piano teacher!"
-        }
-      ],
-      "related": []
-    },
-    "نهار": {
-      "lemma": "نهار",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "daytime; daylight",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "daytime; daylight",
-          "note": "Contrasts with ليل ('nighttime'): بنور النهار = 'in broad daylight'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "نهار",
-              "أنهار"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الشيش الأخضر طالع أحلى بكتير بنور النهار!",
-          "trans": "The green shutters look even lovelier in daylight!"
-        },
-        {
-          "text": "شتغلنا طول النهار وبالمسا شربنا شاي بالنعنع.",
-          "trans": "We worked all day long and in the evening had mint tea."
         }
       ],
       "related": []
@@ -8130,175 +7350,6 @@
         }
       ]
     },
-    "غرفة": {
-      "lemma": "غرفة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "room",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "room",
-          "note": "Everyday Jordanian feminine noun. Plural: غرف."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "غرفة",
-              "غرف"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "عندنا تمن غرف مريحة بالنزل.",
-          "trans": "We have eight comfortable rooms at the guesthouse."
-        },
-        {
-          "text": "غرفة أربعة جاهزة ونظيفة.",
-          "trans": "Room four is ready and clean."
-        }
-      ],
-      "related": []
-    },
-    "هادي": {
-      "lemma": "هادي",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "quiet; calm; gentle",
-      "meanings": [
-        {
-          "en": "quiet; calm; gentle",
-          "note": "Masculine هادي ('quiet') is homographic with the feminine demonstrative هادي ('this'); context and agreement distinguish them cleanly."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "هادي",
-              "هادية",
-              "هاديين"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "المكان فوق الشجرة هادي كتير.",
-          "trans": "The spot above the tree is very quiet."
-        },
-        {
-          "text": "جهزنا إلك غرفة العلية الهادية.",
-          "trans": "We prepared the quiet attic room for you."
-        }
-      ],
-      "related": []
-    },
-    "دوام": {
-      "lemma": "دوام",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "work hours; employment",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "work hours; employment",
-          "note": "Used in دوام كامل ('full-time job') and دوام جزئي ('part-time')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "دوام",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بلشت شغل جديد بدوام كامل.",
-          "trans": "She started a new full-time job."
-        },
-        {
-          "text": "دوام المكتب من التمانية للخمسة.",
-          "trans": "Office hours are from eight to five."
-        }
-      ],
-      "related": []
-    },
-    "بلدية": {
-      "lemma": "بلدية",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "municipality; city council",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "municipality; city council",
-          "note": "Everyday Jordanian feminine noun. Plural: بلديات."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "بلدية",
-              "بلديات"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بيشتغل بقسم العقود بالبلدية.",
-          "trans": "He works in the contracts office at the municipality."
-        },
-        {
-          "text": "مبنى البلدية جنب الساحة.",
-          "trans": "The municipal building is next to the square."
-        }
-      ],
-      "related": []
-    },
     "زياد": {
       "lemma": "زياد",
       "stress": null,
@@ -8313,12 +7364,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "استعملنا كلمة زياد.",
-          "trans": "We used the word زياد."
+          "text": "زياد بيساعد أخوه الصغير بحسابات المقهى.",
+          "trans": "Ziad helps his younger brother with the café's accounts."
         },
         {
-          "text": "هادي زياد تانية.",
-          "trans": "This is another زياد."
+          "text": "اسأل زياد وين حط الفواتير الشهرية.",
+          "trans": "Ask Ziad where he put the monthly invoices."
         }
       ],
       "related": [],
@@ -8339,776 +7390,6 @@
           }
         ]
       }
-    },
-    "جاب": {
-      "lemma": "جاب",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to bring",
-      "meanings": [
-        {
-          "en": "to bring",
-          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بجيب, بيجيب)."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "بجيب",
-              "بنجيب"
-            ]
-          },
-          {
-            "cells": [
-              "2nd m",
-              "بتجيب",
-              "بتجيبوا"
-            ]
-          },
-          {
-            "cells": [
-              "2nd f",
-              "بتجيبي",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd m",
-              "بيجيب",
-              "بيجيبوا"
-            ]
-          },
-          {
-            "cells": [
-              "3rd f",
-              "بتجيب",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "جبت",
-                "جبنا"
-              ]
-            },
-            {
-              "cells": [
-                "2nd m",
-                "جبت",
-                "جبتوا"
-              ]
-            },
-            {
-              "cells": [
-                "2nd f",
-                "جبتي",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "3rd m",
-                "جاب",
-                "جابوا"
-              ]
-            },
-            {
-              "cells": [
-                "3rd f",
-                "جابت",
-                "—"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "رح أجيب شراشف نظيفة من الخزانة.",
-          "trans": "I will bring clean sheets from the closet."
-        },
-        {
-          "text": "أي علبة زبدة جبتي يا نور؟",
-          "trans": "Which tub of butter did you bring, Nour?"
-        }
-      ],
-      "related": []
-    },
-    "عدة": {
-      "lemma": "عدة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "tools; toolkit (صندوق العدة)",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "tools; toolkit (صندوق العدة)",
-          "note": "Everyday Jordanian feminine noun. Plural: عدد."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "عدة",
-              "عدد"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "المفك والمفتاح بصندوق العدة.",
-          "trans": "The screwdriver and wrench are in the toolbox."
-        },
-        {
-          "text": "جاب العدة يصلح السخان.",
-          "trans": "He brought the tools to fix the boiler."
-        }
-      ],
-      "related": []
-    },
-    "جد": {
-      "lemma": "جد",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "grandfather; seriousness",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "grandfather; seriousness",
-          "note": "Means 'grandfather' (جدي my grandfather) and in عن جد ('really / seriously') means 'earnestness'."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "جد",
-              "جدود"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ورشة جدي كانت بهاد الشارع.",
-          "trans": "My grandfather's workshop was on this street."
-        },
-        {
-          "text": "عن جد خلصت كل الشغل؟",
-          "trans": "Did you really finish all the work?"
-        }
-      ],
-      "related": []
-    },
-    "خشبي": {
-      "lemma": "خشبي",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "wood / wooden",
-      "meanings": [
-        {
-          "en": "wood / wooden",
-          "note": "Feminine word derived from خشب ('wood'), agreeing with عدة."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة خشبي.",
-          "trans": "We used the word خشبي."
-        },
-        {
-          "text": "هادي خشبي تانية.",
-          "trans": "This is another خشبي."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "خشبي",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "مساء": {
-      "lemma": "مساء",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "evening",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "evening",
-          "note": "Standard Arabic noun for 'evening', starting the universal greeting مساء الخير."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة مساء.",
-          "trans": "We used the word مساء."
-        },
-        {
-          "text": "هادي مساء تانية.",
-          "trans": "This is another مساء."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "مساء",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "عطلة": {
-      "lemma": "عطلة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "holiday; day off; weekend break",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "holiday; day off; weekend break",
-          "note": "Any time off work or school; in Jordan the weekly break is Friday and Saturday."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "عطلة",
-              "عطل"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "العطلة الجاي رايحين عالعقبة.",
-          "trans": "Next holiday we are going to Aqaba."
-        },
-        {
-          "text": "بكرا عطلة، ما في دوام.",
-          "trans": "Tomorrow is a day off, there is no work."
-        }
-      ],
-      "related": [
-        {
-          "word": "شغل",
-          "gloss": "work"
-        }
-      ]
-    },
-    "نهاية": {
-      "lemma": "نهاية",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "end (نهاية الأسبوع weekend)",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "end (نهاية الأسبوع weekend)",
-          "note": "Everyday Jordanian feminine noun. Plural: نهايات."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "نهاية",
-              "نهايات"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "في حجز جديد لنهاية الأسبوع.",
-          "trans": "There is a new booking for the weekend."
-        },
-        {
-          "text": "بالنهاية كل شي انحل على خير.",
-          "trans": "In the end everything worked out well."
-        }
-      ],
-      "related": []
-    },
-    "أسبوع": {
-      "lemma": "أسبوع",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "week",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "week",
-          "note": "Everyday Jordanian masculine noun. Plural: أسابيع."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "أسبوع",
-              "أسابيع"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "الأسبوع الجاي عندي إجازة.",
-          "trans": "Next week I have time off."
-        },
-        {
-          "text": "قعدنا بالنزل كل الأسبوع.",
-          "trans": "We stayed at the guesthouse all week."
-        }
-      ],
-      "related": []
-    },
-    "بنى": {
-      "lemma": "بنى",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "we build",
-      "meanings": [
-        {
-          "en": "we build",
-          "note": "Everyday verb بنى (to build)."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة بنى.",
-          "trans": "We used the word بنى."
-        },
-        {
-          "text": "هادي بنى تانية.",
-          "trans": "This is another بنى."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "past",
-          "pres"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "3ms",
-              "بنى",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "طاولة": {
-      "lemma": "طاولة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "table",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "table",
-          "note": "Everyday Jordanian feminine noun. Plural: طاولات."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "طاولة",
-              "طاولات"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "حطينا أربع طاولات بالساحة.",
-          "trans": "We set four tables in the courtyard."
-        },
-        {
-          "text": "الفطور جاهز على الطاولة.",
-          "trans": "Breakfast is ready on the table."
-        }
-      ],
-      "related": []
-    },
-    "لوح": {
-      "lemma": "لوح",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "board; pane (of glass); plank",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "board; pane (of glass); plank",
-          "note": "Refers to a whiteboard (اللوح الأبيض), wooden plank, or windowpane (لوح قزاز)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "لوح",
-              "ألواح"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "كتبنا مهام الأسبوع التلاتة عاللوح الأبيض.",
-          "trans": "We wrote the three tasks for the week on the whiteboard."
-        },
-        {
-          "text": "نضفنا كل ألواح القزاز من الغبرة القديمة.",
-          "trans": "We cleaned all the glass panes of their old dust."
-        }
-      ],
-      "related": []
-    },
-    "خشب": {
-      "lemma": "خشب",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "wood; timber",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "wood; timber",
-          "note": "Everyday Jordanian masculine noun. Plural: أخشاب."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "خشب",
-              "أخشاب"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "السقف الخشب دافي وهادي.",
-          "trans": "The wooden ceiling is warm and quiet."
-        },
-        {
-          "text": "هاد قطار خشب محفور بالإيد.",
-          "trans": "This is a hand-carved wooden train."
-        }
-      ],
-      "related": []
-    },
-    "مع": {
-      "lemma": "مع",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "with",
-      "meanings": [
-        {
-          "en": "with",
-          "note": "Everyday preposition 'with'; takes pronoun suffixes to express 'have on one's person' (معي 'I have with me', معك حق 'you are right')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "معك حق يا نور!",
-          "trans": "You are right, Nour!"
-        },
-        {
-          "text": "مع السلامة!",
-          "trans": "Goodbye! (lit. go with safety)"
-        }
-      ],
-      "related": []
-    },
-    "بعض": {
-      "lemma": "بعض",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "each other; some",
-      "meanings": [
-        {
-          "en": "each other; some",
-          "note": "After a plural verb, بعض means 'each other' (بننادي بعض 'we call each other')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بننادي بعض بالاسم الأول هون.",
-          "trans": "We call each other by first name here."
-        },
-        {
-          "text": "ما حكينا مع بعض من زمان.",
-          "trans": "We have not spoken with each other in a long time."
-        }
-      ],
-      "related": []
-    },
-    "لعاد": {
-      "lemma": "لعاد",
-      "stress": null,
-      "pos": "part",
-      "gloss": "then / in that case",
-      "meanings": [
-        {
-          "en": "then / in that case",
-          "note": "Jordanian Arabic word meaning 'then' or 'well then!'."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة لعاد.",
-          "trans": "We used the word لعاد."
-        },
-        {
-          "text": "هادي لعاد تانية.",
-          "trans": "This is another لعاد."
-        }
-      ],
-      "related": [],
-      "forms": null
-    },
-    "حَجَز": {
-      "lemma": "حَجَز",
-      "stress": null,
-      "pos": "verb",
-      "gloss": "to book; reserve",
-      "meanings": [
-        {
-          "en": "to book; reserve",
-          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بحجز, بيحجز)."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "بحجز",
-              "بنحجز"
-            ]
-          },
-          {
-            "cells": [
-              "2nd m",
-              "بتحجز",
-              "بتحجزوا"
-            ]
-          },
-          {
-            "cells": [
-              "2nd f",
-              "بتحجزي",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd m",
-              "بيحجز",
-              "بيحجزوا"
-            ]
-          },
-          {
-            "cells": [
-              "3rd f",
-              "بتحجز",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "حجزت",
-                "حجزنا"
-              ]
-            },
-            {
-              "cells": [
-                "2nd m",
-                "حجزت",
-                "حجزتوا"
-              ]
-            },
-            {
-              "cells": [
-                "2nd f",
-                "حجزتي",
-                "—"
-              ]
-            },
-            {
-              "cells": [
-                "3rd m",
-                "حجز",
-                "حجزوا"
-              ]
-            },
-            {
-              "cells": [
-                "3rd f",
-                "حجزت",
-                "—"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "حجزت غرفة سبعة عالتليفون مبارح.",
-          "trans": "I booked room seven on the phone yesterday."
-        },
-        {
-          "text": "حجزنا عشا هادي بمطعم قريب.",
-          "trans": "We booked a quiet dinner at a nearby restaurant."
-        }
-      ],
-      "related": []
     },
     "ساحة": {
       "lemma": "ساحة",
@@ -9152,183 +7433,16 @@
       ],
       "related": []
     },
-    "بالزبط": {
-      "lemma": "بالزبط",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "exactly; spot-on",
-      "meanings": [
-        {
-          "en": "exactly; spot-on",
-          "note": "Signature Jordanian/Palestinian pronunciation (with z) of بالضبط ('exactly!')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بالزبط! صرتي منا وفينا.",
-          "trans": "Exactly! You have become one of us."
-        },
-        {
-          "text": "احكيلي بالزبط شو أشتري.",
-          "trans": "Tell me exactly what to buy."
-        }
-      ],
-      "related": []
-    },
-    "لـ": {
-      "lemma": "لـ",
-      "stress": null,
-      "pos": "prep",
-      "gloss": "for us",
-      "meanings": [
-        {
-          "en": "for us",
-          "note": "Spoken Levantine dative preposition ('for us')."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة لـ.",
-          "trans": "We used the word لـ."
-        },
-        {
-          "text": "هادي لـ تانية.",
-          "trans": "This is another لـ."
-        }
-      ],
-      "related": [],
-      "forms": null
-    },
-    "إنتو": {
-      "lemma": "إنتو",
-      "stress": null,
-      "pos": "pron",
-      "gloss": "you (pl.)",
-      "meanings": [
-        {
-          "en": "you (pl.)",
-          "note": "Spoken Jordanian pronoun 'you' when addressing two or more people."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "إنتو ناس طيبين كتير.",
-          "trans": "You are very kind people."
-        },
-        {
-          "text": "امسكوا الكشاف إنتو التنين.",
-          "trans": "Hold the torch, both of you."
-        }
-      ],
-      "related": []
-    },
-    "تنين": {
-      "lemma": "تنين",
-      "stress": null,
-      "pos": "num",
-      "gloss": "two",
-      "meanings": [
-        {
-          "en": "two",
-          "note": "Spoken Jordanian numeral 'two' (إنتو التنين 'the two of you'); note homograph التنين ('Monday')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "ضايل عنده تنين عالرف.",
-          "trans": "He has two left on the shelf."
-        },
-        {
-          "text": "امسكوا الكشاف إنتو التنين!",
-          "trans": "Hold the torch, the two of you!"
-        }
-      ],
-      "related": []
-    },
-    "كل": {
-      "lemma": "كل",
-      "stress": null,
-      "pos": "det",
-      "gloss": "every; all; whole",
-      "meanings": [
-        {
-          "en": "every; all; whole",
-          "note": "Before an indefinite singular noun كل means 'every' (كل يوم 'every day'); before a definite noun it means 'all / the whole' (كل الأسبوع 'all week')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "احكيلي كل شي لازم أعرفه.",
-          "trans": "Tell me everything I need to know."
-        },
-        {
-          "text": "الكل مبسوط بالساحة اليوم.",
-          "trans": "Everyone is happy in the courtyard today."
-        }
-      ],
-      "related": []
-    },
-    "الجمعة": {
-      "lemma": "الجمعة",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "Friday",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "Friday",
-          "note": "Everyday Jordanian feminine noun. Plural: جمع."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "جمعة",
-              "جمع"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "العيلة بتجتمع كل جمعة الظهر.",
-          "trans": "The family gathers every Friday at noon."
-        },
-        {
-          "text": "يوم الجمعة الشارع هادي.",
-          "trans": "On Friday the street is quiet."
-        }
-      ],
-      "related": []
-    },
     "ساعة": {
       "lemma": "ساعة",
       "stress": null,
       "pos": "noun",
-      "gloss": "hour; clock; watch",
+      "gloss": "hour / watch / clock",
       "gender": "f",
       "meanings": [
         {
-          "en": "hour; clock; watch",
-          "note": "Everyday Jordanian feminine noun. Plural: ساعات."
+          "en": "hour / watch / clock",
+          "note": "Everyday word for an hour of time, a wristwatch, or a wall clock."
         }
       ],
       "forms": {
@@ -9343,7 +7457,7 @@
             "cells": [
               "form",
               "ساعة",
-              "ساعات"
+              "ساعة"
             ]
           }
         ]
@@ -9369,10 +7483,26 @@
       "meanings": [
         {
           "en": "six",
-          "note": "Numeral 'six'; short form ست (sitt) before a plural noun (ست سنين 'six years')."
+          "note": "The number 6."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ستة",
+              "ستة"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -9501,16 +7631,131 @@
       ],
       "related": []
     },
-    "دفتر": {
-      "lemma": "دفتر",
+    "سكن": {
+      "lemma": "سكن",
       "stress": null,
-      "pos": "noun",
-      "gloss": "notebook; ledger",
-      "gender": "m",
+      "pos": "verb",
+      "gloss": "to live; reside",
       "meanings": [
         {
-          "en": "notebook; ledger",
-          "note": "Everyday Jordanian masculine noun. Plural: دفاتر."
+          "en": "to live; reside",
+          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بسكن, بيسكن)."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "بسكن",
+              "بنسكن"
+            ]
+          },
+          {
+            "cells": [
+              "2nd m",
+              "بتسكن",
+              "بتسكنوا"
+            ]
+          },
+          {
+            "cells": [
+              "2nd f",
+              "بتسكني",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "3rd m",
+              "بيسكن",
+              "بيسكنوا"
+            ]
+          },
+          {
+            "cells": [
+              "3rd f",
+              "بتسكن",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "سكنت",
+                "سكننا"
+              ]
+            },
+            {
+              "cells": [
+                "2nd m",
+                "سكنت",
+                "سكنتوا"
+              ]
+            },
+            {
+              "cells": [
+                "2nd f",
+                "سكنتي",
+                "—"
+              ]
+            },
+            {
+              "cells": [
+                "3rd m",
+                "سكن",
+                "سكنوا"
+              ]
+            },
+            {
+              "cells": [
+                "3rd f",
+                "سكنت",
+                "—"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "عيلتك سكنت قريب من هون زمان؟",
+          "trans": "Did your family live near here back then?"
+        },
+        {
+          "text": "سكنوا بشارع الياسمين عشرين سنة.",
+          "trans": "They lived on Jasmine Street for twenty years."
+        }
+      ],
+      "related": []
+    },
+    "سلامة": {
+      "lemma": "سلامة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "safety; well-being",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "safety; well-being",
+          "note": "Core word in مع السلامة! ('goodbye!', literally 'with safety') and الحمد لله عالسلامة ('glad you arrived safely')."
         }
       ],
       "forms": {
@@ -9524,8 +7769,8 @@
           {
             "cells": [
               "form",
-              "دفتر",
-              "دفاتر"
+              "سلامة",
+              "—"
             ]
           }
         ]
@@ -9533,36 +7778,36 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "سجلنا الاسم بدفتر الحجز.",
-          "trans": "We wrote the name in the booking ledger."
+          "text": "مع السلامة، بشوفك بكرا!",
+          "trans": "Goodbye, see you tomorrow!"
         },
         {
-          "text": "نسيت دفتري الجلد عالطاولة.",
-          "trans": "I forgot my leather notebook on the table."
+          "text": "الحمد لله على سلامتك.",
+          "trans": "Thank goodness for your safe arrival."
         }
       ],
       "related": []
     },
-    "طارق": {
-      "lemma": "طارق",
+    "سلمى": {
+      "lemma": "سلمى",
       "stress": null,
       "pos": "name",
-      "gloss": "Tariq",
+      "gloss": "Salma",
       "meanings": [
         {
-          "en": "Tariq",
-          "note": "Male given name of the veteran handyman."
+          "en": "Salma",
+          "note": "Female given name belonging to the café's morning baker."
         }
       ],
       "moreForms": [],
       "examples": [
         {
-          "text": "استعملنا كلمة طارق.",
-          "trans": "We used the word طارق."
+          "text": "سلمى بتخبز الكرواسون والخبز كل يوم الفجر.",
+          "trans": "Salma bakes the croissants and bread every day at dawn."
         },
         {
-          "text": "هادي طارق تانية.",
-          "trans": "This is another طارق."
+          "text": "سلمى جابت صينية كعك طازة للضيوف.",
+          "trans": "Salma brought a tray of fresh cookies for the guests."
         }
       ],
       "related": [],
@@ -9577,64 +7822,23 @@
           {
             "cells": [
               "form",
-              "طارق",
+              "سلمى",
               "—"
             ]
           }
         ]
       }
     },
-    "ورقي": {
-      "lemma": "ورقي",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "paper (adj.)",
-      "meanings": [
-        {
-          "en": "paper (adj.)",
-          "note": "Masculine word formed from ورق ('paper'), meaning 'made of paper'."
-        }
-      ],
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "استعملنا كلمة ورقي.",
-          "trans": "We used the word ورقي."
-        },
-        {
-          "text": "هادي ورقي تانية.",
-          "trans": "This is another ورقي."
-        }
-      ],
-      "related": [],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "ورقي",
-              "—"
-            ]
-          }
-        ]
-      }
-    },
-    "حبر": {
-      "lemma": "حبر",
+    "شارع": {
+      "lemma": "شارع",
       "stress": null,
       "pos": "noun",
-      "gloss": "ink",
+      "gloss": "street",
       "gender": "m",
       "meanings": [
         {
-          "en": "ink",
-          "note": "Everyday Jordanian masculine noun. Plural: أحبار."
+          "en": "street",
+          "note": "Everyday Jordanian masculine noun. Plural: شوارع."
         }
       ],
       "forms": {
@@ -9648,8 +7852,8 @@
           {
             "cells": [
               "form",
-              "حبر",
-              "أحبار"
+              "شارع",
+              "شوارع"
             ]
           }
         ]
@@ -9657,55 +7861,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "كتبنا الاسم بحبر أزرق.",
-          "trans": "We wrote the name in blue ink."
+          "text": "نزلنا بشارع هادي بوسط عمان.",
+          "trans": "Our guesthouse is on a quiet street in central Amman."
         },
         {
-          "text": "قلم الحبر على المكتب.",
-          "trans": "The ink pen is on the desk."
-        }
-      ],
-      "related": []
-    },
-    "ثابت": {
-      "lemma": "ثابت",
-      "stress": null,
-      "pos": "adj",
-      "gloss": "steady; firm",
-      "meanings": [
-        {
-          "en": "steady; firm",
-          "note": "Everyday Jordanian adjective (feminine: ثابتة, plural: ثابتين)."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "ثابت",
-              "ثابتة",
-              "ثابتين"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "امسكي الكشاف ثابت عالماسورة.",
-          "trans": "Hold the torch steady on the pipe."
-        },
-        {
-          "text": "لون الشعلة أزرق وثابت.",
-          "trans": "The flame's color is steady blue."
+          "text": "في شوارع حجر قديمة بالحارة.",
+          "trans": "There are old stone streets in the quarter."
         }
       ],
       "related": []
@@ -9752,15 +7913,222 @@
       ],
       "related": []
     },
-    "أزرق": {
-      "lemma": "أزرق",
+    "شو": {
+      "lemma": "شو",
       "stress": null,
-      "pos": "adj",
-      "gloss": "blue",
+      "pos": "pron",
+      "gloss": "what",
       "meanings": [
         {
-          "en": "blue",
-          "note": "Everyday Jordanian adjective (feminine: زرقا, plural: زرق)."
+          "en": "what",
+          "note": "Everyday Jordanian interrogative pronoun for 'what'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "شو",
+              "شو"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "شو هاد الصوت؟",
+          "trans": "What is that sound?"
+        },
+        {
+          "text": "شو مكتوب عالورقة يا رامي؟",
+          "trans": "What is written on the sheet, Rami?"
+        }
+      ],
+      "related": []
+    },
+    "شوربة": {
+      "lemma": "شوربة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "soup",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "soup",
+          "note": "Everyday Jordanian feminine noun. Plural: شوربات."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "شوربة",
+              "شوربات"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "تفضل كاسة شوربة خضار سخنة.",
+          "trans": "Here is a cup of hot vegetable soup."
+        },
+        {
+          "text": "الشوربة السخنة ممتازة بيوم المطر.",
+          "trans": "Hot soup is wonderful on a rainy day."
+        }
+      ],
+      "related": []
+    },
+    "شوي": {
+      "lemma": "شوي",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "a little / slowly",
+      "meanings": [
+        {
+          "en": "a little / slowly",
+          "note": "Very common adverb in Jordanian Arabic for 'a little bit' or 'slowly'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "شوي",
+              "شوي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "استنوا شوي، عندي فكرة!",
+          "trans": "Wait a moment, I have an idea!"
+        },
+        {
+          "text": "افتحي المحبس شوي شوي.",
+          "trans": "Turn the valve slowly and gently."
+        }
+      ],
+      "related": []
+    },
+    "صبح": {
+      "lemma": "صبح",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "morning",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "morning",
+          "note": "Everyday spoken Jordanian noun for 'the morning' (الصبح in the morning, كل صبح every morning)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "صبح",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بشرب قهوة سادة كل صبح.",
+          "trans": "I drink black coffee every morning."
+        },
+        {
+          "text": "خبز الصبح بعده سخن.",
+          "trans": "The morning bread is still hot."
+        }
+      ],
+      "related": []
+    },
+    "صغير": {
+      "lemma": "صغير",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "small / young",
+      "meanings": [
+        {
+          "en": "small / young",
+          "note": "Adjective used for size (small) or age (young), masculine singular."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "صغير",
+              "صغير"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "لقينا قطار خشب صغير بالشنتة.",
+          "trans": "We found a little wooden train in the bag."
+        },
+        {
+          "text": "في شارعين صغار عالشمال.",
+          "trans": "There are two small streets on the left."
+        }
+      ],
+      "related": []
+    },
+    "صوتي": {
+      "lemma": "صوتي",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "voice; audio; acoustic",
+      "meanings": [
+        {
+          "en": "voice; audio; acoustic",
+          "note": "Nisba adjective from صوت ('voice, sound'); رسالة صوتية means 'voice message'."
         }
       ],
       "forms": {
@@ -9775,9 +8143,9 @@
           {
             "cells": [
               "form",
-              "أزرق",
-              "زرقا",
-              "زرق"
+              "صوتي",
+              "صوتية",
+              "صوتية"
             ]
           }
         ]
@@ -9785,15 +8153,1325 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "الشنتة الزرقا بخزانة الأمانات.",
-          "trans": "The blue suitcase is in the luggage closet."
+          "text": "تركتلك رسالة صوتية قصيرة عالتليفون.",
+          "trans": "I left you a short voice message on the phone."
         },
         {
-          "text": "عندي فنجانين شاي زرق.",
-          "trans": "I have two blue teacups."
+          "text": "العزل الصوتي بغرفة القزاز ممتاز.",
+          "trans": "The acoustic insulation in the sunroom is excellent."
         }
       ],
       "related": []
+    },
+    "ضبّ": {
+      "lemma": "ضبّ",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "I pack up",
+      "meanings": [
+        {
+          "en": "I pack up",
+          "note": "Classic Jordanian Arabic verb ضبّ meaning 'to pack up', 'tidy away', or 'put into boxes'."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بدي أضبّ كل الكتب بالكراتين قبل ما ننقل.",
+          "trans": "I want to pack up all the books into boxes before we move."
+        },
+        {
+          "text": "ضبّوا ألعابكم يا ولاد ورتبوا الصالة!",
+          "trans": "Put your toys away, kids, and tidy up the living room!"
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "past",
+          "pres"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "3ms",
+              "ضبّ",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "طابق": {
+      "lemma": "طابق",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "floor; storey",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "floor; storey",
+          "note": "Everyday Jordanian masculine noun. Plural: طوابق."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "طابق",
+              "طوابق"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "غرفتك بالطابق التاني عاليمين.",
+          "trans": "Your room is on the second floor on the right."
+        },
+        {
+          "text": "البناية مكونة من تلات طوابق.",
+          "trans": "The building has three storeys."
+        }
+      ],
+      "related": []
+    },
+    "طارق": {
+      "lemma": "طارق",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Tariq",
+      "meanings": [
+        {
+          "en": "Tariq",
+          "note": "Male given name of the veteran handyman."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "المعلم طارق صلّح الحنفية والمفصلات بنص ساعة.",
+          "trans": "Master Tariq fixed the faucet and the hinges in half an hour."
+        },
+        {
+          "text": "اسأل عمي طارق إذا معه المفك الكبير.",
+          "trans": "Ask Uncle Tariq if he has the big screwdriver with him."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "طارق",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "طاولة": {
+      "lemma": "طاولة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "table",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "table",
+          "note": "Common everyday word for table."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "طاولة",
+              "طاولة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "حطينا أربع طاولات بالساحة.",
+          "trans": "We set four tables in the courtyard."
+        },
+        {
+          "text": "الفطور جاهز على الطاولة.",
+          "trans": "Breakfast is ready on the table."
+        }
+      ],
+      "related": []
+    },
+    "عدة": {
+      "lemma": "عدة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "tools; toolkit",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "tools; toolkit",
+          "note": "Everyday Jordanian feminine noun; صندوق العدة means 'toolbox'. Plural: عدد."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عدة",
+              "عدد"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "المفك والمفتاح بصندوق العدة.",
+          "trans": "The screwdriver and wrench are in the toolbox."
+        },
+        {
+          "text": "جاب العدة يصلح السخان.",
+          "trans": "He brought the tools to fix the boiler."
+        }
+      ],
+      "related": []
+    },
+    "عشان": {
+      "lemma": "عشان",
+      "stress": null,
+      "pos": "conj",
+      "gloss": "because / for",
+      "meanings": [
+        {
+          "en": "because / for",
+          "note": "Extremely common colloquial conjunction used to indicate reason or purpose."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عشان",
+              "عشان"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "عشان هيك الشنتة كانت تقيلة!",
+          "trans": "That is why the suitcase was heavy!"
+        },
+        {
+          "text": "تلمع الفوانيس عشان الظهر؟",
+          "trans": "Are you polishing the lanterns for noon?"
+        }
+      ],
+      "related": []
+    },
+    "عصر": {
+      "lemma": "عصر",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "late afternoon",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "late afternoon",
+          "note": "Everyday Jordanian masculine noun. Plural: عصور."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عصر",
+              "عصور"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "وصلنا النزل يوم التنين العصر.",
+          "trans": "We arrived at the guesthouse Monday afternoon."
+        },
+        {
+          "text": "شاي العصر بالساحة عادة يومية.",
+          "trans": "Late-afternoon tea in the courtyard is a daily ritual."
+        }
+      ],
+      "related": []
+    },
+    "عطلة": {
+      "lemma": "عطلة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "holiday; day off; weekend break",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "holiday; day off; weekend break",
+          "note": "Any time off work or school; in Jordan the weekly break is Friday and Saturday."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عطلة",
+              "عطل"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "العطلة الجاي رايحين عالعقبة.",
+          "trans": "Next holiday we are going to Aqaba."
+        },
+        {
+          "text": "بكرا عطلة، ما في دوام.",
+          "trans": "Tomorrow is a day off, there is no work."
+        }
+      ],
+      "related": [
+        {
+          "word": "شغل",
+          "gloss": "work"
+        }
+      ]
+    },
+    "عم": {
+      "lemma": "عم",
+      "stress": null,
+      "pos": "part",
+      "gloss": "currently (-ing)",
+      "meanings": [
+        {
+          "en": "currently (-ing)",
+          "note": "Levantine progressive marker placed before a present-tense verb to show action happening right now."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "المي عم بتمشي جوا الماسورة!",
+          "trans": "The water is flowing inside the pipe right now!"
+        },
+        {
+          "text": "كنت عم بدور على دفتري هلا.",
+          "trans": "I was just looking for my notebook."
+        }
+      ],
+      "related": []
+    },
+    "عند": {
+      "lemma": "عند",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "at / with",
+      "meanings": [
+        {
+          "en": "at / with",
+          "note": "A very common preposition used to indicate location, possession, or presence."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عند",
+              "عند"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "تاكسي وقف عند الباب هلا.",
+          "trans": "A taxi just stopped at the door."
+        },
+        {
+          "text": "عندي حجز باسم سعاد.",
+          "trans": "I have a reservation under the name Suad."
+        }
+      ],
+      "related": []
+    },
+    "غرفة": {
+      "lemma": "غرفة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "room",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "room",
+          "note": "Everyday Jordanian word for a room in a house or building."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "غرفة",
+              "غرفة"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "عندنا تمن غرف مريحة بالنزل.",
+          "trans": "We have eight comfortable rooms at the guesthouse."
+        },
+        {
+          "text": "غرفة أربعة جاهزة ونظيفة.",
+          "trans": "Room four is ready and clean."
+        }
+      ],
+      "related": []
+    },
+    "فاضي": {
+      "lemma": "فاضي",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "empty / free (not busy)",
+      "meanings": [
+        {
+          "en": "empty / free (not busy)",
+          "note": "Used to describe an empty container or a person who has free time."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "فاضي",
+              "فاضي"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "غرفة ستة فاضية الليلة؟",
+          "trans": "Is room six vacant tonight?"
+        },
+        {
+          "text": "الشارع برا البوابة فاضي تماما.",
+          "trans": "The street outside the gate is completely empty."
+        }
+      ],
+      "related": []
+    },
+    "فتح": {
+      "lemma": "فتح",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "to open; unlock",
+      "meanings": [
+        {
+          "en": "to open; unlock",
+          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بفتح, بيفتح)."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "بفتح",
+              "بنفتح"
+            ]
+          },
+          {
+            "cells": [
+              "2nd m",
+              "بتفتح",
+              "بتفتحوا"
+            ]
+          },
+          {
+            "cells": [
+              "2nd f",
+              "بتفتحي",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "3rd m",
+              "بيفتح",
+              "بيفتحوا"
+            ]
+          },
+          {
+            "cells": [
+              "3rd f",
+              "بتفتح",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "فتحت",
+                "فتحنا"
+              ]
+            },
+            {
+              "cells": [
+                "2nd m",
+                "فتحت",
+                "فتحتوا"
+              ]
+            },
+            {
+              "cells": [
+                "2nd f",
+                "فتحتي",
+                "—"
+              ]
+            },
+            {
+              "cells": [
+                "3rd m",
+                "فتح",
+                "فتحوا"
+              ]
+            },
+            {
+              "cells": [
+                "3rd f",
+                "فتحت",
+                "—"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "دكان الزاوية بيفتح عالسبعة.",
+          "trans": "The corner shop opens at seven."
+        },
+        {
+          "text": "آه، الباب فتح أخيرا!",
+          "trans": "Oh, the door finally opened!"
+        }
+      ],
+      "related": []
+    },
+    "فريق": {
+      "lemma": "فريق",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "crew / team of",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "crew / team of",
+          "note": "Masculine Arabic noun for a team or crew."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "فريق الصيانة خلص تصليح السقف قبل العصر.",
+          "trans": "The maintenance crew finished repairing the roof before afternoon."
+        },
+        {
+          "text": "انضميت لفريق الكشافة بالمدرسة هاد الفصل.",
+          "trans": "I joined the scout team at school this semester."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "فريق",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "في": {
+      "lemma": "في",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "in / at / there is",
+      "meanings": [
+        {
+          "en": "in / at / there is",
+          "note": "Preposition for 'in' or 'at', and very commonly used to mean 'there is/are' (existential)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "في",
+              "في"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "في بطاقة ورق صغيرة عاليد.",
+          "trans": "There is a small paper tag on the handle."
+        },
+        {
+          "text": "ما في حدا واقف بالساحة.",
+          "trans": "There is nobody standing in the courtyard."
+        }
+      ],
+      "related": []
+    },
+    "قرفة": {
+      "lemma": "قرفة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "cinnamon",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "cinnamon",
+          "note": "Everyday Jordanian feminine noun."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "قرفة",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "ريحة القرفة الدافية ملت المطبخ.",
+          "trans": "The warm scent of cinnamon filled the kitchen."
+        },
+        {
+          "text": "أكلنا لفة قرفة مع الشاي.",
+          "trans": "We ate a cinnamon roll with tea."
+        }
+      ],
+      "related": []
+    },
+    "قطار": {
+      "lemma": "قطار",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "train",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "train",
+          "note": "Everyday Jordanian masculine noun. Plural: قطارات."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "قطار",
+              "قطارات"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "نحت الجد قطار خشب صغير.",
+          "trans": "The grandfather carved a small wooden train."
+        },
+        {
+          "text": "الأولاد بيحبوا يلعبوا بالقطارات.",
+          "trans": "Children love playing with trains."
+        }
+      ],
+      "related": []
+    },
+    "قعد": {
+      "lemma": "قعد",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "he sat",
+      "meanings": [
+        {
+          "en": "he sat",
+          "note": "Past tense verb meaning to sit down, or sometimes to stay/remain in a place."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "قعد",
+              "قعد"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "قعدت",
+                "قعدنا"
+              ]
+            },
+            {
+              "cells": [
+                "2nd m",
+                "قعدت",
+                "قعدتوا"
+              ]
+            },
+            {
+              "cells": [
+                "2nd f",
+                "قعدتي",
+                "—"
+              ]
+            },
+            {
+              "cells": [
+                "3rd m",
+                "قعد",
+                "قعدوا"
+              ]
+            },
+            {
+              "cells": [
+                "3rd f",
+                "قعدت",
+                "—"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "تفضل اقعد بالساحة تحت الشجرة.",
+          "trans": "Please have a seat in the courtyard under the tree."
+        },
+        {
+          "text": "ضيفة غرفة أربعة رح تقعد كل الأسبوع.",
+          "trans": "Room four's guest will stay the whole week."
+        }
+      ],
+      "related": []
+    },
+    "كان": {
+      "lemma": "كان",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "he was / it was",
+      "meanings": [
+        {
+          "en": "he was / it was",
+          "note": "Past tense of 'to be' for 3rd person masculine singular. Widely used as an auxiliary verb."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "كان",
+              "كان"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "كنت",
+                "كنا"
+              ]
+            },
+            {
+              "cells": [
+                "2nd m",
+                "كنت",
+                "كنتوا"
+              ]
+            },
+            {
+              "cells": [
+                "2nd f",
+                "كنتي",
+                "—"
+              ]
+            },
+            {
+              "cells": [
+                "3rd m",
+                "كان",
+                "كانوا"
+              ]
+            },
+            {
+              "cells": [
+                "3rd f",
+                "كانت",
+                "—"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "كيف كانت رحلة الباص؟",
+          "trans": "How was the bus ride?"
+        },
+        {
+          "text": "تاني يوم ما رح يكون ممل!",
+          "trans": "The second day will not be boring!"
+        }
+      ],
+      "related": []
+    },
+    "كبير": {
+      "lemma": "كبير",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "big; large; older",
+      "meanings": [
+        {
+          "en": "big; large; older",
+          "note": "Everyday Jordanian adjective (feminine: كبيرة, plural: كبار)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "كبير",
+              "كبيرة",
+              "كبار"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "بنستعمل هاد الدفتر الورق الكبير.",
+          "trans": "We use this big paper ledger."
+        },
+        {
+          "text": "بتعرف الإخوان الكبار منيح!",
+          "trans": "You know older brothers well!"
+        }
+      ],
+      "related": []
+    },
+    "كرتونة": {
+      "lemma": "كرتونة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "cardboard box; carton",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "cardboard box; carton",
+          "note": "Everyday Jordanian feminine noun. Plural: كراتين."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "كرتونة",
+              "كراتين"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "امسك الكراتين الخفيفة وأنا بفتح الباب.",
+          "trans": "Hold the light cartons while I open the door."
+        },
+        {
+          "text": "حطينا الكتب القديمة بكرتونة.",
+          "trans": "We packed the old books in a cardboard box."
+        }
+      ],
+      "related": []
+    },
+    "كل": {
+      "lemma": "كل",
+      "stress": null,
+      "pos": "det",
+      "gloss": "all / every",
+      "meanings": [
+        {
+          "en": "all / every",
+          "note": "A highly versatile quantifier used to mean 'all of', 'every', or 'the whole'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "كل",
+              "كل"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "احكيلي كل شي لازم أعرفه.",
+          "trans": "Tell me everything I need to know."
+        },
+        {
+          "text": "الكل مبسوط بالساحة اليوم.",
+          "trans": "Everyone is happy in the courtyard today."
+        }
+      ],
+      "related": []
+    },
+    "ل": {
+      "lemma": "ل",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "to; for; belonging to",
+      "meanings": [
+        {
+          "en": "to; for; belonging to",
+          "note": "Attached prefix ل- before nouns ('for/to'); before pronoun suffixes in spoken Jordanian it takes the stem إل-: إلي ('for me / mine'), إلك ('for you / yours'), إله ('his'), إلها ('hers'), إلنا ('ours'), إلكم ('yours pl.')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الشنتة الزرقا إلي.",
+          "trans": "The blue suitcase is mine."
+        },
+        {
+          "text": "شكرا كتير إلكم!",
+          "trans": "Thank you all very much!"
+        }
+      ],
+      "related": []
+    },
+    "لا": {
+      "lemma": "لا",
+      "stress": null,
+      "pos": "part",
+      "gloss": "no",
+      "meanings": [
+        {
+          "en": "no",
+          "note": "Everyday Jordanian word for 'no' or 'not', used exactly like Standard Arabic."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "لا",
+              "لا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "لا، ارفعي اليد أول.",
+          "trans": "No, lift the handle first."
+        },
+        {
+          "text": "لا تقلقي يا مدام.",
+          "trans": "Do not worry, ma'am."
+        }
+      ],
+      "related": []
+    },
+    "لعاد": {
+      "lemma": "لعاد",
+      "stress": null,
+      "pos": "part",
+      "gloss": "then / in that case",
+      "meanings": [
+        {
+          "en": "then / in that case",
+          "note": "Jordanian Arabic word meaning 'then' or 'well then!'."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "مو حابب تشرب شاي؟ لعاد شو أعملك؟",
+          "trans": "You don't feel like drinking tea? Well then, what should I make you?"
+        },
+        {
+          "text": "الباص راح علينا، لعاد خلينا ناخد تاكسي.",
+          "trans": "We missed the bus—in that case, let's take a taxi."
+        }
+      ],
+      "related": [],
+      "forms": null
+    },
+    "لـ": {
+      "lemma": "لـ",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "for us",
+      "meanings": [
+        {
+          "en": "for us",
+          "note": "Spoken Levantine dative preposition ('for us')."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "جبتلنا عصير ليمون بارد عشان الحرّ.",
+          "trans": "I brought us cold lemonade because of the heat."
+        },
+        {
+          "text": "هاد البيت إله ذكريات غالية لإلنا كلنا.",
+          "trans": "This house holds precious memories for all of us."
+        }
+      ],
+      "related": [],
+      "forms": null
+    },
+    "لفافة": {
+      "lemma": "لفافة",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "rolls of",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "rolls of",
+          "note": "Plural of لفافة ('roll/scroll'), used in bakeries for cinnamon rolls."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "عملت سلمى لفائف قرفة سخنة مع سكر ناعم عالوجه.",
+          "trans": "Salma made warm cinnamon rolls with powdered sugar on top."
+        },
+        {
+          "text": "لقينا لفافة ورق قديمة مربوطة بخيط جوا الصندوق.",
+          "trans": "We found an old paper scroll tied with string inside the box."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "لفافة",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "لوح": {
+      "lemma": "لوح",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "board; pane (of glass); plank",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "board; pane (of glass); plank",
+          "note": "Refers to a whiteboard (اللوح الأبيض), wooden plank, or windowpane (لوح قزاز)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "لوح",
+              "ألواح"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "كتبنا مهام الأسبوع التلاتة عاللوح الأبيض.",
+          "trans": "We wrote the three tasks for the week on the whiteboard."
+        },
+        {
+          "text": "نضفنا كل ألواح القزاز من الغبرة القديمة.",
+          "trans": "We cleaned all the glass panes of their old dust."
+        }
+      ],
+      "related": []
+    },
+    "ماخد": {
+      "lemma": "ماخد",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "taking",
+      "meanings": [
+        {
+          "en": "taking",
+          "note": "Masculine participle of أخد ('to take'), used for a planned near-future trip."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أنا ماخد إجازة الأسبوع الجاي عشان نسافر عالعقبة.",
+          "trans": "I'm taking time off next week so we can travel to Aqaba."
+        },
+        {
+          "text": "هو ماخد الأمور ببساطة ومو مستعجل أبداً.",
+          "trans": "He's taking things easy and isn't in a rush at all."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ماخد",
+              "—"
+            ]
+          }
+        ]
+      }
     },
     "متبدّل": {
       "lemma": "متبدّل",
@@ -9838,125 +9516,99 @@
       ],
       "related": []
     },
-    "التنين": {
-      "lemma": "التنين",
+    "مخبز": {
+      "lemma": "مخبز",
       "stress": null,
       "pos": "noun",
-      "gloss": "Monday",
+      "gloss": "my bakery",
       "gender": "m",
       "meanings": [
         {
-          "en": "Monday",
-          "note": "Spoken Jordanian form of الاثنين ('Monday', and with ال also 'both / the two')."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "التنين",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "بلشت الشغل يوم التنين الصبح.",
-          "trans": "I started work on Monday morning."
-        },
-        {
-          "text": "باص يوم التنين وصل عالسبعة.",
-          "trans": "Monday's bus arrived at seven."
-        }
-      ],
-      "related": []
-    },
-    "جار": {
-      "lemma": "جار",
-      "stress": null,
-      "pos": "noun",
-      "gloss": "neighbour",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "neighbour",
-          "note": "Everyday Jordanian masculine noun. Plural: جيران."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "جار",
-              "جيران"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "كل الجيران بالشارع طيبين.",
-          "trans": "All the neighbours on the street are kind."
-        },
-        {
-          "text": "صباح الخير يا جارنا العزيز.",
-          "trans": "Good morning, dear neighbour."
-        }
-      ],
-      "related": []
-    },
-    "أبد": {
-      "lemma": "أبد",
-      "stress": null,
-      "pos": "adv",
-      "gloss": "for good / forever",
-      "meanings": [
-        {
-          "en": "for good / forever",
-          "note": "Classic Arabic phrase meaning 'forever' or 'for good'."
+          "en": "my bakery",
+          "note": "Noun of place from خبز (to bake), with -ي ('my')."
         }
       ],
       "moreForms": [],
       "examples": [
         {
-          "text": "استعملنا كلمة أبد.",
-          "trans": "We used the word أبد."
+          "text": "ريحة الخبز الطازة طالعة من مخبز الحارة من الساعة ستة.",
+          "trans": "The smell of fresh bread has been wafting out of the neighborhood bakery since six."
         },
         {
-          "text": "هادي أبد تانية.",
-          "trans": "This is another أبد."
+          "text": "فتحت مخبزي الصغير بهالشارع قبل تلات سنين.",
+          "trans": "I opened my small bakery on this street three years ago."
         }
       ],
       "related": [],
-      "forms": null
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "مخبز",
+              "—"
+            ]
+          }
+        ]
+      }
     },
-    "سلامة": {
-      "lemma": "سلامة",
+    "مساء": {
+      "lemma": "مساء",
       "stress": null,
       "pos": "noun",
-      "gloss": "safety; well-being",
-      "gender": "f",
+      "gloss": "evening",
+      "gender": "m",
       "meanings": [
         {
-          "en": "safety; well-being",
-          "note": "Core word in مع السلامة! ('goodbye!', literally 'with safety') and الحمد لله عالسلامة ('glad you arrived safely')."
+          "en": "evening",
+          "note": "Standard Arabic noun for 'evening', starting the universal greeting مساء الخير."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "مساء الخير يا جيران، كيف حالكم اليوم؟",
+          "trans": "Good evening, neighbors—how are you doing today?"
+        },
+        {
+          "text": "الحفل ببلش الساعة سبعة مساءً بالساحة.",
+          "trans": "The concert starts at seven in the evening in the courtyard."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "مساء",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "مش": {
+      "lemma": "مش",
+      "stress": null,
+      "pos": "part",
+      "gloss": "not",
+      "meanings": [
+        {
+          "en": "not",
+          "note": "The most common negation particle in Levantine Arabic for non-verbs."
         }
       ],
       "forms": {
@@ -9970,8 +9622,8 @@
           {
             "cells": [
               "form",
-              "سلامة",
-              "—"
+              "مش",
+              "مش"
             ]
           }
         ]
@@ -9979,12 +9631,579 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "مع السلامة، بشوفك بكرا!",
-          "trans": "Goodbye, see you tomorrow!"
+          "text": "هادي مش شنتتي!",
+          "trans": "This is not my suitcase!"
         },
         {
-          "text": "الحمد لله على سلامتك.",
-          "trans": "Thank goodness for your safe arrival."
+          "text": "مش بطال لتاني يوم شغل!",
+          "trans": "Not bad for a second day at work!"
+        }
+      ],
+      "related": []
+    },
+    "مع": {
+      "lemma": "مع",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "with",
+      "meanings": [
+        {
+          "en": "with",
+          "note": "Everyday preposition 'with'; takes pronoun suffixes to express 'have on one's person' (معي 'I have with me', معك حق 'you are right')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "معك حق يا نور!",
+          "trans": "You are right, Nour!"
+        },
+        {
+          "text": "مع السلامة!",
+          "trans": "Goodbye! (lit. go with safety)"
+        }
+      ],
+      "related": []
+    },
+    "معقول": {
+      "lemma": "معقول",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "reasonable; really?! / can it be?!",
+      "meanings": [
+        {
+          "en": "reasonable; really?! / can it be?!",
+          "note": "Standalone معقول! is a classic Jordanian exclamation of amazed disbelief ('No way! / Could it really be?!')."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "معقول",
+              "معقولة",
+              "معقولين"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "معقول! قطار جدي الخشب لسا موجود!",
+          "trans": "Could it be! Grandfather's wooden train is still around!"
+        },
+        {
+          "text": "السعر معقول ومناسب للكل.",
+          "trans": "The price is reasonable and fair for everyone."
+        }
+      ],
+      "related": []
+    },
+    "من": {
+      "lemma": "من",
+      "stress": null,
+      "pos": "prep",
+      "gloss": "from",
+      "meanings": [
+        {
+          "en": "from",
+          "note": "One of the most basic Arabic prepositions indicating origin."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "من",
+              "من"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "أنا سلمى من المطبخ.",
+          "trans": "I am Salma from the kitchen."
+        },
+        {
+          "text": "الفطور من السبعة ونص للعشرة.",
+          "trans": "Breakfast is from seven-thirty to ten."
+        }
+      ],
+      "related": []
+    },
+    "نهار": {
+      "lemma": "نهار",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "daytime; daylight",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "daytime; daylight",
+          "note": "Contrasts with ليل ('nighttime'): بنور النهار = 'in broad daylight'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "نهار",
+              "أنهار"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "الشيش الأخضر طالع أحلى بكتير بنور النهار!",
+          "trans": "The green shutters look even lovelier in daylight!"
+        },
+        {
+          "text": "شتغلنا طول النهار وبالمسا شربنا شاي بالنعنع.",
+          "trans": "We worked all day long and in the evening had mint tea."
+        }
+      ],
+      "related": []
+    },
+    "نهاية": {
+      "lemma": "نهاية",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "end",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "end",
+          "note": "Everyday Jordanian feminine noun; نهاية الأسبوع means 'weekend'. Plural: نهايات."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "نهاية",
+              "نهايات"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "في حجز جديد لنهاية الأسبوع.",
+          "trans": "There is a new booking for the weekend."
+        },
+        {
+          "text": "بالنهاية كل شي انحل على خير.",
+          "trans": "In the end everything worked out well."
+        }
+      ],
+      "related": []
+    },
+    "هاد": {
+      "lemma": "هاد",
+      "stress": null,
+      "pos": "det",
+      "gloss": "this (m)",
+      "meanings": [
+        {
+          "en": "this (m)",
+          "note": "Everyday demonstrative pronoun for masculine singular objects."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "هاد",
+              "هاد"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "هون بنستعمل هاد الدفتر الكبير.",
+          "trans": "Here we use this big ledger."
+        },
+        {
+          "text": "هادي الشنتة تقيلة كتير اليوم.",
+          "trans": "This suitcase is very heavy today."
+        }
+      ],
+      "related": []
+    },
+    "هادي": {
+      "lemma": "هادي",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "quiet; calm; gentle",
+      "meanings": [
+        {
+          "en": "quiet; calm; gentle",
+          "note": "Masculine هادي ('quiet') is homographic with the feminine demonstrative هادي ('this'); context and agreement distinguish them cleanly."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "هادي",
+              "هادية",
+              "هاديين"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "المكان فوق الشجرة هادي كتير.",
+          "trans": "The spot above the tree is very quiet."
+        },
+        {
+          "text": "جهزنا إلك غرفة العلية الهادية.",
+          "trans": "We prepared the quiet attic room for you."
+        }
+      ],
+      "related": []
+    },
+    "هدية": {
+      "lemma": "هدية",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "a gift",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "a gift",
+          "note": "Standard Arabic word for 'gift' or 'present'."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "جبتلك هدية بسيطة بمناسبة افتتاح المقهى.",
+          "trans": "I brought you a small gift for the café's opening."
+        },
+        {
+          "text": "أحلى هدية وصلتني كانت البطاقة اللي كتبتيها بإيدك.",
+          "trans": "The nicest gift I received was the card you wrote by hand."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "هدية",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "هون": {
+      "lemma": "هون",
+      "stress": null,
+      "pos": "adv",
+      "gloss": "here",
+      "meanings": [
+        {
+          "en": "here",
+          "note": "Standard adverb for physical location."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "هون",
+              "هون"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "هون بنستعمل هاد الدفتر الكبير.",
+          "trans": "Here we use this big ledger."
+        },
+        {
+          "text": "خليكي هون دقيقة.",
+          "trans": "Stay right here a minute."
+        }
+      ],
+      "related": []
+    },
+    "ورقي": {
+      "lemma": "ورقي",
+      "stress": null,
+      "pos": "adj",
+      "gloss": "paper (adj.)",
+      "meanings": [
+        {
+          "en": "paper (adj.)",
+          "note": "Masculine word formed from ورق ('paper'), meaning 'made of paper'."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "نستخدم أكياس ورقية بدل البلاستيك بالمخبز.",
+          "trans": "We use paper bags instead of plastic at the bakery."
+        },
+        {
+          "text": "لسه بفضل القراءة من كتاب ورقي أكتر من الشاشة.",
+          "trans": "I still prefer reading from a paper book rather than a screen."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ورقي",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "وقّع": {
+      "lemma": "وقّع",
+      "stress": null,
+      "pos": "verb",
+      "gloss": "you signed",
+      "meanings": [
+        {
+          "en": "you signed",
+          "note": "Past tense Arabic verb meaning 'to sign' a contract or lease."
+        }
+      ],
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "وقّعت عقد الإيجار مع صاحب المبنى مبارح.",
+          "trans": "I signed the lease contract with the building owner yesterday."
+        },
+        {
+          "text": "لا توقّع على أي ورقة قبل ما تقرأها منيح.",
+          "trans": "Don't sign any paper before reading it carefully."
+        }
+      ],
+      "related": [],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "past",
+          "pres"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "3ms",
+              "وقّع",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    "يا": {
+      "lemma": "يا",
+      "stress": null,
+      "pos": "part",
+      "gloss": "oh / vocative particle",
+      "meanings": [
+        {
+          "en": "oh / vocative particle",
+          "note": "Vocative particle used when addressing someone directly."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "يا",
+              "يا"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "صباح الخير يا طارق!",
+          "trans": "Good morning, Tariq!"
+        },
+        {
+          "text": "يا سلام عالشمس بعد المطر!",
+          "trans": "Oh, how lovely the sun is after the rain!"
+        }
+      ],
+      "related": []
+    },
+    "ياسمين": {
+      "lemma": "ياسمين",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "jasmine",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "jasmine",
+          "note": "Everyday Jordanian masculine noun. Plural: ياسمين."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ياسمينة",
+              "ياسمين"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "شجرة الياسمين معرشة فوق الباب.",
+          "trans": "The jasmine vine climbs above the door."
+        },
+        {
+          "text": "ريحة الياسمين بالمسا بترد الروح.",
+          "trans": "The evening scent of jasmine lifts the spirit."
+        }
+      ],
+      "related": []
+    },
+    "يوم": {
+      "lemma": "يوم",
+      "stress": null,
+      "pos": "noun",
+      "gloss": "day",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "day",
+          "note": "Standard noun for day, often used in expressions like 'el-yom' (today)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "يوم",
+              "يوم"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "اليوم الجو مشمس ودافي بعمان.",
+          "trans": "Today the weather is sunny and warm in Amman."
+        },
+        {
+          "text": "يومك سعيد وموفق!",
+          "trans": "Have a happy, successful day!"
         }
       ],
       "related": []

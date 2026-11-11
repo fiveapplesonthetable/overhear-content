@@ -618,7 +618,7 @@
           "reading": "'ashaan",
           "lemma": "عشان",
           "stress": null,
-          "pos": "prep",
+          "pos": "conj",
           "gloss": "so that",
           "gram": "conjunction/preposition"
         },
@@ -1227,7 +1227,7 @@
           "reading": "mumkin",
           "lemma": "ممكن",
           "stress": null,
-          "pos": "part",
+          "pos": "adj",
           "gloss": "could; possible",
           "gram": "modal particle"
         },
@@ -2575,7 +2575,7 @@
           "reading": "'ashaan",
           "lemma": "عشان",
           "stress": null,
-          "pos": "prep",
+          "pos": "conj",
           "gloss": "so that",
           "gram": "conjunction/preposition"
         },
@@ -3184,7 +3184,7 @@
           "reading": "mumkin",
           "lemma": "ممكن",
           "stress": null,
-          "pos": "part",
+          "pos": "adj",
           "gloss": "could; possible",
           "gram": "modal particle"
         },
@@ -4532,7 +4532,7 @@
           "reading": "'ashaan",
           "lemma": "عشان",
           "stress": null,
-          "pos": "prep",
+          "pos": "conj",
           "gloss": "so that",
           "gram": "conjunction/preposition"
         },
@@ -5141,7 +5141,7 @@
           "reading": "mumkin",
           "lemma": "ممكن",
           "stress": null,
-          "pos": "part",
+          "pos": "adj",
           "gloss": "could; possible",
           "gram": "modal particle"
         },
@@ -5954,19 +5954,18 @@
       "lemma": "أحسن",
       "stress": null,
       "pos": "adj",
-      "gloss": "better; best",
+      "gloss": "better, best",
       "meanings": [
         {
-          "en": "better; best",
-          "note": "Invariant comparative/superlative of منيح ('good'). Before a noun without ال- it means 'the best' (أحسن نومة 'the best sleep')."
+          "en": "better, best",
+          "note": "Elative form of حسن (hasan), used for comparison."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -5974,8 +5973,7 @@
             "cells": [
               "form",
               "أحسن",
-              "—",
-              "—"
+              "أحسن"
             ]
           }
         ]
@@ -5997,14 +5995,30 @@
       "lemma": "أربعة",
       "stress": null,
       "pos": "num",
-      "gloss": "four",
+      "gloss": "four (masculine)",
       "meanings": [
         {
-          "en": "four",
-          "note": "Numeral 'four'; short form أربع (arba') directly before a plural noun (أربع طاولات 'four tables')."
+          "en": "four (masculine)",
+          "note": "The number four, used with masculine nouns."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أربعة",
+              "أربعة"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -6026,15 +6040,14 @@
       "meanings": [
         {
           "en": "black",
-          "note": "Primary colour adjective ('black'); feminine and non-human plural form is سودا (sooda)."
+          "note": "The color black."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -6042,8 +6055,7 @@
             "cells": [
               "form",
               "أسود",
-              "سودا",
-              "سود"
+              "أسود"
             ]
           }
         ]
@@ -6069,10 +6081,26 @@
       "meanings": [
         {
           "en": "I",
-          "note": "Subject pronoun 'I' for any speaker."
+          "note": "First person singular pronoun."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "أنا",
+              "أنا"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -6204,15 +6232,15 @@
       "lemma": "استنى",
       "stress": null,
       "pos": "verb",
-      "gloss": "to wait",
+      "gloss": "wait (masculine imperative)",
       "meanings": [
         {
-          "en": "to wait",
-          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بستنى, بيستنى)."
+          "en": "wait (masculine imperative)",
+          "note": "Command to a male to wait."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Forms",
         "columns": [
           "",
           "sg",
@@ -6221,37 +6249,9 @@
         "rows": [
           {
             "cells": [
-              "1st",
-              "بستنى",
-              "بنستنى"
-            ]
-          },
-          {
-            "cells": [
-              "2nd m",
-              "بتستنى",
-              "بتستنوا"
-            ]
-          },
-          {
-            "cells": [
-              "2nd f",
-              "بتستني",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd m",
-              "بيستنى",
-              "بيستنوا"
-            ]
-          },
-          {
-            "cells": [
-              "3rd f",
-              "بتستنى",
-              "—"
+              "form",
+              "استنى",
+              "استنى"
             ]
           }
         ]
@@ -6349,7 +6349,7 @@
       "meanings": [
         {
           "en": "Saturday",
-          "note": "Saturday (يوم السبت or simply السبت), start of the Jordanian working/market weekend."
+          "note": "The day of the week, Saturday."
         }
       ],
       "forms": {
@@ -6364,7 +6364,7 @@
             "cells": [
               "form",
               "السبت",
-              "أيام السبت"
+              "السبت"
             ]
           }
         ]
@@ -6603,7 +6603,7 @@
       "meanings": [
         {
           "en": "piano",
-          "note": "Everyday Jordanian masculine noun. Plural: بيانوهات."
+          "note": "The musical instrument."
         }
       ],
       "forms": {
@@ -6618,7 +6618,7 @@
             "cells": [
               "form",
               "بيانو",
-              "بيانوهات"
+              "بيانو"
             ]
           }
         ]
@@ -6640,14 +6640,30 @@
       "lemma": "تحت",
       "stress": null,
       "pos": "prep",
-      "gloss": "under; downstairs; below",
+      "gloss": "under / below",
       "meanings": [
         {
-          "en": "under; downstairs; below",
-          "note": "Used both before a noun ('under, beneath') and standalone ('downstairs')."
+          "en": "under / below",
+          "note": "Indicates physical location beneath something."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "تحت",
+              "تحت"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -6959,10 +6975,26 @@
       "meanings": [
         {
           "en": "three",
-          "note": "Spoken Jordanian numeral 'three'; short form تلات (talaat) directly before a plural noun (تلات سنين 'three years')."
+          "note": "The standalone form of the number 3."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "تلاتة",
+              "تلاتة"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -7098,10 +7130,26 @@
       "meanings": [
         {
           "en": "two",
-          "note": "Spoken Jordanian numeral 'two' (إنتو التنين 'the two of you'); note homograph التنين ('Monday')."
+          "note": "The number 2."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "تنين",
+              "تنين"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -7119,12 +7167,12 @@
       "lemma": "توت",
       "stress": null,
       "pos": "noun",
-      "gloss": "berries; mulberry",
+      "gloss": "berry; berries; mulberry",
       "gender": "m",
       "meanings": [
         {
-          "en": "berries; mulberries",
-          "note": "Collective masculine noun; a single berry is توتة."
+          "en": "berry; berries; mulberry",
+          "note": "Collective masculine noun for berries/mulberries (singulative توتة 'one berry')."
         }
       ],
       "forms": {
@@ -7138,8 +7186,8 @@
           {
             "cells": [
               "form",
-              "توتة",
-              "توت"
+              "توت",
+              "توتات"
             ]
           }
         ]
@@ -7218,7 +7266,7 @@
       "meanings": [
         {
           "en": "ink",
-          "note": "Everyday Jordanian masculine noun. Plural: أحبار."
+          "note": "Standard Arabic and colloquial term for ink used in pens."
         }
       ],
       "forms": {
@@ -7233,7 +7281,7 @@
             "cells": [
               "form",
               "حبر",
-              "أحبار"
+              "حبر"
             ]
           }
         ]
@@ -7255,14 +7303,30 @@
       "lemma": "حتى",
       "stress": null,
       "pos": "part",
-      "gloss": "even; until",
+      "gloss": "even / until",
       "meanings": [
         {
-          "en": "even; until",
-          "note": "Before a noun or clause حتى means 'even' (حتى والغرفة فاضية 'even when the room is empty')."
+          "en": "even / until",
+          "note": "Used to mean 'even' (e.g., even he went) or 'until' (e.g., until tomorrow)."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "حتى",
+              "حتى"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -7280,14 +7344,30 @@
       "lemma": "حدا",
       "stress": null,
       "pos": "pron",
-      "gloss": "someone; anyone",
+      "gloss": "someone",
       "meanings": [
         {
-          "en": "someone; anyone",
-          "note": "Everyday Jordanian word for 'someone / anyone'; with ما في (ما في حدا) it means 'nobody'."
+          "en": "someone",
+          "note": "The standard Levantine colloquial word for 'someone' or 'anyone' (in negative sentences)."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "حدا",
+              "حدا"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -7420,12 +7500,12 @@
       "lemma": "خشب",
       "stress": null,
       "pos": "noun",
-      "gloss": "wood; timber",
+      "gloss": "wood",
       "gender": "m",
       "meanings": [
         {
-          "en": "wood; timber",
-          "note": "Everyday Jordanian masculine noun. Plural: أخشاب."
+          "en": "wood",
+          "note": "Used for the material wood or timber."
         }
       ],
       "forms": {
@@ -7440,7 +7520,7 @@
             "cells": [
               "form",
               "خشب",
-              "أخشاب"
+              "خشب"
             ]
           }
         ]
@@ -7462,12 +7542,12 @@
       "lemma": "خط",
       "stress": null,
       "pos": "noun",
-      "gloss": "handwriting; phone line",
+      "gloss": "line",
       "gender": "m",
       "meanings": [
         {
-          "en": "handwriting; phone line",
-          "note": "Everyday Jordanian masculine noun. Plural: خطوط."
+          "en": "line",
+          "note": "Can mean a physical line, a phone line, a bus route, or handwriting."
         }
       ],
       "forms": {
@@ -7482,7 +7562,7 @@
             "cells": [
               "form",
               "خط",
-              "خطوط"
+              "خط"
             ]
           }
         ]
@@ -7623,10 +7703,26 @@
       "meanings": [
         {
           "en": "five",
-          "note": "Numeral 'five'; short form خمس (khams) before a plural noun (خمس دقايق 'five minutes')."
+          "note": "The number five, used in counting abstractly or before masculine counted nouns."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "خمسة",
+              "خمسة"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -7828,19 +7924,18 @@
       "lemma": "دافي",
       "stress": null,
       "pos": "adj",
-      "gloss": "warm; cozy",
+      "gloss": "warm",
       "meanings": [
         {
-          "en": "warm; cozy",
-          "note": "Everyday Jordanian adjective (feminine: دافية, plural: دافيين)."
+          "en": "warm",
+          "note": "Used to describe warm weather, warm water, or a cozy feeling."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -7848,8 +7943,7 @@
             "cells": [
               "form",
               "دافي",
-              "دافية",
-              "دافيين"
+              "دافي"
             ]
           }
         ]
@@ -7913,15 +8007,15 @@
       "lemma": "دق",
       "stress": null,
       "pos": "verb",
-      "gloss": "to knock; beat; chime",
+      "gloss": "he knocked",
       "meanings": [
         {
-          "en": "to knock; beat; chime",
-          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بدق, بيدق)."
+          "en": "he knocked",
+          "note": "Past tense verb for knocking on a door, hammering a nail, or sometimes calling someone on the phone ('daqq 'ala')."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Forms",
         "columns": [
           "",
           "sg",
@@ -7930,37 +8024,9 @@
         "rows": [
           {
             "cells": [
-              "1st",
-              "بدق",
-              "بندق"
-            ]
-          },
-          {
-            "cells": [
-              "2nd m",
-              "بتدق",
-              "بتدقوا"
-            ]
-          },
-          {
-            "cells": [
-              "2nd f",
-              "بتدقي",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd m",
-              "بيدق",
-              "بيدقوا"
-            ]
-          },
-          {
-            "cells": [
-              "3rd f",
-              "بتدق",
-              "—"
+              "form",
+              "دق",
+              "دق"
             ]
           }
         ]
@@ -8321,15 +8387,15 @@
       "lemma": "رفع",
       "stress": null,
       "pos": "verb",
-      "gloss": "to lift; raise",
+      "gloss": "he lifted / raised",
       "meanings": [
         {
-          "en": "to lift; raise",
-          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (برفع, بيرفع)."
+          "en": "he lifted / raised",
+          "note": "Standard verb for lifting something up or raising."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Forms",
         "columns": [
           "",
           "sg",
@@ -8338,37 +8404,9 @@
         "rows": [
           {
             "cells": [
-              "1st",
-              "برفع",
-              "بنرفع"
-            ]
-          },
-          {
-            "cells": [
-              "2nd m",
-              "بترفع",
-              "بترفعوا"
-            ]
-          },
-          {
-            "cells": [
-              "2nd f",
-              "بترفعي",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd m",
-              "بيرفع",
-              "بيرفعوا"
-            ]
-          },
-          {
-            "cells": [
-              "3rd f",
-              "بترفع",
-              "—"
+              "form",
+              "رفع",
+              "رفع"
             ]
           }
         ]
@@ -8593,12 +8631,12 @@
       "lemma": "زاوية",
       "stress": null,
       "pos": "noun",
-      "gloss": "corner",
+      "gloss": "corner / angle",
       "gender": "f",
       "meanings": [
         {
-          "en": "corner",
-          "note": "Everyday Jordanian feminine noun. Plural: زوايا."
+          "en": "corner / angle",
+          "note": "Refers to a corner of a room or street, or a geometric angle."
         }
       ],
       "forms": {
@@ -8613,7 +8651,7 @@
             "cells": [
               "form",
               "زاوية",
-              "زوايا"
+              "زاوية"
             ]
           }
         ]
@@ -8677,12 +8715,12 @@
       "lemma": "ساعة",
       "stress": null,
       "pos": "noun",
-      "gloss": "hour; clock; watch",
+      "gloss": "hour / watch / clock",
       "gender": "f",
       "meanings": [
         {
-          "en": "hour; clock; watch",
-          "note": "Everyday Jordanian feminine noun. Plural: ساعات."
+          "en": "hour / watch / clock",
+          "note": "Everyday word for an hour of time, a wristwatch, or a wall clock."
         }
       ],
       "forms": {
@@ -8697,7 +8735,7 @@
             "cells": [
               "form",
               "ساعة",
-              "ساعات"
+              "ساعة"
             ]
           }
         ]
@@ -8808,10 +8846,26 @@
       "meanings": [
         {
           "en": "six",
-          "note": "Numeral 'six'; short form ست (sitt) before a plural noun (ست سنين 'six years')."
+          "note": "The number 6."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ستة",
+              "ستة"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -8949,7 +9003,7 @@
       "meanings": [
         {
           "en": "tea",
-          "note": "Everyday Jordanian masculine noun."
+          "note": "A staple beverage in Jordanian culture, typically served with mint or sage."
         }
       ],
       "forms": {
@@ -8964,7 +9018,7 @@
             "cells": [
               "form",
               "شاي",
-              "—"
+              "شاي"
             ]
           }
         ]
@@ -9121,14 +9175,30 @@
       "lemma": "شو",
       "stress": null,
       "pos": "pron",
-      "gloss": "what?",
+      "gloss": "what",
       "meanings": [
         {
-          "en": "what?",
-          "note": "Signature Levantine question word for 'what?'."
+          "en": "what",
+          "note": "Everyday Jordanian interrogative pronoun for 'what'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "شو",
+              "شو"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -9303,12 +9373,12 @@
       "lemma": "ضيف",
       "stress": null,
       "pos": "noun",
-      "gloss": "guest (f. ضيفة)",
+      "gloss": "guest",
       "gender": "m",
       "meanings": [
         {
-          "en": "guest (f. ضيفة)",
-          "note": "Everyday Jordanian masculine noun. Plural: ضيوف."
+          "en": "guest",
+          "note": "Everyday Jordanian masculine noun (feminine: ضيفة). Plural: ضيوف."
         }
       ],
       "forms": {
@@ -9350,7 +9420,7 @@
       "meanings": [
         {
           "en": "table",
-          "note": "Everyday Jordanian feminine noun. Plural: طاولات."
+          "note": "Common everyday word for table."
         }
       ],
       "forms": {
@@ -9365,7 +9435,7 @@
             "cells": [
               "form",
               "طاولة",
-              "طاولات"
+              "طاولة"
             ]
           }
         ]
@@ -9387,12 +9457,12 @@
       "lemma": "طول",
       "stress": null,
       "pos": "noun",
-      "gloss": "length; throughout (طول الأسبوع)",
+      "gloss": "length / along",
       "gender": "m",
       "meanings": [
         {
-          "en": "length; throughout (طول الأسبوع)",
-          "note": "Before a time noun, طول (tuul) means 'all ... long / throughout' (طول الليل all night long, طول الأسبوع all week)."
+          "en": "length / along",
+          "note": "Can refer to physical length, height, or duration of time (e.g., all day)."
         }
       ],
       "forms": {
@@ -9407,7 +9477,7 @@
             "cells": [
               "form",
               "طول",
-              "أطوال"
+              "طول"
             ]
           }
         ]
@@ -9429,19 +9499,18 @@
       "lemma": "عالي",
       "stress": null,
       "pos": "adj",
-      "gloss": "high; loud",
+      "gloss": "high / loud",
       "meanings": [
         {
-          "en": "high; loud",
-          "note": "Everyday Jordanian adjective (feminine: عالية, plural: عاليين)."
+          "en": "high / loud",
+          "note": "Can mean physically high or loud (for a voice or sound)."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -9449,8 +9518,7 @@
             "cells": [
               "form",
               "عالي",
-              "عالية",
-              "عاليين"
+              "عالي"
             ]
           }
         ]
@@ -9513,15 +9581,31 @@
     "عشان": {
       "lemma": "عشان",
       "stress": null,
-      "pos": "prep",
-      "gloss": "for; because of; in order to",
+      "pos": "conj",
+      "gloss": "because / for",
       "meanings": [
         {
-          "en": "for; because of; in order to",
-          "note": "Everyday Jordanian word for 'for / because of' (عشان هيك 'that is why') and 'so that'."
+          "en": "because / for",
+          "note": "Extremely common colloquial conjunction used to indicate reason or purpose."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عشان",
+              "عشان"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -9543,10 +9627,26 @@
       "meanings": [
         {
           "en": "twenty",
-          "note": "Numeral 'twenty' (followed by a singular noun in Arabic: عشرين دقيقة 'twenty minutes')."
+          "note": "The number twenty."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "عشرين",
+              "عشرين"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -9606,14 +9706,30 @@
       "lemma": "على",
       "stress": null,
       "pos": "prep",
-      "gloss": "on; onto; to; at",
+      "gloss": "on / upon",
       "meanings": [
         {
-          "en": "on; onto; to; at",
-          "note": "Everyday preposition 'on, at, to'; before ال- it regularly contracts to عال- ('al- / 'a-)."
+          "en": "on / upon",
+          "note": "Standard preposition for 'on', 'upon', or 'to'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "على",
+              "على"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -9765,14 +9881,30 @@
       "lemma": "فوق",
       "stress": null,
       "pos": "prep",
-      "gloss": "above; upstairs; on top of",
+      "gloss": "above / up",
       "meanings": [
         {
-          "en": "above; upstairs; on top of",
-          "note": "Used both before a noun ('above, over') and standalone ('upstairs')."
+          "en": "above / up",
+          "note": "Used as a preposition or adverb meaning 'above', 'over', or 'upstairs'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "فوق",
+              "فوق"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -9790,14 +9922,30 @@
       "lemma": "قبل",
       "stress": null,
       "pos": "prep",
-      "gloss": "before; ago",
+      "gloss": "before",
       "meanings": [
         {
-          "en": "before; ago",
-          "note": "Means 'before' (قبل الفطور) and with a time span 'ago' (قبل ساعة 'an hour ago', قبل شوي 'just now')."
+          "en": "before",
+          "note": "Preposition and adverb for time or sequence meaning 'prior to' or 'before'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "قبل",
+              "قبل"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -9815,19 +9963,18 @@
       "lemma": "قريب",
       "stress": null,
       "pos": "adj",
-      "gloss": "near; nearby; close",
+      "gloss": "soon",
       "meanings": [
         {
-          "en": "near; nearby; close",
-          "note": "Everyday Jordanian adjective (feminine: قريبة, plural: قراب)."
+          "en": "soon",
+          "note": "Everyday Jordanian word for soon or near."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "m",
-          "f",
+          "sg",
           "pl"
         ],
         "rows": [
@@ -9835,8 +9982,7 @@
             "cells": [
               "form",
               "قريب",
-              "قريبة",
-              "قراب"
+              "قريب"
             ]
           }
         ]
@@ -9858,12 +10004,12 @@
       "lemma": "قزاز",
       "stress": null,
       "pos": "noun",
-      "gloss": "glass (material/pane)",
+      "gloss": "glass",
       "gender": "m",
       "meanings": [
         {
-          "en": "glass (material/pane)",
-          "note": "Spoken Jordanian form of زجاج ('glass')."
+          "en": "glass",
+          "note": "Refers to the material glass, a pane of glass, or sometimes a glass bottle."
         }
       ],
       "forms": {
@@ -9878,7 +10024,7 @@
             "cells": [
               "form",
               "قزاز",
-              "—"
+              "قزاز"
             ]
           }
         ]
@@ -9900,15 +10046,15 @@
       "lemma": "كان",
       "stress": null,
       "pos": "verb",
-      "gloss": "to be (was / will be)",
+      "gloss": "he was / it was",
       "meanings": [
         {
-          "en": "to be (was / will be)",
-          "note": "Arabic uses no 'is/are' in the simple present, while كان supplies the past ('was/were') and يكون / بيكون supplies future or modal 'be'."
+          "en": "he was / it was",
+          "note": "Past tense of 'to be' for 3rd person masculine singular. Widely used as an auxiliary verb."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Forms",
         "columns": [
           "",
           "sg",
@@ -9917,37 +10063,9 @@
         "rows": [
           {
             "cells": [
-              "1st",
-              "بكون",
-              "بنكون"
-            ]
-          },
-          {
-            "cells": [
-              "2nd m",
-              "بتكون",
-              "بتكونوا"
-            ]
-          },
-          {
-            "cells": [
-              "2nd f",
-              "بتكوني",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd m",
-              "بيكون",
-              "بيكونوا"
-            ]
-          },
-          {
-            "cells": [
-              "3rd f",
-              "بتكون",
-              "—"
+              "form",
+              "كان",
+              "كان"
             ]
           }
         ]
@@ -10066,15 +10184,15 @@
       "lemma": "كتب",
       "stress": null,
       "pos": "verb",
-      "gloss": "to write",
+      "gloss": "he wrote / books",
       "meanings": [
         {
-          "en": "to write",
-          "note": "Everyday Jordanian verb; spoken present adds the b- prefix (بكتب, بيكتب)."
+          "en": "he wrote / books",
+          "note": "Depending on vowels, it means 'he wrote' (katab) or plural 'books' (kutub)."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Forms",
         "columns": [
           "",
           "sg",
@@ -10083,37 +10201,9 @@
         "rows": [
           {
             "cells": [
-              "1st",
-              "بكتب",
-              "بنكتب"
-            ]
-          },
-          {
-            "cells": [
-              "2nd m",
-              "بتكتب",
-              "بتكتبوا"
-            ]
-          },
-          {
-            "cells": [
-              "2nd f",
-              "بتكتبي",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "3rd m",
-              "بيكتب",
-              "بيكتبوا"
-            ]
-          },
-          {
-            "cells": [
-              "3rd f",
-              "بتكتب",
-              "—"
+              "form",
+              "كتب",
+              "كتب"
             ]
           }
         ]
@@ -10206,14 +10296,30 @@
       "lemma": "كل",
       "stress": null,
       "pos": "det",
-      "gloss": "every; all; whole",
+      "gloss": "all / every",
       "meanings": [
         {
-          "en": "every; all; whole",
-          "note": "Before an indefinite singular noun كل means 'every' (كل يوم 'every day'); before a definite noun it means 'all / the whole' (كل الأسبوع 'all week')."
+          "en": "all / every",
+          "note": "A highly versatile quantifier used to mean 'all of', 'every', or 'the whole'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "كل",
+              "كل"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -10231,12 +10337,12 @@
       "lemma": "كيكة",
       "stress": null,
       "pos": "noun",
-      "gloss": "cake",
+      "gloss": "a cake",
       "gender": "f",
       "meanings": [
         {
-          "en": "cake",
-          "note": "Everyday Jordanian feminine noun. Plural: كيكات."
+          "en": "a cake",
+          "note": "Refers to a single, whole cake, or a distinct slice (singulative form of kēk)."
         }
       ],
       "forms": {
@@ -10251,7 +10357,7 @@
             "cells": [
               "form",
               "كيكة",
-              "كيكات"
+              "كيكة"
             ]
           }
         ]
@@ -10273,12 +10379,12 @@
       "lemma": "لوز",
       "stress": null,
       "pos": "noun",
-      "gloss": "almonds",
+      "gloss": "almonds / great (slang)",
       "gender": "m",
       "meanings": [
         {
-          "en": "almonds",
-          "note": "Collective noun for almonds (singulative لوزة)."
+          "en": "almonds / great (slang)",
+          "note": "Literally means almonds, but heavily used in Jordanian youth slang to mean 'everything is perfect' or 'great'."
         }
       ],
       "forms": {
@@ -10292,7 +10398,7 @@
           {
             "cells": [
               "form",
-              "لوزة",
+              "لوز",
               "لوز"
             ]
           }
@@ -10357,14 +10463,30 @@
       "lemma": "ما",
       "stress": null,
       "pos": "part",
-      "gloss": "not; what/that",
+      "gloss": "not / what",
       "meanings": [
         {
-          "en": "not; what/that",
-          "note": "Negates verbs and في (ما بعرف 'I don't know', ما في 'there isn't'), and links conjunctions like قبل ما ('before') and بعد ما ('after')."
+          "en": "not / what",
+          "note": "Used mostly as a negative particle for verbs ('didn't') or as a relative pronoun/conjunction ('what' or 'that which')."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ما",
+              "ما"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -10878,15 +11000,31 @@
     "ممكن": {
       "lemma": "ممكن",
       "stress": null,
-      "pos": "part",
-      "gloss": "may I?; could?; possible",
+      "pos": "adj",
+      "gloss": "possible / maybe",
       "meanings": [
         {
-          "en": "may I?; could?; possible",
-          "note": "Placed before a subjunctive verb, ممكن makes an effortless polite request ('may I / could we?')."
+          "en": "possible / maybe",
+          "note": "Used to ask for permission 'is it possible?' or to say 'perhaps'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ممكن",
+              "ممكن"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -10904,14 +11042,30 @@
       "lemma": "من",
       "stress": null,
       "pos": "prep",
-      "gloss": "from; of; than",
+      "gloss": "from",
       "meanings": [
         {
-          "en": "from; of; than",
-          "note": "Everyday preposition meaning 'from', 'of', or 'than' after comparatives."
+          "en": "from",
+          "note": "One of the most basic Arabic prepositions indicating origin."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "من",
+              "من"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -10934,7 +11088,7 @@
       "meanings": [
         {
           "en": "half",
-          "note": "Spoken Jordanian form of نصف ('half'); used for half hours (السبعة ونص seven thirty) and quantities (نص كاسة half a glass)."
+          "note": "Extremely common word used in time (e.g., 3 and a half) and measurements."
         }
       ],
       "forms": {
@@ -10949,7 +11103,7 @@
             "cells": [
               "form",
               "نص",
-              "أنصاص"
+              "نص"
             ]
           }
         ]
@@ -10971,14 +11125,30 @@
       "lemma": "هاد",
       "stress": null,
       "pos": "det",
-      "gloss": "this; that (m.)",
+      "gloss": "this (m)",
       "meanings": [
         {
-          "en": "this; that (m.)",
-          "note": "Spoken Jordanian demonstrative ('this / that'); feminine هادي (haadi), plural هدول (hadool). Before ال- it also contracts to هال-."
+          "en": "this (m)",
+          "note": "Everyday demonstrative pronoun for masculine singular objects."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "هاد",
+              "هاد"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -11046,14 +11216,30 @@
       "lemma": "ورا",
       "stress": null,
       "pos": "prep",
-      "gloss": "behind; past",
+      "gloss": "behind",
       "meanings": [
         {
-          "en": "behind; past",
-          "note": "Spoken Jordanian form of وراء ('behind, past')."
+          "en": "behind",
+          "note": "Very common spatial preposition in Jordanian Arabic."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ورا",
+              "ورا"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -11071,12 +11257,12 @@
       "lemma": "ورق",
       "stress": null,
       "pos": "noun",
-      "gloss": "paper; leaf (collective ورق)",
+      "gloss": "paper / leaves",
       "gender": "m",
       "meanings": [
         {
-          "en": "paper; leaf (collective ورق)",
-          "note": "Collective ورق ('paper / tree leaves'), singulative ورقة ('a sheet of paper / note'), plural أوراق ('documents / papers')."
+          "en": "paper / leaves",
+          "note": "Collective noun used for paper material or leaves of a tree."
         }
       ],
       "forms": {
@@ -11090,8 +11276,8 @@
           {
             "cells": [
               "form",
-              "ورقة",
-              "أوراق"
+              "ورق",
+              "ورق"
             ]
           }
         ]
@@ -11164,14 +11350,30 @@
       "lemma": "ولا",
       "stress": null,
       "pos": "conj",
-      "gloss": "or (in questions); nor; not even",
+      "gloss": "neither / nor / or / not even",
       "meanings": [
         {
-          "en": "or (in questions); nor; not even",
-          "note": "With two pronunciations in context: walla ('or' in choice questions: عالشارع ولا عالساحة؟) and wala ('not even / nor': ولا خدش 'not a single scratch', ولا يهمك 'do not worry at all')."
+          "en": "neither / nor / or / not even",
+          "note": "Used in negative constructions or as a strong negative emphasis."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "ولا",
+              "ولا"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -11189,14 +11391,30 @@
       "lemma": "يا",
       "stress": null,
       "pos": "part",
-      "gloss": "O / hey (vocative)",
+      "gloss": "oh / vocative particle",
       "meanings": [
         {
-          "en": "O / hey (vocative)",
-          "note": "Placed directly before a name or title when addressing someone in Arabic (يا نور 'Nour!', يا أستاذ 'sir!') and in exclamations (يا سلام! 'wonderful!')."
+          "en": "oh / vocative particle",
+          "note": "Vocative particle used when addressing someone directly."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "يا",
+              "يا"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
