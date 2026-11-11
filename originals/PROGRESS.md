@@ -147,3 +147,11 @@ All existing `-en` outputs remain 100% byte-identical. For `en-<native>` pairs (
 4. **`spans.json` & Published `transcript.lines[].lang`:** Narrator segments (`v == "narrator"`) now carry `"lang": "<native>"` (`"es"`, `"pt"`, `"hi"`, etc.) rather than `"en"`, while studied dialogue segments carry `"lang": "en"`. Any app/publisher filter that previously checked `line.lang != "en"` to mean "studied target line" MUST instead check `line.lang == pair.target` (or `v != "narrator"`).
 5. **`learn/<pair>/*.json` & `word-origins/<pair>.json`:** `learn` articles store localized maps `{"<native>": "..."}` (`{"es": "..."}`, `{"pt": "..."}`), and `word-origins` stores `etymology` and `notes` in `<native>`.
 6. **Future CJK Native Narrators (`en-ja`, `en-zh`):** In `spec/OUTPUT-CONTRACT.md` §2, narrator segments in `timing.json` tokenize by whitespace rather than `native_text` spans. On unspaced Japanese/Chinese narrator text, whitespace tokenization produces clause-level tokens rather than word-level tokens unless the app highlights narrator segments at sentence level (`spans.json`) or segments CJK narrator strings.
+
+## 8. Russian Homograph Stress Re-Render (2026-11-11 — `RUSSIAN-RERENDER.md`)
+
+- **Scope & Runtime:** Re-rendered all 18 episodes / **144 scenes** of `dvorik-u-mosta` (`s01e01`–`s03e06`, `ru-en`) with `render/data/ru_homographs.txt.gz` active across 6 parallel A100 queue workers from `2026-11-11T00:01:10Z` to `2026-11-11T08:47:42Z` (**8.78 hours** wall-clock), alongside all 18 episodes / **144 scenes** of `linden-courtyard-ru` (`s01e01`–`s03e06`, `en-ru`). All 36/36 Russian episodes are packaged and released.
+- **Stress Verification Metrics (`dvorik-u-mosta` `report.json` across 144 scenes):**
+  - `russianSentences`: **7,560**; `wordsChecked`: **36,842** under the `homographs` policy; `missingMarks`: **0** across all 144 scenes.
+  - Feedback #57 (`dvorik-u-mosta-s02e01-scene-01` segment 2 **замо́к**) passed stress verification cleanly (`0` unresolved on seg 2).
+  - Remaining stress flags: `sentencesFlaggedInitially`: **33**, `stillFlagged`: **33**, `wordsFlagged`: **99** (`99` unresolved token-take occurrences across those 33 lines).
