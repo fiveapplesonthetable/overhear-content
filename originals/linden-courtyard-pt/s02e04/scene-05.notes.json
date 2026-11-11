@@ -75,7 +75,7 @@
           "lemma": "sign",
           "pos": "noun",
           "stress": "saɪn",
-          "gloss": "placa, letreiro; assinar (verbo)",
+          "gloss": "placa, letreiro; sinal, indício",
           "gram": "substantivo"
         },
         {
@@ -170,7 +170,7 @@
           "t": "easy",
           "lemma": "easy",
           "pos": "adj",
-          "stress": "ˈiː.zi",
+          "stress": "ˈizi",
           "gloss": "fácil",
           "gram": "adjetivo"
         },
@@ -698,7 +698,7 @@
           "t": "aunt's",
           "lemma": "aunt",
           "pos": "noun",
-          "stress": "ɑːnt",
+          "stress": "ænt",
           "gloss": "tia",
           "gram": "substantivo"
         },
@@ -830,7 +830,7 @@
           "t": "proud.",
           "lemma": "proud",
           "pos": "adj",
-          "stress": "praʊd",
+          "stress": "pɹaʊd",
           "gloss": "orgulhoso, orgulhosa",
           "gram": "adjetivo"
         }
@@ -1766,7 +1766,7 @@
           "t": "waltz",
           "lemma": "waltz",
           "pos": "noun",
-          "stress": "wɔːls",
+          "stress": "wɔlts",
           "gloss": "valsa",
           "gram": "substantivo"
         },
@@ -2103,7 +2103,7 @@
           "lemma": "sign",
           "pos": "noun",
           "stress": "saɪn",
-          "gloss": "placa, letreiro; assinar (verbo)",
+          "gloss": "placa, letreiro; sinal, indício",
           "gram": "substantivo"
         },
         {
@@ -2198,7 +2198,7 @@
           "t": "easy",
           "lemma": "easy",
           "pos": "adj",
-          "stress": "ˈiː.zi",
+          "stress": "ˈizi",
           "gloss": "fácil",
           "gram": "adjetivo"
         },
@@ -2726,7 +2726,7 @@
           "t": "aunt's",
           "lemma": "aunt",
           "pos": "noun",
-          "stress": "ɑːnt",
+          "stress": "ænt",
           "gloss": "tia",
           "gram": "substantivo"
         },
@@ -2858,7 +2858,7 @@
           "t": "proud.",
           "lemma": "proud",
           "pos": "adj",
-          "stress": "praʊd",
+          "stress": "pɹaʊd",
           "gloss": "orgulhoso, orgulhosa",
           "gram": "adjetivo"
         }
@@ -3794,7 +3794,7 @@
           "t": "waltz",
           "lemma": "waltz",
           "pos": "noun",
-          "stress": "wɔːls",
+          "stress": "wɔlts",
           "gloss": "valsa",
           "gram": "substantivo"
         },
@@ -4131,7 +4131,7 @@
           "lemma": "sign",
           "pos": "noun",
           "stress": "saɪn",
-          "gloss": "placa, letreiro; assinar (verbo)",
+          "gloss": "placa, letreiro; sinal, indício",
           "gram": "substantivo"
         },
         {
@@ -4226,7 +4226,7 @@
           "t": "easy",
           "lemma": "easy",
           "pos": "adj",
-          "stress": "ˈiː.zi",
+          "stress": "ˈizi",
           "gloss": "fácil",
           "gram": "adjetivo"
         },
@@ -4754,7 +4754,7 @@
           "t": "aunt's",
           "lemma": "aunt",
           "pos": "noun",
-          "stress": "ɑːnt",
+          "stress": "ænt",
           "gloss": "tia",
           "gram": "substantivo"
         },
@@ -4886,7 +4886,7 @@
           "t": "proud.",
           "lemma": "proud",
           "pos": "adj",
-          "stress": "praʊd",
+          "stress": "pɹaʊd",
           "gloss": "orgulhoso, orgulhosa",
           "gram": "adjetivo"
         }
@@ -5822,7 +5822,7 @@
           "t": "waltz",
           "lemma": "waltz",
           "pos": "noun",
-          "stress": "wɔːls",
+          "stress": "wɔlts",
           "gloss": "valsa",
           "gram": "substantivo"
         },
@@ -6224,8 +6224,8 @@
       "gloss": "também, além disso",
       "meanings": [
         {
-          "en": "também, além disso",
-          "note": "Coloca-se antes do verbo principal, mas depois do verbo be."
+          "en": "também, igualmente",
+          "note": "Costuma aparecer antes do núcleo verbal ou depois da forma 'to be', nunca no fim da frase como 'too'."
         }
       ],
       "forms": null,
@@ -6240,7 +6240,16 @@
           "trans": "O quarto é silencioso e também ensolarado."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "too",
+          "gloss": "também"
+        },
+        {
+          "word": "besides",
+          "gloss": "além disso"
+        }
+      ]
     },
     "and": {
       "lemma": "and",
@@ -6293,42 +6302,28 @@
       "related": []
     },
     "aunt": {
-      "pos": "noun",
-      "stress": "ɑːnt",
-      "gloss": "tia",
       "lemma": "aunt",
-      "meanings": [
-        {
-          "en": "TODO",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "aunt"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
+      "pos": "noun",
+      "stress": "ænt",
+      "gloss": "tia",
       "examples": [
         {
-          "text": "An example with aunt.",
-          "trans": "Um exemplo com aunt."
+          "text": "My aunt lives in Paris.",
+          "trans": "Minha tia mora em Paris."
         },
         {
-          "text": "An example with aunt.",
-          "trans": "Um exemplo com aunt."
+          "text": "My aunt lives in Paris.",
+          "trans": "Minha tia mora em Paris."
         }
       ],
+      "meanings": [
+        {
+          "en": "tia",
+          "note": "A irmã do seu pai ou da sua mãe, ou a esposa do seu tio."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "related": []
     },
     "away": {
@@ -6350,7 +6345,7 @@
           "trans": "A estação fica a dez minutos daqui."
         },
         {
-          "text": "Put your coat away in the closet.",
+          "text": "Put your coat away in the wardrobe.",
           "trans": "Guarde seu casaco no armário."
         }
       ],
@@ -6526,8 +6521,8 @@
       "gloss": "estante de livros",
       "meanings": [
         {
-          "en": "estante de livros",
-          "note": "Móvel composto por prateleiras horizontais, aberto ou fechado com vidro, destinado a guardar e organizar livros."
+          "en": "estante para livros",
+          "note": "Móvel com prateleiras verticais destinado principalmente a guardar livros."
         }
       ],
       "forms": {
@@ -6554,18 +6549,18 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "The wooden bookcase beside the staircase holds dozens of old city maps.",
-          "trans": "A estante de livros de madeira ao lado da escada guarda dezenas de mapas antigos da cidade."
+          "text": "He bought a new bookcase for his study.",
+          "trans": "Ele comprou uma estante de livros nova para o escritório."
         },
         {
-          "text": "They cleared the bottom shelf of the bookcase for neighbourhood paperbacks.",
-          "trans": "Eles esvaziaram a prateleira inferior da estante para os livros de bolso da vizinhança."
+          "text": "A tall oak bookcase stood beside the fireplace.",
+          "trans": "Uma estante alta de carvalho ficava ao lado da lareira."
         }
       ],
       "related": [
         {
           "word": "shelf",
-          "gloss": "prateleira, estante"
+          "gloss": "prateleira"
         },
         {
           "word": "library",
@@ -6613,7 +6608,7 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "She traveled here by morning train.",
+          "text": "She travelled here by morning train.",
           "trans": "Ela viajou para cá no trem da manhã."
         },
         {
@@ -6627,11 +6622,11 @@
       "lemma": "café",
       "stress": "kæˈfeɪ",
       "pos": "noun",
-      "gloss": "café, cafeteria, bistrô",
+      "gloss": "cafeteria, café (estabelecimento)",
       "meanings": [
         {
-          "en": "café, cafeteria, bistrô",
-          "note": "Pequeno estabelecimento acolhedor especializado em servir café, chá, bolos, tortas e refeições ligeiras."
+          "en": "cafeteria, bistrô ou casa de café",
+          "note": "Em inglês, 'café' refere-se ao estabelecimento onde se servem bebidas e lanches; a bebida chama-se 'coffee'."
         }
       ],
       "forms": {
@@ -6658,18 +6653,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "The Room Nine Garden Café opens on Friday with fresh soup and lemon tart.",
-          "trans": "O Café do Jardim Quarto Nove abre na sexta-feira com sopa fresca e torta de limão."
+          "text": "We sat outside the café enjoying the sun.",
+          "trans": "Nós nos sentamos do lado de fora da cafeteria aproveitando o sol."
         },
         {
-          "text": "A friendly neighbourhood café soon becomes the natural meeting place on the street.",
-          "trans": "Uma cafeteria acolhedora do bairro logo se torna o ponto de encontro natural da rua."
+          "text": "The corner café opens at seven every morning for fresh rolls.",
+          "trans": "A cafeteria da esquina abre às sete todas as manhãs com pãezinhos frescos."
         }
       ],
       "related": [
         {
+          "word": "coffee",
+          "gloss": "café (bebida)"
+        },
+        {
           "word": "bakery",
-          "gloss": "padaria, confeitaria"
+          "gloss": "padaria"
         }
       ]
     },
@@ -6881,7 +6880,7 @@
           "trans": "Confira o número do quarto na sua chave."
         },
         {
-          "text": "Two travelers checked into room six.",
+          "text": "Two travellers checked into room six.",
           "trans": "Dois viajantes deram entrada no quarto seis."
         }
       ],
@@ -7019,7 +7018,7 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "The cafe serves neighbors daily.",
+          "text": "The cafe serves neighbours daily.",
           "trans": "O café atende os vizinhos diariamente."
         },
         {
@@ -7120,7 +7119,7 @@
     "easy": {
       "lemma": "easy",
       "pos": "adj",
-      "stress": "ˈiː.zi",
+      "stress": "ˈizi",
       "gloss": "fácil",
       "examples": [
         {
@@ -7138,21 +7137,7 @@
           "note": "Que pode ser alcançado sem grande esforço ou dificuldade."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "easy"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "related": []
     },
@@ -7496,14 +7481,14 @@
       "related": []
     },
     "hallway": {
-      "lemma": "hallway",
-      "stress": "ˈhɔlˌweɪ",
       "pos": "noun",
-      "gloss": "corredor, hall de entrada",
+      "stress": "ˈhɔlˌweɪ",
+      "gloss": "corredor",
+      "lemma": "hallway",
       "meanings": [
         {
-          "en": "corredor, hall de entrada",
-          "note": "Passagem interna de circulação ou vestíbulo de entrada que dá acesso a quartos, salas ou escadas em um edifício."
+          "note": "",
+          "en": "corredor"
         }
       ],
       "forms": {
@@ -7515,14 +7500,8 @@
         "rows": [
           {
             "cells": [
-              "singular",
+              "base",
               "hallway"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
-              "hallways"
             ]
           }
         ]
@@ -7530,20 +7509,15 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "All those travel guides came straight from the tall hallway bookcase.",
-          "trans": "Todos aqueles guias de viagem vieram diretamente da estante alta do corredor."
+          "text": "In the hallway.",
+          "trans": "No corredor."
         },
         {
-          "text": "Freshly baked cinnamon rolls filled the upstairs hallway with warm fragrance.",
-          "trans": "Rolinhos de canela recém-assados encheram o corredor do andar de cima com um aroma acolhedor."
+          "text": "Dark hallway.",
+          "trans": "Corredor escuro."
         }
       ],
-      "related": [
-        {
-          "word": "hall",
-          "gloss": "salão, corredor; prefeitura (City Hall)"
-        }
-      ]
+      "related": []
     },
     "have": {
       "lemma": "have",
@@ -8075,8 +8049,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Does your brother live in Portland?",
-          "trans": "Seu irmão mora em Portland?"
+          "text": "Does your brother live in London?",
+          "trans": "Seu irmão mora em Londres?"
         },
         {
           "text": "Our family lived two streets away.",
@@ -8243,8 +8217,8 @@
       "gloss": "cardápio, menu",
       "meanings": [
         {
-          "en": "cardápio, menu",
-          "note": "Lista impressa, em quadro ou digital com as opções de pratos, sobremesas, bebidas e preços disponíveis em um estabelecimento."
+          "en": "cardápio de restaurante ou lista de opções em tela",
+          "note": "Designa tanto a lista impressa de pratos e bebidas quanto menus digitais de programas."
         }
       ],
       "forms": {
@@ -8271,22 +8245,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Did you secretly keep a laminated copy of my printed café menu?",
-          "trans": "Você guardou em segredo uma cópia plastificada do meu cardápio impresso do café?"
+          "text": "Can I see the breakfast menu?",
+          "trans": "Posso ver o cardápio do café da manhã?"
         },
         {
-          "text": "The autumn menu features lentil soup, crusty bread, and warm lemon tart.",
-          "trans": "O cardápio de outono traz sopa de lentilha, pão crocante e torta morna de limão."
+          "text": "They changed the daily menu for the summer festival.",
+          "trans": "Eles mudaram o cardápio do dia para o festival de verão."
         }
       ],
       "related": [
         {
-          "word": "list",
-          "gloss": "lista"
+          "word": "dish",
+          "gloss": "prato"
         },
         {
-          "word": "price",
-          "gloss": "preço, diária"
+          "word": "order",
+          "gloss": "pedir, pedido"
         }
       ]
     },
@@ -8394,11 +8368,11 @@
       "lemma": "neighbourhood",
       "stress": "ˈneɪbɚˌhʊd",
       "pos": "noun",
-      "gloss": "bairro, vizinhança",
+      "gloss": "vizinhança, bairro",
       "meanings": [
         {
-          "en": "bairro, vizinhança",
-          "note": "Área geográfica local de uma cidade ou distrito com identidade própria, bem como o conjunto de moradores que vivem próximos (grafia britânica e canadense de 'neighborhood')."
+          "en": "bairro residencial ou conjunto dos moradores vizinhos",
+          "note": "Grafia britânica e canadense equivalente ao norte-americano 'neighborhood'."
         }
       ],
       "forms": {
@@ -8425,18 +8399,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Did you place a basket by the door for neighbourhood book sharing?",
-          "trans": "Você deixou um cesto perto da porta para o compartilhamento de livros do bairro?"
+          "text": "It is a quiet neighbourhood with brick houses and shade trees.",
+          "trans": "É um bairro tranquilo com casas de tijolos e árvores de sombra."
         },
         {
-          "text": "A lively neighbourhood reading corner makes the whole street feel warmer.",
-          "trans": "Um cantinho de leitura animado na vizinhança torna a rua inteira mais acolhedora."
+          "text": "Everyone in the neighbourhood was invited to the courtyard tea.",
+          "trans": "Cada pessoa da vizinhança foi convidado para o chá no pátio."
         }
       ],
       "related": [
         {
-          "word": "district",
-          "gloss": "distrito, bairro"
+          "word": "neighbour",
+          "gloss": "vizinho"
+        },
+        {
+          "word": "street",
+          "gloss": "rua"
         }
       ]
     },
@@ -8547,8 +8525,8 @@
       "gloss": "em ponto (para horas cheias)",
       "meanings": [
         {
-          "en": "em ponto (para horas cheias)",
-          "note": "Usa-se apenas com horas cheias de um a doze: eight o'clock."
+          "en": "horas em ponto (usado exclusivamente após números inteiros de 1 a 12)",
+          "note": "Nunca se usa com minutos ('eight thirty o'clock' é incorreto) nem seguido de 'a.m.' ou 'p.m.' na escrita formal."
         }
       ],
       "forms": null,
@@ -8556,14 +8534,23 @@
       "examples": [
         {
           "text": "Breakfast begins at eight o'clock.",
-          "trans": "O café da manhã começa às oito em ponto."
+          "trans": "O café da manhã começa às oito horas em ponto."
         },
         {
           "text": "The quiet bell chimed twelve o'clock.",
-          "trans": "O relógio tranquilo bateu doze horas em ponto."
+          "trans": "O sino discreto badalou meio-dia em ponto."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "clock",
+          "gloss": "relógio"
+        },
+        {
+          "word": "hour",
+          "gloss": "hora"
+        }
+      ]
     },
     "of": {
       "lemma": "of",
@@ -8852,7 +8839,7 @@
     },
     "proud": {
       "lemma": "proud",
-      "stress": "praʊd",
+      "stress": "pɹaʊd",
       "pos": "adj",
       "gloss": "orgulhoso, orgulhosa",
       "meanings": [
@@ -9115,17 +9102,28 @@
       "related": []
     },
     "share": {
+      "lemma": "share",
+      "pos": "verb",
+      "stress": "ʃɛɹ",
+      "gloss": "compartilhar",
       "examples": [
         {
-          "text": "Neighbors love our small basket for book sharing.",
-          "trans": "I vicini adorano il nostro piccolo cesto per lo scambio di libri."
+          "text": "He shared his food with his friend.",
+          "trans": "Ele compartilhou sua comida com seu amigo."
         },
         {
-          "text": "Let us share one warm lemon tart with two forks.",
-          "trans": "Dividiamoci una crostatina calda al limone con due forchette."
+          "text": "He shared his food with his friend.",
+          "trans": "Ele compartilhou sua comida com seu amigo."
+        }
+      ],
+      "meanings": [
+        {
+          "en": "compartilhar",
+          "note": "Usar ou possuir algo junto com outras pessoas."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -9161,21 +9159,10 @@
               "sharing"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "condividere, dividere, mettere in comune",
-      "lemma": "share",
-      "meanings": [
-        {
-          "en": "condividere, dividere, mettere in comune",
-          "note": "La sua forma in -ing si usa correntemente come sostantivo d'attività collettiva: book sharing ('scambio / condivisione di libri')."
-        }
-      ],
       "moreForms": [],
-      "pos": "verb",
-      "related": [],
-      "stress": "ʃɛɹ"
+      "related": []
     },
     "shell": {
       "lemma": "shell",
@@ -9258,7 +9245,7 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "The harbor is just a short walk away.",
+          "text": "The harbour is just a short walk away.",
           "trans": "O porto fica a uma curta caminhada daqui."
         },
         {
@@ -9272,11 +9259,15 @@
       "lemma": "sign",
       "stress": "saɪn",
       "pos": "noun",
-      "gloss": "placa, letreiro; assinar (verbo)",
+      "gloss": "placa, letreiro; sinal, indício",
       "meanings": [
         {
-          "en": "placa, letreiro; assinar (verbo)",
-          "note": "O g é mudo (/saɪn/) tanto no substantivo ('placa') quanto no verbo ('assinar')."
+          "en": "placa, tabuleta ou letreiro informativo",
+          "note": "Inclui placas de trânsito, letreiros de lojas e avisos afixados."
+        },
+        {
+          "en": "sinal, gesto, indício ou vestígio",
+          "note": "Empregado para sintomas, pistas ou gestos simbólicos."
         }
       ],
       "forms": {
@@ -9288,32 +9279,14 @@
         "rows": [
           {
             "cells": [
-              "base",
+              "singular",
               "sign"
             ]
           },
           {
             "cells": [
-              "3rd sg",
+              "plural",
               "signs"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "signed"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "signed"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "signing"
             ]
           }
         ]
@@ -9321,15 +9294,24 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Does the shop have a sign outside?",
-          "trans": "A loja tem uma placa do lado de fora?"
+          "text": "Does the bakery have a painted wooden sign outside the gate?",
+          "trans": "A padaria tem uma placa de madeira pintada do lado de fora do portão?"
         },
         {
-          "text": "The mailman asked me to sign here.",
-          "trans": "O carteiro pediu que eu assinasse aqui."
+          "text": "Yellow buds on the branches are the first sign of spring.",
+          "trans": "Brotos amarelos nos galhos são o primeiro sinal da primavera."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "plaque",
+          "gloss": "placa comemorativa"
+        },
+        {
+          "word": "signal",
+          "gloss": "sinal"
+        }
+      ]
     },
     "six": {
       "lemma": "six",
@@ -9557,15 +9539,11 @@
       "lemma": "tart",
       "stress": "tɑɹt",
       "pos": "noun",
-      "gloss": "torta (aberta), tortinha",
+      "gloss": "torta aberta (geralmente doce de frutas)",
       "meanings": [
         {
-          "en": "torta (aberta), tortinha",
-          "note": "Doce ou salgado de massa assada sem tampa superior, recheado com creme, frutas ou ingredientes salgados."
-        },
-        {
-          "en": "azedo, ácido (como adjetivo)",
-          "note": "De sabor cítrico, acentuadamente ácido e refrescante ao paladar."
+          "en": "torta assada sem tampa de massa, recheada com frutas ou creme",
+          "note": "Diferencia-se de 'pie' por ter normalmente massa apenas na base e nas laterais, sem cobertura fechada."
         }
       ],
       "forms": {
@@ -9592,26 +9570,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "She has twenty lemon tarts to finish before noon.",
-          "trans": "Ela tem vinte tortinhas de limão para finalizar antes do meio-dia."
+          "text": "Tessa glazed the fresh raspberry tarts just before morning tea.",
+          "trans": "Tessa pincelou a calda nas tortinhas frescas de framboesa logo antes do chá da manhã."
         },
         {
-          "text": "The pastry shells for the fruit tart cooled on wire racks.",
-          "trans": "As bases de massa para a torta de frutas esfriaram sobre as grades."
-        },
-        {
-          "text": "Fresh lemon juice gives the curd a bright, tart flavor.",
-          "trans": "O suco de limão fresco dá ao creme um sabor vivo e azedinho."
+          "text": "She baked a warm lemon and almond tart for the anniversary guests.",
+          "trans": "Ela assou uma torta morna de limão com amêndoas para os convidados do aniversário."
         }
       ],
       "related": [
         {
-          "word": "pastry",
-          "gloss": "massa folhada / pastelaria"
+          "word": "bakery",
+          "gloss": "padaria, confeitaria"
         },
         {
-          "word": "crust",
-          "gloss": "casquinha, crosta"
+          "word": "pastry",
+          "gloss": "massa folhada, doce de confeitaria"
         }
       ]
     },
@@ -9826,45 +9800,7 @@
           "note": "Como modificador fica no singular (Travel Guide: 'guia de viagens'); nos EUA escreve-se traveled com um l."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "travel"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "travels"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "traveled"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "traveled"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "traveling"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -9929,42 +9865,28 @@
       "related": []
     },
     "waltz": {
-      "pos": "noun",
-      "stress": "wɔːls",
-      "gloss": "valsa",
       "lemma": "waltz",
-      "meanings": [
-        {
-          "en": "TODO",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "waltz"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
+      "pos": "noun",
+      "stress": "wɔlts",
+      "gloss": "valsa",
       "examples": [
         {
-          "text": "An example with waltz.",
-          "trans": "Um exemplo com waltz."
+          "text": "They danced a waltz at the wedding.",
+          "trans": "Eles dançaram uma valsa no casamento."
         },
         {
-          "text": "An example with waltz.",
-          "trans": "Um exemplo com waltz."
+          "text": "They danced a waltz at the wedding.",
+          "trans": "Eles dançaram uma valsa no casamento."
         }
       ],
+      "meanings": [
+        {
+          "en": "valsa",
+          "note": "Uma dança de salão em compasso ternário."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "related": []
     },
     "warm": {

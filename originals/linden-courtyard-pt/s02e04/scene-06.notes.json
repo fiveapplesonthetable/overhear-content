@@ -991,7 +991,7 @@
           ],
           "t": "twist",
           "lemma": "twist",
-          "pos": "noun",
+          "pos": "verb",
           "stress": "twɪst",
           "gloss": "storta, distorsione; torsione",
           "gram": "substantivo"
@@ -3175,7 +3175,7 @@
           ],
           "t": "twist",
           "lemma": "twist",
-          "pos": "noun",
+          "pos": "verb",
           "stress": "twɪst",
           "gloss": "storta, distorsione; torsione",
           "gram": "substantivo"
@@ -5359,7 +5359,7 @@
           ],
           "t": "twist",
           "lemma": "twist",
-          "pos": "noun",
+          "pos": "verb",
           "stress": "twɪst",
           "gloss": "storta, distorsione; torsione",
           "gram": "substantivo"
@@ -6725,12 +6725,8 @@
       "gloss": "braço",
       "meanings": [
         {
-          "en": "braço",
-          "note": "Membro superior do corpo humano que vai do ombro até a mão, usado para segurar, apoiar ou alcançar objetos."
-        },
-        {
-          "en": "braço (de poltrona, máquina); ramo",
-          "note": "Parte lateral saliente de uma cadeira ou poltrona para apoiar os braços, ou qualquer extensão semelhante em objetos e estruturas."
+          "en": "braço (do corpo humano)",
+          "note": "Designa o membro superior entre o ombro e a mão, além de partes semelhantes em cadeiras ou objetos."
         }
       ],
       "forms": {
@@ -6757,30 +6753,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Grab my arm before you lose your balance!",
-          "trans": "Segure o meu braço antes que você perca o equilíbrio!"
+          "text": "He broke his arm.",
+          "trans": "Ele quebrou o braço."
         },
         {
-          "text": "He carried the heavy basket of loaves under one arm.",
-          "trans": "Ele carregou a cesta pesada de pães debaixo de um braço."
-        },
-        {
-          "text": "She rested her notebook on the wooden arm of the chair.",
-          "trans": "Ela apoiou o caderno no braço de madeira da cadeira."
+          "text": "She carried a basket of warm bread under her arm.",
+          "trans": "Ela carregava uma cesta de pão quentinho debaixo do braço."
         }
       ],
       "related": [
         {
           "word": "hand",
-          "gloss": "mão; ponteiro (de relógio)"
+          "gloss": "mão"
         },
         {
           "word": "elbow",
-          "gloss": "cotovelo; (expressão) bem ao lado"
-        },
-        {
-          "word": "shoulder",
-          "gloss": "ombro"
+          "gloss": "cotovelo"
         }
       ]
     },
@@ -6975,7 +6963,7 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Ask the boss before changing the schedule.",
+          "text": "Ask the boss before changing the timetable.",
           "trans": "Pergunte ao chefe antes de mudar o horário."
         },
         {
@@ -7345,7 +7333,7 @@
       "related": [
         {
           "word": "cream",
-          "gloss": "panna, crema; color crema (in apposizione)"
+          "gloss": "creme de leite, nata; cor de creme"
         }
       ]
     },
@@ -7566,11 +7554,11 @@
       "lemma": "finish",
       "stress": "ˈfɪnɪʃ",
       "pos": "verb",
-      "gloss": "terminar, acabar",
+      "gloss": "terminar, acabar, concluir",
       "meanings": [
         {
-          "en": "terminar, acabar",
-          "note": "Quando seguido de outro verbo, exige sempre a forma em -ing (finish playing)."
+          "en": "terminar uma tarefa ou consumir até o fim",
+          "note": "Quando seguido de outra forma verbal, exige obrigatoriamente a forma em '-ing' ('finish reading')."
         }
       ],
       "forms": {
@@ -7616,14 +7604,23 @@
       "examples": [
         {
           "text": "He finished every drop of soup.",
-          "trans": "Ele terminou cada gota da sopa."
+          "trans": "Ele tomou até a última gota da sopa."
         },
         {
           "text": "Call me when you finish reading.",
-          "trans": "Chame-me quando terminar de ler."
+          "trans": "Me chame quando você terminar de ler."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "end",
+          "gloss": "terminar, fim"
+        },
+        {
+          "word": "begin",
+          "gloss": "começar"
+        }
+      ]
     },
     "foot": {
       "lemma": "foot",
@@ -7721,42 +7718,28 @@
       "related": []
     },
     "gently": {
+      "lemma": "gently",
       "pos": "adv",
       "stress": "ˈdʒɛntli",
       "gloss": "suavemente",
-      "lemma": "gently",
-      "meanings": [
-        {
-          "en": "TODO",
-          "note": ""
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "gently"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
       "examples": [
         {
-          "text": "An example with gently.",
-          "trans": "Um exemplo com gently."
+          "text": "She closed the door gently.",
+          "trans": "Ela fechou a porta suavemente."
         },
         {
-          "text": "An example with gently.",
-          "trans": "Um exemplo com gently."
+          "text": "She closed the door gently.",
+          "trans": "Ela fechou a porta suavemente."
         }
       ],
+      "meanings": [
+        {
+          "en": "suavemente",
+          "note": "De uma maneira suave, macia e sem movimentos bruscos."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "related": []
     },
     "grab": {
@@ -8218,8 +8201,8 @@
       "gloss": "lentilha",
       "meanings": [
         {
-          "en": "lentilha",
-          "note": "Semente comestível pequena e achatada de uma leguminosa, muito usada no preparo de sopas, ensopados e saladas."
+          "en": "lentilha (grão comestível da família das leguminosas)",
+          "note": "Usa-se geralmente no plural ('lentils') para os grãos cozidos e no singular como modificador ('lentil soup')."
         }
       ],
       "forms": {
@@ -8246,15 +8229,19 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "We need fresh carrots and onions for tomorrow's lentil soup.",
-          "trans": "Precisamos de cenouras frescas e cebolas para a sopa de lentilha de amanhã."
+          "text": "Warm lentil soup tastes wonderful on rainy evenings.",
+          "trans": "Sopa quentinha de lentilha fica deliciosa em noites chuvosas."
         },
         {
-          "text": "Rinse the dried lentils under cold water before simmering them.",
-          "trans": "Enxágue as lentilhas secas em água fria antes de cozinhá-las em fogo brando."
+          "text": "She bought dried green lentils at the neighborhood grocer.",
+          "trans": "Ela comprou lentilhas verdes secas na mercearia do bairro."
         }
       ],
       "related": [
+        {
+          "word": "bean",
+          "gloss": "feijão"
+        },
         {
           "word": "soup",
           "gloss": "sopa"
@@ -8335,7 +8322,33 @@
           "note": "A little antes de incontáveis significa 'um pouco de'."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "positive",
+              "little"
+            ]
+          },
+          {
+            "cells": [
+              "comparative",
+              "less"
+            ]
+          },
+          {
+            "cells": [
+              "superlative",
+              "least"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -9612,11 +9625,15 @@
       "lemma": "swell",
       "stress": "swɛl",
       "pos": "verb",
-      "gloss": "inchar, avolumar-se, crescer",
+      "gloss": "inchar, aumentar de volume, crescer",
       "meanings": [
         {
-          "en": "inchar, avolumar-se, crescer",
-          "note": "Aumentar de volume ou tamanho por acúmulo de líquido, ar, calor ou fermentação."
+          "en": "inchar, expandir-se (tecido corporal, madeira úmida, rio)",
+          "note": "Possui passado regular 'swelled' e dois particípios possíveis: 'swollen' (muito comum) ou 'swelled'."
+        },
+        {
+          "en": "crescer em intensidade ou volume (som, multidão, onda)",
+          "note": "Usado para música, aplausos ou emoções que aumentam gradualmente."
         }
       ],
       "forms": {
@@ -9647,7 +9664,7 @@
           {
             "cells": [
               "past participle",
-              "swollen"
+              "swollen / swelled"
             ]
           },
           {
@@ -9661,22 +9678,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "A sprained ankle will swell quickly if you stand on it.",
-          "trans": "Um tornozelo torcido vai inchar rápido se você ficar em pé sobre ele."
+          "text": "His ankle began to swell after he slipped on the wet cobblestones.",
+          "trans": "O tornozelo dele começou a inchar depois que escorregou nos paralelepípedos molhados."
         },
         {
-          "text": "Watch the bread loaves swell inside the warm oven.",
-          "trans": "Observe os pães crescerem dentro do forno aquecido."
+          "text": "Wooden window frames often swell slightly during humid coastal summers.",
+          "trans": "Esquadrias de madeira costumam inchar um pouco durante os verões úmidos no litoral."
         }
       ],
       "related": [
         {
-          "word": "swelling",
-          "gloss": "inchaço, edema, aumento de volume"
+          "word": "grow",
+          "gloss": "crescer"
         },
         {
-          "word": "rise",
-          "gloss": "subir"
+          "word": "damp",
+          "gloss": "úmido"
         }
       ]
     },
@@ -9684,15 +9701,11 @@
       "lemma": "tart",
       "stress": "tɑɹt",
       "pos": "noun",
-      "gloss": "torta (aberta), tortinha",
+      "gloss": "torta aberta (geralmente doce de frutas)",
       "meanings": [
         {
-          "en": "torta (aberta), tortinha",
-          "note": "Doce ou salgado de massa assada sem tampa superior, recheado com creme, frutas ou ingredientes salgados."
-        },
-        {
-          "en": "azedo, ácido (como adjetivo)",
-          "note": "De sabor cítrico, acentuadamente ácido e refrescante ao paladar."
+          "en": "torta assada sem tampa de massa, recheada com frutas ou creme",
+          "note": "Diferencia-se de 'pie' por ter normalmente massa apenas na base e nas laterais, sem cobertura fechada."
         }
       ],
       "forms": {
@@ -9719,26 +9732,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "She has twenty lemon tarts to finish before noon.",
-          "trans": "Ela tem vinte tortinhas de limão para finalizar antes do meio-dia."
+          "text": "Tessa glazed the fresh raspberry tarts just before morning tea.",
+          "trans": "Tessa pincelou a calda nas tortinhas frescas de framboesa logo antes do chá da manhã."
         },
         {
-          "text": "The pastry shells for the fruit tart cooled on wire racks.",
-          "trans": "As bases de massa para a torta de frutas esfriaram sobre as grades."
-        },
-        {
-          "text": "Fresh lemon juice gives the curd a bright, tart flavor.",
-          "trans": "O suco de limão fresco dá ao creme um sabor vivo e azedinho."
+          "text": "She baked a warm lemon and almond tart for the anniversary guests.",
+          "trans": "Ela assou uma torta morna de limão com amêndoas para os convidados do aniversário."
         }
       ],
       "related": [
         {
-          "word": "pastry",
-          "gloss": "massa folhada / pastelaria"
+          "word": "bakery",
+          "gloss": "padaria, confeitaria"
         },
         {
-          "word": "crust",
-          "gloss": "casquinha, crosta"
+          "word": "pastry",
+          "gloss": "massa folhada, doce de confeitaria"
         }
       ]
     },
@@ -10043,29 +10052,67 @@
       "related": []
     },
     "twist": {
+      "lemma": "twist",
+      "pos": "verb",
+      "stress": "twɪst",
+      "gloss": "torcer",
       "examples": [
         {
-          "text": "Nothing is broken, just a sharp twist on my right ankle.",
-          "trans": "Non c'è niente di rotto, solo una storta secca alla caviglia destra."
+          "text": "Don't twist the wires together.",
+          "trans": "Não torça os fios juntos."
         },
         {
-          "text": "Add a twist of fresh lemon peel on top of each tart.",
-          "trans": "Aggiungi una scorzetta ritorta di limone fresco sopra ogni crostatina."
+          "text": "Don't twist the wires together.",
+          "trans": "Não torça os fios juntos."
         }
       ],
-      "forms": null,
-      "gloss": "storta, distorsione; torsione",
-      "lemma": "twist",
       "meanings": [
         {
-          "en": "storta, distorsione; torsione",
-          "note": "Può essere sostantivo (a sharp twist = 'una storta secca / distorsione') o verbo regolare (twist an ankle)."
+          "en": "torcer",
+          "note": "Girar algo de modo a alterar a sua forma ou posição."
         }
       ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "twist"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "twists"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "twisted"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "twisted"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "twisting"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
-      "pos": "noun",
-      "related": [],
-      "stress": "twɪst"
+      "related": []
     },
     "two": {
       "lemma": "two",
@@ -10136,7 +10183,7 @@
           "trans": "Graham atendeu o telefone com voz calma."
         },
         {
-          "text": "I recognized Owen's cheerful voice in the hall.",
+          "text": "I recognised Owen's cheerful voice in the hall.",
           "trans": "Reconheci a voz animada do Owen no corredor."
         }
       ],
@@ -10262,7 +10309,7 @@
           "trans": "Eu sempre caminho rápido no meu primeiro dia."
         },
         {
-          "text": "You can walk to the harbor in ten minutes.",
+          "text": "You can walk to the harbour in ten minutes.",
           "trans": "Você pode ir a pé até o porto em dez minutos."
         }
       ],
