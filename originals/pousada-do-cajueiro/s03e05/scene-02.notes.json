@@ -2,6 +2,111 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e05-scene-02",
   "lexicon": {
+    "Bianca": {
+      "lemma": "Bianca",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Bianca (feminine given name)",
+      "meanings": [
+        {
+          "en": "Bianca (Italian-origin feminine name)",
+          "note": "Common given name in Brazil, cognate with Portuguese Branca ('white')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Bianca trouxe os cartões pintados para mostrar na varanda.",
+          "trans": "Bianca brought the painted cards to show on the porch."
+        },
+        {
+          "text": "Pergunte para a Bianca a que horas ela volta do mercado.",
+          "trans": "Ask Bianca what time she is coming back from the market."
+        }
+      ],
+      "related": [
+        {
+          "word": "branca",
+          "gloss": "white (f)"
+        }
+      ]
+    },
+    "Camila": {
+      "lemma": "Camila",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Camila (feminine given name)",
+      "meanings": [
+        {
+          "en": "Camila (feminine given name)",
+          "note": "Popular Brazilian Portuguese feminine name of Roman origin, spelled with a single l in standard Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Camila anotou todos os horários das entregas no caderno.",
+          "trans": "Camila wrote down all the delivery times in the notebook."
+        },
+        {
+          "text": "Vamos esperar a Camila chegar antes de abrir o pacote.",
+          "trans": "Let's wait for Camila to arrive before opening the package."
+        }
+      ],
+      "related": []
+    },
+    "Jorge": {
+      "lemma": "Jorge",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Jorge (given name)",
+      "meanings": [
+        {
+          "en": "Jorge (male given name)",
+          "note": "Portuguese cognate of George; pronounced /ˈʒɔʁʒi/ in Brazilian Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Jorge já acendeu a grelha no quintal para o almoço de domingo.",
+          "trans": "Jorge has already lit the grill in the backyard for Sunday lunch."
+        },
+        {
+          "text": "Pergunte para o Jorge onde ele guardou as ferramentas de jardinagem.",
+          "trans": "Ask Jorge where he put the gardening tools away."
+        }
+      ],
+      "related": []
+    },
+    "Tiago": {
+      "lemma": "Tiago",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Tiago (Brazilian male given name)",
+      "meanings": [
+        {
+          "en": "Tiago (Portuguese male given name; English James)",
+          "note": "One of the most popular male given names in Brazil; also historically spelled Thiago."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Tiago preparou o forno cedo para assar os bolos.",
+          "trans": "Tiago got the oven ready early to bake the cakes."
+        },
+        {
+          "text": "Pergunte ao Tiago qual receita ele anotou no caderno.",
+          "trans": "Ask Tiago which recipe he jotted down in the notebook."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -988,15 +1093,19 @@
     },
     "cobertura": {
       "lemma": "cobertura",
-      "stress": "kobeʁˈtuɾɐ",
       "pos": "noun",
+      "stress": "kobeʁˈtuɾɐ",
+      "gloss": "glaze; icing; roof; penthouse; coverage",
       "gender": "f",
       "plural": "coberturas",
-      "gloss": "glaze; icing; roof; coverage",
       "meanings": [
         {
-          "en": "glaze; topping; covering",
-          "note": "In cooking, glaze or frosting on a cake; in buildings, the roof or awning covering a space."
+          "en": "glaze; frosting; topping",
+          "note": "In baking and desserts, names icing, glaze, or syrup poured over a cake (cobertura de chocolate)."
+        },
+        {
+          "en": "roofing; penthouse; media coverage",
+          "note": "Also means a building's roof, a top-floor penthouse apartment, or news/network coverage."
         }
       ],
       "forms": {
@@ -1019,12 +1128,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Espalhe a cobertura de mel e laranja ainda morna sobre os bolos assados.",
-          "trans": "Spread the honey-and-orange glaze while still warm over the baked cakes."
+          "text": "Espalhe a cobertura de chocolate enquanto o bolo ainda está morno.",
+          "trans": "Spread the chocolate glaze while the cake is still warm."
         },
         {
-          "text": "A cobertura de telhas protegeu as mesas da garoa da tarde.",
-          "trans": "The tiled roof covering sheltered the tables from the afternoon drizzle."
+          "text": "A cobertura de vidro do pátio deixa a luz entrar sem molhar as mesas.",
+          "trans": "The glass roof over the courtyard lets light in without getting the tables wet."
         }
       ],
       "related": [
@@ -1033,12 +1142,12 @@
           "gloss": "to cover"
         },
         {
-          "word": "bolo",
-          "gloss": "cake"
+          "word": "recheio",
+          "gloss": "filling"
         },
         {
-          "word": "glacê",
-          "gloss": "icing"
+          "word": "calda",
+          "gloss": "syrup; sauce"
         }
       ]
     },
@@ -1995,11 +2104,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "formas",
-      "gloss": "baking pan; mold; shape",
+      "gloss": "shape; way; baking tin",
       "meanings": [
         {
-          "en": "baking pan; form; shape",
-          "note": "Pronounced with open /ɔ/ when meaning a cake pan or mold, and closed /o/ for abstract shape or manner."
+          "en": "shape; form; manner",
+          "note": "Pronounced with open [ɔ] (/ˈfɔʁmɐ/) when meaning shape, method, or grammatical form."
+        },
+        {
+          "en": "baking tin; cake pan; mould",
+          "note": "Pronounced with closed [o] (/ˈfoʁmɐ/, traditionally spelled fôrma) when meaning a baking pan or mould."
         }
       ],
       "forms": {
@@ -2022,26 +2135,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Tira as quatro formas quentes do forno e apoia na grade de metal.",
-          "trans": "Take the four hot baking pans out of the oven and set them on the metal rack."
+          "text": "Unte a forma redonda com manteiga e farinha antes de despejar a massa.",
+          "trans": "Grease the round cake tin with butter and flour before pouring in the batter."
         },
         {
-          "text": "De qualquer forma, precisamos revisar o horário dos trens hoje à tarde.",
-          "trans": "Either way, we need to double-check the train schedule this afternoon."
+          "text": "Essa é a forma mais prática de organizar as anotações da viagem.",
+          "trans": "That is the most practical way to organize the trip notes."
         }
       ],
       "related": [
         {
-          "word": "bolo",
-          "gloss": "cake"
+          "word": "formar",
+          "gloss": "to form; shape"
         },
         {
-          "word": "forno",
-          "gloss": "oven"
+          "word": "formato",
+          "gloss": "format; shape"
         },
         {
-          "word": "molde",
-          "gloss": "mold"
+          "word": "assadeira",
+          "gloss": "baking pan"
         }
       ]
     },
@@ -2168,11 +2281,15 @@
       "pos": "noun",
       "gender": "f",
       "plural": "frutas",
-      "gloss": "fruit (edible)",
+      "gloss": "fruit",
       "meanings": [
         {
-          "en": "fruit",
-          "note": "Everyday culinary word for edible fruit; 'frutas vermelhas' means berries."
+          "en": "edible fruit",
+          "note": "Everyday culinary term for edible fruit (while 'fruto' is the botanical fruit or figurative result)."
+        },
+        {
+          "en": "berries (in 'frutas vermelhas')",
+          "note": "Brazilian Portuguese uses 'frutas vermelhas' for strawberries, raspberries, blackberries, and similar berries."
         }
       ],
       "forms": {
@@ -2195,22 +2312,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Comprei frutas vermelhas frescas na feira para rechear o bolo de amêndoas.",
-          "trans": "I bought fresh berries at the street market to fill the almond cake."
+          "text": "Compramos frutas frescas na feira para fazer a salada da tarde.",
+          "trans": "We bought fresh fruit at the street market to make the afternoon fruit salad."
         },
         {
-          "text": "Depois do almoço, servimos fruta picada com folhas de hortelã do jardim.",
-          "trans": "After lunch, we served chopped fruit with mint leaves from the garden."
+          "text": "Essa torta leva calda de frutas vermelhas por cima do creme.",
+          "trans": "This tart has a berry sauce poured over the custard."
         }
       ],
       "related": [
         {
-          "word": "frutinha",
-          "gloss": "little fruit; berry"
+          "word": "fruto",
+          "gloss": "fruit (botanical); result"
         },
         {
-          "word": "laranja",
-          "gloss": "orange"
+          "word": "frutaria",
+          "gloss": "fruit shop"
         },
         {
           "word": "pomar",
@@ -3508,12 +3625,12 @@
       "gloss": "ground; milled; exhausted",
       "meanings": [
         {
-          "en": "ground; milled; crushed",
-          "note": "Past participle of moer used as an adjective for ingredients like coffee, meat, almonds, or pepper."
+          "en": "ground; crushed; milled (of coffee, nuts, meat, or spices)",
+          "note": "Past participle of moer; takes an acute accent on -í- to mark the hiatus o-í."
         },
         {
-          "en": "sore; beat; exhausted",
-          "note": "In colloquial Brazilian Portuguese, 'estou moído' means feeling physically worn out or aching."
+          "en": "ached all over; worn out",
+          "note": "Colloquially in Brazil, 'estar moído' means to feel physically exhausted or sore."
         }
       ],
       "forms": {
@@ -3543,26 +3660,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Misture as amêndoas moídas na massa com uma espátula de silicone.",
-          "trans": "Fold the ground almonds into the batter with a silicone spatula."
+          "text": "Comprei café moído na hora para servir no café da manhã.",
+          "trans": "I bought freshly ground coffee to serve at breakfast."
         },
         {
-          "text": "Nada supera o aroma de café moído na hora pela manhã.",
-          "trans": "Nothing beats the aroma of freshly ground coffee in the morning."
+          "text": "A receita pede duas xícaras de amêndoas moídas bem fininhas.",
+          "trans": "The recipe calls for two cups of very finely ground almonds."
         }
       ],
       "related": [
         {
           "word": "moer",
-          "gloss": "to grind"
+          "gloss": "to grind; mill"
         },
         {
           "word": "moinho",
           "gloss": "mill"
         },
         {
-          "word": "ralado",
-          "gloss": "grated"
+          "word": "pó",
+          "gloss": "powder; dust"
         }
       ]
     },
@@ -4495,32 +4612,28 @@
     },
     "quão": {
       "lemma": "quão",
-      "stress": "ˈkwɐ̃w",
+      "stress": "ˈkwɐ̃w̃",
       "pos": "adv",
-      "gloss": "how (before adj/adv)",
+      "gloss": "how (to what degree)",
       "meanings": [
         {
-          "en": "how (degree)",
-          "note": "More literary or emphatic than 'como' or 'o quanto' before an adjective or adverb (quão rápido = how fast)."
+          "en": "how; to what extent (modifying adjectives or adverbs)",
+          "note": "Placed directly before an adjective or adverb ('quão rápido', 'quão crocante'); in casual speech often replaced by 'o quanto'."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Em quanto tempo e quão rápido esses quatro bolos conseguem esfriar na grade?",
-          "trans": "In how much time and how fast can those four cakes cool down on the rack?"
+          "text": "Você não imagina quão difícil foi decifrar a letra antiga do bilhete.",
+          "trans": "You cannot imagine how hard it was to decipher the old handwriting on the note."
         },
         {
-          "text": "Nunca esquecemos quão acolhedor o pátio pareceu naquela primeira noite.",
-          "trans": "We never forgot how welcoming the courtyard felt on that first evening."
+          "text": "Só percebemos quão perto estávamos quando vimos a placa da rua.",
+          "trans": "We only realized how close we were when we saw the street sign."
         }
       ],
       "related": [
-        {
-          "word": "como",
-          "gloss": "how"
-        },
         {
           "word": "quanto",
           "gloss": "how much"
@@ -4528,6 +4641,10 @@
         {
           "word": "tão",
           "gloss": "so; as"
+        },
+        {
+          "word": "como",
+          "gloss": "how; as"
         }
       ]
     },
@@ -4991,39 +5108,35 @@
     },
     "suavemente": {
       "lemma": "suavemente",
-      "stress": "suaviˈmẽtʃi",
       "pos": "adv",
-      "gloss": "gently; softly",
+      "stress": "suaviˈmẽtʃi",
+      "gloss": "gently; softly; smoothly",
       "meanings": [
         {
-          "en": "gently; smoothly",
-          "note": "Manner adverb formed from 'suave' + '-mente', describing quiet movement, gentle touch, or soft music."
+          "en": "gently; softly; without force",
+          "note": "Manner adverb formed from the adjective suave + -mente."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Toque suavemente os acordes da introdução enquanto o pátio silencia.",
-          "trans": "Play the opening chords gently while the courtyard falls quiet."
+          "text": "Ele fechou a porta de madeira suavemente para não acordar ninguém.",
+          "trans": "He closed the wooden door gently so as not to wake anyone."
         },
         {
-          "text": "O vento soprava suavemente pelos galhos sem balançar nenhuma lanterna.",
-          "trans": "The wind blew softly through the branches without swaying a single lantern."
+          "text": "A brisa da tarde balançava suavemente as folhas do quintal.",
+          "trans": "The afternoon breeze gently swayed the leaves in the yard."
         }
       ],
       "related": [
         {
           "word": "suave",
-          "gloss": "soft; gentle"
+          "gloss": "soft; gentle; mild"
         },
         {
           "word": "devagar",
           "gloss": "slowly"
-        },
-        {
-          "word": "calma",
-          "gloss": "calm"
         }
       ]
     },

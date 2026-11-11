@@ -2,6 +2,106 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e06-scene-01",
   "lexicon": {
+    "Camila": {
+      "lemma": "Camila",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Camila (feminine given name)",
+      "meanings": [
+        {
+          "en": "Camila (feminine given name)",
+          "note": "Popular Brazilian Portuguese feminine name of Roman origin, spelled with a single l in standard Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Camila anotou todos os horários das entregas no caderno.",
+          "trans": "Camila wrote down all the delivery times in the notebook."
+        },
+        {
+          "text": "Vamos esperar a Camila chegar antes de abrir o pacote.",
+          "trans": "Let's wait for Camila to arrive before opening the package."
+        }
+      ],
+      "related": []
+    },
+    "Otávio": {
+      "lemma": "Otávio",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Otávio (given name)",
+      "meanings": [
+        {
+          "en": "Otávio (male given name)",
+          "note": "Portuguese form of Octavius; stressed on -tá- (/oˈtavju/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Otávio anotou todas as medidas no caderno antes de sairmos.",
+          "trans": "Otávio wrote down all the measurements in his notebook before we left."
+        },
+        {
+          "text": "Passe essa cesta de frutas para o Otávio levar até a cozinha.",
+          "trans": "Hand that basket of fruit to Otávio to carry into the kitchen."
+        }
+      ],
+      "related": []
+    },
+    "Rafael": {
+      "lemma": "Rafael",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Rafael (given name)",
+      "meanings": [
+        {
+          "en": "Rafael (male given name)",
+          "note": "Common Brazilian given name; stressed on the final syllable (/ʁafaˈɛw/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Rafael trouxe a bússola de latão para conferir a direção norte.",
+          "trans": "Rafael brought the brass compass to double-check the north direction."
+        },
+        {
+          "text": "Chame o Rafael para olhar os desenhos antigos antes de guardar a pasta.",
+          "trans": "Call Rafael over to look at the old drawings before putting the folder away."
+        }
+      ],
+      "related": []
+    },
+    "Tiago": {
+      "lemma": "Tiago",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Tiago (Brazilian male given name)",
+      "meanings": [
+        {
+          "en": "Tiago (Portuguese male given name; English James)",
+          "note": "One of the most popular male given names in Brazil; also historically spelled Thiago."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Tiago preparou o forno cedo para assar os bolos.",
+          "trans": "Tiago got the oven ready early to bake the cakes."
+        },
+        {
+          "text": "Pergunte ao Tiago qual receita ele anotou no caderno.",
+          "trans": "Ask Tiago which recipe he jotted down in the notebook."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -42,21 +142,21 @@
     },
     "abaixar": {
       "lemma": "abaixar",
-      "stress": "abajˈʃaʁ",
       "pos": "verb",
-      "gloss": "to lower; to turn down",
+      "stress": "abajˈʃaʁ",
+      "gloss": "to lower; to pull down; to turn down",
       "meanings": [
         {
-          "en": "to lower; to turn down",
-          "note": "Used for lowering objects, leaning down, or turning down heat, volume, or light."
+          "en": "to lower; to bring down",
+          "note": "Transitive verb for moving something downward, reducing volume/heat, or bowing one's head; reflexive abaixar-se means to crouch or duck."
         }
       ],
       "forms": {
-        "title": "Present Indicative",
+        "title": "Present",
         "columns": [
-          "Person",
-          "Singular",
-          "Plural"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
@@ -84,11 +184,11 @@
       },
       "moreForms": [
         {
-          "title": "Preterite Indicative",
+          "title": "Preterite",
           "columns": [
-            "Person",
-            "Singular",
-            "Plural"
+            "",
+            "sg",
+            "pl"
           ],
           "rows": [
             {
@@ -117,26 +217,26 @@
       ],
       "examples": [
         {
-          "text": "Abaixe o fogo da panela quando o caldo começar a ferver.",
-          "trans": "Turn down the stove heat when the broth starts to boil."
+          "text": "Você pode abaixar o volume do rádio um pouquinho?",
+          "trans": "Can you turn down the radio volume just a little bit?"
         },
         {
-          "text": "Ela abaixou a persiana para proteger os livros do sol forte.",
-          "trans": "She lowered the blind to protect the books from the strong sun."
+          "text": "Ela precisou se abaixar para pegar a chave caída atrás do sofá.",
+          "trans": "She had to bend down to pick up the key that fell behind the sofa."
         }
       ],
       "related": [
         {
-          "word": "baixar",
-          "gloss": "to download; to go down"
-        },
-        {
           "word": "baixo",
-          "gloss": "low"
+          "gloss": "low; short"
         },
         {
-          "word": "erguer",
-          "gloss": "to raise"
+          "word": "baixar",
+          "gloss": "to lower; to download"
+        },
+        {
+          "word": "levantar",
+          "gloss": "to lift; to raise"
         }
       ]
     },
@@ -741,15 +841,15 @@
     },
     "bússola": {
       "lemma": "bússola",
-      "stress": "ˈbusolɐ",
       "pos": "noun",
+      "stress": "ˈbusolɐ",
+      "gloss": "compass",
       "gender": "f",
       "plural": "bússolas",
-      "gloss": "compass (navigation)",
       "meanings": [
         {
           "en": "magnetic compass",
-          "note": "Navigation instrument with a magnetized needle pointing north; also used metaphorically for guidance."
+          "note": "Navigation instrument with a magnetized needle; distinct from compasso ('pair of dividers / musical meter')."
         }
       ],
       "forms": {
@@ -772,12 +872,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "A pequena bússola de latão brilhava na capa do caderno de viagens.",
-          "trans": "The small brass compass gleamed on the cover of the travel notebook."
+          "text": "Levamos uma bússola e um mapa impresso para a trilha na serra.",
+          "trans": "We took a compass and a printed map for the mountain trail."
         },
         {
-          "text": "Com a bússola na mão, os navegadores conferiram o rumo antes de partir.",
-          "trans": "With the compass in hand, the navigators checked their heading before setting out."
+          "text": "Afaste a bússola do celular para o ponteiro não desviar.",
+          "trans": "Move the compass away from the cell phone so the pointer doesn't drift."
         }
       ],
       "related": [
@@ -786,12 +886,12 @@
           "gloss": "north"
         },
         {
-          "word": "mapa",
-          "gloss": "map"
+          "word": "agulha",
+          "gloss": "needle"
         },
         {
-          "word": "latão",
-          "gloss": "brass"
+          "word": "mapa",
+          "gloss": "map"
         }
       ]
     },

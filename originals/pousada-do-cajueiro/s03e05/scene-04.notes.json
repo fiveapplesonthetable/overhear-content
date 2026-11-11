@@ -2,6 +2,81 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e05-scene-04",
   "lexicon": {
+    "Helena": {
+      "lemma": "Helena",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Helena (given name)",
+      "meanings": [
+        {
+          "en": "Helena (female given name)",
+          "note": "Common Brazilian given name; initial h- is silent (/eˈlenɐ/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Helena trouxe o mapa antigo para conferir os nomes das ruas.",
+          "trans": "Helena brought the old map to check the street names."
+        },
+        {
+          "text": "Você já mostrou as fotos do pátio para a Helena hoje?",
+          "trans": "Have you shown the courtyard photos to Helena yet today?"
+        }
+      ],
+      "related": []
+    },
+    "Otávio": {
+      "lemma": "Otávio",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Otávio (given name)",
+      "meanings": [
+        {
+          "en": "Otávio (male given name)",
+          "note": "Portuguese form of Octavius; stressed on -tá- (/oˈtavju/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Otávio anotou todas as medidas no caderno antes de sairmos.",
+          "trans": "Otávio wrote down all the measurements in his notebook before we left."
+        },
+        {
+          "text": "Passe essa cesta de frutas para o Otávio levar até a cozinha.",
+          "trans": "Hand that basket of fruit to Otávio to carry into the kitchen."
+        }
+      ],
+      "related": []
+    },
+    "Rafael": {
+      "lemma": "Rafael",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Rafael (given name)",
+      "meanings": [
+        {
+          "en": "Rafael (male given name)",
+          "note": "Common Brazilian given name; stressed on the final syllable (/ʁafaˈɛw/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Rafael trouxe a bússola de latão para conferir a direção norte.",
+          "trans": "Rafael brought the brass compass to double-check the north direction."
+        },
+        {
+          "text": "Chame o Rafael para olhar os desenhos antigos antes de guardar a pasta.",
+          "trans": "Call Rafael over to look at the old drawings before putting the folder away."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -480,15 +555,19 @@
     },
     "banco": {
       "lemma": "banco",
-      "stress": "ˈbɐ̃ku",
       "pos": "noun",
+      "stress": "ˈbɐ̃ku",
+      "gloss": "bench; seat; bank",
       "gender": "m",
       "plural": "bancos",
-      "gloss": "bench; stool; bank",
       "meanings": [
         {
-          "en": "bench; bank",
-          "note": "Means a park or courtyard bench, a stool, or a financial institution depending on context."
+          "en": "bench; stool; car seat",
+          "note": "Everyday noun for a park bench (banco da praça), wooden stool, or vehicle seat (banco da frente)."
+        },
+        {
+          "en": "bank (financial institution)",
+          "note": "Also the standard word for a financial bank (ir ao banco) or a data/blood repository (banco de dados)."
         }
       ],
       "forms": {
@@ -511,26 +590,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Sentamos no banco de pedra da praça para ler o convite oficial.",
-          "trans": "We sat on the stone bench in the square to read the official invitation."
+          "text": "Sentamos no banco da praça para tomar sorvete na sombra.",
+          "trans": "We sat on the park bench to eat ice cream in the shade."
         },
         {
-          "text": "Preciso passar no banco antes do meio-dia para trocar algumas cédulas.",
-          "trans": "I need to stop by the bank before noon to exchange some bills."
+          "text": "Vou passar no banco antes do almoço para pagar essa conta.",
+          "trans": "I am going to stop by the bank before lunch to pay this bill."
         }
       ],
       "related": [
+        {
+          "word": "banquinho",
+          "gloss": "small stool"
+        },
         {
           "word": "cadeira",
           "gloss": "chair"
         },
         {
-          "word": "praça",
-          "gloss": "square"
-        },
-        {
-          "word": "madeira",
-          "gloss": "wood"
+          "word": "assento",
+          "gloss": "seat"
         }
       ]
     },

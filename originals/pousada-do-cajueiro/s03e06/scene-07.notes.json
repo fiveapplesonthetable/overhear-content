@@ -2,6 +2,81 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e06-scene-07",
   "lexicon": {
+    "Camila": {
+      "lemma": "Camila",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Camila (feminine given name)",
+      "meanings": [
+        {
+          "en": "Camila (feminine given name)",
+          "note": "Popular Brazilian Portuguese feminine name of Roman origin, spelled with a single l in standard Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Camila anotou todos os horários das entregas no caderno.",
+          "trans": "Camila wrote down all the delivery times in the notebook."
+        },
+        {
+          "text": "Vamos esperar a Camila chegar antes de abrir o pacote.",
+          "trans": "Let's wait for Camila to arrive before opening the package."
+        }
+      ],
+      "related": []
+    },
+    "Jorge": {
+      "lemma": "Jorge",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Jorge (given name)",
+      "meanings": [
+        {
+          "en": "Jorge (male given name)",
+          "note": "Portuguese cognate of George; pronounced /ˈʒɔʁʒi/ in Brazilian Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Jorge já acendeu a grelha no quintal para o almoço de domingo.",
+          "trans": "Jorge has already lit the grill in the backyard for Sunday lunch."
+        },
+        {
+          "text": "Pergunte para o Jorge onde ele guardou as ferramentas de jardinagem.",
+          "trans": "Ask Jorge where he put the gardening tools away."
+        }
+      ],
+      "related": []
+    },
+    "Rafael": {
+      "lemma": "Rafael",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Rafael (given name)",
+      "meanings": [
+        {
+          "en": "Rafael (male given name)",
+          "note": "Common Brazilian given name; stressed on the final syllable (/ʁafaˈɛw/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Rafael trouxe a bússola de latão para conferir a direção norte.",
+          "trans": "Rafael brought the brass compass to double-check the north direction."
+        },
+        {
+          "text": "Chame o Rafael para olhar os desenhos antigos antes de guardar a pasta.",
+          "trans": "Call Rafael over to look at the old drawings before putting the folder away."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -42,21 +117,21 @@
     },
     "abaixar": {
       "lemma": "abaixar",
-      "stress": "abajˈʃaʁ",
       "pos": "verb",
-      "gloss": "to lower; to turn down",
+      "stress": "abajˈʃaʁ",
+      "gloss": "to lower; to pull down; to turn down",
       "meanings": [
         {
-          "en": "to lower; to turn down",
-          "note": "Used for lowering objects, leaning down, or turning down heat, volume, or light."
+          "en": "to lower; to bring down",
+          "note": "Transitive verb for moving something downward, reducing volume/heat, or bowing one's head; reflexive abaixar-se means to crouch or duck."
         }
       ],
       "forms": {
-        "title": "Present Indicative",
+        "title": "Present",
         "columns": [
-          "Person",
-          "Singular",
-          "Plural"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
@@ -84,11 +159,11 @@
       },
       "moreForms": [
         {
-          "title": "Preterite Indicative",
+          "title": "Preterite",
           "columns": [
-            "Person",
-            "Singular",
-            "Plural"
+            "",
+            "sg",
+            "pl"
           ],
           "rows": [
             {
@@ -117,26 +192,26 @@
       ],
       "examples": [
         {
-          "text": "Abaixe o fogo da panela quando o caldo começar a ferver.",
-          "trans": "Turn down the stove heat when the broth starts to boil."
+          "text": "Você pode abaixar o volume do rádio um pouquinho?",
+          "trans": "Can you turn down the radio volume just a little bit?"
         },
         {
-          "text": "Ela abaixou a persiana para proteger os livros do sol forte.",
-          "trans": "She lowered the blind to protect the books from the strong sun."
+          "text": "Ela precisou se abaixar para pegar a chave caída atrás do sofá.",
+          "trans": "She had to bend down to pick up the key that fell behind the sofa."
         }
       ],
       "related": [
         {
-          "word": "baixar",
-          "gloss": "to download; to go down"
-        },
-        {
           "word": "baixo",
-          "gloss": "low"
+          "gloss": "low; short"
         },
         {
-          "word": "erguer",
-          "gloss": "to raise"
+          "word": "baixar",
+          "gloss": "to lower; to download"
+        },
+        {
+          "word": "levantar",
+          "gloss": "to lift; to raise"
         }
       ]
     },
@@ -581,15 +656,15 @@
     },
     "areia": {
       "lemma": "areia",
-      "stress": "aˈɾejɐ",
       "pos": "noun",
+      "stress": "aˈɾejɐ",
+      "gloss": "sand",
       "gender": "f",
       "plural": "areias",
-      "gloss": "sand; grit",
       "meanings": [
         {
           "en": "sand",
-          "note": "Fine granular mineral grains from beaches or riverbeds, often used in masonry and bedding stones."
+          "note": "Used primarily in the singular as an uncountable noun (areia da praia, areia do rio), though plural areias appears in literary or plural-shore contexts."
         }
       ],
       "forms": {
@@ -612,12 +687,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Espalharam areia limpa e seca no fundo do canteiro para nivelar a pedra.",
-          "trans": "They spread clean, dry sand across the bottom of the bed to level the stone."
+          "text": "Meus tênis ficaram cheios de areia depois da caminhada na praia.",
+          "trans": "My sneakers got full of sand after the walk on the beach."
         },
         {
-          "text": "As crianças deixaram pegadas na areia molhada perto da maré.",
-          "trans": "The children left footprints in the wet sand near the tide line."
+          "text": "O pedreiro misturou areia fina com cimento para assentar o piso.",
+          "trans": "The mason mixed fine sand with cement to lay the floor."
         }
       ],
       "related": [
@@ -626,50 +701,46 @@
           "gloss": "beach"
         },
         {
-          "word": "pedra",
-          "gloss": "stone"
+          "word": "argamassa",
+          "gloss": "mortar"
         },
         {
           "word": "terra",
-          "gloss": "earth; soil"
+          "gloss": "soil; earth"
         }
       ]
     },
     "através": {
       "lemma": "através",
-      "stress": "atɾaˈvɛs",
       "pos": "adv",
+      "stress": "atɾaˈvɛs",
       "gloss": "across; through",
       "meanings": [
         {
-          "en": "across; through",
-          "note": "Used almost always with 'de' (através de) to mean through an opening, medium, or across time."
+          "en": "across; through; by means of",
+          "note": "Almost always followed by the preposition de (através de) to mean 'through' physically or 'by means of' figuratively."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "A luz dourada entrava através dos galhos altos do cajueiro.",
-          "trans": "Golden light filtered through the tall branches of the cashew tree."
+          "text": "A luz da manhã entrava através das cortinas da sala.",
+          "trans": "The morning light streamed in through the living room curtains."
         },
         {
-          "text": "Acompanhamos o ensaio através da porta entreaberta do salão.",
-          "trans": "We followed the rehearsal through the half-open parlor door."
+          "text": "Conseguimos o contato da floricultura através de uma amiga.",
+          "trans": "We got the florist's contact through a friend."
         }
       ],
       "related": [
         {
-          "word": "por",
-          "gloss": "through; by"
+          "word": "atravessar",
+          "gloss": "to cross"
         },
         {
-          "word": "entre",
-          "gloss": "between"
-        },
-        {
-          "word": "dentro",
-          "gloss": "inside"
+          "word": "por meio de",
+          "gloss": "by means of"
         }
       ]
     },
@@ -1204,15 +1275,15 @@
     },
     "bússola": {
       "lemma": "bússola",
-      "stress": "ˈbusolɐ",
       "pos": "noun",
+      "stress": "ˈbusolɐ",
+      "gloss": "compass",
       "gender": "f",
       "plural": "bússolas",
-      "gloss": "compass (navigation)",
       "meanings": [
         {
           "en": "magnetic compass",
-          "note": "Navigation instrument with a magnetized needle pointing north; also used metaphorically for guidance."
+          "note": "Navigation instrument with a magnetized needle; distinct from compasso ('pair of dividers / musical meter')."
         }
       ],
       "forms": {
@@ -1235,12 +1306,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "A pequena bússola de latão brilhava na capa do caderno de viagens.",
-          "trans": "The small brass compass gleamed on the cover of the travel notebook."
+          "text": "Levamos uma bússola e um mapa impresso para a trilha na serra.",
+          "trans": "We took a compass and a printed map for the mountain trail."
         },
         {
-          "text": "Com a bússola na mão, os navegadores conferiram o rumo antes de partir.",
-          "trans": "With the compass in hand, the navigators checked their heading before setting out."
+          "text": "Afaste a bússola do celular para o ponteiro não desviar.",
+          "trans": "Move the compass away from the cell phone so the pointer doesn't drift."
         }
       ],
       "related": [
@@ -1249,12 +1320,12 @@
           "gloss": "north"
         },
         {
-          "word": "mapa",
-          "gloss": "map"
+          "word": "agulha",
+          "gloss": "needle"
         },
         {
-          "word": "latão",
-          "gloss": "brass"
+          "word": "mapa",
+          "gloss": "map"
         }
       ]
     },
@@ -2661,21 +2732,21 @@
     },
     "emoldurar": {
       "lemma": "emoldurar",
-      "stress": "emowduˈɾaʁ",
       "pos": "verb",
+      "stress": "emowduˈɾaʁ",
       "gloss": "to frame",
       "meanings": [
         {
-          "en": "to put in a frame; to frame",
-          "note": "Means to mount a painting, map, or photograph inside a protective frame, or to border a view."
+          "en": "to put in a frame; to surround like a frame",
+          "note": "Formed from e(m)- + moldura + -ar; used for placing drawings, photos, and certificates into frames, or describing trees framing a view."
         }
       ],
       "forms": {
-        "title": "Present Indicative",
+        "title": "Present",
         "columns": [
-          "Person",
-          "Singular",
-          "Plural"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
@@ -2703,11 +2774,11 @@
       },
       "moreForms": [
         {
-          "title": "Preterite Indicative",
+          "title": "Preterite",
           "columns": [
-            "Person",
-            "Singular",
-            "Plural"
+            "",
+            "sg",
+            "pl"
           ],
           "rows": [
             {
@@ -2736,12 +2807,12 @@
       ],
       "examples": [
         {
-          "text": "Vamos emoldurar o mapa do bairro com madeira escura para pendurar na recepção.",
-          "trans": "Let's frame the neighborhood map in dark wood to hang at the front desk."
+          "text": "Quero emoldurar essa aquarela da praça e pendurar na sala.",
+          "trans": "I want to frame this watercolor of the square and hang it in the living room."
         },
         {
-          "text": "As trepadeiras floridas emolduravam o arco de entrada da pousada.",
-          "trans": "Flowering vines framed the entrance arch of the guesthouse."
+          "text": "Levamos a fotografia antiga para emoldurar numa loja do centro.",
+          "trans": "We took the old photograph to be framed at a downtown shop."
         }
       ],
       "related": [
@@ -2751,40 +2822,45 @@
         },
         {
           "word": "quadro",
-          "gloss": "framed picture"
+          "gloss": "picture; painting"
         },
         {
-          "word": "pendurar",
-          "gloss": "to hang"
+          "word": "retrato",
+          "gloss": "portrait"
         }
       ]
     },
     "encerado": {
       "lemma": "encerado",
+      "pos": "adj",
       "stress": "ẽseˈɾadu",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "encerados",
-      "gloss": "waxed cloth; oilcloth; tarpaulin",
+      "gloss": "waxed; waterproofed with wax",
       "meanings": [
         {
-          "en": "waxed cloth; waterproof canvas",
-          "note": "Fabric treated with beeswax or oil to repel moisture; also used as an adjective (linho encerado)."
+          "en": "waxed; coated with wax",
+          "note": "Describes polished wooden floors or waxed cloth/paper (pano encerado); as a masculine noun, o encerado means a tarpaulin or oilcloth."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "sg",
-          "pl"
+          "m",
+          "f"
         ],
         "rows": [
           {
             "cells": [
-              "form",
-              "o encerado",
-              "os encerados"
+              "sg",
+              "encerado",
+              "encerada"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "encerados",
+              "enceradas"
             ]
           }
         ]
@@ -2792,12 +2868,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Envolvemos os papéis em um encerado amarelo bem dobrado antes de fechar a lata.",
-          "trans": "We wrapped the papers in a neatly folded yellow oilcloth before closing the tin."
+          "text": "O piso da sala estava tão bem encerado que parecia um espelho.",
+          "trans": "The living room floor was so well waxed that it looked like a mirror."
         },
         {
-          "text": "O encerado antigo ainda protegia as caixas da garoa na varanda.",
-          "trans": "The old tarpaulin still shielded the crates from the drizzle on the veranda."
+          "text": "Embrulharam o pacote em pano encerado para proteger da chuva.",
+          "trans": "They wrapped the parcel in waxed cloth to protect it from rain."
         }
       ],
       "related": [
@@ -2806,12 +2882,12 @@
           "gloss": "wax"
         },
         {
-          "word": "lona",
-          "gloss": "canvas"
+          "word": "encerar",
+          "gloss": "to wax"
         },
         {
-          "word": "linho",
-          "gloss": "linen"
+          "word": "impermeável",
+          "gloss": "waterproof"
         }
       ]
     },
@@ -5796,15 +5872,15 @@
     },
     "redor": {
       "lemma": "redor",
-      "stress": "ʁeˈdoʁ",
+      "stress": "ʁeˈdɔʁ",
       "pos": "noun",
       "gender": "m",
       "plural": "redores",
-      "gloss": "surrounding area; around",
+      "gloss": "surroundings; perimeter",
       "meanings": [
         {
-          "en": "surrounding space; perimeter",
-          "note": "Nearly always appears in 'ao redor (de)' meaning 'around', and plural 'os redores' for surroundings."
+          "en": "surroundings; area around (especially in 'ao redor de')",
+          "note": "Masculine noun; used mostly in the locutions 'ao redor (de)' ('around') and plural 'nos redores' ('in the outskirts')."
         }
       ],
       "forms": {
@@ -5827,26 +5903,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Todos os vizinhos se reuniram ao redor da pedra solta com suas xícaras.",
-          "trans": "All the neighbors gathered around the lifted paving stone with their teacups."
+          "text": "Sentamos todos ao redor da mesa do pátio para tomar chá.",
+          "trans": "We all sat around the courtyard table to drink tea."
         },
         {
-          "text": "Conhecemos bem os redores do bairro antigo e suas travessas tranquilas.",
-          "trans": "We know the surroundings of the old quarter and its quiet lanes well."
+          "text": "Há várias padarias antigas nos redores da praça central.",
+          "trans": "There are several old bakeries in the area surrounding the main square."
         }
       ],
       "related": [
+        {
+          "word": "arredores",
+          "gloss": "outskirts; surroundings"
+        },
         {
           "word": "volta",
           "gloss": "turn; around"
         },
         {
-          "word": "cerca",
-          "gloss": "fence"
-        },
-        {
-          "word": "lado",
-          "gloss": "side"
+          "word": "entorno",
+          "gloss": "vicinity"
         }
       ]
     },

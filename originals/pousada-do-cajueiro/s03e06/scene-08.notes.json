@@ -2,6 +2,170 @@
   "schemaVersion": 1,
   "id": "pousada-do-cajueiro-s03e06-scene-08",
   "lexicon": {
+    "Acácias": {
+      "lemma": "Acácias",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Acácias (street name, lit. Acacias)",
+      "meanings": [
+        {
+          "en": "Acácias (proper street name)",
+          "note": "Plural proper name used in Rua das Acácias ('Acacia Street'), named after the flowering acacia tree."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A padaria nova fica na esquina da Rua das Acácias.",
+          "trans": "The new bakery is on the corner of Rua das Acácias."
+        },
+        {
+          "text": "Moro na Rua das Acácias há mais de quinze anos.",
+          "trans": "I have lived on Rua das Acácias for more than fifteen years."
+        }
+      ],
+      "related": [
+        {
+          "word": "acácia",
+          "gloss": "acacia tree"
+        },
+        {
+          "word": "rua",
+          "gloss": "street"
+        }
+      ]
+    },
+    "Bianca": {
+      "lemma": "Bianca",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Bianca (feminine given name)",
+      "meanings": [
+        {
+          "en": "Bianca (Italian-origin feminine name)",
+          "note": "Common given name in Brazil, cognate with Portuguese Branca ('white')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Bianca trouxe os cartões pintados para mostrar na varanda.",
+          "trans": "Bianca brought the painted cards to show on the porch."
+        },
+        {
+          "text": "Pergunte para a Bianca a que horas ela volta do mercado.",
+          "trans": "Ask Bianca what time she is coming back from the market."
+        }
+      ],
+      "related": [
+        {
+          "word": "branca",
+          "gloss": "white (f)"
+        }
+      ]
+    },
+    "Camila": {
+      "lemma": "Camila",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Camila (feminine given name)",
+      "meanings": [
+        {
+          "en": "Camila (feminine given name)",
+          "note": "Popular Brazilian Portuguese feminine name of Roman origin, spelled with a single l in standard Portuguese."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "A Camila anotou todos os horários das entregas no caderno.",
+          "trans": "Camila wrote down all the delivery times in the notebook."
+        },
+        {
+          "text": "Vamos esperar a Camila chegar antes de abrir o pacote.",
+          "trans": "Let's wait for Camila to arrive before opening the package."
+        }
+      ],
+      "related": []
+    },
+    "Rafael": {
+      "lemma": "Rafael",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Rafael (given name)",
+      "meanings": [
+        {
+          "en": "Rafael (male given name)",
+          "note": "Common Brazilian given name; stressed on the final syllable (/ʁafaˈɛw/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Rafael trouxe a bússola de latão para conferir a direção norte.",
+          "trans": "Rafael brought the brass compass to double-check the north direction."
+        },
+        {
+          "text": "Chame o Rafael para olhar os desenhos antigos antes de guardar a pasta.",
+          "trans": "Call Rafael over to look at the old drawings before putting the folder away."
+        }
+      ],
+      "related": []
+    },
+    "Recife": {
+      "lemma": "Recife",
+      "stress": null,
+      "pos": "name",
+      "gloss": "Recife (city in Brazil)",
+      "meanings": [
+        {
+          "en": "Recife (coastal capital city of Pernambuco in northeastern Brazil)",
+          "note": "Often used with the masculine article ('o Recife') as it comes from 'o recife' ('the reef'), though bare 'Recife' is also common."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O centro histórico do Recife tem pontes antigas e casarões coloridos.",
+          "trans": "The historic centre of Recife has old bridges and colourful townhouses."
+        },
+        {
+          "text": "Meu tio pegou o voo da manhã para chegar ao Recife antes do almoço.",
+          "trans": "My uncle caught the morning flight to arrive in Recife before lunch."
+        }
+      ],
+      "related": []
+    },
+    "Tiago": {
+      "lemma": "Tiago",
+      "pos": "name",
+      "stress": null,
+      "gloss": "Tiago (Brazilian male given name)",
+      "meanings": [
+        {
+          "en": "Tiago (Portuguese male given name; English James)",
+          "note": "One of the most popular male given names in Brazil; also historically spelled Thiago."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "O Tiago preparou o forno cedo para assar os bolos.",
+          "trans": "Tiago got the oven ready early to bake the cakes."
+        },
+        {
+          "text": "Pergunte ao Tiago qual receita ele anotou no caderno.",
+          "trans": "Ask Tiago which recipe he jotted down in the notebook."
+        }
+      ],
+      "related": []
+    },
     "a": {
       "lemma": "a",
       "stress": "ɐ",
@@ -4275,8 +4439,8 @@
       "gloss": "gold",
       "meanings": [
         {
-          "en": "gold",
-          "note": "Precious metal and warm metallic color; 'folha de ouro' is gold leaf used in gilding."
+          "en": "gold (metal, colour, or first-place prize)",
+          "note": "Masculine noun; plural ouros also names the suit of diamonds in playing cards."
         }
       ],
       "forms": {
@@ -4299,12 +4463,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Os detalhes do brasão foram iluminados com folha de ouro verdadeira.",
-          "trans": "The crest details were illuminated with genuine gold leaf."
+          "text": "A capa do livro antigo tem letras gravadas em folha de ouro.",
+          "trans": "The cover of the old book has letters stamped in gold leaf."
         },
         {
-          "text": "O anel de ouro da família descansava na caixinha forrada de veludo.",
-          "trans": "The family gold ring rested in the velvet-lined little box."
+          "text": "Essa receita de família vale mais do que ouro para nós.",
+          "trans": "This family recipe is worth more than gold to us."
         }
       ],
       "related": [
@@ -4313,12 +4477,12 @@
           "gloss": "golden"
         },
         {
-          "word": "prata",
-          "gloss": "silver"
+          "word": "ourives",
+          "gloss": "goldsmith"
         },
         {
-          "word": "latão",
-          "gloss": "brass"
+          "word": "prata",
+          "gloss": "silver"
         }
       ]
     },
