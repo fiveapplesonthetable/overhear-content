@@ -135,11 +135,13 @@ class Sentence:
     marks: list = field(default_factory=list)       # [(offset_in_plain, token)] injected
     missing: list = field(default_factory=list)     # tokens that wanted a mark and had none
     expected: list = field(default_factory=list)    # [(offset_in_plain, token, stress)] all notes stresses (for the check)
+    required: list = field(default_factory=list)    # words the take's transcript must contain (wordcheck.required_words)
     gap: float = 0.0
 
 
 def segment_inserts(text: str, words, policy: str, hom=None):
-    """Plan the mark insertions for one Russian segment.
+    """Plan the mark insertions for one Russian segment. Policies: all | homographs (mark those words) | none |
+    onflag (no marks here; the notes' stresses are still returned so the check can find the words that need one).
     Returns (inserts{offset: True}, expected[(start,end,stress)], missing_tokens[(start,end)])."""
     hom = homographs() if hom is None else hom
     toks = [w.get("t", "") for w in (words or [])]
@@ -168,12 +170,17 @@ def segment_inserts(text: str, words, policy: str, hom=None):
             continue
         if any(sp[0] >= a and sp[1] <= b for a, b in [(e[0], e[1]) for e in expected]):
             continue
-        if policy == "none":
+        if policy in ("none", "onflag"):
             continue
         if policy == "homographs" and bare(tok) not in hom:
             continue
         missing.append(sp)
     return inserts, expected, missing
+
+
+def mark_words(text: str, words) -> str:
+    """`text` with the stress marks of `words` ([(offset_in_text, token, stress)], as in Sentence.expected)."""
+    return apply_inserts(text, [off + o for off, tok, stress in words for o in acute_offsets(tok, stress) or ()])
 
 
 def apply_inserts(text: str, offsets) -> str:

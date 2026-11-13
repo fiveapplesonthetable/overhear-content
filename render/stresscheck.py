@@ -56,7 +56,7 @@ def check_sentence(plain, expected, char_times, scope="homographs", ratio=1.25):
         pred = max(dur, key=dur.get)
         off_by = pred != exp and dur[pred] >= ratio * max(dur[exp], 1e-3)
         in_scope = scope == "all" or bare(tok) in hom
-        res.append({"word": tok, "stress": stress, "expected": exp - off, "predicted": pred - off,
+        res.append({"word": tok, "stress": stress, "offset": off, "expected": exp - off, "predicted": pred - off,
                     "ratio": round(dur[pred] / max(dur[exp], 1e-3), 2), "off": bool(off_by), "inScope": bool(in_scope),
                     "flag": bool(off_by and in_scope)})
     return res

@@ -20,10 +20,10 @@
     }
   },
   "ttsRu": {
-    "_note": "Target-language (ru) engine: base Qwen3-TTS-12Hz-1.7B-Base (lora=false, stress='homographs', turnMaxChars=0) so Russian questions ('?'), commas (','), exclamations ('!'), and periods ('.') get genuine native prosody without word-LoRA EOS clipping or pronunciation artifacts, while homograph stresses are verified and retaken by stressCheck.",
+    "_note": "Target-language (ru) engine: base Qwen3-TTS-12Hz-1.7B-Base (lora=false, stress='onflag', turnMaxChars=0) so Russian questions ('?'), commas (','), exclamations ('!'), and periods ('.') get genuine native prosody without word-LoRA EOS clipping or pronunciation artifacts, while homograph stresses are verified and retaken by stressCheck: Russian goes to the model without stress marks, and only a word that stressCheck flags (or whose word is not heard in the Whisper transcript) is retaken with a mark on just that word.",
     "engine": "qwen",
     "lora": false,
-    "stress": "homographs",
+    "stress": "onflag",
     "temperature": 0.78,
     "repetition_penalty": 1.05,
     "turnMaxChars": 0,

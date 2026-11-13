@@ -112,7 +112,9 @@ def sentence_signature(s, lang):
     signature. (voice, reference version and text are added by plan.cache_key.)"""
     ru, en, ar, hi = ru_engine(s), en_engine(s), ar_engine(s), hi_engine(s)
     if lang == "ru" and ru:
-        return {"ru": _public(ru), "takeGates": "v3"}
+        # onflag sends the same first-take text as "homographs" did before marks existed; the text is in the cache key, so
+        # the policy name is not: unchanged sentences keep their cached takes and marked ones (other text) miss it.
+        return {"ru": {**_public(ru), **({"stress": "homographs"} if ru.get("stress") == "onflag" else {})}, "takeGates": "v3"}
     if lang == "en" and en:
         return {"en": _public(en), "takeGates": "v2"}
     if lang == "ar" and ar:
