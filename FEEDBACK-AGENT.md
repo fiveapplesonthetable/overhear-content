@@ -5,6 +5,9 @@ GitHub issues by a sync job that runs every 5 minutes. Check for them every hour
 
     /loop 1h Do the hourly feedback check in FEEDBACK-AGENT.md.
 
+> **Russian audio is on hold** ([RUSSIAN-STRESS-HOLD.md](RUSSIAN-STRESS-HOLD.md)). Leave a Russian pronunciation
+> issue open. Do not fix it with a retake, because the retake would be wrong in the same way.
+
 ## Each hour
 
 1. `gh issue list -R fiveapplesonthetable/overhear-content -l feedback --state open --json number,title,labels`
