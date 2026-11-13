@@ -13,6 +13,7 @@ import numpy as np
 import audio
 import config
 import stresscheck
+import wordcheck
 import textprep
 import tts
 import native_text
@@ -287,6 +288,7 @@ class Renderer:
                     ruaccent=self.ruaccent if (lang == "ru" and self.s["stress"]["ruaccentFallback"]) else None,
                     max_turn_chars=turn_max):
                 st.voice = voice
+                st.required = wordcheck.required_words(st, self.s["stressCheck"]["scope"]) if lang == "ru" else []
                 st.key = tts.cache_key(self.s, voice, self.voices.ref_version(voice), lang, st.tts, retake=takes.get(str(i), 0))
                 if native_words:
                     end = st.start + len(st.plain)
@@ -309,7 +311,8 @@ class Renderer:
         for st in sents:
             if getattr(st, "carrier_chain", None) is not None:
                 continue
-            uniq.setdefault(st.key, {"key": st.key, "voice": st.voice, "lang": st.lang, "text_tts": st.tts, "text_plain": st.plain})
+            uniq.setdefault(st.key, {"key": st.key, "voice": st.voice, "lang": st.lang, "text_tts": st.tts, "text_plain": st.plain,
+                                     "required": st.required})
         return Ctx(scene, roles, rkey, sents, uniq, carriers=carriers)
 
     # -- step 1: synthesis ------------------------------------------------------------------------------------
@@ -325,10 +328,21 @@ class Renderer:
     def marker(self, key):
         return self.store.tts_path(key).with_name(f"{key}.cands.json")
 
+    def problems_path(self, key):
+        return self.store.tts_path(key).with_name(f"{key}.problems.json")
+
     def retake(self, ctx, engine, keys):
+        """Other seeds / temperatures for flagged sentences. A sentence sent to the TTS without marks (policy onflag) is
+        retaken with a mark on its flagged words only (listed by finish in problems_path)."""
         import soundfile as sf
         cfg = self.s["stressRetry"]
-        items = [ctx.uniq[k] for k in keys]
+        items = [dict(ctx.uniq[k]) for k in keys]
+        for it in items:
+            p = self.problems_path(it["key"])
+            if it["text_tts"] == it["text_plain"] and p.exists():
+                it["text_tts"] = textprep.mark_words(it["text_plain"], json.loads(p.read_text()))
+        gates = self._gates()
+        hyps = {k: {} for k in keys}
         bs = max(1, int(self.s["tts"]["batch"]))
         made = {k: [] for k in keys}
         for t in range(cfg["attempts"]):
@@ -342,9 +356,15 @@ class Renderer:
                     if tts.plausible(c["text_plain"], len(w) / tts.NATIVE_SR):
                         sf.write(str(self.cand_path(c["key"], t)), w, tts.NATIVE_SR, format="FLAC", subtype="PCM_16")
                         made[c["key"]].append(t)
+                        hyps[c["key"]][t] = gates.check_repeat_and_cer(w, tts.NATIVE_SR, c["text_plain"], c["lang"])[2]
         for k in keys:
-            self.marker(k).write_text(json.dumps({"attempts": cfg["attempts"], "made": made[k]}))
+            self.marker(k).write_text(json.dumps({"attempts": cfg["attempts"], "made": made[k], "hyp": hyps[k]}))
         return {"retaken": len(keys), "takes": sum(len(v) for v in made.values())}
+
+    @staticmethod
+    def _gates():
+        import gates
+        return gates.get_gates()
 
     # -- step 2: align, check, assemble, store -----------------------------------------------------------------
     def finish(self, ctx, aligner, content_commit=None, allow_retake=True, times=None):
@@ -354,7 +374,7 @@ class Renderer:
         s, sents, scene, roles, voices = self.s, ctx.sents, ctx.scene, ctx.roles, self.voices
         sr = self.sr
 
-        def evaluate(st, wav):
+        def evaluate(st, wav, hyp):
             clip = audio.prepare_sentence(wav, sr, s["audio"])
             if st.role != "narrator" and st.lang in native_text.LANGUAGES:
                 ct, x16 = aligner.word_times(clip, sr, st.plain, st.lang, st.alignment_words)
@@ -375,7 +395,7 @@ class Renderer:
                             x16 = x16[:min(len(x16), int(round(cut_s * 16000)))]
             else:
                 ct, x16 = aligner.char_times(clip, sr, st.plain, st.lang)
-            return clip, ct, x16, self.check(st, ct)
+            return clip, ct, x16, self.check(st, ct), self.not_heard(st, hyp)
 
         first = {}
         for st in sents:
@@ -384,8 +404,10 @@ class Renderer:
         best = {}
         for key, st in first.items():
             wav = tts.load_wav(self.store.tts_path(key))[0]
-            clip, ct, x16, ck = evaluate(st, wav)
-            best[key] = {"bad": self.badness(ck), "wav": wav, "clip": clip, "ct": ct, "x16": x16, "ck": ck, "take": 0}
+            hyp = self.read_json(self.store.tts_path(key).with_name(f"{key}.gates.json")).get("hyp")   # the gates' Whisper transcript
+            clip, ct, x16, ck, miss = evaluate(st, wav, hyp)
+            best[key] = {"bad": self.badness(ck, miss), "wav": wav, "clip": clip, "ct": ct, "x16": x16, "ck": ck, "miss": miss,
+                         "unverified": hyp is None and bool(st.required), "take": 0}
 
         # Slice continuous narrator carrier waveforms cleanly at MMS_FA acoustic energy valleys around 'phrase' slots
         carrier_aligned = {}
@@ -408,7 +430,7 @@ class Renderer:
                     sil_clip = np.zeros(int(0.025 * sr), dtype=np.float32)
                     sil_16 = np.zeros(int(0.025 * 16000), dtype=np.float32)
                     best[part_key] = {"bad": (0, 0.0), "wav": sil_clip, "clip": sil_clip,
-                                      "ct": [None] * len(orig_t), "x16": sil_16, "ck": [], "take": 0}
+                                      "ct": [None] * len(orig_t), "x16": sil_16, "ck": [], "miss": [], "take": 0}
                     continue
                 if not valid_mi:
                     # Rare CTC fallback: proportional slice across carrier duration
@@ -485,10 +507,10 @@ class Renderer:
                         part_ct[ci] = (ca, cb)
 
                 best[part_key] = {"bad": (0, 0.0), "wav": part_clip, "clip": part_clip,
-                                  "ct": part_ct, "x16": part_x16, "ck": [], "take": 0}
+                                  "ct": part_ct, "x16": part_x16, "ck": [], "miss": [], "take": 0}
 
         # New Retake Stats Aggregation from .gates.json (created by synth_many gates)
-        retake = {"sentences": [], "takes": 0, "retakes": 0, "length": 0, "repeat": 0, "transient": 0, "similarity": 0, "cer": 0}
+        retake = {"sentences": [], "takes": 0, "retakes": 0, "length": 0, "repeat": 0, "transient": 0, "similarity": 0, "cer": 0, "words": 0}
         seen_gate_keys = set(first.keys()) | {ch.key for ch in getattr(ctx, "carriers", [])}
         for key in seen_gate_keys:
             if self.store.tts_path(key).with_name(f"{key}.gates.json").exists():
@@ -502,6 +524,7 @@ class Renderer:
                         retake["transient"] += counts.get("transient", 0)
                         retake["similarity"] += counts.get("similarity", 0)
                         retake["cer"] += counts.get("cer", 0)
+                        retake["words"] += counts.get("words", 0)
                 except Exception:
                     pass
 
@@ -509,26 +532,25 @@ class Renderer:
         # Legacy retake marker handling (if any fallback)
         need = [k for k in flagged_keys if not self.marker(k).exists()]
         if need and allow_retake and s["stressRetry"]["attempts"] > 0:
+            for k in need:      # the words the retake puts a mark on
+                self.problems_path(k).write_text(json.dumps(self.problem_words(first[k], best[k]), ensure_ascii=False))
             return "retake", need
-            
+
         for key in flagged_keys:
             st, b = first[key], best[key]
-            made = []
-            if self.store.tts_path(key).with_name(f"{key}.gates.json").exists():
-                try:
-                    cands = json.loads(self.store.tts_path(key).with_name(f"{key}.gates.json").read_text())
-                    made = cands.get("made", [])
-                except:
-                    made = []
+            cands = self.read_json(self.marker(key))
+            made = cands.get("made", [])
+            marked_retry = st.tts == st.plain and self.problems_path(key).exists()
             for t in made:
                 p = self.cand_path(key, t)
                 if not p.exists():
                     continue
                 w = tts.load_wav(p)[0]
-                clip, ct, x16, ck = evaluate(st, w)
-                bad = self.badness(ck)
-                if bad < b["bad"]:
-                    b.update(bad=bad, wav=w, clip=clip, ct=ct, x16=x16, ck=ck, take=t + 1)
+                clip, ct, x16, ck, miss = evaluate(st, w, cands.get("hyp", {}).get(str(t)))
+                bad = self.badness(ck, miss)
+                # a marked take replaces the unmarked one only when it passes both checks
+                if bad < b["bad"] and (bad[0] == 0 or not marked_retry):
+                    b.update(bad=bad, wav=w, clip=clip, ct=ct, x16=x16, ck=ck, miss=miss, take=t + 1)
             if b["take"]:   # keep the better take for good
                 cp = self.store.tts_path(key)
                 tmpf = cp.with_suffix(".tmp.flac")
@@ -538,6 +560,7 @@ class Renderer:
                                         "bestTake": b["take"], "stillFlagged": b["bad"][0] > 0})
             for t in made:
                 self.cand_path(key, t).unlink(missing_ok=True)
+            self.problems_path(key).unlink(missing_ok=True)
 
         warnings = [f"voice {k} is shared by roles {rs} in this scene" for k, rs in voice_clashes(roles).items()]
         clips = [best[st.key]["clip"] for st in sents]
@@ -639,10 +662,16 @@ class Renderer:
         still = []
         checked = flagged_words = 0
         for n, c in checks.items():
+            miss = best[sents[n].key]["miss"]
             checked += len(c)
             flagged_words += sum(w["flag"] for w in c)
-            if any(w["flag"] for w in c):
-                still.append({"seg": sents[n].seg, "idx": sents[n].idx, "text": sents[n].plain, "words": [w for w in c if w["flag"]]})
+            if miss or any(w["flag"] for w in c):
+                still.append({"seg": sents[n].seg, "idx": sents[n].idx, "text": sents[n].plain,
+                              "words": [w for w in c if w["flag"]], "notHeard": miss})
+        unique = [b for k, b in best.items() if k in first]
+        heard = {"wordsRequired": sum(len(first[k].required) for k in first),
+                 "wordsNotHeard": sum(len(b["miss"]) for b in unique),
+                 "sentencesUnverified": sum(b["unverified"] for b in unique)}
         ru_sents = [n for n, st in enumerate(sents) if st.lang == "ru" and st.role != "narrator"]
         uniq_still = {x["text"] for x in still}
         report = {
@@ -651,7 +680,7 @@ class Renderer:
                        "russianSentences": len(ru_sents), "wordsChecked": checked, "wordsFlagged": flagged_words,
                        "sentencesFlaggedInitially": flagged_first, "stillFlagged": len(uniq_still),
                        "flaggedRatio": round(flagged_first / max(1, len({sents[n].key for n in ru_sents})), 4),
-                       "unresolved": still,
+                       "unresolved": still, "heard": heard,
                        "missingMarks": [{"seg": st.seg, "idx": st.idx, "tokens": st.missing} for st in sents if st.missing]},
             "retake": retake,
             "tts": {"sentences": len(sents), "unique": len(ctx.uniq)},
@@ -695,10 +724,28 @@ class Renderer:
                         "flagged": flagged_first, "stillFlagged": len(uniq_still), "russian": len(ru_sents), "timingNotOk": timing_bad}
 
     @staticmethod
-    def badness(ck):
-        """(flagged words, worst off-ratio): lower is better."""
+    def badness(ck, miss=()):
+        """(flagged words + words not heard, worst off-ratio): lower is better."""
         fl = [w for w in ck if w["flag"]]
-        return (len(fl), max([w["ratio"] for w in fl], default=0.0))
+        return (len(fl) + len(miss), max([w["ratio"] for w in fl], default=0.0))
+
+    @staticmethod
+    def read_json(path):
+        try:
+            return json.loads(path.read_text())
+        except (OSError, ValueError):
+            return {}
+
+    @staticmethod
+    def not_heard(st, hyp):
+        """The required words of the sentence that its Whisper transcript lacks ([] when there is no transcript)."""
+        return wordcheck.missing(st.required, hyp) if hyp is not None else []
+
+    @staticmethod
+    def problem_words(st, b):
+        """[(offset, token, stress)] of the sentence's words that the stress check flagged or the transcript lacks."""
+        flagged = {w["offset"] for w in b["ck"] if w["flag"]}
+        return [e for e in st.expected if e[0] in flagged or e[1] in b["miss"]]
 
     def check(self, st, char_times):
         if st.lang != "ru" or st.role == "narrator" or not st.expected:

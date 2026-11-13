@@ -220,6 +220,7 @@ class QwenCustomEngine:
         t0 = time.time()
         
         import json
+        import wordcheck
         from plan import plausible
         if use_gates:
             import gates
@@ -390,12 +391,14 @@ class QwenCustomEngine:
                         tran_ok, tran_reason, w = g.check_transient(w, NATIVE_SR)
                         rep_ok, cer_val, hyp = g.check_repeat_and_cer(w, NATIVE_SR, c["text_plain"], c["lang"])
                         cer_ok = (not isinstance(cer_val, float)) or cer_val <= (0.42 if c["lang"] == "ar" else 0.70)
-                        
-                        all_ok = sim_ok and len_ok and tran_ok and rep_ok and cer_ok
+                        not_heard = wordcheck.missing(c.get("required", ()), hyp)
+
+                        all_ok = sim_ok and len_ok and tran_ok and rep_ok and cer_ok and not not_heard
                         candidates_info.append({
-                            "wav": w, "all_ok": all_ok, "cer": cer_val if isinstance(cer_val, float) else 1.0, 
-                            "sim": sim_val,
+                            "wav": w, "all_ok": all_ok, "cer": cer_val if isinstance(cer_val, float) else 1.0,
+                            "sim": sim_val, "hyp": hyp, "not_heard": len(not_heard),
                             "fails": {
+                                "words": bool(not_heard),
                                 "similarity": not sim_ok,
                                 "length": (not len_ok and len_reason == "length"),
                                 "pause": (not len_ok and len_reason == "pause"),
@@ -411,7 +414,7 @@ class QwenCustomEngine:
                         best_info = min(passing, key=lambda x: (x["cer"], -x["sim"]))
                         ok = True
                     else:
-                        best_info = min(all_cands, key=lambda x: (x["cer"], -x["sim"]))
+                        best_info = min(all_cands, key=lambda x: (x["not_heard"], x["cer"], -x["sim"]))
                         ok = False
                         
                     w = best_info["wav"]
@@ -431,7 +434,9 @@ class QwenCustomEngine:
                                   "repeat": sum(1 for x in candidates_info if x["fails"]["repeat"]),
                                   "transient": sum(1 for x in candidates_info if x["fails"]["transient"]),
                                   "similarity": sum(1 for x in candidates_info if x["fails"]["similarity"]),
-                                  "cer": sum(1 for x in candidates_info if isinstance(x["cer"], float) and x["cer"] > 0.15)} # arbitrary logic for CER fail count
+                                  "cer": sum(1 for x in candidates_info if isinstance(x["cer"], float) and x["cer"] > 0.15), # arbitrary logic for CER fail count
+                                  "words": sum(1 for x in candidates_info if x["fails"]["words"]),
+                                  "hyp": best_info["hyp"]}   # Whisper transcript of the kept take: finish checks the required words against it
                         marker.write_text(json.dumps(counts))
                     else:
                         nxt.append(c)
