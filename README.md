@@ -5,10 +5,10 @@ who replays the target-language lines and explains them. You make **everything**
 word notes, art, and the rendered audio with word timing. You review your own work. A separate machine then fetches
 your output, verifies it and copies it to Firebase **unchanged**. Nobody fixes anything after you.
 
-## First: HOLD all Russian audio ([RUSSIAN-STRESS-HOLD.md](RUSSIAN-STRESS-HOLD.md))
+## First: Russian audio ([RUSSIAN-STRESS-HOLD.md](RUSSIAN-STRESS-HOLD.md))
 
-Russian stress marks make Qwen3-TTS mispronounce words («че́ка» comes out as «чивка», #58). Do not render, retake or
-release any Russian audio, and do not continue RUSSIAN-RERENDER.md, until that file says otherwise. Other languages may go on.
+Russian stress marks made Qwen3-TTS mispronounce words («че́ка» came out as «чивка», #58). The render code is fixed. Re-render
+Russian only by the gated steps in that file, starting with a one-scene pilot. Do not continue RUSSIAN-RERENDER.md.
 
 ## Priority now: Overhear Originals (read [spec/ORIGINALS.md](spec/ORIGINALS.md) first)
 
