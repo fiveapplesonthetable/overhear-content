@@ -94,7 +94,7 @@ two clip runs from overlapping. RuAccent runs once, on the CPU, before any GPU r
 ## Form clips
 `forms.py` plans audio for the written table cells, with slot identities shared with the publisher.
 Russian forms use `ru-f1` with the Russian stress LoRA; French forms use `lucie` on base Qwen,
-with a maximum batch of four. A mixed-language forms stage loads each model configuration separately.
+with a maximum batch of four. Forms in ar, hi, ja, ko and fr are judged by sound, not spelling (`form_gate.py`; its `GATE_VERSION` makes failures of an older gate stale; see `FORM-GATE-FIX.md`). A mixed-language forms stage loads each model configuration separately.
 French shared subjects such as `il/elle est` are read as complete alternatives (`il est, elle est`).
 Unexplained parentheses and bound elisions are held for review instead of producing misleading audio.
 The ASR comparison uses the declared spoken alternatives, with the same CER gate; Russian numeral

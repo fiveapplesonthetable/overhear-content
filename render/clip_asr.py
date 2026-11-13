@@ -19,6 +19,7 @@ import numpy as np
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import clips  # noqa: E402
 from asr_cer import nz  # noqa: E402
+import form_gate  # noqa: E402
 import numwords  # noqa: E402
 
 
@@ -119,7 +120,9 @@ def comparison_cer(record, kind, hyp, fold_vowels=False):
         return 1.0
     if fold_vowels and record["lang"] == "ru":
         return folded_cer(record["tts"], heard)
-    return jiwer.cer(normalize(ref), normalize(heard))
+    strict = jiwer.cer(normalize(ref), normalize(heard))
+    # A form is one short word: judge how it sounds, not how Whisper spelled it (form_gate.py). Never stricter than the spelling.
+    return form_gate.gated_cer(record["lang"], ref, heard, strict) if kind == "forms" else strict
 
 
 def main():
