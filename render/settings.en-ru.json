@@ -19,10 +19,10 @@
     }
   },
   "ttsRu": {
-    "_note": "Russian narrator engine for en-ru: injects homograph stress marks (ru_homographs.txt.gz + RuAccent turbo3.1) on Russian narrator turns without altering English dialogue caches.",
+    "_note": "Russian narrator engine for en-ru: sends Russian narrator turns without stress marks (policy onflag: marks made Qwen3-TTS add sounds, #58) without altering English dialogue caches.",
     "engine": "qwen",
     "lora": false,
-    "stress": "homographs",
+    "stress": "onflag",
     "temperature": 0.78,
     "repetition_penalty": 1.05,
     "turnMaxChars": 0,
