@@ -170,4 +170,7 @@ All existing `-en` outputs remain 100% byte-identical. For `en-<native>` pairs (
 | `linden-courtyard-ru-s01e03` | `en-ru` | 8 | 0.53 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e03`) |
 | `linden-courtyard-ru-s01e04` | `en-ru` | 8 | 0.57 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e04`) |
 | `linden-courtyard-ru-s01e05` | `en-ru` | 8 | 0.59 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e05`) |
+| `linden-courtyard-ru-s02e01` | `en-ru` | 8 | 0.56 h | 0 | 0 | Released (`original-linden-courtyard-ru-s02e01`) |
 | `linden-courtyard-ru-s02e02` | `en-ru` | 8 | 0.56 h | 0 | 0 | Released (`original-linden-courtyard-ru-s02e02`) |
+| `linden-courtyard-ru-s02e03` | `en-ru` | 8 | 0.59 h | 0 | 0 | Released (`original-linden-courtyard-ru-s02e03`) |
+| `linden-courtyard-ru-s02e04` | `en-ru` | 8 | 0.62 h | 0 | 0 | Released (`original-linden-courtyard-ru-s02e04`) |
