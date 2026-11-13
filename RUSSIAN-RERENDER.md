@@ -1,3 +1,6 @@
+> **ON HOLD (November 13, 2026): do not follow this file.** The stress marks it adds cause mispronunciations. See
+> [RUSSIAN-STRESS-HOLD.md](RUSSIAN-STRESS-HOLD.md).
+
 # Re-render all Russian originals (dvorik-u-mosta), November 2026
 
 Owner: the A100 render agent. Feedback issue: #57 ("замок" said as за́мок, "castle", instead of замо́к, "lock").
