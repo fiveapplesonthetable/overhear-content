@@ -155,3 +155,13 @@ All existing `-en` outputs remain 100% byte-identical. For `en-<native>` pairs (
   - `russianSentences`: **7,560**; `wordsChecked`: **36,842** under the `homographs` policy; `missingMarks`: **0** across all 144 scenes.
   - Feedback #57 (`dvorik-u-mosta-s02e01-scene-01` segment 2 **замо́к**) passed stress verification cleanly (`0` unresolved on seg 2).
   - Remaining stress flags: `sentencesFlaggedInitially`: **33**, `stillFlagged`: **33**, `wordsFlagged`: **99** (`99` unresolved token-take occurrences across those 33 lines).
+
+## 9. Gated Russian `onflag` Stress + Wordcheck Re-Render (2026-11-13 — `RUSSIAN-STRESS-HOLD.md`)
+
+- **Pilot (`dvorik-u-mosta-s01e01-scene-03`):** Passed (`wordsNotHeard = 0`, `stillFlagged = 0`; Whisper large-v3-turbo transcribed «чека» cleanly in all three segments 7, 26, and 45).
+- **Episode Re-Render & Release Log (`ttsRu.stress = "onflag"`):**
+
+| Episode | Pair | Scenes | Audio Hours | `wordsNotHeard` | `stillFlagged` | Status |
+|---|---|---|---|---|---|---|
+| `dvorik-u-mosta-s01e01` | `ru-en` | 8 | 0.53 h | 0 | 4 | Released (`original-dvorik-u-mosta-s01e01`, #58 closed) |
+| `dvorik-u-mosta-s02e01` | `ru-en` | 8 | 0.56 h | 0 | 8 | Released (`original-dvorik-u-mosta-s02e01`, #57 updated) |
