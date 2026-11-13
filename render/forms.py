@@ -77,6 +77,11 @@ def french_form_text(cell):
     return ", ".join(alternatives)
 
 
+def spoken_form(lang, cell):
+    """What the voice is asked to say for a non-Russian cell (None: needs review, no audio)."""
+    return french_form_text(cell) if lang == "fr" else ", ".join(pieces(cell))
+
+
 def slot_ids(scenes, settings):
     """All selected slots, including ones whose new uncertainty removes audio."""
     return {
@@ -278,7 +283,7 @@ def plan(scenes, settings, voices, ruaccent=None):
         else:
             rows = []
             for sl in slots_of(entry):
-                spoken = french_form_text(sl.cell) if lang == "fr" else ", ".join(pieces(sl.cell))
+                spoken = spoken_form(lang, sl.cell)
                 why = None if spoken else {"lemma": lemma, "title": sl.title, "row": sl.row, "column": sl.column,
                                            "cell": sl.cell, "reason": "written form notation needs review"}
                 rows.append((sl, spoken, why))

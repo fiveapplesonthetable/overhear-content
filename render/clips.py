@@ -113,9 +113,20 @@ class ClipStore:
         except Exception:
             return None
 
+    def gate(self, lang):
+        """The version of the pronunciation gate (form_gate.py) that judges a clip of `lang`, or None when the spelling CER alone does."""
+        import form_gate
+        return form_gate.GATE_VERSION if self.dir.name == "forms" and lang in form_gate.LANGS else None
+
     def is_done(self, item) -> bool:
+        """Current record with audio, or a current failure by the gate in force: a failure of an older gate is stale (audio is dropped on a
+        failure, so the form is rendered and checked again), while a passed clip stays, since no gate change makes a pass stricter."""
         r = self.record(item.id)
-        return bool(r) and r.get("ckey") == item.ckey and (r.get("status") == "failed" or (self.dir / f"{item.id}.mp3").exists())
+        if not r or r.get("ckey") != item.ckey:
+            return False
+        if r.get("status") == "failed":
+            return r.get("gate") == self.gate(item.lang)
+        return (self.dir / f"{item.id}.mp3").exists()
 
     def work_record(self, cid):
         try:
@@ -245,6 +256,8 @@ def fail_final(store_root, cid, cer, hyp, kind="clips"):
     rec = {k: w[k] for k in ("id", "pair", "text", "lang", "voice", "ckey")}
     rec.update(status="failed", cer=round(cer, 4), hyp=hyp, tries=w["tries"] + 1,
                renderedAt=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()))
+    if cs.gate(w["lang"]):
+        rec["gate"] = cs.gate(w["lang"])
     (cs.dir / f".{cid}.tmp.json").write_text(json.dumps(rec, ensure_ascii=False, sort_keys=True, indent=1), "utf-8")
     (cs.dir / f".{cid}.tmp.json").replace(cs.dir / f"{cid}.json")
     (cs.dir / f"{cid}.mp3").unlink(missing_ok=True)
