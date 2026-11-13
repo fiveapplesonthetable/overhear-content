@@ -14,6 +14,7 @@ LANGUAGES = frozenset({"ja", "zh", "ko", "ar", "hi"})
 VERSION = "mms-uroman-wordspans/1;uroman=1.3.1.1"
 _CODES = {"ja": "jpn", "zh": "zho", "ko": "kor", "ar": "ara", "hi": "hin"}
 _ALPHABET = frozenset("abcdefghijklmnopqrstuvwxyz'")
+_ARABIZI = str.maketrans({"2": "'", "3": "'", "5": "kh", "6": "t", "7": "h", "8": "q", "9": "s"})
 _spec = importlib.util.spec_from_file_location("overhear_authored_spans", Path(__file__).resolve().parents[1] / "tools/word_spans.py")
 _spans = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(_spans)
@@ -89,7 +90,8 @@ def targets(text, lang, words):
     letters, owners = [], []
     for owner, word in enumerate(words):
         if word.reading:
-            roman = romanizer.romanize_string(word.reading, lcode=_CODES[lang])
+            rd = word.reading.translate(_ARABIZI) if lang == "ar" else word.reading
+            roman = romanizer.romanize_string(rd, lcode=_CODES[lang])
             unit = _letters(roman)
         else:
             unit, covered = [], set()
