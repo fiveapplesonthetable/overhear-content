@@ -14,7 +14,7 @@ from pathlib import Path
 
 ACUTE = "́"
 _SENT = re.compile(r"(?<=[.!?…])\s+")
-_NATIVE_SENT = re.compile(r"[。！？؟।]+[」』”’\"')\]]*")
+_NATIVE_SENT = re.compile(r"[。！？؟।][。！？؟।.!?…]*[」』”’\"')\]]*")
 _CYR = re.compile("[Ѐ-ӿ]")
 _VOWELS = set("аеёиоуыэюяАЕЁИОУЫЭЮЯ")
 _LETTER = re.compile(r"[^\W\d_]", re.UNICODE)
@@ -31,18 +31,28 @@ def split_sentences(text: str):
         while following < len(text_s) and text_s[following].isspace():
             following += 1
         boundaries.append((end, following))
+    raw = []
     for end, following in sorted(set(boundaries)):
         if end < pos:
             continue
         seg = text_s[pos:end]
         if seg.strip():
-            out.append((pos, end, seg))
+            raw.append((pos, end, seg))
         pos = following
     tail = text_s[pos:]
     if tail.strip():
-        out.append((pos, len(text_s), tail))
-    if not out and text.strip():
-        out = [(0, len(text), text)]
+        raw.append((pos, len(text_s), tail))
+    if not raw and text.strip():
+        return [(0, len(text), text)]
+    for p_start, p_end, seg in raw:
+        if out and not any(c.isalnum() for c in seg):
+            prev_s, _prev_e, _prev_seg = out[-1]
+            out[-1] = (prev_s, p_end, text_s[prev_s:p_end])
+        elif out and not any(c.isalnum() for c in out[-1][2]):
+            prev_s, _prev_e, _prev_seg = out[-1]
+            out[-1] = (prev_s, p_end, text_s[prev_s:p_end])
+        else:
+            out.append((p_start, p_end, seg))
     return out
 
 
