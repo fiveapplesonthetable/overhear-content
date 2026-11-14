@@ -219,6 +219,12 @@ def fmt(sec): return f"{int(sec // 3600):02d}:{int(sec % 3600 // 60):02d}:{sec %
 
 
 # ---------------------------------------------------------------- script
+def non_latin(reading):
+    """Characters the publisher rejects in a Latin reading (its `reading_check.bad_chars`): anything outside Latin letters
+    with diacritics, the modifier letters (ʿ ʾ), combining marks, digits and punctuation."""
+    return [c for c in reading if not (ord(c) < 0x250 or 0x2B0 <= ord(c) <= 0x36F or 0x1E00 <= ord(c) <= 0x1EFF or 0x2000 <= ord(c) <= 0x206F)]
+
+
 def target_ok(lang, text, where, rep):
     if lang == "ru":
         if not CYR.search(text): rep.err(where, f"Russian line has no Cyrillic: {text[:50]!r}")
@@ -749,6 +755,8 @@ def check_notes(path, script, lang, require, rep, is_original=None):
             pos = at + len(t)
             if need_spans and segs[i]["v"] != "narrator" and not str(wd.get("reading", "")).strip():
                 rep.err(lw, f"word {t!r} needs a reviewed spoken reading ({lang})")
+            if lang == "ar" and (bad := non_latin(str(wd.get("reading", "")))):
+                rep.err(lw, f"word {t!r}: reading holds U+{ord(bad[0]):04X}, which is not Latin (write ع as ʿ U+02BF)")
             for f in ("lemma", "pos", "gloss"):
                 if wd.get(f) in (None, ""): rep.err(lw, f"word {t!r} missing {f}")
             if wd.get("pos") and wd["pos"] not in POS: rep.err(lw, f"word {t!r}: pos {wd['pos']!r} not in {sorted(POS)}")
