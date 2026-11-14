@@ -160,30 +160,30 @@ All existing `-en` outputs remain 100% byte-identical. For `en-<native>` pairs (
 
 - **Pilot (`dvorik-u-mosta-s01e01-scene-03`):** Passed (`wordsNotHeard = 0`, `stillFlagged = 0`; Whisper large-v3-turbo transcribed «чека» cleanly in all three segments 7, 26, and 45).
 - **Complete 36 / 36 Russian Re-Render Summary (`18/18` `linden-courtyard-ru` `en-ru` + `18/18` `dvorik-u-mosta` `ru-en` — 288 scenes, `21.94 h` total audio):**
-  - `wordsNotHeard`: **`9`** total across all 288 scenes (`0` on 33 of 36 episodes; remaining `9` are Russian number words transcribed as digits in `dvorik-u-mosta` `s02e06`, `s03e02`, `s03e03`, `s03e05`).
-  - `stillFlagged`: **`90`** total (`0` across all 18 `linden-courtyard-ru` `en-ru` episodes; `90` across all 18 `dvorik-u-mosta` `ru-en` episodes).
-- **Episode Re-Render & Release Log (`ttsRu.stress = "onflag"`):**
+  - `wordsNotHeard`: **`7`** total across all 288 scenes (`0` on 32 of 36 episodes; remaining `7` are Russian number words `сорок` / `двадцатью восемью` transcribed as digits `40` / `28` by Whisper in `dvorik-u-mosta` `s02e06`, `s03e02`, `s03e03`, `s03e05`).
+  - `stillFlagged`: **`10`** total after enabling Russian stress LoRA (`zimuzostanley/qwen3-tts-ru-stress-lora` `run3`) on `onflag` retakes in `render/stage.py` (`912dbfb02`): `0` across all 18 `linden-courtyard-ru` `en-ru` episodes, and `10` across all 18 `dvorik-u-mosta` `ru-en` episodes (`6` of the `10` are the `40`/`28` digit-transcription lines above and only `4` are stress-ratio flags across 2,493 unique Russian sentences; `28` of 36 Russian episodes have `stillFlagged = 0`, including `dvorik-u-mosta-s02e01` with `замо́к` in #57).
+- **Episode Re-Render & Release Log (`ttsRu.stress = "onflag"` + stress-LoRA retakes):**
 
 | Episode | Pair | Scenes | Audio Hours | `wordsNotHeard` | `stillFlagged` | Status |
 |---|---|---|---|---|---|---|
-| `dvorik-u-mosta-s01e01` | `ru-en` | 8 | 0.53 h | 0 | 4 | Released (`original-dvorik-u-mosta-s01e01`, #58 closed) |
-| `dvorik-u-mosta-s01e02` | `ru-en` | 8 | 0.56 h | 0 | 3 | Released (`original-dvorik-u-mosta-s01e02`) |
-| `dvorik-u-mosta-s01e03` | `ru-en` | 8 | 0.55 h | 0 | 7 | Released (`original-dvorik-u-mosta-s01e03`) |
-| `dvorik-u-mosta-s01e04` | `ru-en` | 8 | 0.60 h | 0 | 3 | Released (`original-dvorik-u-mosta-s01e04`) |
-| `dvorik-u-mosta-s01e05` | `ru-en` | 8 | 0.61 h | 0 | 3 | Released (`original-dvorik-u-mosta-s01e05`) |
-| `dvorik-u-mosta-s01e06` | `ru-en` | 8 | 0.64 h | 0 | 3 | Released (`original-dvorik-u-mosta-s01e06`) |
-| `dvorik-u-mosta-s02e01` | `ru-en` | 8 | 0.56 h | 0 | 8 | Released (`original-dvorik-u-mosta-s02e01`, #57 updated) |
-| `dvorik-u-mosta-s02e02` | `ru-en` | 8 | 0.56 h | 0 | 5 | Released (`original-dvorik-u-mosta-s02e02`) |
-| `dvorik-u-mosta-s02e03` | `ru-en` | 8 | 0.59 h | 0 | 5 | Released (`original-dvorik-u-mosta-s02e03`) |
-| `dvorik-u-mosta-s02e04` | `ru-en` | 8 | 0.60 h | 0 | 2 | Released (`original-dvorik-u-mosta-s02e04`) |
-| `dvorik-u-mosta-s02e05` | `ru-en` | 8 | 0.57 h | 0 | 4 | Released (`original-dvorik-u-mosta-s02e05`) |
-| `dvorik-u-mosta-s02e06` | `ru-en` | 8 | 0.59 h | 4 | 5 | Released (`original-dvorik-u-mosta-s02e06`) |
-| `dvorik-u-mosta-s03e01` | `ru-en` | 8 | 0.66 h | 0 | 9 | Released (`original-dvorik-u-mosta-s03e01`) |
-| `dvorik-u-mosta-s03e02` | `ru-en` | 8 | 0.69 h | 1 | 6 | Released (`original-dvorik-u-mosta-s03e02`) |
-| `dvorik-u-mosta-s03e03` | `ru-en` | 8 | 0.70 h | 3 | 5 | Released (`original-dvorik-u-mosta-s03e03`) |
-| `dvorik-u-mosta-s03e04` | `ru-en` | 8 | 0.72 h | 0 | 5 | Released (`original-dvorik-u-mosta-s03e04`) |
-| `dvorik-u-mosta-s03e05` | `ru-en` | 8 | 0.72 h | 1 | 7 | Released (`original-dvorik-u-mosta-s03e05`) |
-| `dvorik-u-mosta-s03e06` | `ru-en` | 8 | 0.71 h | 0 | 6 | Released (`original-dvorik-u-mosta-s03e06`) |
+| `dvorik-u-mosta-s01e01` | `ru-en` | 8 | 0.53 h | 0 | 1 | Released (`original-dvorik-u-mosta-s01e01`, #58 closed) |
+| `dvorik-u-mosta-s01e02` | `ru-en` | 8 | 0.56 h | 0 | 0 | Released (`original-dvorik-u-mosta-s01e02`) |
+| `dvorik-u-mosta-s01e03` | `ru-en` | 8 | 0.55 h | 0 | 0 | Released (`original-dvorik-u-mosta-s01e03`) |
+| `dvorik-u-mosta-s01e04` | `ru-en` | 8 | 0.60 h | 0 | 0 | Released (`original-dvorik-u-mosta-s01e04`) |
+| `dvorik-u-mosta-s01e05` | `ru-en` | 8 | 0.61 h | 0 | 0 | Released (`original-dvorik-u-mosta-s01e05`) |
+| `dvorik-u-mosta-s01e06` | `ru-en` | 8 | 0.64 h | 0 | 0 | Released (`original-dvorik-u-mosta-s01e06`) |
+| `dvorik-u-mosta-s02e01` | `ru-en` | 8 | 0.56 h | 0 | 0 | Released (`original-dvorik-u-mosta-s02e01`, #57 closed) |
+| `dvorik-u-mosta-s02e02` | `ru-en` | 8 | 0.56 h | 0 | 1 | Released (`original-dvorik-u-mosta-s02e02`) |
+| `dvorik-u-mosta-s02e03` | `ru-en` | 8 | 0.59 h | 0 | 1 | Released (`original-dvorik-u-mosta-s02e03`) |
+| `dvorik-u-mosta-s02e04` | `ru-en` | 8 | 0.60 h | 0 | 0 | Released (`original-dvorik-u-mosta-s02e04`) |
+| `dvorik-u-mosta-s02e05` | `ru-en` | 8 | 0.57 h | 0 | 0 | Released (`original-dvorik-u-mosta-s02e05`) |
+| `dvorik-u-mosta-s02e06` | `ru-en` | 8 | 0.59 h | 2 | 2 | Released (`original-dvorik-u-mosta-s02e06`) |
+| `dvorik-u-mosta-s03e01` | `ru-en` | 8 | 0.66 h | 0 | 0 | Released (`original-dvorik-u-mosta-s03e01`) |
+| `dvorik-u-mosta-s03e02` | `ru-en` | 8 | 0.69 h | 1 | 1 | Released (`original-dvorik-u-mosta-s03e02`) |
+| `dvorik-u-mosta-s03e03` | `ru-en` | 8 | 0.70 h | 3 | 2 | Released (`original-dvorik-u-mosta-s03e03`) |
+| `dvorik-u-mosta-s03e04` | `ru-en` | 8 | 0.72 h | 0 | 0 | Released (`original-dvorik-u-mosta-s03e04`) |
+| `dvorik-u-mosta-s03e05` | `ru-en` | 8 | 0.72 h | 1 | 1 | Released (`original-dvorik-u-mosta-s03e05`) |
+| `dvorik-u-mosta-s03e06` | `ru-en` | 8 | 0.71 h | 0 | 1 | Released (`original-dvorik-u-mosta-s03e06`) |
 | `linden-courtyard-ru-s01e01` | `en-ru` | 8 | 0.49 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e01`) |
 | `linden-courtyard-ru-s01e02` | `en-ru` | 8 | 0.51 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e02`) |
 | `linden-courtyard-ru-s01e03` | `en-ru` | 8 | 0.53 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e03`) |
