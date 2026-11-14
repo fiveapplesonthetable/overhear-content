@@ -556,6 +556,11 @@ class Renderer:
                 tmpf = cp.with_suffix(".tmp.flac")
                 sf.write(str(tmpf), b["wav"], tts.NATIVE_SR, format="FLAC", subtype="PCM_16")
                 tmpf.replace(cp)
+                gp = cp.with_name(f"{key}.gates.json")
+                gd = self.read_json(gp)
+                if cands.get("hyp", {}).get(str(b["take"] - 1)):
+                    gd["hyp"] = cands["hyp"][str(b["take"] - 1)]
+                    gp.write_text(json.dumps(gd, ensure_ascii=False))
             retake["sentences"].append({"seg": st.seg, "idx": st.idx, "text": st.plain, "takesTried": len(made),
                                         "bestTake": b["take"], "stillFlagged": b["bad"][0] > 0})
             for t in made:
