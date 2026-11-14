@@ -1895,6 +1895,32 @@
         }
       ]
     },
+    "anybody": {
+      "lemma": "anybody",
+      "stress": "ˈɛniˌbɑdi",
+      "pos": "pron",
+      "gloss": "personne, qui que ce soit",
+      "meanings": [
+        {
+          "en": "personne, qui que ce soit",
+          "note": "N'importe quelle personne (dans un contexte négatif ou interrogatif)"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Only one person in Linden Courtyard Inn never flatters anybody, even when dessert is free.",
+          "trans": "Une seule personne à l'Auberge de la Cour du Tilleul ne flatte jamais personne, même quand le dessert est gratuit."
+        },
+        {
+          "text": "I looked around the quiet waiting room, but I didn't see anybody at the reception desk.",
+          "trans": "J'ai regardé autour de la salle d'attente silencieuse, mais je n'ai vu personne au comptoir d'accueil."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "anyone": {
       "lemma": "anyone",
       "stress": "ˈɛniˌwʌn",
@@ -3416,6 +3442,32 @@
       ],
       "related": []
     },
+    "backup": {
+      "lemma": "backup",
+      "stress": "ˈbækʌp",
+      "pos": "noun",
+      "gloss": "solution de secours, renfort, sauvegarde",
+      "meanings": [
+        {
+          "en": "solution de secours, renfort, sauvegarde",
+          "note": "Nom invariable comme modificateur (a backup list = « une liste de secours »), issu du verbe à particule back up (« épauler, sauvegarder »)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Plus I kept a full backup seat list written neatly on page forty of my ledger.",
+          "trans": "De plus, j'ai gardé une liste de secours complète des places, notée proprement à la page quarante de mon registre."
+        },
+        {
+          "text": "We packed a backup flashlight in case the batteries died halfway down the trail.",
+          "trans": "Nous avons emporté une lampe torche de secours au cas où les piles tomberaient en panne à mi-chemin sur le sentier."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "bad": {
       "lemma": "bad",
       "stress": "bæd",
@@ -4586,6 +4638,32 @@
         {
           "text": "Put clean sheets on the bed.",
           "trans": "Mets des draps propres sur le lit."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
+    "bedsheet": {
+      "lemma": "bedsheet",
+      "stress": "ˈbɛdˌʃit",
+      "pos": "noun",
+      "gloss": "drap",
+      "meanings": [
+        {
+          "en": "drap, drap de lit",
+          "note": "Grande pièce de tissu utilisée pour garnir un lit"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wooden laundry clothespins, Graham?! We are hosting an anniversary tea, not drying bedsheets!",
+          "trans": "Des pinces à linge en bois, Graham ?! Nous organisons un thé d'anniversaire, nous ne faisons pas sécher des draps !"
+        },
+        {
+          "text": "She folded the freshly washed cotton bedsheets and stacked them neatly in the linen closet.",
+          "trans": "Elle a plié les draps en coton fraîchement lavés et les a empilés soigneusement dans l'armoire à linge."
         }
       ],
       "related": [],
@@ -6518,7 +6596,23 @@
           "note": "Nom composé dénombrable (book + shelf) ; son pluriel est irrégulier : bookshelves (-f devient -ves)."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "bookshelf",
+              "bookshelves"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -6539,6 +6633,9 @@
           "word": "bookshop",
           "gloss": "librairie"
         }
+      ],
+      "surface": [
+        "bookshelves"
       ]
     },
     "bookshop": {
@@ -11103,18 +11200,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "child"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "child",
               "children"
             ]
           }
@@ -12053,6 +12146,32 @@
       "related": [],
       "surface": []
     },
+    "cleanly": {
+      "lemma": "cleanly",
+      "stress": "ˈklinli",
+      "pos": "adv",
+      "gloss": "nettement",
+      "meanings": [
+        {
+          "en": "nettement, proprement",
+          "note": "D'une manière nette, sans bavure ni accroc"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Because someone tore the recipe card cleanly in half right across the middle!",
+          "trans": "Parce que quelqu'un a déchiré la fiche de recette nettement en deux tout en travers du milieu !"
+        },
+        {
+          "text": "Read the baking instructions aloud so I can copy them cleanly, Tessa.",
+          "trans": "Lisez les instructions de cuisson à voix haute pour que je puisse les recopier proprement, Tessa."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "clear": {
       "lemma": "clear",
       "stress": "klɪɹ",
@@ -12574,7 +12693,7 @@
     },
     "clothespin": {
       "lemma": "clothespin",
-      "stress": "ˈkləʊðzpɪn",
+      "stress": "ˈkloʊðzˌpɪn",
       "pos": "noun",
       "gloss": "pince à linge",
       "meanings": [
@@ -13035,11 +13154,15 @@
       "lemma": "commercial",
       "stress": "kəˈmɝʃəl",
       "pos": "adj",
-      "gloss": "commercial",
+      "gloss": "commercial (adj.) ; publicité, spot publicitaire (nom)",
       "meanings": [
         {
-          "en": "commercial",
-          "note": "Même orthographe qu'en français; oppose les locaux d'affaires ou de bureaux à l'habitat résidentiel."
+          "en": "commercial (lié au commerce ou aux locaux d'affaires)",
+          "note": "Comme adjectif, même orthographe qu'en français : oppose les locaux d'affaires ou de bureaux (commercial property) à l'habitat résidentiel."
+        },
+        {
+          "en": "publicité, spot publicitaire (à la télévision ou à la radio)",
+          "note": "Faux-ami majeur comme nom : a commercial désigne une publicité diffusée à l'antenne, et JAMAIS « un commercial » (vendeur ou représentant), qui se dit a sales representative ou a salesperson !"
         }
       ],
       "forms": null,
@@ -14466,7 +14589,23 @@
           "note": "Emprunt grec et latin prononcé /ˈkɹaɪsɪs/ (avec la diphtongue /aɪ/); pluriel irrégulier crises (/ˈkɹaɪsiz/)."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "crisis",
+              "crises"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -14487,6 +14626,9 @@
           "word": "emergency",
           "gloss": "urgence"
         }
+      ],
+      "surface": [
+        "crises"
       ]
     },
     "crisp": {
@@ -14687,6 +14829,70 @@
           "gloss": "royal"
         }
       ]
+    },
+    "crowning": {
+      "lemma": "crowning",
+      "stress": "ˈkɹaʊnɪŋ",
+      "pos": "verb",
+      "gloss": "couronner, sacrer (en -ing) ; couronnement",
+      "meanings": [
+        {
+          "en": "couronnant, consacrant ; couronnement",
+          "note": "Forme en -ing du verbe crown (« couronner, sacrer un lauréat ») ; s'emploie aussi devant un nom pour désigner un point d'orgue (a crowning moment)."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "crown"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "crowns"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "crowned"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "crowned"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "crowning"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Because a good baker learns from the first two mistakes before crowning a winner!",
+          "trans": "Parce qu'une bonne boulangère apprend de ses deux premières erreurs avant de couronner un vainqueur !"
+        },
+        {
+          "text": "The festival concluded with a lively parade crowning the local baker as pie champion.",
+          "trans": "Le festival s'est achevé par un défilé animé couronnant le boulanger local comme champion de la tarte."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "crumb": {
       "lemma": "crumb",
@@ -15299,6 +15505,32 @@
         }
       ],
       "related": []
+    },
+    "dampness": {
+      "lemma": "dampness",
+      "stress": "ˈdæmpnəs",
+      "pos": "noun",
+      "gloss": "humidité",
+      "meanings": [
+        {
+          "en": "humidité",
+          "note": "État de ce qui est légèrement mouillé ou humide"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Beeswax on heavy linen really works; not one drop of dampness reached the inside.",
+          "trans": "La cire d'abeille sur de la grosse toile de lin est vraiment efficace ; pas une goutte d'humidité n'a atteint l'intérieur."
+        },
+        {
+          "text": "A faint smell of dampness lingered in the cellar weeks after the summer storm.",
+          "trans": "Une légère odeur d'humidité persistait dans la cave plusieurs semaines après l'orage d'été."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "dance": {
       "lemma": "dance",
@@ -16664,7 +16896,7 @@
         },
         {
           "text": "Students get a ten percent discount.",
-          "trans": "Les étudiants bénéficient de dix pour cent de réduction."
+          "trans": "Les étudiants bénéficient de 10 % de réduction."
         }
       ],
       "related": [],
@@ -17259,7 +17491,7 @@
       "examples": [
         {
           "text": "You get ten percent off when you buy a full dozen.",
-          "trans": "On a dix pour cent de réduction en achetant une douzaine complète."
+          "trans": "On a 10 % de réduction en achetant une douzaine complète."
         },
         {
           "text": "Arthur accidentally ordered two dozen garden chairs!",
@@ -19487,6 +19719,32 @@
       "related": [],
       "surface": []
     },
+    "evenly": {
+      "lemma": "evenly",
+      "stress": "ˈivənli",
+      "pos": "adv",
+      "gloss": "uniformément",
+      "meanings": [
+        {
+          "en": "uniformément, également",
+          "note": "De manière égale ou régulière"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Count to five, press the center gently with one thumb, and lift evenly.",
+          "trans": "Compte jusqu'à cinq, appuie doucement au centre avec un pouce, et soulève de façon bien régulière."
+        },
+        {
+          "text": "We divide one batch of almond berry batter evenly across three small round tins.",
+          "trans": "Nous répartissons une même fournée de pâte aux amandes et aux baies de façon égale dans trois petits moules ronds."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "ever": {
       "lemma": "ever",
       "stress": "ˈɛvɚ",
@@ -21528,6 +21786,32 @@
       "related": [],
       "surface": []
     },
+    "firmly": {
+      "lemma": "firmly",
+      "stress": "ˈfɝmli",
+      "pos": "adv",
+      "gloss": "fermement",
+      "meanings": [
+        {
+          "en": "fermement",
+          "note": "De manière solide et assurée"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "I shall carry this poster firmly in both hands straight to the wooden easel outside.",
+          "trans": "Je porterai cette affiche fermement à deux mains tout droit jusqu'au chevalet en bois dehors."
+        },
+        {
+          "text": "Grip the handrail firmly with both hands while descending the steep stone steps.",
+          "trans": "Tenez fermement la rampe à deux mains en descendant les marches en pierre abruptes."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "first": {
       "lemma": "first",
       "stress": "fɝst",
@@ -22658,18 +22942,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "foot"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "foot",
               "feet"
             ]
           }
@@ -23169,6 +23449,32 @@
           "gloss": "assiette"
         }
       ]
+    },
+    "forkful": {
+      "lemma": "forkful",
+      "stress": "ˈfɔɹkfʊl",
+      "pos": "noun",
+      "gloss": "fourchettée",
+      "meanings": [
+        {
+          "en": "fourchettée, bouchée",
+          "note": "La quantité de nourriture que peut contenir une fourchette"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait — too late, Graham already put a full forkful into his mouth!",
+          "trans": "Attendez — trop tard, Graham a déjà mis une pleine fourchettée dans sa bouche !"
+        },
+        {
+          "text": "He lifted a generous forkful of pasta and nodded with obvious delight.",
+          "trans": "Il a soulevé une généreuse fourchettée de pâtes et a hoché la tête avec un plaisir évident."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "form": {
       "lemma": "form",
@@ -24298,18 +24604,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "gentleman"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "gentleman",
               "gentlemen"
             ]
           }
@@ -26261,6 +26563,44 @@
         }
       ]
     },
+    "h": {
+      "lemma": "h",
+      "stress": "eɪtʃ",
+      "pos": "noun",
+      "gloss": "lettre H; initiale H",
+      "meanings": [
+        {
+          "en": "lettre H; initiale H",
+          "note": "Huitième lettre de l'alphabet anglais, prononcée /eɪtʃ/ (« eïtch »). Comme le nom de la lettre commence par un son vocalique (/eɪ/), on dit an H (« un H »), même si la consonne h est aspirée dans des mots comme honey (/ˈhʌni/)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Could H stand for wildflower honey?",
+          "trans": "Est-ce que H pourrait être l'initiale de miel de fleurs sauvages ?"
+        },
+        {
+          "text": "The word honey begins with an H.",
+          "trans": "Le mot honey commence par un H."
+        }
+      ],
+      "related": [
+        {
+          "word": "letter",
+          "gloss": "lettre"
+        },
+        {
+          "word": "honey",
+          "gloss": "miel"
+        }
+      ],
+      "surface": [
+        "H",
+        "h"
+      ]
+    },
     "ha": {
       "lemma": "ha",
       "stress": "hɑ",
@@ -26351,18 +26691,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "half"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "half",
               "halves"
             ]
           }
@@ -28775,6 +29111,32 @@
         "hoping"
       ]
     },
+    "horseshoe": {
+      "lemma": "horseshoe",
+      "stress": "ˈhɔɹsˌʃu",
+      "pos": "noun",
+      "gloss": "fer à cheval",
+      "meanings": [
+        {
+          "en": "fer à cheval",
+          "note": "Pièce métallique en forme de U fixée sous le sabot d'un cheval"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Clip it? With what — heavy iron horseshoes on clean white linen napkins?!",
+          "trans": "L'attacher ? Avec quoi — de lourds fers à cheval sur des serviettes en lin blanc immaculées ?!"
+        },
+        {
+          "text": "The blacksmith heated the iron horseshoe in the forge until it glowed bright orange.",
+          "trans": "Le forgeron a chauffé le fer à cheval dans la forge jusqu'à ce qu'il devienne orange vif."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "hospitality": {
       "lemma": "hospitality",
       "stress": "ˌhɑspɪˈtæləti",
@@ -28996,6 +29358,32 @@
         {
           "text": "How nice to see you again!",
           "trans": "Quel plaisir de vous revoir!"
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
+    "however": {
+      "lemma": "however",
+      "stress": "haʊˈɛvɚ",
+      "pos": "adv",
+      "gloss": "cependant",
+      "meanings": [
+        {
+          "en": "cependant, toutefois",
+          "note": "Sert à introduire une restriction ou une nuance"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Purely for structural safety, however, I should test one more small corner slice.",
+          "trans": "Purement par souci de sécurité structurelle, toutefois, je devrais contrôler encore une petite part du coin."
+        },
+        {
+          "text": "The train arrived right on schedule; however, heavy fog delayed our ferry by an hour.",
+          "trans": "Le train est arrivé parfaitement à l'heure ; cependant, un épais brouillard a retardé notre traversier d'une heure."
         }
       ],
       "related": [],
@@ -30651,6 +31039,32 @@
       "related": [],
       "surface": []
     },
+    "itself": {
+      "lemma": "itself",
+      "stress": "ɪtˈsɛlf",
+      "pos": "pron",
+      "gloss": "lui-même",
+      "meanings": [
+        {
+          "en": "lui-même, tout seul",
+          "note": "Employé pour insister sur la chose ou l'animal en question, ou indiquer une action spontanée (tout seul)"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait — the book falls open all by itself near chapter seven on summer mint!",
+          "trans": "Attendez — le livre s'ouvre tout seul près du chapitre sept consacré à la menthe d'été !"
+        },
+        {
+          "text": "The heavy wooden gate swung shut all by itself as soon as the breeze picked up.",
+          "trans": "Le lourd portail en bois s'est refermé tout seul dès que la brise s'est levée."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "ivory": {
       "lemma": "ivory",
       "stress": "ˈaɪvəɹi",
@@ -31358,6 +31772,32 @@
         "kept"
       ]
     },
+    "keepsake": {
+      "lemma": "keepsake",
+      "stress": "ˈkipˌseɪk",
+      "pos": "noun",
+      "gloss": "souvenir",
+      "meanings": [
+        {
+          "en": "souvenir, relique",
+          "note": "Objet conservé en souvenir d'une personne ou d'un événement"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "And everyone can clip their wooden clothespin onto a saucer or pocket as a keepsake!",
+          "trans": "Et chacun pourra accrocher sa pince en bois à sa soucoupe ou à sa poche en guise de souvenir !"
+        },
+        {
+          "text": "She kept the dried rose from her graduation inside a small wooden box as a keepsake.",
+          "trans": "Elle a gardé la rose séchée de sa remise de diplôme dans une petite boîte en bois en guise de souvenir."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "kettle": {
       "lemma": "kettle",
       "stress": "ˈkɛtəl",
@@ -31715,7 +32155,23 @@
           "note": "Nom dénombrable : le k initial est muet ([naɪf]), et le pluriel est irrégulier : knives [naɪvz]."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "knife",
+              "knives"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -31736,6 +32192,9 @@
           "word": "slice",
           "gloss": "tranche ; trancher"
         }
+      ],
+      "surface": [
+        "knives"
       ]
     },
     "knock": {
@@ -32850,18 +33309,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "leaf"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "leaf",
               "leaves"
             ]
           }
@@ -33773,18 +34228,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "life"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "life",
               "lives"
             ]
           }
@@ -34407,18 +34858,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "loaf"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "loaf",
               "loaves"
             ]
           }
@@ -35366,18 +35813,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "mailman"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "mailman",
               "mailmen"
             ]
           }
@@ -35560,18 +36003,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "man"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "man",
               "men"
             ]
           }
@@ -37776,18 +38215,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "mouse"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "mouse",
               "mice"
             ]
           }
@@ -39527,13 +39962,13 @@
     },
     "note": {
       "lemma": "note",
-      "stress": "nəʊt",
+      "stress": "noʊt",
       "pos": "noun",
-      "gloss": "mot, note",
+      "gloss": "petit mot, note écrite ; note de musique",
       "meanings": [
         {
-          "en": "mot, note, message",
-          "note": "Un court message écrit, ou bien un son musical, selon le contexte"
+          "en": "petit mot, note écrite ; note de musique",
+          "note": "Désigne un court message laissé sur papier ou un son musical. Faux-ami partiel : une « note » scolaire se dit a grade (américain) ou a mark, jamais a note !"
         }
       ],
       "forms": null,
@@ -40719,7 +41154,7 @@
     },
     "ours": {
       "lemma": "ours",
-      "stress": "aʊɚz",
+      "stress": "ˈaʊɚz",
       "pos": "pron",
       "gloss": "le nôtre, la nôtre, les nôtres",
       "meanings": [
@@ -40949,6 +41384,32 @@
       "related": [],
       "surface": []
     },
+    "overhead": {
+      "lemma": "overhead",
+      "stress": "ˌoʊvɚˈhɛd",
+      "pos": "adv",
+      "gloss": "en hauteur",
+      "meanings": [
+        {
+          "en": "en hauteur, au-dessus des têtes",
+          "note": "Situé ou placé en l'air, au-dessus"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Now the mapmaker's note makes total sense: they strung festival lanterns overhead between those rings!",
+          "trans": "Maintenant la note du cartographe prend tout son sens : ils ont tendu des lanternes de fête en hauteur entre ces anneaux !"
+        },
+        {
+          "text": "A flock of migratory geese flew overhead in a neat V formation at dawn.",
+          "trans": "Une volée d'oies sauvages est passée au-dessus de nos têtes en formation en V parfaite à l'aube."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "overnight": {
       "lemma": "overnight",
       "stress": "ˌoʊvɚˈnaɪt",
@@ -41170,10 +41631,10 @@
       "lemma": "pace",
       "stress": "peɪs",
       "pos": "noun",
-      "gloss": "pas (comme mesure de distance) ; allure, faire les cent pas (verb)",
+      "gloss": "pas (comme mesure de distance) ; allure, faire les cent pas (verbe)",
       "meanings": [
         {
-          "en": "pas (comme mesure de distance) ; allure, faire les cent pas (verb)",
+          "en": "pas (comme mesure de distance) ; allure, faire les cent pas (verbe)",
           "note": "Nom dénombrable (twenty paces, « vingt pas ») et verbe régulier (pace around, « faire les cent pas »)."
         }
       ],
@@ -42057,6 +42518,32 @@
       "related": [],
       "surface": []
     },
+    "patiently": {
+      "lemma": "patiently",
+      "stress": "ˈpeɪʃəntli",
+      "pos": "adv",
+      "gloss": "patiemment",
+      "meanings": [
+        {
+          "en": "patiemment",
+          "note": "Avec patience"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Open the flap gently, Hannah; that little envelope has waited patiently since May.",
+          "trans": "Ouvre le rabat doucement, Hannah ; cette petite enveloppe a attendu patiemment depuis le mois de mai."
+        },
+        {
+          "text": "The dog sat patiently beside the front door, waiting for its owner to grab the leash.",
+          "trans": "Le chien est resté assis patiemment près de la porte d'entrée, attendant que son maître prenne la laisse."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "pave": {
       "lemma": "pave",
       "stress": "peɪv",
@@ -42508,18 +42995,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "person"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "person",
               "people"
             ]
           }
@@ -42623,7 +43106,7 @@
       "examples": [
         {
           "text": "Look at the sign: ten percent off a full dozen!",
-          "trans": "Regarde l'écriteau: dix pour cent de remise sur une douzaine complète!"
+          "trans": "Regarde l'écriteau: 10 % de remise sur une douzaine complète!"
         },
         {
           "text": "Every single garden chair was fifty percent off!",
@@ -42662,6 +43145,32 @@
         {
           "text": "Perfect! Everything is back in order.",
           "trans": "Parfait! Tout est rentré dans l'ordre."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
+    "perfectly": {
+      "lemma": "perfectly",
+      "stress": "ˈpɝfɪktli",
+      "pos": "adv",
+      "gloss": "parfaitement",
+      "meanings": [
+        {
+          "en": "parfaitement",
+          "note": "D'une manière parfaite ou totale"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Who needs reading glasses to recognize a perfectly straight neighborhood lane?",
+          "trans": "Qui a besoin de lunettes de lecture pour reconnaître une ruelle de quartier parfaitement droite ?"
+        },
+        {
+          "text": "Everything in the small bakery was arranged perfectly, from the croissants to the price tags.",
+          "trans": "Tout dans la petite boulangerie était disposé parfaitement, des croissants jusqu'aux étiquettes de prix."
         }
       ],
       "related": [],
@@ -42772,18 +43281,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "person"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "person",
               "people"
             ]
           }
@@ -42798,6 +43303,32 @@
         {
           "text": "Tessa is the warmest person on the street.",
           "trans": "Tessa est la personne la plus chaleureuse de la rue."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
+    "personally": {
+      "lemma": "personally",
+      "stress": "ˈpɝsənəli",
+      "pos": "adv",
+      "gloss": "personnellement, en personne",
+      "meanings": [
+        {
+          "en": "personnellement, en personne",
+          "note": "Exprime soit un avis personnel (« pour ma part »), soit une démarche accomplie soi-même (« en main propre, en personne »)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Stand back and admire Batch One — glazed personally by the owner of Linden Courtyard Inn!",
+          "trans": "Reculez d'un pas et admirez la première fournée — glacée en personne par le propriétaire de l'Auberge de la Cour du Tilleul !"
+        },
+        {
+          "text": "The chef came out of the kitchen to greet each guest personally at the end of the meal.",
+          "trans": "Le chef est sorti de la cuisine pour saluer chaque convive en personne à la fin du repas."
         }
       ],
       "related": [],
@@ -44119,6 +44650,32 @@
         }
       ]
     },
+    "possibly": {
+      "lemma": "possibly",
+      "stress": "ˈpɑsəbli",
+      "pos": "adv",
+      "gloss": "peut-être, possiblement ; bien (dans une question)",
+      "meanings": [
+        {
+          "en": "peut-être, possiblement ; bien (dans une question)",
+          "note": "S'emploie seul pour dire « peut-être », avec can/could dans les questions pour marquer l'étonnement (What could possibly...? = « Qu'est-ce qui peut bien... ? »), et avec cannot pour « absolument pas »."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "What soft, shining glaze could possibly be hiding beneath that blue ink smudge, Tessa?",
+          "trans": "Quel glaçage doux et brillant peut bien se cacher sous cette tache d'encre bleue, Tessa ?"
+        },
+        {
+          "text": "How could anyone possibly forget the combination to their own suitcase?",
+          "trans": "Comment pourrait-on bien oublier la combinaison de sa propre valise ?"
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "post": {
       "lemma": "post",
       "stress": "poʊst",
@@ -45265,6 +45822,32 @@
         "professionals"
       ]
     },
+    "professionally": {
+      "lemma": "professionally",
+      "stress": "pɹəˈfɛʃənəli",
+      "pos": "adv",
+      "gloss": "professionnellement",
+      "meanings": [
+        {
+          "en": "d'un point de vue professionnel",
+          "note": "En lien avec une profession ou en tant qu'expert dans un domaine"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Speaking professionally as an architect, we could roof the bicycle shed with Batch Two.",
+          "trans": "D'un point de vue professionnel d'architecte, on pourrait couvrir l'abri à vélos avec la deuxième fournée."
+        },
+        {
+          "text": "Even when a customer complained loudly, the hotel manager handled the situation professionally.",
+          "trans": "Même lorsqu'un client s'est plaint bruyamment, le directeur de l'hôtel a géré la situation professionnellement."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "professor": {
       "lemma": "professor",
       "stress": "pɹəˈfɛsɚ",
@@ -46128,6 +46711,32 @@
       "related": [],
       "surface": []
     },
+    "purely": {
+      "lemma": "purely",
+      "stress": "ˈpjʊɹli",
+      "pos": "adv",
+      "gloss": "purement",
+      "meanings": [
+        {
+          "en": "purement",
+          "note": "Exclusivement, seulement"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Purely for structural safety, however, I should test one more small corner slice.",
+          "trans": "Purement par souci de sécurité structurelle, toutefois, je devrais contrôler encore une petite part du coin."
+        },
+        {
+          "text": "I joined the weekend pottery class purely for relaxation, not to sell anything.",
+          "trans": "Je me suis inscrit au cours de poterie du week-end purement pour me détendre, pas pour vendre quoi que ce soit."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "push": {
       "lemma": "push",
       "stress": "pʊʃ",
@@ -46396,6 +47005,32 @@
         {
           "text": "Mornings are peaceful and quiet here.",
           "trans": "Les matinées sont paisibles et silencieuses ici."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
+    "quietly": {
+      "lemma": "quietly",
+      "stress": "ˈkwaɪətli",
+      "pos": "adv",
+      "gloss": "silencieusement, tranquillement",
+      "meanings": [
+        {
+          "en": "silencieusement",
+          "note": "sans faire de bruit"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "He entered quietly.",
+          "trans": "Il est entré silencieusement."
+        },
+        {
+          "text": "loose poster paper and Friday wind never end quietly.",
+          "trans": "le papier d'affiche lâche et le vent du vendredi ne se terminent jamais tranquillement."
         }
       ],
       "related": [],
@@ -46710,6 +47345,32 @@
           "gloss": "ciel"
         }
       ]
+    },
+    "raindrop": {
+      "lemma": "raindrop",
+      "stress": "ˈɹeɪnˌdɹɑp",
+      "pos": "noun",
+      "gloss": "goutte de pluie",
+      "meanings": [
+        {
+          "en": "goutte de pluie",
+          "note": "Une seule goutte d'eau tombant sous forme de pluie"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Because one big raindrop hit the blue ink right on the secret warm glaze!",
+          "trans": "Parce qu'une grosse goutte de pluie est tombée sur l'encre bleue pile à l'endroit du glaçage chaud secret !"
+        },
+        {
+          "text": "A single cold raindrop splashed onto the open page of my notebook just as I stepped outside.",
+          "trans": "Une seule goutte de pluie froide a éclaboussé la page ouverte de mon carnet au moment même où je sortais."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "rainy": {
       "lemma": "rainy",
@@ -47544,6 +48205,32 @@
           "gloss": "frais"
         }
       ]
+    },
+    "refreshing": {
+      "lemma": "refreshing",
+      "stress": "ɹɪˈfɹɛʃɪŋ",
+      "pos": "adj",
+      "gloss": "rafraîchissant",
+      "meanings": [
+        {
+          "en": "rafraîchissant",
+          "note": "Qui apporte de la fraîcheur ou redonne de l'énergie"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Polish brass?! Surely a refreshing citrus zing deserves at least seven points!",
+          "trans": "Décaper du laiton ?! Un peps d'agrumes aussi rafraîchissant mérite sûrement au moins sept points !"
+        },
+        {
+          "text": "After three hours of gardening in the July heat, a glass of iced mint tea felt wonderfully refreshing.",
+          "trans": "Après trois heures de jardinage sous la chaleur de juillet, un verre de thé glacé à la menthe était merveilleusement rafraîchissant."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "register": {
       "lemma": "register",
@@ -50581,6 +51268,32 @@
         }
       ]
     },
+    "sailboat": {
+      "lemma": "sailboat",
+      "stress": "ˈseɪlˌboʊt",
+      "pos": "noun",
+      "gloss": "voilier",
+      "meanings": [
+        {
+          "en": "voilier",
+          "note": "Bateau propulsé par des voiles"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Whoa! Why is my seating chart pulling like a sailboat on the open sea?!",
+          "trans": "Hop là ! Pourquoi mon plan de table tire-t-il comme un voilier en pleine mer ?!"
+        },
+        {
+          "text": "From the lighthouse balcony, we watched a white sailboat glide across the calm bay.",
+          "trans": "Depuis le balcon du phare, nous avons regardé un voilier blanc glisser sur la baie calme."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "sale": {
       "lemma": "sale",
       "stress": "seɪl",
@@ -52869,6 +53582,32 @@
       "related": [],
       "surface": []
     },
+    "shed": {
+      "lemma": "shed",
+      "stress": "ʃɛd",
+      "pos": "noun",
+      "gloss": "abri de jardin, cabanon, remise",
+      "meanings": [
+        {
+          "en": "abri de jardin, cabanon, remise",
+          "note": "Petit bâtiment léger servant à ranger vélos, bois ou outils de jardin (a bicycle shed, a garden shed)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Speaking professionally as an architect, we could roof the bicycle shed with Batch Two.",
+          "trans": "D'un point de vue professionnel d'architecte, on pourrait couvrir l'abri à vélos avec la deuxième fournée."
+        },
+        {
+          "text": "He wheeled the lawnmower back into the wooden shed at the far corner of the garden.",
+          "trans": "Il a rentré la tondeuse dans l'abri en bois au fond du jardin."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "sheet": {
       "lemma": "sheet",
       "stress": "ʃit",
@@ -52912,18 +53651,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "shelf"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "shelf",
               "shelves"
             ]
           }
@@ -53041,6 +53776,32 @@
           "gloss": "lumière"
         }
       ]
+    },
+    "shiny": {
+      "lemma": "shiny",
+      "stress": "ˈʃaɪni",
+      "pos": "adj",
+      "gloss": "brillant",
+      "meanings": [
+        {
+          "en": "brillant, luisant",
+          "note": "Qui réfléchit la lumière, lisse et poli"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "It smells like a street festival, Owen, though the top looks surprisingly shiny.",
+          "trans": "Ça sent la fête de quartier, Owen, même si le dessus a l'air étonnamment brillant."
+        },
+        {
+          "text": "The child picked up a smooth, shiny pebble from the riverbank and slipped it into his pocket.",
+          "trans": "L'enfant a ramassé un galet lisse et brillant sur la berge de la rivière et l'a glissé dans sa poche."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "ship": {
       "lemma": "ship",
@@ -56220,6 +56981,32 @@
         {
           "text": "Leave space between the four tables.",
           "trans": "Laissez de l'espace entre les quatre tables."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
+    "spacer": {
+      "lemma": "spacer",
+      "stress": "ˈspeɪsɚ",
+      "pos": "noun",
+      "gloss": "entretoise",
+      "meanings": [
+        {
+          "en": "entretoise, écarteur",
+          "note": "Pièce utilisée pour maintenir un espace ou un écartement constant"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "My uncle worked harbor boats in his youth; two parallel lines with spacers never twist.",
+          "trans": "Mon oncle travaillait sur les bateaux du port dans sa jeunesse ; deux lignes parallèles munies d'entretoises ne se vrillent jamais."
+        },
+        {
+          "text": "Place plastic spacers between the ceramic tiles so every grout line stays the same width.",
+          "trans": "Placez des entretoises en plastique entre les carreaux de céramique pour que chaque joint garde la même largeur."
         }
       ],
       "related": [],
@@ -59551,6 +60338,32 @@
         }
       ]
     },
+    "sunset": {
+      "lemma": "sunset",
+      "stress": "ˈsʌnsɛt",
+      "pos": "noun",
+      "gloss": "coucher de soleil",
+      "meanings": [
+        {
+          "en": "coucher de soleil",
+          "note": "Moment où le soleil disparaît sous l'horizon"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Alternate warm gold and soft coral so the whole stone courtyard feels like sunset!",
+          "trans": "Alternez l'or chaud et le corail doux pour que toute la cour de pierre prenne des airs de coucher de soleil !"
+        },
+        {
+          "text": "The sky turned deep amber and violet at sunset while fishermen pulled their boats ashore.",
+          "trans": "Le ciel s'est teinté d'ambre profond et de violet au coucher du soleil pendant que les pêcheurs tiraient leurs barques sur le rivage."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "sunshine": {
       "lemma": "sunshine",
       "stress": "ˈsʌnˌʃaɪn",
@@ -59868,6 +60681,32 @@
           "gloss": "merveille ; se demander"
         }
       ]
+    },
+    "surprisingly": {
+      "lemma": "surprisingly",
+      "stress": "sɚˈpɹaɪzɪŋli",
+      "pos": "adv",
+      "gloss": "étonnamment",
+      "meanings": [
+        {
+          "en": "étonnamment",
+          "note": "D'une manière surprenante ou inattendue"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "It is completely dry, surprisingly light, and something metal just slid inside!",
+          "trans": "Il est complètement sec, étonnamment léger, et quelque chose en métal vient de glisser à l'intérieur !"
+        },
+        {
+          "text": "It smells like a street festival, Owen, though the top looks surprisingly shiny.",
+          "trans": "Ça sent la fête de quartier, Owen, même si le dessus a l'air étonnamment brillant."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "survive": {
       "lemma": "survive",
@@ -60479,6 +61318,32 @@
       "surface": [
         "tables"
       ]
+    },
+    "tablecloth": {
+      "lemma": "tablecloth",
+      "stress": "ˈteɪbəlˌklɔθ",
+      "pos": "noun",
+      "gloss": "nappe",
+      "meanings": [
+        {
+          "en": "nappe",
+          "note": "Pièce de tissu dont on recouvre une table pour les repas"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Even Graham clipped four extra clothespins to the corners of every white tablecloth!",
+          "trans": "Même Graham a fixé quatre pinces à linge supplémentaires aux coins de chaque nappe blanche !"
+        },
+        {
+          "text": "We spread a checkered cotton tablecloth over the picnic table before unpacking the lunch.",
+          "trans": "Nous avons étendu une nappe en coton à carreaux sur la table de pique-nique avant de déballer le déjeuner."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "tablet": {
       "lemma": "tablet",
@@ -61287,6 +62152,32 @@
         }
       ]
     },
+    "teaspoon": {
+      "lemma": "teaspoon",
+      "stress": "ˈtiˌspun",
+      "pos": "noun",
+      "gloss": "cuillère à café",
+      "meanings": [
+        {
+          "en": "cuillère à café",
+          "note": "Petite cuillère utilisée pour mesurer ou remuer"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "You measured two small teaspoons of lemon juice plus sugar, right, Arthur?",
+          "trans": "Vous avez bien mesuré deux petites cuillères à café de jus de citron avec du sucre, n'est-ce pas, Arthur ?"
+        },
+        {
+          "text": "Stir one teaspoon of raw honey into the herbal tea while it is still hot.",
+          "trans": "Mélangez une cuillère à café de miel brut dans la tisane tant qu'elle est encore chaude."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "telegram": {
       "lemma": "telegram",
       "stress": "ˈtɛləˌɡɹæm",
@@ -61431,7 +62322,7 @@
       "meanings": [
         {
           "en": "tenter (do not tempt fate / it = ne tente pas le diable!)",
-          "note": "Le p devant t est généralement muet ou à peine articulé (/tɛmt/); dans une boutade comme Do not tempt the buzzer!, signifie \"Ne porte pas la poisse en en parlant!\"."
+          "note": "Le p devant t est généralement muet ou à peine articulé (/tɛmt/); dans une boutade comme Do not tempt the buzzer!, signifie \"Ne porte pas la poisse rien qu'en le disant !\"."
         }
       ],
       "forms": {
@@ -62004,6 +62895,32 @@
       "related": [],
       "surface": []
     },
+    "themselves": {
+      "lemma": "themselves",
+      "stress": "ðəmˈsɛlvz",
+      "pos": "pron",
+      "gloss": "eux-mêmes, elles-mêmes ; se (réfléchi)",
+      "meanings": [
+        {
+          "en": "eux-mêmes, elles-mêmes ; se (pronom réfléchi pluriel)",
+          "note": "Pronom réfléchi et emphatique de la 3e personne du pluriel (masculin et féminin confondus, ainsi qu'avec they singulier neutre)."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Give me one quiet moment while my cheeks try to unpucker themselves.",
+          "trans": "Accordez-moi un instant de silence pendant que mes joues essaient de se défroisser."
+        },
+        {
+          "text": "The sisters painted the entire dining room themselves over a single weekend.",
+          "trans": "Les sœurs ont peint toute la salle à manger elles-mêmes en un seul week-end."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "then": {
       "lemma": "then",
       "stress": "ðɛn",
@@ -62278,6 +63195,32 @@
         {
           "text": "This is Evelyn's third visit to Bath.",
           "trans": "C'est la troisième visite d'Evelyn à Bath."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
+    "thirtieth": {
+      "lemma": "thirtieth",
+      "stress": "ˈθɝtiəθ",
+      "pos": "adj",
+      "gloss": "trentième",
+      "meanings": [
+        {
+          "en": "trentième",
+          "note": "Qui occupe le rang correspondant au nombre trente"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Arriving in Portland next Saturday for the thirtieth May anniversary at Linden Courtyard!",
+          "trans": "Arrivée à Portland samedi prochain pour le trentième anniversaire de mai à la Cour du Tilleul !"
+        },
+        {
+          "text": "The town celebrated the thirtieth anniversary of its public library with a weekend book fair.",
+          "trans": "La ville a célébré le trentième anniversaire de sa bibliothèque municipale avec une foire aux livres le week-end."
         }
       ],
       "related": [],
@@ -65521,6 +66464,32 @@
         }
       ]
     },
+    "unbroken": {
+      "lemma": "unbroken",
+      "stress": "ʌnˈbɹoʊkən",
+      "pos": "adj",
+      "gloss": "intact",
+      "meanings": [
+        {
+          "en": "intact, ininterrompu",
+          "note": "Qui n'a pas été brisé ou rompu"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "One tiny square envelope left — and the red wax seal is still completely unbroken!",
+          "trans": "Il reste une toute petite enveloppe carrée — et le cachet de cire rouge est encore complètement intact !"
+        },
+        {
+          "text": "Among all the dishes dropped during the move, only Grandmother's porcelain teapot remained unbroken.",
+          "trans": "Parmi toute la vaisselle tombée pendant le déménagement, seule la théière en porcelaine de grand-mère est restée intacte."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "uncle": {
       "lemma": "uncle",
       "stress": "ˈʌŋkəl",
@@ -65704,6 +66673,32 @@
           "gloss": "plier"
         }
       ]
+    },
+    "unforgettable": {
+      "lemma": "unforgettable",
+      "stress": "ˌʌnfɚˈɡɛtəbəl",
+      "pos": "adj",
+      "gloss": "inoubliable",
+      "meanings": [
+        {
+          "en": "inoubliable",
+          "note": "Qu'on ne peut pas oublier ; mémorable"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Two big soup ladles of pure lemon juice for bold, unforgettable summer flavor!",
+          "trans": "Deux grandes louches à soupe de pur jus de citron pour une saveur d'été audacieuse et inoubliable !"
+        },
+        {
+          "text": "Watching the northern lights ripple over the frozen lake was an unforgettable experience.",
+          "trans": "Observer les aurores boréales onduler au-dessus du lac gelé fut une expérience inoubliable."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "unfortunately": {
       "lemma": "unfortunately",
@@ -66105,6 +67100,70 @@
         }
       ]
     },
+    "unpucker": {
+      "lemma": "unpucker",
+      "stress": "ʌnˈpʌkɚ",
+      "pos": "verb",
+      "gloss": "défroisser",
+      "meanings": [
+        {
+          "en": "se défroisser, se décontracter",
+          "note": "Relâcher la contraction (souvent due à l'acidité), lisser ce qui était plissé"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "unpucker"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "unpuckers"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "unpuckered"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "unpuckered"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "unpuckering"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Give me one quiet moment while my cheeks try to unpucker themselves.",
+          "trans": "Accordez-moi un instant de silence pendant que mes joues essaient de se défroisser."
+        },
+        {
+          "text": "The sour green plum made him wince, and his lips took a moment to unpucker.",
+          "trans": "La prune verte acide lui fit faire la grimace, et ses lèvres mirent un instant à se décontracter."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "unsalted": {
       "lemma": "unsalted",
       "stress": "ʌnˈsɔltɪd",
@@ -66138,6 +67197,32 @@
           "gloss": "beurre"
         }
       ]
+    },
+    "unsmudged": {
+      "lemma": "unsmudged",
+      "stress": "ʌnˈsmʌdʒd",
+      "pos": "adj",
+      "gloss": "intact",
+      "meanings": [
+        {
+          "en": "intact, non taché",
+          "note": "Qui n'a pas été bavé ou taché"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Look at the last unsmudged word at the corner: scatter toasted sliced almonds on top.",
+          "trans": "Regardez le dernier mot intact dans le coin : parsemez d'amandes effilées grillées sur le dessus."
+        },
+        {
+          "text": "Carefully lift the ruler so the wet ink line stays crisp and unsmudged.",
+          "trans": "Soulevez la règle avec précaution pour que le trait d'encre fraîche reste net et intact."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "untie": {
       "lemma": "untie",
@@ -67477,6 +68562,32 @@
         }
       ]
     },
+    "washable": {
+      "lemma": "washable",
+      "stress": "ˈwɑʃəbəl",
+      "pos": "adj",
+      "gloss": "lavable",
+      "meanings": [
+        {
+          "en": "lavable",
+          "note": "Qui peut être lavé sans être endommagé, ou qui s'efface à l'eau"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Not the stone water basin! That is washable blue fountain ink, not waterproof paint!",
+          "trans": "Pas le bassin d'eau en pierre ! C'est de l'encre bleue lavable pour stylo-plume, pas de la peinture résistante à l'eau !"
+        },
+        {
+          "text": "Parents usually prefer washable markers for young children who love drawing everywhere.",
+          "trans": "Les parents préfèrent généralement les feutres lavables pour les jeunes enfants qui adorent dessiner partout."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "watch": {
       "lemma": "watch",
       "stress": "wɑtʃ",
@@ -67629,6 +68740,32 @@
           "gloss": "pinceau"
         }
       ]
+    },
+    "waterproof": {
+      "lemma": "waterproof",
+      "stress": "ˈwɔtɚˌpɹuf",
+      "pos": "adj",
+      "gloss": "étanche",
+      "meanings": [
+        {
+          "en": "étanche, imperméable",
+          "note": "Qui ne laisse pas passer l'eau"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Not the stone water basin! That is washable blue fountain ink, not waterproof paint!",
+          "trans": "Pas le bassin d'eau en pierre ! C'est de l'encre bleue lavable pour stylo-plume, pas de la peinture résistante à l'eau !"
+        },
+        {
+          "text": "Did you seal it in waterproof plastic AND write HONEY AND ORANGE ZEST in capitals?!",
+          "trans": "Tu l'as scellée dans du plastique étanche ET tu as écrit « MIEL ET ZESTE D'ORANGE » en majuscules ?!"
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "wave": {
       "lemma": "wave",
@@ -69045,6 +70182,32 @@
       ],
       "related": []
     },
+    "wildflower": {
+      "lemma": "wildflower",
+      "stress": "ˈwaɪldˌflaʊɚ",
+      "pos": "noun",
+      "gloss": "fleur sauvage",
+      "meanings": [
+        {
+          "en": "fleur sauvage",
+          "note": "Fleur qui pousse naturellement sans avoir été cultivée (ici utilisé pour décrire le miel)"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait — warm H plus grated sweet orange peel! Could H stand for wildflower honey?!",
+          "trans": "Attendez — du H chaud avec de l'écorce d'orange douce râpée ! Est-ce que H voudrait dire miel de fleurs sauvages ?!"
+        },
+        {
+          "text": "She spotted a rare blue wildflower growing beside the rocky mountain path.",
+          "trans": "Elle a aperçu une fleur sauvage bleue rare qui poussait au bord du sentier rocailleux."
+        }
+      ],
+      "related": [],
+      "surface": []
+    },
     "will": {
       "lemma": "will",
       "stress": "wɪl",
@@ -69299,6 +70462,32 @@
           "gloss": "rebord, corniche"
         }
       ]
+    },
+    "windproof": {
+      "lemma": "windproof",
+      "stress": "ˈwɪndˌpɹuf",
+      "pos": "adj",
+      "gloss": "résistant au vent",
+      "meanings": [
+        {
+          "en": "résistant au vent, anti-vent",
+          "note": "Conçu pour ne pas être emporté ou pénétré par le vent"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Lanterns first, windproof seats second — nobody panic on my watch.",
+          "trans": "Les lanternes d'abord, les places résistantes au vent ensuite — que personne ne panique sous ma garde."
+        },
+        {
+          "text": "Graham, Hannah — that is charming, rustic, windproof, AND costs zero extra coins!",
+          "trans": "Graham, Hannah — c'est charmant, champêtre, résistant au vent, ET cela ne coûte pas un sou de plus !"
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "winter": {
       "lemma": "winter",
@@ -69616,18 +70805,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "woman"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "woman",
               "women"
             ]
           }
@@ -70104,6 +71289,32 @@
           "gloss": "mériter"
         }
       ]
+    },
+    "worthy": {
+      "lemma": "worthy",
+      "stress": "ˈwɝði",
+      "pos": "adj",
+      "gloss": "digne",
+      "meanings": [
+        {
+          "en": "digne",
+          "note": "Qui a de la valeur, qui mérite de l'attention ou du respect"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Well, Graham? Tell us honestly — is that worthy of our Saturday anniversary table?",
+          "trans": "Alors, Graham ? Dis-nous franchement — est-ce digne de notre table d'anniversaire de samedi ?"
+        },
+        {
+          "text": "After years of restoration, the historic theater is finally worthy of its grand reputation.",
+          "trans": "Après des années de restauration, le théâtre historique est enfin digne de sa grande réputation."
+        }
+      ],
+      "related": [],
+      "surface": []
     },
     "would": {
       "lemma": "would",
@@ -70833,1174 +72044,6 @@
         {
           "text": "Pull the suitcase zipper gently around the corner.",
           "trans": "Tire doucement la fermeture éclair de la valise dans l'angle."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "anybody": {
-      "lemma": "anybody",
-      "stress": "ˈɛnibɒdi",
-      "pos": "pron",
-      "gloss": "personne, qui que ce soit",
-      "meanings": [
-        {
-          "en": "personne, qui que ce soit",
-          "note": "N'importe quelle personne (dans un contexte négatif ou interrogatif)"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Only one person in Linden Courtyard Inn never flatters anybody, even when dessert is free.",
-          "trans": "Une seule personne à l'Auberge de la Cour du Tilleul ne flatte jamais personne, même quand le dessert est gratuit."
-        },
-        {
-          "text": "I looked around the quiet waiting room, but I didn't see anybody at the reception desk.",
-          "trans": "J'ai regardé autour de la salle d'attente silencieuse, mais je n'ai vu personne au comptoir d'accueil."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "backup": {
-      "lemma": "backup",
-      "stress": "ˈbækʌp",
-      "pos": "noun",
-      "gloss": "secours",
-      "meanings": [
-        {
-          "en": "secours, sauvegarde",
-          "note": "Remplacement ou copie de réserve en cas de besoin"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Plus I kept a full backup seat list written neatly on page forty of my ledger.",
-          "trans": "De plus, j'ai gardé une liste de secours complète des places, notée proprement à la page quarante de mon registre."
-        },
-        {
-          "text": "We packed a backup flashlight in case the batteries died halfway down the trail.",
-          "trans": "Nous avons emporté une lampe torche de secours au cas où les piles tomberaient en panne à mi-chemin sur le sentier."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "bedsheet": {
-      "lemma": "bedsheet",
-      "stress": "ˈbɛdʃiːt",
-      "pos": "noun",
-      "gloss": "drap",
-      "meanings": [
-        {
-          "en": "drap, drap de lit",
-          "note": "Grande pièce de tissu utilisée pour garnir un lit"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wooden laundry clothespins, Graham?! We are hosting an anniversary tea, not drying bedsheets!",
-          "trans": "Des pinces à linge en bois, Graham ?! Nous organisons un thé d'anniversaire, nous ne faisons pas sécher des draps !"
-        },
-        {
-          "text": "She folded the freshly washed cotton bedsheets and stacked them neatly in the linen closet.",
-          "trans": "Elle a plié les draps en coton fraîchement lavés et les a empilés soigneusement dans l'armoire à linge."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "cleanly": {
-      "lemma": "cleanly",
-      "stress": "ˈklenli",
-      "pos": "adv",
-      "gloss": "nettement",
-      "meanings": [
-        {
-          "en": "nettement, proprement",
-          "note": "D'une manière nette, sans bavure ni accroc"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Because someone tore the recipe card cleanly in half right across the middle!",
-          "trans": "Parce que quelqu'un a déchiré la fiche de recette nettement en deux tout en travers du milieu !"
-        },
-        {
-          "text": "Read the baking instructions aloud so I can copy them cleanly, Tessa.",
-          "trans": "Lisez les instructions de cuisson à voix haute pour que je puisse les recopier proprement, Tessa."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "crowning": {
-      "lemma": "crowning",
-      "stress": "ˈkɹaʊnɪŋ",
-      "pos": "verb",
-      "gloss": "couronnant",
-      "meanings": [
-        {
-          "en": "couronner, sacrer",
-          "note": "Action de désigner ou récompenser un gagnant"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "crown"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "crowns"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "crowned"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "crowned"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "crowning"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Because a good baker learns from the first two mistakes before crowning a winner!",
-          "trans": "Parce qu'une bonne boulangère apprend de ses deux premières erreurs avant de couronner un vainqueur !"
-        },
-        {
-          "text": "The festival concluded with a lively parade crowning the local baker as pie champion.",
-          "trans": "Le festival s'est achevé par un défilé animé couronnant le boulanger local comme champion de la tarte."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "dampness": {
-      "lemma": "dampness",
-      "stress": "ˈdæmpnəs",
-      "pos": "noun",
-      "gloss": "humidité",
-      "meanings": [
-        {
-          "en": "humidité",
-          "note": "État de ce qui est légèrement mouillé ou humide"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Beeswax on heavy linen really works; not one drop of dampness reached the inside.",
-          "trans": "La cire d'abeille sur de la grosse toile de lin est vraiment efficace ; pas une goutte d'humidité n'a atteint l'intérieur."
-        },
-        {
-          "text": "A faint smell of dampness lingered in the cellar weeks after the summer storm.",
-          "trans": "Une légère odeur d'humidité persistait dans la cave plusieurs semaines après l'orage d'été."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "evenly": {
-      "lemma": "evenly",
-      "stress": "ˈiːvənli",
-      "pos": "adv",
-      "gloss": "uniformément",
-      "meanings": [
-        {
-          "en": "uniformément, également",
-          "note": "De manière égale ou régulière"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Count to five, press the center gently with one thumb, and lift evenly.",
-          "trans": "Compte jusqu'à cinq, appuie doucement au centre avec un pouce, et soulève de façon bien régulière."
-        },
-        {
-          "text": "We divide one batch of almond berry batter evenly across three small round tins.",
-          "trans": "Nous répartissons une même fournée de pâte aux amandes et aux baies de façon égale dans trois petits moules ronds."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "firmly": {
-      "lemma": "firmly",
-      "stress": "ˈfɜːmli",
-      "pos": "adv",
-      "gloss": "fermement",
-      "meanings": [
-        {
-          "en": "fermement",
-          "note": "De manière solide et assurée"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "I shall carry this poster firmly in both hands straight to the wooden easel outside.",
-          "trans": "Je porterai cette affiche fermement à deux mains tout droit jusqu'au chevalet en bois dehors."
-        },
-        {
-          "text": "Grip the handrail firmly with both hands while descending the steep stone steps.",
-          "trans": "Tenez fermement la rampe à deux mains en descendant les marches en pierre abruptes."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "forkful": {
-      "lemma": "forkful",
-      "stress": "ˈfɔːkfʊl",
-      "pos": "noun",
-      "gloss": "fourchettée",
-      "meanings": [
-        {
-          "en": "fourchettée, bouchée",
-          "note": "La quantité de nourriture que peut contenir une fourchette"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait — too late, Graham already put a full forkful into his mouth!",
-          "trans": "Attendez — trop tard, Graham a déjà mis une pleine fourchettée dans sa bouche !"
-        },
-        {
-          "text": "He lifted a generous forkful of pasta and nodded with obvious delight.",
-          "trans": "Il a soulevé une généreuse fourchettée de pâtes et a hoché la tête avec un plaisir évident."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "horseshoe": {
-      "lemma": "horseshoe",
-      "stress": "ˈhɔːsʃuː",
-      "pos": "noun",
-      "gloss": "fer à cheval",
-      "meanings": [
-        {
-          "en": "fer à cheval",
-          "note": "Pièce métallique en forme de U fixée sous le sabot d'un cheval"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Clip it? With what — heavy iron horseshoes on clean white linen napkins?!",
-          "trans": "L'attacher ? Avec quoi — de lourds fers à cheval sur des serviettes en lin blanc immaculées ?!"
-        },
-        {
-          "text": "The blacksmith heated the iron horseshoe in the forge until it glowed bright orange.",
-          "trans": "Le forgeron a chauffé le fer à cheval dans la forge jusqu'à ce qu'il devienne orange vif."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "however": {
-      "lemma": "however",
-      "stress": "haʊˈɛvə",
-      "pos": "adv",
-      "gloss": "cependant",
-      "meanings": [
-        {
-          "en": "cependant, toutefois",
-          "note": "Sert à introduire une restriction ou une nuance"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Purely for structural safety, however, I should test one more small corner slice.",
-          "trans": "Purement par souci de sécurité structurelle, toutefois, je devrais contrôler encore une petite part du coin."
-        },
-        {
-          "text": "The train arrived right on schedule; however, heavy fog delayed our ferry by an hour.",
-          "trans": "Le train est arrivé parfaitement à l'heure ; cependant, un épais brouillard a retardé notre traversier d'une heure."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "itself": {
-      "lemma": "itself",
-      "stress": "ɪtˈself",
-      "pos": "pron",
-      "gloss": "lui-même",
-      "meanings": [
-        {
-          "en": "lui-même, tout seul",
-          "note": "Employé pour insister sur la chose ou l'animal en question, ou indiquer une action spontanée (tout seul)"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait — the book falls open all by itself near chapter seven on summer mint!",
-          "trans": "Attendez — le livre s'ouvre tout seul près du chapitre sept consacré à la menthe d'été !"
-        },
-        {
-          "text": "The heavy wooden gate swung shut all by itself as soon as the breeze picked up.",
-          "trans": "Le lourd portail en bois s'est refermé tout seul dès que la brise s'est levée."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "keepsake": {
-      "lemma": "keepsake",
-      "stress": "ˈkiːpseɪk",
-      "pos": "noun",
-      "gloss": "souvenir",
-      "meanings": [
-        {
-          "en": "souvenir, relique",
-          "note": "Objet conservé en souvenir d'une personne ou d'un événement"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "And everyone can clip their wooden clothespin onto a saucer or pocket as a keepsake!",
-          "trans": "Et chacun pourra accrocher sa pince en bois à sa soucoupe ou à sa poche en guise de souvenir !"
-        },
-        {
-          "text": "She kept the dried rose from her graduation inside a small wooden box as a keepsake.",
-          "trans": "Elle a gardé la rose séchée de sa remise de diplôme dans une petite boîte en bois en guise de souvenir."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "overhead": {
-      "lemma": "overhead",
-      "stress": "ˌəʊvəˈhɛd",
-      "pos": "adv",
-      "gloss": "en hauteur",
-      "meanings": [
-        {
-          "en": "en hauteur, au-dessus des têtes",
-          "note": "Situé ou placé en l'air, au-dessus"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Now the mapmaker's note makes total sense: they strung festival lanterns overhead between those rings!",
-          "trans": "Maintenant la note du cartographe prend tout son sens : ils ont tendu des lanternes de fête en hauteur entre ces anneaux !"
-        },
-        {
-          "text": "A flock of migratory geese flew overhead in a neat V formation at dawn.",
-          "trans": "Une volée d'oies sauvages est passée au-dessus de nos têtes en formation en V parfaite à l'aube."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "surprisingly": {
-      "lemma": "surprisingly",
-      "stress": "səˈpɹaɪzɪŋli",
-      "pos": "adv",
-      "gloss": "étonnamment",
-      "meanings": [
-        {
-          "en": "étonnamment",
-          "note": "D'une manière surprenante ou inattendue"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "It is completely dry, surprisingly light, and something metal just slid inside!",
-          "trans": "Il est complètement sec, étonnamment léger, et quelque chose en métal vient de glisser à l'intérieur !"
-        },
-        {
-          "text": "It smells like a street festival, Owen, though the top looks surprisingly shiny.",
-          "trans": "Ça sent la fête de quartier, Owen, même si le dessus a l'air étonnamment brillant."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "tablecloth": {
-      "lemma": "tablecloth",
-      "stress": "ˈteɪblklɒθ",
-      "pos": "noun",
-      "gloss": "nappe",
-      "meanings": [
-        {
-          "en": "nappe",
-          "note": "Pièce de tissu dont on recouvre une table pour les repas"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Even Graham clipped four extra clothespins to the corners of every white tablecloth!",
-          "trans": "Même Graham a fixé quatre pinces à linge supplémentaires aux coins de chaque nappe blanche !"
-        },
-        {
-          "text": "We spread a checkered cotton tablecloth over the picnic table before unpacking the lunch.",
-          "trans": "Nous avons étendu une nappe en coton à carreaux sur la table de pique-nique avant de déballer le déjeuner."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "teaspoon": {
-      "lemma": "teaspoon",
-      "stress": "ˈtiːspuːn",
-      "pos": "noun",
-      "gloss": "cuillère à café",
-      "meanings": [
-        {
-          "en": "cuillère à café",
-          "note": "Petite cuillère utilisée pour mesurer ou remuer"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "You measured two small teaspoons of lemon juice plus sugar, right, Arthur?",
-          "trans": "Vous avez bien mesuré deux petites cuillères à café de jus de citron avec du sucre, n'est-ce pas, Arthur ?"
-        },
-        {
-          "text": "Stir one teaspoon of raw honey into the herbal tea while it is still hot.",
-          "trans": "Mélangez une cuillère à café de miel brut dans la tisane tant qu'elle est encore chaude."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "themselves": {
-      "lemma": "themselves",
-      "stress": "ðəmˈsɛlvz",
-      "pos": "pron",
-      "gloss": "elles-mêmes",
-      "meanings": [
-        {
-          "en": "se (réfléchi), elles-mêmes",
-          "note": "Pronom utilisé pour indiquer que l'action s'applique au sujet lui-même"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Give me one quiet moment while my cheeks try to unpucker themselves.",
-          "trans": "Accordez-moi un instant de silence pendant que mes joues essaient de se défroisser."
-        },
-        {
-          "text": "The sisters painted the entire dining room themselves over a single weekend.",
-          "trans": "Les sœurs ont peint toute la salle à manger elles-mêmes en un seul week-end."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "thirtieth": {
-      "lemma": "thirtieth",
-      "stress": "ˈθɜːtiəθ",
-      "pos": "adj",
-      "gloss": "trentième",
-      "meanings": [
-        {
-          "en": "trentième",
-          "note": "Qui occupe le rang correspondant au nombre trente"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Arriving in Portland next Saturday for the thirtieth May anniversary at Linden Courtyard!",
-          "trans": "Arrivée à Portland samedi prochain pour le trentième anniversaire de mai à la Cour du Tilleul !"
-        },
-        {
-          "text": "The town celebrated the thirtieth anniversary of its public library with a weekend book fair.",
-          "trans": "La ville a célébré le trentième anniversaire de sa bibliothèque municipale avec une foire aux livres le week-end."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "unbroken": {
-      "lemma": "unbroken",
-      "stress": "ʌnˈbɹəʊkən",
-      "pos": "adj",
-      "gloss": "intact",
-      "meanings": [
-        {
-          "en": "intact, ininterrompu",
-          "note": "Qui n'a pas été brisé ou rompu"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "One tiny square envelope left — and the red wax seal is still completely unbroken!",
-          "trans": "Il reste une toute petite enveloppe carrée — et le cachet de cire rouge est encore complètement intact !"
-        },
-        {
-          "text": "Among all the dishes dropped during the move, only Grandmother's porcelain teapot remained unbroken.",
-          "trans": "Parmi toute la vaisselle tombée pendant le déménagement, seule la théière en porcelaine de grand-mère est restée intacte."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "unforgettable": {
-      "lemma": "unforgettable",
-      "stress": "ˌʌnfəˈɡɛtəbl",
-      "pos": "adj",
-      "gloss": "inoubliable",
-      "meanings": [
-        {
-          "en": "inoubliable",
-          "note": "Qu'on ne peut pas oublier ; mémorable"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Two big soup ladles of pure lemon juice for bold, unforgettable summer flavor!",
-          "trans": "Deux grandes louches à soupe de pur jus de citron pour une saveur d'été audacieuse et inoubliable !"
-        },
-        {
-          "text": "Watching the northern lights ripple over the frozen lake was an unforgettable experience.",
-          "trans": "Observer les aurores boréales onduler au-dessus du lac gelé fut une expérience inoubliable."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "unpucker": {
-      "lemma": "unpucker",
-      "stress": "ʌnˈpʌkə",
-      "pos": "verb",
-      "gloss": "défroisser",
-      "meanings": [
-        {
-          "en": "se défroisser, se décontracter",
-          "note": "Relâcher la contraction (souvent due à l'acidité), lisser ce qui était plissé"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "unpucker"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "unpuckers"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "unpuckered"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "unpuckered"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "unpuckering"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Give me one quiet moment while my cheeks try to unpucker themselves.",
-          "trans": "Accordez-moi un instant de silence pendant que mes joues essaient de se défroisser."
-        },
-        {
-          "text": "The sour green plum made him wince, and his lips took a moment to unpucker.",
-          "trans": "La prune verte acide lui fit faire la grimace, et ses lèvres mirent un instant à se décontracter."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "unsmudged": {
-      "lemma": "unsmudged",
-      "stress": "ʌnˈsmʌdʒd",
-      "pos": "adj",
-      "gloss": "intact",
-      "meanings": [
-        {
-          "en": "intact, non taché",
-          "note": "Qui n'a pas été bavé ou taché"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Look at the last unsmudged word at the corner: scatter toasted sliced almonds on top.",
-          "trans": "Regardez le dernier mot intact dans le coin : parsemez d'amandes effilées grillées sur le dessus."
-        },
-        {
-          "text": "Carefully lift the ruler so the wet ink line stays crisp and unsmudged.",
-          "trans": "Soulevez la règle avec précaution pour que le trait d'encre fraîche reste net et intact."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "washable": {
-      "lemma": "washable",
-      "stress": "ˈwɒʃəbl",
-      "pos": "adj",
-      "gloss": "lavable",
-      "meanings": [
-        {
-          "en": "lavable",
-          "note": "Qui peut être lavé sans être endommagé, ou qui s'efface à l'eau"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Not the stone water basin! That is washable blue fountain ink, not waterproof paint!",
-          "trans": "Pas le bassin d'eau en pierre ! C'est de l'encre bleue lavable pour stylo-plume, pas de la peinture résistante à l'eau !"
-        },
-        {
-          "text": "Parents usually prefer washable markers for young children who love drawing everywhere.",
-          "trans": "Les parents préfèrent généralement les feutres lavables pour les jeunes enfants qui adorent dessiner partout."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "waterproof": {
-      "lemma": "waterproof",
-      "stress": "ˈwɔːtəpɹuːf",
-      "pos": "adj",
-      "gloss": "étanche",
-      "meanings": [
-        {
-          "en": "étanche, imperméable",
-          "note": "Qui ne laisse pas passer l'eau"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Not the stone water basin! That is washable blue fountain ink, not waterproof paint!",
-          "trans": "Pas le bassin d'eau en pierre ! C'est de l'encre bleue lavable pour stylo-plume, pas de la peinture résistante à l'eau !"
-        },
-        {
-          "text": "Did you seal it in waterproof plastic AND write HONEY AND ORANGE ZEST in capitals?!",
-          "trans": "Tu l'as scellée dans du plastique étanche ET tu as écrit « MIEL ET ZESTE D'ORANGE » en majuscules ?!"
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "wildflower": {
-      "lemma": "wildflower",
-      "stress": "ˈwaɪldflaʊə",
-      "pos": "noun",
-      "gloss": "fleur sauvage",
-      "meanings": [
-        {
-          "en": "fleur sauvage",
-          "note": "Fleur qui pousse naturellement sans avoir été cultivée (ici utilisé pour décrire le miel)"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Wait — warm H plus grated sweet orange peel! Could H stand for wildflower honey?!",
-          "trans": "Attendez — du H chaud avec de l'écorce d'orange douce râpée ! Est-ce que H voudrait dire miel de fleurs sauvages ?!"
-        },
-        {
-          "text": "She spotted a rare blue wildflower growing beside the rocky mountain path.",
-          "trans": "Elle a aperçu une fleur sauvage bleue rare qui poussait au bord du sentier rocailleux."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "windproof": {
-      "lemma": "windproof",
-      "stress": "ˈwɪndpɹuːf",
-      "pos": "adj",
-      "gloss": "résistant au vent",
-      "meanings": [
-        {
-          "en": "résistant au vent, anti-vent",
-          "note": "Conçu pour ne pas être emporté ou pénétré par le vent"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Lanterns first, windproof seats second — nobody panic on my watch.",
-          "trans": "Les lanternes d'abord, les places résistantes au vent ensuite — que personne ne panique sous ma garde."
-        },
-        {
-          "text": "Graham, Hannah — that is charming, rustic, windproof, AND costs zero extra coins!",
-          "trans": "Graham, Hannah — c'est charmant, champêtre, résistant au vent, ET cela ne coûte pas un sou de plus !"
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "worthy": {
-      "lemma": "worthy",
-      "stress": "ˈwɜːði",
-      "pos": "adj",
-      "gloss": "digne",
-      "meanings": [
-        {
-          "en": "digne",
-          "note": "Qui a de la valeur, qui mérite de l'attention ou du respect"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Well, Graham? Tell us honestly — is that worthy of our Saturday anniversary table?",
-          "trans": "Alors, Graham ? Dis-nous franchement — est-ce digne de notre table d'anniversaire de samedi ?"
-        },
-        {
-          "text": "After years of restoration, the historic theater is finally worthy of its grand reputation.",
-          "trans": "Après des années de restauration, le théâtre historique est enfin digne de sa grande réputation."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "patiently": {
-      "lemma": "patiently",
-      "stress": "ˈpeɪʃəntli",
-      "pos": "adv",
-      "gloss": "patiemment",
-      "meanings": [
-        {
-          "en": "patiemment",
-          "note": "Avec patience"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Open the flap gently, Hannah; that little envelope has waited patiently since May.",
-          "trans": "Ouvre le rabat doucement, Hannah ; cette petite enveloppe a attendu patiemment depuis le mois de mai."
-        },
-        {
-          "text": "The dog sat patiently beside the front door, waiting for its owner to grab the leash.",
-          "trans": "Le chien est resté assis patiemment près de la porte d'entrée, attendant que son maître prenne la laisse."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "perfectly": {
-      "lemma": "perfectly",
-      "stress": "ˈpɜːfɪktli",
-      "pos": "adv",
-      "gloss": "parfaitement",
-      "meanings": [
-        {
-          "en": "parfaitement",
-          "note": "D'une manière parfaite ou totale"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Who needs reading glasses to recognize a perfectly straight neighborhood lane?",
-          "trans": "Qui a besoin de lunettes de lecture pour reconnaître une ruelle de quartier parfaitement droite ?"
-        },
-        {
-          "text": "Everything in the small bakery was arranged perfectly, from the croissants to the price tags.",
-          "trans": "Tout dans la petite boulangerie était disposé parfaitement, des croissants jusqu'aux étiquettes de prix."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "personally": {
-      "lemma": "personally",
-      "stress": "ˈpɜːsənəli",
-      "pos": "adv",
-      "gloss": "en personne",
-      "meanings": [
-        {
-          "en": "personnellement, en personne",
-          "note": "Par la personne elle-même et non par un représentant"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Stand back and admire Batch One — glazed personally by the owner of Linden Courtyard Inn!",
-          "trans": "Reculez d'un pas et admirez la première fournée — glacée en personne par le propriétaire de l'Auberge de la Cour du Tilleul !"
-        },
-        {
-          "text": "The chef came out of the kitchen to greet each guest personally at the end of the meal.",
-          "trans": "Le chef est sorti de la cuisine pour saluer chaque convive en personne à la fin du repas."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "possibly": {
-      "lemma": "possibly",
-      "stress": "ˈpɒsəbli",
-      "pos": "adv",
-      "gloss": "bien",
-      "meanings": [
-        {
-          "en": "bien, peut-être",
-          "note": "Utilisé dans des questions pour souligner la perplexité ou l'étonnement (ex: 'pourrait bien')"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "What soft, shining glaze could possibly be hiding beneath that blue ink smudge, Tessa?",
-          "trans": "Quel glaçage doux et brillant peut bien se cacher sous cette tache d'encre bleue, Tessa ?"
-        },
-        {
-          "text": "How could anyone possibly forget the combination to their own suitcase?",
-          "trans": "Comment pourrait-on bien oublier la combinaison de sa propre valise ?"
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "professionally": {
-      "lemma": "professionally",
-      "stress": "pɹəˈfɛʃənəli",
-      "pos": "adv",
-      "gloss": "professionnellement",
-      "meanings": [
-        {
-          "en": "d'un point de vue professionnel",
-          "note": "En lien avec une profession ou en tant qu'expert dans un domaine"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Speaking professionally as an architect, we could roof the bicycle shed with Batch Two.",
-          "trans": "D'un point de vue professionnel d'architecte, on pourrait couvrir l'abri à vélos avec la deuxième fournée."
-        },
-        {
-          "text": "Even when a customer complained loudly, the hotel manager handled the situation professionally.",
-          "trans": "Même lorsqu'un client s'est plaint bruyamment, le directeur de l'hôtel a géré la situation professionnellement."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "purely": {
-      "lemma": "purely",
-      "stress": "ˈpjʊəli",
-      "pos": "adv",
-      "gloss": "purement",
-      "meanings": [
-        {
-          "en": "purement",
-          "note": "Exclusivement, seulement"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Purely for structural safety, however, I should test one more small corner slice.",
-          "trans": "Purement par souci de sécurité structurelle, toutefois, je devrais contrôler encore une petite part du coin."
-        },
-        {
-          "text": "I joined the weekend pottery class purely for relaxation, not to sell anything.",
-          "trans": "Je me suis inscrit au cours de poterie du week-end purement pour me détendre, pas pour vendre quoi que ce soit."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "quietly": {
-      "lemma": "quietly",
-      "stress": "ˈkwaɪətli",
-      "pos": "adv",
-      "gloss": "silencieusement, tranquillement",
-      "meanings": [
-        {
-          "en": "silencieusement",
-          "note": "sans faire de bruit"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "He entered quietly.",
-          "trans": "Il est entré silencieusement."
-        },
-        {
-          "text": "loose poster paper and Friday wind never end quietly.",
-          "trans": "le papier d'affiche lâche et le vent du vendredi ne se terminent jamais tranquillement."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "raindrop": {
-      "lemma": "raindrop",
-      "stress": "ˈɹeɪndɹɒp",
-      "pos": "noun",
-      "gloss": "goutte de pluie",
-      "meanings": [
-        {
-          "en": "goutte de pluie",
-          "note": "Une seule goutte d'eau tombant sous forme de pluie"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Because one big raindrop hit the blue ink right on the secret warm glaze!",
-          "trans": "Parce qu'une grosse goutte de pluie est tombée sur l'encre bleue pile à l'endroit du glaçage chaud secret !"
-        },
-        {
-          "text": "A single cold raindrop splashed onto the open page of my notebook just as I stepped outside.",
-          "trans": "Une seule goutte de pluie froide a éclaboussé la page ouverte de mon carnet au moment même où je sortais."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "refreshing": {
-      "lemma": "refreshing",
-      "stress": "ɹɪˈfɹɛʃɪŋ",
-      "pos": "adj",
-      "gloss": "rafraîchissant",
-      "meanings": [
-        {
-          "en": "rafraîchissant",
-          "note": "Qui apporte de la fraîcheur ou redonne de l'énergie"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Polish brass?! Surely a refreshing citrus zing deserves at least seven points!",
-          "trans": "Décaper du laiton ?! Un peps d'agrumes aussi rafraîchissant mérite sûrement au moins sept points !"
-        },
-        {
-          "text": "After three hours of gardening in the July heat, a glass of iced mint tea felt wonderfully refreshing.",
-          "trans": "Après trois heures de jardinage sous la chaleur de juillet, un verre de thé glacé à la menthe était merveilleusement rafraîchissant."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "sailboat": {
-      "lemma": "sailboat",
-      "stress": "ˈseɪlbəʊt",
-      "pos": "noun",
-      "gloss": "voilier",
-      "meanings": [
-        {
-          "en": "voilier",
-          "note": "Bateau propulsé par des voiles"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Whoa! Why is my seating chart pulling like a sailboat on the open sea?!",
-          "trans": "Hop là ! Pourquoi mon plan de table tire-t-il comme un voilier en pleine mer ?!"
-        },
-        {
-          "text": "From the lighthouse balcony, we watched a white sailboat glide across the calm bay.",
-          "trans": "Depuis le balcon du phare, nous avons regardé un voilier blanc glisser sur la baie calme."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "shed": {
-      "lemma": "shed",
-      "stress": "ʃɛd",
-      "pos": "noun",
-      "gloss": "abri",
-      "meanings": [
-        {
-          "en": "abri, cabanon",
-          "note": "Petite structure utilisée pour ranger des objets, comme des vélos ou des outils"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Speaking professionally as an architect, we could roof the bicycle shed with Batch Two.",
-          "trans": "D'un point de vue professionnel d'architecte, on pourrait couvrir l'abri à vélos avec la deuxième fournée."
-        },
-        {
-          "text": "He wheeled the lawnmower back into the wooden shed at the far corner of the garden.",
-          "trans": "Il a rentré la tondeuse dans l'abri en bois au fond du jardin."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "shiny": {
-      "lemma": "shiny",
-      "stress": "ˈʃaɪni",
-      "pos": "adj",
-      "gloss": "brillant",
-      "meanings": [
-        {
-          "en": "brillant, luisant",
-          "note": "Qui réfléchit la lumière, lisse et poli"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "It smells like a street festival, Owen, though the top looks surprisingly shiny.",
-          "trans": "Ça sent la fête de quartier, Owen, même si le dessus a l'air étonnamment brillant."
-        },
-        {
-          "text": "The child picked up a smooth, shiny pebble from the riverbank and slipped it into his pocket.",
-          "trans": "L'enfant a ramassé un galet lisse et brillant sur la berge de la rivière et l'a glissé dans sa poche."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "spacer": {
-      "lemma": "spacer",
-      "stress": "ˈspeɪsə",
-      "pos": "noun",
-      "gloss": "entretoise",
-      "meanings": [
-        {
-          "en": "entretoise, écarteur",
-          "note": "Pièce utilisée pour maintenir un espace ou un écartement constant"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "My uncle worked harbor boats in his youth; two parallel lines with spacers never twist.",
-          "trans": "Mon oncle travaillait sur les bateaux du port dans sa jeunesse ; deux lignes parallèles munies d'entretoises ne se vrillent jamais."
-        },
-        {
-          "text": "Place plastic spacers between the ceramic tiles so every grout line stays the same width.",
-          "trans": "Placez des entretoises en plastique entre les carreaux de céramique pour que chaque joint garde la même largeur."
-        }
-      ],
-      "related": [],
-      "surface": []
-    },
-    "sunset": {
-      "lemma": "sunset",
-      "stress": "ˈsʌnsɛt",
-      "pos": "noun",
-      "gloss": "coucher de soleil",
-      "meanings": [
-        {
-          "en": "coucher de soleil",
-          "note": "Moment où le soleil disparaît sous l'horizon"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Alternate warm gold and soft coral so the whole stone courtyard feels like sunset!",
-          "trans": "Alternez l'or chaud et le corail doux pour que toute la cour de pierre prenne des airs de coucher de soleil !"
-        },
-        {
-          "text": "The sky turned deep amber and violet at sunset while fishermen pulled their boats ashore.",
-          "trans": "Le ciel s'est teinté d'ambre profond et de violet au coucher du soleil pendant que les pêcheurs tiraient leurs barques sur le rivage."
         }
       ],
       "related": [],
