@@ -202,3 +202,7 @@ All existing `-en` outputs remain 100% byte-identical. For `en-<native>` pairs (
 | `linden-courtyard-ru-s03e04` | `en-ru` | 8 | 0.68 h | 0 | 0 | Released (`original-linden-courtyard-ru-s03e04`) |
 | `linden-courtyard-ru-s03e05` | `en-ru` | 8 | 0.68 h | 0 | 0 | Released (`original-linden-courtyard-ru-s03e05`) |
 | `linden-courtyard-ru-s03e06` | `en-ru` | 8 | 0.67 h | 0 | 0 | Released (`original-linden-courtyard-ru-s03e06`) |
+
+## 10. Arabic `bayt-al-yasmin-s03e01` Re-Render After `ʿ` (U+02BF) Reading Update (2026-11-14)
+
+- Following commit `52b337c6b` (replacing `ʕ` U+0295 with `ʿ` U+02BF in `originals/bayt-al-yasmin/s03e01/scene-{02,03,05,06,07,08}.notes.json`), validated `originals/bayt-al-yasmin/s03e01` (`OK: 0 errors, 0 warnings`), re-rendered scenes `02, 03, 05, 06, 07, 08` (reusing scenes `01` and `04`), verified `tools/check_render.py` (`OK: 0 errors, 5 warnings`), and re-released `original-bayt-al-yasmin-s03e01` (`8 scenes, 5,621 files, 134.5 MB`).
