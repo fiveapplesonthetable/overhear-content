@@ -30,12 +30,15 @@ def log(*a):
     print(time.strftime("%H:%M:%S"), *a, file=sys.stderr, flush=True)
 
 
-def _make_ru_engine(settings, voices, log):
+def _make_ru_engine(settings, voices, log, retake=False):
     ru = config.ru_engine(settings)
     if ru and ru.get("engine") in ("qwen", "qwen-lora"):
         from tts import QwenEngine
         s_ru = json.loads(json.dumps(settings))
-        s_ru["lora"]["enabled"] = bool(ru.get("lora", ru.get("engine") == "qwen-lora"))
+        use_lora = bool(ru.get("lora", ru.get("engine") == "qwen-lora"))
+        if retake and ru.get("stress") == "onflag" and settings.get("lora", {}).get("hf"):
+            use_lora = True
+        s_ru["lora"]["enabled"] = use_lora
         if ru.get("loraTag"):
             s_ru["lora"]["tag"] = ru["loraTag"]
         if "temperature" in ru:
@@ -146,7 +149,7 @@ def main():
                     from hindi_tts import HindiEngine
                     return HindiEngine(settings, voices, log=log)
                 if lang == "ru" and ru:
-                    return _make_ru_engine(settings, voices, log)
+                    return _make_ru_engine(settings, voices, log, retake=(a.stage == "retake"))
                 if lang == "en" and en:
                     from f5en import F5EnEngine
                     return F5EnEngine(settings, voices, log=log)
@@ -211,7 +214,7 @@ def main():
                     from hindi_tts import HindiEngine
                     return HindiEngine(settings, voices, log=log)
                 if lang == "ru" and ru:
-                    return _make_ru_engine(settings, voices, log)
+                    return _make_ru_engine(settings, voices, log, retake=(a.stage == "retake"))
                 if lang == "en" and en:
                     from f5en import F5EnEngine
                     return F5EnEngine(settings, voices, log=log)
