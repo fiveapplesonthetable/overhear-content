@@ -159,6 +159,9 @@ All existing `-en` outputs remain 100% byte-identical. For `en-<native>` pairs (
 ## 9. Gated Russian `onflag` Stress + Wordcheck Re-Render (2026-11-13 — `RUSSIAN-STRESS-HOLD.md`)
 
 - **Pilot (`dvorik-u-mosta-s01e01-scene-03`):** Passed (`wordsNotHeard = 0`, `stillFlagged = 0`; Whisper large-v3-turbo transcribed «чека» cleanly in all three segments 7, 26, and 45).
+- **Complete 36 / 36 Russian Re-Render Summary (`18/18` `linden-courtyard-ru` `en-ru` + `18/18` `dvorik-u-mosta` `ru-en` — 288 scenes, `21.94 h` total audio):**
+  - `wordsNotHeard`: **`9`** total across all 288 scenes (`0` on 33 of 36 episodes; remaining `9` are Russian number words transcribed as digits in `dvorik-u-mosta` `s02e06`, `s03e02`, `s03e03`, `s03e05`).
+  - `stillFlagged`: **`90`** total (`0` across all 18 `linden-courtyard-ru` `en-ru` episodes; `90` across all 18 `dvorik-u-mosta` `ru-en` episodes).
 - **Episode Re-Render & Release Log (`ttsRu.stress = "onflag"`):**
 
 | Episode | Pair | Scenes | Audio Hours | `wordsNotHeard` | `stillFlagged` | Status |
@@ -176,6 +179,11 @@ All existing `-en` outputs remain 100% byte-identical. For `en-<native>` pairs (
 | `dvorik-u-mosta-s02e05` | `ru-en` | 8 | 0.57 h | 0 | 4 | Released (`original-dvorik-u-mosta-s02e05`) |
 | `dvorik-u-mosta-s02e06` | `ru-en` | 8 | 0.59 h | 4 | 5 | Released (`original-dvorik-u-mosta-s02e06`) |
 | `dvorik-u-mosta-s03e01` | `ru-en` | 8 | 0.66 h | 0 | 9 | Released (`original-dvorik-u-mosta-s03e01`) |
+| `dvorik-u-mosta-s03e02` | `ru-en` | 8 | 0.69 h | 1 | 6 | Released (`original-dvorik-u-mosta-s03e02`) |
+| `dvorik-u-mosta-s03e03` | `ru-en` | 8 | 0.70 h | 3 | 5 | Released (`original-dvorik-u-mosta-s03e03`) |
+| `dvorik-u-mosta-s03e04` | `ru-en` | 8 | 0.72 h | 0 | 5 | Released (`original-dvorik-u-mosta-s03e04`) |
+| `dvorik-u-mosta-s03e05` | `ru-en` | 8 | 0.72 h | 1 | 7 | Released (`original-dvorik-u-mosta-s03e05`) |
+| `dvorik-u-mosta-s03e06` | `ru-en` | 8 | 0.71 h | 0 | 6 | Released (`original-dvorik-u-mosta-s03e06`) |
 | `linden-courtyard-ru-s01e01` | `en-ru` | 8 | 0.49 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e01`) |
 | `linden-courtyard-ru-s01e02` | `en-ru` | 8 | 0.51 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e02`) |
 | `linden-courtyard-ru-s01e03` | `en-ru` | 8 | 0.53 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e03`) |
