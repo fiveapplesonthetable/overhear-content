@@ -170,6 +170,12 @@ All existing `-en` outputs remain 100% byte-identical. For `en-<native>` pairs (
 | `dvorik-u-mosta-s01e05` | `ru-en` | 8 | 0.61 h | 0 | 3 | Released (`original-dvorik-u-mosta-s01e05`) |
 | `dvorik-u-mosta-s01e06` | `ru-en` | 8 | 0.64 h | 0 | 3 | Released (`original-dvorik-u-mosta-s01e06`) |
 | `dvorik-u-mosta-s02e01` | `ru-en` | 8 | 0.56 h | 0 | 8 | Released (`original-dvorik-u-mosta-s02e01`, #57 updated) |
+| `dvorik-u-mosta-s02e02` | `ru-en` | 8 | 0.56 h | 0 | 5 | Released (`original-dvorik-u-mosta-s02e02`) |
+| `dvorik-u-mosta-s02e03` | `ru-en` | 8 | 0.59 h | 0 | 5 | Released (`original-dvorik-u-mosta-s02e03`) |
+| `dvorik-u-mosta-s02e04` | `ru-en` | 8 | 0.60 h | 0 | 2 | Released (`original-dvorik-u-mosta-s02e04`) |
+| `dvorik-u-mosta-s02e05` | `ru-en` | 8 | 0.57 h | 0 | 4 | Released (`original-dvorik-u-mosta-s02e05`) |
+| `dvorik-u-mosta-s02e06` | `ru-en` | 8 | 0.59 h | 4 | 5 | Released (`original-dvorik-u-mosta-s02e06`) |
+| `dvorik-u-mosta-s03e01` | `ru-en` | 8 | 0.66 h | 0 | 9 | Released (`original-dvorik-u-mosta-s03e01`) |
 | `linden-courtyard-ru-s01e01` | `en-ru` | 8 | 0.49 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e01`) |
 | `linden-courtyard-ru-s01e02` | `en-ru` | 8 | 0.51 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e02`) |
 | `linden-courtyard-ru-s01e03` | `en-ru` | 8 | 0.53 h | 0 | 0 | Released (`original-linden-courtyard-ru-s01e03`) |
