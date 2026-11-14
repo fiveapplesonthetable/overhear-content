@@ -10,6 +10,19 @@ your output, verifies it and copies it to Firebase **unchanged**. Nobody fixes a
 Russian stress marks made Qwen3-TTS mispronounce words («че́ка» came out as «чивка», #58). The render code is fixed. Re-render
 Russian only by the gated steps in that file, starting with a one-scene pilot. Do not continue RUSSIAN-RERENDER.md.
 
+## First: re-render `bayt-al-yasmin-s03e01` (November 14, 2026)
+
+Commit 52b337c6b changed the word readings in its notes (ع is now written ʿ U+02BF, not ʕ U+0295, which the publisher
+rejects). That changed the content hash of scenes 2, 3, 5, 6, 7 and 8, so their renders are stale and those scenes are off
+the app. Your queue state lists the episode as done and will not redo it, so do it by hand, before other work:
+
+1. Pull `main`. `python3 -I tools/validate.py --require-notes originals/bayt-al-yasmin/s03e01` must print `OK`.
+2. `python3 -I render/pipeline.py --episode bayt-al-yasmin-s03e01` (the content hash is in the render key, so the six
+   scenes re-render; scenes 1 and 4 are reused).
+3. Listen to the six scenes, then `tools/check_render.py` and `tools/package_render.py ... --episode bayt-al-yasmin-s03e01
+   --release` as in step 12 below.
+4. Delete this section in the same commit that logs the release in `originals/PROGRESS.md`.
+
 ## Priority now: Overhear Originals (read [spec/ORIGINALS.md](spec/ORIGINALS.md) first)
 
 The public app now plays only **Overhear Originals**: new stories you create from scratch in `originals/`, released as
