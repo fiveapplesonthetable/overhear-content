@@ -1927,6 +1927,31 @@
         }
       ]
     },
+    "anybody": {
+      "lemma": "anybody",
+      "pos": "pron",
+      "stress": "ˈɛniˌbɑdi",
+      "gloss": "irgendjemand",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "irgendjemand",
+          "note": "Bezeichnet eine beliebige Person, oft in verneinten oder fragenden Sätzen."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Has anybody seen my keys?",
+          "trans": "Hat irgendjemand meine Schlüssel gesehen?"
+        },
+        {
+          "text": "I didn't see anybody.",
+          "trans": "Ich habe niemanden gesehen."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "anyone": {
       "lemma": "anyone",
       "stress": "ˈɛniˌwʌn",
@@ -6900,7 +6925,23 @@
           "note": "Plural bookshelves (f wird zu v, wie bei shelf – shelves). Ein ganzes Regal mit mehreren Böden heißt auch bookcase."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "bookshelf",
+              "bookshelves"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -6925,6 +6966,9 @@
           "word": "library",
           "gloss": "Bibliothek"
         }
+      ],
+      "surface": [
+        "bookshelves"
       ]
     },
     "bookshop": {
@@ -10152,7 +10196,7 @@
     },
     "carrot": {
       "lemma": "carrot",
-      "stress": "ˈkæɹət",
+      "stress": "ˈkɛɹət",
       "pos": "noun",
       "gloss": "Karotte, Möhre",
       "meanings": [
@@ -11691,25 +11735,21 @@
       "meanings": [
         {
           "en": "Kind",
-          "note": "Klassischer unregelmäßiger Plural mit Vokalwechsel: one child /tʃaɪld/ -> two children /ˈtʃɪldɹən/."
+          "note": "Klassischer unregelmäßiger Plural mit Vokalwechsel: one child /tʃaɪld/ → two children /ˈtʃɪldɹən/."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "child"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "child",
               "children"
             ]
           }
@@ -12353,7 +12393,7 @@
       "meanings": [
         {
           "en": "Stadt, Großstadt",
-          "note": "Für größere Städte (kleinere Orte heißen town); Plural mit y -> ies: cities."
+          "note": "Für größere Städte (kleinere Orte heißen town); Plural mit y → ies: cities."
         }
       ],
       "forms": null,
@@ -15273,7 +15313,23 @@
           "note": "Unregelmäßiger griechischer Plural: one crisis (ˈkɹaɪsɪs) → two crises (ˈkɹaɪsiz)."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "crisis",
+              "crises"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -15294,6 +15350,9 @@
           "word": "rescue",
           "gloss": "retten"
         }
+      ],
+      "surface": [
+        "crises"
       ]
     },
     "crisp": {
@@ -15511,6 +15570,31 @@
           "gloss": "königlich"
         }
       ]
+    },
+    "crowning": {
+      "lemma": "crowning",
+      "pos": "adj",
+      "stress": "ˈkɹaʊnɪŋ",
+      "gloss": "krönend",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "krönend",
+          "note": "Als Adjektiv verwendet, um den Höhepunkt oder Abschluss von etwas zu beschreiben."
+        }
+      ],
+      "examples": [
+        {
+          "text": "This was the crowning moment of her career.",
+          "trans": "Dies war der krönende Moment ihrer Karriere."
+        },
+        {
+          "text": "The crowning glory of the room is the chandelier.",
+          "trans": "Das krönende Prachtstück des Raumes ist der Kronleuchter."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "crumb": {
       "lemma": "crumb",
@@ -16144,6 +16228,31 @@
         }
       ],
       "related": []
+    },
+    "dampness": {
+      "lemma": "dampness",
+      "pos": "noun",
+      "stress": "ˈdæmpnəs",
+      "gloss": "Feuchtigkeit",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "Feuchtigkeit",
+          "note": "Beschreibt einen leicht nassen Zustand, oft unangenehm."
+        }
+      ],
+      "examples": [
+        {
+          "text": "The dampness in the cellar is a problem.",
+          "trans": "Die Feuchtigkeit im Keller ist ein Problem."
+        },
+        {
+          "text": "I could feel the dampness of the grass.",
+          "trans": "Ich konnte die Feuchtigkeit des Grases spüren."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "dance": {
       "lemma": "dance",
@@ -18187,27 +18296,7 @@
           "note": "Nach Zahlen bleibt dozen im Singular: two dozen chairs (24 Stühle); ohne Zahl heißt dozens of Dutzende von."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "singular",
-              "dozen"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
-              "dozen"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -20480,6 +20569,31 @@
       "related": [],
       "surface": []
     },
+    "evenly": {
+      "lemma": "evenly",
+      "pos": "adv",
+      "stress": "ˈivənli",
+      "gloss": "gleichmäßig",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "gleichmäßig",
+          "note": "Beschreibt etwas, das ohne Schwankungen oder fair verteilt ist."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Spread the butter evenly on the bread.",
+          "trans": "Verstreiche die Butter gleichmäßig auf dem Brot."
+        },
+        {
+          "text": "The teams are evenly matched.",
+          "trans": "Die Teams sind gleichstark."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "ever": {
       "lemma": "ever",
       "stress": "ˈɛvɚ",
@@ -20715,13 +20829,13 @@
     },
     "excuse": {
       "lemma": "excuse",
-      "stress": "ɪkˈskjus",
+      "stress": "ɪkˈskjuz",
       "pos": "verb",
       "gloss": "entschuldigen; Excuse me = Entschuldigung!",
       "meanings": [
         {
           "en": "entschuldigen; Excuse me = Entschuldigung!",
-          "note": "Excuse me sagt man vor einer Frage oder Bitte; nach einem Missgeschick sagt man I am sorry."
+          "note": "Wichtig für die Aussprache: Als Verb (Excuse me! / entschuldigen) endet excuse mit stimmhaftem z (ɪkˈskjuz), als Substantiv (an excuse = eine Ausrede) dagegen mit stimmlosem s (ɪkˈskjus). Excuse me sagt man höflich vor einer Frage oder Bitte; nach einem Missgeschick sagt man I am sorry."
         }
       ],
       "forms": {
@@ -21832,8 +21946,7 @@
       "related": [],
       "surface": [
         "feeling",
-        "feels",
-        "felt"
+        "feels"
       ]
     },
     "felt": {
@@ -23764,25 +23877,21 @@
       "meanings": [
         {
           "en": "Fuß",
-          "note": "Unregelmäßiger Umlautplural: one foot /fʊt/ -> two feet /fit/; on foot heißt zu Fuß."
+          "note": "Unregelmäßiger Umlautplural: one foot /fʊt/ → two feet /fit/; on foot heißt zu Fuß."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "foot"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "foot",
               "feet"
             ]
           }
@@ -24308,6 +24417,31 @@
         }
       ]
     },
+    "forkful": {
+      "lemma": "forkful",
+      "pos": "noun",
+      "stress": "ˈfɔɹkfʊl",
+      "gloss": "Gabelvoll",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "Gabelvoll",
+          "note": "Die Menge an Essen, die auf eine Gabel passt."
+        }
+      ],
+      "examples": [
+        {
+          "text": "He ate a forkful of spaghetti.",
+          "trans": "Er aß eine Gabelvoll Spaghetti."
+        },
+        {
+          "text": "She offered him a forkful of her cake.",
+          "trans": "Sie bot ihm eine Gabelvoll von ihrem Kuchen an."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "form": {
       "lemma": "form",
       "stress": "fɔɹm",
@@ -24580,7 +24714,9 @@
         }
       ],
       "related": [],
-      "surface": []
+      "surface": [
+        "four's"
+      ]
     },
     "fourteen": {
       "lemma": "fourteen",
@@ -25466,18 +25602,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "gentleman"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "gentleman",
               "gentlemen"
             ]
           }
@@ -25507,7 +25639,7 @@
       "meanings": [
         {
           "en": "behutsam, sanft, zart",
-          "note": "Adverb zu gentle (das stumme -e entfällt vor -ly: gentle -> gently)."
+          "note": "Adverb zu gentle (das stumme -e entfällt vor -ly: gentle → gently)."
         }
       ],
       "forms": null,
@@ -27536,6 +27668,44 @@
         }
       ]
     },
+    "h": {
+      "lemma": "h",
+      "stress": "eɪtʃ",
+      "pos": "noun",
+      "gloss": "H (Buchstabe H; Rezeptkürzel für Honig)",
+      "meanings": [
+        {
+          "en": "H (achter Buchstabe des Alphabets; Rezeptkürzel für Wildblütenhonig)",
+          "note": "Der Buchstabenname lautet auf Englisch aitch (/eɪtʃ/, nicht mit eight /eɪt/ ‚acht‘ verwechseln!) und beginnt mit einem Vokal – daher heißt es mit unbestimmtem Artikel an H (während das deutsche Ha konsonantisch anlautet). Im Wortanlaut wird h- meist behaucht (honey, house), bleibt aber in einigen französischen Lehnwörtern stumm (hour, honest). Im Rezeptheft des Linden Courtyard Inn steht H als Kürzel für wildflower honey."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Wait — warm H plus grated sweet orange peel! Could H stand for wildflower honey?!",
+          "trans": "Moment – warmes H plus geriebene süße Orangenschale! Könnte H für Wildblütenhonig stehen?!"
+        },
+        {
+          "text": "Hannah spells her name with an H at the beginning and at the end.",
+          "trans": "Hannah schreibt ihren Namen am Anfang und am Ende mit einem H."
+        }
+      ],
+      "related": [
+        {
+          "word": "honey",
+          "gloss": "Honig"
+        },
+        {
+          "word": "letter",
+          "gloss": "Buchstabe; Brief"
+        }
+      ],
+      "surface": [
+        "H",
+        "h"
+      ]
+    },
     "ha": {
       "lemma": "ha",
       "stress": "hɑ",
@@ -27639,18 +27809,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "half"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "half",
               "halves"
             ]
           }
@@ -27919,7 +28085,7 @@
     },
     "handwritten": {
       "lemma": "handwritten",
-      "stress": "ˈhændˌɹɪtən",
+      "stress": "ˌhændˈɹɪtən",
       "pos": "adj",
       "gloss": "handgeschrieben, handschriftlich",
       "meanings": [
@@ -30413,6 +30579,31 @@
       "related": [],
       "surface": []
     },
+    "however": {
+      "lemma": "however",
+      "pos": "adv",
+      "stress": "haʊˈɛvɚ",
+      "gloss": "jedoch",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "jedoch",
+          "note": "Wird verwendet, um einen Kontrast oder einen Vorbehalt auszudrücken."
+        }
+      ],
+      "examples": [
+        {
+          "text": "He was tired; however, he kept working.",
+          "trans": "Er war müde; jedoch arbeitete er weiter."
+        },
+        {
+          "text": "However you look at it, it's a mistake.",
+          "trans": "Wie man es auch betrachtet, es ist ein Fehler."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "huge": {
       "lemma": "huge",
       "stress": "hjudʒ",
@@ -31971,7 +32162,7 @@
       "meanings": [
         {
           "en": "es; er/sie (bei Gegenständen!)",
-          "note": "Pflichtsubjekt bei Wetter (it rains) UND Fürwort für jedes einzelne Ding (die Tür -> it opens, der Koffer -> it is heavy)."
+          "note": "Pflichtsubjekt bei Wetter (it rains) UND Fürwort für jedes einzelne Ding (die Tür → it opens, der Koffer → it is heavy)."
         }
       ],
       "forms": null,
@@ -32111,6 +32302,31 @@
       ],
       "related": [],
       "surface": []
+    },
+    "itself": {
+      "lemma": "itself",
+      "pos": "pron",
+      "stress": "ɪtˈsɛlf",
+      "gloss": "selbst",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "selbst",
+          "note": "Reflexivpronomen für Dinge oder Tiere."
+        }
+      ],
+      "examples": [
+        {
+          "text": "The cat washed itself.",
+          "trans": "Die Katze putzte sich selbst."
+        },
+        {
+          "text": "The problem resolved itself.",
+          "trans": "Das Problem löste sich von selbst."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "ivory": {
       "lemma": "ivory",
@@ -33237,7 +33453,23 @@
           "note": "Das k ist stumm: [naɪf]. Plural knives mit Wechsel von f zu v, wie bei wife – wives oder leaf – leaves."
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "knife",
+              "knives"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -33262,6 +33494,9 @@
           "word": "blade",
           "gloss": "Klinge"
         }
+      ],
+      "surface": [
+        "knives"
       ]
     },
     "knock": {
@@ -34427,18 +34662,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "leaf"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "leaf",
               "leaves"
             ]
           }
@@ -34771,9 +35002,7 @@
       ],
       "related": [],
       "surface": [
-        "leaves",
-        "leaving",
-        "left"
+        "leaving"
       ]
     },
     "lecture": {
@@ -35436,18 +35665,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "life"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "life",
               "lives"
             ]
           }
@@ -36003,10 +36228,7 @@
         }
       ],
       "related": [],
-      "surface": [
-        "less",
-        "least"
-      ]
+      "surface": []
     },
     "live": {
       "lemma": "live",
@@ -36091,18 +36313,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "loaf"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "loaf",
               "loaves"
             ]
           }
@@ -36128,6 +36346,9 @@
           "word": "dough",
           "gloss": "Teig"
         }
+      ],
+      "surface": [
+        "loaves"
       ]
     },
     "lobby": {
@@ -36917,10 +37138,10 @@
       "lemma": "ma'am",
       "stress": "mæm",
       "pos": "noun",
-      "gloss": "gnädige Frau (höfliche Anrede)",
+      "gloss": "Gnädige Frau (höfliche Anrede)",
       "meanings": [
         {
-          "en": "gnädige Frau (höfliche Anrede)",
+          "en": "Gnädige Frau (höfliche Anrede)",
           "note": "Im amerikanischen Englisch die ganz normale, respektvolle Anrede für eine erwachsene Kundin oder einen weiblichen Gast."
         }
       ],
@@ -36969,10 +37190,10 @@
       "lemma": "madam",
       "stress": "ˈmædəm",
       "pos": "noun",
-      "gloss": "gnädige Frau (höfliche Anrede)",
+      "gloss": "Gnädige Frau (höfliche Anrede)",
       "meanings": [
         {
-          "en": "gnädige Frau; förmliche Anrede für eine Frau",
+          "en": "Gnädige Frau (höfliche Anrede)",
           "note": "Sehr förmliche Anrede ohne Namen, etwa im Hotel oder Geschäft: Can I help you, madam? Im amerikanischen Alltag oft verkürzt zu ma'am."
         }
       ],
@@ -37078,18 +37299,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "mailman"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "mailman",
               "mailmen"
             ]
           }
@@ -37265,25 +37482,21 @@
       "meanings": [
         {
           "en": "Mann",
-          "note": "Unregelmäßiger Plural durch Vokalwechsel: one man /mæn/ -> two men /mɛn/; Genitiv Plural men's (men's shoes = Herrenschuhe)."
+          "note": "Unregelmäßiger Plural durch Vokalwechsel: one man /mæn/ → two men /mɛn/; Genitiv Plural men's (men's shoes = Herrenschuhe)."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "man"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "man",
               "men"
             ]
           }
@@ -39575,18 +39788,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "mouse"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "mouse",
               "mice"
             ]
           }
@@ -41205,10 +41414,10 @@
       "lemma": "noon",
       "stress": "nun",
       "pos": "noun",
-      "gloss": "zwölf Uhr mittags, Mittag",
+      "gloss": "Mittag, zwölf Uhr mittags",
       "meanings": [
         {
-          "en": "zwölf Uhr mittags, Mittag",
+          "en": "Mittag, zwölf Uhr mittags",
           "note": "Steht immer mit der kurzen Präposition at: at noon (um zwölf Uhr mittags / am Mittag)."
         }
       ],
@@ -42669,7 +42878,7 @@
     },
     "ours": {
       "lemma": "ours",
-      "stress": "aʊɚz",
+      "stress": "ˈaʊɚz",
       "pos": "pron",
       "gloss": "unserer, unsere, unseres (alleinstehend)",
       "meanings": [
@@ -44093,6 +44302,31 @@
       "related": [],
       "surface": []
     },
+    "patiently": {
+      "lemma": "patiently",
+      "pos": "adv",
+      "stress": "ˈpeɪʃəntli",
+      "gloss": "geduldig",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "geduldig",
+          "note": "Die Art und Weise, wie man wartet oder etwas ohne Ärger erträgt."
+        }
+      ],
+      "examples": [
+        {
+          "text": "She waited patiently for her turn.",
+          "trans": "Sie wartete geduldig, bis sie an der Reihe war."
+        },
+        {
+          "text": "He patiently explained the rules.",
+          "trans": "Er erklärte geduldig die Regeln."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "pave": {
       "lemma": "pave",
       "stress": "peɪv",
@@ -44552,18 +44786,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "person"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "person",
               "people"
             ]
           }
@@ -44719,6 +44949,31 @@
       "related": [],
       "surface": []
     },
+    "perfectly": {
+      "lemma": "perfectly",
+      "pos": "adv",
+      "stress": "ˈpɝfɪktli",
+      "gloss": "perfekt",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "perfekt",
+          "note": "Auf makellose oder absolute Weise."
+        }
+      ],
+      "examples": [
+        {
+          "text": "The dress fits perfectly.",
+          "trans": "Das Kleid passt perfekt."
+        },
+        {
+          "text": "I understand perfectly well.",
+          "trans": "Ich verstehe voll und ganz."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "perhaps": {
       "lemma": "perhaps",
       "stress": "pɚˈhæps",
@@ -44832,18 +45087,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "person"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "person",
               "people"
             ]
           }
@@ -44862,6 +45113,31 @@
       ],
       "related": [],
       "surface": []
+    },
+    "personally": {
+      "lemma": "personally",
+      "pos": "adv",
+      "stress": "ˈpɝsənəli",
+      "gloss": "persönlich",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "persönlich",
+          "note": "Bezieht sich auf die eigene Meinung oder das eigene Handeln."
+        }
+      ],
+      "examples": [
+        {
+          "text": "I personally think it's a bad idea.",
+          "trans": "Ich persönlich denke, es ist eine schlechte Idee."
+        },
+        {
+          "text": "He personally guaranteed the loan.",
+          "trans": "Er hat persönlich für den Kredit gebürgt."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "pharmacist": {
       "lemma": "pharmacist",
@@ -46039,10 +46315,10 @@
       "lemma": "pop",
       "stress": "pɑp",
       "pos": "noun",
-      "gloss": "kurzer Knall, Ploppen; durchbrennen, platzen",
+      "gloss": "Kurzer Knall, Ploppen; durchbrennen, platzen",
       "meanings": [
         {
-          "en": "kurzes Knall- oder Ploppgeräusch",
+          "en": "Kurzer Knall, Ploppen; durchbrennen, platzen",
           "note": "Typisch für einen Sektkorken, einen Luftballon oder eine durchbrennende Sicherung."
         }
       ],
@@ -47462,6 +47738,31 @@
         "professionals"
       ]
     },
+    "professionally": {
+      "lemma": "professionally",
+      "pos": "adv",
+      "stress": "pɹəˈfɛʃənəli",
+      "gloss": "professionell",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "professionell",
+          "note": "Auf berufliche oder fachmännische Weise."
+        }
+      ],
+      "examples": [
+        {
+          "text": "The event was organized very professionally.",
+          "trans": "Die Veranstaltung war sehr professionell organisiert."
+        },
+        {
+          "text": "You need to dress professionally for the interview.",
+          "trans": "Für das Vorstellungsgespräch müssen Sie sich professionell kleiden."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "professor": {
       "lemma": "professor",
       "stress": "pɹəˈfɛsɚ",
@@ -48353,6 +48654,31 @@
       "related": [],
       "surface": []
     },
+    "purely": {
+      "lemma": "purely",
+      "pos": "adv",
+      "stress": "ˈpjʊɹli",
+      "gloss": "rein",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "rein",
+          "note": "Ausschließlich, nur."
+        }
+      ],
+      "examples": [
+        {
+          "text": "I did it purely out of curiosity.",
+          "trans": "Ich tat es rein aus Neugier."
+        },
+        {
+          "text": "It was a purely accidental encounter.",
+          "trans": "Es war eine rein zufällige Begegnung."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "push": {
       "lemma": "push",
       "stress": "pʊʃ",
@@ -48985,6 +49311,31 @@
           "gloss": "Sturm, Gewitter"
         }
       ]
+    },
+    "raindrop": {
+      "lemma": "raindrop",
+      "pos": "noun",
+      "stress": "ˈɹeɪnˌdɹɑp",
+      "gloss": "Regentropfen",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "Regentropfen",
+          "note": "Ein einzelner Tropfen Regen."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A single raindrop fell on my nose.",
+          "trans": "Ein einzelner Regentropfen fiel auf meine Nase."
+        },
+        {
+          "text": "The leaves were covered in raindrops.",
+          "trans": "Die Blätter waren mit Regentropfen bedeckt."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "rainy": {
       "lemma": "rainy",
@@ -49831,6 +50182,31 @@
           "gloss": "erneuern"
         }
       ]
+    },
+    "refreshing": {
+      "lemma": "refreshing",
+      "pos": "adj",
+      "stress": "ɹɪˈfɹɛʃɪŋ",
+      "gloss": "erfrischend",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "erfrischend",
+          "note": "Belebend, besonders durch Kühle oder Neuheit."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A refreshing breeze blew from the sea.",
+          "trans": "Eine erfrischende Brise wehte vom Meer."
+        },
+        {
+          "text": "Her honesty is quite refreshing.",
+          "trans": "Ihre Ehrlichkeit ist ziemlich erfrischend."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "register": {
       "lemma": "register",
@@ -51687,8 +52063,7 @@
       "surface": [
         "rang",
         "ringing",
-        "rings",
-        "rung"
+        "rings"
       ]
     },
     "rinse": {
@@ -55385,6 +55760,31 @@
       "related": [],
       "surface": []
     },
+    "shed": {
+      "lemma": "shed",
+      "pos": "noun",
+      "stress": "ʃɛd",
+      "gloss": "Schuppen",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "Schuppen",
+          "note": "Ein kleines, einfaches Gebäude zur Aufbewahrung."
+        }
+      ],
+      "examples": [
+        {
+          "text": "We keep the tools in the shed.",
+          "trans": "Wir bewahren die Werkzeuge im Schuppen auf."
+        },
+        {
+          "text": "He built a new garden shed.",
+          "trans": "Er baute einen neuen Gartenschuppen."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "sheet": {
       "lemma": "sheet",
       "stress": "ʃit",
@@ -55421,25 +55821,21 @@
       "meanings": [
         {
           "en": "Regalbrett, Fach",
-          "note": "Auf dem obersten Regalbrett heißt ON the top shelf; unregelmäßiger Plural mit f -> ves: shelves."
+          "note": "Auf dem obersten Regalbrett heißt ON the top shelf; unregelmäßiger Plural mit f → ves: shelves."
         }
       ],
       "forms": {
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "shelf"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "shelf",
               "shelves"
             ]
           }
@@ -55557,6 +55953,31 @@
           "gloss": "Licht"
         }
       ]
+    },
+    "shiny": {
+      "lemma": "shiny",
+      "pos": "adj",
+      "stress": "ˈʃaɪni",
+      "gloss": "glänzend",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "glänzend",
+          "note": "Etwas, das Licht reflektiert, oft weil es sauber oder neu ist."
+        }
+      ],
+      "examples": [
+        {
+          "text": "She bought a shiny new car.",
+          "trans": "Sie kaufte ein glänzendes neues Auto."
+        },
+        {
+          "text": "His shoes were black and shiny.",
+          "trans": "Seine Schuhe waren schwarz und glänzend."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "ship": {
       "lemma": "ship",
@@ -56704,10 +57125,10 @@
       "lemma": "sir",
       "stress": "sɝ",
       "pos": "noun",
-      "gloss": "mein Herr (höfliche Anrede)",
+      "gloss": "Mein Herr (höfliche Anrede)",
       "meanings": [
         {
-          "en": "mein Herr (höfliche Anrede)",
+          "en": "Mein Herr (höfliche Anrede)",
           "note": "Höfliche Anrede OHNE Namen gegenüber männlichen Gästen oder Kunden (Hello, sir! / How kind of you, sir); vor Nachnamen steht Mr.!"
         }
       ],
@@ -60558,7 +60979,7 @@
       "meanings": [
         {
           "en": "bleiben; übernachten, wohnen (als Gast)",
-          "note": " DAS Hotel-Schlüsselwort: is staying all week = bleibt / wohnt die ganze Woche bei uns (nie *live* für kurze Hotelaufenthalte!)."
+          "note": "DAS Hotel-Schlüsselwort: is staying all week = bleibt / wohnt die ganze Woche bei uns (nie *live* für kurze Hotelaufenthalte!)."
         }
       ],
       "forms": {
@@ -61214,7 +61635,7 @@
       "meanings": [
         {
           "en": "Geschichte, Erzählung; Stockwerk (US)",
-          "note": "Plural mit y -> ies: stories; This story gets stranger = Diese Geschichte wird immer seltsamer."
+          "note": "Plural mit y → ies: stories; This story gets stranger = Diese Geschichte wird immer seltsamer."
         }
       ],
       "forms": null,
@@ -61381,7 +61802,6 @@
       ],
       "related": [],
       "surface": [
-        "stranger",
         "strangest"
       ]
     },
@@ -62680,6 +63100,31 @@
           "gloss": "Schock"
         }
       ]
+    },
+    "surprisingly": {
+      "lemma": "surprisingly",
+      "pos": "adv",
+      "stress": "sɚˈpɹaɪzɪŋli",
+      "gloss": "überraschend",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "überraschend",
+          "note": "Auf eine Weise, die unerwartet ist."
+        }
+      ],
+      "examples": [
+        {
+          "text": "The movie was surprisingly good.",
+          "trans": "Der Film war überraschend gut."
+        },
+        {
+          "text": "Surprisingly, nobody complained.",
+          "trans": "Überraschenderweise beschwerte sich niemand."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "survive": {
       "lemma": "survive",
@@ -64181,6 +64626,31 @@
         }
       ]
     },
+    "teaspoon": {
+      "lemma": "teaspoon",
+      "pos": "noun",
+      "stress": "ˈtiˌspun",
+      "gloss": "Teelöffel",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "Teelöffel",
+          "note": "Ein kleiner Löffel, oft als Maßeinheit beim Kochen."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Add one teaspoon of sugar.",
+          "trans": "Fügen Sie einen Teelöffel Zucker hinzu."
+        },
+        {
+          "text": "She stirred her coffee with a teaspoon.",
+          "trans": "Sie rührte ihren Kaffee mit einem Teelöffel um."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "telegram": {
       "lemma": "telegram",
       "stress": "ˈtɛləˌɡɹæm",
@@ -64902,6 +65372,31 @@
       "related": [],
       "surface": []
     },
+    "themselves": {
+      "lemma": "themselves",
+      "pos": "pron",
+      "stress": "ðəmˈsɛlvz",
+      "gloss": "sie selbst",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "sie selbst",
+          "note": "Reflexivpronomen für die dritte Person Plural."
+        }
+      ],
+      "examples": [
+        {
+          "text": "They built the house themselves.",
+          "trans": "Sie haben das Haus selbst gebaut."
+        },
+        {
+          "text": "The children enjoyed themselves at the park.",
+          "trans": "Die Kinder haben sich im Park amüsiert."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "then": {
       "lemma": "then",
       "stress": "ðɛn",
@@ -65304,7 +65799,7 @@
     },
     "thirty-year-old": {
       "lemma": "thirty-year-old",
-      "stress": "ˌθɝtiˌjɪɹˈoʊld",
+      "stress": "ˌθɝtiˈjɪɹˌoʊld",
       "pos": "adj",
       "gloss": "dreißig Jahre alt, dreißigjährig",
       "meanings": [
@@ -67656,7 +68151,7 @@
       "meanings": [
         {
           "en": "wirklich, aufrichtig, wahrhaftig",
-          "note": "Rechtschreib-Merkpunkt: Bei true fällt vor -ly das stumme e ausnahmsweise weg -> truly (nicht *truely!)."
+          "note": "Rechtschreib-Merkpunkt: Bei true fällt vor -ly das stumme e ausnahmsweise weg → truly (nicht *truely!)."
         }
       ],
       "forms": null,
@@ -68365,10 +68860,10 @@
       "lemma": "twinge",
       "stress": "twɪndʒ",
       "pos": "noun",
-      "gloss": "kurzes Stechen, Ziehen (Schmerz); Anflug (von Reue)",
+      "gloss": "Kurzes Stechen, Ziehen (Schmerz); Anflug (von Reue)",
       "meanings": [
         {
-          "en": "kurzer stechender oder ziehender Schmerz; kleiner Stich (des Gewissens)",
+          "en": "Kurzes Stechen, Ziehen (Schmerz); Anflug (von Reue)",
           "note": "Sehr treffend für ein kurzes Ziehen in einem genesenden Gelenk oder Muskel."
         }
       ],
@@ -68544,6 +69039,31 @@
         }
       ]
     },
+    "unbroken": {
+      "lemma": "unbroken",
+      "pos": "adj",
+      "stress": "ʌnˈbɹoʊkən",
+      "gloss": "ungebrochen",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "ungebrochen",
+          "note": "Intakt, ohne Unterbrechung oder nicht beschädigt."
+        }
+      ],
+      "examples": [
+        {
+          "text": "An unbroken line of cars stretched to the horizon.",
+          "trans": "Eine ungebrochene Autoschlange reichte bis zum Horizont."
+        },
+        {
+          "text": "The record remains unbroken.",
+          "trans": "Der Rekord bleibt ungebrochen."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "uncle": {
       "lemma": "uncle",
       "stress": "ˈʌŋkəl",
@@ -68663,7 +69183,7 @@
       "meanings": [
         {
           "en": "auseinanderfalten, aufklappen (Brief, Karte, Klappstuhl); sich entwickeln, sich entfalten",
-          "note": "Das Präfix un- bezeichnet hier die Umkehrung einer Handlung (fold = falten/zusammenklappen -> unfold = auseinanderklappen)."
+          "note": "Das Präfix un- bezeichnet hier die Umkehrung einer Handlung (fold = falten/zusammenklappen → unfold = auseinanderklappen)."
         }
       ],
       "forms": {
@@ -68726,6 +69246,31 @@
           "gloss": "öffnen"
         }
       ]
+    },
+    "unforgettable": {
+      "lemma": "unforgettable",
+      "pos": "adj",
+      "stress": "ˌʌnfɚˈɡɛtəbəl",
+      "gloss": "unvergesslich",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "unvergesslich",
+          "note": "So besonders, dass man sich immer daran erinnern wird."
+        }
+      ],
+      "examples": [
+        {
+          "text": "It was an unforgettable experience.",
+          "trans": "Es war ein unvergessliches Erlebnis."
+        },
+        {
+          "text": "Her performance was truly unforgettable.",
+          "trans": "Ihre Vorstellung war wirklich unvergesslich."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "unfortunately": {
       "lemma": "unfortunately",
@@ -69150,6 +69695,69 @@
         }
       ]
     },
+    "unpucker": {
+      "lemma": "unpucker",
+      "pos": "verb",
+      "stress": "ʌnˈpʌkɚ",
+      "gloss": "glätten",
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "base",
+              "unpucker"
+            ]
+          },
+          {
+            "cells": [
+              "3rd sg",
+              "unpuckers"
+            ]
+          },
+          {
+            "cells": [
+              "past",
+              "unpuckered"
+            ]
+          },
+          {
+            "cells": [
+              "past participle",
+              "unpuckered"
+            ]
+          },
+          {
+            "cells": [
+              "-ing",
+              "unpuckering"
+            ]
+          }
+        ]
+      },
+      "meanings": [
+        {
+          "en": "glätten",
+          "note": "Entspannen oder ausbreiten (z. B. Lippen oder Stirn)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "She tried to unpucker her lips and smile.",
+          "trans": "Sie versuchte, ihre Lippen zu glätten und zu lächeln."
+        },
+        {
+          "text": "He managed to unpucker his brow.",
+          "trans": "Er schaffte es, seine Stirn zu glätten."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "unsalted": {
       "lemma": "unsalted",
       "stress": "ʌnˈsɔltɪd",
@@ -69187,6 +69795,31 @@
           "gloss": "Prise"
         }
       ]
+    },
+    "unsmudged": {
+      "lemma": "unsmudged",
+      "pos": "adj",
+      "stress": "ʌnˈsmʌdʒd",
+      "gloss": "unverwischte",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "unverwischte",
+          "note": "Sauber, ohne Schmutz oder Verwischungen."
+        }
+      ],
+      "examples": [
+        {
+          "text": "The drawing was perfectly unsmudged.",
+          "trans": "Die Zeichnung war vollkommen unverwischt."
+        },
+        {
+          "text": "She handed me an unsmudged copy.",
+          "trans": "Sie reichte mir eine unverwischte Kopie."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "untie": {
       "lemma": "untie",
@@ -72303,6 +72936,31 @@
       ],
       "related": []
     },
+    "wildflower": {
+      "lemma": "wildflower",
+      "pos": "noun",
+      "stress": "ˈwaɪldˌflaʊɚ",
+      "gloss": "Wildblume",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "Wildblume",
+          "note": "Eine Blume, die in der freien Natur wächst."
+        }
+      ],
+      "examples": [
+        {
+          "text": "The meadow was full of wildflowers.",
+          "trans": "Die Wiese war voller Wildblumen."
+        },
+        {
+          "text": "She picked a small wildflower.",
+          "trans": "Sie pflückte eine kleine Wildblume."
+        }
+      ],
+      "related": [],
+      "moreForms": []
+    },
     "will": {
       "lemma": "will",
       "stress": "wɪl",
@@ -72925,18 +73583,14 @@
         "title": "Forms",
         "columns": [
           "",
-          "form"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "singular",
-              "woman"
-            ]
-          },
-          {
-            "cells": [
-              "plural",
+              "form",
+              "woman",
               "women"
             ]
           }
@@ -73421,6 +74075,31 @@
           "gloss": "Preis"
         }
       ]
+    },
+    "worthy": {
+      "lemma": "worthy",
+      "pos": "adj",
+      "stress": "ˈwɝði",
+      "gloss": "würdig",
+      "forms": null,
+      "meanings": [
+        {
+          "en": "würdig",
+          "note": "Verdient Respekt, Aufmerksamkeit oder einen bestimmten Status."
+        }
+      ],
+      "examples": [
+        {
+          "text": "He is a worthy opponent.",
+          "trans": "Er ist ein würdiger Gegner."
+        },
+        {
+          "text": "The cause is worthy of our support.",
+          "trans": "Die Sache ist unserer Unterstützung würdig."
+        }
+      ],
+      "related": [],
+      "moreForms": []
     },
     "would": {
       "lemma": "would",
@@ -74170,669 +74849,6 @@
       ],
       "related": [],
       "surface": []
-    },
-    "anybody": {
-      "lemma": "anybody",
-      "pos": "pron",
-      "stress": "ˈɛniˌbɑdi",
-      "gloss": "irgendjemand",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "irgendjemand",
-          "note": "Bezeichnet eine beliebige Person, oft in verneinten oder fragenden Sätzen."
-        }
-      ],
-      "examples": [
-        {
-          "text": "Has anybody seen my keys?",
-          "trans": "Hat irgendjemand meine Schlüssel gesehen?"
-        },
-        {
-          "text": "I didn't see anybody.",
-          "trans": "Ich habe niemanden gesehen."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "crowning": {
-      "lemma": "crowning",
-      "pos": "adj",
-      "stress": "ˈkɹaʊnɪŋ",
-      "gloss": "krönend",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "krönend",
-          "note": "Als Adjektiv verwendet, um den Höhepunkt oder Abschluss von etwas zu beschreiben."
-        }
-      ],
-      "examples": [
-        {
-          "text": "This was the crowning moment of her career.",
-          "trans": "Dies war der krönende Moment ihrer Karriere."
-        },
-        {
-          "text": "The crowning glory of the room is the chandelier.",
-          "trans": "Das krönende Prachtstück des Raumes ist der Kronleuchter."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "dampness": {
-      "lemma": "dampness",
-      "pos": "noun",
-      "stress": "ˈdæmpnəs",
-      "gloss": "Feuchtigkeit",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "Feuchtigkeit",
-          "note": "Beschreibt einen leicht nassen Zustand, oft unangenehm."
-        }
-      ],
-      "examples": [
-        {
-          "text": "The dampness in the cellar is a problem.",
-          "trans": "Die Feuchtigkeit im Keller ist ein Problem."
-        },
-        {
-          "text": "I could feel the dampness of the grass.",
-          "trans": "Ich konnte die Feuchtigkeit des Grases spüren."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "evenly": {
-      "lemma": "evenly",
-      "pos": "adv",
-      "stress": "ˈivənli",
-      "gloss": "gleichmäßig",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "gleichmäßig",
-          "note": "Beschreibt etwas, das ohne Schwankungen oder fair verteilt ist."
-        }
-      ],
-      "examples": [
-        {
-          "text": "Spread the butter evenly on the bread.",
-          "trans": "Verstreiche die Butter gleichmäßig auf dem Brot."
-        },
-        {
-          "text": "The teams are evenly matched.",
-          "trans": "Die Teams sind gleichstark."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "forkful": {
-      "lemma": "forkful",
-      "pos": "noun",
-      "stress": "ˈfɔɹkˌfʊl",
-      "gloss": "Gabelvoll",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "Gabelvoll",
-          "note": "Die Menge an Essen, die auf eine Gabel passt."
-        }
-      ],
-      "examples": [
-        {
-          "text": "He ate a forkful of spaghetti.",
-          "trans": "Er aß eine Gabelvoll Spaghetti."
-        },
-        {
-          "text": "She offered him a forkful of her cake.",
-          "trans": "Sie bot ihm eine Gabelvoll von ihrem Kuchen an."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "however": {
-      "lemma": "however",
-      "pos": "adv",
-      "stress": "haʊˈɛvɚ",
-      "gloss": "jedoch",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "jedoch",
-          "note": "Wird verwendet, um einen Kontrast oder einen Vorbehalt auszudrücken."
-        }
-      ],
-      "examples": [
-        {
-          "text": "He was tired; however, he kept working.",
-          "trans": "Er war müde; jedoch arbeitete er weiter."
-        },
-        {
-          "text": "However you look at it, it's a mistake.",
-          "trans": "Wie man es auch betrachtet, es ist ein Fehler."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "itself": {
-      "lemma": "itself",
-      "pos": "pron",
-      "stress": "ɪtˈsɛlf",
-      "gloss": "selbst",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "selbst",
-          "note": "Reflexivpronomen für Dinge oder Tiere."
-        }
-      ],
-      "examples": [
-        {
-          "text": "The cat washed itself.",
-          "trans": "Die Katze putzte sich selbst."
-        },
-        {
-          "text": "The problem resolved itself.",
-          "trans": "Das Problem löste sich von selbst."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "patiently": {
-      "lemma": "patiently",
-      "pos": "adv",
-      "stress": "ˈpeɪʃəntli",
-      "gloss": "geduldig",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "geduldig",
-          "note": "Die Art und Weise, wie man wartet oder etwas ohne Ärger erträgt."
-        }
-      ],
-      "examples": [
-        {
-          "text": "She waited patiently for her turn.",
-          "trans": "Sie wartete geduldig, bis sie an der Reihe war."
-        },
-        {
-          "text": "He patiently explained the rules.",
-          "trans": "Er erklärte geduldig die Regeln."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "perfectly": {
-      "lemma": "perfectly",
-      "pos": "adv",
-      "stress": "ˈpɝfɪktli",
-      "gloss": "perfekt",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "perfekt",
-          "note": "Auf makellose oder absolute Weise."
-        }
-      ],
-      "examples": [
-        {
-          "text": "The dress fits perfectly.",
-          "trans": "Das Kleid passt perfekt."
-        },
-        {
-          "text": "I understand perfectly well.",
-          "trans": "Ich verstehe voll und ganz."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "personally": {
-      "lemma": "personally",
-      "pos": "adv",
-      "stress": "ˈpɝsənəli",
-      "gloss": "persönlich",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "persönlich",
-          "note": "Bezieht sich auf die eigene Meinung oder das eigene Handeln."
-        }
-      ],
-      "examples": [
-        {
-          "text": "I personally think it's a bad idea.",
-          "trans": "Ich persönlich denke, es ist eine schlechte Idee."
-        },
-        {
-          "text": "He personally guaranteed the loan.",
-          "trans": "Er hat persönlich für den Kredit gebürgt."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "professionally": {
-      "lemma": "professionally",
-      "pos": "adv",
-      "stress": "pɹəˈfɛʃənəli",
-      "gloss": "professionell",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "professionell",
-          "note": "Auf berufliche oder fachmännische Weise."
-        }
-      ],
-      "examples": [
-        {
-          "text": "The event was organized very professionally.",
-          "trans": "Die Veranstaltung war sehr professionell organisiert."
-        },
-        {
-          "text": "You need to dress professionally for the interview.",
-          "trans": "Für das Vorstellungsgespräch müssen Sie sich professionell kleiden."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "purely": {
-      "lemma": "purely",
-      "pos": "adv",
-      "stress": "ˈpjʊɹli",
-      "gloss": "rein",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "rein",
-          "note": "Ausschließlich, nur."
-        }
-      ],
-      "examples": [
-        {
-          "text": "I did it purely out of curiosity.",
-          "trans": "Ich tat es rein aus Neugier."
-        },
-        {
-          "text": "It was a purely accidental encounter.",
-          "trans": "Es war eine rein zufällige Begegnung."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "raindrop": {
-      "lemma": "raindrop",
-      "pos": "noun",
-      "stress": "ˈɹeɪnˌdɹɑp",
-      "gloss": "Regentropfen",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "Regentropfen",
-          "note": "Ein einzelner Tropfen Regen."
-        }
-      ],
-      "examples": [
-        {
-          "text": "A single raindrop fell on my nose.",
-          "trans": "Ein einzelner Regentropfen fiel auf meine Nase."
-        },
-        {
-          "text": "The leaves were covered in raindrops.",
-          "trans": "Die Blätter waren mit Regentropfen bedeckt."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "refreshing": {
-      "lemma": "refreshing",
-      "pos": "adj",
-      "stress": "ɹɪˈfɹɛʃɪŋ",
-      "gloss": "erfrischend",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "erfrischend",
-          "note": "Belebend, besonders durch Kühle oder Neuheit."
-        }
-      ],
-      "examples": [
-        {
-          "text": "A refreshing breeze blew from the sea.",
-          "trans": "Eine erfrischende Brise wehte vom Meer."
-        },
-        {
-          "text": "Her honesty is quite refreshing.",
-          "trans": "Ihre Ehrlichkeit ist ziemlich erfrischend."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "shed": {
-      "lemma": "shed",
-      "pos": "noun",
-      "stress": "ʃɛd",
-      "gloss": "Schuppen",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "Schuppen",
-          "note": "Ein kleines, einfaches Gebäude zur Aufbewahrung."
-        }
-      ],
-      "examples": [
-        {
-          "text": "We keep the tools in the shed.",
-          "trans": "Wir bewahren die Werkzeuge im Schuppen auf."
-        },
-        {
-          "text": "He built a new garden shed.",
-          "trans": "Er baute einen neuen Gartenschuppen."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "shiny": {
-      "lemma": "shiny",
-      "pos": "adj",
-      "stress": "ˈʃaɪni",
-      "gloss": "glänzend",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "glänzend",
-          "note": "Etwas, das Licht reflektiert, oft weil es sauber oder neu ist."
-        }
-      ],
-      "examples": [
-        {
-          "text": "She bought a shiny new car.",
-          "trans": "Sie kaufte ein glänzendes neues Auto."
-        },
-        {
-          "text": "His shoes were black and shiny.",
-          "trans": "Seine Schuhe waren schwarz und glänzend."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "surprisingly": {
-      "lemma": "surprisingly",
-      "pos": "adv",
-      "stress": "sɚˈpɹaɪzɪŋli",
-      "gloss": "überraschend",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "überraschend",
-          "note": "Auf eine Weise, die unerwartet ist."
-        }
-      ],
-      "examples": [
-        {
-          "text": "The movie was surprisingly good.",
-          "trans": "Der Film war überraschend gut."
-        },
-        {
-          "text": "Surprisingly, nobody complained.",
-          "trans": "Überraschenderweise beschwerte sich niemand."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "teaspoon": {
-      "lemma": "teaspoon",
-      "pos": "noun",
-      "stress": "ˈtiˌspun",
-      "gloss": "Teelöffel",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "Teelöffel",
-          "note": "Ein kleiner Löffel, oft als Maßeinheit beim Kochen."
-        }
-      ],
-      "examples": [
-        {
-          "text": "Add one teaspoon of sugar.",
-          "trans": "Fügen Sie einen Teelöffel Zucker hinzu."
-        },
-        {
-          "text": "She stirred her coffee with a teaspoon.",
-          "trans": "Sie rührte ihren Kaffee mit einem Teelöffel um."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "themselves": {
-      "lemma": "themselves",
-      "pos": "pron",
-      "stress": "ðɛmˈsɛlvz",
-      "gloss": "sie selbst",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "sie selbst",
-          "note": "Reflexivpronomen für die dritte Person Plural."
-        }
-      ],
-      "examples": [
-        {
-          "text": "They built the house themselves.",
-          "trans": "Sie haben das Haus selbst gebaut."
-        },
-        {
-          "text": "The children enjoyed themselves at the park.",
-          "trans": "Die Kinder haben sich im Park amüsiert."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "unbroken": {
-      "lemma": "unbroken",
-      "pos": "adj",
-      "stress": "ʌnˈbɹoʊkən",
-      "gloss": "ungebrochen",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "ungebrochen",
-          "note": "Intakt, ohne Unterbrechung oder nicht beschädigt."
-        }
-      ],
-      "examples": [
-        {
-          "text": "An unbroken line of cars stretched to the horizon.",
-          "trans": "Eine ungebrochene Autoschlange reichte bis zum Horizont."
-        },
-        {
-          "text": "The record remains unbroken.",
-          "trans": "Der Rekord bleibt ungebrochen."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "unforgettable": {
-      "lemma": "unforgettable",
-      "pos": "adj",
-      "stress": "ˌʌnfɚˈɡɛtəbəl",
-      "gloss": "unvergesslich",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "unvergesslich",
-          "note": "So besonders, dass man sich immer daran erinnern wird."
-        }
-      ],
-      "examples": [
-        {
-          "text": "It was an unforgettable experience.",
-          "trans": "Es war ein unvergessliches Erlebnis."
-        },
-        {
-          "text": "Her performance was truly unforgettable.",
-          "trans": "Ihre Vorstellung war wirklich unvergesslich."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "unpucker": {
-      "lemma": "unpucker",
-      "pos": "verb",
-      "stress": "ʌnˈpʌkɚ",
-      "gloss": "glätten",
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "base",
-              "unpucker"
-            ]
-          },
-          {
-            "cells": [
-              "3rd sg",
-              "unpuckers"
-            ]
-          },
-          {
-            "cells": [
-              "past",
-              "unpuckered"
-            ]
-          },
-          {
-            "cells": [
-              "past participle",
-              "unpuckered"
-            ]
-          },
-          {
-            "cells": [
-              "-ing",
-              "unpuckering"
-            ]
-          }
-        ]
-      },
-      "meanings": [
-        {
-          "en": "glätten",
-          "note": "Entspannen oder ausbreiten (z. B. Lippen oder Stirn)."
-        }
-      ],
-      "examples": [
-        {
-          "text": "She tried to unpucker her lips and smile.",
-          "trans": "Sie versuchte, ihre Lippen zu glätten und zu lächeln."
-        },
-        {
-          "text": "He managed to unpucker his brow.",
-          "trans": "Er schaffte es, seine Stirn zu glätten."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "unsmudged": {
-      "lemma": "unsmudged",
-      "pos": "adj",
-      "stress": "ʌnˈsmʌdʒd",
-      "gloss": "unverwischte",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "unverwischte",
-          "note": "Sauber, ohne Schmutz oder Verwischungen."
-        }
-      ],
-      "examples": [
-        {
-          "text": "The drawing was perfectly unsmudged.",
-          "trans": "Die Zeichnung war vollkommen unverwischt."
-        },
-        {
-          "text": "She handed me an unsmudged copy.",
-          "trans": "Sie reichte mir eine unverwischte Kopie."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "wildflower": {
-      "lemma": "wildflower",
-      "pos": "noun",
-      "stress": "ˈwaɪldˌflaʊɚ",
-      "gloss": "Wildblume",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "Wildblume",
-          "note": "Eine Blume, die in der freien Natur wächst."
-        }
-      ],
-      "examples": [
-        {
-          "text": "The meadow was full of wildflowers.",
-          "trans": "Die Wiese war voller Wildblumen."
-        },
-        {
-          "text": "She picked a small wildflower.",
-          "trans": "Sie pflückte eine kleine Wildblume."
-        }
-      ],
-      "related": [],
-      "moreForms": []
-    },
-    "worthy": {
-      "lemma": "worthy",
-      "pos": "adj",
-      "stress": "ˈwɝði",
-      "gloss": "würdig",
-      "forms": null,
-      "meanings": [
-        {
-          "en": "würdig",
-          "note": "Verdient Respekt, Aufmerksamkeit oder einen bestimmten Status."
-        }
-      ],
-      "examples": [
-        {
-          "text": "He is a worthy opponent.",
-          "trans": "Er ist ein würdiger Gegner."
-        },
-        {
-          "text": "The cause is worthy of our support.",
-          "trans": "Die Sache ist unserer Unterstützung würdig."
-        }
-      ],
-      "related": [],
-      "moreForms": []
     }
   }
 }
