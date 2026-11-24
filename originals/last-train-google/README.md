@@ -46,4 +46,6 @@ publisher's stale default paths, and verify the remote catalogue after upload.
 The complete example and form tables are included. Existing verified dictionary audio
 is reused where its identity matches; missing clips are generated with the standard
 Qwen dictionary voice, including the Russian stress adapter for forms. Google TTS
-is used only for the scene speech. The lesson retains the normal five-part structure.
+voices the scene and one explicit dictionary fallback: the feminine form `первой`
+failed the usual Qwen checks and is generated with Google Kore, then checked through
+the same dictionary audio gate. The lesson retains the normal five-part structure.
