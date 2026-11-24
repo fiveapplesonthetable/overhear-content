@@ -43,4 +43,7 @@ Review any flagged differences and listen before promoting the voice beyond this
 The normal publisher uploads audio and content objects before catalogue documents,
 with `meta/app` last. Use the private receiver's actual systemd environment, not the
 publisher's stale default paths, and verify the remote catalogue after upload.
-Example/form dictionary audio is outside this one-scene voice trial.
+The complete example and form tables are included. Existing verified dictionary audio
+is reused where its identity matches; missing clips are generated with the standard
+Qwen dictionary voice, including the Russian stress adapter for forms. Google TTS
+is used only for the scene speech. The lesson retains the normal five-part structure.
