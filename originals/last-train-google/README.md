@@ -1,8 +1,8 @@
 # The Last Train: Google TTS pilot
 
-One original ru-en lesson for the owner-only trial catalogue. This uses the private
-`out/` delivery route; the SRT in `sources/last-train-google/` is our own authored
-dialogue with script windows, not a recording or a TV adaptation.
+One original ru-en lesson for the public Originals catalogue. Written for this
+Google TTS trial; no TV adaptation or source recording is used. It follows the
+standard five-part lesson and annotation contracts.
 
 Google model: `gemini-3.8-flash-tts`, via the Google Agent Platform REST endpoint.
 Anna: Kore. Boris: Charon. English narrator: Sulafat, directed as a warm female
@@ -17,17 +17,17 @@ Requests incur the project's Google TTS usage charges. No credentials belong in 
 From the content checkout, with STORE pointing at a separate pilot render directory:
 
 ```sh
-python3 tools/validate.py --require-notes --strict-teaching out/last-train-google/s01e01
+python3 tools/validate.py --require-notes --strict-teaching originals/last-train-google/s01e01
 python3 tools/google_tts_scene.py synth \
-  --script out/last-train-google/s01e01/scene-01.json \
-  --casting out/last-train-google/google-voices.json --store "$STORE"
+  --script originals/last-train-google/s01e01/scene-01.json \
+  --casting originals/last-train-google/google-voices.json --store "$STORE"
 # Run finish and qa in the renderer's torch/torchaudio/faster-whisper environment.
 python3 tools/google_tts_scene.py finish \
-  --script out/last-train-google/s01e01/scene-01.json \
-  --casting out/last-train-google/google-voices.json --store "$STORE"
+  --script originals/last-train-google/s01e01/scene-01.json \
+  --casting originals/last-train-google/google-voices.json --store "$STORE"
 python3 tools/google_tts_scene.py qa \
-  --script out/last-train-google/s01e01/scene-01.json \
-  --casting out/last-train-google/google-voices.json --store "$STORE"
+  --script originals/last-train-google/s01e01/scene-01.json \
+  --casting originals/last-train-google/google-voices.json --store "$STORE"
 python3 tools/check_render.py "$STORE" --episode last-train-google-s01e01
 python3 tools/package_render.py "$STORE" --episode last-train-google-s01e01
 ```
@@ -41,7 +41,7 @@ finished MP3 without reference prompts and flags character error rates above 10%
 Review any flagged differences and listen before promoting the voice beyond this trial.
 
 The normal publisher uploads audio and content objects before catalogue documents,
-with `meta/app` last. Use the private receiver's actual systemd environment, not the
+with `meta/app` last. Use the public receiver's actual systemd environment, not the
 publisher's stale default paths, and verify the remote catalogue after upload.
 The complete example and form tables are included. Existing verified dictionary audio
 is reused where its identity matches; missing clips are generated with the standard
