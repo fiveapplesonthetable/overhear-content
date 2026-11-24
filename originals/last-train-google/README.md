@@ -48,4 +48,7 @@ is reused where its identity matches; missing clips are generated with the stand
 Qwen dictionary voice, including the Russian stress adapter for forms. Google TTS
 voices the scene and one explicit dictionary fallback: the feminine form `первой`
 failed the usual Qwen checks and is generated with Google Kore, then checked through
-the same dictionary audio gate. The lesson retains the normal five-part structure.
+the same dictionary audio gate. Both engines were transcribed as `первый`, so that
+optional recording is withheld using the normal failed-clip path. All four written
+`первой` cells remain available, without audio buttons. The lesson retains the normal
+five-part structure.
