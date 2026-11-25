@@ -63,7 +63,7 @@ Machine-readable: `spec/schema/script.schema.json`, enforced by `tools/validate.
 - `labels` has an entry for every speaking role, equal to its `cast.json` `ru`; one character = one role key = one label
   for the whole show. No `voices`. See `spec/schema/cast.schema.json` and `spec/quality.md`.
 - Narration names only people of `cast.json` (or its `other_names`), and the person who actually speaks the line it
-  explains. Explanations follow `spec/quality.md` (they teach the language; no templates, no grammar-label endings).
+  translates. Follow `spec/quality.md`: the walkthrough contains only the quoted translation after each replayed line, with no added explanation.
 - Narration never contains placeholder text (`The characters discuss their situation`, `ENG `).
 
 ## No original audio, ever

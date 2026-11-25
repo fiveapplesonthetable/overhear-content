@@ -1,7 +1,7 @@
 # overhear-content: brief for the production agent
 
 You are making Overhear lessons: original A1 listening stories for the public catalogue, with TV adaptations kept in the
-private tier. A female narrator replays the target-language lines and explains them in the learner's language. English is
+private tier. A female narrator replays the target-language lines and translates them in the learner's language. English is
 always British; other narration languages use an equivalent warm native female voice. Read [AGENTS.md](AGENTS.md) for the
 standing format, voice, routing and verification requirements. You make **everything**: scene breakdowns, scripts, translations,
 word notes, art, and the rendered audio with word timing. You review your own work. A separate machine then fetches
@@ -69,8 +69,8 @@ release (contract §2, "Forbidden anywhere in a render").
 
 1. **Bring the existing RU and FR content up to the gates, Kukhnya S1 first.** Every RU and FR episode already has a seed
    in `out/` (156 episodes: scene breakdowns, scripts, notes, art, casting). It has the right structure but fails the
-   quality gates (see `out/PROGRESS.md`): mostly repeated narrator phrasing and too little word teaching. Rewrite the
-   explanations by hand per `spec/quality.md`, and re-check story, speakers and notes against the sources, until the
+   quality gates (see `out/PROGRESS.md`). Follow the translation-only walkthrough in `spec/quality.md`, and
+   re-check story, speakers and written notes against the sources, until the
    whole-`out/` validator run passes with `--strict-teaching`. Kukhnya S2 e04 onwards was written from Whisper transcripts,
    so re-read those scenes against their cues: where a name or number looks misheard, use a line you are sure of or leave it out.
 2. **Render and package season by season**, in `render/settings.json` `priority` order: Kukhnya S1, Dix pour cent S1,
@@ -138,7 +138,7 @@ Every scene gets a second read by a different model before it is committed, and 
 
 * **Text review (Gemini, given the scene JSON, notes and the source cues for its time range):** Is it faithful to the episode?
   Is each speaker right? Is the formal or informal address right (FR tu/vous, RU ты/вы, and so on)? Is the target language
-  natural? Is it A1? Does each explanation teach one concrete thing, per `spec/quality.md` §2? Are the translations and
+  natural? Is it A1? Does each replayed line have only its quoted translation, per `spec/quality.md` §2? Are the translations and
   notes correct (stress, IPA, gender, aspect)? Ask for specific line-level findings, fix them, and repeat until it has none
   that are real.
 * **Audio review:** read every `report.json` (`stress.unresolved`, `warnings`, `timing.notOk`). Listen to at least the first
@@ -177,7 +177,7 @@ every listed season is; each pilot language is done when every episode it has in
 | path | what |
 |---|---|
 | `spec/OUTPUT-CONTRACT.md` | **the file formats and groupings the app consumes** |
-| `spec/quality.md` | what a good scene is: cast, explanations, story, notes, art, audio |
+| `spec/quality.md` | what a good scene is: cast, translation-only walkthrough, story, notes, art, audio |
 | `spec/recipe.md` | the 5-part scene recipe (intro, story, walk-through, replay, outro) |
 | `spec/script-format.md`, `spec/scenes-format.md`, `spec/annotations.md`, `spec/schema/` | content formats |
 | `spec/voices.md` | the voice pool, and how to make voices for a new language |
