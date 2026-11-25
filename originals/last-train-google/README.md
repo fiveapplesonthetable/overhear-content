@@ -2,11 +2,12 @@
 
 Two original ru-en scenes for the public Originals catalogue. Written for this
 Google TTS trial; no TV adaptation or source recording is used. It follows the
-standard five-part lesson and annotation contracts. The spoken walkthrough uses only quoted English translations, matching `originals/dvorik-u-mosta/s01e01/scene-01.json`; grammar explanations belong in the written notes. Artwork uses rich painted night-train illustrations, visually reviewed for anatomy and encoded as the required WebP. Scene 1 repairs the original hand/arm defect; scene 2, “By the Window,” continues Anna and Boris’s journey with a suitcase occupying a seat. The temporary SVG fallback has been removed.
+standard five-part lesson and annotation contracts. The spoken walkthrough uses only quoted English translations, matching `originals/dvorik-u-mosta/s01e01/scene-01.json`; grammar explanations belong in the written notes. Artwork uses rich painted night-train illustrations, visually reviewed for anatomy and encoded as the required WebP. Revision 4 repaints both scenes with Anna and Boris as ordinary passengers (no uniforms, staff or legible text): scene 1 on the platform at the train, scene 2 seated by the carriage window with the suitcase on the next seat. Scene 1 art is also the episode thumbnail and show cover. The temporary SVG fallback has been removed.
 
 Google model: `gemini-3.8-flash-tts`, via the Google Agent Platform REST endpoint.
-Anna: Kore. Boris: Charon. English narrator: Sulafat, directed as a warm female
-British English audiobook narrator. The exact directions are in `google-voices.json`.
+Anna: Kore. Boris: Charon. English narrator: Aoede (from revision 4, replacing Sulafat,
+which sounded robotic), directed as a warm, relaxed, conversational southern British
+woman, not a newsreader or audiobook voice. The exact directions are in `google-voices.json`.
 The narrator's British accent is requested explicitly; automatic transcription
 checks content, not accent or subjective voice quality.
 
