@@ -1,7 +1,17 @@
 # Voices
 
-Every voice in a public render is cloned from a reference clip in `render/refs/<key>.flac`. The pool lives in
-`render/voices.json`; who speaks with which voice lives in `render/casting/<show>.json`.
+The local cloning pipeline uses reference clips in `render/refs/<key>.flac`. Its pool lives in
+`render/voices.json`; casting lives in `render/casting/<show>.json`. An authorised provider trial can instead use
+that provider's named synthetic voices, with exact model, voice and directions recorded in the show. This changes
+speech generation only: the same lesson, annotations, real word timing, render and publication contracts apply.
+
+## Standing narrator style
+
+The narrator is always female, warm, relaxed, clear and conversational. English is always British English, matching
+the established Southern British narrator's character. For narration in another language choose a comparable native
+female voice. Dialogue characters retain their own casting. Avoid shrill delivery, exaggerated brightness or a robotic
+classroom cadence. Keep voice identity stable between segments and specify the accent explicitly when using a provider.
+Automatic transcription checks wording; it does not certify accent or subjective voice quality.
 
 ## What a reference may be
 
@@ -14,7 +24,8 @@ Every voice in a public render is cloned from a reference clip in `render/refs/<
 ## The pool today
 
 ru: `alisa anja angelina ru-f1 ru-f2 ru-f3` (f), `ru-m1`..`ru-m7` (m). fr: `lucie emilie` (f), `theo marcel` (m). en
-narrator: `sky`. The pilot languages (es, de, it, pt, ja, zh, ko, ar) have **no voices yet**. Make them before their first render.
+narrator reference: `sky` / `en-f1`. This list is historical, not an inventory: inspect current `render/voices.json`,
+language settings and casting before creating or selecting voices. Later languages already have populated profiles.
 
 ## Owner listening feedback (2026-11-02)
 
