@@ -1,8 +1,8 @@
 # The Last Train: Google TTS pilot
 
-One original ru-en lesson for the public Originals catalogue. Written for this
+Two original ru-en scenes for the public Originals catalogue. Written for this
 Google TTS trial; no TV adaptation or source recording is used. It follows the
-standard five-part lesson and annotation contracts. The spoken walkthrough uses only quoted English translations, matching `originals/dvorik-u-mosta/s01e01/scene-01.json`; grammar explanations belong in the written notes. Artwork is the hand-authored `s01e01/scene-01.svg`, rasterised to the required WebP.
+standard five-part lesson and annotation contracts. The spoken walkthrough uses only quoted English translations, matching `originals/dvorik-u-mosta/s01e01/scene-01.json`; grammar explanations belong in the written notes. Artwork uses rich painted night-train illustrations, visually reviewed for anatomy and encoded as the required WebP. Scene 1 repairs the original hand/arm defect; scene 2, “By the Window,” continues Anna and Boris’s journey with a suitcase occupying a seat. The temporary SVG fallback has been removed.
 
 Google model: `gemini-3.8-flash-tts`, via the Google Agent Platform REST endpoint.
 Anna: Kore. Boris: Charon. English narrator: Sulafat, directed as a warm female
@@ -32,7 +32,7 @@ python3 tools/check_render.py "$STORE" --episode last-train-google-s01e01
 python3 tools/package_render.py "$STORE" --episode last-train-google-s01e01
 ```
 
-Commit the script, notes, casting and renderer before `finish`, so provenance records
+Repeat the commands with `scene-02.json` for the second scene. Commit the script, notes, casting and renderer before `finish`, so provenance records
 the correct source commit. `synth` caches each complete request; changes to voice,
 style, model or words produce a new take. Repeat passages reuse identical audio.
 `finish` uses MMS forced alignment and the existing loudness/MP3 pipeline; it refuses
