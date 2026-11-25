@@ -1,7 +1,9 @@
 # overhear-content: brief for the production agent
 
-You are making Overhear lessons: short A1 listening scenes adapted from real TV episodes, told by an English narrator
-who replays the target-language lines and explains them. You make **everything**: scene breakdowns, scripts, translations,
+You are making Overhear lessons: original A1 listening stories for the public catalogue, with TV adaptations kept in the
+private tier. A female narrator replays the target-language lines and explains them in the learner's language. English is
+always British; other narration languages use an equivalent warm native female voice. Read [AGENTS.md](AGENTS.md) for the
+standing format, voice, routing and verification requirements. You make **everything**: scene breakdowns, scripts, translations,
 word notes, art, and the rendered audio with word timing. You review your own work. A separate machine then fetches
 your output, verifies it and copies it to Firebase **unchanged**. Nobody fixes anything after you.
 
