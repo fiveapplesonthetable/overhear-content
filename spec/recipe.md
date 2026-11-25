@@ -28,11 +28,10 @@ into the nearest role.
    time ...") then the situation. Every scene must work alone and back to back with its neighbours. Say we hear it
    in the target language first and not to worry about catching every word.
 2. **Whole story in the target language**: 12-18 short lines, a tiny plot with a small warm turn.
-3. **Narrator walk-through**: go back through it in English, replaying key target lines (verbatim from the story, one
-   sentence at a time, by the right role) then giving their meaning; teach 1-2 grammar points in passing.
-   Narrator text never contains target-language words, in any script or transliterated: the English voice would say them
-   with an English accent. To name a word, split the sentence around it and make the word its own target segment by the
-   role who said it (narrator "His little word" / kostya "Зато." / narrator "means 'but on the plus side'.").
+3. **Narrator walk-through**: replay each target-language line in the character's voice and follow it with only
+   its quoted English translation. No spoken grammar explanations, word definitions or added commentary. Keep that
+   material in the written notes, dictionary, forms and word histories. Use the standard opener, "Now let's go through
+   it line by line with the English translation." English narration remains British and female.
 4. **Whole story again**: the same lines, unchanged, shorter gaps.
 5. **Narrator send-off** (2 sentences; reassure; "see you next time") then **one short target-language line**
    from a character (Пока! / До свидания! / À bientôt! / ¡Hasta luego! / Tschüss! / 안녕히 계세요! ...), always a **new** short farewell,
@@ -52,5 +51,6 @@ into the nearest role.
 - Split sentences with `. ! ? …`; each segment is 1-2 sentences.
 
 ## Quality
-`spec/quality.md` says what a good walk-through explanation is (it teaches one concrete thing about the language, in
-plain words), with the gold scenes to copy and the checks the validator applies. Read it before writing a scene.
+Read `spec/quality.md` and compare directly with `originals/dvorik-u-mosta/s01e01/scene-01.json` before writing.
+The walkthrough is translation-only. Complete written notes and sourced word histories remain required. Matching the
+five section names alone is insufficient: compare the actual spoken content, transitions, pacing and narrator style.

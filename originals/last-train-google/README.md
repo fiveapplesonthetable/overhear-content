@@ -2,7 +2,7 @@
 
 One original ru-en lesson for the public Originals catalogue. Written for this
 Google TTS trial; no TV adaptation or source recording is used. It follows the
-standard five-part lesson and annotation contracts.
+standard five-part lesson and annotation contracts. The spoken walkthrough uses only quoted English translations, matching `originals/dvorik-u-mosta/s01e01/scene-01.json`; grammar explanations belong in the written notes. Artwork is the hand-authored `s01e01/scene-01.svg`, rasterised to the required WebP.
 
 Google model: `gemini-3.8-flash-tts`, via the Google Agent Platform REST endpoint.
 Anna: Kore. Boris: Charon. English narrator: Sulafat, directed as a warm female

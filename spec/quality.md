@@ -32,50 +32,28 @@ Each rule says whether `tools/validate.py` enforces it. The rest you check by re
   the speaker. If you change a story line, its notes must change too.
 * `characters.md` is prose for writers and art (looks, manner). `cast.json` is the machine-read file.
 
-## 2. Walk-through explanations: they teach the language
+## 2. Walk-through: translation only (owner requirement)
 
-After a replayed line, the narrator gives its English gloss in quotes, then the explanation. The explanation is the point
-of the product. It sounds like a warm, plain-spoken teacher explaining the scene to a friend. **It says one concrete thing
-about the target language**, varied from line to line:
+The current published format is the reference. Read these complete scenes before writing:
 
-* the word for X and what it is built from: "The Russian word for 'reigns' is built from the word for tsar, so chaos is
-  literally on the throne."
-* a small word doing a big job: "The tiny word for 'simply' is the shrug in the sentence."
-* where the language differs from English: "Russian happily doubles the no here, 'never' and 'not' together, and that's
-  correct."
-* a reusable chunk: "It's a handy sentence for any job you find tough, so swap in your own work for 'kitchen'."
-* a named word, spoken natively as its own segment by the character: narrator "Kostya's little word", kostya "Зато.",
-  narrator "means 'but on the plus side'."
-* register: "She uses the formal 'you' even while disagreeing, which is how a waitress objects to her boss."
+- `originals/dvorik-u-mosta/s01e01/scene-01.json` (public Original).
+- `out/kukhnya/s01e01/scene-01.json` (format reference only; keep this adaptation private).
 
-A plot or tone note is fine on top of that ("Max sounds proud."), and fine on its own for at most about one line in four.
-Vary openings and lengths. Leave out the speaker's name when it is obvious.
+After each replayed target-language line, the narrator says only its quoted translation. Do not append grammar lessons,
+word definitions, cultural commentary, a plot explanation, prompts, quizzes or other embellishments. Written token notes,
+grammar, examples, forms and sourced etymologies/history remain complete in the app.
 
-| bad (real lines that were rejected) | good (gold) |
-|---|---|
-| 'Our chef cooks the most delicious food.' Notice how naturally this everyday Russian phrase expresses the speaker's point. | 'Our chef cooks the most delicious food.' Max sounds proud. Saying "our chef" rather than "the chef" makes him sound like part of the family already. |
-| 'Lavrov, you are two hours late!' The chef confronts Max with a past tense verb and duration phrase. | 'Lavrov, you are two hours late!' Barinov doesn't say "Max". He uses the surname, the way a stern boss puts you in your place. |
-| 'Now go to work immediately, oguzok!' Barinov barks his signature insult using command form verbs. | 'Now go to work immediately, oguzok!' "Oguzok" is Barinov's nickname for Max. It's actually a cut of meat from the rear of the animal, so the chef is calling him scraps. |
-| 'Chef, I have a very urgent question.' Notice how naturally this everyday Russian phrase expresses the speaker's point. | 'Chef, I have a very urgent question.' In Russian she says "at me is a very urgent question" rather than "I have": the question sits with her. |
-| 'I am not your boyfriend.' Max delivers a blunt reality check about his role. (plot paraphrase, teaches nothing) | 'And we simply pour them wine.' That is Kostya's job in one line. The tiny word for "simply" is the shrug in the sentence. |
+For example, replay `Нет, ваш поезд на втором пути.` in the character's Russian voice, then the British female narrator
+says only `'No, your train is on track two.'` The following segment is the next Russian line, not an explanation.
 
-**Enforced by `tools/validate.py`:**
+Keep the existing sequence: scene introduction; full conversation; line-by-line replay and translation; full unchanged
+conversation again; short reassuring closing and the character's farewell. Use the standard transitions and pacing from
+the reference. Do not treat changing TTS provider as permission to change the editorial format.
 
-| rule | limit |
-|---|---|
-| no grammar-label endings ("... with an imperfective verb.", "... using a superlative adjective.") | error per line |
-| no reused templates: the first 6 words of an explanation, with quotes as Q, names as N and lowercased | more than 15 uses in a show is an error on every such line |
-| no repeated phrases: any run of 4+ words in the explanations | more than 50 uses in a show is an error |
-| grammar jargon (verb, noun, tense, case names, ...) | in more than 30% of a scene's explanations is an error; aim for one in five |
-| word-teaching share: explanations that point at a word, chunk or form | below 60% in a scene with 4+ explanations is a warning; with `--strict-teaching` it is an error. Release runs use `--strict-teaching`. |
-
-The run of the whole of `out/` prints `SHOW <show>: word-teaching: N%` and the most repeated phrases. Run it before every push.
-Template and phrase limits apply show-wide, so they are only judged on a whole-`out/` run.
-
-**This cannot be done by a script.** Write every explanation by reading the scene and its source cues. A generator that
-fills sentence skeletons with gloss words is exactly what the checks catch, and listeners hear it at once ("why does every
-sentence end with the part of speech", "it's so robotic"). Opus writes, Gemini reviews (see README "Review"). Plain words
-like "the word for", "literally", "built from" and "swap in" are not jargon; they are what we want.
+`tools/validate.py --require-notes --strict-teaching` already accepts translation-only walkthroughs cleanly (zero
+explanations). Its historical teaching-density checks apply when explanation text exists; they are not an instruction to
+add explanation text. The previous prose requirement to teach a grammar point in every scene was stale and contradicted
+the current published examples and the owner's explicit preference.
 
 ## 3. Story content (read, not enforced)
 

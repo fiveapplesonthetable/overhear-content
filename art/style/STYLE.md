@@ -3,6 +3,10 @@
 One **square 1024x1024** cartoon per scene, flat and calm, readable at a 56 px thumbnail. Reference images in this
 folder (`*.webp`, with their `*.svg` sources and `contact-sheet.webp`): look at them before drawing anything.
 
+## Required visual review
+
+Prefer hand-authored SVG illustrations in this established flat style. Inspect the rasterised result at full size and thumbnail size before pushing. If using generated character art, check each person's limb count, hands, anatomy and contact with objects. Reject any visible defect; using a more capable image model is not a substitute for this review. Simple objects or a setting without people are suitable when they convey the scene clearly.
+
 ## Style text
 Rounded shapes, no outlines, dot eyes, rosy blush, flat fills. **One dominant colour per image** with a lighter
 "spotlight" circle behind the action and a darker floor. Cream `#FFF6EA` for paper, plates, cups and chef whites;
