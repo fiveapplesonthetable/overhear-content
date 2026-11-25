@@ -2,6 +2,7 @@
 
 Read `spec/OUTPUT-CONTRACT.md`, `spec/ORIGINALS.md`, `spec/script-format.md`, `spec/annotations.md`, `spec/voices.md`, and `word-origins/README.md` before authoring or rendering. Keep their exact file formats and the established five-part lesson template.
 
+- Learner-facing titles and descriptions contain the story name and premise only. Keep TTS providers, model names, trial labels and implementation details in technical metadata and documentation.
 - Match the actual published reference `originals/dvorik-u-mosta/s01e01/scene-01.json`: introduction, whole conversation, each line replayed followed only by its quoted translation, unchanged replay, closing and farewell. No added spoken explanations or embellishments. Keep grammar, forms and histories in the written notes.
 - Use the established simple flat SVG artwork style by default. Inspect the rendered image at full size and thumbnail size before publication. If generated characters are used, reject extra limbs, malformed hands, bad anatomy and broken object contact; a more capable model does not replace visual review.
 - Narrators are always female: warm, relaxed, clear and conversational. English is always British English, in the established Southern British storytelling style. Other narration languages use a comparable native female voice. Character dialogue retains its individual casting.
